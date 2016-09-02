@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 95–113, title XIV, § 1413A][/us/pl/95/113/s1413A], as added [Pub. L. 104–127, title VIII, § 804][/us/pl/104/127/s804], Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1413A, as added [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 804, Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3129, [Pub. L. 95–113, title XIV, § 1413A][/us/pl/95/113/s1413A], as added [Pub. L. 96–294, title II, § 255(a)][/us/pl/96/294/s255/a], June 30, 1980, [94 Stat. 707][/us/stat/94/707], provided for biomass energy educational and technical assistance programs, prior to repeal by [Pub. L. 101–624, title XVI, § 1601(f)(1)(C)][/us/pl/101/624/s1601/f/1/C], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
+    A prior section 3129, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1413A, as added [Pub. L. 96–294, title II][/us/pl/96/294/tII], § 255(a), June 30, 1980, [94 Stat. 707][/us/stat/94/707], provided for biomass energy educational and technical assistance programs, prior to repeal by [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(f)(1)(C), Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
 
 ----------
 
@@ -50,18 +50,18 @@
 
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/pl/95/113/s1413A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1413A
-[/us/pl/104/127/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs804
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1160
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/95/113/s1413A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1413A
-[/us/pl/96/294/s255/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs255%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F707
-[/us/pl/101/624/s1601/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FC
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
 
 

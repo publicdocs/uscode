@@ -41,7 +41,7 @@
 
             Each month, the head of each agency shall publish on the website of the Department any updates to the reports submitted under paragraph (1).
 
-([Pub. L. 103–354, title II, § 280][/us/pl/103/354/s280], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 110–234, title XIV, § 14009][/us/pl/110/234/s14009], May 22, 2008, [122 Stat. 1446][/us/stat/122/1446]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14009, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 280, Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14009, May 22, 2008, [122 Stat. 1446][/us/stat/122/1446]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14009, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208.)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 14009][/us/pl/110/246/s14009], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 14009, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -66,18 +66,18 @@
 ----------
 ----------
 
-[/us/pl/103/354/s280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs280
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
-[/us/pl/110/234/s14009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14009
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1446
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14009
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

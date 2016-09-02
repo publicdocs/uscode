@@ -235,13 +235,13 @@
 
         Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or [section 1308–1 of this title][/us/usc/t7/s1308–1], to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-([Pub. L. 99–198, title X, § 1001][/us/pl/99/198/s1001], Dec. 23, 1985, [99 Stat. 1444][/us/stat/99/1444]; [Pub. L. 99–500, § 108(a)][/us/pl/99/500/s108/a], Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591, § 108(a)][/us/pl/99/591/s108/a], Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346]; [Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 428][/us/stat/101/428]; [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, 1330–18, 1330–19; [Pub. L. 101–217][/us/pl/101/217], §§ 1, 2, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857]; [Pub. L. 101–624, title XI, § 1111(a)][/us/pl/101/624/s1111/a], (c), (e), Nov. 28, 1990, [104 Stat. 3497–3499][/us/stat/104/3497-3499]; [Pub. L. 102–237, title I, § 118(b)][/us/pl/102/237/s118/b], Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 103–66, title I, § 1101(b)(3)(A)][/us/pl/103/66/s1101/b/3/A], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(b)][/us/pl/104/127/s115/b], Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902]; [Pub. L. 107–171, title I, § 1603(a)][/us/pl/107/171/s1603/a], (b), May 13, 2002, [116 Stat. 213][/us/stat/116/213], 214; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], (b), May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I][/us/pl/113/79], §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, [128 Stat. 705][/us/stat/128/705], 706, 708.)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001, Dec. 23, 1985, [99 Stat. 1444][/us/stat/99/1444]; [Pub. L. 99–500][/us/pl/99/500], § 108(a), Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591][/us/pl/99/591], § 108(a), Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346]; [Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 428][/us/stat/101/428]; [Pub. L. 100–203, title I][/us/pl/100/203/tI], §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, 1330–18, 1330–19; [Pub. L. 101–217][/us/pl/101/217], §§ 1, 2, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1111(a), (c), (e), Nov. 28, 1990, [104 Stat. 3497–3499][/us/stat/104/3497-3499]; [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 118(b), Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1101(b)(3)(A), Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 115(b), Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1603(a), (b), May 13, 2002, [116 Stat. 213][/us/stat/116/213], 214; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(a), (b), May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I][/us/pl/113/79/tI], §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, [128 Stat. 705][/us/stat/128/705], 706, 708.)
 
  __References in Text__ 
 
     The Agricultural Act of 2014, referred to in subsecs. (b) to (d) and (f)(5)(A), (6)(A), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§ 9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
 
-    Pars. (1) and (2) of [section 1308–3a(b) of this title][/us/usc/t7/s1308–3a/b], referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by [Pub. L. 113–79, title I, § 1605(a)(2)][/us/pl/113/79/s1605/a/2], Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707].
+    Pars. (1) and (2) of [section 1308–3a(b) of this title][/us/usc/t7/s1308–3a/b], referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1605(a)(2), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707].
 
     The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
@@ -257,43 +257,43 @@
 
  __Prior Provisions__ 
 
-    A prior section 1308, [Pub. L. 97–98, title XI, § 1101][/us/pl/97/98/s1101], Dec. 22, 1981, [95 Stat. 1263][/us/stat/95/1263]; [Pub. L. 98–88, § 6][/us/pl/98/88/s6], Aug. 26, 1983, [97 Stat. 499][/us/stat/97/499], related to programs for 1982 through 1985 crops.
+    A prior section 1308, [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1101, Dec. 22, 1981, [95 Stat. 1263][/us/stat/95/1263]; [Pub. L. 98–88][/us/pl/98/88], § 6, Aug. 26, 1983, [97 Stat. 499][/us/stat/97/499], related to programs for 1982 through 1985 crops.
 
-    Another prior section 1308, [Pub. L. 95–113, title I, § 101][/us/pl/95/113/s101], Sept. 29, 1977, [91 Stat. 917][/us/stat/91/917]; [Pub. L. 96–213, § 5][/us/pl/96/213/s5], Mar. 18, 1980, [94 Stat. 120][/us/stat/94/120], related to programs for 1978 through 1981 crops.
+    Another prior section 1308, [Pub. L. 95–113, title I][/us/pl/95/113/tI], § 101, Sept. 29, 1977, [91 Stat. 917][/us/stat/91/917]; [Pub. L. 96–213][/us/pl/96/213], § 5, Mar. 18, 1980, [94 Stat. 120][/us/stat/94/120], related to programs for 1978 through 1981 crops.
 
  __Amendments__ 
 
-    2014—Subsecs. (b), (c). [Pub. L. 113–79, § 1603(a)][/us/pl/113/79/s1603/a], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
+    2014—Subsecs. (b), (c). [Pub. L. 113–79][/us/pl/113/79], § 1603(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
 
-    Subsec. (d). [Pub. L. 113–79, § 1605(f)][/us/pl/113/79/s1605/f], inserted before period at end “or title I of the Agricultural Act of 2014”.
+    Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 1605(f), inserted before period at end “or title I of the Agricultural Act of 2014”.
 
-    [Pub. L. 113–79, § 1603(b)(1)][/us/pl/113/79/s1603/b/1], substituted “the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014” for “the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008”.
+    [Pub. L. 113–79][/us/pl/113/79], § 1603(b)(1), substituted “the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014” for “the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008”.
 
-    Subsec. (f)(5)(A). [Pub. L. 113–79, § 1603(b)(2)(A)][/us/pl/113/79/s1603/b/2/A], substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
+    Subsec. (f)(5)(A). [Pub. L. 113–79][/us/pl/113/79], § 1603(b)(2)(A), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
 
-    Subsec. (f)(6)(A). [Pub. L. 113–79, § 1603(b)(2)(B)][/us/pl/113/79/s1603/b/2/B], substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
+    Subsec. (f)(6)(A). [Pub. L. 113–79][/us/pl/113/79], § 1603(b)(2)(B), substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 1603(b)(1)(A)][/us/pl/110/246/s1603/b/1/A], inserted “through [section 1308–5 of this title][/us/usc/t7/s1308–5]” after “this section” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 1603(b)(1)(A), inserted “through [section 1308–5 of this title][/us/usc/t7/s1308–5]” after “this section” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–246, § 1603(a)][/us/pl/110/246/s1603/a], substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+    Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
-    Subsec. (a)(2). [Pub. L. 110–246, § 1603(b)(1)(B)][/us/pl/110/246/s1603/b/1/B], (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘loan commodity’ has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey.”
+    Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘loan commodity’ has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey.”
 
-    Subsec. (a)(3) to (5). [Pub. L. 110–246, § 1603(b)(1)(B)][/us/pl/110/246/s1603/b/1/B], (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
+    Subsec. (a)(3) to (5). [Pub. L. 110–246][/us/pl/110/246], § 1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-    Subsecs. (b) to (d). [Pub. L. 110–246, § 1603(b)(2)][/us/pl/110/246/s1603/b/2], added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to limitation on direct payments, limitation on counter-cyclical payments, and limitation on marketing loan gains and loan deficiency payments, respectively.
+    Subsecs. (b) to (d). [Pub. L. 110–246][/us/pl/110/246], § 1603(b)(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to limitation on direct payments, limitation on counter-cyclical payments, and limitation on marketing loan gains and loan deficiency payments, respectively.
 
-    Subsecs. (e) to (h). [Pub. L. 110–246, § 1603(b)(3)][/us/pl/110/246/s1603/b/3], added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
+    Subsecs. (e) to (h). [Pub. L. 110–246][/us/pl/110/246], § 1603(b)(3), added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
 
-    2002—[Pub. L. 107–171, § 1603(a)][/us/pl/107/171/s1603/a], substituted section catchline for former section catchline.
+    2002—[Pub. L. 107–171][/us/pl/107/171], § 1603(a), substituted section catchline for former section catchline.
 
-    Subsec. (a) to (d). [Pub. L. 107–171, § 1603(a)][/us/pl/107/171/s1603/a], added subsecs. (a) to (d) and struck out former pars. (1) to (4) which related to limitation on payments under production flexibility contracts, limitation on marketing loan gains and loan deficiency payments, description of payments subject to limitation, and definitions, respectively.
+    Subsec. (a) to (d). [Pub. L. 107–171][/us/pl/107/171], § 1603(a), added subsecs. (a) to (d) and struck out former pars. (1) to (4) which related to limitation on payments under production flexibility contracts, limitation on marketing loan gains and loan deficiency payments, description of payments subject to limitation, and definitions, respectively.
 
-    Subsec. (e). [Pub. L. 107–171, § 1603(b)(1)][/us/pl/107/171/s1603/b/1], redesignated par. (5) as subsec. (e), inserted heading, further redesignated former subpars., cls., and subcls. as pars., subpars., and cls., respectively, substituted “paragraph (1), subject to subparagraph (B)” for “subparagraph (A), subject to clause (ii)” in subsec. (e)(2)(A) and “as described in subsections (b), (c), and (d) of this section” for “as described in paragraphs (1) and (2)” in subsec. (e)(2)(C)(ii), and struck out second sentence of subsec. (e)(1) which read as follows: “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.”
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 1603(b)(1), redesignated par. (5) as subsec. (e), inserted heading, further redesignated former subpars., cls., and subcls. as pars., subpars., and cls., respectively, substituted “paragraph (1), subject to subparagraph (B)” for “subparagraph (A), subject to clause (ii)” in subsec. (e)(2)(A) and “as described in subsections (b), (c), and (d) of this section” for “as described in paragraphs (1) and (2)” in subsec. (e)(2)(C)(ii), and struck out second sentence of subsec. (e)(1) which read as follows: “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.”
 
-    Subsec. (f). [Pub. L. 107–171, § 1603(b)(2)][/us/pl/107/171/s1603/b/2], redesignated par. (6) as subsec. (f) and inserted heading.
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 1603(b)(2), redesignated par. (6) as subsec. (f) and inserted heading.
 
-    Subsec. (g). [Pub. L. 107–171, § 1603(b)(3)][/us/pl/107/171/s1603/b/3], redesignated par. (7) as subsec. (g) and inserted heading.
+    Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 1603(b)(3), redesignated par. (7) as subsec. (g) and inserted heading.
 
     1996—Pars. (1) to (4). [Pub. L. 104–127][/us/pl/104/127] added pars. (1) to (4) and struck out former pars. (1) to (4) which established limitations on payments under wheat, feed grains, upland cotton, extra long staple cotton, honey, and rice programs for 1987 through 1997 crops.
 
@@ -301,65 +301,65 @@
 
     1991—Par. (2)(B)(iv). [Pub. L. 102–237][/us/pl/102/237] inserted “section” before “107B(c)(1)”.
 
-    1990—Par. (1). [Pub. L. 101–624, § 1111(a)(1)][/us/pl/101/624/s1111/a/1], designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
+    1990—Par. (1). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
 
-    Par. (2)(A). [Pub. L. 101–624, § 1111(a)(2)][/us/pl/101/624/s1111/a/2], substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
+    Par. (2)(A). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
 
-    Par. (2)(B)(iii). [Pub. L. 101–624, § 1111(a)(3)(A)][/us/pl/101/624/s1111/a/3/A], added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
+    Par. (2)(B)(iii). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
 
-    Par. (2)(B)(iv). [Pub. L. 101–624, § 1111(a)(3)(B)][/us/pl/101/624/s1111/a/3/B], substituted “107B(c)(1) or 105B(c)(1)” for “section 107D(c)(1) or 105C(c)(1)”, and “section 107B(a)(3) or 105B(a)(3)” for “section 107D(a)(4) or 105C(a)(3)”.
+    Par. (2)(B)(iv). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(3)(B), substituted “107B(c)(1) or 105B(c)(1)” for “section 107D(c)(1) or 105C(c)(1)”, and “section 107B(a)(3) or 105B(a)(3)” for “section 107D(a)(4) or 105C(a)(3)”.
 
-    Par. (2)(B)(v). [Pub. L. 101–624, § 1111(a)(3)(C)][/us/pl/101/624/s1111/a/3/C], added cl. (v) and struck out former cl. (v) which read as follows: “(v) any loan deficiency payment received for a crop of wheat, feed grains, upland cotton, or rice under section 107D(b), 105C(b), 103A(b), or 101A(b), respectively, of the Agricultural Act of 1949; and”.
+    Par. (2)(B)(v). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(3)(C), added cl. (v) and struck out former cl. (v) which read as follows: “(v) any loan deficiency payment received for a crop of wheat, feed grains, upland cotton, or rice under section 107D(b), 105C(b), 103A(b), or 101A(b), respectively, of the Agricultural Act of 1949; and”.
 
-    Par. (2)(B)(vi). [Pub. L. 101–624, § 1111(a)(3)(D)][/us/pl/101/624/s1111/a/3/D], substituted “section 107B(f), 105B(f), 103B(f), or 101B(f)” for “section 107D(g), 105C(g), 103A(g), or 101A(g)”.
+    Par. (2)(B)(vi). [Pub. L. 101–624][/us/pl/101/624], § 1111(a)(3)(D), substituted “section 107B(f), 105B(f), 103B(f), or 101B(f)” for “section 107D(g), 105C(g), 103A(g), or 101A(g)”.
 
-    Par. (5)(B)(ii)(III). [Pub. L. 101–624, § 1111(e)][/us/pl/101/624/s1111/e], added subcl. (III).
+    Par. (5)(B)(ii)(III). [Pub. L. 101–624][/us/pl/101/624], § 1111(e), added subcl. (III).
 
-    Par. (5)(B)(iii). [Pub. L. 101–624, § 1111(c)][/us/pl/101/624/s1111/c], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
+    Par. (5)(B)(iii). [Pub. L. 101–624][/us/pl/101/624], § 1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
 
-    1989—Par. (5)(D). [Pub. L. 101–217, § 2][/us/pl/101/217/s2], amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
+    1989—Par. (5)(D). [Pub. L. 101–217][/us/pl/101/217], § 2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
 
     “(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant’s operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
     “(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph.”
 
-    [Pub. L. 101–217, § 1][/us/pl/101/217/s1], in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
+    [Pub. L. 101–217][/us/pl/101/217], § 1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
-    1987—Par. (1). [Pub. L. 100–203, § 1301(a)(1)][/us/pl/100/203/s1301/a/1], substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+    1987—Par. (1). [Pub. L. 100–203][/us/pl/100/203], § 1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-    Par. (2)(A). [Pub. L. 100–203, § 1301(a)(2)(A)][/us/pl/100/203/s1301/a/2/A], substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+    Par. (2)(A). [Pub. L. 100–203][/us/pl/100/203], § 1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-    Par. (2)(C). [Pub. L. 100–203, § 1307][/us/pl/100/203/s1307], struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
+    Par. (2)(C). [Pub. L. 100–203][/us/pl/100/203], § 1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
 
-    [Pub. L. 100–203, § 1301(a)(2)(B)][/us/pl/100/203/s1301/a/2/B], which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by [Pub. L. 100–71][/us/pl/100/71] and [section 1307 of Pub. L. 100–203][/us/pl/100/203/s1307].
+    [Pub. L. 100–203][/us/pl/100/203], § 1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by [Pub. L. 100–71][/us/pl/100/71] and [section 1307 of Pub. L. 100–203][/us/pl/100/203/s1307].
 
     [Pub. L. 100–71][/us/pl/100/71] designated existing provision as cl. (i) and added cl. (ii).
 
-    Par. (5)(A). [Pub. L. 100–203, § 1303(a)(1)][/us/pl/100/203/s1303/a/1], (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
+    Par. (5)(A). [Pub. L. 100–203][/us/pl/100/203], § 1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
 
-    Par. (5)(B). [Pub. L. 100–203, § 1303(a)(2)][/us/pl/100/203/s1303/a/2], (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Par. (5)(B). [Pub. L. 100–203][/us/pl/100/203], § 1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Par. (5)(C). [Pub. L. 100–203, § 1303(a)(3)][/us/pl/100/203/s1303/a/3], redesignated subpar. (B) as (C).
+    Par. (5)(C). [Pub. L. 100–203][/us/pl/100/203], § 1303(a)(3), redesignated subpar. (B) as (C).
 
-    Par. (5)(D), (E). [Pub. L. 100–203, § 1303(a)(4)][/us/pl/100/203/s1303/a/4], added subpars. (D) and (E).
+    Par. (5)(D), (E). [Pub. L. 100–203][/us/pl/100/203], § 1303(a)(4), added subpars. (D) and (E).
 
-    Par. (6). [Pub. L. 100–203, § 1303(b)][/us/pl/100/203/s1303/b], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The provisions of this section that limit payments to any person shall not be applicable to lands or animals owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed or animals are husbanded primarily in the direct furtherance of a public function, as determined by the Secretary.”
+    Par. (6). [Pub. L. 100–203][/us/pl/100/203], § 1303(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The provisions of this section that limit payments to any person shall not be applicable to lands or animals owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed or animals are husbanded primarily in the direct furtherance of a public function, as determined by the Secretary.”
 
-    Par. (7). [Pub. L. 100–203, § 1305(c)][/us/pl/100/203/s1305/c], added par. (7).
+    Par. (7). [Pub. L. 100–203][/us/pl/100/203], § 1305(c), added par. (7).
 
-    1986—Par. (1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(1)][/us/pl/99/591/s108/a/1], in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
+    1986—Par. (1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
 
-    Par. (2). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(1)][/us/pl/99/591/s108/a/1], in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
+    Par. (2). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
 
-    Par. (3). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(1)][/us/pl/99/591/s108/a/1], temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
+    Par. (3). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
 
-    Par. (5)(A). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(2)][/us/pl/99/591/s108/a/2], temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
+    Par. (5)(A). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
-    Par. (6). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(3)][/us/pl/99/591/s108/a/3], temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+    Par. (6). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–79, title I, § 1603(c)][/us/pl/113/79/s1603/c], Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706], provided that: 
+[Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1603(c), Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1308–3 of this title][/us/usc/t7/s1308–3]\] shall apply beginning with the 2014 crop year.”
 
@@ -373,25 +373,25 @@
 
  __Effective and Termination Dates of 1989 Amendment__ 
 
-    [Pub. L. 101–217, § 1][/us/pl/101/217/s1], Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857], provided that the amendment made by that section is effective only for the 1989 crops.
+    [Pub. L. 101–217][/us/pl/101/217], § 1, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857], provided that the amendment made by that section is effective only for the 1989 crops.
 
-    [Pub. L. 101–217, § 2][/us/pl/101/217/s2], Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857], as amended by [Pub. L. 101–624, title XI, § 1111(i)][/us/pl/101/624/s1111/i], Nov. 28, 1990, [104 Stat. 3500][/us/stat/104/3500], provided that the amendment made by that section is effective beginning with the 1990 crops.
+    [Pub. L. 101–217][/us/pl/101/217], § 2, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857], as amended by [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1111(i), Nov. 28, 1990, [104 Stat. 3500][/us/stat/104/3500], provided that the amendment made by that section is effective beginning with the 1990 crops.
 
  __Effective Date of 1987 Amendment__ 
 
-    [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1301(a), 1303, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, provided that the amendments made by sections 1301(a)(1), (2) and 1303 of [Pub. L. 100–203][/us/pl/100/203] are effective beginning with 1989 crops.
+    [Pub. L. 100–203, title I][/us/pl/100/203/tI], §§ 1301(a), 1303, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, provided that the amendments made by sections 1301(a)(1), (2) and 1303 of [Pub. L. 100–203][/us/pl/100/203] are effective beginning with 1989 crops.
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–500, § 108(a)][/us/pl/99/500/s108/a], Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591, § 108(a)][/us/pl/99/591/s108/a], Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346], provided that the amendment made by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591] is effective with respect to each of the 1987 through 1990 crops.
+    [Pub. L. 99–500][/us/pl/99/500], § 108(a), Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591][/us/pl/99/591], § 108(a), Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346], provided that the amendment made by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591] is effective with respect to each of the 1987 through 1990 crops.
 
-[Pub. L. 99–500, § 108(b)][/us/pl/99/500/s108/b], Oct. 18, 1986, [100 Stat. 1783–347][/us/stat/100/1783-347], and [Pub. L. 99–591, § 108(b)][/us/pl/99/591/s108/b], Oct. 30, 1986, [100 Stat. 3341–347][/us/stat/100/3341-347], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 108(b), Oct. 18, 1986, [100 Stat. 1783–347][/us/stat/100/1783-347], and [Pub. L. 99–591][/us/pl/99/591], § 108(b), Oct. 30, 1986, [100 Stat. 3341–347][/us/stat/100/3341-347], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\].”
 
  __Transition Provisions__ 
 
-[Pub. L. 110–234, title I, § 1603(h)][/us/pl/110/234/s1603/h], May 22, 2008, [122 Stat. 1012][/us/stat/122/1012], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(h), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740, provided that: 
+[Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(h), May 22, 2008, [122 Stat. 1012][/us/stat/122/1012], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(h), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740, provided that: 
 
 > “Section 1001, 1001A, and 1001B of the Food Security Act of 1985 ([7 U.S.C. 1308][/us/usc/t7/s1308], 1308–1, 1308–2), as in effect on September 30, 2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts.”
 
@@ -399,19 +399,19 @@
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].\]
 
-[Pub. L. 107–171, title I, § 1603(d)][/us/pl/107/171/s1603/d], May 13, 2002, [116 Stat. 215][/us/stat/116/215], provided that: 
+[Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1603(d), May 13, 2002, [116 Stat. 215][/us/stat/116/215], provided that: 
 
 > “Section 1001 of the Food Security Act of 1985 ([7 U.S.C. 1308][/us/usc/t7/s1308]), as in effect on the day before the date of the enactment of this Act \[May 13, 2002\], shall continue to apply with respect to the 2001 crop of any covered commodity.”
 
  __Equitable Relief__ 
 
-[Pub. L. 101–217, § 3][/us/pl/101/217/s3], Dec. 11, 1989, [103 Stat. 1858][/us/stat/103/1858], provided that: 
+[Pub. L. 101–217][/us/pl/101/217], § 3, Dec. 11, 1989, [103 Stat. 1858][/us/stat/103/1858], provided that: 
 
 > “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section\] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
 
  __Payment Provisions Education Program__ 
 
-[Pub. L. 100–203, title I, § 1304(a)][/us/pl/100/203/s1304/a], Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17], provided that:
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1304(a), Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -431,7 +431,7 @@
 
  __Regulations To Carry Out 1987 Amendments; Transition Rules; Equitable Adjustments__ 
 
-[Pub. L. 100–203, title I, § 1305(a)][/us/pl/100/203/s1305/a], (b), Dec. 22, 1987, [101 Stat. 1330–18][/us/stat/101/1330-18], provided that:
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1305(a), (b), Dec. 22, 1987, [101 Stat. 1330–18][/us/stat/101/1330-18], provided that:
 
 >     “(a) __Regulations.—__ 
 
@@ -453,13 +453,13 @@
 
  __Conservation Reserve Application__ 
 
-[Pub. L. 100–203, title I, § 1305(d)][/us/pl/100/203/s1305/d], Dec. 22, 1987, [101 Stat. 1330–18][/us/stat/101/1330-18], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1305(d), Dec. 22, 1987, [101 Stat. 1330–18][/us/stat/101/1330-18], provided that: 
 
 > “Notwithstanding \[former\] section 1234(f)(2) of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3834(f)][/us/usc/t16/s3834/f]), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act ([16 U.S.C. 3830][/us/usc/t16/s3830] et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
 
  __Revision of Regulations__ 
 
-[Pub. L. 99–500, § 108(c)][/us/pl/99/500/s108/c], Oct. 18, 1986, [100 Stat. 1783–347][/us/stat/100/1783-347], and [Pub. L. 99–591, § 108(c)][/us/pl/99/591/s108/c], Oct. 30, 1986, [100 Stat. 3341–347][/us/stat/100/3341-347], provided that:
+[Pub. L. 99–500][/us/pl/99/500], § 108(c), Oct. 18, 1986, [100 Stat. 1783–347][/us/stat/100/1783-347], and [Pub. L. 99–591][/us/pl/99/591], § 108(c), Oct. 30, 1986, [100 Stat. 3341–347][/us/stat/100/3341-347], provided that:
 
 >     “(1)
 
@@ -477,7 +477,7 @@
 
  __Separate Person Status Among Family Members__ 
 
-[Pub. L. 99–198][/us/pl/99/198] (last sentence), as added by [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 636\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–34, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 636\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–34, provided that: 
+[Pub. L. 99–198][/us/pl/99/198] (last sentence), as added by [Pub. L. 99–500][/us/pl/99/500], § 101(a) \[title VI, § 636\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–34, and [Pub. L. 99–591][/us/pl/99/591], § 101(a) \[title VI, § 636\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–34, provided that: 
 
 > “Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985.”
 
@@ -507,39 +507,39 @@
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
-[/us/pl/99/198/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1444
-[/us/pl/99/500/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs108%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-346
-[/us/pl/99/591/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-346
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F428
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-12
 [/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
 [/us/stat/103/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1857
-[/us/pl/101/624/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3497-3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3497-3499
-[/us/pl/102/237/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs118%2Fb
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1841
-[/us/pl/103/66/s1101/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1101%2Fb%2F3%2FA
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F314
-[/us/pl/104/127/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs115%2Fb
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F902
-[/us/pl/107/171/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fa
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F213
-[/us/pl/110/234/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fa
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1002
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F705
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t7/s1308–3a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb
-[/us/pl/113/79/s1605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa%2F2
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
@@ -552,68 +552,68 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/97/98/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1101
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1263
-[/us/pl/98/88/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs6
+[/us/pl/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88
 [/us/stat/97/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F499
-[/us/pl/95/113/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs101
+[/us/pl/95/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtI
 [/us/stat/91/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F917
-[/us/pl/96/213/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F213%2Fs5
+[/us/pl/96/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F213
 [/us/stat/94/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F120
-[/us/pl/113/79/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fa
-[/us/pl/113/79/s1605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Ff
-[/us/pl/113/79/s1603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F1
-[/us/pl/113/79/s1603/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F2%2FA
-[/us/pl/113/79/s1603/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F2%2FB
-[/us/pl/110/246/s1603/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F1%2FA
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
-[/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
-[/us/pl/110/246/s1603/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F1%2FB
-[/us/pl/110/246/s1603/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F1%2FB
-[/us/pl/110/246/s1603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F2
-[/us/pl/110/246/s1603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F3
-[/us/pl/107/171/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fa
-[/us/pl/107/171/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fa
-[/us/pl/107/171/s1603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fb%2F1
-[/us/pl/107/171/s1603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fb%2F2
-[/us/pl/107/171/s1603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fb%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F1
-[/us/pl/101/624/s1111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F2
-[/us/pl/101/624/s1111/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F3%2FA
-[/us/pl/101/624/s1111/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F3%2FB
-[/us/pl/101/624/s1111/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F3%2FC
-[/us/pl/101/624/s1111/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fa%2F3%2FD
-[/us/pl/101/624/s1111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fe
-[/us/pl/101/624/s1111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fc
-[/us/pl/101/217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217%2Fs2
-[/us/pl/101/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217%2Fs1
-[/us/pl/100/203/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1301%2Fa%2F1
-[/us/pl/100/203/s1301/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1301%2Fa%2F2%2FA
-[/us/pl/100/203/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1307
-[/us/pl/100/203/s1301/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1301%2Fa%2F2%2FB
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
+[/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/pl/100/203/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1307
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
-[/us/pl/100/203/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1303%2Fa%2F1
-[/us/pl/100/203/s1303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1303%2Fa%2F2
-[/us/pl/100/203/s1303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1303%2Fa%2F3
-[/us/pl/100/203/s1303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1303%2Fa%2F4
-[/us/pl/100/203/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1303%2Fb
-[/us/pl/100/203/s1305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1305%2Fc
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F1
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F1
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F1
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F2
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F3
-[/us/pl/113/79/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F706
 [/us/usc/t7/s1308–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -624,28 +624,28 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217%2Fs1
+[/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
 [/us/stat/103/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1857
-[/us/pl/101/217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217%2Fs2
+[/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
 [/us/stat/103/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1857
-[/us/pl/101/624/s1111/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fi
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3500
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-12
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/500/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs108%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-346
-[/us/pl/99/591/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-346
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
-[/us/pl/99/500/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs108%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-347
-[/us/pl/99/591/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-347
-[/us/pl/110/234/s1603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fh
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1012
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/110/246/s1603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fh
@@ -655,34 +655,34 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s1603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fd
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/101/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217%2Fs3
+[/us/pl/101/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F217
 [/us/stat/103/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1858
-[/us/pl/100/203/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1304%2Fa
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-17
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
-[/us/pl/100/203/s1305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1305%2Fa
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-18
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5%2FE
-[/us/pl/100/203/s1305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1305%2Fd
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-18
 [/us/usc/t16/s3834/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Ff
 [/us/usc/t16/s3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3830
-[/us/pl/99/500/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs108%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-347
-[/us/pl/99/591/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-347
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
-[/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
 
 

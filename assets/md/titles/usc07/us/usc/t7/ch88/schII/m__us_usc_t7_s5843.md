@@ -103,7 +103,7 @@
 
         Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
 
-([Pub. L. 101–624, title XVI, § 1634][/us/pl/101/624/s1634], Nov. 28, 1990, [104 Stat. 3745][/us/stat/104/3745]; [Pub. L. 102–237, title IV, § 407(5)][/us/pl/102/237/s407/5], Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1634, Nov. 28, 1990, [104 Stat. 3745][/us/stat/104/3745]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 407(5), Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864].)
 
  __References in Text__ 
 
@@ -121,9 +121,9 @@
 ----------
 
 [/us/usc/t7/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5842
-[/us/pl/101/624/s1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1634
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3745
-[/us/pl/102/237/s407/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F5
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1864
 [/us/pl/92/463/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

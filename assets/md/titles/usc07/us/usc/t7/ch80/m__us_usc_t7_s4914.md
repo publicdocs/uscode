@@ -37,7 +37,7 @@
 
             When conducting the referendum relating to subjecting importers to the terms and conditions of a plan, the Secretary shall include as eligible voters in the referendum producers, handlers, and importers who would be subject to the plan if the amendments to a plan were approved.
 
-([Pub. L. 99–198, title XVI, § 1655][/us/pl/99/198/s1655], Dec. 23, 1985, [99 Stat. 1630][/us/stat/99/1630]; [Pub. L. 103–189, § 10][/us/pl/103/189/s10], Dec. 14, 1993, [107 Stat. 2264][/us/stat/107/2264].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1655, Dec. 23, 1985, [99 Stat. 1630][/us/stat/99/1630]; [Pub. L. 103–189][/us/pl/103/189], § 10, Dec. 14, 1993, [107 Stat. 2264][/us/stat/107/2264].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t7/s4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4912
 [/us/usc/t7/s4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4912
-[/us/pl/99/198/s1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1655
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1630
-[/us/pl/103/189/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs10
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2264
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2259

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2266.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2268.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2267)
 
-## § 2267. Repealed. [Pub. L. 100–387, title I, § 101(b)(1)][/us/pl/100/387/s101/b/1], Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931]
+## § 2267. Repealed. [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(b)(1), Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931]
 
-    Section, [Pub. L. 95–113, title XI, § 1105][/us/pl/95/113/s1105], Sept. 29, 1977, [91 Stat. 955][/us/stat/91/955]; [Pub. L. 97–98, title XI, § 1111(b)][/us/pl/97/98/s1111/b], Dec. 22, 1981, [95 Stat. 1267][/us/stat/95/1267]; [Pub. L. 99–198, title XVII, § 1763(a)][/us/pl/99/198/s1763/a], Dec. 23, 1985, [99 Stat. 1651][/us/stat/99/1651], related to an emergency feed program. See section 1471 et seq. of this title.
+    Section, [Pub. L. 95–113, title XI][/us/pl/95/113/tXI], § 1105, Sept. 29, 1977, [91 Stat. 955][/us/stat/91/955]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1111(b), Dec. 22, 1981, [95 Stat. 1267][/us/stat/95/1267]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1763(a), Dec. 23, 1985, [99 Stat. 1651][/us/stat/99/1651], related to an emergency feed program. See section 1471 et seq. of this title.
 
  __Effective Date of Repeal__ 
 
@@ -28,13 +28,13 @@
 ----------
 ----------
 
-[/us/pl/100/387/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fb%2F1
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F931
-[/us/pl/95/113/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1105
+[/us/pl/95/113/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXI
 [/us/stat/91/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F955
-[/us/pl/97/98/s1111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1111%2Fb
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1267
-[/us/pl/99/198/s1763/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1763%2Fa
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1651
 [/us/pl/100/387/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc%2F1
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427

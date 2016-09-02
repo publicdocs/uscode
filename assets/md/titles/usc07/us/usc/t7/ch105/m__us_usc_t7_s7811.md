@@ -31,7 +31,7 @@
 
         Nothing in this chapter may be construed to preempt or supersede any other program relating to Hass avocado promotion, research, industry information, and consumer information organized and operated under the laws of the United States or of a State.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1212\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–96.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title XII, § 1212\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–96.)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

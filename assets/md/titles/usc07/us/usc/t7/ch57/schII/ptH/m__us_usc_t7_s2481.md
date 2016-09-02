@@ -21,11 +21,11 @@
 
     (c) If any payment required by this section is not timely made, but is submitted with an additional fee prescribed by the Secretary within nine months after the due date or within such further time as the Secretary may allow, it shall be accepted.
 
-([Pub. L. 91–577, title II, § 81][/us/pl/91/577/s81], Dec. 24, 1970, [84 Stat. 1551][/us/stat/84/1551].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 81, Dec. 24, 1970, [84 Stat. 1551][/us/stat/84/1551].)
 
  __References in Text__ 
 
-    [Section 2422(3) of this title][/us/usc/t7/s2422/3], referred to in subsec. (b), was redesignated [section 2422(4) of this title][/us/usc/t7/s2422/4] by [Pub. L. 103–349, § 4][/us/pl/103/349/s4], Oct. 6, 1994, [108 Stat. 3139][/us/stat/108/3139].
+    [Section 2422(3) of this title][/us/usc/t7/s2422/3], referred to in subsec. (b), was redesignated [section 2422(4) of this title][/us/usc/t7/s2422/4] by [Pub. L. 103–349][/us/pl/103/349], § 4, Oct. 6, 1994, [108 Stat. 3139][/us/stat/108/3139].
 
 ----------
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/91/577/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs81
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1551
 [/us/usc/t7/s2422/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2422%2F3
 [/us/usc/t7/s2422/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2422%2F4
-[/us/pl/103/349/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs4
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3139
 
 

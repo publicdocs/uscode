@@ -19,7 +19,7 @@
 
     (b) None of the provisions or other requirements of this chapter shall apply to the acquisition or use of farmland for national defense purposes during a national emergency.
 
-([Pub. L. 97–98, title XV, § 1547][/us/pl/97/98/s1547], Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344]; [Pub. L. 101–624, title XXV, § 2502][/us/pl/101/624/s2502], Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1547, Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344]; [Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2502, Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1547
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344
-[/us/pl/101/624/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2502
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4066
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

@@ -19,7 +19,7 @@
 
     (b) Appropriations for the Department of Agriculture which are available for the purchase of land may be expended for options to purchase land: Provided, That not to exceed $1 may be expended for each option to purchase any particular tract or tracts of land unless otherwise provided in appropriation or other law.
 
-([Aug. 3, 1956, ch. 950, § 11][/us/act/1956-08-03/ch950/s11], [70 Stat. 1034][/us/stat/70/1034].)
+([Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 11, [70 Stat. 1034][/us/stat/70/1034].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-03/ch950/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs11
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1034
 
 

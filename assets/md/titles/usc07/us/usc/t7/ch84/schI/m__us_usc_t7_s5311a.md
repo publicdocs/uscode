@@ -29,7 +29,7 @@
 
     (6) to research and develop data collection methods and standards.
 
-([Pub. L. 110–234, title IV, § 4403][/us/pl/110/234/s4403], May 22, 2008, [122 Stat. 1137][/us/stat/122/1137]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4403, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1898.)
+([Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4403, May 22, 2008, [122 Stat. 1137][/us/stat/122/1137]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4403, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1898.)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4403
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1137
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

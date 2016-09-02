@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s418.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s420.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs419)
 
-## § 419. Repealed. [Oct. 31, 1951, ch. 654, § 1(12)][/us/act/1951-10-31/ch654/s1/12], [65 Stat. 701][/us/stat/65/701]
+## § 419. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(12), [65 Stat. 701][/us/stat/65/701]
 
 Section, [act May 5, 1945, ch. 109][/us/act/1945-05-05/ch109], [59 Stat. 143][/us/stat/59/143], related to sale by Secretary of Agriculture of products of agricultural experiment station in Puerto Rico, and disposition of moneys derived therefrom. Similar provisions had been carried in prior Department of Agriculture appropriation acts back to and including that for the fiscal year ending June 30, 1919 ([40 Stat. 1000][/us/stat/40/1000]). Similar provisions were contained in the following prior appropriation acts:
 
@@ -66,7 +66,7 @@ Section, [act May 5, 1945, ch. 109][/us/act/1945-05-05/ch109], [59 Stat. 143][/u
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F12
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F701
 [/us/act/1945-05-05/ch109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-05%2Fch109
 [/us/stat/59/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F143

@@ -25,7 +25,7 @@
 
     (4) The Secretary shall issue regulations defining the term “person” and prescribing such rules as he determines necessary to assure a fair and reasonable application of such limitation: Provided, That the provisions of this Act which limit payments to any person shall not be applicable to lands owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed primarily in the direct furtherance of a public function, as determined by the Secretary. The rules for determining whether corporations and their stockholders may be considered as separate persons shall be in accordance with the regulations issued by the Secretary on December 18, 1970.
 
-([Pub. L. 91–524, title I, § 101][/us/pl/91/524/s101], Nov. 30, 1970, [84 Stat. 1358][/us/stat/84/1358]; [Pub. L. 93–86, § 1(1)][/us/pl/93/86/s1/1], Aug. 10, 1973, [87 Stat. 221][/us/stat/87/221]; [Pub. L. 95–113, title I, § 104][/us/pl/95/113/s104], Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919].)
+([Pub. L. 91–524, title I][/us/pl/91/524/tI], § 101, Nov. 30, 1970, [84 Stat. 1358][/us/stat/84/1358]; [Pub. L. 93–86][/us/pl/93/86], § 1(1), Aug. 10, 1973, [87 Stat. 221][/us/stat/87/221]; [Pub. L. 95–113, title I][/us/pl/95/113/tI], § 104, Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–113, title XIX, § 1901][/us/pl/95/113/s1901], Sept. 29, 1977, [91 Stat. 1045][/us/stat/91/1045], provided that: 
+[Pub. L. 95–113, title XIX][/us/pl/95/113/tXIX], § 1901, Sept. 29, 1977, [91 Stat. 1045][/us/stat/91/1045], provided that: 
 
 > “Except as otherwise provided herein, the provisions of this Act \[see Short Title of 1977 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281]\] shall become effective October 1, 1977.”
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/91/524/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs101
+[/us/pl/91/524/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtI
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358
-[/us/pl/93/86/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F1
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F221
-[/us/pl/95/113/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs104
+[/us/pl/95/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtI
 [/us/stat/91/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F919
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358
@@ -89,7 +89,7 @@
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
+[/us/pl/95/113/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIX
 [/us/stat/91/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1045
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/95/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F156

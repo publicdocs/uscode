@@ -47,7 +47,7 @@
 
             (B) after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents the Congressional district in which the office proposed to be closed is located of the proposed closure of such office.
 
-([Pub. L. 110–234, title XIV, § 14212][/us/pl/110/234/s14212], May 22, 2008, [122 Stat. 1465][/us/stat/122/1465]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14212, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2227.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14212, May 22, 2008, [122 Stat. 1465][/us/stat/122/1465]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14212, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2227.)
 
  __References in Text__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14212
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1465
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

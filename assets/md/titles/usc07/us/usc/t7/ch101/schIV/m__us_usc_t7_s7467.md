@@ -59,7 +59,7 @@
 
             The pendency of a proceeding instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to [section 7468 of this title][/us/usc/t7/s7468].
 
-([Pub. L. 104–127, title V, § 558][/us/pl/104/127/s558], Apr. 4, 1996, [110 Stat. 1070][/us/stat/110/1070].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 558, Apr. 4, 1996, [110 Stat. 1070][/us/stat/110/1070].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t7/s7468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7468
-[/us/pl/104/127/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs558
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1070
 
 

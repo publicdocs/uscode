@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 102, as added Aug. 28, 1958, [Pub. L. 85–835, title I, § 101][/us/pl/85/835/s101], [72 Stat. 988][/us/stat/72/988], related to acreage allotment and price support levels for the 1959 and 1960 crops of upland cotton.
+    Section, [act Oct. 31, 1949, ch. 792, title I][/us/act/1949-10-31/ch792/tI], § 102, as added Aug. 28, 1958, [Pub. L. 85–835, title I][/us/pl/85/835/tI], § 101, [72 Stat. 988][/us/stat/72/988], related to acreage allotment and price support levels for the 1959 and 1960 crops of upland cotton.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/85/835/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs101
+[/us/act/1949-10-31/ch792/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792%2FtI
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F988
 
 

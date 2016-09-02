@@ -175,57 +175,57 @@
 
         (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7, [39 Stat. 484][/us/stat/39/484]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 763][/us/stat/82/763]; [Pub. L. 94–582, § 8][/us/pl/94/582/s8], formerly § 8(a), Oct. 21, 1976, [90 Stat. 2870][/us/stat/90/2870], renumbered [Pub. L. 106–472, title I, § 110(a)(1)][/us/pl/106/472/s110/a/1], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(a), 1604(d), 1606(d), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1027, 1030; [Pub. L. 97–35, title I, § 155(1)][/us/pl/97/35/s155/1], Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371]; [Pub. L. 97–98, title IX, § 1113(a)][/us/pl/97/98/s1113/a], Dec. 22, 1981, [95 Stat. 1268][/us/stat/95/1268]; [Pub. L. 98–469, § 2(1)][/us/pl/98/469/s2/1], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831]; [Pub. L. 100–518, § 2(1)][/us/pl/100/518/s2/1], Oct. 24, 1988, [102 Stat. 2584][/us/stat/102/2584]; [Pub. L. 103–156][/us/pl/103/156], §§ 4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525], 1526, 1528, 1529; [Pub. L. 103–354, title II, § 293(a)(4)][/us/pl/103/354/s293/a/4], (7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472], §§ 102(a), 103(a), Nov. 9, 2000, [114 Stat. 2059][/us/stat/114/2059], 2060; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(b)(1)][/us/pl/114/54/s301/b/1]–(3)(A), (4), (5), Sept. 30, 2015, [129 Stat. 517][/us/stat/129/517], 518.)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7, [39 Stat. 484][/us/stat/39/484]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 763][/us/stat/82/763]; [Pub. L. 94–582][/us/pl/94/582], § 8, formerly § 8(a), Oct. 21, 1976, [90 Stat. 2870][/us/stat/90/2870], renumbered [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 110(a)(1), Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1602(a), 1604(d), 1606(d), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1027, 1030; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155(1), Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371]; [Pub. L. 97–98, title IX][/us/pl/97/98/tIX], § 1113(a), Dec. 22, 1981, [95 Stat. 1268][/us/stat/95/1268]; [Pub. L. 98–469][/us/pl/98/469], § 2(1), Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831]; [Pub. L. 100–518][/us/pl/100/518], § 2(1), Oct. 24, 1988, [102 Stat. 2584][/us/stat/102/2584]; [Pub. L. 103–156][/us/pl/103/156], §§ 4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525], 1526, 1528, 1529; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(4), (7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], §§ 102(a), 103(a), Nov. 9, 2000, [114 Stat. 2059][/us/stat/114/2059], 2060; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–83][/us/pl/109/83], § 1(a), Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III][/us/pl/114/54/tIII], § 301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, [129 Stat. 517][/us/stat/129/517], 518.)
 
  __Codification__ 
 
     Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.
 
-    In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–54, § 301(b)(1)][/us/pl/114/54/s301/b/1], inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
+    2015—Subsec. (e)(2). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
 
-    Subsec. (f)(1)(C). [Pub. L. 114–54, § 301(b)(2)][/us/pl/114/54/s301/b/2], added subpar. (C).
+    Subsec. (f)(1)(C). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(2), added subpar. (C).
 
-    Subsec. (f)(2). [Pub. L. 114–54, § 301(b)(3)(A)][/us/pl/114/54/s301/b/3/A], in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—” for “the Secretary may—”, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which related to more than one designated official agency carrying out inspections in the same geographic area and a designated official agency crossing boundary lines to carry out inspections in another geographic area.
+    Subsec. (f)(2). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(3)(A), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—” for “the Secretary may—”, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which related to more than one designated official agency carrying out inspections in the same geographic area and a designated official agency crossing boundary lines to carry out inspections in another geographic area.
 
-    Subsec. (g)(1). [Pub. L. 114–54, § 301(b)(4)][/us/pl/114/54/s301/b/4], substituted “every 5 years” for “triennially”.
+    Subsec. (g)(1). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(4), substituted “every 5 years” for “triennially”.
 
-    Subsec. (j). [Pub. L. 114–54, § 301(b)(5)(A)][/us/pl/114/54/s301/b/5/A], inserted heading.
+    Subsec. (j). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(5)(A), inserted heading.
 
-    Subsec. (j)(1). [Pub. L. 114–54, § 301(b)(5)(A)][/us/pl/114/54/s301/b/5/A], (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”; and added subpar. (D).
+    Subsec. (j)(1). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(5)(A), (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”; and added subpar. (D).
 
-    Subsec. (j)(4). [Pub. L. 114–54, § 301(b)(5)(D)][/us/pl/114/54/s301/b/5/D], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (j)(4). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(5)(D), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (j)(5). [Pub. L. 114–54, § 301(b)(5)(C)][/us/pl/114/54/s301/b/5/C], (E), redesignated par. (4) as (5) and substituted “2020” for “2015”.
+    Subsec. (j)(5). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(5)(C), (E), redesignated par. (4) as (5) and substituted “2020” for “2015”.
 
     2005—Subsec. (j)(4). [Pub. L. 109–83][/us/pl/109/83] substituted “2015” for “2005”.
 
     2004—Subsec. (e)(3). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    2000—Subsec. (f)(2). [Pub. L. 106–472, § 102(a)][/us/pl/106/472/s102/a], added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74], except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in [section 74 of this title][/us/usc/t7/s74].”
+    2000—Subsec. (f)(2). [Pub. L. 106–472][/us/pl/106/472], § 102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74], except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in [section 74 of this title][/us/usc/t7/s74].”
 
-    Subsec. (j)(4). [Pub. L. 106–472, § 103(a)][/us/pl/106/472/s103/a], substituted “2005” for “2000” in first sentence.
+    Subsec. (j)(4). [Pub. L. 106–472][/us/pl/106/472], § 103(a), substituted “2005” for “2000” in first sentence.
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “supervision by the Secretary of the Secretary’s field office personnel” for “supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-    1993—[Pub. L. 103–156, § 12(d)][/us/pl/103/156/s12/d], which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 103–156, § 12(d)(1)][/us/pl/103/156/s12/d/1], substituted “regulations as the Administrator” for “regulations as he”.
+    Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
 
-    Subsec. (b). [Pub. L. 103–156, § 12(d)(2)][/us/pl/103/156/s12/d/2], substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
+    Subsec. (b). [Pub. L. 103–156][/us/pl/103/156], § 12(d)(2), substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
 
-    Subsec. (e)(2). [Pub. L. 103–156, § 12(d)(3)][/us/pl/103/156/s12/d/3], substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
+    Subsec. (e)(2). [Pub. L. 103–156][/us/pl/103/156], § 12(d)(3), substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
 
-    Subsec. (f)(1)(A)(vi). [Pub. L. 103–156, § 4(a)(1)][/us/pl/103/156/s4/a/1], substituted “of the State” for “or other agricultural programs operated by the State”.
+    Subsec. (f)(1)(A)(vi). [Pub. L. 103–156][/us/pl/103/156], § 4(a)(1), substituted “of the State” for “or other agricultural programs operated by the State”.
 
-    Subsec. (f)(2). [Pub. L. 103–156, § 5(a)][/us/pl/103/156/s5/a], inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in [section 74 of this title][/us/usc/t7/s74]”.
+    Subsec. (f)(2). [Pub. L. 103–156][/us/pl/103/156], § 5(a), inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in [section 74 of this title][/us/usc/t7/s74]”.
 
-    Subsec. (i). [Pub. L. 103–156, § 4(a)(2)][/us/pl/103/156/s4/a/2], inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
+    Subsec. (i). [Pub. L. 103–156][/us/pl/103/156], § 4(a)(2), inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
 
-    Subsec. (j)(4). [Pub. L. 103–156, § 14(a)][/us/pl/103/156/s14/a], added par. (4).
+    Subsec. (j)(4). [Pub. L. 103–156][/us/pl/103/156], § 14(a), added par. (4).
 
     1988—Subsec. (j). [Pub. L. 100–518][/us/pl/100/518] reenacted subsec. (j) without change.
 
@@ -235,47 +235,47 @@
 
     Subsec. (j). [Pub. L. 97–35][/us/pl/97/35] temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, and added par. (2). See Effective and Termination Dates of 1981 Amendments note below.
 
-    1977—Subsec. (b). [Pub. L. 95–113, § 1606(d)][/us/pl/95/113/s1606/d], struck out reference to a determination of the quantity of sacks of grain.
+    1977—Subsec. (b). [Pub. L. 95–113][/us/pl/95/113], § 1606(d), struck out reference to a determination of the quantity of sacks of grain.
 
-    Subsec. (e). [Pub. L. 95–113, § 1604(d)(1)][/us/pl/95/113/s1604/d/1], designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
+    Subsec. (e). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
 
-    Subsec. (f)(2). [Pub. L. 95–113, § 1604(d)(2)][/us/pl/95/113/s1604/d/2], substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “[section 74 of this title][/us/usc/t7/s74]”, and redesignated other existing provisions as pars. (3) and (4).
+    Subsec. (f)(2). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “[section 74 of this title][/us/usc/t7/s74]”, and redesignated other existing provisions as pars. (3) and (4).
 
-    Subsec. (f)(3). [Pub. L. 95–113, § 1604(d)(2)(B)][/us/pl/95/113/s1604/d/2/B], (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
+    Subsec. (f)(3). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
 
-    Subsec. (f)(4). [Pub. L. 95–113, § 1604(d)(2)(D)][/us/pl/95/113/s1604/d/2/D], redesignated a portion of existing par. (2) as (4).
+    Subsec. (f)(4). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(2)(D), redesignated a portion of existing par. (2) as (4).
 
-    Subsec. (g)(1). [Pub. L. 95–113, § 1604(d)(3)][/us/pl/95/113/s1604/d/3], substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
+    Subsec. (g)(1). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(3), substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
 
-    Subsec. (i). [Pub. L. 95–113, § 1604(d)(4)][/us/pl/95/113/s1604/d/4], inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
+    Subsec. (i). [Pub. L. 95–113][/us/pl/95/113], § 1604(d)(4), inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
-    Subsec. (j). [Pub. L. 95–113, § 1602(a)][/us/pl/95/113/s1602/a], revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
+    Subsec. (j). [Pub. L. 95–113][/us/pl/95/113], § 1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
 
-    1976—Subsec. (a). [Pub. L. 94–582, § 8(1)][/us/pl/94/582/s8/1], formerly § 8(a)(1), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], substituted “Administrator” for “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582], § 8(1), formerly § 8(a)(1), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), substituted “Administrator” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 94–582, § 8(1)][/us/pl/94/582/s8/1], (2), formerly § 8(a)(1), (2), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
+    Subsec. (b). [Pub. L. 94–582][/us/pl/94/582], § 8(1), (2), formerly § 8(a)(1), (2), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
 
-    Subsec. (c). [Pub. L. 94–582, § 8(1)][/us/pl/94/582/s8/1], (3), formerly § 8(a)(1), (3), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
+    Subsec. (c). [Pub. L. 94–582][/us/pl/94/582], § 8(1), (3), formerly § 8(a)(1), (3), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
 
-    Subsec. (d). [Pub. L. 94–582, § 8(4)][/us/pl/94/582/s8/4], formerly § 8(a)(4), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], substituted “Official certificates setting out the results of official inspection” for “Certificates”.
+    Subsec. (d). [Pub. L. 94–582][/us/pl/94/582], § 8(4), formerly § 8(a)(4), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
 
-    Subsec. (e). [Pub. L. 94–582, § 8(5)][/us/pl/94/582/s8/5], formerly § 8(a)(5), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
+    Subsec. (e). [Pub. L. 94–582][/us/pl/94/582], § 8(5), formerly § 8(a)(5), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
 
-    Subsec. (f). [Pub. L. 94–582, § 8(5)][/us/pl/94/582/s8/5], formerly § 8(a)(5), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74]” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
+    Subsec. (f). [Pub. L. 94–582][/us/pl/94/582], § 8(5), formerly § 8(a)(5), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74]” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
 
-    Subsecs. (g) to (j). [Pub. L. 94–582, § 8(5)][/us/pl/94/582/s8/5], formerly § 8(a)(5), as renumbered by [Pub. L. 106–472, § 110(a)(1)][/us/pl/106/472/s110/a/1], added subsecs. (g) to (j).
+    Subsecs. (g) to (j). [Pub. L. 94–582][/us/pl/94/582], § 8(5), formerly § 8(a)(5), as renumbered by [Pub. L. 106–472][/us/pl/106/472], § 110(a)(1), added subsecs. (g) to (j).
 
     1968—[Pub. L. 90–487][/us/pl/90/487] substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–83, § 1(b)][/us/pl/109/83/s1/b], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053], provided that: 
+[Pub. L. 109–83][/us/pl/109/83], § 1(b), Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] take effect on September 30, 2005.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–472, title I, § 111][/us/pl/106/472/s111], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
+[Pub. L. 106–472, title I][/us/pl/106/472/tI], § 111, Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
 
 > “The amendments made by sections 103, 105, 108, and 109 \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] shall take effect as if enacted on September 30, 2000.”
 
@@ -285,15 +285,15 @@
 
  __Effective and Termination Dates of 1984 Amendment__ 
 
-    [Pub. L. 98–469, § 2][/us/pl/98/469/s2], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 98–469][/us/pl/98/469] is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+    [Pub. L. 98–469][/us/pl/98/469], § 2, Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 98–469][/us/pl/98/469] is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-[Pub. L. 97–98, title XI, § 1113(b)][/us/pl/97/98/s1113/b], Dec. 22, 1981, [95 Stat. 1268][/us/stat/95/1268], provided that: 
+[Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1113(b), Dec. 22, 1981, [95 Stat. 1268][/us/stat/95/1268], provided that: 
 
 > “The provisions of this section \[amending this section\] shall become effective one hundred and eighty days after enactment of this Act \[Dec. 22, 1981\].”
 
-    [Pub. L. 97–35, title I, § 155][/us/pl/97/35/s155], Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469, § 1][/us/pl/98/469/s1], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+    [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155, Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469][/us/pl/98/469], § 1, Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -309,7 +309,7 @@
 
  __Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by__  __May 20, 1979__  __, and__  __Nov. 20, 1979__  __, Respectively__ 
 
-    [Pub. L. 94–582, § 8(b)][/us/pl/94/582/s8/b], Oct. 21, 1976, [90 Stat. 2874][/us/stat/90/2874], as amended by [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1605(a), 1607(a), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by [Pub. L. 106–472, title I, § 110(a)(2)][/us/pl/106/472/s110/a/2], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060].
+    [Pub. L. 94–582][/us/pl/94/582], § 8(b), Oct. 21, 1976, [90 Stat. 2874][/us/stat/90/2874], as amended by [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1605(a), 1607(a), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 110(a)(2), Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060].
 
 ----------
 
@@ -332,108 +332,108 @@
 [/us/usc/t7/s77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs77
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F484
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F763
-[/us/pl/94/582/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2870
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1025
-[/us/pl/97/35/s155/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155%2F1
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F371
-[/us/pl/97/98/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1113%2Fa
+[/us/pl/97/98/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtIX
 [/us/stat/95/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1268
-[/us/pl/98/469/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs2%2F1
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
-[/us/pl/100/518/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518%2Fs2%2F1
+[/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/stat/102/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2584
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1525
-[/us/pl/103/354/s293/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F4
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2059
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
+[/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
-[/us/pl/114/54/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F1
+[/us/pl/114/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtIII
 [/us/stat/129/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F517
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/114/54/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F1
-[/us/pl/114/54/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F2
-[/us/pl/114/54/s301/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F3%2FA
-[/us/pl/114/54/s301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F4
-[/us/pl/114/54/s301/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F5%2FA
-[/us/pl/114/54/s301/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F5%2FA
-[/us/pl/114/54/s301/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F5%2FD
-[/us/pl/114/54/s301/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F5%2FC
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/106/472/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs102%2Fa
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/106/472/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs103%2Fa
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fd
-[/us/pl/103/156/s12/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fd%2F1
-[/us/pl/103/156/s12/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fd%2F2
-[/us/pl/103/156/s12/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fd%2F3
-[/us/pl/103/156/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs4%2Fa%2F1
-[/us/pl/103/156/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs5%2Fa
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/103/156/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs4%2Fa%2F2
-[/us/pl/103/156/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs14%2Fa
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/113/s1606/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fd
-[/us/pl/95/113/s1604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F1
-[/us/pl/95/113/s1604/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F2
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/95/113/s1604/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F2%2FB
-[/us/pl/95/113/s1604/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F2%2FD
-[/us/pl/95/113/s1604/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F3
-[/us/pl/95/113/s1604/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fd%2F4
-[/us/pl/95/113/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1602%2Fa
-[/us/pl/94/582/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F1
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
-[/us/pl/94/582/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F1
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
-[/us/pl/94/582/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F1
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
-[/us/pl/94/582/s8/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F4
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
-[/us/pl/94/582/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F5
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
-[/us/pl/94/582/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F5
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/94/582/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2F5
-[/us/pl/106/472/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F1
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
-[/us/pl/109/83/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fb
+[/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
-[/us/pl/106/472/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs111
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
 [/us/pl/100/518/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518%2Fs2
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
-[/us/pl/98/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs2
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
 [/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
-[/us/pl/97/98/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1113%2Fb
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1268
-[/us/pl/97/35/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F371
-[/us/pl/98/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs1
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
@@ -445,11 +445,11 @@
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/pl/90/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs2
 [/us/usc/t7/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs78
-[/us/pl/94/582/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs8%2Fb
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2874
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1029
-[/us/pl/106/472/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fa%2F2
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
 
 

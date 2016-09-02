@@ -17,7 +17,7 @@
 
     Nothing in this subchapter preempts or supersedes any other program relating to popcorn promotion organized and operated under the laws of the United States or any State.
 
-([Pub. L. 104–127, title V, § 580][/us/pl/104/127/s580], Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 580, Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs580
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1083
 
 

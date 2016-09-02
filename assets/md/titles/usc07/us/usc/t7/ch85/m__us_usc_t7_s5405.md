@@ -55,7 +55,7 @@
 
             The task force shall advise the Secretary with respect to the role of the Secretary for providing oversight and coordination related to agricultural air quality.
 
-([Pub. L. 104–127, title III, § 391][/us/pl/104/127/s391], Apr. 4, 1996, [110 Stat. 1025][/us/stat/110/1025].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 391, Apr. 4, 1996, [110 Stat. 1025][/us/stat/110/1025].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs391
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1025
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

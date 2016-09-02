@@ -21,7 +21,7 @@
 
     (2) to improve the competitiveness of United States agricultural commodities and products in the world market.
 
-([Pub. L. 100–418, title IV, § 4103][/us/pl/100/418/s4103], Aug. 23, 1988, [102 Stat. 1390][/us/stat/102/1390].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4103, Aug. 23, 1988, [102 Stat. 1390][/us/stat/102/1390].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4103
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1390
 
 

@@ -17,7 +17,7 @@
 
     To provide a comprehensive source of information to facilitate exports of United States agricultural commodities, the Secretary shall maintain on a website on the Internet information to assist exporters and potential exporters of United States agricultural commodities.
 
-([Pub. L. 95–501, title I, § 107][/us/pl/95/501/s107], as added [Pub. L. 107–171, title III, § 3101][/us/pl/107/171/s3101], May 13, 2002, [116 Stat. 288][/us/stat/116/288].)
+([Pub. L. 95–501, title I][/us/pl/95/501/tI], § 107, as added [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3101, May 13, 2002, [116 Stat. 288][/us/stat/116/288].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/95/501/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs107
-[/us/pl/107/171/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3101
+[/us/pl/95/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtI
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F288
 
 

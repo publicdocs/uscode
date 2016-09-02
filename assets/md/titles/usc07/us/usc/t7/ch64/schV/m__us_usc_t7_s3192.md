@@ -25,7 +25,7 @@
 
     (4) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
 
-([Pub. L. 95–113, title XIV, § 1430][/us/pl/95/113/s1430], Sept. 29, 1977, [91 Stat. 1002][/us/stat/91/1002]; [Pub. L. 97–98, title XIV, § 1427][/us/pl/97/98/s1427], Dec. 22, 1981, [95 Stat. 1309][/us/stat/95/1309]; [Pub. L. 105–185, title VI, § 606(d)(1)][/us/pl/105/185/s606/d/1], June 23, 1998, [112 Stat. 604][/us/stat/112/604].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1430, Sept. 29, 1977, [91 Stat. 1002][/us/stat/91/1002]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1427, Dec. 22, 1981, [95 Stat. 1309][/us/stat/95/1309]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 606(d)(1), June 23, 1998, [112 Stat. 604][/us/stat/112/604].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1430
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1002
-[/us/pl/97/98/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1427
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1309
-[/us/pl/105/185/s606/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fd%2F1
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F604
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

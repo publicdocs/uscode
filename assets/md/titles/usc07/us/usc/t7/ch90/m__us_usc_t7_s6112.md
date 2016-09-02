@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-([Pub. L. 101–624, title XIX, § 1933][/us/pl/101/624/s1933], Nov. 28, 1990, [104 Stat. 3865][/us/stat/104/3865].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1933, Nov. 28, 1990, [104 Stat. 3865][/us/stat/104/3865].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1933
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3865
 
 

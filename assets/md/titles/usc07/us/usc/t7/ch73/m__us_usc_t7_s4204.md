@@ -17,7 +17,7 @@
 
     The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.
 
-([Pub. L. 97–98, title XV, § 1543][/us/pl/97/98/s1543], Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1543, Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1543
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1343
 
 

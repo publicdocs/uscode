@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for the purchase of samples of cotton, for rent outside the District of Columbia, printing, telegrams, telephones, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere and there are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated such sums as may be necessary for such purposes. The Secretary of Agriculture shall maintain until at least January 1, 1999, all cotton classing office locations in the State of Missouri that existed on January 1, 1996.
 
-([Mar. 3, 1927, ch. 337, § 4][/us/act/1927-03-03/ch337/s4], [44 Stat. 1373][/us/stat/44/1373]; [Pub. L. 104–127, title IX, § 912(b)][/us/pl/104/127/s912/b], Apr. 4, 1996, [110 Stat. 1185][/us/stat/110/1185].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 4, [44 Stat. 1373][/us/stat/44/1373]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 912(b), Apr. 4, 1996, [110 Stat. 1185][/us/stat/110/1185].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs4
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/stat/44/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1373
-[/us/pl/104/127/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs912%2Fb
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

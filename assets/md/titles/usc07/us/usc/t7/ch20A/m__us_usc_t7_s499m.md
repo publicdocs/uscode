@@ -39,7 +39,7 @@
 
         Witnesses summoned before the Secretary or any officer or employee designated by him shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts of the United States.
 
-([June 10, 1930, ch. 436, § 13][/us/act/1930-06-10/ch436/s13], [46 Stat. 536][/us/stat/46/536]; [July 30, 1956, ch. 786, § 6][/us/act/1956-07-30/ch786/s6], [70 Stat. 727][/us/stat/70/727]; [Pub. L. 91–452, title II, § 205][/us/pl/91/452/s205], Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928]; [Pub. L. 95–562, § 3][/us/pl/95/562/s3], Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 13, [46 Stat. 536][/us/stat/46/536]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], § 6, [70 Stat. 727][/us/stat/70/727]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 205, Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928]; [Pub. L. 95–562][/us/pl/95/562], § 3, Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381].)
 
  __Codification__ 
 
@@ -68,13 +68,13 @@
 [/us/usc/t7/s499b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b%2F4
 [/us/usc/t7/s499f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f%2Fb
 [/us/usc/t7/s499g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499g%2Fc
-[/us/act/1930-06-10/ch436/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs13
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F536
-[/us/act/1956-07-30/ch786/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786%2Fs6
+[/us/act/1956-07-30/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786
 [/us/stat/70/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F727
-[/us/pl/91/452/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs205
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F928
-[/us/pl/95/562/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs3
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/stat/92/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2381
 [/us/usc/t7/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs563
 [/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562

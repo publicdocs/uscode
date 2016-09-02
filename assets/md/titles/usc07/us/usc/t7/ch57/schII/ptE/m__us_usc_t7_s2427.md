@@ -17,7 +17,7 @@
 
     The Secretary may establish regulations for the publication of information regarding any pending application when publication is requested by the owner.
 
-([Pub. L. 91–577, title II, § 57][/us/pl/91/577/s57], Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549]; [Pub. L. 96–574, § 13][/us/pl/96/574/s13], Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 57, Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549]; [Pub. L. 96–574][/us/pl/96/574], § 13, Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs57
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1549
-[/us/pl/96/574/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs13
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3350
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 

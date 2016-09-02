@@ -59,15 +59,15 @@
 
             [Section 4611 of this title][/us/usc/t7/s4611] shall apply in determining the effectiveness of the subsequent amended order under paragraph (2).
 
-([Pub. L. 98–590, § 13][/us/pl/98/590/s13], Oct. 30, 1984, [98 Stat. 3123][/us/stat/98/3123]; [Pub. L. 101–624, title XIX, § 1985][/us/pl/101/624/s1985], Nov. 28, 1990, [104 Stat. 3907][/us/stat/104/3907]; [Pub. L. 105–185, title VI, § 605][/us/pl/105/185/s605](l), June 23, 1998, [112 Stat. 601][/us/stat/112/601].)
+([Pub. L. 98–590][/us/pl/98/590], § 13, Oct. 30, 1984, [98 Stat. 3123][/us/stat/98/3123]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1985, Nov. 28, 1990, [104 Stat. 3907][/us/stat/104/3907]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(l), June 23, 1998, [112 Stat. 601][/us/stat/112/601].)
 
  __Amendments__ 
 
     1998—[Pub. L. 105–185][/us/pl/105/185] amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) authorized Secretary to terminate or suspend order, in subsec. (b) provided for conducting of referendum every five years and alternative first referendum, in subsec. (c) provided for referendum upon request of Honey Board or petition of ten percent or more of producers and importers, and in subsec. (d) directed termination or suspension of order where favored by majority voting in referendum and majority produce and import more than 50 percent of volume of honey of those voting.
 
-    1990—Subsec. (b). [Pub. L. 101–624, § 1985(a)][/us/pl/101/624/s1985/a], designated existing provisions as par. (1), substituted “Except as otherwise provided in paragraph (2), five” for “Five” and “termination” for “continuation, termination,” and added par. (2).
+    1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1985(a), designated existing provisions as par. (1), substituted “Except as otherwise provided in paragraph (2), five” for “Five” and “termination” for “continuation, termination,” and added par. (2).
 
-    Subsec. (d). [Pub. L. 101–624, § 1985(b)][/us/pl/101/624/s1985/b], substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1985(b), substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
 
 ----------
 
@@ -82,14 +82,14 @@
 [/us/usc/t7/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4611
 [/us/usc/t7/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4611
 [/us/usc/t7/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4611
-[/us/pl/98/590/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs13
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3123
-[/us/pl/101/624/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1985
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3907
-[/us/pl/105/185/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F601
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
-[/us/pl/101/624/s1985/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1985%2Fa
-[/us/pl/101/624/s1985/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1985%2Fb
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

@@ -23,7 +23,7 @@
 
         To carry out [section 7784 of this title][/us/usc/t7/s7784], there are authorized to be appropriated to the Secretary $7,500,000 for each of fiscal years 2005 through 2009, of which not more than 5 percent of the funds made available for a fiscal year may be used by the Secretary for administrative costs of Federal agencies.
 
-([Pub. L. 106–224, title IV, § 457][/us/pl/106/224/s457], as added [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2324][/us/stat/118/2324].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 457, as added [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2324][/us/stat/118/2324].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t7/s7783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7783
 [/us/usc/t7/s7784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7784
-[/us/pl/106/224/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs457
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2324
 
 

@@ -17,7 +17,7 @@
 
     For purposes of this chapter, the term “direct marketing from farmers to consumers” shall mean the marketing of agricultural commodities at any marketplace (including, but not limited to, roadside stands, city markets, and vehicles used for house-to-house marketing of agricultural commodities) established and maintained for the purpose of enabling farmers to sell (either individually or through a farmers’ organization directly representing the farmers who produced the commodities being sold) their agricultural commodities directly to individual consumers, or organizations representing consumers, in a manner calculated to lower the cost and increase the quality of food to such consumers while providing increased financial returns to the farmers.
 
-([Pub. L. 94–463, § 3][/us/pl/94/463/s3], Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982].)
+([Pub. L. 94–463][/us/pl/94/463], § 3, Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs3
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
 [/us/stat/90/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1982
 
 

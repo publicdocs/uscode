@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs511" data-uslm-ref="/us/usc/t7/s511">511</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs511l" data-uslm-ref="/us/usc/t7/s511l">511l.</a>  </td>
 
     <td> Act of agent as that of principal.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs511" data-uslm-ref="/us/usc/t7/s511">511</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs511o" data-uslm-ref="/us/usc/t7/s511o">511o.</a>  </td>
 
     <td> Separability.  </td>
 

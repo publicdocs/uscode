@@ -17,7 +17,7 @@
 
     There is established a commission to be known as the “Commission on 21st Century Production Agriculture” (in this subchapter referred to as the “Commission”).
 
-([Pub. L. 104–127, title I, § 181][/us/pl/104/127/s181], Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 181, Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs181
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F938
 
 

@@ -35,7 +35,7 @@
 
     (i) For any person willfully to alter an official sample of tobacco by removing or plucking leaves or otherwise, or for any person knowing that an official sample of tobacco has been so altered, thereafter to represent such sample as an official sample.
 
-([Aug. 23, 1935, ch. 623, § 10][/us/act/1935-08-23/ch623/s10], [49 Stat. 733][/us/stat/49/733].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 10, [49 Stat. 733][/us/stat/49/733].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs10
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F733
 
 

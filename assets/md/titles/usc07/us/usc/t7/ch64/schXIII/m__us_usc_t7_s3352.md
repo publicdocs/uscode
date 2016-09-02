@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as are necessary for each fiscal year.
 
-([Pub. L. 95–113, title XIV, § 1485][/us/pl/95/113/s1485], as added [Pub. L. 107–171, title VII, § 7221(a)][/us/pl/107/171/s7221/a], May 13, 2002, [116 Stat. 453][/us/stat/116/453].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1485, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7221(a), May 13, 2002, [116 Stat. 453][/us/stat/116/453].)
 
 ----------
 
@@ -69,8 +69,8 @@
 ----------
 
 [/us/usc/t7/s3103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103%2F4
-[/us/pl/95/113/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1485
-[/us/pl/107/171/s7221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7221%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F453
 
 

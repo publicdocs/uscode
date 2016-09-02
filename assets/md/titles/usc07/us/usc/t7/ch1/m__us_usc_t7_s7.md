@@ -19,7 +19,7 @@
 
         A board of trade applying to the Commission for designation as a contract market shall submit an application to the Commission that includes any relevant materials and records the Commission may require consistent with this chapter.
 
-    (b) __Repealed.__  __[__  __Pub. L. 111–203, title VII, § 735(a)__  __][/us/pl/111/203/s735/a]__  __,__  __July 21, 2010__  __,__  __[__  __124 Stat. 1718__  __][/us/stat/124/1718]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 111–203, title VII__  __][/us/pl/111/203/tVII]__  __, § 735(a),__  __July 21, 2010__  __,__  __[__  __124 Stat. 1718__  __][/us/stat/124/1718]__ 
 
     (c) __Existing contract markets__ 
 
@@ -249,19 +249,19 @@
 
         (2) In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.
 
-([Sept. 21, 1922, ch. 369, § 5][/us/act/1922-09-21/ch369/s5], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 110(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384; amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(4), 735, July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1718.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 110(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384; amended [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(e)(4), 735, July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1718.)
 
  __Prior Provisions__ 
 
-    A prior section 7, acts [Sept. 21, 1922, ch. 369, § 5][/us/act/1922-09-21/ch369/s5], [42 Stat. 1000][/us/stat/42/1000]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 6, [49 Stat. 1491][/us/stat/49/1491], 1497; [Pub. L. 90–258][/us/pl/90/258], §§ 10, 11, Feb. 19, 1968, [82 Stat. 29][/us/stat/82/29]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (f), (g), title II, § 207, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1400; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 201(c), 209(b)(2), Oct. 28, 1992, [106 Stat. 3597][/us/stat/106/3597], 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 110(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384.
+    A prior section 7, acts [Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5, [42 Stat. 1000][/us/stat/42/1000]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 6, [49 Stat. 1491][/us/stat/49/1491], 1497; [Pub. L. 90–258][/us/pl/90/258], §§ 10, 11, Feb. 19, 1968, [82 Stat. 29][/us/stat/82/29]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (f), (g), title II, § 207, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1400; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 201(c), 209(b)(2), Oct. 28, 1992, [106 Stat. 3597][/us/stat/106/3597], 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 110(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384.
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–203, § 735(a)][/us/pl/111/203/s735/a], struck out subsec. (b) which related to criteria for designation as a contract market.
+    2010—Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 735(a), struck out subsec. (b) which related to criteria for designation as a contract market.
 
-    Subsec. (d). [Pub. L. 111–203, § 735(b)][/us/pl/111/203/s735/b], added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 735(b), added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
 
-    Subsec. (e)(1). [Pub. L. 111–203, § 721(e)(4)][/us/pl/111/203/s721/e/4], substituted “section 1a(9)” for “section 1a(4)”.
+    Subsec. (e)(1). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(4), substituted “section 1a(9)” for “section 1a(4)”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -274,32 +274,32 @@
 ----------
 ----------
 
-[/us/pl/111/203/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs735%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1718
 [/us/usc/t7/s12a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a%2F5
 [/us/usc/t7/s6a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6a%2Fa
 [/us/usc/t7/s1a/47/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F47%2FA%2Fv
 [/us/usc/t7/s1a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F9
-[/us/act/1922-09-21/ch369/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
-[/us/act/1922-09-21/ch369/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1000
 [/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F29
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3597
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs735%2Fa
-[/us/pl/111/203/s735/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs735%2Fb
-[/us/pl/111/203/s721/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

@@ -31,7 +31,7 @@
 
         (2) research, extension, or education activities administered, on a competitive basis, by the National Institute of Food and Agriculture.
 
-([Pub. L. 105–185, title I, § 101][/us/pl/105/185/s101], June 23, 1998, [112 Stat. 526][/us/stat/112/526]; [Pub. L. 110–234, title VII, § 7511(c)(29)][/us/pl/110/234/s7511/c/29], May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(29), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
+([Pub. L. 105–185, title I][/us/pl/105/185/tI], § 101, June 23, 1998, [112 Stat. 526][/us/stat/112/526]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(29), May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(29), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2). [Pub. L. 110–246, § 7511(c)(29)][/us/pl/110/246/s7511/c/29], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+    2008—Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(29), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -55,17 +55,17 @@
 ----------
 
 [/us/usc/t7/s7612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7612%2Fa
-[/us/pl/105/185/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs101
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F526
-[/us/pl/110/234/s7511/c/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F29
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1270
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F29
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

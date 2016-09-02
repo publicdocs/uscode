@@ -145,15 +145,15 @@
 
         (3) in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
 
-([Pub. L. 107–171, title I, § 1202][/us/pl/107/171/s1202], May 13, 2002, [116 Stat. 155][/us/stat/116/155]; [Pub. L. 108–7, div. A, title VII, § 763(b)][/us/pl/108/7/s763/b], Feb. 20, 2003, [117 Stat. 46][/us/stat/117/46].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1202, May 13, 2002, [116 Stat. 155][/us/stat/116/155]; [Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 763(b), Feb. 20, 2003, [117 Stat. 46][/us/stat/117/46].)
 
  __Amendments__ 
 
-    2003—Subsec. (a)(10). [Pub. L. 108–7, § 763(b)(1)][/us/pl/108/7/s763/b/1], added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0960 per pound.”
+    2003—Subsec. (a)(10). [Pub. L. 108–7][/us/pl/108/7], § 763(b)(1), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0960 per pound.”
 
-    Subsec. (b)(10). [Pub. L. 108–7, § 763(b)(2)][/us/pl/108/7/s763/b/2], added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0930 per pound.”
+    Subsec. (b)(10). [Pub. L. 108–7][/us/pl/108/7], § 763(b)(2), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0930 per pound.”
 
-    Subsecs. (c), (d). [Pub. L. 108–7, § 763(b)(3)][/us/pl/108/7/s763/b/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 108–7][/us/pl/108/7], § 763(b)(3), added subsecs. (c) and (d).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -168,13 +168,13 @@
 
 [/us/usc/t7/s7931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7931
 [/us/usc/t7/s7931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7931
-[/us/pl/107/171/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1202
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155
-[/us/pl/108/7/s763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fb
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F46
-[/us/pl/108/7/s763/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fb%2F1
-[/us/pl/108/7/s763/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fb%2F2
-[/us/pl/108/7/s763/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fb%2F3
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s763/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fd
 [/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901

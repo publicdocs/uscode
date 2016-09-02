@@ -37,7 +37,7 @@
 
         Any official who is serving as Under Secretary of Agriculture for International Affairs and Commodity Programs on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
-([Pub. L. 103–354, title II, § 225][/us/pl/103/354/s225], Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 225, Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs225
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3213
 [/us/pl/103/354/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs225
 [/us/pl/103/354/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs225

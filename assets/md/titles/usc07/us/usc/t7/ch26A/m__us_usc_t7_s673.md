@@ -17,7 +17,7 @@
 
     No processing taxes or compensating taxes shall be levied or collected under the Agricultural Adjustment Act \[[7 U.S.C. 601][/us/usc/t7/s601] et seq.\], as amended. Except as provided in the preceding sentence, nothing in this Act shall be construed as affecting provisions of the Agricultural Adjustment Act, as amended, other than those enumerated in section 1 of [Act of June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], [50 Stat. 246][/us/stat/50/246]. The provisions so enumerated shall apply in accordance with their terms (as amended by this Act) to the provisions of the Agricultural Adjustment Act, this Act, and other provisions of law to which they have been heretofore made applicable.
 
-([June 3, 1937, ch. 296, § 5][/us/act/1937-06-03/ch296/s5], [50 Stat. 249][/us/stat/50/249].)
+([June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 5, [50 Stat. 249][/us/stat/50/249].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
-[/us/act/1937-06-03/ch296/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs5
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F249
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31

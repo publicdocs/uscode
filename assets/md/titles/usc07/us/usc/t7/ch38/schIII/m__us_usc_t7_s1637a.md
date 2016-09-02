@@ -33,7 +33,7 @@
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 272, as added [Pub. L. 106–532, § 2][/us/pl/106/532/s2], Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541]; amended [Pub. L. 107–171, title I, § 1504][/us/pl/107/171/s1504], May 13, 2002, [116 Stat. 207][/us/stat/116/207].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 272, as added [Pub. L. 106–532][/us/pl/106/532], § 2, Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541]; amended [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1504, May 13, 2002, [116 Stat. 207][/us/stat/116/207].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532%2Fs2
+[/us/pl/106/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532
 [/us/stat/114/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2541
-[/us/pl/107/171/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1504
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F207
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

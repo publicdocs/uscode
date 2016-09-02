@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated each fiscal year necessary appropriations to enable the Secretary of Agriculture to carry on the experiments contemplated by [section 387 of this title][/us/usc/t7/s387].
 
-([Mar. 19, 1928, ch. 228, § 3][/us/act/1928-03-19/ch228/s3], [45 Stat. 323][/us/stat/45/323].)
+([Mar. 19, 1928, ch. 228][/us/act/1928-03-19/ch228], § 3, [45 Stat. 323][/us/stat/45/323].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs387
-[/us/act/1928-03-19/ch228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-19%2Fch228%2Fs3
+[/us/act/1928-03-19/ch228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-19%2Fch228
 [/us/stat/45/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F323
 
 

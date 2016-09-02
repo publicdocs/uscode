@@ -383,11 +383,11 @@
 
                 The amount of funds made available under this section shall be in addition to amounts made available under other provisions of this subchapter, including amounts made available under subsection (b).
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 523, as added [Pub. L. 106–224, title I, § 132(a)][/us/pl/106/224/s132/a], June 20, 2000, [114 Stat. 383][/us/stat/114/383]; amended [Pub. L. 107–171, title X, § 10004][/us/pl/107/171/s10004], May 13, 2002, [116 Stat. 487][/us/stat/116/487]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12025(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1389][/us/stat/122/1389], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12025(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2151, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11025, 11026, Feb. 7, 2014, [128 Stat. 974][/us/stat/128/974].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 523, as added [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 132(a), June 20, 2000, [114 Stat. 383][/us/stat/114/383]; amended [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10004, May 13, 2002, [116 Stat. 487][/us/stat/116/487]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12025(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1389][/us/stat/122/1389], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12025(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2151, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], §§ 11025, 11026, Feb. 7, 2014, [128 Stat. 974][/us/stat/128/974].)
 
  __References in Text__ 
 
-    [Section 1522(e)(4) of this title][/us/usc/t7/s1522/e/4], referred to in subsec. (c)(1), was repealed by [Pub. L. 113–79, title XI, § 11022(b)(3)][/us/pl/113/79/s11022/b/3], Feb. 7, 2014, [128 Stat. 973][/us/stat/128/973].
+    [Section 1522(e)(4) of this title][/us/usc/t7/s1522/e/4], referred to in subsec. (c)(1), was repealed by [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11022(b)(3), Feb. 7, 2014, [128 Stat. 973][/us/stat/128/973].
 
     The date of enactment of this subsection, referred to in subsecs. (f)(3), (g)(4), and (h)(4), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
@@ -397,19 +397,19 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–79, § 11025(1)][/us/pl/113/79/s11025/1], inserted “, at the sole discretion of the Corporation,” after “the Corporation may”.
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 11025(1), inserted “, at the sole discretion of the Corporation,” after “the Corporation may”.
 
-    Subsec. (a)(5). [Pub. L. 113–79, § 11025(2)][/us/pl/113/79/s11025/2], struck out par. (5) which related to evaluation of the pilot program.
+    Subsec. (a)(5). [Pub. L. 113–79][/us/pl/113/79], § 11025(2), struck out par. (5) which related to evaluation of the pilot program.
 
-    Subsec. (i). [Pub. L. 113–79, § 11026][/us/pl/113/79/s11026], added subsec. (i).
+    Subsec. (i). [Pub. L. 113–79][/us/pl/113/79], § 11026, added subsec. (i).
 
-    2008—Subsecs. (a), (b), (d). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    2008—Subsecs. (a), (b), (d). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (f). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    [Pub. L. 110–246, § 12025(a)][/us/pl/110/246/s12025/a], added subsec. (f).
+    [Pub. L. 110–246][/us/pl/110/246], § 12025(a), added subsec. (f).
 
-    Subsecs. (g), (h). [Pub. L. 110–246, § 12025(a)][/us/pl/110/246/s12025/a], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 110–246][/us/pl/110/246], § 12025(a), added subsecs. (g) and (h).
 
     2002—Subsec. (e). [Pub. L. 107–171][/us/pl/107/171] added subsec. (e).
 
@@ -438,31 +438,31 @@
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/106/224/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs132%2Fa
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F383
-[/us/pl/107/171/s10004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10004
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F487
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1389
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F974
 [/us/usc/t7/s1522/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522%2Fe%2F4
-[/us/pl/113/79/s11022/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F3
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F973
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s11025/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11025%2F1
-[/us/pl/113/79/s11025/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11025%2F2
-[/us/pl/113/79/s11026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11026
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12025%2Fa
-[/us/pl/110/246/s12025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12025%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

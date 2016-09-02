@@ -45,7 +45,7 @@
 
         The provisions of [section 1001 of title 18][/us/usc/t18/s1001] shall apply to any false certifications issued under this chapter.
 
-([Pub. L. 95–501, title IV, § 402][/us/pl/95/501/s402], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3681][/us/stat/104/3681]; amended [Pub. L. 104–127, title II, § 247][/us/pl/104/127/s247], Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969]; [Pub. L. 110–246, title III, § 3103(b)(5)][/us/pl/110/246/s3103/b/5], June 18, 2008, [122 Stat. 1833][/us/stat/122/1833].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 402, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3681][/us/stat/104/3681]; amended [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 247, Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3103(b)(5), June 18, 2008, [122 Stat. 1833][/us/stat/122/1833].)
 
  __Amendments__ 
 
@@ -68,12 +68,12 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/95/501/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs402
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3681
-[/us/pl/104/127/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs247
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F969
-[/us/pl/110/246/s3103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F5
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1833
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

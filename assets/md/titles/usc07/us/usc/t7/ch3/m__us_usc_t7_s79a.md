@@ -99,7 +99,7 @@
 
         (4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2020. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7A, as added [Pub. L. 94–582, § 9][/us/pl/94/582/s9], Oct. 21, 1976, [90 Stat. 2875][/us/stat/90/2875]; amended [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(b), 1604(e), 1606(e), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1027, 1030; [Pub. L. 97–35, title I, § 155(2)][/us/pl/97/35/s155/2], Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371]; [Pub. L. 100–518, § 2(2)][/us/pl/100/518/s2/2], Oct. 24, 1988, [102 Stat. 2585][/us/stat/102/2585]; [Pub. L. 103–156][/us/pl/103/156], §§ 4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528, 1530; [Pub. L. 103–354, title II, § 293(a)(4)][/us/pl/103/354/s293/a/4], (7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472], §§ 102(b), 103(b), Nov. 9, 2000, [114 Stat. 2059][/us/stat/114/2059], 2060; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(b)(3)(B)][/us/pl/114/54/s301/b/3/B], (c), Sept. 30, 2015, [129 Stat. 518][/us/stat/129/518], 519.)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7A, as added [Pub. L. 94–582][/us/pl/94/582], § 9, Oct. 21, 1976, [90 Stat. 2875][/us/stat/90/2875]; amended [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1602(b), 1604(e), 1606(e), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1027, 1030; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155(2), Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371]; [Pub. L. 100–518][/us/pl/100/518], § 2(2), Oct. 24, 1988, [102 Stat. 2585][/us/stat/102/2585]; [Pub. L. 103–156][/us/pl/103/156], §§ 4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528, 1530; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(4), (7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], §§ 102(b), 103(b), Nov. 9, 2000, [114 Stat. 2059][/us/stat/114/2059], 2060; [Pub. L. 109–83][/us/pl/109/83], § 1(a), Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III][/us/pl/114/54/tIII], § 301(b)(3)(B), (c), Sept. 30, 2015, [129 Stat. 518][/us/stat/129/518], 519.)
 
  __References in Text__ 
 
@@ -107,59 +107,59 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c)(2). [Pub. L. 114–54, § 301(c)(1)][/us/pl/114/54/s301/c/1], substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
+    2015—Subsec. (c)(2). [Pub. L. 114–54][/us/pl/114/54], § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
 
-    Subsec. (i)(2). [Pub. L. 114–54, § 301(b)(3)(B)][/us/pl/114/54/s301/b/3/B], in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
+    Subsec. (i)(2). [Pub. L. 114–54][/us/pl/114/54], § 301(b)(3)(B), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
 
-    Subsec. (l). [Pub. L. 114–54, § 301(c)(2)(A)][/us/pl/114/54/s301/c/2/A], inserted heading.
+    Subsec. (l). [Pub. L. 114–54][/us/pl/114/54], § 301(c)(2)(A), inserted heading.
 
-    Subsec. (l)(1). [Pub. L. 114–54, § 301(c)(2)(A)][/us/pl/114/54/s301/c/2/A], (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”; and added subpar. (D).
+    Subsec. (l)(1). [Pub. L. 114–54][/us/pl/114/54], § 301(c)(2)(A), (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”; and added subpar. (D).
 
-    Subsec. (l)(3). [Pub. L. 114–54, § 301(c)(2)(D)][/us/pl/114/54/s301/c/2/D], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (l)(3). [Pub. L. 114–54][/us/pl/114/54], § 301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (l)(4). [Pub. L. 114–54, § 301(c)(2)(C)][/us/pl/114/54/s301/c/2/C], (E), redesignated par. (3) as (4) and substituted “2020” for “2015”.
+    Subsec. (l)(4). [Pub. L. 114–54][/us/pl/114/54], § 301(c)(2)(C), (E), redesignated par. (3) as (4) and substituted “2020” for “2015”.
 
     2005—Subsec. (l)(3). [Pub. L. 109–83][/us/pl/109/83] substituted “2015” for “2005”.
 
-    2000—Subsec. (i). [Pub. L. 106–472, § 102(b)][/us/pl/106/472/s102/b], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
+    2000—Subsec. (i). [Pub. L. 106–472][/us/pl/106/472], § 102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
 
-    Subsec. (l)(3). [Pub. L. 106–472, § 103(b)][/us/pl/106/472/s103/b], substituted “2005” for “2000” in first sentence.
+    Subsec. (l)(3). [Pub. L. 106–472][/us/pl/106/472], § 103(b), substituted “2005” for “2000” in first sentence.
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “supervision by the Secretary of the Secretary’s field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (l)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (l).
 
-    1993—Subsec. (c)(2). [Pub. L. 103–156, § 4(b)(1)][/us/pl/103/156/s4/b/1], in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
+    1993—Subsec. (c)(2). [Pub. L. 103–156][/us/pl/103/156], § 4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
 
-    Subsec. (d). [Pub. L. 103–156, § 4(b)(2)][/us/pl/103/156/s4/b/2], inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
+    Subsec. (d). [Pub. L. 103–156][/us/pl/103/156], § 4(b)(2), inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
 
-    Subsec. (e). [Pub. L. 103–156, § 12(e)][/us/pl/103/156/s12/e], which directed amendment of “Section 7A(e)” by substituting “regulations as the Administrator” for “regulations as he”, without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    Subsec. (e). [Pub. L. 103–156][/us/pl/103/156], § 12(e), which directed amendment of “Section 7A(e)” by substituting “regulations as the Administrator” for “regulations as he”, without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
     Subsec. (i). [Pub. L. 103–156][/us/pl/103/156], §§ 4(b)(3), 5(b), inserted before period at end of first sentence “or as otherwise provided in [section 79(i) of this title][/us/usc/t7/s79/i] and subsection (d) of this section” and inserted before period at end of second sentence “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in [section 74 of this title][/us/usc/t7/s74]”.
 
-    Subsec. (l)(3). [Pub. L. 103–156, § 14(b)][/us/pl/103/156/s14/b], added par. (3).
+    Subsec. (l)(3). [Pub. L. 103–156][/us/pl/103/156], § 14(b), added par. (3).
 
     1988—Subsec. (l). [Pub. L. 100–518][/us/pl/100/518] amended subsec. (l) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
 
     1981—Subsec. (l). [Pub. L. 97–35][/us/pl/97/35] temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
-    1977—Subsec. (a). [Pub. L. 95–113, § 1606(e)][/us/pl/95/113/s1606/e], substituted “standards or procedures” for “standards”.
+    1977—Subsec. (a). [Pub. L. 95–113][/us/pl/95/113], § 1606(e), substituted “standards or procedures” for “standards”.
 
     Subsec. (b). [Pub. L. 95–113][/us/pl/95/113], §§ 1604(e)(1), 1606(e), substituted “The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures” for “The Administrator is authorized to cause supervision of weighing under standards” and “other than at export elevators at export port locations” for “other than at export port locations”.
 
-    Subsec. (c)(2). [Pub. L. 95–113, § 1604(e)(2)][/us/pl/95/113/s1604/e/2], made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which “number” had been erroneously used for “under” in text as originally enacted by [Pub. L. 94–582][/us/pl/94/582].
+    Subsec. (c)(2). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(2), made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which “number” had been erroneously used for “under” in text as originally enacted by [Pub. L. 94–582][/us/pl/94/582].
 
-    Subsec. (d). [Pub. L. 95–113, § 1604(e)(3)][/us/pl/95/113/s1604/e/3], inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
+    Subsec. (d). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(3), inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
     Subsec. (e). [Pub. L. 95–113][/us/pl/95/113], §§ 1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (l), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
 
-    Subsec. (f)(2). [Pub. L. 95–113, § 1604(e)(5)(A)][/us/pl/95/113/s1604/e/5/A], substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
+    Subsec. (f)(2). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(5)(A), substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
 
-    Subsec. (f)(3). [Pub. L. 95–113, § 1604(e)(5)(B)][/us/pl/95/113/s1604/e/5/B], substituted “when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales” for “when weighing is to be done by employees of the facility, will require employees to operate the scales”.
+    Subsec. (f)(3). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(5)(B), substituted “when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales” for “when weighing is to be done by employees of the facility, will require employees to operate the scales”.
 
-    Subsec. (g). [Pub. L. 95–113, § 1604(e)(6)][/us/pl/95/113/s1604/e/6], substituted “official weighing or supervision of weighing” for “official weighing”.
+    Subsec. (g). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(6), substituted “official weighing or supervision of weighing” for “official weighing”.
 
-    Subsec. (i). [Pub. L. 95–113, § 1604(e)(7)][/us/pl/95/113/s1604/e/7], (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74].
+    Subsec. (i). [Pub. L. 95–113][/us/pl/95/113], § 1604(e)(7), (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in [section 74 of this title][/us/usc/t7/s74].
 
-    Subsec. (l). [Pub. L. 95–113, § 1602(b)][/us/pl/95/113/s1602/b], revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
+    Subsec. (l). [Pub. L. 95–113][/us/pl/95/113], § 1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -171,7 +171,7 @@
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–35, title I, § 155][/us/pl/97/35/s155], Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469, § 1][/us/pl/98/469/s1], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+    [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155, Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469][/us/pl/98/469], § 1, Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -203,58 +203,58 @@
 [/us/usc/t7/s79/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79%2Fj
 [/us/usc/t7/s79/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79%2Fj
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/94/582/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs9
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2875
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1025
-[/us/pl/97/35/s155/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155%2F2
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F371
-[/us/pl/100/518/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518%2Fs2%2F2
+[/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/stat/102/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2585
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1526
-[/us/pl/103/354/s293/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F4
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2059
-[/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
+[/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
-[/us/pl/114/54/s301/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F3%2FB
+[/us/pl/114/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtIII
 [/us/stat/129/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F518
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F486
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
-[/us/pl/114/54/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fc%2F1
-[/us/pl/114/54/s301/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fb%2F3%2FB
-[/us/pl/114/54/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fc%2F2%2FA
-[/us/pl/114/54/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fc%2F2%2FA
-[/us/pl/114/54/s301/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fc%2F2%2FD
-[/us/pl/114/54/s301/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fc%2F2%2FC
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
-[/us/pl/106/472/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs102%2Fb
-[/us/pl/106/472/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs103%2Fb
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs4%2Fb%2F1
-[/us/pl/103/156/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs4%2Fb%2F2
-[/us/pl/103/156/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fe
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/usc/t7/s79/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79%2Fi
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/103/156/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs14%2Fb
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/113/s1606/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fe
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/95/113/s1604/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F2
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
-[/us/pl/95/113/s1604/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F3
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/95/113/s1604/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F5%2FA
-[/us/pl/95/113/s1604/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F5%2FB
-[/us/pl/95/113/s1604/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F6
-[/us/pl/95/113/s1604/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fe%2F7
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/95/113/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1602%2Fb
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/106/472/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs103%2Fb
 [/us/pl/106/472/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs111
 [/us/usc/t7/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79
@@ -262,9 +262,9 @@
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
-[/us/pl/97/35/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F371
-[/us/pl/98/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs1
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113

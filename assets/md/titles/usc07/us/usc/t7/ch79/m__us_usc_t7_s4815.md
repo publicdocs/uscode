@@ -71,7 +71,7 @@
 
         The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 99–198, title XVI, § 1626][/us/pl/99/198/s1626], Dec. 23, 1985, [99 Stat. 1620][/us/stat/99/1620].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1626, Dec. 23, 1985, [99 Stat. 1620][/us/stat/99/1620].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1626
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1620
 
 

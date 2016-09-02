@@ -91,15 +91,15 @@
 
         The Secretary shall hold public hearings and shall develop detailed regulations, with notice and public comment, to guide the implementation of the standards for livestock products provided under this section.
 
-([Pub. L. 101–624, title XXI, § 2110][/us/pl/101/624/s2110], Nov. 28, 1990, [104 Stat. 3940][/us/stat/104/3940]; [Pub. L. 102–237, title X, § 1001(2)][/us/pl/102/237/s1001/2], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 109–97, title VII, § 797(c)][/us/pl/109/97/s797/c], Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2110, Nov. 28, 1990, [104 Stat. 3940][/us/stat/104/3940]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(2), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 797(c), Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
 
  __Amendments__ 
 
     2005—Subsec. (e)(2). [Pub. L. 109–97][/us/pl/109/97] designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), a dairy” for “A dairy”, and added subpar. (B).
 
-    1991—Subsec. (d)(1)(B). [Pub. L. 102–237, § 1001(2)(A)][/us/pl/102/237/s1001/2/A], substituted “parasiticides” for “paraciticides”.
+    1991—Subsec. (d)(1)(B). [Pub. L. 102–237][/us/pl/102/237], § 1001(2)(A), substituted “parasiticides” for “paraciticides”.
 
-    Subsecs. (g), (h). [Pub. L. 102–237, § 1001(2)(B)][/us/pl/102/237/s1001/2/B], redesignated subsec. (h) as (g).
+    Subsecs. (g), (h). [Pub. L. 102–237][/us/pl/102/237], § 1001(2)(B), redesignated subsec. (h) as (g).
 
 ----------
 
@@ -108,14 +108,14 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2110
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3940
-[/us/pl/102/237/s1001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F2
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/109/97/s797/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fc
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2165
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
-[/us/pl/102/237/s1001/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F2%2FA
-[/us/pl/102/237/s1001/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F2%2FB
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

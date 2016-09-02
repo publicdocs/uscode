@@ -17,7 +17,7 @@
 
     It is declared to be the policy of Congress to continue the Soil Conservation and Domestic Allotment Act, as amended \[[16 U.S.C. 590a][/us/usc/t16/s590a] et seq.\], for the purpose of conserving national resources, preventing the wasteful use of soil fertility, and of preserving, maintaining, and rebuilding the farm and ranch land resources in the national public interest; to accomplish these purposes through the encouragement of soil-building and soil-conserving crops and practices; to assist in the marketing of agricultural commodities for domestic consumption and for export; and to regulate interstate and foreign commerce in cotton, wheat, corn, and rice to the extent necessary to provide an orderly, adequate, and balanced flow of such commodities in interstate and foreign commerce through storage of reserve supplies, loans, marketing quotas, assisting farmers to obtain insofar as practicable, parity prices for such commodities and parity of income, and assisting consumers to obtain an adequate and steady supply of such commodities at fair prices.
 
-([Feb. 16, 1938, ch. 30, § 2][/us/act/1938-02-16/ch30/s2], [52 Stat. 31][/us/stat/52/31]; [Pub. L. 108–357, title VI, § 611(e)][/us/pl/108/357/s611/e], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], § 2, [52 Stat. 31][/us/stat/52/31]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(e), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Congressional Declaration of Policy Under Agricultural Act of 1961__ 
 
-[Pub. L. 87–128, § 2][/us/pl/87/128/s2], Aug. 8, 1961, [75 Stat. 294][/us/stat/75/294], provided that: 
+[Pub. L. 87–128][/us/pl/87/128], § 2, Aug. 8, 1961, [75 Stat. 294][/us/stat/75/294], provided that: 
 
 > “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
@@ -69,19 +69,19 @@
 
  __Congressional Declaration of Policy for Year 1949__ 
 
-[Act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 1(d), [62 Stat. 1248][/us/stat/62/1248], provided that: 
+[Act July 3, 1948, ch. 827, title I][/us/act/1948-07-03/ch827/tI], § 1(d), [62 Stat. 1248][/us/stat/62/1248], provided that: 
 
 > “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under [section 713a–8 of Title 15][/us/usc/t15/s713a–8], Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
 
  __Study of Parity Income Position of Farmers; Report to Congress by__  __June 30, 1966__ 
 
-    [Pub. L. 89–321, title VII, § 705][/us/pl/89/321/s705], Nov. 3, 1965, [79 Stat. 1210][/us/stat/79/1210], directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
+    [Pub. L. 89–321, title VII][/us/pl/89/321/tVII], § 705, Nov. 3, 1965, [79 Stat. 1210][/us/stat/79/1210], directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
 
  __Price Stabilization During Year 1950__ 
 
-    [Act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 1(a), (b), [62 Stat. 1247][/us/stat/62/1247], 1248, as amended [June 10, 1949, ch. 191][/us/act/1949-06-10/ch191], [63 Stat. 169][/us/stat/63/169], authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
+    [Act July 3, 1948, ch. 827, title I][/us/act/1948-07-03/ch827/tI], § 1(a), (b), [62 Stat. 1247][/us/stat/62/1247], 1248, as amended [June 10, 1949, ch. 191][/us/act/1949-06-10/ch191], [63 Stat. 169][/us/stat/63/169], authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
 
-    [Act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 2, [62 Stat. 1248][/us/stat/62/1248], authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under [section 713a–8 of this title][/us/usc/t7/s713a–8]).
+    [Act July 3, 1948, ch. 827, title I][/us/act/1948-07-03/ch827/tI], § 2, [62 Stat. 1248][/us/stat/62/1248], authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under [section 713a–8 of this title][/us/usc/t7/s713a–8]).
 
 ----------
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
-[/us/act/1938-02-16/ch30/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2Fs2
+[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31
-[/us/pl/108/357/s611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fe
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
@@ -107,19 +107,19 @@
 [/us/usc/t7/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs515
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610
-[/us/pl/87/128/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs2
+[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F294
 [/us/usc/t7/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtI
 [/us/stat/62/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1248
 [/us/usc/t15/s713a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%938
-[/us/pl/89/321/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs705
+[/us/pl/89/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVII
 [/us/stat/79/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1210
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtI
 [/us/stat/62/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1247
 [/us/act/1949-06-10/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-10%2Fch191
 [/us/stat/63/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F169
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtI
 [/us/stat/62/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1248
 [/us/usc/t7/s713a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs713a%E2%80%938
 

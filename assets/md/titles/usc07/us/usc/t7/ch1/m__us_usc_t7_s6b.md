@@ -59,7 +59,7 @@
 
         (3) to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
 
-([Sept. 21, 1922, ch. 369, § 4b][/us/act/1922-09-21/ch369/s4b], as added [June 15, 1936, ch. 545, § 5][/us/act/1936-06-15/ch545/s5], [49 Stat. 1493][/us/stat/49/1493]; amended [Pub. L. 90–258, § 5][/us/pl/90/258/s5], Feb. 19, 1968, [82 Stat. 27][/us/stat/82/27]; [Pub. L. 93–463, title IV, § 405][/us/pl/93/463/s405], Oct. 23, 1974, [88 Stat. 1413][/us/stat/88/1413]; [Pub. L. 99–641, title I, § 101][/us/pl/99/641/s101], Nov. 10, 1986, [100 Stat. 3557][/us/stat/100/3557]; [Pub. L. 102–546, title IV, § 402(3)][/us/pl/102/546/s402/3], Oct. 28, 1992, [106 Stat. 3624][/us/stat/106/3624]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII, § 13102][/us/pl/110/234/s13102], May 22, 2008, [122 Stat. 1432][/us/stat/122/1432]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2194; [Pub. L. 111–203, title VII, § 741(b)(1)][/us/pl/111/203/s741/b/1], July 21, 2010, [124 Stat. 1730][/us/stat/124/1730].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4b, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 5, [49 Stat. 1493][/us/stat/49/1493]; amended [Pub. L. 90–258][/us/pl/90/258], § 5, Feb. 19, 1968, [82 Stat. 27][/us/stat/82/27]; [Pub. L. 93–463, title IV][/us/pl/93/463/tIV], § 405, Oct. 23, 1974, [88 Stat. 1413][/us/stat/88/1413]; [Pub. L. 99–641, title I][/us/pl/99/641/tI], § 101, Nov. 10, 1986, [100 Stat. 3557][/us/stat/100/3557]; [Pub. L. 102–546, title IV][/us/pl/102/546/tIV], § 402(3), Oct. 28, 1992, [106 Stat. 3624][/us/stat/106/3624]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13102, May 22, 2008, [122 Stat. 1432][/us/stat/122/1432]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2194; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 741(b)(1), July 21, 2010, [124 Stat. 1730][/us/stat/124/1730].)
 
  __Codification__ 
 
@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–203, § 741(b)(1)(A)][/us/pl/111/203/s741/b/1/A], substituted “or swap,” for “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of [section 7a(g) of this title][/us/usc/t7/s7a/g],”.
+    2010—Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(1)(A), substituted “or swap,” for “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of [section 7a(g) of this title][/us/usc/t7/s7a/g],”.
 
-    Subsec. (b). [Pub. L. 111–203, § 741(b)(1)(B)][/us/pl/111/203/s741/b/1/B], substituted “or swap,” for “or other agreement, contract or transaction subject to paragraphs (1) and (2) of [section 7a(g) of this title][/us/usc/t7/s7a/g],”.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(1)(B), substituted “or swap,” for “or other agreement, contract or transaction subject to paragraphs (1) and (2) of [section 7a(g) of this title][/us/usc/t7/s7a/g],”.
 
-    Subsec. (e). [Pub. L. 111–203, § 741(b)(1)(C)][/us/pl/111/203/s741/b/1/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(1)(C), added subsec. (e).
 
-    2008—[Pub. L. 110–246, § 13102][/us/pl/110/246/s13102], inserted section catchline, added subsecs. (a) and (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which related to contracts designed to defraud or mislead and bucketing orders.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 13102, inserted section catchline, added subsecs. (a) and (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which related to contracts designed to defraud or mislead and bucketing orders.
 
     2000—Subsec. (a)(1). [Pub. L. 106–554][/us/pl/106/554] substituted “registered entity” for “contract market” in two places.
 
@@ -112,35 +112,35 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4b
-[/us/act/1936-06-15/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1493
-[/us/pl/90/258/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs5
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F27
-[/us/pl/93/463/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs405
+[/us/pl/93/463/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtIV
 [/us/stat/88/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1413
-[/us/pl/99/641/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs101
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3557
-[/us/pl/102/546/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F3
+[/us/pl/102/546/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtIV
 [/us/stat/106/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3624
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13102
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1432
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s741/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F1
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1730
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s741/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F1%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s7a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7a%2Fg
-[/us/pl/111/203/s741/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s7a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7a%2Fg
-[/us/pl/111/203/s741/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F1%2FC
-[/us/pl/110/246/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13102
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641

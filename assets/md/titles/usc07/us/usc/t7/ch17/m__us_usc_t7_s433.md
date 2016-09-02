@@ -23,11 +23,11 @@
 
     (c) the breeding, raising, producing, or marketing of such animals or their products by the producer shall be deemed an agricultural pursuit.
 
-([Apr. 30, 1946, ch. 242, § 1][/us/act/1946-04-30/ch242/s1], [60 Stat. 127][/us/stat/60/127].)
+([Apr. 30, 1946, ch. 242][/us/act/1946-04-30/ch242], § 1, [60 Stat. 127][/us/stat/60/127].)
 
  __Effective Date__ 
 
-[Act Apr. 30, 1946, ch. 242, § 3][/us/act/1946-04-30/ch242/s3], [60 Stat. 128][/us/stat/60/128], provided that: 
+[Act Apr. 30, 1946, ch. 242][/us/act/1946-04-30/ch242], § 3, [60 Stat. 128][/us/stat/60/128], provided that: 
 
 > “This Act \[enacting this section and [section 434 of this title][/us/usc/t7/s434]\] shall take effect sixty days after the date of its enactment \[Apr. 30, 1946\].”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1946-04-30/ch242/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242%2Fs1
+[/us/act/1946-04-30/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242
 [/us/stat/60/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F127
-[/us/act/1946-04-30/ch242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242%2Fs3
+[/us/act/1946-04-30/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242
 [/us/stat/60/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F128
 [/us/usc/t7/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs434
 

@@ -17,7 +17,7 @@
 
     The institution of any one of the proceedings provided for in sections 1595, 1596, 1599 to 1601 of this title shall not bar institution of any of the others, except that action shall not be instituted under both subsections 1596(a) and (b) of this title for the same cause of action. Nothing in this chapter shall be construed as requiring the Secretary of Agriculture to recommend prosecution, or institution of civil penalty proceedings, libel proceedings, cease-and-desist proceedings, or proceedings for the enforcement of a cease-and-desist order, for minor violations of this chapter or the rules and regulations made and promulgated thereunder whenever he believes that the public interest will be adequately served by suitable written notice or warning.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title IV, § 412, [53 Stat. 1288][/us/stat/53/1288]; [July 9, 1956, ch. 520, § 3][/us/act/1956-07-09/ch520/s3], [70 Stat. 508][/us/stat/70/508].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title IV, § 412, [53 Stat. 1288][/us/stat/53/1288]; [July 9, 1956, ch. 520][/us/act/1956-07-09/ch520], § 3, [70 Stat. 508][/us/stat/70/508].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1288
-[/us/act/1956-07-09/ch520/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520%2Fs3
+[/us/act/1956-07-09/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520
 [/us/stat/70/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F508
 [/us/usc/t7/s1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1596
 [/us/usc/t7/s1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1596

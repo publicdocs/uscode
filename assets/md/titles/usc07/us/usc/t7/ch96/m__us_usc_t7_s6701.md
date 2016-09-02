@@ -51,7 +51,7 @@
 
         (7) review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Science and Technology Policy and the Office of Management and Budget.
 
-([Pub. L. 101–624, title XXIV, § 2402][/us/pl/101/624/s2402], Nov. 28, 1990, [104 Stat. 4058][/us/stat/104/4058].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2402, Nov. 28, 1990, [104 Stat. 4058][/us/stat/104/4058].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XXIV, § 2401][/us/pl/101/624/s2401], Nov. 28, 1990, [104 Stat. 4058][/us/stat/104/4058], provided that: 
+[Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2401, Nov. 28, 1990, [104 Stat. 4058][/us/stat/104/4058], provided that: 
 
 > “This title \[enacting this chapter and amending sections 1601 and 1602 of Title 16, Conservation\] may be cited as the ‘Global Climate Change Prevention Act of 1990’.”
 
@@ -71,11 +71,11 @@
 ----------
 
 [/us/usc/t7/s6702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6702
-[/us/pl/101/624/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2402
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058
-[/us/pl/101/624/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2401
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058
 
 

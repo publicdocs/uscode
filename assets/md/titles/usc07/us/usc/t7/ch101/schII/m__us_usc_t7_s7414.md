@@ -253,7 +253,7 @@
 
             This subsection shall not authorize the withholding of information from Congress.
 
-([Pub. L. 104–127, title V, § 515][/us/pl/104/127/s515], Apr. 4, 1996, [110 Stat. 1036][/us/stat/110/1036].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 515, Apr. 4, 1996, [110 Stat. 1036][/us/stat/110/1036].)
 
 ----------
 
@@ -269,7 +269,7 @@
 [/us/usc/t7/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7416
 [/us/usc/t7/s7401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7401%2Fc
 [/us/usc/t7/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417
-[/us/pl/104/127/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs515
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1036
 
 

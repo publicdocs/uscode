@@ -31,15 +31,15 @@
 
         As used in this chapter, the term “honeybee” means all life stages and the germ plasm of honeybees of the genus Apis, except honeybee semen.
 
-([Aug. 31, 1922, ch. 301, § 1][/us/act/1922-08-31/ch301/s1], [42 Stat. 833][/us/stat/42/833]; [Pub. L. 87–539, § 1][/us/pl/87/539/s1], July 19, 1962, [76 Stat. 169][/us/stat/76/169]; [Pub. L. 94–319, § 1][/us/pl/94/319/s1], June 25, 1976, [90 Stat. 709][/us/stat/90/709]; [Pub. L. 103–182, title III, § 361(d)(2)][/us/pl/103/182/s361/d/2], Dec. 8, 1993, [107 Stat. 2123][/us/stat/107/2123]; [Pub. L. 103–465, title IV, § 431(e)][/us/pl/103/465/s431/e], Dec. 8, 1994, [108 Stat. 4968][/us/stat/108/4968].)
+([Aug. 31, 1922, ch. 301][/us/act/1922-08-31/ch301], § 1, [42 Stat. 833][/us/stat/42/833]; [Pub. L. 87–539][/us/pl/87/539], § 1, July 19, 1962, [76 Stat. 169][/us/stat/76/169]; [Pub. L. 94–319][/us/pl/94/319], § 1, June 25, 1976, [90 Stat. 709][/us/stat/90/709]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 361(d)(2), Dec. 8, 1993, [107 Stat. 2123][/us/stat/107/2123]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 431(e), Dec. 8, 1994, [108 Stat. 4968][/us/stat/108/4968].)
 
  __Amendments__ 
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally, substituting present provisions for former subsecs. (a) to (e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
 
-    1993—Subsec. (a)(3). [Pub. L. 103–182, § 361(d)(2)(A)][/us/pl/103/182/s361/d/2/A], added par. (3).
+    1993—Subsec. (a)(3). [Pub. L. 103–182][/us/pl/103/182], § 361(d)(2)(A), added par. (3).
 
-    Subsec. (b). [Pub. L. 103–182, § 361(d)(2)(B)][/us/pl/103/182/s361/d/2/B], inserted “(1)” after “only from” and added cl. (2).
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 361(d)(2)(B), inserted “(1)” after “only from” and added cl. (2).
 
     1976—[Pub. L. 94–319][/us/pl/94/319] incorporated existing provisions, which related only to honeybees, into subsecs. (a) to (e) relating to honeybees and honeybee semen, making honeybee provisions applicable to all life stages and the germ plasm of honeybees instead of only to honeybees in the adult stage, restating purpose of prohibiting importation of honeybees and restating conditions to be determined by Secretary of Agriculture with respect to countries from which honeybees may be imported.
 
@@ -64,19 +64,19 @@
 ----------
 ----------
 
-[/us/act/1922-08-31/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301%2Fs1
+[/us/act/1922-08-31/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301
 [/us/stat/42/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F833
-[/us/pl/87/539/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F539%2Fs1
+[/us/pl/87/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F539
 [/us/stat/76/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F169
-[/us/pl/94/319/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319%2Fs1
+[/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 [/us/stat/90/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F709
-[/us/pl/103/182/s361/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Fd%2F2
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2123
-[/us/pl/103/465/s431/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fe
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4968
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/182/s361/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Fd%2F2%2FA
-[/us/pl/103/182/s361/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Fd%2F2%2FB
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 [/us/pl/87/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F539
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch50/schVIII/m__us_usc_t7_s2009cc–15.md) | [Next](./../../../../..//us/usc/t7/ch50/schVIII/m__us_usc_t7_s2009cc–17.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%9316)
 
-## § 2009cc–16. Repealed. [Pub. L. 110–234, title VI, § 6027(e)][/us/pl/110/234/s6027/e], May 22, 2008, [122 Stat. 1183][/us/stat/122/1183], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6027(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1944
+## § 2009cc–16. Repealed. [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6027(e), May 22, 2008, [122 Stat. 1183][/us/stat/122/1183], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6027(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1944
 
-    Section, [Pub. L. 87–128, title III, § 384Q][/us/pl/87/128/s384Q], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 401][/us/stat/116/401], related to interagency agreement to carry out day-to-day management and operation of the program.
+    Section, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384Q, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 401][/us/stat/116/401], related to interagency agreement to carry out day-to-day management and operation of the program.
 
  __Codification__ 
 
@@ -32,12 +32,12 @@
 ----------
 ----------
 
-[/us/pl/110/234/s6027/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6027%2Fe
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1183
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/87/128/s384Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384Q
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F401
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

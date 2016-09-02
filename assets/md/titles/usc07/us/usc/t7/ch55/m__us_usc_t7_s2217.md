@@ -17,11 +17,11 @@
 
     Such officers, agents, or employees of the Department of Agriculture of the United States as are designated by the Secretary of Agriculture for the purpose are authorized and empowered to administer to or take from any person an oath, affirmation, or affidavit whenever such oath, affirmation, or affidavit is for use in any prosecution or proceeding under or in the enforcement of any law committed to or which may be committed to the Secretary of Agriculture or the Department of Agriculture or any bureau or subdivision thereof for administration. Any such oath, affirmation, or affidavit administered or taken by or before such officer, agent, or employee when certified under his hand and authenticated by the seal of the Department of Agriculture may be offered or used in any court of the United States and shall have like force and effect as if administered or taken before a clerk of such court without further proof of the identity or authority of such officer, agent, or employee.
 
-([Jan. 31, 1925, ch. 124, § 1][/us/act/1925-01-31/ch124/s1], [43 Stat. 803][/us/stat/43/803].)
+([Jan. 31, 1925, ch. 124][/us/act/1925-01-31/ch124], § 1, [43 Stat. 803][/us/stat/43/803].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 521 of Title 5][/us/usc/t5/s521] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 521 of Title 5][/us/usc/t5/s521] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Department of the Interior Personnel__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1925-01-31/ch124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-31%2Fch124%2Fs1
+[/us/act/1925-01-31/ch124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-31%2Fch124
 [/us/stat/43/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F803
 [/us/usc/t5/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs521
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232

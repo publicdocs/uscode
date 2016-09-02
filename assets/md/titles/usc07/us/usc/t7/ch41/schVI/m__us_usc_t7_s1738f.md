@@ -63,7 +63,7 @@
 
         (7) have any grant over $100,000 be subject to veto by the United States and the government of the eligible country.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 607, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659]; amended [Pub. L. 102–237, title III, § 305][/us/pl/102/237/s305], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 607, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 305, Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
 
  __Amendments__ 
 
@@ -88,9 +88,9 @@
 [/us/usc/t7/s1738i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i
 [/us/usc/t7/s1738i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3659
-[/us/pl/102/237/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs305
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1855
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738

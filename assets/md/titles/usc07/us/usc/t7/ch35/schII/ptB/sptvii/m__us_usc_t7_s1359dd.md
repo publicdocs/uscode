@@ -221,7 +221,7 @@
 
                     Any decision made under this subsection may be appealed to the Secretary in accordance with [section 1359ii of this title][/us/usc/t7/s1359ii].
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359d, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 191][/us/stat/116/191]; amended [Pub. L. 110–234, title I, § 1403(d)][/us/pl/110/234/s1403/d], May 22, 2008, [122 Stat. 984][/us/stat/122/984]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1712.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359d, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 191][/us/stat/116/191]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(d), May 22, 2008, [122 Stat. 984][/us/stat/122/984]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1712.)
 
  __Codification__ 
 
@@ -229,13 +229,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 1359dd, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359d, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3483][/us/stat/104/3483]; amended [Pub. L. 102–237, title I, § 111(f)][/us/pl/102/237/s111/f], Dec. 13, 1991, [105 Stat. 1833][/us/stat/105/1833], related to allocation of marketing allotments, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359dd, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359d, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3483][/us/stat/104/3483]; amended [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(f), Dec. 13, 1991, [105 Stat. 1833][/us/stat/105/1833], related to allocation of marketing allotments, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(F). [Pub. L. 110–246, § 1403(d)(1)][/us/pl/110/246/s1403/d/1], substituted “If” for “Except as otherwise provided in [section 1359ff(c)(8) of this title][/us/usc/t7/s1359ff/c/8], if”.
+    2008—Subsec. (b)(1)(F). [Pub. L. 110–246][/us/pl/110/246], § 1403(d)(1), substituted “If” for “Except as otherwise provided in [section 1359ff(c)(8) of this title][/us/usc/t7/s1359ff/c/8], if”.
 
-    Subsec. (b)(2)(G) to (I). [Pub. L. 110–246, § 1403(d)(2)][/us/pl/110/246/s1403/d/2], added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+    Subsec. (b)(2)(G) to (I). [Pub. L. 110–246][/us/pl/110/246], § 1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -256,25 +256,25 @@
 [/us/usc/t7/s1359cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359cc
 [/us/usc/t7/s1359ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359ii
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F191
-[/us/pl/110/234/s1403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fd
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F984
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3483
-[/us/pl/102/237/s111/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Ff
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1833
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s1403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fd%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1359ff/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359ff%2Fc%2F8
-[/us/pl/110/246/s1403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fd%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

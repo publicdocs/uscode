@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2002 through 2007.
 
-([Pub. L. 87–128, title III, § 379C][/us/pl/87/128/s379C], as added [Pub. L. 107–171, title VI, § 6025][/us/pl/107/171/s6025], May 13, 2002, [116 Stat. 372][/us/stat/116/372].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 379C, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6025, May 13, 2002, [116 Stat. 372][/us/stat/116/372].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s379C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs379C
-[/us/pl/107/171/s6025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6025
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F372
 
 

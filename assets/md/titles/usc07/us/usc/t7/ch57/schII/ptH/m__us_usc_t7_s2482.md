@@ -17,7 +17,7 @@
 
     A certificate of plant variety protection shall be issued in the name of the United States of America under the seal of the Plant Variety Protection Office, and shall be signed by the Secretary or have the signature of the Secretary placed thereon, and shall be recorded in the Plant Variety Protection Office.
 
-([Pub. L. 91–577, title II, § 82][/us/pl/91/577/s82], Dec. 24, 1970, [84 Stat. 1551][/us/stat/84/1551]; [Pub. L. 103–349, § 13][/us/pl/103/349/s13](l), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 82, Dec. 24, 1970, [84 Stat. 1551][/us/stat/84/1551]; [Pub. L. 103–349][/us/pl/103/349], § 13(l), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs82
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1551
-[/us/pl/103/349/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

@@ -23,11 +23,11 @@
 
     (3) to facilitate interstate commerce in fresh and processed food that is organically produced.
 
-([Pub. L. 101–624, title XXI, § 2102][/us/pl/101/624/s2102], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2102, Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935].)
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XXI, § 2101][/us/pl/101/624/s2101], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], provided that: 
+[Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2101, Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Organic Foods Production Act of 1990’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2102
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
-[/us/pl/101/624/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2101
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 
 

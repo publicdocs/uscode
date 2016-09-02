@@ -43,7 +43,7 @@
 
             In the case of a license described in paragraph (1) that was approved before July 1, 2007, the Secretary shall not collect any fees due on or after the date of enactment of this paragraph.
 
-([Pub. L. 87–128, title III, § 384G][/us/pl/87/128/s384G], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 395][/us/stat/116/395]; amended [Pub. L. 110–234, title VI, § 6027(b)][/us/pl/110/234/s6027/b], May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6027(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1943.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384G, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 395][/us/stat/116/395]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6027(b), May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6027(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1943.)
 
  __References in Text__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 6027(b)(1)][/us/pl/110/246/s6027/b/1], substituted “a fee that does not exceed $500” for “such fees as the Secretary considers appropriate”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 6027(b)(1), substituted “a fee that does not exceed $500” for “such fees as the Secretary considers appropriate”.
 
-    Subsec. (b). [Pub. L. 110–246, § 6027(b)(2)][/us/pl/110/246/s6027/b/2], substituted “that does not exceed $500” for “approved by the Secretary”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 6027(b)(2), substituted “that does not exceed $500” for “approved by the Secretary”.
 
-    Subsec. (c)(1). [Pub. L. 110–246, § 6027(b)(3)(A)][/us/pl/110/246/s6027/b/3/A], substituted “Except as provided in paragraph (3), the” for “The”.
+    Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 6027(b)(3)(A), substituted “Except as provided in paragraph (3), the” for “The”.
 
-    Subsec. (c)(2)(C). [Pub. L. 110–246, § 6027(b)(3)(B)][/us/pl/110/246/s6027/b/3/B], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 110–246][/us/pl/110/246], § 6027(b)(3)(B), added subpar. (C).
 
-    Subsec. (c)(3). [Pub. L. 110–246, § 6027(b)(3)(C)][/us/pl/110/246/s6027/b/3/C], added par. (3).
+    Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 6027(b)(3)(C), added par. (3).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -78,23 +78,23 @@
 
 [/us/usc/t7/s2009cc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%935
 [/us/usc/t7/s2009cc–5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%935%2Fe%2F2
-[/us/pl/87/128/s384G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384G
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F395
-[/us/pl/110/234/s6027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6027%2Fb
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1182
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6027/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fb%2F1
-[/us/pl/110/246/s6027/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fb%2F2
-[/us/pl/110/246/s6027/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fb%2F3%2FA
-[/us/pl/110/246/s6027/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fb%2F3%2FB
-[/us/pl/110/246/s6027/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fb%2F3%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

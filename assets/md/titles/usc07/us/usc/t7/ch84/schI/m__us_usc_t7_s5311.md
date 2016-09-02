@@ -35,7 +35,7 @@
 
         (2) administer the coordinated program with the advice and counsel of the joint chairpersons of the Board, serve as the focal point for the coordinated program, and serve as the Executive Secretary for the National Nutrition Monitoring Advisory Council.
 
-([Pub. L. 101–445, title I, § 101][/us/pl/101/445/s101], Oct. 22, 1990, [104 Stat. 1035][/us/stat/104/1035].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 101, Oct. 22, 1990, [104 Stat. 1035][/us/stat/104/1035].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs101
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1035
 
 

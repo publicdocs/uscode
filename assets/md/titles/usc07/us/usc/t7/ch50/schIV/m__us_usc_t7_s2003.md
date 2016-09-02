@@ -71,7 +71,7 @@
 
         Not later than 180 days after April 4, 1996, the Secretary shall ensure that the implementation of this section is consistent with the holding of the Supreme Court in Adarand Constructors, Inc. v. Federico Pena, Secretary of Transportation, 115 S. Ct. 2097 (1995).
 
-([Pub. L. 87–128, title III, § 355][/us/pl/87/128/s355], as added [Pub. L. 100–233, title VI, § 617][/us/pl/100/233/s617], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; amended [Pub. L. 101–624, title XVIII, § 1817][/us/pl/101/624/s1817], title XXV, § 2501(f), Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829], 4065; [Pub. L. 102–554, § 21(a)][/us/pl/102/554/s21/a], (b), Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 104–127, title VI, § 647][/us/pl/104/127/s647], Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104]; [Pub. L. 107–171, title V, § 5315][/us/pl/107/171/s5315], May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 355, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 617, Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1817, title XXV, § 2501(f), Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829], 4065; [Pub. L. 102–554][/us/pl/102/554], § 21(a), (b), Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 647, Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5315, May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
 
  __References in Text__ 
 
@@ -83,17 +83,17 @@
 
     1996—Subsec. (f). [Pub. L. 104–127][/us/pl/104/127] added subsec. (f).
 
-    1992—Subsec. (a)(2). [Pub. L. 102–554, § 21(a)(1)][/us/pl/102/554/s21/a/1], substituted “Except as provided in paragraph (3), in establishing” for “In establishing”.
+    1992—Subsec. (a)(2). [Pub. L. 102–554][/us/pl/102/554], § 21(a)(1), substituted “Except as provided in paragraph (3), in establishing” for “In establishing”.
 
-    Subsec. (a)(3). [Pub. L. 102–554, § 21(a)(2)][/us/pl/102/554/s21/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–554][/us/pl/102/554], § 21(a)(2), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 102–554, § 21(b)][/us/pl/102/554/s21/b], substituted “, ethnic, or gender” for “or ethnic”.
+    Subsec. (e)(1). [Pub. L. 102–554][/us/pl/102/554], § 21(b), substituted “, ethnic, or gender” for “or ethnic”.
 
-    1990—Subsec. (b)(3). [Pub. L. 101–624, § 1817][/us/pl/101/624/s1817], added par. (3).
+    1990—Subsec. (b)(3). [Pub. L. 101–624][/us/pl/101/624], § 1817, added par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 101–624, § 2501(f)(1)][/us/pl/101/624/s2501/f/1]–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.”
+    Subsecs. (c), (d). [Pub. L. 101–624][/us/pl/101/624], § 2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.”
 
-    Subsec. (e). [Pub. L. 101–624, § 2501(f)(4)][/us/pl/101/624/s2501/f/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 2501(f)(4), added subsec. (e).
 
  __Termination of Reporting Requirements__ 
 
@@ -106,26 +106,26 @@
 ----------
 ----------
 
-[/us/pl/87/128/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs355
-[/us/pl/100/233/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs617
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1682
-[/us/pl/101/624/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1817
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3829
-[/us/pl/102/554/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs21%2Fa
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4161
-[/us/pl/104/127/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs647
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1104
-[/us/pl/107/171/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5315
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F348
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/554/s21/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs21%2Fa%2F1
-[/us/pl/102/554/s21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs21%2Fa%2F2
-[/us/pl/102/554/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs21%2Fb
-[/us/pl/101/624/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1817
-[/us/pl/101/624/s2501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501%2Ff%2F1
-[/us/pl/101/624/s2501/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501%2Ff%2F4
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 

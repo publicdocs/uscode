@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized to encourage and foster the regular evaluation of agricultural research, extension, and teaching programs within the State agricultural experiment stations, cooperative extension services, and colleges and universities, through the development and support of cooperative evaluation programs and program evaluation centers and institutes.
 
-([Pub. L. 95–113, title XIV, § 1471][/us/pl/95/113/s1471], as added [Pub. L. 97–98, title XIV, § 1439(a)][/us/pl/97/98/s1439/a], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1471, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1439(a), Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1471
-[/us/pl/97/98/s1439/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1439%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1314
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

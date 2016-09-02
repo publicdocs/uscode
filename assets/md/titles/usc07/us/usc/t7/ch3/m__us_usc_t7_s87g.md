@@ -19,7 +19,7 @@
 
     (b) If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 18, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582, § 20][/us/pl/94/582/s20], Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 18, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582][/us/pl/94/582], § 20, Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F769
-[/us/pl/94/582/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs20
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2886
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582

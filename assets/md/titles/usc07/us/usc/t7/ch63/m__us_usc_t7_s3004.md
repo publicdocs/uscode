@@ -41,13 +41,13 @@
 
         In the implementation of this section, the Secretary shall take into account consumer preferences and needs which may bear upon the establishment and operation of arrangements for direct marketing from farmers to consumers.
 
-([Pub. L. 94–463, § 5][/us/pl/94/463/s5], Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982]; [Pub. L. 107–171, title X, § 10605(b)(2)][/us/pl/107/171/s10605/b/2], May 13, 2002, [116 Stat. 513][/us/stat/116/513].)
+([Pub. L. 94–463][/us/pl/94/463], § 5, Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10605(b)(2), May 13, 2002, [116 Stat. 513][/us/stat/116/513].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 10605(b)(2)(A)][/us/pl/107/171/s10605/b/2/A], substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 10605(b)(2)(A), substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
 
-    Subsecs. (b), (c). [Pub. L. 107–171, § 10605(b)(2)(B)][/us/pl/107/171/s10605/b/2/B], (C), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 107–171][/us/pl/107/171], § 10605(b)(2)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 ----------
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/94/463/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs5
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
 [/us/stat/90/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1982
-[/us/pl/107/171/s10605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10605%2Fb%2F2
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F513
-[/us/pl/107/171/s10605/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10605%2Fb%2F2%2FA
-[/us/pl/107/171/s10605/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10605%2Fb%2F2%2FB
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 
 

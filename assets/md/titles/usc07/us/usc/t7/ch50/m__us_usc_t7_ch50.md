@@ -865,7 +865,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008" data-uslm-ref="/us/usc/t7/s2008">2008</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008l" data-uslm-ref="/us/usc/t7/s2008l">2008l</a>.  </td>
 
     <td> Eligibility of employees of State, county, or area committee for loans and loan guarantees.  </td>
 
@@ -889,7 +889,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008" data-uslm-ref="/us/usc/t7/s2008">2008</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008o" data-uslm-ref="/us/usc/t7/s2008o">2008o</a>.  </td>
 
     <td> Historic barn preservation.  </td>
 
@@ -1065,7 +1065,7 @@ SUBCHAPTER V—RURAL COMMUNITY ADVANCEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2009" data-uslm-ref="/us/usc/t7/s2009">2009</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2009l" data-uslm-ref="/us/usc/t7/s2009l">2009l.</a>  </td>
 
     <td> Duties of Rural Economic and Community Development State Offices.  </td>
 

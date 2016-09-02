@@ -17,7 +17,7 @@
 
     All the expenses of management, superintendence, and taxes from date of selection of said lands, previous to their sales, and all expenses incurred in the management and disbursement of the moneys which may be received therefrom, shall be paid by the States to which they may belong, out of the treasury of said States, so that the entire proceeds of the sale of said lands shall be applied without any diminution whatever to the purposes in sections 304, 305, 307 and 308 of this title mentioned.
 
-([July 2, 1862, ch. 130, § 3][/us/act/1862-07-02/ch130/s3], [12 Stat. 504][/us/stat/12/504].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 3, [12 Stat. 504][/us/stat/12/504].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1862-07-02/ch130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs3
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F504
 
 

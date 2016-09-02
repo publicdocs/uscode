@@ -47,7 +47,7 @@
 
         The Secretary shall seek to enter into cooperative agreements with other Federal departments and agencies that have related programs or activities to help ensure consistent, accurate, and coordinated dissemination of information throughout the executive branch in the event of a crisis, such as, in the case of a threat to human health from food-borne pathogens, developing a rapid and coordinated response among the Department, the Centers for Disease Control, and the Food and Drug Administration.
 
-([Pub. L. 105–185, title VI, § 618][/us/pl/105/185/s618], June 23, 1998, [112 Stat. 607][/us/stat/112/607].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 618, June 23, 1998, [112 Stat. 607][/us/stat/112/607].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/105/185/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs618
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F607
 
 

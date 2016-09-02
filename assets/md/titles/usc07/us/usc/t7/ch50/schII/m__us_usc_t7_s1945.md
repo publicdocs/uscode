@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1944.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1946.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1945)
 
-## § 1945. Repealed. [Pub. L. 104–127, title VI, § 613][/us/pl/104/127/s613], Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089]
+## § 1945. Repealed. [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 613, Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089]
 
-    Section, [Pub. L. 87–128, title III, § 315][/us/pl/87/128/s315], Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311], authorized Secretary to participate in certain loans made under this subchapter.
+    Section, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 315, Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311], authorized Secretary to participate in certain loans made under this subchapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/127/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs613
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1089
-[/us/pl/87/128/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs315
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F311
 
 

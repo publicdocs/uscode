@@ -33,7 +33,7 @@
 
         (2) limit the authority of any of the participating agencies to request and receive funds for such purposes (for use in the coordinated program) under other laws.
 
-([Pub. L. 101–445, title I, § 106][/us/pl/101/445/s106], Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 106, Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
 
  __Change of Name__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/445/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs106
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1040
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

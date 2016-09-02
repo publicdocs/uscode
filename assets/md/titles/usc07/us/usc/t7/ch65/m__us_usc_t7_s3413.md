@@ -29,7 +29,7 @@
 
     (f) the organization’s ability and willingness to further the aims and objectives of this title: Provided, That the primary consideration in determining the eligibility of an organization, other than a consumer organization, shall be whether its membership consists primarily of wheat producers, processors, or end product manufacturers who produce a substantial volume of wheat, processed wheat, or end products, respectively, and whether the organization is based on a primary or overriding interest in the production, processing, or end manufacture of wheat or wheat products, and the nutritional attributes thereof: Provided further, That the primary consideration in determining the eligibility of a consumer organization shall be whether (1) a principal purpose of the organization is to promote consumer interests, consumer research, or consumer education, (2) such organization has a broadly representative constituency of consumers, with active membership participation on a regular basis, and (3) the organization has demonstrated to the Secretary’s satisfaction its commitment to the achievement of the objectives of this chapter.
 
-([Pub. L. 95–113, title XVII, § 1714][/us/pl/95/113/s1714], Sept. 29, 1977, [91 Stat. 1039][/us/stat/91/1039].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1714, Sept. 29, 1977, [91 Stat. 1039][/us/stat/91/1039].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t7/s3403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3403%2Fa
 [/us/usc/t7/s3405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3405%2Fb
-[/us/pl/95/113/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1714
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1039
 
 

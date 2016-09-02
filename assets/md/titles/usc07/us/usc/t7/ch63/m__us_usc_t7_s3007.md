@@ -45,7 +45,7 @@
 
         Section 1693o–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
 
-([Pub. L. 107–171, title IV, § 4402][/us/pl/107/171/s4402], May 13, 2002, [116 Stat. 334][/us/stat/116/334]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4231, 4406(c)(1), May 22, 2008, [122 Stat. 1124][/us/stat/122/1124], 1142; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4231, 4406(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1886, 1903; [Pub. L. 111–203, title X, § 1075(c)][/us/pl/111/203/s1075/c], July 21, 2010, [124 Stat. 2074][/us/stat/124/2074]; [Pub. L. 113–79, title IV, § 4203(a)][/us/pl/113/79/s4203/a], Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822].)
+([Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4402, May 13, 2002, [116 Stat. 334][/us/stat/116/334]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4231, 4406(c)(1), May 22, 2008, [122 Stat. 1124][/us/stat/122/1124], 1142; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4231, 4406(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1886, 1903; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1075(c), July 21, 2010, [124 Stat. 2074][/us/stat/124/2074]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4203(a), Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822].)
 
  __Codification__ 
 
@@ -59,17 +59,17 @@
 
     2010—Subsec. (f). [Pub. L. 111–203][/us/pl/111/203] added subsec. (f).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4406(c)(1)][/us/pl/110/246/s4406/c/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.”
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.”
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 4231(1)][/us/pl/110/246/s4231/1], inserted “honey,” after “vegetables,”.
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 4231(1), inserted “honey,” after “vegetables,”.
 
-    Subsec. (c). [Pub. L. 110–246, § 4231(2)][/us/pl/110/246/s4231/2], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.”
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.”
 
-    Subsecs. (d), (e). [Pub. L. 110–246, § 4231(3)][/us/pl/110/246/s4231/3], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246], § 4231(3), added subsecs. (d) and (e).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–79, title IV, § 4203(b)][/us/pl/113/79/s4203/b], Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822], provided that: 
+[Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4203(b), Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2013.”
 
@@ -94,15 +94,15 @@
 ----------
 ----------
 
-[/us/pl/107/171/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4402
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F334
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1124
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s1075/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1075%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2074
-[/us/pl/113/79/s4203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4203%2Fa
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F822
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -110,11 +110,11 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/246/s4406/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4406%2Fc%2F1
-[/us/pl/110/246/s4231/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4231%2F1
-[/us/pl/110/246/s4231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4231%2F2
-[/us/pl/110/246/s4231/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4231%2F3
-[/us/pl/113/79/s4203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4203%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F822
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

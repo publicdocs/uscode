@@ -31,7 +31,7 @@
 
         Information pertaining to the status of a particular proposal shall be retrievable within the central system by appropriate categories, as determined appropriate by the Secretary.
 
-([Pub. L. 95–501, title IV, § 403][/us/pl/95/501/s403], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3682][/us/stat/104/3682].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 403, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3682][/us/stat/104/3682].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/95/501/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs403
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3682
 
 

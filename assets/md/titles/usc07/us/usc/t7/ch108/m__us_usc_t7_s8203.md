@@ -21,7 +21,7 @@
 
     (2) at the option of the Secretary, sufficient seedlings to reestablish a stand.
 
-([Pub. L. 107–171, title X, § 10203][/us/pl/107/171/s10203], May 13, 2002, [116 Stat. 491][/us/stat/116/491].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10203, May 13, 2002, [116 Stat. 491][/us/stat/116/491].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t7/s8204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8204
 [/us/usc/t7/s8202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8202
-[/us/pl/107/171/s10203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10203
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F491
 
 

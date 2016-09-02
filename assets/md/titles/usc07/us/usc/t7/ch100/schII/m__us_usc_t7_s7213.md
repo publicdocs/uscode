@@ -73,13 +73,13 @@
 
         The amount available under subsection (a) for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) 1 of this title.
 
-([Pub. L. 104–127, title I, § 113][/us/pl/104/127/s113], Apr. 4, 1996, [110 Stat. 900][/us/stat/110/900].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 113, Apr. 4, 1996, [110 Stat. 900][/us/stat/110/900].)
 
  __References in Text__ 
 
     Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified to sections 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
 
-    [Section 1308(1) of this title][/us/usc/t7/s1308/1], referred to in subsecs. (e), (f), was repealed by [Pub. L. 107–171, title I, § 1603(a)][/us/pl/107/171/s1603/a], May 13, 2002, [116 Stat. 213][/us/stat/116/213].
+    [Section 1308(1) of this title][/us/usc/t7/s1308/1], referred to in subsecs. (e), (f), was repealed by [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1603(a), May 13, 2002, [116 Stat. 213][/us/stat/116/213].
 
 ----------
 
@@ -91,10 +91,10 @@
 [/us/usc/t7/s1445j/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445j%2Fa%2F2
 [/us/usc/t7/s7216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7216
 [/us/usc/t7/s7215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7215
-[/us/pl/104/127/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs113
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F900
 [/us/usc/t7/s1308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F1
-[/us/pl/107/171/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fa
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F213
 
 

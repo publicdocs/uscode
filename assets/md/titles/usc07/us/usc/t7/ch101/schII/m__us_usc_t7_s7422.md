@@ -17,7 +17,7 @@
 
     The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that [section 7417 of this title][/us/usc/t7/s7417] shall not apply to an amendment.
 
-([Pub. L. 104–127, title V, § 523][/us/pl/104/127/s523], Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 523, Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417
-[/us/pl/104/127/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs523
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1047
 
 

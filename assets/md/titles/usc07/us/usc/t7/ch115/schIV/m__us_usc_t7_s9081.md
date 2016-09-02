@@ -367,7 +367,7 @@
 
             Subsections (e) and (f) of section 1001 of the Food Security Act of 1985 ([7 U.S.C. 1308][/us/usc/t7/s1308]) or any successor provisions relating to direct attribution shall apply with respect to assistance provided under this section.
 
-([Pub. L. 113–79, title I, § 1501][/us/pl/113/79/s1501], Feb. 7, 2014, [128 Stat. 697][/us/stat/128/697].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1501, Feb. 7, 2014, [128 Stat. 697][/us/stat/128/697].)
 
  __References in Text__ 
 
@@ -385,7 +385,7 @@
 [/us/usc/t7/s1308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fa
 [/us/usc/t7/s1308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fa
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/113/79/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1501
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F697
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

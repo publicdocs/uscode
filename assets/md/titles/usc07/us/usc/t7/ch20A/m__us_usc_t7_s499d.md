@@ -43,7 +43,7 @@
 
         The Secretary may refuse to issue a license to an applicant if he finds that the applicant, or in case the applicant is a partnership, any general partner, or in case the applicant is a corporation, any officer or holder of more than 10 per centum of the stock, has, within three years prior to the date of the application, been adjudicated or discharged as a bankrupt, or was a general partner of a partnership or officer or holder of more than 10 per centum of the stock of a corporation adjudicated or discharged as a bankrupt, and if he finds that the circumstances of such bankruptcy warrant such a refusal, unless the applicant furnishes a bond of such nature and amount as may be determined by the Secretary or other assurance satisfactory to the Secretary that the business of the applicant will be conducted in accordance with this chapter.
 
-([June 10, 1930, ch. 436, § 4][/us/act/1930-06-10/ch436/s4], [46 Stat. 533][/us/stat/46/533]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 4–7, [48 Stat. 585][/us/stat/48/585], 586; [June 19, 1936, ch. 602, § 2][/us/act/1936-06-19/ch602/s2], [49 Stat. 1533][/us/stat/49/1533]; [Aug. 20, 1937, ch. 719, § 6][/us/act/1937-08-20/ch719/s6], [50 Stat. 726][/us/stat/50/726]; [June 15, 1950, ch. 254, § 2][/us/act/1950-06-15/ch254/s2], [64 Stat. 218][/us/stat/64/218]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], §§ 2(b), 3, 4, [70 Stat. 726][/us/stat/70/726]; [Pub. L. 87–725][/us/pl/87/725], §§ 5–7, Oct. 1, 1962, [76 Stat. 674][/us/stat/76/674]; [Pub. L. 95–598, title III, § 303][/us/pl/95/598/s303], Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; [Pub. L. 102–237, title X, § 1011(2)][/us/pl/102/237/s1011/2], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 4(c), 5(b), 12(c), Nov. 15, 1995, [109 Stat. 427][/us/stat/109/427], 431.)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 4, [46 Stat. 533][/us/stat/46/533]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 4–7, [48 Stat. 585][/us/stat/48/585], 586; [June 19, 1936, ch. 602][/us/act/1936-06-19/ch602], § 2, [49 Stat. 1533][/us/stat/49/1533]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 6, [50 Stat. 726][/us/stat/50/726]; [June 15, 1950, ch. 254][/us/act/1950-06-15/ch254], § 2, [64 Stat. 218][/us/stat/64/218]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], §§ 2(b), 3, 4, [70 Stat. 726][/us/stat/70/726]; [Pub. L. 87–725][/us/pl/87/725], §§ 5–7, Oct. 1, 1962, [76 Stat. 674][/us/stat/76/674]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 303, Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(2), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 4(c), 5(b), 12(c), Nov. 15, 1995, [109 Stat. 427][/us/stat/109/427], 431.)
 
  __Codification__ 
 
@@ -53,21 +53,21 @@
 
     1995—Subsec. (a). [Pub. L. 104–48][/us/pl/104/48], §§ 4(c), 5(b), substituted “the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)” for “any anniversary date thereof unless the annual fee has been paid” in provisions before first proviso, “the necessity of renewing the license and of paying the renewal fee (if such fee is required)” for “the necessity of paying the annual fee” in first proviso and “renewal fee (if required)” for “annual fee” and “plus $50” for “plus $5” in second proviso.
 
-    Subsec. (b). [Pub. L. 104–48, § 12(c)(1)][/us/pl/104/48/s12/c/1], inserted “is prohibited from employment with a licensee under [section 499h(b) of this title][/us/usc/t7/s499h/b] or” after “with the applicant,” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–48][/us/pl/104/48], § 12(c)(1), inserted “is prohibited from employment with a licensee under [section 499h(b) of this title][/us/usc/t7/s499h/b] or” after “with the applicant,” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 104–48, § 12(c)(2)][/us/pl/104/48/s12/c/2], inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under [section 499h(b) of this title][/us/usc/t7/s499h/b].”
+    Subsec. (c). [Pub. L. 104–48][/us/pl/104/48], § 12(c)(2), inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under [section 499h(b) of this title][/us/usc/t7/s499h/b].”
 
     1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237] substituted “annual” for “anual” before “fee has been paid”.
 
-    1978—Subsec. (a). [Pub. L. 95–598, § 303(a)][/us/pl/95/598/s303/a], inserted “, unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination”.
+    1978—Subsec. (a). [Pub. L. 95–598][/us/pl/95/598], § 303(a), inserted “, unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination”.
 
-    Subsec. (e). [Pub. L. 95–598, § 303(b)][/us/pl/95/598/s303/b], inserted “and if he finds that the circumstances of such bankruptcy warrant such a refusal,”.
+    Subsec. (e). [Pub. L. 95–598][/us/pl/95/598], § 303(b), inserted “and if he finds that the circumstances of such bankruptcy warrant such a refusal,”.
 
-    1962—Subsec. (a). [Pub. L. 87–725, § 5][/us/pl/87/725/s5], inserted proviso that the license of any licensee shall terminate, if he, or in case the licensee is a partnership, any partner, is discharged as a bankrupt.
+    1962—Subsec. (a). [Pub. L. 87–725][/us/pl/87/725], § 5, inserted proviso that the license of any licensee shall terminate, if he, or in case the licensee is a partnership, any partner, is discharged as a bankrupt.
 
-    Subsec. (b). [Pub. L. 87–725, § 6][/us/pl/87/725/s6], amended subsection generally, and among other changes, required refusal of a license upon showing responsible connection by the applicant, or by any person responsibly connected with him, with a person guilty of the specified conduct, without requiring that the applicant was responsible in whole or in part for such conduct, and upon the grounds specified in clause (C) relating to being found guilty in a Federal court of having violated the provisions of sections 491, 493 to 497 of this title, provided that the provisions regarding flagrant or repeated violation of [section 499b of this title][/us/usc/t7/s499b] shall not apply where the license in such case was suspended and the suspension period has expired or is not in effect, and eliminated provisions which, notwithstanding the grounds for refusal specified in the section, permitted the Secretary to issue a license upon the applicant furnishing a bond or other satisfactory assurance that his business would be conducted in accordance with this chapter, and that he would pay reparation orders previously issued against him or which could be issued against him within two years after receiving the license, but such license could not be issued until after the expiration of one year from the revocation or from the finding that the applicant was responsible, for any flagrant or repeated violation of [section 499b of this title][/us/usc/t7/s499b].
+    Subsec. (b). [Pub. L. 87–725][/us/pl/87/725], § 6, amended subsection generally, and among other changes, required refusal of a license upon showing responsible connection by the applicant, or by any person responsibly connected with him, with a person guilty of the specified conduct, without requiring that the applicant was responsible in whole or in part for such conduct, and upon the grounds specified in clause (C) relating to being found guilty in a Federal court of having violated the provisions of sections 491, 493 to 497 of this title, provided that the provisions regarding flagrant or repeated violation of [section 499b of this title][/us/usc/t7/s499b] shall not apply where the license in such case was suspended and the suspension period has expired or is not in effect, and eliminated provisions which, notwithstanding the grounds for refusal specified in the section, permitted the Secretary to issue a license upon the applicant furnishing a bond or other satisfactory assurance that his business would be conducted in accordance with this chapter, and that he would pay reparation orders previously issued against him or which could be issued against him within two years after receiving the license, but such license could not be issued until after the expiration of one year from the revocation or from the finding that the applicant was responsible, for any flagrant or repeated violation of [section 499b of this title][/us/usc/t7/s499b].
 
-    Subsec. (c). [Pub. L. 87–725, § 7][/us/pl/87/725/s7], substituted provisions which permit a license to be issued to an applicant ineligible under subsec. (b) of this section, upon expiration of the two year period applicable to him, if he furnishes a surety bond as assurance that his business will be conducted in accordance with this chapter and that he will pay all reparation orders issued against him in connection with transactions occurring within four years following issuance of license, subject to appeal under [section 499g(c) of this title][/us/usc/t7/s499g/c], or if no bond is given, permit issuance of the license after three years from the applicable order, or decision of the court on appeal, and which provide that if a bond is terminated without the Secretary’s approval, the license is automatically canceled and cannot be re-issued during the four year period without a new bond, that the Secretary may order an increase or a reduction in the bond, and that a licensee notified to increase the bond must do so in a reasonable time or his license will be suspended until such bond is provided, for provisions which required the Secretary to refuse a license to an applicant, or if the applicant was a partnership, or an association or a corporation, to a partner or officer or any person holding a responsible position therein, respectively, found within two years of being guilty of violating sections 491 to 497 or 499n(b) of this title.
+    Subsec. (c). [Pub. L. 87–725][/us/pl/87/725], § 7, substituted provisions which permit a license to be issued to an applicant ineligible under subsec. (b) of this section, upon expiration of the two year period applicable to him, if he furnishes a surety bond as assurance that his business will be conducted in accordance with this chapter and that he will pay all reparation orders issued against him in connection with transactions occurring within four years following issuance of license, subject to appeal under [section 499g(c) of this title][/us/usc/t7/s499g/c], or if no bond is given, permit issuance of the license after three years from the applicable order, or decision of the court on appeal, and which provide that if a bond is terminated without the Secretary’s approval, the license is automatically canceled and cannot be re-issued during the four year period without a new bond, that the Secretary may order an increase or a reduction in the bond, and that a licensee notified to increase the bond must do so in a reasonable time or his license will be suspended until such bond is provided, for provisions which required the Secretary to refuse a license to an applicant, or if the applicant was a partnership, or an association or a corporation, to a partner or officer or any person holding a responsible position therein, respectively, found within two years of being guilty of violating sections 491 to 497 or 499n(b) of this title.
 
     1956—Subsec. (a). Act July 30, 1956, § 2(b), substituted “the fee provided in [section 499c(b) of this title][/us/usc/t7/s499c/b], plus $5” for “a fee of $20”.
 
@@ -109,40 +109,40 @@
 [/us/usc/t7/s499g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499g%2Fc
 [/us/usc/t7/s499g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499g%2Fc
 [/us/usc/t7/s499h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499h%2Fb
-[/us/act/1930-06-10/ch436/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs4
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F533
 [/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F585
-[/us/act/1936-06-19/ch602/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602%2Fs2
+[/us/act/1936-06-19/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602
 [/us/stat/49/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1533
-[/us/act/1937-08-20/ch719/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs6
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F726
-[/us/act/1950-06-15/ch254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254%2Fs2
+[/us/act/1950-06-15/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254
 [/us/stat/64/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F218
 [/us/act/1956-07-30/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786
 [/us/stat/70/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F726
 [/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F674
-[/us/pl/95/598/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs303
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2673
-[/us/pl/102/237/s1011/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F2
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F427
 [/us/usc/t7/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs554
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
-[/us/pl/104/48/s12/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs12%2Fc%2F1
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/usc/t7/s499h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499h%2Fb
-[/us/pl/104/48/s12/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs12%2Fc%2F2
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/usc/t7/s499h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499h%2Fb
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/95/598/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs303%2Fa
-[/us/pl/95/598/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs303%2Fb
-[/us/pl/87/725/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs5
-[/us/pl/87/725/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs6
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
-[/us/pl/87/725/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs7
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/usc/t7/s499g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499g%2Fc
 [/us/usc/t7/s499c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499c%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

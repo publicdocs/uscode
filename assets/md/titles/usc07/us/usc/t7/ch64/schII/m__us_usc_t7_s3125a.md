@@ -73,11 +73,11 @@
 
         There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–113, title XIV, § 1410A][/us/pl/95/113/s1410A], as added [Pub. L. 101–624, title XVI, § 1606(a)][/us/pl/101/624/s1606/a], Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1410A, as added [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1606(a), Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714].)
 
  __Enhanced Use Lease Authority Pilot Program__ 
 
-[Pub. L. 103–354, title III, § 308][/us/pl/103/354/s308], as added by [Pub. L. 110–234, title VII, § 7409][/us/pl/110/234/s7409], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7409, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2014; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7511, 7605, Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901], 912, provided that:
+[Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 308, as added by [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7409, May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7409, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2014; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7511, 7605, Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901], 912, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -187,15 +187,15 @@
 ----------
 
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
-[/us/pl/95/113/s1410A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1410A
-[/us/pl/101/624/s1606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1606%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3714
-[/us/pl/103/354/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs308
-[/us/pl/110/234/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7409
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F901
 [/us/usc/t42/s11411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11411
 [/us/pl/100/202/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs523

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall hold annual meetings with representatives of the cotton industry to review (1) activities and operations under the Cotton Standards Act \[[7 U.S.C. 51][/us/usc/t7/s51] et seq.\], and the Cotton Statistics and Estimates Act \[[7 U.S.C. 471][/us/usc/t7/s471] et seq.\], (2) activities and operations relating to cotton under the United States Warehouse Act \[[7 U.S.C. 241][/us/usc/t7/s241] et seq.\], and (3) the effect of such activities and operations on prices received by producers and sales to domestic and foreign users, for the purpose of improving procedures for financing and administering such activities and operations for the benefit of the industry and the Government. Notwithstanding any other provision of law, the Secretary shall take such action as may be necessary to insure that the universal cotton standards system and the licensing and inspection procedures for cotton warehouses are preserved and that the Government cotton classification system continues to operate so that the United States cotton crop is provided an official quality description.
 
-([Pub. L. 97–35, title I, § 156(d)][/us/pl/97/35/s156/d], Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374].)
+([Pub. L. 97–35, title I][/us/pl/97/35/tI], § 156(d), Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–35, title I, § 156(e)][/us/pl/97/35/s156/e], Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374], provided that: 
+[Pub. L. 97–35, title I][/us/pl/97/35/tI], § 156(e), Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374], provided that: 
 
 > “The provisions of this section \[enacting this section, amending sections 15b, 55, and 473a of this title, and enacting provision set out as a note under [section 473a of this title][/us/usc/t7/s473a]\] shall become effective October 1, 1981.”
 
@@ -47,7 +47,7 @@
 [/us/usc/t7/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs51
 [/us/usc/t7/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs471
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
-[/us/pl/97/35/s156/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs156%2Fd
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F374
 [/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1517
@@ -58,7 +58,7 @@
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F486
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
-[/us/pl/97/35/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs156%2Fe
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F374
 [/us/usc/t7/s473a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs473a
 

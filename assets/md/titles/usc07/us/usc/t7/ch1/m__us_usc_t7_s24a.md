@@ -217,19 +217,19 @@
 
         The Commission shall adopt rules governing persons that are registered under this section.
 
-([Sept. 21, 1922, ch. 369, § 21][/us/act/1922-09-21/ch369/s21], as added [Pub. L. 111–203, title VII, § 728][/us/pl/111/203/s728], July 21, 2010, [124 Stat. 1697][/us/stat/124/1697]; amended [Pub. L. 114–94, div. G, title LXXXVI, § 86001(b)][/us/pl/114/94/s86001/b], Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 21, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 728, July 21, 2010, [124 Stat. 1697][/us/stat/124/1697]; amended [Pub. L. 114–94, div. G, title LXXXVI][/us/pl/114/94/dG/tLXXXVI], § 86001(b), Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797].)
 
  __Prior Provisions__ 
 
-    A prior section 21 of [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], as added by [Pub. L. 96–276, § 7][/us/pl/96/276/s7], June 17, 1980, [94 Stat. 542][/us/stat/94/542], related to silver markets activity and was set out as a note under [section 4a of this title][/us/usc/t7/s4a] prior to repeal by [Pub. L. 102–546, title IV, § 402(13)][/us/pl/102/546/s402/13], Oct. 28, 1992, [106 Stat. 3625][/us/stat/106/3625].
+    A prior section 21 of [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], as added by [Pub. L. 96–276][/us/pl/96/276], § 7, June 17, 1980, [94 Stat. 542][/us/stat/94/542], related to silver markets activity and was set out as a note under [section 4a of this title][/us/usc/t7/s4a] prior to repeal by [Pub. L. 102–546, title IV][/us/pl/102/546/tIV], § 402(13), Oct. 28, 1992, [106 Stat. 3625][/us/stat/106/3625].
 
  __Amendments__ 
 
-    2015—Subsec. (c)(7). [Pub. L. 114–94, § 86001(b)(1)(A)][/us/pl/114/94/s86001/b/1/A], substituted “swap” for “all” in introductory provisions.
+    2015—Subsec. (c)(7). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(1)(A), substituted “swap” for “all” in introductory provisions.
 
-    Subsec. (c)(7)(E)(iv). [Pub. L. 114–94, § 86001(b)(1)(B)][/us/pl/114/94/s86001/b/1/B], added cl. (iv).
+    Subsec. (c)(7)(E)(iv). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(1)(B), added cl. (iv).
 
-    Subsec. (d). [Pub. L. 114–94, § 86001(b)(2)][/us/pl/114/94/s86001/b/2], added subsec. (d) and struck out former subsec. (d) related to confidentiality and indemnification agreement.
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) related to confidentiality and indemnification agreement.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -251,20 +251,20 @@
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s1a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F48
-[/us/act/1922-09-21/ch369/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs21
-[/us/pl/111/203/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs728
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1697
-[/us/pl/114/94/s86001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fb
+[/us/pl/114/94/dG/tLXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXVI
 [/us/stat/129/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1797
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
-[/us/pl/96/276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs7
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/stat/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F542
 [/us/usc/t7/s4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4a
-[/us/pl/102/546/s402/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F13
+[/us/pl/102/546/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtIV
 [/us/stat/106/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3625
-[/us/pl/114/94/s86001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fb%2F1%2FA
-[/us/pl/114/94/s86001/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fb%2F1%2FB
-[/us/pl/114/94/s86001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fb%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/114/94/s86001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fd

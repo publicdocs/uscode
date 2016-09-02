@@ -59,7 +59,7 @@
 
         Subsection (a) shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
 
-([Pub. L. 104–127, title I, § 165][/us/pl/104/127/s165], Apr. 4, 1996, [110 Stat. 936][/us/stat/110/936].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 165, Apr. 4, 1996, [110 Stat. 936][/us/stat/110/936].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/104/127/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs165
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F936
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

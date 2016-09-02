@@ -17,7 +17,7 @@
 
     There is granted to the several States, for the purposes hereinafter mentioned in this subchapter, an amount of public land, to be apportioned to each State a quantity equal to thirty thousand acres for each Senator and Representative in Congress to which the States are respectively entitled by the apportionment under the census of 1860: Provided, That no mineral lands shall be selected or purchased under the provisions of said sections.
 
-([July 2, 1862, ch. 130, § 1][/us/act/1862-07-02/ch130/s1], [12 Stat. 503][/us/stat/12/503].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 1, [12 Stat. 503][/us/stat/12/503].)
 
  __Codification__ 
 
@@ -29,15 +29,15 @@
 
  __Equity in Educational Land Grant Status__ 
 
-[Pub. L. 107–171, title VII, § 7201(e)][/us/pl/107/171/s7201/e], May 13, 2002, [116 Stat. 437][/us/stat/116/437], provided that: 
+[Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7201(e), May 13, 2002, [116 Stat. 437][/us/stat/116/437], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit a report containing recommended criteria for designating additional 1994 Institutions \[see [section 532 of Pub. L. 103–382][/us/pl/103/382/s532], set out below\] to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title I\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–7, provided in part: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title I\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–7, provided in part: 
 
 > “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
-[Pub. L. 103–382, title V][/us/pl/103/382], part C, Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended by [Pub. L. 104–127, title VIII, § 882][/us/pl/104/127/s882], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title II, § 251][/us/pl/105/185/s251], title III, § 301(g), June 23, 1998, [112 Stat. 557][/us/stat/112/557], 563; [Pub. L. 105–332, § 3(d)][/us/pl/105/332/s3/d], Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7126(f)–7128, 7201(a)–(d), May 13, 2002, [116 Stat. 435–437][/us/stat/116/435-437]; [Pub. L. 108–204, title I, § 128][/us/pl/108/204/s128], Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 108–447, div. A, title VII, § 777][/us/pl/108/447/s777], Dec. 8, 2004, [118 Stat. 2849][/us/stat/118/2849]; [Pub. L. 110–234, title VII, § 7402(a)][/us/pl/110/234/s7402/a]–(e), May 22, 2008, [122 Stat. 1245][/us/stat/122/1245], 1246; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7402(a)–(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007; [Pub. L. 110–315, title IX, § 941(k)(2)(A)][/us/pl/110/315/s941/k/2/A], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465]; [Pub. L. 113–79, title VII, § 7402(a)(1)][/us/pl/113/79/s7402/a/1], (b)–(d), Feb. 7, 2014, [128 Stat. 893][/us/stat/128/893], 894, provided that:
+[Pub. L. 103–382, title V, part C][/us/pl/103/382/tV/ptC], Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended by [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 882, Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 251, title III, § 301(g), June 23, 1998, [112 Stat. 557][/us/stat/112/557], 563; [Pub. L. 105–332][/us/pl/105/332], § 3(d), Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7126(f)–7128, 7201(a)–(d), May 13, 2002, [116 Stat. 435–437][/us/stat/116/435-437]; [Pub. L. 108–204, title I][/us/pl/108/204/tI], § 128, Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 777, Dec. 8, 2004, [118 Stat. 2849][/us/stat/118/2849]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7402(a)–(e), May 22, 2008, [122 Stat. 1245][/us/stat/122/1245], 1246; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7402(a)–(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(A), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7402(a)(1), (b)–(d), Feb. 7, 2014, [128 Stat. 893][/us/stat/128/893], 894, provided that:
 
 > “SEC. 531. __SHORT TITLE.__ 
 
@@ -289,13 +289,13 @@
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018. Amounts appropriated shall remain available until expended.”
 
-\[[Pub. L. 113–79, title VII, § 7402(a)(2)][/us/pl/113/79/s7402/a/2], Feb. 7, 2014, [128 Stat. 894][/us/stat/128/894], provided that: 
+\[[Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7402(a)(2), Feb. 7, 2014, [128 Stat. 894][/us/stat/128/894], provided that: 
 
 > “The amendments made by paragraph (1) \[amending [section 532 of Pub. L. 103–382][/us/pl/103/382/s532], set out above\] shall take effect on October 1, 2014.”
 
 \]
 
-\[[Pub. L. 110–234, title VII, § 7402(f)][/us/pl/110/234/s7402/f], May 22, 2008, [122 Stat. 1246][/us/stat/122/1246], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7402(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007, provided that: 
+\[[Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7402(f), May 22, 2008, [122 Stat. 1246][/us/stat/122/1246], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7402(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007, provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 532 of Pub. L. 103–382][/us/pl/103/382/s532], set out above\] takes effect on October 1, 2008.”
 
@@ -303,7 +303,7 @@
 
  __Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands__ 
 
-[Pub. L. 96–374, title XIII, § 1361(c)][/us/pl/96/374/s1361/c], (d), Oct. 3, 1980, [94 Stat. 1502][/us/stat/94/1502], as amended by [Pub. L. 99–396, § 9(c)][/us/pl/99/396/s9/c], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840], provided that:
+[Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1361(c), (d), Oct. 3, 1980, [94 Stat. 1502][/us/stat/94/1502], as amended by [Pub. L. 99–396][/us/pl/99/396], § 9(c), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840], provided that:
 
 >     “(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
 
@@ -313,7 +313,7 @@
 
  __College of the Virgin Islands, Community College of American Samoa, College of Micronesia, Northern Marianas College, and University of Guam; Land-Grant Status; Authorization of Appropriations__ 
 
-[Pub. L. 92–318, title V, § 506(a)][/us/pl/92/318/s506/a], (b), June 23, 1972, [86 Stat. 350][/us/stat/86/350], as amended by [Pub. L. 96–374, title XIII, § 1361(a)][/us/pl/96/374/s1361/a], Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; [Pub. L. 99–396, § 9(a)][/us/pl/99/396/s9/a], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840], as amended by [Pub. L. 102–247, title III, § 305][/us/pl/102/247/s305], Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39], provided that:
+[Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(a), (b), June 23, 1972, [86 Stat. 350][/us/stat/86/350], as amended by [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1361(a), Oct. 3, 1980, [94 Stat. 1501][/us/stat/94/1501]; [Pub. L. 99–396][/us/pl/99/396], § 9(a), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840], as amended by [Pub. L. 102–247, title III][/us/pl/102/247/tIII], § 305, Feb. 24, 1992, [106 Stat. 39][/us/stat/106/39], provided that:
 
 >     “(a) The College of the Virgin Islands, the Community College of American Samoa, the College of Micronesia\[,\] the Northern Marianas College, and the University of Guam shall be considered land-grant colleges established for the benefit or agriculture and mechanic arts in accordance with the provisions of the Act of July 2, 1862, as amended ([12 Stat. 503][/us/stat/12/503]; [7 U.S.C. 301–305][/us/usc/t7/s301–305], 307, 308).
 
@@ -331,7 +331,7 @@
 
  __Cooperation in Placement of Domestic Farm Labor__ 
 
-[Act Apr. 28, 1947, ch. 43, § 2(b)][/us/act/1947-04-28/ch43/s2/b], [61 Stat. 55][/us/stat/61/55], provided that: 
+[Act Apr. 28, 1947, ch. 43][/us/act/1947-04-28/ch43], § 2(b), [61 Stat. 55][/us/stat/61/55], provided that: 
 
 > “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen’s Readjustment Act of 1944, as amended ([58 Stat. 295][/us/stat/58/295]).”
 
@@ -348,37 +348,37 @@
 ----------
 ----------
 
-[/us/act/1862-07-02/ch130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs1
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/act/1883-03-03/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch102
 [/us/stat/22/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F484
 [/us/usc/t7/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs304
-[/us/pl/107/171/s7201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7201%2Fe
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F437
 [/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tV/ptC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV%2FptC
 [/us/stat/108/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4048
-[/us/pl/104/127/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs882
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1175
-[/us/pl/105/185/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs251
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F557
-[/us/pl/105/332/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs3%2Fd
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3126
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/435-437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F435-437
-[/us/pl/108/204/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2Fs128
+[/us/pl/108/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2FtI
 [/us/stat/118/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F547
-[/us/pl/108/447/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs777
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2849
-[/us/pl/110/234/s7402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7402%2Fa
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1245
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/315/s941/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FA
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
-[/us/pl/113/79/s7402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7402%2Fa%2F1
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F893
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
@@ -396,12 +396,12 @@
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/113/79/s7402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7402%2Fa%2F2
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F894
 [/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
-[/us/pl/110/234/s7402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7402%2Ff
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1246
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -409,29 +409,29 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/96/374/s1361/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1361%2Fc
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1502
-[/us/pl/99/396/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Fc
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
 [/us/usc/t7/s326a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs326a
 [/us/stat/45/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1253
 [/us/stat/46/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F4
 [/us/usc/t48/s1431a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1431a
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/92/318/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fa
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F350
-[/us/pl/96/374/s1361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1361%2Fa
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1501
-[/us/pl/99/396/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Fa
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
-[/us/pl/102/247/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs305
+[/us/pl/102/247/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtIII
 [/us/stat/106/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F39
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
 [/us/pl/85/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F282
 [/us/stat/71/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F607
 [/us/act/1911-03-01/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fs7
-[/us/act/1947-04-28/ch43/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-28%2Fch43%2Fs2%2Fb
+[/us/act/1947-04-28/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-28%2Fch43
 [/us/stat/61/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F55
 [/us/stat/58/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F295
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

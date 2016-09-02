@@ -213,13 +213,13 @@
 
             A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
-([June 25, 1947, ch. 125, § 19][/us/act/1947-06-25/ch125/s19], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 995][/us/stat/86/995]; amended [Pub. L. 95–396, § 19][/us/pl/95/396/s19], Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833]; [Pub. L. 100–532, title IV][/us/pl/100/532], §§ 401–403, title VIII, § 801(q)(1)(D), Oct. 25, 1988, [102 Stat. 2669][/us/stat/102/2669], 2672, 2683; [Pub. L. 104–170, title II, § 225][/us/pl/104/170/s225], Aug. 3, 1996, [110 Stat. 1507][/us/stat/110/1507]; [Pub. L. 110–234, title XIV, § 14209(b)][/us/pl/110/234/s14209/b], May 22, 2008, [122 Stat. 1463][/us/stat/122/1463]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14209(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2225.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 19, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 995][/us/stat/86/995]; amended [Pub. L. 95–396][/us/pl/95/396], § 19, Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833]; [Pub. L. 100–532, title IV][/us/pl/100/532/tIV], §§ 401–403, title VIII, § 801(q)(1)(D), Oct. 25, 1988, [102 Stat. 2669][/us/stat/102/2669], 2672, 2683; [Pub. L. 104–170, title II][/us/pl/104/170/tII], § 225, Aug. 3, 1996, [110 Stat. 1507][/us/stat/110/1507]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14209(b), May 22, 2008, [122 Stat. 1463][/us/stat/122/1463]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14209(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2225.)
 
  __References in Text__ 
 
     The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (2), and (g)(2), is 60 days after Oct. 25, 1988, the effective date of [Pub. L. 100–532][/us/pl/100/532]. See Effective Date of 1988 Amendment note below.
 
-    The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
  __Codification__ 
 
@@ -227,19 +227,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(4). [Pub. L. 110–246, § 14209(b)][/us/pl/110/246/s14209/b], added par. (4).
+    2008—Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 14209(b), added par. (4).
 
     1996—Subsec. (h). [Pub. L. 104–170][/us/pl/104/170] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    1988—[Pub. L. 100–532, § 401][/us/pl/100/532/s401], amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
+    1988—[Pub. L. 100–532][/us/pl/100/532], § 401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 
-    Subsec. (a)(3). [Pub. L. 100–532, § 402][/us/pl/100/532/s402], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–532][/us/pl/100/532], § 402, added par. (3).
 
-    Subsecs. (e), (f). [Pub. L. 100–532, § 403][/us/pl/100/532/s403], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 100–532][/us/pl/100/532], § 403, added subsecs. (e) and (f).
 
-    Subsec. (f)(2). [Pub. L. 100–532, § 801(q)(1)(D)][/us/pl/100/532/s801/q/1/D], substituted “136i” for “136b”.
+    Subsec. (f)(2). [Pub. L. 100–532][/us/pl/100/532], § 801(q)(1)(D), substituted “136i” for “136b”.
 
-    Subsecs. (g), (h). [Pub. L. 100–532, § 403][/us/pl/100/532/s403], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 100–532][/us/pl/100/532], § 403, added subsecs. (g) and (h).
 
     1978—Subsec. (c). [Pub. L. 95–396][/us/pl/95/396] added subsec. (c).
 
@@ -274,36 +274,36 @@
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/act/1947-06-25/ch125/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs19
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F995
-[/us/pl/95/396/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs19
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F833
-[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtIV
 [/us/stat/102/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2669
-[/us/pl/104/170/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs225
+[/us/pl/104/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtII
 [/us/stat/110/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1507
-[/us/pl/110/234/s14209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14209%2Fb
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1463
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14209%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
-[/us/pl/100/532/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs401
-[/us/pl/100/532/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs402
-[/us/pl/100/532/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs403
-[/us/pl/100/532/s801/q/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fq%2F1%2FD
-[/us/pl/100/532/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs403
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

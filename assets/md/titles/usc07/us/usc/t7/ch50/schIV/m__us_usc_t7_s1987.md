@@ -47,7 +47,7 @@
 
             (H) the procedure the borrower may use to obtain more information concerning the status of such loans.
 
-([Pub. L. 87–128, title III, § 337][/us/pl/87/128/s337], Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 99–198, title XIII, § 1316][/us/pl/99/198/s1316], Dec. 23, 1985, [99 Stat. 1528][/us/stat/99/1528].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 337, Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1316, Dec. 23, 1985, [99 Stat. 1528][/us/stat/99/1528].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/87/128/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs337
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F316
-[/us/pl/99/198/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1316
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1528
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

@@ -23,7 +23,7 @@
 
         For purposes of title V of such Act \[[15 U.S.C. 6801][/us/usc/t15/s6801] et seq.\], the Commission shall be treated as a Federal functional regulator within the meaning of section 509(2) of such Act \[[15 U.S.C. 6809(2)][/us/usc/t15/s6809/2]\] and shall prescribe regulations under such title within 6 months after December 21, 2000.
 
-([Sept. 21, 1922, ch. 369, § 5g][/us/act/1922-09-21/ch369/s5g], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 124\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–411.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5g, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 124\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–411.)
 
  __References in Text__ 
 
@@ -40,8 +40,8 @@
 [/us/usc/t15/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6801
 [/us/usc/t15/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6801
 [/us/usc/t15/s6809/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6809%2F2
-[/us/act/1922-09-21/ch369/s5g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5g
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338

@@ -17,7 +17,7 @@
 
     Except as otherwise provided by law, funds made available to the Secretary to carry out a competitive agricultural research, education, or extension grant program under this or any other Act shall be available for obligation for a 2-year period beginning on October 1 of the fiscal year for which the funds are made available.
 
-([Pub. L. 95–113, title XIV, § 1469A][/us/pl/95/113/s1469A], as added [Pub. L. 107–171, title VII, § 7217][/us/pl/107/171/s7217], May 13, 2002, [116 Stat. 449][/us/stat/116/449].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1469A, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7217, May 13, 2002, [116 Stat. 449][/us/stat/116/449].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1469A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1469A
-[/us/pl/107/171/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7217
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F449
 
 

@@ -83,7 +83,7 @@
 
         The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 101–624, title XIX, § 1999L][/us/pl/101/624/s1999L], Nov. 28, 1990, [104 Stat. 3922][/us/stat/104/3922]; [Pub. L. 102–237, title VIII, § 809][/us/pl/102/237/s809], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999L, Nov. 28, 1990, [104 Stat. 3922][/us/stat/104/3922]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 809, Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999L
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3922
-[/us/pl/102/237/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs809
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

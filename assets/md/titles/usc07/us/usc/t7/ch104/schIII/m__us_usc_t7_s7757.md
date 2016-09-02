@@ -17,7 +17,7 @@
 
     If any provision of this chapter or application of any provision of this chapter to any person or circumstances is held invalid, the remainder of this chapter and the application of the provision to other persons and circumstances shall not be affected by the invalidity.
 
-([Pub. L. 106–224, title IV, § 437][/us/pl/106/224/s437], June 20, 2000, [114 Stat. 454][/us/stat/114/454].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 437, June 20, 2000, [114 Stat. 454][/us/stat/114/454].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs437
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

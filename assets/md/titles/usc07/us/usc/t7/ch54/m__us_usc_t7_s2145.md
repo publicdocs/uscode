@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized to cooperate with the officials of the various States or political subdivisions thereof in carrying out the purposes of this chapter and of any State, local, or municipal legislation or ordinance on the same subject.
 
-([Pub. L. 89–544, § 15][/us/pl/89/544/s15], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579, § 16][/us/pl/91/579/s16], Dec. 24, 1970, [84 Stat. 1563][/us/stat/84/1563]; [Pub. L. 94–279, § 11][/us/pl/94/279/s11], Apr. 22, 1976, [90 Stat. 419][/us/stat/90/419]; [Pub. L. 98–443, § 9(i)][/us/pl/98/443/s9/i], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 99–198, title XVII, § 1757][/us/pl/99/198/s1757], Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 104–88, title III, § 312][/us/pl/104/88/s312], Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
+([Pub. L. 89–544][/us/pl/89/544], § 15, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579][/us/pl/91/579], § 16, Dec. 24, 1970, [84 Stat. 1563][/us/stat/84/1563]; [Pub. L. 94–279][/us/pl/94/279], § 11, Apr. 22, 1976, [90 Stat. 419][/us/stat/90/419]; [Pub. L. 98–443][/us/pl/98/443], § 9(i), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1757, Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 312, Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 
     1976—Subsec. (a). [Pub. L. 94–279][/us/pl/94/279] inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
 
-    1970—Subsec. (a). [Pub. L. 91–579, § 16(1)][/us/pl/91/579/s16/1], inserted reference to exhibition of animals.
+    1970—Subsec. (a). [Pub. L. 91–579][/us/pl/91/579], § 16(1), inserted reference to exhibition of animals.
 
-    Subsec. (b). [Pub. L. 91–579, § 16(2)][/us/pl/91/579/s16/2], substituted “carrying out” for “effectuating”.
+    Subsec. (b). [Pub. L. 91–579][/us/pl/91/579], § 16(2), substituted “carrying out” for “effectuating”.
 
  __Effective Date of 1995 Amendment__ 
 
@@ -59,24 +59,24 @@
 ----------
 
 [/us/usc/t7/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2143
-[/us/pl/89/544/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs15
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
-[/us/pl/91/579/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs16
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1563
-[/us/pl/94/279/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs11
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F419
-[/us/pl/98/443/s9/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fi
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/99/198/s1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1757
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1650
-[/us/pl/104/88/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs312
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
-[/us/pl/91/579/s16/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs16%2F1
-[/us/pl/91/579/s16/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs16%2F2
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

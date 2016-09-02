@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7622.md) | [Next](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7624.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7623)
 
-## § 7623. Repealed. [Pub. L. 110–234, title VII, § 7303][/us/pl/110/234/s7303], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
+## § 7623. Repealed. [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7303, May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
 
-    Section, [Pub. L. 105–185, title IV, § 403][/us/pl/105/185/s403], June 23, 1998, [112 Stat. 567][/us/stat/112/567]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7129, 7207(a), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, related to precision agriculture.
+    Section, [Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 403, June 23, 1998, [112 Stat. 567][/us/stat/112/567]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7129, 7207(a), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, related to precision agriculture.
 
  __Codification__ 
 
@@ -32,13 +32,13 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7303
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/105/185/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs403
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F567
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F435
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

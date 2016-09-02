@@ -17,7 +17,7 @@
 
     Any person who has custody of or a financial interest in any cotton may submit the same or samples thereof, drawn in accordance with the regulations of the Secretary of Agriculture, to such officer or officers of the Department of Agriculture, as may be designated for the purpose pursuant to the regulations of the Secretary of Agriculture for a determination of the true classification of such cotton or samples, including the comparison thereof, if requested, with types or other samples submitted for the purpose. The final certificate of the Department of Agriculture showing such determination shall be binding on officers of the United States and shall be accepted in the courts of the United States as prima facie evidence of the true classification or comparison of such cotton or samples when involved in any transaction or shipment in commerce. The Secretary of Agriculture shall fix rules and regulations for submitting samples of cotton for classification providing that all samples shall be numbered so that no one interested in the transaction involved shall be known by any classifier engaged in the classification of such cotton samples.
 
-([Mar. 4, 1923, ch. 288, § 4][/us/act/1923-03-04/ch288/s4], [42 Stat. 1517][/us/stat/42/1517].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 4, [42 Stat. 1517][/us/stat/42/1517].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch288/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs4
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1517
 
 

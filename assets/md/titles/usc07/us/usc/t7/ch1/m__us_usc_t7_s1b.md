@@ -41,7 +41,7 @@
 
         A determination by the Secretary under subsection (b) shall not exempt any foreign exchange swaps and foreign exchange forwards traded on a designated contract market or swap execution facility from any applicable antifraud and antimanipulation provision under this chapter. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Sept. 21, 1922, ch. 369, § 1b][/us/act/1922-09-21/ch369/s1b], as added [Pub. L. 111–203, title VII, § 722(h)][/us/pl/111/203/s722/h], July 21, 2010, [124 Stat. 1674][/us/stat/124/1674].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 1b, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 722(h), July 21, 2010, [124 Stat. 1674][/us/stat/124/1674].)
 
  __References in Text__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs1b
-[/us/pl/111/203/s722/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Fh
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1674
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

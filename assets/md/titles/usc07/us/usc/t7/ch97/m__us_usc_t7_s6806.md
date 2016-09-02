@@ -67,7 +67,7 @@
 
         Referenda under this section shall be conducted in such manner as is determined appropriate by the Secretary.
 
-([Pub. L. 103–190, § 7][/us/pl/103/190/s7], Dec. 14, 1993, [107 Stat. 2284][/us/stat/107/2284].)
+([Pub. L. 103–190][/us/pl/103/190], § 7, Dec. 14, 1993, [107 Stat. 2284][/us/stat/107/2284].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t7/s6804/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fh%2F1
 [/us/usc/t7/s6804/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fh%2F1
 [/us/usc/t7/s6804/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fh%2F1
-[/us/pl/103/190/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs7
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2284
 
 

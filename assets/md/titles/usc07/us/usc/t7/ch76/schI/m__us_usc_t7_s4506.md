@@ -19,7 +19,7 @@
 
     (b) The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Department in connection with the conduct of any referendum under this section and [section 4507 of this title][/us/usc/t7/s4507], except for the salaries of Government employees.
 
-([Pub. L. 98–180, title I, § 115][/us/pl/98/180/s115], Nov. 29, 1983, [97 Stat. 1141][/us/stat/97/1141].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 115, Nov. 29, 1983, [97 Stat. 1141][/us/stat/97/1141].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t7/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4507
-[/us/pl/98/180/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs115
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1141
 
 

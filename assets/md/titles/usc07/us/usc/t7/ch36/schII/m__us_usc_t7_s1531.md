@@ -845,15 +845,15 @@
 
             Paragraph (1) shall not apply to a specific reference in this subchapter to a provision of subchapter I.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 531, as added [Pub. L. 110–234, title XII, § 12033(a)][/us/pl/110/234/s12033/a], May 22, 2008, [122 Stat. 1392][/us/stat/122/1392], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2154; amended [Pub. L. 110–398, § 2(a)][/us/pl/110/398/s2/a], Oct. 13, 2008, [122 Stat. 4214][/us/stat/122/4214]; [Pub. L. 111–5, div. A, title I, § 102(a)][/us/pl/111/5/s102/a], Feb. 17, 2009, [123 Stat. 121][/us/stat/123/121]; [Pub. L. 111–80, title VII, § 745(a)][/us/pl/111/80/s745/a], Oct. 21, 2009, [123 Stat. 2129][/us/stat/123/2129]; [Pub. L. 112–240, title VII, § 702(a)][/us/pl/112/240/s702/a], Jan. 2, 2013, [126 Stat. 2368][/us/stat/126/2368]; [Pub. L. 113–79, title XI, § 11028(c)][/us/pl/113/79/s11028/c], Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 531, as added [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(a), May 22, 2008, [122 Stat. 1392][/us/stat/122/1392], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2154; amended [Pub. L. 110–398][/us/pl/110/398], § 2(a), Oct. 13, 2008, [122 Stat. 4214][/us/stat/122/4214]; [Pub. L. 111–5, div. A, title I][/us/pl/111/5/dA/tI], § 102(a), Feb. 17, 2009, [123 Stat. 121][/us/stat/123/121]; [Pub. L. 111–80, title VII][/us/pl/111/80/tVII], § 745(a), Oct. 21, 2009, [123 Stat. 2129][/us/stat/123/2129]; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 702(a), Jan. 2, 2013, [126 Stat. 2368][/us/stat/126/2368]; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11028(c), Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
 
  __References in Text__ 
 
-    Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by [Pub. L. 113–79, title I, § 1101][/us/pl/113/79/s1101], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1101, Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
-    Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by [Pub. L. 113–79, title I, § 1102(a)][/us/pl/113/79/s1102/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1102(a), Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
-    Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1103(a), Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
     The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iv), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§ 8731 et seq.) and III (§ 8751 et seq.) of chapter 113 of this title. Section 1603 of the Act amended [section 1308 of this title][/us/usc/t7/s1308]. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
@@ -869,109 +869,109 @@
 
     2014—Subsec. (d)(3)(A). [Pub. L. 113–79][/us/pl/113/79] struck out cl. (i) designation and heading, redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: “An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.).”
 
-    2013—Subsec. (a)(5). [Pub. L. 112–240, § 702(a)(1)][/us/pl/112/240/s702/a/1], struck out “under” first time appearing after “established” in introductory provisions, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
+    2013—Subsec. (a)(5). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(1), struck out “under” first time appearing after “established” in introductory provisions, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
 
-    Subsec. (c)(1). [Pub. L. 112–240, § 702(a)(2)(A)][/us/pl/112/240/s702/a/2/A], struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall”.
+    Subsec. (c)(1). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(2)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall”.
 
-    Subsec. (c)(3). [Pub. L. 112–240, § 702(a)(2)(B)][/us/pl/112/240/s702/a/2/B], added par. (3).
+    Subsec. (c)(3). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(2)(B), added par. (3).
 
-    Subsec. (d)(2). [Pub. L. 112–240, § 702(a)(3)(A)][/us/pl/112/240/s702/a/3/A], struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(3)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
 
-    Subsec. (d)(7). [Pub. L. 112–240, § 702(a)(3)(B)][/us/pl/112/240/s702/a/3/B], added par. (7).
+    Subsec. (d)(7). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(3)(B), added par. (7).
 
-    Subsec. (e)(1). [Pub. L. 112–240, § 701(a)(4)(A)][/us/pl/112/240/s701/a/4/A], struck out “use up to $50,000,000 per year from the Trust Fund to” after “Secretary shall”.
+    Subsec. (e)(1). [Pub. L. 112–240][/us/pl/112/240], § 701(a)(4)(A), struck out “use up to $50,000,000 per year from the Trust Fund to” after “Secretary shall”.
 
-    Subsec. (e)(4). [Pub. L. 112–240, § 702(a)(4)(B)][/us/pl/112/240/s702/a/4/B], added par. (4).
+    Subsec. (e)(4). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(4)(B), added par. (4).
 
-    Subsec. (f)(2)(A). [Pub. L. 112–240, § 702(a)(5)(A)][/us/pl/112/240/s702/a/5/A], struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
+    Subsec. (f)(2)(A). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(5)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
 
-    Subsec. (f)(5). [Pub. L. 112–240, § 702(a)(5)(B)][/us/pl/112/240/s702/a/5/B], added par. (5).
+    Subsec. (f)(5). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(5)(B), added par. (5).
 
-    Subsec. (i). [Pub. L. 112–240, § 702(a)(6)][/us/pl/112/240/s702/a/6], inserted “or, in the case of subsections (c) through (f), September 30, 2013” after “2011,”.
+    Subsec. (i). [Pub. L. 112–240][/us/pl/112/240], § 702(a)(6), inserted “or, in the case of subsections (c) through (f), September 30, 2013” after “2011,”.
 
     2009—Subsec. (g)(7). [Pub. L. 111–5][/us/pl/111/5], which directed amendment of section 531(g) of the Federal Crop Insurance Act by adding par. (7), was executed to this section, which is section 531 of subtitle B of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
 
-    Subsec. (g)(7)(F). [Pub. L. 111–80, § 745(a)(1)][/us/pl/111/80/s745/a/1], which directed amendment of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “(including multiyear assistance)” after “assistance”, was executed to introductory provisions of subsec. (g)(7)(F) of this section, which is section 531 of subtitle B of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
+    Subsec. (g)(7)(F). [Pub. L. 111–80][/us/pl/111/80], § 745(a)(1), which directed amendment of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “(including multiyear assistance)” after “assistance”, was executed to introductory provisions of subsec. (g)(7)(F) of this section, which is section 531 of subtitle B of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
 
-    Subsec. (g)(7)(F)(i). [Pub. L. 111–80, § 745(a)(2)][/us/pl/111/80/s745/a/2], which directed amendment of cl. (i) of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “or multiyear production losses” after “a production loss”, was executed to subsec. (g)(7)(F)(i) of this section, which is section 531 of subtitle B of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
+    Subsec. (g)(7)(F)(i). [Pub. L. 111–80][/us/pl/111/80], § 745(a)(2), which directed amendment of cl. (i) of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “or multiyear production losses” after “a production loss”, was executed to subsec. (g)(7)(F)(i) of this section, which is section 531 of subtitle B of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of [act of Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
 
-    2008—Subsec. (a)(2). [Pub. L. 110–398, § 2(a)(1)(F)][/us/pl/110/398/s2/a/1/F], added par. (2). Former par. (2) redesignated (3).
+    2008—Subsec. (a)(2). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(F), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(3)(B). [Pub. L. 110–398, § 2(a)(1)(A)][/us/pl/110/398/s2/a/1/A], inserted “has” after “on a farm that”.
+    Subsec. (a)(3)(B). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(A), inserted “has” after “on a farm that”.
 
-    Subsec. (a)(4). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 110–398, § 2(a)(1)(B)][/us/pl/110/398/s2/a/1/B], substituted “under—” for “[section 7912 of this title][/us/usc/t7/s7912], section 1102 of the Food, Conservation, and Energy Act of 2008, or a successor section.” and added cls. (i) to (iii).
+    [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(B), substituted “under—” for “[section 7912 of this title][/us/usc/t7/s7912], section 1102 of the Food, Conservation, and Energy Act of 2008, or a successor section.” and added cls. (i) to (iii).
 
-    Subsec. (a)(5). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated par. (4) as (5). Former par. (5) redesignated (7).
+    Subsec. (a)(5). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated par. (4) as (5). Former par. (5) redesignated (7).
 
-    Subsec. (a)(5)(B)(ii). [Pub. L. 110–398, § 2(a)(1)(C)][/us/pl/110/398/s2/a/1/C], substituted “the actual production on the farm is less than 50 percent of the normal production on the farm.” for “, the total loss of production of the farm relating to weather is greater than 50 percent of the normal production of the farm, as determined by the Secretary.”
+    Subsec. (a)(5)(B)(ii). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(C), substituted “the actual production on the farm is less than 50 percent of the normal production on the farm.” for “, the total loss of production of the farm relating to weather is greater than 50 percent of the normal production of the farm, as determined by the Secretary.”
 
-    Subsec. (a)(6). [Pub. L. 110–398, § 2(a)(1)(G)][/us/pl/110/398/s2/a/1/G], added par. (6). Former par. (6) redesignated (8).
+    Subsec. (a)(6). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(G), added par. (6). Former par. (6) redesignated (8).
 
-    Subsec. (a)(7). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated par. (5) as (7). Former par. (7) redesignated (9).
+    Subsec. (a)(7). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-    Subsec. (a)(7)(A). [Pub. L. 110–398, § 2(a)(1)(D)(i)][/us/pl/110/398/s2/a/1/D/i], inserted “for sale or on-farm livestock feeding (including native grassland intended for haying)” after “harvest”.
+    Subsec. (a)(7)(A). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(D)(i), inserted “for sale or on-farm livestock feeding (including native grassland intended for haying)” after “harvest”.
 
-    Subsec. (a)(7)(C). [Pub. L. 110–398, § 2(a)(1)(D)(ii)][/us/pl/110/398/s2/a/1/D/ii], inserted “for sale” after “crop”.
+    Subsec. (a)(7)(C). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(D)(ii), inserted “for sale” after “crop”.
 
-    Subsec. (a)(8) to (14). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated pars. (6) to (12) as (8) to (14), respectively. Former pars. (13) and (14) redesignated (16) and (17), respectively.
+    Subsec. (a)(8) to (14). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated pars. (6) to (12) as (8) to (14), respectively. Former pars. (13) and (14) redesignated (16) and (17), respectively.
 
-    Subsec. (a)(15). [Pub. L. 110–398, § 2(a)(1)(H)][/us/pl/110/398/s2/a/1/H], added par. (15). Former par. (15) redesignated (18).
+    Subsec. (a)(15). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(H), added par. (15). Former par. (15) redesignated (18).
 
-    Subsec. (a)(16) to (21). [Pub. L. 110–398, § 2(a)(1)(E)][/us/pl/110/398/s2/a/1/E], redesignated pars. (13) to (18) as (16) to (21), respectively.
+    Subsec. (a)(16) to (21). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(1)(E), redesignated pars. (13) to (18) as (16) to (21), respectively.
 
-    Subsec. (b)(1). [Pub. L. 110–398, § 2(a)(2)(A)][/us/pl/110/398/s2/a/2/A], substituted “Payments” for “In general” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(A), substituted “Payments” for “In general” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
 
-    Subsec. (b)(2)(C). [Pub. L. 110–398, § 2(a)(2)(B)][/us/pl/110/398/s2/a/2/B], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(B), added subpar. (C).
 
-    Subsec. (b)(3)(A)(ii)(III). [Pub. L. 110–398, § 2(a)(2)(C)(i)][/us/pl/110/398/s2/a/2/C/i], inserted “50 percent of” before “the higher of” in introductory provisions.
+    Subsec. (b)(3)(A)(ii)(III). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(C)(i), inserted “50 percent of” before “the higher of” in introductory provisions.
 
-    Subsec. (b)(3)(A)(ii)(III)(aa). [Pub. L. 110–398, § 2(a)(2)(C)(ii)][/us/pl/110/398/s2/a/2/C/ii], struck out “guarantee” after “yield”.
+    Subsec. (b)(3)(A)(ii)(III)(aa). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(C)(ii), struck out “guarantee” after “yield”.
 
-    Subsec. (b)(4)(A)(i). [Pub. L. 110–398, § 2(a)(2)(D)(i)][/us/pl/110/398/s2/a/2/D/i], added subcl. (I), redesignated subcl. (III) as (II), and struck out former subcls. (I) and (II) which read as follows:
+    Subsec. (b)(4)(A)(i). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(D)(i), added subcl. (I), redesignated subcl. (III) as (II), and struck out former subcls. (I) and (II) which read as follows:
 
     “(I) the actual crop acreage harvested by an eligible producer on a farm;
 
     “(II) the estimated actual yield of the crop production; and”.
 
-    Subsec. (b)(4)(B)(iii). [Pub. L. 110–398, § 2(a)(2)(D)(ii)][/us/pl/110/398/s2/a/2/D/ii], (iii), added cl. (iii).
+    Subsec. (b)(4)(B)(iii). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(D)(ii), (iii), added cl. (iii).
 
-    Subsec. (b)(5). [Pub. L. 110–398, § 2(a)(2)(E)(i)][/us/pl/110/398/s2/a/2/E/i], struck out “the sum obtained by adding” after “equal” in introductory provisions.
+    Subsec. (b)(5). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(i), struck out “the sum obtained by adding” after “equal” in introductory provisions.
 
-    Subsec. (b)(5)(A). [Pub. L. 110–398, § 2(a)(2)(E)(ii)(I)][/us/pl/110/398/s2/a/2/E/ii/I], substituted “for each insurable commodity, the product” for “the product” in introductory provisions.
+    Subsec. (b)(5)(A). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(ii)(I), substituted “for each insurable commodity, the product” for “the product” in introductory provisions.
 
-    Subsec. (b)(5)(A)(i). [Pub. L. 110–398, § 2(a)(2)(E)(ii)(II)][/us/pl/110/398/s2/a/2/E/ii/II], substituted “greater” for “greatest”.
+    Subsec. (b)(5)(A)(i). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(ii)(II), substituted “greater” for “greatest”.
 
-    Subsec. (b)(5)(A)(iii). [Pub. L. 110–398, § 2(a)(2)(E)(ii)(III)][/us/pl/110/398/s2/a/2/E/ii/III], substituted “of the price election for the commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and” for “of the insurance price guarantee; and”.
+    Subsec. (b)(5)(A)(iii). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(ii)(III), substituted “of the price election for the commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and” for “of the insurance price guarantee; and”.
 
-    Subsec. (b)(5)(B). [Pub. L. 110–398, § 2(a)(2)(E)(iii)(I)][/us/pl/110/398/s2/a/2/E/iii/I], substituted “for each noninsurable crop, the product” for “the product” in introductory provisions.
+    Subsec. (b)(5)(B). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(iii)(I), substituted “for each noninsurable crop, the product” for “the product” in introductory provisions.
 
-    Subsec. (b)(5)(B)(ii), (iii). [Pub. L. 110–398, § 2(a)(2)(E)(iii)(II)][/us/pl/110/398/s2/a/2/E/iii/II]–(IV), added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (b)(5)(B)(ii), (iii). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(E)(iii)(II)–(IV), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (b)(6). [Pub. L. 110–398, § 2(a)(2)(F)][/us/pl/110/398/s2/a/2/F], added par. (6).
+    Subsec. (b)(6). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(2)(F), added par. (6).
 
-    Subsec. (d)(5)(B)(ii). [Pub. L. 110–398, § 2(a)(3)][/us/pl/110/398/s2/a/3], substituted “subsection” for “section”.
+    Subsec. (d)(5)(B)(ii). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(3), substituted “subsection” for “section”.
 
-    Subsec. (f)(2)(A). [Pub. L. 110–398, § 2(a)(4)][/us/pl/110/398/s2/a/4], substituted “the Secretary shall use such sums as are necessary from the Trust Fund to provide” for “the Secretary shall provide”.
+    Subsec. (f)(2)(A). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(4), substituted “the Secretary shall use such sums as are necessary from the Trust Fund to provide” for “the Secretary shall provide”.
 
-    Subsec. (g)(1). [Pub. L. 110–398, § 2(a)(6)(A)(i)][/us/pl/110/398/s2/a/6/A/i], substituted “(other than subsections (c) and (d))” for “(other than subsection (c))” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(6)(A)(i), substituted “(other than subsections (c) and (d))” for “(other than subsection (c))” in introductory provisions.
 
-    Subsec. (g)(1)(A). [Pub. L. 110–398, § 2(a)(6)(A)(ii)][/us/pl/110/398/s2/a/6/A/ii], inserted “, excluding grazing land” after “producers on the farm”.
+    Subsec. (g)(1)(A). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(6)(A)(ii), inserted “, excluding grazing land” after “producers on the farm”.
 
-    Subsec. (g)(2). [Pub. L. 110–398, § 2(a)(6)(B)][/us/pl/110/398/s2/a/6/B], substituted “each crop planted” for “each crop grazed, planted,”.
+    Subsec. (g)(2). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(6)(B), substituted “each crop planted” for “each crop grazed, planted,”.
 
-    Subsec. (g)(4). [Pub. L. 110–398, § 2(a)(6)(C)][/us/pl/110/398/s2/a/6/C], (D), substituted “Waivers for certain crop years” for “Waiver for 2008 crop year” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+    Subsec. (g)(4). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(6)(C), (D), substituted “Waivers for certain crop years” for “Waiver for 2008 crop year” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
 
-    Subsec. (g)(6). [Pub. L. 110–398, § 2(a)(5)][/us/pl/110/398/s2/a/5], added par. (6).
+    Subsec. (g)(6). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(5), added par. (6).
 
-    Subsec. (h)(5). [Pub. L. 110–398, § 2(a)(7)][/us/pl/110/398/s2/a/7], added par. (5).
+    Subsec. (h)(5). [Pub. L. 110–398][/us/pl/110/398], § 2(a)(7), added par. (5).
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title VII, § 702(b)][/us/pl/112/240/s702/b], Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
+[Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 702(b), Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2012.”
 
@@ -981,13 +981,13 @@
 
  __Rulemaking Procedures__ 
 
-[Pub. L. 110–329, div. B, title I, § 10102][/us/pl/110/329/s10102], Sept. 30, 2008, [122 Stat. 3588][/us/stat/122/3588], provided that: 
+[Pub. L. 110–329, div. B, title I][/us/pl/110/329/dB/tI], § 10102, Sept. 30, 2008, [122 Stat. 3588][/us/stat/122/3588], provided that: 
 
 > “Section 1601(c)(2) of the Food, Conservation and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]) \[[7 U.S.C. 8781(c)(2)][/us/usc/t7/s8781/c/2]\] shall apply in implementing section 12033 of such Act \[enacting this subchapter and amending sections 1501 to 1503, 1505 to 1510, 1514, 1515, 1517, 1518, and 1520 to 1523 of this title\].”
 
  __Transition__ 
 
-[Pub. L. 110–234, title XII, § 12033(b)][/us/pl/110/234/s12033/b], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167, provided that: 
+[Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(b), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167, provided that: 
 
 > “For purposes of the 2008 crop year, the Secretary \[of Agriculture\] shall carry out subsections (f)(4) and (h) of section 531 of the Federal Crop Insurance Act \[[7 U.S.C. 1531(f)(4)][/us/usc/t7/s1531/f/4], (h)\] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 ([16 U.S.C. 1308][/us/usc/t16/s1308] et seq.), as in effect on September 30, 2007.”
 
@@ -1020,25 +1020,25 @@
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/110/234/s12033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fa
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1392
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/398/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 [/us/stat/122/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4214
-[/us/pl/111/5/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs102%2Fa
+[/us/pl/111/5/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtI
 [/us/stat/123/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F121
-[/us/pl/111/80/s745/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fa
+[/us/pl/111/80/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2FtVII
 [/us/stat/123/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2129
-[/us/pl/112/240/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2368
-[/us/pl/113/79/s11028/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fc
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F978
-[/us/pl/113/79/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1101
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
-[/us/pl/113/79/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1102%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
-[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
@@ -1054,75 +1054,75 @@
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/pl/112/240/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F1
-[/us/pl/112/240/s702/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F2%2FA
-[/us/pl/112/240/s702/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F2%2FB
-[/us/pl/112/240/s702/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F3%2FA
-[/us/pl/112/240/s702/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F3%2FB
-[/us/pl/112/240/s701/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa%2F4%2FA
-[/us/pl/112/240/s702/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F4%2FB
-[/us/pl/112/240/s702/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F5%2FA
-[/us/pl/112/240/s702/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F5%2FB
-[/us/pl/112/240/s702/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fa%2F6
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/111/80/s745/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fa%2F1
+[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/111/80/s745/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fa%2F2
+[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/110/398/s2/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FF
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FA
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FB
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 [/us/usc/t7/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FC
-[/us/pl/110/398/s2/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FG
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FD%2Fi
-[/us/pl/110/398/s2/a/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FD%2Fii
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FH
-[/us/pl/110/398/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F1%2FE
-[/us/pl/110/398/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FA
-[/us/pl/110/398/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FB
-[/us/pl/110/398/s2/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FC%2Fi
-[/us/pl/110/398/s2/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FC%2Fii
-[/us/pl/110/398/s2/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FD%2Fi
-[/us/pl/110/398/s2/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FD%2Fii
-[/us/pl/110/398/s2/a/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fi
-[/us/pl/110/398/s2/a/2/E/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fii%2FI
-[/us/pl/110/398/s2/a/2/E/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fii%2FII
-[/us/pl/110/398/s2/a/2/E/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fii%2FIII
-[/us/pl/110/398/s2/a/2/E/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fiii%2FI
-[/us/pl/110/398/s2/a/2/E/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FE%2Fiii%2FII
-[/us/pl/110/398/s2/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F2%2FF
-[/us/pl/110/398/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F3
-[/us/pl/110/398/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F4
-[/us/pl/110/398/s2/a/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F6%2FA%2Fi
-[/us/pl/110/398/s2/a/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F6%2FA%2Fii
-[/us/pl/110/398/s2/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F6%2FB
-[/us/pl/110/398/s2/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F6%2FC
-[/us/pl/110/398/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F5
-[/us/pl/110/398/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs2%2Fa%2F7
-[/us/pl/112/240/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs702%2Fb
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/329/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs10102
+[/us/pl/110/329/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdB%2FtI
 [/us/stat/122/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3588
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s8781/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8781%2Fc%2F2
-[/us/pl/110/234/s12033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fb
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1531/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1531%2Ff%2F4
 [/us/usc/t16/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1308

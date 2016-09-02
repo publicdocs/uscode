@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, funds appropriated to the Department of Agriculture and the Food and Drug Administration may be used for one-year contracts which are to be performed in two fiscal years so long as the total amount for such contracts is obligated in the year for which the funds are appropriated.
 
-([Pub. L. 102–142, title VII, § 725][/us/pl/102/142/s725], Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
+([Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 725, Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/142/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs725
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F913
 
 

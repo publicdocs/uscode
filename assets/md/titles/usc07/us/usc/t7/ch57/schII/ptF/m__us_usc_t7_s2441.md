@@ -17,7 +17,7 @@
 
     The Secretary shall cause an examination to be made of the application and if on such examination it is determined that the applicant is entitled to plant variety protection under the law, the Secretary shall issue a notice of allowance of plant variety protection therefor as hereinafter provided.
 
-([Pub. L. 91–577, title II, § 61][/us/pl/91/577/s61], Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 61, Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs61
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1549
 
 

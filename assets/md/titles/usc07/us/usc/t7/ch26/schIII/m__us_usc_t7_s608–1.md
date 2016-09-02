@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 2, 1940, ch. 521, § 9][/us/act/1940-07-02/ch521/s9], [54 Stat. 729][/us/stat/54/729], which related to adjustments between payee and third persons, was omitted as executed.
+    Section, [act July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], § 9, [54 Stat. 729][/us/stat/54/729], which related to adjustments between payee and third persons, was omitted as executed.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-07-02/ch521/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs9
+[/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F729
 
 

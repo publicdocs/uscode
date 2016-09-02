@@ -17,7 +17,7 @@
 
     The provisions of [section 590h(g) of title 16][/us/usc/t16/s590h/g], relating to assignment of payments, shall apply to payments made under the authority of this Act. The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
-([Pub. L. 107–171, title I, § 1612][/us/pl/107/171/s1612], May 13, 2002, [116 Stat. 219][/us/stat/116/219].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1612, May 13, 2002, [116 Stat. 219][/us/stat/116/219].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s590h/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fg
-[/us/pl/107/171/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1612
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F219
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F134

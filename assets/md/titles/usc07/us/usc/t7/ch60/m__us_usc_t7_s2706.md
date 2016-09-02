@@ -33,7 +33,7 @@
 
         Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-([Pub. L. 93–428, § 7][/us/pl/93/428/s7], Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
+([Pub. L. 93–428][/us/pl/93/428], § 7, Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t7/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2707
-[/us/pl/93/428/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs7
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1173
 
 

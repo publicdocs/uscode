@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch87/schV/m__us_usc_t7_ch87_schV.md) | [Next](./../../../../..//us/usc/t7/ch87/schV/m__us_usc_t7_s5692.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5691)
 
-## § 5691. Repealed. [Pub. L. 103–354, title II, § 225(e)(1)][/us/pl/103/354/s225/e/1], Oct. 13, 1994, [108 Stat. 3214][/us/stat/108/3214]
+## § 5691. Repealed. [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 225(e)(1), Oct. 13, 1994, [108 Stat. 3214][/us/stat/108/3214]
 
-    Section, [Pub. L. 95–501, title V, § 501][/us/pl/95/501/s501], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3686][/us/stat/104/3686], established position of Under Secretary of Agriculture for International Affairs and Commodity Programs.
+    Section, [Pub. L. 95–501, title V][/us/pl/95/501/tV], § 501, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3686][/us/stat/104/3686], established position of Under Secretary of Agriculture for International Affairs and Commodity Programs.
 
     A prior [section 501 of Pub. L. 95–501][/us/pl/95/501/s501] enacted [section 2211a of this title][/us/usc/t7/s2211a], amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and enacted provisions set out as a note under [section 2211a of this title][/us/usc/t7/s2211a], prior to the complete revision of [Pub. L. 95–501][/us/pl/95/501] by [Pub. L. 101–624][/us/pl/101/624].
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/103/354/s225/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs225%2Fe%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3214
-[/us/pl/95/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs501
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3686
 [/us/pl/95/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs501
 [/us/usc/t7/s2211a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2211a

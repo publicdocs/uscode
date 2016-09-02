@@ -17,7 +17,7 @@
 
     Congress may at any time amend, suspend, or repeal any or all of the provisions of this subchapter.
 
-([Aug. 30, 1890, ch. 841, § 6][/us/act/1890-08-30/ch841/s6], [26 Stat. 419][/us/stat/26/419].)
+([Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], § 6, [26 Stat. 419][/us/stat/26/419].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1890-08-30/ch841/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841%2Fs6
+[/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F419
 
 

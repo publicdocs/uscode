@@ -27,21 +27,21 @@
 
         All data reported to or acquired by the Secretary pursuant to this section shall be kept confidential by all officers and employees of the Department, and only such data so reported or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing under this subchapter. Nothing in this section shall be deemed to prohibit the issuance of general statements based upon the reports of a number of parties which statements do not identify the information furnished by any person.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 373, [52 Stat. 65][/us/stat/52/65]; [June 13, 1940, ch. 360, § 6][/us/act/1940-06-13/ch360/s6], [54 Stat. 394][/us/stat/54/394]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], §§ 6, 7, [55 Stat. 92][/us/stat/55/92]; [Pub. L. 86–507, § 1(6)][/us/pl/86/507/s1/6], June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 95–113, title VIII, § 805][/us/pl/95/113/s805], Sept. 29, 1977, [91 Stat. 947][/us/stat/91/947]; [Pub. L. 97–98, title VII, § 706][/us/pl/97/98/s706], Dec. 22, 1981, [95 Stat. 1256][/us/stat/95/1256]; [Pub. L. 97–218, title III, § 304][/us/pl/97/218/s304], July 20, 1982, [96 Stat. 214][/us/stat/96/214]; [Pub. L. 99–198, title VII, § 706][/us/pl/99/198/s706], Dec. 23, 1985, [99 Stat. 1441][/us/stat/99/1441]; [Pub. L. 101–624, title VIII, § 807][/us/pl/101/624/s807], Nov. 28, 1990, [104 Stat. 3478][/us/stat/104/3478]; [Pub. L. 104–127, title I, § 171(a)(2)][/us/pl/104/127/s171/a/2], Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937]; [Pub. L. 107–171, title I, § 1309(h)(3)][/us/pl/107/171/s1309/h/3], May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI, § 611(j)][/us/pl/108/357/s611/j], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 373, [52 Stat. 65][/us/stat/52/65]; [June 13, 1940, ch. 360][/us/act/1940-06-13/ch360], § 6, [54 Stat. 394][/us/stat/54/394]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], §§ 6, 7, [55 Stat. 92][/us/stat/55/92]; [Pub. L. 86–507][/us/pl/86/507], § 1(6), June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 95–113, title VIII][/us/pl/95/113/tVIII], § 805, Sept. 29, 1977, [91 Stat. 947][/us/stat/91/947]; [Pub. L. 97–98, title VII][/us/pl/97/98/tVII], § 706, Dec. 22, 1981, [95 Stat. 1256][/us/stat/95/1256]; [Pub. L. 97–218, title III][/us/pl/97/218/tIII], § 304, July 20, 1982, [96 Stat. 214][/us/stat/96/214]; [Pub. L. 99–198, title VII][/us/pl/99/198/tVII], § 706, Dec. 23, 1985, [99 Stat. 1441][/us/stat/99/1441]; [Pub. L. 101–624, title VIII][/us/pl/101/624/tVIII], § 807, Nov. 28, 1990, [104 Stat. 3478][/us/stat/104/3478]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171(a)(2), Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309(h)(3), May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(j), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 611(j)(2)(B)][/us/pl/108/357/s611/j/2/B], substituted “$500.” for “$500; and any tobacco warehouseman or dealer who fails to remedy such violation by making a complete and accurate report or keeping a complete and accurate record as required by this subsection within fifteen days after notice to him of such violation shall be subject to an additional fine of $100 for each ten thousand pounds of tobacco, or fraction thereof, bought or sold by him after the date of such violation: Provided, That such fine shall not exceed $5,000; and notice of such violation shall be served upon the tobacco warehouseman or dealer by mailing the same to him by registered mail or by certified mail or by posting the same at any established place of business operated by him, or both.”
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 611(j)(2)(B), substituted “$500.” for “$500; and any tobacco warehouseman or dealer who fails to remedy such violation by making a complete and accurate report or keeping a complete and accurate record as required by this subsection within fifteen days after notice to him of such violation shall be subject to an additional fine of $100 for each ten thousand pounds of tobacco, or fraction thereof, bought or sold by him after the date of such violation: Provided, That such fine shall not exceed $5,000; and notice of such violation shall be served upon the tobacco warehouseman or dealer by mailing the same to him by registered mail or by certified mail or by posting the same at any established place of business operated by him, or both.”
 
-    [Pub. L. 108–357, § 611(j)(2)(A)][/us/pl/108/357/s611/j/2/A], which directed that “all persons engaged in the business of redrying, prizing, or stemming tobacco for producers,” be struck out in first sentence, was executed by striking out “, and all persons engaged in the business of redrying, prizing, or stemming tobacco for producers” before period at end of first sentence, to reflect the probable intent of Congress.
+    [Pub. L. 108–357][/us/pl/108/357], § 611(j)(2)(A), which directed that “all persons engaged in the business of redrying, prizing, or stemming tobacco for producers,” be struck out in first sentence, was executed by striking out “, and all persons engaged in the business of redrying, prizing, or stemming tobacco for producers” before period at end of first sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 108–357, § 611(j)(1)][/us/pl/108/357/s611/j/1], substituted “or rice” for “rice, or tobacco” in two places in first sentence.
+    [Pub. L. 108–357][/us/pl/108/357], § 611(j)(1), substituted “or rice” for “rice, or tobacco” in two places in first sentence.
 
-    Subsec. (b). [Pub. L. 108–357, § 611(j)(1)][/us/pl/108/357/s611/j/1], substituted “or rice” for “rice, or tobacco”.
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 611(j)(1), substituted “or rice” for “rice, or tobacco”.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 1309(h)(3)(A)][/us/pl/107/171/s1309/h/3/A], in first sentence, struck out “peanuts,” after “rice,” in two places, inserted “and” after “from producers,” and substituted “for producers.” for “for producers, all producers engaged in the production of peanuts, all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines.”
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 1309(h)(3)(A), in first sentence, struck out “peanuts,” after “rice,” in two places, inserted “and” after “from producers,” and substituted “for producers.” for “for producers, all producers engaged in the production of peanuts, all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines.”
 
-    Subsec. (b). [Pub. L. 107–171, § 1309(h)(3)(B)][/us/pl/107/171/s1309/h/3/B], struck out “peanuts,” after “rice,”.
+    Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 1309(h)(3)(B), struck out “peanuts,” after “rice,”.
 
     1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127] temporarily inserted “all producers engaged in the production of peanuts,” before “all brokers and dealers in peanuts”. See Effective and Termination Dates of 1996 Amendment note below.
 
@@ -69,23 +69,23 @@
 
  __Effective and Termination Dates of 1996 Amendment__ 
 
-    [Pub. L. 104–127, title I, § 171(a)(2)][/us/pl/104/127/s171/a/2], Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937], provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
+    [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171(a)(2), Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937], provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
 
  __Effective and Termination Dates of 1990 Amendment__ 
 
-    [Pub. L. 101–624, title VIII, § 807][/us/pl/101/624/s807], Nov. 28, 1990, [104 Stat. 3478][/us/stat/104/3478], provided that the amendment made by section 807 is effective only for the 1991 through 1995 crops of peanuts.
+    [Pub. L. 101–624, title VIII][/us/pl/101/624/tVIII], § 807, Nov. 28, 1990, [104 Stat. 3478][/us/stat/104/3478], provided that the amendment made by section 807 is effective only for the 1991 through 1995 crops of peanuts.
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title VII, § 706][/us/pl/99/198/s706], Dec. 23, 1985, [99 Stat. 1441][/us/stat/99/1441], provided that the amendment made by section 706 is effective only for the 1986 through 1990 crops of peanuts.
+    [Pub. L. 99–198, title VII][/us/pl/99/198/tVII], § 706, Dec. 23, 1985, [99 Stat. 1441][/us/stat/99/1441], provided that the amendment made by section 706 is effective only for the 1986 through 1990 crops of peanuts.
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–98, title VII, § 706][/us/pl/97/98/s706], Dec. 22, 1981, [95 Stat. 1256][/us/stat/95/1256], provided that the amendment made by section 706 is effective for the 1982 through 1985 crop of peanuts.
+    [Pub. L. 97–98, title VII][/us/pl/97/98/tVII], § 706, Dec. 22, 1981, [95 Stat. 1256][/us/stat/95/1256], provided that the amendment made by section 706 is effective for the 1982 through 1985 crop of peanuts.
 
  __Effective and Termination Dates of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title VIII, § 805][/us/pl/95/113/s805], Sept. 29, 1977, [91 Stat. 947][/us/stat/91/947], provided that the amendment made by section 805 is effective for the 1978 through 1981 crops of peanuts.
+    [Pub. L. 95–113, title VIII][/us/pl/95/113/tVIII], § 805, Sept. 29, 1977, [91 Stat. 947][/us/stat/91/947], provided that the amendment made by section 805 is effective for the 1978 through 1981 crops of peanuts.
 
  __Savings Provision__ 
 
@@ -100,34 +100,34 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F65
-[/us/act/1940-06-13/ch360/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch360%2Fs6
+[/us/act/1940-06-13/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch360
 [/us/stat/54/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F394
 [/us/act/1941-04-03/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39
 [/us/stat/55/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F92
-[/us/pl/86/507/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F6
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F200
-[/us/pl/95/113/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs805
+[/us/pl/95/113/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtVIII
 [/us/stat/91/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F947
-[/us/pl/97/98/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs706
+[/us/pl/97/98/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtVII
 [/us/stat/95/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1256
-[/us/pl/97/218/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2Fs304
+[/us/pl/97/218/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2FtIII
 [/us/stat/96/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F214
-[/us/pl/99/198/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs706
+[/us/pl/99/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVII
 [/us/stat/99/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1441
-[/us/pl/101/624/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs807
+[/us/pl/101/624/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtVIII
 [/us/stat/104/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3478
-[/us/pl/104/127/s171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171%2Fa%2F2
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F937
-[/us/pl/107/171/s1309/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F3
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F182
-[/us/pl/108/357/s611/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fj
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
-[/us/pl/108/357/s611/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fj%2F2%2FB
-[/us/pl/108/357/s611/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fj%2F2%2FA
-[/us/pl/108/357/s611/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fj%2F1
-[/us/pl/108/357/s611/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fj%2F1
-[/us/pl/107/171/s1309/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F3%2FA
-[/us/pl/107/171/s1309/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F3%2FB
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
@@ -138,15 +138,15 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518
-[/us/pl/104/127/s171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171%2Fa%2F2
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F937
-[/us/pl/101/624/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs807
+[/us/pl/101/624/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtVIII
 [/us/stat/104/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3478
-[/us/pl/99/198/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs706
+[/us/pl/99/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVII
 [/us/stat/99/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1441
-[/us/pl/97/98/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs706
+[/us/pl/97/98/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtVII
 [/us/stat/95/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1256
-[/us/pl/95/113/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs805
+[/us/pl/95/113/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtVIII
 [/us/stat/91/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F947
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614

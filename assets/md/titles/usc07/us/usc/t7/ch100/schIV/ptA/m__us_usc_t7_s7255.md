@@ -39,7 +39,7 @@
 
         This section (other than subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup> ) shall be effective during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 1999. During that period, the Secretary may exercise the authority provided to the Secretary under this section without regard to the issuance of regulations intended to carry out this section.
 
-([Pub. L. 104–127, title I, § 145][/us/pl/104/127/s145], Apr. 4, 1996, [110 Stat. 917][/us/stat/110/917].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 145, Apr. 4, 1996, [110 Stat. 917][/us/stat/110/917].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs145
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F917
 [/us/pl/104/127/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs145
 [/us/pl/104/127/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs145

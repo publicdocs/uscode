@@ -23,7 +23,7 @@
 
         The provisions of this chapter applicable to an order shall be applicable to amendments to the order, except that the Secretary is not required to conduct a referendum on a proposed amendment to an order.
 
-([Pub. L. 103–407, § 10][/us/pl/103/407/s10], Oct. 22, 1994, [108 Stat. 4226][/us/stat/108/4226].)
+([Pub. L. 103–407][/us/pl/103/407], § 10, Oct. 22, 1994, [108 Stat. 4226][/us/stat/108/4226].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/407/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs10
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4226
 
 

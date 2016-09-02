@@ -17,7 +17,7 @@
 
     No loan (other than one to a public body or nonprofit association (including Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups) for community facilities or one of a type authorized by [section 1926(a)(1) of this title][/us/usc/t7/s1926/a/1] prior to its amendment by the Rural Development Act of 1972) shall be made by the Secretary either for sale as an insured loan or otherwise under sections 1926(a)(1), 1932, or 1942(c) of this title unless the Secretary shall have determined that no other lender is willing to make such loan and assume 10 per centum of any loss sustained thereon. No contract guaranteeing any such loan by such other lender shall require the Secretary to guarantee more than 90 per centum of the principal and interest on such loan.
 
-([Pub. L. 87–128, title III, § 344][/us/pl/87/128/s344], as added [Pub. L. 92–419, title I, § 129][/us/pl/92/419/s129], Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; amended [Pub. L. 94–35, § 2][/us/pl/94/35/s2], June 16, 1975, [89 Stat. 214][/us/stat/89/214]; [Pub. L. 104–127, title VI, § 661(i)][/us/pl/104/127/s661/i], Apr. 4, 1996, [110 Stat. 1107][/us/stat/110/1107].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 344, as added [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 129, Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; amended [Pub. L. 94–35][/us/pl/94/35], § 2, June 16, 1975, [89 Stat. 214][/us/stat/89/214]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 661(i), Apr. 4, 1996, [110 Stat. 1107][/us/stat/110/1107].)
 
  __References in Text__ 
 
@@ -37,12 +37,12 @@
 ----------
 
 [/us/usc/t7/s1926/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F1
-[/us/pl/87/128/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs344
-[/us/pl/92/419/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs129
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F666
-[/us/pl/94/35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F35%2Fs2
+[/us/pl/94/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F35
 [/us/stat/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F214
-[/us/pl/104/127/s661/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fi
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1107
 [/us/usc/t7/s1926/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F1
 [/us/pl/92/419/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs104

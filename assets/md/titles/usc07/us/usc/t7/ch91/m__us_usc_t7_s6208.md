@@ -49,7 +49,7 @@
 
         The site of any hearings held under section 6206 or 6207 of this title shall be within the judicial district where such person is an inhabitant or has a principal place of business.
 
-([Pub. L. 101–624, title XIX, § 1959][/us/pl/101/624/s1959], Nov. 28, 1990, [104 Stat. 3878][/us/stat/104/3878]; [Pub. L. 102–237, title VIII, § 805(3)][/us/pl/102/237/s805/3], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1959, Nov. 28, 1990, [104 Stat. 3878][/us/stat/104/3878]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 805(3), Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1959
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3878
-[/us/pl/102/237/s805/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs805%2F3
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

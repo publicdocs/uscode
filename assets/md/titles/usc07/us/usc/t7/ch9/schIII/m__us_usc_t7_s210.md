@@ -39,7 +39,7 @@
 
         If the defendant does not comply with an order for the payment of money within the time limit in such order, the complainant, or any person for whose benefit such order was made, may within one year of the date of the order file in the district court of the United States for the district in which he resides or in which is located the principal place of business of the defendant or in any State court having general jurisdiction of the parties, a petition setting forth briefly the causes for which he claims damages, and the order of the Secretary in the premises. Such suit in the district court shall proceed in all respects like other civil suits for damages except that the findings and orders of the Secretary shall be prima facie evidence of the facts therein stated, and the petitioner shall not be liable for costs in the district court nor for costs at any subsequent stage of the proceedings unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney’s fee to be taxed and collected as a part of the costs of the suit.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 309, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 94–410, § 3(c)][/us/pl/94/410/s3/c], Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 309, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 94–410][/us/pl/94/410], § 3(c), Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F165
-[/us/pl/94/410/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs3%2Fc
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1249
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 

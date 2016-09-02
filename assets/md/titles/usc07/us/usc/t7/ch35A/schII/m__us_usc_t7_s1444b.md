@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444a.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444a.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444c _us_usc_t7_s1444d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b)
 
 ## § 1444b. Feed grains; price support program
 
@@ -19,7 +19,7 @@
 
     (b) Beginning with the 1959 crop, price support shall be made available to producers for each crop of oats, rye, barley, and grain sorghums at such level of the parity price therefor as the Secretary of Agriculture determines is fair and reasonable in relation to the level at which price support is made available for corn, taking into consideration the feeding value of such commodity in relation to corn, and the other factors set forth in [section 1421(b) of this title][/us/usc/t7/s1421/b].
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 105, as added [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104(b)(2), as added [Pub. L. 85–835, title II, § 201][/us/pl/85/835/s201], Aug. 28, 1958, [72 Stat. 994][/us/stat/72/994]; amended [Pub. L. 87–5, § 1][/us/pl/87/5/s1], Mar. 22, 1961, [75 Stat. 6][/us/stat/75/6]; [Pub. L. 87–128, title I, § 131][/us/pl/87/128/s131], Aug. 8, 1961, [75 Stat. 301][/us/stat/75/301]; [Pub. L. 87–425, § 1][/us/pl/87/425/s1], Mar. 30, 1962, [76 Stat. 50][/us/stat/76/50]; [Pub. L. 87–703, title III][/us/pl/87/703], §§ 301, 305, Sept. 27, 1962, [76 Stat. 612][/us/stat/76/612], 614; [Pub. L. 88–26, § 2][/us/pl/88/26/s2], May 20, 1963, [77 Stat. 44][/us/stat/77/44]; [Pub. L. 89–112, § 1][/us/pl/89/112/s1], Aug. 6, 1965, [79 Stat. 446][/us/stat/79/446]; [Pub. L. 89–321, title III, § 301][/us/pl/89/321/s301], Nov. 3, 1965, [79 Stat. 1188][/us/stat/79/1188]; [Pub. L. 89–451, § 2][/us/pl/89/451/s2], June 17, 1966, [80 Stat. 202][/us/stat/80/202]; [Pub. L. 89–321, title III, § 301][/us/pl/89/321/s301], Nov. 3, 1965, as amended [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title V, § 501][/us/pl/91/524/s501], Nov. 30, 1970, [84 Stat. 1368][/us/stat/84/1368]; [Pub. L. 91–524, title V, § 501][/us/pl/91/524/s501], Nov. 30, 1970, as amended [Pub. L. 93–86, § 1(18)][/us/pl/93/86/s1/18], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230]; [Pub. L. 93–86, § 1(18)][/us/pl/93/86/s1/18], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230]; [Pub. L. 93–86, § 1(18)][/us/pl/93/86/s1/18], Aug. 10, 1973, as amended [Pub. L. 93–125, § 1(d)][/us/pl/93/125/s1/d], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 93–228, § 1(b)][/us/pl/93/228/s1/b], Dec. 29, 1973, [87 Stat. 944][/us/stat/87/944].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 105, as added [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104(b)(2), as added [Pub. L. 85–835, title II][/us/pl/85/835/tII], § 201, Aug. 28, 1958, [72 Stat. 994][/us/stat/72/994]; amended [Pub. L. 87–5][/us/pl/87/5], § 1, Mar. 22, 1961, [75 Stat. 6][/us/stat/75/6]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 131, Aug. 8, 1961, [75 Stat. 301][/us/stat/75/301]; [Pub. L. 87–425][/us/pl/87/425], § 1, Mar. 30, 1962, [76 Stat. 50][/us/stat/76/50]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], §§ 301, 305, Sept. 27, 1962, [76 Stat. 612][/us/stat/76/612], 614; [Pub. L. 88–26][/us/pl/88/26], § 2, May 20, 1963, [77 Stat. 44][/us/stat/77/44]; [Pub. L. 89–112][/us/pl/89/112], § 1, Aug. 6, 1965, [79 Stat. 446][/us/stat/79/446]; [Pub. L. 89–321, title III][/us/pl/89/321/tIII], § 301, Nov. 3, 1965, [79 Stat. 1188][/us/stat/79/1188]; [Pub. L. 89–451][/us/pl/89/451], § 2, June 17, 1966, [80 Stat. 202][/us/stat/80/202]; [Pub. L. 89–321, title III][/us/pl/89/321/tIII], § 301, Nov. 3, 1965, as amended [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501, Nov. 30, 1970, [84 Stat. 1368][/us/stat/84/1368]; [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501, Nov. 30, 1970, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230]; [Pub. L. 93–86][/us/pl/93/86], § 1(18), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230]; [Pub. L. 93–86][/us/pl/93/86], § 1(18), Aug. 10, 1973, as amended [Pub. L. 93–125][/us/pl/93/125], § 1(d), Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 93–228][/us/pl/93/228], § 1(b), Dec. 29, 1973, [87 Stat. 944][/us/stat/87/944].)
 
  __Codification__ 
 
@@ -33,37 +33,37 @@
 
     [Pub. L. 93–86][/us/pl/93/86] temporarily enacted feed grain loans and purchases price support program for 1974 through 1977, as described below. See Effective and Termination Dates of 1973 Amendment note below.
 
-    [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–86, § 1(18)(A)][/us/pl/93/86/s1/18/A], reenacted introductory text without change.
+    [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18)(A), reenacted introductory text without change.
 
-    Subsec. (a)(1). [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–86, § 1(18)(A)][/us/pl/93/86/s1/18/A], increased minimum corn crop support level from $1.00 to $1.10 per bushel.
+    Subsec. (a)(1). [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18)(A), increased minimum corn crop support level from $1.00 to $1.10 per bushel.
 
-    Subsec. (a)(2). [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–36, § 1(18)(A)][/us/pl/93/36/s1/18/A], reenacted par. (2) provisions without change.
+    Subsec. (a)(2). [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–36][/us/pl/93/36], § 1(18)(A), reenacted par. (2) provisions without change.
 
-    Subsec. (b)(1). [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–86, § 1(18)(B)][/us/pl/93/86/s1/18/B], added par. (1). Former par. (1) related to subject matter as described in 1970 Amendment note for subsec. (b)(1) of this section.
+    Subsec. (b)(1). [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18)(B), added par. (1). Former par. (1) related to subject matter as described in 1970 Amendment note for subsec. (b)(1) of this section.
 
     Subsec. (b)(1) last sentence. [Pub. L. 93–228][/us/pl/93/228] substituted “(or of wheat, or cotton planted in lieu of the allotted crop)” for “(or other nonconserving crop planted instead of feed grains)”.
 
-    Subsec. (b)(2). [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–86, § 1(18)(B)][/us/pl/93/86/s1/18/B], added par. (2). Former par. (2) made payments with respect to a farm available on 50 per centum of the feed grain base for the farm and for computation of the payments on the basis of the yield established for the farm for the preceding crop with such adjustments as the Secretary determines necessary to provide a fair and equitable yield.
+    Subsec. (b)(2). [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18)(B), added par. (2). Former par. (2) made payments with respect to a farm available on 50 per centum of the feed grain base for the farm and for computation of the payments on the basis of the yield established for the farm for the preceding crop with such adjustments as the Secretary determines necessary to provide a fair and equitable yield.
 
-    Subsec. (b)(3). [Pub. L. 91–524, § 501][/us/pl/91/524/s501], as amended [Pub. L. 93–86, § 1(18)(B)][/us/pl/93/86/s1/18/B], substituted in: first sentence, “the feed grain allotment for the farm, the feed grain allotment for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than the feed grain allotment for the farm, but such reduction shall not exceed 20 per centum of the feed grain allotment” for “the portion of the feed grain base for the farm on which payments are available under this subsection, the feed grain base for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than such portion of the feed grain base for the farm, but such reduction shall not exceed 20 per centum of the feed grain base”; second sentence, including proviso, “feed grain allotment” for “feed grain base”; third sentence, “feed grain allotments” for “feed grain bases”; fourth sentence, “90 per centum of the feed grain allotment” for “90 per centum of the portion of the feed grain base on which payments are made available” and “100 per centum of such allotment” for “100 per centum of such portion”; and sixth sentence “effective operation of the program” for “effective operation of the feed grain or soybean program”; and authorized acreage devoted to guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate, to be considered as feed grain acreage.
+    Subsec. (b)(3). [Pub. L. 91–524][/us/pl/91/524], § 501, as amended [Pub. L. 93–86][/us/pl/93/86], § 1(18)(B), substituted in: first sentence, “the feed grain allotment for the farm, the feed grain allotment for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than the feed grain allotment for the farm, but such reduction shall not exceed 20 per centum of the feed grain allotment” for “the portion of the feed grain base for the farm on which payments are available under this subsection, the feed grain base for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than such portion of the feed grain base for the farm, but such reduction shall not exceed 20 per centum of the feed grain base”; second sentence, including proviso, “feed grain allotment” for “feed grain base”; third sentence, “feed grain allotments” for “feed grain bases”; fourth sentence, “90 per centum of the feed grain allotment” for “90 per centum of the portion of the feed grain base on which payments are made available” and “100 per centum of such allotment” for “100 per centum of such portion”; and sixth sentence “effective operation of the program” for “effective operation of the feed grain or soybean program”; and authorized acreage devoted to guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate, to be considered as feed grain acreage.
 
-    Subsec. (c)(1) second sentence. [Pub. L. 93–86, § 1(18)(D)][/us/pl/93/86/s1/18/D], formerly § 1(18)(C \[second\]), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], substituted in item (i) “feed grain allotment” for “feed grain base”, inserted preceding item (ii) “, if required by the Secretary”, and substituted in item (ii) “soil conserving uses” for “soil-conserving uses”.
+    Subsec. (c)(1) second sentence. [Pub. L. 93–86][/us/pl/93/86], § 1(18)(D), formerly § 1(18)(C \[second\]), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), substituted in item (i) “feed grain allotment” for “feed grain base”, inserted preceding item (ii) “, if required by the Secretary”, and substituted in item (ii) “soil conserving uses” for “soil-conserving uses”.
 
-    Subsec. (c)(1) third sentence. [Pub. L. 93–86, § 1(18)(E)][/us/pl/93/86/s1/18/E], formerly § 1(18)(D), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to feed grains on the farm to a percentage of the farm acreage allotment.” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit the acreage planted to feed grains on the farm to such percentage of the feed grain base as he determines necessary to provide an orderly transition to the program provided for under this section.”
+    Subsec. (c)(1) third sentence. [Pub. L. 93–86][/us/pl/93/86], § 1(18)(E), formerly § 1(18)(D), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to feed grains on the farm to a percentage of the farm acreage allotment.” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit the acreage planted to feed grains on the farm to such percentage of the feed grain base as he determines necessary to provide an orderly transition to the program provided for under this section.”
 
-    Subsec. (c)(1) fifth sentence. [Pub. L. 93–86, § 1(18)(D)][/us/pl/93/86/s1/18/D], formerly § 1(18)(C \[second\]), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], substituted “1971 through 1977” for “1971, 1972, 1973”.
+    Subsec. (c)(1) fifth sentence. [Pub. L. 93–86][/us/pl/93/86], § 1(18)(D), formerly § 1(18)(C \[second\]), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), substituted “1971 through 1977” for “1971, 1972, 1973”.
 
-    Subsec. (c)(1) last sentence. [Pub. L. 93–86, § 1(18)(C)][/us/pl/93/86/s1/18/C], as amended [Pub. L. 93–125, § 1(d)(i)][/us/pl/93/125/s1/d/i], authorized set-aside acreage to be devoted to hay and production of triticale, oats, and rye, and deleted item (1) and (2) designation of existing provisions, and former introductory text reading “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to [section 590h(b) of title 16][/us/usc/t16/s590h/b], and subject to this limitation”, and provided for such provisions as run-in rather than new-paragraph text.
+    Subsec. (c)(1) last sentence. [Pub. L. 93–86][/us/pl/93/86], § 1(18)(C), as amended [Pub. L. 93–125][/us/pl/93/125], § 1(d)(i), authorized set-aside acreage to be devoted to hay and production of triticale, oats, and rye, and deleted item (1) and (2) designation of existing provisions, and former introductory text reading “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to [section 590h(b) of title 16][/us/usc/t16/s590h/b], and subject to this limitation”, and provided for such provisions as run-in rather than new-paragraph text.
 
-    Subsec. (c)(3). [Pub. L. 93–86, § 1(18)(G)][/us/pl/93/86/s1/18/G], formerly § 1(18)(F), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], inserted after provision for devotion of set-aside acreage and diverted acreage to wildlife food plots or wildlife habitat the sentence “The Secretary may, in the case of programs for the 1974 through 1977 crops, pay an appropriate share of the cost of practices designed to carry out the purposes of the foregoing sentences.”
+    Subsec. (c)(3). [Pub. L. 93–86][/us/pl/93/86], § 1(18)(G), formerly § 1(18)(F), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), inserted after provision for devotion of set-aside acreage and diverted acreage to wildlife food plots or wildlife habitat the sentence “The Secretary may, in the case of programs for the 1974 through 1977 crops, pay an appropriate share of the cost of practices designed to carry out the purposes of the foregoing sentences.”
 
-    Subsec. (e)(1). [Pub. L. 93–86, § 1(18)(F)][/us/pl/93/86/s1/18/F], formerly § 1(18)(E), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], struck out provision reading “For the purpose of this section, the feed grain base shall be the average acreage devoted on the farm to corn, grain sorghums and, if designated by the Secretary, barley in 1959 and 1960.”
+    Subsec. (e)(1). [Pub. L. 93–86][/us/pl/93/86], § 1(18)(F), formerly § 1(18)(E), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), struck out provision reading “For the purpose of this section, the feed grain base shall be the average acreage devoted on the farm to corn, grain sorghums and, if designated by the Secretary, barley in 1959 and 1960.”
 
-    Subsec. (e)(2). [Pub. L. 93–86, § 1(18)(F)][/us/pl/93/86/s1/18/F], formerly § 1(18)(E), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], substituted “farm grain allotments” for “farm grain bases” wherever appearing.
+    Subsec. (e)(2). [Pub. L. 93–86][/us/pl/93/86], § 1(18)(F), formerly § 1(18)(E), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), substituted “farm grain allotments” for “farm grain bases” wherever appearing.
 
-    Subsec. (e)(3). [Pub. L. 93–86, § 1(18)(F)][/us/pl/93/86/s1/18/F], formerly § 1(18)(E), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], struck out provisions respecting reservation for farms in a State for any year for apportionment to farms without 1959 and 1960 acreage, apportionment factors, prohibition against reflection of new cropland by such reserved allocation, and consideration of farm feed grain base as farm feed grain acreage for 1959 and 1960 crop years.
+    Subsec. (e)(3). [Pub. L. 93–86][/us/pl/93/86], § 1(18)(F), formerly § 1(18)(E), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), struck out provisions respecting reservation for farms in a State for any year for apportionment to farms without 1959 and 1960 acreage, apportionment factors, prohibition against reflection of new cropland by such reserved allocation, and consideration of farm feed grain base as farm feed grain acreage for 1959 and 1960 crop years.
 
-    Subsec. (g). [Pub. L. 93–86, § 1(18)(F)][/us/pl/93/86/s1/18/F], formerly § 1(18)(E), renumbered by [Pub. L. 93–125, § 1(d)(ii)][/us/pl/93/125/s1/d/ii], struck out provisions for preliminary payments, time and rate of payment, and reduction of preliminary payment rate.
+    Subsec. (g). [Pub. L. 93–86][/us/pl/93/86], § 1(18)(F), formerly § 1(18)(E), renumbered by [Pub. L. 93–125][/us/pl/93/125], § 1(d)(ii), struck out provisions for preliminary payments, time and rate of payment, and reduction of preliminary payment rate.
 
     1970—[Pub. L. 91–524][/us/pl/91/524] temporarily enacted feed grains loans and purchases price support program for 1971, 1972, and 1973, as described below. See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -139,43 +139,43 @@
 
     1963—[Pub. L. 88–26][/us/pl/88/26] amended feed grains support program for 1962, and enacted feed grains support program for 1964 and 1965, as described hereunder.
 
-    Subsec. (a). [Pub. L. 88–26, § 2(1)][/us/pl/88/26/s2/1], inserted proviso for such corn price support level, in the case of any crop for which an acreage diversion program is in effect for feed grains, not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
+    Subsec. (a). [Pub. L. 88–26][/us/pl/88/26], § 2(1), inserted proviso for such corn price support level, in the case of any crop for which an acreage diversion program is in effect for feed grains, not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
 
-    Subsec. (d). [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], in adding subsec. (d), enacted feed grains support program for 1964 and 1965.
+    Subsec. (d). [Pub. L. 88–26][/us/pl/88/26], § 2(2), in adding subsec. (d), enacted feed grains support program for 1964 and 1965.
 
-    Subsec. (d) first sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], made subsec. (d) applicable to 1964 and 1965 feed grains crops if an acreage diversion program was in effect under [section 590p(h) of title 16][/us/usc/t16/s590p/h].
+    Subsec. (d) first sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), made subsec. (d) applicable to 1964 and 1965 feed grains crops if an acreage diversion program was in effect under [section 590p(h) of title 16][/us/usc/t16/s590p/h].
 
-    Subsec. (d) second sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], required as a condition of eligibility for price support on crop of feed grain included in the acreage diversion program, participation of producer in the diversion program to the extent prescribed by the Secretary, and as a condition of eligibility for such price support if a diversion program was not in effect for 1964 or 1965 crop, that feed grain base be not exceeded by producer and excepted producer of malting barley from requirement of participation in the acreage diversion program for feed grains if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest, did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960, and did not devote oats and rye acreage in 1959 and 1960 to production of wheat pursuant to [section 1339c of this title][/us/usc/t7/s1339c].
+    Subsec. (d) second sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), required as a condition of eligibility for price support on crop of feed grain included in the acreage diversion program, participation of producer in the diversion program to the extent prescribed by the Secretary, and as a condition of eligibility for such price support if a diversion program was not in effect for 1964 or 1965 crop, that feed grain base be not exceeded by producer and excepted producer of malting barley from requirement of participation in the acreage diversion program for feed grains if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest, did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960, and did not devote oats and rye acreage in 1959 and 1960 to production of wheat pursuant to [section 1339c of this title][/us/usc/t7/s1339c].
 
-    Subsec. (d) third sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], authorized payments in kind for such portion of support price for any feed grain included in the acreage diversion program to assure that benefits of price support and diversion programs inure primarily to those producers who cooperate in feed grains acreage reductions.
+    Subsec. (d) third sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), authorized payments in kind for such portion of support price for any feed grain included in the acreage diversion program to assure that benefits of price support and diversion programs inure primarily to those producers who cooperate in feed grains acreage reductions.
 
-    Subsec. (d) fourth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], provided for payments in kind on number of bushels of feed grain determined by multiplying actual acreage of feed grain planted on the farm for harvest by adjusted average yield per acre.
+    Subsec. (d) fourth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), provided for payments in kind on number of bushels of feed grain determined by multiplying actual acreage of feed grain planted on the farm for harvest by adjusted average yield per acre.
 
-    Subsec. (d) fifth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], made base period used in determining adjusted average yield the same as used for purposes of acreage diversion program under [section 590p(h) of title 16][/us/usc/t16/s590p/h].
+    Subsec. (d) fifth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), made base period used in determining adjusted average yield the same as used for purposes of acreage diversion program under [section 590p(h) of title 16][/us/usc/t16/s590p/h].
 
-    Subsec. (d) sixth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], authorized 50 per centum payments to producers in advance of determination of performance.
+    Subsec. (d) sixth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), authorized 50 per centum payments to producers in advance of determination of performance.
 
-    Subsec. (d) seventh sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], provided for payments in kind through issuance of negotiable certificates, redemption for feed grains by the CCC (such feed grains to be valued by the Secretary at not less than the current support price minus that part of the current support price made available through payments in kind, plus reasonable carrying charges), and for assistance of CCC in marketing of the certificates.
+    Subsec. (d) seventh sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), provided for payments in kind through issuance of negotiable certificates, redemption for feed grains by the CCC (such feed grains to be valued by the Secretary at not less than the current support price minus that part of the current support price made available through payments in kind, plus reasonable carrying charges), and for assistance of CCC in marketing of the certificates.
 
-    Subsec. (d) eighth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], provided for deduction from value of negotiable certificates, not presented for redemption within thirty days of date of issuance, or reasonable costs of storage and other carrying charges, for the period beginning thirty days after issuance and ending with date of presentation for redemption.
+    Subsec. (d) eighth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), provided for deduction from value of negotiable certificates, not presented for redemption within thirty days of date of issuance, or reasonable costs of storage and other carrying charges, for the period beginning thirty days after issuance and ending with date of presentation for redemption.
 
-    Subsec. (d) ninth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], required the Secretary to provide for sharing of negotiable certificates among producers on the farm on basis of respective shares in the crop produced on the farm with respect to which such certificates were issued, or the proceeds therefrom.
+    Subsec. (d) ninth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), required the Secretary to provide for sharing of negotiable certificates among producers on the farm on basis of respective shares in the crop produced on the farm with respect to which such certificates were issued, or the proceeds therefrom.
 
-    Subsec. (d) tenth sentence. [Pub. L. 88–26, § 2(2)][/us/pl/88/26/s2/2], conditioned availability of price support for feed grains included in acreage diversion program, where operator of farm elected to participate in the acreage diversion program, to producers on farm diverting from feed grain production under the program an acreage on the farm equal to number of acres which operator agreed to divert, and agreement so provided.
+    Subsec. (d) tenth sentence. [Pub. L. 88–26][/us/pl/88/26], § 2(2), conditioned availability of price support for feed grains included in acreage diversion program, where operator of farm elected to participate in the acreage diversion program, to producers on farm diverting from feed grain production under the program an acreage on the farm equal to number of acres which operator agreed to divert, and agreement so provided.
 
     1962—[Pub. L. 87–703][/us/pl/87/703] enacted feed grains price support program for 1963.
 
     [Pub. L. 87–425][/us/pl/87/425] amended feed grains support program for 1962.
 
-    Subsec. (a). [Pub. L. 87–703, § 305][/us/pl/87/703/s305], substituted provisions for such corn price support level, beginning with 1964 crop, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn for former corn price support, beginning with 1959 crop, at 90 per centum of the average price received by farmers during the three calendar years immediately preceding the calendar year in which the marketing year for such crops began, adjusted to offset the effect on such price of any abnormal quantities of low-grade corn marketed during any of such year, provided the level of price support for any crop of corn be not less than 65 per centum of the parity price therefor.
+    Subsec. (a). [Pub. L. 87–703][/us/pl/87/703], § 305, substituted provisions for such corn price support level, beginning with 1964 crop, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn for former corn price support, beginning with 1959 crop, at 90 per centum of the average price received by farmers during the three calendar years immediately preceding the calendar year in which the marketing year for such crops began, adjusted to offset the effect on such price of any abnormal quantities of low-grade corn marketed during any of such year, provided the level of price support for any crop of corn be not less than 65 per centum of the parity price therefor.
 
-    Subsec. (c). [Pub. L. 87–703, § 301][/us/pl/87/703/s301], in adding pars. (5) and (6), enacted feed grains price support program for 1963, as described hereunder.
+    Subsec. (c). [Pub. L. 87–703][/us/pl/87/703], § 301, in adding pars. (5) and (6), enacted feed grains price support program for 1963, as described hereunder.
 
     Subsec. (c)(4). [Pub. L. 87–425][/us/pl/87/425] excepted producer of barley on a summer-fallow farm from requirement of participation in special agricultural conservation program for 1962 for barley if such producer did not devote barley farm acreage in excess of average acreage devoted to barley in 1959 and 1960 plus the acreage devoted to summer fallow in 1961 which was diverted from the production of wheat under the special 1962 wheat program and did not devote corn, grain sorghums, and barley farm acreage in excess of 80 per centum of average acreage devoted to corn, grain sorghums, and barley in 1959 and 1960.
 
-    Subsec. (c)(5). [Pub. L. 87–703, § 301][/us/pl/87/703/s301], required establishment of 1963 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine; provided for: payments in kind in amount of 18 cents per bushel of support price for corn, and comparable portion of support price for grain sorghums and barley; such payments on number of bushels of such feed grain determined by multiplying actual acreage of such feed grain planted on the farm for harvest in 1963 by the adjusted average yield per acre for 1959 and 1960 crop acreage of such feed grain; such payments through issuance of negotiable certificates redeemable by CCC for corn, grain sorghums, and barley (such feed grains to be valued by the Secretary at not less than support price minus that part of support price made available through payments in kind) and for CCC assistance to producer in marketing of such certificates; deduction from value of the certificate, in the case of any certificate not presented for redemption within 30 days of date of its issuance, reasonable costs of storage and other carrying charges for period beginning 30 days after its issuance and ending with the date of its presentation for redemption; and basis for sharing of such certificate among producers on the farm; and conditioned availability of price support to inclusion of prescribed acreage diversion where operator of farm elected to participate in the special agricultural conservation program for 1963, for corn, grain sorghums, and barley.
+    Subsec. (c)(5). [Pub. L. 87–703][/us/pl/87/703], § 301, required establishment of 1963 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine; provided for: payments in kind in amount of 18 cents per bushel of support price for corn, and comparable portion of support price for grain sorghums and barley; such payments on number of bushels of such feed grain determined by multiplying actual acreage of such feed grain planted on the farm for harvest in 1963 by the adjusted average yield per acre for 1959 and 1960 crop acreage of such feed grain; such payments through issuance of negotiable certificates redeemable by CCC for corn, grain sorghums, and barley (such feed grains to be valued by the Secretary at not less than support price minus that part of support price made available through payments in kind) and for CCC assistance to producer in marketing of such certificates; deduction from value of the certificate, in the case of any certificate not presented for redemption within 30 days of date of its issuance, reasonable costs of storage and other carrying charges for period beginning 30 days after its issuance and ending with the date of its presentation for redemption; and basis for sharing of such certificate among producers on the farm; and conditioned availability of price support to inclusion of prescribed acreage diversion where operator of farm elected to participate in the special agricultural conservation program for 1963, for corn, grain sorghums, and barley.
 
-    Subsec. (c)(6). [Pub. L. 87–703, § 301][/us/pl/87/703/s301], required as a condition of eligibility for price support on 1963 crop of corn, grain sorghums, and barley participation of producer in special agricultural conservation program for 1963 for corn, grain sorghums, and barley to the extent prescribed by the Secretary and excepted producer of malting barley from requirement of participation in special agricultural conservation program for 1963 if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest in 1963, and did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, and did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960.
+    Subsec. (c)(6). [Pub. L. 87–703][/us/pl/87/703], § 301, required as a condition of eligibility for price support on 1963 crop of corn, grain sorghums, and barley participation of producer in special agricultural conservation program for 1963 for corn, grain sorghums, and barley to the extent prescribed by the Secretary and excepted producer of malting barley from requirement of participation in special agricultural conservation program for 1963 if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest in 1963, and did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, and did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960.
 
     1961—[Pub. L. 87–128][/us/pl/87/128] enacted feed grains price support program for 1962.
 
@@ -201,15 +201,15 @@
 
  __Effective and Termination Dates of 1973 Amendment__ 
 
-    [Pub. L. 91–524, title V, § 501][/us/pl/91/524/s501], as amended by [Pub. L. 93–86, § 1(18)][/us/pl/93/86/s1/18], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501 is effective only with respect to the 1974 through 1977 crops of feed grains.
+    [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501, as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(18), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501 is effective only with respect to the 1974 through 1977 crops of feed grains.
 
-    [Pub. L. 91–524, title V, § 501(a)][/us/pl/91/524/s501/a], formerly § 501, as renumbered and amended by [Pub. L. 93–86, § 1(18)(A)][/us/pl/93/86/s1/18/A], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501(a) is effective only with respect to the 1971 through 1977 crops of feed grains.
+    [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501(a), formerly § 501, as renumbered and amended by [Pub. L. 93–86][/us/pl/93/86], § 1(18)(A), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501(a) is effective only with respect to the 1971 through 1977 crops of feed grains.
 
-    [Pub. L. 91–524, title V, § 501(b)][/us/pl/91/524/s501/b], as added by [Pub. L. 93–86, § 1(18)(B)][/us/pl/93/86/s1/18/B], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
+    [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501(b), as added by [Pub. L. 93–86][/us/pl/93/86], § 1(18)(B), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
 
  __Effective and Termination Dates of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title V, § 501][/us/pl/91/524/s501], Nov. 30, 1970, [84 Stat. 1368][/us/stat/84/1368], provided that the amendment made by section 501 is effective only with respect to the 1971, 1972, and 1973 crops of feed grains.
+    [Pub. L. 91–524, title V][/us/pl/91/524/tV], § 501, Nov. 30, 1970, [84 Stat. 1368][/us/stat/84/1368], provided that the amendment made by section 501 is effective only with respect to the 1971, 1972, and 1973 crops of feed grains.
 
  __Inapplicability of Section__ 
 
@@ -221,23 +221,23 @@
 
     Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(b)(1)(C) of this title][/us/usc/t7/s7301/b/1/C].
 
-[Pub. L. 101–624, title IV, § 402][/us/pl/101/624/s402], Nov. 28, 1990, [104 Stat. 3419][/us/stat/104/3419], provided that: 
+[Pub. L. 101–624, title IV][/us/pl/101/624/tIV], § 402, Nov. 28, 1990, [104 Stat. 3419][/us/stat/104/3419], provided that: 
 
 > “Section 105 of the Agricultural Act of 1949 ([7 U.S.C. 1444b][/us/usc/t7/s1444b]) shall not be applicable to the 1991 through 1995 crops of feed grains.”
 
-[Pub. L. 99–198, title IV, § 402][/us/pl/99/198/s402], Dec. 23, 1985, [99 Stat. 1406][/us/stat/99/1406], provided that: 
+[Pub. L. 99–198, title IV][/us/pl/99/198/tIV], § 402, Dec. 23, 1985, [99 Stat. 1406][/us/stat/99/1406], provided that: 
 
 > “Section 105 of the Agricultural Act of 1949 ([7 U.S.C. 1444b][/us/usc/t7/s1444b]) shall not be applicable to the 1986 through 1990 crops of feed grains.”
 
-[Pub. L. 97–98, title IV, § 402][/us/pl/97/98/s402], Dec. 22, 1981, [95 Stat. 1234][/us/stat/95/1234], provided that: 
+[Pub. L. 97–98, title IV][/us/pl/97/98/tIV], § 402, Dec. 22, 1981, [95 Stat. 1234][/us/stat/95/1234], provided that: 
 
 > “Section 105 of the Agricultural Act of 1949 \[this section\] shall not be applicable to the 1982 through 1985 crops of feed grains.”
 
-[Pub. L. 95–113, title V, § 503][/us/pl/95/113/s503], Sept. 29, 1977, [91 Stat. 933][/us/stat/91/933], provided that: 
+[Pub. L. 95–113, title V][/us/pl/95/113/tV], § 503, Sept. 29, 1977, [91 Stat. 933][/us/stat/91/933], provided that: 
 
 > “Section 105 of the Agricultural Act of 1949, as amended \[this section\], shall not be applicable to the 1977 through 1981 crops of feed grains.”
 
-[Pub. L. 95–113, title V, § 504][/us/pl/95/113/s504], Sept. 29, 1977, [91 Stat. 933][/us/stat/91/933], provided that: 
+[Pub. L. 95–113, title V][/us/pl/95/113/tV], § 504, Sept. 29, 1977, [91 Stat. 933][/us/stat/91/933], provided that: 
 
 > “Except as otherwise provided in section 501 of this Act \[enacting section 1444c(a)–(c) of this title effective only for the 1977 through 1981 crops of feed grains\], section 105(a) and (b)(1) of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended \[subsecs. (a) and (b)(1) of this section as amended by [Pub. L. 91–524][/us/pl/91/524], as amended\], to be effective only for the 1974 through 1977 crops of feed grains, shall not be applicable to the 1977 crop of feed grains.”
 
@@ -245,19 +245,9 @@
 
     Corn producers voted for adoption of price support program as provided in [section 1444a(b) of this title][/us/usc/t7/s1444a/b] (254,262) rather than alternative corn acreage allotments and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of [section 1441(d)(4) of this title][/us/usc/t7/s1441/d/4].
 
-§§ 1444c, 1444d. __Repealed.__  __[__  __Pub. L. 101–624, title IV, § 401(1)__  __][/us/pl/101/624/s401/1]__  __,__  __Nov. 28, 1990__  __,__  __[__  __104 Stat. 3400__  __][/us/stat/104/3400]__ 
-
-    Section 1444c, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 105A, as added Sept. 29, 1977, [Pub. L. 95–113, title V][/us/pl/95/113], §§ 501, 502, [91 Stat. 928][/us/stat/91/928], 930; amended Mar. 18, 1980, [Pub. L. 96–213][/us/pl/96/213], §§ 2, 4(c), [94 Stat. 119][/us/stat/94/119], 120; Sept. 26, 1980, [Pub. L. 96–365, title II, § 201(c)][/us/pl/96/365/s201/c], [94 Stat. 1320][/us/stat/94/1320], Dec. 3, 1980, [Pub. L. 96–494, title II, § 202(a)][/us/pl/96/494/s202/a], [94 Stat. 2570][/us/stat/94/2570], related to loan rates and target prices for 1977 through 1981 feed grain crops.
-
-    Section 1444d, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 105B, as added Dec. 22, 1981, [Pub. L. 97–98, title IV, § 401][/us/pl/97/98/s401], [95 Stat. 1227][/us/stat/95/1227]; amended Sept. 8, 1982, [Pub. L. 97–253, title I][/us/pl/97/253], §§ 123, 124, [96 Stat. 769][/us/stat/96/769]; Sept. 29, 1983, [Pub. L. 98–100, § 1(a)][/us/pl/98/100/s1/a], [97 Stat. 718][/us/stat/97/718]; Apr. 10, 1984, [Pub. L. 98–258, title II][/us/pl/98/258], §§ 201–203, [98 Stat. 132][/us/stat/98/132], 133, related to loan rates and target prices for 1982 through 1985 feed grain crops.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see [section 1171 of Pub. L. 101–624][/us/pl/101/624/s1171], set out as an Effective Date of 1990 Amendment note under [section 1421 of this title][/us/usc/t7/s1421].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444a.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444a.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444c _us_usc_t7_s1444d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b)
 
 ----------
 ----------
@@ -266,38 +256,38 @@
 [/us/usc/t7/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421%2Fb
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/85/835/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs201
+[/us/pl/85/835/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtII
 [/us/stat/72/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F994
-[/us/pl/87/5/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F5%2Fs1
+[/us/pl/87/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F5
 [/us/stat/75/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F6
-[/us/pl/87/128/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs131
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F301
-[/us/pl/87/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F425%2Fs1
+[/us/pl/87/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F425
 [/us/stat/76/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F50
-[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F612
-[/us/pl/88/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
 [/us/stat/77/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F44
-[/us/pl/89/112/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F112%2Fs1
+[/us/pl/89/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F112
 [/us/stat/79/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F446
-[/us/pl/89/321/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs301
+[/us/pl/89/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIII
 [/us/stat/79/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1188
-[/us/pl/89/451/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F451%2Fs2
+[/us/pl/89/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F451
 [/us/stat/80/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F202
-[/us/pl/89/321/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs301
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/89/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIII
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
 [/us/stat/84/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1368
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/93/86/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/93/86/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18
-[/us/pl/93/125/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/stat/87/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F450
-[/us/pl/93/228/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F228%2Fs1%2Fb
+[/us/pl/93/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F228
 [/us/stat/87/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F944
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
@@ -306,38 +296,38 @@
 [/us/pl/93/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F228
 [/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FA
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FA
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/36/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F36%2Fs1%2F18%2FA
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FB
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F36
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/93/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F228
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FB
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FB
-[/us/pl/93/86/s1/18/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FD
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FE
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FD
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FC
-[/us/pl/93/125/s1/d/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fi
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/93/86/s1/18/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FG
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FF
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FF
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FF
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
-[/us/pl/93/86/s1/18/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FF
-[/us/pl/93/125/s1/d/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fd%2Fii
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/usc/t7/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441
@@ -381,28 +371,28 @@
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
-[/us/pl/88/26/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F1
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
 [/us/usc/t16/s590p/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fh
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
 [/us/usc/t7/s1339c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339c
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
 [/us/usc/t16/s590p/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fh
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
-[/us/pl/88/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26%2Fs2%2F2
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
+[/us/pl/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F26
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F425
-[/us/pl/87/703/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs305
-[/us/pl/87/703/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs301
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F425
-[/us/pl/87/703/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs301
-[/us/pl/87/703/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs301
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/pl/87/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F5
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
@@ -415,57 +405,35 @@
 [/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
 [/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
 [/us/usc/t7/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421%2Fb
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
-[/us/pl/93/86/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/91/524/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501%2Fa
-[/us/pl/93/86/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FA
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/91/524/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501%2Fb
-[/us/pl/93/86/s1/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F18%2FB
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/91/524/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs501
+[/us/pl/91/524/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtV
 [/us/stat/84/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1368
 [/us/usc/t7/s9092/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F3
 [/us/usc/t7/s8782/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F3
 [/us/usc/t7/s7992/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fb%2F3
 [/us/usc/t7/s7301/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1%2FC
-[/us/pl/101/624/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs402
+[/us/pl/101/624/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIV
 [/us/stat/104/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3419
 [/us/usc/t7/s1444b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b
-[/us/pl/99/198/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs402
+[/us/pl/99/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIV
 [/us/stat/99/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1406
 [/us/usc/t7/s1444b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b
-[/us/pl/97/98/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs402
+[/us/pl/97/98/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtIV
 [/us/stat/95/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1234
-[/us/pl/95/113/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs503
+[/us/pl/95/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtV
 [/us/stat/91/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F933
-[/us/pl/95/113/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs504
+[/us/pl/95/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtV
 [/us/stat/91/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F933
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/usc/t7/s1444a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444a%2Fb
 [/us/usc/t7/s1441/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441%2Fd%2F4
-[/us/pl/101/624/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs401%2F1
-[/us/stat/104/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3400
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/stat/91/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F928
-[/us/pl/96/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F213
-[/us/stat/94/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F119
-[/us/pl/96/365/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs201%2Fc
-[/us/stat/94/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1320
-[/us/pl/96/494/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs202%2Fa
-[/us/stat/94/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2570
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/97/98/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs401
-[/us/stat/95/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1227
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
-[/us/stat/96/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F769
-[/us/pl/98/100/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F100%2Fs1%2Fa
-[/us/stat/97/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F718
-[/us/pl/98/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258
-[/us/stat/98/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F132
-[/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
-[/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 
 

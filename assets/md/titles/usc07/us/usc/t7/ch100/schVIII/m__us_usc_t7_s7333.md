@@ -361,7 +361,7 @@
 
             Except as provided in paragraph (3)(A), additional coverage under this subsection shall be available for each of the 2015 through 2018 crop years.
 
-([Pub. L. 104–127, title I, § 196][/us/pl/104/127/s196], Apr. 4, 1996, [110 Stat. 947][/us/stat/110/947]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–224, title I, § 109][/us/pl/106/224/s109], June 20, 2000, [114 Stat. 371][/us/stat/114/371]; [Pub. L. 107–171, title X, § 10101][/us/pl/107/171/s10101], May 13, 2002, [116 Stat. 488][/us/stat/116/488]; [Pub. L. 110–234, title I, § 1603(f)(1)][/us/pl/110/234/s1603/f/1], title XII, §§ 12020(b), 12025(b), 12027, 12028, May 22, 2008, [122 Stat. 1010][/us/stat/122/1010], 1381, 1390; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(f)(1), title XII, §§ 12020(b), 12025(b), 12027, 12028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, 2143, 2152; [Pub. L. 113–79, title XI, § 11014(b)][/us/pl/113/79/s11014/b], title XII, § 12305(a), Feb. 7, 2014, [128 Stat. 962][/us/stat/128/962], 986.)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 196, Apr. 4, 1996, [110 Stat. 947][/us/stat/110/947]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, § 803(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 109, June 20, 2000, [114 Stat. 371][/us/stat/114/371]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10101, May 13, 2002, [116 Stat. 488][/us/stat/116/488]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(f)(1), title XII, §§ 12020(b), 12025(b), 12027, 12028, May 22, 2008, [122 Stat. 1010][/us/stat/122/1010], 1381, 1390; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(f)(1), title XII, §§ 12020(b), 12025(b), 12027, 12028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, 2143, 2152; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11014(b), title XII, § 12305(a), Feb. 7, 2014, [128 Stat. 962][/us/stat/128/962], 986.)
 
  __References in Text__ 
 
@@ -369,7 +369,7 @@
 
     The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
-    [Section 1308–3a of this title][/us/usc/t7/s1308–3a], referred to in subsec. (i)(4), was amended by [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of [section 1308–3a of this title][/us/usc/t7/s1308–3a].
+    [Section 1308–3a of this title][/us/usc/t7/s1308–3a], referred to in subsec. (i)(4), was amended by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1605(a)–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of [section 1308–3a of this title][/us/usc/t7/s1308–3a].
 
  __Codification__ 
 
@@ -379,61 +379,61 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–79, § 12305(a)(1)(A)][/us/pl/113/79/s12305/a/1/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under [section 1508(b) of this title][/us/usc/t7/s1508/b]. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the ‘Agency’).”
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under [section 1508(b) of this title][/us/usc/t7/s1508/b]. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the ‘Agency’).”
 
-    Subsec. (a)(2)(A)(ii), (iii). [Pub. L. 113–79, § 12305(a)(1)(B)(i)][/us/pl/113/79/s12305/a/1/B/i], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (a)(2)(A)(ii), (iii). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(1)(B)(i), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (a)(2)(B). [Pub. L. 113–79, § 12305(a)(1)(B)(ii)][/us/pl/113/79/s12305/a/1/B/ii], substituted “sweet sorghum, biomass sorghum, and industrial crops (including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products)” for “and industrial crops”.
+    Subsec. (a)(2)(B). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(1)(B)(ii), substituted “sweet sorghum, biomass sorghum, and industrial crops (including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products)” for “and industrial crops”.
 
-    Subsec. (a)(4). [Pub. L. 113–79, § 11014(b)(1)][/us/pl/113/79/s11014/b/1], substituted “reduction in benefits” for “ineligibility” in heading.
+    Subsec. (a)(4). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(1), substituted “reduction in benefits” for “ineligibility” in heading.
 
-    Subsec. (a)(4)(A)(ii). [Pub. L. 113–79, § 11014(b)(2)][/us/pl/113/79/s11014/b/2], inserted “ ,or the producer cannot substantiate that the ground has ever been tilled,” after “never been tilled”.
+    Subsec. (a)(4)(A)(ii). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(2), inserted “ ,or the producer cannot substantiate that the ground has ever been tilled,” after “never been tilled”.
 
-    Subsec. (a)(4)(B). [Pub. L. 113–79, § 11014(b)(3)(A)][/us/pl/113/79/s11014/b/3/A], substituted “Reduction in” for “Ineligibility for” in heading.
+    Subsec. (a)(4)(B). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(3)(A), substituted “Reduction in” for “Ineligibility for” in heading.
 
-    Subsec. (a)(4)(B)(i). [Pub. L. 113–79, § 11014(b)(3)(B)][/us/pl/113/79/s11014/b/3/B], added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+    Subsec. (a)(4)(B)(i). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
     “(I) this section; and
 
     “(II) the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.).”
 
-    Subsec. (a)(4)(B)(iii). [Pub. L. 113–79, § 11014(b)(3)(C)][/us/pl/113/79/s11014/b/3/C], added cl. (iii).
+    Subsec. (a)(4)(B)(iii). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(3)(C), added cl. (iii).
 
-    Subsec. (a)(4)(C). [Pub. L. 113–79, § 11014(b)(4)][/us/pl/113/79/s11014/b/4], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.”
+    Subsec. (a)(4)(C). [Pub. L. 113–79][/us/pl/113/79], § 11014(b)(4), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.”
 
-    Subsec. (i)(2). [Pub. L. 113–79, § 12305(a)(2)][/us/pl/113/79/s12305/a/2], substituted “$125,000” for “$100,000”.
+    Subsec. (i)(2). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(2), substituted “$125,000” for “$100,000”.
 
-    Subsec. (k)(2). [Pub. L. 113–79, § 12305(a)(3)][/us/pl/113/79/s12305/a/3], substituted “limited resource, beginning, or socially disadvantaged farmer” for “limited resource farmer”.
+    Subsec. (k)(2). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(3), substituted “limited resource, beginning, or socially disadvantaged farmer” for “limited resource farmer”.
 
-    Subsec. (l). [Pub. L. 113–79, § 12305(a)(4)][/us/pl/113/79/s12305/a/4], added subsec. (l).
+    Subsec. (l). [Pub. L. 113–79][/us/pl/113/79], § 12305(a)(4), added subsec. (l).
 
-    2008—Subsec. (a)(2)(B). [Pub. L. 110–246, § 12025(b)][/us/pl/110/246/s12025/b], inserted “camelina,” after “sea oats,”.
+    2008—Subsec. (a)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 12025(b), inserted “camelina,” after “sea oats,”.
 
-    Subsec. (a)(4). [Pub. L. 110–246, § 12020(b)][/us/pl/110/246/s12020/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 12020(b), added par. (4).
 
-    Subsec. (c)(2). [Pub. L. 110–246, § 12027][/us/pl/110/246/s12027], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 110–246][/us/pl/110/246], § 12027, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (i)(1), (2). [Pub. L. 110–246, § 1603(f)(1)(A)][/us/pl/110/246/s1603/f/1/A], added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “person” and “qualifying gross revenues” and provided that the total amount of payments that a person would be entitled to receive annually could not exceed $100,000.
+    Subsec. (i)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 1603(f)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “person” and “qualifying gross revenues” and provided that the total amount of payments that a person would be entitled to receive annually could not exceed $100,000.
 
-    Subsec. (i)(4). [Pub. L. 110–246, § 1603(f)(1)(B)][/us/pl/110/246/s1603/f/1/B], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 1421][/us/usc/t7/s1421] note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.”
+    Subsec. (i)(4). [Pub. L. 110–246][/us/pl/110/246], § 1603(f)(1)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 1421][/us/usc/t7/s1421] note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.”
 
-    Subsec. (i)(5). [Pub. L. 110–246, § 1603(f)(1)(C)][/us/pl/110/246/s1603/f/1/C], designated part of existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (i)(5). [Pub. L. 110–246][/us/pl/110/246], § 1603(f)(1)(C), designated part of existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (k)(1). [Pub. L. 110–246, § 12028][/us/pl/110/246/s12028], in subpar. (A) substituted “$250” for “$100” and in subpar. (B) substituted “$750” for “$300” and “$1,875” for “$900”.
+    Subsec. (k)(1). [Pub. L. 110–246][/us/pl/110/246], § 12028, in subpar. (A) substituted “$250” for “$100” and in subpar. (B) substituted “$750” for “$300” and “$1,875” for “$900”.
 
     2002—Subsec. (a)(2)(B). [Pub. L. 107–171][/us/pl/107/171] inserted “sea grass and sea oats,” after “fish),”.
 
-    2000—Subsec. (a)(2)(C). [Pub. L. 106–224, § 109(a)][/us/pl/106/224/s109/a], added subpar. (C).
+    2000—Subsec. (a)(2)(C). [Pub. L. 106–224][/us/pl/106/224], § 109(a), added subpar. (C).
 
-    Subsec. (b)(1). [Pub. L. 106–224, § 109(b)][/us/pl/106/224/s109/b], substituted “not later than 30 days before the beginning of the coverage period, as determined by the Secretary” for “at such time as the Secretary may require” in second sentence.
+    Subsec. (b)(1). [Pub. L. 106–224][/us/pl/106/224], § 109(b), substituted “not later than 30 days before the beginning of the coverage period, as determined by the Secretary” for “at such time as the Secretary may require” in second sentence.
 
-    Subsec. (b)(2). [Pub. L. 106–224, § 109(c)(1)][/us/pl/106/224/s109/c/1], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.”
+    Subsec. (b)(2). [Pub. L. 106–224][/us/pl/106/224], § 109(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.”
 
-    Subsec. (b)(3). [Pub. L. 106–224, § 109(c)(2)][/us/pl/106/224/s109/c/2], inserted “annual” after “shall provide”.
+    Subsec. (b)(3). [Pub. L. 106–224][/us/pl/106/224], § 109(c)(2), inserted “annual” after “shall provide”.
 
-    Subsec. (c). [Pub. L. 106–224, § 109(d)][/us/pl/106/224/s109/d], added subsec. (c) and struck out heading and text of former subsec. (c), which authorized noninsured crop disaster assistance if average yield fell below 65 percent of expected yield, if producer was prevented from planting more than 35 percent of intended acreage, or if total quantity of harvest was less than 50 percent of expected yield.
+    Subsec. (c). [Pub. L. 106–224][/us/pl/106/224], § 109(d), added subsec. (c) and struck out heading and text of former subsec. (c), which authorized noninsured crop disaster assistance if average yield fell below 65 percent of expected yield, if producer was prevented from planting more than 35 percent of intended acreage, or if total quantity of harvest was less than 50 percent of expected yield.
 
-    Subsec. (k). [Pub. L. 106–224, § 109(e)][/us/pl/106/224/s109/e], added subsec. (k).
+    Subsec. (k). [Pub. L. 106–224][/us/pl/106/224], § 109(e), added subsec. (k).
 
     1998–Subsec. (i)(3). [Pub. L. 105–277][/us/pl/105/277] designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), if a producer” for “If a producer”, and added subpar. (B).
 
@@ -451,7 +451,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 110–234, title I, § 1603(f)(2)][/us/pl/110/234/s1603/f/2], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(f)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, provided that: 
+[Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(f)(2), May 22, 2008, [122 Stat. 1011][/us/stat/122/1011], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(f)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, provided that: 
 
 > “Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7333(i)][/us/usc/t7/s7333/i]), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop.”
 
@@ -474,26 +474,26 @@
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
-[/us/pl/104/127/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs196
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F947
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/224/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F371
-[/us/pl/107/171/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10101
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F488
-[/us/pl/110/234/s1603/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Ff%2F1
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1010
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s11014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F962
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
-[/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -503,35 +503,35 @@
 [/us/pl/104/127/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs196
 [/us/pl/104/127/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs196
 [/us/usc/t7/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1519
-[/us/pl/113/79/s12305/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F1%2FA
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fb
-[/us/pl/113/79/s12305/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F1%2FB%2Fi
-[/us/pl/113/79/s12305/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F1%2FB%2Fii
-[/us/pl/113/79/s11014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F1
-[/us/pl/113/79/s11014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F2
-[/us/pl/113/79/s11014/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F3%2FA
-[/us/pl/113/79/s11014/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F3%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/113/79/s11014/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F3%2FC
-[/us/pl/113/79/s11014/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fb%2F4
-[/us/pl/113/79/s12305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F2
-[/us/pl/113/79/s12305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F3
-[/us/pl/113/79/s12305/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fa%2F4
-[/us/pl/110/246/s12025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12025%2Fb
-[/us/pl/110/246/s12020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12020%2Fb
-[/us/pl/110/246/s12027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12027
-[/us/pl/110/246/s1603/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Ff%2F1%2FA
-[/us/pl/110/246/s1603/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Ff%2F1%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/110/246/s1603/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Ff%2F1%2FC
-[/us/pl/110/246/s12028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12028
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/106/224/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fa
-[/us/pl/106/224/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fb
-[/us/pl/106/224/s109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fc%2F1
-[/us/pl/106/224/s109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fc%2F2
-[/us/pl/106/224/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fd
-[/us/pl/106/224/s109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs109%2Fe
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -545,9 +545,9 @@
 [/us/usc/t7/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9081
 [/us/pl/113/235/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs733
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
-[/us/pl/110/234/s1603/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Ff%2F2
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7333/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333%2Fi
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

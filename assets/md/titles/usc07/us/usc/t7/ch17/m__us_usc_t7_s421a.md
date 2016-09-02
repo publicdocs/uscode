@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 3, 1926, ch. 769, § 2][/us/act/1926-07-03/ch769/s2], [44 Stat. 840][/us/stat/44/840], appropriated $25,000 to effectuate the purposes of [section 421 of this title][/us/usc/t7/s421].
+    Section, [act July 3, 1926, ch. 769][/us/act/1926-07-03/ch769], § 2, [44 Stat. 840][/us/stat/44/840], appropriated $25,000 to effectuate the purposes of [section 421 of this title][/us/usc/t7/s421].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch769/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch769%2Fs2
+[/us/act/1926-07-03/ch769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch769
 [/us/stat/44/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F840
 [/us/usc/t7/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs421
 

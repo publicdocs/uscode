@@ -31,13 +31,13 @@
 
     (g) to the extent appropriate, carrying out research activities with respect to native agricultural crops (other than Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, in the manner specified in clauses (a) through (f).
 
-([Pub. L. 95–592, § 6][/us/pl/95/592/s6], Nov. 4, 1978, [92 Stat. 2531][/us/stat/92/2531]; [Pub. L. 98–284, § 6][/us/pl/98/284/s6], May 16, 1984, [98 Stat. 183][/us/stat/98/183].)
+([Pub. L. 95–592][/us/pl/95/592], § 6, Nov. 4, 1978, [92 Stat. 2531][/us/stat/92/2531]; [Pub. L. 98–284][/us/pl/98/284], § 6, May 16, 1984, [98 Stat. 183][/us/stat/98/183].)
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–284, § 6(1)][/us/pl/98/284/s6/1], (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out “may be carried out through the Regional Commissions or otherwise and” after “Such research”.
+    1984—[Pub. L. 98–284][/us/pl/98/284], § 6(1), (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out “may be carried out through the Regional Commissions or otherwise and” after “Such research”.
 
-    Cl. (g). [Pub. L. 98–284, § 6(5)][/us/pl/98/284/s6/5], added cl. (g).
+    Cl. (g). [Pub. L. 98–284][/us/pl/98/284], § 6(5), added cl. (g).
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/95/592/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs6
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2531
-[/us/pl/98/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs6
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F183
-[/us/pl/98/284/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs6%2F1
-[/us/pl/98/284/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs6%2F5
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 
 

@@ -57,7 +57,7 @@
 
             Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
-([Pub. L. 110–234, title I, § 1601][/us/pl/110/234/s1601], May 22, 2008, [122 Stat. 1000][/us/stat/122/1000]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1728.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1601, May 22, 2008, [122 Stat. 1000][/us/stat/122/1000]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1728.)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
     The date of enactment of this Act, referred to in subsec. (c)(1), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
-    Sections 1603 and 1604, referred to in subsec. (c)(4), are sections 1603 and 1604 of [Pub. L. 110–246, title I][/us/pl/110/246], June 18 2008, [122 Stat. 1730][/us/stat/122/1730], 1740, which amended sections 1308 to 1308–3a, 1308a, 1471g, 1524, 7333, and 8204 of this title, [section 2106a of Title 16][/us/usc/t16/s2106a], Conservation, and [section 2401 of Title 19][/us/usc/t19/s2401], Customs Duties, and enacted provisions set out as notes under sections 1308, 1308–3a, and 7333 of this title. For complete classification of sections 1603 and 1604 to the Code, see Tables.
+    Sections 1603 and 1604, referred to in subsec. (c)(4), are sections 1603 and 1604 of [Pub. L. 110–246, title I][/us/pl/110/246/tI], June 18 2008, [122 Stat. 1730][/us/stat/122/1730], 1740, which amended sections 1308 to 1308–3a, 1308a, 1471g, 1524, 7333, and 8204 of this title, [section 2106a of Title 16][/us/usc/t16/s2106a], Conservation, and [section 2401 of Title 19][/us/usc/t19/s2401], Customs Duties, and enacted provisions set out as notes under sections 1308, 1308–3a, and 7333 of this title. For complete classification of sections 1603 and 1604 to the Code, see Tables.
 
  __Codification__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs808
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
-[/us/pl/110/234/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1601
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1000
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
@@ -93,7 +93,7 @@
 [/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314
 [/us/usc/t19/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtI
 [/us/stat/122/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1730
 [/us/usc/t16/s2106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2106a
 [/us/usc/t19/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401

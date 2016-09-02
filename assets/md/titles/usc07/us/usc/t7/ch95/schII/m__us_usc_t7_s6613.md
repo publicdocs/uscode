@@ -43,15 +43,15 @@
 
         In this section, the term “designated rural development program” means a program carried out under section 1924(b), 1926(a), or 1932(e) of this title for which funds are available at any time during the fiscal year.
 
-([Pub. L. 101–624, title XXIII, § 2375][/us/pl/101/624/s2375], Nov. 28, 1990, [104 Stat. 4047][/us/stat/104/4047]; [Pub. L. 104–127, title VII, § 753(b)(1)][/us/pl/104/127/s753/b/1], Apr. 4, 1996, [110 Stat. 1131][/us/stat/110/1131]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2375, Nov. 28, 1990, [104 Stat. 4047][/us/stat/104/4047]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 753(b)(1), Apr. 4, 1996, [110 Stat. 1131][/us/stat/110/1131]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 345(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204.)
 
  __Amendments__ 
 
     1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113] substituted “natural resources” for “forestry” and substituted “National Forest System land resources” for “national forest resources” in two places.
 
-    1996—Subsec. (e). [Pub. L. 104–127, § 753(b)(1)(A)][/us/pl/104/127/s753/b/1/A], struck out “, as defined in [section 2008(b)(2) of this title][/us/usc/t7/s2008/b/2],” before “during any”.
+    1996—Subsec. (e). [Pub. L. 104–127][/us/pl/104/127], § 753(b)(1)(A), struck out “, as defined in [section 2008(b)(2) of this title][/us/usc/t7/s2008/b/2],” before “during any”.
 
-    Subsec. (g). [Pub. L. 104–127, § 753(b)(1)(B)][/us/pl/104/127/s753/b/1/B], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 753(b)(1)(B), added subsec. (g).
 
 ----------
 
@@ -61,15 +61,15 @@
 ----------
 
 [/us/usc/t7/s6614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6614
-[/us/pl/101/624/s2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2375
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4047
-[/us/pl/104/127/s753/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs753%2Fb%2F1
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1131
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/104/127/s753/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs753%2Fb%2F1%2FA
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s2008/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008%2Fb%2F2
-[/us/pl/104/127/s753/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs753%2Fb%2F1%2FB
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

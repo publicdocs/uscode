@@ -61,7 +61,7 @@
 
         The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
 
-([Pub. L. 107–171, title I, § 1105][/us/pl/107/171/s1105], May 13, 2002, [116 Stat. 152][/us/stat/116/152].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1105, May 13, 2002, [116 Stat. 152][/us/stat/116/152].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s7916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7916
-[/us/pl/107/171/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1105
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F152
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

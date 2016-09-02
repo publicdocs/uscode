@@ -37,7 +37,7 @@
 
         Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
 
-([Pub. L. 103–354, title II, § 285][/us/pl/103/354/s285], as added [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title X, § 1001(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–41.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 285, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title X, § 1001(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–41.)
 
  __Codification__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/103/354/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs285
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/pl/103/354/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs285
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

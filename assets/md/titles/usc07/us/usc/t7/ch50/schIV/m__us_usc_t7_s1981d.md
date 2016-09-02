@@ -67,7 +67,7 @@
 
         The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower’s farming operations.
 
-([Pub. L. 87–128, title III, § 331D][/us/pl/87/128/s331D], as added [Pub. L. 100–233, title VI, § 605][/us/pl/100/233/s605], Jan. 6, 1988, [101 Stat. 1666][/us/stat/101/1666]; amended [Pub. L. 101–624, title XVIII, § 1807][/us/pl/101/624/s1807], Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819]; [Pub. L. 102–554, § 10][/us/pl/102/554/s10], Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151]; [Pub. L. 104–127, title VI, § 633][/us/pl/104/127/s633], Apr. 4, 1996, [110 Stat. 1092][/us/stat/110/1092].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 331D, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 605, Jan. 6, 1988, [101 Stat. 1666][/us/stat/101/1666]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1807, Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819]; [Pub. L. 102–554][/us/pl/102/554], § 10, Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 633, Apr. 4, 1996, [110 Stat. 1092][/us/stat/110/1092].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 
     1992—Subsec. (e). [Pub. L. 102–554][/us/pl/102/554], which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, was executed by making the insertion after “within 60 days after receipt of the notice required in this section” to reflect the probable intent of Congress.
 
-    1990—Subsec. (b)(1). [Pub. L. 101–624, § 1807(1)][/us/pl/101/624/s1807/1], inserted “debt settlement programs,” after “preservation loan service programs”.
+    1990—Subsec. (b)(1). [Pub. L. 101–624][/us/pl/101/624], § 1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
 
-    Subsec. (e). [Pub. L. 101–624, § 1807(2)][/us/pl/101/624/s1807/2], substituted “60 days” for “45 days”.
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1807(2), substituted “60 days” for “45 days”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -98,20 +98,20 @@
 ----------
 ----------
 
-[/us/pl/87/128/s331D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs331D
-[/us/pl/100/233/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs605
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1666
-[/us/pl/101/624/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1807
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3819
-[/us/pl/102/554/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs10
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4151
-[/us/pl/104/127/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs633
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1092
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
-[/us/pl/101/624/s1807/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1807%2F1
-[/us/pl/101/624/s1807/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1807%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127/s663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs663%2Fb
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922

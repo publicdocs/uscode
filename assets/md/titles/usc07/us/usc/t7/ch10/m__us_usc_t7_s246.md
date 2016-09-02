@@ -23,11 +23,11 @@
 
     (3) Any other person engaged in the issuance of electronic receipts or the transfer of documents under this chapter.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 7, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 7, as added [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
 
  __Prior Provisions__ 
 
-    A prior section 246, acts [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 25, [39 Stat. 490][/us/stat/39/490]; [Mar. 2, 1931, ch. 366, § 8][/us/act/1931-03-02/ch366/s8], [46 Stat. 1465][/us/stat/46/1465], related to suspension and revocation of license, prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472]. See [section 252 of this title][/us/usc/t7/s252].
+    A prior section 246, acts [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 25, [39 Stat. 490][/us/stat/39/490]; [Mar. 2, 1931, ch. 366][/us/act/1931-03-02/ch366], § 8, [46 Stat. 1465][/us/stat/46/1465], related to suspension and revocation of license, prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472]. See [section 252 of this title][/us/usc/t7/s252].
 
     A prior section 7 of [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, was classified to [section 249 of this title][/us/usc/t7/s249], prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472].
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2065
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F490
-[/us/act/1931-03-02/ch366/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch366%2Fs8
+[/us/act/1931-03-02/ch366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch366
 [/us/stat/46/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1465
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/usc/t7/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs252

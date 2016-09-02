@@ -55,7 +55,7 @@
 
         (13) The term “collateral fees and expenses” means any promotional allowances, rebates, service or materials fees paid or provided, directly or indirectly, in connection with the distribution or marketing of any perishable agricultural commodity.
 
-([June 10, 1930, ch. 436, § 1][/us/act/1930-06-10/ch436/s1], [46 Stat. 531][/us/stat/46/531]; [Apr. 13, 1934, ch. 120, § 1][/us/act/1934-04-13/ch120/s1], [48 Stat. 584][/us/stat/48/584]; [Aug. 20, 1937, ch. 719, § 1][/us/act/1937-08-20/ch719/s1], [50 Stat. 725][/us/stat/50/725]; [June 29, 1940, ch. 456][/us/act/1940-06-29/ch456], §§ 1, 2, [54 Stat. 696][/us/stat/54/696]; [Pub. L. 87–725][/us/pl/87/725], §§ 1, 2, Oct. 1, 1962, [76 Stat. 673][/us/stat/76/673]; [Pub. L. 91–107][/us/pl/91/107], §§ 1, 2, Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182]; [Pub. L. 95–562, § 1][/us/pl/95/562/s1], Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381]; [Pub. L. 97–98, title XI, § 1115(a)][/us/pl/97/98/s1115/a], Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 102–237, title X, § 1011(1)][/us/pl/102/237/s1011/1], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 2, 9(a), 12(a), Nov. 15, 1995, [109 Stat. 424][/us/stat/109/424], 429, 430.)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 1, [46 Stat. 531][/us/stat/46/531]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], § 1, [48 Stat. 584][/us/stat/48/584]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 1, [50 Stat. 725][/us/stat/50/725]; [June 29, 1940, ch. 456][/us/act/1940-06-29/ch456], §§ 1, 2, [54 Stat. 696][/us/stat/54/696]; [Pub. L. 87–725][/us/pl/87/725], §§ 1, 2, Oct. 1, 1962, [76 Stat. 673][/us/stat/76/673]; [Pub. L. 91–107][/us/pl/91/107], §§ 1, 2, Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182]; [Pub. L. 95–562][/us/pl/95/562], § 1, Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1115(a), Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(1), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 2, 9(a), 12(a), Nov. 15, 1995, [109 Stat. 424][/us/stat/109/424], 429, 430.)
 
  __Codification__ 
 
@@ -63,31 +63,31 @@
 
  __Amendments__ 
 
-    1995—Subsec. (b)(9). [Pub. L. 104–48, § 12(a)][/us/pl/104/48/s12/a], inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
+    1995—Subsec. (b)(9). [Pub. L. 104–48][/us/pl/104/48], § 12(a), inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
 
-    Subsec. (b)(11), (12). [Pub. L. 104–48, § 2][/us/pl/104/48/s2], added pars. (11) and (12).
+    Subsec. (b)(11), (12). [Pub. L. 104–48][/us/pl/104/48], § 2, added pars. (11) and (12).
 
-    Subsec. (b)(13). [Pub. L. 104–48, § 9(a)][/us/pl/104/48/s9/a], added par. (13).
+    Subsec. (b)(13). [Pub. L. 104–48][/us/pl/104/48], § 9(a), added par. (13).
 
     1991—[Pub. L. 102–237][/us/pl/102/237] inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and in subsec. (b), inserted heading, substituted “For purposes of this chapter:” for “When used in this chapter—” and periods for semicolons at the end of pars. (1) to (6) and (9).
 
     1981—Pars. (6), (7). [Pub. L. 97–98][/us/pl/97/98] substituted “$230,000” for “$200,000”.
 
-    1978—Par. (6)(B). [Pub. L. 95–562, § 1(a)(1)][/us/pl/95/562/s1/a/1], substituted “$200,000” for “$100,000”.
+    1978—Par. (6)(B). [Pub. L. 95–562][/us/pl/95/562], § 1(a)(1), substituted “$200,000” for “$100,000”.
 
-    Par. (6)(C). [Pub. L. 95–562, § 1(b)][/us/pl/95/562/s1/b], inserted “other than potatoes” after “commodity”.
+    Par. (6)(C). [Pub. L. 95–562][/us/pl/95/562], § 1(b), inserted “other than potatoes” after “commodity”.
 
-    Par. (7). [Pub. L. 95–562, § 1(a)(2)][/us/pl/95/562/s1/a/2], substituted “$200,000” for “$100,000”.
+    Par. (7). [Pub. L. 95–562][/us/pl/95/562], § 1(a)(2), substituted “$200,000” for “$100,000”.
 
-    1969—Par. (6)(B). [Pub. L. 91–107, § 1][/us/pl/91/107/s1], substituted “$100,000” for “$90,000”.
+    1969—Par. (6)(B). [Pub. L. 91–107][/us/pl/91/107], § 1, substituted “$100,000” for “$90,000”.
 
-    Par. (7). [Pub. L. 91–107, § 2][/us/pl/91/107/s2], substituted “$100,000” for “$90,000”.
+    Par. (7). [Pub. L. 91–107][/us/pl/91/107], § 2, substituted “$100,000” for “$90,000”.
 
-    1962—Par. (6). [Pub. L. 87–725, § 1][/us/pl/87/725/s1], substituted “wholesale or jobbing quantities” for “carloads”, the requirement that the dealer’s invoice cost of his purchases in any calendar year exceed $90,000 for the requirement that his purchases in such year exceed 20 carloads, and struck out definition of “in carloads”.
+    1962—Par. (6). [Pub. L. 87–725][/us/pl/87/725], § 1, substituted “wholesale or jobbing quantities” for “carloads”, the requirement that the dealer’s invoice cost of his purchases in any calendar year exceed $90,000 for the requirement that his purchases in such year exceed 20 carloads, and struck out definition of “in carloads”.
 
-    Par. (7). [Pub. L. 87–725, § 1][/us/pl/87/725/s1], excluded from definition of “broker”, persons who are independent agents negotiating sales for vendors and whose sales are of frozen fruits and vegetables having an invoice value not exceeding $90,000 in any calendar year.
+    Par. (7). [Pub. L. 87–725][/us/pl/87/725], § 1, excluded from definition of “broker”, persons who are independent agents negotiating sales for vendors and whose sales are of frozen fruits and vegetables having an invoice value not exceeding $90,000 in any calendar year.
 
-    Pars. (9), (10). [Pub. L. 87–725, § 2][/us/pl/87/725/s2], added pars. (9) and (10).
+    Pars. (9), (10). [Pub. L. 87–725][/us/pl/87/725], § 2, added pars. (9) and (10).
 
     1940—Par. (4). Act June 29, 1940, § 1, designated existing provisions as cl. (A) and added cl. (B).
 
@@ -103,17 +103,17 @@
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–562, § 1(a)][/us/pl/95/562/s1/a], Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381], provided that the amendment made by [section 1(a) of Pub. L. 95–562][/us/pl/95/562/s1/a] is effective Jan. 1, 1979.
+    [Pub. L. 95–562][/us/pl/95/562], § 1(a), Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381], provided that the amendment made by [section 1(a) of Pub. L. 95–562][/us/pl/95/562/s1/a] is effective Jan. 1, 1979.
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–48, § 1(a)][/us/pl/104/48/s1/a], Nov. 15, 1995, [109 Stat. 424][/us/stat/109/424], provided that: 
+[Pub. L. 104–48][/us/pl/104/48], § 1(a), Nov. 15, 1995, [109 Stat. 424][/us/stat/109/424], provided that: 
 
 > “This Act \[amending this section and sections 499b, 499c to 499f, and 499h of this title and repealing provisions set out as a note under [section 499f of this title][/us/usc/t7/s499f]\] may be cited as the ‘Perishable Agricultural Commodities Act Amendments of 1995’.”
 
  __Study of Domestic Fruit and Vegetable Industry__ 
 
-[Pub. L. 101–624, title XIII][/us/pl/101/624], §§ 1301–1305, Nov. 28, 1990, [104 Stat. 3559][/us/stat/104/3559], 3560, provided that:
+[Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], §§ 1301–1305, Nov. 28, 1990, [104 Stat. 3559][/us/stat/104/3559], 3560, provided that:
 
 > “SEC. 1301. __FINDINGS.__ 
 
@@ -207,7 +207,7 @@
 
  __Potato Dealers__ 
 
-    [Pub. L. 95–562, § 1(b)][/us/pl/95/562/s1/b], Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381], provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section, as amended by [section 1(b) of Pub. L. 95–562][/us/pl/95/562/s1/b], until Jan. 1, 1982.
+    [Pub. L. 95–562][/us/pl/95/562], § 1(b), Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381], provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section, as amended by [section 1(b) of Pub. L. 95–562][/us/pl/95/562/s1/b], until Jan. 1, 1982.
 
 ----------
 
@@ -217,11 +217,11 @@
 ----------
 
 [/us/usc/t7/s499c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499c
-[/us/act/1930-06-10/ch436/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs1
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F531
-[/us/act/1934-04-13/ch120/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120%2Fs1
+[/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F584
-[/us/act/1937-08-20/ch719/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs1
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F725
 [/us/act/1940-06-29/ch456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch456
 [/us/stat/54/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F696
@@ -229,45 +229,45 @@
 [/us/stat/76/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F673
 [/us/pl/91/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107
 [/us/stat/83/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F182
-[/us/pl/95/562/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/stat/92/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2381
-[/us/pl/97/98/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1115%2Fa
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1269
-[/us/pl/102/237/s1011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F424
 [/us/usc/t7/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs551
-[/us/pl/104/48/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs12%2Fa
-[/us/pl/104/48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs2
-[/us/pl/104/48/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs9%2Fa
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
-[/us/pl/95/562/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fa%2F1
-[/us/pl/95/562/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fb
-[/us/pl/95/562/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fa%2F2
-[/us/pl/91/107/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107%2Fs1
-[/us/pl/91/107/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107%2Fs2
-[/us/pl/87/725/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs1
-[/us/pl/87/725/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs1
-[/us/pl/87/725/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs2
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
+[/us/pl/91/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107
+[/us/pl/91/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/95/562/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fa
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/stat/92/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2381
 [/us/pl/95/562/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fa
-[/us/pl/104/48/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs1%2Fa
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F424
 [/us/usc/t7/s499f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3559
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s499b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b%E2%80%931
 [/us/usc/t7/s1736p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736p
 [/us/usc/t19/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/95/562/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fb
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/stat/92/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2381
 [/us/pl/95/562/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs1%2Fb
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1954—[Act Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 303, [68 Stat. 902][/us/stat/68/902], substituted “Acreage Allotments—Corn” for “Marketing Quotas—Corn” in subpart II heading.
+    1954—[Act Aug. 28, 1954, ch. 1041, title III][/us/act/1954-08-28/ch1041/tIII], § 303, [68 Stat. 902][/us/stat/68/902], substituted “Acreage Allotments—Corn” for “Marketing Quotas—Corn” in subpart II heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
+[/us/act/1954-08-28/ch1041/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041%2FtIII
 [/us/stat/68/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F902
 
 

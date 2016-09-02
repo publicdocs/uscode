@@ -13,13 +13,13 @@
 
 [Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–2.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933)
 
-## § 612c–3. Repealed. [Pub. L. 101–624, title XV, § 1578][/us/pl/101/624/s1578], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]
+## § 612c–3. Repealed. [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]
 
-    Section, [Pub. L. 91–524, title VIII, § 812][/us/pl/91/524/s812], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238], and amended [Pub. L. 95–113, title X, § 1005][/us/pl/95/113/s1005], Sept. 29, 1977, [91 Stat. 951][/us/stat/91/951]; [Pub. L. 97–444, title II, § 238][/us/pl/97/444/s238], Jan. 11, 1983, [96 Stat. 2326][/us/stat/96/2326], required exporters to report export sales and restricted President from prohibiting or curtailing certain exports. See [section 5712 of this title][/us/usc/t7/s5712].
+    Section, [Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 812, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238], and amended [Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1005, Sept. 29, 1977, [91 Stat. 951][/us/stat/91/951]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 238, Jan. 11, 1983, [96 Stat. 2326][/us/stat/96/2326], required exporters to report export sales and restricted President from prohibiting or curtailing certain exports. See [section 5712 of this title][/us/usc/t7/s5712].
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 101–624, title XV, § 1578][/us/pl/101/624/s1578], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702], provided that the repeal of this section is effective upon the effective date of regulations promulgated under former [section 5664 of this title][/us/usc/t7/s5664], as amended by title XV of [Pub. L. 101–624][/us/pl/101/624]. Implementing regulations were promulgated and published in the Federal Register as follows:
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702], provided that the repeal of this section is effective upon the effective date of regulations promulgated under former [section 5664 of this title][/us/usc/t7/s5664], as amended by title XV of [Pub. L. 101–624][/us/pl/101/624]. Implementing regulations were promulgated and published in the Federal Register as follows:
 
     May 30, 1991, eff. July 8, 1991, 56 F.R. 25998.
 
@@ -34,17 +34,17 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1578
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
-[/us/pl/91/524/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs812
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F238
-[/us/pl/95/113/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1005
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F951
-[/us/pl/97/444/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs238
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2326
 [/us/usc/t7/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712
-[/us/pl/101/624/s1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1578
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
 [/us/usc/t7/s5664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5664
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

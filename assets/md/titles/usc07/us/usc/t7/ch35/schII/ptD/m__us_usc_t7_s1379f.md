@@ -17,7 +17,7 @@
 
     The Secretary shall establish conversion factors which shall be used to determine the amount of wheat contained in any food product. The conversion factor for any such food product shall be determined upon the basis of the weight of wheat used in the manufacture of such product.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379f, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379f, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629].)
 
  __Inapplicability of Section__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F629
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3
 [/us/usc/t7/s8782/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fa%2F3

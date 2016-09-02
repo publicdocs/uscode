@@ -67,7 +67,7 @@
 
         From time to time the Secretary may amend any order, consistent with the requirements of [section 7422 of this title][/us/usc/t7/s7422].
 
-([Pub. L. 104–127, title V, § 514][/us/pl/104/127/s514], Apr. 4, 1996, [110 Stat. 1035][/us/stat/110/1035].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 514, Apr. 4, 1996, [110 Stat. 1035][/us/stat/110/1035].)
 
 ----------
 
@@ -79,7 +79,7 @@
 [/us/usc/t7/s7415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7415%2Ff
 [/us/usc/t7/s7417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417%2Fa
 [/us/usc/t7/s7422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7422
-[/us/pl/104/127/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs514
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1035
 
 

@@ -45,11 +45,11 @@
 
         (5) the provision of internship opportunities.
 
-([Pub. L. 103–354, title II, § 219][/us/pl/103/354/s219], as added [Pub. L. 113–79, title XII, § 12304][/us/pl/113/79/s12304], Feb. 7, 2014, [128 Stat. 985][/us/stat/128/985].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 219, as added [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12304, Feb. 7, 2014, [128 Stat. 985][/us/stat/128/985].)
 
  __Prior Provisions__ 
 
-    A prior section 6919, [Pub. L. 103–354, title II, § 219][/us/pl/103/354/s219], Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213], provided that compensation of any officer or employee of the Department on Oct. 13, 1994, was not to be increased as a result of enactment of this chapter, prior to repeal by [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 362\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–305.
+    A prior section 6919, [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 219, Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213], provided that compensation of any officer or employee of the Department on Oct. 13, 1994, was not to be increased as a result of enactment of this chapter, prior to repeal by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 362\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–305.
 
 ----------
 
@@ -59,12 +59,12 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/354/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs219
-[/us/pl/113/79/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12304
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F985
-[/us/pl/103/354/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs219
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3213
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

@@ -47,7 +47,7 @@
 
             The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359e, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 197][/us/stat/116/197]; amended [Pub. L. 110–234, title I, § 1403(e)][/us/pl/110/234/s1403/e], May 22, 2008, [122 Stat. 986][/us/stat/122/986]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1714.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359e, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 197][/us/stat/116/197]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(e), May 22, 2008, [122 Stat. 986][/us/stat/122/986]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1714.)
 
  __Codification__ 
 
@@ -55,11 +55,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1359ee, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359e, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3484][/us/stat/104/3484]; amended [Pub. L. 102–237, title I, § 111(g)][/us/pl/102/237/s111/g], Dec. 13, 1991, [105 Stat. 1833][/us/stat/105/1833], related to reassignment of sugar deficits, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359ee, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359e, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3484][/us/stat/104/3484]; amended [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(g), Dec. 13, 1991, [105 Stat. 1833][/us/stat/105/1833], related to reassignment of sugar deficits, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(D), (2)(C). [Pub. L. 110–246, § 1403(e)][/us/pl/110/246/s1403/e], inserted “of raw cane sugar” after “imports”.
+    2008—Subsec. (b)(1)(D), (2)(C). [Pub. L. 110–246][/us/pl/110/246], § 1403(e), inserted “of raw cane sugar” after “imports”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -73,23 +73,23 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F197
-[/us/pl/110/234/s1403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fe
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F986
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3484
-[/us/pl/102/237/s111/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Fg
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1833
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s1403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fe
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

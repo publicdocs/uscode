@@ -55,7 +55,7 @@
 
     The term “swine production contract grower” means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title I, § 2(a), [42 Stat. 159][/us/stat/42/159]; [Pub. L. 94–410, § 3(c)][/us/pl/94/410/s3/c], Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249]; [Pub. L. 100–173, § 2][/us/pl/100/173/s2], Nov. 23, 1987, [101 Stat. 917][/us/stat/101/917]; [Pub. L. 107–171, title X, § 10502(a)][/us/pl/107/171/s10502/a], May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title I, § 2(a), [42 Stat. 159][/us/stat/42/159]; [Pub. L. 94–410][/us/pl/94/410], § 3(c), Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249]; [Pub. L. 100–173][/us/pl/100/173], § 2, Nov. 23, 1987, [101 Stat. 917][/us/stat/101/917]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10502(a), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
  __Codification__ 
 
@@ -71,13 +71,13 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–173, § 12][/us/pl/100/173/s12], Nov. 23, 1987, [101 Stat. 923][/us/stat/101/923], provided that: 
+[Pub. L. 100–173][/us/pl/100/173], § 12, Nov. 23, 1987, [101 Stat. 923][/us/stat/101/923], provided that: 
 
 > “This Act and the amendments made by this Act \[enacting sections 197 and 228b–1 to 228b–4 of this title, amending this section and sections 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 181 and 227 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 23, 1987\].”
 
  __Savings Provision__ 
 
-[Pub. L. 94–410, § 10][/us/pl/94/410/s10], Sept. 13, 1976, [90 Stat. 1252][/us/stat/90/1252], provided that: 
+[Pub. L. 94–410][/us/pl/94/410], § 10, Sept. 13, 1976, [90 Stat. 1252][/us/stat/90/1252], provided that: 
 
 > “Pending proceedings shall not be abated by reason of any provision of this Act \[enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191 to 193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title\], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended \[this chapter\], and the Act of July 12, 1943 \[[section 204 of this title][/us/usc/t7/s204]\], in effect immediately prior to the effective date of this Act \[Sept. 13, 1976\].”
 
@@ -90,19 +90,19 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F159
-[/us/pl/94/410/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs3%2Fc
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1249
-[/us/pl/100/173/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs2
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F917
-[/us/pl/107/171/s10502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10502%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
 [/us/usc/t7/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs183
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
-[/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F923
-[/us/pl/94/410/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs10
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1252
 [/us/usc/t7/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs204
 

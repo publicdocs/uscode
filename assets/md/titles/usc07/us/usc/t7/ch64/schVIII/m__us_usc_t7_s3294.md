@@ -27,7 +27,7 @@
 
         To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1994 and such sums as may necessary for each of fiscal years 1995 and 1996.
 
-([Pub. L. 102–532, § 4][/us/pl/102/532/s4], Oct. 27, 1992, [106 Stat. 3512][/us/stat/106/3512].)
+([Pub. L. 102–532][/us/pl/102/532], § 4, Oct. 27, 1992, [106 Stat. 3512][/us/stat/106/3512].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/532/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs4
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3512
 
 

@@ -31,7 +31,7 @@
 
         Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in [section 45 of title 15][/us/usc/t15/s45].
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 203, [42 Stat. 161][/us/stat/42/161]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 6(a)][/us/pl/85/791/s6/a], Aug. 28, 1958, [72 Stat. 944][/us/stat/72/944]; [Pub. L. 94–410, § 3(b)][/us/pl/94/410/s3/b], Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249]; [Pub. L. 107–171, title X, § 10502(b)(1)][/us/pl/107/171/s10502/b/1], May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 203, [42 Stat. 161][/us/stat/42/161]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 6(a), Aug. 28, 1958, [72 Stat. 944][/us/stat/72/944]; [Pub. L. 94–410][/us/pl/94/410], § 3(b), Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10502(b)(1), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
  __Amendments__ 
 
@@ -60,15 +60,15 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F161
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs6%2Fa
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F944
-[/us/pl/94/410/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs3%2Fb
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1249
-[/us/pl/107/171/s10502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10502%2Fb%2F1
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410

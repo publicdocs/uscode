@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_ch103_schII.md) | [Next](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7622.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7621)
 
-## § 7621. Repealed. [Pub. L. 110–234, title VII, § 7406(b)(1)][/us/pl/110/234/s7406/b/1], May 22, 2008, [122 Stat. 1251][/us/stat/122/1251], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7406(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013
+## § 7621. Repealed. [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7406(b)(1), May 22, 2008, [122 Stat. 1251][/us/stat/122/1251], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7406(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013
 
-    Section, [Pub. L. 105–185, title IV, § 401][/us/pl/105/185/s401], June 23, 1998, [112 Stat. 564][/us/stat/112/564]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(c)(2)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33; [Pub. L. 107–171, title VII, § 7205(a)][/us/pl/107/171/s7205/a], May 13, 2002, [116 Stat. 439][/us/stat/116/439]; [Pub. L. 109–171, title I, § 1501][/us/pl/109/171/s1501], Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7], related to the Initiative for Future Agriculture and Food Systems.
+    Section, [Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 401, June 23, 1998, [112 Stat. 564][/us/stat/112/564]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 753(c)(2)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7205(a), May 13, 2002, [116 Stat. 439][/us/stat/116/439]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1501, Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7], related to the Initiative for Future Agriculture and Food Systems.
 
  __Codification__ 
 
@@ -34,17 +34,17 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7406%2Fb%2F1
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1251
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/105/185/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs401
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F564
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171/s7205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7205%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F439
-[/us/pl/109/171/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1501
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F7
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

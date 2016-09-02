@@ -83,7 +83,7 @@
 
         The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 101–624, title XIX, § 1972][/us/pl/101/624/s1972], Nov. 28, 1990, [104 Stat. 3901][/us/stat/104/3901].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1972, Nov. 28, 1990, [104 Stat. 3901][/us/stat/104/3901].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t7/s6306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6306
-[/us/pl/101/624/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1972
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3901
 
 

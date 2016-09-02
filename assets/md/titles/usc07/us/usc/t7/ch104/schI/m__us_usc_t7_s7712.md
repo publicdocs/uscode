@@ -97,7 +97,7 @@
 
             In the case of a petition submitted under paragraph (2), the Secretary shall act on the petition within a reasonable time and notify the petitioner of the final action the Secretary takes on the petition. The Secretary’s determination on the petition shall be based on sound science.
 
-([Pub. L. 106–224, title IV, § 412][/us/pl/106/224/s412], June 20, 2000, [114 Stat. 441][/us/stat/114/441].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 412, June 20, 2000, [114 Stat. 441][/us/stat/114/441].)
 
  __References in Text__ 
 
@@ -114,7 +114,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs412
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F441
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

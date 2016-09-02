@@ -17,7 +17,7 @@
 
     For the purpose of administering this chapter and for the purpose of making the studies, investigations, publications, and reports herein provided for, there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as shall be necessary.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 6, [49 Stat. 1365][/us/stat/49/1365]; [Oct. 28, 1949, ch. 776, § 2][/us/act/1949-10-28/ch776/s2], [63 Stat. 948][/us/stat/63/948]; [Pub. L. 94–124, § 3][/us/pl/94/124/s3], Nov. 4, 1975, [89 Stat. 677][/us/stat/89/677]; [Pub. L. 103–437, § 4(a)(3)][/us/pl/103/437/s4/a/3], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–127, title VII, § 775][/us/pl/104/127/s775], Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 6, [49 Stat. 1365][/us/stat/49/1365]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], § 2, [63 Stat. 948][/us/stat/63/948]; [Pub. L. 94–124][/us/pl/94/124], § 3, Nov. 4, 1975, [89 Stat. 677][/us/stat/89/677]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(3), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 775, Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1365
-[/us/act/1949-10-28/ch776/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776%2Fs2
+[/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
-[/us/pl/94/124/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F124%2Fs3
+[/us/pl/94/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F124
 [/us/stat/89/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F677
-[/us/pl/103/437/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F3
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
-[/us/pl/104/127/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs775
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1150
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

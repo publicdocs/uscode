@@ -41,7 +41,7 @@
 
         A determination of the Secretary under this section shall be considered to be an adverse decision for purposes of the availability of administrative review of the determination.
 
-([Pub. L. 104–127, title I, § 116][/us/pl/104/127/s116], Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 116, Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t7/s7211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7211%2Fa
-[/us/pl/104/127/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs116
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F903
 
 

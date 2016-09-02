@@ -33,7 +33,7 @@
 
         As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act ([16 U.S.C. 3821][/us/usc/t16/s3821] et seq.) during the term of the loan.
 
-([Pub. L. 110–234, title I, § 1201][/us/pl/110/234/s1201], May 22, 2008, [122 Stat. 953][/us/stat/122/953]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1201, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1681.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1201, May 22, 2008, [122 Stat. 953][/us/stat/122/953]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1201, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1681.)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t7/s8732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8732
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/110/234/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1201
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F953
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

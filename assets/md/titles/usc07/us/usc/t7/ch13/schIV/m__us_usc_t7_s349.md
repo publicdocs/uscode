@@ -17,7 +17,7 @@
 
     The term “State” means the States of the Union, Puerto Rico, the Virgin Islands, Guam and the Northern Mariana Islands.
 
-([May 8, 1914, ch. 79, § 10][/us/act/1914-05-08/ch79/s10], as added [Pub. L. 87–749, § 1(i)][/us/pl/87/749/s1/i], Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; amended [Pub. L. 92–318, title V, § 506(h)][/us/pl/92/318/s506/h], June 23, 1972, [86 Stat. 351][/us/stat/86/351]; [Pub. L. 99–396, § 9(f)][/us/pl/99/396/s9/f], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840].)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 10, as added [Pub. L. 87–749][/us/pl/87/749], § 1(i), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; amended [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(h), June 23, 1972, [86 Stat. 351][/us/stat/86/351]; [Pub. L. 99–396][/us/pl/99/396], § 9(f), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/act/1914-05-08/ch79/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs10
-[/us/pl/87/749/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fi
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/stat/76/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F745
-[/us/pl/92/318/s506/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fh
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F351
-[/us/pl/99/396/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Ff
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318

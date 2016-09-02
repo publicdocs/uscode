@@ -77,11 +77,11 @@
 
             (B) to issue electronic receipts authorized under State law.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 11, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 11, as added [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
 
  __Prior Provisions__ 
 
-    A prior section 250, acts [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 8, [39 Stat. 487][/us/stat/39/487]; [Mar. 2, 1931, ch. 366, § 3][/us/act/1931-03-02/ch366/s3], [46 Stat. 1463][/us/stat/46/1463], authorized designation as bonded warehouse upon filing of bond and approval by Secretary, prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472].
+    A prior section 250, acts [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 8, [39 Stat. 487][/us/stat/39/487]; [Mar. 2, 1931, ch. 366][/us/act/1931-03-02/ch366], § 3, [46 Stat. 1463][/us/stat/46/1463], authorized designation as bonded warehouse upon filing of bond and approval by Secretary, prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472].
 
     A prior section 11 of [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, was classified to [section 252 of this title][/us/usc/t7/s252], prior to the general amendment of this chapter by [Pub. L. 106–472][/us/pl/106/472].
 
@@ -94,11 +94,11 @@
 
 [/us/usc/t7/s242/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs242%2Fh%2F2
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2065
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F487
-[/us/act/1931-03-02/ch366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch366%2Fs3
+[/us/act/1931-03-02/ch366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch366
 [/us/stat/46/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1463
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313

@@ -65,11 +65,11 @@
 
         It is the policy of Congress that it is in the public interest, and it is the purpose of this chapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
 
-([Pub. L. 103–190, § 2][/us/pl/103/190/s2], Dec. 14, 1993, [107 Stat. 2266][/us/stat/107/2266].)
+([Pub. L. 103–190][/us/pl/103/190], § 2, Dec. 14, 1993, [107 Stat. 2266][/us/stat/107/2266].)
 
  __Short Title__ 
 
-[Pub. L. 103–190, § 1(a)][/us/pl/103/190/s1/a], Dec. 14, 1993, [107 Stat. 2266][/us/stat/107/2266], provided that: 
+[Pub. L. 103–190][/us/pl/103/190], § 1(a), Dec. 14, 1993, [107 Stat. 2266][/us/stat/107/2266], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993’.”
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/103/190/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs2
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2266
-[/us/pl/103/190/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs1%2Fa
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2266
 
 

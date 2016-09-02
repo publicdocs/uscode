@@ -17,7 +17,7 @@
 
     If this chapter is held unconstitutional as to some provisions or circumstances, it shall remain in force as to the remaining provisions and other circumstances.
 
-([Pub. L. 91–577, title III, § 132][/us/pl/91/577/s132], Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 132, Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs132
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1558
 
 

@@ -57,7 +57,7 @@
 
             The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
 
-([Pub. L. 87–128, title III, § 359][/us/pl/87/128/s359], as added [Pub. L. 101–624, title XVIII, § 1818(a)][/us/pl/101/624/s1818/a], Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5316, 5501(c), May 13, 2002, [116 Stat. 348][/us/stat/116/348], 351; [Pub. L. 113–79, title V, § 5306][/us/pl/113/79/s5306], Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 359, as added [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1818(a), Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, § 805(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171/tV], §§ 5316, 5501(c), May 13, 2002, [116 Stat. 348][/us/stat/116/348], 351; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5306, Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
     2014—Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79] substituted “section 1922(a)(1)(B) or 1941(a)(1)(B)” for “section 1922(a)(2) or 1941(a)(2)”.
 
-    2002—Subsec. (c)(1). [Pub. L. 107–171, § 5501(c)][/us/pl/107/171/s5501/c], struck out “established pursuant to [section 1982 of this title][/us/usc/t7/s1982],” after “appropriate county committee”.
+    2002—Subsec. (c)(1). [Pub. L. 107–171][/us/pl/107/171], § 5501(c), struck out “established pursuant to [section 1982 of this title][/us/usc/t7/s1982],” after “appropriate county committee”.
 
-    Subsec. (f). [Pub. L. 107–171, § 5316][/us/pl/107/171/s5316], added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(3)(A)\], struck out “and guaranteed” after “direct”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 805(3)(A)\], struck out “and guaranteed” after “direct”.
 
-    Subsec. (c). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(3)(B)\], struck out “or guaranteed” after “direct” in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 805(3)(B)\], struck out “or guaranteed” after “direct” in pars. (1) and (2).
 
 ----------
 
@@ -82,21 +82,21 @@
 ----------
 ----------
 
-[/us/pl/87/128/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs359
-[/us/pl/101/624/s1818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1818%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3829
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F348
-[/us/pl/113/79/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5306
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F840
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/107/171/s5501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5501%2Fc
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1982
-[/us/pl/107/171/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5316
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

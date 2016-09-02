@@ -23,7 +23,7 @@
 
     (d) It is the purpose of this chapter and in the public interest to authorize and enable the creation of an orderly procedure, adequately financed through an assessment, for the development and initiation of an effective and continuous coordinated program of research and nutrition education, designed to improve and enhance the quality, and make the most efficient use, of American wheat, processed wheat, and wheat end products to ensure an adequate diet for the people of the United States. The maximum rate of assessment authorized hereunder represents an infinitesimal proportion of the overall cost of manufacturing wheat end products. Therefore, such assessment will not significantly affect the retail prices of those products. Furthermore, any price effect will be more than offset by the increased efficiency in end product manufacture and increased consumer acceptance, due to nutritional improvements in wheat products, which may be expected to follow from adoption of a plan under this chapter. Nothing in this chapter shall be construed to provide for control of production or otherwise limit the right of individual wheat producers to produce wheat.
 
-([Pub. L. 95–113, title XVII, § 1702][/us/pl/95/113/s1702], Sept. 29, 1977, [91 Stat. 1031][/us/stat/91/1031].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1702, Sept. 29, 1977, [91 Stat. 1031][/us/stat/91/1031].)
 
  __Effective Date__ 
 
@@ -31,13 +31,13 @@
 
  __Short Title__ 
 
-[Pub. L. 95–113, title XVII, § 1701][/us/pl/95/113/s1701], Sept. 29, 1977, [91 Stat. 1031][/us/stat/91/1031], provided that: 
+[Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1701, Sept. 29, 1977, [91 Stat. 1031][/us/stat/91/1031], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Wheat and Wheat Foods Research and Nutrition Education Act’.”
 
  __Separability__ 
 
-[Pub. L. 95–113, title XVII, § 1718][/us/pl/95/113/s1718], Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040], provided that: 
+[Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1718, Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040], provided that: 
 
 > “If any provision of this title \[this chapter\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the title and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1702
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1031
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/95/113/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1701
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1031
-[/us/pl/95/113/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1718
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1040
 
 

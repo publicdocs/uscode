@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary for the administration of this chapter.
 
-([June 10, 1933, ch. 59, § 10][/us/act/1933-06-10/ch59/s10], as added [Pub. L. 87–725, § 12][/us/pl/87/725/s12], Oct. 1, 1962, [76 Stat. 676][/us/stat/76/676].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 10, as added [Pub. L. 87–725][/us/pl/87/725], § 12, Oct. 1, 1962, [76 Stat. 676][/us/stat/76/676].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs10
-[/us/pl/87/725/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs12
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F676
 
 

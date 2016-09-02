@@ -211,7 +211,7 @@
 
         The authority provided by this section to impose assessments terminates on September 30, 2014.
 
-([Pub. L. 108–357, title VI, § 625][/us/pl/108/357/s625], Oct. 22, 2004, [118 Stat. 1529][/us/stat/118/1529].)
+([Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 625, Oct. 22, 2004, [118 Stat. 1529][/us/stat/118/1529].)
 
  __References in Text__ 
 
@@ -228,7 +228,7 @@
 [/us/usc/t26/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5702
 [/us/usc/t18/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1003
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
-[/us/pl/108/357/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs625
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1529
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 

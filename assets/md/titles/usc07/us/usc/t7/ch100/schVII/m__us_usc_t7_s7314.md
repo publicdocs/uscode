@@ -23,7 +23,7 @@
 
         Not later than January 1, 2001, the Commission shall submit to the President and the congressional committees specified in subsection (a) a report containing the results of the subsequent review conducted under [section 7313(b) of this title][/us/usc/t7/s7313/b].
 
-([Pub. L. 104–127, title I, § 184][/us/pl/104/127/s184], Apr. 4, 1996, [110 Stat. 940][/us/stat/110/940].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 184, Apr. 4, 1996, [110 Stat. 940][/us/stat/110/940].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t7/s7313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7313%2Fa
 [/us/usc/t7/s7313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7313%2Fb
-[/us/pl/104/127/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs184
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F940
 
 

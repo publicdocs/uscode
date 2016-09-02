@@ -131,7 +131,7 @@
 
         Any confidential business information obtained by the Board in carrying out this section shall not be released to the public.
 
-([Pub. L. 101–624, title XXI, § 2119][/us/pl/101/624/s2119], Nov. 28, 1990, [104 Stat. 3947][/us/stat/104/3947]; [Pub. L. 102–237, title X, § 1001(7)][/us/pl/102/237/s1001/7], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2119, Nov. 28, 1990, [104 Stat. 3947][/us/stat/104/3947]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(7), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
 
  __References in Text__ 
 
@@ -153,9 +153,9 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t7/s6517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6517
 [/us/usc/t7/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6511
-[/us/pl/101/624/s2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2119
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3947
-[/us/pl/102/237/s1001/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F7
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

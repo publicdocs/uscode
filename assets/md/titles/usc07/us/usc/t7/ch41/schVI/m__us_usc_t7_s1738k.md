@@ -47,7 +47,7 @@
 
         In providing assistance from an Environmental Fund, the body established under [section 1738f(c) of this title][/us/usc/t7/s1738f/c] within the eligible country shall give priority to projects that are run by nongovernmental organizations and other private entities, and that involve local communities in their planning and execution.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 612, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661]; amended [Pub. L. 102–237, title III, § 306][/us/pl/102/237/s306], Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 612, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 306, Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t7/s1738f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f%2Fc
 [/us/usc/t7/s1738f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f%2Fc
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3661
-[/us/pl/102/237/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs306
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1856
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/stat/103/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2521

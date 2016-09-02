@@ -55,7 +55,7 @@
 
         The Secretary shall provide for the sharing of contract payments among the owners and producers subject to the contract on a fair and equitable basis.
 
-([Pub. L. 104–127, title I, § 114][/us/pl/104/127/s114], Apr. 4, 1996, [110 Stat. 901][/us/stat/110/901].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 114, Apr. 4, 1996, [110 Stat. 901][/us/stat/110/901].)
 
 ----------
 
@@ -67,7 +67,7 @@
 [/us/usc/t7/s7213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7213
 [/us/usc/t7/s1445j/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445j%2Fa%2F2
 [/us/usc/t16/s590h/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fg
-[/us/pl/104/127/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs114
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F901
 
 

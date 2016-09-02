@@ -39,7 +39,7 @@
 
         Funds may be provided for a program or project in a State under this subchapter only if the Authority determines that the level of Federal or State financial assistance provided under a law other than this subchapter, for the same type of program or project in the same area of the State within the region, will not be reduced as a result of funds made available by this subchapter.
 
-([Pub. L. 87–128, title III, § 383I][/us/pl/87/128/s383I], formerly § 383H, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 385][/us/stat/116/385]; renumbered § 383I and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (i), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1181, and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (i), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1943.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383I, formerly § 383H, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 385][/us/stat/116/385]; renumbered § 383I and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (i), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1181, and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (i), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1943.)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 6026(i)][/us/pl/110/246/s6026/i], inserted “multistate or” before “regional”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 6026(i), inserted “multistate or” before “regional”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/87/128/s383I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383I
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F385
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -82,7 +82,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383I
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
-[/us/pl/110/246/s6026/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

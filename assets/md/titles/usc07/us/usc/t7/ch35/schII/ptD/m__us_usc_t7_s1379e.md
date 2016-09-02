@@ -17,7 +17,7 @@
 
     For the purpose of facilitating the purchase and sale of marketing certificates, the Commodity Credit Corporation is authorized to issue, buy, and sell marketing certificates in accordance with regulations prescribed by the Secretary. Such regulations may authorize the Corporation to issue and sell certificates in excess of the quantity of certificates which it purchases. Such regulations may authorize the Corporation in the sale of marketing certificates to charge, in addition to the face value thereof, an amount determined by the Secretary to be appropriate to cover estimated administrative costs in connection with the purchase and sale of the certificates and estimated interest incurred on funds of the Corporation invested in certificates purchased by it.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379e, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 628][/us/stat/76/628]; amended [Pub. L. 89–321, title V, § 516][/us/pl/89/321/s516], Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]; [Pub. L. 90–559, § 1(6)][/us/pl/90/559/s1/6], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV, § 403(a)(3)][/us/pl/91/524/s403/a/3], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379e, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 628][/us/stat/76/628]; amended [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 516, Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]; [Pub. L. 90–559][/us/pl/90/559], § 1(6), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 403(a)(3), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366].)
 
  __Codification__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F628
-[/us/pl/89/321/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs516
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1206
-[/us/pl/90/559/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F6
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/pl/91/524/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs403%2Fa%2F3
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1326.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1327...1329.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
 
 ## § 1329a. Discontinuance of acreage allotments on corn
 
     Notwithstanding any other provision of law, acreage allotments and a commercial corn-producing area shall not be established for the 1959 and subsequent crops of corn.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 330, as added [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104(b)(1), as added [Pub. L. 85–835, title II, § 201][/us/pl/85/835/s201], Aug. 28, 1958, [72 Stat. 994][/us/stat/72/994].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 330, as added [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104(b)(1), as added [Pub. L. 85–835, title II][/us/pl/85/835/tII], § 201, Aug. 28, 1958, [72 Stat. 994][/us/stat/72/994].)
 
  __Inapplicability of Section__ 
 
@@ -35,14 +35,14 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1326.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1327...1329.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
 
 ----------
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/85/835/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs201
+[/us/pl/85/835/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtII
 [/us/stat/72/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F994
 [/us/usc/t7/s9092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F1
 [/us/usc/t7/s8782/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fa%2F1

@@ -211,7 +211,7 @@
 
         The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including regulations relating to the assessment of late payment charges.
 
-([Pub. L. 101–624, title XIX, § 1999H][/us/pl/101/624/s1999H], Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999H, Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
 
 ----------
 
@@ -224,7 +224,7 @@
 [/us/usc/t7/s6409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6409
 [/us/usc/t7/s4504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504%2Fb
 [/us/usc/t7/s4504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504%2Fb
-[/us/pl/101/624/s1999H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999H
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3916
 
 

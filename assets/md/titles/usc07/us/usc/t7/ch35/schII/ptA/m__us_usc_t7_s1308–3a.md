@@ -75,7 +75,7 @@
 
         In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
 
-([Pub. L. 99–198, title X, § 1001D][/us/pl/99/198/s1001D], as added [Pub. L. 107–171, title I, § 1604(2)][/us/pl/107/171/s1604/2], May 13, 2002, [116 Stat. 215][/us/stat/116/215]; amended [Pub. L. 110–234, title I, § 1604(a)][/us/pl/110/234/s1604/a], May 22, 2008, [122 Stat. 1012][/us/stat/122/1012]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1604(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708.)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001D, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1604(2), May 13, 2002, [116 Stat. 215][/us/stat/116/215]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1604(a), May 22, 2008, [122 Stat. 1012][/us/stat/122/1012]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1604(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1605(a)–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708.)
 
  __References in Text__ 
 
@@ -99,31 +99,31 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–79, § 1605(b)][/us/pl/113/79/s1605/b], amended par. (1) generally. Prior to amendment, par. (1) defined “average adjusted gross income”, “average adjusted gross farm income”, and “average adjusted gross nonfarm income”.
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 1605(b), amended par. (1) generally. Prior to amendment, par. (1) defined “average adjusted gross income”, “average adjusted gross farm income”, and “average adjusted gross nonfarm income”.
 
-    Subsec. (a)(2). [Pub. L. 113–79, § 1605(d)(1)][/us/pl/113/79/s1605/d/1], struck out “subparagraph (A) or (B) of” after “average under” and “, the average adjusted gross farm income, and the average adjusted gross nonfarm income” after “average adjusted gross income”.
+    Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79], § 1605(d)(1), struck out “subparagraph (A) or (B) of” after “average under” and “, the average adjusted gross farm income, and the average adjusted gross nonfarm income” after “average adjusted gross income”.
 
-    Subsec. (a)(3). [Pub. L. 113–79, § 1605(d)(2)][/us/pl/113/79/s1605/d/2], struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in two places.
+    Subsec. (a)(3). [Pub. L. 113–79][/us/pl/113/79], § 1605(d)(2), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in two places.
 
-    Subsec. (b). [Pub. L. 113–79, § 1605(a)][/us/pl/113/79/s1605/a], substituted “Limitations on commodity and conservation programs” for “Limitations” in heading, added pars. (1) and (2), and struck out former pars. (1) and (2), which related to commodity programs and conservation programs, respectively.
+    Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 1605(a), substituted “Limitations on commodity and conservation programs” for “Limitations” in heading, added pars. (1) and (2), and struck out former pars. (1) and (2), which related to commodity programs and conservation programs, respectively.
 
-    Subsec. (c). [Pub. L. 113–79, § 1605(c)][/us/pl/113/79/s1605/c], redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to income determination.
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 1605(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to income determination.
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 1605(d)(3)(A)][/us/pl/113/79/s1605/d/3/A], struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 1605(d)(3)(A), struck out “, average adjusted gross farm income, and average adjusted gross nonfarm income” after “average adjusted gross income” in subpars. (A) and (B).
 
-    Subsec. (c)(2). [Pub. L. 113–79, § 1605(d)(3)(B)][/us/pl/113/79/s1605/d/3/B], substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)”.
+    Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79], § 1605(d)(3)(B), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)”.
 
-    Subsec. (d). [Pub. L. 113–79, § 1605(d)(4)][/us/pl/113/79/s1605/d/4], substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)” and struck out “, average adjusted gross farm income, or average adjusted gross nonfarm income” after “average adjusted gross income”.
+    Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 1605(d)(4), substituted “subsection (b)(2)” for “paragraphs (1)(C) and (2)(B) of subsection (b)” and struck out “, average adjusted gross farm income, or average adjusted gross nonfarm income” after “average adjusted gross income”.
 
-    [Pub. L. 113–79, § 1605(c)(2)][/us/pl/113/79/s1605/c/2], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    [Pub. L. 113–79][/us/pl/113/79], § 1605(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 113–79, § 1605(e)][/us/pl/113/79/s1605/e], struck out subsec. (e). Text read as follows: “This section shall apply only during the 2009 through 2012 crop, program, or fiscal years, as appropriate.”
+    Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 1605(e), struck out subsec. (e). Text read as follows: “This section shall apply only during the 2009 through 2012 crop, program, or fiscal years, as appropriate.”
 
-    [Pub. L. 113–79, § 1605(c)(2)][/us/pl/113/79/s1605/c/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 113–79][/us/pl/113/79], § 1605(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 113–79, § 1605(c)(2)][/us/pl/113/79/s1605/c/2], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 113–79][/us/pl/113/79], § 1605(c)(2), redesignated subsec. (f) as (e).
 
-    2008—[Pub. L. 110–246, § 1604(a)][/us/pl/110/246/s1604/a], amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -131,11 +131,11 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 113–79, title I, § 1605(g)][/us/pl/113/79/s1605/g], Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708], provided that: 
+[Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1605(g), Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708], provided that: 
 
 > “Section 1001D of the Food Security Act of 1985 ([7 U.S.C. 1308–3a][/us/usc/t7/s1308–3a]), as in effect on the day before the date of the enactment of this Act \[Feb. 7, 2014\], shall apply with respect to the 2013 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as so in effect on that day).”
 
-[Pub. L. 110–234, title I, § 1604(b)][/us/pl/110/234/s1604/b], May 22, 2008, [122 Stat. 1016][/us/stat/122/1016], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1604(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1744, provided that: 
+[Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1604(b), May 22, 2008, [122 Stat. 1016][/us/stat/122/1016], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1604(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1744, provided that: 
 
 > “Section 1001D of the Food Security Act of 1985 ([7 U.S.C. 1308–3a][/us/usc/t7/s1308–3a]), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a)).”
 
@@ -154,14 +154,14 @@
 [/us/usc/t7/s1524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1524%2Fb
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
 [/us/usc/t7/s1308–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%932
-[/us/pl/99/198/s1001D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001D
-[/us/pl/107/171/s1604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1604%2F2
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
-[/us/pl/110/234/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1604%2Fa
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1012
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
@@ -181,30 +181,30 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/99/198/s1001D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001D
 [/us/usc/t7/s1308–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%934
-[/us/pl/113/79/s1605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fb
-[/us/pl/113/79/s1605/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fd%2F1
-[/us/pl/113/79/s1605/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fd%2F2
-[/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
-[/us/pl/113/79/s1605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fc
-[/us/pl/113/79/s1605/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fd%2F3%2FA
-[/us/pl/113/79/s1605/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fd%2F3%2FB
-[/us/pl/113/79/s1605/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fd%2F4
-[/us/pl/113/79/s1605/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fc%2F2
-[/us/pl/113/79/s1605/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fe
-[/us/pl/113/79/s1605/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fc%2F2
-[/us/pl/113/79/s1605/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fc%2F2
-[/us/pl/110/246/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1604%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/113/79/s1605/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fg
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F708
 [/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
-[/us/pl/110/234/s1604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1604%2Fb
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1016
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     Except as provided in subsection (b)(2) of [section 948 of this title][/us/usc/t7/s948], notwithstanding any other provision of law, a loan shall not be made under [section 922 of this title][/us/usc/t7/s922] to any borrower which during the immediately preceding year had a net worth in excess of 20 per centum of its assets unless the Secretary finds that the borrower cannot obtain such a loan from the telephone bank or from other reliable sources at reasonable rates of interest and terms and conditions.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 412, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 37][/us/stat/85/37]; amended [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 412, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 37][/us/stat/85/37]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 [/us/usc/t7/s948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948
 [/us/usc/t7/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs922
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F37
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/92/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs7

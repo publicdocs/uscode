@@ -51,7 +51,7 @@
 
             The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
 
-([Pub. L. 101–624, title XXI, § 2108][/us/pl/101/624/s2108], Nov. 28, 1990, [104 Stat. 3939][/us/stat/104/3939].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2108, Nov. 28, 1990, [104 Stat. 3939][/us/stat/104/3939].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2108
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3939
 
 

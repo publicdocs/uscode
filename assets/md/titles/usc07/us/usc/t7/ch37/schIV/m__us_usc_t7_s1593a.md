@@ -33,7 +33,7 @@
 
         The Secretary shall analyze the variety surveys conducted under subsection (b) in conjunction with available applied research information on intrinsic quality characteristics of the varieties, to evaluate general intrinsic crop quality characteristics and trends in production related to intrinsic quality characteristics. This information shall be disseminated as required by subsection (a)(2).
 
-([Pub. L. 101–624, title XX, § 2013][/us/pl/101/624/s2013], Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
+([Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2013, Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2013
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3933
 
 

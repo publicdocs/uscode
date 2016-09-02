@@ -23,7 +23,7 @@
 
         Apples may be shipped to Canada in bulk containers without complying with the provisions of this chapter.
 
-([June 10, 1933, ch. 59, § 4][/us/act/1933-06-10/ch59/s4], [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96, § 1(c)(2)][/us/pl/106/96/s1/c/2], Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321]; [Pub. L. 113–79, title X, § 10009(a)][/us/pl/113/79/s10009/a], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 4, [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96][/us/pl/106/96], § 1(c)(2), Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10009(a), Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Regulations__ 
 
-[Pub. L. 113–79, title X, § 10009(c)][/us/pl/113/79/s10009/c], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that: 
+[Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10009(c), Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that: 
 
 > “Not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall issue regulations to carry out the amendments made by this section \[amending this section and [section 589 of this title][/us/usc/t7/s589]\].”
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs4
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
 [/us/stat/48/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F124
-[/us/pl/106/96/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96%2Fs1%2Fc%2F2
+[/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 [/us/stat/113/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1321
-[/us/pl/113/79/s10009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10009%2Fa
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F949
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
-[/us/pl/113/79/s10009/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10009%2Fc
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F949
 [/us/usc/t7/s589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs589
 

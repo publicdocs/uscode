@@ -89,7 +89,7 @@
 
         In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by swap data repositories under [section 24a of this title][/us/usc/t7/s24a].
 
-([Sept. 21, 1922, ch. 369, § 4r][/us/act/1922-09-21/ch369/s4r], as added [Pub. L. 111–203, title VII, § 729][/us/pl/111/203/s729], July 21, 2010, [124 Stat. 1701][/us/stat/124/1701].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4r, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 729, July 21, 2010, [124 Stat. 1701][/us/stat/124/1701].)
 
  __Effective Date__ 
 
@@ -106,8 +106,8 @@
 [/us/usc/t7/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F1
 [/us/usc/t7/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs24a
 [/us/usc/t7/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs24a
-[/us/act/1922-09-21/ch369/s4r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4r
-[/us/pl/111/203/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs729
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1701
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

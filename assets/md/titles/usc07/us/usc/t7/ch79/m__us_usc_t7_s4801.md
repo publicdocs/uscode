@@ -67,17 +67,17 @@
 
             (C) otherwise limit the right of an individual pork producer to produce pork and pork products.
 
-([Pub. L. 99–198, title XVI, § 1612][/us/pl/99/198/s1612], Dec. 23, 1985, [99 Stat. 1607][/us/stat/99/1607].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1612, Dec. 23, 1985, [99 Stat. 1607][/us/stat/99/1607].)
 
  __Effective Date__ 
 
-[Pub. L. 99–198, title XVI, § 1631][/us/pl/99/198/s1631], Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1631, Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1611–1631) of title XVI of [Pub. L. 99–198][/us/pl/99/198], enacting this chapter\] shall become effective on January 1, 1986.”
 
  __Short Title__ 
 
-[Pub. L. 99–198, title XVI, § 1611][/us/pl/99/198/s1611], Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1611, Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1611–1631) of title XVI of [Pub. L. 99–198][/us/pl/99/198], enacting this chapter\] may be cited as the ‘Pork Promotion, Research, and Consumer Information Act of 1985’.”
 
@@ -88,12 +88,12 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1612
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1607
-[/us/pl/99/198/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1631
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1622
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/198/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1611
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1606
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 

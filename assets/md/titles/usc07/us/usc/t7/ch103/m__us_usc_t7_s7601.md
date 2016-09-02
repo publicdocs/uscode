@@ -45,7 +45,7 @@
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 105–185, § 2][/us/pl/105/185/s2], June 23, 1998, [112 Stat. 525][/us/stat/112/525]; [Pub. L. 110–234, title VII, § 7129(c)(1)][/us/pl/110/234/s7129/c/1], May 22, 2008, [122 Stat. 1226][/us/stat/122/1226]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7129(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988.)
+([Pub. L. 105–185][/us/pl/105/185], § 2, June 23, 1998, [112 Stat. 525][/us/stat/112/525]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7129(c)(1), May 22, 2008, [122 Stat. 1226][/us/stat/122/1226]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7129(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988.)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    2008—Pars. (6), (7). [Pub. L. 110–246, § 7129(c)(1)][/us/pl/110/246/s7129/c/1], added par. (6) and redesignated former par. (6) as (7).
+    2008—Pars. (6), (7). [Pub. L. 110–246][/us/pl/110/246], § 7129(c)(1), added par. (6) and redesignated former par. (6) as (7).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -71,7 +71,7 @@
 
  __Short Title__ 
 
-[Pub. L. 105–185, § 1(a)][/us/pl/105/185/s1/a], June 23, 1998, [112 Stat. 523][/us/stat/112/523], provided that: 
+[Pub. L. 105–185][/us/pl/105/185], § 1(a), June 23, 1998, [112 Stat. 523][/us/stat/112/523], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Agricultural Research, Extension, and Education Reform Act of 1998’.”
 
@@ -90,11 +90,11 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/105/185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs2
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/stat/112/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F525
-[/us/pl/110/234/s7129/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7129%2Fc%2F1
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1226
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/stat/112/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F523
@@ -109,13 +109,13 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7129/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/185/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs1%2Fa
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/stat/112/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F523
 
 

@@ -33,7 +33,7 @@
 
         The Secretary shall adopt standardized reporting guidelines to be applied to laboratories under this section and shall provide such guidelines to laboratories accredited under this chapter, as well as other sources of information regarding applicable pesticide chemical tolerances.
 
-([Pub. L. 101–624, title XIII, § 1326][/us/pl/101/624/s1326], Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1326, Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1326
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3565
 
 

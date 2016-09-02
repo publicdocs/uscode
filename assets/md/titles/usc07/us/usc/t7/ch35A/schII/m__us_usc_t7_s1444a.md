@@ -41,7 +41,7 @@
 
         The Secretary is authorized to cooperate with the Government of Mexico in carrying out operations or measures in Mexico which he deems necessary and feasible to prevent the movement into the United States from Mexico of any insects eradicated under the provisions of this subsection. The measure and character of cooperation carried out under this subsection on the part of the United States and on the part of the Government of Mexico, including the expenditure or use of funds made available by the Secretary under this subsection, shall be such as may be prescribed by the Secretary. Arrangements for the cooperations authorized by this subsection shall be made through and in consultation with the Secretary of State. The Commodity Credit Corporation shall not make any expenditures for carrying out the purposes of this subsection unless the Corporation has received funds to cover such expenditures from appropriations made to carry out the purposes of this subsection. There are hereby authorized to be appropriated to the Commodity Credit Corporation such sums as the Congress may from time to time determine to be necessary to carry out the purposes of this subsection.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104, as added [Pub. L. 85–835, title II, § 201][/us/pl/85/835/s201], Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; amended [Pub. L. 88–297, title I, § 103(a)][/us/pl/88/297/s103/a], Apr. 11, 1964, [78 Stat. 174][/us/stat/78/174]; [Pub. L. 91–524, title VI, § 611][/us/pl/91/524/s611], Nov. 30, 1970, as added [Pub. L. 93–86, § 1(24)][/us/pl/93/86/s1/24], Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235]; [Pub. L. 103–437, § 4(a)(6)][/us/pl/103/437/s4/a/6], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 104, as added [Pub. L. 85–835, title II][/us/pl/85/835/tII], § 201, Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; amended [Pub. L. 88–297, title I][/us/pl/88/297/tI], § 103(a), Apr. 11, 1964, [78 Stat. 174][/us/stat/78/174]; [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 611, Nov. 30, 1970, as added [Pub. L. 93–86][/us/pl/93/86], § 1(24), Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(6), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-    1973—Subsec. (d). [Pub. L. 91–524, § 611][/us/pl/91/524/s611], as added [Pub. L. 93–86, § 1(24)][/us/pl/93/86/s1/24], added subsec. (d).
+    1973—Subsec. (d). [Pub. L. 91–524][/us/pl/91/524], § 611, as added [Pub. L. 93–86][/us/pl/93/86], § 1(24), added subsec. (d).
 
     1964—Subsec. (c). [Pub. L. 88–297][/us/pl/88/297] added subsec. (c).
 
@@ -82,14 +82,14 @@
 [/us/usc/t7/s1444b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444b
 [/us/usc/t7/s1441/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441%2Fd%2F4
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/85/835/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs201
+[/us/pl/85/835/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtII
 [/us/stat/72/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F993
-[/us/pl/88/297/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs103%2Fa
+[/us/pl/88/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtI
 [/us/stat/78/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F174
-[/us/pl/91/524/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs611
-[/us/pl/93/86/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F24
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F235
-[/us/pl/103/437/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31
@@ -104,8 +104,8 @@
 [/us/pl/85/835/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs201
 [/us/usc/t7/s1441/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441%2Fd%2F4
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/91/524/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs611
-[/us/pl/93/86/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F24
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/usc/t7/s1441/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441%2Fd%2F4
 

@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 3677 derived [act May 15, 1882, ch. 72, § 3][/us/act/1882-05-15/ch72/s3], [12 Stat. 388][/us/stat/12/388].
+    R.S. § 3677 derived [act May 15, 1882, ch. 72][/us/act/1882-05-15/ch72], § 3, [12 Stat. 388][/us/stat/12/388].
 
-    Section was formerly classified to [section 557a of Title 5][/us/usc/t5/s557a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 557a of Title 5][/us/usc/t5/s557a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Change of Name__ 
 
@@ -35,7 +35,7 @@
 
  __Buy American Requirements__ 
 
-[Pub. L. 110–234, title IV, § 4306][/us/pl/110/234/s4306], May 22, 2008, [122 Stat. 1131][/us/stat/122/1131], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1893, provided that:
+[Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4306, May 22, 2008, [122 Stat. 1131][/us/stat/122/1131], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1893, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -55,7 +55,7 @@
 
  __Compliance With Buy American Act__ 
 
-[Pub. L. 105–86, title VII, § 716][/us/pl/105/86/s716], Nov. 18, 1997, [111 Stat. 2106][/us/stat/111/2106], provided that:
+[Pub. L. 105–86, title VII][/us/pl/105/86/tVII], § 716, Nov. 18, 1997, [111 Stat. 2106][/us/stat/111/2106], provided that:
 
 >     “Hereafter: (a) Compliance With Buy American Act.—None of the funds made available in this Act \[see Tables for classification\] may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (\[former\] [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c] \[see chapter 83 of Title 41, Public Contracts\]; popularly known as the ‘Buy American Act’).
 
@@ -75,13 +75,13 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–180, title VII, § 716][/us/pl/104/180/s716], Aug. 6, 1996, [110 Stat. 1598][/us/stat/110/1598].
+    [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 716, Aug. 6, 1996, [110 Stat. 1598][/us/stat/110/1598].
 
-    [Pub. L. 104–37, title VII, § 716][/us/pl/104/37/s716], Oct. 21, 1995, [109 Stat. 330][/us/stat/109/330].
+    [Pub. L. 104–37, title VII][/us/pl/104/37/tVII], § 716, Oct. 21, 1995, [109 Stat. 330][/us/stat/109/330].
 
-    [Pub. L. 103–330, title VII, § 719][/us/pl/103/330/s719], Sept. 30, 1994, [108 Stat. 2468][/us/stat/108/2468].
+    [Pub. L. 103–330, title VII][/us/pl/103/330/tVII], § 719, Sept. 30, 1994, [108 Stat. 2468][/us/stat/108/2468].
 
-    [Pub. L. 103–111, title VII, § 727][/us/pl/103/111/s727], Oct. 21, 1993, [107 Stat. 1080][/us/stat/107/1080].
+    [Pub. L. 103–111, title VII][/us/pl/103/111/tVII], § 727, Oct. 21, 1993, [107 Stat. 1080][/us/stat/107/1080].
 
 ----------
 
@@ -92,18 +92,18 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/act/1889-02-09/ch122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-02-09%2Fch122
 [/us/stat/25/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F659
-[/us/act/1882-05-15/ch72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-15%2Fch72%2Fs3
+[/us/act/1882-05-15/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-15%2Fch72
 [/us/stat/12/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F388
 [/us/usc/t5/s557a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs557a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t7/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2202
 [/us/usc/t7/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
-[/us/pl/110/234/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4306
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1131
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
@@ -112,16 +112,16 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/86/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs716
+[/us/pl/105/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtVII
 [/us/stat/111/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2106
 [/us/usc/t41/s10a–10c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310c
-[/us/pl/104/180/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs716
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1598
-[/us/pl/104/37/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F37%2Fs716
+[/us/pl/104/37/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F37%2FtVII
 [/us/stat/109/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F330
-[/us/pl/103/330/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F330%2Fs719
+[/us/pl/103/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F330%2FtVII
 [/us/stat/108/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2468
-[/us/pl/103/111/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2Fs727
+[/us/pl/103/111/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2FtVII
 [/us/stat/107/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1080
 
 

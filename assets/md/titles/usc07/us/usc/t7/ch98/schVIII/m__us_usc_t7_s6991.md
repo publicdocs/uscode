@@ -67,7 +67,7 @@
 
         The term “participant” shall have the meaning given that term by the Secretary by regulation.
 
-([Pub. L. 103–354, title II, § 271][/us/pl/103/354/s271], Oct. 13, 1994, [108 Stat. 3228][/us/stat/108/3228].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 271, Oct. 13, 1994, [108 Stat. 3228][/us/stat/108/3228].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t7/s6932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6932
 [/us/usc/t7/s6962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6962%2Fb
 [/us/usc/t16/s590h/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5
-[/us/pl/103/354/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs271
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3228
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3228

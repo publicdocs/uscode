@@ -65,7 +65,7 @@
 
                 Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
 
-([Pub. L. 87–128, title III, § 302][/us/pl/87/128/s302], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 91–620, § 2][/us/pl/91/620/s2], Dec. 31, 1970, [84 Stat. 1862][/us/stat/84/1862]; [Pub. L. 95–334, title I, § 101][/us/pl/95/334/s101], Aug. 4, 1978, [92 Stat. 420][/us/stat/92/420]; [Pub. L. 97–98, title XVI, § 1601(a)][/us/pl/97/98/s1601/a], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1301(a), 1302(a), 1303, Dec. 23, 1985, [99 Stat. 1518][/us/stat/99/1518], 1519; [Pub. L. 104–127, title VI, § 601][/us/pl/104/127/s601], Apr. 4, 1996, [110 Stat. 1084][/us/stat/110/1084]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, §§ 804, 805(1)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5001, 5302(a), May 13, 2002, [116 Stat. 341][/us/stat/116/341], 344; [Pub. L. 110–234, title V, § 5001][/us/pl/110/234/s5001], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903; [Pub. L. 113–79, title V, § 5001(a)][/us/pl/113/79/s5001/a], (b), Feb. 7, 2014, [128 Stat. 832][/us/stat/128/832], 833.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 302, Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 91–620][/us/pl/91/620], § 2, Dec. 31, 1970, [84 Stat. 1862][/us/stat/84/1862]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 101, Aug. 4, 1978, [92 Stat. 420][/us/stat/92/420]; [Pub. L. 97–98, title XVI][/us/pl/97/98/tXVI], § 1601(a), Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], §§ 1301(a), 1302(a), 1303, Dec. 23, 1985, [99 Stat. 1518][/us/stat/99/1518], 1519; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 601, Apr. 4, 1996, [110 Stat. 1084][/us/stat/110/1084]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, §§ 804, 805(1)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171/tV], §§ 5001, 5302(a), May 13, 2002, [116 Stat. 341][/us/stat/116/341], 344; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5001, May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5001(a), (b), Feb. 7, 2014, [128 Stat. 832][/us/stat/128/832], 833.)
 
  __Codification__ 
 
@@ -73,23 +73,23 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–79, § 5001(a)(1)][/us/pl/113/79/s5001/a/1]–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)”, and “subparagraph (D)” for “clause (4)”.
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 5001(a)(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)”, and “subparagraph (D)” for “clause (4)”.
 
-    Subsec. (a)(2). [Pub. L. 113–79, § 5001(a)(6)][/us/pl/113/79/s5001/a/6], added par. (2).
+    Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79], § 5001(a)(6), added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 113–79, § 5001(b)][/us/pl/113/79/s5001/b], in introductory provisions, inserted “or has other acceptable experience for a period of time, as determined by the Secretary,” after “3 years”.
+    Subsec. (b)(1). [Pub. L. 113–79][/us/pl/113/79], § 5001(b), in introductory provisions, inserted “or has other acceptable experience for a period of time, as determined by the Secretary,” after “3 years”.
 
-    2008—[Pub. L. 110–246, § 5001(1)][/us/pl/110/246/s5001/1], inserted “real estate” before “loans” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 5001(1), inserted “real estate” before “loans” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–246, § 5001][/us/pl/110/246/s5001], inserted subsec. heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
+    Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 5001, inserted subsec. heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 5302(a)][/us/pl/107/171/s5302/a], substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 107–171, § 5001][/us/pl/107/171/s5001], substituted “participated in the business operations of” for “operated” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 107–171][/us/pl/107/171], § 5001, substituted “participated in the business operations of” for “operated” in introductory provisions.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(1)\], inserted “for direct loans only,” before “have either” in cl. (2).
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 805(1)\], inserted “for direct loans only,” before “have either” in cl. (2).
 
-    Subsec. (b)(3)(D). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 804\], added subpar. (D).
+    Subsec. (b)(3)(D). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 804\], added subpar. (D).
 
     1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127] added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in [section 1923 of this title][/us/usc/t7/s1923] solely to borrowers of loans that are outstanding on December 23, 1985.”
 
@@ -101,9 +101,9 @@
 
     (3) “individuals” for “members, stockholders, or partners, as applicable,” wherever appearing.
 
-    [Pub. L. 99–198, § 1303][/us/pl/99/198/s1303], in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
+    [Pub. L. 99–198][/us/pl/99/198], § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
 
-    Subsec. (b). [Pub. L. 99–198, § 1302(a)(2)][/us/pl/99/198/s1302/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1302(a)(2), added subsec. (b).
 
     1981—[Pub. L. 97–98][/us/pl/97/98] substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm”, and inserted “in the case of cooperatives, corporations, and partnerships” at end.
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–127, title VI, § 663][/us/pl/104/127/s663], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108], provided that:
+[Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 663, Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Evaluations of Direct and Guaranteed Loan Programs__ 
 
-[Pub. L. 107–171, title V, § 5301][/us/pl/107/171/s5301], May 13, 2002, [116 Stat. 344][/us/stat/116/344], provided that:
+[Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5301, May 13, 2002, [116 Stat. 344][/us/stat/116/344], provided that:
 
 >     “(a)  __Studies__  __.—__ 
 
@@ -169,46 +169,46 @@
 ----------
 
 [/us/usc/t7/s1941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1941%2Fb
-[/us/pl/87/128/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs302
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
-[/us/pl/91/620/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F620%2Fs2
+[/us/pl/91/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F620
 [/us/stat/84/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1862
-[/us/pl/95/334/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs101
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F420
-[/us/pl/97/98/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1601%2Fa
+[/us/pl/97/98/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVI
 [/us/stat/95/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1346
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1518
-[/us/pl/104/127/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs601
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1084
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F341
-[/us/pl/110/234/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5001
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1142
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s5001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fa
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F832
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s5001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fa%2F1
-[/us/pl/113/79/s5001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fa%2F6
-[/us/pl/113/79/s5001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fb
-[/us/pl/110/246/s5001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5001%2F1
-[/us/pl/110/246/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5001
-[/us/pl/107/171/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5302%2Fa
-[/us/pl/107/171/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5001
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1923
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/198/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1303
-[/us/pl/99/198/s1302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1302%2Fa%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
 [/us/pl/91/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F620
@@ -218,13 +218,13 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/104/127/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs663
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1108
 [/us/usc/t7/s1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1999
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/107/171/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5301
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F344
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
 

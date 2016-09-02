@@ -17,7 +17,7 @@
 
     Not later than 10 working days after an adverse decision is made that affects the participant, the Secretary shall provide the participant with written notice of such adverse decision and the rights available to the participant under this subchapter or other law for the review of such adverse decision.
 
-([Pub. L. 103–354, title II, § 274][/us/pl/103/354/s274], Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 274, Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs274
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3230
 
 

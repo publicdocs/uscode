@@ -39,11 +39,11 @@
 
         There are authorized to be appropriated each fiscal year such sums as may be necessary for laboratory accreditation services under this section.
 
-([Pub. L. 101–624, title XIII, § 1327][/us/pl/101/624/s1327], Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565]; [Pub. L. 102–237, title X, § 1017][/us/pl/102/237/s1017], Dec. 13, 1991, [105 Stat. 1904][/us/stat/105/1904].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1327, Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1017, Dec. 13, 1991, [105 Stat. 1904][/us/stat/105/1904].)
 
  __References in Text__ 
 
-    The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21][/us/usc/t21/s601] and Tables.
+    The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11015(a), June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21][/us/usc/t21/s601] and Tables.
 
     The Poultry Products Inspection Act, referred to in subsec. (a), is [Pub. L. 85–172][/us/pl/85/172], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441], as amended, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of Title 21][/us/usc/t21/s451] and Tables.
 
@@ -60,14 +60,14 @@
 
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
-[/us/pl/101/624/s1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1327
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3565
-[/us/pl/102/237/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1017
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1904
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
 [/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary of Agriculture may enter into cost-reimbursable agreements with State cooperative institutions or other colleges and universities without regard to any requirement for competition, for the acquisition of goods or services, including personal services, to carry out agricultural research, extension, or teaching activities of mutual interest. Reimbursable costs under such agreements shall include the actual direct costs of performance, as mutually agreed on by the parties, and the indirect costs of performance, not exceeding 10 percent of the direct cost.
 
-([Pub. L. 95–113, title XIV, § 1473A][/us/pl/95/113/s1473A], as added [Pub. L. 99–198, title XIV, § 1426][/us/pl/99/198/s1426], Dec. 23, 1985, [99 Stat. 1553][/us/stat/99/1553]; amended [Pub. L. 105–185, title II, § 231][/us/pl/105/185/s231], June 23, 1998, [112 Stat. 547][/us/stat/112/547].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473A, as added [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1426, Dec. 23, 1985, [99 Stat. 1553][/us/stat/99/1553]; amended [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 231, June 23, 1998, [112 Stat. 547][/us/stat/112/547].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1473A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473A
-[/us/pl/99/198/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1426
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1553
-[/us/pl/105/185/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs231
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F547
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

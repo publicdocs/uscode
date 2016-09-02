@@ -45,17 +45,17 @@
 
         (2) the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 407, [42 Stat. 169][/us/stat/42/169]; [Pub. L. 85–909, § 4][/us/pl/85/909/s4], Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750]; [Pub. L. 88–61][/us/pl/88/61], July 8, 1963, [77 Stat. 79][/us/stat/77/79]; [Pub. L. 94–410, § 11][/us/pl/94/410/s11], Sept. 13, 1976, [90 Stat. 1252][/us/stat/90/1252]; [Pub. L. 103–354, title II, § 293(b)][/us/pl/103/354/s293/b], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 103–437, § 4(a)(2)][/us/pl/103/437/s4/a/2], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 407, [42 Stat. 169][/us/stat/42/169]; [Pub. L. 85–909][/us/pl/85/909], § 4, Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750]; [Pub. L. 88–61][/us/pl/88/61], July 8, 1963, [77 Stat. 79][/us/stat/77/79]; [Pub. L. 94–410][/us/pl/94/410], § 11, Sept. 13, 1976, [90 Stat. 1252][/us/stat/90/1252]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(b), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(2), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
 
  __Amendments__ 
 
-    1994—Subsec. (b). [Pub. L. 103–354, § 293(b)(1)][/us/pl/103/354/s293/b/1], (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+    1994—Subsec. (b). [Pub. L. 103–354][/us/pl/103/354], § 293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
 
     Subsec. (c). [Pub. L. 103–437][/us/pl/103/437], which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by [Pub. L. 103–354][/us/pl/103/354]. See below.
 
-    [Pub. L. 103–354, § 293(b)(2)][/us/pl/103/354/s293/b/2], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    [Pub. L. 103–354][/us/pl/103/354], § 293(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsecs. (d) to (f). [Pub. L. 103–354, § 293(b)(2)][/us/pl/103/354/s293/b/2], (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted “subsection (d)” for “subsection (e)”.
+    Subsecs. (d) to (f). [Pub. L. 103–354][/us/pl/103/354], § 293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted “subsection (d)” for “subsection (e)”.
 
     1976—Subsecs. (d) to (f). [Pub. L. 94–410][/us/pl/94/410] added subsecs. (d) to (f).
 
@@ -65,7 +65,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–234, title XI, § 11006][/us/pl/110/234/s11006], May 22, 2008, [122 Stat. 1358][/us/stat/122/1358], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2120, provided that: 
+[Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11006, May 22, 2008, [122 Stat. 1358][/us/stat/122/1358], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2120, provided that: 
 
 > “As soon as practicable, but not later than 2 years after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall promulgate regulations with respect to the Packers and Stockyards Act, 1921 ([7 U.S.C. 181][/us/usc/t7/s181] et seq.) to establish criteria that the Secretary will consider in determining—
 
@@ -88,27 +88,27 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F169
-[/us/pl/85/909/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909%2Fs4
+[/us/pl/85/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909
 [/us/stat/72/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1750
 [/us/pl/88/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F61
 [/us/stat/77/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F79
-[/us/pl/94/410/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs11
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1252
-[/us/pl/103/354/s293/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fb
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/103/437/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
-[/us/pl/103/354/s293/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fb%2F1
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/354/s293/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fb%2F2
-[/us/pl/103/354/s293/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fb%2F2
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/pl/88/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F61
 [/us/pl/85/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909
-[/us/pl/110/234/s11006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11006
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1358
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs181
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

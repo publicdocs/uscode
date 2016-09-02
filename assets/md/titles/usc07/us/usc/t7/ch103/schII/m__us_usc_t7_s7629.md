@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7628.md) | [Next](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7630.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7629)
 
-## § 7629. Repealed. [Pub. L. 113–79, title VII, § 7304][/us/pl/113/79/s7304], Feb. 7, 2014, [128 Stat. 888][/us/stat/128/888]
+## § 7629. Repealed. [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7304, Feb. 7, 2014, [128 Stat. 888][/us/stat/128/888]
 
-    Section, [Pub. L. 105–185, title IV, § 409][/us/pl/105/185/s409], as added [Pub. L. 107–171, title VII, § 7207(e)][/us/pl/107/171/s7207/e], May 13, 2002, [116 Stat. 441][/us/stat/116/441]; amended [Pub. L. 110–234, title VII, § 7308][/us/pl/110/234/s7308], May 22, 2008, [122 Stat. 1243][/us/stat/122/1243]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7308, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004, related to bovine Johne’s disease control program.
+    Section, [Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 409, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7207(e), May 13, 2002, [116 Stat. 441][/us/stat/116/441]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7308, May 22, 2008, [122 Stat. 1243][/us/stat/122/1243]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7308, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004, related to bovine Johne’s disease control program.
 
 ----------
 
@@ -24,14 +24,14 @@
 ----------
 ----------
 
-[/us/pl/113/79/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7304
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F888
-[/us/pl/105/185/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs409
-[/us/pl/107/171/s7207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7207%2Fe
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F441
-[/us/pl/110/234/s7308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7308
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1243
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 
 

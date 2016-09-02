@@ -17,7 +17,7 @@
 
     The Secretary may establish regulations for taking affidavits, depositions, and other evidence required in cases before the Plant Variety Protection Office. Any officer authorized by law to take depositions to be used in the courts of the United States, or of the State where the officer resides, may take such affidavits and depositions, and swear the witnesses. If any person acts as a hearing officer by authority of the Secretary, the person shall have like power.
 
-([Pub. L. 91–577, title I, § 23][/us/pl/91/577/s23], Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544]; [Pub. L. 103–349, § 13(c)][/us/pl/103/349/s13/c], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 23, Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544]; [Pub. L. 103–349][/us/pl/103/349], § 13(c), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs23
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1544
-[/us/pl/103/349/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fc
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

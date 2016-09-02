@@ -25,7 +25,7 @@
 
     (4) The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 
-([Pub. L. 99–198, title X, § 1010][/us/pl/99/198/s1010], Dec. 23, 1985, [99 Stat. 1454][/us/stat/99/1454].)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1010, Dec. 23, 1985, [99 Stat. 1454][/us/stat/99/1454].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1010
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1454
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 

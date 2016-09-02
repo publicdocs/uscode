@@ -49,7 +49,7 @@
 
         The term “producer” means a person engaged in the production of agricultural products as a farmer, planter, rancher, dairyman, fruit, vegetable, or nut grower.
 
-([Pub. L. 90–288, § 3][/us/pl/90/288/s3], Apr. 16, 1968, [82 Stat. 94][/us/stat/82/94]; [Pub. L. 110–234, title XI, § 11003][/us/pl/110/234/s11003], May 22, 2008, [122 Stat. 1354][/us/stat/122/1354]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2116.)
+([Pub. L. 90–288][/us/pl/90/288], § 3, Apr. 16, 1968, [82 Stat. 94][/us/stat/82/94]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11003, May 22, 2008, [122 Stat. 1354][/us/stat/122/1354]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2116.)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 11003][/us/pl/110/246/s11003], in introductory provisions, substituted “In this chapter:” for “When used in this chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 11003, in introductory provisions, substituted “In this chapter:” for “When used in this chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -73,17 +73,17 @@
 [/us/usc/t12/s1141j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fa
 [/us/usc/t7/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs291
 [/us/usc/t7/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs191
-[/us/pl/90/288/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs3
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F94
-[/us/pl/110/234/s11003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11003
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1354
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11003
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

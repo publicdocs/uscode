@@ -33,7 +33,7 @@
 
     (8) the effects of tropical deforestation on biodiversity, global climate, wildlife, soils, and water.
 
-([Pub. L. 101–624, title XXIV, § 2407][/us/pl/101/624/s2407], Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2407, Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2407
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4060
 
 

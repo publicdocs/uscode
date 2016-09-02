@@ -17,25 +17,25 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter VII, consisting of parts A (§ 3241), B (§§ 3251, 3252), C (§§ 3261 to 3263), D (§ 3271), and E (§§ 3281, 3282), related to solar energy research and development, prior to repeal by [Pub. L. 101–624, title XVI, § 1601(f)(1)(D)][/us/pl/101/624/s1601/f/1/D], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
+    A prior subchapter VII, consisting of parts A (§ 3241), B (§§ 3251, 3252), C (§§ 3261 to 3263), D (§ 3271), and E (§§ 3281, 3282), related to solar energy research and development, prior to repeal by [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(f)(1)(D), Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
 
-    Section 3241, [Pub. L. 95–113, title XIV, § 1449][/us/pl/95/113/s1449], Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012], related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
+    Section 3241, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1449, Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012], related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
 
-    Section 3251, [Pub. L. 95–113, title XIV, § 1450][/us/pl/95/113/s1450], Sept. 20, 1977, [91 Stat. 1012][/us/stat/91/1012], provided for a solar energy research information system.
+    Section 3251, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1450, Sept. 20, 1977, [91 Stat. 1012][/us/stat/91/1012], provided for a solar energy research information system.
 
-    Section 3252, [Pub. L. 95–113, title XIV, § 1451][/us/pl/95/113/s1451], Sept. 29, 1977, [91 Stat. 1013][/us/stat/91/1013], provided for assistance from an advisory committee respecting functions of Secretary on model farms and demonstration projects.
+    Section 3252, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1451, Sept. 29, 1977, [91 Stat. 1013][/us/stat/91/1013], provided for assistance from an advisory committee respecting functions of Secretary on model farms and demonstration projects.
 
-    Section 3261, [Pub. L. 95–113, title XIV, § 1452][/us/pl/95/113/s1452], Sept. 29, 1977, [91 Stat. 1013][/us/stat/91/1013], provided for model farms.
+    Section 3261, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1452, Sept. 29, 1977, [91 Stat. 1013][/us/stat/91/1013], provided for model farms.
 
-    Section 3262, [Pub. L. 95–113, title XIV, § 1453][/us/pl/95/113/s1453], Sept. 29, 1977, [91 Stat. 1014][/us/stat/91/1014], provided for demonstration projects.
+    Section 3262, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1453, Sept. 29, 1977, [91 Stat. 1014][/us/stat/91/1014], provided for demonstration projects.
 
-    Section 3263, [Pub. L. 95–113, title XIV, § 1454][/us/pl/95/113/s1454], Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV, § 1434][/us/pl/97/98/s1434], Dec. 22, 1981, [95 Stat. 1312][/us/stat/95/1312], authorized appropriation of funds.
+    Section 3263, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1454, Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1434, Dec. 22, 1981, [95 Stat. 1312][/us/stat/95/1312], authorized appropriation of funds.
 
-    Section 3271, [Pub. L. 95–113, title XIV, § 1455][/us/pl/95/113/s1455], Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015], provided for establishment of regional solar energy research, development, and demonstration centers.
+    Section 3271, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1455, Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015], provided for establishment of regional solar energy research, development, and demonstration centers.
 
-    Section 3281, [Pub. L. 95–113, title XIV, § 1456][/us/pl/95/113/s1456], Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015], authorized appropriation of funds.
+    Section 3281, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1456, Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015], authorized appropriation of funds.
 
-    Section 3282, [Pub. L. 95–113, title XIV, § 1457][/us/pl/95/113/s1457], Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV, § 1435][/us/pl/97/98/s1435], Dec. 22, 1981, [95 Stat. 1313][/us/stat/95/1313], defined “solar energy”.
+    Section 3282, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1457, Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1435, Dec. 22, 1981, [95 Stat. 1313][/us/stat/95/1313], defined “solar energy”.
 
 ----------
 
@@ -44,29 +44,29 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1601/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FD
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
-[/us/pl/95/113/s1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1449
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1012
-[/us/pl/95/113/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1450
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1012
-[/us/pl/95/113/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1451
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1013
-[/us/pl/95/113/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1452
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1013
-[/us/pl/95/113/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1453
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1014
-[/us/pl/95/113/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1454
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1015
-[/us/pl/97/98/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1434
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1312
-[/us/pl/95/113/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1455
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1015
-[/us/pl/95/113/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1456
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1015
-[/us/pl/95/113/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1457
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1015
-[/us/pl/97/98/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1435
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1313
 
 

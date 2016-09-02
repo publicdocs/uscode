@@ -89,7 +89,7 @@
 
         (6) simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
 
-([Pub. L. 92–419, title VI, § 607][/us/pl/92/419/s607], as added [Pub. L. 96–355, § 2][/us/pl/96/355/s2], Sept. 24, 1980, [94 Stat. 1171][/us/stat/94/1171]; amended [Pub. L. 104–127, title VII, § 759A][/us/pl/104/127/s759A], Apr. 4, 1996, [110 Stat. 1138][/us/stat/110/1138].)
+([Pub. L. 92–419, title VI][/us/pl/92/419/tVI], § 607, as added [Pub. L. 96–355][/us/pl/96/355], § 2, Sept. 24, 1980, [94 Stat. 1171][/us/stat/94/1171]; amended [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 759A, Apr. 4, 1996, [110 Stat. 1138][/us/stat/110/1138].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–355, § 10][/us/pl/96/355/s10], Sept. 24, 1980, [94 Stat. 1176][/us/stat/94/1176], provided that: 
+[Pub. L. 96–355][/us/pl/96/355], § 10, Sept. 24, 1980, [94 Stat. 1176][/us/stat/94/1176], provided that: 
 
 > “The provisions of this Act \[enacting this section and [section 2211b of this title][/us/usc/t7/s2211b], amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and enacting provisions set out as a note under [section 2201 of this title][/us/usc/t7/s2201]\] shall become effective October 1, 1980.”
 
@@ -117,7 +117,7 @@
 
  __Simplified, Uniform Application for Assistance From All Federal Rural Development Programs__ 
 
-[Pub. L. 104–127, title VII, § 762][/us/pl/104/127/s762], Apr. 4, 1996, [110 Stat. 1148][/us/stat/110/1148], provided that: 
+[Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 762, Apr. 4, 1996, [110 Stat. 1148][/us/stat/110/1148], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
 
@@ -240,10 +240,10 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t7/s1926/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F12
-[/us/pl/92/419/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs607
-[/us/pl/96/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs2
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1171
-[/us/pl/104/127/s759A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs759A
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1138
 [/us/pl/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F579
 [/us/stat/88/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1896
@@ -253,7 +253,7 @@
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/96/355/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs10
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1176
 [/us/usc/t7/s2211b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2211b
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
@@ -261,7 +261,7 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/101/624/s2302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2302%2Fb
-[/us/pl/104/127/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs762
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1148
 [/us/usc/t7/s2008j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008j
 [/us/usc/t7/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009

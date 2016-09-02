@@ -55,7 +55,7 @@
 
         The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under [section 6808 of this title][/us/usc/t7/s6808].
 
-([Pub. L. 103–190, § 8][/us/pl/103/190/s8], Dec. 14, 1993, [107 Stat. 2285][/us/stat/107/2285].)
+([Pub. L. 103–190][/us/pl/103/190], § 8, Dec. 14, 1993, [107 Stat. 2285][/us/stat/107/2285].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t7/s6809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6809%2Fb%2F2
 [/us/usc/t7/s6808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6808
-[/us/pl/103/190/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs8
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2285
 
 

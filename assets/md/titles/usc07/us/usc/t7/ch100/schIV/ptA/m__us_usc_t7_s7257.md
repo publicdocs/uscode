@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall, consistent with the obligations of the United States as a member of the World Trade Organization, provide such advice and assistance to the United States dairy industry as may be necessary to enable that industry to establish and maintain one or more export trading companies under the Export Trading Company Act of 1982 ([15 U.S.C. 4001][/us/usc/t15/s4001] et seq.) for the purpose of facilitating the international market development for and exportation of dairy products produced in the United States.
 
-([Pub. L. 104–127, title I, § 149][/us/pl/104/127/s149], Apr. 4, 1996, [110 Stat. 921][/us/stat/110/921].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 149, Apr. 4, 1996, [110 Stat. 921][/us/stat/110/921].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4001
-[/us/pl/104/127/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs149
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F921
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233

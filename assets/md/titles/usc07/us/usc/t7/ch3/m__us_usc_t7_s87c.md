@@ -21,17 +21,17 @@
 
     (c) Any officer or employee of the Department of Agriculture assigned to perform weighing functions under this chapter shall be considered as an employee of the Department of Agriculture assigned to perform inspection functions for the purposes of sections 1114 and 111 of Title 18.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 14, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 767][/us/stat/82/767]; amended [Pub. L. 94–582, § 17][/us/pl/94/582/s17], Oct. 21, 1976, [90 Stat. 2884][/us/stat/90/2884]; [Pub. L. 103–156][/us/pl/103/156], §§ 8, 12(m), Nov. 24, 1993, [107 Stat. 1527][/us/stat/107/1527], 1529; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 14, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 767][/us/stat/82/767]; amended [Pub. L. 94–582][/us/pl/94/582], § 17, Oct. 21, 1976, [90 Stat. 2884][/us/stat/90/2884]; [Pub. L. 103–156][/us/pl/103/156], §§ 8, 12(m), Nov. 24, 1993, [107 Stat. 1527][/us/stat/107/1527], 1529; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
     1994—Subsec. (b). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1993—[Pub. L. 103–156, § 12(m)][/us/pl/103/156/s12/m], which directed amendment of “Section 14”, without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(m), which directed amendment of “Section 14”, without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
     Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], §§ 8, 12(m)(1), substituted “the person” for “he”, and struck out “shall be guilty of a misdemeanor and shall, on conviction thereof, be subject to imprisonment for not more than twelve months, or a fine of not more than $10,000, or both such imprisonment and fine; but, for each subsequent offense subject to this subsection, such person” before “shall be guilty of a felony”.
 
-    Subsec. (b). [Pub. L. 103–156, § 12(m)(2)][/us/pl/103/156/s12/m/2], substituted “the Administrator” for “he” in three places.
+    Subsec. (b). [Pub. L. 103–156][/us/pl/103/156], § 12(m)(2), substituted “the Administrator” for “he” in three places.
 
     1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582] inserted “(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)”, increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting “but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine” for “but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine”.
 
@@ -57,18 +57,18 @@
 [/us/usc/t7/s87b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87b
 [/us/usc/t7/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs86
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F767
-[/us/pl/94/582/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs17
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2884
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1527
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fm
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
-[/us/pl/103/156/s12/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fm%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs86

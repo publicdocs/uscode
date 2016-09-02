@@ -53,7 +53,7 @@
 
         Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such plan.
 
-([Pub. L. 91–670, title III, § 309][/us/pl/91/670/s309], Jan. 11, 1971, [84 Stat. 2044][/us/stat/84/2044]; [Pub. L. 101–624, title XIX, § 1941][/us/pl/101/624/s1941], Nov. 28, 1990, [104 Stat. 3867][/us/stat/104/3867].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 309, Jan. 11, 1971, [84 Stat. 2044][/us/stat/84/2044]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1941, Nov. 28, 1990, [104 Stat. 3867][/us/stat/104/3867].)
 
  __Amendments__ 
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t7/s2617/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2617%2Ff
-[/us/pl/91/670/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs309
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2044
-[/us/pl/101/624/s1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1941
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3867
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

@@ -55,7 +55,7 @@
 
         Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with [section 7283 of this title][/us/usc/t7/s7283]).
 
-([Pub. L. 110–234, title I, § 1209][/us/pl/110/234/s1209], May 22, 2008, [122 Stat. 964][/us/stat/122/964]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1209, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1692.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1209, May 22, 2008, [122 Stat. 964][/us/stat/122/964]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1209, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1692.)
 
  __Codification__ 
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t7/s8731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8731
 [/us/usc/t7/s7283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7283
-[/us/pl/110/234/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1209
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F964
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

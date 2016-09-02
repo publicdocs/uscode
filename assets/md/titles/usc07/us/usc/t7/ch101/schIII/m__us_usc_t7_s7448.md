@@ -87,7 +87,7 @@
 
         The remedies provided in this subchapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 104–127, title V, § 539][/us/pl/104/127/s539], Apr. 4, 1996, [110 Stat. 1061][/us/stat/110/1061].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 539, Apr. 4, 1996, [110 Stat. 1061][/us/stat/110/1061].)
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs539
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1061
 
 

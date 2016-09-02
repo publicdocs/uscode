@@ -33,7 +33,7 @@
 
         In carrying out this section, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808].
 
-([Pub. L. 108–357, title VI, § 642][/us/pl/108/357/s642], Oct. 22, 2004, [118 Stat. 1535][/us/stat/118/1535].)
+([Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 642, Oct. 22, 2004, [118 Stat. 1535][/us/stat/118/1535].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs808
-[/us/pl/108/357/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs642
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1535
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c

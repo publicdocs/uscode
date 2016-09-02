@@ -35,7 +35,7 @@
 
         The Secretary shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated to an agency other than the Office of Administrative Law Judges, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
-([Pub. L. 106–224, title IV, § 423][/us/pl/106/224/s423], June 20, 2000, [114 Stat. 449][/us/stat/114/449]; [Pub. L. 107–171, title X, § 10418(b)(2)][/us/pl/107/171/s10418/b/2], May 13, 2002, [116 Stat. 508][/us/stat/116/508]; [Pub. L. 110–234, title X, § 10203(c)][/us/pl/110/234/s10203/c], May 22, 2008, [122 Stat. 1343][/us/stat/122/1343]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10203(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 423, June 20, 2000, [114 Stat. 449][/us/stat/114/449]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(b)(2), May 13, 2002, [116 Stat. 508][/us/stat/116/508]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10203(c), May 22, 2008, [122 Stat. 1343][/us/stat/122/1343]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10203(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
 
  __References in Text__ 
 
@@ -47,17 +47,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 10203(c)(1)][/us/pl/110/246/s10203/c/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 10203(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
-    Subsec. (b). [Pub. L. 110–246, § 10203(c)(2)][/us/pl/110/246/s10203/c/2], struck out “documentary” before “evidence”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 10203(c)(2), struck out “documentary” before “evidence”.
 
-    Subsec. (c). [Pub. L. 110–246, § 10203(c)(3)][/us/pl/110/246/s10203/c/3], in first sentence substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence” and in second sentence substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 10203(c)(3), in first sentence substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence” and in second sentence substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
 
-    2002—Subsec. (b). [Pub. L. 107–171, § 10418(b)(2)(A)][/us/pl/107/171/s10418/b/2/A], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
+    2002—Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
 
-    Subsec. (e). [Pub. L. 107–171, § 10418(b)(2)(B)][/us/pl/107/171/s10418/b/2/B], inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(2)(B), inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
 
-    Subsec. (f). [Pub. L. 107–171, § 10418(b)(2)(C)][/us/pl/107/171/s10418/b/2/C], struck out heading and text of subsec. (f). Text read as follows: “Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.”
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: “Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/106/224/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs423
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F449
-[/us/pl/107/171/s10418/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F2
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
-[/us/pl/110/234/s10203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10203%2Fc
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1343
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
@@ -89,12 +89,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fc%2F1
-[/us/pl/110/246/s10203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fc%2F2
-[/us/pl/110/246/s10203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fc%2F3
-[/us/pl/107/171/s10418/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F2%2FA
-[/us/pl/107/171/s10418/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F2%2FB
-[/us/pl/107/171/s10418/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F2%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

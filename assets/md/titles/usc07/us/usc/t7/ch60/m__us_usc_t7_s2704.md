@@ -17,7 +17,7 @@
 
     Whenever the Secretary has reason to believe that the issuance of an order will tend to effectuate the declared policy of this chapter, he shall give due notice and opportunity for hearing upon a proposed order. Such hearing may be requested and proposal for an order submitted by an organization certified pursuant to [section 2715 of this title][/us/usc/t7/s2715], or by any interested person affected by the provisions of this chapter, including the Secretary.
 
-([Pub. L. 93–428, § 5][/us/pl/93/428/s5], Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
+([Pub. L. 93–428][/us/pl/93/428], § 5, Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2715
-[/us/pl/93/428/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs5
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1173
 
 

@@ -35,7 +35,7 @@
 
         The provisions of this section shall not prevent an official agency or State agency delegated authority under this chapter from engaging in the business of weighing grain.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 11, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 766][/us/stat/82/766]; [Pub. L. 94–582, § 13][/us/pl/94/582/s13], Oct. 21, 1976, [90 Stat. 2880][/us/stat/90/2880]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(h), 1606(g), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156, § 12(j)][/us/pl/103/156/s12/j], Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529]; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 103–437, § 4(a)(1)][/us/pl/103/437/s4/a/1], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 11, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 766][/us/stat/82/766]; [Pub. L. 94–582][/us/pl/94/582], § 13, Oct. 21, 1976, [90 Stat. 2880][/us/stat/90/2880]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1604(h), 1606(g), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156][/us/pl/103/156], § 12(j), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(1), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
 
  __Amendments__ 
 
@@ -43,25 +43,25 @@
 
     Subsec. (b)(5). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-    1993—[Pub. L. 103–156, § 12(j)][/us/pl/103/156/s12/j], which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(j), which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 103–156, § 12(j)(1)][/us/pl/103/156/s12/j/1], substituted “the Administrator” for “he” before “determines”.
+    Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 12(j)(1), substituted “the Administrator” for “he” before “determines”.
 
-    Subsec. (b)(1). [Pub. L. 103–156, § 12(j)(2)(A)][/us/pl/103/156/s12/j/2/A], substituted “the producer” for “he”.
+    Subsec. (b)(1). [Pub. L. 103–156][/us/pl/103/156], § 12(j)(2)(A), substituted “the producer” for “he”.
 
-    Subsec. (b)(5). [Pub. L. 103–156, § 12(j)(2)(B)][/us/pl/103/156/s12/j/2/B], substituted “the Administrator” for “he” in two places.
+    Subsec. (b)(5). [Pub. L. 103–156][/us/pl/103/156], § 12(j)(2)(B), substituted “the Administrator” for “he” in two places.
 
-    1977—Subsec. (b)(3). [Pub. L. 95–113, § 1604(h)(1)][/us/pl/95/113/s1604/h/1], substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”.
+    1977—Subsec. (b)(3). [Pub. L. 95–113][/us/pl/95/113], § 1604(h)(1), substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”.
 
-    Subsec. (b)(4). [Pub. L. 95–113, § 1606(g)][/us/pl/95/113/s1606/g], substituted “official weighing or supervision of weighing” for “official weighing”.
+    Subsec. (b)(4). [Pub. L. 95–113][/us/pl/95/113], § 1606(g), substituted “official weighing or supervision of weighing” for “official weighing”.
 
-    Subsec. (b)(5). [Pub. L. 95–113, § 1604(h)(2)][/us/pl/95/113/s1604/h/2], substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”.
+    Subsec. (b)(5). [Pub. L. 95–113][/us/pl/95/113], § 1604(h)(2), substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”.
 
-    Subsec. (c). [Pub. L. 95–113, § 1604(h)(3)][/us/pl/95/113/s1604/h/3], inserted “or State agency delegated authority under this chapter” after “official agency”.
+    Subsec. (c). [Pub. L. 95–113][/us/pl/95/113], § 1604(h)(3), inserted “or State agency delegated authority under this chapter” after “official agency”.
 
-    1976—Subsec. (a). [Pub. L. 94–582, § 13(a)][/us/pl/94/582/s13/a]–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively.
+    1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582], § 13(a)–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively.
 
-    Subsecs. (b), (c). [Pub. L. 94–582, § 13(c)][/us/pl/94/582/s13/c], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 94–582][/us/pl/94/582], § 13(c), added subsecs. (b) and (c).
 
     1968—[Pub. L. 90–487][/us/pl/90/487] substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
 
@@ -87,30 +87,30 @@
 [/us/usc/t7/s79a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79a
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F485
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F766
-[/us/pl/94/582/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs13
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2880
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1028
-[/us/pl/103/156/s12/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fj
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/103/437/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/156/s12/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fj
-[/us/pl/103/156/s12/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fj%2F1
-[/us/pl/103/156/s12/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fj%2F2%2FA
-[/us/pl/103/156/s12/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fj%2F2%2FB
-[/us/pl/95/113/s1604/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fh%2F1
-[/us/pl/95/113/s1606/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fg
-[/us/pl/95/113/s1604/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fh%2F2
-[/us/pl/95/113/s1604/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fh%2F3
-[/us/pl/94/582/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs13%2Fa
-[/us/pl/94/582/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs13%2Fc
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901

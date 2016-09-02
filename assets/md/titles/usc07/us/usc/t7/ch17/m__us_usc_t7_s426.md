@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may conduct a program of wildlife services with respect to injurious animal species and take any action the Secretary considers necessary in conducting the program. The Secretary shall administer the program in a manner consistent with all of the wildlife services authorities in effect on the day before October 28, 2000.
 
-([Mar. 2, 1931, ch. 370, § 1][/us/act/1931-03-02/ch370/s1], [46 Stat. 1468][/us/stat/46/1468]; [Pub. L. 102–237, title X, § 1013(d)][/us/pl/102/237/s1013/d], Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 767\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–44.)
+([Mar. 2, 1931, ch. 370][/us/act/1931-03-02/ch370], § 1, [46 Stat. 1468][/us/stat/46/1468]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1013(d), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 767\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–44.)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
     Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
-[Pub. L. 99–190, § 101(a)][/us/pl/99/190/s101/a] \[H.R. 3037, title I, § 101\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185]; [Pub. L. 100–202, § 106][/us/pl/100/202/s106], Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided in part: 
+[Pub. L. 99–190][/us/pl/99/190], § 101(a) \[H.R. 3037, title I, § 101\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185]; [Pub. L. 100–202][/us/pl/100/202], § 106, Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided in part: 
 
 > “That effective upon the date of enactment of this Act \[Dec. 19, 1985\] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 ([46 Stat. 1468][/us/stat/46/1468]; [7 U.S.C. 426–426b][/us/usc/t7/s426–426b]), (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
 
  __Wolf Livestock Loss Demonstration Project__ 
 
-[Pub. L. 111–11, title VI][/us/pl/111/11], subtitle C, Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170], provided that:
+[Pub. L. 111–11, title VI][/us/pl/111/11/tVI], subtitle C, Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170], provided that:
 
 > “SEC. 6201. __DEFINITIONS.__ 
 
@@ -142,21 +142,21 @@
 ----------
 ----------
 
-[/us/act/1931-03-02/ch370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370%2Fs1
+[/us/act/1931-03-02/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370
 [/us/stat/46/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1468
-[/us/pl/102/237/s1013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1013%2Fd
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/99/190/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fa
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
-[/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-433
 [/us/stat/46/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1468
 [/us/usc/t7/s426–426b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs426%E2%80%93426b
-[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1170
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 

@@ -17,7 +17,7 @@
 
     The Secretary may certify as to the freedom of plants, plant products, or biological control organisms from plant pests or noxious weeds, or the exposure of plants, plant products, or biological control organisms to plant pests or noxious weeds, according to the phytosanitary or other requirements of the countries to which the plants, plant products, or biological control organisms may be exported.
 
-([Pub. L. 106–224, title IV, § 418][/us/pl/106/224/s418], June 20, 2000, [114 Stat. 448][/us/stat/114/448].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 418, June 20, 2000, [114 Stat. 448][/us/stat/114/448].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs418
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F448
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

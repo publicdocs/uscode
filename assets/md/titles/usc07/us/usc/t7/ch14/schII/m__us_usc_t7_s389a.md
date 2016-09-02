@@ -17,7 +17,7 @@
 
     Conveyances or patents under this section and [section 389 of this title][/us/usc/t7/s389] shall be upon such conditions as in the opinion of the Secretary of Agriculture will assure the use of such station in the cooperative agricultural experimental work of the Department of Agriculture and the respective State. Any such conveyances of the land shall contain a reservation to the United States of all the minerals in the land together with the right to prospect for, mine, and remove the same under such regulations as the Secretary of the Interior may prescribe.
 
-([Sept. 23, 1950, ch. 1005, § 2][/us/act/1950-09-23/ch1005/s2], [64 Stat. 982][/us/stat/64/982].)
+([Sept. 23, 1950, ch. 1005][/us/act/1950-09-23/ch1005], § 2, [64 Stat. 982][/us/stat/64/982].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs389
-[/us/act/1950-09-23/ch1005/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1005%2Fs2
+[/us/act/1950-09-23/ch1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1005
 [/us/stat/64/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F982
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

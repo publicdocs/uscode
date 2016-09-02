@@ -41,11 +41,11 @@
 
         Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce soybeans.
 
-([Pub. L. 101–624, title XIX, § 1966][/us/pl/101/624/s1966], Nov. 28, 1990, [104 Stat. 3881][/us/stat/104/3881].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1966, Nov. 28, 1990, [104 Stat. 3881][/us/stat/104/3881].)
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XIX, § 1965][/us/pl/101/624/s1965], Nov. 28, 1990, [104 Stat. 3881][/us/stat/104/3881], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1965, Nov. 28, 1990, [104 Stat. 3881][/us/stat/104/3881], provided that: 
 
 > “This subtitle \[subtitle E (§§ 1965–1976) of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting this chapter\] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1966
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3881
-[/us/pl/101/624/s1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1965
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3881
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

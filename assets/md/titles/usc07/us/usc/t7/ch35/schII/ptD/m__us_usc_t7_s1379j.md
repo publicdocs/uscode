@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this part including but not limited to regulations governing the acquisition, disposition, or handling of marketing certificates.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379j, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 630][/us/stat/76/630].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379j, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 630][/us/stat/76/630].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F630
 [/us/usc/t7/s1379a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379a
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3

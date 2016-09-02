@@ -43,11 +43,11 @@
 
         There is authorized to be appropriated not more than $1,000,000 for the period ending September 30, 1976, to carry out the provisions of this section. No funds authorized by this section shall be used for advertising or promotional activities.
 
-([Pub. L. 94–214, title II, § 201][/us/pl/94/214/s201], Feb. 16, 1976, [90 Stat. 187][/us/stat/90/187].)
+([Pub. L. 94–214, title II][/us/pl/94/214/tII], § 201, Feb. 16, 1976, [90 Stat. 187][/us/stat/90/187].)
 
  __Short Title__ 
 
-[Pub. L. 94–214, § 1][/us/pl/94/214/s1], Feb. 16, 1976, [90 Stat. 181][/us/stat/90/181], provided that: 
+[Pub. L. 94–214][/us/pl/94/214], § 1, Feb. 16, 1976, [90 Stat. 181][/us/stat/90/181], provided that: 
 
 > “This Act \[enacting this section, amending sections 1352, 1385, 1428, and 1441 of this title, and enacting provisions set out as notes under sections 1352, 1353, 1377, 1385, 1428, and 1441 of this title\] may be cited as the ‘Rice Production Act of 1975’.”
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/94/214/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2Fs201
+[/us/pl/94/214/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2FtII
 [/us/stat/90/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F187
-[/us/pl/94/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2Fs1
+[/us/pl/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214
 [/us/stat/90/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F181
 
 

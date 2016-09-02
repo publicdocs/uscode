@@ -61,11 +61,11 @@
 
                 There are authorized to be appropriated for each fiscal year to carry out the purposes of this subsection $10,000,000 to remain available until expended.
 
-([June 25, 1947, ch. 125, § 32][/us/act/1947-06-25/ch125/s32], as added [Pub. L. 104–170, title II, § 210(j)][/us/pl/104/170/s210/j], Aug. 3, 1996, [110 Stat. 1501][/us/stat/110/1501].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 32, as added [Pub. L. 104–170, title II][/us/pl/104/170/tII], § 210(j), Aug. 3, 1996, [110 Stat. 1501][/us/stat/110/1501].)
 
  __References in Text__ 
 
-    Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to [section 5882 of this title][/us/usc/t7/s5882] prior to repeal by [Pub. L. 104–127, title VIII, § 862(a)][/us/pl/104/127/s862/a], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174].
+    Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to [section 5882 of this title][/us/usc/t7/s5882] prior to repeal by [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 862(a), Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174].
 
 ----------
 
@@ -78,11 +78,11 @@
 [/us/usc/t7/s450i/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i%2Fe
 [/us/usc/t7/s5882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5882
 [/us/usc/t7/s136a/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fc%2F1%2FF
-[/us/act/1947-06-25/ch125/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs32
-[/us/pl/104/170/s210/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fj
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/104/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtII
 [/us/stat/110/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1501
 [/us/usc/t7/s5882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5882
-[/us/pl/104/127/s862/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs862%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1174
 
 

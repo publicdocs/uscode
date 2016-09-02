@@ -17,11 +17,11 @@
 
     For convenience of reference, this chapter may be designated and cited as “The Naval Stores Act.”
 
-([Mar. 3, 1923, ch. 217, § 1][/us/act/1923-03-03/ch217/s1], [42 Stat. 1435][/us/stat/42/1435].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 1, [42 Stat. 1435][/us/stat/42/1435].)
 
  __Effective Date__ 
 
-[Act Mar. 3, 1923, ch. 217, § 10][/us/act/1923-03-03/ch217/s10], [42 Stat. 1437][/us/stat/42/1437], provided: 
+[Act Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 10, [42 Stat. 1437][/us/stat/42/1437], provided: 
 
 > “That this Act \[enacting this chapter\] shall become effective at the expiration of ninety days next after the date of its approval \[Mar. 23, 1923\].”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1923-03-03/ch217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs1
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1435
-[/us/act/1923-03-03/ch217/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs10
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1437
 
 

@@ -21,7 +21,7 @@
 
     It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential in the public interest through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development, financing through adequate assessments on all cotton marketed in the United States and on imports of cotton, and carrying out an effective and continuous coordinated program of research and promotion designed to strengthen cotton’s competitive position and to maintain and expand domestic and foreign markets and uses for United States cotton.
 
-([Pub. L. 89–502, § 2][/us/pl/89/502/s2], July 13, 1966, [80 Stat. 279][/us/stat/80/279]; [Pub. L. 101–624, title XIX, § 1991][/us/pl/101/624/s1991], Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909].)
+([Pub. L. 89–502][/us/pl/89/502], § 2, July 13, 1966, [80 Stat. 279][/us/stat/80/279]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1991, Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909].)
 
  __Amendments__ 
 
@@ -29,25 +29,25 @@
 
  __Effective Date__ 
 
-[Pub. L. 89–502, § 20][/us/pl/89/502/s20], July 13, 1966, [80 Stat. 287][/us/stat/80/287], provided that: 
+[Pub. L. 89–502][/us/pl/89/502], § 20, July 13, 1966, [80 Stat. 287][/us/stat/80/287], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect upon enactment \[July 13, 1966\]”.
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XIX, § 1990][/us/pl/101/624/s1990], Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1990, Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909], provided that: 
 
 > “This subtitle \[subtitle G (§§ 1990–1998) of title XIX of [Pub. L. 101–624][/us/pl/101/624], amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 89–502, § 1][/us/pl/89/502/s1], July 13, 1966, [80 Stat. 279][/us/stat/80/279], provided: 
+[Pub. L. 89–502][/us/pl/89/502], § 1, July 13, 1966, [80 Stat. 279][/us/stat/80/279], provided: 
 
 > “That this Act \[enacting this chapter\] shall be known as the ‘Cotton Research and Promotion Act’.”
 
  __Pima Agriculture Cotton Trust Fund__ 
 
-[Pub. L. 113–79, title XII, § 12314][/us/pl/113/79/s12314], Feb. 7, 2014, [128 Stat. 993][/us/stat/128/993], provided that:
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12314, Feb. 7, 2014, [128 Stat. 993][/us/stat/128/993], provided that:
 
 >     “(a)  __Establishment of Trust Fund__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Reports on Implementation and Enforcement of Cotton Research and Promotion Program__ 
 
-[Pub. L. 101–624, title XIX, § 1998][/us/pl/101/624/s1998], Nov. 28, 1990, [104 Stat. 3913][/us/stat/104/3913], as amended by [Pub. L. 102–237, title VIII, § 808(b)][/us/pl/102/237/s808/b], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883], provided that:
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1998, Nov. 28, 1990, [104 Stat. 3913][/us/stat/104/3913], as amended by [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 808(b), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -170,23 +170,23 @@
 ----------
 ----------
 
-[/us/pl/89/502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs2
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F279
-[/us/pl/101/624/s1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1991
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3909
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/89/502/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs20
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F287
-[/us/pl/101/624/s1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1990
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3909
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/89/502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs1
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F279
-[/us/pl/113/79/s12314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12314
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F993
-[/us/pl/101/624/s1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1998
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3913
-[/us/pl/102/237/s808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs808%2Fb
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

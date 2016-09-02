@@ -99,7 +99,7 @@
 
                     (III) make such other reports as the Secretary or Board may require.
 
-([Pub. L. 99–198, title XVI, § 1619][/us/pl/99/198/s1619], Dec. 23, 1985, [99 Stat. 1612][/us/stat/99/1612].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1619, Dec. 23, 1985, [99 Stat. 1612][/us/stat/99/1612].)
 
 ----------
 
@@ -112,7 +112,7 @@
 [/us/usc/t7/s4806/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4806%2Fg
 [/us/usc/t7/s4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809
 [/us/usc/t7/s4809/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809%2Fc%2F1
-[/us/pl/99/198/s1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1619
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1612
 
 

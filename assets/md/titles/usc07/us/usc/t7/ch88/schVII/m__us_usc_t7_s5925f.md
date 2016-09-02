@@ -47,7 +47,7 @@
 
         (2) $5,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 101–624, title XVI, § 1672D][/us/pl/101/624/s1672D], as added [Pub. L. 110–234, title VII, § 7208][/us/pl/110/234/s7208], May 22, 2008, [122 Stat. 1241][/us/stat/122/1241]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2002; amended [Pub. L. 113–79, title VII, § 7213][/us/pl/113/79/s7213], Feb. 7, 2014, [128 Stat. 886][/us/stat/128/886].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1672D, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7208, May 22, 2008, [122 Stat. 1241][/us/stat/122/1241]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2002; amended [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7213, Feb. 7, 2014, [128 Stat. 886][/us/stat/128/886].)
 
  __Codification__ 
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/pl/101/624/s1672D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1672D
-[/us/pl/110/234/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7208
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1241
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7213
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F886
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

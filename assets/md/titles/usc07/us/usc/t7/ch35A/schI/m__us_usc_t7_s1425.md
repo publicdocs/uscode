@@ -23,7 +23,7 @@
 
         The security interests obtained by the Commodity Credit Corporation as a result of the execution of security agreements by the processors of sugarcane and sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived. The preceding sentence shall not affect the application of [section 1421(e)(2) of this title][/us/usc/t7/s1421/e/2].
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 405, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 85–835, title V, § 502][/us/pl/85/835/s502], Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 99–198, title X, § 1004][/us/pl/99/198/s1004], Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447]; [Pub. L. 100–460, title VI, § 634(a)][/us/pl/100/460/s634/a], Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263]; [Pub. L. 102–237, title I, § 111(b)][/us/pl/102/237/s111/b], Dec. 13, 1991, [105 Stat. 1830][/us/stat/105/1830].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 405, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 85–835, title V][/us/pl/85/835/tV], § 502, Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1004, Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447]; [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 634(a), Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263]; [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(b), Dec. 13, 1991, [105 Stat. 1830][/us/stat/105/1830].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–460, title VI, § 634(a)][/us/pl/100/460/s634/a], Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263], provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
+    [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 634(a), Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263], provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title X, § 1004][/us/pl/99/198/s1004], Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447], provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
+    [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1004, Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447], provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
 
  __Exceptions From Transfer of Functions__ 
 
@@ -80,13 +80,13 @@
 [/us/usc/t7/s1421/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421%2Fe%2F2
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1054
-[/us/pl/85/835/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs502
+[/us/pl/85/835/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtV
 [/us/stat/72/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F996
-[/us/pl/99/198/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1004
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1447
-[/us/pl/100/460/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs634%2Fa
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2263
-[/us/pl/102/237/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Fb
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1830
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
@@ -96,9 +96,9 @@
 [/us/usc/t7/s1425a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1425a
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
-[/us/pl/100/460/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs634%2Fa
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2263
-[/us/pl/99/198/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1004
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1447
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

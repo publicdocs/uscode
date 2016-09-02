@@ -33,7 +33,7 @@
 
         On the request of the chairperson of the Commission, the head of any department or agency of the Federal Government is authorized to detail, without reimbursement, any personnel of the department or agency to the Commission to assist the Commission in carrying out its duties under this section. The detail of any individual may not result in the interruption or loss of civil service status or other privilege of the individual.
 
-([Pub. L. 104–127, title I, § 187][/us/pl/104/127/s187], Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 187, Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/104/127/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs187
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F941
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

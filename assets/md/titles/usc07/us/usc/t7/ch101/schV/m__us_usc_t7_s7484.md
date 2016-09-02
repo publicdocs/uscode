@@ -209,7 +209,7 @@
 
         The order shall contain such other terms and conditions, consistent with this subchapter, as are necessary to effectuate this subchapter, including regulations relating to the assessment of late payment charges.
 
-([Pub. L. 104–127, title V, § 575][/us/pl/104/127/s575], Apr. 4, 1996, [110 Stat. 1077][/us/stat/110/1077].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 575, Apr. 4, 1996, [110 Stat. 1077][/us/stat/110/1077].)
 
 ----------
 
@@ -218,7 +218,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs575
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1077
 
 

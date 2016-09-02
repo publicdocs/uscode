@@ -39,7 +39,7 @@
 
         The Authority shall allocate at least 50 percent of any funds made available under [section 2009bb–12 of this title][/us/usc/t7/s2009bb–12] for transportation, telecommunication,,1 renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of [section 2009bb–2(a) of this title][/us/usc/t7/s2009bb–2/a].
 
-([Pub. L. 87–128, title III, § 383G][/us/pl/87/128/s383G], formerly § 383F, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 384][/us/stat/116/384]; renumbered § 383G and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (2)(D), (g), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, 1181, and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (2)(D), (g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940–1942.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383G, formerly § 383F, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 384][/us/stat/116/384]; renumbered § 383G and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (2)(D), (g), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, 1181, and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (2)(D), (g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940–1942.)
 
  __Codification__ 
 
@@ -51,19 +51,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–246, § 6026(g)(1)][/us/pl/110/246/s6026/g/1], substituted “50” for “75”.
+    2008—Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 6026(g)(1), substituted “50” for “75”.
 
-    [Pub. L. 110–246, § 6026(c)(2)(D)(i)(I)][/us/pl/110/246/s6026/c/2/D/i/I], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–12 of this title][/us/usc/t7/s2009bb–12].
+    [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–12 of this title][/us/usc/t7/s2009bb–12].
 
-    Subsec. (b)(2). [Pub. L. 110–246, § 6026(c)(2)(D)(i)(II)][/us/pl/110/246/s6026/c/2/D/i/II], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–3(b) of this title][/us/usc/t7/s2009bb–3/b].
+    Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(D)(i)(II), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–3(b) of this title][/us/usc/t7/s2009bb–3/b].
 
-    Subsec. (c). [Pub. L. 110–246, § 6026(g)(2)][/us/pl/110/246/s6026/g/2]–(4), redesignated subsec. (d) as (c), inserted “renewable energy,” after “telecommunication” in heading and “, renewable energy,” after “telecommunication,” in text, and struck out former subsec. (c) which prohibited provision of funds for a project located in a county designated as a nondistressed county.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 6026(g)(2)–(4), redesignated subsec. (d) as (c), inserted “renewable energy,” after “telecommunication” in heading and “, renewable energy,” after “telecommunication,” in text, and struck out former subsec. (c) which prohibited provision of funds for a project located in a county designated as a nondistressed county.
 
-    Subsec. (c)(2)(A). [Pub. L. 110–246, § 6026(c)(2)(D)(ii)][/us/pl/110/246/s6026/c/2/D/ii], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–4(b) of this title][/us/usc/t7/s2009bb–4/b].
+    Subsec. (c)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–4(b) of this title][/us/usc/t7/s2009bb–4/b].
 
-    Subsec. (d). [Pub. L. 110–246, § 6026(g)(3)][/us/pl/110/246/s6026/g/3], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 6026(g)(3), redesignated subsec. (d) as (c).
 
-    [Pub. L. 110–246, § 6026(c)(2)(D)(iii)][/us/pl/110/246/s6026/c/2/D/iii], made technical amendments to references in original act which appear in text as references to [section 2009bb–12 of this title][/us/usc/t7/s2009bb–12] and [section 2009bb–2(a) of this title][/us/usc/t7/s2009bb–2/a].
+    [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(D)(iii), made technical amendments to references in original act which appear in text as references to [section 2009bb–12 of this title][/us/usc/t7/s2009bb–12] and [section 2009bb–2(a) of this title][/us/usc/t7/s2009bb–2/a].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -80,12 +80,12 @@
 [/us/usc/t7/s2009bb–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%933%2Fb
 [/us/usc/t7/s2009bb–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%9312
 [/us/usc/t7/s2009bb–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%932%2Fa
-[/us/pl/87/128/s383G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383G
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F384
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -93,16 +93,16 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383G
 [/us/usc/t7/s2009bb–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%936
-[/us/pl/110/246/s6026/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fg%2F1
-[/us/pl/110/246/s6026/c/2/D/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FD%2Fi%2FI
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%9312
-[/us/pl/110/246/s6026/c/2/D/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FD%2Fi%2FII
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%933%2Fb
-[/us/pl/110/246/s6026/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fg%2F2
-[/us/pl/110/246/s6026/c/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FD%2Fii
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%934%2Fb
-[/us/pl/110/246/s6026/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fg%2F3
-[/us/pl/110/246/s6026/c/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FD%2Fiii
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%9312
 [/us/usc/t7/s2009bb–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%932%2Fa
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

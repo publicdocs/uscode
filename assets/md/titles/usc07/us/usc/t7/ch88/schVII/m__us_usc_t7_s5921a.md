@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5922.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5921a)
 
-## § 5921a. Repealed. [Pub. L. 110–234, title VII, § 7411][/us/pl/110/234/s7411], May 22, 2008, [122 Stat. 1255][/us/stat/122/1255], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7411, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017
+## § 5921a. Repealed. [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7411, May 22, 2008, [122 Stat. 1255][/us/stat/122/1255], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7411, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017
 
-    Section, [Pub. L. 107–171, title X, § 10802][/us/pl/107/171/s10802], May 13, 2002, [116 Stat. 525][/us/stat/116/525], related to public information campaign regarding use of biotechnology in producing food for human consumption.
+    Section, [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10802, May 13, 2002, [116 Stat. 525][/us/stat/116/525], related to public information campaign regarding use of biotechnology in producing food for human consumption.
 
  __Codification__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7411
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1255
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/107/171/s10802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10802
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F525
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

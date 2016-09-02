@@ -23,7 +23,7 @@
 
     This Act, referred to in text, is [act Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], [60 Stat. 1082][/us/stat/60/1082], which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title][/us/usc/t7/s427]. For complete classification of this Act to the Code, see Tables.
 
-    The national advisory committee, referred to in text, was established by [section 1628 of this title][/us/usc/t7/s1628], which was subsequently repealed by [Pub. L. 93–86, § 2][/us/pl/93/86/s2], Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246].
+    The national advisory committee, referred to in text, was established by [section 1628 of this title][/us/usc/t7/s1628], which was subsequently repealed by [Pub. L. 93–86][/us/pl/93/86], § 2, Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246].
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 [/us/stat/60/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1082
 [/us/usc/t7/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427
 [/us/usc/t7/s1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1628
-[/us/pl/93/86/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs2
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F246
 
 

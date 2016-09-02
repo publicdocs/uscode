@@ -17,7 +17,7 @@
 
     Any report submitted to the Secretary under [section 3501 of this title][/us/usc/t7/s3501] shall be available for public inspection at the Department of Agriculture located in the District of Columbia not later than 10 days after the date on which such report is received by the Secretary.
 
-([Pub. L. 95–460, § 7][/us/pl/95/460/s7], Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
+([Pub. L. 95–460][/us/pl/95/460], § 7, Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
-[/us/pl/95/460/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs7
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1266
 
 

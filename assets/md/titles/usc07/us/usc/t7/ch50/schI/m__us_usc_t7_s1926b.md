@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1926a.md) | [Next](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1926c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926b)
 
-## § 1926b. Repealed. [Pub. L. 104–127, title VII, § 743][/us/pl/104/127/s743], Apr. 4, 1996, [110 Stat. 1125][/us/stat/110/1125]
+## § 1926b. Repealed. [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 743, Apr. 4, 1996, [110 Stat. 1125][/us/stat/110/1125]
 
-    Section, [Pub. L. 87–128, title III, § 306B][/us/pl/87/128/s306B], as added [Pub. L. 101–624, title XXIII, § 2326(a)][/us/pl/101/624/s2326/a], Nov. 28, 1990, [104 Stat. 4014][/us/stat/104/4014], related to emergency community water assistance grant program, including general provisions and provisions relating to priority, eligibility, uses, restrictions, maximum grants, full funding, application, and limitations on authorization of appropriations.
+    Section, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 306B, as added [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2326(a), Nov. 28, 1990, [104 Stat. 4014][/us/stat/104/4014], related to emergency community water assistance grant program, including general provisions and provisions relating to priority, eligibility, uses, restrictions, maximum grants, full funding, application, and limitations on authorization of appropriations.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/104/127/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs743
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1125
-[/us/pl/87/128/s306B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs306B
-[/us/pl/101/624/s2326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2326%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4014
 
 

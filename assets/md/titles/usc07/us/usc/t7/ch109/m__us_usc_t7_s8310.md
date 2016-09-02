@@ -71,7 +71,7 @@
 
             Subject to the consultation and coordination requirement in paragraph (1), the Department of Agriculture shall be the lead agency with respect to issues related to pests and diseases of livestock.
 
-([Pub. L. 107–171, title X, § 10411][/us/pl/107/171/s10411], May 13, 2002, [116 Stat. 502][/us/stat/116/502].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10411, May 13, 2002, [116 Stat. 502][/us/stat/116/502].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10411
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F502
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

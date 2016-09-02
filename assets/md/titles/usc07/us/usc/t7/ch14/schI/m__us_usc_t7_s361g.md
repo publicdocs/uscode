@@ -69,7 +69,7 @@
 
         To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
-([Mar. 2, 1887, ch. 314, § 7][/us/act/1887-03-02/ch314/s7], [24 Stat. 441][/us/stat/24/441]; [Aug. 11, 1955, ch. 790, § 1][/us/act/1955-08-11/ch790/s1], [69 Stat. 673][/us/stat/69/673]; [Pub. L. 86–533, § 1(22)][/us/pl/86/533/s1/22], June 29, 1960, [74 Stat. 249][/us/stat/74/249]; [Pub. L. 94–273, § 3(2)][/us/pl/94/273/s3/2], Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 105–185, title I, § 103(f)(2)][/us/pl/105/185/s103/f/2], title II, § 202(b), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 532; [Pub. L. 107–171, title VII, § 7202][/us/pl/107/171/s7202], May 13, 2002, [116 Stat. 437][/us/stat/116/437].)
+([Mar. 2, 1887, ch. 314][/us/act/1887-03-02/ch314], § 7, [24 Stat. 441][/us/stat/24/441]; [Aug. 11, 1955, ch. 790][/us/act/1955-08-11/ch790], § 1, [69 Stat. 673][/us/stat/69/673]; [Pub. L. 86–533][/us/pl/86/533], § 1(22), June 29, 1960, [74 Stat. 249][/us/stat/74/249]; [Pub. L. 94–273][/us/pl/94/273], § 3(2), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 105–185, title I][/us/pl/105/185/tI], § 103(f)(2), title II, § 202(b), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 532; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7202, May 13, 2002, [116 Stat. 437][/us/stat/116/437].)
 
  __Codification__ 
 
@@ -79,9 +79,9 @@
 
     2002—Subsec. (c). [Pub. L. 107–171][/us/pl/107/171] added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.”
 
-    1998—[Pub. L. 105–185, § 202(b)][/us/pl/105/185/s202/b], inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-    [Pub. L. 105–185, § 103(f)(2)][/us/pl/105/185/s103/f/2], struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
+    [Pub. L. 105–185][/us/pl/105/185], § 103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
 
     1976—[Pub. L. 94–273][/us/pl/94/273] substituted “October” for “July” in second par.
 
@@ -106,23 +106,23 @@
 
 [/us/usc/t7/s361c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c%2Fc
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
-[/us/act/1887-03-02/ch314/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314%2Fs7
+[/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
 [/us/stat/24/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F441
-[/us/act/1955-08-11/ch790/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790%2Fs1
+[/us/act/1955-08-11/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790
 [/us/stat/69/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F673
-[/us/pl/86/533/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F22
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F249
-[/us/pl/94/273/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs3%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F376
-[/us/pl/105/185/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F2
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F528
-[/us/pl/107/171/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7202
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F437
 [/us/usc/t7/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs379
 [/us/usc/t7/s361h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361h
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/105/185/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs202%2Fb
-[/us/pl/105/185/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F2
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/usc/t7/s361h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361h

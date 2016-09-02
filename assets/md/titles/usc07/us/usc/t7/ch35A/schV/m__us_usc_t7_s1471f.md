@@ -17,7 +17,7 @@
 
     The Secretary shall carry out this subchapter through the use of the funds, facilities, and authorities of the Commodity Credit Corporation.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 608, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 608, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F930
 [/us/pl/100/387/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc%2F1
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427

@@ -17,7 +17,7 @@
 
     If the farmer is dissatisfied with the determination of the review committee, he may, within fifteen days after a notice of such determination is mailed to him by registered mail or by certified mail, file a bill in equity against the review committee as defendant in the United States district court, or institute proceedings for review in any court of record of the State having general jurisdiction, sitting in the county or the district in which his farm is located, for the purpose of obtaining a review of such determination. Bond shall be given in an amount and with surety satisfactory to the court to secure the United States for the costs of the proceeding. The bill of complaint in such proceeding may be served by delivering a copy thereof to any one of the members of the review committee. Thereupon the review committee shall certify and file in the court a transcript of the record upon which the determination complained of was made, together with its findings of fact.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 365, [52 Stat. 63][/us/stat/52/63]; [Pub. L. 86–507, § 1(5)][/us/pl/86/507/s1/5], June 11, 1960, [74 Stat. 200][/us/stat/74/200].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 365, [52 Stat. 63][/us/stat/52/63]; [Pub. L. 86–507][/us/pl/86/507], § 1(5), June 11, 1960, [74 Stat. 200][/us/stat/74/200].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F63
-[/us/pl/86/507/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F5
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F200
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 

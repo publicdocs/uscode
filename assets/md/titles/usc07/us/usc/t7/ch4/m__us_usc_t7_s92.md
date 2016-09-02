@@ -41,7 +41,7 @@
 
     (l) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
 
-([Mar. 3, 1923, ch. 217, § 2][/us/act/1923-03-03/ch217/s2], [42 Stat. 1435][/us/stat/42/1435].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 2, [42 Stat. 1435][/us/stat/42/1435].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-03/ch217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs2
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1435
 
 

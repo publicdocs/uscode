@@ -197,19 +197,19 @@
 
         No intermediate handler or carrier involved in the transportation of any animal in commerce shall participate in any arrangement or engage in any practice under which the cost of such animal or the cost of the transportation of such animal is to be paid and collected upon delivery of the animal to the consignee, unless the consignor guarantees in writing the payment of transportation charges for any animal not claimed within a period of 48 hours after notice to the consignee of arrival of the animal, including, where necessary, both the return transportation charges and an amount sufficient to reimburse the carrier for all out-of-pocket expenses incurred for the care, feeding, and storage of such animals.
 
-([Pub. L. 89–544, § 13][/us/pl/89/544/s13], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579, § 14][/us/pl/91/579/s14], Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279][/us/pl/94/279], §§ 9, 10, Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418], 419; [Pub. L. 99–198, title XVII, § 1752][/us/pl/99/198/s1752], Dec. 23, 1985, [99 Stat. 1645][/us/stat/99/1645].)
+([Pub. L. 89–544][/us/pl/89/544], § 13, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579][/us/pl/91/579], § 14, Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279][/us/pl/94/279], §§ 9, 10, Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418], 419; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1752, Dec. 23, 1985, [99 Stat. 1645][/us/stat/99/1645].)
 
  __Amendments__ 
 
-    1985—Subsec. (a)(1) to (3). [Pub. L. 99–198, § 1752(a)(2)][/us/pl/99/198/s1752/a/2], substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: “The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals.”
+    1985—Subsec. (a)(1) to (3). [Pub. L. 99–198][/us/pl/99/198], § 1752(a)(2), substituted pars. (1) to (3) for first two sentences of subsec. (a) which read as follows: “The Secretary shall promulgate standards to govern the humane handling, care, treatment, and transportation of animals by dealers, research facilities, and exhibitors. Such standards shall include minimum requirements with respect to handling, housing, feeding, watering, sanitation, ventilation, shelter from extremes of weather and temperatures, adequate veterinary care, including the appropriate use of anesthetic, analgesic or tranquilizing drugs, when such use would be proper in the opinion of the attending veterinarian of such research facilities, and separation by species when the Secretary finds such separation necessary for the humane handling, care, or treatment of animals.”
 
-    Subsec. (a)(4) to (8). [Pub. L. 99–198, § 1752(b)][/us/pl/99/198/s1752/b], designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: “Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: Provided, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation.”
+    Subsec. (a)(4) to (8). [Pub. L. 99–198][/us/pl/99/198], § 1752(b), designated third and fourth sentences of subsec. (a) as par. (4), designated fifth sentence of subsec. (a) as par. (5), and substituted pars. (6) to (8) for last sentence of subsec. (a) which read as follows: “Nothing in this chapter shall be construed as authorizing the Secretary to promulgate rules, regulations, or orders with regard to design, outlines, guidelines, or performance of actual research or experimentation by a research facility as determined by such research facility: Provided, That the Secretary shall require, at least annually, every research facility to show that professionally acceptable standards governing the care, treatment, and use of animals, including appropriate use of anesthetic, analgesic, and tranquilizing drugs, during experimentation are being followed by the research facility during actual research or experimentation.”
 
-    Subsecs. (b) to (h). [Pub. L. 99–198, § 1752(a)(1)][/us/pl/99/198/s1752/a/1], (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
+    Subsecs. (b) to (h). [Pub. L. 99–198][/us/pl/99/198], § 1752(a)(1), (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
 
-    1976—Subsec. (a). [Pub. L. 94–279, § 9][/us/pl/94/279/s9], designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules and regulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
+    1976—Subsec. (a). [Pub. L. 94–279][/us/pl/94/279], § 9, designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules and regulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
 
-    Subsecs. (b) to (d). [Pub. L. 94–279, § 10][/us/pl/94/279/s10], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 94–279][/us/pl/94/279], § 10, added subsecs. (b) to (d).
 
     1970—[Pub. L. 91–579][/us/pl/91/579] added exhibitors to the enumeration of persons to be governed by promulgated standards, added handling to the enumeration of activities covered, expanded existing standard for adequate veterinary care to include the appropriate use of anesthetic, analgesic, or tranquilizing drugs by research facilities when the use of such drugs is considered proper in the opinion of the attending veterinarian at such research facility, directed the Secretary to consult outside consultants and experts in promulgating standards, and inserted requirement of an annual report.
 
@@ -229,19 +229,19 @@
 ----------
 
 [/us/usc/t7/s2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2140
-[/us/pl/89/544/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs13
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
-[/us/pl/91/579/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs14
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1562
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F418
-[/us/pl/99/198/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1752
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1645
-[/us/pl/99/198/s1752/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1752%2Fa%2F2
-[/us/pl/99/198/s1752/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1752%2Fb
-[/us/pl/99/198/s1752/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1752%2Fa%2F1
-[/us/pl/94/279/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs9
-[/us/pl/94/279/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs10
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1759

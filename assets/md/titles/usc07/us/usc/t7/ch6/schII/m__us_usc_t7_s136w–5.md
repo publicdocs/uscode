@@ -17,7 +17,7 @@
 
     Each State may establish minimum requirements for training of maintenance applicators and service technicians. Such training may include instruction in the safe and effective handling and use of pesticides in accordance with the Environmental Protection Agency approved labeling, and instruction in integrated pest management techniques. The authority of the Administrator with respect to minimum requirements for training of maintenance applicators and service technicians shall be limited to ensuring that each State understands the provisions of this section.
 
-([June 25, 1947, ch. 125, § 30][/us/act/1947-06-25/ch125/s30], as added [Pub. L. 104–170, title I, § 121(2)][/us/pl/104/170/s121/2], Aug. 3, 1996, [110 Stat. 1492][/us/stat/110/1492].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 30, as added [Pub. L. 104–170, title I][/us/pl/104/170/tI], § 121(2), Aug. 3, 1996, [110 Stat. 1492][/us/stat/110/1492].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs30
-[/us/pl/104/170/s121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs121%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/104/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtI
 [/us/stat/110/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1492
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/usc/t7/s136x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136x

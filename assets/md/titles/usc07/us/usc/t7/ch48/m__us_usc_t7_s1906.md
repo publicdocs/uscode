@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to prohibit, abridge, or in any way hinder the religious freedom of any person or group. Notwithstanding any other provision of this chapter, in order to protect freedom of religion, ritual slaughter and the handling or other preparation of livestock for ritual slaughter are exempted from the terms of this chapter. For the purposes of this section the term “ritual slaughter” means slaughter in accordance with [section 1902(b) of this title][/us/usc/t7/s1902/b].
 
-([Pub. L. 85–765, § 6][/us/pl/85/765/s6], Aug. 27, 1958, [72 Stat. 864][/us/stat/72/864].)
+([Pub. L. 85–765][/us/pl/85/765], § 6, Aug. 27, 1958, [72 Stat. 864][/us/stat/72/864].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s1902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1902%2Fb
-[/us/pl/85/765/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765%2Fs6
+[/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F864
 
 

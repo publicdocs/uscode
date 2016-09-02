@@ -17,7 +17,7 @@
 
     Such mineral interests shall be sold only to private persons who shall apply therefor and who at the time of application are the owners of the surface of the land covered by the application. Applicants shall establish their title to the surface of the land covered by the application to the satisfaction of the Secretary at their own expense. Conveyances of mineral interests shall be by quitclaim deed executed by the Secretary or his delegate.
 
-([Sept. 6, 1950, ch. 897, § 2][/us/act/1950-09-06/ch897/s2], [64 Stat. 769][/us/stat/64/769].)
+([Sept. 6, 1950, ch. 897][/us/act/1950-09-06/ch897], § 2, [64 Stat. 769][/us/stat/64/769].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-06/ch897/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897%2Fs2
+[/us/act/1950-09-06/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897
 [/us/stat/64/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F769
 
 

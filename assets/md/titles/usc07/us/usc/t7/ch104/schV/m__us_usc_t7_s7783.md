@@ -97,7 +97,7 @@
 
         The Secretary shall give special consideration to States with approved weed management entities established by Indian Tribes and may provide an additional allocation to a State to meet the particular needs and projects that the weed management entity plans to address.
 
-([Pub. L. 106–224, title IV, § 454][/us/pl/106/224/s454], as added [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2321][/us/stat/118/2321].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 454, as added [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2321][/us/stat/118/2321].)
 
 ----------
 
@@ -106,8 +106,8 @@
 ----------
 ----------
 
-[/us/pl/106/224/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs454
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2321
 
 

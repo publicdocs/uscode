@@ -445,7 +445,7 @@
 
         The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1205\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–82.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title XII, § 1205\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–82.)
 
  __References in Text__ 
 
@@ -470,7 +470,7 @@
 [/us/usc/t7/s7805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7805
 [/us/usc/t7/s7803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7803
 [/us/usc/t7/s7805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7805
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1032

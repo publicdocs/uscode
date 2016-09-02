@@ -179,7 +179,7 @@
 
         The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 13⁄32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
 
-([Pub. L. 113–79, title I, § 1111][/us/pl/113/79/s1111], Feb. 7, 2014, [128 Stat. 659][/us/stat/128/659].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1111, Feb. 7, 2014, [128 Stat. 659][/us/stat/128/659].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 
  __Popcorn Acreage__ 
 
-[Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], as amended by [Pub. L. 113–79, title I, § 1609(c)][/us/pl/113/79/s1609/c], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], provided that: 
+[Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 767, Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], as amended by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(c), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], provided that: 
 
 > “Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 \[[7 U.S.C. 9011][/us/usc/t7/s9011] et seq.\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: Provided, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: Provided further, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.”
 
@@ -219,15 +219,15 @@
 [/us/usc/t7/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9016
 [/us/usc/t7/s9017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9017
 [/us/usc/t7/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1502%2Fb
-[/us/pl/113/79/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1111
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F659
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
-[/us/pl/108/7/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs767
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F48
-[/us/pl/113/79/s1609/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fc
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9011
 

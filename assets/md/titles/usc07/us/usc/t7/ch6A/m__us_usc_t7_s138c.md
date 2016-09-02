@@ -43,7 +43,7 @@
 
         The Secretary shall ensure that performance evaluation samples for analysis are provided to laboratories accredited under this chapter not less than two times a year.
 
-([Pub. L. 101–624, title XIII, § 1324][/us/pl/101/624/s1324], Nov. 28, 1990, [104 Stat. 3564][/us/stat/104/3564].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1324, Nov. 28, 1990, [104 Stat. 3564][/us/stat/104/3564].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t7/s138a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs138a
-[/us/pl/101/624/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1324
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3564
 
 

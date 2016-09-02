@@ -31,7 +31,7 @@
 
         To carry out the purposes of subsection (a), the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to [section 1391 of this title][/us/usc/t7/s1391], or section 590o of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
 
-    (e) __Repealed.__  __[__  __Aug. 30, 1954, ch. 1076, § 1(3)__  __][/us/act/1954-08-30/ch1076/s1/3]__  __,__  __[__  __68 Stat. 966__  __][/us/stat/68/966]__ 
+    (e) __Repealed.__  __[__  __Aug. 30, 1954, ch. 1076__  __][/us/act/1954-08-30/ch1076]__  __, § 1(3),__  __[__  __68 Stat. 966__  __][/us/stat/68/966]__ 
 
     (f) __Appropriation to Secretary of Commerce__ 
 
@@ -41,7 +41,7 @@
 
         It shall be the duty of the Secretary to use available funds to stimulate and widen the use of all farm commodities in the United States and to increase in every practical way the flow of such commodities and the products thereof into the markets of the world.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title II, § 202, [52 Stat. 37][/us/stat/52/37]; [Aug. 30, 1954, ch. 1076, § 1(3)][/us/act/1954-08-30/ch1076/s1/3], [68 Stat. 966][/us/stat/68/966].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title II, § 202, [52 Stat. 37][/us/stat/52/37]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(3), [68 Stat. 966][/us/stat/68/966].)
 
  __Amendments__ 
 
@@ -63,12 +63,12 @@
 ----------
 
 [/us/usc/t7/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1391
-[/us/act/1954-08-30/ch1076/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F3
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F966
 [/us/usc/t7/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1391
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F37
-[/us/act/1954-08-30/ch1076/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F3
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F966
 [/us/pl/91/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F430
 [/us/stat/84/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F885

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this subpart, no farm marketing quota for any crop of wheat shall be applicable to any farm with a farm acreage allotment of less than fifteen acres if the acreage of such crop of wheat does not exceed the small-farm base acreage determined for the farm, unless the operator elects in writing on a form and within the time prescribed by the Secretary to be subject to the farm acreage allotment and marketing quota. The small-farm base acreage for a farm shall be the smaller of (A) the average acreage of the crop of wheat planted for harvest in the three years 1959, 1960, and 1961, or such later three-year period, excluding 1963, determined by the Secretary to be representative, with adjustments for abnormal weather conditions, established crop-rotation practices on the farm, and such other factors as the Secretary determines should be considered for the purpose of establishing a fair and equitable small-farm base acreage, or (B) fifteen acres. The acreage allotment for any farm shall be the larger of (1) the small-farm base acreage determined as provided above on the basis of the three-year period 1959–1961, reduced by the same percentage by which the national acreage allotment for the crop is reduced below fifty-five million acres, or (2) the acreage allotment determined without regard to (1) above. If the operator of any such farm fails to make such election with respect to any crop of wheat, (i) for the purposes of [section 1340 of this title][/us/usc/t7/s1340], the farm acreage allotment for such crop of wheat shall be deemed to be the larger of (A) the small-farm base acreage or (B) the acreage allotment for the farm, (ii) the land-use provisions of [section 1339 of this title][/us/usc/t7/s1339] shall be inapplicable to the farm, (iii) such crop of wheat shall not be eligible for price support, and (iv) wheat marketing certificates applicable to such crop shall not be issued with respect to the farm. The additional acreage required to provide acreage allotments for farms based upon small-farm base acreages under this section shall be in addition to National, State, and county acreage allotments. This section shall not be applicable to the crops planted for harvest in 1967 and subsequent years.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 335, [52 Stat. 54][/us/stat/52/54]; [July 26, 1939, ch. 379][/us/act/1939-07-26/ch379], [53 Stat. 1126][/us/stat/53/1126]; [June 6, 1940, ch. 237][/us/act/1940-06-06/ch237], [54 Stat. 232][/us/stat/54/232]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, §§ 204(a), [62 Stat. 1256][/us/stat/62/1256]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 309, [68 Stat. 903][/us/stat/68/903]; [Pub. L. 85–203, § 1][/us/pl/85/203/s1], Aug. 28, 1957, [71 Stat. 477][/us/stat/71/477]; [Pub. L. 87–128, title I, § 122(e)][/us/pl/87/128/s122/e], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–703, title III, § 315][/us/pl/87/703/s315], Sept. 27, 1962, [76 Stat. 621][/us/stat/76/621]; [Pub. L. 89–321, title V, § 501(8)][/us/pl/89/321/s501/8], Nov. 3, 1965, [79 Stat. 1201][/us/stat/79/1201]; [Pub. L. 99–198, title III, § 305][/us/pl/99/198/s305], Dec. 23, 1985, [99 Stat. 1380][/us/stat/99/1380].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 335, [52 Stat. 54][/us/stat/52/54]; [July 26, 1939, ch. 379][/us/act/1939-07-26/ch379], [53 Stat. 1126][/us/stat/53/1126]; [June 6, 1940, ch. 237][/us/act/1940-06-06/ch237], [54 Stat. 232][/us/stat/54/232]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, §§ 204(a), [62 Stat. 1256][/us/stat/62/1256]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 309, [68 Stat. 903][/us/stat/68/903]; [Pub. L. 85–203][/us/pl/85/203], § 1, Aug. 28, 1957, [71 Stat. 477][/us/stat/71/477]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 122(e), Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 315, Sept. 27, 1962, [76 Stat. 621][/us/stat/76/621]; [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 501(8), Nov. 3, 1965, [79 Stat. 1201][/us/stat/79/1201]; [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 305, Dec. 23, 1985, [99 Stat. 1380][/us/stat/99/1380].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title III, § 305][/us/pl/99/198/s305], Dec. 23, 1985, [99 Stat. 1380][/us/stat/99/1380], provided that the amendment made by [Pub. L. 99–198][/us/pl/99/198] is effective only for the 1987 through 1990 crops of wheat.
+    [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 305, Dec. 23, 1985, [99 Stat. 1380][/us/stat/99/1380], provided that the amendment made by [Pub. L. 99–198][/us/pl/99/198] is effective only for the 1987 through 1990 crops of wheat.
 
  __Effective Date of 1965 Amendment__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-    [Pub. L. 87–128, title I, § 122(e)][/us/pl/87/128/s122/e], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], provided that the amendment made by [Pub. L. 87–128][/us/pl/87/128] is effective with the 1962 crop of wheat.
+    [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 122(e), Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], provided that the amendment made by [Pub. L. 87–128][/us/pl/87/128] is effective with the 1962 crop of wheat.
 
  __Effective Date of 1948 Amendment__ 
 
@@ -77,7 +77,7 @@
 
     Section inapplicable to 1978 through 1981 crops of wheat, see [section 404 of Pub. L. 95–113][/us/pl/95/113/s404], set out as a note under [section 1331 of this title][/us/usc/t7/s1331].
 
-    [Pub. L. 91–524, title IV, § 404(1)][/us/pl/91/524/s404/1], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(1), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 ----------
 
@@ -98,15 +98,15 @@
 [/us/stat/62/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1256
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F903
-[/us/pl/85/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203%2Fs1
+[/us/pl/85/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203
 [/us/stat/71/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F477
-[/us/pl/87/128/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs122%2Fe
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
-[/us/pl/87/703/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs315
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F621
-[/us/pl/89/321/s501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F8
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1201
-[/us/pl/99/198/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs305
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1380
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
@@ -114,7 +114,7 @@
 [/us/usc/t7/s1334b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1334b
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/pl/85/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203
-[/us/pl/99/198/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs305
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1380
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
@@ -123,7 +123,7 @@
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/703/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs323
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301
-[/us/pl/87/128/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs122%2Fe
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301
@@ -139,9 +139,9 @@
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
 [/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/91/524/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F1
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 
 

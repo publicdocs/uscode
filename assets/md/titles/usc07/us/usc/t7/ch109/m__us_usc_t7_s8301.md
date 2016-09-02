@@ -51,7 +51,7 @@
 
             (iii) to protect the agriculture, environment, economy, and health and welfare of the people of the United States.
 
-([Pub. L. 107–171, title X, § 10402][/us/pl/107/171/s10402], May 13, 2002, [116 Stat. 494][/us/stat/116/494].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10402, May 13, 2002, [116 Stat. 494][/us/stat/116/494].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Short Title__ 
 
-[Pub. L. 107–171, title X, § 10401][/us/pl/107/171/s10401], May 13, 2002, [116 Stat. 494][/us/stat/116/494], provided that: 
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10401, May 13, 2002, [116 Stat. 494][/us/stat/116/494], provided that: 
 
 > “This subtitle \[subtitle E (§§ 10401–10418) of title X of [Pub. L. 107–171][/us/pl/107/171], enacting this chapter, amending sections 7714 and 7733 of this title, [section 1540 of Title 16][/us/usc/t16/s1540], Conservation, and sections 136a and 618 of Title 21, Food and Drugs, and repealing sections 429, 2260, 2260a of this title, [section 1306 of Title 19][/us/usc/t19/s1306], Customs Duties, sections 102 to 105, 111, 112, 113, 114 to 114d–1, 114e to 114h, 115 to 131, 134 to 135b, 612 to 614 of Title 21, sections 3901 and 3902 of Title 46, Shipping, and provisions set out as a note under [section 129a of Title 21][/us/usc/t21/s129a]\] may be cited as the ‘Animal Health Protection Act’.”
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10402
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
-[/us/pl/107/171/s10401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10401
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t16/s1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540

@@ -129,7 +129,7 @@
 
         Except in the case of double cropping described in subsection (d), if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under [section 7333 of this title][/us/usc/t7/s7333], for the subsequent crop.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508A, as added [Pub. L. 106–224, title I, § 108][/us/pl/106/224/s108], June 20, 2000, [114 Stat. 368][/us/stat/114/368]; amended [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508A, as added [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 108, June 20, 2000, [114 Stat. 368][/us/stat/114/368]; amended [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c)(2)(B), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __Codification__ 
 
@@ -137,11 +137,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1508a, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508A, as added Aug. 14, 1989, [Pub. L. 101–82, title VI, § 604][/us/pl/101/82/s604], [103 Stat. 587][/us/stat/103/587]; amended Aug. 10, 1993, [Pub. L. 103–66, title XIV, § 1403(b)(3)][/us/pl/103/66/s1403/b/3], [107 Stat. 334][/us/stat/107/334], related to crop insurance yield coverage, prior to repeal by [Pub. L. 103–354, title I][/us/pl/103/354], §§ 107, 120, Oct. 13, 1994, [108 Stat. 3197][/us/stat/108/3197], 3208, effective Oct. 13, 1994, and applicable to provision of crop insurance beginning with 1995 crop year.
+    A prior section 1508a, [act Feb. 16, 1938, ch. 30, title V][/us/act/1938-02-16/ch30/tV], § 508A, as added Aug. 14, 1989, [Pub. L. 101–82, title VI][/us/pl/101/82/tVI], § 604, [103 Stat. 587][/us/stat/103/587]; amended Aug. 10, 1993, [Pub. L. 103–66, title XIV][/us/pl/103/66/tXIV], § 1403(b)(3), [107 Stat. 334][/us/stat/107/334], related to crop insurance yield coverage, prior to repeal by [Pub. L. 103–354, title I][/us/pl/103/354/tI], §§ 107, 120, Oct. 13, 1994, [108 Stat. 3197][/us/stat/108/3197], 3208, effective Oct. 13, 1994, and applicable to provision of crop insurance beginning with 1995 crop year.
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -160,24 +160,24 @@
 
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/106/224/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs108
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F368
-[/us/pl/110/234/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/82/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs604
+[/us/act/1938-02-16/ch30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtV
+[/us/pl/101/82/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtVI
 [/us/stat/103/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F587
-[/us/pl/103/66/s1403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fb%2F3
+[/us/pl/103/66/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIV
 [/us/stat/107/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F334
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3197
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

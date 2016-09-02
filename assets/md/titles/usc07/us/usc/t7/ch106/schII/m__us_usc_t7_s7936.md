@@ -69,7 +69,7 @@
 
         A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.) or noninsured crop assistance under [section 7333 of this title][/us/usc/t7/s7333].
 
-([Pub. L. 107–171, title I, § 1206][/us/pl/107/171/s1206], May 13, 2002, [116 Stat. 159][/us/stat/116/159].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1206, May 13, 2002, [116 Stat. 159][/us/stat/116/159].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 [/us/usc/t7/s7935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7935
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
-[/us/pl/107/171/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1206
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F159
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155

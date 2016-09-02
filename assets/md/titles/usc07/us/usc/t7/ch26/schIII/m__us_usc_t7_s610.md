@@ -63,19 +63,19 @@
 
         The term “interstate or foreign commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia. For the purpose of this chapter (but in nowise limiting the foregoing definition) a marketing transaction in respect to an agricultural commodity or the product thereof shall be considered in interstate or foreign commerce if such commodity or product is part of that current of interstate or foreign commerce usual in the handling of the commodity or product whereby they, or either of them, are sent from one State to end their transit, after purchase, in another, including all cases where purchase or sale is either for shipment to another State or for the processing within the State and the shipment outside the State of the products so processed. Agricultural commodities or products thereof normally in such current of interstate or foreign commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of said sections. As used herein, the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nations.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 10, [48 Stat. 37][/us/stat/48/37]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title VIII, § 86, [48 Stat. 273][/us/stat/48/273]; [May 9, 1934, ch. 263, § 7][/us/act/1934-05-09/ch263/s7], [48 Stat. 675][/us/stat/48/675]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 16–18, [49 Stat. 767][/us/stat/49/767]; [Aug. 26, 1935, ch. 685][/us/act/1935-08-26/ch685], [49 Stat. 801][/us/stat/49/801]; [June 22, 1936, ch. 690, § 601(a)][/us/act/1936-06-22/ch690/s601/a], [49 Stat. 1739][/us/stat/49/1739]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(g)–(i), [50 Stat. 246][/us/stat/50/246], 248; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7817, [60 Stat. 1352][/us/stat/60/1352]; [Aug. 1, 1947, ch. 425, § 3][/us/act/1947-08-01/ch425/s3], [61 Stat. 709][/us/stat/61/709]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 10, [48 Stat. 37][/us/stat/48/37]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title VIII, § 86, [48 Stat. 273][/us/stat/48/273]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], § 7, [48 Stat. 675][/us/stat/48/675]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 16–18, [49 Stat. 767][/us/stat/49/767]; [Aug. 26, 1935, ch. 685][/us/act/1935-08-26/ch685], [49 Stat. 801][/us/stat/49/801]; [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], § 601(a), [49 Stat. 1739][/us/stat/49/1739]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(g)–(i), [50 Stat. 246][/us/stat/50/246], 248; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7817, [60 Stat. 1352][/us/stat/60/1352]; [Aug. 1, 1947, ch. 425][/us/act/1947-08-01/ch425], § 3, [61 Stat. 709][/us/stat/61/709]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972].)
 
  __References in Text__ 
 
-    Section 8 of title II of the Act entitled “An Act to maintain the credit of the United States Government,”, referred to in subsec. (a), means [act Mar. 20, 1933, ch. 3][/us/act/1933-03-20/ch3], title II, § 8, [48 Stat. 15][/us/stat/48/15], which is not classified to the Code.
+    Section 8 of title II of the Act entitled “An Act to maintain the credit of the United States Government,”, referred to in subsec. (a), means [act Mar. 20, 1933, ch. 3, title II][/us/act/1933-03-20/ch3/tII], § 8, [48 Stat. 15][/us/stat/48/15], which is not classified to the Code.
 
     For definition of Canal Zone, referred to in subsec. (f), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
  __Codification__ 
 
-    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Provisions of subsec. (a), which authorized appointment of officers and employees without regard to the civil-service laws and regulations and which limited the maximum salary payable to any officer or employee to not more than $10,000 per annum, were omitted from the Code as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to [act Nov. 26, 1940, ch. 919][/us/act/1940-11-26/ch919], title I, § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301].
+    Provisions of subsec. (a), which authorized appointment of officers and employees without regard to the civil-service laws and regulations and which limited the maximum salary payable to any officer or employee to not more than $10,000 per annum, were omitted from the Code as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to [act Nov. 26, 1940, ch. 919, title I][/us/act/1940-11-26/ch919/tI], § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301].
 
     The salary limitation was superseded by the Classification Act of 1949.
 
@@ -127,7 +127,7 @@
 
  __Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon__ 
 
-    Acts [June 25, 1938, ch. 681][/us/act/1938-06-25/ch681], [52 Stat. 1150][/us/stat/52/1150]; [May 6, 1939, ch. 115, § 1][/us/act/1939-05-06/ch115/s1], [53 Stat. 661][/us/stat/53/661], 662; [Feb. 12, 1940, ch. 28, § 1][/us/act/1940-02-12/ch28/s1], [54 Stat. 36][/us/stat/54/36]; [Mar. 25, 1940, ch. 71][/us/act/1940-03-25/ch71], title I, [54 Stat. 61][/us/stat/54/61]; [May 31, 1941, ch. 156][/us/act/1941-05-31/ch156], title I, § 1, [55 Stat. 218][/us/stat/55/218]; [Mar. 10, 1942, ch. 178][/us/act/1942-03-10/ch178], title I, § 1, [56 Stat. 156][/us/stat/56/156]; [June 30, 1943, ch. 179][/us/act/1943-06-30/ch179], title I, [57 Stat. 257][/us/stat/57/257]; [Apr. 22, 1944, ch. 175][/us/act/1944-04-22/ch175], title I, § 1, [58 Stat. 201][/us/stat/58/201]; [Apr. 24, 1945, ch. 92][/us/act/1945-04-24/ch92], title I, [59 Stat. 62][/us/stat/59/62]; [July 20, 1946, ch. 588][/us/act/1946-07-20/ch588], title I, [60 Stat. 574][/us/stat/60/574].
+    Acts [June 25, 1938, ch. 681][/us/act/1938-06-25/ch681], [52 Stat. 1150][/us/stat/52/1150]; [May 6, 1939, ch. 115][/us/act/1939-05-06/ch115], § 1, [53 Stat. 661][/us/stat/53/661], 662; [Feb. 12, 1940, ch. 28][/us/act/1940-02-12/ch28], § 1, [54 Stat. 36][/us/stat/54/36]; [Mar. 25, 1940, ch. 71][/us/act/1940-03-25/ch71], title I, [54 Stat. 61][/us/stat/54/61]; [May 31, 1941, ch. 156][/us/act/1941-05-31/ch156], title I, § 1, [55 Stat. 218][/us/stat/55/218]; [Mar. 10, 1942, ch. 178][/us/act/1942-03-10/ch178], title I, § 1, [56 Stat. 156][/us/stat/56/156]; [June 30, 1943, ch. 179][/us/act/1943-06-30/ch179], title I, [57 Stat. 257][/us/stat/57/257]; [Apr. 22, 1944, ch. 175][/us/act/1944-04-22/ch175], title I, § 1, [58 Stat. 201][/us/stat/58/201]; [Apr. 24, 1945, ch. 92][/us/act/1945-04-24/ch92], title I, [59 Stat. 62][/us/stat/59/62]; [July 20, 1946, ch. 588][/us/act/1946-07-20/ch588], title I, [60 Stat. 574][/us/stat/60/574].
 
  __Ex. Ord. No. 10199. Regulations Without Approval of President__ 
 
@@ -153,27 +153,27 @@
 [/us/stat/48/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F37
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F273
-[/us/act/1934-05-09/ch263/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263%2Fs7
+[/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F675
 [/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F767
 [/us/act/1935-08-26/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch685
 [/us/stat/49/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F801
-[/us/act/1936-06-22/ch690/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690%2Fs601%2Fa
+[/us/act/1936-06-22/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690
 [/us/stat/49/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1739
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1947-08-01/ch425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch425%2Fs3
+[/us/act/1947-08-01/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch425
 [/us/stat/61/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F709
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/act/1933-03-20/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-20%2Fch3
+[/us/act/1933-03-20/ch3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-20%2Fch3%2FtII
 [/us/stat/48/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F15
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/act/1940-11-26/ch919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919
+[/us/act/1940-11-26/ch919/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2FtI
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
@@ -187,9 +187,9 @@
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/act/1938-06-25/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch681
 [/us/stat/52/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1150
-[/us/act/1939-05-06/ch115/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-06%2Fch115%2Fs1
+[/us/act/1939-05-06/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-06%2Fch115
 [/us/stat/53/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F661
-[/us/act/1940-02-12/ch28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-02-12%2Fch28%2Fs1
+[/us/act/1940-02-12/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-02-12%2Fch28
 [/us/stat/54/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F36
 [/us/act/1940-03-25/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-25%2Fch71
 [/us/stat/54/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F61

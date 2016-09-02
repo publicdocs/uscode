@@ -23,7 +23,7 @@
 
         Subsection (a) shall not apply to a grant awarded competitively under [section 638 of title 15][/us/usc/t15/s638].
 
-([Pub. L. 95–113, title XIV, § 1462][/us/pl/95/113/s1462], as added [Pub. L. 105–185, title II, § 230(a)][/us/pl/105/185/s230/a], June 23, 1998, [112 Stat. 546][/us/stat/112/546]; amended [Pub. L. 107–171, title VII, § 7222][/us/pl/107/171/s7222], May 13, 2002, [116 Stat. 454][/us/stat/116/454]; [Pub. L. 110–234, title VII, § 7132(a)][/us/pl/110/234/s7132/a], May 22, 2008, [122 Stat. 1228][/us/stat/122/1228]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7132(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1989.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1462, as added [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 230(a), June 23, 1998, [112 Stat. 546][/us/stat/112/546]; amended [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7222, May 13, 2002, [116 Stat. 454][/us/stat/116/454]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7132(a), May 22, 2008, [122 Stat. 1228][/us/stat/122/1228]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7132(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1989.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7132(a)][/us/pl/110/246/s7132/a], substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7132(a), substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -51,14 +51,14 @@
 ----------
 
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/95/113/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1462
-[/us/pl/105/185/s230/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs230%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F546
-[/us/pl/107/171/s7222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7222
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F454
-[/us/pl/110/234/s7132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7132%2Fa
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1228
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -67,7 +67,7 @@
 [/us/pl/95/113/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1462
 [/us/usc/t7/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3304
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/110/246/s7132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7132%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -281,7 +281,7 @@
 
         The Commission shall prescribe rules governing the regulation of alternative swap execution facilities under this section.
 
-([Sept. 21, 1922, ch. 369, § 5h][/us/act/1922-09-21/ch369/s5h], as added [Pub. L. 111–203, title VII, § 733][/us/pl/111/203/s733], July 21, 2010, [124 Stat. 1712][/us/stat/124/1712].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5h, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 733, July 21, 2010, [124 Stat. 1712][/us/stat/124/1712].)
 
  __Effective Date__ 
 
@@ -300,8 +300,8 @@
 [/us/usc/t7/s6a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6a%2Fa
 [/us/usc/t7/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F1
 [/us/usc/t7/s1a/47/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F47%2FA%2Fv
-[/us/act/1922-09-21/ch369/s5h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5h
-[/us/pl/111/203/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs733
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1712
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

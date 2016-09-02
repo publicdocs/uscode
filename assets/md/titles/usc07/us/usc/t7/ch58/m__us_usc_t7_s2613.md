@@ -17,7 +17,7 @@
 
     To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to handlers and importers and shall have authority to issue orders authorizing the collection of assessments on potatoes handled or imported under the provisions of this chapter, and to authorize the use of such funds to provide research, development, advertising, and promotion of potatoes in a manner prescribed in this chapter. Any order issued by the Secretary under this chapter shall hereinafter in this chapter be referred to as a “plan”. Any such plan shall be applicable to potatoes produced in the 50 States of the United States and in foreign countries, if importers are subject to a plan and such potatoes are imported into the United States.
 
-([Pub. L. 91–670, title III, § 304][/us/pl/91/670/s304], Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042]; [Pub. L. 101–624, title XIX, § 1938][/us/pl/101/624/s1938], Nov. 28, 1990, [104 Stat. 3866][/us/stat/104/3866].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 304, Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1938, Nov. 28, 1990, [104 Stat. 3866][/us/stat/104/3866].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/670/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs304
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2042
-[/us/pl/101/624/s1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1938
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3866
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

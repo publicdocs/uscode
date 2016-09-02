@@ -19,11 +19,11 @@
 
     (b) The term “sanitary container” means any container of such material and construction as (1) will not permit the infiltration of foreign matter into the contents of such container under ordinary conditions of shipping and handling, and (2) will not, for a period of at least one year, disintegrate so as to contaminate the contents of the container, necessitating the washing of the contents prior to use.
 
-([Pub. L. 86–341, title II, § 201][/us/pl/86/341/s201], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; [Pub. L. 87–803][/us/pl/87/803], Oct. 11, 1962, [76 Stat. 910][/us/stat/76/910]; [Pub. L. 106–78, title VII, § 752(b)(3)][/us/pl/106/78/s752/b/3], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
+([Pub. L. 86–341, title II][/us/pl/86/341/tII], § 201, Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; [Pub. L. 87–803][/us/pl/87/803], Oct. 11, 1962, [76 Stat. 910][/us/stat/76/910]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(3), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
 
  __References in Text__ 
 
-    [Section 1431(3) of this title][/us/usc/t7/s1431/3], referred to in subsec. (a), was redesignated as [section 1431(a)(3) of this title][/us/usc/t7/s1431/a/3] by [Pub. L. 98–258, title V, § 502(1)][/us/pl/98/258/s502/1], Apr. 10, 1984, [98 Stat. 137][/us/stat/98/137].
+    [Section 1431(3) of this title][/us/usc/t7/s1431/3], referred to in subsec. (a), was redesignated as [section 1431(a)(3) of this title][/us/usc/t7/s1431/a/3] by [Pub. L. 98–258, title V][/us/pl/98/258/tV], § 502(1), Apr. 10, 1984, [98 Stat. 137][/us/stat/98/137].
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
@@ -48,15 +48,15 @@
 
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/86/341/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs201
+[/us/pl/86/341/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtII
 [/us/stat/73/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F610
 [/us/pl/87/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F803
 [/us/stat/76/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F910
-[/us/pl/106/78/s752/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F3
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/usc/t7/s1431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2F3
 [/us/usc/t7/s1431/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fa%2F3
-[/us/pl/98/258/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs502%2F1
+[/us/pl/98/258/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2FtV
 [/us/stat/98/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F137
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

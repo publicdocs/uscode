@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of this chapter limiting the making and insuring of loans to citizens of the United States, the Secretary may make and insure loans under this chapter to aliens lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\]: Provided, That no loans may be made or insured under this chapter to such aliens until the Secretary issues regulations establishing the terms and conditions under which such aliens may receive loans: Provided further, That the Secretary shall submit the regulations to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at least thirty days prior to the date the regulations are published in the Federal Register.
 
-([Pub. L. 87–128, title III, § 348][/us/pl/87/128/s348], as added [Pub. L. 96–438, § 2(3)][/us/pl/96/438/s2/3], Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 348, as added [Pub. L. 96–438][/us/pl/96/438], § 2(3), Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872].)
 
  __References in Text__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/87/128/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs348
-[/us/pl/96/438/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs2%2F3
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1872
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477

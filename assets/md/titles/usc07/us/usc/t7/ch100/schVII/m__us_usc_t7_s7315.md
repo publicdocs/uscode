@@ -31,7 +31,7 @@
 
         The Secretary shall provide to the Commission appropriate office space and such reasonable administrative and support services as the Commission may request.
 
-([Pub. L. 104–127, title I, § 185][/us/pl/104/127/s185], Apr. 4, 1996, [110 Stat. 940][/us/stat/110/940].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 185, Apr. 4, 1996, [110 Stat. 940][/us/stat/110/940].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs185
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F940
 
 

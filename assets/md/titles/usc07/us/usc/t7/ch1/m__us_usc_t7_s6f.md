@@ -149,7 +149,7 @@
 
         (11) Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
 
-([Sept. 21, 1922, ch. 369, § 4f][/us/act/1922-09-21/ch369/s4f], as added [June 15, 1936, ch. 545, § 5][/us/act/1936-06-15/ch545/s5], [49 Stat. 1495][/us/stat/49/1495]; amended [Pub. L. 90–258, § 7][/us/pl/90/258/s7], Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405, § 5][/us/pl/95/405/s5], Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II, § 208][/us/pl/97/444/s208], Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 207(b)(1), 229, Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3619; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(6), title II, § 252(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407, 2763A–447; [Pub. L. 110–246, title XIII, § 13105(b)][/us/pl/110/246/s13105/b], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4f, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 5, [49 Stat. 1495][/us/stat/49/1495]; amended [Pub. L. 90–258][/us/pl/90/258], § 7, Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405][/us/pl/95/405], § 5, Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 208, Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 207(b)(1), 229, Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3619; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(6), title II, § 252(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407, 2763A–447; [Pub. L. 110–246, title XIII][/us/pl/110/246/tXIII], § 13105(b), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196.)
 
  __References in Text__ 
 
@@ -161,31 +161,31 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(4)(B)(i). [Pub. L. 110–246, § 13105(b)][/us/pl/110/246/s13105/b], substituted “complied” for “compiled”.
+    2008—Subsec. (c)(4)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 13105(b), substituted “complied” for “compiled”.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 252(b)\], designated existing provisions as par. (1) and added pars. (2) and (3).
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 252(b)\], designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (a)(4). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 252(c)\], added par. (4).
+    Subsec. (a)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 252(c)\], added par. (4).
 
-    Subsecs. (b), (c)(3)(B). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+    Subsecs. (b), (c)(3)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
 
     1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], §§ 207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 
-    Subsec. (b). [Pub. L. 102–546, § 229(1)][/us/pl/102/546/s229/1], (2), redesignated par. (2) as subsec. (b) and substituted “this subsection” for “this paragraph (2)”.
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 229(1), (2), redesignated par. (2) as subsec. (b) and substituted “this subsection” for “this paragraph (2)”.
 
-    Subsec. (c). [Pub. L. 102–546, § 229(3)][/us/pl/102/546/s229/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–546][/us/pl/102/546], § 229(3), added subsec. (c).
 
-    1983—Par. (1). [Pub. L. 97–444, § 208(1)][/us/pl/97/444/s208/1], made grammatical changes, made registration provisions applicable to introducing brokers, and substituted “revoked pursuant to the provisions of this chapter” for “revoked after notice and hearing as prescribed in this chapter”.
+    1983—Par. (1). [Pub. L. 97–444][/us/pl/97/444], § 208(1), made grammatical changes, made registration provisions applicable to introducing brokers, and substituted “revoked pursuant to the provisions of this chapter” for “revoked after notice and hearing as prescribed in this chapter”.
 
-    Par. (2). [Pub. L. 97–444, § 208(2)][/us/pl/97/444/s208/2], made financial requirements applicable to introducing brokers.
+    Par. (2). [Pub. L. 97–444][/us/pl/97/444], § 208(2), made financial requirements applicable to introducing brokers.
 
     1978—Par. (1). [Pub. L. 95–405][/us/pl/95/405] substituted “Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe” for “All registrations shall expire on the 31st day of December of the year for which issued”.
 
     1974—[Pub. L. 93–463][/us/pl/93/463] substituted “Commission” for “Secretary of Agriculture”.
 
-    1968—Par. (1). [Pub. L. 90–258, § 7(a)][/us/pl/90/258/s7/a], substituted “this chapter” for “[section 6g of this title][/us/usc/t7/s6g]”.
+    1968—Par. (1). [Pub. L. 90–258][/us/pl/90/258], § 7(a), substituted “this chapter” for “[section 6g of this title][/us/usc/t7/s6g]”.
 
-    Par. (2). [Pub. L. 90–258, § 7(b)][/us/pl/90/258/s7/b], substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
+    Par. (2). [Pub. L. 90–258][/us/pl/90/258], § 7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -243,24 +243,24 @@
 [/us/usc/t12/s3401/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F7
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/act/1922-09-21/ch369/s4f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4f
-[/us/act/1936-06-15/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1495
-[/us/pl/90/258/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs7
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F28
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/95/405/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs5
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F869
-[/us/pl/97/444/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs208
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2302
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3604
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/246/s13105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fb
+[/us/pl/110/246/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
@@ -268,20 +268,20 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s13105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fb
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/102/546/s229/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs229%2F1
-[/us/pl/102/546/s229/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs229%2F3
-[/us/pl/97/444/s208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs208%2F1
-[/us/pl/97/444/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs208%2F2
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
-[/us/pl/90/258/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs7%2Fa
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/usc/t7/s6g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6g
-[/us/pl/90/258/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs7%2Fb
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

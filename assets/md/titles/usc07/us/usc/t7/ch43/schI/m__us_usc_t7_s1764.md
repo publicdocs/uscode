@@ -27,13 +27,13 @@
 
         Upon the request of the Secretary of Agriculture, each Federal agency may make its services, personnel, and facilities available to officers and employees appointed and assigned to a post abroad under this subchapter in the performance of the functions of such officers and employees. The Secretary of Agriculture may reimburse or advance funds to any such agency for services, personnel, and facilities so made available.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 604, [68 Stat. 909][/us/stat/68/909]; [Pub. L. 95–501, title III, § 301(4)][/us/pl/95/501/s301/4], (6), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 604, [68 Stat. 909][/us/stat/68/909]; [Pub. L. 95–501, title III][/us/pl/95/501/tIII], § 301(4), (6), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688].)
 
  __Amendments__ 
 
-    1978—Subsecs. (a), (b). [Pub. L. 95–501, § 301(4)][/us/pl/95/501/s301/4], substituted “this subchapter” for “this chapter”.
+    1978—Subsecs. (a), (b). [Pub. L. 95–501][/us/pl/95/501], § 301(4), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (c). [Pub. L. 95–501, § 301(6)][/us/pl/95/501/s301/6], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–501][/us/pl/95/501], § 301(6), added subsec. (c).
 
 ----------
 
@@ -44,9 +44,9 @@
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F909
-[/us/pl/95/501/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F4
+[/us/pl/95/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIII
 [/us/stat/92/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1688
-[/us/pl/95/501/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F4
-[/us/pl/95/501/s301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F6
+[/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
+[/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 
 

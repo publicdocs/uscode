@@ -69,7 +69,7 @@
 
             The interest on, and the proceeds from the sale or redemption of, any obligations held in the Tobacco Trust Fund shall be credited to and form a part of the Fund.
 
-([Pub. L. 108–357, title VI, § 626][/us/pl/108/357/s626], Oct. 22, 2004, [118 Stat. 1533][/us/stat/118/1533].)
+([Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 626, Oct. 22, 2004, [118 Stat. 1533][/us/stat/118/1533].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t7/s518d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518d
 [/us/usc/t7/s519/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs519%2Fc
-[/us/pl/108/357/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs626
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1533
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c

@@ -17,7 +17,7 @@
 
     If a production or handling practice is not prohibited or otherwise restricted under this chapter, such practice shall be permitted unless it is determined that such practice would be inconsistent with the applicable organic certification program.
 
-([Pub. L. 101–624, title XXI, § 2113][/us/pl/101/624/s2113], Nov. 28, 1990, [104 Stat. 3943][/us/stat/104/3943].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2113, Nov. 28, 1990, [104 Stat. 3943][/us/stat/104/3943].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2113
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3943
 
 

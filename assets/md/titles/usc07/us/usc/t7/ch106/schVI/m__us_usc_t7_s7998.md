@@ -29,7 +29,7 @@
 
         (C) Agricultural commodities other than loan commodities.
 
-([Pub. L. 107–171, title I, § 1615][/us/pl/107/171/s1615], May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1615, May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1615
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F222
 
 

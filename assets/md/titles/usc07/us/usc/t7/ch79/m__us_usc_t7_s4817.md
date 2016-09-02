@@ -31,7 +31,7 @@
 
         This section shall apply only during a period beginning on the date of the commencement of the collection of assessments under [section 4809 of this title][/us/usc/t7/s4809] and ending on the date of the termination of the collection of assessments under section 4811(a)(3) or 4811(b)(1)(B)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section 4811(b)(2)(A) or 4812(b)(1)(B)”. </sup></sup>  of this title.
 
-([Pub. L. 99–198, title XVI, § 1628][/us/pl/99/198/s1628], Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1628, Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809
-[/us/pl/99/198/s1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1628
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1621
 
 

@@ -39,7 +39,7 @@
 
         Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.
 
-([Pub. L. 104–127, title I, § 136A][/us/pl/104/127/s136A], as added [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title I, § 104(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–291.)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 136A, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title I, § 104(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–291.)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/104/127/s136A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs136A
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

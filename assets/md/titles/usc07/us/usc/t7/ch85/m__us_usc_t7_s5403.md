@@ -53,13 +53,13 @@
 
         There are hereby authorized to be appropriated annually not to exceed $2,000,000 to carry out this chapter.
 
-([Pub. L. 101–624, title XIV, § 1473][/us/pl/101/624/s1473], Nov. 28, 1990, [104 Stat. 3620][/us/stat/104/3620]; [Pub. L. 102–237, title II, § 201(d)][/us/pl/102/237/s201/d], Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847].)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1473, Nov. 28, 1990, [104 Stat. 3620][/us/stat/104/3620]; [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 201(d), Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847].)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–237, § 201(d)(1)][/us/pl/102/237/s201/d/1], substituted “paragraph (2)” for “subparagraph (B)”.
+    1991—Subsec. (a)(1). [Pub. L. 102–237][/us/pl/102/237], § 201(d)(1), substituted “paragraph (2)” for “subparagraph (B)”.
 
-    Subsec. (a)(2). [Pub. L. 102–237, § 201(d)(2)][/us/pl/102/237/s201/d/2], substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 102–237][/us/pl/102/237], § 201(d)(2), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1473
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3620
-[/us/pl/102/237/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fd
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1847
-[/us/pl/102/237/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fd%2F1
-[/us/pl/102/237/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fd%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/102/237/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fb%2F1

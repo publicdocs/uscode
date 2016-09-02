@@ -17,7 +17,7 @@
 
     Cooperative agricultural extension work shall consist of the development of practical applications of research knowledge and giving of instruction and practical demonstrations of existing or improved practices or technologies in agriculture, uses of solar energy with respect to agriculture, home economics, and rural energy and subjects relating thereto to persons not attending or resident in said colleges in the several communities, and imparting information on said subjects through demonstrations, publications, and otherwise and for the necessary printing and distribution of information in connection with the foregoing; and this work shall be carried on in such manner as may be mutually agreed upon by the Secretary of Agriculture and the State agricultural college or colleges or Territory or possession receiving the benefits of this subchapter.
 
-([May 8, 1914, ch. 79, § 2][/us/act/1914-05-08/ch79/s2], [38 Stat. 373][/us/stat/38/373]; [June 26, 1953, ch. 157, § 1][/us/act/1953-06-26/ch157/s1], [67 Stat. 84][/us/stat/67/84]; [Pub. L. 87–749, § 1(a)][/us/pl/87/749/s1/a], Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 95–113, title XIV, § 1447(3)][/us/pl/95/113/s1447/3], Sept. 29, 1977, [91 Stat. 1011][/us/stat/91/1011]; [Pub. L. 96–294, title II, § 256(2)][/us/pl/96/294/s256/2], June 30, 1980, [94 Stat. 708][/us/stat/94/708]; [Pub. L. 99–198, title XIV, § 1435(a)][/us/pl/99/198/s1435/a], Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 2, [38 Stat. 373][/us/stat/38/373]; [June 26, 1953, ch. 157][/us/act/1953-06-26/ch157], § 1, [67 Stat. 84][/us/stat/67/84]; [Pub. L. 87–749][/us/pl/87/749], § 1(a), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1447(3), Sept. 29, 1977, [91 Stat. 1011][/us/stat/91/1011]; [Pub. L. 96–294, title II][/us/pl/96/294/tII], § 256(2), June 30, 1980, [94 Stat. 708][/us/stat/94/708]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1435(a), Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].)
 
  __Codification__ 
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/act/1914-05-08/ch79/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs2
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
 [/us/stat/38/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F373
-[/us/act/1953-06-26/ch157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157%2Fs1
+[/us/act/1953-06-26/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157
 [/us/stat/67/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F84
-[/us/pl/87/749/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fa
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/stat/76/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F745
-[/us/pl/95/113/s1447/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1447%2F3
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1011
-[/us/pl/96/294/s256/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs256%2F2
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F708
-[/us/pl/99/198/s1435/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1435%2Fa
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1557
 [/us/pl/95/113/s1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1447
 [/us/usc/t7/s3222b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222b

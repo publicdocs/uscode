@@ -17,7 +17,7 @@
 
     Loans made from or insured through the fund shall be for the same purposes and on the same terms and conditions as are provided for loans in subchapters I and II of this chapter except as otherwise provided in sections 933 to 938 inclusive. The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 309, as added [Pub. L. 93–32, § 2][/us/pl/93/32/s2], May 11, 1973, [87 Stat. 70][/us/stat/87/70]; amended [Pub. L. 101–624, title XXIII, § 2360][/us/pl/101/624/s2360], Nov. 28, 1990, [104 Stat. 4042][/us/stat/104/4042]; [Pub. L. 103–129, § 2(b)(2)][/us/pl/103/129/s2/b/2], Nov. 1, 1993, [107 Stat. 1363][/us/stat/107/1363]; [Pub. L. 104–127, title VII, § 779][/us/pl/104/127/s779], Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 309, as added [Pub. L. 93–32][/us/pl/93/32], § 2, May 11, 1973, [87 Stat. 70][/us/stat/87/70]; amended [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2360, Nov. 28, 1990, [104 Stat. 4042][/us/stat/104/4042]; [Pub. L. 103–129][/us/pl/103/129], § 2(b)(2), Nov. 1, 1993, [107 Stat. 1363][/us/stat/107/1363]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 779, Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/93/32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs2
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/101/624/s2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2360
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4042
-[/us/pl/103/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fb%2F2
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1363
-[/us/pl/104/127/s779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs779
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1151
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129

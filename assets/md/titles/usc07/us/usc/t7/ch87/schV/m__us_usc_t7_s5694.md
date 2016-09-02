@@ -23,19 +23,19 @@
 
         Notwithstanding any other provision of law, the Secretary of State shall, on the request of the Secretary of Agriculture, accord the diplomatic title of Minister-Counselor to the senior Service officer assigned to any United States mission abroad. The number of Service officers holding such diplomatic title at any time may not exceed twelve.
 
-([Pub. L. 95–501, title V, § 504][/us/pl/95/501/s504], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3686][/us/stat/104/3686].)
+([Pub. L. 95–501, title V][/us/pl/95/501/tV], § 504, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3686][/us/stat/104/3686].)
 
  __Prior Provisions__ 
 
 Provisions similar to those in subsec. (b) of this section appear in the following appropriation acts:
 
-    [Pub. L. 101–506, title IV][/us/pl/101/506], Nov. 5, 1990, [104 Stat. 1343][/us/stat/104/1343].
+    [Pub. L. 101–506, title IV][/us/pl/101/506/tIV], Nov. 5, 1990, [104 Stat. 1343][/us/stat/104/1343].
 
-    [Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title IV, § 401\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–350.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(k) \[title IV, § 401\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–350.
 
  __Language Proficiency and Evaluation of Foreign Agricultural Service Officers__ 
 
-[Pub. L. 101–624, title XV, § 1556][/us/pl/101/624/s1556], Nov. 28, 1990, [104 Stat. 3698][/us/stat/104/3698], as amended by [Pub. L. 104–127, title II, § 281(b)][/us/pl/104/127/s281/b], Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1556, Nov. 28, 1990, [104 Stat. 3698][/us/stat/104/3698], as amended by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 281(b), Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
 
 >     “(a)  __Assessment of Foreign Language Competence__  __.—__ 
 
@@ -52,16 +52,16 @@ Provisions similar to those in subsec. (b) of this section appear in the followi
 ----------
 ----------
 
-[/us/pl/95/501/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs504
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3686
-[/us/pl/101/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506
+[/us/pl/101/506/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506%2FtIV
 [/us/stat/104/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1343
-[/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
-[/us/pl/101/624/s1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1556
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3698
-[/us/pl/104/127/s281/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs281%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F980
 
 

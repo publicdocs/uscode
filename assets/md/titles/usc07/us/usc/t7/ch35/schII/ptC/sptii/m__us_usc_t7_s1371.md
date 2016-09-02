@@ -27,21 +27,21 @@
 
         In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota or acreage allotment for the commodity shall be increased in the same ratio.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 371, [52 Stat. 64][/us/stat/52/64]; [Apr. 3, 1941, ch. 39, § 5][/us/act/1941-04-03/ch39/s5], [55 Stat. 92][/us/stat/55/92]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 312, [68 Stat. 904][/us/stat/68/904]; [Pub. L. 87–703, title III, § 321][/us/pl/87/703/s321], Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626]; [Pub. L. 107–171, title I, § 1309(h)(2)][/us/pl/107/171/s1309/h/2], May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI, § 611(i)][/us/pl/108/357/s611/i], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 371, [52 Stat. 64][/us/stat/52/64]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], § 5, [55 Stat. 92][/us/stat/55/92]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 312, [68 Stat. 904][/us/stat/68/904]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 321, Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309(h)(2), May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(i), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 611(i)(1)][/us/pl/108/357/s611/i/1], substituted “or rice” for “rice, or tobacco” in first sentence.
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 611(i)(1), substituted “or rice” for “rice, or tobacco” in first sentence.
 
-    Subsec. (b). [Pub. L. 108–357, § 611(i)(2)][/us/pl/108/357/s611/i/2], which directed amendment of first sentence of subsec. (b) by substituting “or rice” for “rice, or tobacco”, was executed by making the substitution for “rice,, or tobacco”, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 611(i)(2), which directed amendment of first sentence of subsec. (b) by substituting “or rice” for “rice, or tobacco”, was executed by making the substitution for “rice,, or tobacco”, to reflect the probable intent of Congress.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 1309(h)(2)(A)][/us/pl/107/171/s1309/h/2/A], struck out “peanuts,” before “or tobacco” in first sentence.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 1309(h)(2)(A), struck out “peanuts,” before “or tobacco” in first sentence.
 
-    Subsec. (b). [Pub. L. 107–171, § 1309(h)(2)(B)][/us/pl/107/171/s1309/h/2/B], struck out “peanuts” before “or tobacco” in first sentence.
+    Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 1309(h)(2)(B), struck out “peanuts” before “or tobacco” in first sentence.
 
-    1962—Subsec. (a). [Pub. L. 87–703, § 321(1)][/us/pl/87/703/s321/1], struck out “corn, wheat,” before “cotton”.
+    1962—Subsec. (a). [Pub. L. 87–703][/us/pl/87/703], § 321(1), struck out “corn, wheat,” before “cotton”.
 
-    Subsec. (b). [Pub. L. 87–703, § 321(2)][/us/pl/87/703/s321/2], struck out “any national acreage allotment for corn, or” after “export demand,”, “wheat,” before “cotton” and “in order to effect the declared policy of this chapter or” before “to meet such emergency”.
+    Subsec. (b). [Pub. L. 87–703][/us/pl/87/703], § 321(2), struck out “any national acreage allotment for corn, or” after “export demand,”, “wheat,” before “cotton” and “in order to effect the declared policy of this chapter or” before “to meet such emergency”.
 
     1954—Subsec. (b). Act Aug. 28, 1954, § 312(a), inserted proviso relating to national acreage allotment for corn, and struck out corn from national marketing quota provision.
 
@@ -65,15 +65,15 @@
 
  __Inapplicability to 1991 Through 1995 Crops of Peanuts__ 
 
-    [Pub. L. 101–624, title VIII, § 801(5)][/us/pl/101/624/s801/5], Nov. 28, 1990, [104 Stat. 3459][/us/stat/104/3459], provided that this section is inapplicable to 1991 through 1995 crops of peanuts.
+    [Pub. L. 101–624, title VIII][/us/pl/101/624/tVIII], § 801(5), Nov. 28, 1990, [104 Stat. 3459][/us/stat/104/3459], provided that this section is inapplicable to 1991 through 1995 crops of peanuts.
 
  __Inapplicability to 1986 Through 1990 Crops of Peanuts__ 
 
-    [Pub. L. 99–198, title VII, § 701(5)][/us/pl/99/198/s701/5], Dec. 23, 1985, [99 Stat. 1430][/us/stat/99/1430], provided that this section is inapplicable to 1986 through 1990 crops of peanuts.
+    [Pub. L. 99–198, title VII][/us/pl/99/198/tVII], § 701(5), Dec. 23, 1985, [99 Stat. 1430][/us/stat/99/1430], provided that this section is inapplicable to 1986 through 1990 crops of peanuts.
 
  __Inapplicability to 1982 Through 1985 Crops of Peanuts__ 
 
-    [Pub. L. 97–98, title VII, § 701(5)][/us/pl/97/98/s701/5], Dec. 22, 1981, [95 Stat. 1248][/us/stat/95/1248], provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
+    [Pub. L. 97–98, title VII][/us/pl/97/98/tVII], § 701(5), Dec. 22, 1981, [95 Stat. 1248][/us/stat/95/1248], provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
 
 ----------
 
@@ -84,22 +84,22 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F64
-[/us/act/1941-04-03/ch39/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39%2Fs5
+[/us/act/1941-04-03/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39
 [/us/stat/55/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F92
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F904
-[/us/pl/87/703/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs321
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F626
-[/us/pl/107/171/s1309/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F2
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F182
-[/us/pl/108/357/s611/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fi
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
-[/us/pl/108/357/s611/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fi%2F1
-[/us/pl/108/357/s611/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fi%2F2
-[/us/pl/107/171/s1309/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F2%2FA
-[/us/pl/107/171/s1309/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F2%2FB
-[/us/pl/87/703/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs321%2F1
-[/us/pl/87/703/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs321%2F2
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518
@@ -109,11 +109,11 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614
 [/us/usc/t7/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs515
-[/us/pl/101/624/s801/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs801%2F5
+[/us/pl/101/624/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtVIII
 [/us/stat/104/3459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3459
-[/us/pl/99/198/s701/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs701%2F5
+[/us/pl/99/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVII
 [/us/stat/99/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1430
-[/us/pl/97/98/s701/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs701%2F5
+[/us/pl/97/98/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtVII
 [/us/stat/95/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1248
 
 

@@ -23,7 +23,7 @@
 
         The Secretary may not extend the term of a marketing assistance loan for any loan commodity.
 
-([Pub. L. 107–171, title I, § 1203][/us/pl/107/171/s1203], May 13, 2002, [116 Stat. 156][/us/stat/116/156].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1203, May 13, 2002, [116 Stat. 156][/us/stat/116/156].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s7931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7931
-[/us/pl/107/171/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1203
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F156
 
 

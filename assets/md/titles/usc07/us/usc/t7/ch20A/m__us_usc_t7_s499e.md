@@ -35,7 +35,7 @@
 
         (5) The several district courts of the United States are vested with jurisdiction specifically to entertain (i) actions by trust beneficiaries to enforce payment from the trust, and (ii) actions by the Secretary to prevent and restrain dissipation of the trust.
 
-([June 10, 1930, ch. 436, § 5][/us/act/1930-06-10/ch436/s5], [46 Stat. 534][/us/stat/46/534]; [Aug. 20, 1937, ch. 719, § 7][/us/act/1937-08-20/ch719/s7], [50 Stat. 728][/us/stat/50/728]; [Pub. L. 98–273, § 1][/us/pl/98/273/s1], May 7, 1984, [98 Stat. 165][/us/stat/98/165]; [Pub. L. 102–237, title X, § 1011(3)][/us/pl/102/237/s1011/3], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 6, 8(b), Nov. 15, 1995, [109 Stat. 427][/us/stat/109/427], 429.)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 5, [46 Stat. 534][/us/stat/46/534]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 7, [50 Stat. 728][/us/stat/50/728]; [Pub. L. 98–273][/us/pl/98/273], § 1, May 7, 1984, [98 Stat. 165][/us/stat/98/165]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(3), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 6, 8(b), Nov. 15, 1995, [109 Stat. 427][/us/stat/109/427], 429.)
 
  __Codification__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    1995—Subsec. (a). [Pub. L. 104–48, § 8(b)][/us/pl/104/48/s8/b], inserted “(including any handling fee paid by the injured person or persons under [section 499f(a)(2) of this title][/us/usc/t7/s499f/a/2])” after “damages”.
+    1995—Subsec. (a). [Pub. L. 104–48][/us/pl/104/48], § 8(b), inserted “(including any handling fee paid by the injured person or persons under [section 499f(a)(2) of this title][/us/usc/t7/s499f/a/2])” after “damages”.
 
-    Subsec. (c)(3). [Pub. L. 104–48, § 6(a)][/us/pl/104/48/s6/a], (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.”
+    Subsec. (c)(3). [Pub. L. 104–48][/us/pl/104/48], § 6(a), (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.”
 
-    Subsec. (c)(4), (5). [Pub. L. 104–48, § 6(c)][/us/pl/104/48/s6/c], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (c)(4), (5). [Pub. L. 104–48][/us/pl/104/48], § 6(c), added par. (4) and redesignated former par. (4) as (5).
 
     1991—Subsec. (c)(2). [Pub. L. 102–237][/us/pl/102/237] substituted “, as” for “(as” before “defined”.
 
@@ -66,21 +66,21 @@
 [/us/usc/t7/s499f/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f%2Fa%2F2
 [/us/usc/t12/s1141j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fa
 [/us/usc/t7/s499e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499e%2Fc
-[/us/act/1930-06-10/ch436/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs5
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F534
-[/us/act/1937-08-20/ch719/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs7
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F728
-[/us/pl/98/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273%2Fs1
+[/us/pl/98/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273
 [/us/stat/98/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F165
-[/us/pl/102/237/s1011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F3
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F427
 [/us/usc/t7/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs555
-[/us/pl/104/48/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs8%2Fb
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/usc/t7/s499f/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f%2Fa%2F2
-[/us/pl/104/48/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs6%2Fa
-[/us/pl/104/48/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs6%2Fc
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/98/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273
 

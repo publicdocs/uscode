@@ -17,7 +17,7 @@
 
     All stockyard services furnished pursuant to reasonable request made to a stockyard owner or market agency at such stockyard shall be reasonable and nondiscriminatory and stockyard services which are furnished shall not be refused on any basis that is unreasonable or unjustly discriminatory: Provided, That in any State where the weighing of livestock at a stockyard is conducted by a duly authorized department or agency of the State, the Secretary, upon application of such department or agency, may register it as a market agency for the weighing of livestock received in such stockyard, and upon such registration such department or agency and the members thereof shall be amenable to all the requirements of this chapter, and upon failure of such department or agency or the members thereof to comply with the orders of the Secretary under this chapter he is authorized to revoke the registration of such department or agency and to enforce such revocation as provided in [section 216 of this title][/us/usc/t7/s216].
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 304, [42 Stat. 164][/us/stat/42/164]; [May 5, 1926, ch. 240][/us/act/1926-05-05/ch240], [44 Stat. 397][/us/stat/44/397]; [Pub. L. 90–446, § 1(c)][/us/pl/90/446/s1/c], July 31, 1968, [82 Stat. 474][/us/stat/82/474].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 304, [42 Stat. 164][/us/stat/42/164]; [May 5, 1926, ch. 240][/us/act/1926-05-05/ch240], [44 Stat. 397][/us/stat/44/397]; [Pub. L. 90–446][/us/pl/90/446], § 1(c), July 31, 1968, [82 Stat. 474][/us/stat/82/474].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 [/us/stat/42/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F164
 [/us/act/1926-05-05/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-05%2Fch240
 [/us/stat/44/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F397
-[/us/pl/90/446/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446%2Fs1%2Fc
+[/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 [/us/stat/82/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F474
 [/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 

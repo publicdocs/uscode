@@ -23,7 +23,7 @@
 
         An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
-([Pub. L. 107–171, title X, § 10202][/us/pl/107/171/s10202], May 13, 2002, [116 Stat. 490][/us/stat/116/490].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10202, May 13, 2002, [116 Stat. 490][/us/stat/116/490].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s8203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8203
-[/us/pl/107/171/s10202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10202
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F490
 
 

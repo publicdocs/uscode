@@ -17,7 +17,7 @@
 
     The Secretary shall provide, through the Economic Research Service of the United States Department of Agriculture, or whatever agency or agencies the Secretary considers appropriate, an annual survey of existing methods of direct marketing from farmers to consumers in each State.
 
-([Pub. L. 94–463, § 4][/us/pl/94/463/s4], Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982]; [Pub. L. 107–171, title X, § 10605(b)(1)][/us/pl/107/171/s10605/b/1], May 13, 2002, [116 Stat. 513][/us/stat/116/513].)
+([Pub. L. 94–463][/us/pl/94/463], § 4, Oct. 8, 1976, [90 Stat. 1982][/us/stat/90/1982]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10605(b)(1), May 13, 2002, [116 Stat. 513][/us/stat/116/513].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/463/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs4
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
 [/us/stat/90/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1982
-[/us/pl/107/171/s10605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10605%2Fb%2F1
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F513
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

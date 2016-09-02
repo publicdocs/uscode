@@ -17,7 +17,7 @@
 
     Not later than 180 days after October 13, 1994, the Secretary shall submit to Congress recommended legislation containing additional technical and conforming amendments to Federal laws that are required as a result of the enactment of this chapter.
 
-([Pub. L. 103–354, title II, § 295][/us/pl/103/354/s295], Oct. 13, 1994, [108 Stat. 3238][/us/stat/108/3238].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 295, Oct. 13, 1994, [108 Stat. 3238][/us/stat/108/3238].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs295
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3238
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209

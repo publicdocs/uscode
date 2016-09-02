@@ -17,13 +17,13 @@
 
     There is established in the Department of Agriculture the position of Deputy Secretary of Agriculture, to be appointed by the President, by and with the advice and consent of the Senate.
 
-([Mar. 26, 1934, ch. 89][/us/act/1934-03-26/ch89], title I, [48 Stat. 467][/us/stat/48/467]; [Pub. L. 94–561, § 1(c)(1)][/us/pl/94/561/s1/c/1], Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643].)
+([Mar. 26, 1934, ch. 89][/us/act/1934-03-26/ch89], title I, [48 Stat. 467][/us/stat/48/467]; [Pub. L. 94–561][/us/pl/94/561], § 1(c)(1), Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643].)
 
  __Codification__ 
 
     Provisions of this section which prescribed the basic compensation of the Under Secretary were omitted to conform to the provisions of act July 31, 1956. See [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
 
-    Section was formerly classified to [section 514a of Title 5][/us/usc/t5/s514a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 514a of Title 5][/us/usc/t5/s514a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Status of Incumbent Under Secretary of Agriculture__ 
 
-[Pub. L. 94–561, § 1(d)][/us/pl/94/561/s1/d], Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643], provided that: 
+[Pub. L. 94–561][/us/pl/94/561], § 1(d), Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643], provided that: 
 
 > “The officer occupying the position of Under Secretary of Agriculture, on the date of enactment of this Act \[Oct. 19, 1976\], may assume the duties of the Deputy Secretary of Agriculture. The individual assuming such duties shall not be required to be reappointed by reason of the enactment of this Act.”
 
@@ -52,11 +52,11 @@
 
 [/us/act/1934-03-26/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-26%2Fch89
 [/us/stat/48/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F467
-[/us/pl/94/561/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561%2Fs1%2Fc%2F1
+[/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
 [/us/stat/90/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2643
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s514a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs514a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
 [/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
@@ -64,7 +64,7 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
-[/us/pl/94/561/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561%2Fs1%2Fd
+[/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
 [/us/stat/90/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2643
 
 

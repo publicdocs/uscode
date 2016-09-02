@@ -17,7 +17,7 @@
 
     After notice and opportunity for hearing as provided in [section 2103 of this title][/us/usc/t7/s2103], the Secretary shall issue an order if he finds, and sets forth in such order, upon the evidence introduced at such hearing, that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-([Pub. L. 89–502, § 5][/us/pl/89/502/s5], July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
+([Pub. L. 89–502][/us/pl/89/502], § 5, July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2103
-[/us/pl/89/502/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs5
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F280
 
 

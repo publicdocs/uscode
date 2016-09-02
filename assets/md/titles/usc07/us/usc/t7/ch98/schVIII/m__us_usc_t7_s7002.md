@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the activities of the Division.
 
-([Pub. L. 103–354, title II, § 283][/us/pl/103/354/s283], Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 283, Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs283
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3235
 
 

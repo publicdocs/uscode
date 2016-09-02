@@ -71,7 +71,7 @@
 
         (3) Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).
 
-([Pub. L. 99–198, title XVI, § 1618][/us/pl/99/198/s1618], Dec. 23, 1985, [99 Stat. 1611][/us/stat/99/1611].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1618, Dec. 23, 1985, [99 Stat. 1611][/us/stat/99/1611].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t7/s4806/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4806%2Fb%2F2%2FB
 [/us/usc/t7/s4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809
 [/us/usc/t7/s4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4813
-[/us/pl/99/198/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1618
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1611
 
 

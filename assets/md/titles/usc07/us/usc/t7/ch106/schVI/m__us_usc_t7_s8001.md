@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary and the Commodity Credit Corporation shall not require producers in Erie County, Pennsylvania, to repay loan deficiency payments and marketing loan gains erroneously paid or determined to have been earned by the Commodity Credit Corporation for certain 1998 and 1999 crops under subtitle C of title I of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7231][/us/usc/t7/s7231] et seq.). In the case of a producer who has already made the repayment on or before May 13, 2002, the Commodity Credit Corporation shall reimburse the producer for the full amount of the repayment.
 
-([Pub. L. 107–171, title I, § 1618][/us/pl/107/171/s1618], May 13, 2002, [116 Stat. 223][/us/stat/116/223].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1618, May 13, 2002, [116 Stat. 223][/us/stat/116/223].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/107/171/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1618
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F223
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F888

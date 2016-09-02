@@ -35,17 +35,17 @@
 
         Any such officer or employee violating the provisions of this subsection shall upon conviction be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
-([Pub. L. 91–670, title III, § 310][/us/pl/91/670/s310], Jan. 11, 1971, [84 Stat. 2044][/us/stat/84/2044]; [Pub. L. 101–624, title XIX, § 1942][/us/pl/101/624/s1942], Nov. 28, 1990, [104 Stat. 3867][/us/stat/104/3867]; [Pub. L. 102–237, title VIII, § 804][/us/pl/102/237/s804], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 310, Jan. 11, 1971, [84 Stat. 2044][/us/stat/84/2044]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1942, Nov. 28, 1990, [104 Stat. 3867][/us/stat/104/3867]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 804, Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
 
  __Amendments__ 
 
     1991—Subsec. (a)(2). [Pub. L. 102–237][/us/pl/102/237] substituted “(2) When” for “(2) when”.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1942(1)][/us/pl/101/624/s1942/1], designated existing provisions as par. (1) and added par. (2).
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1942(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 101–624, § 1942(2)][/us/pl/101/624/s1942/2], inserted “and importers” after “Handlers”.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1942(2), inserted “and importers” after “Handlers”.
 
-    Subsec. (c)(1). [Pub. L. 101–624, § 1942(3)][/us/pl/101/624/s1942/3], inserted “or importers” after “handlers”.
+    Subsec. (c)(1). [Pub. L. 101–624][/us/pl/101/624], § 1942(3), inserted “or importers” after “handlers”.
 
 ----------
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/91/670/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs310
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2044
-[/us/pl/101/624/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1942
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3867
-[/us/pl/102/237/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs804
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1942/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1942%2F1
-[/us/pl/101/624/s1942/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1942%2F2
-[/us/pl/101/624/s1942/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1942%2F3
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

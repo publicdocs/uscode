@@ -65,7 +65,7 @@
 
             The President shall identify annually in the budget of the United States Government submitted under [section 1105 of title 31][/us/usc/t31/s1105] each overseas office of the Foreign Agricultural Service that provides assistance to United States exporters in each of the priority markets identified under paragraph (1).
 
-([Pub. L. 95–501, title I, § 103][/us/pl/95/501/s103], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3670][/us/stat/104/3670]; amended [Pub. L. 102–237, title III, § 308][/us/pl/102/237/s308], Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856]; [Pub. L. 104–127, title II, § 241(a)][/us/pl/104/127/s241/a], Apr. 4, 1996, [110 Stat. 963][/us/stat/110/963].)
+([Pub. L. 95–501, title I][/us/pl/95/501/tI], § 103, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3670][/us/stat/104/3670]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 308, Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 241(a), Apr. 4, 1996, [110 Stat. 963][/us/stat/110/963].)
 
  __Amendments__ 
 
@@ -75,13 +75,13 @@
 
  __Prohibition on Use of Funds for Promotion of Tobacco or Tobacco Products__ 
 
-[Pub. L. 108–199, div. A, title VII, § 770][/us/pl/108/199/s770], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40], provided that: 
+[Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 770, Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40], provided that: 
 
 > “Hereafter, no funds provided in this or any other Act shall be available to the Secretary of Agriculture acting through the Foreign Agricultural Service to promote the sale or export of tobacco or tobacco products.”
 
  __Use of Department of Agriculture Programs for Promotion of Wood and Processed Wood Products__ 
 
-[Pub. L. 100–418, title IV, § 4404][/us/pl/100/418/s4404], Aug. 23, 1988, [102 Stat. 1402][/us/stat/102/1402], provided that: 
+[Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4404, Aug. 23, 1988, [102 Stat. 1402][/us/stat/102/1402], provided that: 
 
 > “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
 
@@ -93,18 +93,18 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/95/501/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs103
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtI
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3670
-[/us/pl/102/237/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs308
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1856
-[/us/pl/104/127/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs241%2Fa
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F963
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/108/199/s770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs770
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F40
-[/us/pl/100/418/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4404
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1402
 
 

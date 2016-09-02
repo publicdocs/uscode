@@ -17,7 +17,7 @@
 
     Any employee of the United States Department of Agriculture designated by the Secretary of Agriculture and the Attorney General of the United States may carry a firearm and use a firearm when necessary for self-protection, in accordance with rules and regulations issued by the Secretary of Agriculture and the Attorney General of the United States, while such employee is engaged in the performance of the employee’s official duties to (1) carry out any law or regulation related to the control, eradication, or prevention of the introduction or dissemination of communicable disease of livestock or poultry into the United States or (2) perform any duty related to such disease control, eradication, or prevention, subject to the direction of the Secretary.
 
-([Pub. L. 97–312, § 1][/us/pl/97/312/s1], Oct. 14, 1982, [96 Stat. 1461][/us/stat/96/1461].)
+([Pub. L. 97–312][/us/pl/97/312], § 1, Oct. 14, 1982, [96 Stat. 1461][/us/stat/96/1461].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F312%2Fs1
+[/us/pl/97/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F312
 [/us/stat/96/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1461
 
 

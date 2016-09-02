@@ -155,7 +155,7 @@
 
         Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
 
-([Pub. L. 87–128, title III, § 333A][/us/pl/87/128/s333A], as added [Pub. L. 99–198, title XIII, § 1312(a)][/us/pl/99/198/s1312/a], Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; amended [Pub. L. 101–624, title XVIII, § 1811][/us/pl/101/624/s1811], title XXIII, § 2388(f), Nov. 28, 1990, [104 Stat. 3821][/us/stat/104/3821], 4053; [Pub. L. 102–554][/us/pl/102/554], §§ 13–15, Oct. 28, 1992, [106 Stat. 4152][/us/stat/106/4152], 4153; [Pub. L. 104–127, title VI, § 637][/us/pl/104/127/s637], Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V, § 5307][/us/pl/107/171/s5307], title VI, § 6019, May 13, 2002, [116 Stat. 345][/us/stat/116/345], 362; [Pub. L. 110–234, title VI, § 6012(b)(3)][/us/pl/110/234/s6012/b/3], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927; [Pub. L. 113–79, title VI, § 6020(a)][/us/pl/113/79/s6020/a], Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 333A, as added [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1312(a), Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1811, title XXIII, § 2388(f), Nov. 28, 1990, [104 Stat. 3821][/us/stat/104/3821], 4053; [Pub. L. 102–554][/us/pl/102/554], §§ 13–15, Oct. 28, 1992, [106 Stat. 4152][/us/stat/106/4152], 4153; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 637, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5307, title VI, § 6019, May 13, 2002, [116 Stat. 345][/us/stat/116/345], 362; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6012(b)(3), May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6012(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6020(a), Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
 
  __References in Text__ 
 
@@ -171,9 +171,9 @@
 
     2014—Subsec. (h). [Pub. L. 113–79][/us/pl/113/79] added subsec. (h).
 
-    2008—Subsec. (g)(1)(B). [Pub. L. 110–246, § 6012(b)(3)][/us/pl/110/246/s6012/b/3], substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
+    2008—Subsec. (g)(1)(B). [Pub. L. 110–246][/us/pl/110/246], § 6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
 
-    2002—Subsec. (g). [Pub. L. 107–171, § 6019][/us/pl/107/171/s6019], added subsec. (g) and struck out former subsec. (g) which read as follows:
+    2002—Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
 
     “(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $125,000 or less.
 
@@ -191,23 +191,23 @@
 
     “(iv) the form can be completed and processed in an expeditious manner.”
 
-    Subsec. (g)(1). [Pub. L. 107–171, § 5307][/us/pl/107/171/s5307], substituted “$125,000” for “$50,000”.
+    Subsec. (g)(1). [Pub. L. 107–171][/us/pl/107/171], § 5307, substituted “$125,000” for “$50,000”.
 
-    1996—Subsec. (f)(4). [Pub. L. 104–127, § 637(1)][/us/pl/104/127/s637/1], inserted heading.
+    1996—Subsec. (f)(4). [Pub. L. 104–127][/us/pl/104/127], § 637(1), inserted heading.
 
-    Subsec. (f)(4)(A). [Pub. L. 104–127, § 637(1)][/us/pl/104/127/s637/1], designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+    Subsec. (f)(4)(A). [Pub. L. 104–127][/us/pl/104/127], § 637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
 
-    Subsec. (f)(4)(B), (C). [Pub. L. 104–127, § 637(2)][/us/pl/104/127/s637/2], added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
+    Subsec. (f)(4)(B), (C). [Pub. L. 104–127][/us/pl/104/127], § 637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–554, § 13][/us/pl/102/554/s13], designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
+    1992—Subsec. (a)(2). [Pub. L. 102–554][/us/pl/102/554], § 13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
 
-    Subsec. (f). [Pub. L. 102–554, § 14][/us/pl/102/554/s14], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–554][/us/pl/102/554], § 14, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 102–554, § 15][/us/pl/102/554/s15], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–554][/us/pl/102/554], § 15, added subsec. (g).
 
-    1990—Subsec. (a)(4). [Pub. L. 101–624, § 1811][/us/pl/101/624/s1811], added par. (4).
+    1990—Subsec. (a)(4). [Pub. L. 101–624][/us/pl/101/624], § 1811, added par. (4).
 
-    Subsec. (c). [Pub. L. 101–624, § 2388(f)][/us/pl/101/624/s2388/f], substituted “If” for “In”.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 2388(f), substituted “If” for “In”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -215,7 +215,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–198, title XIII, § 1312(b)][/us/pl/99/198/s1312/b], Dec. 23, 1985, [99 Stat. 1525][/us/stat/99/1525], provided that: 
+[Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1312(b), Dec. 23, 1985, [99 Stat. 1525][/us/stat/99/1525], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) received by the Secretary of Agriculture after the date of enactment of this Act \[Dec. 23, 1985\].”
 
@@ -234,22 +234,22 @@
 [/us/usc/t7/s1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1999
 [/us/usc/t7/s1932/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa%2F2%2FA
 [/us/usc/t7/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa
-[/us/pl/87/128/s333A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs333A
-[/us/pl/99/198/s1312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1312%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1524
-[/us/pl/101/624/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1811
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3821
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4152
-[/us/pl/104/127/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs637
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1093
-[/us/pl/107/171/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5307
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F345
-[/us/pl/110/234/s6012/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6012%2Fb%2F3
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1165
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6020%2Fa
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F847
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1989
@@ -261,23 +261,23 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s6012/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fb%2F3
-[/us/pl/107/171/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6019
-[/us/pl/107/171/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5307
-[/us/pl/104/127/s637/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs637%2F1
-[/us/pl/104/127/s637/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs637%2F1
-[/us/pl/104/127/s637/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs637%2F2
-[/us/pl/102/554/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs13
-[/us/pl/102/554/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs14
-[/us/pl/102/554/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs15
-[/us/pl/101/624/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1811
-[/us/pl/101/624/s2388/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Ff
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/99/198/s1312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1312%2Fb
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1525
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6" data-uslm-ref="/us/usc/t7/s6">6</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6l" data-uslm-ref="/us/usc/t7/s6l">6l.</a>  </td>
 
     <td> Commodity trading advisors and commodity pool operators; Congressional finding.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6" data-uslm-ref="/us/usc/t7/s6">6</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6o" data-uslm-ref="/us/usc/t7/s6o">6o.</a>  </td>
 
     <td> Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6" data-uslm-ref="/us/usc/t7/s6">6</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6o" data-uslm-ref="/us/usc/t7/s6o">6o</a>–1.  </td>
 
     <td> Transferred.  </td>
 

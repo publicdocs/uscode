@@ -41,15 +41,15 @@
 
     (12) If marketing quotas for wheat are not in effect for any marketing year, all previous marketing quotas applicable to wheat shall be terminated, effective as of the first day of such marketing year. Such termination shall not abate any penalty previously incurred by a producer or relieve any buyer of the duty to remit penalties previously collected by him.
 
-([May 26, 1941, ch. 133][/us/act/1941-05-26/ch133], [55 Stat. 203][/us/stat/55/203]; [Dec. 26, 1941, ch. 626, § 2][/us/act/1941-12-26/ch626/s2], [55 Stat. 860][/us/stat/55/860]; [Dec. 26, 1941, ch. 636][/us/act/1941-12-26/ch636], [55 Stat. 872][/us/stat/55/872]; [Aug. 29, 1949, ch. 518, § 3(b)][/us/act/1949-08-29/ch518/s3/b], [63 Stat. 676][/us/stat/63/676]; [July 14, 1953, ch. 194, § 3][/us/act/1953-07-14/ch194/s3], [67 Stat. 151][/us/stat/67/151]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 313, [68 Stat. 905][/us/stat/68/905]; [Pub. L. 87–128, title I, § 122(d)][/us/pl/87/128/s122/d], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–703, title III][/us/pl/87/703], §§ 309, 319, Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], 624; [Pub. L. 87–801][/us/pl/87/801], Oct. 11, 1962, [76 Stat. 909][/us/stat/76/909]; [Pub. L. 89–321, title V, § 511(b)][/us/pl/89/321/s511/b], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205].)
+([May 26, 1941, ch. 133][/us/act/1941-05-26/ch133], [55 Stat. 203][/us/stat/55/203]; [Dec. 26, 1941, ch. 626][/us/act/1941-12-26/ch626], § 2, [55 Stat. 860][/us/stat/55/860]; [Dec. 26, 1941, ch. 636][/us/act/1941-12-26/ch636], [55 Stat. 872][/us/stat/55/872]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 3(b), [63 Stat. 676][/us/stat/63/676]; [July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 3, [67 Stat. 151][/us/stat/67/151]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 313, [68 Stat. 905][/us/stat/68/905]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 122(d), Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], §§ 309, 319, Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], 624; [Pub. L. 87–801][/us/pl/87/801], Oct. 11, 1962, [76 Stat. 909][/us/stat/76/909]; [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 511(b), Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205].)
 
  __References in Text__ 
 
-    [Section 1302 of this title][/us/usc/t7/s1302], referred to in par. (8), was repealed by [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 414, [63 Stat. 1057][/us/stat/63/1057].
+    [Section 1302 of this title][/us/usc/t7/s1302], referred to in par. (8), was repealed by [act Oct. 31, 1949, ch. 792, title IV][/us/act/1949-10-31/ch792/tIV], § 414, [63 Stat. 1057][/us/stat/63/1057].
 
-    [Section 1323(b) of this title][/us/usc/t7/s1323/b], referred to in par. (10), was repealed by [act Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 304, [68 Stat. 902][/us/stat/68/902], and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
+    [Section 1323(b) of this title][/us/usc/t7/s1323/b], referred to in par. (10), was repealed by [act Aug. 28, 1954, ch. 1041, title III][/us/act/1954-08-28/ch1041/tIII], § 304, [68 Stat. 902][/us/stat/68/902], and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
 
-    [Section 1335(d) of this title][/us/usc/t7/s1335/d], referred to in par. (10), was repealed by [Pub. L. 87–129, title I, § 122(e)][/us/pl/87/129/s122/e], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
+    [Section 1335(d) of this title][/us/usc/t7/s1335/d], referred to in par. (10), was repealed by [Pub. L. 87–129, title I][/us/pl/87/129/tI], § 122(e), Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
  __Codification__ 
 
@@ -61,23 +61,23 @@
 
     1965—Par. (1). [Pub. L. 89–321][/us/pl/89/321] substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
 
-    1962—Par. (1). [Pub. L. 87–703, § 319(1)][/us/pl/87/703/s319/1], substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
+    1962—Par. (1). [Pub. L. 87–703][/us/pl/87/703], § 319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
 
-    Par. (2). [Pub. L. 87–703, § 319(2)][/us/pl/87/703/s319/2], increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
+    Par. (2). [Pub. L. 87–703][/us/pl/87/703], § 319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
 
-    Par. (3). [Pub. L. 87–703, § 319(3)][/us/pl/87/703/s319/3], required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
+    Par. (3). [Pub. L. 87–703][/us/pl/87/703], § 319(3), required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
 
-    Par. (4). [Pub. L. 87–703, § 319(4)][/us/pl/87/703/s319/4], inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
+    Par. (4). [Pub. L. 87–703][/us/pl/87/703], § 319(4), inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
 
-    Pars. (5), (6). [Pub. L. 87–703, § 319(5)][/us/pl/87/703/s319/5], (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
+    Pars. (5), (6). [Pub. L. 87–703][/us/pl/87/703], § 319(5), (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
 
-    Par. (7). [Pub. L. 87–703, § 319(7)][/us/pl/87/703/s319/7], (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by [Pub. L. 87–703, § 309][/us/pl/87/703/s309], which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by [Pub. L. 87–801][/us/pl/87/801]), were repealed by such section 319(7) and are covered by [section 1335 of this title][/us/usc/t7/s1335].
+    Par. (7). [Pub. L. 87–703][/us/pl/87/703], § 319(7), (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by [Pub. L. 87–703][/us/pl/87/703], § 309, which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by [Pub. L. 87–801][/us/pl/87/801]), were repealed by such section 319(7) and are covered by [section 1335 of this title][/us/usc/t7/s1335].
 
-    Pars. (8) to (10). [Pub. L. 87–703, § 319(7)][/us/pl/87/703/s319/7], redesignated pars. (9) to (11) as (8) to (10). Former par. (8) redesignated (7).
+    Pars. (8) to (10). [Pub. L. 87–703][/us/pl/87/703], § 319(7), redesignated pars. (9) to (11) as (8) to (10). Former par. (8) redesignated (7).
 
-    Par. (11). [Pub. L. 87–703, § 319(9)][/us/pl/87/703/s319/9], added par. (11). Former par. (11) redesignated (10).
+    Par. (11). [Pub. L. 87–703][/us/pl/87/703], § 319(9), added par. (11). Former par. (11) redesignated (10).
 
-    Par. (12). [Pub. L. 87–703, § 319(9)][/us/pl/87/703/s319/9], added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
+    Par. (12). [Pub. L. 87–703][/us/pl/87/703], § 319(9), added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
 
     1961—Par. (7). [Pub. L. 87–128][/us/pl/87/128] authorized Secretary to prescribe regulations relating to the exemption of farms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
 
@@ -117,23 +117,23 @@
 
     Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see [section 7301(c) of this title][/us/usc/t7/s7301/c].
 
-[Pub. L. 101–624, title III, § 304][/us/pl/101/624/s304], Nov. 28, 1990, [104 Stat. 3400][/us/stat/104/3400], provided that: 
+[Pub. L. 101–624, title III][/us/pl/101/624/tIII], § 304, Nov. 28, 1990, [104 Stat. 3400][/us/stat/104/3400], provided that: 
 
 > “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 ([7 U.S.C. 1330][/us/usc/t7/s1330] and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995.”
 
-[Pub. L. 99–198, title III, § 311][/us/pl/99/198/s311], Dec. 23, 1985, [99 Stat. 1395][/us/stat/99/1395], provided that: 
+[Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 311, Dec. 23, 1985, [99 Stat. 1395][/us/stat/99/1395], provided that: 
 
 > “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 ([7 U.S.C. 1330][/us/usc/t7/s1330] and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990.”
 
-[Pub. L. 97–98, title III, § 304][/us/pl/97/98/s304], Dec. 22, 1981, [95 Stat. 1227][/us/stat/95/1227], provided that: 
+[Pub. L. 97–98, title III][/us/pl/97/98/tIII], § 304, Dec. 22, 1981, [95 Stat. 1227][/us/stat/95/1227], provided that: 
 
 > “Public Law 74, Seventy-seventh Congress ([55 Stat. 203][/us/stat/55/203], as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985.”
 
-[Pub. L. 95–113, title IV, § 406][/us/pl/95/113/s406], Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that: 
+[Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 406, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that: 
 
 > “Public Law 74, Seventy-seventh Congress ([55 Stat. 203][/us/stat/55/203], as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
 
-[Pub. L. 91–524, title IV, § 406][/us/pl/91/524/s406], Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86, § 1(13)][/us/pl/93/86/s1/13], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that: 
+[Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 406, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(13), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that: 
 
 > “Public Law 74, Seventy-seventh Congress ([68 Stat. 905][/us/stat/68/905]) \[this section\], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
 
@@ -147,46 +147,46 @@
 [/us/usc/t7/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1302
 [/us/act/1941-05-26/ch133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-05-26%2Fch133
 [/us/stat/55/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F203
-[/us/act/1941-12-26/ch626/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch626%2Fs2
+[/us/act/1941-12-26/ch626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch626
 [/us/stat/55/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F860
 [/us/act/1941-12-26/ch636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch636
 [/us/stat/55/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F872
-[/us/act/1949-08-29/ch518/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs3%2Fb
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F676
-[/us/act/1953-07-14/ch194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs3
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F151
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F905
-[/us/pl/87/128/s122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs122%2Fd
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
-[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F618
 [/us/pl/87/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F801
 [/us/stat/76/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F909
-[/us/pl/89/321/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs511%2Fb
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
 [/us/usc/t7/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1302
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
+[/us/act/1949-10-31/ch792/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792%2FtIV
 [/us/stat/63/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1057
 [/us/usc/t7/s1323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1323%2Fb
-[/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
+[/us/act/1954-08-28/ch1041/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041%2FtIII
 [/us/stat/68/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F902
 [/us/usc/t7/s1335/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335%2Fd
-[/us/pl/87/129/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F129%2Fs122%2Fe
+[/us/pl/87/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F129%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
-[/us/pl/87/703/s319/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F1
-[/us/pl/87/703/s319/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F2
-[/us/pl/87/703/s319/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F3
-[/us/pl/87/703/s319/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F4
-[/us/pl/87/703/s319/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F5
-[/us/pl/87/703/s319/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F7
-[/us/pl/87/703/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs309
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F801
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
-[/us/pl/87/703/s319/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F7
-[/us/pl/87/703/s319/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F9
-[/us/pl/87/703/s319/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs319%2F9
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/act/1941-12-26/ch626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch626
 [/us/act/1941-12-26/ch636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch636
@@ -201,21 +201,21 @@
 [/us/usc/t7/s8782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fc
 [/us/usc/t7/s7992/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fc
 [/us/usc/t7/s7301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fc
-[/us/pl/101/624/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs304
+[/us/pl/101/624/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIII
 [/us/stat/104/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3400
 [/us/usc/t7/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1330
-[/us/pl/99/198/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs311
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1395
 [/us/usc/t7/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1330
-[/us/pl/97/98/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs304
+[/us/pl/97/98/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtIII
 [/us/stat/95/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1227
 [/us/stat/55/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F203
-[/us/pl/95/113/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs406
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
 [/us/stat/55/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F203
-[/us/pl/91/524/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs406
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F13
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/stat/68/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F905
 

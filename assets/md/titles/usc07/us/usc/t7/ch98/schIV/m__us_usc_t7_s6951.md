@@ -37,7 +37,7 @@
 
         Any official who is serving as Assistant Secretary of Agriculture for Food and Consumer Services on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
-([Pub. L. 103–354, title II, § 241][/us/pl/103/354/s241], Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 241, Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t7/s6981/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6981%2Fb%2F1
-[/us/pl/103/354/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs241
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3222
 [/us/pl/103/354/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs241
 [/us/pl/103/354/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs241

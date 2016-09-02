@@ -155,7 +155,7 @@
 
  __Codification__ 
 
-    The United States Warehouse Act, comprising this chapter, was originally enacted by [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, [39 Stat. 486][/us/stat/39/486], and amended by [July 24, 1919, ch. 26][/us/act/1919-07-24/ch26], [41 Stat. 266][/us/stat/41/266]; [Feb. 23, 1923, ch. 106][/us/act/1923-02-23/ch106], [42 Stat. 1282][/us/stat/42/1282]; [Mar. 2, 1931, ch. 366][/us/act/1931-03-02/ch366], [46 Stat. 1463][/us/stat/46/1463]; [Pub. L. 97–35, title I, § 158(a)(1)][/us/pl/97/35/s158/a/1], (2), Aug. 13, 1981, [95 Stat. 375][/us/stat/95/375], 376; [Pub. L. 99–260, § 14][/us/pl/99/260/s14], Mar. 20, 1986, [100 Stat. 54][/us/stat/100/54]; [Pub. L. 101–624, title V, § 508(a)][/us/pl/101/624/s508/a], (b), Nov. 28, 1990, [104 Stat. 3441][/us/stat/104/3441], 3443; [Pub. L. 102–237, title X, § 1009][/us/pl/102/237/s1009], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 102–553, § 1][/us/pl/102/553/s1], Oct. 28, 1992, [106 Stat. 4140][/us/stat/106/4140]. Such Act is shown herein, however, as having been added by [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], without reference to such intervening amendments because of the extensive revision of the title’s provisions by [Pub. L. 106–472][/us/pl/106/472].
+    The United States Warehouse Act, comprising this chapter, was originally enacted by [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, [39 Stat. 486][/us/stat/39/486], and amended by [July 24, 1919, ch. 26][/us/act/1919-07-24/ch26], [41 Stat. 266][/us/stat/41/266]; [Feb. 23, 1923, ch. 106][/us/act/1923-02-23/ch106], [42 Stat. 1282][/us/stat/42/1282]; [Mar. 2, 1931, ch. 366][/us/act/1931-03-02/ch366], [46 Stat. 1463][/us/stat/46/1463]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 158(a)(1), (2), Aug. 13, 1981, [95 Stat. 375][/us/stat/95/375], 376; [Pub. L. 99–260][/us/pl/99/260], § 14, Mar. 20, 1986, [100 Stat. 54][/us/stat/100/54]; [Pub. L. 101–624, title V][/us/pl/101/624/tV], § 508(a), (b), Nov. 28, 1990, [104 Stat. 3441][/us/stat/104/3441], 3443; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1009, Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 102–553][/us/pl/102/553], § 1, Oct. 28, 1992, [106 Stat. 4140][/us/stat/106/4140]. Such Act is shown herein, however, as having been added by [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], without reference to such intervening amendments because of the extensive revision of the title’s provisions by [Pub. L. 106–472][/us/pl/106/472].
 
 ----------
 
@@ -172,17 +172,17 @@
 [/us/stat/42/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1282
 [/us/act/1931-03-02/ch366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch366
 [/us/stat/46/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1463
-[/us/pl/97/35/s158/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs158%2Fa%2F1
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F375
-[/us/pl/99/260/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260%2Fs14
+[/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/stat/100/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F54
-[/us/pl/101/624/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs508%2Fa
+[/us/pl/101/624/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtV
 [/us/stat/104/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3441
-[/us/pl/102/237/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1009
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
-[/us/pl/102/553/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F553%2Fs1
+[/us/pl/102/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F553
 [/us/stat/106/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4140
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 

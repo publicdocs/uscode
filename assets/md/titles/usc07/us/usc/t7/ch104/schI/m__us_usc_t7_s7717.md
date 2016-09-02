@@ -65,7 +65,7 @@
 
         From appropriated funds made available or transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes, the Secretary of Agriculture shall provide adequate funding for a program to train personnel to accomplish effectively the objective of this section.
 
-([Pub. L. 106–224, title IV, § 417][/us/pl/106/224/s417], June 20, 2000, [114 Stat. 447][/us/stat/114/447].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 417, June 20, 2000, [114 Stat. 447][/us/stat/114/447].)
 
  __Transfer of Functions__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs417
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F447
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

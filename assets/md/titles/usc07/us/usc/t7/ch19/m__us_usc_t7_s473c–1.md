@@ -31,7 +31,7 @@
 
     (g) for any person knowingly to violate any regulation of the Secretary of Agriculture relating to the sampling of cotton made pursuant to [section 473c of this title][/us/usc/t7/s473c].
 
-([Mar. 3, 1927, ch. 337, § 3c–1][/us/act/1927-03-03/ch337/s3c–1], as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 328][/us/stat/74/328].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3c–1, as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 328][/us/stat/74/328].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s473c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs473c
-[/us/act/1927-03-03/ch337/s3c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3c%E2%80%931
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/pl/86/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F588
 [/us/stat/74/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F328
 

@@ -135,7 +135,7 @@
 
         The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
 
-([Pub. L. 107–171, title I, § 1101][/us/pl/107/171/s1101], May 13, 2002, [116 Stat. 144][/us/stat/116/144].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1101, May 13, 2002, [116 Stat. 144][/us/stat/116/144].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
  __Popcorn Acreage__ 
 
-    [Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], formerly set out as a note under this section, was transferred and is set out as a note under [section 9011 of this title][/us/usc/t7/s9011].
+    [Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 767, Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], formerly set out as a note under this section, was transferred and is set out as a note under [section 9011 of this title][/us/usc/t7/s9011].
 
 ----------
 
@@ -159,7 +159,7 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3830
 [/us/usc/t7/s7952/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952%2Ff
-[/us/pl/107/171/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1101
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F144
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166
@@ -167,7 +167,7 @@
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/pl/108/7/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs767
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F48
 [/us/usc/t7/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9011
 

@@ -33,23 +33,23 @@
 
     (b) It is declared to be the policy of Congress that it is essential in the public interest, through the exercise of the powers provided herein, to authorize the establishment of an orderly procedure for the development, financing (through adequate assessments on watermelons harvested in the United States, or imported into the United States, for commercial use), and carrying out of an effective, continuous, and coordinated program of research, development, advertising, and promotion designed to strengthen the watermelon’s competitive position in the marketplace, and establish, maintain, and expand domestic and foreign markets for watermelons. The purpose of this chapter is to so authorize the establishment of such procedure and the development, financing, and carrying out of such program. Nothing in this chapter may be construed to dictate quality standards nor provide for the control of production or otherwise limit the right of individual watermelon producers to produce watermelons.
 
-([Pub. L. 99–198, title XVI, § 1642][/us/pl/99/198/s1642], Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622]; [Pub. L. 103–189, § 8(k)(1)][/us/pl/103/189/s8/k/1], (2), Dec. 14, 1993, [107 Stat. 2263][/us/stat/107/2263].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1642, Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622]; [Pub. L. 103–189][/us/pl/103/189], § 8(k)(1), (2), Dec. 14, 1993, [107 Stat. 2263][/us/stat/107/2263].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(5). [Pub. L. 103–189, § 8(k)(1)][/us/pl/103/189/s8/k/1], substituted “handling, and importing” for “and handling”.
+    1993—Subsec. (a)(5). [Pub. L. 103–189][/us/pl/103/189], § 8(k)(1), substituted “handling, and importing” for “and handling”.
 
-    Subsec. (b). [Pub. L. 103–189, § 8(k)(2)][/us/pl/103/189/s8/k/2], inserted “, or imported into the United States,” after “harvested in the United States” and struck out “produced in the United States” after “foreign markets for watermelons”.
+    Subsec. (b). [Pub. L. 103–189][/us/pl/103/189], § 8(k)(2), inserted “, or imported into the United States,” after “harvested in the United States” and struck out “produced in the United States” after “foreign markets for watermelons”.
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–189, § 1(a)][/us/pl/103/189/s1/a], Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], provided that: 
+[Pub. L. 103–189][/us/pl/103/189], § 1(a), Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], provided that: 
 
 > “This Act \[amending this section and sections 4902 to 4904, 4906, 4908, and 4911 to 4914 of this title\] may be cited as the ‘Watermelon Research and Promotion Improvement Act of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 99–198, title XVI, § 1641][/us/pl/99/198/s1641], Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1641, Dec. 23, 1985, [99 Stat. 1622][/us/stat/99/1622], provided that: 
 
 > “This subtitle \[subtitle C (§§ 1641–1657) of [Pub. L. 99–198][/us/pl/99/198], enacting this chapter\] may be cited as the ‘Watermelon Research and Promotion Act’.”
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1642
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1622
-[/us/pl/103/189/s8/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fk%2F1
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2263
-[/us/pl/103/189/s8/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fk%2F1
-[/us/pl/103/189/s8/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fk%2F2
-[/us/pl/103/189/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs1%2Fa
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2259
-[/us/pl/99/198/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1641
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1622
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 

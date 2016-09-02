@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch47/m__us_usc_t7_ch47.md) | [Next](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch48)
+[Previous](./../../../..//us/usc/t7/ch47/m__us_usc_t7_s1881...1888.md) | [Next](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch48)
 
 ## CHAPTER 48—HUMANE METHODS OF LIVESTOCK SLAUGHTER
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch47/m__us_usc_t7_ch47.md) | [Next](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch48)
+[Previous](./../../../..//us/usc/t7/ch47/m__us_usc_t7_s1881...1888.md) | [Next](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch48)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     Subject to the provisions of [section 950 of this title][/us/usc/t7/s950], the Secretary shall designate an official of the Department of Agriculture who shall serve as the chief executive officer of the telephone bank (herein called the Governor of the telephone bank). Except as to matters specifically reserved to the Telephone Bank Board in this subchapter, the Governor of the telephone bank shall exercise and perform all functions, powers, and duties of the telephone bank.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 404, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 31][/us/stat/85/31]; amended [Pub. L. 103–354, title II, § 235(a)(10)][/us/pl/103/354/s235/a/10], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 404, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 31][/us/stat/85/31]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(10), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t7/s950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F31
-[/us/pl/103/354/s235/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F10
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/92/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs7

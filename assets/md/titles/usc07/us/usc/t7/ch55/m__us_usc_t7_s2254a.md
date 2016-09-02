@@ -17,7 +17,7 @@
 
     On and after December 26, 2007, none of the funds appropriated under this heading shall be available to carry out research related to the production, processing, or marketing of tobacco or tobacco products.
 
-([Pub. L. 110–161, div. A, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1850][/us/stat/121/1850].)
+([Pub. L. 110–161, div. A, title I][/us/pl/110/161/dA/tI], Dec. 26, 2007, [121 Stat. 1850][/us/stat/121/1850].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdA%2FtI
 [/us/stat/121/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1850
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 

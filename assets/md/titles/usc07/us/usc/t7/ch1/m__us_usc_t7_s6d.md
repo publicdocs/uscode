@@ -99,33 +99,33 @@
 
         Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under [section 6(c) of this title][/us/usc/t7/s6/c] or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to [section 6f(a)(1) of this title][/us/usc/t7/s6f/a/1] and also registered as a broker or dealer pursuant to section 78(o)(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to [section 78s(b) of title 15][/us/usc/t15/s78s/b], hold in a portfolio margining account carried as a securities account subject to section 78(o)(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.
 
-([Sept. 21, 1922, ch. 369, § 4d][/us/act/1922-09-21/ch369/s4d], as added [June 15, 1936, ch. 545, § 5][/us/act/1936-06-15/ch545/s5], [49 Stat. 1494][/us/stat/49/1494]; amended [Pub. L. 90–258, § 6][/us/pl/90/258/s6], Feb. 19, 1968, [82 Stat. 27][/us/stat/82/27]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405, § 4][/us/pl/95/405/s4], Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II, § 207][/us/pl/97/444/s207], Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(6), title II, § 251(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407, 2763A–443; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 713(b), 724(a), 732, 749(a), July 21, 2010, [124 Stat. 1646][/us/stat/124/1646], 1682, 1712, 1746.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4d, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 5, [49 Stat. 1494][/us/stat/49/1494]; amended [Pub. L. 90–258][/us/pl/90/258], § 6, Feb. 19, 1968, [82 Stat. 27][/us/stat/82/27]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405][/us/pl/95/405], § 4, Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 207, Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(6), title II, § 251(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407, 2763A–443; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 713(b), 724(a), 732, 749(a), July 21, 2010, [124 Stat. 1646][/us/stat/124/1646], 1682, 1712, 1746.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 749(a)(1)(A)][/us/pl/111/203/s749/a/1/A], in introductory provisions, substituted “be a” for “engage as” and struck out “or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility” after “merchant”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 749(a)(1)(A), in introductory provisions, substituted “be a” for “engage as” and struck out “or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility” after “merchant”.
 
-    Subsec. (a)(1). [Pub. L. 111–203, § 749(a)(1)(B)][/us/pl/111/203/s749/a/1/B], struck out “or introducing broker” after “merchant”.
+    Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 749(a)(1)(B), struck out “or introducing broker” after “merchant”.
 
-    Subsec. (a)(2). [Pub. L. 111–203, § 749(a)(1)(C)][/us/pl/111/203/s749/a/1/C], struck out “if a futures commission merchant,” after “such person shall,”.
+    Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 749(a)(1)(C), struck out “if a futures commission merchant,” after “such person shall,”.
 
-    Subsecs. (c) to (e). [Pub. L. 111–203, § 732][/us/pl/111/203/s732], added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 111–203][/us/pl/111/203], § 732, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-    Subsec. (f). [Pub. L. 111–203, § 724(a)][/us/pl/111/203/s724/a], which directed amendment of section by adding subsec. (f) at end, was executed by making the addition after subsec. (e) to reflect the probable intent of Congress and the addition of subsec. (h) by [section 713(b) of Pub. L. 111–203][/us/pl/111/203/s713/b].
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 724(a), which directed amendment of section by adding subsec. (f) at end, was executed by making the addition after subsec. (e) to reflect the probable intent of Congress and the addition of subsec. (h) by [section 713(b) of Pub. L. 111–203][/us/pl/111/203/s713/b].
 
-    Subsec. (g). [Pub. L. 111–203, § 749(a)(2)][/us/pl/111/203/s749/a/2], which directed amendment of section by adding subsec. (g) at end, was executed by making the addition after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (h) by [section 713(b) of Pub. L. 111–203][/us/pl/111/203/s713/b].
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 749(a)(2), which directed amendment of section by adding subsec. (g) at end, was executed by making the addition after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (h) by [section 713(b) of Pub. L. 111–203][/us/pl/111/203/s713/b].
 
-    Subsec. (h). [Pub. L. 111–203, § 713(b)][/us/pl/111/203/s713/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 713(b), added subsec. (h).
 
-    2000—[Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(f)\], designated first undesignated par. as subsec. (a), designated second undesignated par. as subsec. (b), and added subsec. (c).
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(f)\], designated first undesignated par. as subsec. (a), designated second undesignated par. as subsec. (b), and added subsec. (c).
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
 
-    1983—[Pub. L. 97–444, § 207(1)][/us/pl/97/444/s207/1], inserted reference to introducing brokers in provisions preceding par. (1).
+    1983—[Pub. L. 97–444][/us/pl/97/444], § 207(1), inserted reference to introducing brokers in provisions preceding par. (1).
 
-    Par. (1). [Pub. L. 97–444, § 207(2)][/us/pl/97/444/s207/2], inserted “or introducing broker” after “futures commission merchant”.
+    Par. (1). [Pub. L. 97–444][/us/pl/97/444], § 207(2), inserted “or introducing broker” after “futures commission merchant”.
 
-    Par. (2). [Pub. L. 97–444, § 207(3)][/us/pl/97/444/s207/3], inserted “if a futures commission merchant,” after “such person shall,”.
+    Par. (2). [Pub. L. 97–444][/us/pl/97/444], § 207(3), inserted “if a futures commission merchant,” after “such person shall,”.
 
     1978—[Pub. L. 95–405][/us/pl/95/405] in par. (2) inserted provisions authorizing Commission to prescribe terms and conditions under which funds and property commingled and deposited as permitted by par. (2) may be commingled and deposited with other funds and property received by a futures commission merchant and required by Commission to be separately accounted for and treated as belonging to its customers.
 
@@ -172,35 +172,35 @@
 [/us/usc/t7/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc
 [/us/usc/t7/s6f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa%2F1
 [/us/usc/t15/s78s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fb
-[/us/act/1922-09-21/ch369/s4d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4d
-[/us/act/1936-06-15/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1494
-[/us/pl/90/258/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs6
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F27
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/95/405/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs4
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F869
-[/us/pl/97/444/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs207
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2302
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1646
-[/us/pl/111/203/s749/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fa%2F1%2FA
-[/us/pl/111/203/s749/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fa%2F1%2FB
-[/us/pl/111/203/s749/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fa%2F1%2FC
-[/us/pl/111/203/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs732
-[/us/pl/111/203/s724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs724%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs713%2Fb
-[/us/pl/111/203/s749/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fa%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs713%2Fb
-[/us/pl/111/203/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs713%2Fb
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/97/444/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs207%2F1
-[/us/pl/97/444/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs207%2F2
-[/us/pl/97/444/s207/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs207%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258

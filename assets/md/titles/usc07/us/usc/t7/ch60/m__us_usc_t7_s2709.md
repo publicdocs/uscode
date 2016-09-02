@@ -27,7 +27,7 @@
 
         The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-([Pub. L. 93–428, § 10][/us/pl/93/428/s10], Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176].)
+([Pub. L. 93–428][/us/pl/93/428], § 10, Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/428/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs10
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1176
 
 

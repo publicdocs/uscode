@@ -19,7 +19,7 @@
 
     (b) In the case of claims against the United States Government for unauthorized use of a protected variety, the period between the date of receipt of written claim for compensation by the department or agency of the Government having authority to settle such claim, and the date of mailing by the Government of a notice to the claimant that the claim has been denied shall not be counted as part of the period referred to in the preceding paragraph.
 
-([Pub. L. 91–577, title III, § 126][/us/pl/91/577/s126], Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556]; [Pub. L. 103–349, § 13(u)][/us/pl/103/349/s13/u], Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 126, Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556]; [Pub. L. 103–349][/us/pl/103/349], § 13(u), Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs126
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1556
-[/us/pl/103/349/s13/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fu
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3144
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

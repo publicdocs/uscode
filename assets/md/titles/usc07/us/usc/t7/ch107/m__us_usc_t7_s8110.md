@@ -117,7 +117,7 @@
 
             The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
 
-([Pub. L. 107–171, title IX, § 9010][/us/pl/107/171/s9010], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1325][/us/stat/122/1325], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2086; amended [Pub. L. 112–240, title VII, § 701(f)(9)][/us/pl/112/240/s701/f/9], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9009][/us/pl/113/79/s9009], Feb. 7, 2014, [128 Stat. 931][/us/stat/128/931].)
+([Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9010, as added [Pub. L. 110–234, title IX][/us/pl/110/234/tIX], § 9001(a), May 22, 2008, [122 Stat. 1325][/us/stat/122/1325], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2086; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(f)(9), Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX][/us/pl/113/79/tIX], § 9009, Feb. 7, 2014, [128 Stat. 931][/us/stat/128/931].)
 
  __References in Text__ 
 
@@ -159,14 +159,14 @@
 [/us/usc/t7/s7272/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272%2Ff
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
 [/us/usc/t7/s1359aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359aa
-[/us/pl/107/171/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9010
-[/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/110/234/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIX
 [/us/stat/122/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1325
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F9
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
-[/us/pl/113/79/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9009
+[/us/pl/113/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIX
 [/us/stat/128/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F931
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30

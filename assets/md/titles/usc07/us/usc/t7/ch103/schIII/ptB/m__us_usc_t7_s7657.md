@@ -115,7 +115,7 @@
 
             (B) may not exceed a period of 2 years.
 
-([Pub. L. 105–185, title VI, § 620][/us/pl/105/185/s620], as added [Pub. L. 107–171, title VII, § 7219][/us/pl/107/171/s7219], May 13, 2002, [116 Stat. 449][/us/stat/116/449].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 620, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7219, May 13, 2002, [116 Stat. 449][/us/stat/116/449].)
 
  __References in Text__ 
 
@@ -134,8 +134,8 @@
 [/us/usc/t5/s5377/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5377%2Fd%2F2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t5/s6303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303%2Fa
-[/us/pl/105/185/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs620
-[/us/pl/107/171/s7219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7219
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F449
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312

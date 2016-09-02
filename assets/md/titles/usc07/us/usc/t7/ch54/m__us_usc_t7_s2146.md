@@ -27,7 +27,7 @@
 
         For the efficient administration and enforcement of this chapter and the regulations and standards promulgated under this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraph (c) through (h) of section 46 and the last paragraph of section 49  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15), and the provisions of Title II of the Organized Crime Control Act of 1970, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, including any territory, or possession thereof, the District of Columbia, or the Commonwealth of Puerto Rico. The powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any district court of the United States. The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in [section 2149(c) of this title][/us/usc/t7/s2149/c].
 
-([Pub. L. 89–544, § 16][/us/pl/89/544/s16], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579, § 17][/us/pl/91/579/s17], Dec. 24, 1970, [84 Stat. 1563][/us/stat/84/1563]; [Pub. L. 94–279, § 12][/us/pl/94/279/s12], Apr. 22, 1976, [90 Stat. 420][/us/stat/90/420]; [Pub. L. 99–198, title XVII, § 1753][/us/pl/99/198/s1753], Dec. 23, 1985, [99 Stat. 1649][/us/stat/99/1649]; [Pub. L. 101–624, title XXV, § 2503(1)][/us/pl/101/624/s2503/1], Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066].)
+([Pub. L. 89–544][/us/pl/89/544], § 16, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579][/us/pl/91/579], § 17, Dec. 24, 1970, [84 Stat. 1563][/us/stat/84/1563]; [Pub. L. 94–279][/us/pl/94/279], § 12, Apr. 22, 1976, [90 Stat. 420][/us/stat/90/420]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1753, Dec. 23, 1985, [99 Stat. 1649][/us/stat/99/1649]; [Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2503(1), Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198] inserted provision directing Secretary to inspect each research facility at least once each year and, in case of deficiencies or deviations from standards promulgated under this chapter, conduct such follow-up inspections as may be necessary until all deficiencies or deviations from such standards are corrected.
 
-    1976—Subsec. (a). [Pub. L. 94–279, § 12(a)][/us/pl/94/279/s12/a], inserted “intermediate handler, carrier,” after “dealer, exhibitor,” and inserted “or (5) such animal is held by an intermediate handler or a carrier” after “an auction sale”.
+    1976—Subsec. (a). [Pub. L. 94–279][/us/pl/94/279], § 12(a), inserted “intermediate handler, carrier,” after “dealer, exhibitor,” and inserted “or (5) such animal is held by an intermediate handler or a carrier” after “an auction sale”.
 
-    Subsec. (c). [Pub. L. 94–279, § 12(b)][/us/pl/94/279/s12/b], substituted “section 2149(c)” for “sections 2149(b) and 2150(b)” after “except as provided in”.
+    Subsec. (c). [Pub. L. 94–279][/us/pl/94/279], § 12(b), substituted “section 2149(c)” for “sections 2149(b) and 2150(b)” after “except as provided in”.
 
     1970—[Pub. L. 91–579][/us/pl/91/579] designated existing provisions as subsec. (a), expanded coverage to include exhibitors and operators of auction sales for purposes of investigation, inserted provisions requiring that records, facilities, and animals be accessible to inspectors at all reasonable times at premises of dealers, research facilities, exhibitors, and operators of auction sales, and added subsecs. (b) and (c).
 
@@ -65,15 +65,15 @@
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
 [/us/usc/t7/s2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2140
 [/us/usc/t7/s2149/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2149%2Fc
-[/us/pl/89/544/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs16
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
-[/us/pl/91/579/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs17
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1563
-[/us/pl/94/279/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs12
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F420
-[/us/pl/99/198/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1753
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1649
-[/us/pl/101/624/s2503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2503%2F1
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4066
 [/us/usc/t15/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs49
 [/us/pl/91/452/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs211
@@ -82,8 +82,8 @@
 [/us/stat/84/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F926
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/94/279/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs12%2Fa
-[/us/pl/94/279/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs12%2Fb
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1759

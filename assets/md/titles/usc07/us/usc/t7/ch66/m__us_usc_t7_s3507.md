@@ -17,7 +17,7 @@
 
     Not later than 90 days after October 14, 1978, the Secretary shall prescribe regulations for purposes of carrying out the provisions of this chapter.
 
-([Pub. L. 95–460, § 8][/us/pl/95/460/s8], Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
+([Pub. L. 95–460][/us/pl/95/460], § 8, Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/460/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs8
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1266
 
 

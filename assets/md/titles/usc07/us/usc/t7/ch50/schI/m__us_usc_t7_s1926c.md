@@ -85,7 +85,7 @@
 
         Not later than 30 days after October 28, 1992, the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
 
-([Pub. L. 87–128, title III, § 306C][/us/pl/87/128/s306C], as added [Pub. L. 101–624, title XXIII, § 2327][/us/pl/101/624/s2327], Nov. 28, 1990, [104 Stat. 4015][/us/stat/104/4015]; amended [Pub. L. 102–237, title VII, § 701(b)][/us/pl/102/237/s701/b], Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879]; [Pub. L. 102–552, title V, § 516][/us/pl/102/552/s516](l), (m), Oct. 28, 1992, [106 Stat. 4139][/us/stat/106/4139]; [Pub. L. 102–554, § 24][/us/pl/102/554/s24], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 107–171, title VI, § 6010][/us/pl/107/171/s6010], May 13, 2002, [116 Stat. 357][/us/stat/116/357].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 306C, as added [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2327, Nov. 28, 1990, [104 Stat. 4015][/us/stat/104/4015]; amended [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 701(b), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(l), (m), Oct. 28, 1992, [106 Stat. 4139][/us/stat/106/4139]; [Pub. L. 102–554][/us/pl/102/554], § 24, Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6010, May 13, 2002, [116 Stat. 357][/us/stat/116/357].)
 
  __Amendments__ 
 
@@ -101,9 +101,9 @@
 
     “(B) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.”
 
-    Subsec. (b)(1). [Pub. L. 102–552, § 516][/us/pl/102/552/s516](l), substituted “, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems” for “or connecting such systems to the residences of such individuals”.
+    Subsec. (b)(1). [Pub. L. 102–552][/us/pl/102/552], § 516(l), substituted “, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems” for “or connecting such systems to the residences of such individuals”.
 
-    Subsec. (f). [Pub. L. 102–552, § 516(m)][/us/pl/102/552/s516/m], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–552][/us/pl/102/552], § 516(m), added subsec. (f).
 
     1991—Subsec. (a)(2). [Pub. L. 102–237][/us/pl/102/237] realigned margins of subpars. (A) and (B).
 
@@ -120,21 +120,21 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t7/s1926d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926d
-[/us/pl/87/128/s306C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs306C
-[/us/pl/101/624/s2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2327
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4015
-[/us/pl/102/237/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fb
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1879
-[/us/pl/102/552/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4139
-[/us/pl/102/554/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs24
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4161
-[/us/pl/107/171/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6010
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F357
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
-[/us/pl/102/552/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516
-[/us/pl/102/552/s516/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fm
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

@@ -125,13 +125,13 @@
 
             In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 87–128, title III, § 306A][/us/pl/87/128/s306A], as added [Pub. L. 101–82, title V, § 501(a)][/us/pl/101/82/s501/a], Aug. 14, 1989, [103 Stat. 584][/us/stat/103/584]; amended [Pub. L. 104–127, title VII, § 742][/us/pl/104/127/s742], Apr. 4, 1996, [110 Stat. 1124][/us/stat/110/1124]; [Pub. L. 107–171, title VI, § 6009][/us/pl/107/171/s6009], May 13, 2002, [116 Stat. 356][/us/stat/116/356]; [Pub. L. 110–234, title VI, § 6008][/us/pl/110/234/s6008], May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924; [Pub. L. 113–79, title VI, § 6007][/us/pl/113/79/s6007], Feb. 7, 2014, [128 Stat. 843][/us/stat/128/843].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 306A, as added [Pub. L. 101–82, title V][/us/pl/101/82/tV], § 501(a), Aug. 14, 1989, [103 Stat. 584][/us/stat/103/584]; amended [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 742, Apr. 4, 1996, [110 Stat. 1124][/us/stat/110/1124]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6009, May 13, 2002, [116 Stat. 356][/us/stat/116/356]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6008, May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6007, Feb. 7, 2014, [128 Stat. 843][/us/stat/128/843].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
     For definition of “this chapter”, referred to in subsec. (h)(2)(B), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
@@ -143,33 +143,33 @@
 
     2014—Subsec. (i)(2). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—Subsec. (i)(2). [Pub. L. 110–246, § 6008][/us/pl/110/246/s6008], substituted “2008 through 2012” for “2003 through 2007”.
+    2008—Subsec. (i)(2). [Pub. L. 110–246][/us/pl/110/246], § 6008, substituted “2008 through 2012” for “2003 through 2007”.
 
-    2002—[Pub. L. 107–171, § 6009(1)][/us/pl/107/171/s6009/1], inserted “and imminent” before “community water assistance” in section catchline.
+    2002—[Pub. L. 107–171][/us/pl/107/171], § 6009(1), inserted “and imminent” before “community water assistance” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 107–171, § 6009(2)(A)][/us/pl/107/171/s6009/2/A], inserted “, or when such a decline is imminent” before semicolon at end.
+    Subsec. (a)(1). [Pub. L. 107–171][/us/pl/107/171], § 6009(2)(A), inserted “, or when such a decline is imminent” before semicolon at end.
 
-    Subsec. (a)(2)(A). [Pub. L. 107–171, § 6009(2)(B)(i)][/us/pl/107/171/s6009/2/B/i], substituted “acute, or imminent,” for “acute”.
+    Subsec. (a)(2)(A). [Pub. L. 107–171][/us/pl/107/171], § 6009(2)(B)(i), substituted “acute, or imminent,” for “acute”.
 
-    Subsec. (a)(2)(B). [Pub. L. 107–171, § 6009(2)(B)(ii)][/us/pl/107/171/s6009/2/B/ii], substituted “decline, or imminent decline,” for “decline”.
+    Subsec. (a)(2)(B). [Pub. L. 107–171][/us/pl/107/171], § 6009(2)(B)(ii), substituted “decline, or imminent decline,” for “decline”.
 
-    Subsec. (c)(2). [Pub. L. 107–171, § 6009(3)][/us/pl/107/171/s6009/3], substituted “occurred, or will occur,” for “occurred”.
+    Subsec. (c)(2). [Pub. L. 107–171][/us/pl/107/171], § 6009(3), substituted “occurred, or will occur,” for “occurred”.
 
-    Subsec. (d)(1). [Pub. L. 107–171, § 6009(4)][/us/pl/107/171/s6009/4], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.) or the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.).”
+    Subsec. (d)(1). [Pub. L. 107–171][/us/pl/107/171], § 6009(4), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.) or the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.).”
 
-    Subsec. (f)(2). [Pub. L. 107–171, § 6009(5)][/us/pl/107/171/s6009/5], substituted “$150,000” for “$75,000”.
+    Subsec. (f)(2). [Pub. L. 107–171][/us/pl/107/171], § 6009(5), substituted “$150,000” for “$75,000”.
 
-    Subsec. (h)(1). [Pub. L. 107–171, § 6009(6)(A)][/us/pl/107/171/s6009/6/A], substituted “decline, or imminent decline,” for “decline” in second sentence.
+    Subsec. (h)(1). [Pub. L. 107–171][/us/pl/107/171], § 6009(6)(A), substituted “decline, or imminent decline,” for “decline” in second sentence.
 
-    Subsec. (h)(2). [Pub. L. 107–171, § 6009(6)(B)][/us/pl/107/171/s6009/6/B], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
+    Subsec. (h)(2). [Pub. L. 107–171][/us/pl/107/171], § 6009(6)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
 
-    Subsec. (i). [Pub. L. 107–171, § 6009(7)][/us/pl/107/171/s6009/7], added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
+    Subsec. (i). [Pub. L. 107–171][/us/pl/107/171], § 6009(7), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
 
-    1996—Subsec. (e)(1)(A). [Pub. L. 104–127, § 742(1)(A)][/us/pl/104/127/s742/1/A], substituted “10,000” for “15,000”.
+    1996—Subsec. (e)(1)(A). [Pub. L. 104–127][/us/pl/104/127], § 742(1)(A), substituted “10,000” for “15,000”.
 
-    Subsec. (e)(2). [Pub. L. 104–127, § 742(1)(B)][/us/pl/104/127/s742/1/B], substituted “3,000” for “5,000”.
+    Subsec. (e)(2). [Pub. L. 104–127][/us/pl/104/127], § 742(1)(B), substituted “3,000” for “5,000”.
 
-    Subsec. (i). [Pub. L. 104–127, § 742(2)][/us/pl/104/127/s742/2], added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
+    Subsec. (i). [Pub. L. 104–127][/us/pl/104/127], § 742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -177,7 +177,7 @@
 
  __Implementation__ 
 
-[Pub. L. 101–82, title V, § 501(b)][/us/pl/101/82/s501/b], Aug. 14, 1989, [103 Stat. 585][/us/stat/103/585], provided that:
+[Pub. L. 101–82, title V][/us/pl/101/82/tV], § 501(b), Aug. 14, 1989, [103 Stat. 585][/us/stat/103/585], provided that:
 
 >     “(1)  __Regulations__  __.—__ 
 
@@ -207,24 +207,24 @@
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t7/s1926/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F2
-[/us/pl/87/128/s306A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs306A
-[/us/pl/101/82/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs501%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtV
 [/us/stat/103/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F584
-[/us/pl/104/127/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs742
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1124
-[/us/pl/107/171/s6009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F356
-[/us/pl/110/234/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6008
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1163
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6007
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F843
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
@@ -233,28 +233,28 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6008
-[/us/pl/107/171/s6009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F1
-[/us/pl/107/171/s6009/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F2%2FA
-[/us/pl/107/171/s6009/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F2%2FB%2Fi
-[/us/pl/107/171/s6009/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F2%2FB%2Fii
-[/us/pl/107/171/s6009/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F3
-[/us/pl/107/171/s6009/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/107/171/s6009/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F5
-[/us/pl/107/171/s6009/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F6%2FA
-[/us/pl/107/171/s6009/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F6%2FB
-[/us/pl/107/171/s6009/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6009%2F7
-[/us/pl/104/127/s742/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs742%2F1%2FA
-[/us/pl/104/127/s742/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs742%2F1%2FB
-[/us/pl/104/127/s742/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs742%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/101/82/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs501%2Fb
+[/us/pl/101/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtV
 [/us/stat/103/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F585
 [/us/usc/t7/s1926a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926a
 

@@ -25,7 +25,7 @@
 
     (4) Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-([Pub. L. 97–98, title XVII, § 1708][/us/pl/97/98/s1708], Dec. 22, 1981, [95 Stat. 1352][/us/stat/95/1352].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1708, Dec. 22, 1981, [95 Stat. 1352][/us/stat/95/1352].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1708
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1352
 
 

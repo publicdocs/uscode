@@ -17,7 +17,7 @@
 
     No funds provided under this chapter shall be used outside the United States or any of its territories.
 
-([Pub. L. 93–32, § 10][/us/pl/93/32/s10], May 11, 1973, [87 Stat. 71][/us/stat/87/71].)
+([Pub. L. 93–32][/us/pl/93/32], § 10, May 11, 1973, [87 Stat. 71][/us/stat/87/71].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/32/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs10
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F71
 [/us/pl/93/32/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs12
 [/us/usc/t7/s930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs930

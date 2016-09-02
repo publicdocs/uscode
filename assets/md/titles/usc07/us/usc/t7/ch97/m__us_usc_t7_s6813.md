@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations as are necessary to carry out this chapter and the powers vested in the Secretary by this chapter, including regulations relating to the assessment of late payment charges and interest.
 
-([Pub. L. 103–190, § 14][/us/pl/103/190/s14], Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
+([Pub. L. 103–190][/us/pl/103/190], § 14, Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/190/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs14
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2289
 
 

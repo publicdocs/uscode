@@ -43,7 +43,7 @@
 
         (3) deny a loan or advance to, or take any other adverse action against, an applicant for, or a borrower of, a telephone loan under this chapter for any reason that is not based on a rule, regulation, bulletin, or other written policy standard that has not been published pursuant to [section 553 of title 5][/us/usc/t5/s553].
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 206, as added [Pub. L. 101–624, title XXIII, § 2357][/us/pl/101/624/s2357], Nov. 28, 1990, [104 Stat. 4040][/us/stat/104/4040]; amended [Pub. L. 103–354, title II, § 235(a)(7)][/us/pl/103/354/s235/a/7], (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 206, as added [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2357, Nov. 28, 1990, [104 Stat. 4040][/us/stat/104/4040]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(7), (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t5/s553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fa%2F2
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/101/624/s2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2357
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4040
-[/us/pl/103/354/s235/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 

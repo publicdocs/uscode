@@ -53,7 +53,7 @@
 
         As used in this section, the term “major regulation” means any regulation that the Secretary of Agriculture estimates is likely to have an annual impact on the economy of the United States of $100,000,000 in 1994 dollars.
 
-([Pub. L. 103–354, title III, § 304][/us/pl/103/354/s304], Oct. 13, 1994, [108 Stat. 3239][/us/stat/108/3239].)
+([Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 304, Oct. 13, 1994, [108 Stat. 3239][/us/stat/108/3239].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs304
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
 [/us/stat/108/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3239
 
 

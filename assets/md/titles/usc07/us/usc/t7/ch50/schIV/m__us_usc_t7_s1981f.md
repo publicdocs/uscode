@@ -17,7 +17,7 @@
 
     In the administration of this chapter, the Secretary shall, to the extent practicable, use underwriting forms, standards, practices, and terminology similar to the forms, standards, practices, and terminology used by lenders in the private sector.
 
-([Pub. L. 87–128, title III, § 331F][/us/pl/87/128/s331F], as added [Pub. L. 101–624, title XVIII, § 1808(a)][/us/pl/101/624/s1808/a], Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 331F, as added [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1808(a), Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Regulations__ 
 
-[Pub. L. 101–624, title XVIII, § 1808(b)][/us/pl/101/624/s1808/b], Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820], provided that: 
+[Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1808(b), Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820], provided that: 
 
 > “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk under section 331F of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1981f][/us/usc/t7/s1981f]\] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 ([7 U.S.C. 1989][/us/usc/t7/s1989] note).”
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/87/128/s331F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs331F
-[/us/pl/101/624/s1808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1808%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3820
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/101/624/s1808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1808%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3820
 [/us/usc/t7/s1981f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981f
 [/us/usc/t7/s1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1989

@@ -41,7 +41,7 @@
 
     (4) Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  an annual report describing activities conducted under the dairy products promotion and research order issued under this subchapter, and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
 
-([Pub. L. 98–180, title III, § 301][/us/pl/98/180/s301], Nov. 29, 1983, [97 Stat. 1150][/us/stat/97/1150].)
+([Pub. L. 98–180, title III][/us/pl/98/180/tIII], § 301, Nov. 29, 1983, [97 Stat. 1150][/us/stat/97/1150].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t7/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446%2Fd
 [/us/usc/t7/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446%2Fd
-[/us/pl/98/180/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs301
+[/us/pl/98/180/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtIII
 [/us/stat/97/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1150
 [/us/pl/98/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180
 [/us/pl/98/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180

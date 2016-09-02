@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_ch83_schII_ptB.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231...5233.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
 
 ## § 5234. Cooperator organizations
 
@@ -35,16 +35,16 @@
 
         It is the sense of Congress that the Secretary should establish a consistent, objective means for the evaluation of cooperator programs.
 
-([Pub. L. 100–418, title IV, § 4214][/us/pl/100/418/s4214], Aug. 23, 1988, [102 Stat. 1394][/us/stat/102/1394].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4214, Aug. 23, 1988, [102 Stat. 1394][/us/stat/102/1394].)
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_ch83_schII_ptB.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231...5233.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
 
 ----------
 ----------
 
-[/us/pl/100/418/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4214
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1394
 
 

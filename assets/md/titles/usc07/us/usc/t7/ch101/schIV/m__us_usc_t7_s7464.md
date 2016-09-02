@@ -89,11 +89,11 @@
 
         (6) employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs and increase efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-([Pub. L. 104–127, title V, § 555][/us/pl/104/127/s555], Apr. 4, 1996, [110 Stat. 1066][/us/stat/110/1066]; [Pub. L. 105–185, title VI, § 603(b)][/us/pl/105/185/s603/b], June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 555, Apr. 4, 1996, [110 Stat. 1066][/us/stat/110/1066]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 603(b), June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–185, § 603(b)(1)][/us/pl/105/185/s603/b/1], added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+    1998—Subsec. (a). [Pub. L. 105–185][/us/pl/105/185], § 603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) 6 members who are producers (or representatives of producers) and who are not exempt from an assessment under [section 7465(b) of this title][/us/usc/t7/s7465/b].
 
@@ -101,13 +101,13 @@
 
     “(3) 1 member appointed from the general public.”
 
-    Subsec. (b). [Pub. L. 105–185, § 603(b)(2)][/us/pl/105/185/s603/b/2], struck out par. (1) designation and heading, struck out “and to paragraph (2)” after “11-member limit”, and struck out heading and text of par. (2). Text read as follows: “Producers shall comprise not less than 51 percent of the membership of the Board.”
+    Subsec. (b). [Pub. L. 105–185][/us/pl/105/185], § 603(b)(2), struck out par. (1) designation and heading, struck out “and to paragraph (2)” after “11-member limit”, and struck out heading and text of par. (2). Text read as follows: “Producers shall comprise not less than 51 percent of the membership of the Board.”
 
-    Subsec. (c)(2). [Pub. L. 105–185, § 603(b)(3)(A)][/us/pl/105/185/s603/b/3/A], inserted “who are producers” after “members”.
+    Subsec. (c)(2). [Pub. L. 105–185][/us/pl/105/185], § 603(b)(3)(A), inserted “who are producers” after “members”.
 
-    Subsec. (c)(3). [Pub. L. 105–185, § 603(b)(3)(B)][/us/pl/105/185/s603/b/3/B], inserted “who are importers or exporters” after “members” and substituted “(a)(1)” for “(a)(2)”.
+    Subsec. (c)(3). [Pub. L. 105–185][/us/pl/105/185], § 603(b)(3)(B), inserted “who are importers or exporters” after “members” and substituted “(a)(1)” for “(a)(2)”.
 
-    Subsec. (c)(5). [Pub. L. 105–185, § 603(b)(3)(C)][/us/pl/105/185/s603/b/3/C], inserted “and alternate” before “may be appointed” in second sentence.
+    Subsec. (c)(5). [Pub. L. 105–185][/us/pl/105/185], § 603(b)(3)(C), inserted “and alternate” before “may be appointed” in second sentence.
 
 ----------
 
@@ -118,16 +118,16 @@
 
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
-[/us/pl/104/127/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs555
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1066
-[/us/pl/105/185/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
-[/us/pl/105/185/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb%2F1
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s7465/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7465%2Fb
 [/us/usc/t7/s7465/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7465%2Fb
-[/us/pl/105/185/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb%2F2
-[/us/pl/105/185/s603/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb%2F3%2FA
-[/us/pl/105/185/s603/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb%2F3%2FB
-[/us/pl/105/185/s603/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fb%2F3%2FC
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 
 

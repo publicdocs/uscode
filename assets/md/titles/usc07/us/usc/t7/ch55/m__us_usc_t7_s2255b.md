@@ -69,7 +69,7 @@
 
         (2) does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.
 
-([Pub. L. 110–234, title XIV, § 14208][/us/pl/110/234/s14208], May 22, 2008, [122 Stat. 1462][/us/stat/122/1462]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2224.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14208, May 22, 2008, [122 Stat. 1462][/us/stat/122/1462]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2224.)
 
  __Codification__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14208
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1462
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

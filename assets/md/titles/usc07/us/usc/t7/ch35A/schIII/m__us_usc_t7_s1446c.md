@@ -31,7 +31,7 @@
 
  __Report of Dairy Product Purchases__ 
 
-[Pub. L. 101–624, title I, § 105][/us/pl/101/624/s105], Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], provided that: 
+[Pub. L. 101–624, title I][/us/pl/101/624/tI], § 105, Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], provided that: 
 
 > “The Secretary of Agriculture shall make available to the public quarterly evaluations of the acquisition and disposal of Commodity Credit Corporation purchases of dairy products.”
 
@@ -53,7 +53,7 @@
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/624/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs105
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3379
 
 

@@ -63,7 +63,7 @@
 
         It is further the sense of Congress that the Secretary of Agriculture issue or, as appropriate, amend regulations to implement any program established under section 424 \[[7 U.S.C. 1433c][/us/usc/t7/s1433c]\] as soon as practicable, but not later than 15 days after March 20, 1986. Loans and other assistance provided under such program shall be made available beginning on the date such regulations are issued or amended.
 
-([Pub. L. 99–260, § 13][/us/pl/99/260/s13], Mar. 20, 1986, [100 Stat. 53][/us/stat/100/53]; [Pub. L. 108–357, title VI, § 611(q)][/us/pl/108/357/s611/q], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
+([Pub. L. 99–260][/us/pl/99/260], § 13, Mar. 20, 1986, [100 Stat. 53][/us/stat/100/53]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(q), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
 
  __References in Text__ 
 
@@ -100,9 +100,9 @@
 [/us/usc/t7/s1433c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1433c
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s1433c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1433c
-[/us/pl/99/260/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260%2Fs13
+[/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/stat/100/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F53
-[/us/pl/108/357/s611/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fq
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

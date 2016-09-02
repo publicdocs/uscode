@@ -33,7 +33,7 @@
 
         The Administrator shall, in cooperation with the Secretary of Agriculture, use the services of the cooperative State extension services to inform and educate pesticide users about accepted uses and other regulations made under this subchapter.
 
-([June 25, 1947, ch. 125, § 23][/us/act/1947-06-25/ch125/s23], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996]; amended [Pub. L. 95–396, § 21][/us/pl/95/396/s21], Sept. 30, 1978, [92 Stat. 834][/us/stat/92/834].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 23, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996]; amended [Pub. L. 95–396][/us/pl/95/396], § 21, Sept. 30, 1978, [92 Stat. 834][/us/stat/92/834].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Availability of Grants for Pesticide Program Development and Implementation__ 
 
-[Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2499][/us/stat/112/2499], provided in part: 
+[Pub. L. 105–276, title III][/us/pl/105/276/tIII], Oct. 21, 1998, [112 Stat. 2499][/us/stat/112/2499], provided in part: 
 
 > “That beginning in fiscal year 1999 and thereafter, pesticide program implementation grants under section 23(a)(1) of the Federal Insecticide, Fungicide and Rodenticide Act, as amended \[[7 U.S.C. 136u(a)(1)][/us/usc/t7/s136u/a/1]\], shall be available for pesticide program development and implementation, including enforcement and compliance activities”.
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs23
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F996
-[/us/pl/95/396/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs21
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F834
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIII
 [/us/stat/112/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2499
 [/us/usc/t7/s136u/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136u%2Fa%2F1
 

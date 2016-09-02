@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-Section was from [act June 16, 1938, ch. 464][/us/act/1938-06-16/ch464], title I, [52 Stat. 739][/us/stat/52/739], the Department of Agriculture Appropriation Act, 1939, and related to sale of practical forms of grades of wool and mohair. See [section 415e of this title][/us/usc/t7/s415e]. Similar provisions were contained in the following prior appropriation acts:
+Section was from [act June 16, 1938, ch. 464, title I][/us/act/1938-06-16/ch464/tI], [52 Stat. 739][/us/stat/52/739], the Department of Agriculture Appropriation Act, 1939, and related to sale of practical forms of grades of wool and mohair. See [section 415e of this title][/us/usc/t7/s415e]. Similar provisions were contained in the following prior appropriation acts:
 
     [June 29, 1937, ch. 404][/us/act/1937-06-29/ch404], title I, [50 Stat. 424][/us/stat/50/424].
 
@@ -48,7 +48,7 @@ Section was from [act June 16, 1938, ch. 464][/us/act/1938-06-16/ch464], title I
 ----------
 ----------
 
-[/us/act/1938-06-16/ch464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch464
+[/us/act/1938-06-16/ch464/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch464%2FtI
 [/us/stat/52/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F739
 [/us/usc/t7/s415e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs415e
 [/us/act/1937-06-29/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-29%2Fch404

@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Egg Board in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-([Pub. L. 93–428, § 20][/us/pl/93/428/s20], Oct. 1, 1974, [88 Stat. 1179][/us/stat/88/1179].)
+([Pub. L. 93–428][/us/pl/93/428], § 20, Oct. 1, 1974, [88 Stat. 1179][/us/stat/88/1179].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/428/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs20
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1179
 
 

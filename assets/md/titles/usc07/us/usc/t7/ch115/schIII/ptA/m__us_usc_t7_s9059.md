@@ -17,7 +17,7 @@
 
     The margin protection program shall end on December 31, 2018.
 
-([Pub. L. 113–79, title I, § 1409][/us/pl/113/79/s1409], Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1409, Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1409
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F693
 
 

@@ -35,7 +35,7 @@
 
             Not more than 4 percent of the amounts made available under paragraph (1) may be used for planning and administrative expenses.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 19, as added [Pub. L. 106–472, title III, § 301][/us/pl/106/472/s301], Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 19, as added [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 301, Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/106/472/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs301
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2069
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-637

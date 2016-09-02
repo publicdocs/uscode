@@ -15,7 +15,7 @@
 
 ## § 446. Repealed. [Pub. L. 86–133][/us/pl/86/133], Aug. 4, 1959, [73 Stat. 279][/us/stat/73/279]
 
-    Section, [act July 3, 1956, ch. 512, § 5][/us/act/1956-07-03/ch512/s5], [70 Stat. 492][/us/stat/70/492], prescribed three years following July 3, 1956, as expiration date for availability of grain under sections 442 to 446 of this title.
+    Section, [act July 3, 1956, ch. 512][/us/act/1956-07-03/ch512], § 5, [70 Stat. 492][/us/stat/70/492], prescribed three years following July 3, 1956, as expiration date for availability of grain under sections 442 to 446 of this title.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/pl/86/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F133
 [/us/stat/73/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F279
-[/us/act/1956-07-03/ch512/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512%2Fs5
+[/us/act/1956-07-03/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512
 [/us/stat/70/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F492
 
 

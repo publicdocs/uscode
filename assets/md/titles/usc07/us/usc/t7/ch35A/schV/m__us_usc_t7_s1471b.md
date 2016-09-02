@@ -33,7 +33,7 @@
 
         Notwithstanding the preceding provisions of this section, any State, county, or area determined eligible, due to drought or related conditions in 1988, for the emergency feed program or emergency feed assistance program conducted prior to the effective date of this subchapter shall continue to be eligible for such programs and may be eligible for other programs under this subchapter for such drought or related condition. As soon as practicable after the effective date of this subchapter, the Secretary shall determine whether any of the programs described in [section 1471d of this title][/us/usc/t7/s1471d], other than the emergency feed program under [section 1471d(a)(4) of this title][/us/usc/t7/s1471d/a/4] and the emergency feed assistance program under [section 1471d(a)(2) of this title][/us/usc/t7/s1471d/a/2], or in [section 1471e of this title][/us/usc/t7/s1471e] should be made available in such State, county, or area. If the Secretary makes such determination, the Secretary shall make such programs immediately available to livestock producers in the State, county, or area.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 604, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 927][/us/stat/102/927].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 604, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 927][/us/stat/102/927].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t7/s1471d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471d%2Fa%2F2
 [/us/usc/t7/s1471e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471e
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F927
 [/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
 [/us/pl/100/387/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc

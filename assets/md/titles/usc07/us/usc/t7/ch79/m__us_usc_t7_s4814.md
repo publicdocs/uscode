@@ -43,7 +43,7 @@
 
             (B) take such further proceedings as, in the opinion of the court, the law requires.
 
-([Pub. L. 99–198, title XVI, § 1625][/us/pl/99/198/s1625], Dec. 23, 1985, [99 Stat. 1619][/us/stat/99/1619].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1625, Dec. 23, 1985, [99 Stat. 1619][/us/stat/99/1619].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1625
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1619
 
 

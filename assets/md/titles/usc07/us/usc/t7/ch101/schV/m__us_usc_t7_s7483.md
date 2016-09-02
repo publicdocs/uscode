@@ -37,7 +37,7 @@
 
         The Secretary, as appropriate, may amend an order. The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that an amendment to an order may not require a referendum to become effective.
 
-([Pub. L. 104–127, title V, § 574][/us/pl/104/127/s574], Apr. 4, 1996, [110 Stat. 1076][/us/stat/110/1076].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 574, Apr. 4, 1996, [110 Stat. 1076][/us/stat/110/1076].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t7/s7481/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7481%2Fb
-[/us/pl/104/127/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs574
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1076
 
 

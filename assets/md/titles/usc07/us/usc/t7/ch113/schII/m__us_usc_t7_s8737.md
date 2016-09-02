@@ -157,7 +157,7 @@
 
             (B) ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
 
-([Pub. L. 110–234, title I, § 1207][/us/pl/110/234/s1207], May 22, 2008, [122 Stat. 960][/us/stat/122/960]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1207, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1689.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1207, May 22, 2008, [122 Stat. 960][/us/stat/122/960]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1207, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1689.)
 
  __References in Text__ 
 
@@ -182,9 +182,9 @@
 [/us/usc/t19/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fd
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
 [/us/usc/t19/s2463/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fd
-[/us/pl/110/234/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1207
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F960
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

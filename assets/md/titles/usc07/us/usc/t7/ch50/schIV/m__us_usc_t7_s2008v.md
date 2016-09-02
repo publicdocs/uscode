@@ -103,7 +103,7 @@
 
             Any rural development application authorized under section 1926(a)(2), 1926(a)(14), 1926(a)(24), 1926a, or 1932(b) of this title and approved by the Secretary before February 7, 2014, shall be eligible for the funds reserved under subsection (d)(1) on the same basis as the applications submitted under this section until September 30, 2016.
 
-([Pub. L. 87–128, title III, § 379H][/us/pl/87/128/s379H], as added [Pub. L. 113–79, title VI, § 6025][/us/pl/113/79/s6025], Feb. 7, 2014, [128 Stat. 848][/us/stat/128/848].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 379H, as added [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6025, Feb. 7, 2014, [128 Stat. 848][/us/stat/128/848].)
 
  __References in Text__ 
 
@@ -126,8 +126,8 @@
 [/us/usc/t7/s1932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fb
 [/us/usc/t7/s1932/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa%2F2%2FA
 [/us/usc/t7/s1932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fc
-[/us/pl/87/128/s379H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs379H
-[/us/pl/113/79/s6025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6025
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F848
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

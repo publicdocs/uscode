@@ -27,7 +27,7 @@
 
         Any limitation imposed by Act of Congress on the conduct or completion of studies or reports to Congress shall not apply to the study and report required under this section, unless the limitation specifically refers to this section.
 
-([Pub. L. 104–127, title I, § 151][/us/pl/104/127/s151], Apr. 4, 1996, [110 Stat. 922][/us/stat/110/922].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 151, Apr. 4, 1996, [110 Stat. 922][/us/stat/110/922].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs151
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F922
 
 

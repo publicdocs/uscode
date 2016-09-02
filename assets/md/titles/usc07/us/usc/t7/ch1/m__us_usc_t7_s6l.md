@@ -23,7 +23,7 @@
 
     (3) the foregoing transactions occur in such volume as to affect substantially transactions on contract markets or derivatives transaction execution facilities.
 
-([Sept. 21, 1922, ch. 369, § 4][/us/act/1922-09-21/ch369/s4]l, as added [Pub. L. 93–463, title II, § 205(a)][/us/pl/93/463/s205/a], Oct. 23, 1974, [88 Stat. 1397][/us/stat/88/1397]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–408.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4l, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 205(a), Oct. 23, 1974, [88 Stat. 1397][/us/stat/88/1397]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–408.)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4
-[/us/pl/93/463/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs205%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1397
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/93/463/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs418

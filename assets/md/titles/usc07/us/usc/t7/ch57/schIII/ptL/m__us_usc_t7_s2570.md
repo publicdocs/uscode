@@ -19,7 +19,7 @@
 
     (b) In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any private entity. Such remedies include damages, interest, costs, and treble damages under [section 2564 of this title][/us/usc/t7/s2564], and attorney fees under [section 2565 of this title][/us/usc/t7/s2565].
 
-([Pub. L. 91–577, title III, § 130][/us/pl/91/577/s130], as added [Pub. L. 102–560, § 3(b)][/us/pl/102/560/s3/b], Oct. 28, 1992, [106 Stat. 4231][/us/stat/106/4231]; amended [Pub. L. 103–349, § 13(w)][/us/pl/103/349/s13/w], Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 130, as added [Pub. L. 102–560][/us/pl/102/560], § 3(b), Oct. 28, 1992, [106 Stat. 4231][/us/stat/106/4231]; amended [Pub. L. 103–349][/us/pl/103/349], § 13(w), Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144].)
 
  __Amendments__ 
 
@@ -43,10 +43,10 @@
 [/us/usc/t7/s2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2541
 [/us/usc/t7/s2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2564
 [/us/usc/t7/s2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2565
-[/us/pl/91/577/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs130
-[/us/pl/102/560/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs3%2Fb
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/stat/106/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4231
-[/us/pl/103/349/s13/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fw
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3144
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

@@ -41,7 +41,7 @@
 
         (3) has become known to the trade as a swap or security-based swap, or otherwise has been structured as an identified banking product for the purpose of evading the provisions of the Commodity Exchange Act ([7 U.S.C. 1][/us/usc/t7/s1] et seq.), the Securities Act of 1933 ([15 U.S.C. 77a][/us/usc/t15/s77a] et seq.), or the Securities Exchange Act of 1934 ([15 U.S.C. 78a][/us/usc/t15/s78a] et seq.).
 
-([Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title IV, § 403\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–458; [Pub. L. 111–203, title VII, § 725(g)(2)][/us/pl/111/203/s725/g/2], July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title IV, § 403\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–458; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 725(g)(2), July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
 
  __References in Text__ 
 
@@ -86,9 +86,9 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s725/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F2
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1694
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

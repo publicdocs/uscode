@@ -107,7 +107,7 @@
 
         The terms “State” and “United States” consist of the 50 States of the United States of America, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 101–624, title XIX, § 1967][/us/pl/101/624/s1967], Nov. 28, 1990, [104 Stat. 3882][/us/stat/104/3882].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1967, Nov. 28, 1990, [104 Stat. 3882][/us/stat/104/3882].)
 
 ----------
 
@@ -119,7 +119,7 @@
 [/us/usc/t7/s6304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6304%2Fb
 [/us/usc/t7/s6304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6304%2Fg
 [/us/usc/t7/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6303
-[/us/pl/101/624/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1967
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3882
 
 

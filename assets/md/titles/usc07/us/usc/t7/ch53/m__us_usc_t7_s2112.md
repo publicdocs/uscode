@@ -19,7 +19,7 @@
 
     (b) Any handler who willfully violates any provision of any order issued by the Secretary under this chapter, or who willfully fails or refuses to collect or remit any assessment or fee duly required of him thereunder, shall be liable to a penalty of not more than $1,000 for each such offense which shall accrue to the United States and may be recovered in a civil suit brought by the United States.
 
-([Pub. L. 89–502, § 13][/us/pl/89/502/s13], July 13, 1966, [80 Stat. 284][/us/stat/80/284].)
+([Pub. L. 89–502][/us/pl/89/502], § 13, July 13, 1966, [80 Stat. 284][/us/stat/80/284].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/89/502/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs13
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F284
 
 

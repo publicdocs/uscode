@@ -35,7 +35,7 @@
 
         (D) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 301, [53 Stat. 1282][/us/stat/53/1282]; [Pub. L. 85–581, § 12][/us/pl/85/581/s12], Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478]; [Pub. L. 89–686][/us/pl/89/686], §§ 13, 14, Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978]; [Pub. L. 97–439, § 5(b)(1)][/us/pl/97/439/s5/b/1], Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 103–465, title IV, § 441(1)][/us/pl/103/465/s441/1], Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 301, [53 Stat. 1282][/us/stat/53/1282]; [Pub. L. 85–581][/us/pl/85/581], § 12, Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478]; [Pub. L. 89–686][/us/pl/89/686], §§ 13, 14, Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978]; [Pub. L. 97–439][/us/pl/97/439], § 5(b)(1), Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 441(1), Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 
     1983—Subsec. (a)(1). [Pub. L. 97–439][/us/pl/97/439] substituted “any agricultural or vegetable seeds if any such seed contains noxious weed seeds” for “any seed containing 10 per centum or more of any agricultural or vegetable seeds if any such seed is adulterated or unfit for seeding purposes”.
 
-    1966—Subsec. (a)(4). [Pub. L. 89–686, § 13][/us/pl/89/686/s13], prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
+    1966—Subsec. (a)(4). [Pub. L. 89–686][/us/pl/89/686], § 13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
 
-    Subsec. (a)(5). [Pub. L. 89–686, § 14][/us/pl/89/686/s14], added par. (5).
+    Subsec. (a)(5). [Pub. L. 89–686][/us/pl/89/686], § 14, added par. (5).
 
     1958—Subsec. (a)(4). [Pub. L. 85–581][/us/pl/85/581] added par. (4).
 
@@ -71,18 +71,18 @@
 [/us/usc/t7/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1592
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1282
-[/us/pl/85/581/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs12
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F478
 [/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/stat/80/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F978
-[/us/pl/97/439/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F1
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
 [/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
-[/us/pl/103/465/s441/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F1
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4973
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
-[/us/pl/89/686/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs13
-[/us/pl/89/686/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs14
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451

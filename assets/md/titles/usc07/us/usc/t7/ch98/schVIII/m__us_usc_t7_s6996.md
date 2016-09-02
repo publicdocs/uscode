@@ -23,7 +23,7 @@
 
         To be entitled to a hearing under [section 6997 of this title][/us/usc/t7/s6997], a participant shall request the hearing not later than 30 days after the date on which the participant first received notice of the adverse decision.
 
-([Pub. L. 103–354, title II, § 276][/us/pl/103/354/s276], Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 276, Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t7/s6997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6997
 [/us/usc/t7/s6997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6997
-[/us/pl/103/354/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs276
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3230
 
 

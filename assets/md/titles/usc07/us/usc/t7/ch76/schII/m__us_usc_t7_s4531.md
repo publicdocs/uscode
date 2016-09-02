@@ -41,7 +41,7 @@
 
     (12) the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 98–180, title I, § 130][/us/pl/98/180/s130], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1367][/us/stat/99/1367]; amended [Pub. L. 110–234, title I, § 1507(c)][/us/pl/110/234/s1507/c], May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1507(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725.)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 130, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1367][/us/stat/99/1367]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1507(c), May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1507(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725.)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Amendments__ 
 
-    2008—Par. (12). [Pub. L. 110–246, § 1507(c)][/us/pl/110/246/s1507/c], added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
+    2008—Par. (12). [Pub. L. 110–246][/us/pl/110/246], § 1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -64,18 +64,18 @@
 
 [/us/usc/t7/s4536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4536
 [/us/usc/t7/s4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4532
-[/us/pl/98/180/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs130
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1367
-[/us/pl/110/234/s1507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1507%2Fc
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F997
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -37,7 +37,7 @@
 
         A security interest obtained by the Commodity Credit Corporation as a result of the execution of a security agreement by the processor of sugarcane or sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived.
 
-([Pub. L. 104–127, title I, § 164][/us/pl/104/127/s164], Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I, § 1607][/us/pl/107/171/s1607], May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 110–234, title I, § 1606][/us/pl/110/234/s1606], May 22, 2008, [122 Stat. 1017][/us/stat/122/1017]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1606, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746; [Pub. L. 113–79, title I, § 1607][/us/pl/113/79/s1607], Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 164, Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1607, May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1606, May 22, 2008, [122 Stat. 1017][/us/stat/122/1017]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1606, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1607, Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
     2014—Subsecs. (a), (b)(3), (c). [Pub. L. 113–79][/us/pl/113/79] substituted “title I of the Food, Conservation, and Energy Act of 2008, and title I of the Agricultural Act of 2014” for “and title I of the Food, Conservation, and Energy Act of 2008”.
 
-    2008—Subsecs. (a), (b)(3), (c). [Pub. L. 110–246, § 1606][/us/pl/110/246/s1606], substituted “title I of the Farm Security and Rural Investment Act of 2002, and title I of the Food, Conservation, and Energy Act of 2008” for “and title I of the Farm Security and Rural Investment Act of 2002”.
+    2008—Subsecs. (a), (b)(3), (c). [Pub. L. 110–246][/us/pl/110/246], § 1606, substituted “title I of the Farm Security and Rural Investment Act of 2002, and title I of the Food, Conservation, and Energy Act of 2008” for “and title I of the Farm Security and Rural Investment Act of 2002”.
 
     2002—Subsecs. (a), (b)(3), (c). [Pub. L. 107–171][/us/pl/107/171] substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
 
@@ -84,15 +84,15 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
-[/us/pl/104/127/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs164
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F935
-[/us/pl/107/171/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1607
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F218
-[/us/pl/110/234/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1606
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1017
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1607
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F708
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
@@ -112,7 +112,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1606
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

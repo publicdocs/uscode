@@ -71,7 +71,7 @@
 
             If the yield per planted acre for a crop of the covered commodity for a farm for any of the 2008 through 2012 crop years was less than 75 percent of the average of the 2008 through 2012 county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the average of the 2008 through 2012 county yield for the purposes of determining the average yield under paragraph (3).
 
-([Pub. L. 113–79, title I, § 1113][/us/pl/113/79/s1113], Feb. 7, 2014, [128 Stat. 664][/us/stat/128/664].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1113, Feb. 7, 2014, [128 Stat. 664][/us/stat/128/664].)
 
 ----------
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t7/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9016
 [/us/usc/t7/s8712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8712
-[/us/pl/113/79/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1113
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F664
 
 

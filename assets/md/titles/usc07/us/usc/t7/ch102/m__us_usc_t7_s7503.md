@@ -47,7 +47,7 @@
 
         The Secretary shall encourage each State receiving commodities under this chapter to establish a State advisory board consisting of representatives of all entities in the State, both public and private, interested in the distribution of commodities received under this chapter.
 
-([Pub. L. 98–8, title II, § 202A][/us/pl/98/8/s202A], as added [Pub. L. 100–77, title VIII, § 812][/us/pl/100/77/s812], July 22, 1987, [101 Stat. 537][/us/stat/101/537]; amended [Pub. L. 104–193, title VIII, § 871(b)][/us/pl/104/193/s871/b], Aug. 22, 1996, [110 Stat. 2344][/us/stat/110/2344]; [Pub. L. 110–234, title IV, § 4201(b)][/us/pl/110/234/s4201/b], May 22, 2008, [122 Stat. 1121][/us/stat/122/1121]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4201(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1882.)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 202A, as added [Pub. L. 100–77, title VIII][/us/pl/100/77/tVIII], § 812, July 22, 1987, [101 Stat. 537][/us/stat/101/537]; amended [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(b), Aug. 22, 1996, [110 Stat. 2344][/us/stat/110/2344]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4201(b), May 22, 2008, [122 Stat. 1121][/us/stat/122/1121]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4201(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1882.)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4201(b)][/us/pl/110/246/s4201/b], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4201(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
 
     1996—[Pub. L. 104–193][/us/pl/104/193] amended section generally, substituting present provisions for provisions relating to availability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
 
@@ -72,20 +72,20 @@
 ----------
 ----------
 
-[/us/pl/98/8/s202A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs202A
-[/us/pl/100/77/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs812
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/100/77/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVIII
 [/us/stat/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F537
-[/us/pl/104/193/s871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fb
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2344
-[/us/pl/110/234/s4201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4201%2Fb
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1121
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4201%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

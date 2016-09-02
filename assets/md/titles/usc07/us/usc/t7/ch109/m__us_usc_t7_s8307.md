@@ -45,7 +45,7 @@
 
                 The warrant may be applied for and executed by the Secretary or any United States marshal.
 
-([Pub. L. 107–171, title X, § 10408][/us/pl/107/171/s10408], May 13, 2002, [116 Stat. 500][/us/stat/116/500].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10408, May 13, 2002, [116 Stat. 500][/us/stat/116/500].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Preclearance Quarantine Inspections__ 
 
-[Pub. L. 107–171, title X, § 10811][/us/pl/107/171/s10811], May 13, 2002, [116 Stat. 531][/us/stat/116/531], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10811, May 13, 2002, [116 Stat. 531][/us/stat/116/531], provided that:
 
 >     “(a)  __Preclearance Inspections Required__  __.—__ 
 
@@ -88,13 +88,13 @@
 
 [/us/usc/t7/s8306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8306%2Fb
 [/us/usc/t7/s8306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8306%2Fb
-[/us/pl/107/171/s10408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10408
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F500
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/171/s10811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10811
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F531
 
 

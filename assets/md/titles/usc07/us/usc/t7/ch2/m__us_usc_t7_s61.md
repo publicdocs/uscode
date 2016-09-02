@@ -17,7 +17,7 @@
 
     For the purposes of this chapter the Secretary of Agriculture shall cause to be promulgated such regulations, may cause such investigations, tests, demonstrations, and publications to be made, including the investigation and determination of some practical method whereby repeated and unnecessary sampling and classification of cotton may be avoided, and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person, as he shall find to be necessary.
 
-([Mar. 4, 1923, ch. 288, § 10][/us/act/1923-03-04/ch288/s10], [42 Stat. 1519][/us/stat/42/1519].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 10, [42 Stat. 1519][/us/stat/42/1519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch288/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs10
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1519
 
 

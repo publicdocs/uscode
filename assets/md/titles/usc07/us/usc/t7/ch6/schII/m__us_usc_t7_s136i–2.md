@@ -27,7 +27,7 @@
 
         The Secretary of Agriculture shall, as appropriate, coordinate with the Administrator of the Environmental Protection Agency in the design of the surveys and make available to the Administrator the aggregate results of the surveys to assist the Administrator.
 
-([Pub. L. 104–170, title III, § 302][/us/pl/104/170/s302], Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512].)
+([Pub. L. 104–170, title III][/us/pl/104/170/tIII], § 302, Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Pesticide Use Information Study__ 
 
-[Pub. L. 104–170, title III, § 305][/us/pl/104/170/s305], Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512], provided that:
+[Pub. L. 104–170, title III][/us/pl/104/170/tIII], § 305, Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512], provided that:
 
 >     “(a)
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/104/170/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs302
+[/us/pl/104/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIII
 [/us/stat/110/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1512
-[/us/pl/104/170/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs305
+[/us/pl/104/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIII
 [/us/stat/110/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1512
 
 

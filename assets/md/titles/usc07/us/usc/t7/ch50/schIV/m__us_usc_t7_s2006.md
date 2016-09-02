@@ -17,7 +17,7 @@
 
     The Secretary may not make, insure, or guarantee any farmer program loan to a farm borrower on the condition that the borrower waive any right under the mediation program of any State.
 
-([Pub. L. 87–128, title III, § 358][/us/pl/87/128/s358], as added [Pub. L. 100–233, title V, § 512][/us/pl/100/233/s512], Jan. 6, 1988, [101 Stat. 1664][/us/stat/101/1664]; amended [Pub. L. 103–354, title II, § 282(f)(3)][/us/pl/103/354/s282/f/3], Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 358, as added [Pub. L. 100–233, title V][/us/pl/100/233/tV], § 512, Jan. 6, 1988, [101 Stat. 1664][/us/stat/101/1664]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 282(f)(3), Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/87/128/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs358
-[/us/pl/100/233/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs512
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtV
 [/us/stat/101/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1664
-[/us/pl/103/354/s282/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Ff%2F3
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3235
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 

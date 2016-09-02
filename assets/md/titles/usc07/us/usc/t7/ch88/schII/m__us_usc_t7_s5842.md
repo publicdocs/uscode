@@ -63,7 +63,7 @@
 
         (3) evaluating the potential effect of various national laws, including national quarantine requirements, as well as treaties, agreements, and the activities of international organizations on the development of a comprehensive international system for the collection and maintenance of genetic resources of importance to agriculture.
 
-([Pub. L. 101–624, title XVI, § 1633][/us/pl/101/624/s1633], Nov. 28, 1990, [104 Stat. 3744][/us/stat/104/3744]; [Pub. L. 102–237, title IV, § 404(a)(2)][/us/pl/102/237/s404/a/2], Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1633, Nov. 28, 1990, [104 Stat. 3744][/us/stat/104/3744]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 404(a)(2), Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864].)
 
  __Amendments__ 
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t7/s5841/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5841%2Fd%2F5
 [/us/usc/t7/s5841/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5841%2Fd%2F5
-[/us/pl/101/624/s1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1633
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3744
-[/us/pl/102/237/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs404%2Fa%2F2
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1864
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

@@ -33,7 +33,7 @@
 
     (3) make the report available to the public by posting the report on the website of the Department.
 
-([Pub. L. 110–234, title XIV, § 14010][/us/pl/110/234/s14010], May 22, 2008, [122 Stat. 1447][/us/stat/122/1447]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14010, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2209.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14010, May 22, 2008, [122 Stat. 1447][/us/stat/122/1447]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14010, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2209.)
 
  __Codification__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14010
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1447
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -89,7 +89,7 @@
 
             All changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program must be implemented for the 2011 Fiscal Year.
 
-([Pub. L. 87–128, title III, § 310F][/us/pl/87/128/s310F], as added [Pub. L. 107–171, title V, § 5006][/us/pl/107/171/s5006], May 13, 2002, [116 Stat. 342][/us/stat/116/342]; amended [Pub. L. 110–234, title V, § 5005][/us/pl/110/234/s5005], May 22, 2008, [122 Stat. 1145][/us/stat/122/1145]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1906.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310F, as added [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5006, May 13, 2002, [116 Stat. 342][/us/stat/116/342]; amended [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5005, May 22, 2008, [122 Stat. 1145][/us/stat/122/1145]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1906.)
 
  __Codification__ 
 
@@ -97,11 +97,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1936, [Pub. L. 87–128, title III, § 310F][/us/pl/87/128/s310F], as added [Pub. L. 102–554, § 7(b)][/us/pl/102/554/s7/b], Oct. 28, 1992, [106 Stat. 4146][/us/stat/106/4146], related to availability of farm ownership loans and loan guarantees for certain qualified beginning farmers and ranchers, prior to repeal by [Pub. L. 104–127, title VI, § 616(b)][/us/pl/104/127/s616/b], Apr. 4, 1996, [110 Stat. 1090][/us/stat/110/1090].
+    A prior section 1936, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310F, as added [Pub. L. 102–554][/us/pl/102/554], § 7(b), Oct. 28, 1992, [106 Stat. 4146][/us/stat/106/4146], related to availability of farm ownership loans and loan guarantees for certain qualified beginning farmers and ranchers, prior to repeal by [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 616(b), Apr. 4, 1996, [110 Stat. 1090][/us/stat/110/1090].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 5005][/us/pl/110/246/s5005], amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 5005, amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -115,23 +115,23 @@
 ----------
 
 [/us/usc/t7/s2003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F2
-[/us/pl/87/128/s310F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310F
-[/us/pl/107/171/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5006
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F342
-[/us/pl/110/234/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5005
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1145
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/87/128/s310F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310F
-[/us/pl/102/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs7%2Fb
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4146
-[/us/pl/104/127/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs616%2Fb
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1090
-[/us/pl/110/246/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5005
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

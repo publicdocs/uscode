@@ -225,7 +225,7 @@
 
         (2) the indirect cost rate applicable to the recipient as otherwise established by law.
 
-([Pub. L. 106–224, title IV, § 420][/us/pl/106/224/s420], as added [Pub. L. 110–234, title X, § 10201(a)][/us/pl/110/234/s10201/a], May 22, 2008, [122 Stat. 1339][/us/stat/122/1339], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2101; [Pub. L. 113–79, title X, § 10007(a)][/us/pl/113/79/s10007/a], (b), (d), Feb. 7, 2014, [128 Stat. 947][/us/stat/128/947], 948.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 420, as added [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10201(a), May 22, 2008, [122 Stat. 1339][/us/stat/122/1339], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2101; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10007(a), (b), (d), Feb. 7, 2014, [128 Stat. 947][/us/stat/128/947], 948.)
 
  __References in Text__ 
 
@@ -239,11 +239,11 @@
 
  __Amendments__ 
 
-    2014—Subsecs. (e), (f). [Pub. L. 113–79, § 10007(a)][/us/pl/113/79/s10007/a], added subsec. (e) and redesignated former subsec. (e) as (f).
+    2014—Subsecs. (e), (f). [Pub. L. 113–79][/us/pl/113/79], § 10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    Subsec. (f)(4) to (6). [Pub. L. 113–79, § 10007(b)][/us/pl/113/79/s10007/b], substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
+    Subsec. (f)(4) to (6). [Pub. L. 113–79][/us/pl/113/79], § 10007(b), substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
 
-    Subsecs. (g), (h). [Pub. L. 113–79, § 10007(d)][/us/pl/113/79/s10007/d], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 113–79][/us/pl/113/79], § 10007(d), added subsecs. (g) and (h).
 
  __Effective Date__ 
 
@@ -259,12 +259,12 @@
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/pl/108/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/106/224/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs420
-[/us/pl/110/234/s10201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10201%2Fa
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1339
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s10007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10007%2Fa
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F947
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -273,9 +273,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s10007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10007%2Fa
-[/us/pl/113/79/s10007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10007%2Fb
-[/us/pl/113/79/s10007/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10007%2Fd
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -21,17 +21,17 @@
 
     (c) Purchases and resales by the Secretary of the Treasury as authorized in subsection (b) of this section shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 407, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 34][/us/stat/85/34]; amended [Pub. L. 92–324, § 2][/us/pl/92/324/s2], June 30, 1972, [86 Stat. 390][/us/stat/86/390]; [Pub. L. 93–32][/us/pl/93/32], §§ 6, 7, May 11, 1973, [87 Stat. 70][/us/stat/87/70].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 407, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 34][/us/stat/85/34]; amended [Pub. L. 92–324][/us/pl/92/324], § 2, June 30, 1972, [86 Stat. 390][/us/stat/86/390]; [Pub. L. 93–32][/us/pl/93/32], §§ 6, 7, May 11, 1973, [87 Stat. 70][/us/stat/87/70].)
 
  __Codification__ 
 
-    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1973—Subsec. (a). [Pub. L. 93–32, § 6][/us/pl/93/32/s6], increased from eight times the paid-in capital and retained earnings of the telephone bank to twenty times the paid-in capital and retained earnings of the telephone bank the amount of telephone debentures which may be outstanding at any one time and struck out provisions directing the insertion by the telephone bank in all its telephone debentures of appropriate language indicating that such telephone debentures together with interest thereon are not guaranteed by the United States and do not constitute a debt or obligation of the United States or of any agency or instrumentality thereof other than the telephone bank.
+    1973—Subsec. (a). [Pub. L. 93–32][/us/pl/93/32], § 6, increased from eight times the paid-in capital and retained earnings of the telephone bank to twenty times the paid-in capital and retained earnings of the telephone bank the amount of telephone debentures which may be outstanding at any one time and struck out provisions directing the insertion by the telephone bank in all its telephone debentures of appropriate language indicating that such telephone debentures together with interest thereon are not guaranteed by the United States and do not constitute a debt or obligation of the United States or of any agency or instrumentality thereof other than the telephone bank.
 
-    Subsec. (c). [Pub. L. 93–32, § 7][/us/pl/93/32/s7], added subsec. (c).
+    Subsec. (c). [Pub. L. 93–32][/us/pl/93/32], § 7, added subsec. (c).
 
     1972—[Pub. L. 92–324][/us/pl/92/324] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -55,16 +55,16 @@
 ----------
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F34
-[/us/pl/92/324/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F324%2Fs2
+[/us/pl/92/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F324
 [/us/stat/86/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F390
 [/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/93/32/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs6
-[/us/pl/93/32/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs7
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/pl/92/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F324
 [/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/pl/92/32/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F32%2Fs12

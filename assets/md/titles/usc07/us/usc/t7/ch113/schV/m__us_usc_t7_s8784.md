@@ -23,7 +23,7 @@
 
         The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
-([Pub. L. 110–234, title I, § 1608][/us/pl/110/234/s1608], May 22, 2008, [122 Stat. 1018][/us/stat/122/1018]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1608, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1608, May 22, 2008, [122 Stat. 1018][/us/stat/122/1018]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1608, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s590h/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fg
-[/us/pl/110/234/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1608
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1018
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664

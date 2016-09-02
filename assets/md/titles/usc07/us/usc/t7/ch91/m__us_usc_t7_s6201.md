@@ -51,23 +51,23 @@
 
         Nothing in this chapter shall be construed to require quality standards for limes, control the production of limes, or otherwise limit the right of the individual producers to produce limes.
 
-([Pub. L. 101–624, title XIX, § 1952][/us/pl/101/624/s1952], Nov. 28, 1990, [104 Stat. 3870][/us/stat/104/3870].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1952, Nov. 28, 1990, [104 Stat. 3870][/us/stat/104/3870].)
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–194, § 1][/us/pl/103/194/s1], Dec. 14, 1993, [107 Stat. 2294][/us/stat/107/2294], provided that: 
+[Pub. L. 103–194][/us/pl/103/194], § 1, Dec. 14, 1993, [107 Stat. 2294][/us/stat/107/2294], provided that: 
 
 > “This Act \[amending sections 6202, 6204, and 6209 of this title and enacting provisions set out as a note below\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Improvement Act’.”
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XIX, § 1951][/us/pl/101/624/s1951], Nov. 28, 1990, [104 Stat. 3870][/us/stat/104/3870], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1951, Nov. 28, 1990, [104 Stat. 3870][/us/stat/104/3870], provided that: 
 
 > “This subtitle \[subtitle D (§§ 1951–1963) of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting this chapter\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
 
  __Legislative Findings and Purpose of Pub. L. 103–194__ 
 
-[Pub. L. 103–194, § 2][/us/pl/103/194/s2], Dec. 14, 1993, [107 Stat. 2294][/us/stat/107/2294], provided that:
+[Pub. L. 103–194][/us/pl/103/194], § 2, Dec. 14, 1993, [107 Stat. 2294][/us/stat/107/2294], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -100,14 +100,14 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1952
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3870
-[/us/pl/103/194/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs1
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/stat/107/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2294
-[/us/pl/101/624/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1951
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3870
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/103/194/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs2
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/stat/107/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2294
 [/us/usc/t7/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6201
 [/us/usc/t7/s6202/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6202%2F6

@@ -35,7 +35,7 @@
 
         The implementation of action plans shall be consistent with land and resource management plans.
 
-([Pub. L. 101–624, title XXIII, § 2376][/us/pl/101/624/s2376], Nov. 28, 1990, [104 Stat. 4048][/us/stat/104/4048]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(d)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2376, Nov. 28, 1990, [104 Stat. 4048][/us/stat/104/4048]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 345(d)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204.)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
-[/us/pl/101/624/s2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2376
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4048
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365

@@ -17,7 +17,7 @@
 
     Relative to the definitions of, title to, and licensing of inventions made or conceived in the course of or under any contract or grant pursuant to this subchapter, and notwithstanding any other provisions of law, the provisions of sections 5908 and 5909 of title 42 shall govern.
 
-([Pub. L. 95–592, § 12][/us/pl/95/592/s12], Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533].)
+([Pub. L. 95–592][/us/pl/95/592], § 12, Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/592/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs12
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
 
 

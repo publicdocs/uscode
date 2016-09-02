@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall cause to be issued a report on or before the 12th day of July of each year showing by States and in toto the estimated acreage of cotton planted, to be followed on or before the 12th day of August with an estimate of the acreage for harvest and on or before the 12th day of December with an estimate of the harvested acreage.
 
-([May 27, 1912, ch. 135, § 1][/us/act/1912-05-27/ch135/s1], [37 Stat. 118][/us/stat/37/118]; [Mar. 3, 1927, ch. 337, § 6][/us/act/1927-03-03/ch337/s6], [44 Stat. 1374][/us/stat/44/1374]; [Pub. L. 85–430, § 1][/us/pl/85/430/s1], May 29, 1958, [72 Stat. 149][/us/stat/72/149]; [Pub. L. 92–331, § 2][/us/pl/92/331/s2], June 30, 1972, [86 Stat. 400][/us/stat/86/400].)
+([May 27, 1912, ch. 135][/us/act/1912-05-27/ch135], § 1, [37 Stat. 118][/us/stat/37/118]; [Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 6, [44 Stat. 1374][/us/stat/44/1374]; [Pub. L. 85–430][/us/pl/85/430], § 1, May 29, 1958, [72 Stat. 149][/us/stat/72/149]; [Pub. L. 92–331][/us/pl/92/331], § 2, June 30, 1972, [86 Stat. 400][/us/stat/86/400].)
 
  __Codification__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/act/1912-05-27/ch135/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-05-27%2Fch135%2Fs1
+[/us/act/1912-05-27/ch135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-05-27%2Fch135
 [/us/stat/37/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F118
-[/us/act/1927-03-03/ch337/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs6
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/stat/44/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1374
-[/us/pl/85/430/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F430%2Fs1
+[/us/pl/85/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F430
 [/us/stat/72/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F149
-[/us/pl/92/331/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F331%2Fs2
+[/us/pl/92/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F331
 [/us/stat/86/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F400
 [/us/usc/t7/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs412
 [/us/pl/92/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F331

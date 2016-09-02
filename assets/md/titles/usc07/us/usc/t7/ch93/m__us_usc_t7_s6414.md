@@ -39,7 +39,7 @@
 
             Subsections (c) and (d) of [section 6413 of this title][/us/usc/t7/s6413] shall apply to a referendum conducted under this subsection.
 
-([Pub. L. 101–624, title XIX, § 1999O][/us/pl/101/624/s1999O], Nov. 28, 1990, [104 Stat. 3925][/us/stat/104/3925]; [Pub. L. 104–127, title I, § 146(d)(2)][/us/pl/104/127/s146/d/2], (e), Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919]; [Pub. L. 107–171, title I, § 1506(c)][/us/pl/107/171/s1506/c], May 13, 2002, [116 Stat. 210][/us/stat/116/210].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999O, Nov. 28, 1990, [104 Stat. 3925][/us/stat/104/3925]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 146(d)(2), (e), Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1506(c), May 13, 2002, [116 Stat. 210][/us/stat/116/210].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 
     “(2) terminate activities under the order in an orderly manner as soon as practicable after such date.”
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 146(e)][/us/pl/104/127/s146/e], substituted “2002” for “1996” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 146(e), substituted “2002” for “1996” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 104–127, § 146(d)(2)(A)][/us/pl/104/127/s146/d/2/A], substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
+    Subsec. (c)(1). [Pub. L. 104–127][/us/pl/104/127], § 146(d)(2)(A), substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–127, § 146(d)(2)(B)][/us/pl/104/127/s146/d/2/B], substituted “fluid milk processors voting in the referendum;” for “all processors;”.
+    Subsec. (c)(2)(B). [Pub. L. 104–127][/us/pl/104/127], § 146(d)(2)(B), substituted “fluid milk processors voting in the referendum;” for “all processors;”.
 
 ----------
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t7/s6413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6413
-[/us/pl/101/624/s1999O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999O
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3925
-[/us/pl/104/127/s146/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fd%2F2
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F919
-[/us/pl/107/171/s1506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1506%2Fc
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F210
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/104/127/s146/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fe
-[/us/pl/104/127/s146/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fd%2F2%2FA
-[/us/pl/104/127/s146/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fd%2F2%2FB
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

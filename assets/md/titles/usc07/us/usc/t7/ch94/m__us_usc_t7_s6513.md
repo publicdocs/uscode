@@ -75,7 +75,7 @@
 
         An organic plan shall not include any production or handling practices that are inconsistent with this chapter.
 
-([Pub. L. 101–624, title XXI, § 2114][/us/pl/101/624/s2114], Nov. 28, 1990, [104 Stat. 3943][/us/stat/104/3943].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2114, Nov. 28, 1990, [104 Stat. 3943][/us/stat/104/3943].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2114
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3943
 
 

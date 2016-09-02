@@ -17,7 +17,7 @@
 
     Any conveyance of real estate by the Government or any Government agency under this Act shall include all mineral rights.
 
-([Aug. 14, 1946, ch. 964, § 9][/us/act/1946-08-14/ch964/s9], [60 Stat. 1080][/us/stat/60/1080].)
+([Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], § 9, [60 Stat. 1080][/us/stat/60/1080].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-14/ch964/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964%2Fs9
+[/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
 [/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1062

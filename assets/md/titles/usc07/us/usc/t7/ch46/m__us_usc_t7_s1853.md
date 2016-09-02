@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1852a.md) | [Next](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1854.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1853)
 
-## § 1853. Repealed. [Pub. L. 103–465, title IV, § 412(c)][/us/pl/103/465/s412/c], Dec. 8, 1994, [108 Stat. 4964][/us/stat/108/4964]
+## § 1853. Repealed. [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 412(c), Dec. 8, 1994, [108 Stat. 4964][/us/stat/108/4964]
 
-    Section, [act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 203, [70 Stat. 199][/us/stat/70/199], provided for an export sales program for cotton.
+    Section, [act May 28, 1956, ch. 327, title II][/us/act/1956-05-28/ch327/tII], § 203, [70 Stat. 199][/us/stat/70/199], provided for an export sales program for cotton.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/465/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs412%2Fc
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4964
-[/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
+[/us/act/1956-05-28/ch327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327%2FtII
 [/us/stat/70/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F199
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451
 [/us/usc/t19/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3601

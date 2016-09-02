@@ -23,7 +23,7 @@
 
     (3) prevent the formation or continuation of unnecessary advisory committees by the Department of Agriculture.
 
-([Pub. L. 95–113, title XVIII, § 1801][/us/pl/95/113/s1801], Sept. 29, 1977, [91 Stat. 1041][/us/stat/91/1041]; [Pub. L. 97–98, title XI, § 1116(a)][/us/pl/97/98/s1116/a], Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270].)
+([Pub. L. 95–113, title XVIII][/us/pl/95/113/tXVIII], § 1801, Sept. 29, 1977, [91 Stat. 1041][/us/stat/91/1041]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1116(a), Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Soybean Research Advisory Institute__ 
 
-    [Pub. L. 97–98, title XIV, § 1446][/us/pl/97/98/s1446], Dec. 22, 1981, [95 Stat. 1327][/us/stat/95/1327], provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by [Pub. L. 99–198, title XIV, § 1434][/us/pl/99/198/s1434], Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].
+    [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1446, Dec. 22, 1981, [95 Stat. 1327][/us/stat/95/1327], provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1434, Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].
 
 ----------
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1801
+[/us/pl/95/113/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVIII
 [/us/stat/91/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1041
-[/us/pl/97/98/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1116%2Fa
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1270
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -58,9 +58,9 @@
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/97/98/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1446
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1327
-[/us/pl/99/198/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1434
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1557
 
 

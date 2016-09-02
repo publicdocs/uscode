@@ -39,19 +39,19 @@
 
         Notwithstanding any other provision of law, the State of Alabama shall be a full member of the Delta Regional Authority and shall be entitled to all rights and privileges that said membership affords to all other participating States in the Delta Regional Authority.
 
-([Pub. L. 87–128, title III, § 382A][/us/pl/87/128/s382A], as added and amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 153(b), title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–252, 2763A–269.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 382A, as added and amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 153(b), title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–252, 2763A–269.)
 
  __References in Text__ 
 
-    The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, [Pub. L. 100–460, title II][/us/pl/100/460], Oct. 1, 1988, [102 Stat. 2246][/us/stat/102/2246], as amended. Section 4 of the Delta Development Act, which was set out in a note under [section 3121 of Title 42][/us/usc/t42/s3121], The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under [section 3121 of Title 42][/us/usc/t42/s3121] and Tables.
+    The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, [Pub. L. 100–460, title II][/us/pl/100/460/tII], Oct. 1, 1988, [102 Stat. 2246][/us/stat/102/2246], as amended. Section 4 of the Delta Development Act, which was set out in a note under [section 3121 of Title 42][/us/usc/t42/s3121], The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under [section 3121 of Title 42][/us/usc/t42/s3121] and Tables.
 
  __Amendments__ 
 
-    2000—Par. (4). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 153(b)\], added par. (4).
+    2000—Par. (4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 153(b)\], added par. (4).
 
  __Findings and Purposes__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 502\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–268, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title V, § 502\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–268, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -105,15 +105,15 @@
 [/us/usc/t7/s2009aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%931
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
-[/us/pl/87/128/s382A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs382A
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/100/460/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtII
 [/us/stat/102/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2246
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 

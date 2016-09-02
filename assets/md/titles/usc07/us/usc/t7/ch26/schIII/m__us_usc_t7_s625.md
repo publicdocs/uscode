@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s624.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s626.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs625)
 
-## § 625. Repealed. [Pub. L. 108–357, title VI, § 611(s)][/us/pl/108/357/s611/s], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523]
+## § 625. Repealed. [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(s), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523]
 
-    Section, [Pub. L. 98–59, § 3][/us/pl/98/59/s3], July 25, 1983, [97 Stat. 296][/us/stat/97/296], related to review of the effects of Burley tobacco imports on the Department of Agriculture’s Burley tobacco price-support program.
+    Section, [Pub. L. 98–59][/us/pl/98/59], § 3, July 25, 1983, [97 Stat. 296][/us/stat/97/296], related to review of the effects of Burley tobacco imports on the Department of Agriculture’s Burley tobacco price-support program.
 
  __Effective Date of Repeal__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s611/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fs
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
-[/us/pl/98/59/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F59%2Fs3
+[/us/pl/98/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F59
 [/us/stat/97/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F296
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518

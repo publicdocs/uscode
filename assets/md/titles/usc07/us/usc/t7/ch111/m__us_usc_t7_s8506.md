@@ -83,7 +83,7 @@
 
         There is authorized to be appropriated to each of the Secretaries not more than $450,000 for each of the fiscal years 2006 through 2010 to carry out this section.
 
-([Pub. L. 108–384, § 7][/us/pl/108/384/s7], Oct. 30, 2004, [118 Stat. 2224][/us/stat/118/2224].)
+([Pub. L. 108–384][/us/pl/108/384], § 7, Oct. 30, 2004, [118 Stat. 2224][/us/stat/118/2224].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/108/384/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs7
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2224
 
 

@@ -21,15 +21,15 @@
 
     (c) A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless the fees and traveling expenses of the witness in going to, and returning from, one day’s attendance at the place of examination, are paid or tendered the witness at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena or of the Secretary.
 
-([Pub. L. 91–577, title I, § 24][/us/pl/91/577/s24], Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544]; [Pub. L. 103–349, § 13(d)][/us/pl/103/349/s13/d], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 24, Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544]; [Pub. L. 103–349][/us/pl/103/349], § 13(d), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–349, § 13(d)(1)][/us/pl/103/349/s13/d/1], substituted “the witness” for “him” in first sentence.
+    1994—Subsec. (a). [Pub. L. 103–349][/us/pl/103/349], § 13(d)(1), substituted “the witness” for “him” in first sentence.
 
-    Subsec. (c). [Pub. L. 103–349, § 13(d)(2)(B)][/us/pl/103/349/s13/d/2/B], substituted “the witness” for “him” after “paid or tendered” in second sentence.
+    Subsec. (c). [Pub. L. 103–349][/us/pl/103/349], § 13(d)(2)(B), substituted “the witness” for “him” after “paid or tendered” in second sentence.
 
-    [Pub. L. 103–349, § 13(d)(2)(A)][/us/pl/103/349/s13/d/2/A], which directed that second sentence be amended by substituting “the fees and traveling expenses of the witness” for “this fees and traveling expenses”, was executed by making the substitution for “his fees and traveling expenses”, to reflect the probable intent of Congress.
+    [Pub. L. 103–349][/us/pl/103/349], § 13(d)(2)(A), which directed that second sentence be amended by substituting “the fees and traveling expenses of the witness” for “this fees and traveling expenses”, was executed by making the substitution for “his fees and traveling expenses”, to reflect the probable intent of Congress.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/91/577/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs24
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1544
-[/us/pl/103/349/s13/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fd
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
-[/us/pl/103/349/s13/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fd%2F1
-[/us/pl/103/349/s13/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fd%2F2%2FB
-[/us/pl/103/349/s13/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fd%2F2%2FA
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
 [/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401

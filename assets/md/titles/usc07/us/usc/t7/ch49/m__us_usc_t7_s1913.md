@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be deemed to limit the authority of the Secretary of Agriculture under other provision of law or to establish or consult with advisory committees.
 
-([Pub. L. 87–128, title I, § 104][/us/pl/87/128/s104], Aug. 8, 1961, [75 Stat. 295][/us/stat/75/295].)
+([Pub. L. 87–128, title I][/us/pl/87/128/tI], § 104, Aug. 8, 1961, [75 Stat. 295][/us/stat/75/295].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/128/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs104
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F295
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F294

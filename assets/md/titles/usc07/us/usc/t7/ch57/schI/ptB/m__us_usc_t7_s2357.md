@@ -17,7 +17,7 @@
 
     Anyone who in the United States engages in direct or indirect practice before the Office of Plant Variety Protection while suspended or excluded under [section 2356 of this title][/us/usc/t7/s2356], or without being admitted to practice before the Office, shall be liable in a civil action for the return of all money received, and for compensation for damage done by such person and also may be enjoined from such practice. However, there shall be no liability for damage if such person establishes that the work was done competently and without negligence. This section does not apply to anyone who, without a claim of self-sufficiency, works under the supervision of another who stands admitted and is the responsible party; or to anyone who establishes that the person acted only on behalf of any employer by whom the person was regularly employed.
 
-([Pub. L. 91–577, title I, § 27][/us/pl/91/577/s27], Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545]; [Pub. L. 103–349, § 13(e)][/us/pl/103/349/s13/e], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 27, Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545]; [Pub. L. 103–349][/us/pl/103/349], § 13(e), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t7/s2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2356
-[/us/pl/91/577/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs27
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1545
-[/us/pl/103/349/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fe
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

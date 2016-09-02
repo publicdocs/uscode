@@ -23,9 +23,9 @@
 
     “[Section 4655 of title 10][/us/usc/t10/s4655]” substituted in text for “the Act of March 3, 1879 ([20 Stat. 412][/us/stat/20/412])” on authority of section 49(b) of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 640][/us/stat/70A/640], section 1 of which enacted Title 10, Armed Forces.
 
-    Section was formerly classified to [section 542b of Title 5][/us/usc/t5/s542b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 542b of Title 5][/us/usc/t5/s542b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
-    The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
+    The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
 
 ----------
 
@@ -42,9 +42,9 @@
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/usc/t5/s542b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs542b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

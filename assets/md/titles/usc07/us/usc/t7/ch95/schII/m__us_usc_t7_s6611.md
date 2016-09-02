@@ -43,19 +43,19 @@
 
         (3) to improve the economic, social, and environmental well-being of rural America.
 
-([Pub. L. 101–624, title XXIII, § 2373][/us/pl/101/624/s2373], Nov. 28, 1990, [104 Stat. 4046][/us/stat/104/4046]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–203.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2373, Nov. 28, 1990, [104 Stat. 4046][/us/stat/104/4046]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 345(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–203.)
 
  __Amendments__ 
 
-    1999—Subsec. (a)(2). [Pub. L. 106–113, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)(1)(A)\], substituted “National Forest System land;” for “national forests;”.
+    1999—Subsec. (a)(2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(3) \[title III, § 345(a)(1)(A)\], substituted “National Forest System land;” for “national forests;”.
 
-    Subsec. (a)(4). [Pub. L. 106–113, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)(1)(B)\], substituted “National Forest System land” for “the national forests”.
+    Subsec. (a)(4). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(3) \[title III, § 345(a)(1)(B)\], substituted “National Forest System land” for “the national forests”.
 
-    Subsec. (a)(5). [Pub. L. 106–113, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)(1)(C)\], substituted “natural resources;” for “forest resources;”.
+    Subsec. (a)(5). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(3) \[title III, § 345(a)(1)(C)\], substituted “natural resources;” for “forest resources;”.
 
-    Subsec. (a)(6). [Pub. L. 106–113, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)(1)(D)\], substituted “National Forest System land resources” for “national forest resources”.
+    Subsec. (a)(6). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(3) \[title III, § 345(a)(1)(D)\], substituted “National Forest System land resources” for “national forest resources”.
 
-    Subsec. (b)(1). [Pub. L. 106–113, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(a)(2)\], substituted “National Forest System land” for “national forests” and “natural resources” for “forest resources”.
+    Subsec. (b)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(3) \[title III, § 345(a)(2)\], substituted “National Forest System land” for “national forests” and “natural resources” for “forest resources”.
 
 ----------
 
@@ -64,14 +64,14 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2373
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4046
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 
 

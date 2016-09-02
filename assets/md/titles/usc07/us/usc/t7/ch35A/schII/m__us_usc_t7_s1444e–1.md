@@ -37,7 +37,7 @@
 
         (2) the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similar to the field from which such silage was obtained.
 
-([Pub. L. 99–198, title IV, § 403][/us/pl/99/198/s403], Dec. 23, 1985, [99 Stat. 1406][/us/stat/99/1406]; [Pub. L. 101–624, title IV, § 403][/us/pl/101/624/s403], Nov. 28, 1990, [104 Stat. 3419][/us/stat/104/3419].)
+([Pub. L. 99–198, title IV][/us/pl/99/198/tIV], § 403, Dec. 23, 1985, [99 Stat. 1406][/us/stat/99/1406]; [Pub. L. 101–624, title IV][/us/pl/101/624/tIV], § 403, Nov. 28, 1990, [104 Stat. 3419][/us/stat/104/3419].)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/99/198/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs403
+[/us/pl/99/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIV
 [/us/stat/99/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1406
-[/us/pl/101/624/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs403
+[/us/pl/101/624/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIV
 [/us/stat/104/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3419
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

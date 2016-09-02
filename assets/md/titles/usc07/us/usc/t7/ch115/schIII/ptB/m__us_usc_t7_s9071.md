@@ -89,7 +89,7 @@
 
         In addition to the termination conditions specified in subsection (d)(1), the dairy product donation program shall end on December 31, 2018.
 
-([Pub. L. 113–79, title I, § 1431][/us/pl/113/79/s1431], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1431, Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
 ----------
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t7/s9091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9091%2Fa
-[/us/pl/113/79/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1431
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 
 

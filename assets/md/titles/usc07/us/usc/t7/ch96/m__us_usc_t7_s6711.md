@@ -143,7 +143,7 @@
 
         There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2007 through 2012.
 
-([Pub. L. 106–224, title II, § 221][/us/pl/106/224/s221], June 20, 2000, [114 Stat. 407][/us/stat/114/407]; [Pub. L. 107–171, title VII, § 7223][/us/pl/107/171/s7223], title IX, § 9009, May 13, 2002, [116 Stat. 454][/us/stat/116/454], 483; [Pub. L. 110–234, title VII, § 7407][/us/pl/110/234/s7407], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013.)
+([Pub. L. 106–224, title II][/us/pl/106/224/tII], § 221, June 20, 2000, [114 Stat. 407][/us/stat/114/407]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7223, title IX, § 9009, May 13, 2002, [116 Stat. 454][/us/stat/116/454], 483; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7407, May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013.)
 
  __Codification__ 
 
@@ -153,17 +153,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (g). [Pub. L. 110–246, § 7407][/us/pl/110/246/s7407], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
+    2008—Subsec. (g). [Pub. L. 110–246][/us/pl/110/246], § 7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 7223(1)][/us/pl/107/171/s7223/1], substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 7223(1), substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
 
-    Subsecs. (d), (e). [Pub. L. 107–171, § 9009][/us/pl/107/171/s9009], added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+    Subsecs. (d), (e). [Pub. L. 107–171][/us/pl/107/171], § 9009, added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-    Subsec. (f). [Pub. L. 107–171, § 9009(1)][/us/pl/107/171/s9009/1], redesignated subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 9009(1), redesignated subsec. (d) as (f).
 
-    [Pub. L. 107–171, § 7223(2)][/us/pl/107/171/s7223/2], substituted “for this section” for “under subsection (a) of this section”.
+    [Pub. L. 107–171][/us/pl/107/171], § 7223(2), substituted “for this section” for “under subsection (a) of this section”.
 
-    Subsec. (g). [Pub. L. 107–171, § 7223(3)][/us/pl/107/171/s7223/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 7223(3), added subsec. (g).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -177,24 +177,24 @@
 ----------
 
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/106/224/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs221
+[/us/pl/106/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtII
 [/us/stat/114/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F407
-[/us/pl/107/171/s7223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7223
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F454
-[/us/pl/110/234/s7407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7407
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7407
-[/us/pl/107/171/s7223/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7223%2F1
-[/us/pl/107/171/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9009
-[/us/pl/107/171/s9009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9009%2F1
-[/us/pl/107/171/s7223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7223%2F2
-[/us/pl/107/171/s7223/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7223%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     All persons transporting, or delivering for transportation, in interstate commerce, agricultural seeds shall keep for a period of three years a complete record of origin, treatment, germination, and purity of each lot of such agricultural seeds, and all persons transporting, or delivering for transportation, in interstate commerce, vegetable seeds shall keep for a period of three years a complete record of treatment, germination and variety of such vegetable seeds. The Secretary of Agriculture, or his duly authorized agents, shall have the right to inspect such records for the purpose of the effective administration of this chapter.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 202, [53 Stat. 1281][/us/stat/53/1281]; [Pub. L. 85–581, § 9][/us/pl/85/581/s9], Aug. 1, 1958, [72 Stat. 477][/us/stat/72/477]; [Pub. L. 89–686, § 11][/us/pl/89/686/s11], Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 202, [53 Stat. 1281][/us/stat/53/1281]; [Pub. L. 85–581][/us/pl/85/581], § 9, Aug. 1, 1958, [72 Stat. 477][/us/stat/72/477]; [Pub. L. 89–686][/us/pl/89/686], § 11, Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1281
-[/us/pl/85/581/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs9
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F477
-[/us/pl/89/686/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs11
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/stat/80/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F978
 [/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581

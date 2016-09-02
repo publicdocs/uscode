@@ -55,7 +55,7 @@
 
                 In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
-([Pub. L. 87–128, title III, § 382D][/us/pl/87/128/s382D], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–275; amended [Pub. L. 107–171, title VI, § 6027(d)][/us/pl/107/171/s6027/d], May 13, 2002, [116 Stat. 373][/us/stat/116/373].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 382D, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–275; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6027(d), May 13, 2002, [116 Stat. 373][/us/stat/116/373].)
 
  __References in Text__ 
 
@@ -74,10 +74,10 @@
 
 [/us/usc/t7/s2009aa–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%935%2Fb
 [/us/usc/t7/s2009aa–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%938
-[/us/pl/87/128/s382D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs382D
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/171/s6027/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fd
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F373
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F294

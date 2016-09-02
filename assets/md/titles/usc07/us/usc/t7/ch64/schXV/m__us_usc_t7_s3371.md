@@ -45,7 +45,7 @@
 
         (5) [Section 450i of this title][/us/usc/t7/s450i].
 
-([Pub. L. 95–113, title XIV, § 1492][/us/pl/95/113/s1492], as added [Pub. L. 113–79, title VII, § 7128(a)][/us/pl/113/79/s7128/a], Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1492, as added [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7128(a), Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 113–79, title VII, § 7128(c)][/us/pl/113/79/s7128/c], Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], provided that:
+[Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7128(c), Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], provided that:
 
 >     “(1)  __New grants__  __.—__ 
 
@@ -79,8 +79,8 @@
 [/us/usc/t7/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5801
 [/us/usc/t7/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7601
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/pl/95/113/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1492
-[/us/pl/113/79/s7128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F877
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3359
@@ -91,7 +91,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/113/79/s7128/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fc
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
 

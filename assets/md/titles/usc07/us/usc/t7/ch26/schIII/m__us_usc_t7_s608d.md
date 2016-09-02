@@ -37,7 +37,7 @@
 
         Any person who violates this paragraph shall be subject to the penalties provided under [section 608c(14) of this title][/us/usc/t7/s608c/14].
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8d, as added [Aug. 24, 1935, ch. 641, § 6][/us/act/1935-08-24/ch641/s6], [49 Stat. 761][/us/stat/49/761]; amended [June 3, 1937, ch. 296, § 1][/us/act/1937-06-03/ch296/s1], [50 Stat. 246][/us/stat/50/246]; [Pub. L. 99–198, title XVI, § 1663][/us/pl/99/198/s1663], Dec. 23, 1985, [99 Stat. 1631][/us/stat/99/1631]; [Pub. L. 106–78, title VII, § 757(b)][/us/pl/106/78/s757/b], Oct. 22, 1999, [113 Stat. 1171][/us/stat/113/1171].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8d, as added [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 6, [49 Stat. 761][/us/stat/49/761]; amended [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 1, [50 Stat. 246][/us/stat/50/246]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1663, Dec. 23, 1985, [99 Stat. 1631][/us/stat/99/1631]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 757(b), Oct. 22, 1999, [113 Stat. 1171][/us/stat/113/1171].)
 
  __Codification__ 
 
@@ -47,27 +47,27 @@
 
     1999—Subsec. (3). [Pub. L. 106–78][/us/pl/106/78] added subsec. (3).
 
-    1985—Subsec. (2). [Pub. L. 99–198, § 1663(1)][/us/pl/99/198/s1663/1], extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
+    1985—Subsec. (2). [Pub. L. 99–198][/us/pl/99/198], § 1663(1), extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-    [Pub. L. 99–198, § 1663(2)][/us/pl/99/198/s1663/2], inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
+    [Pub. L. 99–198][/us/pl/99/198], § 1663(2), inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
 
  __Release of Information__ 
 
-[Pub. L. 103–111, title VII, § 715][/us/pl/103/111/s715], Oct. 21, 1993, [107 Stat. 1079][/us/stat/107/1079], provided that: 
+[Pub. L. 103–111, title VII][/us/pl/103/111/tVII], § 715, Oct. 21, 1993, [107 Stat. 1079][/us/stat/107/1079], provided that: 
 
 > “Hereafter, none of the funds available to the Department of Agriculture may be expended to release information acquired from any handler under the Agricultural Marketing Agreement Act of 1937, as amended \[see [section 674 of this title][/us/usc/t7/s674]\]: Provided, That this provision shall not prohibit the release of information to other Federal agencies for enforcement purposes: Provided further, That this provision shall not prohibit the release of aggregate statistical data used in formulating regulations pursuant to the Agricultural Marketing Agreement Act of 1937, as amended: Provided further, That this provision shall not prohibit the release of information submitted by milk handlers.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–341, title VII, § 721][/us/pl/102/341/s721], Aug. 14, 1992, [106 Stat. 908][/us/stat/106/908].
+    [Pub. L. 102–341, title VII][/us/pl/102/341/tVII], § 721, Aug. 14, 1992, [106 Stat. 908][/us/stat/106/908].
 
-    [Pub. L. 102–142, title VII, § 728][/us/pl/102/142/s728], Oct. 28, 1991, [105 Stat. 914][/us/stat/105/914].
+    [Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 728, Oct. 28, 1991, [105 Stat. 914][/us/stat/105/914].
 
-    [Pub. L. 101–506, title VI, § 630][/us/pl/101/506/s630], Nov. 5, 1990, [104 Stat. 1349][/us/stat/104/1349].
+    [Pub. L. 101–506, title VI][/us/pl/101/506/tVI], § 630, Nov. 5, 1990, [104 Stat. 1349][/us/stat/104/1349].
 
-    [Pub. L. 101–161, title VI, § 630][/us/pl/101/161/s630], Nov. 21, 1989, [103 Stat. 985][/us/stat/103/985].
+    [Pub. L. 101–161, title VI][/us/pl/101/161/tVI], § 630, Nov. 21, 1989, [103 Stat. 985][/us/stat/103/985].
 
-    [Pub. L. 100–460, title VI, § 630][/us/pl/100/460/s630], Oct. 1, 1988, [102 Stat. 2262][/us/stat/102/2262].
+    [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 630, Oct. 1, 1988, [102 Stat. 2262][/us/stat/102/2262].
 
  __Validity of Section Affirmed__ 
 
@@ -84,31 +84,31 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t7/s608c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F14
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1935-08-24/ch641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs6
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F761
-[/us/act/1937-06-03/ch296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs1
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
-[/us/pl/99/198/s1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1663
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1631
-[/us/pl/106/78/s757/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs757%2Fb
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1171
 [/us/usc/t7/s608/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608%2F4
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
-[/us/pl/99/198/s1663/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1663%2F1
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/99/198/s1663/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1663%2F2
-[/us/pl/103/111/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2Fs715
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/103/111/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2FtVII
 [/us/stat/107/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1079
 [/us/usc/t7/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs674
-[/us/pl/102/341/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2Fs721
+[/us/pl/102/341/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2FtVII
 [/us/stat/106/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F908
-[/us/pl/102/142/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs728
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F914
-[/us/pl/101/506/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506%2Fs630
+[/us/pl/101/506/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506%2FtVI
 [/us/stat/104/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1349
-[/us/pl/101/161/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2Fs630
+[/us/pl/101/161/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2FtVI
 [/us/stat/103/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F985
-[/us/pl/100/460/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs630
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2262
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 

@@ -71,7 +71,7 @@
 
         (3) the impact of weather on economic and environmental costs in agricultural production.
 
-([Pub. L. 101–624, title XVI, § 1638][/us/pl/101/624/s1638], Nov. 28, 1990, [104 Stat. 3748][/us/stat/104/3748]; [Pub. L. 102–237, title IV, § 407(6)][/us/pl/102/237/s407/6], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 110–234, title VII, § 7511(c)(18)][/us/pl/110/234/s7511/c/18], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(18), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1638, Nov. 28, 1990, [104 Stat. 3748][/us/stat/104/3748]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 407(6), Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(18), May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(18), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
 
  __Codification__ 
 
@@ -79,7 +79,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3), (5). [Pub. L. 110–246, § 7511(c)(18)][/us/pl/110/246/s7511/c/18], substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
+    2008—Subsec. (b)(3), (5). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(18), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
 
     1991—Subsec. (b)(5). [Pub. L. 102–237][/us/pl/102/237] substituted “National Science Foundation” for “National Sciences Foundation”.
 
@@ -98,19 +98,19 @@
 
 [/us/usc/t7/s5854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5854
 [/us/usc/t7/s5854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5854
-[/us/pl/101/624/s1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1638
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3748
-[/us/pl/102/237/s407/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F6
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1865
-[/us/pl/110/234/s7511/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F18
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F18
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -45,19 +45,19 @@
 
         (3) review the programs, operations, and fiscal audits of the bodies referred to in [section 1738f(c) of this title][/us/usc/t7/s1738f/c].
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 610, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661]; amended [Pub. L. 102–237, title III, § 339][/us/pl/102/237/s339], Dec. 13, 1991, [105 Stat. 1861][/us/stat/105/1861]; [Pub. L. 102–549, title VI, § 603][/us/pl/102/549/s603], Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 610, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 339, Dec. 13, 1991, [105 Stat. 1861][/us/stat/105/1861]; [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 603, Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669].)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–549, § 603(1)][/us/pl/102/549/s603/1], substituted “Enterprise” for “Environment” in section catchline.
+    1992—[Pub. L. 102–549][/us/pl/102/549], § 603(1), substituted “Enterprise” for “Environment” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–549, § 603(2)][/us/pl/102/549/s603/2], substituted “Enterprise” for “Environment”.
+    Subsec. (a). [Pub. L. 102–549][/us/pl/102/549], § 603(2), substituted “Enterprise” for “Environment”.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–549, § 603(3)][/us/pl/102/549/s603/3], inserted “child survival and child development,” after “environmental,” and “, at least one of whom shall be a representative from a child survival and child development organization”.
+    Subsec. (b)(1)(B). [Pub. L. 102–549][/us/pl/102/549], § 603(3), inserted “child survival and child development,” after “environmental,” and “, at least one of whom shall be a representative from a child survival and child development organization”.
 
-    1991—Subsec. (b)(1)(A). [Pub. L. 102–237, § 339(1)][/us/pl/102/237/s339/1], substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
+    1991—Subsec. (b)(1)(A). [Pub. L. 102–237][/us/pl/102/237], § 339(1), substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–237, § 339(2)][/us/pl/102/237/s339/2], substituted “five” for “four”.
+    Subsec. (b)(1)(B). [Pub. L. 102–237][/us/pl/102/237], § 339(2), substituted “five” for “four”.
 
 ----------
 
@@ -70,16 +70,16 @@
 [/us/usc/t7/s1738f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f%2Fc
 [/us/usc/t7/s1738f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f%2Fc
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3661
-[/us/pl/102/237/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs339
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1861
-[/us/pl/102/549/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs603
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3669
-[/us/pl/102/549/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs603%2F1
-[/us/pl/102/549/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs603%2F2
-[/us/pl/102/549/s603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs603%2F3
-[/us/pl/102/237/s339/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs339%2F1
-[/us/pl/102/237/s339/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs339%2F2
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

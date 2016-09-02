@@ -31,7 +31,7 @@
 
         No meeting so held and no award or agreement so approved shall be deemed to be in violation of any of the antitrust laws of the United States.
 
-([June 3, 1937, ch. 296, § 3][/us/act/1937-06-03/ch296/s3], [50 Stat. 248][/us/stat/50/248].)
+([June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 3, [50 Stat. 248][/us/stat/50/248].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t7/s610/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fj
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
-[/us/act/1937-06-03/ch296/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs3
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F248
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31

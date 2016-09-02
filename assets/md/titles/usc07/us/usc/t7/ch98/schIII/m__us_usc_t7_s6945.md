@@ -51,7 +51,7 @@
 
         The Secretary of Agriculture shall submit, on a quarterly basis, to the Committees on Appropriations of the House of Representatives and the Senate a report describing the status of the Rural Development Disaster Assistance Fund and any transactions that have affected the Fund since the previous report.
 
-([Pub. L. 110–329, div. B, title I, § 10101][/us/pl/110/329/s10101], Sept. 30, 2008, [122 Stat. 3586][/us/stat/122/3586]; [Pub. L. 111–80, title VII, § 702][/us/pl/111/80/s702], Oct. 21, 2009, [123 Stat. 2118][/us/stat/123/2118].)
+([Pub. L. 110–329, div. B, title I][/us/pl/110/329/dB/tI], § 10101, Sept. 30, 2008, [122 Stat. 3586][/us/stat/122/3586]; [Pub. L. 111–80, title VII][/us/pl/111/80/tVII], § 702, Oct. 21, 2009, [123 Stat. 2118][/us/stat/123/2118].)
 
  __References in Text__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/110/329/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs10101
+[/us/pl/110/329/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdB%2FtI
 [/us/stat/122/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3586
-[/us/pl/111/80/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs702
+[/us/pl/111/80/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2FtVII
 [/us/stat/123/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2118
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/stat/122/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3574

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is requested to extend to cotton growers facilities for the classification of cotton authorized in this chapter, with such supervision of licensed classifiers as he shall deem necessary under authority of the United States Cotton Futures Act.
 
-([Mar. 4, 1933, ch. 284, § 1][/us/act/1933-03-04/ch284/s1], [47 Stat. 1621][/us/stat/47/1621].)
+([Mar. 4, 1933, ch. 284][/us/act/1933-03-04/ch284], § 1, [47 Stat. 1621][/us/stat/47/1621].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1933-03-04/ch284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch284%2Fs1
+[/us/act/1933-03-04/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch284
 [/us/stat/47/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1621
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F476

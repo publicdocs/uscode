@@ -17,7 +17,7 @@
 
     As soon as practicable after February 7, 2014, the Secretary may track the benefits provided, directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
 
-([Pub. L. 113–79, title I, § 1612][/us/pl/113/79/s1612], Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1612, Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1612
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F710
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

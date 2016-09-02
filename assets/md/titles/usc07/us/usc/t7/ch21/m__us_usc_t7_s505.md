@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall have access to the tobacco records of the Commissioner of Internal Revenue and of the several collectors of internal revenue for the purpose of obtaining lists of the persons subject to this chapter and for the purpose of aiding the collection of the information herein required, and the Commissioner of Internal Revenue and the several collectors of internal revenue shall cooperate with the Secretary of Agriculture in effectuating the provisions of this chapter.
 
-([Jan. 14, 1929, ch. 69, § 5][/us/act/1929-01-14/ch69/s5], [45 Stat. 1080][/us/stat/45/1080]; [Aug. 27, 1935, ch. 749, § 3][/us/act/1935-08-27/ch749/s3], [49 Stat. 894][/us/stat/49/894].)
+([Jan. 14, 1929, ch. 69][/us/act/1929-01-14/ch69], § 5, [45 Stat. 1080][/us/stat/45/1080]; [Aug. 27, 1935, ch. 749][/us/act/1935-08-27/ch749], § 3, [49 Stat. 894][/us/stat/49/894].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1929-01-14/ch69/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69%2Fs5
+[/us/act/1929-01-14/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69
 [/us/stat/45/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1080
-[/us/act/1935-08-27/ch749/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch749%2Fs3
+[/us/act/1935-08-27/ch749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch749
 [/us/stat/49/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F894
 [/us/stat/66/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F823
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

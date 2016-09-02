@@ -91,7 +91,7 @@
 
         (4) may carry out other activities on its own behalf or on behalf of other entities.
 
-([Pub. L. 87–128, title III, § 383F][/us/pl/87/128/s383F], formerly § 383E, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 382][/us/stat/116/382]; renumbered § 383F and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (f), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1180, and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383F, formerly § 383E, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 382][/us/stat/116/382]; renumbered § 383F and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (f), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1180, and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
 
  __Codification__ 
 
@@ -103,9 +103,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 6026(f)(1)][/us/pl/110/246/s6026/f/1], substituted “Multistate and local” for “Local” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 6026(f)(1), substituted “Multistate and local” for “Local” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 110–246, § 6026(f)(2)][/us/pl/110/246/s6026/f/2], added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to definition of local development district, grants to local development districts, and duties of local development districts, respectively.
+    Subsecs. (a) to (c). [Pub. L. 110–246][/us/pl/110/246], § 6026(f)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to definition of local development district, grants to local development districts, and duties of local development districts, respectively.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -120,12 +120,12 @@
 
 [/us/usc/t7/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2661
 [/us/pl/103/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F318
-[/us/pl/87/128/s383F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383F
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F382
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -133,8 +133,8 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383F
 [/us/usc/t7/s2009bb–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%935
-[/us/pl/110/246/s6026/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Ff%2F1
-[/us/pl/110/246/s6026/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Ff%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

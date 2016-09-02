@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s15.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s15b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs15a)
 
-## § 15a. Repealed. [Pub. L. 95–405, § 24][/us/pl/95/405/s24], Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]
+## § 15a. Repealed. [Pub. L. 95–405][/us/pl/95/405], § 24, Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]
 
-    Section, [Pub. L. 93–463, title II, § 217][/us/pl/93/463/s217], Oct. 23, 1974, [88 Stat. 1405][/us/stat/88/1405], related to leverage contracts for gold and silver. See [section 23(b) of this title][/us/usc/t7/s23/b].
+    Section, [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 217, Oct. 23, 1974, [88 Stat. 1405][/us/stat/88/1405], related to leverage contracts for gold and silver. See [section 23(b) of this title][/us/usc/t7/s23/b].
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/95/405/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs24
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F877
-[/us/pl/93/463/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs217
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1405
 [/us/usc/t7/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs23%2Fb
 [/us/pl/95/405/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs28

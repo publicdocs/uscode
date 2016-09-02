@@ -139,7 +139,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 273, as added [Pub. L. 106–532, § 2][/us/pl/106/532/s2], Nov. 22, 2000, [114 Stat. 2542][/us/stat/114/2542]; amended [Pub. L. 110–234, title I, § 1510][/us/pl/110/234/s1510], May 22, 2008, [122 Stat. 999][/us/stat/122/999]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1510, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1728; [Pub. L. 111–239, § 3(a)][/us/pl/111/239/s3/a], Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 273, as added [Pub. L. 106–532][/us/pl/106/532], § 2, Nov. 22, 2000, [114 Stat. 2542][/us/stat/114/2542]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1510, May 22, 2008, [122 Stat. 999][/us/stat/122/999]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1510, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1728; [Pub. L. 111–239][/us/pl/111/239], § 3(a), Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502].)
 
  __Codification__ 
 
@@ -155,9 +155,9 @@
 
     “(3) Authorization of appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subsection.”
 
-    2008—Subsec. (c)(3). [Pub. L. 110–246, § 1510(b)][/us/pl/110/246/s1510/b], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
+    2008—Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
 
-    Subsecs. (d), (e). [Pub. L. 110–246, § 1510(a)][/us/pl/110/246/s1510/a], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246], § 1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -165,7 +165,7 @@
 
  __Implementation of Electronic Reporting System__ 
 
-[Pub. L. 111–239, § 3(b)][/us/pl/111/239/s3/b], Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502], provided that: 
+[Pub. L. 111–239][/us/pl/111/239], § 3(b), Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502], provided that: 
 
 > “Not later than one year after the date of enactment of this Act \[Sept. 27, 2010\], the Secretary of Agriculture shall implement the electronic reporting system required by subsection (d) of section 273 of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1637b][/us/usc/t7/s1637b]), as amended by subsection (a). Until the electronic reporting system is implemented, the Secretary shall continue to conduct mandatory dairy product information reporting under the authority of such section, as in effect on the day before the date of enactment of this Act.”
 
@@ -178,27 +178,27 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532%2Fs2
+[/us/pl/106/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532
 [/us/stat/114/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2542
-[/us/pl/110/234/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1510
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F999
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/239/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs3%2Fa
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2502
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
-[/us/pl/110/246/s1510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1510%2Fb
-[/us/pl/110/246/s1510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1510%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/111/239/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs3%2Fb
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2502
 [/us/usc/t7/s1637b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1637b
 

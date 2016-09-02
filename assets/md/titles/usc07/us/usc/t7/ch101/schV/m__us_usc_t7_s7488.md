@@ -45,7 +45,7 @@
 
             Process in a case under this subsection may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-([Pub. L. 104–127, title V, § 579][/us/pl/104/127/s579], Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 579, Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs579
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1083
 
 

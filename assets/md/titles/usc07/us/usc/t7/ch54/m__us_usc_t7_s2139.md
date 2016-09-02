@@ -17,7 +17,7 @@
 
     When construing or enforcing the provisions of this chapter, the act, omission, or failure of any person acting for or employed by a research facility, a dealer, or an exhibitor or a person licensed as a dealer or an exhibitor pursuant to the second sentence of [section 2133 of this title][/us/usc/t7/s2133], or an operator of an auction sale subject to [section 2142 of this title][/us/usc/t7/s2142], or an intermediate handler, or a carrier, within the scope of his employment or office, shall be deemed the act, omission, or failure of such research facility, dealer, exhibitor, licensee, operator of an auction sale, intermediate handler, or carrier, as well as of such person.
 
-([Pub. L. 89–544, § 9][/us/pl/89/544/s9], Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579, § 10][/us/pl/91/579/s10], Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279, § 7][/us/pl/94/279/s7], Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
+([Pub. L. 89–544][/us/pl/89/544], § 9, Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579][/us/pl/91/579], § 10, Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279][/us/pl/94/279], § 7, Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t7/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2133
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
-[/us/pl/89/544/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs9
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F351
-[/us/pl/91/579/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs10
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1562
-[/us/pl/94/279/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs7
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F418
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142

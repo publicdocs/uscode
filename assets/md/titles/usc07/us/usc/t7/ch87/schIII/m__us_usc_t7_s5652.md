@@ -33,7 +33,7 @@
 
         (2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1).
 
-([Pub. L. 95–501, title III, § 301][/us/pl/95/501/s301], formerly § 302, as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; renumbered § 301, [Pub. L. 110–246, title III, § 3103(b)(2)][/us/pl/110/246/s3103/b/2], June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
+([Pub. L. 95–501, title III][/us/pl/95/501/tIII], § 301, formerly § 302, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; renumbered § 301, [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3103(b)(2), June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
 
  __Prior Provisions__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/95/501/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3680
-[/us/pl/110/246/s3103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F2
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1832
 [/us/pl/95/501/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301
 [/us/usc/t7/s5651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5651

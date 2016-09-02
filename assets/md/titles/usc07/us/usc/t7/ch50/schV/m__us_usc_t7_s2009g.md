@@ -63,7 +63,7 @@
 
         The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for the guarantee with respect to principal and interest. The validity of the guarantee shall be incontestable in the hands of a holder of the guaranteed obligations.
 
-([Pub. L. 87–128, title III, § 381H][/us/pl/87/128/s381H], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1145][/us/stat/110/1145].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381H, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1145][/us/stat/110/1145].)
 
 ----------
 
@@ -75,8 +75,8 @@
 [/us/usc/t7/s2009f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009f
 [/us/usc/t7/s2009f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009f
 [/us/usc/t7/s2009f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009f
-[/us/pl/87/128/s381H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381H
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1145
 
 

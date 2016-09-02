@@ -43,7 +43,7 @@
 
     (m) The term “United States” means the several States and the District of Columbia, including any territory or possession.
 
-([Pub. L. 95–113, title XVII, § 1703][/us/pl/95/113/s1703], Sept. 29, 1977, [91 Stat. 1032][/us/stat/91/1032].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1703, Sept. 29, 1977, [91 Stat. 1032][/us/stat/91/1032].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t7/s3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3405
-[/us/pl/95/113/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1703
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1032
 
 

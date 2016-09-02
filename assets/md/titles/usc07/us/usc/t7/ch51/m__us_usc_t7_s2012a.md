@@ -17,11 +17,11 @@
 
     Notwithstanding any other provision of law, the provisions of subsections (f) and (i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of [section 2012 of this title][/us/usc/t7/s2012] and [section 2019 of this title][/us/usc/t7/s2019], concerning private, nonprofit drug addiction or alcohol treatment and rehabilitation programs, shall henceforth also be applicable to publicly operated community health centers.
 
-([Pub. L. 99–88, title I, § 100][/us/pl/99/88/s100], Aug. 15, 1985, [99 Stat. 297][/us/stat/99/297].)
+([Pub. L. 99–88, title I][/us/pl/99/88/tI], § 100, Aug. 15, 1985, [99 Stat. 297][/us/stat/99/297].)
 
  __References in Text__ 
 
-    Subsections (f) and (i) of [section 2012 of this title][/us/usc/t7/s2012], referred to in text, were redesignated subsecs. (h) and (n), respectively, by [Pub. L. 110–246, title IV, § 4115(b)(1)(M)][/us/pl/110/246/s4115/b/1/M], June 18, 2008, [122 Stat. 1867][/us/stat/122/1867]. Subsec. (n) was subsequently redesignated (m) by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
+    Subsections (f) and (i) of [section 2012 of this title][/us/usc/t7/s2012], referred to in text, were redesignated subsecs. (h) and (n), respectively, by [Pub. L. 110–246, title IV][/us/pl/110/246/tIV], § 4115(b)(1)(M), June 18, 2008, [122 Stat. 1867][/us/stat/122/1867]. Subsec. (n) was subsequently redesignated (m) by [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(a)(4), Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
  __Codification__ 
 
@@ -40,12 +40,12 @@
 
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/usc/t7/s2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2019
-[/us/pl/99/88/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs100
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F297
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/110/246/s4115/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F1%2FM
+[/us/pl/110/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIV
 [/us/stat/122/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1867
-[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b

@@ -51,7 +51,7 @@
 
             For the purpose of this subsection, the order may require a person who sells cut flowers or cut greens to retailers to submit reports to the PromoFlor Council on annual sales by the person.
 
-([Pub. L. 103–190, § 6][/us/pl/103/190/s6], Dec. 14, 1993, [107 Stat. 2283][/us/stat/107/2283].)
+([Pub. L. 103–190][/us/pl/103/190], § 6, Dec. 14, 1993, [107 Stat. 2283][/us/stat/107/2283].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t7/s6802/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6802%2F4
 [/us/usc/t7/s6806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6806%2Fb%2F2
-[/us/pl/103/190/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs6
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2283
 
 

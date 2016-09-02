@@ -55,7 +55,7 @@
 
                 If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.
 
-([Pub. L. 91–577, title II, § 42][/us/pl/91/577/s42], Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547]; [Pub. L. 103–349, § 3][/us/pl/103/349/s3], Oct. 6, 1994, [108 Stat. 3138][/us/stat/108/3138]; [Pub. L. 104–127, title IX, § 913(a)][/us/pl/104/127/s913/a], Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 42, Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547]; [Pub. L. 103–349][/us/pl/103/349], § 3, Oct. 6, 1994, [108 Stat. 3138][/us/stat/108/3138]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 913(a), Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
 
  __Amendments__ 
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/91/577/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs42
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1547
-[/us/pl/103/349/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs3
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3138
-[/us/pl/104/127/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs913%2Fa
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1186
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

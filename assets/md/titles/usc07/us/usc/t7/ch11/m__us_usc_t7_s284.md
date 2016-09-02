@@ -27,11 +27,11 @@
 
         In performing the operations or measures authorized in this chapter, the cooperating foreign country, State, or local agency shall be responsible for the authority to carry out such operations or measures on all lands and properties within the foreign country or State, other than those owned or controlled by the Federal Government of the United States, and for such other facilities and means as in the discretion of the Secretary of Agriculture are necessary.
 
-([Aug. 31, 1922, ch. 301, § 3][/us/act/1922-08-31/ch301/s3], as added [Pub. L. 94–319, § 3][/us/pl/94/319/s3], June 25, 1976, [90 Stat. 709][/us/stat/90/709].)
+([Aug. 31, 1922, ch. 301][/us/act/1922-08-31/ch301], § 3, as added [Pub. L. 94–319][/us/pl/94/319], § 3, June 25, 1976, [90 Stat. 709][/us/stat/90/709].)
 
  __Indemnification for Beekeepers__ 
 
-[Pub. L. 91–524, title VIII, § 804][/us/pl/91/524/s804], Nov. 30, 1970, [84 Stat. 1382][/us/stat/84/1382], as amended by [Pub. L. 93–86, § 1(27)(A)][/us/pl/93/86/s1/27/A], Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; [Pub. L. 95–113, title II, § 207][/us/pl/95/113/s207], Sept. 29, 1977, [91 Stat. 921][/us/stat/91/921], provided that:
+[Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 804, Nov. 30, 1970, [84 Stat. 1382][/us/stat/84/1382], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(27)(A), Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; [Pub. L. 95–113, title II][/us/pl/95/113/tII], § 207, Sept. 29, 1977, [91 Stat. 921][/us/stat/91/921], provided that:
 
 >     “(a) The Secretary of Agriculture is authorized to make indemnity payments to beekeepers who through no fault of their own have suffered losses of honey bees after January 1, 1967, as a result of utilization of economic poisons near or adjacent to the property on which the beehives of such beekeepers were located.
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/act/1922-08-31/ch301/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301%2Fs3
-[/us/pl/94/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319%2Fs3
+[/us/act/1922-08-31/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301
+[/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 [/us/stat/90/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F709
-[/us/pl/91/524/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs804
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/stat/84/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1382
-[/us/pl/93/86/s1/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F237
-[/us/pl/95/113/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs207
+[/us/pl/95/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtII
 [/us/stat/91/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F921
 
 

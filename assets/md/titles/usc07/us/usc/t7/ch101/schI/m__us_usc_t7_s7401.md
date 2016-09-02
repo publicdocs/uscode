@@ -163,7 +163,7 @@
 
             The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
 
-([Pub. L. 104–127, title V, § 501][/us/pl/104/127/s501], Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X, § 10607][/us/pl/107/171/s10607], May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 113–79, title X, § 10004(d)][/us/pl/113/79/s10004/d], (e), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942], 943; [Pub. L. 113–235, div. A, title VII, § 747][/us/pl/113/235/s747], Dec. 16, 2014, [128 Stat. 2170][/us/stat/128/2170].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 501, Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10607, May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10004(d), (e), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942], 943; [Pub. L. 113–235, div. A, title VII][/us/pl/113/235/dA/tVII], § 747, Dec. 16, 2014, [128 Stat. 2170][/us/stat/128/2170].)
 
  __References in Text__ 
 
@@ -191,31 +191,31 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e). [Pub. L. 113–79, § 10004(d)][/us/pl/113/79/s10004/d], added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 10004(d), added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
 
-    Subsec. (f). [Pub. L. 113–79, § 10004(e)][/us/pl/113/79/s10004/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–79][/us/pl/113/79], § 10004(e), added subsec. (f).
 
     Subsec. (f)(1)(C)(ii)(II). [Pub. L. 113–235][/us/pl/113/235] substituted “a commodity promotion law” for “[section 7413 of this title][/us/usc/t7/s7413]”.
 
-    2002—Subsec. (a)(19). [Pub. L. 107–171, § 10607(b)][/us/pl/107/171/s10607/b], added par. (19).
+    2002—Subsec. (a)(19). [Pub. L. 107–171][/us/pl/107/171], § 10607(b), added par. (19).
 
-    Subsec. (e). [Pub. L. 107–171, § 10607(a)][/us/pl/107/171/s10607/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 10607(a), added subsec. (e).
 
  __Short Title__ 
 
-[Section 511 of title V of Pub. L. 104–127][/us/pl/104/127/s511] provided that: 
+[Section 511 of title V of Pub. L. 104–127][/us/pl/104/127/tV/s511] provided that: 
 
 > “This subtitle \[subtitle B (§§ 511–526) of title V of [Pub. L. 104–127][/us/pl/104/127], enacting subchapter II of this chapter\] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
 
-[Section 531 of title V of Pub. L. 104–127][/us/pl/104/127/s531] provided that: 
+[Section 531 of title V of Pub. L. 104–127][/us/pl/104/127/tV/s531] provided that: 
 
 > “This subtitle \[subtitle C (§§ 531–543) of title V of [Pub. L. 104–127][/us/pl/104/127], enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
 
-[Section 551 of title V of Pub. L. 104–127][/us/pl/104/127/s551] provided that: 
+[Section 551 of title V of Pub. L. 104–127][/us/pl/104/127/tV/s551] provided that: 
 
 > “This subtitle \[subtitle D (§§ 551–564) of title V of [Pub. L. 104–127][/us/pl/104/127], enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
-[Section 571 of title V of Pub. L. 104–127][/us/pl/104/127/s571] provided that: 
+[Section 571 of title V of Pub. L. 104–127][/us/pl/104/127/tV/s571] provided that: 
 
 > “This subtitle \[subtitle E (§§ 571–582) of title V of [Pub. L. 104–127][/us/pl/104/127], enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
 
@@ -257,13 +257,13 @@
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
-[/us/pl/104/127/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs501
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1029
-[/us/pl/107/171/s10607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F514
-[/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F942
-[/us/pl/113/235/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs747
+[/us/pl/113/235/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdA%2FtVII
 [/us/stat/128/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2170
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
@@ -313,19 +313,19 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
-[/us/pl/113/79/s10004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fe
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
-[/us/pl/107/171/s10607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fb
-[/us/pl/107/171/s10607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fa
-[/us/pl/104/127/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs511
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127/tV/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV%2Fs511
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/104/127/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs531
+[/us/pl/104/127/tV/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV%2Fs531
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/104/127/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs551
+[/us/pl/104/127/tV/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV%2Fs551
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/104/127/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs571
+[/us/pl/104/127/tV/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV%2Fs571
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

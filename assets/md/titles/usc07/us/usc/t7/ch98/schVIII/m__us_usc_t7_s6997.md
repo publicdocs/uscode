@@ -59,7 +59,7 @@
 
         The final determination shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
 
-([Pub. L. 103–354, title II, § 277][/us/pl/103/354/s277], Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 277, Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t5/s551/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F14
 [/us/usc/t7/s6996/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6996%2Fb
 [/us/usc/t7/s6998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6998
-[/us/pl/103/354/s277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs277
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3230
 
 

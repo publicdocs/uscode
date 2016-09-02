@@ -17,7 +17,7 @@
 
     On and after November 28, 2001, notwithstanding any other provision of law, the Administrator of the Rural Utilities Service shall use the authorities provided in the Rural Electrification Act of 1936 \[[7 U.S.C. 901][/us/usc/t7/s901] et seq.\] to finance the acquisition of existing generation, transmission and distribution systems and facilities serving high cost, predominantly rural areas by entities capable of and dedicated to providing or improving service in such areas in an efficient and cost effective manner.
 
-([Pub. L. 107–76, title VII, § 748][/us/pl/107/76/s748], Nov. 28, 2001, [115 Stat. 738][/us/stat/115/738].)
+([Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 748, Nov. 28, 2001, [115 Stat. 738][/us/stat/115/738].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title I, § 771\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45.
+    [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title I, § 771\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45.
 
 ----------
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/107/76/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs748
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F738
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

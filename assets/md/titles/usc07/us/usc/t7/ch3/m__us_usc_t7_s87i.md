@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 20, as added Aug. 13, 1981, [Pub. L. 97–35, title I, § 155(5)][/us/pl/97/35/s155/5], [95 Stat. 372][/us/stat/95/372], which established an advisory committee, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to [section 155 of Pub. L. 97–35][/us/pl/97/35/s155], as amended. See [section 87j of this title][/us/usc/t7/s87j].
+    Section, [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 20, as added Aug. 13, 1981, [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155(5), [95 Stat. 372][/us/stat/95/372], which established an advisory committee, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to [section 155 of Pub. L. 97–35][/us/pl/97/35/s155], as amended. See [section 87j of this title][/us/usc/t7/s87j].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/97/35/s155/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155%2F5
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F372
 [/us/pl/97/35/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155
 [/us/usc/t7/s87j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87j

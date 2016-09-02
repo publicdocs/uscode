@@ -57,7 +57,7 @@
 
         (6) includes such other information as may be required by the Secretary.
 
-([Pub. L. 87–128, title III, § 381D][/us/pl/87/128/s381D], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381D, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140].)
 
 ----------
 
@@ -66,8 +66,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s381D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381D
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1140
 
 

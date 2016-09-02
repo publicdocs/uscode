@@ -39,7 +39,7 @@
 
             such agricultural product shall not be sold or labeled as organically produced under this chapter.
 
-([Pub. L. 101–624, title XXI, § 2112][/us/pl/101/624/s2112], Nov. 28, 1990, [104 Stat. 3942][/us/stat/104/3942]; [Pub. L. 102–237, title X, § 1001(4)][/us/pl/102/237/s1001/4], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X, § 10005(a)][/us/pl/113/79/s10005/a], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2112, Nov. 28, 1990, [104 Stat. 3942][/us/stat/104/3942]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(4), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10005(a), Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2112
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3942
-[/us/pl/102/237/s1001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F4
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/113/79/s10005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fa
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

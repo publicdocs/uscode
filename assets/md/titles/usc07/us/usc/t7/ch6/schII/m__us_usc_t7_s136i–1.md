@@ -49,7 +49,7 @@
 
         The Secretary of Agriculture and the Administrator of the Environmental Protection Agency shall promulgate regulations on their respective areas of responsibility implementing this section within 180 days after November 28, 1990.
 
-([Pub. L. 101–624, title XIV, § 1491][/us/pl/101/624/s1491], Nov. 28, 1990, [104 Stat. 3627][/us/stat/104/3627]; [Pub. L. 102–237, title X, § 1006(d)][/us/pl/102/237/s1006/d], Dec. 13, 1991, [105 Stat. 1896][/us/stat/105/1896].)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1491, Nov. 28, 1990, [104 Stat. 3627][/us/stat/104/3627]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(d), Dec. 13, 1991, [105 Stat. 1896][/us/stat/105/1896].)
 
  __Codification__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–237, § 1006(d)(1)][/us/pl/102/237/s1006/d/1], inserted closing parenthesis after “[section 136a(d)(1)(C) of this title][/us/usc/t7/s136a/d/1/C]”.
+    1991—Subsec. (a)(1). [Pub. L. 102–237][/us/pl/102/237], § 1006(d)(1), inserted closing parenthesis after “[section 136a(d)(1)(C) of this title][/us/usc/t7/s136a/d/1/C]”.
 
-    Subsec. (d)(1). [Pub. L. 102–237, § 1006(d)(2)][/us/pl/102/237/s1006/d/2], inserted “of” after “fine”.
+    Subsec. (d)(1). [Pub. L. 102–237][/us/pl/102/237], § 1006(d)(2), inserted “of” after “fine”.
 
 ----------
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t7/s136a/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fd%2F1%2FC
-[/us/pl/101/624/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1491
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3627
-[/us/pl/102/237/s1006/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fd
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1896
-[/us/pl/102/237/s1006/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fd%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s136a/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fd%2F1%2FC
-[/us/pl/102/237/s1006/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fd%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

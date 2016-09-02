@@ -31,7 +31,7 @@
 
         (4) Functions vested in the corporations of the Department or the boards of directors and officers of such corporations.
 
-([Pub. L. 103–354, title II, § 211][/us/pl/103/354/s211], Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209]; [Pub. L. 104–127, title VII, § 722(c)][/us/pl/104/127/s722/c], Apr. 4, 1996, [110 Stat. 1115][/us/stat/110/1115]; [Pub. L. 107–171, title VI, § 6201(d)(3)][/us/pl/107/171/s6201/d/3], May 13, 2002, [116 Stat. 419][/us/stat/116/419].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 211, Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 722(c), Apr. 4, 1996, [110 Stat. 1115][/us/stat/110/1115]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(d)(3), May 13, 2002, [116 Stat. 419][/us/stat/116/419].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/103/354/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs211
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
-[/us/pl/104/127/s722/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fc
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1115
-[/us/pl/107/171/s6201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F3
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F419
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s381.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs384)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s382 _us_usc_t7_s383.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs384)
 
 ## § 384. Card index of agricultural literature; copies to be furnished by Secretary
 
@@ -23,7 +23,7 @@
 
     The Act of March second, eighteen hundred and eighty-seven, referred to in text, is [act Mar. 2, 1887, ch. 314][/us/act/1887-03-02/ch314], [24 Stat. 440][/us/stat/24/440], as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title][/us/usc/t7/s361a] and Tables.
 
-    The Act of March sixteenth, nineteen hundred and six, referred to in text, means [act Mar. 16, 1906, ch. 951][/us/act/1906-03-16/ch951], [34 Stat. 63][/us/stat/34/63], as amended, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by [act Aug. 11, 1955, ch. 790, § 2][/us/act/1955-08-11/ch790/s2], [69 Stat. 674][/us/stat/69/674]. For complete classification of this Act to the Code prior to repeal, see Tables.
+    The Act of March sixteenth, nineteen hundred and six, referred to in text, means [act Mar. 16, 1906, ch. 951][/us/act/1906-03-16/ch951], [34 Stat. 63][/us/stat/34/63], as amended, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by [act Aug. 11, 1955, ch. 790][/us/act/1955-08-11/ch790], § 2, [69 Stat. 674][/us/stat/69/674]. For complete classification of this Act to the Code prior to repeal, see Tables.
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s381.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs384)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s382 _us_usc_t7_s383.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs384)
 
 ----------
 ----------
@@ -44,7 +44,7 @@
 [/us/usc/t7/s361a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361a
 [/us/act/1906-03-16/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-16%2Fch951
 [/us/stat/34/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F63
-[/us/act/1955-08-11/ch790/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790%2Fs2
+[/us/act/1955-08-11/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790
 [/us/stat/69/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F674
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

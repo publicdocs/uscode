@@ -17,7 +17,7 @@
 
     Provisions in annual appropriation Acts of the Department of State facilitating the work of the Foreign Service of the United States shall be applicable under rules and regulations prescribed by the President or his designee to activities pursuant to this subchapter.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605, [68 Stat. 909][/us/stat/68/909]; [Pub. L. 95–501, title III, § 301(4)][/us/pl/95/501/s301/4], Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605, [68 Stat. 909][/us/stat/68/909]; [Pub. L. 95–501, title III][/us/pl/95/501/tIII], § 301(4), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F909
-[/us/pl/95/501/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F4
+[/us/pl/95/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIII
 [/us/stat/92/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1688
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 

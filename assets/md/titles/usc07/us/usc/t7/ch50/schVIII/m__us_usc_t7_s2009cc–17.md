@@ -17,7 +17,7 @@
 
     The Secretary may promulgate such regulations as the Secretary considers necessary to carry out this subchapter.
 
-([Pub. L. 87–128, title III, § 384R][/us/pl/87/128/s384R], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 401][/us/stat/116/401].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384R, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 401][/us/stat/116/401].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s384R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384R
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F401
 
 

@@ -51,7 +51,7 @@
 
             (B) allow each member of the Board to have 14 days within which to prepare and submit supplemental views with respect to the recommendations of the Board for inclusion in such report.
 
-([Pub. L. 102–532, § 6][/us/pl/102/532/s6], Oct. 27, 1992, [106 Stat. 3513][/us/stat/106/3513].)
+([Pub. L. 102–532][/us/pl/102/532], § 6, Oct. 27, 1992, [106 Stat. 3513][/us/stat/106/3513].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/102/532/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs6
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3513
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t19/s3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3473

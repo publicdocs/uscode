@@ -103,7 +103,7 @@
 
         In this section, the term “socially disadvantaged farmer or rancher” has the meaning given that term in [section 2003(e)(2) of this title][/us/usc/t7/s2003/e/2].
 
-([Pub. L. 87–128, title III, § 310E][/us/pl/87/128/s310E], as added [Pub. L. 102–554, § 7(a)][/us/pl/102/554/s7/a], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; amended [Pub. L. 107–171, title V, § 5005][/us/pl/107/171/s5005], May 13, 2002, [116 Stat. 342][/us/stat/116/342]; [Pub. L. 110–234, title V, § 5004][/us/pl/110/234/s5004], May 22, 2008, [122 Stat. 1144][/us/stat/122/1144]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1905; [Pub. L. 113–79, title V, § 5005][/us/pl/113/79/s5005], Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310E, as added [Pub. L. 102–554][/us/pl/102/554], § 7(a), Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; amended [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5005, May 13, 2002, [116 Stat. 342][/us/stat/116/342]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5004, May 22, 2008, [122 Stat. 1144][/us/stat/122/1144]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1905; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5005, Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].)
 
  __Codification__ 
 
@@ -111,35 +111,35 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(C). [Pub. L. 113–79, § 5005(a)][/us/pl/113/79/s5005/a], substituted “$667,000” for “$500,000”.
+    2014—Subsec. (b)(1)(C). [Pub. L. 113–79][/us/pl/113/79], § 5005(a), substituted “$667,000” for “$500,000”.
 
-    Subsec. (b)(2). [Pub. L. 113–79, § 5005(b)][/us/pl/113/79/s5005/b], struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
+    Subsec. (b)(2). [Pub. L. 113–79][/us/pl/113/79], § 5005(b), struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 5004(1)][/us/pl/110/246/s5004/1], substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
 
-    Subsec. (b)(1), (2). [Pub. L. 110–246, § 5004(2)(A)][/us/pl/110/246/s5004/2/A], added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
+    Subsec. (b)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
 
-    Subsec. (b)(3). [Pub. L. 110–246, § 5004(2)(B)][/us/pl/110/246/s5004/2/B], substituted “20” for “15”.
+    Subsec. (b)(3). [Pub. L. 110–246][/us/pl/110/246], § 5004(2)(B), substituted “20” for “15”.
 
-    Subsec. (c)(1). [Pub. L. 110–246, § 5004(3)(A)][/us/pl/110/246/s5004/3/A], substituted “5” for “10”.
+    Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 5004(3)(A), substituted “5” for “10”.
 
-    Subsec. (c)(2), (3). [Pub. L. 110–246, § 5004(3)(B)][/us/pl/110/246/s5004/3/B], (C), redesignated par. (3) as (2), in subpar. (B), substituted “20-year” for “15-year”, and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.”
+    Subsec. (c)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 5004(3)(B), (C), redesignated par. (3) as (2), in subpar. (B), substituted “20-year” for “15-year”, and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.”
 
-    Subsec. (d)(3). [Pub. L. 110–246, § 5004(4)(A)(ii)][/us/pl/110/246/s5004/4/A/ii], struck out “and” at end.
+    Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 5004(4)(A)(ii), struck out “and” at end.
 
-    [Pub. L. 110–246, § 5004(4)(A)(i)][/us/pl/110/246/s5004/4/A/i], which directed the insertion of “and socially disadvantaged farmers or ranchers” after “ranchers”, was executed by making the insertion after “ranchers” the second place it appeared to reflect the probable intent of Congress.
+    [Pub. L. 110–246][/us/pl/110/246], § 5004(4)(A)(i), which directed the insertion of “and socially disadvantaged farmers or ranchers” after “ranchers”, was executed by making the insertion after “ranchers” the second place it appeared to reflect the probable intent of Congress.
 
-    Subsec. (d)(4). [Pub. L. 110–246, § 5004(4)(B)][/us/pl/110/246/s5004/4/B], substituted “or ranchers or socially disadvantaged farmers or ranchers; and” for “and ranchers.”
+    Subsec. (d)(4). [Pub. L. 110–246][/us/pl/110/246], § 5004(4)(B), substituted “or ranchers or socially disadvantaged farmers or ranchers; and” for “and ranchers.”
 
-    Subsec. (d)(5). [Pub. L. 110–246, § 5004(4)(C)][/us/pl/110/246/s5004/4/C], added par. (5).
+    Subsec. (d)(5). [Pub. L. 110–246][/us/pl/110/246], § 5004(4)(C), added par. (5).
 
-    Subsec. (e). [Pub. L. 110–246, § 5004(5)][/us/pl/110/246/s5004/5], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 5004(5), added subsec. (e).
 
-    2002—Subsec. (b)(1). [Pub. L. 107–171, § 5005(1)(A)][/us/pl/107/171/s5005/1/A], substituted “40 percent” for “30 percent”.
+    2002—Subsec. (b)(1). [Pub. L. 107–171][/us/pl/107/171], § 5005(1)(A), substituted “40 percent” for “30 percent”.
 
-    Subsec. (b)(3). [Pub. L. 107–171, § 5005(1)(B)][/us/pl/107/171/s5005/1/B], substituted “15 years” for “10 years”.
+    Subsec. (b)(3). [Pub. L. 107–171][/us/pl/107/171], § 5005(1)(B), substituted “15 years” for “10 years”.
 
-    Subsec. (c)(3)(B). [Pub. L. 107–171, § 5005(2)][/us/pl/107/171/s5005/2], substituted “15-year” for “10-year”.
+    Subsec. (c)(3)(B). [Pub. L. 107–171][/us/pl/107/171], § 5005(2), substituted “15-year” for “10-year”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -154,36 +154,36 @@
 
 [/us/usc/t7/s2006b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2006b%2Fc
 [/us/usc/t7/s2003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F2
-[/us/pl/87/128/s310E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310E
-[/us/pl/102/554/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs7%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4144
-[/us/pl/107/171/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5005
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F342
-[/us/pl/110/234/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5004
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1144
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F834
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s5005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005%2Fa
-[/us/pl/113/79/s5005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005%2Fb
-[/us/pl/110/246/s5004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F1
-[/us/pl/110/246/s5004/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F2%2FA
-[/us/pl/110/246/s5004/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F2%2FB
-[/us/pl/110/246/s5004/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F3%2FA
-[/us/pl/110/246/s5004/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F3%2FB
-[/us/pl/110/246/s5004/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F4%2FA%2Fii
-[/us/pl/110/246/s5004/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F4%2FA%2Fi
-[/us/pl/110/246/s5004/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F4%2FB
-[/us/pl/110/246/s5004/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F4%2FC
-[/us/pl/110/246/s5004/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F5
-[/us/pl/107/171/s5005/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5005%2F1%2FA
-[/us/pl/107/171/s5005/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5005%2F1%2FB
-[/us/pl/107/171/s5005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5005%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

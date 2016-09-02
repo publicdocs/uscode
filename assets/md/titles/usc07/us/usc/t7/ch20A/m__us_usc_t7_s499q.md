@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([June 10, 1930, ch. 436, § 17][/us/act/1930-06-10/ch436/s17], [46 Stat. 538][/us/stat/46/538].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 17, [46 Stat. 538][/us/stat/46/538].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch436/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs17
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F538
 [/us/usc/t7/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs567
 

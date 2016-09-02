@@ -115,11 +115,11 @@
 
         The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in [section 144(a)(12)(B)(ii) of title 26][/us/usc/t26/s144/a/12/B/ii].
 
-([Pub. L. 87–128, title III, § 309][/us/pl/87/128/s309], Aug. 8, 1961, [75 Stat. 309][/us/stat/75/309]; [Pub. L. 87–703, title IV, § 401(3)][/us/pl/87/703/s401/3], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240, § 2(b)][/us/pl/89/240/s2/b], (c), Oct. 7, 1965, [79 Stat. 932][/us/stat/79/932]; [Pub. L. 89–633][/us/pl/89/633], Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879]; [Pub. L. 90–488, § 7][/us/pl/90/488/s7], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 115][/us/pl/92/419/s115], Aug. 30, 1972, [86 Stat. 660][/us/stat/86/660]; [Pub. L. 95–113, title XV, § 1510(a)][/us/pl/95/113/s1510/a], Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 95–334, title I, § 109(a)][/us/pl/95/334/s109/a], Aug. 4, 1978, [92 Stat. 423][/us/stat/92/423]; [Pub. L. 101–624, title XXIII, § 2302(a)(2)][/us/pl/101/624/s2302/a/2], Nov. 28, 1990, [104 Stat. 3980][/us/stat/104/3980]; [Pub. L. 102–554][/us/pl/102/554], §§ 4, 5(a), Oct. 28, 1992, [106 Stat. 4143][/us/stat/106/4143]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 606, 661(b), title VII, §§ 744, 749(b)(1), Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086], 1106, 1125, 1129; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5003, 5004, May 13, 2002, [116 Stat. 342][/us/stat/116/342].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 309, Aug. 8, 1961, [75 Stat. 309][/us/stat/75/309]; [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 401(3), Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240][/us/pl/89/240], § 2(b), (c), Oct. 7, 1965, [79 Stat. 932][/us/stat/79/932]; [Pub. L. 89–633][/us/pl/89/633], Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879]; [Pub. L. 90–488][/us/pl/90/488], § 7, Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 115, Aug. 30, 1972, [86 Stat. 660][/us/stat/86/660]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1510(a), Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 109(a), Aug. 4, 1978, [92 Stat. 423][/us/stat/92/423]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2302(a)(2), Nov. 28, 1990, [104 Stat. 3980][/us/stat/104/3980]; [Pub. L. 102–554][/us/pl/102/554], §§ 4, 5(a), Oct. 28, 1992, [106 Stat. 4143][/us/stat/106/4143]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], §§ 606, 661(b), title VII, §§ 744, 749(b)(1), Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086], 1106, 1125, 1129; [Pub. L. 107–171, title V][/us/pl/107/171/tV], §§ 5003, 5004, May 13, 2002, [116 Stat. 342][/us/stat/116/342].)
 
  __References in Text__ 
 
-    Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title I, as added [Aug. 14, 1946, ch. 964, § 5][/us/act/1946-08-14/ch964/s5], [60 Stat. 1072][/us/stat/60/1072], which was classified to [section 1005a of this title][/us/usc/t7/s1005a] and was repealed by [section 341(a) of Pub. L. 87–128][/us/pl/87/128/s341/a].
+    Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of [act July 22, 1937, ch. 517, title I][/us/act/1937-07-22/ch517/tI], as added [Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], § 5, [60 Stat. 1072][/us/stat/60/1072], which was classified to [section 1005a of this title][/us/usc/t7/s1005a] and was repealed by [section 341(a) of Pub. L. 87–128][/us/pl/87/128/s341/a].
 
     For definition of “this chapter”, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
@@ -127,27 +127,27 @@
 
  __Codification__ 
 
-    In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2002—Subsec. (h)(4). [Pub. L. 107–171, § 5003(1)][/us/pl/107/171/s5003/1], substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
+    2002—Subsec. (h)(4). [Pub. L. 107–171][/us/pl/107/171], § 5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
 
-    Subsec. (h)(7). [Pub. L. 107–171, § 5003(2)][/us/pl/107/171/s5003/2], added par. (7).
+    Subsec. (h)(7). [Pub. L. 107–171][/us/pl/107/171], § 5003(2), added par. (7).
 
-    Subsec. (j). [Pub. L. 107–171, § 5004][/us/pl/107/171/s5004], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–171][/us/pl/107/171], § 5004, added subsec. (j).
 
-    1996—Subsec. (f). [Pub. L. 104–127, § 744][/us/pl/104/127/s744], redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
+    1996—Subsec. (f). [Pub. L. 104–127][/us/pl/104/127], § 744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
 
-    Subsec. (g)(1). [Pub. L. 104–127, § 749(b)(1)][/us/pl/104/127/s749/b/1], inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “[section 1988(c) of this title][/us/usc/t7/s1988/c]”.
+    Subsec. (g)(1). [Pub. L. 104–127][/us/pl/104/127], § 749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “[section 1988(c) of this title][/us/usc/t7/s1988/c]”.
 
-    [Pub. L. 104–127, § 661(b)][/us/pl/104/127/s661/b], struck out “section 1928,” after “provisions of this section,”.
+    [Pub. L. 104–127][/us/pl/104/127], § 661(b), struck out “section 1928,” after “provisions of this section,”.
 
-    Subsec. (h)(4) to (6). [Pub. L. 104–127, § 606][/us/pl/104/127/s606], added pars. (4) to (6).
+    Subsec. (h)(4) to (6). [Pub. L. 104–127][/us/pl/104/127], § 606, added pars. (4) to (6).
 
-    1992—Subsec. (h). [Pub. L. 102–554, § 4][/us/pl/102/554/s4], designated existing provisions as par. (1) and added pars. (2) and (3).
+    1992—Subsec. (h). [Pub. L. 102–554][/us/pl/102/554], § 4, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (i). [Pub. L. 102–554, § 5(a)][/us/pl/102/554/s5/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–554][/us/pl/102/554], § 5(a), added subsec. (i).
 
     1990—Subsec. (e). [Pub. L. 101–624][/us/pl/101/624] inserted “and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency” and substituted “expenses for such agency” for “expenses”.
 
@@ -155,21 +155,21 @@
 
     1977—Subsec. (f)(3). [Pub. L. 95–113][/us/pl/95/113] substituted “any deferred or defaulted installment” for “any defaulted installment”.
 
-    1972—Subsec. (f)(1). [Pub. L. 92–419, § 115(a)(1)][/us/pl/92/419/s115/a/1], substituted “$500,000,000” for “$100,000,000”.
+    1972—Subsec. (f)(1). [Pub. L. 92–419][/us/pl/92/419], § 115(a)(1), substituted “$500,000,000” for “$100,000,000”.
 
-    Subsec. (f)(2). [Pub. L. 92–419, § 115(a)(2)][/us/pl/92/419/s115/a/2], substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
+    Subsec. (f)(2). [Pub. L. 92–419][/us/pl/92/419], § 115(a)(2), substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
 
-    Subsec. (f)(5). [Pub. L. 92–419, § 115(a)(3)][/us/pl/92/419/s115/a/3], (4), substituted “connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance” for “[section 1985(a) of this title][/us/usc/t7/s1985/a] in connection with insured loans,” and provided payment for contract services.
+    Subsec. (f)(5). [Pub. L. 92–419][/us/pl/92/419], § 115(a)(3), (4), substituted “connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance” for “[section 1985(a) of this title][/us/usc/t7/s1985/a] in connection with insured loans,” and provided payment for contract services.
 
-    Subsecs. (g), (h). [Pub. L. 92–419, § 115(b)][/us/pl/92/419/s115/b], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 92–419][/us/pl/92/419], § 115(b), added subsecs. (g) and (h).
 
     1968—Subsec. (f)(1). [Pub. L. 90–488][/us/pl/90/488] increased from $50,000,000 to $100,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
     1966—Subsec. (f)(2). [Pub. L. 89–633][/us/pl/89/633] substituted “until due” for “until the due date of the annual installment”.
 
-    1965—Subsec. (e). [Pub. L. 89–240, § 2(b)][/us/pl/89/240/s2/b], substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+    1965—Subsec. (e). [Pub. L. 89–240][/us/pl/89/240], § 2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
 
-    Subsec. (f)(1). [Pub. L. 89–240, § 2(c)][/us/pl/89/240/s2/c], substituted “$50,000,000” for “$25,000,000”.
+    Subsec. (f)(1). [Pub. L. 89–240][/us/pl/89/240], § 2(c), substituted “$50,000,000” for “$25,000,000”.
 
     1962—Subsec. (f)(1). [Pub. L. 87–703][/us/pl/87/703] increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
@@ -183,7 +183,7 @@
 
  __Advisory Committee on Beginning Farmers and Ranchers__ 
 
-[Pub. L. 102–554, § 5(b)][/us/pl/102/554/s5/b], Oct. 28, 1992, [106 Stat. 4143][/us/stat/106/4143], as amended by [Pub. L. 110–234, title VII, § 7511(c)(4)][/us/pl/110/234/s7511/c/4], May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029, provided that:
+[Pub. L. 102–554][/us/pl/102/554], § 5(b), Oct. 28, 1992, [106 Stat. 4143][/us/stat/106/4143], as amended by [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(4), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029, provided that:
 
 >     “(1)  __Establishment; purpose__  __.—__ 
 
@@ -219,7 +219,7 @@
 
  __Limitation on Sales From Agricultural Credit Insurance Fund__ 
 
-[Pub. L. 99–509, title I, § 1002][/us/pl/99/509/s1002], Oct. 21, 1986, [100 Stat. 1875][/us/stat/100/1875], provided that: 
+[Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1002, Oct. 21, 1986, [100 Stat. 1875][/us/stat/100/1875], provided that: 
 
 > “During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress.”
 
@@ -243,32 +243,32 @@
 [/us/usc/t7/s1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1935
 [/us/usc/t7/s1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1935
 [/us/usc/t26/s144/a/12/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs144%2Fa%2F12%2FB%2Fii
-[/us/pl/87/128/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs309
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F309
-[/us/pl/87/703/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs401%2F3
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
-[/us/pl/89/240/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240%2Fs2%2Fb
+[/us/pl/89/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240
 [/us/stat/79/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F932
 [/us/pl/89/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F633
 [/us/stat/80/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F879
-[/us/pl/90/488/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs7
+[/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F771
-[/us/pl/92/419/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs115
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F660
-[/us/pl/95/113/s1510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1510%2Fa
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1022
-[/us/pl/95/334/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs109%2Fa
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F423
-[/us/pl/101/624/s2302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2302%2Fa%2F2
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3980
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4143
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1086
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F342
-[/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
-[/us/act/1946-08-14/ch964/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964%2Fs5
+[/us/act/1937-07-22/ch517/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517%2FtI
+[/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1072
 [/us/usc/t7/s1005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1005a
 [/us/pl/87/128/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs341%2Fa
@@ -276,30 +276,30 @@
 [/us/usc/t7/s1988/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1988%2Fc
 [/us/usc/t7/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1988
 [/us/pl/104/127/s749/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs749%2Fa%2F1
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/107/171/s5003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5003%2F1
-[/us/pl/107/171/s5003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5003%2F2
-[/us/pl/107/171/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5004
-[/us/pl/104/127/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs744
-[/us/pl/104/127/s749/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs749%2Fb%2F1
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1988/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1988%2Fc
-[/us/pl/104/127/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fb
-[/us/pl/104/127/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs606
-[/us/pl/102/554/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs4
-[/us/pl/102/554/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs5%2Fa
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/92/419/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs115%2Fa%2F1
-[/us/pl/92/419/s115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs115%2Fa%2F2
-[/us/pl/92/419/s115/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs115%2Fa%2F3
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/usc/t7/s1985/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985%2Fa
-[/us/pl/92/419/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs115%2Fb
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/pl/89/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F633
-[/us/pl/89/240/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240%2Fs2%2Fb
-[/us/pl/89/240/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240%2Fs2%2Fc
+[/us/pl/89/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240
+[/us/pl/89/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/104/127/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs606
 [/us/pl/104/127/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fb
@@ -308,14 +308,14 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/102/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs5%2Fb
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4143
-[/us/pl/110/234/s7511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F4
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1267
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1929/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1929%2Fi
-[/us/pl/99/509/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1002
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1875
 
 

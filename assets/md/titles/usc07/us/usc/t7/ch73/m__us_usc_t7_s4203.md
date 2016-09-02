@@ -19,7 +19,7 @@
 
     (b) Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall, as appropriate, develop proposals for action to bring its programs, authorities, and administrative activities into conformity with the purpose and policy of this chapter.
 
-([Pub. L. 97–98, title XIV, § 1542][/us/pl/97/98/s1542], Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
+([Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1542, Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1542
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1343
 
 

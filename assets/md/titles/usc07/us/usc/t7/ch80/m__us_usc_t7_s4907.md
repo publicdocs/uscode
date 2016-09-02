@@ -47,7 +47,7 @@
 
         The plan may contain terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of the plan.
 
-([Pub. L. 99–198, title XVI, § 1648][/us/pl/99/198/s1648], Dec. 23, 1985, [99 Stat. 1625][/us/stat/99/1625].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1648, Dec. 23, 1985, [99 Stat. 1625][/us/stat/99/1625].)
 
 ----------
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t7/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4906
 [/us/usc/t7/s4906/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4906%2Fg
-[/us/pl/99/198/s1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1648
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1625
 
 

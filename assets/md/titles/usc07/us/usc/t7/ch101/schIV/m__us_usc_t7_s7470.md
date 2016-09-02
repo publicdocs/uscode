@@ -55,7 +55,7 @@
 
         The ballots and other information or reports that reveal, or tend to reveal, the vote of any person under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.
 
-([Pub. L. 104–127, title V, § 561][/us/pl/104/127/s561], Apr. 4, 1996, [110 Stat. 1073][/us/stat/110/1073].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 561, Apr. 4, 1996, [110 Stat. 1073][/us/stat/110/1073].)
 
 ----------
 
@@ -67,7 +67,7 @@
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
-[/us/pl/104/127/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs561
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1073
 
 

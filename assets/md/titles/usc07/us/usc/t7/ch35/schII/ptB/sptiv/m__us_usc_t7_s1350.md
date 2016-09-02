@@ -51,7 +51,7 @@
 
         Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of drought, flood, other natural disaster, or a condition beyond the control of the producer a portion of the farm base acreage allotment in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of such cotton acreage for any farm in the county so affected to another farm in the county or in any other nearby county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of upland cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm base acreage allotment transferred under this subsection shall be regarded as planted to upland cotton on the farm and in the county and State from which transfer is made for purposes of establishing future farm, county and State allotments.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 350, as added [Pub. L. 88–297, title I, § 105][/us/pl/88/297/s105], Apr. 11, 1964, [78 Stat. 175][/us/stat/78/175]; amended [Pub. L. 89–321, title IV, § 401(3)][/us/pl/89/321/s401/3], Nov. 3, 1965, [79 Stat. 1193][/us/stat/79/1193]; [Pub. L. 90–559, § 1(2)][/us/pl/90/559/s1/2], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title VI, § 601(4)][/us/pl/91/524/s601/4], Nov. 30, 1970, [84 Stat. 1372][/us/stat/84/1372]; [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], (D)–(G), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 350, as added [Pub. L. 88–297, title I][/us/pl/88/297/tI], § 105, Apr. 11, 1964, [78 Stat. 175][/us/stat/78/175]; amended [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 401(3), Nov. 3, 1965, [79 Stat. 1193][/us/stat/79/1193]; [Pub. L. 90–559][/us/pl/90/559], § 1(2), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601(4), Nov. 30, 1970, [84 Stat. 1372][/us/stat/84/1372]; [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), (D)–(G), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233].)
 
  __References in Text__ 
 
@@ -59,17 +59,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 1350, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 350, [52 Stat. 60][/us/stat/52/60], was omitted by [act Aug. 29, 1949, ch. 518, § 1][/us/act/1949-08-29/ch518/s1], [63 Stat. 670][/us/stat/63/670], which amended sections 342 to 350 of [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, [52 Stat. 56][/us/stat/52/56] to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior [section 1348 of this title][/us/usc/t7/s1348]). See [section 1347 of this title][/us/usc/t7/s1347].
+    A prior section 1350, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 350, [52 Stat. 60][/us/stat/52/60], was omitted by [act Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 1, [63 Stat. 670][/us/stat/63/670], which amended sections 342 to 350 of [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], [52 Stat. 56][/us/stat/52/56] to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior [section 1348 of this title][/us/usc/t7/s1348]). See [section 1347 of this title][/us/usc/t7/s1347].
 
  __Amendments__ 
 
-    1973—Subsec. (a). [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], (D), (E), substituted “1971 through 1977” for “1971, 1972, and 1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
+    1973—Subsec. (a). [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), (D), (E), substituted “1971 through 1977” for “1971, 1972, and 1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
 
-    Subsec. (e)(2). [Pub. L. 93–86, § 1(19)(F)][/us/pl/93/86/s1/19/F], substituted “soybeans, wheat, feed grains, guar, castor beans, triticale, oats, rye or such other crops as the Secretary may deem appropriate” for “soybeans, wheat or feed grains”.
+    Subsec. (e)(2). [Pub. L. 93–86][/us/pl/93/86], § 1(19)(F), substituted “soybeans, wheat, feed grains, guar, castor beans, triticale, oats, rye or such other crops as the Secretary may deem appropriate” for “soybeans, wheat or feed grains”.
 
-    Subsec. (f). [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], substituted “1971 through 1977” for “1971, 1972, and 1973”.
+    Subsec. (f). [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), substituted “1971 through 1977” for “1971, 1972, and 1973”.
 
-    Subsec. (h). [Pub. L. 93–86, § 1(19)(G)][/us/pl/93/86/s1/19/G], substituted “to another farm in the county or in any other nearby county” for “to another farm in the county or in an adjoining county”.
+    Subsec. (h). [Pub. L. 93–86][/us/pl/93/86], § 1(19)(G), substituted “to another farm in the county or in any other nearby county” for “to another farm in the county or in an adjoining county”.
 
     1970—[Pub. L. 91–524][/us/pl/91/524] designated existing provisions as subsec. (a), substituted provisions for the establishment of a national base acreage allotment covering each of the 1971, 1972, and 1973 crops of upland cotton for provisions authorizing the establishing of a national domestic allotment for the 1966 through 1970 crops of upland cotton, and added subsecs. (b) to (h).
 
@@ -79,15 +79,15 @@
 
  __Effective Date of 1973 Amendment__ 
 
-    [Pub. L. 93–86, § 1(19)(E)][/us/pl/93/86/s1/19/E]–(G), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that the amendments made by section 1(19)(E)–(G) of [Pub. L. 93–86][/us/pl/93/86] are effective beginning with the 1974 crop.
+    [Pub. L. 93–86][/us/pl/93/86], § 1(19)(E)–(G), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that the amendments made by section 1(19)(E)–(G) of [Pub. L. 93–86][/us/pl/93/86] are effective beginning with the 1974 crop.
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title VI, § 601][/us/pl/91/524/s601], Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], provided that the amendment made by [section 601 of Pub. L. 91–524][/us/pl/91/524/s601] is effective beginning with the 1971 crop of upland cotton.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601, Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], provided that the amendment made by [section 601 of Pub. L. 91–524][/us/pl/91/524/s601] is effective beginning with the 1971 crop of upland cotton.
 
  __Effective Date of 1965 Amendment__ 
 
-    [Pub. L. 89–321, title IV, § 401(3)][/us/pl/89/321/s401/3], Nov. 3, 1965, [79 Stat. 1193][/us/stat/79/1193], provided that the amendment made by [section 401(3) of Pub. L. 89–321][/us/pl/89/321/s401/3] is effective with the 1966 crop.
+    [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 401(3), Nov. 3, 1965, [79 Stat. 1193][/us/stat/79/1193], provided that the amendment made by [section 401(3) of Pub. L. 89–321][/us/pl/89/321/s401/3] is effective with the 1966 crop.
 
  __Inapplicability of Section__ 
 
@@ -108,41 +108,41 @@
 
 [/us/usc/t7/s1444/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Fe%2F4
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/88/297/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs105
+[/us/pl/88/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtI
 [/us/stat/78/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F175
-[/us/pl/89/321/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs401%2F3
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1193
-[/us/pl/90/559/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F2
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/pl/91/524/s601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601%2F4
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1372
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
 [/us/stat/52/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F60
-[/us/act/1949-08-29/ch518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs1
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F670
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
 [/us/stat/52/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F56
 [/us/usc/t7/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1348
 [/us/usc/t7/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
-[/us/pl/93/86/s1/19/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FF
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
-[/us/pl/93/86/s1/19/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FG
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
-[/us/pl/93/86/s1/19/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FE
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1371
 [/us/pl/91/524/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601
-[/us/pl/89/321/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs401%2F3
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1193
 [/us/pl/89/321/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs401%2F3
 [/us/usc/t7/s9092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F1

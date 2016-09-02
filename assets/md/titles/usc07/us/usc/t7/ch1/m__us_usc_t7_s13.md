@@ -53,7 +53,7 @@
 
         Such felony shall be punishable by a fine of not more than $500,000, plus the amount of any profits realized from such trading or disclosure made in violation of this subsection, or imprisonment for not more than five years, or both, together with the costs of prosecution.
 
-([Sept. 21, 1922, ch. 369, § 9][/us/act/1922-09-21/ch369/s9], [42 Stat. 1003][/us/stat/42/1003]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 11, [49 Stat. 1491][/us/stat/49/1491], 1501; [Pub. L. 90–258, § 25][/us/pl/90/258/s25], Feb. 19, 1968, [82 Stat. 33][/us/stat/82/33]; [Pub. L. 93–463, title II, § 212(d)][/us/pl/93/463/s212/d], title IV, §§ 401, 409, Oct. 23, 1974, [88 Stat. 1404][/us/stat/88/1404], 1412, 1414; [Pub. L. 95–405, § 19][/us/pl/95/405/s19], Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II, § 227][/us/pl/97/444/s227], Jan. 11, 1983, [96 Stat. 2316][/us/stat/96/2316]; [Pub. L. 99–641, title I][/us/pl/99/641], §§ 105, 110(3), (4), Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558], 3561; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 212(a), 214(a), Oct. 28, 1992, [106 Stat. 3608][/us/stat/106/3608], 3610; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(22)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410; [Pub. L. 110–234, title XIII][/us/pl/110/234], §§ 13103(d), 13105(h), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], 1435; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, §§ 13103(d), 13105(h), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196, 2197; [Pub. L. 111–203, title VII, § 741(b)(6)][/us/pl/111/203/s741/b/6], (7), July 21, 2010, [124 Stat. 1731][/us/stat/124/1731].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 9, [42 Stat. 1003][/us/stat/42/1003]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 11, [49 Stat. 1491][/us/stat/49/1491], 1501; [Pub. L. 90–258][/us/pl/90/258], § 25, Feb. 19, 1968, [82 Stat. 33][/us/stat/82/33]; [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 212(d), title IV, §§ 401, 409, Oct. 23, 1974, [88 Stat. 1404][/us/stat/88/1404], 1412, 1414; [Pub. L. 95–405][/us/pl/95/405], § 19, Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 227, Jan. 11, 1983, [96 Stat. 2316][/us/stat/96/2316]; [Pub. L. 99–641, title I][/us/pl/99/641/tI], §§ 105, 110(3), (4), Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558], 3561; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 212(a), 214(a), Oct. 28, 1992, [106 Stat. 3608][/us/stat/106/3608], 3610; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(22)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], §§ 13103(d), 13105(h), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], 1435; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, §§ 13103(d), 13105(h), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196, 2197; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 741(b)(6), (7), July 21, 2010, [124 Stat. 1731][/us/stat/124/1731].)
 
  __Codification__ 
 
@@ -61,57 +61,57 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–203, § 741(b)(6)(A)(i)][/us/pl/111/203/s741/b/6/A/i], inserted “or of any swap,” before “or to corner”.
+    2010—Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(6)(A)(i), inserted “or of any swap,” before “or to corner”.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 741(b)(6)(A)(ii)][/us/pl/111/203/s741/b/6/A/ii], inserted “swap data repository,” before “or futures association”.
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(6)(A)(ii), inserted “swap data repository,” before “or futures association”.
 
-    Subsec. (a)(6). [Pub. L. 111–203, § 741(b)(7)][/us/pl/111/203/s741/b/7], added par. (6).
+    Subsec. (a)(6). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(7), added par. (6).
 
-    Subsec. (e)(1). [Pub. L. 111–203, § 741(b)(6)(B)][/us/pl/111/203/s741/b/6/B], inserted “swap data repository,” before “or registered futures association” and “, or swaps,” before “on the basis”.
+    Subsec. (e)(1). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(6)(B), inserted “swap data repository,” before “or registered futures association” and “, or swaps,” before “on the basis”.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 13103(d)][/us/pl/110/246/s13103/d], in introductory provisions, struck out “(or $500,000 in the case of a person who is an individual)” after “$1,000,000” and substituted “10 years” for “five years”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 13103(d), in introductory provisions, struck out “(or $500,000 in the case of a person who is an individual)” after “$1,000,000” and substituted “10 years” for “five years”.
 
-    Subsecs. (e), (f). [Pub. L. 110–246, § 13105(h)][/us/pl/110/246/s13105/h], redesignated subsec. (f) as (e) and, in par. (1), substituted “; or” for period at end.
+    Subsecs. (e), (f). [Pub. L. 110–246][/us/pl/110/246], § 13105(h), redesignated subsec. (f) as (e) and, in par. (1), substituted “; or” for period at end.
 
     2000—Subsecs. (a)(2) to (4), (f)(1), (2). [Pub. L. 106–554][/us/pl/106/554] substituted “registered entity” for “contract market”.
 
-    1992—Subsec. (a). [Pub. L. 102–546, § 212(a)(1)(A)][/us/pl/102/546/s212/a/1/A], (C), added subsec. (a) and struck out former subsec. (a) which related to penalty for embezzlement and larcenous actions.
+    1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], § 212(a)(1)(A), (C), added subsec. (a) and struck out former subsec. (a) which related to penalty for embezzlement and larcenous actions.
 
-    Subsec. (b). [Pub. L. 102–546, § 212(a)(1)(A)][/us/pl/102/546/s212/a/1/A], (C), added subsec. (b) and struck out former subsec. (b) which related to penalty for price manipulation, cornering, and fraudulent information.
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 212(a)(1)(A), (C), added subsec. (b) and struck out former subsec. (b) which related to penalty for price manipulation, cornering, and fraudulent information.
 
-    Subsec. (c). [Pub. L. 102–546, § 212(a)(1)(A)][/us/pl/102/546/s212/a/1/A], (B), (2), redesignated subsec. (d) as (c), substituted “$500,000” for “$100,000”, and struck out former subsec. (c) which related to penalty for misdemeanors.
+    Subsec. (c). [Pub. L. 102–546][/us/pl/102/546], § 212(a)(1)(A), (B), (2), redesignated subsec. (d) as (c), substituted “$500,000” for “$100,000”, and struck out former subsec. (c) which related to penalty for misdemeanors.
 
     Subsecs. (d) to (f). [Pub. L. 102–546][/us/pl/102/546], §§ 212(a)(1)(B), (3), 214(a), redesignated subsec. (e) as (d), substituted “$500,000” for “$100,000”, and added subsec. (f).
 
-    1986—Subsec. (c). [Pub. L. 99–641, § 110(3)][/us/pl/99/641/s110/3], substituted “6k,” for “6k.”
+    1986—Subsec. (c). [Pub. L. 99–641][/us/pl/99/641], § 110(3), substituted “6k,” for “6k.”
 
-    Subsec. (d). [Pub. L. 99–641, § 110(4)][/us/pl/99/641/s110/4], substituted “advance guaranty” for “advance guarantee”.
+    Subsec. (d). [Pub. L. 99–641][/us/pl/99/641], § 110(4), substituted “advance guaranty” for “advance guarantee”.
 
-    [Pub. L. 99–641, § 105][/us/pl/99/641/s105], inserted “if nonpublic information is used in the investment transaction, if the investment transaction is prohibited by rule or regulation of the Commission, or if the investment transaction is effected by means of any instrument regulated by the Commission” after “actual commodity”, and substituted provisions which related to foregoing prohibitions not being applicable to transactions determined by Commission not contrary to public interest or inconsistent with this subsection for provisions which read as follows: “Such prohibition against any investment transaction in an actual commodity shall not apply to (1) a transaction in which such person buys an agricultural commodity or livestock for use in such person’s own farming or ranching operations or sells an agricultural commodity which such person has produced in connection with such person’s own farming or ranching operations nor to any transaction in which such person sells livestock owned by such person for at least three months, (2) a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or (3) a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction. With respect to such excepted transactions, the Commission shall require any Commissioner of the Commission or any employee or agent thereof who participates in any such transaction to notify the Commission thereof in accordance with such regulations as the Commission shall prescribe and the Commission shall make such information available to the public.”
+    [Pub. L. 99–641][/us/pl/99/641], § 105, inserted “if nonpublic information is used in the investment transaction, if the investment transaction is prohibited by rule or regulation of the Commission, or if the investment transaction is effected by means of any instrument regulated by the Commission” after “actual commodity”, and substituted provisions which related to foregoing prohibitions not being applicable to transactions determined by Commission not contrary to public interest or inconsistent with this subsection for provisions which read as follows: “Such prohibition against any investment transaction in an actual commodity shall not apply to (1) a transaction in which such person buys an agricultural commodity or livestock for use in such person’s own farming or ranching operations or sells an agricultural commodity which such person has produced in connection with such person’s own farming or ranching operations nor to any transaction in which such person sells livestock owned by such person for at least three months, (2) a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or (3) a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction. With respect to such excepted transactions, the Commission shall require any Commissioner of the Commission or any employee or agent thereof who participates in any such transaction to notify the Commission thereof in accordance with such regulations as the Commission shall prescribe and the Commission shall make such information available to the public.”
 
-    1983—Subsec. (a). [Pub. L. 97–444, § 227(1)][/us/pl/97/444/s227/1], expanded applicability to any person registered or required to be registered under this chapter and inserted provision suspending persons convicted under this subsec. from registration and denying reregistration for five years or longer as determined by the Commission, unless such suspension or denial is not required to protect the public interest.
+    1983—Subsec. (a). [Pub. L. 97–444][/us/pl/97/444], § 227(1), expanded applicability to any person registered or required to be registered under this chapter and inserted provision suspending persons convicted under this subsec. from registration and denying reregistration for five years or longer as determined by the Commission, unless such suspension or denial is not required to protect the public interest.
 
-    Subsec. (b). [Pub. L. 97–444, § 227(2)][/us/pl/97/444/s227/2], inserted “A person convicted of a felony under this subsection shall be suspended from any registration under this chapter, denied registration or reregistration for five years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for five years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
+    Subsec. (b). [Pub. L. 97–444][/us/pl/97/444], § 227(2), inserted “A person convicted of a felony under this subsection shall be suspended from any registration under this chapter, denied registration or reregistration for five years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for five years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
 
-    Subsec. (c). [Pub. L. 97–444, § 227(3)][/us/pl/97/444/s227/3], inserted “A person convicted under this subsection of knowingly violating the provisions of [section 6a of this title][/us/usc/t7/s6a] shall be suspended from any registration under this chapter, denied registration or reregistration for a period of two years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for two years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
+    Subsec. (c). [Pub. L. 97–444][/us/pl/97/444], § 227(3), inserted “A person convicted under this subsection of knowingly violating the provisions of [section 6a of this title][/us/usc/t7/s6a] shall be suspended from any registration under this chapter, denied registration or reregistration for a period of two years or such longer period as the Commission shall determine, and barred from using or participating in any manner in any market regulated by the Commission for two years or such longer period as the Commission shall determine on such terms and conditions as the Commission may prescribe, unless the Commission determines that the imposition of such suspension, denial of registration or reregistration, or market bar is not required to protect the public interest. The Commission may upon petition later review such disqualification and market bar and for good cause shown reduce the period thereof.”
 
-    Subsec. (d). [Pub. L. 97–444, § 227(4)][/us/pl/97/444/s227/4], in amending subsec. (d) generally, added to range of felonious conduct, participation in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract, and added to nonapplicability of prohibition against any investment transaction in an actual commodity, a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction.
+    Subsec. (d). [Pub. L. 97–444][/us/pl/97/444], § 227(4), in amending subsec. (d) generally, added to range of felonious conduct, participation in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract, and added to nonapplicability of prohibition against any investment transaction in an actual commodity, a transaction entered into by the trustee of a trust established by such person over which such person exercises no control if such transaction is entered into solely to hedge against adverse price changes in connection with such farming or ranching operations or is a transaction for the lease of oil or gas or other mineral rights or interests owned by such person, or a transaction in which such person buys or sells, directly or indirectly (except by means of an instrument regulated by the Commission), a United States Government security, a certificate of deposit, or a similar financial instrument if no nonpublic information is used by such person in such transaction.
 
-    Subsec. (e). [Pub. L. 97–444, § 227(5)][/us/pl/97/444/s227/5], inserted after words “ ‘decline guaranty’ ” each place they appear the following: “, or in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract”.
+    Subsec. (e). [Pub. L. 97–444][/us/pl/97/444], § 227(5), inserted after words “ ‘decline guaranty’ ” each place they appear the following: “, or in any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract”.
 
-    1978—Subsec. (a). [Pub. L. 95–405, § 19(1)][/us/pl/95/405/s19/1], substituted “$500,000” for “$100,000” and inserted provision relating to a fine of not more than $100,000 plus costs of prosecution for a violation by a person who is an individual.
+    1978—Subsec. (a). [Pub. L. 95–405][/us/pl/95/405], § 19(1), substituted “$500,000” for “$100,000” and inserted provision relating to a fine of not more than $100,000 plus costs of prosecution for a violation by a person who is an individual.
 
-    Subsec. (b). [Pub. L. 95–405, § 19(2)][/us/pl/95/405/s19/2], substituted “$500,000” for “$100,000” and inserted provisions making felonies the violation of sections 6, 6b, 6c(b) to (e), 6h, 6o(1) and 23 of this title, knowingly making any false or misleading statement of material fact, or omitting such fact in any application or report, and setting the fine for such felonies at not more than $100,000 for a person who is an individual.
+    Subsec. (b). [Pub. L. 95–405][/us/pl/95/405], § 19(2), substituted “$500,000” for “$100,000” and inserted provisions making felonies the violation of sections 6, 6b, 6c(b) to (e), 6h, 6o(1) and 23 of this title, knowingly making any false or misleading statement of material fact, or omitting such fact in any application or report, and setting the fine for such felonies at not more than $100,000 for a person who is an individual.
 
-    Subsec. (c). [Pub. L. 95–405, § 19(3)][/us/pl/95/405/s19/3], inserted references to subsecs. (d) and (e) of this section and substituted “sections 6a, 6c(a), 6d, 6e, 6i, 6k, 6m, 6o(2), or 12b of this title” for “sections 6 to 6e, 6h, 6i, 6k, 6m, 6o or 12b of this title”.
+    Subsec. (c). [Pub. L. 95–405][/us/pl/95/405], § 19(3), inserted references to subsecs. (d) and (e) of this section and substituted “sections 6a, 6c(a), 6d, 6e, 6i, 6k, 6m, 6o(2), or 12b of this title” for “sections 6 to 6e, 6h, 6i, 6k, 6m, 6o or 12b of this title”.
 
-    Subsecs. (d), (e). [Pub. L. 95–405, § 19(4)][/us/pl/95/405/s19/4], (5), substituted “$100,000” for “$10,000”.
+    Subsecs. (d), (e). [Pub. L. 95–405][/us/pl/95/405], § 19(4), (5), substituted “$100,000” for “$10,000”.
 
-    1974—Subsecs. (a), (b). [Pub. L. 93–463, § 212(d)(1)][/us/pl/93/463/s212/d/1], (2), substituted “$100,000” for “$10,000”.
+    1974—Subsecs. (a), (b). [Pub. L. 93–463][/us/pl/93/463], § 212(d)(1), (2), substituted “$100,000” for “$10,000”.
 
     Subsec. (c). [Pub. L. 93–463][/us/pl/93/463], §§ 212(d)(3), 409, substituted “$100,000” for “$10,000” and inserted reference to sections 6k, 6m, and 6o of this title.
 
-    Subsecs. (d), (e). [Pub. L. 93–463, § 401][/us/pl/93/463/s401], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 93–463][/us/pl/93/463], § 401, added subsecs. (d) and (e).
 
     1968—Subsec. (a). [Pub. L. 90–258][/us/pl/90/258] added subsec. (a).
 
@@ -151,13 +151,13 @@
 
  __Regulations__ 
 
-[Pub. L. 102–546, title II, § 214(b)][/us/pl/102/546/s214/b], Oct. 28, 1992, [106 Stat. 3611][/us/stat/106/3611], provided that: 
+[Pub. L. 102–546, title II][/us/pl/102/546/tII], § 214(b), Oct. 28, 1992, [106 Stat. 3611][/us/stat/106/3611], provided that: 
 
 > “The Commodity Futures Trading Commission shall issue regulations to implement the amendment made by subsection (a) \[amending this section\] not later than three hundred and sixty days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
  __Penalties Study and Guidelines__ 
 
-[Pub. L. 102–546, title II, § 225][/us/pl/102/546/s225], Oct. 28, 1992, [106 Stat. 3618][/us/stat/106/3618], provided that:
+[Pub. L. 102–546, title II][/us/pl/102/546/tII], § 225, Oct. 28, 1992, [106 Stat. 3618][/us/stat/106/3618], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -182,61 +182,61 @@
 
 [/us/usc/t7/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs23
 [/us/usc/t7/s2/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F4
-[/us/act/1922-09-21/ch369/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs9
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
 [/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
-[/us/pl/90/258/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs25
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F33
-[/us/pl/93/463/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs212%2Fd
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1404
-[/us/pl/95/405/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs19
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F875
-[/us/pl/97/444/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2316
-[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3558
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3608
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s741/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F6
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1731
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s741/b/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F6%2FA%2Fi
-[/us/pl/111/203/s741/b/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F6%2FA%2Fii
-[/us/pl/111/203/s741/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F7
-[/us/pl/111/203/s741/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F6%2FB
-[/us/pl/110/246/s13103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13103%2Fd
-[/us/pl/110/246/s13105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fh
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/102/546/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs212%2Fa%2F1%2FA
-[/us/pl/102/546/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs212%2Fa%2F1%2FA
-[/us/pl/102/546/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs212%2Fa%2F1%2FA
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/99/641/s110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs110%2F3
-[/us/pl/99/641/s110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs110%2F4
-[/us/pl/99/641/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs105
-[/us/pl/97/444/s227/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227%2F1
-[/us/pl/97/444/s227/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227%2F2
-[/us/pl/97/444/s227/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227%2F3
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6a
-[/us/pl/97/444/s227/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227%2F4
-[/us/pl/97/444/s227/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs227%2F5
-[/us/pl/95/405/s19/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs19%2F1
-[/us/pl/95/405/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs19%2F2
-[/us/pl/95/405/s19/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs19%2F3
-[/us/pl/95/405/s19/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs19%2F4
-[/us/pl/93/463/s212/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs212%2Fd%2F1
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
-[/us/pl/93/463/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs401
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
@@ -263,9 +263,9 @@
 [/us/pl/90/258/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs28
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/102/546/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs214%2Fb
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3611
-[/us/pl/102/546/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs225
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3618
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 

@@ -21,7 +21,7 @@
 
     (c) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under [section 1379d of this title][/us/usc/t7/s1379d] to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1, 1973, from the marketing restrictions in subsection (b) of [section 1379d of this title][/us/usc/t7/s1379d], or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379g, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629]; amended [Pub. L. 89–321, title V, § 504(d)][/us/pl/89/321/s504/d], Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 91–524, title IV, § 403(b)][/us/pl/91/524/s403/b], Nov. 30, 1970, as added [Pub. L. 93–86, § 1(10)][/us/pl/93/86/s1/10], Aug. 10, 1973, [87 Stat. 228][/us/stat/87/228].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379g, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629]; amended [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 504(d), Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 403(b), Nov. 30, 1970, as added [Pub. L. 93–86][/us/pl/93/86], § 1(10), Aug. 10, 1973, [87 Stat. 228][/us/stat/87/228].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Amendments__ 
 
-    1973—Subsec. (c). [Pub. L. 91–524, § 403(b)][/us/pl/91/524/s403/b], as added by [Pub. L. 93–86][/us/pl/93/86], added subsec. (c).
+    1973—Subsec. (c). [Pub. L. 91–524][/us/pl/91/524], § 403(b), as added by [Pub. L. 93–86][/us/pl/93/86], added subsec. (c).
 
     1965—[Pub. L. 89–321][/us/pl/89/321] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -64,15 +64,15 @@
 [/us/usc/t7/s1379d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379d
 [/us/usc/t7/s1379d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379d
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F629
-[/us/pl/89/321/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs504%2Fd
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1203
-[/us/pl/91/524/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs403%2Fb
-[/us/pl/93/86/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F10
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F228
 [/us/usc/t7/s1379a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379a
-[/us/pl/91/524/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs403%2Fb
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3

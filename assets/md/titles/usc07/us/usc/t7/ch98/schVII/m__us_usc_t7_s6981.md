@@ -39,7 +39,7 @@
 
         (2) appoint and pay the members of the groups, except that officers and employees of the United States shall not receive additional compensation for service as a member of a group.
 
-([Pub. L. 103–354, title II, § 261][/us/pl/103/354/s261], Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 261, Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs261
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3227
 [/us/pl/103/354/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs261
 [/us/pl/103/354/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs261

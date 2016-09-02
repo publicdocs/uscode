@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2002 through 2007.
 
-([Pub. L. 87–128, title III, § 379D][/us/pl/87/128/s379D], as added [Pub. L. 107–171, title VI, § 6027(i)][/us/pl/107/171/s6027/i], May 13, 2002, [116 Stat. 374][/us/stat/116/374].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 379D, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6027(i), May 13, 2002, [116 Stat. 374][/us/stat/116/374].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t7/s2009aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa
-[/us/pl/87/128/s379D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs379D
-[/us/pl/107/171/s6027/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fi
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F374
 
 

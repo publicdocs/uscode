@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 113–79, title XII, § 12306][/us/pl/113/79/s12306], Feb. 7, 2014, [128 Stat. 988][/us/stat/128/988].)
+([Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12306, Feb. 7, 2014, [128 Stat. 988][/us/stat/128/988].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s12306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12306
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F988
 
 

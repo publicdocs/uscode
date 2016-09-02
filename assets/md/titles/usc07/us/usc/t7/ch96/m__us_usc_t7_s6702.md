@@ -55,7 +55,7 @@
 
         The Secretary shall submit reports of the studies conducted under subsections (a) and (b) within 3 and 6 years, respectively, after November 28, 1990, to the Committee on Agriculture and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate. In addition, interim reports regarding such studies shall be provided by the Secretary to such Committees annually, with recommendations for actions which may be taken to mitigate the negative effects of global climate change and to adapt to global climate changes and related phenomena.
 
-([Pub. L. 101–624, title XXIV, § 2403][/us/pl/101/624/s2403], Nov. 28, 1990, [104 Stat. 4059][/us/stat/104/4059].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2403, Nov. 28, 1990, [104 Stat. 4059][/us/stat/104/4059].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2403
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4059
 
 

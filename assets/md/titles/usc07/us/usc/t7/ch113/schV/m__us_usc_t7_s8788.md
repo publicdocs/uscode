@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2012.
 
-([Pub. L. 110–234, title I, § 1613][/us/pl/110/234/s1613], May 22, 2008, [122 Stat. 1019][/us/stat/122/1019]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1613, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1748.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1613, May 22, 2008, [122 Stat. 1019][/us/stat/122/1019]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1613, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1748.)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1613
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1019
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

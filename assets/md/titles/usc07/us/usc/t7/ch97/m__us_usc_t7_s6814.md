@@ -23,7 +23,7 @@
 
         Funds appropriated under subsection (a) may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.
 
-([Pub. L. 103–190, § 15][/us/pl/103/190/s15], Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
+([Pub. L. 103–190][/us/pl/103/190], § 15, Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/190/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs15
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2289
 
 

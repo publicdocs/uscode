@@ -27,7 +27,7 @@
 
         (4) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection.
 
-([Pub. L. 95–113, title XX, § 2001][/us/pl/95/113/s2001], as added [Pub. L. 96–294, title II, § 260(a)][/us/pl/96/294/s260/a], June 30, 1980, [94 Stat. 709][/us/stat/94/709].)
+([Pub. L. 95–113, title XX][/us/pl/95/113/tXX], § 2001, as added [Pub. L. 96–294, title II][/us/pl/96/294/tII], § 260(a), June 30, 1980, [94 Stat. 709][/us/stat/94/709].)
 
  __References in Text__ 
 
@@ -46,8 +46,8 @@
 
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/95/113/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs2001
-[/us/pl/96/294/s260/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs260%2Fa
+[/us/pl/95/113/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXX
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F709
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

@@ -45,7 +45,7 @@
 
         Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
 
-([Pub. L. 101–624, title XXI, § 2106][/us/pl/101/624/s2106], Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2106, Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2106
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3937
 
 

@@ -47,7 +47,7 @@
 
             Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business or wherever the person may be found.
 
-([Pub. L. 103–190, § 10][/us/pl/103/190/s10], Dec. 14, 1993, [107 Stat. 2288][/us/stat/107/2288].)
+([Pub. L. 103–190][/us/pl/103/190], § 10, Dec. 14, 1993, [107 Stat. 2288][/us/stat/107/2288].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/103/190/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs10
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2288
 
 

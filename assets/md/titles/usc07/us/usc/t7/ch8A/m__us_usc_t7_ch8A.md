@@ -185,7 +185,7 @@ SUBCHAPTER II—CRITICAL AGRICULTURAL MATERIALS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs178" data-uslm-ref="/us/usc/t7/s178">178</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs178l" data-uslm-ref="/us/usc/t7/s178l">178l.</a>  </td>
 
     <td> Rules and regulations.  </td>
 

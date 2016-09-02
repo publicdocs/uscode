@@ -367,7 +367,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
 
-([Pub. L. 107–188, title II, § 212][/us/pl/107/188/s212], June 12, 2002, [116 Stat. 647][/us/stat/116/647]; [Pub. L. 107–296, title XVII, § 1709(b)][/us/pl/107/296/s1709/b], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319].)
+([Pub. L. 107–188, title II][/us/pl/107/188/tII], § 212, June 12, 2002, [116 Stat. 647][/us/stat/116/647]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1709(b), Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319].)
 
  __References in Text__ 
 
@@ -391,13 +391,13 @@
 
  __Short Title__ 
 
-[Pub. L. 107–188, title II, § 211][/us/pl/107/188/s211], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
+[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 211, June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
 
 > “This subtitle \[subtitle B (§§ 211–213) of title II of [Pub. L. 107–188][/us/pl/107/188], enacting this subchapter\] may be cited as the ‘Agricultural Bioterrorism Protection Act of 2002’.”
 
  __Implementation by Department of Agriculture__ 
 
-[Pub. L. 107–188, title II, § 213][/us/pl/107/188/s213], June 12, 2002, [116 Stat. 656][/us/stat/116/656], provided that:
+[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 213, June 12, 2002, [116 Stat. 656][/us/stat/116/656], provided that:
 
 >     “(a)  __Date Certain for Promulgation of List__  __.—__ 
 
@@ -446,9 +446,9 @@
 [/us/usc/t7/s7733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7733
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
-[/us/pl/107/188/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs212
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
-[/us/pl/107/296/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1709%2Fb
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2319
 [/us/usc/t42/s262a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fa%2F1
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
@@ -468,10 +468,10 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/188/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs211
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/107/188/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs213
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F656
 [/us/usc/t7/s8401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401%2Fa%2F1
 [/us/usc/t7/s8401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401%2Fg

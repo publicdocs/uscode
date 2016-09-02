@@ -49,7 +49,7 @@
 
             (E) such other information as the Secretary considers appropriate.
 
-([Pub. L. 113–79, title VI, § 6209][/us/pl/113/79/s6209], Feb. 7, 2014, [128 Stat. 861][/us/stat/128/861].)
+([Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6209, Feb. 7, 2014, [128 Stat. 861][/us/stat/128/861].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t7/s1632a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632a
 [/us/usc/t7/s940c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs940c%2Fb%2F2
 [/us/usc/t7/s1932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fc
-[/us/pl/113/79/s6209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6209
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F861
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307

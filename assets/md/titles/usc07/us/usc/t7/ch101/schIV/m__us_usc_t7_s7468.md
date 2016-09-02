@@ -67,7 +67,7 @@
 
         If a person fails to pay an assessment of a civil penalty after the assessment has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-([Pub. L. 104–127, title V, § 559][/us/pl/104/127/s559], Apr. 4, 1996, [110 Stat. 1071][/us/stat/110/1071].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 559, Apr. 4, 1996, [110 Stat. 1071][/us/stat/110/1071].)
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs559
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1071
 
 

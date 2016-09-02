@@ -27,7 +27,7 @@
 
         The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result in an increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
 
-([Pub. L. 104–127, title I, § 162][/us/pl/104/127/s162], Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I, § 1606][/us/pl/107/171/s1606], May 13, 2002, [116 Stat. 218][/us/stat/116/218].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 162, Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1606, May 13, 2002, [116 Stat. 218][/us/stat/116/218].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901
-[/us/pl/104/127/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs162
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F935
-[/us/pl/107/171/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1606
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F218
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

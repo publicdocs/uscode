@@ -27,7 +27,7 @@
 
         Any delay or attempt to delay by a market agency, dealer, or packer purchasing livestock, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for such livestock shall be considered an “unfair practice” in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term “unfair practice” as used in this chapter.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 409, as added [Pub. L. 94–410, § 7][/us/pl/94/410/s7], Sept. 13, 1976, [90 Stat. 1250][/us/stat/90/1250].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 409, as added [Pub. L. 94–410][/us/pl/94/410], § 7, Sept. 13, 1976, [90 Stat. 1250][/us/stat/90/1250].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/94/410/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs7
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1250
 
 

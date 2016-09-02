@@ -31,13 +31,13 @@
 
         The Administrator shall, by publication in such manner as the Administrator may prescribe, give notice of all judgments entered in actions instituted under the authority of this subchapter.
 
-([June 25, 1947, ch. 125, § 16][/us/act/1947-06-25/ch125/s16], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 994][/us/stat/86/994]; amended [Pub. L. 98–620, title IV, § 402(4)(C)][/us/pl/98/620/s402/4/C], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 100–532, title VIII, § 801(i)][/us/pl/100/532/s801/i], Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), (3)(P), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 16, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 994][/us/stat/86/994]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(4)(C), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(i), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(b)(1), (2), (3)(P), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
 
  __Amendments__ 
 
-    1991—Subsec. (b). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator’s” for “his”, and “the Administrator” for “him” after “designated by”.
+    1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator’s” for “his”, and “the Administrator” for “him” after “designated by”.
 
-    Subsec. (d). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “may”.
+    Subsec. (d). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “may”.
 
     1988—Subsec. (a). [Pub. L. 100–532][/us/pl/100/532] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as is otherwise provided in this subchapter, Agency refusals to cancel or suspend registrations or change classifications not following a hearing and other final Agency actions not committed to Agency discretion by law are judicially reviewable in the district courts.”
 
@@ -64,17 +64,17 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/act/1947-06-25/ch125/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs16
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F994
-[/us/pl/98/620/s402/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F4%2FC
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
-[/us/pl/100/532/s801/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fi
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2682
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532

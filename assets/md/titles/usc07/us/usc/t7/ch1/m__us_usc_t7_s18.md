@@ -57,7 +57,7 @@
 
         Nothing in this section prohibits a registered futures commission merchant from requiring a customer that is an eligible contract participant, as a condition to the commission merchant’s conducting a transaction for the customer, to enter into an agreement waiving the right to file a claim under this section.
 
-([Sept. 21, 1922, ch. 369, § 14][/us/act/1922-09-21/ch369/s14], as added [Pub. L. 93–463, title I, § 106][/us/pl/93/463/s106], Oct. 23, 1974, [88 Stat. 1393][/us/stat/88/1393]; amended [Pub. L. 94–16, § 3][/us/pl/94/16/s3], Apr. 16, 1975, [89 Stat. 77][/us/stat/89/77]; [Pub. L. 95–405, § 21][/us/pl/95/405/s21], Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II, § 231][/us/pl/97/444/s231], Jan. 11, 1983, [96 Stat. 2319][/us/stat/96/2319]; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 209(b)(7), 222(b), 224, title IV, § 402(11), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3615, 3617, 3625; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 118, 123(a)(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–403, 2763A–410; [Pub. L. 110–234, title XIII, § 13105(k)][/us/pl/110/234/s13105/k], May 22, 2008, [122 Stat. 1435][/us/stat/122/1435]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2197.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 14, as added [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 106, Oct. 23, 1974, [88 Stat. 1393][/us/stat/88/1393]; amended [Pub. L. 94–16][/us/pl/94/16], § 3, Apr. 16, 1975, [89 Stat. 77][/us/stat/89/77]; [Pub. L. 95–405][/us/pl/95/405], § 21, Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 231, Jan. 11, 1983, [96 Stat. 2319][/us/stat/96/2319]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 209(b)(7), 222(b), 224, title IV, § 402(11), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3615, 3617, 3625; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, §§ 118, 123(a)(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–403, 2763A–410; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13105(k), May 22, 2008, [122 Stat. 1435][/us/stat/122/1435]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2197.)
 
  __Codification__ 
 
@@ -65,39 +65,39 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 13105(k)][/us/pl/110/246/s13105/k], designated existing provisions as par. (1) and added par. (2).
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 13105(k), designated existing provisions as par. (1) and added par. (2).
 
-    2000—Subsec. (a)(1)(B). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(23)(A)\], substituted “registered entity” for “ contract market”.
+    2000—Subsec. (a)(1)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(23)(A)\], substituted “registered entity” for “ contract market”.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(23)(B)\], substituted “registered entities” for “ contract markets”.
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(23)(B)\], substituted “registered entities” for “ contract markets”.
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 118\], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: Provided, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 118\], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: Provided, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
 
-    1992—Subsec. (a). [Pub. L. 102–546, § 224][/us/pl/102/546/s224], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], § 224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-    [Pub. L. 102–546, § 222(b)][/us/pl/102/546/s222/b], substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
+    [Pub. L. 102–546][/us/pl/102/546], § 222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
 
-    Subsec. (e). [Pub. L. 102–546, § 209(b)(7)][/us/pl/102/546/s209/b/7], made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+    Subsec. (e). [Pub. L. 102–546][/us/pl/102/546], § 209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-    Subsec. (g). [Pub. L. 102–546, § 402(11)][/us/pl/102/546/s402/11], substituted “15-month” for second reference to “fifteen months”.
+    Subsec. (g). [Pub. L. 102–546][/us/pl/102/546], § 402(11), substituted “15-month” for second reference to “fifteen months”.
 
-    1983—Subsec. (a). [Pub. L. 97–444, § 231(1)][/us/pl/97/444/s231/1], substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
+    1983—Subsec. (a). [Pub. L. 97–444][/us/pl/97/444], § 231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
 
-    Subsec. (b). [Pub. L. 97–444, § 231(2)][/us/pl/97/444/s231/2], substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
+    Subsec. (b). [Pub. L. 97–444][/us/pl/97/444], § 231(2), substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
 
-    Subsec. (c). [Pub. L. 97–444, § 231(3)][/us/pl/97/444/s231/3], (4), redesignated subsec. (d) as (c). Former subsec. (c), which provided that after opportunity for hearing on complaints where the damages claimed exceeded the sum of $5,000 had been provided or waived and on complaints where damages claimed did not exceed the sum of $5,000 not requiring hearing as provided herein, Commission would determine whether or not the respondent had violated any provision of this chapter or any rule, regulation, or order thereunder, was struck out.
+    Subsec. (c). [Pub. L. 97–444][/us/pl/97/444], § 231(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), which provided that after opportunity for hearing on complaints where the damages claimed exceeded the sum of $5,000 had been provided or waived and on complaints where damages claimed did not exceed the sum of $5,000 not requiring hearing as provided herein, Commission would determine whether or not the respondent had violated any provision of this chapter or any rule, regulation, or order thereunder, was struck out.
 
-    Subsec. (d). [Pub. L. 97–444, § 231(4)][/us/pl/97/444/s231/4], (5), redesignated subsec. (f) as (d) and substituted “subsection (e)” for “subsection (g)”. Former subsec. (d) was redesignated (c).
+    Subsec. (d). [Pub. L. 97–444][/us/pl/97/444], § 231(4), (5), redesignated subsec. (f) as (d) and substituted “subsection (e)” for “subsection (g)”. Former subsec. (d) was redesignated (c).
 
-    Subsec. (e). [Pub. L. 97–444, § 231(3)][/us/pl/97/444/s231/3], (4), redesignated subsec. (g) as (e). Former subsec. (e), which provided that if, after a hearing on a complaint made by any person under subsection (a) of this section, or without hearing as provided in subsections (b) and (c) of this section, or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified, the Commission determined that the respondent had violated any provision of this chapter, or any rule, regulation, or order thereunder, the Commission would unless the offender had already made reparation to the person complaining, determine the amount of damage, if any, to which such person was entitled as a result of such violation and would make an order directing the offender to pay to such person complaining such amount on or before the date fixed in the order, and that if, after the respondent had filed his answer to the complaint, it appeared therein that the respondent had admitted liability for a portion of the amount claimed in the complaint as damages, the Commission under such rules and regulations as it would prescribe, unless the respondent had already made reparation to the person complaining, could issue an order directing the respondent to pay to the complainant the undisputed amount on or before the date fixed in the order, leaving the respondent’s liability for the disputed amount for subsequent determination, with the remaining disputed amount to be determined in the same manner and under the same procedure as it would have been determined if no order had been issued by the Commission with respect to the undisputed sum, was struck out.
+    Subsec. (e). [Pub. L. 97–444][/us/pl/97/444], § 231(3), (4), redesignated subsec. (g) as (e). Former subsec. (e), which provided that if, after a hearing on a complaint made by any person under subsection (a) of this section, or without hearing as provided in subsections (b) and (c) of this section, or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified, the Commission determined that the respondent had violated any provision of this chapter, or any rule, regulation, or order thereunder, the Commission would unless the offender had already made reparation to the person complaining, determine the amount of damage, if any, to which such person was entitled as a result of such violation and would make an order directing the offender to pay to such person complaining such amount on or before the date fixed in the order, and that if, after the respondent had filed his answer to the complaint, it appeared therein that the respondent had admitted liability for a portion of the amount claimed in the complaint as damages, the Commission under such rules and regulations as it would prescribe, unless the respondent had already made reparation to the person complaining, could issue an order directing the respondent to pay to the complainant the undisputed amount on or before the date fixed in the order, leaving the respondent’s liability for the disputed amount for subsequent determination, with the remaining disputed amount to be determined in the same manner and under the same procedure as it would have been determined if no order had been issued by the Commission with respect to the undisputed sum, was struck out.
 
-    Subsec. (f). [Pub. L. 97–444, § 231(4)][/us/pl/97/444/s231/4], (6), redesignated subsec. (h) as (f), made certain grammatical changes, and inserted provision allowing party against whom a reparation order has been issued to show compliance by payment of the full amount of the order or any agreed settlement thereof.
+    Subsec. (f). [Pub. L. 97–444][/us/pl/97/444], § 231(4), (6), redesignated subsec. (h) as (f), made certain grammatical changes, and inserted provision allowing party against whom a reparation order has been issued to show compliance by payment of the full amount of the order or any agreed settlement thereof.
 
-    Subsecs. (g) to (i). [Pub. L. 97–444, § 231(4)][/us/pl/97/444/s231/4], redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
+    Subsecs. (g) to (i). [Pub. L. 97–444][/us/pl/97/444], § 231(4), redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
 
-    1978—Subsec. (a). [Pub. L. 95–405, § 21(1)][/us/pl/95/405/s21/1], substituted “who is registered or required to be registered” for “registered”.
+    1978—Subsec. (a). [Pub. L. 95–405][/us/pl/95/405], § 21(1), substituted “who is registered or required to be registered” for “registered”.
 
-    Subsecs. (b), (c). [Pub. L. 95–405, § 21(2)][/us/pl/95/405/s21/2], (3), substituted “$5,000” for “$2,500” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 95–405][/us/pl/95/405], § 21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
 
     1975—Subsec. (i). [Pub. L. 94–16][/us/pl/94/16] substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
 
@@ -124,44 +124,44 @@
 [/us/usc/t7/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F1
 [/us/usc/t28/s1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1963
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
-[/us/act/1922-09-21/ch369/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs14
-[/us/pl/93/463/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs106
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1393
-[/us/pl/94/16/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16%2Fs3
+[/us/pl/94/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16
 [/us/stat/89/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F77
-[/us/pl/95/405/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs21
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F875
-[/us/pl/97/444/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2319
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3607
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13105%2Fk
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1435
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s13105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fk
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/102/546/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs224
-[/us/pl/102/546/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs222%2Fb
-[/us/pl/102/546/s209/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F7
-[/us/pl/102/546/s402/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F11
-[/us/pl/97/444/s231/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F1
-[/us/pl/97/444/s231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F2
-[/us/pl/97/444/s231/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F3
-[/us/pl/97/444/s231/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F4
-[/us/pl/97/444/s231/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F3
-[/us/pl/97/444/s231/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F4
-[/us/pl/97/444/s231/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs231%2F4
-[/us/pl/95/405/s21/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs21%2F1
-[/us/pl/95/405/s21/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs21%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/94/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

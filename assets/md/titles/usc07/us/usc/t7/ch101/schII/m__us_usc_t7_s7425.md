@@ -23,7 +23,7 @@
 
         Funds appropriated to carry out this subchapter may not be expended for the payment of expenses incurred by a board to administer an order.
 
-([Pub. L. 104–127, title V, § 526][/us/pl/104/127/s526], Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 526, Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs526
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1048
 
 

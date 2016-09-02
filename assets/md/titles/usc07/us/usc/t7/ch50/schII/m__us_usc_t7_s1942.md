@@ -107,7 +107,7 @@
 
             The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.
 
-([Pub. L. 87–128, title III, § 312][/us/pl/87/128/s312], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 87–703, title IV, § 401(4)][/us/pl/87/703/s401/4], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 90–488, § 8][/us/pl/90/488/s8], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 120(b), 121, Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–113, title XIV, § 1448(b)][/us/pl/95/113/s1448/b], Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012]; [Pub. L. 95–334, title I, § 115][/us/pl/95/334/s115], Aug. 4, 1978, [92 Stat. 425][/us/stat/92/425]; [Pub. L. 96–438, § 1(3)][/us/pl/96/438/s1/3], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1306, 1307, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 101–624, title XVIII, § 1818(b)][/us/pl/101/624/s1818/b], Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; [Pub. L. 102–237, title V, § 501(b)][/us/pl/102/237/s501/b], Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866]; [Pub. L. 102–552, title V, § 516(f)(1)(A)][/us/pl/102/552/s516/f/1/A], (2), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], 4138; [Pub. L. 104–127, title VI, § 612(a)][/us/pl/104/127/s612/a], Apr. 4, 1996, [110 Stat. 1087][/us/stat/110/1087]; [Pub. L. 113–79, title V][/us/pl/113/79], §§ 5105, 5106(b)(2), Feb. 7, 2014, [128 Stat. 836][/us/stat/128/836], 838.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 312, Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 401(4), Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 90–488][/us/pl/90/488], § 8, Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], §§ 120(b), 121, Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1448(b), Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 115, Aug. 4, 1978, [92 Stat. 425][/us/stat/92/425]; [Pub. L. 96–438][/us/pl/96/438], § 1(3), Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], §§ 1306, 1307, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1818(b), Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 501(b), Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(f)(1)(A), (2), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], 4138; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 612(a), Apr. 4, 1996, [110 Stat. 1087][/us/stat/110/1087]; [Pub. L. 113–79, title V][/us/pl/113/79/tV], §§ 5105, 5106(b)(2), Feb. 7, 2014, [128 Stat. 836][/us/stat/128/836], 838.)
 
  __References in Text__ 
 
@@ -117,23 +117,23 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 5106(b)(2)][/us/pl/113/79/s5106/b/2], inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 5106(b)(2), inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 113–79, § 5105][/us/pl/113/79/s5105], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 5105, added subsec. (e).
 
     1996—[Pub. L. 104–127][/us/pl/104/127] amended section generally, substituting present provisions for provisions outlining purposes of loans made under this subchapter, authorizing loans to rural area residents to operate small business enterprises, authorizing loans for pollution abatement and control projects in rural areas and providing for limitations on such loans, and authorizing creation, from loan funds, of nonsupervised bank accounts to be used at discretion of borrower for necessary family living expenses.
 
-    1992—Subsec. (a). [Pub. L. 102–552, § 516(f)(2)][/us/pl/102/552/s516/f/2], repealed amendment by [Pub. L. 102–237, § 501(b)][/us/pl/102/237/s501/b]. See 1991 Amendment note below.
+    1992—Subsec. (a). [Pub. L. 102–552][/us/pl/102/552], § 516(f)(2), repealed amendment by [Pub. L. 102–237][/us/pl/102/237], § 501(b). See 1991 Amendment note below.
 
-    [Pub. L. 102–552, § 516(f)(1)(A)][/us/pl/102/552/s516/f/1/A], made technical correction to directory language of [Pub. L. 101–624, § 1818(b)][/us/pl/101/624/s1818/b]. See 1990 Amendment note below.
+    [Pub. L. 102–552][/us/pl/102/552], § 516(f)(1)(A), made technical correction to directory language of [Pub. L. 101–624][/us/pl/101/624], § 1818(b). See 1990 Amendment note below.
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 501(b)][/us/pl/102/237/s501/b], which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) ([42 U.S.C. 5901][/us/usc/t42/s5901] et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under [section 1934 of this title][/us/usc/t7/s1934], and (13) borrower training under [section 2006a of this title][/us/usc/t7/s2006a].” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by [Pub. L. 102–552, § 516(f)(2)][/us/pl/102/552/s516/f/2]. See Construction of 1991 Amendment note below.
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) ([42 U.S.C. 5901][/us/usc/t42/s5901] et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under [section 1934 of this title][/us/usc/t7/s1934], and (13) borrower training under [section 2006a of this title][/us/usc/t7/s2006a].” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by [Pub. L. 102–552][/us/pl/102/552], § 516(f)(2). See Construction of 1991 Amendment note below.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1818(b)][/us/pl/101/624/s1818/b], as amended by [Pub. L. 102–552, § 516(f)(1)(A)][/us/pl/102/552/s516/f/1/A], added cl. (13).
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1818(b), as amended by [Pub. L. 102–552][/us/pl/102/552], § 516(f)(1)(A), added cl. (13).
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1306][/us/pl/99/198/s1306], added cl. (12).
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1306, added cl. (12).
 
-    Subsec. (e). [Pub. L. 99–198, § 1307][/us/pl/99/198/s1307], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–198][/us/pl/99/198], § 1307, added subsec. (e).
 
     1980—Subsec. (a). [Pub. L. 96–438][/us/pl/96/438] added cl. (11).
 
@@ -143,7 +143,7 @@
 
     1972—Subsec. (a). [Pub. L. 92–419][/us/pl/92/419], §§ 120(b), 121(1), (2), substituted “section 1941(a) for “section 1941”, designated existing provisions as subsec. (a), and added cl. (10).
 
-    Subsecs. (b) to (d). [Pub. L. 92–419, § 121(3)][/us/pl/92/419/s121/3], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 92–419][/us/pl/92/419], § 121(3), added subsecs. (b) to (d).
 
     1968—[Pub. L. 90–488][/us/pl/90/488] struck out from cl. (4) the concluding phrase, “including recreational uses and facilities”, added cls. (5) and (6), and redesignated former cls. (5) to (7) as (7) to (9), respectively.
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–127, title VI, § 612(b)][/us/pl/104/127/s612/b], Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089], provided that: 
+[Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 612(b), Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089], provided that: 
 
 > “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1942(c)(1)][/us/usc/t7/s1942/c/1]\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.”
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–552, title V, § 516(f)(1)(B)][/us/pl/102/552/s516/f/1/B], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], provided that: 
+[Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(f)(1)(B), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[[Pub. L. 101–624][/us/pl/101/624]\] at the time such Act became law.”
 
@@ -175,7 +175,7 @@
 
  __Construction of 1991 Amendment__ 
 
-[Pub. L. 102–552, title V, § 516(f)(2)][/us/pl/102/552/s516/f/2], Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
+[Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(f)(2), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
 
 > “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 ([Public Law 102–237][/us/pl/102/237]; [105 Stat. 1866][/us/stat/105/1866]) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) shall be applied and administered as if such subsection had never become law.”
 
@@ -194,73 +194,73 @@
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/usc/t29/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs667
 [/us/usc/t7/s2006a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2006a
-[/us/pl/87/128/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs312
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F310
-[/us/pl/87/703/s401/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs401%2F4
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
-[/us/pl/90/488/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs8
+[/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F771
-[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F665
-[/us/pl/95/113/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1448%2Fb
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1012
-[/us/pl/95/334/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs115
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F425
-[/us/pl/96/438/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs1%2F3
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1871
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1521
-[/us/pl/101/624/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1818%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3830
-[/us/pl/102/237/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fb
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1866
-[/us/pl/102/552/s516/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F1%2FA
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
-[/us/pl/104/127/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs612%2Fa
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1087
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F836
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/113/79/s5106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5106%2Fb%2F2
-[/us/pl/113/79/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5105
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/552/s516/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F2
-[/us/pl/102/237/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fb
-[/us/pl/102/552/s516/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F1%2FA
-[/us/pl/101/624/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1818%2Fb
-[/us/pl/102/237/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fb
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/usc/t7/s1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1934
 [/us/usc/t7/s2006a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2006a
-[/us/pl/102/552/s516/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F2
-[/us/pl/101/624/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1818%2Fb
-[/us/pl/102/552/s516/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F1%2FA
-[/us/pl/99/198/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1306
-[/us/pl/99/198/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1307
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
-[/us/pl/92/419/s121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs121%2F3
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
-[/us/pl/104/127/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs612%2Fb
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1089
 [/us/usc/t7/s1942/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1942%2Fc%2F1
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127/s663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs663%2Fb
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
-[/us/pl/102/552/s516/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F1%2FB
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
 [/us/pl/101/624/s2302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2302%2Fb
-[/us/pl/102/552/s516/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F2
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4138
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/stat/105/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1866

@@ -57,7 +57,7 @@
 
         that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
-([Pub. L. 95–113, title XVII, § 1706][/us/pl/95/113/s1706], Sept. 29, 1977, [91 Stat. 1034][/us/stat/91/1034].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1706, Sept. 29, 1977, [91 Stat. 1034][/us/stat/91/1034].)
 
 ----------
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t7/s3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3413
 [/us/usc/t7/s3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3404
-[/us/pl/95/113/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1706
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1034
 
 

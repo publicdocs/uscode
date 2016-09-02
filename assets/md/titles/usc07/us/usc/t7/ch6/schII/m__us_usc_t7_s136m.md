@@ -125,7 +125,7 @@
 
             Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
 
-([June 25, 1947, ch. 125, § 15][/us/act/1947-06-25/ch125/s15], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 993][/us/stat/86/993]; amended [Pub. L. 100–532, title V, § 501(a)][/us/pl/100/532/s501/a], Oct. 25, 1988, [102 Stat. 2674][/us/stat/102/2674].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 15, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 993][/us/stat/86/993]; amended [Pub. L. 100–532, title V][/us/pl/100/532/tV], § 501(a), Oct. 25, 1988, [102 Stat. 2674][/us/stat/102/2674].)
 
  __Amendments__ 
 
@@ -133,7 +133,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–532, title V, § 501(a)][/us/pl/100/532/s501/a], Oct. 25, 1988, [102 Stat. 2674][/us/stat/102/2674], provided that amendment made by [Pub. L. 100–532][/us/pl/100/532] is effective 180 days after Oct. 25, 1988.
+    [Pub. L. 100–532, title V][/us/pl/100/532/tV], § 501(a), Oct. 25, 1988, [102 Stat. 2674][/us/stat/102/2674], provided that amendment made by [Pub. L. 100–532][/us/pl/100/532] is effective 180 days after Oct. 25, 1988.
 
  __Effective Date__ 
 
@@ -141,7 +141,7 @@
 
  __Interim Payments__ 
 
-[Pub. L. 100–532, title V, § 501(b)][/us/pl/100/532/s501/b], Oct. 25, 1988, [102 Stat. 2676][/us/stat/102/2676], provided that:
+[Pub. L. 100–532, title V][/us/pl/100/532/tV], § 501(b), Oct. 25, 1988, [102 Stat. 2676][/us/stat/102/2676], provided that:
 
 >     “(1)  __Source__  __.—__ 
 
@@ -171,18 +171,18 @@
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t28/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2414
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/act/1947-06-25/ch125/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs15
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F993
-[/us/pl/100/532/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs501%2Fa
+[/us/pl/100/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtV
 [/us/stat/102/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2674
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
-[/us/pl/100/532/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs501%2Fa
+[/us/pl/100/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtV
 [/us/stat/102/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2674
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/100/532/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs501%2Fb
+[/us/pl/100/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtV
 [/us/stat/102/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2676
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t28/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2414

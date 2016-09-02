@@ -55,7 +55,7 @@
 
         A dairy operation may participate in the margin protection program or the livestock gross margin for dairy program under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.), but not both.
 
-([Pub. L. 113–79, title I, § 1404][/us/pl/113/79/s1404], Feb. 7, 2014, [128 Stat. 690][/us/stat/128/690].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1404, Feb. 7, 2014, [128 Stat. 690][/us/stat/128/690].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t7/s9059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9059
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/113/79/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1404
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F690
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72

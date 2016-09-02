@@ -17,7 +17,7 @@
 
     The court in exceptional cases may award reasonable attorney fees to the prevailing party.
 
-([Pub. L. 91–577, title III, § 125][/us/pl/91/577/s125], Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 125, Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs125
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1556
 
 

@@ -23,7 +23,7 @@
 
     (3) the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time of the deferral, consolidation, rescheduling, or reamortization.
 
-([Pub. L. 87–128, title III, § 331B][/us/pl/87/128/s331B], as added [Pub. L. 98–258, title VI, § 605][/us/pl/98/258/s605], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; amended [Pub. L. 107–171, title V, § 5305][/us/pl/107/171/s5305], May 13, 2002, [116 Stat. 345][/us/stat/116/345].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 331B, as added [Pub. L. 98–258, title VI][/us/pl/98/258/tVI], § 605, Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; amended [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5305, May 13, 2002, [116 Stat. 345][/us/stat/116/345].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Adjustment of Interest Rates__ 
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 428][/us/stat/101/428], provided that: 
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 428][/us/stat/101/428], provided that: 
 
 > “The Secretary may adjust interest rates on existing nonsubsidized loans if he determines such interest rates are excessive in relation to prevailing commercial rates for comparable loans: Provided, That such rate adjustments shall constitute a change in the loan agreement and not a new loan.”
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/87/128/s331B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs331B
-[/us/pl/98/258/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs605
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/98/258/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2FtVI
 [/us/stat/98/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F139
-[/us/pl/107/171/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5305
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F345
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F428
 
 

@@ -67,21 +67,21 @@
 
         Providing that the total costs incurred by the Egg Board for a fiscal year in collecting producer assessments and having an administrative staff shall not exceed an amount of the projected total assessments to be collected by the Egg Board for such fiscal year that the Secretary determines to be reasonable.
 
-([Pub. L. 93–428, § 8][/us/pl/93/428/s8], Oct. 1, 1974, [88 Stat. 1174][/us/stat/88/1174]; [Pub. L. 96–276][/us/pl/96/276], §§ 2–4, June 17, 1980, [94 Stat. 541][/us/stat/94/541]; [Pub. L. 100–575, § 2][/us/pl/100/575/s2], Oct. 31, 1988, [102 Stat. 2895][/us/stat/102/2895]; [Pub. L. 103–188][/us/pl/103/188], §§ 2(a), 3, Dec. 14, 1993, [107 Stat. 2256][/us/stat/107/2256], 2257.)
+([Pub. L. 93–428][/us/pl/93/428], § 8, Oct. 1, 1974, [88 Stat. 1174][/us/stat/88/1174]; [Pub. L. 96–276][/us/pl/96/276], §§ 2–4, June 17, 1980, [94 Stat. 541][/us/stat/94/541]; [Pub. L. 100–575][/us/pl/100/575], § 2, Oct. 31, 1988, [102 Stat. 2895][/us/stat/102/2895]; [Pub. L. 103–188][/us/pl/103/188], §§ 2(a), 3, Dec. 14, 1993, [107 Stat. 2256][/us/stat/107/2256], 2257.)
 
  __Amendments__ 
 
-    1993—Subsec. (d). [Pub. L. 103–188, § 3][/us/pl/103/188/s3], inserted at end “In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocated for research projects under this chapter in the budget of the Egg Board for fiscal year 1993.”
+    1993—Subsec. (d). [Pub. L. 103–188][/us/pl/103/188], § 3, inserted at end “In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocated for research projects under this chapter in the budget of the Egg Board for fiscal year 1993.”
 
-    Subsec. (e). [Pub. L. 103–188, § 2(a)][/us/pl/103/188/s2/a], designated first and second sentences of existing provisions as par. (1), added par. (2) and struck out third and fourth sentences of existing provisions which read as follows: “For fiscal year 1981, the rate of assessment prescribed by the order shall not exceed 7½ cents per case of commercial eggs or the equivalent thereof. For each fiscal year thereafter, the rate of assessment may be increased by no more than three-quarters of a cent per case of commercial eggs or the equivalent thereof: Provided, That the rate of assessment shall not exceed 10 cents per case of commercial eggs or the equivalent thereof.”, and designated fifth and sixth sentences of existing provisions as par. (3).
+    Subsec. (e). [Pub. L. 103–188][/us/pl/103/188], § 2(a), designated first and second sentences of existing provisions as par. (1), added par. (2) and struck out third and fourth sentences of existing provisions which read as follows: “For fiscal year 1981, the rate of assessment prescribed by the order shall not exceed 7½ cents per case of commercial eggs or the equivalent thereof. For each fiscal year thereafter, the rate of assessment may be increased by no more than three-quarters of a cent per case of commercial eggs or the equivalent thereof: Provided, That the rate of assessment shall not exceed 10 cents per case of commercial eggs or the equivalent thereof.”, and designated fifth and sixth sentences of existing provisions as par. (3).
 
     1988—Subsec. (j). [Pub. L. 100–575][/us/pl/100/575] added subsec. (j).
 
-    1980—Subsec. (a). [Pub. L. 96–276, § 2][/us/pl/96/276/s2], substituted “twenty” for “eighteen”.
+    1980—Subsec. (a). [Pub. L. 96–276][/us/pl/96/276], § 2, substituted “twenty” for “eighteen”.
 
-    Subsec. (b). [Pub. L. 96–276, § 3][/us/pl/96/276/s3], extended membership on the Egg Board to two consumers or representatives of consumers, and their alternates, when approved by egg producers voting in a referendum on an amendment to the order, to be appointed by the Secretary from nominations submitted by eligible organizations or otherwise when necessary to properly represent the interest of consumers, the consumer members to be voting members.
+    Subsec. (b). [Pub. L. 96–276][/us/pl/96/276], § 3, extended membership on the Egg Board to two consumers or representatives of consumers, and their alternates, when approved by egg producers voting in a referendum on an amendment to the order, to be appointed by the Secretary from nominations submitted by eligible organizations or otherwise when necessary to properly represent the interest of consumers, the consumer members to be voting members.
 
-    Subsec. (e). [Pub. L. 96–276, § 4][/us/pl/96/276/s4], substituted rate of assessment provisions prescribing for fiscal year 1981 a rate not exceeding 7½ cents per case of commercial eggs or its equivalent, authorizing increases of three-quarters of a cent per case for each fiscal year thereafter, but limiting maximum rate to 10 cents per case for prior limitation of the rate of assessment to 5 cents per case.
+    Subsec. (e). [Pub. L. 96–276][/us/pl/96/276], § 4, substituted rate of assessment provisions prescribing for fiscal year 1981 a rate not exceeding 7½ cents per case of commercial eggs or its equivalent, authorizing increases of three-quarters of a cent per case for each fiscal year thereafter, but limiting maximum rate to 10 cents per case for prior limitation of the rate of assessment to 5 cents per case.
 
 ----------
 
@@ -93,19 +93,19 @@
 [/us/usc/t7/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2715
 [/us/usc/t7/s2708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2708%2Fb
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/93/428/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs8
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1174
 [/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/stat/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F541
-[/us/pl/100/575/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575%2Fs2
+[/us/pl/100/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575
 [/us/stat/102/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2895
 [/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/stat/107/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2256
-[/us/pl/103/188/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188%2Fs3
-[/us/pl/103/188/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188%2Fs2%2Fa
+[/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
+[/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/pl/100/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575
-[/us/pl/96/276/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs2
-[/us/pl/96/276/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs3
-[/us/pl/96/276/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs4
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 
 

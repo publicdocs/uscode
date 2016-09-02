@@ -19,7 +19,7 @@
 
     Notice of the farm acreage allotment established for each farm shown by the records of the county committee to be entitled to such allotment shall insofar as practicable be mailed to the farm operator in sufficient time to be received prior to the date of the referendum.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 362, [52 Stat. 62][/us/stat/52/62]; [Aug. 29, 1949, ch. 518, § 2(c)][/us/act/1949-08-29/ch518/s2/c], [63 Stat. 676][/us/stat/63/676].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 362, [52 Stat. 62][/us/stat/52/62]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 2(c), [63 Stat. 676][/us/stat/63/676].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F62
-[/us/act/1949-08-29/ch518/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs2%2Fc
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F676
 
 

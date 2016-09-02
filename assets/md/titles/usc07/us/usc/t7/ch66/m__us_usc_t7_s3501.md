@@ -97,7 +97,7 @@
 
         (C) in any case in which the holder of such interest is not an individual or a government, the nature of the legal entity holding the interest, the country in which such holder is created or organized, and the principle  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “principal”. </sup></sup>  place of business of such holder.
 
-([Pub. L. 95–460, § 2][/us/pl/95/460/s2], Oct. 14, 1978, [92 Stat. 1263][/us/stat/92/1263].)
+([Pub. L. 95–460][/us/pl/95/460], § 2, Oct. 14, 1978, [92 Stat. 1263][/us/stat/92/1263].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–460, § 10][/us/pl/95/460/s10], Oct. 14, 1978, [92 Stat. 1267][/us/stat/92/1267], provided that:
+[Pub. L. 95–460][/us/pl/95/460], § 10, Oct. 14, 1978, [92 Stat. 1267][/us/stat/92/1267], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall become effective on the date of the enactment of this Act \[Oct. 14, 1978\].
 
@@ -113,7 +113,7 @@
 
  __Short Title__ 
 
-[Pub. L. 95–460, § 1][/us/pl/95/460/s1], Oct. 14, 1978, [92 Stat. 1263][/us/stat/92/1263], provided that: 
+[Pub. L. 95–460][/us/pl/95/460], § 1, Oct. 14, 1978, [92 Stat. 1263][/us/stat/92/1263], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
 
@@ -124,14 +124,14 @@
 ----------
 ----------
 
-[/us/pl/95/460/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs2
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1263
 [/us/pl/95/460/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs10%2Fb
-[/us/pl/95/460/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs10
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1267
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
 [/us/usc/t7/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3507
-[/us/pl/95/460/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs1
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1263
 
 

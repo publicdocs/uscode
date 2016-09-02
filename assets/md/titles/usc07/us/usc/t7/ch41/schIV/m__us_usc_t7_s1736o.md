@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736l.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736m _us_usc_t7_s1736n.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
 
 ## § 1736o. Food for progress
 
@@ -259,7 +259,7 @@
 
         (2) shall not discriminate against such eligible entities.
 
-([Pub. L. 99–198, title XI, § 1110][/us/pl/99/198/s1110], Dec. 23, 1985, [99 Stat. 1472][/us/stat/99/1472]; [Pub. L. 100–418, title IV, § 4303][/us/pl/100/418/s4303], Aug. 23, 1988, [102 Stat. 1397][/us/stat/102/1397]; [Pub. L. 101–624, title XV][/us/pl/101/624], §§ 1516, 1572(1), Nov. 28, 1990, [104 Stat. 3663][/us/stat/104/3663], 3702; [Pub. L. 102–237, title III, § 335][/us/pl/102/237/s335], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 701][/us/pl/102/511/s701], Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 227, 265(b), Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962], 974; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–45; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3009(b)(2), 3106, May 13, 2002, [116 Stat. 283][/us/stat/116/283], 291; [Pub. L. 108–7, div. A, title VII, § 745][/us/pl/108/7/s745], Feb. 20, 2003, [117 Stat. 44][/us/stat/117/44]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1826, 1833; [Pub. L. 113–79, title III, § 3201][/us/pl/113/79/s3201], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
+([Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1110, Dec. 23, 1985, [99 Stat. 1472][/us/stat/99/1472]; [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4303, Aug. 23, 1988, [102 Stat. 1397][/us/stat/102/1397]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], §§ 1516, 1572(1), Nov. 28, 1990, [104 Stat. 3663][/us/stat/104/3663], 3702; [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 335, Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 701, Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], §§ 227, 265(b), Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962], 974; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title XI, § 1125\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–45; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], §§ 3009(b)(2), 3106, May 13, 2002, [116 Stat. 283][/us/stat/116/283], 291; [Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 745, Feb. 20, 2003, [117 Stat. 44][/us/stat/117/44]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1826, 1833; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3201, Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __References in Text__ 
 
@@ -271,125 +271,125 @@
 
  __Amendments__ 
 
-    2014—Subsec. (f)(3). [Pub. L. 113–79, § 3201(a)(1)][/us/pl/113/79/s3201/a/1], substituted “2018” for “2012”.
+    2014—Subsec. (f)(3). [Pub. L. 113–79][/us/pl/113/79], § 3201(a)(1), substituted “2018” for “2012”.
 
-    Subsec. (f)(6). [Pub. L. 113–79, § 3201(b)][/us/pl/113/79/s3201/b], struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
+    Subsec. (f)(6). [Pub. L. 113–79][/us/pl/113/79], § 3201(b), struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
 
-    Subsecs. (g), (k), (l)(1). [Pub. L. 113–79, § 3201(a)(2)][/us/pl/113/79/s3201/a/2]–(4), substituted “2018” for “2012”.
+    Subsecs. (g), (k), (l)(1). [Pub. L. 113–79][/us/pl/113/79], § 3201(a)(2)–(4), substituted “2018” for “2012”.
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 110–246, § 3014(b)(2)][/us/pl/110/246/s3014/b/2], struck out “determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954” after “such eligible commodities”.
+    Subsec. (e)(1). [Pub. L. 110–246][/us/pl/110/246], § 3014(b)(2), struck out “determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954” after “such eligible commodities”.
 
-    Subsec. (e)(2) to (4). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+    Subsec. (e)(2) to (4). [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-    Subsec. (f)(3). [Pub. L. 110–246, § 3105(a)][/us/pl/110/246/s3105/a], substituted “2012” for “2007”.
+    Subsec. (f)(3). [Pub. L. 110–246][/us/pl/110/246], § 3105(a), substituted “2012” for “2007”.
 
-    Subsec. (f)(4), (5). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+    Subsec. (f)(4), (5). [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-    Subsec. (f)(6). [Pub. L. 110–246, § 3105(b)][/us/pl/110/246/s3105/b], added par. (6).
+    Subsec. (f)(6). [Pub. L. 110–246][/us/pl/110/246], § 3105(b), added par. (6).
 
-    Subsecs. (g), (k), (l)(1). [Pub. L. 110–246, § 3105(a)][/us/pl/110/246/s3105/a], substituted “2012” for “2007”.
+    Subsecs. (g), (k), (l)(1). [Pub. L. 110–246][/us/pl/110/246], § 3105(a), substituted “2012” for “2007”.
 
-    2003—Subsecs. (c), (g). [Pub. L. 108–7, § 745(1)][/us/pl/108/7/s745/1], substituted “shall” for “may”.
+    2003—Subsecs. (c), (g). [Pub. L. 108–7][/us/pl/108/7], § 745(1), substituted “shall” for “may”.
 
-    Subsec. (o). [Pub. L. 108–7, § 745(2)][/us/pl/108/7/s745/2], added subsec. (o).
+    Subsec. (o). [Pub. L. 108–7][/us/pl/108/7], § 745(2), added subsec. (o).
 
-    2002—Subsecs. (b), (c). [Pub. L. 107–171, § 3106(b)(1)][/us/pl/107/171/s3106/b/1], added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
+    2002—Subsecs. (b), (c). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
 
     “(b) In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, intergovernmental organizations, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
 
     “(c) As used in this section, the term ‘commodities’ means agricultural commodities and the products thereof.”
 
-    Subsec. (d). [Pub. L. 107–171, § 3106(b)(2)(A)][/us/pl/107/171/s3106/b/2/A], (D), (c), inserted heading, in introductory provisions struck out “food” after “domestic production of” and substituted “eligible commodities” for “commodities” in two places, and in par. (2) substituted “eligible commodities” for “commodities”.
+    Subsec. (d). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(A), (D), (c), inserted heading, in introductory provisions struck out “food” after “domestic production of” and substituted “eligible commodities” for “commodities” in two places, and in par. (2) substituted “eligible commodities” for “commodities”.
 
-    Subsec. (e). [Pub. L. 107–171, § 3106(b)(2)(D)][/us/pl/107/171/s3106/b/2/D], (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing, inserted “, and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(D), (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing, inserted “, and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
 
-    Subsec. (f). [Pub. L. 107–171, § 3106(b)(2)(D)][/us/pl/107/171/s3106/b/2/D], (E), (e)(1), inserted heading and substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing.
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(D), (E), (e)(1), inserted heading and substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing.
 
-    Subsec. (f)(3). [Pub. L. 107–171, § 3106(a)][/us/pl/107/171/s3106/a], (b)(2)(D), (E), substituted “Corporation” for “Commodity Credit Corporation”, “eligible commodities” for “commodities” in two places, and “2007” for “2002”.
+    Subsec. (f)(3). [Pub. L. 107–171][/us/pl/107/171], § 3106(a), (b)(2)(D), (E), substituted “Corporation” for “Commodity Credit Corporation”, “eligible commodities” for “commodities” in two places, and “2007” for “2002”.
 
-    [Pub. L. 107–171, § 3106(e)(2)][/us/pl/107/171/s3106/e/2], which directed substitution of “$40,000,000” for “$30,000,000 (or in the case of fiscal year 1999, $35,000,000)”, was executed by making the substitution for “$30,000,000 (or, in the case of fiscal year 1999, $35,000,000)” to reflect the probable intent of Congress.
+    [Pub. L. 107–171][/us/pl/107/171], § 3106(e)(2), which directed substitution of “$40,000,000” for “$30,000,000 (or in the case of fiscal year 1999, $35,000,000)”, was executed by making the substitution for “$30,000,000 (or, in the case of fiscal year 1999, $35,000,000)” to reflect the probable intent of Congress.
 
-    Subsec. (f)(5). [Pub. L. 107–171, § 3009(b)(2)][/us/pl/107/171/s3009/b/2], added par. (5).
+    Subsec. (f)(5). [Pub. L. 107–171][/us/pl/107/171], § 3009(b)(2), added par. (5).
 
-    Subsec. (g). [Pub. L. 107–171, § 3106(f)][/us/pl/107/171/s3106/f], added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
+    Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
 
-    Subsec. (h). [Pub. L. 107–171, § 3106(b)(2)(D)][/us/pl/107/171/s3106/b/2/D], (g), inserted heading and substituted “eligible commodities” for “commodities”.
+    Subsec. (h). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(D), (g), inserted heading and substituted “eligible commodities” for “commodities”.
 
-    Subsec. (i). [Pub. L. 107–171, § 3106(h)][/us/pl/107/171/s3106/h], inserted heading.
+    Subsec. (i). [Pub. L. 107–171][/us/pl/107/171], § 3106(h), inserted heading.
 
-    Subsec. (j). [Pub. L. 107–171, § 3106(b)(2)(D)][/us/pl/107/171/s3106/b/2/D], (i), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, struck out “may” after “the President”, substituted “eligible commodities” for “commodities” in two places, “is encouraged to approve” for “approve”, and “multicountry or multiyear” for “multiyear”, and added pars. (2) and (3).
+    Subsec. (j). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(D), (i), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, struck out “may” after “the President”, substituted “eligible commodities” for “commodities” in two places, “is encouraged to approve” for “approve”, and “multicountry or multiyear” for “multiyear”, and added pars. (2) and (3).
 
-    Subsec. (k). [Pub. L. 107–171, § 3106(a)][/us/pl/107/171/s3106/a], (j), inserted heading and substituted “2007” for “2002”.
+    Subsec. (k). [Pub. L. 107–171][/us/pl/107/171], § 3106(a), (j), inserted heading and substituted “2007” for “2002”.
 
-    Subsec. (l). [Pub. L. 107–171, § 3106(a)][/us/pl/107/171/s3106/a], (b)(2)(B), (D), (E), (k), inserted heading, substituted “eligible commodities” for “commodities” wherever appearing, in par. (1) substituted “2007” for “2002”, “$15,000,000” for “$10,000,000”, and “Corporation” for “Commodity Credit Corporation” after “$12,000,000) of”, in par. (2) struck out “agricultural” after “President may provide”, in par. (3) substituted “proceeds” for “local currencies”, and added par. (4).
+    Subsec. (l). [Pub. L. 107–171][/us/pl/107/171], § 3106(a), (b)(2)(B), (D), (E), (k), inserted heading, substituted “eligible commodities” for “commodities” wherever appearing, in par. (1) substituted “2007” for “2002”, “$15,000,000” for “$10,000,000”, and “Corporation” for “Commodity Credit Corporation” after “$12,000,000) of”, in par. (2) struck out “agricultural” after “President may provide”, in par. (3) substituted “proceeds” for “local currencies”, and added par. (4).
 
-    Subsec. (m). [Pub. L. 107–171, § 3106(b)(2)(C)][/us/pl/107/171/s3106/b/2/C], (D), (l), inserted heading and, in par. (1), substituted “eligible commodities” for “commodities” in two places and struck out “these” after “marketing of”.
+    Subsec. (m). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(C), (D), (l), inserted heading and, in par. (1), substituted “eligible commodities” for “commodities” in two places and struck out “these” after “marketing of”.
 
-    Subsec. (n). [Pub. L. 107–171, § 3106(m)][/us/pl/107/171/s3106/m], added subsec. (n) and struck out former subsec. (n) which read as follows: “During fiscal year 1999, to the maximum extent practicable, the Secretary shall utilize Private Voluntary Organizations to carry out this section.”
+    Subsec. (n). [Pub. L. 107–171][/us/pl/107/171], § 3106(m), added subsec. (n) and struck out former subsec. (n) which read as follows: “During fiscal year 1999, to the maximum extent practicable, the Secretary shall utilize Private Voluntary Organizations to carry out this section.”
 
-    Subsec. (o). [Pub. L. 107–171, § 3106(b)(2)(F)][/us/pl/107/171/s3106/b/2/F], struck out subsec. (o) which read as follows: “As used in this section, the term ‘independent states of the former Soviet Union’ means the independent states of the former Soviet Union as defined in [section 5602(8) of this title][/us/usc/t7/s5602/8].”
+    Subsec. (o). [Pub. L. 107–171][/us/pl/107/171], § 3106(b)(2)(F), struck out subsec. (o) which read as follows: “As used in this section, the term ‘independent states of the former Soviet Union’ means the independent states of the former Soviet Union as defined in [section 5602(8) of this title][/us/usc/t7/s5602/8].”
 
-    1998—Subsec. (f)(3). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125(1)\], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
+    1998—Subsec. (f)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title XI, § 1125(1)\], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
 
-    Subsec. (l)(1). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125(2)\], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
+    Subsec. (l)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title XI, § 1125(2)\], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
 
-    Subsecs. (n), (o). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125(3), (4)\], added subsec. (n) and redesignated former subsec. (n) as (o).
+    Subsecs. (n), (o). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title XI, § 1125(3), (4)\], added subsec. (n) and redesignated former subsec. (n) as (o).
 
-    1996—Subsec. (b). [Pub. L. 104–127, § 227(1)][/us/pl/104/127/s227/1], struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
+    1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
 
-    Subsec. (e)(3). [Pub. L. 104–127, § 265(b)][/us/pl/104/127/s265/b], substituted “section 103” for “section 106”.
+    Subsec. (e)(3). [Pub. L. 104–127][/us/pl/104/127], § 265(b), substituted “section 103” for “section 106”.
 
-    Subsec. (e)(4). [Pub. L. 104–127, § 227(2)][/us/pl/104/127/s227/2], substituted “section 406” for “section 203”.
+    Subsec. (e)(4). [Pub. L. 104–127][/us/pl/104/127], § 227(2), substituted “section 406” for “section 203”.
 
-    Subsec. (f)(1)(B). [Pub. L. 104–127, § 227(3)(A)][/us/pl/104/127/s227/3/A], struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
+    Subsec. (f)(1)(B). [Pub. L. 104–127][/us/pl/104/127], § 227(3)(A), struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
 
-    Subsec. (f)(2) to (5). [Pub. L. 104–127, § 227(3)(B)][/us/pl/104/127/s227/3/B]–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to [section 1431(b)(10)(C) of this title][/us/usc/t7/s1431/b/10/C] to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
+    Subsec. (f)(2) to (5). [Pub. L. 104–127][/us/pl/104/127], § 227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to [section 1431(b)(10)(C) of this title][/us/usc/t7/s1431/b/10/C] to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
 
-    Subsec. (g). [Pub. L. 104–127, § 227(4)][/us/pl/104/127/s227/4], substituted “2002” for “1995”.
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 227(4), substituted “2002” for “1995”.
 
-    Subsec. (j). [Pub. L. 104–127, § 227(5)][/us/pl/104/127/s227/5], substituted “may” for “shall”.
+    Subsec. (j). [Pub. L. 104–127][/us/pl/104/127], § 227(5), substituted “may” for “shall”.
 
-    Subsec. (k). [Pub. L. 104–127, § 227(6)][/us/pl/104/127/s227/6], substituted “2002” for “1995”.
+    Subsec. (k). [Pub. L. 104–127][/us/pl/104/127], § 227(6), substituted “2002” for “1995”.
 
-    Subsec. (l)(1). [Pub. L. 104–127, § 227(7)][/us/pl/104/127/s227/7], substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
+    Subsec. (l)(1). [Pub. L. 104–127][/us/pl/104/127], § 227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
-    Subsec. (m). [Pub. L. 104–127, § 227(8)][/us/pl/104/127/s227/8], in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
+    Subsec. (m). [Pub. L. 104–127][/us/pl/104/127], § 227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
-    1992—Subsec. (b). [Pub. L. 102–511, § 701(1)][/us/pl/102/511/s701/1], designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
+    1992—Subsec. (b). [Pub. L. 102–511][/us/pl/102/511], § 701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
-    Subsec. (f)(1). [Pub. L. 102–511, § 701(2)][/us/pl/102/511/s701/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] for use in carrying out this section shall be provided on a grant basis.”
+    Subsec. (f)(1). [Pub. L. 102–511][/us/pl/102/511], § 701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] for use in carrying out this section shall be provided on a grant basis.”
 
-    Subsecs. (m) and (n). [Pub. L. 102–511, § 701(3)][/us/pl/102/511/s701/3], added subsecs. (m) and (n).
+    Subsecs. (m) and (n). [Pub. L. 102–511][/us/pl/102/511], § 701(3), added subsecs. (m) and (n).
 
-    1991—Subsec. (k). [Pub. L. 102–237, § 335(1)][/us/pl/102/237/s335/1], (3), redesignated subsec. (l) as (k) and struck out “September 30,” before “December 31”.
+    1991—Subsec. (k). [Pub. L. 102–237][/us/pl/102/237], § 335(1), (3), redesignated subsec. (l) as (k) and struck out “September 30,” before “December 31”.
 
-    Subsecs. (l), (m). [Pub. L. 102–237, § 335(2)][/us/pl/102/237/s335/2], (3), redesignated subsec. (m) as (l) and substituted “this section” for “this Act” wherever appearing.
+    Subsecs. (l), (m). [Pub. L. 102–237][/us/pl/102/237], § 335(2), (3), redesignated subsec. (m) as (l) and substituted “this section” for “this Act” wherever appearing.
 
-    1990—Subsec. (b). [Pub. L. 101–624, § 1516(1)][/us/pl/101/624/s1516/1], substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
+    1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1516(1), substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
 
-    Subsec. (d). [Pub. L. 101–624, § 1516(2)][/us/pl/101/624/s1516/2], struck out “with countries” before “under this section” in introductory provisions.
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1516(2), struck out “with countries” before “under this section” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 101–624, § 1516(3)][/us/pl/101/624/s1516/3], struck out “to a developing country” before “under this section”, and “by a developing country” before “for commodities”.
+    Subsec. (e)(3). [Pub. L. 101–624][/us/pl/101/624], § 1516(3), struck out “to a developing country” before “under this section”, and “by a developing country” before “for commodities”.
 
-    Subsec. (e)(4). [Pub. L. 101–624, § 1516(4)][/us/pl/101/624/s1516/4], struck out “to a developing country” before “under this section” in two places, and substituted “sections 402, 403(a), 403(c), and 403(i)” for “section 401(b)”.
+    Subsec. (e)(4). [Pub. L. 101–624][/us/pl/101/624], § 1516(4), struck out “to a developing country” before “under this section” in two places, and substituted “sections 402, 403(a), 403(c), and 403(i)” for “section 401(b)”.
 
-    Subsec. (f)(1). [Pub. L. 101–624, § 1516(5)][/us/pl/101/624/s1516/5], struck out “to developing countries” before “on a grant basis”.
+    Subsec. (f)(1). [Pub. L. 101–624][/us/pl/101/624], § 1516(5), struck out “to developing countries” before “on a grant basis”.
 
-    Subsec. (g). [Pub. L. 101–624, § 1516(6)][/us/pl/101/624/s1516/6], substituted “1995” for “1990”.
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1516(6), substituted “1995” for “1990”.
 
-    Subsec. (j). [Pub. L. 101–624, § 1572(1)][/us/pl/101/624/s1572/1], redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section is in effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
+    Subsec. (j). [Pub. L. 101–624][/us/pl/101/624], § 1572(1), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section is in effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
 
-    [Pub. L. 101–624, § 1516(7)][/us/pl/101/624/s1516/7], struck out “entered into with a country” before “under this section”, and inserted “with respect to a country” after “effect”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1516(7), struck out “entered into with a country” before “under this section”, and inserted “with respect to a country” after “effect”.
 
-    Subsec. (k). [Pub. L. 101–624, § 1572(1)(B)][/us/pl/101/624/s1572/1/B], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 101–624][/us/pl/101/624], § 1572(1)(B), redesignated subsec. (k) as (j).
 
-    [Pub. L. 101–624, § 1516(8)][/us/pl/101/624/s1516/8], substituted “the recipient” for “recipient countries”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1516(8), substituted “the recipient” for “recipient countries”.
 
-    Subsec. (l). [Pub. L. 101–624, § 1516(9)][/us/pl/101/624/s1516/9], substituted “December 31, 1995” for “1990”.
+    Subsec. (l). [Pub. L. 101–624][/us/pl/101/624], § 1516(9), substituted “December 31, 1995” for “1990”.
 
-    Subsec. (m). [Pub. L. 101–624, § 1516(10)][/us/pl/101/624/s1516/10], added subsec. (m).
+    Subsec. (m). [Pub. L. 101–624][/us/pl/101/624], § 1516(10), added subsec. (m).
 
     1988—Subsecs. (k), (l). [Pub. L. 100–418][/us/pl/100/418] added subsec. (k) and redesignated former subsec. (k) as (l).
 
@@ -411,7 +411,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736l.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736m _us_usc_t7_s1736n.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
 
 ----------
 ----------
@@ -432,92 +432,92 @@
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1733
-[/us/pl/99/198/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1110
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1472
-[/us/pl/100/418/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4303
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1397
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3663
-[/us/pl/102/237/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs335
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1859
-[/us/pl/102/511/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs701
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3348
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F962
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F283
-[/us/pl/108/7/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs745
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F44
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/113/79/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/113/79/s3201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fa%2F1
-[/us/pl/113/79/s3201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fb
-[/us/pl/113/79/s3201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fa%2F2
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
-[/us/pl/110/246/s3014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3014%2Fb%2F2
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
-[/us/pl/110/246/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3105%2Fa
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
-[/us/pl/110/246/s3105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3105%2Fb
-[/us/pl/110/246/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3105%2Fa
-[/us/pl/108/7/s745/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs745%2F1
-[/us/pl/108/7/s745/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs745%2F2
-[/us/pl/107/171/s3106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F1
-[/us/pl/107/171/s3106/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FA
-[/us/pl/107/171/s3106/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FD
-[/us/pl/107/171/s3106/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FD
-[/us/pl/107/171/s3106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fa
-[/us/pl/107/171/s3106/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fe%2F2
-[/us/pl/107/171/s3009/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3009%2Fb%2F2
-[/us/pl/107/171/s3106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Ff
-[/us/pl/107/171/s3106/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FD
-[/us/pl/107/171/s3106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fh
-[/us/pl/107/171/s3106/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FD
-[/us/pl/107/171/s3106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fa
-[/us/pl/107/171/s3106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fa
-[/us/pl/107/171/s3106/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FC
-[/us/pl/107/171/s3106/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fm
-[/us/pl/107/171/s3106/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3106%2Fb%2F2%2FF
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s5602/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5602%2F8
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/104/127/s227/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F1
-[/us/pl/104/127/s265/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs265%2Fb
-[/us/pl/104/127/s227/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F2
-[/us/pl/104/127/s227/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F3%2FA
-[/us/pl/104/127/s227/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F3%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1431/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb%2F10%2FC
-[/us/pl/104/127/s227/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F4
-[/us/pl/104/127/s227/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F5
-[/us/pl/104/127/s227/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F6
-[/us/pl/104/127/s227/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F7
-[/us/pl/104/127/s227/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs227%2F8
-[/us/pl/102/511/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs701%2F1
-[/us/pl/102/511/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs701%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
-[/us/pl/102/511/s701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs701%2F3
-[/us/pl/102/237/s335/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs335%2F1
-[/us/pl/102/237/s335/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs335%2F2
-[/us/pl/101/624/s1516/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F1
-[/us/pl/101/624/s1516/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F2
-[/us/pl/101/624/s1516/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F3
-[/us/pl/101/624/s1516/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F4
-[/us/pl/101/624/s1516/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F5
-[/us/pl/101/624/s1516/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F6
-[/us/pl/101/624/s1572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1572%2F1
-[/us/pl/101/624/s1516/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F7
-[/us/pl/101/624/s1572/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1572%2F1%2FB
-[/us/pl/101/624/s1516/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F8
-[/us/pl/101/624/s1516/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F9
-[/us/pl/101/624/s1516/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1516%2F10
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

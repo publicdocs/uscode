@@ -33,7 +33,7 @@
 
         (5) to ensure that the weather and climate data bases needed by the agricultural sector are of the highest scientific accuracy and thoroughly documented, and that such data bases are easily accessible for remote computer access.
 
-([Pub. L. 101–624, title XVI, § 1637][/us/pl/101/624/s1637], Nov. 28, 1990, [104 Stat. 3747][/us/stat/104/3747].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1637, Nov. 28, 1990, [104 Stat. 3747][/us/stat/104/3747].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1637
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3747
 
 

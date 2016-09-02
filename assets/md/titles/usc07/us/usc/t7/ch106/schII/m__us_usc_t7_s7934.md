@@ -99,13 +99,13 @@
 
         For the 2001 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in a loan commodity for which a marketing assistance loan was made under [section 7231 of this title][/us/usc/t7/s7231] before repaying the loan, the Secretary shall permit the producers to repay the loan at the appropriate repayment rate that was in effect for the loan commodity under [section 7234 of this title][/us/usc/t7/s7234] on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
 
-([Pub. L. 107–171, title I, § 1204][/us/pl/107/171/s1204], May 13, 2002, [116 Stat. 156][/us/stat/116/156]; [Pub. L. 108–7, div. A, title VII, § 763(c)][/us/pl/108/7/s763/c], Feb. 20, 2003, [117 Stat. 47][/us/stat/117/47].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1204, May 13, 2002, [116 Stat. 156][/us/stat/116/156]; [Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 763(c), Feb. 20, 2003, [117 Stat. 47][/us/stat/117/47].)
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–7, § 763(c)(1)][/us/pl/108/7/s763/c/1], substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
+    2003—Subsec. (a). [Pub. L. 108–7][/us/pl/108/7], § 763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
 
-    Subsecs. (f) to (h). [Pub. L. 108–7, § 763(c)(2)][/us/pl/108/7/s763/c/2], (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+    Subsecs. (f) to (h). [Pub. L. 108–7][/us/pl/108/7], § 763(c)(2), (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -134,12 +134,12 @@
 [/us/usc/t7/s7932/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7932%2Fd
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
 [/us/usc/t7/s7234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7234
-[/us/pl/107/171/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1204
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F156
-[/us/pl/108/7/s763/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fc
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F47
-[/us/pl/108/7/s763/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fc%2F1
-[/us/pl/108/7/s763/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fc%2F2
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s763/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fd
 [/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901

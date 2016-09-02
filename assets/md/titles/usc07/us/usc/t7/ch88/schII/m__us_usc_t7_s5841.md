@@ -43,7 +43,7 @@
 
         (6) engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
 
-([Pub. L. 101–624, title XVI, § 1632][/us/pl/101/624/s1632], Nov. 28, 1990, [104 Stat. 3744][/us/stat/104/3744]; [Pub. L. 104–127, title VIII, § 832(a)][/us/pl/104/127/s832/a], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1632, Nov. 28, 1990, [104 Stat. 3744][/us/stat/104/3744]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 832(a), Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1632
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3744
-[/us/pl/104/127/s832/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs832%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1168
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law effective beginning October 1, 1983, not less than 25 per centum of the total funds appropriated to the Secretary in any fiscal year for the conduct of the cooperative research program provided for under the Act of March 2, 1887, commonly known as the Hatch Act ([7 U.S.C. 361a][/us/usc/t7/s361a] et seq.); the cooperative forestry research program provided for under the Act of October 10, 1962, commonly known as the McIntire-Stennis Act ([16 U.S.C. 582a][/us/usc/t16/s582a] et seq.); the special and competitive grants programs provided for in sections 2(b) and 2(c) of the Act of August 4, 1965 ([7 U.S.C. 450i][/us/usc/t7/s450i]); the animal health research program provided for under sections 3195(a) and 3196 of this title; the native latex research program provided for in the Native Latex Commercialization and Economic Development Act of 1978 ([7 U.S.C. 178][/us/usc/t7/s178] et seq.); and the research provided for under various statutes for which funds are appropriated under the Agricultural Research heading or a successor heading, shall be appropriated for research at State agricultural experiment stations pursuant to the provision of the Act of March 2, 1887.
 
-([Pub. L. 95–113, title XIV, § 1463][/us/pl/95/113/s1463], Sept. 29, 1977, [91 Stat. 1017][/us/stat/91/1017]; [Pub. L. 97–98, title XIV, § 1437][/us/pl/97/98/s1437], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV, § 1422][/us/pl/99/198/s1422], Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI, § 1601(b)(3)][/us/pl/101/624/s1601/b/3], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 102–237, title IV, § 402(12)][/us/pl/102/237/s402/12], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 817, 884(d), Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167], 1179; [Pub. L. 105–185, title III, § 301(a)(12)][/us/pl/105/185/s301/a/12], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7113][/us/pl/107/171/s7113], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7110(b), 7134, May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], 1228; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7110(b), 7134, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, 1989; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7111(b)(4), 7119, Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 875.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1463, Sept. 29, 1977, [91 Stat. 1017][/us/stat/91/1017]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1437, Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1422, Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(b)(3), Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 402(12), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], §§ 817, 884(d), Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167], 1179; [Pub. L. 105–185, title III][/us/pl/105/185/tIII], § 301(a)(12), June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7113, May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7110(b), 7134, May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], 1228; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7110(b), 7134, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, 1989; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7111(b)(4), 7119, Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 875.)
 
  __References in Text__ 
 
@@ -45,41 +45,41 @@
 
  __Amendments__ 
 
-    2014—Subsecs. (a), (b). [Pub. L. 113–79, § 7119][/us/pl/113/79/s7119], substituted “2018” for “2012”.
+    2014—Subsecs. (a), (b). [Pub. L. 113–79][/us/pl/113/79], § 7119, substituted “2018” for “2012”.
 
-    Subsec. (c). [Pub. L. 113–79, § 7111(b)(4)][/us/pl/113/79/s7111/b/4], substituted “sections 3195(a) and 3196” for “sections 3195 and 3196”.
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 7111(b)(4), substituted “sections 3195(a) and 3196” for “sections 3195 and 3196”.
 
     2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], §§ 7110(b), 7134, struck out “3154,” after “3152,” and substituted “2012” for “2007”.
 
-    Subsec. (b). [Pub. L. 110–246, § 7134][/us/pl/110/246/s7134], substituted “2012” for “2007”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 7134, substituted “2012” for “2007”.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 7113(1)][/us/pl/107/171/s7113/1], substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 7113(1), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
 
-    Subsec. (b). [Pub. L. 107–171, § 7113(2)][/us/pl/107/171/s7113/2], substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
+    Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 7113(2), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
 
     1998—Subsecs. (a), (b). [Pub. L. 105–185][/us/pl/105/185] substituted “2002” for “1997”.
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 884(d)][/us/pl/104/127/s884/d], struck out “390 to 390j,” before “3152, 3154”.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 884(d), struck out “390 to 390j,” before “3152, 3154”.
 
-    [Pub. L. 104–127, § 817][/us/pl/104/127/s817], substituted “1997” for “1995”.
+    [Pub. L. 104–127][/us/pl/104/127], § 817, substituted “1997” for “1995”.
 
-    Subsec. (b). [Pub. L. 104–127, § 817][/us/pl/104/127/s817], substituted “1997” for “1995”.
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 817, substituted “1997” for “1995”.
 
     1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237] struck out “subchapter VII of this chapter and” after “chapter, except”.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1601(b)(3)(A)][/us/pl/101/624/s1601/b/3/A], substituted “$850,000,000 for each of the fiscal years 1991 through 1995” for “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990.”
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1601(b)(3)(A), substituted “$850,000,000 for each of the fiscal years 1991 through 1995” for “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990.”
 
-    Subsec. (b). [Pub. L. 101–624, § 1601(b)(3)(B)][/us/pl/101/624/s1601/b/3/B], substituted “$310,000,000 for each of the fiscal years 1991 through 1995” for “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990.”
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1601(b)(3)(B), substituted “$310,000,000 for each of the fiscal years 1991 through 1995” for “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990.”
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1422(a)][/us/pl/99/198/s1422/a], substituted “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990” for “$505,000,000 for the fiscal year ending September 30, 1978, $575,000,000 for the fiscal year ending September 30, 1979, $645,000,000 for the fiscal year ending September 30, 1980, $715,000,000 for the fiscal year ending September 30, 1981, $780,000,000 for the fiscal year ending September 30, 1982, $780,000,000 for the fiscal year ending September 30, 1983, $835,000,000 for the fiscal year ending September 30, 1984, and $890,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year”.
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1422(a), substituted “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990” for “$505,000,000 for the fiscal year ending September 30, 1978, $575,000,000 for the fiscal year ending September 30, 1979, $645,000,000 for the fiscal year ending September 30, 1980, $715,000,000 for the fiscal year ending September 30, 1981, $780,000,000 for the fiscal year ending September 30, 1982, $780,000,000 for the fiscal year ending September 30, 1983, $835,000,000 for the fiscal year ending September 30, 1984, and $890,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year”.
 
-    Subsec. (b). [Pub. L. 99–198, § 1422(b)][/us/pl/99/198/s1422/b], substituted “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990” for “$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000 for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year”.
+    Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1422(b), substituted “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990” for “$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000 for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year”.
 
-    1981—Subsec. (a). [Pub. L. 97–98, § 1437(1)][/us/pl/97/98/s1437/1], inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
+    1981—Subsec. (a). [Pub. L. 97–98][/us/pl/97/98], § 1437(1), inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
 
-    Subsec. (b). [Pub. L. 97–98, § 1437(2)][/us/pl/97/98/s1437/2], inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year ending Sept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
+    Subsec. (b). [Pub. L. 97–98][/us/pl/97/98], § 1437(2), inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year ending Sept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
 
-    Subsec. (c). [Pub. L. 97–98, § 1437(3)][/us/pl/97/98/s1437/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–98][/us/pl/97/98], § 1437(3), added subsec. (c).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title XIV, § 1422(a)][/us/pl/99/198/s1422/a], (b), Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552], provided that the amendments made by section 1422(a), (b) are effective Oct. 1, 1985.
+    [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1422(a), (b), Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552], provided that the amendments made by section 1422(a), (b) are effective Oct. 1, 1985.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -113,27 +113,27 @@
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 [/us/usc/t7/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs178
-[/us/pl/95/113/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1463
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1017
-[/us/pl/97/98/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1437
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1314
-[/us/pl/99/198/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1422
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1552
-[/us/pl/101/624/s1601/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Fb%2F3
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3703
-[/us/pl/102/237/s402/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs402%2F12
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1167
-[/us/pl/105/185/s301/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs301%2Fa%2F12
+[/us/pl/105/185/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIII
 [/us/stat/112/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F562
-[/us/pl/107/171/s7113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7113
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F433
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1219
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 [/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
@@ -151,30 +151,30 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7119
-[/us/pl/113/79/s7111/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F4
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/246/s7134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7134
-[/us/pl/107/171/s7113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7113%2F1
-[/us/pl/107/171/s7113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7113%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
-[/us/pl/104/127/s884/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs884%2Fd
-[/us/pl/104/127/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs817
-[/us/pl/104/127/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs817
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1601/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Fb%2F3%2FA
-[/us/pl/101/624/s1601/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Fb%2F3%2FB
-[/us/pl/99/198/s1422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1422%2Fa
-[/us/pl/99/198/s1422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1422%2Fb
-[/us/pl/97/98/s1437/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1437%2F1
-[/us/pl/97/98/s1437/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1437%2F2
-[/us/pl/97/98/s1437/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1437%2F3
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/99/198/s1422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1422%2Fa
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1552
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

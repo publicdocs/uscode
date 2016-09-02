@@ -33,7 +33,7 @@
 
         (4) If the Administrator finds, in accordance with standards set forth in regulations issued under [section 136w of this title][/us/usc/t7/s136w], that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator’s intention to suspend and the reasons therefor and provide the State time to respond.
 
-([June 25, 1947, ch. 125, § 24][/us/act/1947-06-25/ch125/s24], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 997][/us/stat/86/997]; amended [Pub. L. 95–396, § 22][/us/pl/95/396/s22], Sept. 30, 1978, [92 Stat. 835][/us/stat/92/835]; [Pub. L. 100–532, title VIII, § 801(m)][/us/pl/100/532/s801/m], Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 24, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 997][/us/stat/86/997]; amended [Pub. L. 95–396][/us/pl/95/396], § 22, Sept. 30, 1978, [92 Stat. 835][/us/stat/92/835]; [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(m), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–532, § 801(m)][/us/pl/100/532/s801/m], inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
+    1988—[Pub. L. 100–532][/us/pl/100/532], § 801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
 
     1978—Subsec. (a). [Pub. L. 95–396][/us/pl/95/396] inserted “federally registered” before “pesticide or device”.
 
@@ -73,17 +73,17 @@
 [/us/usc/t7/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t7/s136w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w
-[/us/act/1947-06-25/ch125/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs24
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F997
-[/us/pl/95/396/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs22
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F835
-[/us/pl/100/532/s801/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fm
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2682
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/532/s801/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fm
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396

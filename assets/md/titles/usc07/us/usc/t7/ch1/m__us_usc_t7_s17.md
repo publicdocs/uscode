@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Sept. 21, 1922, ch. 369, § 10][/us/act/1922-09-21/ch369/s10], [42 Stat. 1003][/us/stat/42/1003].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 10, [42 Stat. 1003][/us/stat/42/1003].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs10
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
 
 

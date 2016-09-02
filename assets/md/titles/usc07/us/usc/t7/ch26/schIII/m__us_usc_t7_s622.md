@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 26, 1934, ch. 753, § 2][/us/act/1934-06-26/ch753/s2], [48 Stat. 1223][/us/stat/48/1223], related to refunding or crediting of taxes paid under [section 616 of this title][/us/usc/t7/s616].
+    Section, [act June 26, 1934, ch. 753][/us/act/1934-06-26/ch753], § 2, [48 Stat. 1223][/us/stat/48/1223], related to refunding or crediting of taxes paid under [section 616 of this title][/us/usc/t7/s616].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-26/ch753/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch753%2Fs2
+[/us/act/1934-06-26/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch753
 [/us/stat/48/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1223
 [/us/usc/t7/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs616
 

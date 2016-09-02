@@ -19,7 +19,7 @@
 
     (b) There are hereby authorized to be appropriated such sums as may be necessary for the enforcement and administration of this chapter.
 
-([Mar. 3, 1923, ch. 217, § 8][/us/act/1923-03-03/ch217/s8], [42 Stat. 1436][/us/stat/42/1436]; [Pub. L. 97–35, title I, § 159(a)(2)][/us/pl/97/35/s159/a/2], Aug. 13, 1981, [95 Stat. 376][/us/stat/95/376].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 8, [42 Stat. 1436][/us/stat/42/1436]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 159(a)(2), Aug. 13, 1981, [95 Stat. 376][/us/stat/95/376].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t7/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs93
 [/us/usc/t7/s94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs94
-[/us/act/1923-03-03/ch217/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs8
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1436
-[/us/pl/97/35/s159/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs159%2Fa%2F2
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F376
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

@@ -21,7 +21,7 @@
 
     (c) Whoever in connection with any settlement, under a contract to buy any commodity, and/or to sell such commodity, or any product or byproduct thereof, subject to any tax under this chapter, makes any statement, written or oral, (1) intended or calculated to lead any person to believe that any amount deducted from the gross sales price, in arriving at the basis of settlement under the contract, consists of a tax under this chapter, or (2) ascribing a particular amount deducted from the gross sales price, in arriving at the basis of settlement under the contract, to a tax imposed under this chapter, knowing that such statement is false, or that the tax is not so great as the amount so deducted and/or ascribed to such tax, shall be guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine of not more than $1,000 or by imprisonment for not exceeding six months, or both.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 20, as added [May 9, 1934, ch. 263, § 16][/us/act/1934-05-09/ch263/s16], [48 Stat. 677][/us/stat/48/677].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 20, as added [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], § 16, [48 Stat. 677][/us/stat/48/677].)
 
  __Constitutionality__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1934-05-09/ch263/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263%2Fs16
+[/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F677
 [/us/usc/t7/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs616
 

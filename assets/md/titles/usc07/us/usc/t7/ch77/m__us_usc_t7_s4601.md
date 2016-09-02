@@ -77,17 +77,17 @@
 
         (4) creates a trade barrier to honey or honey products produced in a foreign country.
 
-([Pub. L. 98–590, § 2][/us/pl/98/590/s2], Oct. 30, 1984, [98 Stat. 3115][/us/stat/98/3115]; [Pub. L. 105–185, title VI, § 605(a)][/us/pl/105/185/s605/a], June 23, 1998, [112 Stat. 587][/us/stat/112/587].)
+([Pub. L. 98–590][/us/pl/98/590], § 2, Oct. 30, 1984, [98 Stat. 3115][/us/stat/98/3115]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(a), June 23, 1998, [112 Stat. 587][/us/stat/112/587].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–185, § 605(a)(1)][/us/pl/105/185/s605/a/1], added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 605(a)(1), added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
 
-    Subsec. (a)(6), (7). [Pub. L. 105–185, § 605(a)(2)(A)][/us/pl/105/185/s605/a/2/A], substituted “consumer education, and industry information” for “and consumer education”.
+    Subsec. (a)(6), (7). [Pub. L. 105–185][/us/pl/105/185], § 605(a)(2)(A), substituted “consumer education, and industry information” for “and consumer education”.
 
-    Subsec. (a)(8) to (10). [Pub. L. 105–185, § 605(a)(2)(B)][/us/pl/105/185/s605/a/2/B], added pars. (8) to (10).
+    Subsec. (a)(8) to (10). [Pub. L. 105–185][/us/pl/105/185], § 605(a)(2)(B), added pars. (8) to (10).
 
-    Subsecs. (b), (c). [Pub. L. 105–185, § 605(a)(3)][/us/pl/105/185/s605/a/3], added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
+    Subsecs. (b), (c). [Pub. L. 105–185][/us/pl/105/185], § 605(a)(3), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
 
     “(b)(1) It is, therefore, the purpose of this chapter to authorize the establishment of an orderly procedure for the development and financing, through an adequate assessment, of an effective and coordinated program of research, promotion, and consumer education designed to strengthen the position of the honey industry in the marketplace and maintain, develop, and expand markets for honey and honey products.
 
@@ -95,13 +95,13 @@
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XIX, § 1981][/us/pl/101/624/s1981], Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1981, Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904], provided that: 
 
 > “This chapter \[chapter 1 (§§ 1981–1987) of subtitle F of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting [section 4610a of this title][/us/usc/t7/s4610a], amending sections 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as a note under [section 4603 of this title][/us/usc/t7/s4603]\] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act Amendments of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 98–590, § 1][/us/pl/98/590/s1], Oct. 30, 1984, [98 Stat. 3115][/us/stat/98/3115], provided that: 
+[Pub. L. 98–590][/us/pl/98/590], § 1, Oct. 30, 1984, [98 Stat. 3115][/us/stat/98/3115], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act’.”
 
@@ -112,20 +112,20 @@
 ----------
 ----------
 
-[/us/pl/98/590/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs2
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3115
-[/us/pl/105/185/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fa
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F587
-[/us/pl/105/185/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fa%2F1
-[/us/pl/105/185/s605/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fa%2F2%2FA
-[/us/pl/105/185/s605/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fa%2F2%2FB
-[/us/pl/105/185/s605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fa%2F3
-[/us/pl/101/624/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1981
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3904
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s4610a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4610a
 [/us/usc/t7/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4603
-[/us/pl/98/590/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs1
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3115
 
 

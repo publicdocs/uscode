@@ -31,27 +31,27 @@
 
     (c) It is therefore the policy of the United States to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants, along with other native agricultural crops, for the production of critical agricultural materials to benefit the Nation and promote economic development.
 
-([Pub. L. 95–592, § 2][/us/pl/95/592/s2], Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529]; [Pub. L. 98–284, § 2][/us/pl/98/284/s2], May 16, 1984, [98 Stat. 181][/us/stat/98/181].)
+([Pub. L. 95–592][/us/pl/95/592], § 2, Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529]; [Pub. L. 98–284][/us/pl/98/284], § 2, May 16, 1984, [98 Stat. 181][/us/stat/98/181].)
 
  __Amendments__ 
 
-    1984—Subsec. (a)(1). [Pub. L. 98–284, § 2(1)][/us/pl/98/284/s2/1], redesignated existing provisions of subsec. (a) as par. (1).
+    1984—Subsec. (a)(1). [Pub. L. 98–284][/us/pl/98/284], § 2(1), redesignated existing provisions of subsec. (a) as par. (1).
 
-    Subsec. (a)(2) to (4). [Pub. L. 98–284, § 2(2)][/us/pl/98/284/s2/2], redesignated subsecs. (b), (c), and (d) as pars. (2), (3), and (4), respectively, of subsec. (a).
+    Subsec. (a)(2) to (4). [Pub. L. 98–284][/us/pl/98/284], § 2(2), redesignated subsecs. (b), (c), and (d) as pars. (2), (3), and (4), respectively, of subsec. (a).
 
-    Subsec. (a)(5). [Pub. L. 98–284, § 2(2)][/us/pl/98/284/s2/2], (3), redesignated subsec. (e) as par. (5) of subsec. (a), and in par. (5), as so redesignated, substituted “development and commercialization of native latex has been conducted by the Department of Agriculture, the Department of Commerce, the National Science Foundation, and other public as well as private and industrial research groups,” for “commercialization of native latex has been conducted by the Department of Agriculture and by the Department of Commerce through the regional commissions”.
+    Subsec. (a)(5). [Pub. L. 98–284][/us/pl/98/284], § 2(2), (3), redesignated subsec. (e) as par. (5) of subsec. (a), and in par. (5), as so redesignated, substituted “development and commercialization of native latex has been conducted by the Department of Agriculture, the Department of Commerce, the National Science Foundation, and other public as well as private and industrial research groups,” for “commercialization of native latex has been conducted by the Department of Agriculture and by the Department of Commerce through the regional commissions”.
 
-    Subsec. (b). [Pub. L. 98–284, § 2(4)][/us/pl/98/284/s2/4], added subsec. (b). Former subsec. (b) redesignated (a)(2).
+    Subsec. (b). [Pub. L. 98–284][/us/pl/98/284], § 2(4), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-    Subsec. (c). [Pub. L. 98–284, § 2(4)][/us/pl/98/284/s2/4], added subsec. (c). Former subsec. (c) redesignated (a)(3).
+    Subsec. (c). [Pub. L. 98–284][/us/pl/98/284], § 2(4), added subsec. (c). Former subsec. (c) redesignated (a)(3).
 
-    Subsecs. (d) and (e). [Pub. L. 98–284, § 2(2)][/us/pl/98/284/s2/2], redesignated subsecs. (d) and (e) as (a)(4) and (a)(5), respectively.
+    Subsecs. (d) and (e). [Pub. L. 98–284][/us/pl/98/284], § 2(2), redesignated subsecs. (d) and (e) as (a)(4) and (a)(5), respectively.
 
-    Subsec. (f). [Pub. L. 98–284, § 2(4)][/us/pl/98/284/s2/4], struck out subsec. (f) which provided: “It is the policy of the Congress, therefore, to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants for the extraction of natural rubber and other products to benefit the Nation and promote economic development”. See subsec. (c).
+    Subsec. (f). [Pub. L. 98–284][/us/pl/98/284], § 2(4), struck out subsec. (f) which provided: “It is the policy of the Congress, therefore, to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants for the extraction of natural rubber and other products to benefit the Nation and promote economic development”. See subsec. (c).
 
  __Short Title__ 
 
-[Pub. L. 95–592, § 1][/us/pl/95/592/s1], Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529], as amended by [Pub. L. 98–284, § 1][/us/pl/98/284/s1], May 16, 1984, [98 Stat. 181][/us/stat/98/181], provided: 
+[Pub. L. 95–592][/us/pl/95/592], § 1, Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529], as amended by [Pub. L. 98–284][/us/pl/98/284], § 1, May 16, 1984, [98 Stat. 181][/us/stat/98/181], provided: 
 
 > “That this Act \[enacting this subchapter and amending [section 1314f of this title][/us/usc/t7/s1314f]\] may be cited as the ‘Critical Agricultural Materials Act’.”
 
@@ -64,20 +64,20 @@
 ----------
 ----------
 
-[/us/pl/95/592/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs2
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2529
-[/us/pl/98/284/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F181
-[/us/pl/98/284/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F1
-[/us/pl/98/284/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F2
-[/us/pl/98/284/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F2
-[/us/pl/98/284/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F4
-[/us/pl/98/284/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F4
-[/us/pl/98/284/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F2
-[/us/pl/98/284/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs2%2F4
-[/us/pl/95/592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs1
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2529
-[/us/pl/98/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs1
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F181
 [/us/usc/t7/s1314f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314f
 [/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592

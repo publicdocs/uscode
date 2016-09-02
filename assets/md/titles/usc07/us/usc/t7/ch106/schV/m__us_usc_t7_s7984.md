@@ -31,7 +31,7 @@
 
         Not later than 1 year after May 13, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the studies required by this section.
 
-([Pub. L. 107–171, title I, § 1508][/us/pl/107/171/s1508], May 13, 2002, [116 Stat. 211][/us/stat/116/211].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1508, May 13, 2002, [116 Stat. 211][/us/stat/116/211].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1508
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F211
 
 

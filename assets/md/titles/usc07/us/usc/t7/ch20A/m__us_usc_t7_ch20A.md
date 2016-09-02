@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs499" data-uslm-ref="/us/usc/t7/s499">499</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs499l" data-uslm-ref="/us/usc/t7/s499l">499l.</a>  </td>
 
     <td> Violations; report to Attorney General; proceedings; costs.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs499" data-uslm-ref="/us/usc/t7/s499">499</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs499o" data-uslm-ref="/us/usc/t7/s499o">499o.</a>  </td>
 
     <td> Rules, regulations, and orders; appointment, removal, and compensation of officers and employees; expenditures; authorization of appropriations; abrogation of inconsistent statutes.  </td>
 

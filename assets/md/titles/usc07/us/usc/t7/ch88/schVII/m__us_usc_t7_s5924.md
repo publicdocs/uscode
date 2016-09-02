@@ -75,7 +75,7 @@
 
         The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
-([Pub. L. 101–624, title XVI, § 1671][/us/pl/101/624/s1671], Nov. 28, 1990, [104 Stat. 3769][/us/stat/104/3769]; [Pub. L. 104–66, title I, § 1011(s)][/us/pl/104/66/s1011/s], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title VIII, § 835][/us/pl/104/127/s835], Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II, § 241][/us/pl/105/185/s241], June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 107–171, title VII, § 7208(a)][/us/pl/107/171/s7208/a], May 13, 2002, [116 Stat. 442][/us/stat/116/442]; [Pub. L. 110–234, title VII, § 7406(d)(2)][/us/pl/110/234/s7406/d/2], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7406(d)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(2)(B), 7208, Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878], 881.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1671, Nov. 28, 1990, [104 Stat. 3769][/us/stat/104/3769]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(s), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 835, Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 241, June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7208(a), May 13, 2002, [116 Stat. 442][/us/stat/116/442]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7406(d)(2), May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7406(d)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7128(b)(2)(B), 7208, Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878], 881.)
 
  __Codification__ 
 
@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3). [Pub. L. 113–79, § 7208][/us/pl/113/79/s7208], added par. (3).
+    2014—Subsec. (c)(3). [Pub. L. 113–79][/us/pl/113/79], § 7208, added par. (3).
 
-    Subsecs. (e), (f). [Pub. L. 113–79, § 7128(b)(2)(B)][/us/pl/113/79/s7128/b/2/B], redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to matching of funds.
+    Subsecs. (e), (f). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(2)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to matching of funds.
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 7406(d)(2)][/us/pl/110/246/s7406/d/2], substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 7406(d)(2), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
 
-    2002—Subsec. (b)(3). [Pub. L. 107–171, § 7208(a)(1)][/us/pl/107/171/s7208/a/1], inserted “pathogens and” before “diseases causing economic hardship”.
+    2002—Subsec. (b)(3). [Pub. L. 107–171][/us/pl/107/171], § 7208(a)(1), inserted “pathogens and” before “diseases causing economic hardship”.
 
-    Subsec. (b)(7), (8). [Pub. L. 107–171, § 7208(a)(2)][/us/pl/107/171/s7208/a/2]–(4), added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (b)(7), (8). [Pub. L. 107–171][/us/pl/107/171], § 7208(a)(2)–(4), added par. (7) and redesignated former par. (7) as (8).
 
     1998—[Pub. L. 105–185][/us/pl/105/185] amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) required plant genome mapping program, in subsec. (b) authorized competitive grants for research projects, in subsec. (c) described research areas for projects, in subsec. (d) set forth deadline for submission of plan for awarding grants, in subsec. (e) directed coordination of section activities with certain related activities, in subsec. (f) required protection of proprietary interests when considered to be appropriate, and in subsec. (g) authorized appropriations for fiscal years 1996 and 1997 to carry out this section.
 
@@ -114,31 +114,31 @@
 
 [/us/usc/t7/s3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3318
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/pl/101/624/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1671
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3769
-[/us/pl/104/66/s1011/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fs
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F710
-[/us/pl/104/127/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs835
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1169
-[/us/pl/105/185/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs241
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F547
-[/us/pl/107/171/s7208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7208%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F442
-[/us/pl/110/234/s7406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7406%2Fd%2F2
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F878
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7208
-[/us/pl/113/79/s7128/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FB
-[/us/pl/110/246/s7406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fd%2F2
-[/us/pl/107/171/s7208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7208%2Fa%2F1
-[/us/pl/107/171/s7208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7208%2Fa%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

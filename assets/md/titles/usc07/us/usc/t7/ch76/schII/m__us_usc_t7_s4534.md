@@ -97,7 +97,7 @@
 
         (3) No information obtained under the authority of this section may be made available to any agency, officer, or employee of the United States for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary to implement this subchapter. Any person who violates this paragraph shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if such person is employed by the board or the Department, shall be terminated from such employment.
 
-([Pub. L. 98–180, title I, § 133][/us/pl/98/180/s133], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1369][/us/stat/99/1369].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 133, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1369][/us/stat/99/1369].)
 
 ----------
 
@@ -108,8 +108,8 @@
 
 [/us/usc/t7/s4533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4533%2Fb
 [/us/usc/t7/s4533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4533%2Fb
-[/us/pl/98/180/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs133
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1369
 
 

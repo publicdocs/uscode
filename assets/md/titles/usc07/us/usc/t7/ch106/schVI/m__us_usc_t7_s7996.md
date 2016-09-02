@@ -135,7 +135,7 @@
 
         The authority provided in this section is in addition to any other authority provided in this or any other Act.
 
-([Pub. L. 107–171, title I, § 1613][/us/pl/107/171/s1613], May 13, 2002, [116 Stat. 219][/us/stat/116/219].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1613, May 13, 2002, [116 Stat. 219][/us/stat/116/219].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t7/s6998/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6998%2Fd
-[/us/pl/107/171/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F219
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307

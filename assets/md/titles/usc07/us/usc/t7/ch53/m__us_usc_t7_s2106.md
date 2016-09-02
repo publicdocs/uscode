@@ -77,21 +77,21 @@
 
     (h) Providing that no funds collected by the Cotton Board under the order shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsection (a)(4) of this section.
 
-([Pub. L. 89–502, § 7][/us/pl/89/502/s7], July 13, 1966, [80 Stat. 281][/us/stat/80/281]; [Pub. L. 94–366][/us/pl/94/366], §§ 2, 3, July 14, 1976, [90 Stat. 991][/us/stat/90/991], 992; [Pub. L. 101–624, title XIX, § 1992][/us/pl/101/624/s1992], Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909]; [Pub. L. 102–237, title VIII, § 808(a)(1)][/us/pl/102/237/s808/a/1], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 89–502][/us/pl/89/502], § 7, July 13, 1966, [80 Stat. 281][/us/stat/80/281]; [Pub. L. 94–366][/us/pl/94/366], §§ 2, 3, July 14, 1976, [90 Stat. 991][/us/stat/90/991], 992; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1992, Nov. 28, 1990, [104 Stat. 3909][/us/stat/104/3909]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 808(a)(1), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
     1991—Subsec. (e)(4). [Pub. L. 102–237][/us/pl/102/237] made technical amendment to reference to this chapter to correct error in corresponding reference in original act.
 
-    1990—Subsec. (a)(2). [Pub. L. 101–624, § 1992(1)][/us/pl/101/624/s1992/1], substituted “person” for “handler” and struck out “producer” before “assessment”.
+    1990—Subsec. (a)(2). [Pub. L. 101–624][/us/pl/101/624], § 1992(1), substituted “person” for “handler” and struck out “producer” before “assessment”.
 
-    Subsec. (b). [Pub. L. 101–624, § 1992(2)][/us/pl/101/624/s1992/2], inserted “(1)”, and substituted “, and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board.” for “: Provided, however, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board.”
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1992(2), inserted “(1)”, and substituted “, and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board.” for “: Provided, however, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board.”
 
-    Subsec. (e). [Pub. L. 101–624, § 1992(3)][/us/pl/101/624/s1992/3], amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
 
-    1976—Subsec. (b). [Pub. L. 94–366, § 3][/us/pl/94/366/s3], inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
+    1976—Subsec. (b). [Pub. L. 94–366][/us/pl/94/366], § 3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
 
-    Subsec. (e). [Pub. L. 94–366, § 2][/us/pl/94/366/s2], inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to [section 2107 of this title][/us/usc/t7/s2107] and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
+    Subsec. (e). [Pub. L. 94–366][/us/pl/94/366], § 2, inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to [section 2107 of this title][/us/usc/t7/s2107] and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
 
 ----------
 
@@ -104,20 +104,20 @@
 [/us/usc/t7/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2107
 [/us/usc/t7/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2113
 [/us/usc/t7/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2110
-[/us/pl/89/502/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs7
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F281
 [/us/pl/94/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F366
 [/us/stat/90/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F991
-[/us/pl/101/624/s1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1992
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3909
-[/us/pl/102/237/s808/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs808%2Fa%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1992/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1992%2F1
-[/us/pl/101/624/s1992/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1992%2F2
-[/us/pl/101/624/s1992/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1992%2F3
-[/us/pl/94/366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F366%2Fs3
-[/us/pl/94/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F366%2Fs2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/94/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F366
+[/us/pl/94/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F366
 [/us/usc/t7/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2107
 
 

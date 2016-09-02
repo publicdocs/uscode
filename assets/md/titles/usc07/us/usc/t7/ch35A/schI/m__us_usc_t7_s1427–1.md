@@ -23,7 +23,7 @@
 
         The Commodity Credit Corporation shall utilize Federal Grain Inspection Service approved procedures to inspect and evaluate the condition of the grain it acquires from producers. In no case shall this section require the use of an official inspection unless the producer so requests.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 407A, as added [Pub. L. 101–624, title XX, § 2012][/us/pl/101/624/s2012], Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 407A, as added [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2012, Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
 
  __Inapplicability of Section__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/101/624/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2012
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3933
 [/us/usc/t7/s9092/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F10
 [/us/usc/t7/s8782/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F10

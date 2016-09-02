@@ -557,7 +557,7 @@
 
             (B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
 
-([Pub. L. 88–525, § 7][/us/pl/88/525/s7], Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 91–671, § 5][/us/pl/91/671/s5], Jan. 11, 1971, [84 Stat. 2050][/us/stat/84/2050]; [Pub. L. 93–86, § 3(m)][/us/pl/93/86/s3/m], Aug. 10, 1973, [87 Stat. 248][/us/stat/87/248]; [Pub. L. 93–125, § 1(k)][/us/pl/93/125/s1/k], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–339, § 2][/us/pl/94/339/s2], July 5, 1976, [90 Stat. 799][/us/stat/90/799]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 967][/us/stat/91/967]; [Pub. L. 97–98, title XIII, § 1312][/us/pl/97/98/s1312], Dec. 22, 1981, [95 Stat. 1285][/us/stat/95/1285]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 162, 190(c)(2), Sept. 8, 1982, [96 Stat. 778][/us/stat/96/778], 787; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1518, 1519, Dec. 23, 1985, [99 Stat. 1578][/us/stat/99/1578]; [Pub. L. 100–435, title II, § 203(b)][/us/pl/100/435/s203/b], Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1728, 1729(a), Nov. 28, 1990, [104 Stat. 3788][/us/stat/104/3788], 3789; [Pub. L. 103–225, title I, § 102][/us/pl/103/225/s102], Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107]; [Pub. L. 104–193, title VIII, § 825(a)][/us/pl/104/193/s825/a], Aug. 22, 1996, [110 Stat. 2324][/us/stat/110/2324]; [Pub. L. 105–18, title VII][/us/pl/105/18], \[(a)\], June 12, 1997, [111 Stat. 216][/us/stat/111/216]; [Pub. L. 106–171, § 3][/us/pl/106/171/s3], Feb. 11, 2000, [114 Stat. 3][/us/stat/114/3]; [Pub. L. 107–171, title IV, § 4110][/us/pl/107/171/s4110], May 13, 2002, [116 Stat. 309][/us/stat/116/309]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1103; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1864, 1865; [Pub. L. 111–203, title X, § 1075(b)][/us/pl/111/203/s1075/b], July 21, 2010, [124 Stat. 2074][/us/stat/124/2074]; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, [128 Stat. 783][/us/stat/128/783], 784, 789–792, 814.)
+([Pub. L. 88–525][/us/pl/88/525], § 7, Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 91–671][/us/pl/91/671], § 5, Jan. 11, 1971, [84 Stat. 2050][/us/stat/84/2050]; [Pub. L. 93–86][/us/pl/93/86], § 3(m), Aug. 10, 1973, [87 Stat. 248][/us/stat/87/248]; [Pub. L. 93–125][/us/pl/93/125], § 1(k), Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–339][/us/pl/94/339], § 2, July 5, 1976, [90 Stat. 799][/us/stat/90/799]; [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 967][/us/stat/91/967]; [Pub. L. 97–98, title XIII][/us/pl/97/98/tXIII], § 1312, Dec. 22, 1981, [95 Stat. 1285][/us/stat/95/1285]; [Pub. L. 97–253, title I][/us/pl/97/253/tI], §§ 162, 190(c)(2), Sept. 8, 1982, [96 Stat. 778][/us/stat/96/778], 787; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], §§ 1518, 1519, Dec. 23, 1985, [99 Stat. 1578][/us/stat/99/1578]; [Pub. L. 100–435, title II][/us/pl/100/435/tII], § 203(b), Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], §§ 1728, 1729(a), Nov. 28, 1990, [104 Stat. 3788][/us/stat/104/3788], 3789; [Pub. L. 103–225, title I][/us/pl/103/225/tI], § 102, Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 825(a), Aug. 22, 1996, [110 Stat. 2324][/us/stat/110/2324]; [Pub. L. 105–18, title VII][/us/pl/105/18/tVII], \[(a)\], June 12, 1997, [111 Stat. 216][/us/stat/111/216]; [Pub. L. 106–171][/us/pl/106/171], § 3, Feb. 11, 2000, [114 Stat. 3][/us/stat/114/3]; [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4110, May 13, 2002, [116 Stat. 309][/us/stat/116/309]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1103; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1864, 1865; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1075(b), July 21, 2010, [124 Stat. 2074][/us/stat/124/2074]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], §§ 4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, [128 Stat. 783][/us/stat/128/783], 784, 789–792, 814.)
 
  __References in Text__ 
 
@@ -569,143 +569,143 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 4011(b)(2)(A)][/us/pl/113/79/s4011/b/2/A], substituted “purchase food from retail food stores” for “purchase food in retail food stores”.
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 4011(b)(2)(A), substituted “purchase food from retail food stores” for “purchase food in retail food stores”.
 
-    Subsec. (f)(2). [Pub. L. 113–79, § 4002(b)(1)][/us/pl/113/79/s4002/b/1], added par. (2) and struck out former par. (2). Text read as follows: “The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.”
+    Subsec. (f)(2). [Pub. L. 113–79][/us/pl/113/79], § 4002(b)(1), added par. (2) and struck out former par. (2). Text read as follows: “The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.”
 
-    Subsec. (f)(4), (5). [Pub. L. 113–79, § 4002(b)(2)][/us/pl/113/79/s4002/b/2], added pars. (4) and (5).
+    Subsec. (f)(4), (5). [Pub. L. 113–79][/us/pl/113/79], § 4002(b)(2), added pars. (4) and (5).
 
-    Subsec. (h)(2)(C)(ii). [Pub. L. 113–79, § 4002(c)][/us/pl/113/79/s4002/c], added cl. (ii) and struck out former cl. (ii) which read as follows: “effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;”.
+    Subsec. (h)(2)(C)(ii). [Pub. L. 113–79][/us/pl/113/79], § 4002(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;”.
 
-    Subsec. (h)(3)(B). [Pub. L. 113–79, § 4002(d)][/us/pl/113/79/s4002/d], substituted “is operational at a sufficient number” for “is operational—
+    Subsec. (h)(3)(B). [Pub. L. 113–79][/us/pl/113/79], § 4002(d), substituted “is operational at a sufficient number” for “is operational—
 
     “(i) in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
 
     “(ii) in the case of other participating stores, at a sufficient number”.
 
-    Subsec. (h)(8). [Pub. L. 113–79, § 4010][/us/pl/113/79/s4010], substituted “of cards” for “card fee” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
+    Subsec. (h)(8). [Pub. L. 113–79][/us/pl/113/79], § 4010, substituted “of cards” for “card fee” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
 
-    Subsec. (h)(12), (13). [Pub. L. 113–79, § 4030(e)][/us/pl/113/79/s4030/e], redesignated par. (12), relating to interchange fees, as (13).
+    Subsec. (h)(12), (13). [Pub. L. 113–79][/us/pl/113/79], § 4030(e), redesignated par. (12), relating to interchange fees, as (13).
 
-    Subsec. (h)(14). [Pub. L. 113–79, § 4011(a)][/us/pl/113/79/s4011/a], added par. (14).
+    Subsec. (h)(14). [Pub. L. 113–79][/us/pl/113/79], § 4011(a), added par. (14).
 
-    Subsec. (k). [Pub. L. 113–79, § 4011(b)(1)][/us/pl/113/79/s4011/b/1], added subsec. (k).
+    Subsec. (k). [Pub. L. 113–79][/us/pl/113/79], § 4011(b)(1), added subsec. (k).
 
     2010—Subsec. (h)(10). [Pub. L. 111–203][/us/pl/111/203] amended par. (10) generally. Prior to amendment, text read as follows: “Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under [section 1693b of title 15][/us/usc/t15/s1693b] shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
 
-    2008—[Pub. L. 110–246, § 4115(a)(1)][/us/pl/110/246/s4115/a/1], substituted “program benefits” for “coupons” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–246, § 4115(a)(1)][/us/pl/110/246/s4115/a/1], inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
+    Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(1), inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (b). [Pub. L. 110–246, § 4115(a)(2)][/us/pl/110/246/s4115/a/2], inserted heading, substituted “Benefits” for “Coupons”, and struck out before period at end “: Provided further, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(2), inserted heading, substituted “Benefits” for “Coupons”, and struck out before period at end “: Provided further, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued”.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (c). [Pub. L. 110–246, § 4115(a)(3)][/us/pl/110/246/s4115/a/3], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “EBT cards” for “Coupons”, struck out “and define their denomination” after “explain their purpose”, struck out at end “The name of any public official shall not appear on such coupons.”, and added par. (2).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “EBT cards” for “Coupons”, struck out “and define their denomination” after “explain their purpose”, struck out at end “The name of any public official shall not appear on such coupons.”, and added par. (2).
 
-    Subsec. (d). [Pub. L. 110–246, § 4115(a)(4)][/us/pl/110/246/s4115/a/4], (12), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to determination and monitoring of coupon inventory levels and certified monthly report on issuer’s operations.
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(4), (12), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to determination and monitoring of coupon inventory levels and certified monthly report on issuer’s operations.
 
-    Subsec. (e). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    [Pub. L. 110–246, § 4115(a)(5)][/us/pl/110/246/s4115/a/5], substituted “benefits” for “coupons” in two places and “benefit issuers” for “coupon issuers” in two places.
+    [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(5), substituted “benefits” for “coupons” in two places and “benefit issuers” for “coupon issuers” in two places.
 
-    Subsec. (f). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    [Pub. L. 110–246, § 4115(a)(6)][/us/pl/110/246/s4115/a/6], substituted “issuance of benefits” for “issuance of coupons”, “benefit issuers” for “coupon issuer”, and “authorizations for benefits” for “authorizations for coupons and allotments” and struck out “including any losses involving failure of a benefit issuers to comply with the requirements specified in [section 2020(e)(20) of this title][/us/usc/t7/s2020/e/20],” after “issuance of benefits”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(6), substituted “issuance of benefits” for “issuance of coupons”, “benefit issuers” for “coupon issuer”, and “authorizations for benefits” for “authorizations for coupons and allotments” and struck out “including any losses involving failure of a benefit issuers to comply with the requirements specified in [section 2020(e)(20) of this title][/us/usc/t7/s2020/e/20],” after “issuance of benefits”.
 
-    Subsec. (g). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    [Pub. L. 110–246, § 4115(a)(7)][/us/pl/110/246/s4115/a/7], added subsec. (g) and struck out former subsec. (g) which related to issuance or delivery of food stamp coupons using alternative methods or issuance of other reusable documents in lieu of coupons by a State agency.
+    [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(7), added subsec. (g) and struck out former subsec. (g) which related to issuance or delivery of food stamp coupons using alternative methods or issuance of other reusable documents in lieu of coupons by a State agency.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
 
-    Subsec. (h). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (h)(1). [Pub. L. 110–246, § 4115(a)(8)][/us/pl/110/246/s4115/a/8], substituted “benefits” for “coupons”.
+    Subsec. (h)(1). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(8), substituted “benefits” for “coupons”.
 
-    Subsec. (h)(2). [Pub. L. 110–246, § 4113][/us/pl/110/246/s4113], added par. (2) and struck out former par. (2) which read as follows: “Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household’s benefits in more than one issuance.”
+    Subsec. (h)(2). [Pub. L. 110–246][/us/pl/110/246], § 4113, added par. (2) and struck out former par. (2) which read as follows: “Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household’s benefits in more than one issuance.”
 
-    Subsec. (i). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (i)(3)(B)(ii). [Pub. L. 110–246, § 4002(a)(4)(A)(i)][/us/pl/110/246/s4002/a/4/A/i], substituted “households receiving supplemental nutrition assistance program benefits” for “food stamp households”.
+    Subsec. (i)(3)(B)(ii). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(4)(A)(i), substituted “households receiving supplemental nutrition assistance program benefits” for “food stamp households”.
 
-    Subsec. (i)(7). [Pub. L. 110–246, § 4002(a)(4)(A)(ii)][/us/pl/110/246/s4002/a/4/A/ii], substituted “supplemental nutrition assistance issuance” for “food stamp issuance”.
+    Subsec. (i)(7). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(4)(A)(ii), substituted “supplemental nutrition assistance issuance” for “food stamp issuance”.
 
-    Subsec. (i)(12). [Pub. L. 110–246, § 4115(a)(9)][/us/pl/110/246/s4115/a/9], added par. (12) relating to interchange fees.
+    Subsec. (i)(12). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(9), added par. (12) relating to interchange fees.
 
-    [Pub. L. 110–246, § 4114][/us/pl/110/246/s4114], added par. (12) relating to recovering electronic benefits.
+    [Pub. L. 110–246][/us/pl/110/246], § 4114, added par. (12) relating to recovering electronic benefits.
 
-    Subsec. (j). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    Subsec. (j). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    Subsec. (j)(1). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    Subsec. (j)(1). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (j)(2)(A)(ii). [Pub. L. 110–246, § 4115(a)(10)(A)][/us/pl/110/246/s4115/a/10/A], substituted “issuing and redeeming benefits” for “printing, shipping, and redeeming coupons”.
+    Subsec. (j)(2)(A)(ii). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(10)(A), substituted “issuing and redeeming benefits” for “printing, shipping, and redeeming coupons”.
 
-    Subsec. (j)(2)(B). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    Subsec. (j)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (j)(5). [Pub. L. 110–246, § 4115(a)(10)(B)][/us/pl/110/246/s4115/a/10/B], substituted “benefit” for “coupon”.
+    Subsec. (j)(5). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(10)(B), substituted “benefit” for “coupon”.
 
-    Subsec. (k). [Pub. L. 110–246, § 4115(a)(12)][/us/pl/110/246/s4115/a/12], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(12), redesignated subsec. (k) as (j).
 
-    Subsec. (k)(1)(A). [Pub. L. 110–246, § 4115(a)(11)(C)][/us/pl/110/246/s4115/a/11/C], which directed amendment of subpar. (A) by substituting “subsection (h)(11)(A)” for “subsection (i)(11)(A)”, was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
+    Subsec. (k)(1)(A). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(11)(C), which directed amendment of subpar. (A) by substituting “subsection (h)(11)(A)” for “subsection (i)(11)(A)”, was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
 
-    Subsec. (k)(1)(B). [Pub. L. 110–246, § 4115(a)(11)(A)][/us/pl/110/246/s4115/a/11/A], substituted “program benefits in the form of” for “coupons in the form of”.
+    Subsec. (k)(1)(B). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
 
-    Subsec. (k)(1)(C), (E). [Pub. L. 110–246, § 4115(a)(11)(B)][/us/pl/110/246/s4115/a/11/B], substituted “program benefits in the form of” for “a coupon issued in the form of”.
+    Subsec. (k)(1)(C), (E). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(11)(B), substituted “program benefits in the form of” for “a coupon issued in the form of”.
 
-    Subsec. (k)(2). [Pub. L. 110–246, § 4115(a)(11)(A)][/us/pl/110/246/s4115/a/11/A], substituted “program benefits in the form of” for “coupons in the form of”.
+    Subsec. (k)(2). [Pub. L. 110–246][/us/pl/110/246], § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
 
-    [Pub. L. 110–246, § 4002(a)(4)(B)(i)][/us/pl/110/246/s4002/a/4/B/i], substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(4)(B)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-    Subsec. (k)(3). [Pub. L. 110–246, § 4002(a)(4)(B)(ii)][/us/pl/110/246/s4002/a/4/B/ii], substituted “retail store” for “food stamp retail store”.
+    Subsec. (k)(3). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(4)(B)(ii), substituted “retail store” for “food stamp retail store”.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (k)(5)(B)(ii), (C). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+    Subsec. (k)(5)(B)(ii), (C). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
     2002—Subsec. (i)(2). [Pub. L. 107–171][/us/pl/107/171] redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
 
     2000—Subsec. (k). [Pub. L. 106–171][/us/pl/106/171] added subsec. (k).
 
-    1997—Subsec. (a). [Pub. L. 105–18, title VII][/us/pl/105/18], \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
+    1997—Subsec. (a). [Pub. L. 105–18, title VII][/us/pl/105/18/tVII], \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
 
-    Subsec. (j). [Pub. L. 105–18, title VII][/us/pl/105/18], \[(a)(2)\], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–18, title VII][/us/pl/105/18/tVII], \[(a)(2)\], added subsec. (j).
 
-    1996—Subsec. (i). [Pub. L. 104–193, § 825(a)(1)][/us/pl/104/193/s825/a/1], inserted subsec. heading.
+    1996—Subsec. (i). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(1), inserted subsec. heading.
 
-    Subsec. (i)(1). [Pub. L. 104–193, § 825(a)(1)][/us/pl/104/193/s825/a/1], added par. (1) and struck out former par. (1) which read as follows:
+    Subsec. (i)(1). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
 
     “(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under [section 2017(a) of this title][/us/usc/t7/s2017/a] are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
 
     “(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary.”
 
-    Subsec. (i)(2). [Pub. L. 104–193, § 825(a)(2)(A)][/us/pl/104/193/s825/a/2/A], struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
+    Subsec. (i)(2). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(2)(A), struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
 
-    Subsec. (i)(2)(A). [Pub. L. 104–193, § 825(a)(2)(B)][/us/pl/104/193/s825/a/2/B], struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
+    Subsec. (i)(2)(A). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(2)(B), struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
 
-    Subsec. (i)(2)(D). [Pub. L. 104–193, § 825(a)(2)(C)][/us/pl/104/193/s825/a/2/C], added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
+    Subsec. (i)(2)(D). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
 
-    Subsec. (i)(2)(I). [Pub. L. 104–193, § 825(a)(2)(D)][/us/pl/104/193/s825/a/2/D]–(F), added subpar. (I).
+    Subsec. (i)(2)(I). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(2)(D)–(F), added subpar. (I).
 
-    Subsec. (i)(7) to (11). [Pub. L. 104–193, § 825(a)(3)][/us/pl/104/193/s825/a/3], added pars. (7) to (11).
+    Subsec. (i)(7) to (11). [Pub. L. 104–193][/us/pl/104/193], § 825(a)(3), added pars. (7) to (11).
 
     1994—Subsec. (h)(1). [Pub. L. 103–225][/us/pl/103/225] inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
 
-    1990—Subsec. (h). [Pub. L. 101–624, § 1728][/us/pl/101/624/s1728], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: Provided, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
+    1990—Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: Provided, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
 
-    Subsec. (i). [Pub. L. 101–624, § 1729(a)][/us/pl/101/624/s1729/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–624][/us/pl/101/624], § 1729(a), added subsec. (i).
 
     1988—Subsec. (h). [Pub. L. 100–435][/us/pl/100/435] struck out par. (1) designation and par. (2) which read as follows: “For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the \[sic\] eighth day of the first full month of participation.”
 
-    1985—Subsec. (g)(1). [Pub. L. 99–198, § 1519][/us/pl/99/198/s1519], substituted “shall” for “may” in provisions preceding subpar. (A).
+    1985—Subsec. (g)(1). [Pub. L. 99–198][/us/pl/99/198], § 1519, substituted “shall” for “may” in provisions preceding subpar. (A).
 
-    Subsec. (h). [Pub. L. 99–198, § 1518][/us/pl/99/198/s1518], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–198][/us/pl/99/198], § 1518, added subsec. (h).
 
-    1982—Subsec. (f). [Pub. L. 97–253, § 190(c)(2)][/us/pl/97/253/s190/c/2], substituted reference to [section 2020(e)(20) of this title][/us/usc/t7/s2020/e/20] for former reference to [section 2020(e)(21) of this title][/us/usc/t7/s2020/e/21].
+    1982—Subsec. (f). [Pub. L. 97–253][/us/pl/97/253], § 190(c)(2), substituted reference to [section 2020(e)(20) of this title][/us/usc/t7/s2020/e/20] for former reference to [section 2020(e)(21) of this title][/us/usc/t7/s2020/e/21].
 
-    Subsec. (g). [Pub. L. 97–253, § 162][/us/pl/97/253/s162], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–253][/us/pl/97/253], § 162, added subsec. (g).
 
     1981—Subsec. (f). [Pub. L. 97–98][/us/pl/97/98] substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of [section 2020(e)(21) of this title][/us/usc/t7/s2020/e/21], except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
@@ -759,17 +759,17 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+    [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
  __Savings Clause__ 
 
-[Pub. L. 113–79, title IV, § 4011(c)][/us/pl/113/79/s4011/c], Feb. 7, 2014, [128 Stat. 793][/us/stat/128/793], provided that: 
+[Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4011(c), Feb. 7, 2014, [128 Stat. 793][/us/stat/128/793], provided that: 
 
 > “Nothing in this section \[amending this section and [section 2019 of this title][/us/usc/t7/s2019]\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) unless specifically authorized in this section or an amendment made by this section.”
 
  __Report on Electronic Benefit Transfer Systems__ 
 
-[Pub. L. 107–171, title IV, § 4111][/us/pl/107/171/s4111], May 13, 2002, [116 Stat. 309][/us/stat/116/309], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(C), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
+[Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4111, May 13, 2002, [116 Stat. 309][/us/stat/116/309], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (B), (2)(C), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
 
 >     “(a)  __Definition of EBT System__  __.—__ 
 
@@ -829,7 +829,7 @@
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 106–171, § 2][/us/pl/106/171/s2], Feb. 11, 2000, [114 Stat. 3][/us/stat/114/3], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (D), (2)(F), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (D), (2)(F), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that: 
+[Pub. L. 106–171][/us/pl/106/171], § 2, Feb. 11, 2000, [114 Stat. 3][/us/stat/114/3], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (D), (2)(F), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(F), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that: 
 
 > “The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and [section 2011 of this title][/us/usc/t7/s2011]\] are—
 
@@ -843,13 +843,13 @@
 
  __Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits__ 
 
-[Pub. L. 106–171, § 4][/us/pl/106/171/s4], Feb. 11, 2000, [114 Stat. 6][/us/stat/114/6], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (D), (2)(F), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that: 
+[Pub. L. 106–171][/us/pl/106/171], § 4, Feb. 11, 2000, [114 Stat. 6][/us/stat/114/6], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (D), (2)(F), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Feb. 11, 2000\], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits benefits \[sic\] provided under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) \[now 7(j)(1)\] of that Act \[[7 U.S.C. 2016(j)(1)][/us/usc/t7/s2016/j/1]\] (as added by section 3)).”
 
  __Suspension of Staggered Issuance of Food Stamp Coupons__ 
 
-    [Pub. L. 102–237, title IX, § 908(a)(1)][/us/pl/102/237/s908/a/1], Dec. 13, 1991, [105 Stat. 1886][/us/stat/105/1886], as amended by [Pub. L. 103–11, § 1][/us/pl/103/11/s1], Apr. 1, 1993, [107 Stat. 41][/us/stat/107/41]; [Pub. L. 103–205, § 1][/us/pl/103/205/s1], Dec. 17, 1993, [107 Stat. 2418][/us/stat/107/2418], provided that no State agency be required to implement [7 U.S.C. 2016(h)(1)][/us/usc/t7/s2016/h/1], regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by [Pub. L. 103–225, title I, § 104(a)][/us/pl/103/225/s104/a], Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107].
+    [Pub. L. 102–237, title IX][/us/pl/102/237/tIX], § 908(a)(1), Dec. 13, 1991, [105 Stat. 1886][/us/stat/105/1886], as amended by [Pub. L. 103–11][/us/pl/103/11], § 1, Apr. 1, 1993, [107 Stat. 41][/us/stat/107/41]; [Pub. L. 103–205][/us/pl/103/205], § 1, Dec. 17, 1993, [107 Stat. 2418][/us/stat/107/2418], provided that no State agency be required to implement [7 U.S.C. 2016(h)(1)][/us/usc/t7/s2016/h/1], regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by [Pub. L. 103–225, title I][/us/pl/103/225/tI], § 104(a), Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107].
 
  __Food Stamp Coupons, Cost Increase Suspension__ 
 
@@ -875,121 +875,121 @@
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
 [/us/usc/t7/s2026/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2026%2Ff
-[/us/pl/88/525/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs7
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F705
-[/us/pl/91/671/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671%2Fs5
+[/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
 [/us/stat/84/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2050
-[/us/pl/93/86/s3/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs3%2Fm
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F248
-[/us/pl/93/125/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fk
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/stat/87/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F450
-[/us/pl/94/339/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F339%2Fs2
+[/us/pl/94/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F339
 [/us/stat/90/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F799
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F967
-[/us/pl/97/98/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1312
+[/us/pl/97/98/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIII
 [/us/stat/95/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1285
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtI
 [/us/stat/96/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F778
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1578
-[/us/pl/100/435/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs203%2Fb
+[/us/pl/100/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtII
 [/us/stat/102/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1657
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3788
-[/us/pl/103/225/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2Fs102
+[/us/pl/103/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2FtI
 [/us/stat/108/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F107
-[/us/pl/104/193/s825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2324
-[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
+[/us/pl/105/18/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVII
 [/us/stat/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F216
-[/us/pl/106/171/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171%2Fs3
+[/us/pl/106/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171
 [/us/stat/114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3
-[/us/pl/107/171/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4110
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F309
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s1075/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1075%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2074
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F783
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4011/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4011%2Fb%2F2%2FA
-[/us/pl/113/79/s4002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fb%2F1
-[/us/pl/113/79/s4002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fb%2F2
-[/us/pl/113/79/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fc
-[/us/pl/113/79/s4002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fd
-[/us/pl/113/79/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4010
-[/us/pl/113/79/s4030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fe
-[/us/pl/113/79/s4011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4011%2Fa
-[/us/pl/113/79/s4011/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4011%2Fb%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1693b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693b
-[/us/pl/110/246/s4115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F1
-[/us/pl/110/246/s4115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F1
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F2
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F3
-[/us/pl/110/246/s4115/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F4
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4115/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F5
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4115/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F6
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2020/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F20
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4115/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F7
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4115/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F8
-[/us/pl/110/246/s4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4113
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4002/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F4%2FA%2Fi
-[/us/pl/110/246/s4002/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F4%2FA%2Fii
-[/us/pl/110/246/s4115/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F9
-[/us/pl/110/246/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4114
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F10%2FA
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F10%2FB
-[/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
-[/us/pl/110/246/s4115/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F11%2FC
-[/us/pl/110/246/s4115/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F11%2FA
-[/us/pl/110/246/s4115/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F11%2FB
-[/us/pl/110/246/s4115/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F11%2FA
-[/us/pl/110/246/s4002/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F4%2FB%2Fi
-[/us/pl/110/246/s4002/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F4%2FB%2Fii
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171
-[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
-[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
-[/us/pl/104/193/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F1
-[/us/pl/104/193/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F1
+[/us/pl/105/18/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVII
+[/us/pl/105/18/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVII
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s2017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2017%2Fa
-[/us/pl/104/193/s825/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F2%2FA
-[/us/pl/104/193/s825/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F2%2FB
-[/us/pl/104/193/s825/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F2%2FC
-[/us/pl/104/193/s825/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F2%2FD
-[/us/pl/104/193/s825/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs825%2Fa%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/103/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225
-[/us/pl/101/624/s1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1728
-[/us/pl/101/624/s1729/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1729%2Fa
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
-[/us/pl/99/198/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1519
-[/us/pl/99/198/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1518
-[/us/pl/97/253/s190/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs190%2Fc%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/usc/t7/s2020/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F20
 [/us/usc/t7/s2020/e/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F21
-[/us/pl/97/253/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs162
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t7/s2020/e/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F21
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
@@ -1035,42 +1035,42 @@
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1338
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
-[/us/pl/113/79/s4011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4011%2Fc
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F793
 [/us/usc/t7/s2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2019
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/107/171/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4111
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F309
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/106/171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171%2Fs2
+[/us/pl/106/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171
 [/us/stat/114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/106/171/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171%2Fs4
+[/us/pl/106/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F171
 [/us/stat/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F6
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s2016/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fj%2F1
-[/us/pl/102/237/s908/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs908%2Fa%2F1
+[/us/pl/102/237/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIX
 [/us/stat/105/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1886
-[/us/pl/103/11/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F11%2Fs1
+[/us/pl/103/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F11
 [/us/stat/107/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F41
-[/us/pl/103/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F205%2Fs1
+[/us/pl/103/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F205
 [/us/stat/107/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2418
 [/us/usc/t7/s2016/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fh%2F1
-[/us/pl/103/225/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2Fs104%2Fa
+[/us/pl/103/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2FtI
 [/us/stat/108/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F107
 [/us/pl/94/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F4
 [/us/stat/89/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F6

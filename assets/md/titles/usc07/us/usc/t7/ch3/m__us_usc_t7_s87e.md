@@ -79,23 +79,23 @@
 
         The Secretary may extend appropriate courtesies to official representatives of foreign countries in order to establish and maintain relationships to carry out the policy stated in [section 74 of this title][/us/usc/t7/s74]. No gift offered or accepted pursuant to this subsection shall exceed $20 in value.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 16, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 94–582, § 18][/us/pl/94/582/s18], Oct. 21, 1976, [90 Stat. 2884][/us/stat/90/2884]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(k), 1606(i), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1030; [Pub. L. 102–237, title X, § 1007(2)][/us/pl/102/237/s1007/2], Dec. 13, 1991, [105 Stat. 1897][/us/stat/105/1897]; [Pub. L. 103–156, § 9][/us/pl/103/156/s9], Nov. 24, 1993, [107 Stat. 1527][/us/stat/107/1527]; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 16, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 94–582][/us/pl/94/582], § 18, Oct. 21, 1976, [90 Stat. 2884][/us/stat/90/2884]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1604(k), 1606(i), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1030; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1007(2), Dec. 13, 1991, [105 Stat. 1897][/us/stat/105/1897]; [Pub. L. 103–156][/us/pl/103/156], § 9, Nov. 24, 1993, [107 Stat. 1527][/us/stat/107/1527]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
     1994—Subsecs. (a) to (c), (e) to (i), (k). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1993—Subsec. (b). [Pub. L. 103–156, § 9(1)][/us/pl/103/156/s9/1], struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
+    1993—Subsec. (b). [Pub. L. 103–156][/us/pl/103/156], § 9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
 
-    Subsecs. (g) to (k). [Pub. L. 103–156, § 9(2)][/us/pl/103/156/s9/2], added subsecs. (g) to (k).
+    Subsecs. (g) to (k). [Pub. L. 103–156][/us/pl/103/156], § 9(2), added subsecs. (g) to (k).
 
     1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237] substituted “Administrator” for “Administrtor” at end of second sentence.
 
-    1977—Subsec. (a). [Pub. L. 95–113, § 1604(k)(1)][/us/pl/95/113/s1604/k/1], rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
+    1977—Subsec. (a). [Pub. L. 95–113][/us/pl/95/113], § 1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
 
-    Subsec. (b). [Pub. L. 95–113, § 1606(i)][/us/pl/95/113/s1606/i], substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+    Subsec. (b). [Pub. L. 95–113][/us/pl/95/113], § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-    Subsec. (f). [Pub. L. 95–113, § 1604(k)(2)][/us/pl/95/113/s1604/k/2], struck out “additional” before “inspection and weighing requirements”.
+    Subsec. (f). [Pub. L. 95–113][/us/pl/95/113], § 1604(k)(2), struck out “additional” before “inspection and weighing requirements”.
 
     1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582] substituted authorizations of “Administrator” for authorizations of “Secretary”, “official agency” for “official inspection agency”, and “other person” for “any person” respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to [section 86 of this title][/us/usc/t7/s86], including proceedings for refusal of official inspection service not required by [section 77 of this title][/us/usc/t7/s77], as not being subject to administrative procedure provisions.
 
@@ -131,25 +131,25 @@
 [/us/usc/t7/s79/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79%2Fj
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F768
-[/us/pl/94/582/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs18
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2884
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1029
-[/us/pl/102/237/s1007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1007%2F2
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1897
-[/us/pl/103/156/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs9
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1527
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs9%2F1
-[/us/pl/103/156/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs9%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/95/113/s1604/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fk%2F1
-[/us/pl/95/113/s1606/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fi
-[/us/pl/95/113/s1604/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fk%2F2
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs86
 [/us/usc/t7/s77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs77

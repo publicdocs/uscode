@@ -21,11 +21,11 @@
 
     (b) The term “regulatory function” means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.
 
-([Apr. 4, 1940, ch. 75, § 1][/us/act/1940-04-04/ch75/s1], [54 Stat. 81][/us/stat/54/81].)
+([Apr. 4, 1940, ch. 75][/us/act/1940-04-04/ch75], § 1, [54 Stat. 81][/us/stat/54/81].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 516a of Title 5][/us/usc/t5/s516a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 516a of Title 5][/us/usc/t5/s516a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1940-04-04/ch75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-04%2Fch75%2Fs1
+[/us/act/1940-04-04/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-04%2Fch75
 [/us/stat/54/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F81
 [/us/usc/t5/s516a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs516a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

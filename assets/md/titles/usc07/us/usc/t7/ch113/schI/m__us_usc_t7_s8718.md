@@ -33,11 +33,11 @@
 
         In carrying out this section, the Secretary shall use the same total base acres, payment acres, and payment yields established with respect to rice under sections 7911 and 7912 of this title, as in effect on September 30, 2007, subject to any adjustment under [section 8711 of this title][/us/usc/t7/s8711].
 
-([Pub. L. 110–234, title I, § 1108][/us/pl/110/234/s1108], May 22, 2008, [122 Stat. 952][/us/stat/122/952]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1681.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1108, May 22, 2008, [122 Stat. 952][/us/stat/122/952]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1681.)
 
  __References in Text__ 
 
-    [Section 8714 of this title][/us/usc/t7/s8714], referred to in subsec. (a), was repealed by [Pub. L. 113–79, title I, § 1102(a)][/us/pl/113/79/s1102/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    [Section 8714 of this title][/us/usc/t7/s8714], referred to in subsec. (a), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1102(a), Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
  __Codification__ 
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t7/s8711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711
-[/us/pl/110/234/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1108
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F952
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8714
-[/us/pl/113/79/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1102%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -143,7 +143,7 @@
 
             (B) the yield determined under subsection (b)(1) or (c)(2) is an unrepresentative average yield for the county, as determined by the Secretary.
 
-([Pub. L. 113–79, title I, § 1117][/us/pl/113/79/s1117], Feb. 7, 2014, [128 Stat. 669][/us/stat/128/669].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1117, Feb. 7, 2014, [128 Stat. 669][/us/stat/128/669].)
 
 ----------
 
@@ -154,7 +154,7 @@
 
 [/us/usc/t7/s9015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9015%2Fa
 [/us/usc/t7/s9014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9014
-[/us/pl/113/79/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1117
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F669
 
 

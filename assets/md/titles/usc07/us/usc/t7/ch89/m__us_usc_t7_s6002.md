@@ -129,7 +129,7 @@
 
         The term “United States” means collectively the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 101–624, title XIX, § 1907][/us/pl/101/624/s1907], Nov. 28, 1990, [104 Stat. 3839][/us/stat/104/3839]; [Pub. L. 102–237, title VIII, § 802(1)][/us/pl/102/237/s802/1], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1907, Nov. 28, 1990, [104 Stat. 3839][/us/stat/104/3839]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 802(1), Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
 
  __Amendments__ 
 
@@ -144,9 +144,9 @@
 
 [/us/usc/t7/s6005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6005%2Fb
 [/us/usc/t7/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6003
-[/us/pl/101/624/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1907
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3839
-[/us/pl/102/237/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs802%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

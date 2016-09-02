@@ -51,7 +51,7 @@
 
         When a decree of condemnation is entered against the pesticide or device, court costs and fees, storage, and other proper expenses shall be awarded against the person, if any, intervening as claimant of the pesticide or device.
 
-([June 25, 1947, ch. 125, § 13][/us/act/1947-06-25/ch125/s13], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 991][/us/stat/86/991]; amended [Pub. L. 100–532, title VIII, § 801(h)][/us/pl/100/532/s801/h], Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 13, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 991][/us/stat/86/991]; amended [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(h), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682].)
 
  __Prior Provisions__ 
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–532, § 801(h)(1)][/us/pl/100/532/s801/h/1], directed that sentence beginning “In the case of” be moved from par. (3) and become a full measure sentence after par. (3).
+    1988—Subsec. (b). [Pub. L. 100–532][/us/pl/100/532], § 801(h)(1), directed that sentence beginning “In the case of” be moved from par. (3) and become a full measure sentence after par. (3).
 
-    Subsec. (c). [Pub. L. 100–532, § 801(h)(2)][/us/pl/100/532/s801/h/2], substituted “sold. On” for “sold: Provided, That upon”.
+    Subsec. (c). [Pub. L. 100–532][/us/pl/100/532], § 801(h)(2), substituted “sold. On” for “sold: Provided, That upon”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -79,15 +79,15 @@
 ----------
 
 [/us/usc/t7/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a
-[/us/act/1947-06-25/ch125/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs13
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F991
-[/us/pl/100/532/s801/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fh
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2682
 [/us/usc/t7/s135k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135k
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/100/532/s801/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fh%2F1
-[/us/pl/100/532/s801/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fh%2F2
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

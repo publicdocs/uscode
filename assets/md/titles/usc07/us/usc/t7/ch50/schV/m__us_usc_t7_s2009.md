@@ -25,7 +25,7 @@
 
         The term “State director” means, with respect to a State, the Director of the Rural Economic and Community Development State Office.
 
-([Pub. L. 87–128, title III, § 381A][/us/pl/87/128/s381A], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1139][/us/stat/110/1139]; amended [Pub. L. 107–171, title VI, § 6020(b)(2)][/us/pl/107/171/s6020/b/2], May 13, 2002, [116 Stat. 363][/us/stat/116/363].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381A, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1139][/us/stat/110/1139]; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6020(b)(2), May 13, 2002, [116 Stat. 363][/us/stat/116/363].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 
  __Definition of Rural Areas for Certain Business and Community Facilities Programs__ 
 
-[Pub. L. 106–78, title VII, § 730][/us/pl/106/78/s730], Oct. 22, 1999, [113 Stat. 1164][/us/stat/113/1164], provided that: 
+[Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 730, Oct. 22, 1999, [113 Stat. 1164][/us/stat/113/1164], provided that: 
 
 > “Notwithstanding section 381A of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2009][/us/usc/t7/s2009]), in fiscal year 2000 and thereafter, the definitions of rural areas for certain business programs administered by the Rural Business-Cooperative Service and the community facilities programs administered by the Rural Housing Service shall be those provided for in statute and regulations prior to the enactment of [Public Law 104–127][/us/pl/104/127] \[Apr. 4, 1996\].”
 
-    Similar provisions were contained in [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 735\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–29, prior to repeal by [Pub. L. 107–171, title VI, § 6020(b)(3)][/us/pl/107/171/s6020/b/3], May 13, 2002, [116 Stat. 363][/us/stat/116/363].
+    Similar provisions were contained in [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 735\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–29, prior to repeal by [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6020(b)(3), May 13, 2002, [116 Stat. 363][/us/stat/116/363].
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -50,20 +50,20 @@
 ----------
 ----------
 
-[/us/pl/87/128/s381A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381A
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1139
-[/us/pl/107/171/s6020/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F2
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s1926/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F7
-[/us/pl/106/78/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs730
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1164
 [/us/usc/t7/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171/s6020/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F3
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

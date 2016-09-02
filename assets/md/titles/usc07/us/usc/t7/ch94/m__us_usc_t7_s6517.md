@@ -93,15 +93,15 @@
 
         No exemption or prohibition contained in the National List shall be valid unless the National Organic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
 
-([Pub. L. 101–624, title XXI, § 2118][/us/pl/101/624/s2118], Nov. 28, 1990, [104 Stat. 3946][/us/stat/104/3946]; [Pub. L. 102–237, title X, § 1001(6)][/us/pl/102/237/s1001/6], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 109–97, title VII, § 797(b)][/us/pl/109/97/s797/b], Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2118, Nov. 28, 1990, [104 Stat. 3946][/us/stat/104/3946]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(6), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 797(b), Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
 
  __Amendments__ 
 
-    2005—Subsec. (c)(1). [Pub. L. 109–97, § 797(b)(1)(A)][/us/pl/109/97/s797/b/1/A], inserted “in organic production and handling operations” after “substances” in heading.
+    2005—Subsec. (c)(1). [Pub. L. 109–97][/us/pl/109/97], § 797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 109–97, § 797(b)(1)(B)][/us/pl/109/97/s797/b/1/B], (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
+    Subsec. (c)(1)(B)(iii). [Pub. L. 109–97][/us/pl/109/97], § 797(b)(1)(B), (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
 
-    Subsec. (d)(6). [Pub. L. 109–97, § 797(b)(2)][/us/pl/109/97/s797/b/2], added par. (6).
+    Subsec. (d)(6). [Pub. L. 109–97][/us/pl/109/97], § 797(b)(2), added par. (6).
 
     1991—Subsec. (c)(1)(B)(i). [Pub. L. 102–237][/us/pl/102/237] substituted “parasiticides” for “paraciticides”.
 
@@ -112,15 +112,15 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2118
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3946
-[/us/pl/102/237/s1001/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F6
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/109/97/s797/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fb
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2165
-[/us/pl/109/97/s797/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fb%2F1%2FA
-[/us/pl/109/97/s797/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fb%2F1%2FB
-[/us/pl/109/97/s797/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fb%2F2
+[/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
+[/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
+[/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

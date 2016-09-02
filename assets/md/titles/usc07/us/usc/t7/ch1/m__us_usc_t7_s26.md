@@ -345,11 +345,11 @@
 
             No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
 
-([Sept. 21, 1922, ch. 369, § 23][/us/act/1922-09-21/ch369/s23], as added [Pub. L. 111–203, title VII, § 748][/us/pl/111/203/s748], July 21, 2010, [124 Stat. 1739][/us/stat/124/1739].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 23, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 748, July 21, 2010, [124 Stat. 1739][/us/stat/124/1739].)
 
  __Prior Provisions__ 
 
-    A prior section 26, [act Sept. 21, 1922, ch. 369, § 23][/us/act/1922-09-21/ch369/s23], as added Jan. 11, 1983, [Pub. L. 97–444, title II, § 236][/us/pl/97/444/s236], [96 Stat. 2324][/us/stat/96/2324], provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by [Pub. L. 102–546, title IV, § 402(15)][/us/pl/102/546/s402/15], Oct. 28, 1992, [106 Stat. 3625][/us/stat/106/3625].
+    A prior section 26, [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 23, as added Jan. 11, 1983, [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 236, [96 Stat. 2324][/us/stat/96/2324], provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by [Pub. L. 102–546, title IV][/us/pl/102/546/tIV], § 402(15), Oct. 28, 1992, [106 Stat. 3625][/us/stat/106/3625].
 
  __Effective Date__ 
 
@@ -370,13 +370,13 @@
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/act/1922-09-21/ch369/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs23
-[/us/pl/111/203/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs748
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1739
-[/us/act/1922-09-21/ch369/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs23
-[/us/pl/97/444/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs236
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2324
-[/us/pl/102/546/s402/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F15
+[/us/pl/102/546/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtIV
 [/us/stat/106/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3625
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

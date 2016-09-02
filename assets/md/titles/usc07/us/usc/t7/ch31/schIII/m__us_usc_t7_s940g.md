@@ -27,7 +27,7 @@
 
         The rate of a loan under this section shall be equal to the average tax-exempt municipal bond rate of similar maturities.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 317, as added [Pub. L. 110–234, title VI, § 6108][/us/pl/110/234/s6108], May 22, 2008, [122 Stat. 1198][/us/stat/122/1198], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1959.)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 317, as added [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6108, May 22, 2008, [122 Stat. 1198][/us/stat/122/1198], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1959.)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/110/234/s6108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6108
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1198
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

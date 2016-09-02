@@ -581,17 +581,17 @@
 
             There is authorized to be appropriated to carry out the purposes of this section $12,000,000 for fiscal year 1997, and such sums as may be necessary for succeeding fiscal years.
 
-([June 25, 1947, ch. 125, § 4][/us/act/1947-06-25/ch125/s4], formerly § 3A, as added and renumbered § 4, [Pub. L. 100–532, title I, § 102(a)][/us/pl/100/532/s102/a], title VIII, § 801(q)(2)(A), Oct. 25, 1988, [102 Stat. 2655][/us/stat/102/2655], 2683; amended [Pub. L. 101–624, title XIV, § 1493][/us/pl/101/624/s1493], Nov. 28, 1990, [104 Stat. 3628][/us/stat/104/3628]; [Pub. L. 102–237, title X, § 1006(a)(4)][/us/pl/102/237/s1006/a/4], (e), (f), Dec. 13, 1991, [105 Stat. 1895–1897][/us/stat/105/1895-1897]; [Pub. L. 104–170, title I, § 103][/us/pl/104/170/s103], title II, §§ 210(c)(2), (f)(1), 232, 237, title V, § 501, Aug. 3, 1996, [110 Stat. 1490][/us/stat/110/1490], 1496, 1498, 1508, 1509, 1536; [Pub. L. 107–73, title III][/us/pl/107/73], \[(1)–(4)\], Nov. 26, 2001, [115 Stat. 686][/us/stat/115/686]; [Pub. L. 108–7, div. K, title III][/us/pl/108/7], \[(1)–(4)\], Feb. 20, 2003, [117 Stat. 513][/us/stat/117/513]; [Pub. L. 108–199, div. G, title V, § 501(c)][/us/pl/108/199/s501/c], (d)(1), (e), Jan. 23, 2004, [118 Stat. 419][/us/stat/118/419], 422; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–94, § 4(a)][/us/pl/110/94/s4/a]–(d)(1), (e), Oct. 9, 2007, [121 Stat. 1001][/us/stat/121/1001], 1002; [Pub. L. 112–177, § 2(a)(1)][/us/pl/112/177/s2/a/1], (2)(A), (4), Sept. 28, 2012, [126 Stat. 1327][/us/stat/126/1327], 1329.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 4, formerly § 3A, as added and renumbered § 4, [Pub. L. 100–532, title I][/us/pl/100/532/tI], § 102(a), title VIII, § 801(q)(2)(A), Oct. 25, 1988, [102 Stat. 2655][/us/stat/102/2655], 2683; amended [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1493, Nov. 28, 1990, [104 Stat. 3628][/us/stat/104/3628]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(4), (e), (f), Dec. 13, 1991, [105 Stat. 1895–1897][/us/stat/105/1895-1897]; [Pub. L. 104–170, title I][/us/pl/104/170/tI], § 103, title II, §§ 210(c)(2), (f)(1), 232, 237, title V, § 501, Aug. 3, 1996, [110 Stat. 1490][/us/stat/110/1490], 1496, 1498, 1508, 1509, 1536; [Pub. L. 107–73, title III][/us/pl/107/73/tIII], \[(1)–(4)\], Nov. 26, 2001, [115 Stat. 686][/us/stat/115/686]; [Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], \[(1)–(4)\], Feb. 20, 2003, [117 Stat. 513][/us/stat/117/513]; [Pub. L. 108–199, div. G, title V][/us/pl/108/199/dG/tV], § 501(c), (d)(1), (e), Jan. 23, 2004, [118 Stat. 419][/us/stat/118/419], 422; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–94][/us/pl/110/94], § 4(a)–(d)(1), (e), Oct. 9, 2007, [121 Stat. 1001][/us/stat/121/1001], 1002; [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1), (2)(A), (4), Sept. 28, 2012, [126 Stat. 1327][/us/stat/126/1327], 1329.)
 
  __References in Text__ 
 
     The effective date of this section, referred to in subsecs. (a), (c)(1), (2), and (e)(4)(A), is 60 days after Oct. 25, 1988. See Effective Date note below.
 
-    [Section 136a(c)(1)(D) of this title][/us/usc/t7/s136a/c/1/D], referred to in subsecs. (e)(1)(I) and (h), was redesignated [section 136a(c)(1)(F) of this title][/us/usc/t7/s136a/c/1/F] by [Pub. L. 102–237, title X, § 1006(a)(3)(B)][/us/pl/102/237/s1006/a/3/B], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].
+    [Section 136a(c)(1)(D) of this title][/us/usc/t7/s136a/c/1/D], referred to in subsecs. (e)(1)(I) and (h), was redesignated [section 136a(c)(1)(F) of this title][/us/usc/t7/s136a/c/1/F] by [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(3)(B), Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(A)(1), (E)(ii), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    Subsection (i)(1)(C)(ii) of this section, referred to in subsec. (k)(6), was previously a reference to subsec. (i)(5)(C)(ii), which was repealed and a new subsec. (i)(5)(C)(ii) was added by [Pub. L. 108–199, § 501(c)(2)][/us/pl/108/199/s501/c/2]. Subsec. (i)(5)(C) was amended by [Pub. L. 110–94, § 4(a)][/us/pl/110/94/s4/a], and, as so amended, related to fees but no longer contained a cl. (ii). Subsec. (i)(5) was redesignated (i)(1) by [Pub. L. 112–177, § 2(a)(1)(C)][/us/pl/112/177/s2/a/1/C].
+    Subsection (i)(1)(C)(ii) of this section, referred to in subsec. (k)(6), was previously a reference to subsec. (i)(5)(C)(ii), which was repealed and a new subsec. (i)(5)(C)(ii) was added by [Pub. L. 108–199][/us/pl/108/199], § 501(c)(2). Subsec. (i)(5)(C) was amended by [Pub. L. 110–94][/us/pl/110/94], § 4(a), and, as so amended, related to fees but no longer contained a cl. (ii). Subsec. (i)(5) was redesignated (i)(1) by [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(C).
 
     The Public Health Service Act, referred to in subsec. (n)(6), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
@@ -603,53 +603,53 @@
 
  __Amendments__ 
 
-    2012—Subsec. (d)(5)(B)(ii)(III). [Pub. L. 112–177, § 2(a)(2)(A)(i)][/us/pl/112/177/s2/a/2/A/i], substituted “this section” for “subsection (i)(1)”.
+    2012—Subsec. (d)(5)(B)(ii)(III). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(A)(i), substituted “this section” for “subsection (i)(1)”.
 
-    Subsec. (i)(1) to (4). [Pub. L. 112–177, § 2(a)(1)(C)][/us/pl/112/177/s2/a/1/C], (D), redesignated pars. (5) and (6) as (1) and (2), respectively, and struck out former pars. (1) to (4) which related to initial fee for food or feed use pesticide active ingredients, final fee for food or feed use pesticide active ingredients, fees for other pesticide active ingredients, and reduction or waiver of fees for minor use and other pesticides, respectively.
+    Subsec. (i)(1) to (4). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(C), (D), redesignated pars. (5) and (6) as (1) and (2), respectively, and struck out former pars. (1) to (4) which related to initial fee for food or feed use pesticide active ingredients, final fee for food or feed use pesticide active ingredients, fees for other pesticide active ingredients, and reduction or waiver of fees for minor use and other pesticides, respectively.
 
-    Subsec. (i)(5). [Pub. L. 112–177, § 2(a)(1)(D)][/us/pl/112/177/s2/a/1/D], redesignated par. (5) as (1).
+    Subsec. (i)(5). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(D), redesignated par. (5) as (1).
 
-    Subsec. (i)(5)(C). [Pub. L. 112–177, § 2(a)(1)(A)(i)][/us/pl/112/177/s2/a/1/A/i], substituted “aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017.” for “aggregate amount of $22,000,000 for each of fiscal years 2008 through 2012”.
+    Subsec. (i)(5)(C). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(i), substituted “aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017.” for “aggregate amount of $22,000,000 for each of fiscal years 2008 through 2012”.
 
-    Subsec. (i)(5)(D)(i). [Pub. L. 112–177, § 2(a)(1)(A)(ii)(I)][/us/pl/112/177/s2/a/1/A/ii/I], substituted “shall be $115,500 for each of fiscal years 2013 through 2017;” for “shall be $71,000 for each of fiscal years 2008 through 2012;”.
+    Subsec. (i)(5)(D)(i). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(ii)(I), substituted “shall be $115,500 for each of fiscal years 2013 through 2017;” for “shall be $71,000 for each of fiscal years 2008 through 2012;”.
 
-    Subsec. (i)(5)(D)(ii). [Pub. L. 112–177, § 2(a)(1)(A)(ii)(II)][/us/pl/112/177/s2/a/1/A/ii/II], substituted “shall be $184,800 for each of fiscal years 2013 through 2017.” for “shall be $123,000 for each of fiscal years 2008 through 2012.”
+    Subsec. (i)(5)(D)(ii). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(ii)(II), substituted “shall be $184,800 for each of fiscal years 2013 through 2017.” for “shall be $123,000 for each of fiscal years 2008 through 2012.”
 
-    Subsec. (i)(5)(E)(i)(I). [Pub. L. 112–177, § 2(a)(1)(A)(iii)(I)][/us/pl/112/177/s2/a/1/A/iii/I], substituted “shall be $70,600 for each of fiscal years 2013 through 2017;” for “shall be $50,000 for each of fiscal years 2008 through 2012;”.
+    Subsec. (i)(5)(E)(i)(I). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(iii)(I), substituted “shall be $70,600 for each of fiscal years 2013 through 2017;” for “shall be $50,000 for each of fiscal years 2008 through 2012;”.
 
-    Subsec. (i)(5)(E)(i)(II). [Pub. L. 112–177, § 2(a)(1)(A)(iii)(II)][/us/pl/112/177/s2/a/1/A/iii/II], substituted “shall be $122,100 for each of fiscal years 2013 through 2017.” for “shall be $86,000 for each of fiscal years 2008 through 2012.”
+    Subsec. (i)(5)(E)(i)(II). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(iii)(II), substituted “shall be $122,100 for each of fiscal years 2013 through 2017.” for “shall be $86,000 for each of fiscal years 2008 through 2012.”
 
-    Subsec. (i)(5)(F). [Pub. L. 112–177, § 2(a)(1)(A)(vi)][/us/pl/112/177/s2/a/1/A/vi], added subpar. (F). Former subpar. (F) redesignated (G).
+    Subsec. (i)(5)(F). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(vi), added subpar. (F). Former subpar. (F) redesignated (G).
 
-    [Pub. L. 112–177, § 2(a)(1)(A)(iv)][/us/pl/112/177/s2/a/1/A/iv], substituted “this paragraph” for “paragraph (3)” and “Human” for “Humans”.
+    [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(iv), substituted “this paragraph” for “paragraph (3)” and “Human” for “Humans”.
 
-    Subsec. (i)(5)(G), (H). [Pub. L. 112–177, § 2(a)(1)(A)(v)][/us/pl/112/177/s2/a/1/A/v], redesignated subpars. (F) and (G) as (G) and (H), respectively.
+    Subsec. (i)(5)(G), (H). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(v), redesignated subpars. (F) and (G) as (G) and (H), respectively.
 
-    Subsec. (i)(5)(I). [Pub. L. 112–177, § 2(a)(1)(A)(v)][/us/pl/112/177/s2/a/1/A/v], (vii), redesignated subpar. (H) as (I) and substituted “2017” for “2012”.
+    Subsec. (i)(5)(I). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(A)(v), (vii), redesignated subpar. (H) as (I) and substituted “2017” for “2012”.
 
-    Subsec. (i)(6). [Pub. L. 112–177, § 2(a)(1)(D)][/us/pl/112/177/s2/a/1/D], redesignated par. (6) as (2).
+    Subsec. (i)(6). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(D), redesignated par. (6) as (2).
 
-    [Pub. L. 112–177, § 2(a)(1)(B)][/us/pl/112/177/s2/a/1/B], substituted “2019” for “2014” and “paragraph (1)” for “paragraphs (1) through (5)”.
+    [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(B), substituted “2019” for “2014” and “paragraph (1)” for “paragraphs (1) through (5)”.
 
-    Subsec. (i)(7). [Pub. L. 112–177, § 2(a)(1)(C)][/us/pl/112/177/s2/a/1/C], struck out par. (7) which related to apportionment of certain fees among registrants of pesticides.
+    Subsec. (i)(7). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(1)(C), struck out par. (7) which related to apportionment of certain fees among registrants of pesticides.
 
-    Subsec. (j). [Pub. L. 112–177, § 2(a)(2)(A)(ii)][/us/pl/112/177/s2/a/2/A/ii], substituted “subsection (i)(1)” for “subsection (i)(5)”.
+    Subsec. (j). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(A)(ii), substituted “subsection (i)(1)” for “subsection (i)(5)”.
 
-    Subsec. (k)(2)(A). [Pub. L. 112–177, § 2(a)(4)(A)(i)][/us/pl/112/177/s2/a/4/A/i], inserted “, to enhance the information systems capabilities to improve the tracking of pesticide registration decisions,” after “paragraph (3)” wherever appearing.
+    Subsec. (k)(2)(A). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(A)(i), inserted “, to enhance the information systems capabilities to improve the tracking of pesticide registration decisions,” after “paragraph (3)” wherever appearing.
 
-    Subsec. (k)(2)(A)(i). [Pub. L. 112–177, § 2(a)(4)(A)(ii)][/us/pl/112/177/s2/a/4/A/ii], inserted “offset” before “the costs of reregistration” and struck out “in the same portion as appropriated funds” before semicolon at end.
+    Subsec. (k)(2)(A)(i). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(A)(ii), inserted “offset” before “the costs of reregistration” and struck out “in the same portion as appropriated funds” before semicolon at end.
 
-    Subsec. (k)(3)(A). [Pub. L. 112–177, § 2(a)(4)(B)][/us/pl/112/177/s2/a/4/B], in introductory provisions, substituted “2013 through 2017, between ⅑ and ⅛” for “2008 through 2012, between ⅛ and ⅐”; in cl. (i), struck out “new” before “inert”; and, in cl. (ii), substituted “any application that—” for “any application that—”.
+    Subsec. (k)(3)(A). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(B), in introductory provisions, substituted “2013 through 2017, between ⅑ and ⅛” for “2008 through 2012, between ⅛ and ⅐”; in cl. (i), struck out “new” before “inert”; and, in cl. (ii), substituted “any application that—” for “any application that—”.
 
-    Subsec. (k)(4). [Pub. L. 112–177, § 2(a)(4)(C)(ii)][/us/pl/112/177/s2/a/4/C/ii], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (k)(4). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(C)(ii), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (k)(5). [Pub. L. 112–177, § 2(a)(4)(C)(i)][/us/pl/112/177/s2/a/4/C/i], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (k)(5). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(C)(i), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 112–177, § 2(a)(2)(A)(iii)][/us/pl/112/177/s2/a/2/A/iii], substituted “subsection (i)(1)(C)(ii)” for “subsection (i)(5)(C)(ii)” and “subsection (i)(1)(C)” for “subsection (i)(5)(C)” in two places.
+    [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(A)(iii), substituted “subsection (i)(1)(C)(ii)” for “subsection (i)(5)(C)(ii)” and “subsection (i)(1)(C)” for “subsection (i)(5)(C)” in two places.
 
-    Subsec. (k)(6). [Pub. L. 112–177, § 2(a)(4)(C)(i)][/us/pl/112/177/s2/a/4/C/i], (iii), redesignated par. (5) as (6) and substituted “for the purposes described in paragraphs (2), (3), and (4) and to carry out the goals established under subsection (l)” for “to carry out the goals established under subsection (l)”.
+    Subsec. (k)(6). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(4)(C)(i), (iii), redesignated par. (5) as (6) and substituted “for the purposes described in paragraphs (2), (3), and (4) and to carry out the goals established under subsection (l)” for “to carry out the goals established under subsection (l)”.
 
-    2007—Subsec. (i)(5)(C). [Pub. L. 110–94, § 4(a)][/us/pl/110/94/s4/a], which directed substitution of “amount of $22,000,000 for each of fiscal years 2008 through 2012” for “amount of” and all that follows through the end of clause (v), was executed by making the substitution for “amount of—
+    2007—Subsec. (i)(5)(C). [Pub. L. 110–94][/us/pl/110/94], § 4(a), which directed substitution of “amount of $22,000,000 for each of fiscal years 2008 through 2012” for “amount of” and all that follows through the end of clause (v), was executed by making the substitution for “amount of—
 
     “(i) for fiscal year 2004, $26,000,000;
 
@@ -663,7 +663,7 @@
 
     to reflect the probable intent of Congress. The words “amount of” appeared in the heading and twice in the text.
 
-    Subsec. (i)(5)(D)(i). [Pub. L. 110–94, § 4(b)(1)(A)][/us/pl/110/94/s4/b/1/A], substituted “shall be $71,000 for each of fiscal years 2008 through 2012; and” for “shall be—
+    Subsec. (i)(5)(D)(i). [Pub. L. 110–94][/us/pl/110/94], § 4(b)(1)(A), substituted “shall be $71,000 for each of fiscal years 2008 through 2012; and” for “shall be—
 
     “(I) for fiscal year 2004, $84,000;
 
@@ -673,7 +673,7 @@
 
     “(IV) for fiscal year 2008, $55,000; and”.
 
-    Subsec. (i)(5)(D)(ii). [Pub. L. 110–94, § 4(b)(1)(B)][/us/pl/110/94/s4/b/1/B], substituted “shall be $123,000 for each of fiscal years 2008 through 2012.” for “shall be—
+    Subsec. (i)(5)(D)(ii). [Pub. L. 110–94][/us/pl/110/94], § 4(b)(1)(B), substituted “shall be $123,000 for each of fiscal years 2008 through 2012.” for “shall be—
 
     “(I) for fiscal year 2004, $145,000;
 
@@ -683,7 +683,7 @@
 
     “(IV) for fiscal year 2008, $95,000.”
 
-    Subsec. (i)(5)(E)(i)(I). [Pub. L. 110–94, § 4(b)(2)(A)][/us/pl/110/94/s4/b/2/A], substituted “shall be $50,000 for each of fiscal years 2008 through 2012; and” for “shall be—
+    Subsec. (i)(5)(E)(i)(I). [Pub. L. 110–94][/us/pl/110/94], § 4(b)(2)(A), substituted “shall be $50,000 for each of fiscal years 2008 through 2012; and” for “shall be—
 
     “(aa) for fiscal year 2004, $59,000;
 
@@ -693,7 +693,7 @@
 
     “(dd) for fiscal year 2008, $38,500; and”.
 
-    Subsec. (i)(5)(E)(i)(II). [Pub. L. 110–94, § 4(b)(2)(B)][/us/pl/110/94/s4/b/2/B], substituted “shall be $86,000 for each of fiscal years 2008 through 2012.” for “shall be—
+    Subsec. (i)(5)(E)(i)(II). [Pub. L. 110–94][/us/pl/110/94], § 4(b)(2)(B), substituted “shall be $86,000 for each of fiscal years 2008 through 2012.” for “shall be—
 
     “(aa) for fiscal year 2004, $102,000;
 
@@ -703,43 +703,43 @@
 
     “(dd) for fiscal year 2008, $66,500.”
 
-    Subsec. (i)(5)(H). [Pub. L. 110–94, § 4(c)][/us/pl/110/94/s4/c], substituted “2012.” for “2008”.
+    Subsec. (i)(5)(H). [Pub. L. 110–94][/us/pl/110/94], § 4(c), substituted “2012.” for “2008”.
 
-    Subsec. (i)(6). [Pub. L. 110–94, § 4(d)(1)][/us/pl/110/94/s4/d/1], substituted “2014” for “2010”.
+    Subsec. (i)(6). [Pub. L. 110–94][/us/pl/110/94], § 4(d)(1), substituted “2014” for “2010”.
 
-    Subsec. (k)(2)(A). [Pub. L. 110–94, § 4(e)(1)][/us/pl/110/94/s4/e/1], inserted “and to offset the costs of registration review under [section 136a(g) of this title][/us/usc/t7/s136a/g]” after “paragraph (3)” wherever appearing.
+    Subsec. (k)(2)(A). [Pub. L. 110–94][/us/pl/110/94], § 4(e)(1), inserted “and to offset the costs of registration review under [section 136a(g) of this title][/us/usc/t7/s136a/g]” after “paragraph (3)” wherever appearing.
 
-    Subsec. (k)(3)(A). [Pub. L. 110–94, § 4(e)(2)][/us/pl/110/94/s4/e/2], substituted “2008 through 2012” for “2007 and 2008”.
+    Subsec. (k)(3)(A). [Pub. L. 110–94][/us/pl/110/94], § 4(e)(2), substituted “2008 through 2012” for “2007 and 2008”.
 
-    2004—Subsec. (g)(2)(A). [Pub. L. 108–199, § 501(c)(5)(A)][/us/pl/108/199/s501/c/5/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “Within 1 year after the submission of all data concerning an active ingredient of a pesticide under subsection (f) of this section, the Administrator shall determine whether pesticides containing such active ingredient are eligible for reregistration. For extraordinary circumstances, the Administrator may extend such period for not more than 1 additional year.”
+    2004—Subsec. (g)(2)(A). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Within 1 year after the submission of all data concerning an active ingredient of a pesticide under subsection (f) of this section, the Administrator shall determine whether pesticides containing such active ingredient are eligible for reregistration. For extraordinary circumstances, the Administrator may extend such period for not more than 1 additional year.”
 
-    Subsec. (g)(2)(B). [Pub. L. 108–199, § 501(c)(5)(B)][/us/pl/108/199/s501/c/5/B], inserted subpar. (B) and cl. (i) headings, designated first sentence of existing provisions as cl. (i), inserted cl. (ii) and subcl. (I) headings, designated second sentence of existing provisions as cl. (ii)(I), substituted “Subject to subclause (II), the Administrator” for “The Administrator” in subcl. (I), and added subcl. (II).
+    Subsec. (g)(2)(B). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(5)(B), inserted subpar. (B) and cl. (i) headings, designated first sentence of existing provisions as cl. (i), inserted cl. (ii) and subcl. (I) headings, designated second sentence of existing provisions as cl. (ii)(I), substituted “Subject to subclause (II), the Administrator” for “The Administrator” in subcl. (I), and added subcl. (II).
 
-    Subsec. (g)(2)(D). [Pub. L. 108–199, § 501(c)(5)(C)][/us/pl/108/199/s501/c/5/C], inserted subpar. (D) and cl. (i) headings, designated existing provisions as cl. (i), and added cl. (ii).
+    Subsec. (g)(2)(D). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(5)(C), inserted subpar. (D) and cl. (i) headings, designated existing provisions as cl. (i), and added cl. (ii).
 
-    Subsec. (i)(5)(A). [Pub. L. 108–199, § 501(c)(1)(A)][/us/pl/108/199/s501/c/1/A], inserted subpar. (A) heading and substituted “for each registration” for “of—
+    Subsec. (i)(5)(A). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(1)(A), inserted subpar. (A) heading and substituted “for each registration” for “of—
 
     “(i) $650 for the first registration; and
 
     “(ii) $1,300 for each additional registration”.
 
-    Subsec. (i)(5)(C). [Pub. L. 108–199, § 501(c)(2)][/us/pl/108/199/s501/c/2], struck out cl. (i) designation before “The amount of each”, inserted subpar. (C) heading, substituted “aggregate amount of—” for “aggregate amount of $21,500,000 for fiscal year 2003.”, added cls. (i) to (v), and struck out former cl. (ii), which related to collection of additional fees in fiscal years 1998, 1999, and 2000.
+    Subsec. (i)(5)(C). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(2), struck out cl. (i) designation before “The amount of each”, inserted subpar. (C) heading, substituted “aggregate amount of—” for “aggregate amount of $21,500,000 for fiscal year 2003.”, added cls. (i) to (v), and struck out former cl. (ii), which related to collection of additional fees in fiscal years 1998, 1999, and 2000.
 
-    Subsec. (i)(5)(D). [Pub. L. 108–199, § 501(c)(1)(B)][/us/pl/108/199/s501/c/1/B], inserted subpar. (D) heading, substituted “shall be—” for “shall be $55,000; and” and added subcls. (I) to (IV) in cl. (i), and substituted “shall be—” for “shall be $95,000.” and added subcls. (I) to (IV) in cl. (ii).
+    Subsec. (i)(5)(D). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(1)(B), inserted subpar. (D) heading, substituted “shall be—” for “shall be $55,000; and” and added subcls. (I) to (IV) in cl. (i), and substituted “shall be—” for “shall be $95,000.” and added subcls. (I) to (IV) in cl. (ii).
 
-    Subsec. (i)(5)(E)(i). [Pub. L. 108–199, § 501(c)(1)(C)][/us/pl/108/199/s501/c/1/C], inserted subpar. (E) and cl. (i) headings, realigned margins of subcls. (I) and (II), substituted “shall be—” for “shall be $38,500; and” and inserted items (aa) to (dd) in subcl. (I), and substituted “shall be—” for “shall be $66,500.” and inserted items (aa) to (dd) in subcl. (II).
+    Subsec. (i)(5)(E)(i). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(1)(C), inserted subpar. (E) and cl. (i) headings, realigned margins of subcls. (I) and (II), substituted “shall be—” for “shall be $38,500; and” and inserted items (aa) to (dd) in subcl. (I), and substituted “shall be—” for “shall be $66,500.” and inserted items (aa) to (dd) in subcl. (II).
 
-    Subsec. (i)(5)(E)(ii). [Pub. L. 108–199, § 501(c)(3)][/us/pl/108/199/s501/c/3], inserted cl. (ii) heading, redesignated existing provisions as subcl. (I), inserted subcl. (I) heading, substituted “In” for “For purposes of” in subcl. (I), redesignated former subcls. (I) and (II) as items (aa) and (bb) respectively, and realigned margins, substituted “500” for “150” in item (aa), substituted “global gross revenue from pesticides that did not exceed $60,000,000.” for “gross revenue from chemicals that did not exceed $40,000,000.” in item (bb), and added subcl. (II).
+    Subsec. (i)(5)(E)(ii). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(3), inserted cl. (ii) heading, redesignated existing provisions as subcl. (I), inserted subcl. (I) heading, substituted “In” for “For purposes of” in subcl. (I), redesignated former subcls. (I) and (II) as items (aa) and (bb) respectively, and realigned margins, substituted “500” for “150” in item (aa), substituted “global gross revenue from pesticides that did not exceed $60,000,000.” for “gross revenue from chemicals that did not exceed $40,000,000.” in item (bb), and added subcl. (II).
 
-    Subsec. (i)(5)(H). [Pub. L. 108–199, § 501(c)(4)][/us/pl/108/199/s501/c/4], substituted “2008” for “2003”.
+    Subsec. (i)(5)(H). [Pub. L. 108–199][/us/pl/108/199], § 501(c)(4), substituted “2008” for “2003”.
 
-    Subsec. (i)(6). [Pub. L. 108–199, § 501(d)(1)][/us/pl/108/199/s501/d/1], substituted “Except as provided in [section 136w–8 of this title][/us/usc/t7/s136w–8], during” for “During”, and substituted “2010” for “2003”.
+    Subsec. (i)(6). [Pub. L. 108–199][/us/pl/108/199], § 501(d)(1), substituted “Except as provided in [section 136w–8 of this title][/us/usc/t7/s136w–8], during” for “During”, and substituted “2010” for “2003”.
 
     Subsec. (k)(2)(A)(i). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    Subsec. (k)(3). [Pub. L. 108–199, § 501(e)(1)][/us/pl/108/199/s501/e/1], substituted “Review of inert ingredients; expedited” for “Expedited” in par. heading.
+    Subsec. (k)(3). [Pub. L. 108–199][/us/pl/108/199], § 501(e)(1), substituted “Review of inert ingredients; expedited” for “Expedited” in par. heading.
 
-    Subsec. (k)(3)(A). [Pub. L. 108–199, § 501(e)(2)][/us/pl/108/199/s501/e/2], substituted “2004 through 2006, approximately $3,300,000, and for each of fiscal years 2007 and 2008, between ⅛ and ⅐, of the maintenance fees” for “1997 through 2003, not more than ⅒ of the maintenance fees”, substituted “resources” for “resources to assure the expedited processing and review of any application that”, added cl. (i), inserted cl. (ii) designation and introductory provisions, and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii).
+    Subsec. (k)(3)(A). [Pub. L. 108–199][/us/pl/108/199], § 501(e)(2), substituted “2004 through 2006, approximately $3,300,000, and for each of fiscal years 2007 and 2008, between ⅛ and ⅐, of the maintenance fees” for “1997 through 2003, not more than ⅒ of the maintenance fees”, substituted “resources” for “resources to assure the expedited processing and review of any application that”, added cl. (i), inserted cl. (ii) designation and introductory provisions, and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii).
 
     2003—[Pub. L. 108–7][/us/pl/108/7], which directed the amendment of “[Section 136a–1 of title 7][/us/usc/t7/s136a–1], U.S.C.”, was executed by making the amendments to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress. See below.
 
@@ -761,71 +761,71 @@
 
     Subsec. (k)(3)(A). [Pub. L. 107–73][/us/pl/107/73], \[(4)\], substituted “2002” for “2001” and “⅒” for “⅐” in introductory provisions.
 
-    1996—[Pub. L. 104–170, § 501][/us/pl/104/170/s501], which directed amendment of section 4 without specifying the name of the Act being amended, was executed to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
+    1996—[Pub. L. 104–170][/us/pl/104/170], § 501, which directed amendment of section 4 without specifying the name of the Act being amended, was executed to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
 
-    Subsec. (d)(4)(B). [Pub. L. 104–170, § 210(c)(2)][/us/pl/104/170/s210/c/2], inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+    Subsec. (d)(4)(B). [Pub. L. 104–170][/us/pl/104/170], § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-    Subsec. (d)(6). [Pub. L. 104–170, § 210(f)(1)(A)][/us/pl/104/170/s210/f/1/A], inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+    Subsec. (d)(6). [Pub. L. 104–170][/us/pl/104/170], § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-    Subsec. (e)(2)(B). [Pub. L. 104–170, § 210(c)(2)][/us/pl/104/170/s210/c/2], inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+    Subsec. (e)(2)(B). [Pub. L. 104–170][/us/pl/104/170], § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-    Subsec. (e)(3)(A). [Pub. L. 104–170, § 210(f)(1)(B)][/us/pl/104/170/s210/f/1/B], inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+    Subsec. (e)(3)(A). [Pub. L. 104–170][/us/pl/104/170], § 210(f)(1)(B), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-    Subsec. (f)(2)(B). [Pub. L. 104–170, § 210(c)(2)][/us/pl/104/170/s210/c/2], inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
+    Subsec. (f)(2)(B). [Pub. L. 104–170][/us/pl/104/170], § 210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-    Subsec. (f)(3). [Pub. L. 104–170, § 210(f)(1)(A)][/us/pl/104/170/s210/f/1/A], inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+    Subsec. (f)(3). [Pub. L. 104–170][/us/pl/104/170], § 210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
-    Subsec. (g)(2)(E). [Pub. L. 104–170, § 103][/us/pl/104/170/s103], added subpar. (E).
+    Subsec. (g)(2)(E). [Pub. L. 104–170][/us/pl/104/170], § 103, added subpar. (E).
 
-    Subsec. (i)(4)(B) to (D). [Pub. L. 104–170, § 232(1)][/us/pl/104/170/s232/1], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    Subsec. (i)(4)(B) to (D). [Pub. L. 104–170][/us/pl/104/170], § 232(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (i)(5)(C). [Pub. L. 104–170, § 501(a)(2)][/us/pl/104/170/s501/a/2], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (i)(5)(C). [Pub. L. 104–170][/us/pl/104/170], § 501(a)(2), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (i)(5)(F), (G). [Pub. L. 104–170, § 232(2)][/us/pl/104/170/s232/2], added subpar. (F) and redesignated former subpar. (F) as (G).
+    Subsec. (i)(5)(F), (G). [Pub. L. 104–170][/us/pl/104/170], § 232(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-    Subsec. (i)(5)(H). [Pub. L. 104–170, § 501(a)(1)][/us/pl/104/170/s501/a/1], substituted “2001” for “1997”.
+    Subsec. (i)(5)(H). [Pub. L. 104–170][/us/pl/104/170], § 501(a)(1), substituted “2001” for “1997”.
 
-    [Pub. L. 104–170, § 232(2)][/us/pl/104/170/s232/2], redesignated subpar. (G) as (H).
+    [Pub. L. 104–170][/us/pl/104/170], § 232(2), redesignated subpar. (G) as (H).
 
-    Subsec. (i)(6). [Pub. L. 104–170, § 501(a)(1)][/us/pl/104/170/s501/a/1], substituted “2001” for “1997”.
+    Subsec. (i)(6). [Pub. L. 104–170][/us/pl/104/170], § 501(a)(1), substituted “2001” for “1997”.
 
-    Subsec. (i)(7)(B). [Pub. L. 104–170, § 232(3)][/us/pl/104/170/s232/3], substituted “, to determine the registrant’s eligibility” for “or to determine the registrant’s eligibility” and inserted before period at end “, or to determine the volume usage for public health pesticides”.
+    Subsec. (i)(7)(B). [Pub. L. 104–170][/us/pl/104/170], § 232(3), substituted “, to determine the registrant’s eligibility” for “or to determine the registrant’s eligibility” and inserted before period at end “, or to determine the volume usage for public health pesticides”.
 
-    Subsec. (k)(1). [Pub. L. 104–170, § 501(b)][/us/pl/104/170/s501/b], inserted “which shall be known as the Reregistration and Expedited Processing Fund” before period at end.
+    Subsec. (k)(1). [Pub. L. 104–170][/us/pl/104/170], § 501(b), inserted “which shall be known as the Reregistration and Expedited Processing Fund” before period at end.
 
-    Subsec. (k)(2). [Pub. L. 104–170, § 501(c)][/us/pl/104/170/s501/c], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “All fees collected by the Administrator under subsection (i) of this section shall be deposited into the fund and shall be available to the Administrator, without fiscal year limitation, to carry out reregistration and expedited processing of similar applications.”
+    Subsec. (k)(2). [Pub. L. 104–170][/us/pl/104/170], § 501(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “All fees collected by the Administrator under subsection (i) of this section shall be deposited into the fund and shall be available to the Administrator, without fiscal year limitation, to carry out reregistration and expedited processing of similar applications.”
 
-    Subsec. (k)(3)(A). [Pub. L. 104–170, § 501(d)(1)][/us/pl/104/170/s501/d/1], which directed the amendment of introductory provisions by substituting “for each of the fiscal years 1997 through 2001, not more than ⅐ of the maintenance fees collected in such fiscal year” for “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to 2 million each year”, was executed by making the substitution for text which contained the phrase “$2 million”, to reflect the probable intent of Congress.
+    Subsec. (k)(3)(A). [Pub. L. 104–170][/us/pl/104/170], § 501(d)(1), which directed the amendment of introductory provisions by substituting “for each of the fiscal years 1997 through 2001, not more than ⅐ of the maintenance fees collected in such fiscal year” for “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to 2 million each year”, was executed by making the substitution for text which contained the phrase “$2 million”, to reflect the probable intent of Congress.
 
-    Subsec. (k)(3)(A)(iii). [Pub. L. 104–170, § 232(4)][/us/pl/104/170/s232/4], added cl. (iii).
+    Subsec. (k)(3)(A)(iii). [Pub. L. 104–170][/us/pl/104/170], § 232(4), added cl. (iii).
 
-    Subsec. (k)(3)(C). [Pub. L. 104–170, § 501(d)(2)][/us/pl/104/170/s501/d/2], added subpar. (C).
+    Subsec. (k)(3)(C). [Pub. L. 104–170][/us/pl/104/170], § 501(d)(2), added subpar. (C).
 
-    Subsec. (k)(5). [Pub. L. 104–170, § 501(e)][/us/pl/104/170/s501/e], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The Administrator shall—
+    Subsec. (k)(5). [Pub. L. 104–170][/us/pl/104/170], § 501(e), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The Administrator shall—
 
     “(A) provide an annual accounting of the fees collected and disbursed from the fund; and
 
     “(B) take all steps necessary to ensure that expenditures from such fund are used only to carry out this section.”
 
-    Subsec. (l). [Pub. L. 104–170, § 501(f)][/us/pl/104/170/s501/f], added subsec. (l). Former subsec. (l) redesignated (m).
+    Subsec. (l). [Pub. L. 104–170][/us/pl/104/170], § 501(f), added subsec. (l). Former subsec. (l) redesignated (m).
 
-    Subsec. (m). [Pub. L. 104–170, § 501(f)][/us/pl/104/170/s501/f], redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
+    Subsec. (m). [Pub. L. 104–170][/us/pl/104/170], § 501(f), redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
-    [Pub. L. 104–170, § 237][/us/pl/104/170/s237], added subsec. (m).
+    [Pub. L. 104–170][/us/pl/104/170], § 237, added subsec. (m).
 
-    Subsec. (n). [Pub. L. 104–170, § 501(f)][/us/pl/104/170/s501/f], redesignated subsec. (m) as (n).
+    Subsec. (n). [Pub. L. 104–170][/us/pl/104/170], § 501(f), redesignated subsec. (m) as (n).
 
-    1991—Subsec. (f)(3). [Pub. L. 102–237, § 1006(a)(4)][/us/pl/102/237/s1006/a/4], realigned margin.
+    1991—Subsec. (f)(3). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(4), realigned margin.
 
-    Subsec. (i)(5). [Pub. L. 102–237, § 1006(e)][/us/pl/102/237/s1006/e], amended par. (5) generally, substituting, in subpar. (A), provisions relating to January 15 for provisions relating to March 1, in subpar. (A)(i), provisions relating to fee of $650 for first registration for provisions relating to fee of $425 for each registration for registrants holding not more than 50 registrations, and in subpar. (A)(ii), provisions relating to fee of $1,300 for each additional registration up to 200 registrations, with no fee thereafter, for provisions relating to fee of $425 for each registration up to 50, $100 for each registration over 50, with no fee after 200 registrations, redesignating provisions formerly set out in subpar. (A), following cl. (ii), as subpar. (B), and substituting provisions relating to fee under this par. for provisions relating to fee under this subpar., redesignating former subpar. (B) as (C), striking former subpar. (C), which set maximum annual fee for registrants under subpar. (A)(i) at $20,000, and for registrants under subpar. (A)(ii) at $35,000, adding subpars. (D) and (E), and redesignating former subpars. (D) and (E) as (F) and (G), respectively.
+    Subsec. (i)(5). [Pub. L. 102–237][/us/pl/102/237], § 1006(e), amended par. (5) generally, substituting, in subpar. (A), provisions relating to January 15 for provisions relating to March 1, in subpar. (A)(i), provisions relating to fee of $650 for first registration for provisions relating to fee of $425 for each registration for registrants holding not more than 50 registrations, and in subpar. (A)(ii), provisions relating to fee of $1,300 for each additional registration up to 200 registrations, with no fee thereafter, for provisions relating to fee of $425 for each registration up to 50, $100 for each registration over 50, with no fee after 200 registrations, redesignating provisions formerly set out in subpar. (A), following cl. (ii), as subpar. (B), and substituting provisions relating to fee under this par. for provisions relating to fee under this subpar., redesignating former subpar. (B) as (C), striking former subpar. (C), which set maximum annual fee for registrants under subpar. (A)(i) at $20,000, and for registrants under subpar. (A)(ii) at $35,000, adding subpars. (D) and (E), and redesignating former subpars. (D) and (E) as (F) and (G), respectively.
 
-    Subsec. (k)(3)(A). [Pub. L. 102–237, § 1006(f)][/us/pl/102/237/s1006/f], substituted “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to $2 million each year” for “each fiscal year not more than $2,000,000 of the amounts in the fund”.
+    Subsec. (k)(3)(A). [Pub. L. 102–237][/us/pl/102/237], § 1006(f), substituted “for each of the fiscal years 1992, 1993, and 1994, ⅐th of the maintenance fees collected, up to $2 million each year” for “each fiscal year not more than $2,000,000 of the amounts in the fund”.
 
     1990—Subsec. (i)(5)(A). [Pub. L. 101–624][/us/pl/101/624] inserted sentence at end relating to reduction or waiver of fee where pesticide is registered for minor agricultural use.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–177, § 2(c)][/us/pl/112/177/s2/c], Sept. 28, 2012, [126 Stat. 1407][/us/stat/126/1407], provided that: 
+[Pub. L. 112–177][/us/pl/112/177], § 2(c), Sept. 28, 2012, [126 Stat. 1407][/us/stat/126/1407], provided that: 
 
 > “This section \[amending this section, [section 136w–8 of this title][/us/usc/t7/s136w–8], and [section 346a of Title 21][/us/usc/t21/s346a], Food and Drugs, and enacting provisions set out as a note under this section\] and the amendments made by this section take effect on October 1, 2012.”
 
@@ -843,13 +843,13 @@
 
  __Relationship of__  __[__  __Pub. L. 112–177__  __][/us/pl/112/177]__  __to Other Law__ 
 
-[Pub. L. 112–177, § 2(d)][/us/pl/112/177/s2/d], Sept. 28, 2012, [126 Stat. 1407][/us/stat/126/1407], provided that: 
+[Pub. L. 112–177][/us/pl/112/177], § 2(d), Sept. 28, 2012, [126 Stat. 1407][/us/stat/126/1407], provided that: 
 
 > “In the case of any conflict between this section \[amending this section, [section 136w–8 of this title][/us/usc/t7/s136w–8], and [section 346a of Title 21][/us/usc/t21/s346a], Food and Drugs, and enacting provisions set out as a note under this section\] (including the amendments made by this section) and a joint resolution making continuing appropriations for fiscal year 2013 (including any amendments made by such a joint resolution), this section and the amendments made by this section shall control.”
 
  __Adjustment of Maximum Annual Fee Payable by Pesticide Registrants__ 
 
-[Pub. L. 108–11, title II][/us/pl/108/11], Apr. 16, 2003, [117 Stat. 603][/us/stat/117/603], provided that: 
+[Pub. L. 108–11, title II][/us/pl/108/11/tII], Apr. 16, 2003, [117 Stat. 603][/us/stat/117/603], provided that: 
 
 > “Within 30 days of enactment of this Act \[Apr. 16, 2003\], the Administrator of the Environmental Protection Agency shall adjust each ‘maximum annual fee payable’ pursuant to [7 U.S.C. 136a–1(i)(5)(D)][/us/usc/t7/s136a–1/i/5/D] and (E) in a manner such that maintenance fee collections made to reach the level authorized in division K of [Public Law 108–7][/us/pl/108/7] \[see Tables for classification\] shall be established in the same proportion as those maintenance fee collections authorized in [Public Law 107–73][/us/pl/107/73] \[see Tables for classification\].”
 
@@ -911,90 +911,90 @@
 [/us/usc/t7/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a
 [/us/usc/t7/s136a/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fc%2F2%2FB
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1947-06-25/ch125/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs4
-[/us/pl/100/532/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs102%2Fa
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/100/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtI
 [/us/stat/102/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2655
-[/us/pl/101/624/s1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1493
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3628
-[/us/pl/102/237/s1006/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F4
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895-1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895-1897
-[/us/pl/104/170/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs103
+[/us/pl/104/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtI
 [/us/stat/110/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1490
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIII
 [/us/stat/115/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F686
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F513
-[/us/pl/108/199/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc
+[/us/pl/108/199/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtV
 [/us/stat/118/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F419
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/94/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fa
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/stat/121/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1001
-[/us/pl/112/177/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/stat/126/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1327
 [/us/usc/t7/s136a/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fc%2F1%2FD
 [/us/usc/t7/s136a/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fc%2F1%2FF
-[/us/pl/102/237/s1006/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F3%2FB
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/108/199/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F2
-[/us/pl/110/94/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fa
-[/us/pl/112/177/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FC
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t7/s136b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136b
 [/us/usc/t7/s135b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135b
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/112/177/s2/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FA%2Fi
-[/us/pl/112/177/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FC
-[/us/pl/112/177/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FD
-[/us/pl/112/177/s2/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fi
-[/us/pl/112/177/s2/a/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fii%2FI
-[/us/pl/112/177/s2/a/1/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fii%2FII
-[/us/pl/112/177/s2/a/1/A/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fiii%2FI
-[/us/pl/112/177/s2/a/1/A/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fiii%2FII
-[/us/pl/112/177/s2/a/1/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fvi
-[/us/pl/112/177/s2/a/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fiv
-[/us/pl/112/177/s2/a/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fv
-[/us/pl/112/177/s2/a/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FA%2Fv
-[/us/pl/112/177/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FD
-[/us/pl/112/177/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FB
-[/us/pl/112/177/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F1%2FC
-[/us/pl/112/177/s2/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FA%2Fii
-[/us/pl/112/177/s2/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FA%2Fi
-[/us/pl/112/177/s2/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FA%2Fii
-[/us/pl/112/177/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FB
-[/us/pl/112/177/s2/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FC%2Fii
-[/us/pl/112/177/s2/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FC%2Fi
-[/us/pl/112/177/s2/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FA%2Fiii
-[/us/pl/112/177/s2/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F4%2FC%2Fi
-[/us/pl/110/94/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fa
-[/us/pl/110/94/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fb%2F1%2FA
-[/us/pl/110/94/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fb%2F1%2FB
-[/us/pl/110/94/s4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fb%2F2%2FA
-[/us/pl/110/94/s4/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fb%2F2%2FB
-[/us/pl/110/94/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fc
-[/us/pl/110/94/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fd%2F1
-[/us/pl/110/94/s4/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fe%2F1
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/usc/t7/s136a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fg
-[/us/pl/110/94/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fe%2F2
-[/us/pl/108/199/s501/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F5%2FA
-[/us/pl/108/199/s501/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F5%2FB
-[/us/pl/108/199/s501/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F5%2FC
-[/us/pl/108/199/s501/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F1%2FA
-[/us/pl/108/199/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F2
-[/us/pl/108/199/s501/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F1%2FB
-[/us/pl/108/199/s501/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F1%2FC
-[/us/pl/108/199/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F3
-[/us/pl/108/199/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fc%2F4
-[/us/pl/108/199/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fd%2F1
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t7/s136w–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/108/199/s501/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fe%2F1
-[/us/pl/108/199/s501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fe%2F2
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t7/s136a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%E2%80%931
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -1007,36 +1007,36 @@
 [/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 [/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 [/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
-[/us/pl/104/170/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501
-[/us/pl/104/170/s210/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fc%2F2
-[/us/pl/104/170/s210/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Ff%2F1%2FA
-[/us/pl/104/170/s210/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fc%2F2
-[/us/pl/104/170/s210/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Ff%2F1%2FB
-[/us/pl/104/170/s210/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fc%2F2
-[/us/pl/104/170/s210/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Ff%2F1%2FA
-[/us/pl/104/170/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs103
-[/us/pl/104/170/s232/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs232%2F1
-[/us/pl/104/170/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fa%2F2
-[/us/pl/104/170/s232/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs232%2F2
-[/us/pl/104/170/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fa%2F1
-[/us/pl/104/170/s232/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs232%2F2
-[/us/pl/104/170/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fa%2F1
-[/us/pl/104/170/s232/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs232%2F3
-[/us/pl/104/170/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fb
-[/us/pl/104/170/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fc
-[/us/pl/104/170/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fd%2F1
-[/us/pl/104/170/s232/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs232%2F4
-[/us/pl/104/170/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fd%2F2
-[/us/pl/104/170/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Fe
-[/us/pl/104/170/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Ff
-[/us/pl/104/170/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Ff
-[/us/pl/104/170/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs237
-[/us/pl/104/170/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs501%2Ff
-[/us/pl/102/237/s1006/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F4
-[/us/pl/102/237/s1006/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fe
-[/us/pl/102/237/s1006/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Ff
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/112/177/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fc
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/stat/126/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1407
 [/us/usc/t7/s136w–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
@@ -1049,11 +1049,11 @@
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
-[/us/pl/112/177/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fd
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/stat/126/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1407
 [/us/usc/t7/s136w–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
-[/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
 [/us/stat/117/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F603
 [/us/usc/t7/s136a–1/i/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%E2%80%931%2Fi%2F5%2FD
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

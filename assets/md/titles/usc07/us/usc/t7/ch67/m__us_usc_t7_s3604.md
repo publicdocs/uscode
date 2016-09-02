@@ -25,7 +25,7 @@
 
     is guilty of an offense and upon conviction thereof is punishable by a fine of not more than $1,000.
 
-([Pub. L. 96–236, § 4][/us/pl/96/236/s4], Apr. 22, 1980, [94 Stat. 337][/us/stat/94/337].)
+([Pub. L. 96–236][/us/pl/96/236], § 4, Apr. 22, 1980, [94 Stat. 337][/us/stat/94/337].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t7/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3602
 [/us/usc/t7/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3602
-[/us/pl/96/236/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236%2Fs4
+[/us/pl/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236
 [/us/stat/94/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F337
 
 

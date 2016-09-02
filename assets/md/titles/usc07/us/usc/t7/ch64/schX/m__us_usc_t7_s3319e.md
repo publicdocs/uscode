@@ -77,7 +77,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
 
-([Pub. L. 95–113, title XIV, § 1473E][/us/pl/95/113/s1473E], as added [Pub. L. 110–234, title VII, § 7137][/us/pl/110/234/s7137], May 22, 2008, [122 Stat. 1229][/us/stat/122/1229], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7137, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473E, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7137, May 22, 2008, [122 Stat. 1229][/us/stat/122/1229], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7137, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990.)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3319e, [Pub. L. 95–113, title XIV, § 1473E][/us/pl/95/113/s1473E], as added [Pub. L. 101–220, § 5][/us/pl/101/220/s5], Dec. 12, 1989, [103 Stat. 1878][/us/stat/103/1878], related to research into new commercial products from natural plant materials, prior to repeal by [Pub. L. 102–237, title IV, § 402(14)][/us/pl/102/237/s402/14], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863].
+    A prior section 3319e, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473E, as added [Pub. L. 101–220][/us/pl/101/220], § 5, Dec. 12, 1989, [103 Stat. 1878][/us/stat/103/1878], related to research into new commercial products from natural plant materials, prior to repeal by [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 402(14), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863].
 
  __Effective Date__ 
 
@@ -103,20 +103,20 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/95/113/s1473E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473E
-[/us/pl/110/234/s7137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7137
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1229
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/95/113/s1473E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473E
-[/us/pl/101/220/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs5
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1878
-[/us/pl/102/237/s402/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs402%2F14
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

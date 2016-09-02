@@ -71,7 +71,7 @@
 
         The Secretary shall coordinate with the Attorney General to establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-([Pub. L. 106–224, title IV, § 424][/us/pl/106/224/s424], June 20, 2000, [114 Stat. 450][/us/stat/114/450]; [Pub. L. 107–171, title X, § 10810][/us/pl/107/171/s10810], May 13, 2002, [116 Stat. 531][/us/stat/116/531]; [Pub. L. 110–234, title X, § 10203(d)][/us/pl/110/234/s10203/d], May 22, 2008, [122 Stat. 1343][/us/stat/122/1343]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10203(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 424, June 20, 2000, [114 Stat. 450][/us/stat/114/450]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10810, May 13, 2002, [116 Stat. 531][/us/stat/116/531]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10203(d), May 22, 2008, [122 Stat. 1343][/us/stat/122/1343]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10203(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105.)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(A). [Pub. L. 110–246, § 10203(d)][/us/pl/110/246/s10203/d], substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
+    2008—Subsec. (b)(1)(A). [Pub. L. 110–246][/us/pl/110/246], § 10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
 
@@ -102,13 +102,13 @@
 ----------
 ----------
 
-[/us/pl/106/224/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs424
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F450
-[/us/pl/107/171/s10810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10810
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F531
-[/us/pl/110/234/s10203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10203%2Fd
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1343
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
@@ -117,7 +117,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fd
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

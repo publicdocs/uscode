@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, funds appropriated to the Department of Agriculture by this Act may be used for translation of publications of the Department of Agriculture into foreign languages when determined by the Secretary to be in the public interest.
 
-([Pub. L. 102–142, title VII, § 721][/us/pl/102/142/s721], Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
+([Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 721, Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/142/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs721
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F913
 [/us/pl/102/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142
 [/us/stat/105/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F878

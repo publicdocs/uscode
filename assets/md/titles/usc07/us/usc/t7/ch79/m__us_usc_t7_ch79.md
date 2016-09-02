@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch78/m__us_usc_t7_ch78.md) | [Next](./../../../..//us/usc/t7/ch79/m__us_usc_t7_s4801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch79)
+[Previous](./../../../..//us/usc/t7/ch78/m__us_usc_t7_s4701...4710.md) | [Next](./../../../..//us/usc/t7/ch79/m__us_usc_t7_s4801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch79)
 
 ## CHAPTER 79—PORK PROMOTION, RESEARCH, AND CONSUMER INFORMATION
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch78/m__us_usc_t7_ch78.md) | [Next](./../../../..//us/usc/t7/ch79/m__us_usc_t7_s4801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch79)
+[Previous](./../../../..//us/usc/t7/ch78/m__us_usc_t7_s4701...4710.md) | [Next](./../../../..//us/usc/t7/ch79/m__us_usc_t7_s4801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch79)
 
 ----------
 ----------

@@ -27,7 +27,7 @@
 
         (2) assistance for other costs that are necessary or appropriate to carry out the foreign market development cooperator program, including contingent liabilities that are not otherwise funded.
 
-([Pub. L. 95–501, title VII, § 702][/us/pl/95/501/s702], as added [Pub. L. 104–127, title II, § 252][/us/pl/104/127/s252], Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971]; amended [Pub. L. 107–171, title III, § 3105(a)][/us/pl/107/171/s3105/a], May 13, 2002, [116 Stat. 290][/us/stat/116/290]; [Pub. L. 110–246, title III, § 3104(a)][/us/pl/110/246/s3104/a], June 18, 2008, [122 Stat. 1833][/us/stat/122/1833]; [Pub. L. 113–188, title I, § 101(f)][/us/pl/113/188/s101/f], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
+([Pub. L. 95–501, title VII][/us/pl/95/501/tVII], § 702, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 252, Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971]; amended [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3105(a), May 13, 2002, [116 Stat. 290][/us/stat/116/290]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3104(a), June 18, 2008, [122 Stat. 1833][/us/stat/122/1833]; [Pub. L. 113–188, title I][/us/pl/113/188/tI], § 101(f), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 
     2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246] substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 3105(a)(1)][/us/pl/107/171/s3105/a/1], inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 3105(a)(1), inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
 
-    Subsec. (c). [Pub. L. 107–171, § 3105(a)(2)][/us/pl/107/171/s3105/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–171][/us/pl/107/171], § 3105(a)(2), added subsec. (c).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -50,19 +50,19 @@
 ----------
 ----------
 
-[/us/pl/95/501/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs702
-[/us/pl/104/127/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs252
+[/us/pl/95/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtVII
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F971
-[/us/pl/107/171/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fa
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F290
-[/us/pl/110/246/s3104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3104%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1833
-[/us/pl/113/188/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Ff
+[/us/pl/113/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtI
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/107/171/s3105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fa%2F1
-[/us/pl/107/171/s3105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fa%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

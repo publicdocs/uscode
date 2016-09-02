@@ -59,7 +59,7 @@
 
             (F) providing such staff as may be necessary to support the activities of the Council.
 
-([Pub. L. 101–624, title XIV, § 1472][/us/pl/101/624/s1472], Nov. 28, 1990, [104 Stat. 3619][/us/stat/104/3619].)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1472, Nov. 28, 1990, [104 Stat. 3619][/us/stat/104/3619].)
 
 ----------
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t7/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5403
-[/us/pl/101/624/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1472
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3619
 
 

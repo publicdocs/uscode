@@ -17,7 +17,7 @@
 
     This subchapter shall be effective beginning with the 2002 crop year of each covered commodity through the 2007 crop year.
 
-([Pub. L. 107–171, title I, § 1108][/us/pl/107/171/s1108], May 13, 2002, [116 Stat. 155][/us/stat/116/155].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1108, May 13, 2002, [116 Stat. 155][/us/stat/116/155].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1108
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155
 
 

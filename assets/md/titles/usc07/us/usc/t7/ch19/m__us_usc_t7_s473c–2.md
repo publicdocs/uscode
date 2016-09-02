@@ -17,7 +17,7 @@
 
     Any person violating any provision of [section 473c–1 of this title][/us/usc/t7/s473c–1] shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-([Mar. 3, 1927, ch. 337, § 3c–2][/us/act/1927-03-03/ch337/s3c–2], as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 329][/us/stat/74/329].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3c–2, as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 329][/us/stat/74/329].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s473c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs473c%E2%80%931
-[/us/act/1927-03-03/ch337/s3c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3c%E2%80%932
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/pl/86/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F588
 [/us/stat/74/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F329
 

@@ -123,7 +123,7 @@
 
         The term “United States” means all of the States.
 
-([Pub. L. 107–171, title X, § 10403][/us/pl/107/171/s10403], May 13, 2002, [116 Stat. 494][/us/stat/116/494].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10403, May 13, 2002, [116 Stat. 494][/us/stat/116/494].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/107/171/s10403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10403
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

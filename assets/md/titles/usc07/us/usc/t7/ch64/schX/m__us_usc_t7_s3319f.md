@@ -229,7 +229,7 @@
 
             There is authorized to be appropriated to carry out this section $30,000,000 for fiscal year 2013.
 
-([Pub. L. 107–171, title VII, § 7405][/us/pl/107/171/s7405], May 13, 2002, [116 Stat. 458][/us/stat/116/458]; [Pub. L. 110–234, title VII, § 7410][/us/pl/110/234/s7410], May 22, 2008, [122 Stat. 1254][/us/stat/122/1254]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7410, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2016; [Pub. L. 112–240, title VII, § 701(e)(3)][/us/pl/112/240/s701/e/3], Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364]; [Pub. L. 113–79, title VII, § 7409][/us/pl/113/79/s7409], Feb. 7, 2014, [128 Stat. 898][/us/stat/128/898].)
+([Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7405, May 13, 2002, [116 Stat. 458][/us/stat/116/458]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7410, May 22, 2008, [122 Stat. 1254][/us/stat/122/1254]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7410, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2016; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(e)(3), Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7409, Feb. 7, 2014, [128 Stat. 898][/us/stat/128/898].)
 
  __Codification__ 
 
@@ -239,7 +239,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1). [Pub. L. 113–79, § 7409(1)(A)][/us/pl/113/79/s7409/1/A], added subpars. (A) to (N) and struck out former subpars. (A) to (R) which read as follows:
+    2014—Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 7409(1)(A), added subpars. (A) to (N) and struck out former subpars. (A) to (R) which read as follows:
 
     “(A) mentoring, apprenticeships, and internships;
 
@@ -277,11 +277,11 @@
 
     “(R) other similar subject areas of use to beginning farmers or ranchers.”
 
-    Subsec. (c)(2)(C). [Pub. L. 113–79, § 7409(1)(B)][/us/pl/113/79/s7409/1/B], substituted “or nongovernmental organization” for “and nongovernmental organization”.
+    Subsec. (c)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 7409(1)(B), substituted “or nongovernmental organization” for “and nongovernmental organization”.
 
-    Subsec. (c)(7). [Pub. L. 113–79, § 7409(1)(C)][/us/pl/113/79/s7409/1/C], substituted “, community-based organizations, and school-based agricultural educational organizations” for “and community-based organizations”.
+    Subsec. (c)(7). [Pub. L. 113–79][/us/pl/113/79], § 7409(1)(C), substituted “, community-based organizations, and school-based agricultural educational organizations” for “and community-based organizations”.
 
-    Subsec. (c)(8). [Pub. L. 113–79, § 7409(1)(D)][/us/pl/113/79/s7409/1/D], added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: “Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
+    Subsec. (c)(8). [Pub. L. 113–79][/us/pl/113/79], § 7409(1)(D), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: “Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
 
     “(A) limited resource beginning farmers or ranchers (as defined by the Secretary);
 
@@ -289,25 +289,25 @@
 
     “(C) farmworkers desiring to become farmers or ranchers.”
 
-    Subsec. (c)(11), (12). [Pub. L. 113–79, § 7409(1)(E)][/us/pl/113/79/s7409/1/E], added pars. (11) and (12).
+    Subsec. (c)(11), (12). [Pub. L. 113–79][/us/pl/113/79], § 7409(1)(E), added pars. (11) and (12).
 
-    Subsec. (h)(1). [Pub. L. 113–79, § 7409(2)(A)][/us/pl/113/79/s7409/2/A], substituted “2018” for “2012” in heading.
+    Subsec. (h)(1). [Pub. L. 113–79][/us/pl/113/79], § 7409(2)(A), substituted “2018” for “2012” in heading.
 
-    Subsec. (h)(1)(C). [Pub. L. 113–79, § 7409(2)(B)][/us/pl/113/79/s7409/2/B]–(D), added subpar. (C).
+    Subsec. (h)(1)(C). [Pub. L. 113–79][/us/pl/113/79], § 7409(2)(B)–(D), added subpar. (C).
 
-    Subsec. (h)(2). [Pub. L. 113–79, § 7409(3)][/us/pl/113/79/s7409/3], substituted “2014 through 2018” for “2008 through 2012” in heading and text.
+    Subsec. (h)(2). [Pub. L. 113–79][/us/pl/113/79], § 7409(3), substituted “2014 through 2018” for “2008 through 2012” in heading and text.
 
-    2013—Subsec. (h)(1). [Pub. L. 112–240, § 701(e)(3)(A)][/us/pl/112/240/s701/e/3/A], substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
+    2013—Subsec. (h)(1). [Pub. L. 112–240][/us/pl/112/240], § 701(e)(3)(A), substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
 
-    Subsec. (h)(2). [Pub. L. 112–240, § 701(e)(3)(B)][/us/pl/112/240/s701/e/3/B], inserted “for fiscal years 2008 through 2012” after “appropriations” in heading.
+    Subsec. (h)(2). [Pub. L. 112–240][/us/pl/112/240], § 701(e)(3)(B), inserted “for fiscal years 2008 through 2012” after “appropriations” in heading.
 
-    Subsec. (h)(3). [Pub. L. 112–240, § 701(e)(3)(C)][/us/pl/112/240/s701/e/3/C], added par. (3).
+    Subsec. (h)(3). [Pub. L. 112–240][/us/pl/112/240], § 701(e)(3)(C), added par. (3).
 
-    2008—Subsec. (c)(3). [Pub. L. 110–246, § 7410(a)(1)][/us/pl/110/246/s7410/a/1], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
+    2008—Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
 
-    Subsec. (c)(5) to (10). [Pub. L. 110–246, § 7410(a)(2)][/us/pl/110/246/s7410/a/2], (3), added pars. (5) to (7) and redesignated former pars. (5) to (7) as (8) to (10), respectively.
+    Subsec. (c)(5) to (10). [Pub. L. 110–246][/us/pl/110/246], § 7410(a)(2), (3), added pars. (5) to (7) and redesignated former pars. (5) to (7) as (8) to (10), respectively.
 
-    Subsec. (h). [Pub. L. 110–246, § 7410(b)][/us/pl/110/246/s7410/b], added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007.”
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 7410(b), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -319,7 +319,7 @@
 
  __Definitions__ 
 
-[Pub. L. 107–171, title VII, § 7401][/us/pl/107/171/s7401], May 13, 2002, [116 Stat. 455][/us/stat/116/455], provided that: 
+[Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7401, May 13, 2002, [116 Stat. 455][/us/stat/116/455], provided that: 
 
 > “In this subtitle \[subtitle D (§ 7401–7412) of title VII of [Pub. L. 107–171][/us/pl/107/171], enacting this section and sections \[former\] 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, \[former\] 5925a, and 5925b of this title\]:
 
@@ -343,35 +343,35 @@
 [/us/usc/t7/s5933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5933
 [/us/usc/t7/s1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1929
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
-[/us/pl/107/171/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7405
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F458
-[/us/pl/110/234/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7410
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1254
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F3
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2364
-[/us/pl/113/79/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F898
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7409/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F1%2FA
-[/us/pl/113/79/s7409/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F1%2FB
-[/us/pl/113/79/s7409/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F1%2FC
-[/us/pl/113/79/s7409/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F1%2FD
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
-[/us/pl/113/79/s7409/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F1%2FE
-[/us/pl/113/79/s7409/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F2%2FA
-[/us/pl/113/79/s7409/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F2%2FB
-[/us/pl/113/79/s7409/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7409%2F3
-[/us/pl/112/240/s701/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F3%2FA
-[/us/pl/112/240/s701/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F3%2FB
-[/us/pl/112/240/s701/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F3%2FC
-[/us/pl/110/246/s7410/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7410%2Fa%2F1
-[/us/pl/110/246/s7410/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7410%2Fa%2F2
-[/us/pl/110/246/s7410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7410%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
@@ -380,7 +380,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7401
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F455
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

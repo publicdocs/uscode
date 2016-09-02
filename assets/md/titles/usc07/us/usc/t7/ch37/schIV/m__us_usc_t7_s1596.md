@@ -19,7 +19,7 @@
 
     (b) Any person who violates any provision of this chapter or the rules and regulations made and promulgated thereunder shall forfeit to the United States a sum, not less than $25 or more than $500, for each such violation, which forfeiture shall be recoverable in a civil suit brought in the name of the United States.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title IV, § 406, [53 Stat. 1286][/us/stat/53/1286]; [July 9, 1956, ch. 520, § 1][/us/act/1956-07-09/ch520/s1], [70 Stat. 508][/us/stat/70/508].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title IV, § 406, [53 Stat. 1286][/us/stat/53/1286]; [July 9, 1956, ch. 520][/us/act/1956-07-09/ch520], § 1, [70 Stat. 508][/us/stat/70/508].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date of 1956 Amendment__ 
 
-[Act July 9, 1956, ch. 520, § 4][/us/act/1956-07-09/ch520/s4], [70 Stat. 508][/us/stat/70/508], provided that: 
+[Act July 9, 1956, ch. 520][/us/act/1956-07-09/ch520], § 4, [70 Stat. 508][/us/stat/70/508], provided that: 
 
 > “The amendments made by this Act \[amending sections 1574, 1596, and 1602 of this title\] shall be applicable only with respect to violations occurring after the enactment of this Act \[July 9, 1956\].”
 
@@ -44,9 +44,9 @@
 
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1286
-[/us/act/1956-07-09/ch520/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520%2Fs1
+[/us/act/1956-07-09/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520
 [/us/stat/70/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F508
-[/us/act/1956-07-09/ch520/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520%2Fs4
+[/us/act/1956-07-09/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520
 [/us/stat/70/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F508
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610
 

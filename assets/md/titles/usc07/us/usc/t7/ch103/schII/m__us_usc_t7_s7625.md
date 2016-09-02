@@ -101,15 +101,15 @@
 
         For the purposes of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.
 
-([Pub. L. 105–185, title IV, § 405][/us/pl/105/185/s405], as added [Pub. L. 111–353, title II, § 209(b)][/us/pl/111/353/s209/b], Jan. 4, 2011, [124 Stat. 3947][/us/stat/124/3947].)
+([Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 405, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 209(b), Jan. 4, 2011, [124 Stat. 3947][/us/stat/124/3947].)
 
  __References in Text__ 
 
-    [Section 399c(d) of title 21][/us/usc/t21/s399c/d], referred to in subsec. (a), was in the original “section 1011(d) of the Federal Food, Drug, and Cosmetic Act” and was translated as meaning section 1011(d) of the Act as added by [Pub. L. 111–353, title II, § 209(a)][/us/pl/111/353/s209/a], Jan. 4, 2011, [124 Stat. 3945][/us/stat/124/3945], to reflect the probable intent of Congress. Another section 1011 of the Federal Food, Drug, and Cosmetic Act as added by [Pub. L. 111–148, title III, § 3509(g)][/us/pl/111/148/s3509/g], Mar. 23, 2010, [124 Stat. 536][/us/stat/124/536] is classified to [section 399b of Title 21][/us/usc/t21/s399b], Food and Drugs, but does not contain a subsec. (d).
+    [Section 399c(d) of title 21][/us/usc/t21/s399c/d], referred to in subsec. (a), was in the original “section 1011(d) of the Federal Food, Drug, and Cosmetic Act” and was translated as meaning section 1011(d) of the Act as added by [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 209(a), Jan. 4, 2011, [124 Stat. 3945][/us/stat/124/3945], to reflect the probable intent of Congress. Another section 1011 of the Federal Food, Drug, and Cosmetic Act as added by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(g), Mar. 23, 2010, [124 Stat. 536][/us/stat/124/536] is classified to [section 399b of Title 21][/us/usc/t21/s399b], Food and Drugs, but does not contain a subsec. (d).
 
  __Prior Provisions__ 
 
-    A prior section 7625, [Pub. L. 105–185, title IV, § 405][/us/pl/105/185/s405], June 23, 1998, [112 Stat. 572][/us/stat/112/572]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7130, 7207(b), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by [Pub. L. 110–234, title VII, § 7305][/us/pl/110/234/s7305], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003. Repeal of prior section 7625 and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008.
+    A prior section 7625, [Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 405, June 23, 1998, [112 Stat. 572][/us/stat/112/572]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7130, 7207(b), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7305, May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003. Repeal of prior section 7625 and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008.
 
  __Construction__ 
 
@@ -123,22 +123,22 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/105/185/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs405
-[/us/pl/111/353/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs209%2Fb
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3947
 [/us/usc/t21/s399c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399c%2Fd
-[/us/pl/111/353/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs209%2Fa
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3945
-[/us/pl/111/148/s3509/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fg
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F536
 [/us/usc/t21/s399b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399b
-[/us/pl/105/185/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs405
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F572
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F435
-[/us/pl/110/234/s7305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7305
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

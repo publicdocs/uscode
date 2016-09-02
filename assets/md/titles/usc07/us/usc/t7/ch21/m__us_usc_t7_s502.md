@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall establish standards for the classification of leaf tobacco, and he is authorized to demonstrate such standards, to prepare and distribute samples thereof, and to make reasonable charges therefor. He shall specify the types, groups of grades, qualities, colors, and/or grades, which shall be included in the returns required by this chapter. The Secretary of Agriculture shall prepare appropriate blanks upon which the returns shall be made, shall, upon request, furnish copies to persons who are required by this chapter to make returns, and such returns shall show the types, groups of grades, qualities, colors, and/or grades and such other information as the Secretary may require.
 
-([Jan. 14, 1929, ch. 69, § 2][/us/act/1929-01-14/ch69/s2], [45 Stat. 1079][/us/stat/45/1079]; [Aug. 27, 1935, ch. 749, § 2][/us/act/1935-08-27/ch749/s2], [49 Stat. 894][/us/stat/49/894].)
+([Jan. 14, 1929, ch. 69][/us/act/1929-01-14/ch69], § 2, [45 Stat. 1079][/us/stat/45/1079]; [Aug. 27, 1935, ch. 749][/us/act/1935-08-27/ch749], § 2, [49 Stat. 894][/us/stat/49/894].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1929-01-14/ch69/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69%2Fs2
+[/us/act/1929-01-14/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69
 [/us/stat/45/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1079
-[/us/act/1935-08-27/ch749/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch749%2Fs2
+[/us/act/1935-08-27/ch749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch749
 [/us/stat/49/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F894
 
 

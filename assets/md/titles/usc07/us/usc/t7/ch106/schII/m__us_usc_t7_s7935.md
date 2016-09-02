@@ -75,7 +75,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 107–171, title I, § 1205][/us/pl/107/171/s1205], May 13, 2002, [116 Stat. 158][/us/stat/116/158].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1205, May 13, 2002, [116 Stat. 158][/us/stat/116/158].)
 
  __Codification__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t7/s7934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7934
 [/us/usc/t7/s7932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7932
 [/us/usc/t7/s7934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7934
-[/us/pl/107/171/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F158
 [/us/pl/107/171/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205
 [/us/pl/107/171/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall utilize, to the fullest extent practicable, the authorities under the Commodity Credit Corporation Charter Act \[[15 U.S.C. 714][/us/usc/t15/s714] et seq.\] (including exportation of dairy products at not less than prevailing world market prices), the Food for Peace Act \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\], and other authorities available to the Secretary to reduce inventories of dairy products held by the Commodity Credit Corporation so as to reduce net Commodity Credit Corporation expenditures to the estimated outlays for the milk price support program used in developing budget outlays under the Congressional Budget Act of 1974 for the appropriate fiscal year.
 
-([Pub. L. 97–98, title I, § 106][/us/pl/97/98/s106], Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(A), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 97–98, title I][/us/pl/97/98/tI], § 106, Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(A), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Dairy Program Operation Report__ 
 
-    [Pub. L. 97–98, title I, § 107][/us/pl/97/98/s107], Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220], provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
+    [Pub. L. 97–98, title I][/us/pl/97/98/tI], § 107, Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220], provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
 
 ----------
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/97/98/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs106
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1220
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1070
@@ -76,7 +76,7 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/97/98/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs107
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1220
 
 

@@ -55,19 +55,19 @@
 
         Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 406, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(5)][/us/pl/87/703/s201/5], Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 94–161, title II, § 214][/us/pl/94/161/s214], Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; [Pub. L. 101–508, title I, § 1204(b)(2)][/us/pl/101/508/s1204/b/2], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3650][/us/stat/104/3650]; [Pub. L. 102–237, title III, § 323][/us/pl/102/237/s323], Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857]; [Pub. L. 104–127, title II, § 215][/us/pl/104/127/s215], Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3014(b)(1), 3016, June 18, 2008, [122 Stat. 1826][/us/stat/122/1826], 1827.)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 406, as added [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 14, Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II][/us/pl/87/703/tII], § 201(5), Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 89–808][/us/pl/89/808], § 2(E), Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 214, Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; [Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1204(b)(2), Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3650][/us/stat/104/3650]; [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 323, Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 215, Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], §§ 3014(b)(1), 3016, June 18, 2008, [122 Stat. 1826][/us/stat/122/1826], 1827.)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 3014(b)(1)][/us/pl/110/246/s3014/b/1], struck out “(that have been determined to be available under [section 1731(a) of this title][/us/usc/t7/s1731/a])” after “commodities”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 3014(b)(1), struck out “(that have been determined to be available under [section 1731(a) of this title][/us/usc/t7/s1731/a])” after “commodities”.
 
-    Subsec. (b)(2). [Pub. L. 110–246, § 3016][/us/pl/110/246/s3016], inserted “, including the costs of carrying out [section 1736g–2 of this title][/us/usc/t7/s1736g–2]” before semicolon at end.
+    Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 3016, inserted “, including the costs of carrying out [section 1736g–2 of this title][/us/usc/t7/s1736g–2]” before semicolon at end.
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 215(1)][/us/pl/104/127/s215/1], substituted “may” for “shall” after “Corporation”.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 215(1), substituted “may” for “shall” after “Corporation”.
 
-    Subsec. (b). [Pub. L. 104–127, § 215(2)(A)][/us/pl/104/127/s215/2/A], in introductory provisions, substituted “subchapters III and III–A” for “this chapter”.
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 215(2)(A), in introductory provisions, substituted “subchapters III and III–A” for “this chapter”.
 
-    Subsec. (b)(4). [Pub. L. 104–127, § 215(2)(B)][/us/pl/104/127/s215/2/B], added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
+    Subsec. (b)(4). [Pub. L. 104–127][/us/pl/104/127], § 215(2)(B), added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
 
     1991—Subsec. (b)(5)(D). [Pub. L. 102–237][/us/pl/102/237] substituted “time” for “items”.
 
@@ -75,11 +75,11 @@
 
     Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] added subsec. (d).
 
-    1975—Subsec. (a). [Pub. L. 94–161, § 214(1)][/us/pl/94/161/s214/1], substituted “the President” for “the Secretary of Agriculture”.
+    1975—Subsec. (a). [Pub. L. 94–161][/us/pl/94/161], § 214(1), substituted “the President” for “the Secretary of Agriculture”.
 
-    Subsec. (a)(1). [Pub. L. 94–161, § 214(2)][/us/pl/94/161/s214/2], struck out “through existing agencies of the Department of Agriculture” after “establish and administer”.
+    Subsec. (a)(1). [Pub. L. 94–161][/us/pl/94/161], § 214(2), struck out “through existing agencies of the Department of Agriculture” after “establish and administer”.
 
-    Subsec. (a)(5). [Pub. L. 94–161, § 214(3)][/us/pl/94/161/s214/3], substituted “with other foreign assistance activities of the United States” for “with the activities of the Peace Corps, the Agency for International Development, and other agencies of the United States and to assign, upon agreement with such agencies, such persons to work with and under the administration of such agencies: Provided, That nothing in this section shall be construed to infringe upon the powers or functions of the Secretary of State”.
+    Subsec. (a)(5). [Pub. L. 94–161][/us/pl/94/161], § 214(3), substituted “with other foreign assistance activities of the United States” for “with the activities of the Peace Corps, the Agency for International Development, and other agencies of the United States and to assign, upon agreement with such agencies, such persons to work with and under the administration of such agencies: Provided, That nothing in this section shall be construed to infringe upon the powers or functions of the Secretary of State”.
 
     1966—[Pub. L. 89–808][/us/pl/89/808] substituted food production assistance provisions for provision respecting applicability of other laws, now provided for by [section 1707(d) of this title][/us/usc/t7/s1707/d].
 
@@ -101,7 +101,7 @@
 
  __Farmer-to-Farmer Programs for Fiscal Years 1986 Through 1990__ 
 
-    [Pub. L. 99–198, title XI, § 1107][/us/pl/99/198/s1107], Dec. 23, 1985, [99 Stat. 1467][/us/stat/99/1467], as amended by [Pub. L. 100–277, § 6][/us/pl/100/277/s6], Apr. 4, 1988, [102 Stat. 69][/us/stat/102/69], directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
+    [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1107, Dec. 23, 1985, [99 Stat. 1467][/us/stat/99/1467], as amended by [Pub. L. 100–277][/us/pl/100/277], § 6, Apr. 4, 1988, [102 Stat. 69][/us/stat/102/69], directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
 
 ----------
 
@@ -112,37 +112,37 @@
 
 [/us/usc/t7/s1736g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736g%E2%80%932
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/86/341/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs14
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F610
-[/us/pl/87/703/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs201%2F5
+[/us/pl/87/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtII
 [/us/stat/76/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F611
-[/us/pl/89/808/s2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FE
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1536
-[/us/pl/94/161/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs214
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F855
-[/us/pl/101/508/s1204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1204%2Fb%2F2
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-11
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3650
-[/us/pl/102/237/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs323
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1857
-[/us/pl/104/127/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs215
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F956
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1826
-[/us/pl/110/246/s3014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3014%2Fb%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1731%2Fa
-[/us/pl/110/246/s3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3016
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1736g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736g%E2%80%932
-[/us/pl/104/127/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs215%2F1
-[/us/pl/104/127/s215/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs215%2F2%2FA
-[/us/pl/104/127/s215/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs215%2F2%2FB
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/94/161/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs214%2F1
-[/us/pl/94/161/s214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs214%2F2
-[/us/pl/94/161/s214/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs214%2F3
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/usc/t7/s1707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707%2Fd
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
@@ -158,9 +158,9 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/99/198/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1107
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1467
-[/us/pl/100/277/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F277%2Fs6
+[/us/pl/100/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F277
 [/us/stat/102/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F69
 
 

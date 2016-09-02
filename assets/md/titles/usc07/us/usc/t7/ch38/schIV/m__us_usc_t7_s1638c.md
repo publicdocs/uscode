@@ -27,7 +27,7 @@
 
         In promulgating the regulations, the Secretary shall, to the maximum extent practicable, enter into partnerships with States with enforcement infrastructure to assist in the administration of this subchapter.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 284, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 535][/us/stat/116/535].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 284, as added [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10816, May 13, 2002, [116 Stat. 535][/us/stat/116/535].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t7/s1638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638a
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/107/171/s10816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10816
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F535
 
 

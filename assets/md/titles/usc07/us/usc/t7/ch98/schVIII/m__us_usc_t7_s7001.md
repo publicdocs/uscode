@@ -49,7 +49,7 @@
 
     (b) __, (c) Omitted__ 
 
-([Pub. L. 103–354, title II, § 281][/us/pl/103/354/s281], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 107–171, title I, § 1613(i)][/us/pl/107/171/s1613/i], May 13, 2002, [116 Stat. 221][/us/stat/116/221].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281, Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1613(i), May 13, 2002, [116 Stat. 221][/us/stat/116/221].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1). [Pub. L. 107–171, § 1613(i)(1)][/us/pl/107/171/s1613/i/1], (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
+    2002—Subsec. (a)(1). [Pub. L. 107–171][/us/pl/107/171], § 1613(i)(1), (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 107–171, § 1613(i)(3)][/us/pl/107/171/s1613/i/3], inserted “, before the end of the 90-day period,” after “unless the decision” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 107–171][/us/pl/107/171], § 1613(i)(3), inserted “, before the end of the 90-day period,” after “unless the decision” in introductory provisions.
 
-    Subsec. (a)(2)(B), (3), (4). [Pub. L. 107–171, § 1613(i)(1)][/us/pl/107/171/s1613/i/1], substituted “Farm Service Agency” for “Consolidated Farm Service Agency” wherever appearing.
+    Subsec. (a)(2)(B), (3), (4). [Pub. L. 107–171][/us/pl/107/171], § 1613(i)(1), substituted “Farm Service Agency” for “Consolidated Farm Service Agency” wherever appearing.
 
 ----------
 
@@ -73,14 +73,14 @@
 [/us/usc/t16/s590h/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5
 [/us/usc/t7/s2008k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008k
 [/us/usc/t7/s6932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6932
-[/us/pl/103/354/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
-[/us/pl/107/171/s1613/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613%2Fi
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F221
 [/us/pl/103/354/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281
 [/us/pl/103/354/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281
-[/us/pl/107/171/s1613/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613%2Fi%2F1
-[/us/pl/107/171/s1613/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613%2Fi%2F3
-[/us/pl/107/171/s1613/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613%2Fi%2F1
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 
 

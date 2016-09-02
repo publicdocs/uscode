@@ -47,7 +47,7 @@
 
         The plan may provide authority to use funds collected under this chapter, with the approval of the Secretary, for the development and expansion of pecan sales in foreign markets.
 
-([Pub. L. 101–624, title XIX, § 1911][/us/pl/101/624/s1911], Nov. 28, 1990, [104 Stat. 3847][/us/stat/104/3847].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1911, Nov. 28, 1990, [104 Stat. 3847][/us/stat/104/3847].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1911
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3847
 
 

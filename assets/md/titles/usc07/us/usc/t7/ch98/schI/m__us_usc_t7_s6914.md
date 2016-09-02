@@ -17,7 +17,7 @@
 
     Subject to the availability of appropriated funds for this purpose, the Secretary shall develop and carry out a plan to consolidate offices located in Washington, District of Columbia, of agencies, offices, and other administrative units of the Department.
 
-([Pub. L. 103–354, title II, § 214][/us/pl/103/354/s214], Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 214, Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs214
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3211
 
 

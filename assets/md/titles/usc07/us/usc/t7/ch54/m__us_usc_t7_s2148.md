@@ -65,7 +65,7 @@
 
         (2) provide for the care (including appropriate veterinary care), forfeiture, and adoption of each applicable dog, at the expense of the importer.
 
-([Pub. L. 89–544, § 18][/us/pl/89/544/s18], as added [Pub. L. 110–234, title XIV, § 14210(a)][/us/pl/110/234/s14210/a], May 22, 2008, [122 Stat. 1464][/us/stat/122/1464], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14210(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226.)
+([Pub. L. 89–544][/us/pl/89/544], § 18, as added [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14210(a), May 22, 2008, [122 Stat. 1464][/us/stat/122/1464], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14210(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226.)
 
  __Codification__ 
 
@@ -73,13 +73,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 2148, [Pub. L. 89–544, § 18][/us/pl/89/544/s18], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352], prohibited any construction of this chapter which would authorize the Secretary to promulgate rules, regulations, or orders for the handling, care, treatment, or inspection of animals during research or experimentation, prior to repeal by [Pub. L. 91–579][/us/pl/91/579], §§ 19, 23, Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564], 1565, effective one year after Dec. 24, 1970. See [section 2143 of this title][/us/usc/t7/s2143].
+    A prior section 2148, [Pub. L. 89–544][/us/pl/89/544], § 18, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352], prohibited any construction of this chapter which would authorize the Secretary to promulgate rules, regulations, or orders for the handling, care, treatment, or inspection of animals during research or experimentation, prior to repeal by [Pub. L. 91–579][/us/pl/91/579], §§ 19, 23, Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564], 1565, effective one year after Dec. 24, 1970. See [section 2143 of this title][/us/usc/t7/s2143].
 
  __Effective Date__ 
 
     Enactment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].
 
-[Pub. L. 110–234, title XIV, § 14210(b)][/us/pl/110/234/s14210/b], May 22, 2008, [122 Stat. 1464][/us/stat/122/1464], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14210(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14210(b), May 22, 2008, [122 Stat. 1464][/us/stat/122/1464], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14210(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226, provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] takes effect on the date of the enactment of this Act \[June 18, 2008\].”
 
@@ -93,16 +93,16 @@
 ----------
 
 [/us/usc/t7/s2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2149
-[/us/pl/89/544/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs18
-[/us/pl/110/234/s14210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14210%2Fa
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1464
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/89/544/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs18
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1564
@@ -112,9 +112,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14210%2Fb
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1464
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

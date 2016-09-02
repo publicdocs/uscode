@@ -23,7 +23,7 @@
 
         The suspension or termination of any order, or any provision of an order, shall not be considered an order under this subchapter.
 
-([Pub. L. 104–127, title V, § 562][/us/pl/104/127/s562], Apr. 4, 1996, [110 Stat. 1074][/us/stat/110/1074].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 562, Apr. 4, 1996, [110 Stat. 1074][/us/stat/110/1074].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
-[/us/pl/104/127/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs562
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1074
 
 

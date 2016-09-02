@@ -161,7 +161,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
 
-([Pub. L. 95–113, title XIV, § 1415B][/us/pl/95/113/s1415B], as added [Pub. L. 113–79, title VII, § 7104][/us/pl/113/79/s7104], Feb. 7, 2014, [128 Stat. 866][/us/stat/128/866].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1415B, as added [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7104, Feb. 7, 2014, [128 Stat. 866][/us/stat/128/866].)
 
 ----------
 
@@ -175,8 +175,8 @@
 [/us/usc/t7/s3151a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a%2Fa%2F2
 [/us/usc/t7/s3151a/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a%2Fc%2F5
 [/us/usc/t7/s3151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a
-[/us/pl/95/113/s1415B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1415B
-[/us/pl/113/79/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7104
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F866
 
 

@@ -73,7 +73,7 @@
 
         The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
-([Pub. L. 113–79, title I, § 1205][/us/pl/113/79/s1205], Feb. 7, 2014, [128 Stat. 679][/us/stat/128/679].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1205, Feb. 7, 2014, [128 Stat. 679][/us/stat/128/679].)
 
 ----------
 
@@ -91,7 +91,7 @@
 [/us/usc/t7/s9034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9034
 [/us/usc/t7/s9032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9032
 [/us/usc/t7/s9034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9034
-[/us/pl/113/79/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1205
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F679
 
 

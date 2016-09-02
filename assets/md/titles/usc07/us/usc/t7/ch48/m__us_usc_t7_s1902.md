@@ -21,7 +21,7 @@
 
     (b) by slaughtering in accordance with the ritual requirements of the Jewish faith or any other religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
 
-([Pub. L. 85–765, § 2][/us/pl/85/765/s2], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862]; [Pub. L. 95–445, § 5(a)][/us/pl/95/445/s5/a], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
+([Pub. L. 85–765][/us/pl/85/765], § 2, Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862]; [Pub. L. 95–445][/us/pl/95/445], § 5(a), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/85/765/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765%2Fs2
+[/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
-[/us/pl/95/445/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fa
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445

@@ -31,7 +31,7 @@
 
         Unless the licensee against whom a reparation order has been issued shows to the satisfaction of the Secretary within five days from the expiration of the period allowed for compliance with such order that he has either taken an appeal as herein authorized or has made payment in full as required by such order his license shall be suspended automatically at the expiration of such five-day period until he shows to the satisfaction of the Secretary that he has paid the amount therein specified with interest thereon to date of payment: Provided, That if on appeal the appellee prevails or if the appeal is dismissed the automatic suspension of license shall become effective at the expiration of thirty days from the date of the judgment on the appeal, but if the judgment is stayed by a court of competent jurisdiction the suspension shall become effective ten days after the expiration of such stay, unless prior thereto the judgment of the court has been satisfied.
 
-([June 10, 1930, ch. 436, § 7][/us/act/1930-06-10/ch436/s7], [46 Stat. 534][/us/stat/46/534]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 11–13, [48 Stat. 587][/us/stat/48/587], 588; [June 19, 1936, ch. 602, § 3][/us/act/1936-06-19/ch602/s3], [49 Stat. 1534][/us/stat/49/1534]; [Aug. 20, 1937, ch. 719, § 10][/us/act/1937-08-20/ch719/s10], [50 Stat. 728][/us/stat/50/728]; [June 23, 1938, ch. 599][/us/act/1938-06-23/ch599], [52 Stat. 953][/us/stat/52/953]; [May 14, 1940, ch. 196][/us/act/1940-05-14/ch196], [54 Stat. 214][/us/stat/54/214]; [Pub. L. 87–725][/us/pl/87/725], §§ 9, 10, Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 92–231, § 2][/us/pl/92/231/s2], Feb. 15, 1972, [86 Stat. 38][/us/stat/86/38]; [Pub. L. 102–237, title X, § 1011(5)][/us/pl/102/237/s1011/5], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 7, [46 Stat. 534][/us/stat/46/534]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 11–13, [48 Stat. 587][/us/stat/48/587], 588; [June 19, 1936, ch. 602][/us/act/1936-06-19/ch602], § 3, [49 Stat. 1534][/us/stat/49/1534]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 10, [50 Stat. 728][/us/stat/50/728]; [June 23, 1938, ch. 599][/us/act/1938-06-23/ch599], [52 Stat. 953][/us/stat/52/953]; [May 14, 1940, ch. 196][/us/act/1940-05-14/ch196], [54 Stat. 214][/us/stat/54/214]; [Pub. L. 87–725][/us/pl/87/725], §§ 9, 10, Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 92–231][/us/pl/92/231], § 2, Feb. 15, 1972, [86 Stat. 38][/us/stat/86/38]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(5), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
     1972—Subsec. (a). [Pub. L. 92–231][/us/pl/92/231] directed the Secretary to order commission merchants, dealers, or brokers who are the losing party to pay the prevailing party, as reparation or additional reparation, reasonable fees and expenses incurred in connection with hearings.
 
-    1962—Subsec. (c). [Pub. L. 87–725, § 9][/us/pl/87/725/s9], limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
+    1962—Subsec. (c). [Pub. L. 87–725][/us/pl/87/725], § 9, limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
 
-    Subsec. (d). [Pub. L. 87–725, § 10][/us/pl/87/725/s10], lengthened period upon the expiration of which the license is suspended from ten to thirty days, and provided that if the judgment is stayed by a court of competent jurisdiction the suspension becomes effective ten days after the expiration of such stay.
+    Subsec. (d). [Pub. L. 87–725][/us/pl/87/725], § 10, lengthened period upon the expiration of which the license is suspended from ten to thirty days, and provided that if the judgment is stayed by a court of competent jurisdiction the suspension becomes effective ten days after the expiration of such stay.
 
     1940—Subsec. (c). Act May 14, 1940, inserted proviso in first sentence.
 
@@ -76,13 +76,13 @@
 [/us/usc/t7/s499f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
 [/us/usc/t7/s499f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f
-[/us/act/1930-06-10/ch436/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs7
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F534
 [/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F587
-[/us/act/1936-06-19/ch602/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602%2Fs3
+[/us/act/1936-06-19/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602
 [/us/stat/49/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1534
-[/us/act/1937-08-20/ch719/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs10
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F728
 [/us/act/1938-06-23/ch599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch599
 [/us/stat/52/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F953
@@ -90,15 +90,15 @@
 [/us/stat/54/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F214
 [/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F675
-[/us/pl/92/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F231%2Fs2
+[/us/pl/92/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F231
 [/us/stat/86/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F38
-[/us/pl/102/237/s1011/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F5
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/usc/t7/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs557
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/92/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F231
-[/us/pl/87/725/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs9
-[/us/pl/87/725/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs10
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/usc/t7/s499f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f
 
 

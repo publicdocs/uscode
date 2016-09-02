@@ -23,7 +23,7 @@
 
     (c) To prevent or interfere with any investigation, proceeding, or prosecution begun and pending on August 15, 1921.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 405, [42 Stat. 168][/us/stat/42/168]; [Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(C)][/us/pl/107/273/s14102/c/2/C], Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 405, [42 Stat. 168][/us/stat/42/168]; [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(c)(2)(C), Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies and for other purposes”, approved October 15, 1914, referred to in subsec. (a), is [act Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], [38 Stat. 730][/us/stat/38/730], as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of the Act to the Code, see References in Text note set out under [section 12 of Title 15][/us/usc/t15/s12] and Tables.
 
-    The Interstate Commerce Act, referred to in subsec. (a), is [act Feb. 4, 1887, ch. 104][/us/act/1887-02-04/ch104], [24 Stat. 379][/us/stat/24/379], as amended, which was classified to chapters 1 (§ 1 et seq.), 8 (§ 301 et seq.), 12 (§ 901 et seq.), 13 (§ 1001 et seq.), and 19 (1231 et seq.) of Title 49, Transportation. The Act was repealed by [Pub. L. 95–473, § 4(b)][/us/pl/95/473/s4/b], Oct. 17, 1978, [92 Stat. 1467][/us/stat/92/1467], the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+    The Interstate Commerce Act, referred to in subsec. (a), is [act Feb. 4, 1887, ch. 104][/us/act/1887-02-04/ch104], [24 Stat. 379][/us/stat/24/379], as amended, which was classified to chapters 1 (§ 1 et seq.), 8 (§ 301 et seq.), 12 (§ 901 et seq.), 13 (§ 1001 et seq.), and 19 (1231 et seq.) of Title 49, Transportation. The Act was repealed by [Pub. L. 95–473][/us/pl/95/473], § 4(b), Oct. 17, 1978, [92 Stat. 1467][/us/stat/92/1467], the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
     The Act entitled “An Act to promote export trade and for other purposes”, approved April 10, 1918, referred to in subsec. (a), means [act Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], [40 Stat. 516][/us/stat/40/516], known as the Webb-Pomerene Act, which is classified generally to subchapter II (§ 61 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 66 of Title 15][/us/usc/t15/s66] and Tables.
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs61
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F168
-[/us/pl/107/273/s14102/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fc%2F2%2FC
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209
@@ -67,7 +67,7 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/act/1887-02-04/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-04%2Fch104
 [/us/stat/24/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F379
-[/us/pl/95/473/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1467
 [/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
 [/us/stat/40/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F516

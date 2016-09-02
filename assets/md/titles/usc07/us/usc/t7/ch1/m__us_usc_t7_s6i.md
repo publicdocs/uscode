@@ -23,7 +23,7 @@
 
     unless such person files or causes to be filed with the properly designated officer of the Commission such reports regarding any transactions or positions described in clauses (1) and (2) hereof as the Commission may by rule or regulation require and unless, in accordance with rules and regulations of the Commission, such person shall keep books and records of all such transactions and positions and transactions and positions in any such commodity traded on or subject to the rules of any other board of trade or electronic trading facility, and of cash or spot transactions in, and inventories and purchase and sale commitments of such commodity. Such books and records shall show complete details concerning all such transactions, positions, inventories, and commitments, including the names and addresses of all persons having any interest therein, and shall be open at all times to inspection by any representative of the Commission or the Department of Justice. For the purposes of this section, the futures and cash or spot transactions and positions of any person shall include such transactions and positions of any persons directly or indirectly controlled by such person.
 
-([Sept. 21, 1922, ch. 369, § 4i][/us/act/1922-09-21/ch369/s4i], as added [June 15, 1936, ch. 545, § 5][/us/act/1936-06-15/ch545/s5], [49 Stat. 1496][/us/stat/49/1496]; amended [Pub. L. 90–258, § 9][/us/pl/90/258/s9], Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (f), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 97–444, title II, § 211][/us/pl/97/444/s211], Jan. 11, 1983, [96 Stat. 2303][/us/stat/96/2303]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(9)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII, § 13202(b)][/us/pl/110/234/s13202/b], May 22, 2008, [122 Stat. 1439][/us/stat/122/1439]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13202(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2201.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4i, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 5, [49 Stat. 1496][/us/stat/49/1496]; amended [Pub. L. 90–258][/us/pl/90/258], § 9, Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (f), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 211, Jan. 11, 1983, [96 Stat. 2303][/us/stat/96/2303]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(9)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13202(b), May 22, 2008, [122 Stat. 1439][/us/stat/122/1439]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13202(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2201.)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 13202(b)][/us/pl/110/246/s13202/b], in introductory provisions, inserted “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “derivatives transaction execution facility” and, in concluding provisions, inserted “or electronic trading facility” after “board of trade”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 13202(b), in introductory provisions, inserted “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “derivatives transaction execution facility” and, in concluding provisions, inserted “or electronic trading facility” after “board of trade”.
 
     2000—[Pub. L. 106–554][/us/pl/106/554] inserted “or derivatives transaction execution facility” after “contract market” in introductory provisions.
 
@@ -70,26 +70,26 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4i
-[/us/act/1936-06-15/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1496
-[/us/pl/90/258/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs9
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F28
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/97/444/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs211
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2303
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13202%2Fb
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1439
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s13202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13202%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463

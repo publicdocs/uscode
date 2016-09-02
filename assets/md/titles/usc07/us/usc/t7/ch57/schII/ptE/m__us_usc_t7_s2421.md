@@ -19,7 +19,7 @@
 
     (b) An error as to the naming of the breeder, without deceptive intent, may be corrected at any time, in accordance with regulations established by the Secretary.
 
-([Pub. L. 91–577, title II, § 51][/us/pl/91/577/s51], Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 51, Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs51
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1548
 
 

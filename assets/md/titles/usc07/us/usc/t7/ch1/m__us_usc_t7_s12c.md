@@ -39,7 +39,7 @@
 
         (2) The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any registered entity or registered futures association, or on any disciplinary committee thereof.
 
-([Sept. 21, 1922, ch. 369, § 8c][/us/act/1922-09-21/ch369/s8c], as added [Pub. L. 93–463, title II, § 216][/us/pl/93/463/s216], Oct. 23, 1974, [88 Stat. 1405][/us/stat/88/1405]; amended [Pub. L. 95–405, § 18][/us/pl/95/405/s18], Sept. 30, 1978, [92 Stat. 874][/us/stat/92/874]; [Pub. L. 102–546, title II, § 206(a)(2)][/us/pl/102/546/s206/a/2], Oct. 28, 1992, [106 Stat. 3602][/us/stat/106/3602]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(20)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 8c, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 216, Oct. 23, 1974, [88 Stat. 1405][/us/stat/88/1405]; amended [Pub. L. 95–405][/us/pl/95/405], § 18, Sept. 30, 1978, [92 Stat. 874][/us/stat/92/874]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 206(a)(2), Oct. 28, 1992, [106 Stat. 3602][/us/stat/106/3602]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(20)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410.)
 
  __Amendments__ 
 
@@ -64,14 +64,14 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s8c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs8c
-[/us/pl/93/463/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs216
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1405
-[/us/pl/95/405/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs18
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F874
-[/us/pl/102/546/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs206%2Fa%2F2
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3602
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546

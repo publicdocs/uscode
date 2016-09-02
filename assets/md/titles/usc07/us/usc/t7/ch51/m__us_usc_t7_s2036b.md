@@ -49,7 +49,7 @@
 
                 The funding provided under subparagraph (A) shall supplement (and not supplant) other Federal funding for programs carried out under this chapter.
 
-([Pub. L. 88–525, § 29][/us/pl/88/525/s29], as added [Pub. L. 113–79, title IV, § 4029][/us/pl/113/79/s4029], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].)
+([Pub. L. 88–525][/us/pl/88/525], § 29, as added [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4029, Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].)
 
 ----------
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t7/s2013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2013%2Fc
-[/us/pl/88/525/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs29
-[/us/pl/113/79/s4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4029
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 
 

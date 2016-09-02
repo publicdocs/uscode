@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-Section, [act June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title V, § 503, [70 Stat. 240][/us/stat/70/240], related to options to purchase lands and was superseded by [section 428a of this title][/us/usc/t7/s428a]. Similar provisions were contained in the following prior appropriation acts:
+Section, [act June 4, 1956, ch. 355, title V][/us/act/1956-06-04/ch355/tV], § 503, [70 Stat. 240][/us/stat/70/240], related to options to purchase lands and was superseded by [section 428a of this title][/us/usc/t7/s428a]. Similar provisions were contained in the following prior appropriation acts:
 
     [May 23, 1955, ch. 43][/us/act/1955-05-23/ch43], title V, § 503, [69 Stat. 63][/us/stat/69/63].
 
@@ -58,7 +58,7 @@ Section, [act June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title V, § 50
 ----------
 ----------
 
-[/us/act/1956-06-04/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355
+[/us/act/1956-06-04/ch355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355%2FtV
 [/us/stat/70/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F240
 [/us/usc/t7/s428a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs428a
 [/us/act/1955-05-23/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-23%2Fch43

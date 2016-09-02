@@ -135,7 +135,7 @@
 
             There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.
 
-([Pub. L. 95–113, title XIV, § 1456][/us/pl/95/113/s1456], as added [Pub. L. 110–234, title VII, § 7129(a)][/us/pl/110/234/s7129/a], May 22, 2008, [122 Stat. 1224][/us/stat/122/1224], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7129(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1985; amended [Pub. L. 113–79, title VII, § 7116][/us/pl/113/79/s7116], Feb. 7, 2014, [128 Stat. 875][/us/stat/128/875].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1456, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7129(a), May 22, 2008, [122 Stat. 1224][/us/stat/122/1224], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7129(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1985; amended [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7116, Feb. 7, 2014, [128 Stat. 875][/us/stat/128/875].)
 
  __References in Text__ 
 
@@ -165,12 +165,12 @@
 ----------
 
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/95/113/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1456
-[/us/pl/110/234/s7129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7129%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1224
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7116
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F875
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417

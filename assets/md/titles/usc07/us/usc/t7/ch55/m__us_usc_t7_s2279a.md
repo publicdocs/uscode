@@ -41,7 +41,7 @@
 
         For purposes of this section, the term “socially disadvantaged producer” means a producer who is a member of a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.
 
-([Pub. L. 103–354, title III, § 305][/us/pl/103/354/s305], Oct. 13, 1994, [108 Stat. 3240][/us/stat/108/3240].)
+([Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 305, Oct. 13, 1994, [108 Stat. 3240][/us/stat/108/3240].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t16/s590h/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5
 [/us/usc/t7/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1363
-[/us/pl/103/354/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs305
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
 [/us/stat/108/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3240
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

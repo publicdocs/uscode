@@ -17,7 +17,7 @@
 
     Any duties devolving upon the Secretary of Agriculture by virtue of the provisions of this chapter may with like force and effect be executed by such officer or officers, agent or agents, of the Department of Agriculture as the Secretary may designate for the purpose.
 
-([Aug. 23, 1935, ch. 623, § 17][/us/act/1935-08-23/ch623/s17], [49 Stat. 735][/us/stat/49/735].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 17, [49 Stat. 735][/us/stat/49/735].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs17
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F735
 
 

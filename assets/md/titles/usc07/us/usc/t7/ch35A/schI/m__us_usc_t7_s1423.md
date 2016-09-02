@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 3 percent.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 403, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 85–835, title I][/us/pl/85/835], §§ 108, 111, Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; [Pub. L. 89–321, title VIII, § 802][/us/pl/89/321/s802], Nov. 3, 1965, [79 Stat. 1213][/us/stat/79/1213]; [Pub. L. 97–98, title V, § 507][/us/pl/97/98/s507], Dec. 22, 1981, [95 Stat. 1241][/us/stat/95/1241]; [Pub. L. 100–203, title I, § 1105][/us/pl/100/203/s1105], Dec. 22, 1987, [101 Stat. 1330–5][/us/stat/101/1330-5]; [Pub. L. 101–624, title XI, § 1128][/us/pl/101/624/s1128], title XX, § 2011, Nov. 28, 1990, [104 Stat. 3508][/us/stat/104/3508], 3932.)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 403, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 85–835, title I][/us/pl/85/835/tI], §§ 108, 111, Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; [Pub. L. 89–321, title VIII][/us/pl/89/321/tVIII], § 802, Nov. 3, 1965, [79 Stat. 1213][/us/stat/79/1213]; [Pub. L. 97–98, title V][/us/pl/97/98/tV], § 507, Dec. 22, 1981, [95 Stat. 1241][/us/stat/95/1241]; [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1105, Dec. 22, 1987, [101 Stat. 1330–5][/us/stat/101/1330-5]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1128, title XX, § 2011, Nov. 28, 1990, [104 Stat. 3508][/us/stat/104/3508], 3932.)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–624, § 2011][/us/pl/101/624/s2011], inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
 
-    [Pub. L. 101–624, § 1128][/us/pl/101/624/s1128], in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
+    [Pub. L. 101–624][/us/pl/101/624], § 1128, in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
 
     1987—[Pub. L. 100–203][/us/pl/100/203] inserted at end “Notwithstanding the preceding provisions of this section, for each of the 1988 through 1990 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease such regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 2 percent.”
 
@@ -78,21 +78,21 @@
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1054
-[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F993
-[/us/pl/89/321/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs802
+[/us/pl/89/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVIII
 [/us/stat/79/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1213
-[/us/pl/97/98/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs507
+[/us/pl/97/98/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtV
 [/us/stat/95/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1241
-[/us/pl/100/203/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1105
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-5
-[/us/pl/101/624/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1128
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3508
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/624/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2011
-[/us/pl/101/624/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1128
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321

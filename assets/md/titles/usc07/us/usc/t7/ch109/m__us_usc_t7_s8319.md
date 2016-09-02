@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services, through the Commissioner of Food and Drugs and the Director of the Centers for Disease Control and Prevention, and the Secretary of Agriculture shall coordinate the surveillance of zoonotic diseases.
 
-([Pub. L. 107–188, title III, § 313][/us/pl/107/188/s313], June 12, 2002, [116 Stat. 674][/us/stat/116/674].)
+([Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 313, June 12, 2002, [116 Stat. 674][/us/stat/116/674].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/188/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs313
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F674
 
 

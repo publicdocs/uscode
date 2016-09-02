@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such rules and regulations as the Secretary deems necessary to carry out the provisions of this chapter.
 
-([Pub. L. 95–113, title XIV, § 1470][/us/pl/95/113/s1470], Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1470, Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1470
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1019
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 

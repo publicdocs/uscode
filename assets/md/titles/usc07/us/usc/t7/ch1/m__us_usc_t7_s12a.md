@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1...12–3.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
 
 ## § 12a. Registration of commodity dealers and associated persons; regulation of registered entities
 
@@ -129,7 +129,7 @@
 
         (F) A person aggrieved by an order issued under this paragraph may obtain review of such order in the same manner and on the same terms and conditions as are provided in [section 8(b) of this title][/us/usc/t7/s8/b].
 
-([Sept. 21, 1922, ch. 369, § 8a][/us/act/1922-09-21/ch369/s8a], as added [June 15, 1936, ch. 545, § 10][/us/act/1936-06-15/ch545/s10], [49 Stat. 1500][/us/stat/49/1500]; amended [Aug. 5, 1955, ch. 574][/us/act/1955-08-05/ch574], [69 Stat. 535][/us/stat/69/535]; [Pub. L. 90–258][/us/pl/90/258], §§ 20–23, Feb. 19, 1968, [82 Stat. 32][/us/stat/82/32], 33; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], title II, §§ 204(c), 205(c), 213–215, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1397, 1400, 1404; [Pub. L. 95–405, § 17][/us/pl/95/405/s17], Sept. 30, 1978, [92 Stat. 874][/us/stat/92/874]; [Pub. L. 97–444, title I, § 104][/us/pl/97/444/s104], title II, §§ 223–225, Jan. 11, 1983, [96 Stat. 2297][/us/stat/96/2297], 2310–2315; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 207(b)(3), (4), 208, 209(b)(6), 227, title IV, § 402(10), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3607, 3618, 3625; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(19)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410; [Pub. L. 111–203, title VII, § 736][/us/pl/111/203/s736], July 21, 2010, [124 Stat. 1722][/us/stat/124/1722].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 8a, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 10, [49 Stat. 1500][/us/stat/49/1500]; amended [Aug. 5, 1955, ch. 574][/us/act/1955-08-05/ch574], [69 Stat. 535][/us/stat/69/535]; [Pub. L. 90–258][/us/pl/90/258], §§ 20–23, Feb. 19, 1968, [82 Stat. 32][/us/stat/82/32], 33; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), title II, §§ 204(c), 205(c), 213–215, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1397, 1400, 1404; [Pub. L. 95–405][/us/pl/95/405], § 17, Sept. 30, 1978, [92 Stat. 874][/us/stat/92/874]; [Pub. L. 97–444, title I][/us/pl/97/444/tI], § 104, title II, §§ 223–225, Jan. 11, 1983, [96 Stat. 2297][/us/stat/96/2297], 2310–2315; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 207(b)(3), (4), 208, 209(b)(6), 227, title IV, § 402(10), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3607, 3618, 3625; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(19)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 736, July 21, 2010, [124 Stat. 1722][/us/stat/124/1722].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 
     The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
-    The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
     The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1149][/us/stat/53/1149], as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15][/us/usc/t15/s77aaa] and Tables.
 
@@ -151,59 +151,59 @@
 
  __Amendments__ 
 
-    2010—Par. (7)(C). [Pub. L. 111–203, § 736(1)][/us/pl/111/203/s736/1], struck out “, excepting the setting of levels of margin” after “requirements”.
+    2010—Par. (7)(C). [Pub. L. 111–203][/us/pl/111/203], § 736(1), struck out “, excepting the setting of levels of margin” after “requirements”.
 
-    Par. (7)(D) to (G). [Pub. L. 111–203, § 736(2)][/us/pl/111/203/s736/2], (3), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+    Par. (7)(D) to (G). [Pub. L. 111–203][/us/pl/111/203], § 736(2), (3), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-    2000—[Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(19)(A)\], substituted “registered entity” for “contract market” wherever appearing.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(19)(A)\], substituted “registered entity” for “contract market” wherever appearing.
 
-    Par. (2)(F). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(19)(B)\], substituted “privileges” for “trading privileges”.
+    Par. (2)(F). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(19)(B)\], substituted “privileges” for “trading privileges”.
 
-    1992—Par. (1). [Pub. L. 102–546, § 207(b)(3)][/us/pl/102/546/s207/b/3], substituted “floor brokers, and floor traders” for “and floor brokers”.
+    1992—Par. (1). [Pub. L. 102–546][/us/pl/102/546], § 207(b)(3), substituted “floor brokers, and floor traders” for “and floor brokers”.
 
-    Par. (2). [Pub. L. 102–546, § 209(b)(6)(A)][/us/pl/102/546/s209/b/6/A], made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
+    Par. (2). [Pub. L. 102–546][/us/pl/102/546], § 209(b)(6)(A), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-    Par. (2)(C)(i). [Pub. L. 102–546, § 207(b)(4)][/us/pl/102/546/s207/b/4], inserted “floor trader,” after “floor broker,”.
+    Par. (2)(C)(i). [Pub. L. 102–546][/us/pl/102/546], § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-    Par. (2)(C)(ii). [Pub. L. 102–546, § 208(a)][/us/pl/102/546/s208/a], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities”.
+    Par. (2)(C)(ii). [Pub. L. 102–546][/us/pl/102/546], § 208(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities”.
 
-    Par. (2)(D)(ii). [Pub. L. 102–546, § 207(b)(4)][/us/pl/102/546/s207/b/4], inserted “floor trader,” after “floor broker,”.
+    Par. (2)(D)(ii). [Pub. L. 102–546][/us/pl/102/546], § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-    Par. (2)(D)(iv). [Pub. L. 102–546, § 208(b)][/us/pl/102/546/s208/b], inserted references to sections 1001, 1503, 1623, 1961 to 1963, and 2314 of title 18 and sections 7201 and 7206 of title 26.
+    Par. (2)(D)(iv). [Pub. L. 102–546][/us/pl/102/546], § 208(b), inserted references to sections 1001, 1503, 1623, 1961 to 1963, and 2314 of title 18 and sections 7201 and 7206 of title 26.
 
-    Par. (2)(E). [Pub. L. 102–546, § 208(c)][/us/pl/102/546/s208/c], substituted “in a proceeding brought” for “by any court of competent jurisdiction,” and in cl. (i) inserted reference to chapter 96 of title 18.
+    Par. (2)(E). [Pub. L. 102–546][/us/pl/102/546], § 208(c), substituted “in a proceeding brought” for “by any court of competent jurisdiction,” and in cl. (i) inserted reference to chapter 96 of title 18.
 
-    Par. (2)(G). [Pub. L. 102–546, § 208(d)][/us/pl/102/546/s208/d], substituted “this paragraph and paragraph (3)” for “subparagraphs (A) through (F) of this paragraph”, “materially false” for “material false”, and “application or any update thereto” for “application”.
+    Par. (2)(G). [Pub. L. 102–546][/us/pl/102/546], § 208(d), substituted “this paragraph and paragraph (3)” for “subparagraphs (A) through (F) of this paragraph”, “materially false” for “material false”, and “application or any update thereto” for “application”.
 
-    Par. (3). [Pub. L. 102–546, § 209(b)(6)(B)][/us/pl/102/546/s209/b/6/B], made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
+    Par. (3). [Pub. L. 102–546][/us/pl/102/546], § 209(b)(6)(B), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-    Par. (3)(D). [Pub. L. 102–546, § 208(e)][/us/pl/102/546/s208/e], inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
+    Par. (3)(D). [Pub. L. 102–546][/us/pl/102/546], § 208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
 
-    Par. (3)(E). [Pub. L. 102–546, § 208(f)(1)][/us/pl/102/546/s208/f/1], (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
+    Par. (3)(E). [Pub. L. 102–546][/us/pl/102/546], § 208(f)(1), (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
 
-    Par. (3)(E)(ii). [Pub. L. 102–546, § 207(b)(4)][/us/pl/102/546/s207/b/4], inserted “floor trader,” after “floor broker,”.
+    Par. (3)(E)(ii). [Pub. L. 102–546][/us/pl/102/546], § 207(b)(4), inserted “floor trader,” after “floor broker,”.
 
-    Par. (3)(E)(iv). [Pub. L. 102–546, § 208(f)(3)][/us/pl/102/546/s208/f/3], inserted reference to sections 7203 to 7205 and 7207 of title 26.
+    Par. (3)(E)(iv). [Pub. L. 102–546][/us/pl/102/546], § 208(f)(3), inserted reference to sections 7203 to 7205 and 7207 of title 26.
 
-    Par. (3)(G). [Pub. L. 102–546, § 208(g)(5)][/us/pl/102/546/s208/g/5], which directed the insertion of “or in any registration disqualification proceeding” after “Commission”, was executed by making the insertion after “Commission” the second time it appeared to reflect the probable intent of Congress.
+    Par. (3)(G). [Pub. L. 102–546][/us/pl/102/546], § 208(g)(5), which directed the insertion of “or in any registration disqualification proceeding” after “Commission”, was executed by making the insertion after “Commission” the second time it appeared to reflect the probable intent of Congress.
 
-    [Pub. L. 102–546, § 208(g)(1)][/us/pl/102/546/s208/g/1]–(4), substituted “materially false” for “material false”, “application or any update thereto,” for “application,” and struck out “or” after “thereunder,”.
+    [Pub. L. 102–546][/us/pl/102/546], § 208(g)(1)–(4), substituted “materially false” for “material false”, “application or any update thereto,” for “application,” and struck out “or” after “thereunder,”.
 
-    Par. (3)(H). [Pub. L. 102–546, § 208(h)][/us/pl/102/546/s208/h], inserted “, in a United States military court,” after “State court”.
+    Par. (3)(H). [Pub. L. 102–546][/us/pl/102/546], § 208(h), inserted “, in a United States military court,” after “State court”.
 
-    Par. (3)(J). [Pub. L. 102–546, § 208(i)][/us/pl/102/546/s208/i], struck out “or” before “any other self-regulatory”, inserted “or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program”, and substituted “association, self-regulatory organization, or foreign regulatory body” for “association, or self-regulatory organization”.
+    Par. (3)(J). [Pub. L. 102–546][/us/pl/102/546], § 208(i), struck out “or” before “any other self-regulatory”, inserted “or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program”, and substituted “association, self-regulatory organization, or foreign regulatory body” for “association, or self-regulatory organization”.
 
-    Par. (4). [Pub. L. 102–546, § 209(b)(6)(C)][/us/pl/102/546/s209/b/6/C], made technical amendment to references to sections 9 and 15 of this title in concluding provisions to reflect change in references to corresponding section of original act.
+    Par. (4). [Pub. L. 102–546][/us/pl/102/546], § 209(b)(6)(C), made technical amendment to references to sections 9 and 15 of this title in concluding provisions to reflect change in references to corresponding section of original act.
 
-    Par. (5). [Pub. L. 102–546, § 402(10)(A)][/us/pl/102/546/s402/10/A], struck out “and” at end.
+    Par. (5). [Pub. L. 102–546][/us/pl/102/546], § 402(10)(A), struck out “and” at end.
 
-    Par. (7). [Pub. L. 102–546, § 402(10)(B)][/us/pl/102/546/s402/10/B], substituted “matters as—” for “matters as:” in introductory provisions.
+    Par. (7). [Pub. L. 102–546][/us/pl/102/546], § 402(10)(B), substituted “matters as—” for “matters as:” in introductory provisions.
 
-    Par. (11). [Pub. L. 102–546, § 227][/us/pl/102/546/s227], added par. (11).
+    Par. (11). [Pub. L. 102–546][/us/pl/102/546], § 227, added par. (11).
 
-    1983—Par. (1). [Pub. L. 97–444, § 223][/us/pl/97/444/s223], substituted authorization for registration of “associated persons of futures commission merchants” for “and persons associated therewith as described in [section 6k of this title][/us/usc/t7/s6k]”; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted “such persons” for “any persons” before “associated with the applicant”, and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
+    1983—Par. (1). [Pub. L. 97–444][/us/pl/97/444], § 223, substituted authorization for registration of “associated persons of futures commission merchants” for “and persons associated therewith as described in [section 6k of this title][/us/usc/t7/s6k]”; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted “such persons” for “any persons” before “associated with the applicant”, and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
 
-    Par. (2). [Pub. L. 97–444, § 224(1)][/us/pl/97/444/s224/1], added par. (2) and struck out prior par. (2) which authorized Commission “to refuse to register any person—
+    Par. (2). [Pub. L. 97–444][/us/pl/97/444], § 224(1), added par. (2) and struck out prior par. (2) which authorized Commission “to refuse to register any person—
 
     “(A) if the prior registration of such person has been suspended (and the period of such suspension shall not have expired) or has been revoked;
 
@@ -211,41 +211,41 @@
 
     “(C) in the case of an applicant for registration as futures commission merchant, if it is found after opportunity for hearing that the applicant has not established that he meets the minimum financial requirements under [section 6f of this title][/us/usc/t7/s6f]: Provided, That pending final determination under subparagraph (B) or (C), registration shall not be granted: And provided further, That the applicant may appeal from the refusal of registration under subparagraph (B) or (C) in the manner provided in sections 9 and 15 of this title; and”.
 
-    Par. (3). [Pub. L. 97–444, § 224(3)][/us/pl/97/444/s224/3], added par. (3). Former par. (3) redesignated (4).
+    Par. (3). [Pub. L. 97–444][/us/pl/97/444], § 224(3), added par. (3). Former par. (3) redesignated (4).
 
-    Par. (4). [Pub. L. 97–444, § 224(2)][/us/pl/97/444/s224/2], (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted “if cause exists under paragraph (3) of this section” for “if cause exists under paragraph (2)(B) or (C) of this section”.
+    Par. (4). [Pub. L. 97–444][/us/pl/97/444], § 224(2), (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted “if cause exists under paragraph (3) of this section” for “if cause exists under paragraph (2)(B) or (C) of this section”.
 
-    Par. (6). [Pub. L. 97–444, § 104][/us/pl/97/444/s104], authorized communication of full facts respecting transactions or market operations to registered futures associations and self-regulatory organizations, included concern for investors, provided for communications when necessary or appropriate to effectuate purposes of this chapter, and prohibited disclosure of furnished information except in self-regulatory actions or proceedings.
+    Par. (6). [Pub. L. 97–444][/us/pl/97/444], § 104, authorized communication of full facts respecting transactions or market operations to registered futures associations and self-regulatory organizations, included concern for investors, provided for communications when necessary or appropriate to effectuate purposes of this chapter, and prohibited disclosure of furnished information except in self-regulatory actions or proceedings.
 
-    Pars. (6) to (8). [Pub. L. 97–444, § 224(5)][/us/pl/97/444/s224/5], struck out “and” at end of pars. (6), (7), and (8).
+    Pars. (6) to (8). [Pub. L. 97–444][/us/pl/97/444], § 224(5), struck out “and” at end of pars. (6), (7), and (8).
 
-    Par. (9). [Pub. L. 97–444, § 225][/us/pl/97/444/s225], authorized Commission to direct the contract market to take certain action, including, but not limited to, setting of temporary emergency margin levels on any futures contract, and fixing of limits that may apply to a market position acquired in good faith prior to the effective date of Commission’s action and inserted provisions respecting judicial review.
+    Par. (9). [Pub. L. 97–444][/us/pl/97/444], § 225, authorized Commission to direct the contract market to take certain action, including, but not limited to, setting of temporary emergency margin levels on any futures contract, and fixing of limits that may apply to a market position acquired in good faith prior to the effective date of Commission’s action and inserted provisions respecting judicial review.
 
-    Par. (10). [Pub. L. 97–444, § 224(6)][/us/pl/97/444/s224/6], added par. (10).
+    Par. (10). [Pub. L. 97–444][/us/pl/97/444], § 224(6), added par. (10).
 
-    1978—Par. (1). [Pub. L. 95–405, § 17(1)][/us/pl/95/405/s17/1], inserted “, which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing” after “by the Commission”.
+    1978—Par. (1). [Pub. L. 95–405][/us/pl/95/405], § 17(1), inserted “, which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing” after “by the Commission”.
 
-    Par. (6). [Pub. L. 95–405, § 17(2)][/us/pl/95/405/s17/2], struck out “and to publish” after “any contract market”.
+    Par. (6). [Pub. L. 95–405][/us/pl/95/405], § 17(2), struck out “and to publish” after “any contract market”.
 
-    1974—[Pub. L. 93–463, § 103(a)][/us/pl/93/463/s103/a], substituted “Commission” for “Secretary of Agriculture” in provisions preceding par. (1).
+    1974—[Pub. L. 93–463][/us/pl/93/463], § 103(a), substituted “Commission” for “Secretary of Agriculture” in provisions preceding par. (1).
 
     Par. (1). [Pub. L. 93–463][/us/pl/93/463], §§ 103(a), 204(c), 205(c), substituted “Commission” for “Secretary of Agriculture”, inserted “and persons associated therewith as described in [section 6k of this title][/us/usc/t7/s6k],” after “futures commission merchants”, and inserted “commodity trading advisors, commodity pool operators” before “and floor brokers”.
 
-    Pars. (3), (5), (6). [Pub. L. 93–463, § 103(a)][/us/pl/93/463/s103/a], substituted “Commission” for “Secretary of Agriculture”.
+    Pars. (3), (5), (6). [Pub. L. 93–463][/us/pl/93/463], § 103(a), substituted “Commission” for “Secretary of Agriculture”.
 
-    Par. (7). [Pub. L. 93–463, § 213][/us/pl/93/463/s213], amended par. (7) generally, substituting provisions covering the altering or supplementing of the rules of a contract market for provisions covering the disapproval of bylaws, rules, regulations, and resolutions made, issued, or proposed by a contract market.
+    Par. (7). [Pub. L. 93–463][/us/pl/93/463], § 213, amended par. (7) generally, substituting provisions covering the altering or supplementing of the rules of a contract market for provisions covering the disapproval of bylaws, rules, regulations, and resolutions made, issued, or proposed by a contract market.
 
-    Par. (8). [Pub. L. 93–463, § 214][/us/pl/93/463/s214], added par. (8).
+    Par. (8). [Pub. L. 93–463][/us/pl/93/463], § 214, added par. (8).
 
-    Par. (9). [Pub. L. 93–463, § 215][/us/pl/93/463/s215], added par. (9).
+    Par. (9). [Pub. L. 93–463][/us/pl/93/463], § 215, added par. (9).
 
-    1968—Par. (2). [Pub. L. 90–258, § 20][/us/pl/90/258/s20], designated existing provisions as subpar. (A), substituted “if the prior registration of such person” for “if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person” and added subpars. (B) and (C).
+    1968—Par. (2). [Pub. L. 90–258][/us/pl/90/258], § 20, designated existing provisions as subpar. (A), substituted “if the prior registration of such person” for “if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person” and added subpars. (B) and (C).
 
-    Par. (3). [Pub. L. 90–258, § 21][/us/pl/90/258/s21], authorized Secretary of Agriculture, in accordance with procedure provided for in sections 9 and 15 of this title, to suspend or revoke the registration of any person registered under this chapter if cause exists under par. (2)(B) or (C) of this section which would warrant a refusal of registration of such person.
+    Par. (3). [Pub. L. 90–258][/us/pl/90/258], § 21, authorized Secretary of Agriculture, in accordance with procedure provided for in sections 9 and 15 of this title, to suspend or revoke the registration of any person registered under this chapter if cause exists under par. (2)(B) or (C) of this section which would warrant a refusal of registration of such person.
 
-    Par. (4). [Pub. L. 90–258, § 22][/us/pl/90/258/s22], struck out authorization for establishment of fees for copies of registration certificates.
+    Par. (4). [Pub. L. 90–258][/us/pl/90/258], § 22, struck out authorization for establishment of fees for copies of registration certificates.
 
-    Par. (7). [Pub. L. 90–258, § 23][/us/pl/90/258/s23], added par. (7).
+    Par. (7). [Pub. L. 90–258][/us/pl/90/258], § 23, added par. (7).
 
     1955—Par. (4). Act Aug. 5, 1955, authorized Secretary to fix and establish reasonable fees for registrations and renewals, and struck out provisions which set the fee for each registration and renewal at not more than $10.
 
@@ -279,7 +279,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1...12–3.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
 
 ----------
 ----------
@@ -305,24 +305,24 @@
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s21/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21%2Fj
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
-[/us/act/1922-09-21/ch369/s8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs8a
-[/us/act/1936-06-15/ch545/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs10
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1500
 [/us/act/1955-08-05/ch574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch574
 [/us/stat/69/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F535
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F32
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/95/405/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs17
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F874
-[/us/pl/97/444/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs104
+[/us/pl/97/444/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtI
 [/us/stat/96/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2297
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3604
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs736
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1722
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
@@ -332,7 +332,7 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
@@ -350,54 +350,54 @@
 [/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
 [/us/stat/91/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1494
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s736/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs736%2F1
-[/us/pl/111/203/s736/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs736%2F2
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/102/546/s207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F3
-[/us/pl/102/546/s209/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F6%2FA
-[/us/pl/102/546/s207/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F4
-[/us/pl/102/546/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fa
-[/us/pl/102/546/s207/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F4
-[/us/pl/102/546/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fb
-[/us/pl/102/546/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fc
-[/us/pl/102/546/s208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fd
-[/us/pl/102/546/s209/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F6%2FB
-[/us/pl/102/546/s208/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fe
-[/us/pl/102/546/s208/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Ff%2F1
-[/us/pl/102/546/s207/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F4
-[/us/pl/102/546/s208/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Ff%2F3
-[/us/pl/102/546/s208/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fg%2F5
-[/us/pl/102/546/s208/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fg%2F1
-[/us/pl/102/546/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fh
-[/us/pl/102/546/s208/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs208%2Fi
-[/us/pl/102/546/s209/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F6%2FC
-[/us/pl/102/546/s402/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F10%2FA
-[/us/pl/102/546/s402/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F10%2FB
-[/us/pl/102/546/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs227
-[/us/pl/97/444/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs223
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s6k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6k
-[/us/pl/97/444/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs224%2F1
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s6f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f
-[/us/pl/97/444/s224/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs224%2F3
-[/us/pl/97/444/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs224%2F2
-[/us/pl/97/444/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs104
-[/us/pl/97/444/s224/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs224%2F5
-[/us/pl/97/444/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs225
-[/us/pl/97/444/s224/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs224%2F6
-[/us/pl/95/405/s17/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs17%2F1
-[/us/pl/95/405/s17/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs17%2F2
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/usc/t7/s6k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6k
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
-[/us/pl/93/463/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs213
-[/us/pl/93/463/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs214
-[/us/pl/93/463/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs215
-[/us/pl/90/258/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs20
-[/us/pl/90/258/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs21
-[/us/pl/90/258/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs22
-[/us/pl/90/258/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs23
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

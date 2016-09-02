@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall assume all obligations of the Reconstruction Finance Corporation covering operations of the Muscatine, Iowa, plant, equipment, facilities, and appurtenant property outstanding at the date of transfer.
 
-([July 2, 1948, ch. 818, § 5][/us/act/1948-07-02/ch818/s5], [62 Stat. 1235][/us/stat/62/1235].)
+([July 2, 1948, ch. 818][/us/act/1948-07-02/ch818], § 5, [62 Stat. 1235][/us/stat/62/1235].)
 
  __Abolition of Reconstruction Finance Corporation__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-07-02/ch818/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818%2Fs5
+[/us/act/1948-07-02/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818
 [/us/stat/62/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1235
 [/us/stat/71/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F647
 

@@ -17,7 +17,7 @@
 
     Sections 1308 through 1308–3 of this title shall be applicable to contract payments made under this subchapter.
 
-([Pub. L. 104–127, title I, § 115(a)][/us/pl/104/127/s115/a], Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 115(a), Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs115%2Fa
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F902
 
 

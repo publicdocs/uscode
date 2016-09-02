@@ -17,7 +17,7 @@
 
     If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons and circumstances shall not be affected thereby, and nothing contained in this chapter is intended nor shall be construed, to modify or repeal any of the provisions of sections 291 and 292 of this title.
 
-([July 2, 1926, ch. 725, § 7][/us/act/1926-07-02/ch725/s7], [44 Stat. 803][/us/stat/44/803].)
+([July 2, 1926, ch. 725][/us/act/1926-07-02/ch725], § 7, [44 Stat. 803][/us/stat/44/803].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-02/ch725/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725%2Fs7
+[/us/act/1926-07-02/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725
 [/us/stat/44/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F803
 
 

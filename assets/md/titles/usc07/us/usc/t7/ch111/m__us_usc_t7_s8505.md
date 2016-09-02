@@ -17,7 +17,7 @@
 
     A brown tree snake constitutes nonmailable matter under [section 3015 of title 39][/us/usc/t39/s3015].
 
-([Pub. L. 108–384, § 6][/us/pl/108/384/s6], Oct. 30, 2004, [118 Stat. 2224][/us/stat/118/2224].)
+([Pub. L. 108–384][/us/pl/108/384], § 6, Oct. 30, 2004, [118 Stat. 2224][/us/stat/118/2224].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t39/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3015
-[/us/pl/108/384/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs6
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2224
 
 

@@ -155,7 +155,7 @@
 
         (2) determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under [section 4809(c)(1) of this title][/us/usc/t7/s4809/c/1].
 
-([Pub. L. 99–198, title XVI, § 1617][/us/pl/99/198/s1617], Dec. 23, 1985, [99 Stat. 1609][/us/stat/99/1609].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1617, Dec. 23, 1985, [99 Stat. 1609][/us/stat/99/1609].)
 
 ----------
 
@@ -172,7 +172,7 @@
 [/us/usc/t7/s4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4813
 [/us/usc/t7/s4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809
 [/us/usc/t7/s4809/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809%2Fc%2F1
-[/us/pl/99/198/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1617
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1609
 
 

@@ -51,7 +51,7 @@
 
             If the prudential regulator does not initiate an enforcement proceeding before the end of the 90-day period beginning on the date on which the prudential regulator receives a written report under subsection (c)(2), the Commission may initiate an enforcement proceeding.
 
-([Sept. 21, 1922, ch. 369, § 4b–1][/us/act/1922-09-21/ch369/s4b–1], as added [Pub. L. 111–203, title VII, § 741(a)][/us/pl/111/203/s741/a], July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4b–1, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 741(a), July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].)
 
  __References in Text__ 
 
@@ -71,8 +71,8 @@
 [/us/usc/t7/s6s/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s%2Fe
 [/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
 [/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
-[/us/act/1922-09-21/ch369/s4b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4b%E2%80%931
-[/us/pl/111/203/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1729
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

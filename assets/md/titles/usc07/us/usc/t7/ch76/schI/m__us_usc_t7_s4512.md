@@ -19,7 +19,7 @@
 
     (b) The provisions of this subchapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 98–180, title I, § 121][/us/pl/98/180/s121], Nov. 29, 1983, [97 Stat. 1143][/us/stat/97/1143].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 121, Nov. 29, 1983, [97 Stat. 1143][/us/stat/97/1143].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/180/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1143
 
 

@@ -17,7 +17,7 @@
 
     In addition to the loan extension authority provided in [section 912 of this title][/us/usc/t7/s912], the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under this chapter, and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
 
-([Pub. L. 91–606, title II, § 236(a)][/us/pl/91/606/s236/a], Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754]; [Pub. L. 103–354, title II, § 235(b)(1)][/us/pl/103/354/s235/b/1], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([Pub. L. 91–606, title II][/us/pl/91/606/tII], § 236(a), Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(1), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t7/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs912
-[/us/pl/91/606/s236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs236%2Fa
+[/us/pl/91/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtII
 [/us/stat/84/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1754
-[/us/pl/103/354/s235/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/usc/t42/s4455/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4455%2Fa
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch5/m__us_usc_t7_ch5.md) | [Next](./../../../..//us/usc/t7/ch6/schI/m__us_usc_t7_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch6)
+[Previous](./../../../..//us/usc/t7/ch5/m__us_usc_t7_s111...116.md) | [Next](./../../../..//us/usc/t7/ch6/schI/m__us_usc_t7_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch6)
 
 ## CHAPTER 6—INSECTICIDES AND ENVIRONMENTAL PESTICIDE CONTROL
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ENVIRONMENTAL PESTICIDE CONTROL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs136" data-uslm-ref="/us/usc/t7/s136">136</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs136l" data-uslm-ref="/us/usc/t7/s136l">136l.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ENVIRONMENTAL PESTICIDE CONTROL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs136" data-uslm-ref="/us/usc/t7/s136">136</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs136o" data-uslm-ref="/us/usc/t7/s136o">136o.</a>  </td>
 
     <td> Imports and exports.  </td>
 
@@ -363,7 +363,7 @@ SUBCHAPTER II—ENVIRONMENTAL PESTICIDE CONTROL  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch5/m__us_usc_t7_ch5.md) | [Next](./../../../..//us/usc/t7/ch6/schI/m__us_usc_t7_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch6)
+[Previous](./../../../..//us/usc/t7/ch5/m__us_usc_t7_s111...116.md) | [Next](./../../../..//us/usc/t7/ch6/schI/m__us_usc_t7_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch6)
 
 ----------
 ----------

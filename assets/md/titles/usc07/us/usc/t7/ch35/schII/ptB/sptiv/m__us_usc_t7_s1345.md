@@ -17,7 +17,7 @@
 
     The farm marketing quota for any crop of cotton shall be the actual production of the acreage planted to cotton on the farm less the farm marketing excess. The farm marketing excess shall be the normal production of that acreage planted to cotton on the farm which is in excess of the farm acreage allotment: Provided, That such farm marketing excess shall not be larger than the amount by which the actual production of cotton on the farm exceeds the normal production of the farm acreage allotment, if the producer establishes such actual production to the satisfaction of the Secretary.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 345, [52 Stat. 58][/us/stat/52/58]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 205, [62 Stat. 1256][/us/stat/62/1256]; [Aug. 29, 1949, ch. 518, § 1][/us/act/1949-08-29/ch518/s1], [63 Stat. 674][/us/stat/63/674]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 415(e), [63 Stat. 1058][/us/stat/63/1058].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 345, [52 Stat. 58][/us/stat/52/58]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 205, [62 Stat. 1256][/us/stat/62/1256]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 1, [63 Stat. 674][/us/stat/63/674]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 415(e), [63 Stat. 1058][/us/stat/63/1058].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
     Section inapplicable to 1978 through 1981 crops of upland cotton, see [section 601 of Pub. L. 95–113][/us/pl/95/113/s601], set out as a note under [section 1342 of this title][/us/usc/t7/s1342].
 
-    [Pub. L. 91–524, title VI, § 601(1)][/us/pl/91/524/s601/1], Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601(1), Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/stat/52/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F58
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1256
-[/us/act/1949-08-29/ch518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs1
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F674
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1058
@@ -83,9 +83,9 @@
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
 [/us/pl/95/113/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs601
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
-[/us/pl/91/524/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601%2F1
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1371
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 
 

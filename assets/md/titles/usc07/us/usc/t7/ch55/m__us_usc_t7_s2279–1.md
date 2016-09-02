@@ -73,7 +73,7 @@
 
         (2) the action taken, not taken, or recommended to the producer or landowner.
 
-([Pub. L. 101–624, title XXV, § 2501A][/us/pl/101/624/s2501A], as added [Pub. L. 107–171, title X, § 10708(a)][/us/pl/107/171/s10708/a], May 13, 2002, [116 Stat. 522][/us/stat/116/522]; amended [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14003, 14006, May 22, 2008, [122 Stat. 1443][/us/stat/122/1443], 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14003, 14006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2205, 2207; [Pub. L. 113–79, title XII, § 12204][/us/pl/113/79/s12204], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
+([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2501A, as added [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10708(a), May 13, 2002, [116 Stat. 522][/us/stat/116/522]; amended [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], §§ 14003, 14006, May 22, 2008, [122 Stat. 1443][/us/stat/122/1443], 1445; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, §§ 14003, 14006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2205, 2207; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12204, Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
 
  __Codification__ 
 
@@ -83,9 +83,9 @@
 
     2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], in introductory provisions, struck out “and, at the time of the request, also requests a receipt” after “landowners”.
 
-    2008—Subsecs. (c), (d). [Pub. L. 110–246, § 14006][/us/pl/110/246/s14006], added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
+    2008—Subsecs. (c), (d). [Pub. L. 110–246][/us/pl/110/246], § 14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
 
-    Subsec. (e). [Pub. L. 110–246, § 14003][/us/pl/110/246/s14003], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 14003, added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Oversight and Compliance__ 
 
-[Pub. L. 110–234, title XIV, § 14007][/us/pl/110/234/s14007], May 22, 2008, [122 Stat. 1446][/us/stat/122/1446], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14007, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14007, May 22, 2008, [122 Stat. 1446][/us/stat/122/1446], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14007, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208, provided that: 
 
 > “The Secretary \[of Agriculture\], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279–1][/us/usc/t7/s2279–1]), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance.”
 
@@ -107,30 +107,30 @@
 ----------
 
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
-[/us/pl/101/624/s2501A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501A
-[/us/pl/107/171/s10708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10708%2Fa
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F522
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1443
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s12204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12204
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F984
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s14006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14006
-[/us/pl/110/246/s14003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14003
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14007
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1446
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2279–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%E2%80%931
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

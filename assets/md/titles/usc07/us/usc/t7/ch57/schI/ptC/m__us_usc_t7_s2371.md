@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([Pub. L. 91–577, title I, § 31][/us/pl/91/577/s31], Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545]; [Pub. L. 96–574, § 10][/us/pl/96/574/s10], Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350]; [Pub. L. 100–203, title I, § 1505][/us/pl/100/203/s1505], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 31, Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545]; [Pub. L. 96–574][/us/pl/96/574], § 10, Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350]; [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1505, Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
-[/us/pl/91/577/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs31
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1545
-[/us/pl/96/574/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs10
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3350
-[/us/pl/100/203/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1505
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-28
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574

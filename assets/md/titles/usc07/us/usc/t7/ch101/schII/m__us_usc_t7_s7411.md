@@ -53,7 +53,7 @@
 
         Nothing in this subchapter provides for the control of production or otherwise limits the right of any person to produce, handle, or import an agricultural commodity.
 
-([Pub. L. 104–127, title V, § 512][/us/pl/104/127/s512], Apr. 4, 1996, [110 Stat. 1032][/us/stat/110/1032].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 512, Apr. 4, 1996, [110 Stat. 1032][/us/stat/110/1032].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs512
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1032
 
 

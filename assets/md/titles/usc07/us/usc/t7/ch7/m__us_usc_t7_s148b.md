@@ -11,40 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s145.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148b)
+[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148 _us_usc_t7_s148a.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148c...148e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148b)
 
-## § 148b. Repealed. [Oct. 10, 1940, ch. 851, § 4][/us/act/1940-10-10/ch851/s4], [54 Stat. 1111][/us/stat/54/1111]
+## § 148b. Repealed. [Oct. 10, 1940, ch. 851][/us/act/1940-10-10/ch851], § 4, [54 Stat. 1111][/us/stat/54/1111]
 
-    Section, [act Apr. 6, 1937, ch. 69, § 3][/us/act/1937-04-06/ch69/s3], as added [May 9, 1938, ch. 192][/us/act/1938-05-09/ch192], [52 Stat. 344][/us/stat/52/344], related to procurement of materials and equipment for the control of insect pests and plant diseases.
-
-§ 148c to 148e. __Repealed. Pub. L. 106-224, title IV, § 438(a)(6),__  __June 20, 2000__  __,__  __[__  __114 Stat. 454__  __][/us/stat/114/454]__ 
-
-    Section 148c, [act Apr. 6, 1937, ch. 69, § 4][/us/act/1937-04-06/ch69/s4], as added [May 9, 1938, ch. 192][/us/act/1938-05-09/ch192], [52 Stat. 344][/us/stat/52/344], related to cooperation of States in control of insect pests and plant diseases.
-
-    Section 148d, [act Apr. 6, 1937, ch. 69, § 5][/us/act/1937-04-06/ch69/s5], as added [May 9, 1938, ch. 192][/us/act/1938-05-09/ch192], [52 Stat. 344][/us/stat/52/344], prohibited use of appropriations to pay cost or value of injured or destroyed animals, crops, or other property.
-
-    Section 148e, [act Apr. 6, 1937, ch. 69, § 6][/us/act/1937-04-06/ch69/s6], as added [May 9, 1938, ch. 192][/us/act/1938-05-09/ch192], [52 Stat. 344][/us/stat/52/344], authorized appropriations to carry out provisions of sections 148 to 148e of this title.
+    Section, [act Apr. 6, 1937, ch. 69][/us/act/1937-04-06/ch69], § 3, as added [May 9, 1938, ch. 192][/us/act/1938-05-09/ch192], [52 Stat. 344][/us/stat/52/344], related to procurement of materials and equipment for the control of insect pests and plant diseases.
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s145.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148b)
+[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148 _us_usc_t7_s148a.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148c...148e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148b)
 
 ----------
 ----------
 
-[/us/act/1940-10-10/ch851/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851%2Fs4
+[/us/act/1940-10-10/ch851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851
 [/us/stat/54/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1111
-[/us/act/1937-04-06/ch69/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-06%2Fch69%2Fs3
-[/us/act/1938-05-09/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch192
-[/us/stat/52/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F344
-[/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
-[/us/act/1937-04-06/ch69/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-06%2Fch69%2Fs4
-[/us/act/1938-05-09/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch192
-[/us/stat/52/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F344
-[/us/act/1937-04-06/ch69/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-06%2Fch69%2Fs5
-[/us/act/1938-05-09/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch192
-[/us/stat/52/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F344
-[/us/act/1937-04-06/ch69/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-06%2Fch69%2Fs6
+[/us/act/1937-04-06/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-06%2Fch69
 [/us/act/1938-05-09/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch192
 [/us/stat/52/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F344
 

@@ -17,7 +17,7 @@
 
     The Secretary shall transfer funds in accordance with this subchapter through electronic transfer as soon as practicable after April 4, 1996.
 
-([Pub. L. 87–128, title III, § 381N][/us/pl/87/128/s381N], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1147][/us/stat/110/1147].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381N, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1147][/us/stat/110/1147].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s381N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381N
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1147
 
 

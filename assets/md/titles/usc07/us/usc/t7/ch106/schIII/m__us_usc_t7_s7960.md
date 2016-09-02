@@ -35,7 +35,7 @@
 
             For the purposes of quality adjustment only, the average support price per pound of peanuts shall be a price equal to 17.75 cents per pound. Quality under the crop insurance policy for peanuts shall be adjusted under procedures issued by the Federal Crop Insurance Corporation.
 
-([Pub. L. 107–171, title I, § 1310][/us/pl/107/171/s1310], May 13, 2002, [116 Stat. 182][/us/stat/116/182].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1310, May 13, 2002, [116 Stat. 182][/us/stat/116/182].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t7/s7271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7271
-[/us/pl/107/171/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1310
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F182
 [/us/pl/107/171/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1310
 [/us/pl/107/171/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1310

@@ -233,19 +233,19 @@
 
         The term “preservation loan service program” means homestead retention as authorized under [section 2000 of this title][/us/usc/t7/s2000].
 
-([Pub. L. 87–128, title III, § 343][/us/pl/87/128/s343], as added [Pub. L. 87–703, title IV, § 401(5)][/us/pl/87/703/s401/5], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; amended [Pub. L. 89–586][/us/pl/89/586], Sept. 19, 1966, [80 Stat. 809][/us/stat/80/809]; [Pub. L. 92–419, title I, § 128(a)][/us/pl/92/419/s128/a], Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 95–334, title I, § 124][/us/pl/95/334/s124], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438, § 2(2)][/us/pl/96/438/s2/2], Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872]; [Pub. L. 99–198, title XIII, § 1301(b)][/us/pl/99/198/s1301/b], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 100–233, title VI, § 602][/us/pl/100/233/s602], Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665]; [Pub. L. 101–624, title XVIII, § 1814][/us/pl/101/624/s1814], title XXIII, § 2388(h), Nov. 28, 1990, [104 Stat. 3824][/us/stat/104/3824], 4053; [Pub. L. 102–237, title VII, § 702(h)(1)][/us/pl/102/237/s702/h/1], Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880]; [Pub. L. 102–554, § 19][/us/pl/102/554/s19], Oct. 28, 1992, [106 Stat. 4158][/us/stat/106/4158]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098], 1107, 1129; [Pub. L. 105–113, § 3(c)][/us/pl/105/113/s3/c], Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275]; [Pub. L. 107–171, title V, § 5310][/us/pl/107/171/s5310], title VI, § 6020(a), May 13, 2002, [116 Stat. 346][/us/stat/116/346], 362; [Pub. L. 110–234, title VI, § 6018(a)][/us/pl/110/234/s6018/a], May 22, 2008, [122 Stat. 1170][/us/stat/122/1170]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6018(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1931; [Pub. L. 113–79, title V, § 5303][/us/pl/113/79/s5303], Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 343, as added [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 401(5), Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; amended [Pub. L. 89–586][/us/pl/89/586], Sept. 19, 1966, [80 Stat. 809][/us/stat/80/809]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 128(a), Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 124, Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438][/us/pl/96/438], § 2(2), Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1301(b), Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 602, Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1814, title XXIII, § 2388(h), Nov. 28, 1990, [104 Stat. 3824][/us/stat/104/3824], 4053; [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 702(h)(1), Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880]; [Pub. L. 102–554][/us/pl/102/554], § 19, Oct. 28, 1992, [106 Stat. 4158][/us/stat/106/4158]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098], 1107, 1129; [Pub. L. 105–113][/us/pl/105/113], § 3(c), Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5310, title VI, § 6020(a), May 13, 2002, [116 Stat. 346][/us/stat/116/346], 362; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6018(a), May 22, 2008, [122 Stat. 1170][/us/stat/122/1170]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6018(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1931; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5303, Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
-    Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is [section 202 of Pub. L. 95–334][/us/pl/95/334/s202], title II, Aug. 4, 1978, [92 Stat. 429][/us/stat/92/429], as amended, which was set out in a note preceding [section 1961 of this title][/us/usc/t7/s1961] prior to repeal by [Pub. L. 101–624, title XVIII, § 1851][/us/pl/101/624/s1851], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837].
+    Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is [section 202 of Pub. L. 95–334][/us/pl/95/334/s202], title II, Aug. 4, 1978, [92 Stat. 429][/us/stat/92/429], as amended, which was set out in a note preceding [section 1961 of this title][/us/usc/t7/s1961] prior to repeal by [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1851, Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837].
 
-    The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-    Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is [section 1254 of Pub. L. 99–198][/us/pl/99/198/s1254], title XII, Dec. 23, 1985, [99 Stat. 1517][/us/stat/99/1517], which amended [Pub. L. 98–258, § 608][/us/pl/98/258/s608], set out as a note under [section 1981 of this title][/us/usc/t7/s1981].
+    Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is [section 1254 of Pub. L. 99–198][/us/pl/99/198/s1254], title XII, Dec. 23, 1985, [99 Stat. 1517][/us/stat/99/1517], which amended [Pub. L. 98–258][/us/pl/98/258], § 608, set out as a note under [section 1981 of this title][/us/usc/t7/s1981].
 
-    [Section 1927(e) of this title][/us/usc/t7/s1927/e], referred to in subsec. (b), was redesignated [section 1927(d) of this title][/us/usc/t7/s1927/d] by [Pub. L. 113–79, title V, § 5004(2)][/us/pl/113/79/s5004/2], Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].
+    [Section 1927(e) of this title][/us/usc/t7/s1927/e], referred to in subsec. (b), was redesignated [section 1927(d) of this title][/us/usc/t7/s1927/d] by [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5004(2), Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].
 
  __Codification__ 
 
@@ -253,41 +253,41 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(11)(C). [Pub. L. 113–79, § 5303(a)(2)][/us/pl/113/79/s5303/a/2], which directed substitution of “joint operators, or owners,” for “or joint operators,” was executed by making the substitution for “or joint operators”, to reflect the probable intent of Congress.
+    2014—Subsec. (a)(11)(C). [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(2), which directed substitution of “joint operators, or owners,” for “or joint operators,” was executed by making the substitution for “or joint operators”, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
+    [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(1), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
 
-    Subsec. (a)(11)(D)(i)(II)(aa). [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,” and “joint operators, or owners,” for “or joint operators,”.
+    Subsec. (a)(11)(D)(i)(II)(aa). [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,” and “joint operators, or owners,” for “or joint operators,”.
 
-    Subsec. (a)(11)(D)(i)(II)(bb). [Pub. L. 113–79, § 5303(a)(3)][/us/pl/113/79/s5303/a/3], substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+    Subsec. (a)(11)(D)(i)(II)(bb). [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
 
-    Subsec. (a)(11)(D)(ii)(II)(aa). [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”and “joint operators, or owners,” for “or joint operators,”.
+    Subsec. (a)(11)(D)(ii)(II)(aa). [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”and “joint operators, or owners,” for “or joint operators,”.
 
-    Subsec. (a)(11)(D)(ii)(II)(bb). [Pub. L. 113–79, § 5303(a)(3)][/us/pl/113/79/s5303/a/3], substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+    Subsec. (a)(11)(D)(ii)(II)(bb). [Pub. L. 113–79][/us/pl/113/79], § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
 
-    Subsec. (a)(11)(F). [Pub. L. 113–79, § 5303(b)][/us/pl/113/79/s5303/b], substituted “average acreage” for “median acreage”.
+    Subsec. (a)(11)(F). [Pub. L. 113–79][/us/pl/113/79], § 5303(b), substituted “average acreage” for “median acreage”.
 
-    2008—Subsec. (a)(13). [Pub. L. 110–246, § 6018(a)][/us/pl/110/246/s6018/a], amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+    2008—Subsec. (a)(13). [Pub. L. 110–246][/us/pl/110/246], § 6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
-    2002—Subsec. (a)(11)(F). [Pub. L. 107–171, § 5310(a)][/us/pl/107/171/s5310/a], substituted “30 percent” for “25 percent”.
+    2002—Subsec. (a)(11)(F). [Pub. L. 107–171][/us/pl/107/171], § 5310(a), substituted “30 percent” for “25 percent”.
 
-    Subsec. (a)(12)(B). [Pub. L. 107–171, § 5310(b)][/us/pl/107/171/s5310/b], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
+    Subsec. (a)(12)(B). [Pub. L. 107–171][/us/pl/107/171], § 5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
 
-    Subsec. (a)(13). [Pub. L. 107–171, § 6020(a)][/us/pl/107/171/s6020/a], added par. (13).
+    Subsec. (a)(13). [Pub. L. 107–171][/us/pl/107/171], § 6020(a), added par. (13).
 
     1997—Subsec. (a)(11)(F). [Pub. L. 105–113][/us/pl/105/113] struck out “taken under [section 142 of title 13][/us/usc/t13/s142]” after “census of agriculture”.
 
-    1996—Subsec. (a)(10). [Pub. L. 104–127, § 661(h)(1)][/us/pl/104/127/s661/h/1], struck out “recreation loan (RL) under [section 1924 of this title][/us/usc/t7/s1924],” before “emergency loan (EM)”.
+    1996—Subsec. (a)(10). [Pub. L. 104–127][/us/pl/104/127], § 661(h)(1), struck out “recreation loan (RL) under [section 1924 of this title][/us/usc/t7/s1924],” before “emergency loan (EM)”.
 
-    Subsec. (a)(11). [Pub. L. 104–127, § 640(1)(A)][/us/pl/104/127/s640/1/A], in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under [section 1935 of this title][/us/usc/t7/s1935]” for “applicant”.
+    Subsec. (a)(11). [Pub. L. 104–127][/us/pl/104/127], § 640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under [section 1935 of this title][/us/usc/t7/s1935]” for “applicant”.
 
-    Subsec. (a)(11)(F). [Pub. L. 104–127, § 640(1)(B)][/us/pl/104/127/s640/1/B], substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II”.
+    Subsec. (a)(11)(F). [Pub. L. 104–127][/us/pl/104/127], § 640(1)(B), substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II”.
 
-    Subsec. (a)(12). [Pub. L. 104–127, § 640(2)][/us/pl/104/127/s640/2], added par. (12).
+    Subsec. (a)(12). [Pub. L. 104–127][/us/pl/104/127], § 640(2), added par. (12).
 
     Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], §§ 661(h)(2)(A), 749(b)(2), in introductory provisions, substituted “1988(b), 2000(b) and (c)” for “1988(f), 1999(h), 2000(b) and (c)”.
 
-    Subsec. (b)(4). [Pub. L. 104–127, § 661(h)(2)(B)][/us/pl/104/127/s661/h/2/B], added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
+    Subsec. (b)(4). [Pub. L. 104–127][/us/pl/104/127], § 661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
 
     “(A) homestead retention as authorized under [section 2000 of this title][/us/usc/t7/s2000]; and
 
@@ -295,15 +295,15 @@
 
     1992—Subsec. (a). [Pub. L. 102–554][/us/pl/102/554] substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
 
-    1991—Subsec. (a)(1), (3). [Pub. L. 102–237, § 702(h)(1)(A)][/us/pl/102/237/s702/h/1/A], (B), made technical amendment to directory language of [Pub. L. 101–624, § 2388(h)(1)][/us/pl/101/624/s2388/h/1], (2). See 1990 Amendment note below.
+    1991—Subsec. (a)(1), (3). [Pub. L. 102–237][/us/pl/102/237], § 702(h)(1)(A), (B), made technical amendment to directory language of [Pub. L. 101–624][/us/pl/101/624], § 2388(h)(1), (2). See 1990 Amendment note below.
 
-    Subsec. (a)(5). [Pub. L. 102–237, § 702(h)(1)(C)][/us/pl/102/237/s702/h/1/C], repealed [Pub. L. 101–624, § 2388(h)(3)][/us/pl/101/624/s2388/h/3]. See 1990 Amendment note below.
+    Subsec. (a)(5). [Pub. L. 102–237][/us/pl/102/237], § 702(h)(1)(C), repealed [Pub. L. 101–624][/us/pl/101/624], § 2388(h)(3). See 1990 Amendment note below.
 
-    1990—Subsec. (a)(1), (3). [Pub. L. 101–624, § 2388(h)(1)][/us/pl/101/624/s2388/h/1], (2), as amended by [Pub. L. 102–237, § 702(h)(1)(A)][/us/pl/102/237/s702/h/1/A], (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
+    1990—Subsec. (a)(1), (3). [Pub. L. 101–624][/us/pl/101/624], § 2388(h)(1), (2), as amended by [Pub. L. 102–237][/us/pl/102/237], § 702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
 
-    Subsec. (a)(5). [Pub. L. 101–624, § 2388(h)(3)][/us/pl/101/624/s2388/h/3], which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by [Pub. L. 102–237, § 702(h)(1)(C)][/us/pl/102/237/s702/h/1/C]. See Construction of 1990 Amendment note below.
+    Subsec. (a)(5). [Pub. L. 101–624][/us/pl/101/624], § 2388(h)(3), which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by [Pub. L. 102–237][/us/pl/102/237], § 702(h)(1)(C). See Construction of 1990 Amendment note below.
 
-    Subsec. (a)(8) to (10). [Pub. L. 101–624, § 1814][/us/pl/101/624/s1814], added pars. (8) to (10).
+    Subsec. (a)(8) to (10). [Pub. L. 101–624][/us/pl/101/624], § 1814, added pars. (8) to (10).
 
     1988—[Pub. L. 100–233][/us/pl/100/233] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -323,7 +323,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–113, § 3(d)][/us/pl/105/113/s3/d], Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276], provided that: 
+[Pub. L. 105–113][/us/pl/105/113], § 3(d), Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276], provided that: 
 
 > “This section \[amending this section and repealing [section 142 of Title 13][/us/usc/t13/s142], Census\] and the amendments made by this section shall take effect October 1, 1998.”
 
@@ -341,7 +341,7 @@
 
  __Construction of 1990 Amendment__ 
 
-[Pub. L. 102–237, title VII, § 702(h)(2)][/us/pl/102/237/s702/h/2], Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881], as amended by [Pub. L. 102–552, title V, § 516(k)][/us/pl/102/552/s516/k], Oct. 28, 1992, [106 Stat. 4139][/us/stat/106/4139], provided that: 
+[Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 702(h)(2), Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881], as amended by [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(k), Oct. 28, 1992, [106 Stat. 4139][/us/stat/106/4139], provided that: 
 
 > “The Consolidated Farm and Rural Development Act \[title III of [Pub. L. 87–128][/us/pl/87/128], see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921]\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[[Pub. L. 101–624][/us/pl/101/624], amending this section\] had never been enacted.”
 
@@ -371,94 +371,94 @@
 [/us/usc/t7/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa
 [/us/usc/t13/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs141%2Fa
 [/us/usc/t7/s2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2000
-[/us/pl/87/128/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs343
-[/us/pl/87/703/s401/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs401%2F5
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
 [/us/pl/89/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F586
 [/us/stat/80/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F809
-[/us/pl/92/419/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs128%2Fa
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F666
-[/us/pl/95/334/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs124
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F428
-[/us/pl/96/438/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs2%2F2
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1872
-[/us/pl/99/198/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1301%2Fb
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1519
-[/us/pl/100/233/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs602
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1665
-[/us/pl/101/624/s1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1814
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3824
-[/us/pl/102/237/s702/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F1
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1880
-[/us/pl/102/554/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs19
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4158
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1098
-[/us/pl/105/113/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs3%2Fc
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2275
-[/us/pl/107/171/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5310
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F346
-[/us/pl/110/234/s6018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6018%2Fa
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1170
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F839
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/95/334/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs202
 [/us/stat/92/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F429
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
-[/us/pl/101/624/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1851
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3837
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/99/198/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1254
 [/us/stat/99/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1517
-[/us/pl/98/258/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs608
+[/us/pl/98/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
 [/us/usc/t7/s1927/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927%2Fe
 [/us/usc/t7/s1927/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927%2Fd
-[/us/pl/113/79/s5004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5004%2F2
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F834
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s5303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F2
-[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
-[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
-[/us/pl/113/79/s5303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F3
-[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
-[/us/pl/113/79/s5303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F3
-[/us/pl/113/79/s5303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fb
-[/us/pl/110/246/s6018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6018%2Fa
-[/us/pl/107/171/s5310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5310%2Fa
-[/us/pl/107/171/s5310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5310%2Fb
-[/us/pl/107/171/s6020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/usc/t13/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142
-[/us/pl/104/127/s661/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fh%2F1
-[/us/usc/t7/s1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924
-[/us/pl/104/127/s640/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs640%2F1%2FA
-[/us/usc/t7/s1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1935
-[/us/pl/104/127/s640/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs640%2F1%2FB
-[/us/pl/104/127/s640/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs640%2F2
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/104/127/s661/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fh%2F2%2FB
+[/us/usc/t7/s1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/usc/t7/s1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1935
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2000
 [/us/usc/t7/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
-[/us/pl/102/237/s702/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F1%2FA
-[/us/pl/101/624/s2388/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fh%2F1
-[/us/pl/102/237/s702/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F1%2FC
-[/us/pl/101/624/s2388/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fh%2F3
-[/us/pl/101/624/s2388/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fh%2F1
-[/us/pl/102/237/s702/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F1%2FA
-[/us/pl/101/624/s2388/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fh%2F3
-[/us/pl/102/237/s702/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F1%2FC
-[/us/pl/101/624/s1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1814
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
@@ -471,7 +471,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/113/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs3%2Fd
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2276
 [/us/usc/t13/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142
 [/us/pl/104/127/s640/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs640%2F1
@@ -487,9 +487,9 @@
 [/us/pl/90/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F426
 [/us/stat/82/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F445
 [/us/pl/89/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F586
-[/us/pl/102/237/s702/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fh%2F2
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1881
-[/us/pl/102/552/s516/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fk
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4139
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921

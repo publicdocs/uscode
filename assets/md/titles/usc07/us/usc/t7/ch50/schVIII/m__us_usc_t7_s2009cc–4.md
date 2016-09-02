@@ -41,7 +41,7 @@
 
         (2) provide for the use of discounted debentures.
 
-([Pub. L. 87–128, title III, § 384E][/us/pl/87/128/s384E], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 393][/us/stat/116/393].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384E, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 393][/us/stat/116/393].)
 
 ----------
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t7/s2009g/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009g%2Fi
-[/us/pl/87/128/s384E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384E
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F393
 
 

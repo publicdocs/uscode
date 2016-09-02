@@ -107,7 +107,7 @@
 
         (24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title I, § 101, [53 Stat. 1275][/us/stat/53/1275]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 870][/us/stat/62/870]; [Aug. 1, 1956, ch. 852, § 1][/us/act/1956-08-01/ch852/s1], [70 Stat. 908][/us/stat/70/908]; [Pub. L. 85–581][/us/pl/85/581], §§ 1–3, Aug. 1, 1958, [72 Stat. 476][/us/stat/72/476]; [Pub. L. 89–686][/us/pl/89/686], §§ 1–3, 19, Oct. 15, 1966, [80 Stat. 975][/us/stat/80/975], 979; [Pub. L. 91–89, § 1][/us/pl/91/89/s1], Oct. 17, 1969, [83 Stat. 134][/us/stat/83/134]; [Pub. L. 97–439, § 5(a)][/us/pl/97/439/s5/a], Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title I, § 101, [53 Stat. 1275][/us/stat/53/1275]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 870][/us/stat/62/870]; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 1, [70 Stat. 908][/us/stat/70/908]; [Pub. L. 85–581][/us/pl/85/581], §§ 1–3, Aug. 1, 1958, [72 Stat. 476][/us/stat/72/476]; [Pub. L. 89–686][/us/pl/89/686], §§ 1–3, 19, Oct. 15, 1966, [80 Stat. 975][/us/stat/80/975], 979; [Pub. L. 91–89][/us/pl/91/89], § 1, Oct. 17, 1969, [83 Stat. 134][/us/stat/83/134]; [Pub. L. 97–439][/us/pl/97/439], § 5(a), Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288].)
 
  __Codification__ 
 
@@ -117,35 +117,35 @@
 
  __Amendments__ 
 
-    1983—Subsec. (a)(8). [Pub. L. 97–439, § 5(a)(1)(B)][/us/pl/97/439/s5/a/1/B], struck out “(A)” before “For the purpose of subchapter II of this chapter”.
+    1983—Subsec. (a)(8). [Pub. L. 97–439][/us/pl/97/439], § 5(a)(1)(B), struck out “(A)” before “For the purpose of subchapter II of this chapter”.
 
-    Subsec. (a)(8)(A). [Pub. L. 97–439, § 5(a)(1)(C)][/us/pl/97/439/s5/a/1/C], substituted “(A)” for “(i)” before “The State into which”.
+    Subsec. (a)(8)(A). [Pub. L. 97–439][/us/pl/97/439], § 5(a)(1)(C), substituted “(A)” for “(i)” before “The State into which”.
 
-    Subsec. (a)(8)(B). [Pub. L. 97–439, § 5(a)(1)(A)][/us/pl/97/439/s5/a/1/A], (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar. (B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
+    Subsec. (a)(8)(B). [Pub. L. 97–439][/us/pl/97/439], § 5(a)(1)(A), (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar. (B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
 
-    Subsec. (a)(17). [Pub. L. 97–439, § 5(a)(2)][/us/pl/97/439/s5/a/2], redesignated par. (18) as (17). Former par. (17), which, for purposes of subchapter III, had defined “pure live seed” as the portion of any lot of seed subject to this chapter consisting of live agricultural or vegetable seed determined by methods prescribed under [section 1593 of this title][/us/usc/t7/s1593], was struck out.
+    Subsec. (a)(17). [Pub. L. 97–439][/us/pl/97/439], § 5(a)(2), redesignated par. (18) as (17). Former par. (17), which, for purposes of subchapter III, had defined “pure live seed” as the portion of any lot of seed subject to this chapter consisting of live agricultural or vegetable seed determined by methods prescribed under [section 1593 of this title][/us/usc/t7/s1593], was struck out.
 
-    Subsec. (a)(18) to (25). [Pub. L. 97–439, § 5(a)(2)][/us/pl/97/439/s5/a/2], redesignated pars. (18) through (25) as (17) through (24), respectively.
+    Subsec. (a)(18) to (25). [Pub. L. 97–439][/us/pl/97/439], § 5(a)(2), redesignated pars. (18) through (25) as (17) through (24), respectively.
 
     1969—Subsec. (a)(25). [Pub. L. 91–89][/us/pl/91/89] inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) to approve of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
 
-    1966—Subsec. (a)(1). [Pub. L. 89–686, § 1][/us/pl/89/686/s1], struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
+    1966—Subsec. (a)(1). [Pub. L. 89–686][/us/pl/89/686], § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
-    Subsec. (a)(4). [Pub. L. 89–686, § 19][/us/pl/89/686/s19], inserted “treatment” before “variety”.
+    Subsec. (a)(4). [Pub. L. 89–686][/us/pl/89/686], § 19, inserted “treatment” before “variety”.
 
-    Subsec. (a)(7)(A). [Pub. L. 89–686, § 2][/us/pl/89/686/s2], redefined “agricultural seeds” to be such as are listed in rules and regulations rather than in statutory text as added to or taken therefrom pursuant to rules and regulations.
+    Subsec. (a)(7)(A). [Pub. L. 89–686][/us/pl/89/686], § 2, redefined “agricultural seeds” to be such as are listed in rules and regulations rather than in statutory text as added to or taken therefrom pursuant to rules and regulations.
 
-    Subsec. (a)(8)(A)(ii), (9)(A)(ii). [Pub. L. 89–686, § 1][/us/pl/89/686/s1], struck out reference to “Alaska, Hawaii,” before “Puerto Rico”.
+    Subsec. (a)(8)(A)(ii), (9)(A)(ii). [Pub. L. 89–686][/us/pl/89/686], § 1, struck out reference to “Alaska, Hawaii,” before “Puerto Rico”.
 
-    Subsec. (a)(10). [Pub. L. 89–686, § 1][/us/pl/89/686/s1], struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
+    Subsec. (a)(10). [Pub. L. 89–686][/us/pl/89/686], § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
-    Subsec. (a)(11). [Pub. L. 89–686, § 3][/us/pl/89/686/s3], substituted “soybean, flax, carrot, radish” for “wheat, oat, vetch, sweetclover”.
+    Subsec. (a)(11). [Pub. L. 89–686][/us/pl/89/686], § 3, substituted “soybean, flax, carrot, radish” for “wheat, oat, vetch, sweetclover”.
 
-    1958—Subsec. (a)(7)(A). [Pub. L. 85–581, § 1][/us/pl/85/581/s1], included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
+    1958—Subsec. (a)(7)(A). [Pub. L. 85–581][/us/pl/85/581], § 1, included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
 
-    Subsec. (a)(24). [Pub. L. 85–581, § 2][/us/pl/85/581/s2], added par. (24).
+    Subsec. (a)(24). [Pub. L. 85–581][/us/pl/85/581], § 2, added par. (24).
 
-    Subsec. (a)(25). [Pub. L. 85–581, § 3][/us/pl/85/581/s3], added par. (25).
+    Subsec. (a)(25). [Pub. L. 85–581][/us/pl/85/581], § 3, added par. (25).
 
     1956—Subsec. (a)(8)(A)(ii). Act Aug. 1, 1956, § 1(a), inserted “Guam” after “Puerto Rico”.
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–581, § 16][/us/pl/85/581/s16], provided that: 
+[Pub. L. 85–581][/us/pl/85/581], § 16, provided that: 
 
 > “This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\].”
 
@@ -179,35 +179,35 @@
 [/us/usc/t7/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1593
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1275
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F870
-[/us/act/1956-08-01/ch852/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs1
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F908
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F476
 [/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/stat/80/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F975
-[/us/pl/91/89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F89%2Fs1
-[/us/stat/83/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F134
-[/us/pl/97/439/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa
-[/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
-[/us/pl/97/439/s5/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa%2F1%2FB
-[/us/pl/97/439/s5/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa%2F1%2FC
-[/us/pl/97/439/s5/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa%2F1%2FA
-[/us/pl/97/439/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa%2F2
-[/us/usc/t7/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1593
-[/us/pl/97/439/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fa%2F2
 [/us/pl/91/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F89
-[/us/pl/89/686/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs1
-[/us/pl/89/686/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs19
-[/us/pl/89/686/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs2
-[/us/pl/89/686/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs1
-[/us/pl/89/686/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs1
-[/us/pl/89/686/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs3
-[/us/pl/85/581/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs1
-[/us/pl/85/581/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs2
-[/us/pl/85/581/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs3
-[/us/pl/85/581/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs16
+[/us/stat/83/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F134
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/usc/t7/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1593
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/91/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F89
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

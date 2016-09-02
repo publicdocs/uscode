@@ -33,13 +33,13 @@
 
         (5) The Act of July 2, 1926 ([44 Stat. 802][/us/stat/44/802], chapter 725; [7 U.S.C. 451][/us/usc/t7/s451] et seq.).
 
-([Pub. L. 103–354, title II, § 234][/us/pl/103/354/s234], Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 234, Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220].)
 
  __References in Text__ 
 
     The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended. Title V of the Act is classified generally to subchapter V (§ 950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see [section 901 of this title][/us/usc/t7/s901] and Tables.
 
-    The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359], as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by [Pub. L. 107–171, title VI, § 6201(a)][/us/pl/107/171/s6201/a], May 13, 2002, [116 Stat. 418][/us/stat/116/418]. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
+    The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359], as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(a), May 13, 2002, [116 Stat. 418][/us/stat/116/418]. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
     Act of July 2, 1926, referred to in subsec. (b)(5), is [act July 2, 1926, ch. 725][/us/act/1926-07-02/ch725], [44 Stat. 802][/us/stat/44/802], which is classified generally to chapter 18 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -56,14 +56,14 @@
 [/us/usc/t7/s1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932
 [/us/stat/44/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F802
 [/us/usc/t7/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs451
-[/us/pl/103/354/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs234
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3220
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3359
-[/us/pl/107/171/s6201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F418
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/act/1926-07-02/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1507.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1506a _us_usc_t7_s1506b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
 
 ## § 1506. General powers
 
@@ -145,11 +145,11 @@
 
             If the Corporation fails to respond to an inquiry in accordance with the procedures established pursuant to this subsection, the person requesting the interpretation of this subchapter or regulation may assume the interpretation is correct for the applicable reinsurance year.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 506, [52 Stat. 73][/us/stat/52/73]; [June 21, 1941, ch. 214, § 2][/us/act/1941-06-21/ch214/s2], [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440, § 7][/us/act/1947-08-01/ch440/s7], [61 Stat. 719][/us/stat/61/719]; [Aug. 25, 1949, ch. 512, § 8][/us/act/1949-08-25/ch512/s8], [63 Stat. 665][/us/stat/63/665]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 103, 107(a), Sept. 26, 1980, [94 Stat. 1313][/us/stat/94/1313], 1317; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2201(a), 2202, Nov. 28, 1990, [104 Stat. 3951][/us/stat/104/3951], 3954; [Pub. L. 102–237, title VI, § 601(1)][/us/pl/102/237/s601/1], (2), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title I, § 1403(a)][/us/pl/103/66/s1403/a], Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333]; [Pub. L. 103–354, title I][/us/pl/103/354], §§ 104, 119(f)(1), Oct. 13, 1994, [108 Stat. 3181][/us/stat/108/3181], 3208; [Pub. L. 105–185, title V, § 533][/us/pl/105/185/s533], June 23, 1998, [112 Stat. 583][/us/stat/112/583]; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 121(b), 124(b), June 20, 2000, [114 Stat. 377][/us/stat/114/377], 378; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 506, [52 Stat. 73][/us/stat/52/73]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], § 2, [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], § 7, [61 Stat. 719][/us/stat/61/719]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], § 8, [63 Stat. 665][/us/stat/63/665]; [Pub. L. 96–365, title I][/us/pl/96/365/tI], §§ 103, 107(a), Sept. 26, 1980, [94 Stat. 1313][/us/stat/94/1313], 1317; [Pub. L. 101–624, title XXII][/us/pl/101/624/tXXII], §§ 2201(a), 2202, Nov. 28, 1990, [104 Stat. 3951][/us/stat/104/3951], 3954; [Pub. L. 102–237, title VI][/us/pl/102/237/tVI], § 601(1), (2), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1403(a), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], §§ 104, 119(f)(1), Oct. 13, 1994, [108 Stat. 3181][/us/stat/108/3181], 3208; [Pub. L. 105–185, title V][/us/pl/105/185/tV], § 533, June 23, 1998, [112 Stat. 583][/us/stat/112/583]; [Pub. L. 106–224, title I][/us/pl/106/224/tI], §§ 121(b), 124(b), June 20, 2000, [114 Stat. 377][/us/stat/114/377], 378; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167.)
 
  __References in Text__ 
 
-    [Section 405(c)(2)(C)(iii) of title 42][/us/usc/t42/s405/c/2/C/iii], referred to in subsec. (m)(1), was redesignated [section 405(c)(2)(C)(iv) of title 42][/us/usc/t42/s405/c/2/C/iv] by [Pub. L. 103–296, title III, § 321(a)(9)(B)][/us/pl/103/296/s321/a/9/B], Aug. 15, 1994, [108 Stat. 1536][/us/stat/108/1536].
+    [Section 405(c)(2)(C)(iii) of title 42][/us/usc/t42/s405/c/2/C/iii], referred to in subsec. (m)(1), was redesignated [section 405(c)(2)(C)(iv) of title 42][/us/usc/t42/s405/c/2/C/iv] by [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 321(a)(9)(B), Aug. 15, 1994, [108 Stat. 1536][/us/stat/108/1536].
 
  __Codification__ 
 
@@ -157,107 +157,107 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 12002(a)(1)][/us/pl/110/246/s12002/a/1], substituted “Subject to [section 1508(j)(2)(A) of this title][/us/usc/t7/s1508/j/2/A], the Corporation” for “The Corporation” in first sentence.
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 12002(a)(1), substituted “Subject to [section 1508(j)(2)(A) of this title][/us/usc/t7/s1508/j/2/A], the Corporation” for “The Corporation” in first sentence.
 
-    Subsecs. (g) to (i), (m). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsecs. (g) to (i), (m). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (n). [Pub. L. 110–246, § 12002(b)(1)][/us/pl/110/246/s12002/b/1], redesignated subsec. (o) as (n).
+    Subsec. (n). [Pub. L. 110–246][/us/pl/110/246], § 12002(b)(1), redesignated subsec. (o) as (n).
 
-    [Pub. L. 110–246, § 12002(a)(2)][/us/pl/110/246/s12002/a/2], struck out subsec. (n) which related to penalty for willful and intentional provision of false or inaccurate information to the Corporation or any insurer.
+    [Pub. L. 110–246][/us/pl/110/246], § 12002(a)(2), struck out subsec. (n) which related to penalty for willful and intentional provision of false or inaccurate information to the Corporation or any insurer.
 
-    Subsec. (n)(1). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in introductory provisions.
+    Subsec. (n)(1). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in introductory provisions.
 
-    Subsec. (n)(2). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (n)(2). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    [Pub. L. 110–246, § 12003(a)][/us/pl/110/246/s12003/a], in heading, struck out “as of October 1, 1998” after “loss ratio” and, in text, struck out “, on and after October 1, 1998,” after “to achieve” and substituted “1.0” for “1.075”.
+    [Pub. L. 110–246][/us/pl/110/246], § 12003(a), in heading, struck out “as of October 1, 1998” after “loss ratio” and, in text, struck out “, on and after October 1, 1998,” after “to achieve” and substituted “1.0” for “1.075”.
 
-    Subsecs. (o), (p). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsecs. (o), (p). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    [Pub. L. 110–246, § 12002(b)(1)][/us/pl/110/246/s12002/b/1], redesignated subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
+    [Pub. L. 110–246][/us/pl/110/246], § 12002(b)(1), redesignated subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
-    Subsec. (q). [Pub. L. 110–246, § 12002(b)(1)][/us/pl/110/246/s12002/b/1], redesignated subsec. (q) as (p).
+    Subsec. (q). [Pub. L. 110–246][/us/pl/110/246], § 12002(b)(1), redesignated subsec. (q) as (p).
 
-    Subsec. (r). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsec. (r). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    2000—Subsec. (h). [Pub. L. 106–224, § 124(b)][/us/pl/106/224/s124/b], added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.”
+    2000—Subsec. (h). [Pub. L. 106–224][/us/pl/106/224], § 124(b), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.”
 
-    Subsecs. (q) to (s). [Pub. L. 106–224, § 121(b)][/us/pl/106/224/s121/b], redesignated subsecs. (r) and (s) as (q) and (r), respectively, and struck out former subsec. (q), which related to program compliance by insurance providers and required notice to any provider of any error, omission, or failure to follow Corporation regulations or procedures for which provider may be responsible and which may result in a debt owed the Corporation.
+    Subsecs. (q) to (s). [Pub. L. 106–224][/us/pl/106/224], § 121(b), redesignated subsecs. (r) and (s) as (q) and (r), respectively, and struck out former subsec. (q), which related to program compliance by insurance providers and required notice to any provider of any error, omission, or failure to follow Corporation regulations or procedures for which provider may be responsible and which may result in a debt owed the Corporation.
 
     1998—Subsec. (s). [Pub. L. 105–185][/us/pl/105/185] added subsec. (s).
 
-    1994—Subsec. (d). [Pub. L. 103–354, § 119(f)(1)][/us/pl/103/354/s119/f/1], substituted “1508(j)” for “1508(f)” in first sentence.
+    1994—Subsec. (d). [Pub. L. 103–354][/us/pl/103/354], § 119(f)(1), substituted “1508(j)” for “1508(f)” in first sentence.
 
-    Subsec. (j). [Pub. L. 103–354, § 104(2)][/us/pl/103/354/s104/2], added subsec. (j). Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 103–354][/us/pl/103/354], § 104(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
-    Subsec. (k). [Pub. L. 103–354, § 104(1)][/us/pl/103/354/s104/1], redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
+    Subsec. (k). [Pub. L. 103–354][/us/pl/103/354], § 104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-    Subsec. (l). [Pub. L. 103–354, § 104(1)][/us/pl/103/354/s104/1], (3), redesignated subsec. (k) as (l), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (l) redesignated (m).
+    Subsec. (l). [Pub. L. 103–354][/us/pl/103/354], § 104(1), (3), redesignated subsec. (k) as (l), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (l) redesignated (m).
 
-    Subsec. (m). [Pub. L. 103–354, § 104(1)][/us/pl/103/354/s104/1], redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
+    Subsec. (m). [Pub. L. 103–354][/us/pl/103/354], § 104(1), redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
-    Subsec. (n). [Pub. L. 103–354, § 104(1)][/us/pl/103/354/s104/1], redesignated subsec. (m) as (n). Former subsec. (n) redesignated (o).
+    Subsec. (n). [Pub. L. 103–354][/us/pl/103/354], § 104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (o).
 
-    Subsec. (n)(1)(B). [Pub. L. 103–354, § 104(4)][/us/pl/103/354/s104/4], added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
+    Subsec. (n)(1)(B). [Pub. L. 103–354][/us/pl/103/354], § 104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
 
-    Subsec. (o). [Pub. L. 103–354, § 104(1)][/us/pl/103/354/s104/1], (5)(B), redesignated subsec. (n) as (o) and reenacted heading without change.
+    Subsec. (o). [Pub. L. 103–354][/us/pl/103/354], § 104(1), (5)(B), redesignated subsec. (n) as (o) and reenacted heading without change.
 
-    Subsec. (o)(1). [Pub. L. 103–354, § 104(5)(B)][/us/pl/103/354/s104/5/B], designated existing provisions as par. (1) and inserted heading. Former par. (1) redesignated subpar. (A).
+    Subsec. (o)(1). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(B), designated existing provisions as par. (1) and inserted heading. Former par. (1) redesignated subpar. (A).
 
-    Subsec. (o)(1)(A). [Pub. L. 103–354, § 104(5)(A)][/us/pl/103/354/s104/5/A], (C), redesignated former par. (1) as subpar. (A) and substituted “(as defined by the Secretary) from obtaining Federal crop insurance” for “from obtaining adequate Federal crop insurance, as determined by the Corporation”.
+    Subsec. (o)(1)(A). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(A), (C), redesignated former par. (1) as subpar. (A) and substituted “(as defined by the Secretary) from obtaining Federal crop insurance” for “from obtaining adequate Federal crop insurance, as determined by the Corporation”.
 
-    Subsec. (o)(1)(B). [Pub. L. 103–354, § 104(5)(A)][/us/pl/103/354/s104/5/A], redesignated former par. (2) as subpar. (B).
+    Subsec. (o)(1)(B). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(A), redesignated former par. (2) as subpar. (B).
 
-    Subsec. (o)(1)(C). [Pub. L. 103–354, § 104(5)(A)][/us/pl/103/354/s104/5/A], (D), redesignated former par. (3) as subpar. (C) and inserted “, agents, and loss adjusters” after “participating producers” and after “identify insured producers”.
+    Subsec. (o)(1)(C). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(A), (D), redesignated former par. (3) as subpar. (C) and inserted “, agents, and loss adjusters” after “participating producers” and after “identify insured producers”.
 
-    Subsec. (o)(1)(D). [Pub. L. 103–354, § 104(5)(A)][/us/pl/103/354/s104/5/A], redesignated former par. (4) as subpar. (D).
+    Subsec. (o)(1)(D). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(A), redesignated former par. (4) as subpar. (D).
 
-    Subsec. (o)(2) to (4). [Pub. L. 103–354, § 104(5)(A)][/us/pl/103/354/s104/5/A], (E), added pars. (2) and (3) and redesignated former pars. (2) to (4) as subpars. (B) to (D), respectively, of par. (1) and realigned their margins.
+    Subsec. (o)(2) to (4). [Pub. L. 103–354][/us/pl/103/354], § 104(5)(A), (E), added pars. (2) and (3) and redesignated former pars. (2) to (4) as subpars. (B) to (D), respectively, of par. (1) and realigned their margins.
 
-    Subsecs. (p) to (r). [Pub. L. 103–354, § 104(6)][/us/pl/103/354/s104/6], added subsecs. (p) to (r).
+    Subsecs. (p) to (r). [Pub. L. 103–354][/us/pl/103/354], § 104(6), added subsecs. (p) to (r).
 
     1993—Subsec. (n). [Pub. L. 103–66][/us/pl/103/66] added subsec. (n).
 
-    1991—Subsec. (d). [Pub. L. 102–237, § 601(1)][/us/pl/102/237/s601/1], substituted “section 1508(f)” for “section 1508(c)” and a period for semicolon at end.
+    1991—Subsec. (d). [Pub. L. 102–237][/us/pl/102/237], § 601(1), substituted “section 1508(f)” for “section 1508(c)” and a period for semicolon at end.
 
-    Subsec. (m)(1). [Pub. L. 102–237, § 601(2)][/us/pl/102/237/s601/2], in introductory provisions substituted “willfully” for “wilfully” and in subpar. (A) struck out “to” after “exceed”.
+    Subsec. (m)(1). [Pub. L. 102–237][/us/pl/102/237], § 601(2), in introductory provisions substituted “willfully” for “wilfully” and in subpar. (A) struck out “to” after “exceed”.
 
-    1990—[Pub. L. 101–624, § 2202(b)(1)][/us/pl/101/624/s2202/b/1], substituted “General powers” for “General powers of Corporation” as section catchline and struck out “The Corporation—” before subsec. (a).
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 2202(b)(1), substituted “General powers” for “General powers of Corporation” as section catchline and struck out “The Corporation—” before subsec. (a).
 
-    Subsec. (a). [Pub. L. 101–624, § 2202(b)(2)][/us/pl/101/624/s2202/b/2], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(2), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (b). [Pub. L. 101–624, § 2202(b)(3)][/us/pl/101/624/s2202/b/3], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(3), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (c). [Pub. L. 101–624, § 2202(b)(4)][/us/pl/101/624/s2202/b/4], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(4), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (d). [Pub. L. 101–624, § 2202(b)(5)][/us/pl/101/624/s2202/b/5], inserted heading and “The Corporation,”.
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(5), inserted heading and “The Corporation,”.
 
-    Subsec. (e). [Pub. L. 101–624, § 2202(b)(6)][/us/pl/101/624/s2202/b/6], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(6), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (f). [Pub. L. 101–624, § 2202(b)(7)][/us/pl/101/624/s2202/b/7], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(7), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (g). [Pub. L. 101–624, § 2202(b)(8)][/us/pl/101/624/s2202/b/8], (13), inserted heading and “The Corporation,” and substituted period for semicolon at end.
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(8), (13), inserted heading and “The Corporation,” and substituted period for semicolon at end.
 
-    Subsec. (h). [Pub. L. 101–624, § 2202(b)(9)][/us/pl/101/624/s2202/b/9], (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(9), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
-    Subsec. (i). [Pub. L. 101–624, § 2202(b)(10)][/us/pl/101/624/s2202/b/10], (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
+    Subsec. (i). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(10), (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
 
-    Subsec. (j). [Pub. L. 101–624, § 2202(b)(11)][/us/pl/101/624/s2202/b/11], (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
+    Subsec. (j). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(11), (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
 
-    Subsec. (k). [Pub. L. 101–624, § 2202(b)(12)][/us/pl/101/624/s2202/b/12], inserted heading and “The Corporation”.
+    Subsec. (k). [Pub. L. 101–624][/us/pl/101/624], § 2202(b)(12), inserted heading and “The Corporation”.
 
-    Subsec. (l). [Pub. L. 101–624, § 2201(a)][/us/pl/101/624/s2201/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 101–624][/us/pl/101/624], § 2201(a), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 101–624, § 2202(a)][/us/pl/101/624/s2202/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 101–624][/us/pl/101/624], § 2202(a), added subsec. (m).
 
-    1980—Subsec. (c). [Pub. L. 96–365, § 103(1)][/us/pl/96/365/s103/1], substituted “may purchase” for “may make contracts and purchase”. See subsec. (k) of this section.
+    1980—Subsec. (c). [Pub. L. 96–365][/us/pl/96/365], § 103(1), substituted “may purchase” for “may make contracts and purchase”. See subsec. (k) of this section.
 
-    Subsec. (d). [Pub. L. 96–365, § 103(2)][/us/pl/96/365/s103/2], substituted provision granting exclusive original jurisdiction to district courts of the United States, including district courts of the District of Columbia and of any territory or possession, for prior grant to any State court of record having general jurisdiction or any United States district court, authorized intervention by the Corporation in proceedings, and required suits against the Corporation to be brought in the District of Columbia or in district wherein plaintiff resides or is engaged in business.
+    Subsec. (d). [Pub. L. 96–365][/us/pl/96/365], § 103(2), substituted provision granting exclusive original jurisdiction to district courts of the United States, including district courts of the District of Columbia and of any territory or possession, for prior grant to any State court of record having general jurisdiction or any United States district court, authorized intervention by the Corporation in proceedings, and required suits against the Corporation to be brought in the District of Columbia or in district wherein plaintiff resides or is engaged in business.
 
-    Subsec. (f). [Pub. L. 96–365, § 103(3)][/us/pl/96/365/s103/3], substituted “use of the United States mails” for “free use of the United States mails”.
+    Subsec. (f). [Pub. L. 96–365][/us/pl/96/365], § 103(3), substituted “use of the United States mails” for “free use of the United States mails”.
 
-    Subsec. (h). [Pub. L. 96–365, § 107(a)][/us/pl/96/365/s107/a], struck out authority for conducting researches, surveys, and investigations relating to crop insurance. See [section 1508(i) of this title][/us/usc/t7/s1508/i].
+    Subsec. (h). [Pub. L. 96–365][/us/pl/96/365], § 107(a), struck out authority for conducting researches, surveys, and investigations relating to crop insurance. See [section 1508(i) of this title][/us/usc/t7/s1508/i].
 
-    Subsec. (k). [Pub. L. 96–365, § 103(4)][/us/pl/96/365/s103/4], added subsec. (k).
+    Subsec. (k). [Pub. L. 96–365][/us/pl/96/365], § 103(4), added subsec. (k).
 
     1949—Subsec. (h). Act Aug. 25, 1949, struck out obsolete language and included authority for a study of the possibility of developing some type of livestock insurance.
 
@@ -271,7 +271,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–185, title V, § 537][/us/pl/105/185/s537], June 23, 1998, [112 Stat. 584][/us/stat/112/584], provided that: 
+[Pub. L. 105–185, title V][/us/pl/105/185/tV], § 537, June 23, 1998, [112 Stat. 584][/us/stat/112/584], provided that: 
 
 > “Except as provided in section 535 \[[112 Stat. 583][/us/stat/112/583]\], this subtitle \[subtitle C (§§ 531–537) of title V of [Pub. L. 105–185][/us/pl/105/185], amending this section and sections 1508 and 1516 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle take effect on July 1, 1998.”
 
@@ -281,7 +281,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title I, § 1403(c)(1)][/us/pl/103/66/s1403/c/1], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335], provided that: 
+[Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1403(c)(1), Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335], provided that: 
 
 > “Except as provided in paragraph (2), this section \[amending this section and sections 1508 and 1508a of this title\] and the amendments made by this section shall become effective on October 1, 1993.”
 
@@ -291,7 +291,7 @@
 
  __Regulations__ 
 
-[Pub. L. 103–66, title I, § 1403(c)(2)][/us/pl/103/66/s1403/c/2], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335], provided that: 
+[Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1403(c)(2), Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
 
@@ -303,11 +303,11 @@
 
  __Required Terms and Conditions of Standard Reinsurance Agreements__ 
 
-[Pub. L. 106–224, title I, § 148][/us/pl/106/224/s148], June 20, 2000, [114 Stat. 394][/us/stat/114/394], provided that: 
+[Pub. L. 106–224, title I][/us/pl/106/224/tI], § 148, June 20, 2000, [114 Stat. 394][/us/stat/114/394], provided that: 
 
 > “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 1506][/us/usc/t7/s1506] note; [Public Law 105–185][/us/pl/105/185]), the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
 
-[Pub. L. 105–185, title V, § 536][/us/pl/105/185/s536], June 23, 1998, [112 Stat. 584][/us/stat/112/584], provided that:
+[Pub. L. 105–185, title V][/us/pl/105/185/tV], § 536, June 23, 1998, [112 Stat. 584][/us/stat/112/584], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -339,7 +339,7 @@
 
  __Crop Insurance Provider Evaluation__ 
 
-[Pub. L. 103–354, title I, § 118][/us/pl/103/354/s118], Oct. 13, 1994, [108 Stat. 3205][/us/stat/108/3205], provided that:
+[Pub. L. 103–354, title I][/us/pl/103/354/tI], § 118, Oct. 13, 1994, [108 Stat. 3205][/us/stat/108/3205], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -407,17 +407,9 @@
 
 >         The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
 
-§§ 1506a, 1506b. __Omitted__ 
-
- __Codification__ 
-
-    Section 1506a, [act July 30, 1947, ch. 356][/us/act/1947-07-30/ch356], title II, § 202, [61 Stat. 550][/us/stat/61/550], which related to authority of Federal Crop Insurance Corporation to make expenditures, was from the Department of Agriculture Appropriation Act, 1948, and was not repeated in subsequent appropriation acts.
-
-    Section 1506b, acts [June 29, 1954, ch. 409][/us/act/1954-06-29/ch409], title II, § 201, [68 Stat. 317][/us/stat/68/317]; [May 23, 1955, ch. 43][/us/act/1955-05-23/ch43], title II, § 201, [69 Stat. 60][/us/stat/69/60]; [June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title II, § 201, [70 Stat. 238][/us/stat/70/238], which provided that crop inspection costs and loss adjustments could be considered as nonadministrative or nonoperating expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Acts for fiscal years 1955–57, and was not repeated in subsequent appropriation acts.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1507.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1506a _us_usc_t7_s1506b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
 
 ----------
 ----------
@@ -430,97 +422,97 @@
 [/us/usc/t26/s6109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6109%2Ff
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F73
-[/us/act/1941-06-21/ch214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-21%2Fch214%2Fs2
+[/us/act/1941-06-21/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-21%2Fch214
 [/us/stat/55/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F255
-[/us/act/1947-08-01/ch440/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440%2Fs7
+[/us/act/1947-08-01/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440
 [/us/stat/61/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F719
-[/us/act/1949-08-25/ch512/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512%2Fs8
+[/us/act/1949-08-25/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512
 [/us/stat/63/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F665
-[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1313
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXII
 [/us/stat/104/3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3951
-[/us/pl/102/237/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F1
+[/us/pl/102/237/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVI
 [/us/stat/105/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1878
-[/us/pl/103/66/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fa
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F333
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3181
-[/us/pl/105/185/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs533
+[/us/pl/105/185/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtV
 [/us/stat/112/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F583
-[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F377
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1371
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t42/s405/c/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FC%2Fiii
 [/us/usc/t42/s405/c/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FC%2Fiv
-[/us/pl/103/296/s321/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fa%2F9%2FB
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1536
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12002%2Fa%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1508/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fj%2F2%2FA
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12002%2Fb%2F1
-[/us/pl/110/246/s12002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12002%2Fa%2F2
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12003%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12002%2Fb%2F1
-[/us/pl/110/246/s12002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12002%2Fb%2F1
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/106/224/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs124%2Fb
-[/us/pl/106/224/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs121%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
-[/us/pl/103/354/s119/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs119%2Ff%2F1
-[/us/pl/103/354/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F2
-[/us/pl/103/354/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F1
-[/us/pl/103/354/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F1
-[/us/pl/103/354/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F1
-[/us/pl/103/354/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F1
-[/us/pl/103/354/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F4
-[/us/pl/103/354/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F1
-[/us/pl/103/354/s104/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FB
-[/us/pl/103/354/s104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FA
-[/us/pl/103/354/s104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FA
-[/us/pl/103/354/s104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FA
-[/us/pl/103/354/s104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FA
-[/us/pl/103/354/s104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F5%2FA
-[/us/pl/103/354/s104/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs104%2F6
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/102/237/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F1
-[/us/pl/102/237/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F2
-[/us/pl/101/624/s2202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F1
-[/us/pl/101/624/s2202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F2
-[/us/pl/101/624/s2202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F3
-[/us/pl/101/624/s2202/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F4
-[/us/pl/101/624/s2202/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F5
-[/us/pl/101/624/s2202/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F6
-[/us/pl/101/624/s2202/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F7
-[/us/pl/101/624/s2202/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F8
-[/us/pl/101/624/s2202/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F9
-[/us/pl/101/624/s2202/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F10
-[/us/pl/101/624/s2202/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F11
-[/us/pl/101/624/s2202/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fb%2F12
-[/us/pl/101/624/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2201%2Fa
-[/us/pl/101/624/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2202%2Fa
-[/us/pl/96/365/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs103%2F1
-[/us/pl/96/365/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs103%2F2
-[/us/pl/96/365/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs103%2F3
-[/us/pl/96/365/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs107%2Fa
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/usc/t7/s1508/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fi
-[/us/pl/96/365/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs103%2F4
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/185/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs537
+[/us/pl/105/185/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtV
 [/us/stat/112/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F584
 [/us/stat/112/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F583
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
@@ -528,34 +520,26 @@
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/pl/103/354/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs120
 [/us/usc/t7/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1502
-[/us/pl/103/66/s1403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fc%2F1
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F335
 [/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/pl/96/365/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs112
 [/us/usc/t7/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1504
-[/us/pl/103/66/s1403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fc%2F2
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F335
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
-[/us/pl/106/224/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs148
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F394
 [/us/usc/t7/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
-[/us/pl/105/185/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs536
+[/us/pl/105/185/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtV
 [/us/stat/112/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F584
 [/us/usc/t7/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1502%2Fb
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/103/354/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs118
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3205
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/act/1947-07-30/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch356
-[/us/stat/61/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F550
-[/us/act/1954-06-29/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch409
-[/us/stat/68/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F317
-[/us/act/1955-05-23/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-23%2Fch43
-[/us/stat/69/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F60
-[/us/act/1956-06-04/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355
-[/us/stat/70/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F238
 
 

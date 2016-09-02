@@ -47,7 +47,7 @@
 
         (3) achieves agricultural research, extension, and education objectives through multi-institutional and multifunctional approaches and by conducting research at facilities and institutions best equipped to achieve those objectives.
 
-([Pub. L. 105–185, title I, § 102][/us/pl/105/185/s102], June 23, 1998, [112 Stat. 526][/us/stat/112/526]; [Pub. L. 110–234, title VII, § 7129(c)(2)][/us/pl/110/234/s7129/c/2], May 22, 2008, [122 Stat. 1227][/us/stat/122/1227]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7129(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988.)
+([Pub. L. 105–185, title I][/us/pl/105/185/tI], § 102, June 23, 1998, [112 Stat. 526][/us/stat/112/526]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7129(c)(2), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7129(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988.)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 7129(c)(2)][/us/pl/110/246/s7129/c/2], inserted “and Hispanic-serving agricultural colleges and universities” after “Institutions” in heading and substituted “1994 Institution, and Hispanic-serving agricultural college and university” for “and 1994 Institution” in par. (1).
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 7129(c)(2), inserted “and Hispanic-serving agricultural colleges and universities” after “Institutions” in heading and substituted “1994 Institution, and Hispanic-serving agricultural college and university” for “and 1994 Institution” in par. (1).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -69,17 +69,17 @@
 ----------
 
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
-[/us/pl/105/185/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs102
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F526
-[/us/pl/110/234/s7129/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7129%2Fc%2F2
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7129/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

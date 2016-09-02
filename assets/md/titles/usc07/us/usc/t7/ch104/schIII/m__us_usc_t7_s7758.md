@@ -21,7 +21,7 @@
 
         Regulations issued under the authority of a provision of law repealed by subsection (a)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  shall remain in effect until such time as the Secretary issues a regulation under [section 7754 of this title][/us/usc/t7/s7754] that supersedes the earlier regulation.
 
-([Pub. L. 106–224, title IV, § 438][/us/pl/106/224/s438], June 20, 2000, [114 Stat. 454][/us/stat/114/454].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438, June 20, 2000, [114 Stat. 454][/us/stat/114/454].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t7/s7754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7754
-[/us/pl/106/224/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/pl/106/224/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438
 [/us/pl/106/224/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438

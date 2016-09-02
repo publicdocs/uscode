@@ -17,7 +17,7 @@
 
     The President may exercise any power or duty conferred on him by this chapter through such agencies or offices of the United States as he shall designate. Such agencies or offices shall issue such regulations as they determine are necessary to implement this chapter.
 
-([Pub. L. 96–236, § 3][/us/pl/96/236/s3], Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336].)
+([Pub. L. 96–236][/us/pl/96/236], § 3, Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/236/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236%2Fs3
+[/us/pl/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236
 [/us/stat/94/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F336
 
 

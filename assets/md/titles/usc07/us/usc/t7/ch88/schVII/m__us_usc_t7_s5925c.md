@@ -53,7 +53,7 @@
 
             In addition to funds made available under paragraphs (1) and (2), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-([Pub. L. 107–171, title VII, § 7407][/us/pl/107/171/s7407], May 13, 2002, [116 Stat. 461][/us/stat/116/461]; [Pub. L. 110–234, title X, § 10302][/us/pl/110/234/s10302], May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII, § 701(g)(4)][/us/pl/112/240/s701/g/4], Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X, § 10004(a)][/us/pl/113/79/s10004/a], Feb. 7, 2014, [128 Stat. 941][/us/stat/128/941].)
+([Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7407, May 13, 2002, [116 Stat. 461][/us/stat/116/461]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10302, May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(g)(4), Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10004(a), Feb. 7, 2014, [128 Stat. 941][/us/stat/128/941].)
 
  __References in Text__ 
 
@@ -67,17 +67,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–79, § 10004(a)(1)][/us/pl/113/79/s10004/a/1], inserted “and annually thereafter” after “this subsection” in introductory provisions, added par. (2), and redesignated former par. (2) as (3).
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 10004(a)(1), inserted “and annually thereafter” after “this subsection” in introductory provisions, added par. (2), and redesignated former par. (2) as (3).
 
-    Subsec. (d)(2), (3). [Pub. L. 113–79, § 10004(a)(2)][/us/pl/113/79/s10004/a/2], added par. (2), redesignated former par. (2) as (3), struck out “for fiscal years 2008 through 2012” after “Discretionary funding” in heading and substituted “paragraphs (1) and (2)” for “paragraph (1)” and “2018” for “2012” in text, and struck out former par. (3). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.”
+    Subsec. (d)(2), (3). [Pub. L. 113–79][/us/pl/113/79], § 10004(a)(2), added par. (2), redesignated former par. (2) as (3), struck out “for fiscal years 2008 through 2012” after “Discretionary funding” in heading and substituted “paragraphs (1) and (2)” for “paragraph (1)” and “2018” for “2012” in text, and struck out former par. (3). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.”
 
-    2013—Subsec. (d)(1). [Pub. L. 112–240, § 701(g)(4)(A)][/us/pl/112/240/s701/g/4/A], substituted “Mandatory funding through fiscal year 2012” for “In general” in heading.
+    2013—Subsec. (d)(1). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(4)(A), substituted “Mandatory funding through fiscal year 2012” for “In general” in heading.
 
-    Subsec. (d)(2). [Pub. L. 112–240, § 701(g)(4)(B)][/us/pl/112/240/s701/g/4/B], substituted “Discretionary funding for fiscal years 2008 through 2012” for “Additional funding” in heading.
+    Subsec. (d)(2). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(4)(B), substituted “Discretionary funding for fiscal years 2008 through 2012” for “Additional funding” in heading.
 
-    Subsec. (d)(3). [Pub. L. 112–240, § 701(g)(4)(C)][/us/pl/112/240/s701/g/4/C], added par. (3)
+    Subsec. (d)(3). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(4)(C), added par. (3)
 
-    2008—[Pub. L. 110–246, § 10302][/us/pl/110/246/s10302], amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -98,27 +98,27 @@
 ----------
 ----------
 
-[/us/pl/107/171/s7407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7407
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F461
-[/us/pl/110/234/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10302
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1347
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2366
-[/us/pl/113/79/s10004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F941
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s10004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa%2F1
-[/us/pl/113/79/s10004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa%2F2
-[/us/pl/112/240/s701/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FA
-[/us/pl/112/240/s701/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FB
-[/us/pl/112/240/s701/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FC
-[/us/pl/110/246/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10302
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

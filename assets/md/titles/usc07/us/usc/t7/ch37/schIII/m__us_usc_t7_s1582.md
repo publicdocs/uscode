@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583 _us_usc_t7_s1584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
 
 ## § 1582. Procedure relating to importations; disposal of refuse; exceptions
 
@@ -35,7 +35,7 @@
 
         (2) when seed is imported for sowing for experimental or breeding purposes and not for sale: Provided, That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under [section 1592 of this title][/us/usc/t7/s1592], to assure that the importations are for experimental or breeding purposes.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 302, [53 Stat. 1283][/us/stat/53/1283]; [Pub. L. 85–581][/us/pl/85/581], §§ 13, 14, Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478], 479; [Pub. L. 89–686][/us/pl/89/686], §§ 15–17, Oct. 15, 1966, [80 Stat. 979][/us/stat/80/979]; [Pub. L. 97–439, § 5(b)(2)][/us/pl/97/439/s5/b/2], (3), Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 100–449, title III, § 301(e)][/us/pl/100/449/s301/e], Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868]; [Pub. L. 103–182, title III, § 361(a)][/us/pl/103/182/s361/a], Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122]; [Pub. L. 103–465, title IV, § 441(2)][/us/pl/103/465/s441/2], Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 302, [53 Stat. 1283][/us/stat/53/1283]; [Pub. L. 85–581][/us/pl/85/581], §§ 13, 14, Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478], 479; [Pub. L. 89–686][/us/pl/89/686], §§ 15–17, Oct. 15, 1966, [80 Stat. 979][/us/stat/80/979]; [Pub. L. 97–439][/us/pl/97/439], § 5(b)(2), (3), Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 301(e), Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 361(a), Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 441(2), Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
 
  __Amendment of Section__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 441(2)(A)][/us/pl/103/465/s441/2/A], struck out “staining,” before “cleaning, labeling,” in two places.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 441(2)(A), struck out “staining,” before “cleaning, labeling,” in two places.
 
-    Subsec. (e). [Pub. L. 103–465, § 441(2)(B)][/us/pl/103/465/s441/2/B], struck out subsec. (e) which read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply—
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 441(2)(B), struck out subsec. (e) which read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply—
 
     “(1) to alfalfa or clover seed originating in Canada or Mexico, or
 
@@ -55,21 +55,21 @@
 
     1988—[Pub. L. 100–449][/us/pl/100/449] temporarily amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: Provided, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under [section 1592 of this title][/us/usc/t7/s1592] certifying that such seed will be used only for seed production by or for the importer or consignee.” See Effective and Termination Dates of 1988 Amendment note below.
 
-    1983—Subsec. (a). [Pub. L. 97–439, § 5(b)(2)][/us/pl/97/439/s5/b/2], struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
+    1983—Subsec. (a). [Pub. L. 97–439][/us/pl/97/439], § 5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
 
-    Subsec. (d). [Pub. L. 97–439, § 5(b)(3)(A)][/us/pl/97/439/s5/b/3/A], struck out “that is adulterated or unfit for seeding purposes” after “importation of seed” in provisions preceding par. (1).
+    Subsec. (d). [Pub. L. 97–439][/us/pl/97/439], § 5(b)(3)(A), struck out “that is adulterated or unfit for seeding purposes” after “importation of seed” in provisions preceding par. (1).
 
-    Subsec. (d)(3). [Pub. L. 97–439, § 5(b)(3)(B)][/us/pl/97/439/s5/b/3/B], struck out cl. (3) which described the situation when seed not meeting the pure-live seed requirements of [section 1584 of this title][/us/usc/t7/s1584] would not be sold within the United States and would be used for seed production only by or for the importer or consignee, providing that the importer of record or consignee filed a statement in accordance with the rules and regulations prescribed under [section 1592 of this title][/us/usc/t7/s1592] certifying that such seed would be used only for seed production by or for the importer or consignee.
+    Subsec. (d)(3). [Pub. L. 97–439][/us/pl/97/439], § 5(b)(3)(B), struck out cl. (3) which described the situation when seed not meeting the pure-live seed requirements of [section 1584 of this title][/us/usc/t7/s1584] would not be sold within the United States and would be used for seed production only by or for the importer or consignee, providing that the importer of record or consignee filed a statement in accordance with the rules and regulations prescribed under [section 1592 of this title][/us/usc/t7/s1592] certifying that such seed would be used only for seed production by or for the importer or consignee.
 
-    1966—Subsec. (a). [Pub. L. 89–686, § 15][/us/pl/89/686/s15], authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
+    1966—Subsec. (a). [Pub. L. 89–686][/us/pl/89/686], § 15, authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
 
-    Subsec. (d)(3). [Pub. L. 89–686, § 16][/us/pl/89/686/s16], added par. (3).
+    Subsec. (d)(3). [Pub. L. 89–686][/us/pl/89/686], § 16, added par. (3).
 
-    Subsec. (e). [Pub. L. 89–686, § 17][/us/pl/89/686/s17], added subsec. (e).
+    Subsec. (e). [Pub. L. 89–686][/us/pl/89/686], § 17, added subsec. (e).
 
-    1958—Subsec. (a). [Pub. L. 85–851, § 13][/us/pl/85/851/s13], inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
+    1958—Subsec. (a). [Pub. L. 85–851][/us/pl/85/851], § 13, inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
 
-    Subsec. (d). [Pub. L. 85–581, § 14][/us/pl/85/581/s14], added subsec. (d).
+    Subsec. (d). [Pub. L. 85–581][/us/pl/85/581], § 14, added subsec. (d).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -87,15 +87,9 @@
 
     For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-§§ 1583, 1584. __Repealed.__  __[__  __Pub. L. 97–439, § 5(b)(4)__  __][/us/pl/97/439/s5/b/4]__  __,__  __Jan. 8, 1983__  __,__  __[__  __96 Stat. 2288__  __][/us/stat/96/2288]__ 
-
-    Section 1583, [act Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 303, [53 Stat. 1283][/us/stat/53/1283], related to adulterated seed.
-
-    Section 1584, acts [Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 304, [53 Stat. 1284][/us/stat/53/1284]; Oct. 15, 1966, [Pub. L. 89–686, § 18][/us/pl/89/686/s18], [80 Stat. 979][/us/stat/80/979], related to seed unfit for seeding purposes.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583 _us_usc_t7_s1584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
 
 ----------
 ----------
@@ -113,31 +107,31 @@
 [/us/stat/72/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F478
 [/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/stat/80/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F979
-[/us/pl/97/439/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F2
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
 [/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
-[/us/pl/100/449/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs301%2Fe
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1868
-[/us/pl/103/182/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2122
-[/us/pl/103/465/s441/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F2
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4973
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
-[/us/pl/103/465/s441/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F2%2FA
-[/us/pl/103/465/s441/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t7/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1592
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t7/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1592
-[/us/pl/97/439/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F2
-[/us/pl/97/439/s5/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F3%2FA
-[/us/pl/97/439/s5/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F3%2FB
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
 [/us/usc/t7/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1584
 [/us/usc/t7/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1592
-[/us/pl/89/686/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs15
-[/us/pl/89/686/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs16
-[/us/pl/89/686/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs17
-[/us/pl/85/851/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851%2Fs13
-[/us/pl/85/581/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs14
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/85/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F851
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451
 [/us/usc/t19/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3601
@@ -146,13 +140,5 @@
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/97/439/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F4
-[/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
-[/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
-[/us/stat/53/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1283
-[/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
-[/us/stat/53/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1284
-[/us/pl/89/686/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs18
-[/us/stat/80/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F979
 
 

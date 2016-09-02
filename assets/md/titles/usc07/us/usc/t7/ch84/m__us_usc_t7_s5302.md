@@ -57,7 +57,7 @@
 
     (9) the term “Secretaries” means the Secretary of Agriculture and the Secretary of Health and Human Services, acting jointly.
 
-([Pub. L. 101–445, § 3][/us/pl/101/445/s3], Oct. 22, 1990, [104 Stat. 1035][/us/stat/104/1035].)
+([Pub. L. 101–445][/us/pl/101/445], § 3, Oct. 22, 1990, [104 Stat. 1035][/us/stat/104/1035].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t7/s5311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5311%2Fc
 [/us/usc/t7/s3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3178
 [/us/usc/t7/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5331
-[/us/pl/101/445/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs3
+[/us/pl/101/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445
 [/us/stat/104/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1035
 
 

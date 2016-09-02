@@ -17,7 +17,7 @@
 
     There is appropriated annually, out of funds in the Treasury not otherwise appropriated, for payment to the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau the amount they would be entitled to receive under this subchapter if they were States. Sums appropriated under this section shall be treated in the same manner and be subject to the same provisions of law, as would be the case if they had been appropriated by the first sentence of [section 322 of this title][/us/usc/t7/s322].
 
-([Aug. 30, 1890, ch. 841, § 5][/us/act/1890-08-30/ch841/s5], as added [Pub. L. 92–318, title V, § 506(c)][/us/pl/92/318/s506/c], June 23, 1972, [86 Stat. 350][/us/stat/86/350]; amended [Pub. L. 96–374, title XIII, § 1361(b)][/us/pl/96/374/s1361/b], Oct. 3, 1980, [94 Stat. 1502][/us/stat/94/1502]; [Pub. L. 99–396, § 9(b)][/us/pl/99/396/s9/b], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840]; [Pub. L. 100–339, § 2][/us/pl/100/339/s2], June 17, 1988, [102 Stat. 620][/us/stat/102/620]; [Pub. L. 103–382, title III, § 352][/us/pl/103/382/s352], Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966].)
+([Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], § 5, as added [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(c), June 23, 1972, [86 Stat. 350][/us/stat/86/350]; amended [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1361(b), Oct. 3, 1980, [94 Stat. 1502][/us/stat/94/1502]; [Pub. L. 99–396][/us/pl/99/396], § 9(b), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840]; [Pub. L. 100–339][/us/pl/100/339], § 2, June 17, 1988, [102 Stat. 620][/us/stat/102/620]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 352, Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–339, § 3][/us/pl/100/339/s3], June 17, 1988, [102 Stat. 621][/us/stat/102/621], provided that: 
+[Pub. L. 100–339][/us/pl/100/339], § 3, June 17, 1988, [102 Stat. 621][/us/stat/102/621], provided that: 
 
 > “This Act \[amending this section\] shall take effect on October 1, 1987.”
 
@@ -45,13 +45,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–318, title V, § 506(n)][/us/pl/92/318/s506/n], June 23, 1972, [86 Stat. 352][/us/stat/86/352], provided that: 
+[Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(n), June 23, 1972, [86 Stat. 352][/us/stat/86/352], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and 1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and [section 301 of this title][/us/usc/t7/s301]\] shall be effective after June 30, 1970.”
 
  __State Consent__ 
 
-[Pub. L. 92–318, title V, § 506(m)][/us/pl/92/318/s506/m], June 23, 1972, [86 Stat. 352][/us/stat/86/352], provided that: 
+[Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(m), June 23, 1972, [86 Stat. 352][/us/stat/86/352], provided that: 
 
 > “With respect to the Virgin Islands and Guam, the enactment of this section \[see Effective Date note above\] shall be deemed to satisfy any requirement of State consent contained in laws or provisions of law referred to in this section.”
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t7/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs322
-[/us/act/1890-08-30/ch841/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841%2Fs5
-[/us/pl/92/318/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fc
+[/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F350
-[/us/pl/96/374/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1361%2Fb
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1502
-[/us/pl/99/396/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
-[/us/pl/100/339/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F339%2Fs2
+[/us/pl/100/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F339
 [/us/stat/102/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F620
-[/us/pl/103/382/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs352
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3966
 [/us/usc/t7/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs322
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
@@ -80,15 +80,15 @@
 [/us/usc/t7/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs322
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/100/339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F339%2Fs3
+[/us/pl/100/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F339
 [/us/stat/102/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F621
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/96/374/s1393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/92/318/s506/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fn
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F352
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/92/318/s506/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fm
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F352
 
 

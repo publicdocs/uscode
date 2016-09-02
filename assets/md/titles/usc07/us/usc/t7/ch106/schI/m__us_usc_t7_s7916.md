@@ -59,7 +59,7 @@
 
         For the 2002 crop year only, if the calculation of base acres under [section 7911(a) of this title][/us/usc/t7/s7911/a] results in total base acres for a farm in excess of the contract acreage (as defined in [section 7202 of this title][/us/usc/t7/s7202]) for the farm used to calculate the fiscal year 2002 payment authorized under [section 7214 of this title][/us/usc/t7/s7214], paragraphs (1) and (2) of subsection (b) shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.
 
-([Pub. L. 107–171, title I, § 1106][/us/pl/107/171/s1106], May 13, 2002, [116 Stat. 153][/us/stat/116/153].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1106, May 13, 2002, [116 Stat. 153][/us/stat/116/153].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t7/s7911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911%2Fa
 [/us/usc/t7/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7202
 [/us/usc/t7/s7214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7214
-[/us/pl/107/171/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1106
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F153
 
 

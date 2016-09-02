@@ -303,7 +303,7 @@
 
             To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 515, as added [Pub. L. 103–354, title I, § 109][/us/pl/103/354/s109], Oct. 13, 1994, [108 Stat. 3197][/us/stat/108/3197]; amended [Pub. L. 106–224, title I, § 121(a)][/us/pl/106/224/s121/a], June 20, 2000, [114 Stat. 372][/us/stat/114/372]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12021, 12033(c)(2), May 22, 2008, [122 Stat. 1382][/us/stat/122/1382], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12021, 12033(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2144, 2167; [Pub. L. 110–398, § 1(c)][/us/pl/110/398/s1/c], Oct. 13, 2008, [122 Stat. 4214][/us/stat/122/4214]; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11019, 11020, Feb. 7, 2014, [128 Stat. 966][/us/stat/128/966], 968.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 515, as added [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 109, Oct. 13, 1994, [108 Stat. 3197][/us/stat/108/3197]; amended [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 121(a), June 20, 2000, [114 Stat. 372][/us/stat/114/372]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12021, 12033(c)(2), May 22, 2008, [122 Stat. 1382][/us/stat/122/1382], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12021, 12033(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2144, 2167; [Pub. L. 110–398][/us/pl/110/398], § 1(c), Oct. 13, 2008, [122 Stat. 4214][/us/stat/122/4214]; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], §§ 11019, 11020, Feb. 7, 2014, [128 Stat. 966][/us/stat/128/966], 968.)
 
  __References in Text__ 
 
@@ -325,25 +325,25 @@
 
  __Prior Provisions__ 
 
-    A prior section, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 515, [52 Stat. 77][/us/stat/52/77], provided for appointment and compensation of an advisory committee, prior to repeal by [Pub. L. 96–365, title I, § 108][/us/pl/96/365/s108], Sept. 26, 1980, [94 Stat. 1317][/us/stat/94/1317].
+    A prior section, [act Feb. 16, 1938, ch. 30, title V][/us/act/1938-02-16/ch30/tV], § 515, [52 Stat. 77][/us/stat/52/77], provided for appointment and compensation of an advisory committee, prior to repeal by [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 108, Sept. 26, 1980, [94 Stat. 1317][/us/stat/94/1317].
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–79, § 11019][/us/pl/113/79/s11019], designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 11019, designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
-    Subsec. (j)(1). [Pub. L. 113–79, § 11020(1)][/us/pl/113/79/s11020/1], added par. (1) and struck out former par. (1). Text read as follows: “The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section.”
+    Subsec. (j)(1). [Pub. L. 113–79][/us/pl/113/79], § 11020(1), added par. (1) and struck out former par. (1). Text read as follows: “The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section.”
 
-    Subsec. (k)(1). [Pub. L. 113–79, § 11020(2)][/us/pl/113/79/s11020/2], added par. (1) and struck out former par. (1). Text read as follows: “To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.”
+    Subsec. (k)(1). [Pub. L. 113–79][/us/pl/113/79], § 11020(2), added par. (1) and struck out former par. (1). Text read as follows: “To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.”
 
-    2008—Subsecs. (c) to (h). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    2008—Subsecs. (c) to (h). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (h)(3)(B)(i). [Pub. L. 110–246, § 12033(c)(2)(A)][/us/pl/110/246/s12033/c/2/A], substituted “This subchapter” for “This chapter”.
+    Subsec. (h)(3)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(A), substituted “This subchapter” for “This chapter”.
 
-    Subsec. (j)(1), (2). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (j)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (j)(3). [Pub. L. 110–246, § 12021(a)][/us/pl/110/246/s12021/a], inserted before period at end “, which shall be subject to competition on a periodic basis, as determined by the Secretary”.
+    Subsec. (j)(3). [Pub. L. 110–246][/us/pl/110/246], § 12021(a), inserted before period at end “, which shall be subject to competition on a periodic basis, as determined by the Secretary”.
 
-    Subsec. (k). [Pub. L. 110–246, § 12021(b)][/us/pl/110/246/s12021/b], added subsec. (k) and struck out former subsec. (k) which related to funding to carry out this section and sections 1502(c), 1506(h), 1508(a)(3)(B), and 1508(f)(3)(A) of this title in fiscal years 2001 through 2005.
+    Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 12021(b), added subsec. (k) and struck out former subsec. (k) which related to funding to carry out this section and sections 1502(c), 1506(h), 1508(a)(3)(B), and 1508(f)(3)(A) of this title in fiscal years 2001 through 2005.
 
     Subsec. (k)(1). [Pub. L. 110–398][/us/pl/110/398] substituted “2010, and not more than $9,000,000 for fiscal year 2011” for “2011”.
 
@@ -375,17 +375,17 @@
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/103/354/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs109
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3197
-[/us/pl/106/224/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs121%2Fa
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F372
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1382
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/398/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs1%2Fc
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 [/us/stat/122/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4214
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F966
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
@@ -409,19 +409,19 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtV
 [/us/stat/52/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F77
-[/us/pl/96/365/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs108
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1317
-[/us/pl/113/79/s11019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11019
-[/us/pl/113/79/s11020/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11020%2F1
-[/us/pl/113/79/s11020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11020%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12033/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FA
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12021%2Fa
-[/us/pl/110/246/s12021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12021%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -29,7 +29,7 @@
 
         The Comptroller General shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the valuations made under this section no later than January 1, 1995.
 
-([Pub. L. 101–624, title XIX, § 1999Q][/us/pl/101/624/s1999Q], Nov. 28, 1990, [104 Stat. 3926][/us/stat/104/3926].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999Q, Nov. 28, 1990, [104 Stat. 3926][/us/stat/104/3926].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999Q
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3926
 
 

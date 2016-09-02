@@ -39,7 +39,7 @@
 
         (3) be in such amounts and on such other terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
 
-([Pub. L. 107–171, title I, § 1402][/us/pl/107/171/s1402], May 13, 2002, [116 Stat. 187][/us/stat/116/187]; [Pub. L. 110–234, title I, § 1404][/us/pl/110/234/s1404], May 22, 2008, [122 Stat. 989][/us/stat/122/989]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1718.)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1402, May 13, 2002, [116 Stat. 187][/us/stat/116/187]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1404, May 22, 2008, [122 Stat. 989][/us/stat/122/989]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1718.)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2), (3). [Pub. L. 110–246, § 1404][/us/pl/110/246/s1404], added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
+    2008—Subsec. (c)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1402
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F187
-[/us/pl/110/234/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1404
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F989
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1404
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

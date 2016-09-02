@@ -31,7 +31,7 @@ Provisions similar to those in this section were contained in the following prio
 
  __Authorization of Appropriation__ 
 
-[Act Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title I, § 101(g), [58 Stat. 735][/us/stat/58/735], provided that: 
+[Act Sept. 21, 1944, ch. 412, title I][/us/act/1944-09-21/ch412/tI], § 101(g), [58 Stat. 735][/us/stat/58/735], provided that: 
 
 > “There are hereby authorized to be appropriated for the purposes of this section \[enacting this section, section 396, former section 429, and sections 430 and 431 of this title, and former [section 114a of Title 21][/us/usc/t21/s114a], Food and Drugs\] such sums as the Congress may from time to time determine to be necessary.”
 
@@ -50,7 +50,7 @@ Provisions similar to those in this section were contained in the following prio
 [/us/stat/57/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F401
 [/us/act/1942-07-22/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-22%2Fch516
 [/us/stat/56/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F674
-[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
+[/us/act/1944-09-21/ch412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412%2FtI
 [/us/stat/58/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F735
 [/us/usc/t21/s114a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs114a
 

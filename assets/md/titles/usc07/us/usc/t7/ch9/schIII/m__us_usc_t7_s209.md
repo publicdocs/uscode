@@ -19,7 +19,7 @@
 
     (b) Such liability may be enforced either (1) by complaint to the Secretary as provided in [section 210 of this title][/us/usc/t7/s210], or (2) by suit in any district court of the United States of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, but the provisions of this chapter are in addition to such remedies.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 308, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 94–410, § 6][/us/pl/94/410/s6], Sept. 13, 1976, [90 Stat. 1250][/us/stat/90/1250]; [Pub. L. 100–173, § 5][/us/pl/100/173/s5], Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918]; [Pub. L. 107–171, title X, § 10502(b)(2)(B)][/us/pl/107/171/s10502/b/2/B], May 13, 2002, [116 Stat. 510][/us/stat/116/510].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 308, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 94–410][/us/pl/94/410], § 6, Sept. 13, 1976, [90 Stat. 1250][/us/stat/90/1250]; [Pub. L. 100–173][/us/pl/100/173], § 5, Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10502(b)(2)(B), May 13, 2002, [116 Stat. 510][/us/stat/116/510].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 [/us/usc/t7/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs210
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F165
-[/us/pl/94/410/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs6
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1250
-[/us/pl/100/173/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs5
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F918
-[/us/pl/107/171/s10502/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10502%2Fb%2F2%2FB
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F510
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173

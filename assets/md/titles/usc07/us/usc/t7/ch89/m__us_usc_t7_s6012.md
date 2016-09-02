@@ -31,7 +31,7 @@
 
         The termination or suspension of any plan, or any provision thereof, shall not be considered a plan within the meaning of this chapter.
 
-([Pub. L. 101–624, title XIX, § 1917][/us/pl/101/624/s1917], Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1917, Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1917
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3854
 
 

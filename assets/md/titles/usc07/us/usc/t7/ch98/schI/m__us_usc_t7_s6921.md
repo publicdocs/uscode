@@ -17,7 +17,7 @@
 
     The Secretary shall maintain in the Office of the Secretary an Office of Tribal Relations, which shall advise the Secretary on policies related to Indian tribes and carry out such other functions as the Secretary considers appropriate.
 
-([Pub. L. 103–354, title III, § 309][/us/pl/103/354/s309], as added [Pub. L. 113–79, title XII, § 12303][/us/pl/113/79/s12303], Feb. 7, 2014, [128 Stat. 985][/us/stat/128/985].)
+([Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 309, as added [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12303, Feb. 7, 2014, [128 Stat. 985][/us/stat/128/985].)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/103/354/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs309
-[/us/pl/113/79/s12303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12303
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F985
 
 

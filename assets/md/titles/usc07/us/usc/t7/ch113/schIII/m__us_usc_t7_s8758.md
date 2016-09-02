@@ -33,7 +33,7 @@
 
             Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
 
-([Pub. L. 110–234, title I, § 1308][/us/pl/110/234/s1308], May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1308, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1308, May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1308, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705.)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1308
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F977
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1681

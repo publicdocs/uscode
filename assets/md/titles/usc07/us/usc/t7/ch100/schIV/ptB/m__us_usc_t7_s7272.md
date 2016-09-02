@@ -201,7 +201,7 @@
 
         This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.
 
-([Pub. L. 104–127, title I, § 156][/us/pl/104/127/s156], Apr. 4, 1996, [110 Stat. 931][/us/stat/110/931]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–62; [Pub. L. 107–171, title I, § 1401(a)][/us/pl/107/171/s1401/a], May 13, 2002, [116 Stat. 183][/us/stat/116/183]; [Pub. L. 110–234, title I, § 1401(a)][/us/pl/110/234/s1401/a], May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1401(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705; [Pub. L. 113–79, title I, § 1301(a)][/us/pl/113/79/s1301/a], Feb. 7, 2014, [128 Stat. 687][/us/stat/128/687].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 156, Apr. 4, 1996, [110 Stat. 931][/us/stat/110/931]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 836\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–62; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1401(a), May 13, 2002, [116 Stat. 183][/us/stat/116/183]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1401(a), May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1401(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1301(a), Feb. 7, 2014, [128 Stat. 687][/us/stat/128/687].)
 
  __References in Text__ 
 
@@ -213,21 +213,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3)–(5). [Pub. L. 113–79, § 1301(a)(1)][/us/pl/113/79/s1301/a/1], inserted “and” at end of par. (3), substituted “each of the 2011 through 2018 crop years.” for “the 2011 crop year; and” in par. (4), and struck out par. (5) which read as follows: “18.75 cents per pound for raw cane sugar for the 2012 crop year.”
+    2014—Subsec. (a)(3)–(5). [Pub. L. 113–79][/us/pl/113/79], § 1301(a)(1), inserted “and” at end of par. (3), substituted “each of the 2011 through 2018 crop years.” for “the 2011 crop year; and” in par. (4), and struck out par. (5) which read as follows: “18.75 cents per pound for raw cane sugar for the 2012 crop year.”
 
-    Subsec. (b)(2). [Pub. L. 113–79, § 1301(a)(2)][/us/pl/113/79/s1301/a/2], substituted “2018” for “2012”.
+    Subsec. (b)(2). [Pub. L. 113–79][/us/pl/113/79], § 1301(a)(2), substituted “2018” for “2012”.
 
-    Subsec. (i). [Pub. L. 113–79, § 1301(a)(3)][/us/pl/113/79/s1301/a/3], substituted “2018” for “2012”.
+    Subsec. (i). [Pub. L. 113–79][/us/pl/113/79], § 1301(a)(3), substituted “2018” for “2012”.
 
-    2008—[Pub. L. 110–246, § 1401(a)][/us/pl/110/246/s1401/a], amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 1401(a), amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
 
     2002—[Pub. L. 107–171][/us/pl/107/171] reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
 
-    2000—Subsec. (e)(1). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
+    2000—Subsec. (e)(1). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
 
-    [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836(1)(A)\], substituted “nonrecourse” for “recourse”.
+    [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 836(1)(A)\], substituted “nonrecourse” for “recourse”.
 
-    Subsec. (e)(2), (3). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836(2)–(4)\], redesignated par. (3) as (2), substituted “The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
+    Subsec. (e)(2), (3). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 836(2)–(4)\], redesignated par. (3) as (2), substituted “The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -235,19 +235,19 @@
 
  __Effective Date of Assessment Termination__ 
 
-[Pub. L. 107–171, title I, § 1401(b)][/us/pl/107/171/s1401/b], May 13, 2002, [116 Stat. 187][/us/stat/116/187], provided that: 
+[Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1401(b), May 13, 2002, [116 Stat. 187][/us/stat/116/187], provided that: 
 
 > “Subsection (f) of section 156 of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7272(f)][/us/usc/t7/s7272/f]), as in effect immediately before the enactment of the Farm Security and Rural Investment Act of 2002 \[[Pub. L. 107–171][/us/pl/107/171]\], is deemed to have been repealed effective as of October 1, 2001.”
 
  __Regulations__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 840\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–63, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 840\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–63, provided that: 
 
 > “As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and [section 3720B of Title 31][/us/usc/t31/s3720B], Money and Finance, enacting provisions set out as notes under [section 3720B of Title 31][/us/usc/t31/s3720B], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\]: Provided, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’): Provided further, That in carrying out this section, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808], United States Code.”
 
  __Loans for 2007 Crop Year__ 
 
-[Pub. L. 110–234, title I, § 1401(b)][/us/pl/110/234/s1401/b], May 22, 2008, [122 Stat. 981][/us/stat/122/981], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1401(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1709, provided that: 
+[Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1401(b), May 22, 2008, [122 Stat. 981][/us/stat/122/981], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1401(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1709, provided that: 
 
 > “The Secretary \[of Agriculture\] shall make loans for raw cane sugar and refined beet sugar available for the 2007 crop year on the terms and conditions provided in section 156 of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7272][/us/usc/t7/s7272]), as in effect on the day before the date of enactment of this Act \[June 18, 2008\].”
 
@@ -260,50 +260,50 @@
 ----------
 ----------
 
-[/us/pl/104/127/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs156
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F931
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/171/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1401%2Fa
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F183
-[/us/pl/110/234/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1401%2Fa
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F977
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F687
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F1
-[/us/pl/113/79/s1301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F2
-[/us/pl/113/79/s1301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F3
-[/us/pl/110/246/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1401%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1401%2Fb
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F187
 [/us/usc/t7/s7272/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272%2Ff
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t31/s3720B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720B
 [/us/usc/t31/s3720B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720B
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs808
-[/us/pl/110/234/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1401%2Fb
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F981
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

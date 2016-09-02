@@ -27,7 +27,7 @@
 
     (5) developing markets for value-added beef, pork, and poultry products.
 
-([Pub. L. 100–418, title IV, § 4215][/us/pl/100/418/s4215], Aug. 23, 1988, [102 Stat. 1395][/us/stat/102/1395].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4215, Aug. 23, 1988, [102 Stat. 1395][/us/stat/102/1395].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4215
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1395
 
 

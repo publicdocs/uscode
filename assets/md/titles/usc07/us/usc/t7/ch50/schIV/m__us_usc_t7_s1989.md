@@ -99,7 +99,7 @@
 
         The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
 
-([Pub. L. 87–128, title III, § 339][/us/pl/87/128/s339], Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318]; [Pub. L. 102–554, § 18][/us/pl/102/554/s18], Oct. 28, 1992, [106 Stat. 4155][/us/stat/106/4155]; [Pub. L. 106–31, title III, § 3019(a)][/us/pl/106/31/s3019/a], May 21, 1999, [113 Stat. 99][/us/stat/113/99]; [Pub. L. 107–171, title V, § 5309][/us/pl/107/171/s5309], May 13, 2002, [116 Stat. 346][/us/stat/116/346].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 339, Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318]; [Pub. L. 102–554][/us/pl/102/554], § 18, Oct. 28, 1992, [106 Stat. 4155][/us/stat/106/4155]; [Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3019(a), May 21, 1999, [113 Stat. 99][/us/stat/113/99]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5309, May 13, 2002, [116 Stat. 346][/us/stat/116/346].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–554, § 23][/us/pl/102/554/s23], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161], provided that:
+[Pub. L. 102–554][/us/pl/102/554], § 23, Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161], provided that:
 
 >     “(a)  __Interim Regulations__  __.—__ 
 
@@ -125,19 +125,19 @@
 
 >     Not later than October 1, 1993, the Secretary of Agriculture shall issue such final regulations as are necessary to implement this Act and the amendments made by this Act.”
 
-[Pub. L. 100–233, title VI, § 624][/us/pl/100/233/s624], Jan. 6, 1988, [101 Stat. 1685][/us/stat/101/1685], provided that: 
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 624, Jan. 6, 1988, [101 Stat. 1685][/us/stat/101/1685], provided that: 
 
 > “Within 150 days after the date of the enactment of this title \[Jan. 6, 1988\], and after considering public comment obtained under [section 553 of title 5][/us/usc/t5/s553], United States Code, the Secretary shall issue final regulations to carry out the amendments made by this title \[enacting sections 1981d, 1981e, 1983c, and 2001 to 2005 of this title, amending sections 1927, 1927a, 1981, 1982, 1983b, 1985, 1991, 1997, 1999, and 2000 of this title, and amending provisions set out as a note under [section 1999 of this title][/us/usc/t7/s1999]\].”
 
  __Study and Report to Congress Before Issuance of Certain Final Regulations__ 
 
-[Pub. L. 100–233, title VI, § 621][/us/pl/100/233/s621], Jan. 6, 1988, [101 Stat. 1684][/us/stat/101/1684], provided that: 
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 621, Jan. 6, 1988, [101 Stat. 1684][/us/stat/101/1684], provided that: 
 
 > “Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1921][/us/usc/t7/s1921] et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act.”
 
  __Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds__ 
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 429][/us/stat/101/429], provided in part that:
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 429][/us/stat/101/429], provided in part that:
 
 >     “Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be available for continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
 
@@ -145,7 +145,7 @@
 
  __Coordinated Financial Statements; Use of Submission Requirement Prohibited__ 
 
-[Pub. L. 99–198, title XIII, § 1325][/us/pl/99/198/s1325], Dec. 23, 1985, [99 Stat. 1540][/us/stat/99/1540], provided that: 
+[Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1325, Dec. 23, 1985, [99 Stat. 1540][/us/stat/99/1540], provided that: 
 
 > “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act \[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
 
@@ -156,31 +156,31 @@
 ----------
 ----------
 
-[/us/pl/87/128/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs339
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318
-[/us/pl/102/554/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs18
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4155
-[/us/pl/106/31/s3019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3019%2Fa
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F99
-[/us/pl/107/171/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5309
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F346
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
-[/us/pl/102/554/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs23
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4161
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/100/233/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs624
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1685
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1999
-[/us/pl/100/233/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs621
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1684
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F429
-[/us/pl/99/198/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1325
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1540
 
 

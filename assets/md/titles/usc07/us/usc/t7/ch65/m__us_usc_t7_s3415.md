@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such regulations as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 95–113, title XVII, § 1716][/us/pl/95/113/s1716], Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1716, Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1716
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1040
 
 

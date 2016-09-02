@@ -19,7 +19,7 @@
 
     (b) Not more than 30 per centum of any of the amounts appropriated under this section in any fiscal year may be obligated for research under [section 3902 of this title][/us/usc/t7/s3902] at facilities of the Department of Agriculture.
 
-([Pub. L. 96–469, § 5][/us/pl/96/469/s5], Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
+([Pub. L. 96–469][/us/pl/96/469], § 5, Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t7/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3902
-[/us/pl/96/469/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469%2Fs5
+[/us/pl/96/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469
 [/us/stat/94/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2235
 
 

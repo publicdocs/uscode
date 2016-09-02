@@ -17,7 +17,7 @@
 
     All proceeds from sales made under sections 1033 to 1039 of this title of mineral interests described in [section 1033 of this title][/us/usc/t7/s1033] shall be covered into the Treasury of the United States as miscellaneous receipts, except that the proceeds from sales of mineral interests which were a part of or derived from the assets transferred pursuant to the transfer agreements with State rural rehabilitation corporations shall be credited to the appropriate corporation account.
 
-([Sept. 6, 1950, ch. 897, § 5][/us/act/1950-09-06/ch897/s5], [64 Stat. 770][/us/stat/64/770].)
+([Sept. 6, 1950, ch. 897][/us/act/1950-09-06/ch897], § 5, [64 Stat. 770][/us/stat/64/770].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1033
-[/us/act/1950-09-06/ch897/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897%2Fs5
+[/us/act/1950-09-06/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897
 [/us/stat/64/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F770
 
 

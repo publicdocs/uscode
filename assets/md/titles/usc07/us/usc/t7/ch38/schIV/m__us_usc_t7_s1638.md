@@ -87,7 +87,7 @@
 
             The term “wild fish” excludes net-pen aquacultural or other farm-raised fish.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 281, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 110–234, title XI, § 11002(1)][/us/pl/110/234/s11002/1], May 22, 2008, [112 Stat. 1351][/us/stat/112/1351]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII, § 12104(b)(1)][/us/pl/113/79/s12104/b/1], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979]; [Pub. L. 114–113, div. A, title VII, § 759(a)][/us/pl/114/113/s759/a], Dec. 18, 2015, [129 Stat. 2284][/us/stat/129/2284].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 281, as added [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10816, May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11002(1), May 22, 2008, [112 Stat. 1351][/us/stat/112/1351]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11002(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12104(b)(1), Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979]; [Pub. L. 114–113, div. A, title VII][/us/pl/114/113/dA/tVII], § 759(a), Dec. 18, 2015, [129 Stat. 2284][/us/stat/129/2284].)
 
  __Codification__ 
 
@@ -97,11 +97,11 @@
 
     2015—[Pub. L. 114–113][/us/pl/114/113] redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7), respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined “beef” and “pork”, respectively .
 
-    2014—Par. (2)(A)(i). [Pub. L. 113–79, § 12104(b)(1)(A)][/us/pl/113/79/s12104/b/1/A], substituted “pork, and venison” for “and pork”.
+    2014—Par. (2)(A)(i). [Pub. L. 113–79][/us/pl/113/79], § 12104(b)(1)(A), substituted “pork, and venison” for “and pork”.
 
-    Par. (2)(A)(ii). [Pub. L. 113–79, § 12104(b)(1)(B)][/us/pl/113/79/s12104/b/1/B], substituted “ground pork, and ground venison” for “and ground pork”.
+    Par. (2)(A)(ii). [Pub. L. 113–79][/us/pl/113/79], § 12104(b)(1)(B), substituted “ground pork, and ground venison” for “and ground pork”.
 
-    2008—Par. (2)(A)(vii) to (xi). [Pub. L. 110–246, § 11002(1)][/us/pl/110/246/s11002/1], added cls. (vii) to (xi).
+    2008—Par. (2)(A)(vii) to (xi). [Pub. L. 110–246][/us/pl/110/246], § 11002(1), added cls. (vii) to (xi).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -116,24 +116,24 @@
 
 [/us/usc/t7/s499a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499a%2Fb
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/107/171/s10816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10816
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F533
-[/us/pl/110/234/s11002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11002%2F1
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/112/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1351
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s12104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F979
-[/us/pl/114/113/s759/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fa
+[/us/pl/114/113/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdA%2FtVII
 [/us/stat/129/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2284
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/113/79/s12104/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1%2FA
-[/us/pl/113/79/s12104/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1%2FB
-[/us/pl/110/246/s11002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11002%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

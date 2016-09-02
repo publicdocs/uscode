@@ -17,7 +17,7 @@
 
     When construing and enforcing the provisions of this chapter, the act, omission, or failure of any official, agent, or other person acting for or employed by any association, partnership, or corporation within the scope of the employment or office of the official, agent, or other person shall, in every case, also be deemed the act, omission, or failure of such association, partnership, or corporation as well as that of the person.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 15, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 103–156, § 12(n)][/us/pl/103/156/s12/n], Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 15, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 103–156][/us/pl/103/156], § 12(n), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F768
-[/us/pl/103/156/s12/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fn
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/90/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs2

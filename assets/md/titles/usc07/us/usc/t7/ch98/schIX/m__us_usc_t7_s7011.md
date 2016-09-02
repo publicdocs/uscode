@@ -71,7 +71,7 @@
 
         (2) the Department of Agriculture.
 
-([Pub. L. 103–354, title II, § 291][/us/pl/103/354/s291], Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 291, Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 [/us/usc/t5/s7111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111%2Fb
 [/us/usc/t5/s7105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7105%2Fe
 [/us/usc/t5/s7105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7105%2Ff
-[/us/pl/103/354/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs291
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3235
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209

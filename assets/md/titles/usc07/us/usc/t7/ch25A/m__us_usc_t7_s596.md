@@ -17,7 +17,7 @@
 
     After opportunity for hearing the Secretary is authorized to refuse the issuance of certificates under this chapter for periods not exceeding ninety days to any person who ships or offers for shipment any grapes or plums in foreign commerce in violation of any of the provisions of this chapter. Any person or any common carrier or any transportation agency violating any of the provisions of this chapter shall be fined not less than $100 nor more than $10,000 by a court of competent jurisdiction.
 
-([Pub. L. 86–687, § 6][/us/pl/86/687/s6], Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734].)
+([Pub. L. 86–687][/us/pl/86/687], § 6, Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/687/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs6
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F734
 
 

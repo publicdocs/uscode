@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch72/m__us_usc_t7_ch72.md) | [Next](./../../../..//us/usc/t7/ch73/m__us_usc_t7_s4201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch73)
+[Previous](./../../../..//us/usc/t7/ch72/m__us_usc_t7_s4101...4110.md) | [Next](./../../../..//us/usc/t7/ch73/m__us_usc_t7_s4201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch73)
 
 ## CHAPTER 73—FARMLAND PROTECTION POLICY
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch72/m__us_usc_t7_ch72.md) | [Next](./../../../..//us/usc/t7/ch73/m__us_usc_t7_s4201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch73)
+[Previous](./../../../..//us/usc/t7/ch72/m__us_usc_t7_s4101...4110.md) | [Next](./../../../..//us/usc/t7/ch73/m__us_usc_t7_s4201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch73)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, the Secretary shall ensure that farm loan guarantee programs carried out under this chapter are designed so as to be responsive to borrower and lender needs and to include provisions under reasonable terms and conditions for advances, before completion of the liquidation process, of guarantee proceeds on loans in default.
 
-([Pub. L. 87–128, title III, § 350][/us/pl/87/128/s350], as added [Pub. L. 99–198, title XIII, § 1319][/us/pl/99/198/s1319], Dec. 23, 1985, [99 Stat. 1531][/us/stat/99/1531].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 350, as added [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1319, Dec. 23, 1985, [99 Stat. 1531][/us/stat/99/1531].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs350
-[/us/pl/99/198/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1319
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1531
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

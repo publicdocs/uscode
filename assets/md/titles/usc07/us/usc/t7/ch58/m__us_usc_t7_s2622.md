@@ -23,7 +23,7 @@
 
         No person shall be excused from attending and testifying or from producing books, papers, and documents before the Secretary, or in obedience to the subpena of the Secretary, or in any cause or proceeding, criminal or otherwise, based upon, or growing out of any alleged violation of this chapter, or of any plan, or rule or regulation issued thereunder on the ground or for the reason that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture; but no individual shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, documentary or otherwise, except that any individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
-([Pub. L. 91–670, title III, § 313][/us/pl/91/670/s313], Jan. 11, 1971, [84 Stat. 2046][/us/stat/84/2046]; [Pub. L. 101–624, title XIX, § 1943][/us/pl/101/624/s1943], Nov. 28, 1990, [104 Stat. 3868][/us/stat/104/3868].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 313, Jan. 11, 1971, [84 Stat. 2046][/us/stat/84/2046]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1943, Nov. 28, 1990, [104 Stat. 3868][/us/stat/104/3868].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/91/670/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs313
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2046
-[/us/pl/101/624/s1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1943
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3868
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

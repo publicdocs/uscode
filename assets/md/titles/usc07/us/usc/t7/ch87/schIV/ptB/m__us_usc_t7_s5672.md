@@ -41,7 +41,7 @@
 
         (C) limit its purchases to only those types and grades of commodities suspended or restricted from shipment and make such purchases at prices at or near the current market prices.
 
-([Pub. L. 95–501, title IV, § 412][/us/pl/95/501/s412], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3684][/us/stat/104/3684].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 412, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3684][/us/stat/104/3684].)
 
 ----------
 
@@ -53,8 +53,8 @@
 [/us/usc/t7/s5671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5671
 [/us/usc/t7/s5671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5671
 [/us/usc/t7/s5671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5671
-[/us/pl/95/501/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs412
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3684
 
 

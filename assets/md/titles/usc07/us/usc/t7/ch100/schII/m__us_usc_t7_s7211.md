@@ -65,7 +65,7 @@
 
         Subject to subsection (b)(4), an owner or producer who enters into a contract may subsequently reduce the quantity of contract acreage covered by the contract.
 
-([Pub. L. 104–127, title I, § 111][/us/pl/104/127/s111], Apr. 4, 1996, [110 Stat. 898][/us/stat/110/898].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 111, Apr. 4, 1996, [110 Stat. 898][/us/stat/110/898].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Violation of Contract; Denial of Funds for Salaries__ 
 
-[Pub. L. 104–180, title VII, § 726][/us/pl/104/180/s726], Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600], provided that: 
+[Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 726, Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600], provided that: 
 
 > “None of the funds made available in this Act \[see Tables for classification\] may be used to pay the salaries of employees of the Department of Agriculture who make payments pursuant to a production flexibility contract entered into under section 111 of the Federal Agriculture Improvement and Reform Act of 1996 ([Public Law 104–127][/us/pl/104/127]; [7 U.S.C. 7211][/us/usc/t7/s7211]) when it is made known to the Federal official having authority to obligate or expend such funds that the land covered by that production flexibility contract is not being used for the production of an agricultural commodity or is not devoted to a conserving use, unless it is also made known to that Federal official that the lack of agricultural production or the lack of a conserving use is a consequence of drought, flood, or other natural disaster.”
 
@@ -94,14 +94,14 @@
 [/us/usc/t7/s1508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fb
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t7/s7212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7212%2Fa%2F2
-[/us/pl/104/127/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs111
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F898
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F898
-[/us/pl/104/180/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs726
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1600
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7211

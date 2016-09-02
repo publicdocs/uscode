@@ -33,7 +33,7 @@
 
         (3) The amendment to the order provided for in this subsection shall not be effective if it is disapproved by a majority of cotton producers and importers of cotton voting in the referendum.
 
-([Pub. L. 89–502, § 8][/us/pl/89/502/s8], July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX, § 1993][/us/pl/101/624/s1993], Nov. 28, 1990, [104 Stat. 3911][/us/stat/104/3911]; [Pub. L. 102–237, title VIII, § 808(a)(2)][/us/pl/102/237/s808/a/2], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 89–502][/us/pl/89/502], § 8, July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1993, Nov. 28, 1990, [104 Stat. 3911][/us/stat/104/3911]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 808(a)(2), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t7/s2116/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2116%2Fc%2F2
-[/us/pl/89/502/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs8
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F283
-[/us/pl/101/624/s1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1993
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3911
-[/us/pl/102/237/s808/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs808%2Fa%2F2
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3909

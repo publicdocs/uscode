@@ -45,7 +45,7 @@
 
         (2) colleges and universities having accredited schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research are especially vital in training research workers in animal health and related disciplines.
 
-([Pub. L. 95–113, title XIV, § 1429][/us/pl/95/113/s1429], Sept. 29, 1977, [91 Stat. 1001][/us/stat/91/1001]; [Pub. L. 97–98, title XIV, § 1426][/us/pl/97/98/s1426], Dec. 22, 1981, [95 Stat. 1309][/us/stat/95/1309]; [Pub. L. 104–127, title VIII, § 810][/us/pl/104/127/s810], Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1429, Sept. 29, 1977, [91 Stat. 1001][/us/stat/91/1001]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1426, Dec. 22, 1981, [95 Stat. 1309][/us/stat/95/1309]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 810, Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Studies on Agricultural Research and Technology__ 
 
-[Pub. L. 107–171, title X, § 10907][/us/pl/107/171/s10907], May 13, 2002, [116 Stat. 538][/us/stat/116/538], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10907, May 13, 2002, [116 Stat. 538][/us/stat/116/538], provided that:
 
 >     “(a) __Scientific Studies.—__ 
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1429
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1001
-[/us/pl/97/98/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1426
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1309
-[/us/pl/104/127/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs810
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1164
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -113,7 +113,7 @@
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/107/171/s10907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10907
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F538
 
 

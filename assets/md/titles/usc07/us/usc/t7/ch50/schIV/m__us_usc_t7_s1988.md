@@ -85,7 +85,7 @@
 
         (4) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-([Pub. L. 87–128, title III, § 338][/us/pl/87/128/s338], Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 89–429, § 5][/us/pl/89/429/s5], May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 100–233, title VII, § 711(a)][/us/pl/100/233/s711/a], Jan. 6, 1988, [101 Stat. 1707][/us/stat/101/1707]; [Pub. L. 100–399, title VI, § 605][/us/pl/100/399/s605], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 101–624, title XXIII, § 2303(d)][/us/pl/101/624/s2303/d], Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981]; [Pub. L. 104–127, title VII, § 749(a)][/us/pl/104/127/s749/a], Apr. 4, 1996, [110 Stat. 1129][/us/stat/110/1129]; [Pub. L. 105–362, title I, § 101(a)][/us/pl/105/362/s101/a], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 338, Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 89–429][/us/pl/89/429], § 5, May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 711(a), Jan. 6, 1988, [101 Stat. 1707][/us/stat/101/1707]; [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 605, Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2303(d), Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 749(a), Apr. 4, 1996, [110 Stat. 1129][/us/stat/110/1129]; [Pub. L. 105–362, title I][/us/pl/105/362/tI], § 101(a), Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
  __Regulations__ 
 
-[Pub. L. 100–233, title VII, § 711(b)][/us/pl/100/233/s711/b], Jan. 6, 1988, [101 Stat. 1709][/us/stat/101/1709], provided that: 
+[Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 711(b), Jan. 6, 1988, [101 Stat. 1709][/us/stat/101/1709], provided that: 
 
 > “Within 180 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section \[amending this section and enacting provisions set out below\].”
 
  __Pool Certificates Not To Be Issued Until Final Regulations Take Effect__ 
 
-[Pub. L. 100–233, title VII, § 711(c)][/us/pl/100/233/s711/c], Jan. 6, 1988, [101 Stat. 1709][/us/stat/101/1709], provided that: 
+[Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 711(c), Jan. 6, 1988, [101 Stat. 1709][/us/stat/101/1709], provided that: 
 
 > “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1988(f)][/us/usc/t7/s1988/f] \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
 
@@ -132,19 +132,19 @@
 ----------
 ----------
 
-[/us/pl/87/128/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs338
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F316
-[/us/pl/89/429/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429%2Fs5
+[/us/pl/89/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429
 [/us/stat/80/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F167
-[/us/pl/100/233/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs711%2Fa
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1707
-[/us/pl/100/399/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs605
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/101/624/s2303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2303%2Fd
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3981
-[/us/pl/104/127/s749/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs749%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1129
-[/us/pl/105/362/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fa
+[/us/pl/105/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtI
 [/us/stat/112/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3281
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
@@ -157,9 +157,9 @@
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/233/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs711%2Fb
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1709
-[/us/pl/100/233/s711/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs711%2Fc
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1709
 [/us/usc/t7/s1988/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1988%2Ff
 

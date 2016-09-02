@@ -33,7 +33,7 @@
 
     (b) The amount of any civil penalty imposed by the Secretary under subsection (a) of this section shall be such amount as the Secretary determines to be appropriate to carry out the purposes of this chapter, except that such amount shall not exceed 25 percent of the fair market value, on the date of the assessment of such penalty, of the interest in agricultural land with respect to which such violation occurred.
 
-([Pub. L. 95–460, § 3][/us/pl/95/460/s3], Oct. 14, 1978, [92 Stat. 1265][/us/stat/92/1265].)
+([Pub. L. 95–460][/us/pl/95/460], § 3, Oct. 14, 1978, [92 Stat. 1265][/us/stat/92/1265].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
-[/us/pl/95/460/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs3
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1265
 
 

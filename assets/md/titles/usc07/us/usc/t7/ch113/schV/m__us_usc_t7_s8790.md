@@ -33,7 +33,7 @@
 
             (B) substantively complied with all program requirements  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 110–234, title I, § 1617][/us/pl/110/234/s1617], May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1617, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1750.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1617, May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1617, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1750.)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1617
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1021
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664

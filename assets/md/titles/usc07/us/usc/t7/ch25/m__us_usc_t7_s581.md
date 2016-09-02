@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person to ship or offer for shipment or for any carrier, or any steamship company, or any person to transport or receive for transportation to any foreign destination, except as provided in this chapter, any apples in packages which are not accompanied by a certificate issued under authority of the Secretary of Agriculture showing that such apples are of a Federal or State grade which meets the minimum of quality established by the Secretary for shipment in export. The Secretary is authorized to prescribe, by regulations, the requirements, other than those of grade, which the fruit must meet before certificates are issued. The Secretary shall provide opportunity, by public hearing or otherwise, for interested persons to examine and make recommendation with respect to any standard of export proposed to be established or designated, or regulation prescribed, by the Secretary for the purposes of this chapter.
 
-([June 10, 1933, ch. 59, § 1][/us/act/1933-06-10/ch59/s1], [48 Stat. 123][/us/stat/48/123]; [Pub. L. 106–96, § 1(c)][/us/pl/106/96/s1/c], Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 1, [48 Stat. 123][/us/stat/48/123]; [Pub. L. 106–96][/us/pl/106/96], § 1(c), Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Act June 10, 1933, ch. 59, § 11][/us/act/1933-06-10/ch59/s11], as added by [Pub. L. 106–96, § 1(a)][/us/pl/106/96/s1/a], Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321], provided that: 
+[Act June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 11, as added by [Pub. L. 106–96][/us/pl/106/96], § 1(a), Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Export Apple Act’.”.
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs1
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
 [/us/stat/48/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F123
-[/us/pl/106/96/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96%2Fs1%2Fc
+[/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 [/us/stat/113/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1321
 [/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
-[/us/act/1933-06-10/ch59/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs11
-[/us/pl/106/96/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96%2Fs1%2Fa
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
+[/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 [/us/stat/113/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1321
 
 

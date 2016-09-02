@@ -17,7 +17,7 @@
 
     The Secretary is authorized to demonstrate the official standards; to prepare and distribute, upon request, samples, illustrations, or sets thereof; and to make reasonable charges therefore: Provided, That in no event shall charges be in excess of the cost of said samples, illustrations, and services so rendered.
 
-([Aug. 23, 1935, ch. 623, § 4][/us/act/1935-08-23/ch623/s4], [49 Stat. 732][/us/stat/49/732].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 4, [49 Stat. 732][/us/stat/49/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs4
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F732
 
 

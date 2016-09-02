@@ -27,7 +27,7 @@
 
         A proposal for an order may be submitted to the Secretary by any organization or interested person affected by this chapter.
 
-([Pub. L. 98–590, § 5][/us/pl/98/590/s5], Oct. 30, 1984, [98 Stat. 3117][/us/stat/98/3117]; [Pub. L. 105–185, title VI, § 605(d)][/us/pl/105/185/s605/d], June 23, 1998, [112 Stat. 589][/us/stat/112/589].)
+([Pub. L. 98–590][/us/pl/98/590], § 5, Oct. 30, 1984, [98 Stat. 3117][/us/stat/98/3117]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(d), June 23, 1998, [112 Stat. 589][/us/stat/112/589].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/98/590/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs5
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3117
-[/us/pl/105/185/s605/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fd
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F589
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175e.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3176)
 
-## § 3176. Repealed. [Pub. L. 97–98, title XIV, § 1424(a)][/us/pl/97/98/s1424/a], Dec. 22, 1981, [95 Stat. 1308][/us/stat/95/1308]
+## § 3176. Repealed. [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1424(a), Dec. 22, 1981, [95 Stat. 1308][/us/stat/95/1308]
 
-    Section, [Pub. L. 95–113, title XIV, § 1426][/us/pl/95/113/s1426], Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000], related to preparation and distribution of a comprehensive set of educational materials on food and nutrition education by Secretary to State departments of education.
+    Section, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1426, Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000], related to preparation and distribution of a comprehensive set of educational materials on food and nutrition education by Secretary to State departments of education.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1424%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1308
-[/us/pl/95/113/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1426
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1000
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

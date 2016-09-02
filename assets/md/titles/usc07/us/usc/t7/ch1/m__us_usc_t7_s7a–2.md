@@ -127,7 +127,7 @@
 
                     The Commission shall take final action under clauses (i) and (ii) in not later than 90 days from the commencement of its review unless the party seeking to offer the contract or swap agrees to an extension of this time limitation.
 
-    (d) __Repealed.__  __[__  __Pub. L. 111–203, title VII, § 745(c)__  __][/us/pl/111/203/s745/c]__  __,__  __July 21, 2010__  __,__  __[__  __124 Stat. 1737__  __][/us/stat/124/1737]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 111–203, title VII__  __][/us/pl/111/203/tVII]__  __, § 745(c),__  __July 21, 2010__  __,__  __[__  __124 Stat. 1737__  __][/us/stat/124/1737]__ 
 
     (e) __Reservation of emergency authority__ 
 
@@ -141,7 +141,7 @@
 
         (2) similar rules of national securities associations registered pursuant to section 78o–3(a) of title 15 and national securities exchanges registered pursuant to [section 78f(g) of title 15][/us/usc/t15/s78f/g] involving security futures products.
 
-([Sept. 21, 1922, ch. 369, § 5c][/us/act/1922-09-21/ch369/s5c], as added and amended [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 113, title II, § 251(h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–399, 2763A–444; [Pub. L. 110–234, title XIII][/us/pl/110/234], §§ 13105(e), (f), 13203(i)–(k), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], 1440, 1441; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, §§ 13105(e), (f), 13203(i)–(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196, 2202, 2203; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 717(d), 721(e)(7), 745, 749(c), July 21, 2010, [124 Stat. 1652][/us/stat/124/1652], 1671, 1735, 1747.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5c, as added and amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 113, title II, § 251(h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–399, 2763A–444; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], §§ 13105(e), (f), 13203(i)–(k), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], 1440, 1441; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, §§ 13105(e), (f), 13203(i)–(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196, 2202, 2203; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 717(d), 721(e)(7), 745, 749(c), July 21, 2010, [124 Stat. 1652][/us/stat/124/1652], 1671, 1735, 1747.)
 
  __References in Text__ 
 
@@ -153,35 +153,35 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 749(c)(1)][/us/pl/111/203/s749/c/1], struck out “, 7a(d),” after “7(d)” and “and [section 2(h)(7) of this title][/us/usc/t7/s2/h/7] with respect to significant price discovery contracts,” before “to describe”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 749(c)(1), struck out “, 7a(d),” after “7(d)” and “and [section 2(h)(7) of this title][/us/usc/t7/s2/h/7] with respect to significant price discovery contracts,” before “to describe”.
 
-    Subsec. (a)(2). [Pub. L. 111–203, § 745(a)][/us/pl/111/203/s745/a], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An interpretation issued under paragraph (1) shall not provide the exclusive means for complying with such sections.”
+    Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 745(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An interpretation issued under paragraph (1) shall not provide the exclusive means for complying with such sections.”
 
-    Subsec. (c). [Pub. L. 111–203, § 745(b)][/us/pl/111/203/s745/b], added subsec. (c) and struck out former subsec. (c) which related to new contracts, new rules, and rule amendments and Commission approval upon certification of compliance with this chapter.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 745(b), added subsec. (c) and struck out former subsec. (c) which related to new contracts, new rules, and rule amendments and Commission approval upon certification of compliance with this chapter.
 
-    Subsec. (c)(1). [Pub. L. 111–203, § 717(d)][/us/pl/111/203/s717/d], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 111–203][/us/pl/111/203], § 717(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (c)(2)(B). [Pub. L. 111–203, § 721(e)(7)][/us/pl/111/203/s721/e/7], substituted “section 1a(9)” for “section 1a(4)”.
+    Subsec. (c)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(7), substituted “section 1a(9)” for “section 1a(4)”.
 
-    Subsec. (d). [Pub. L. 111–203, § 745(c)][/us/pl/111/203/s745/c], struck out subsec. (d) which related to violation of core principles.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 745(c), struck out subsec. (d) which related to violation of core principles.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 749(c)(2)][/us/pl/111/203/s749/c/2], substituted “[section 6d(e) of this title][/us/usc/t7/s6d/e]” for “[section 6d(c) of this title][/us/usc/t7/s6d/c]”.
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 749(c)(2), substituted “[section 6d(e) of this title][/us/usc/t7/s6d/e]” for “[section 6d(c) of this title][/us/usc/t7/s6d/c]”.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 13203(i)][/us/pl/110/246/s13203/i], which directed amendment of par. (1) by inserting “, and [section 2(h)(7) of this title][/us/usc/t7/s2/h/7] with respect to significant price discovery contracts,” after “, and 7a–1(d)(2) of this title”, was executed by making the insertion after “, and 7a–1(c)(2) of this title” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 110–246, § 13105(e)][/us/pl/110/246/s13105/e]. See below.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 13203(i), which directed amendment of par. (1) by inserting “, and [section 2(h)(7) of this title][/us/usc/t7/s2/h/7] with respect to significant price discovery contracts,” after “, and 7a–1(d)(2) of this title”, was executed by making the insertion after “, and 7a–1(c)(2) of this title” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 110–246][/us/pl/110/246], § 13105(e). See below.
 
-    [Pub. L. 110–246, § 13105(e)][/us/pl/110/246/s13105/e], substituted “7a–1(c)(2)” for “7a–1(d)(2)”.
+    [Pub. L. 110–246][/us/pl/110/246], § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)”.
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 13203(j)(1)][/us/pl/110/246/s13203/j/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.”
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.”
 
-    Subsec. (b)(2), (3). [Pub. L. 110–246, § 13203(j)(2)][/us/pl/110/246/s13203/j/2], (3), substituted “contract market, derivatives transaction execution facility, or electronic trading facility” for “contract market or derivatives transaction execution facility” wherever appearing.
+    Subsec. (b)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 13203(j)(2), (3), substituted “contract market, derivatives transaction execution facility, or electronic trading facility” for “contract market or derivatives transaction execution facility” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 110–246, § 13203(k)][/us/pl/110/246/s13203/k], which directed amendment of par. (1) by inserting “or 2(h)(7)(C) of this title with respect to a significant price discovery contract traded or executed on an electronic trading facility,” after “7a–1(d)(2)”, was executed by making the insertion after “7a–1(c)(2)” in introductory provisions to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 110–246, § 13105(e)][/us/pl/110/246/s13105/e]. See below.
+    Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 13203(k), which directed amendment of par. (1) by inserting “or 2(h)(7)(C) of this title with respect to a significant price discovery contract traded or executed on an electronic trading facility,” after “7a–1(d)(2)”, was executed by making the insertion after “7a–1(c)(2)” in introductory provisions to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 110–246][/us/pl/110/246], § 13105(e). See below.
 
-    [Pub. L. 110–246, § 13105(e)][/us/pl/110/246/s13105/e], substituted “7a–1(c)(2)” for “7a–1(d)(2)” in introductory provisions.
+    [Pub. L. 110–246][/us/pl/110/246], § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 110–246, § 13105(f)][/us/pl/110/246/s13105/f], substituted “6d(c)” for “6d(3)”.
+    Subsec. (f)(1). [Pub. L. 110–246][/us/pl/110/246], § 13105(f), substituted “6d(c)” for “6d(3)”.
 
-    2000—Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(h)\], added subsec. (f).
+    2000—Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(h)\], added subsec. (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -200,46 +200,46 @@
 ----------
 ----------
 
-[/us/pl/111/203/s745/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs745%2Fc
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1737
 [/us/usc/t7/s12a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a%2F9
 [/us/usc/t7/s6f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa
 [/us/usc/t7/s6d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fe
 [/us/usc/t15/s78f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f%2Fg
-[/us/act/1922-09-21/ch369/s5c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5c
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1652
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s749/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fc%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s2/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7
-[/us/pl/111/203/s745/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs745%2Fa
-[/us/pl/111/203/s745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs745%2Fb
-[/us/pl/111/203/s717/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs717%2Fd
-[/us/pl/111/203/s721/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F7
-[/us/pl/111/203/s745/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs745%2Fc
-[/us/pl/111/203/s749/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fc%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s6d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fe
 [/us/usc/t7/s6d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fc
-[/us/pl/110/246/s13203/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7
-[/us/pl/110/246/s13105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fe
-[/us/pl/110/246/s13105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fe
-[/us/pl/110/246/s13203/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203%2Fj%2F1
-[/us/pl/110/246/s13203/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203%2Fj%2F2
-[/us/pl/110/246/s13203/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203%2Fk
-[/us/pl/110/246/s13105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fe
-[/us/pl/110/246/s13105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fe
-[/us/pl/110/246/s13105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Ff
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

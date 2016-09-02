@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 25, 1947, ch. 125, § 29][/us/act/1947-06-25/ch125/s29], as added [Pub. L. 95–396, § 24(2)][/us/pl/95/396/s24/2], Sept. 30, 1978, [92 Stat. 838][/us/stat/92/838], which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress relating to applications filed for conditional registration under section 136a(c)(7)(B), (C) of this title, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 164 of House Document No. 103–7.
+    Section, [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 29, as added [Pub. L. 95–396][/us/pl/95/396], § 24(2), Sept. 30, 1978, [92 Stat. 838][/us/stat/92/838], which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress relating to applications filed for conditional registration under section 136a(c)(7)(B), (C) of this title, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 164 of House Document No. 103–7.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs29
-[/us/pl/95/396/s24/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs24%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F838
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

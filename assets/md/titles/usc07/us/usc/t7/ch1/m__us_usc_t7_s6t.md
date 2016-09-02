@@ -57,7 +57,7 @@
 
         In making a determination as to whether a swap performs or affects a significant price discovery function with respect to registered entities, the Commission shall consider the factors described in [section 6a(a)(3) of this title][/us/usc/t7/s6a/a/3].
 
-([Sept. 21, 1922, ch. 369, § 4t][/us/act/1922-09-21/ch369/s4t], as added [Pub. L. 111–203, title VII, § 730][/us/pl/111/203/s730], July 21, 2010, [124 Stat. 1702][/us/stat/124/1702].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4t, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 730, July 21, 2010, [124 Stat. 1702][/us/stat/124/1702].)
 
  __Effective Date__ 
 
@@ -73,8 +73,8 @@
 [/us/usc/t7/s1a/47/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F47%2FA%2Fv
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s6a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6a%2Fa%2F3
-[/us/act/1922-09-21/ch369/s4t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4t
-[/us/pl/111/203/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs730
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1702
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

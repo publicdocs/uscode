@@ -215,11 +215,11 @@
 
             Eligible commodities remaining in the trust after September 30, 2018, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-([Pub. L. 96–494, title III, § 302][/us/pl/96/494/s302], as added [Pub. L. 104–127, title II, § 225(a)][/us/pl/104/127/s225/a], Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959]; amended [Pub. L. 105–385, title II, § 212(a)][/us/pl/105/385/s212/a], (b)(3), Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], 3467; [Pub. L. 107–171, title III, § 3202][/us/pl/107/171/s3202], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1834; [Pub. L. 113–79, title III, § 3202][/us/pl/113/79/s3202], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
+([Pub. L. 96–494, title III][/us/pl/96/494/tIII], § 302, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 225(a), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959]; amended [Pub. L. 105–385, title II][/us/pl/105/385/tII], § 212(a), (b)(3), Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], 3467; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3202, May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1834; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3202, Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __References in Text__ 
 
-    The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, [Pub. L. 96–494][/us/pl/96/494], Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578], which enacted former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions set out as notes under that section, prior to the general amendment of title III by [Pub. L. 104–127, title II, § 225(a)][/us/pl/104/127/s225/a], Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959].
+    The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, [Pub. L. 96–494][/us/pl/96/494], Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578], which enacted former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions set out as notes under that section, prior to the general amendment of title III by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 225(a), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959].
 
     The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454], which is classified generally to this chapter (§ 1691 et seq.). Title II of the Act is classified to subchapter III (§ 1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of this title][/us/usc/t7/s1691] and Tables.
 
@@ -231,71 +231,71 @@
 
  __Prior Provisions__ 
 
-    A prior section 1736f–1, [Pub. L. 96–494, title III, § 302][/us/pl/96/494/s302], Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578]; [Pub. L. 99–198, title X, § 1013][/us/pl/99/198/s1013], Dec. 23, 1985, [99 Stat. 1456][/us/stat/99/1456]; [Pub. L. 101–624, title XI, § 1143][/us/pl/101/624/s1143], title XV, § 1515(c), Nov. 28, 1990, [104 Stat. 3515][/us/stat/104/3515], 3663, established food security wheat reserve, prior to general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127, § 225(a)][/us/pl/104/127/s225/a].
+    A prior section 1736f–1, [Pub. L. 96–494, title III][/us/pl/96/494/tIII], § 302, Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578]; [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1013, Dec. 23, 1985, [99 Stat. 1456][/us/stat/99/1456]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1143, title XV, § 1515(c), Nov. 28, 1990, [104 Stat. 3515][/us/stat/104/3515], 3663, established food security wheat reserve, prior to general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127][/us/pl/104/127], § 225(a).
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(B)(i). [Pub. L. 113–79, § 3202(1)][/us/pl/113/79/s3202/1], substituted “2018” for “2012” in two places.
+    2014—Subsec. (b)(2)(B)(i). [Pub. L. 113–79][/us/pl/113/79], § 3202(1), substituted “2018” for “2012” in two places.
 
-    Subsec. (h). [Pub. L. 113–79, § 3202(2)][/us/pl/113/79/s3202/2], substituted “2018” for “2012” in pars. (1) and (2).
+    Subsec. (h). [Pub. L. 113–79][/us/pl/113/79], § 3202(2), substituted “2018” for “2012” in pars. (1) and (2).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 3201(1)][/us/pl/110/246/s3201/1], substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 3201(1), substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
 
-    Subsec. (b)(1)(D). [Pub. L. 110–246, § 3201(2)(A)][/us/pl/110/246/s3201/2/A], added subpar. (D) and struck out former subpar. (D) which read as follows: “funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust.”
+    Subsec. (b)(1)(D). [Pub. L. 110–246][/us/pl/110/246], § 3201(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust.”
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 110–246, § 3201(2)(B)(i)][/us/pl/110/246/s3201/2/B/i], substituted “2012” for “2007” in two places, substituted “(c)(1)” for “(c)(2)”, and struck out “and” at end.
+    Subsec. (b)(2)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 3201(2)(B)(i), substituted “2012” for “2007” in two places, substituted “(c)(1)” for “(c)(2)”, and struck out “and” at end.
 
-    [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+    [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-    Subsec. (b)(2)(B)(ii), (iii). [Pub. L. 110–246, § 3201(2)(B)(ii)][/us/pl/110/246/s3201/2/B/ii], (iii), substituted “; or” for period at end of cl. (ii) and added cl. (iii).
+    Subsec. (b)(2)(B)(ii), (iii). [Pub. L. 110–246][/us/pl/110/246], § 3201(2)(B)(ii), (iii), substituted “; or” for period at end of cl. (ii) and added cl. (iii).
 
-    Subsec. (c). [Pub. L. 110–246, § 3201(3)][/us/pl/110/246/s3201/3], added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to, in par. (1), release of eligible commodities to provide emergency assistance to developing countries under title II of the Agricultural Trade Development and Assistance Act of 1954, and, in par. (2), release of eligible commodities to provide emergency food assistance to developing countries at such time as the domestic supply of such commodities had been so limited that quantities of them could not have been made available for disposition under the Act.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 3201(3), added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to, in par. (1), release of eligible commodities to provide emergency assistance to developing countries under title II of the Agricultural Trade Development and Assistance Act of 1954, and, in par. (2), release of eligible commodities to provide emergency food assistance to developing countries at such time as the domestic supply of such commodities had been so limited that quantities of them could not have been made available for disposition under the Act.
 
-    Subsec. (d). [Pub. L. 110–246, § 3201(4)][/us/pl/110/246/s3201/4], substituted “Management of trust” for “Management of eligible commodities” in subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (3).
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 3201(4), substituted “Management of trust” for “Management of eligible commodities” in subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (3).
 
-    Subsecs. (e)(1), (f)(2)(A). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+    Subsecs. (e)(1), (f)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-    Subsec. (h). [Pub. L. 110–246, § 3201(5)][/us/pl/110/246/s3201/5], substituted “2012” for “2007” in pars. (1) and (2).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 3201(5), substituted “2012” for “2007” in pars. (1) and (2).
 
     2002—Subsec. (b)(2)(B)(i). [Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002” in two places.
 
     Subsec. (h). [Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002” in pars. (1) and (2).
 
-    1998—[Pub. L. 105–385, § 212(b)(3)(A)][/us/pl/105/385/s212/b/3/A], substituted “trust” for “reserve” in section catchline.
+    1998—[Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve” in two places.
+    Subsec. (a). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve” in two places.
 
-    Subsec. (b). [Pub. L. 105–385, § 212(a)(1)(A)][/us/pl/105/385/s212/a/1/A], (b)(3)(C)(i), in heading inserted “or funds” after “Commodities” and substituted “trust” for “reserve”.
+    Subsec. (b). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(1)(A), (b)(3)(C)(i), in heading inserted “or funds” after “Commodities” and substituted “trust” for “reserve”.
 
-    Subsec. (b)(1). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-    Subsec. (b)(1)(B). [Pub. L. 105–385, § 212(b)(3)(C)(ii)][/us/pl/105/385/s212/b/3/C/ii], substituted “trust,” for “reserve,”.
+    Subsec. (b)(1)(B). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(C)(ii), substituted “trust,” for “reserve,”.
 
-    Subsec. (b)(1)(C). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve”.
+    Subsec. (b)(1)(C). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve”.
 
-    Subsec. (b)(1)(D). [Pub. L. 105–385, § 212(a)(1)(B)][/us/pl/105/385/s212/a/1/B], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(1)(B), added subpar. (D).
 
-    Subsec. (b)(2). [Pub. L. 105–385, § 212(b)(3)(C)(iii)][/us/pl/105/385/s212/b/3/C/iii], substituted “trust” for “reserve” in heading.
+    Subsec. (b)(2). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(C)(iii), substituted “trust” for “reserve” in heading.
 
-    Subsec. (b)(2)(A). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve” in introductory provisions.
+    Subsec. (b)(2)(A). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–385, § 212(a)(1)(C)][/us/pl/105/385/s212/a/1/C], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
+    Subsec. (b)(2)(B). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(1)(C), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
 
-    Subsec. (c)(1)(B). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve” in introductory provisions.
+    Subsec. (c)(1)(B). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 105–385, § 212(a)(2)][/us/pl/105/385/s212/a/2], (b)(3)(B), designated existing provisions as subpar. (A), inserted heading, substituted “trust” for “reserve”, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(2), (b)(3)(B), designated existing provisions as subpar. (A), inserted heading, substituted “trust” for “reserve”, and added subpar. (B).
 
-    Subsecs. (c)(3), (d)(1), (2). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve”.
+    Subsecs. (c)(3), (d)(1), (2). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve”.
 
-    Subsec. (d)(3). [Pub. L. 105–385, § 212(a)(3)][/us/pl/105/385/s212/a/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(3), added par. (3).
 
-    Subsec. (e). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], (D), substituted “trust” for “reserve” in heading and introductory provisions.
+    Subsec. (e). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), (D), substituted “trust” for “reserve” in heading and introductory provisions.
 
-    Subsec. (f)(2). [Pub. L. 105–385, § 212(a)(4)(A)][/us/pl/105/385/s212/a/4/A], inserted “of trust” after “Reimbursement” in heading.
+    Subsec. (f)(2). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(4)(A), inserted “of trust” after “Reimbursement” in heading.
 
-    Subsec. (f)(2)(A). [Pub. L. 105–385, § 212(a)(4)(B)][/us/pl/105/385/s212/a/4/B], inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
+    Subsec. (f)(2)(A). [Pub. L. 105–385][/us/pl/105/385], § 212(a)(4)(B), inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
 
-    Subsecs. (f)(2)(B)(ii), (h)(1), (2). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve”.
+    Subsecs. (f)(2)(B)(ii), (h)(1), (2). [Pub. L. 105–385][/us/pl/105/385], § 212(b)(3)(B), substituted “trust” for “reserve”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -303,15 +303,15 @@
 
  __Effective Date__ 
 
-    [Pub. L. 96–494, title III, § 303][/us/pl/96/494/s303], Dec. 3, 1980, [94 Stat. 2580][/us/stat/94/2580], provided that title III of [Pub. L. 96–494][/us/pl/96/494] (enacting former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions formerly set out as a note under that section) became effective on Dec. 3, 1980, prior to the general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127, § 225(a)][/us/pl/104/127/s225/a].
+    [Pub. L. 96–494, title III][/us/pl/96/494/tIII], § 303, Dec. 3, 1980, [94 Stat. 2580][/us/stat/94/2580], provided that title III of [Pub. L. 96–494][/us/pl/96/494] (enacting former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions formerly set out as a note under that section) became effective on Dec. 3, 1980, prior to the general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127][/us/pl/104/127], § 225(a).
 
  __Short Title__ 
 
-[Pub. L. 96–494, title III, § 301][/us/pl/96/494/s301], as added by [Pub. L. 104–127, title II, § 225(a)][/us/pl/104/127/s225/a], Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], and amended by [Pub. L. 105–385, title II, § 212(b)(2)][/us/pl/105/385/s212/b/2], Nov. 13, 1998, [112 Stat. 3466][/us/stat/112/3466], provided that: 
+[Pub. L. 96–494, title III][/us/pl/96/494/tIII], § 301, as added by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 225(a), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], and amended by [Pub. L. 105–385, title II][/us/pl/105/385/tII], § 212(b)(2), Nov. 13, 1998, [112 Stat. 3466][/us/stat/112/3466], provided that: 
 
 > “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
 
-    A prior [section 301 of title III of Pub. L. 96–494][/us/pl/96/494/s301] provided that title III (enacting former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127, § 225(a)][/us/pl/104/127/s225/a].
+    A prior [section 301 of title III of Pub. L. 96–494][/us/pl/96/494/tIII/s301] provided that title III (enacting former [section 1736f–1 of this title][/us/usc/t7/s1736f–1] and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127][/us/pl/104/127], § 225(a).
 
 ----------
 
@@ -327,21 +327,21 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t50/s4606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/96/494/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs302
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
+[/us/pl/96/494/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtIII
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F959
-[/us/pl/105/385/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa
+[/us/pl/105/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtII
 [/us/stat/112/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3465
-[/us/pl/107/171/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3202
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F300
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/113/79/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/stat/94/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2578
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F959
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
@@ -350,62 +350,62 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/96/494/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs302
+[/us/pl/96/494/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtIII
 [/us/stat/94/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2578
-[/us/pl/99/198/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1013
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1456
-[/us/pl/101/624/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1143
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3515
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
-[/us/pl/113/79/s3202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202%2F1
-[/us/pl/113/79/s3202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202%2F2
-[/us/pl/110/246/s3201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F1
-[/us/pl/110/246/s3201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F2%2FA
-[/us/pl/110/246/s3201/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F2%2FB%2Fi
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
-[/us/pl/110/246/s3201/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F2%2FB%2Fii
-[/us/pl/110/246/s3201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F3
-[/us/pl/110/246/s3201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F4
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
-[/us/pl/110/246/s3201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F5
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/105/385/s212/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FA
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F1%2FA
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/b/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FC%2Fii
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F1%2FB
-[/us/pl/105/385/s212/b/3/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FC%2Fiii
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F1%2FC
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F2
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F3
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
-[/us/pl/105/385/s212/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F4%2FA
-[/us/pl/105/385/s212/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fa%2F4%2FB
-[/us/pl/105/385/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F3%2FB
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/96/494/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs303
+[/us/pl/96/494/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtIII
 [/us/stat/94/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2580
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
-[/us/pl/96/494/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs301
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/96/494/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtIII
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F959
-[/us/pl/105/385/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F2
+[/us/pl/105/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtII
 [/us/stat/112/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3466
-[/us/pl/96/494/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs301
+[/us/pl/96/494/tIII/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtIII%2Fs301
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
-[/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

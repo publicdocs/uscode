@@ -27,7 +27,7 @@
 
         The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 98–180, title I, § 119][/us/pl/98/180/s119], Nov. 29, 1983, [97 Stat. 1142][/us/stat/97/1142].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 119, Nov. 29, 1983, [97 Stat. 1142][/us/stat/97/1142].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/180/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs119
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1142
 
 

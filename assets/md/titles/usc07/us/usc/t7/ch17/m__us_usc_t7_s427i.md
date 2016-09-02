@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427a...427h.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
 
 ## § 427i. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund
 
@@ -57,15 +57,15 @@
 
  __References in Text__ 
 
-    [Section 5 of the Act of June 20, 1874][/us/act/1874-06-20/s5], as amended ([31 U.S.C. 713][/us/usc/t31/s713]), referred to in subsec. (a), was repealed by [act July 6, 1949, ch. 299, § 3][/us/act/1949-07-06/ch299/s3], [63 Stat. 407][/us/stat/63/407].
+    [Section 5 of the Act of June 20, 1874][/us/act/1874-06-20/s5], as amended ([31 U.S.C. 713][/us/usc/t31/s713]), referred to in subsec. (a), was repealed by [act July 6, 1949, ch. 299][/us/act/1949-07-06/ch299], § 3, [63 Stat. 407][/us/stat/63/407].
 
-    Sections 427a to 427h and 427j of this title, referred to in text, were repealed by [act Aug. 11, 1955, ch. 790, § 2][/us/act/1955-08-11/ch790/s2], [69 Stat. 674][/us/stat/69/674]. See sections 361a to 361i of this title.
+    Sections 427a to 427h and 427j of this title, referred to in text, were repealed by [act Aug. 11, 1955, ch. 790][/us/act/1955-08-11/ch790], § 2, [69 Stat. 674][/us/stat/69/674]. See sections 361a to 361i of this title.
 
  __Codification__ 
 
-    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709, Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709, Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648, Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648, Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427a...427h.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
 
 ----------
 ----------
@@ -96,15 +96,15 @@
 [/us/stat/68/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F574
 [/us/act/1874-06-20/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fs5
 [/us/usc/t31/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs713
-[/us/act/1949-07-06/ch299/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fch299%2Fs3
+[/us/act/1949-07-06/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fch299
 [/us/stat/63/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F407
-[/us/act/1955-08-11/ch790/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790%2Fs2
+[/us/act/1955-08-11/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790
 [/us/stat/69/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F674
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

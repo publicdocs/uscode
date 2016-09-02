@@ -17,7 +17,7 @@
 
     The Secretary shall maintain a library of scientific and other works and periodicals, both foreign and domestic, in the Plant Variety Protection Office to aid the examiners in the discharge of their duties.
 
-([Pub. L. 91–577, title I, § 8][/us/pl/91/577/s8], Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 96–574, § 3][/us/pl/96/574/s3], Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 8, Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 96–574][/us/pl/96/574], § 3, Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs8
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1543
-[/us/pl/96/574/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs3
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3350
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 

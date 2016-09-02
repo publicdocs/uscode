@@ -69,7 +69,7 @@
 
             (B) not subject to any other liens or mortgages that are superior to the lien interest of the Commodity Credit Corporation.
 
-([Pub. L. 110–234, title I, § 1614][/us/pl/110/234/s1614], May 22, 2008, [122 Stat. 1020][/us/stat/122/1020]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1614, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1748.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1614, May 22, 2008, [122 Stat. 1020][/us/stat/122/1020]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1614, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1748.)
 
  __References in Text__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1614
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1020
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

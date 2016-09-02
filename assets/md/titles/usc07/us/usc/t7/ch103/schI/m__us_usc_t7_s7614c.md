@@ -145,7 +145,7 @@
 
         Nothing in this section shall be construed so as to limit the authority of the Secretary under [section 2257 of this title][/us/usc/t7/s2257], with respect to the reprogramming or transfer of funds.
 
-([Pub. L. 110–234, title VII, § 7506][/us/pl/110/234/s7506], May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7506, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2020; [Pub. L. 113–79, title VII, § 7513][/us/pl/113/79/s7513], Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901].)
+([Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7506, May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7506, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2020; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7513, Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901].)
 
  __Codification__ 
 
@@ -155,9 +155,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 7513(1)][/us/pl/113/79/s7513/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In this section, the term ‘competitive programs’ includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President.”
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 7513(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In this section, the term ‘competitive programs’ includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President.”
 
-    Subsecs. (e) to (g). [Pub. L. 113–79, § 7513(2)][/us/pl/113/79/s7513/2], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 113–79][/us/pl/113/79], § 7513(2), added subsecs. (e) to (g).
 
  __Effective Date__ 
 
@@ -182,18 +182,18 @@
 [/us/usc/t7/s3319f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3319f
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t7/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2257
-[/us/pl/110/234/s7506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7506
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1259
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7513
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F901
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7513/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7513%2F1
-[/us/pl/113/79/s7513/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7513%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

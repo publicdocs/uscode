@@ -37,7 +37,7 @@
 
         The Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 223, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 223, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1193
 
 

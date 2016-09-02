@@ -61,7 +61,7 @@
 
         There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 98–8, title II, § 209][/us/pl/98/8/s209], as added [Pub. L. 110–234, title IV, § 4202][/us/pl/110/234/s4202], May 22, 2008, [122 Stat. 1121][/us/stat/122/1121]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1883; amended [Pub. L. 113–79, title IV, § 4027(b)][/us/pl/113/79/s4027/b], Feb. 7, 2014, [128 Stat. 812][/us/stat/128/812].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 209, as added [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4202, May 22, 2008, [122 Stat. 1121][/us/stat/122/1121]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1883; amended [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4027(b), Feb. 7, 2014, [128 Stat. 812][/us/stat/128/812].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 209 of Pub. L. 98–8][/us/pl/98/8/s209], which related to commodity supplemental food program administrative expenses, was set out in a note under [section 612c of this title][/us/usc/t7/s612c] prior to repeal by [Pub. L. 99–198, title XV, § 1562(e)(1)][/us/pl/99/198/s1562/e/1], Dec. 23, 1985, [99 Stat. 1590][/us/stat/99/1590].
+    A prior [section 209 of Pub. L. 98–8][/us/pl/98/8/s209], which related to commodity supplemental food program administrative expenses, was set out in a note under [section 612c of this title][/us/usc/t7/s612c] prior to repeal by [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1562(e)(1), Dec. 23, 1985, [99 Stat. 1590][/us/stat/99/1590].
 
  __Amendments__ 
 
@@ -88,12 +88,12 @@
 ----------
 ----------
 
-[/us/pl/98/8/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs209
-[/us/pl/110/234/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4202
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1121
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4027%2Fb
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F812
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -101,7 +101,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/98/8/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs209
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/99/198/s1562/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1562%2Fe%2F1
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1590
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations and orders as the Secretary considers necessary to carry out this chapter.
 
-([Pub. L. 106–224, title IV, § 434][/us/pl/106/224/s434], June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 434, June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs434
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F453
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

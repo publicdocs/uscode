@@ -45,13 +45,13 @@
 
         The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) for livestock emergencies in 1988 and 1989.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 607, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930]; amended [Pub. L. 101–82, title I, § 142][/us/pl/101/82/s142], title II, § 203, Aug. 14, 1989, [103 Stat. 579][/us/stat/103/579], 581.)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 607, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930]; amended [Pub. L. 101–82, title I][/us/pl/101/82/tI], § 142, title II, § 203, Aug. 14, 1989, [103 Stat. 579][/us/stat/103/579], 581.)
 
  __Amendments__ 
 
-    1989—Subsec. (b)(2)(B). [Pub. L. 101–82, § 142][/us/pl/101/82/s142], inserted “or ponds”.
+    1989—Subsec. (b)(2)(B). [Pub. L. 101–82][/us/pl/101/82], § 142, inserted “or ponds”.
 
-    Subsec. (c). [Pub. L. 101–82, § 203][/us/pl/101/82/s203], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–82][/us/pl/101/82], § 203, added subsec. (c).
 
  __Effective Date__ 
 
@@ -76,12 +76,12 @@
 
 [/us/usc/t7/s1471d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471d
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F930
-[/us/pl/101/82/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs142
+[/us/pl/101/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtI
 [/us/stat/103/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F579
-[/us/pl/101/82/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs142
-[/us/pl/101/82/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs203
+[/us/pl/101/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82
+[/us/pl/101/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82
 [/us/pl/100/387/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc%2F1
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/usc/t7/s9092/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F12

@@ -17,7 +17,7 @@
 
     The Secretary may, by regulation, exempt from compliance with the provisions of this chapter (1) any variety or varieties of grapes and plums, and (2) the shipment of such minimum quantities of grapes and plums to any foreign country as he may prescribe.
 
-([Pub. L. 86–687, § 4][/us/pl/86/687/s4], Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734]; [Pub. L. 87–105, § 2][/us/pl/87/105/s2], July 26, 1961, [75 Stat. 220][/us/stat/75/220].)
+([Pub. L. 86–687][/us/pl/86/687], § 4, Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734]; [Pub. L. 87–105][/us/pl/87/105], § 2, July 26, 1961, [75 Stat. 220][/us/stat/75/220].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/86/687/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs4
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F734
-[/us/pl/87/105/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F105%2Fs2
+[/us/pl/87/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F105
 [/us/stat/75/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F220
 [/us/pl/87/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F105
 

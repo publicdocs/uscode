@@ -21,7 +21,7 @@
 
     (2) The term “Secretary” means the Secretary of Agriculture.
 
-([June 24, 1936, ch. 745, § 7][/us/act/1936-06-24/ch745/s7], [49 Stat. 1899][/us/stat/49/1899].)
+([June 24, 1936, ch. 745][/us/act/1936-06-24/ch745], § 7, [49 Stat. 1899][/us/stat/49/1899].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-24/ch745/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745%2Fs7
+[/us/act/1936-06-24/ch745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745
 [/us/stat/49/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1899
 
 

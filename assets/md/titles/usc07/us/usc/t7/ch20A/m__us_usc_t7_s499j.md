@@ -17,7 +17,7 @@
 
     Any order of the Secretary under this chapter other than an order for the payment of money shall take effect within such reasonable time, not less than ten days, as is prescribed in the order, and shall continue in force until his further order, or for a specified period of time, accordingly as it is prescribed in the order, unless such order is suspended, modified, or set aside by the Secretary or is suspended, modified, or set aside by a court of competent jurisdiction. Any such order of the Secretary, if regularly made, shall be final, unless before the date prescribed for its taking effect application is made to a court of competent jurisdiction by the commission merchant, dealer, or broker against whom such order is directed to have such order set aside or its enforcement, operation, or execution suspended or restrained.
 
-([June 10, 1930, ch. 436, § 10][/us/act/1930-06-10/ch436/s10], [46 Stat. 535][/us/stat/46/535].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 10, [46 Stat. 535][/us/stat/46/535].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch436/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs10
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F535
 [/us/usc/t7/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs560
 

@@ -45,7 +45,7 @@
 
             Nothing in this subchapter shall be construed as requiring the Administrator to institute proceedings for prosecution of minor violations of this subchapter whenever the Administrator believes that the public interest will be adequately served by a suitable written notice of warning.
 
-([June 25, 1947, ch. 125, § 9][/us/act/1947-06-25/ch125/s9], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 988][/us/stat/86/988]; amended [Pub. L. 100–532, title III, § 302][/us/pl/100/532/s302], Oct. 25, 1988, [102 Stat. 2669][/us/stat/102/2669]; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (3)(H), (I), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 9, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 988][/us/stat/86/988]; amended [Pub. L. 100–532, title III][/us/pl/100/532/tIII], § 302, Oct. 25, 1988, [102 Stat. 2669][/us/stat/102/2669]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(b)(1), (3)(H), (I), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
 
  __Prior Provisions__ 
 
@@ -53,15 +53,15 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a)(2). [Pub. L. 102–237, § 1006(b)(3)(H)][/us/pl/102/237/s1006/b/3/H], substituted “the officer or employee” for “he” before “shall” in fourth sentence.
+    1991—Subsec. (a)(2). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(H), substituted “the officer or employee” for “he” before “shall” in fourth sentence.
 
-    Subsec. (c)(1). [Pub. L. 102–237, § 1006(b)(3)(I)][/us/pl/102/237/s1006/b/3/I], substituted “the person’s” for “his” in third sentence.
+    Subsec. (c)(1). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(I), substituted “the person’s” for “his” in third sentence.
 
-    Subsec. (c)(3). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “believes”.
+    Subsec. (c)(3). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “believes”.
 
-    1988—Subsec. (a). [Pub. L. 100–532, § 302(a)][/us/pl/100/532/s302/a], substituted “(1) For purposes of” for “For purposes of”, inserted “of the Environmental Protection Agency or of any State”, substituted “at reasonable times (A)” for “at reasonable times,”, added cl. (B), and substituted “(2) Before” for “Before”.
+    1988—Subsec. (a). [Pub. L. 100–532][/us/pl/100/532], § 302(a), substituted “(1) For purposes of” for “For purposes of”, inserted “of the Environmental Protection Agency or of any State”, substituted “at reasonable times (A)” for “at reasonable times,”, added cl. (B), and substituted “(2) Before” for “Before”.
 
-    Subsec. (b)(1). [Pub. L. 100–532, § 302(b)][/us/pl/100/532/s302/b], amended par. (1) generally, substituting “entry, inspection, and copying of records for purposes of this section or [section 136f of this title][/us/usc/t7/s136f]” for “entry for the purpose of this section”.
+    Subsec. (b)(1). [Pub. L. 100–532][/us/pl/100/532], § 302(b), amended par. (1) generally, substituting “entry, inspection, and copying of records for purposes of this section or [section 136f of this title][/us/usc/t7/s136f]” for “entry for the purpose of this section”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -80,20 +80,20 @@
 
 [/us/usc/t7/s136q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136q
 [/us/usc/t7/s136f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136f
-[/us/act/1947-06-25/ch125/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs9
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F988
-[/us/pl/100/532/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs302
+[/us/pl/100/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtIII
 [/us/stat/102/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2669
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
 [/us/usc/t7/s135g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135g
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/102/237/s1006/b/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FH
-[/us/pl/102/237/s1006/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FI
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/100/532/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs302%2Fa
-[/us/pl/100/532/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs302%2Fb
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136f
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901

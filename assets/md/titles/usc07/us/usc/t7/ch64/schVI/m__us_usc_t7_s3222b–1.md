@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to carry out this section $750,000 for each of fiscal years 2008 through 2012.
 
-([Pub. L. 95–113, title XIV, § 1447A][/us/pl/95/113/s1447A], as added [Pub. L. 110–234, title VII, § 7124][/us/pl/110/234/s7124], May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7124, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1447A, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7124, May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7124, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983.)
 
  __References in Text__ 
 
@@ -46,10 +46,10 @@
 
 [/us/pl/93/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F471
 [/us/stat/88/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1428
-[/us/pl/95/113/s1447A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1447A
-[/us/pl/110/234/s7124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7124
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1222
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/93/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F471
 [/us/stat/88/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1428

@@ -63,7 +63,7 @@
 
         except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
 
-([Pub. L. 95–501, title VI, § 602][/us/pl/95/501/s602], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3688][/us/stat/104/3688]; amended [Pub. L. 102–237, title III, § 327][/us/pl/102/237/s327], Dec. 13, 1991, [105 Stat. 1858][/us/stat/105/1858]; [Pub. L. 106–78, title IX, § 921][/us/pl/106/78/s921], Oct. 22, 1999, [113 Stat. 1206][/us/stat/113/1206]; [Pub. L. 111–239, § 2(c)][/us/pl/111/239/s2/c], Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502].)
+([Pub. L. 95–501, title VI][/us/pl/95/501/tVI], § 602, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3688][/us/stat/104/3688]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 327, Dec. 13, 1991, [105 Stat. 1858][/us/stat/105/1858]; [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 921, Oct. 22, 1999, [113 Stat. 1206][/us/stat/113/1206]; [Pub. L. 111–239][/us/pl/111/239], § 2(c), Sept. 27, 2010, [124 Stat. 2502][/us/stat/124/2502].)
 
  __Amendment of Section__ 
 
@@ -79,9 +79,9 @@
 
     1999—Subsec. (a)(1). [Pub. L. 106–78][/us/pl/106/78], §§ 921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–237, § 327(1)][/us/pl/102/237/s327/1], substituted “designate produced” for “designate as produced” in introductory provisions.
+    1991—Subsec. (a)(1). [Pub. L. 102–237][/us/pl/102/237], § 327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 102–237, § 327(2)][/us/pl/102/237/s327/2], struck out “in accordance with subsection (c)” after “shall remain confidential”.
+    Subsec. (a)(2). [Pub. L. 102–237][/us/pl/102/237], § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
 
  __Termination Date of 1999 Amendment__ 
 
@@ -94,14 +94,14 @@
 ----------
 ----------
 
-[/us/pl/95/501/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs602
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtVI
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3688
-[/us/pl/102/237/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs327
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1858
-[/us/pl/106/78/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs921
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1206
-[/us/pl/111/239/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fc
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2502
 [/us/pl/106/78/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs942
 [/us/pl/95/501/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs602
@@ -110,8 +110,8 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
-[/us/pl/102/237/s327/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs327%2F1
-[/us/pl/102/237/s327/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs327%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/106/78/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs942
 [/us/usc/t7/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635

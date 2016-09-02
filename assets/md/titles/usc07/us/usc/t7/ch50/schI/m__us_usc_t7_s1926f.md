@@ -17,7 +17,7 @@
 
     On and after November 10, 2005, notwithstanding the provisions of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1921][/us/usc/t7/s1921] et seq.\] (including the associated regulations) governing the Community Facilities Program, the Secretary may allow all Community Facility Program facility borrowers and grantees to enter into contracts with not-for-profit third parties for services consistent with the requirements of the Program, grant, and/or loan: Provided, That the contracts protect the interests of the Government regarding cost, liability, maintenance, and administrative fees.
 
-([Pub. L. 109–97, title VII, § 756][/us/pl/109/97/s756], Nov. 10, 2005, [119 Stat. 2157][/us/stat/119/2157].)
+([Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 756, Nov. 10, 2005, [119 Stat. 2157][/us/stat/119/2157].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. A, title VII, § 770][/us/pl/108/447/s770], Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848].
+    [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 770, Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848].
 
-    [Pub. L. 108–199, div. A, title VII, § 775][/us/pl/108/199/s775], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40].
+    [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 775, Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40].
 
 ----------
 
@@ -43,14 +43,14 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/109/97/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs756
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2157
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/108/447/s770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs770
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2848
-[/us/pl/108/199/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs775
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F40
 
 

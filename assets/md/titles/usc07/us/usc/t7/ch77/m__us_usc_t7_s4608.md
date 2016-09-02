@@ -115,7 +115,7 @@
 
             If the United States Customs Service fails to collect an assessment from an importer or an importer fails to pay an assessment at the time of entry of honey and honey products into the United States under this section, the importer shall be responsible for the remission of the assessment to the Honey Board.
 
-([Pub. L. 98–590, § 9][/us/pl/98/590/s9], Oct. 30, 1984, [98 Stat. 3120][/us/stat/98/3120]; [Pub. L. 101–624, title XIX, § 1984(b)][/us/pl/101/624/s1984/b], Nov. 28, 1990, [104 Stat. 3906][/us/stat/104/3906]; [Pub. L. 102–237, title VIII, § 807(1)][/us/pl/102/237/s807/1], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883]; [Pub. L. 104–127, title V, § 591][/us/pl/104/127/s591], Apr. 4, 1996, [110 Stat. 1084][/us/stat/110/1084]; [Pub. L. 105–185, title VI, § 605(h)][/us/pl/105/185/s605/h], June 23, 1998, [112 Stat. 597][/us/stat/112/597].)
+([Pub. L. 98–590][/us/pl/98/590], § 9, Oct. 30, 1984, [98 Stat. 3120][/us/stat/98/3120]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1984(b), Nov. 28, 1990, [104 Stat. 3906][/us/stat/104/3906]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 807(1), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883]; [Pub. L. 104–127, title V][/us/pl/104/127/tV], § 591, Apr. 4, 1996, [110 Stat. 1084][/us/stat/110/1084]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(h), June 23, 1998, [112 Stat. 597][/us/stat/112/597].)
 
  __References in Text__ 
 
@@ -123,41 +123,41 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–185, § 605(h)(1)(A)][/us/pl/105/185/s605/h/1/A], added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
+    1998—Subsec. (a). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
 
-    Subsec. (c). [Pub. L. 105–185, § 605(h)(1)(B)][/us/pl/105/185/s605/h/1/B], added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
+    Subsec. (c). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
 
-    Subsec. (e). [Pub. L. 105–185, § 605(h)(1)(C)][/us/pl/105/185/s605/h/1/C], added subsec. (e) and struck out former subsec. (e) which read as follows: “Producer-packers shall pay to the Honey Board the assessment on the honey they produce.”
+    Subsec. (e). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “Producer-packers shall pay to the Honey Board the assessment on the honey they produce.”
 
-    Subsec. (f). [Pub. L. 105–185, § 605(h)(2)][/us/pl/105/185/s605/h/2], added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under [section 4606(e)(2) of this title][/us/usc/t7/s4606/e/2], shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
+    Subsec. (f). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under [section 4606(e)(2) of this title][/us/usc/t7/s4606/e/2], shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
 
-    Subsec. (g). [Pub. L. 105–185, § 605(h)(3)][/us/pl/105/185/s605/h/3], added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+    Subsec. (g). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
 
     “(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
 
     “(2) the publication by direction of the Secretary, of the name of any person violating any order issued under this chapter, together with a statement of the particular provisions of the order violated by such person.”
 
-    Subsec. (h). [Pub. L. 105–185, § 605(h)(4)][/us/pl/105/185/s605/h/4], (5), added subsec. (h) and struck out former subsec. (h) which read as follows: “(h)(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
+    Subsec. (h). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(4), (5), added subsec. (h) and struck out former subsec. (h) which read as follows: “(h)(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
 
     “(B) A producer that has obtained a honey price support loan under the Agricultural Act of 1949, or successor statute, may obtain a refund if the producer has submitted to the Honey Board the statement received under subsection (d) of this section of the amount of assessment deducted from the loan funds and has otherwise complied with this subsection, even though the loan with respect to which the assessment was collected may still be outstanding and final settlement has not been made.
 
     “(2) With respect to the order in effect on November 28, 1990, following the referendum on such order required under [section 4612(b)(2) of this title][/us/usc/t7/s4612/b/2], a producer or importer may obtain a refund of an assessment under such order as provided in paragraph (1) only if the Secretary determines that the proposal to terminate refunds under the order is defeated in such referendum.”
 
-    Subsec. (i). [Pub. L. 105–185, § 605(h)(6)][/us/pl/105/185/s605/h/6], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (i). [Pub. L. 105–185][/us/pl/105/185], § 605(h)(6), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
     1996—Subsec. (f). [Pub. L. 104–127][/us/pl/104/127] inserted “producers,” after “importers,”.
 
     1991—Subsec. (h)(1)(A). [Pub. L. 102–237][/us/pl/102/237] inserted “to” before “an importer”.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1984(b)(1)][/us/pl/101/624/s1984/b/1], inserted reference to subsec. (i) of this section.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1984(b)(1), inserted reference to subsec. (i) of this section.
 
-    Subsec. (d). [Pub. L. 101–624, § 1984(b)(2)][/us/pl/101/624/s1984/b/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
 
-    Subsec. (f). [Pub. L. 101–624, § 1984(b)(3)][/us/pl/101/624/s1984/b/3], inserted “, and persons receiving an exemption from assessments under [section 4606(e)(2) of this title][/us/usc/t7/s4606/e/2],” after “payment of assessments”.
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 1984(b)(3), inserted “, and persons receiving an exemption from assessments under [section 4606(e)(2) of this title][/us/usc/t7/s4606/e/2],” after “payment of assessments”.
 
-    Subsec. (h). [Pub. L. 101–624, § 1984(b)(4)][/us/pl/101/624/s1984/b/4], designated existing provisions as par. (1)(A); substituted “Except as otherwise provided in paragraph (2), any” for “Any”, “an importer” for “to importers”, and “from such importer” for “from importers”; added subpar. (B); and added par. (2).
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 1984(b)(4), designated existing provisions as par. (1)(A); substituted “Except as otherwise provided in paragraph (2), any” for “Any”, “an importer” for “to importers”, and “from such importer” for “from importers”; added subpar. (B); and added par. (2).
 
-    Subsec. (i). [Pub. L. 101–624, § 1984(b)(5)][/us/pl/101/624/s1984/b/5], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–624][/us/pl/101/624], § 1984(b)(5), added subsec. (i).
 
  __Transfer of Functions__ 
 
@@ -183,36 +183,36 @@
 [/us/usc/t7/s4606/e/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F3%2FA%2Fi
 [/us/usc/t7/s4606/e/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F3%2FA%2Fii
 [/us/usc/t7/s4606/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F4
-[/us/pl/98/590/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs9
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3120
-[/us/pl/101/624/s1984/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3906
-[/us/pl/102/237/s807/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs807%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
-[/us/pl/104/127/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs591
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1084
-[/us/pl/105/185/s605/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F597
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/105/185/s605/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F1%2FA
-[/us/pl/105/185/s605/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F1%2FB
-[/us/pl/105/185/s605/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F1%2FC
-[/us/pl/105/185/s605/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F2
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s4606/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F2
-[/us/pl/105/185/s605/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F3
-[/us/pl/105/185/s605/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F4
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s4612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4612%2Fb%2F2
-[/us/pl/105/185/s605/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fh%2F6
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1984/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb%2F1
-[/us/pl/101/624/s1984/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb%2F2
-[/us/pl/101/624/s1984/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb%2F3
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s4606/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F2
-[/us/pl/101/624/s1984/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb%2F4
-[/us/pl/101/624/s1984/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1984%2Fb%2F5
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

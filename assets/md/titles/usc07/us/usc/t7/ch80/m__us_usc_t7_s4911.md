@@ -19,7 +19,7 @@
 
     (b) No person shall be excused from attending and testifying or from producing books, papers, and documents before the Secretary, or in obedience to the subpoena of the Secretary, or in any cause or proceeding, criminal or otherwise, based on, or growing out of, any alleged violation of this chapter, or of any plan or regulation issued thereunder, on the grounds that the testimony or evidence, documentary or otherwise, required of the person may tend to incriminate the person or subject the person to a penalty or forfeiture. However, no person shall be prosecuted or subjected to any penalty or forfeiture on account of any transaction, matter, or thing concerning which the person is compelled, after having claimed the person’s privilege against self-incrimination, to testify or produce evidence, documentary or otherwise, except that any individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
-([Pub. L. 99–198, title XVI, § 1652][/us/pl/99/198/s1652], Dec. 23, 1985, [99 Stat. 1628][/us/stat/99/1628]; [Pub. L. 103–189, § 8(h)][/us/pl/103/189/s8/h], Dec. 14, 1993, [107 Stat. 2262][/us/stat/107/2262].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1652, Dec. 23, 1985, [99 Stat. 1628][/us/stat/99/1628]; [Pub. L. 103–189][/us/pl/103/189], § 8(h), Dec. 14, 1993, [107 Stat. 2262][/us/stat/107/2262].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1652
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1628
-[/us/pl/103/189/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fh
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2262
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 

@@ -19,7 +19,7 @@
 
     (b) For purposes of carrying out the provisions of [section 3004 of this title][/us/usc/t7/s3004], there is authorized to be appropriated $1,500,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978.
 
-([Pub. L. 94–463, § 7][/us/pl/94/463/s7], Oct. 8, 1976, [90 Stat. 1983][/us/stat/90/1983]; [Pub. L. 105–362, title I, § 101(d)(2)][/us/pl/105/362/s101/d/2], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].)
+([Pub. L. 94–463][/us/pl/94/463], § 7, Oct. 8, 1976, [90 Stat. 1983][/us/stat/90/1983]; [Pub. L. 105–362, title I][/us/pl/105/362/tI], § 101(d)(2), Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t7/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3003
 [/us/usc/t7/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3004
-[/us/pl/94/463/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs7
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
 [/us/stat/90/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1983
-[/us/pl/105/362/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fd%2F2
+[/us/pl/105/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtI
 [/us/stat/112/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3281
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 

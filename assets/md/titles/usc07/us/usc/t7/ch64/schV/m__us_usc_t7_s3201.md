@@ -17,7 +17,7 @@
 
     The sums appropriated and allocated to States and eligible institutions under subsection (c) of [section 3195 of this title][/us/usc/t7/s3195] to carry out subsection (a) of such section or [section 3196 of this title][/us/usc/t7/s3196], as applicable, shall be in addition to, and not in substitution for, sums appropriated or otherwise made available to such States and institutions pursuant to other provisions of law.
 
-([Pub. L. 95–113, title XIV, § 1439][/us/pl/95/113/s1439], Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005]; [Pub. L. 113–79, title VII, § 7111(b)(3)(F)][/us/pl/113/79/s7111/b/3/F], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1439, Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7111(b)(3)(F), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t7/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195
 [/us/usc/t7/s3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3196
-[/us/pl/95/113/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1439
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1005
-[/us/pl/113/79/s7111/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F3%2FF
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195

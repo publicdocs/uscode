@@ -17,7 +17,7 @@
 
     There is established in the Department of the Treasury an entity to be known as the “Enterprise for the Americas Facility” (hereafter referred to in this subchapter as the “Facility”).
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 601, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 601, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658].)
 
  __Effective Date__ 
 
@@ -119,7 +119,7 @@ Sec. 4. Government Appointees to the Enterprise for the Americas Board. (a) Purs
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3658
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691

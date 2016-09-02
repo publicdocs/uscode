@@ -17,7 +17,7 @@
 
     Any moneys received from or in connection with the sale of cotton purchased for the preparation of the copies mentioned in [section 56 of this title][/us/usc/t7/s56] and condemned as unsuitable for such use or with the sale of such copies may be expended for the purchase of other cotton for such use.
 
-([Mar. 4, 1923, ch. 288, § 6(a)][/us/act/1923-03-04/ch288/s6/a], formerly § 6, [42 Stat. 1518][/us/stat/42/1518]; renumbered § 6(a), [Sept. 21, 1944, ch. 412, § 401(b)][/us/act/1944-09-21/ch412/s401/b], [58 Stat. 738][/us/stat/58/738].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 6(a), formerly § 6, [42 Stat. 1518][/us/stat/42/1518]; renumbered § 6(a), [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], § 401(b), [58 Stat. 738][/us/stat/58/738].)
 
  __Codification__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t7/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs56
-[/us/act/1923-03-04/ch288/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs6%2Fa
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1518
-[/us/act/1944-09-21/ch412/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412%2Fs401%2Fb
+[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F738
 [/us/usc/t7/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs56
 [/us/usc/t7/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs57a

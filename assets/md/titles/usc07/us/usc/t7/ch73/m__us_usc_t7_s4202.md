@@ -27,7 +27,7 @@
 
         The Department of Agriculture may make available to States, units of local government, individuals, organizations, and other units of the Federal Government information useful in restoring, maintaining, and improving the quantity and quality of farmland.
 
-([Pub. L. 97–98, title XV, § 1541][/us/pl/97/98/s1541], Dec. 22, 1981, [95 Stat. 1342][/us/stat/95/1342]; [Pub. L. 101–624, title XIV, § 1454][/us/pl/101/624/s1454], Nov. 28, 1990, [104 Stat. 3614][/us/stat/104/3614].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1541, Dec. 22, 1981, [95 Stat. 1342][/us/stat/95/1342]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1454, Nov. 28, 1990, [104 Stat. 3614][/us/stat/104/3614].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1541
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1342
-[/us/pl/101/624/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1454
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3614
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

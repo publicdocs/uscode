@@ -57,17 +57,17 @@
 
         (2) expand United States agricultural export opportunities identified in such annual reports.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 108, as added [Pub. L. 101–624, title XV, § 1532][/us/pl/101/624/s1532], Nov. 28, 1990, [104 Stat. 3689][/us/stat/104/3689]; amended [Pub. L. 102–237, title III][/us/pl/102/237], §§ 316–318, Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856], 1857; [Pub. L. 104–127, title II, § 272][/us/pl/104/127/s272], Apr. 4, 1996, [110 Stat. 976][/us/stat/110/976].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 108, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1532, Nov. 28, 1990, [104 Stat. 3689][/us/stat/104/3689]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], §§ 316–318, Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856], 1857; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 272, Apr. 4, 1996, [110 Stat. 976][/us/stat/110/976].)
 
  __Amendments__ 
 
     1996—Subsec. (b)(1)(B). [Pub. L. 104–127][/us/pl/104/127] struck out “including fruits, vegetables, legumes, popcorn and ducks” after “agricultural commodities”.
 
-    1991—[Pub. L. 102–237, § 316][/us/pl/102/237/s316], made technical amendment to directory language of [Pub. L. 101–624, § 1532][/us/pl/101/624/s1532], which enacted this section, resulting in no change in text.
+    1991—[Pub. L. 102–237][/us/pl/102/237], § 316, made technical amendment to directory language of [Pub. L. 101–624][/us/pl/101/624], § 1532, which enacted this section, resulting in no change in text.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–237, § 317][/us/pl/102/237/s317], substituted a semicolon for period at end.
+    Subsec. (b)(1)(B). [Pub. L. 102–237][/us/pl/102/237], § 317, substituted a semicolon for period at end.
 
-    Subsec. (b)(4). [Pub. L. 102–237, § 318][/us/pl/102/237/s318], struck out “the trade assistance office authorized under section 504 of the Agricultural Trade Act of 1978 (as amended by section 201),” after “available to Congress,”.
+    Subsec. (b)(4). [Pub. L. 102–237][/us/pl/102/237], § 318, struck out “the trade assistance office authorized under section 504 of the Agricultural Trade Act of 1978 (as amended by section 201),” after “available to Congress,”.
 
 ----------
 
@@ -78,16 +78,16 @@
 
 [/us/usc/t19/s2155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fc
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
-[/us/pl/101/624/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1532
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3689
-[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1856
-[/us/pl/104/127/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs272
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F976
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/237/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs316
-[/us/pl/101/624/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1532
-[/us/pl/102/237/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs317
-[/us/pl/102/237/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs318
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

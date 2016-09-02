@@ -75,7 +75,7 @@
 
         A 2008 through 2012 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.) or noninsured crop assistance under [section 7333 of this title][/us/usc/t7/s7333].
 
-([Pub. L. 110–234, title I, § 1206][/us/pl/110/234/s1206], May 22, 2008, [122 Stat. 959][/us/stat/122/959]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1206, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1687.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1206, May 22, 2008, [122 Stat. 959][/us/stat/122/959]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1206, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1687.)
 
  __References in Text__ 
 
@@ -100,9 +100,9 @@
 [/us/usc/t7/s8735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8735
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
-[/us/pl/110/234/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1206
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F959
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72

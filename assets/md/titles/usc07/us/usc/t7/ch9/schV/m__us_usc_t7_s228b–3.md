@@ -47,7 +47,7 @@
 
         The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in [section 1254 of title 28][/us/usc/t28/s1254], if such writ is duly applied for within 60 days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 412, as added [Pub. L. 100–173, § 9(2)][/us/pl/100/173/s9/2], Nov. 23, 1987, [101 Stat. 921][/us/stat/101/921].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 412, as added [Pub. L. 100–173][/us/pl/100/173], § 9(2), Nov. 23, 1987, [101 Stat. 921][/us/stat/101/921].)
 
  __Effective Date__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/100/173/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs9%2F2
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F921
 [/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12
 [/us/usc/t7/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs182

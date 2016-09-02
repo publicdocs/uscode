@@ -37,7 +37,7 @@
 
         The Secretary is authorized to issue final regulations without first issuing proposed regulations for public comment in order to carry out the provisions of sections 7514 and 7515 of this title. If final regulations are issued without such prior public comment the Secretary shall permit public comment on such regulations, consider pertinent comments, and make modifications of such regulations as appropriate not later than 1 year after September 19, 1988. Such final and modified regulations shall be accompanied by a statement of the basis and purpose for such regulations.
 
-([Pub. L. 98–8, title II, § 210][/us/pl/98/8/s210], Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36]; [Pub. L. 98–92, § 2(9)][/us/pl/98/92/s2/9], Sept. 2, 1983, [97 Stat. 611][/us/stat/97/611]; [Pub. L. 99–198, title XV, § 1570][/us/pl/99/198/s1570], Dec. 23, 1985, [99 Stat. 1594][/us/stat/99/1594]; [Pub. L. 100–77, title VIII, § 814(b)][/us/pl/100/77/s814/b], July 22, 1987, [101 Stat. 538][/us/stat/101/538]; [Pub. L. 100–435, title I][/us/pl/100/435], §§ 103(d), 105(b), Sept. 19, 1988, [102 Stat. 1648][/us/stat/102/1648], 1651; [Pub. L. 101–624, title XVII, § 1772(e)][/us/pl/101/624/s1772/e], Nov. 28, 1990, [104 Stat. 3809][/us/stat/104/3809]; [Pub. L. 104–193, title VIII, § 871(e)(3)][/us/pl/104/193/s871/e/3], Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 210, Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36]; [Pub. L. 98–92][/us/pl/98/92], § 2(9), Sept. 2, 1983, [97 Stat. 611][/us/stat/97/611]; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1570, Dec. 23, 1985, [99 Stat. 1594][/us/stat/99/1594]; [Pub. L. 100–77, title VIII][/us/pl/100/77/tVIII], § 814(b), July 22, 1987, [101 Stat. 538][/us/stat/101/538]; [Pub. L. 100–435, title I][/us/pl/100/435/tI], §§ 103(d), 105(b), Sept. 19, 1988, [102 Stat. 1648][/us/stat/102/1648], 1651; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], § 1772(e), Nov. 28, 1990, [104 Stat. 3809][/us/stat/104/3809]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(e)(3), Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].)
 
  __Amendments__ 
 
@@ -45,15 +45,15 @@
 
     1990—Subsec. (c). [Pub. L. 101–624][/us/pl/101/624] added subsec. (c) and struck out former subsec. (c) which contained provisions similar to the current provisions for specific fiscal years.
 
-    1988—Subsec. (c). [Pub. L. 100–435, § 103(d)][/us/pl/100/435/s103/d], substituted “each of the fiscal years 1989 and 1990” for “the fiscal year ending September 30, 1988”.
+    1988—Subsec. (c). [Pub. L. 100–435][/us/pl/100/435], § 103(d), substituted “each of the fiscal years 1989 and 1990” for “the fiscal year ending September 30, 1988”.
 
-    Subsec. (e). [Pub. L. 100–435, § 105(b)][/us/pl/100/435/s105/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–435][/us/pl/100/435], § 105(b), added subsec. (e).
 
     1987—Subsec. (c). [Pub. L. 100–77][/us/pl/100/77] substituted provisions relating to period ending on date specified in former [section 212 of Pub. L. 98–8][/us/pl/98/8/s212] for provisions relating to period beginning October 1, 1983 and ending September 30, 1987, and substituted “fiscal year ending September 30, 1988” for “fiscal year ending September 30, 1987”.
 
-    1985—Subsec. (c). [Pub. L. 99–198, § 1570(1)][/us/pl/99/198/s1570/1], substituted “the period beginning October 1, 1983, and ending September 30, 1987” for “the fiscal years ending September 30, 1984, and September 30, 1985”, “as early as feasible but not later than the beginning of the fiscal year ending September 30, 1987” for “prior to the beginning of the fiscal year ending September 30, 1985”, and “such fiscal year” for “second twelve months”.
+    1985—Subsec. (c). [Pub. L. 99–198][/us/pl/99/198], § 1570(1), substituted “the period beginning October 1, 1983, and ending September 30, 1987” for “the fiscal years ending September 30, 1984, and September 30, 1985”, “as early as feasible but not later than the beginning of the fiscal year ending September 30, 1987” for “prior to the beginning of the fiscal year ending September 30, 1985”, and “such fiscal year” for “second twelve months”.
 
-    Subsec. (d). [Pub. L. 99–198, § 1570(2)][/us/pl/99/198/s1570/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–198][/us/pl/99/198], § 1570(2), added subsec. (d).
 
     1983–[Pub. L. 98–92][/us/pl/98/92] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-    [Pub. L. 98–92, § 2][/us/pl/98/92/s2], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
+    [Pub. L. 98–92][/us/pl/98/92], § 2, Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
 ----------
 
@@ -76,29 +76,29 @@
 ----------
 ----------
 
-[/us/pl/98/8/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs210
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
 [/us/stat/97/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F36
-[/us/pl/98/92/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2%2F9
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F611
-[/us/pl/99/198/s1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1570
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1594
-[/us/pl/100/77/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs814%2Fb
+[/us/pl/100/77/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVIII
 [/us/stat/101/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F538
-[/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
+[/us/pl/100/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtI
 [/us/stat/102/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1648
-[/us/pl/101/624/s1772/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1772%2Fe
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3809
-[/us/pl/104/193/s871/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fe%2F3
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2345
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s7515/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515%2Fj
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/435/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs103%2Fd
-[/us/pl/100/435/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs105%2Fb
+[/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
+[/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/pl/98/8/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs212
-[/us/pl/99/198/s1570/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1570%2F1
-[/us/pl/99/198/s1570/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1570%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1781/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1781%2Fa
@@ -107,7 +107,7 @@
 [/us/pl/100/435/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs105%2Fb
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/98/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
 
 

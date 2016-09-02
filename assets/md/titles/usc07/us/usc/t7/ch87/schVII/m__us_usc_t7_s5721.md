@@ -21,7 +21,7 @@
 
     (2) does not have a business interest in or receive remuneration from specific sales of agricultural commodities or products.
 
-([Pub. L. 95–501, title VII, § 701][/us/pl/95/501/s701], as added [Pub. L. 104–127, title II, § 252][/us/pl/104/127/s252], Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971].)
+([Pub. L. 95–501, title VII][/us/pl/95/501/tVII], § 701, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 252, Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/501/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs701
-[/us/pl/104/127/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs252
+[/us/pl/95/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtVII
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F971
 
 

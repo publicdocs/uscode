@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_ch86.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
+[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_s5501...5505.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
 
 ## § 5506. Water policy with respect to agrichemicals
 
@@ -33,7 +33,7 @@
 
         The following agencies shall participate in the Department’s water program: the Agricultural Research Service; the Agricultural Stabilization and Conservation Service; the Animal and Plant Health Inspection Service; the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service; the Forest Service; the National Agricultural Library; the National Agricultural Statistics Service; the Soil Conservation Service; and other agencies within the Department deemed appropriate by the Secretary.
 
-([Pub. L. 101–624, title XIV, § 1499][/us/pl/101/624/s1499], Nov. 28, 1990, [104 Stat. 3632][/us/stat/104/3632]; [Pub. L. 102–237, title II, § 201(g)][/us/pl/102/237/s201/g], Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847]; [Pub. L. 104–127, title VIII, § 859(b)][/us/pl/104/127/s859/b], Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII, § 7511(c)(14)][/us/pl/110/234/s7511/c/14], May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(14), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1499, Nov. 28, 1990, [104 Stat. 3632][/us/stat/104/3632]; [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 201(g), Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 859(b), Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(14), May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(14), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 7511(c)(14)][/us/pl/110/246/s7511/c/14], substituted “the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;” for “the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;”.
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(14), substituted “the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;” for “the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;”.
 
     1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127] struck out “and [section 3125c of this title][/us/usc/t7/s3125c]” before “does not alter”.
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 201(g)(1)][/us/pl/102/237/s201/g/1], inserted “Agricultural” before “Environmental Quality” and substituted “[section 5402 of this title][/us/usc/t7/s5402]” for “section 1612 of this Act”.
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 201(g)(1), inserted “Agricultural” before “Environmental Quality” and substituted “[section 5402 of this title][/us/usc/t7/s5402]” for “section 1612 of this Act”.
 
-    Subsec. (b). [Pub. L. 102–237, § 201(g)(2)][/us/pl/102/237/s201/g/2], substituted “Effect” for “Affect” in heading and inserted reference to [section 3125c of this title][/us/usc/t7/s3125c].
+    Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 201(g)(2), substituted “Effect” for “Affect” in heading and inserted reference to [section 3125c of this title][/us/usc/t7/s3125c].
 
-    Subsec. (c). [Pub. L. 102–237, § 201(g)(3)][/us/pl/102/237/s201/g/3], inserted “and” after “Animal”.
+    Subsec. (c). [Pub. L. 102–237][/us/pl/102/237], § 201(g)(3), inserted “and” after “Animal”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -71,22 +71,22 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_ch86.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
+[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_s5501...5505.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
 
 ----------
 ----------
 
 [/us/usc/t7/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5402
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/101/624/s1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1499
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3632
-[/us/pl/102/237/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fg
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1847
-[/us/pl/104/127/s859/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs859%2Fb
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1173
-[/us/pl/110/234/s7511/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F14
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1268
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3627
@@ -99,14 +99,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F14
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s3125c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125c
-[/us/pl/102/237/s201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fg%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5402
-[/us/pl/102/237/s201/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fg%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s3125c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125c
-[/us/pl/102/237/s201/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fg%2F3
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

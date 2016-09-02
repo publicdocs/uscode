@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall extend to Puerto Rico and the Virgin Islands. In the case of Alaska, Puerto Rico, and the Virgin Islands, the term “county” as used in this subchapter may be the entire area, or any subdivision thereof as may be determined by the Secretary, and payments under [section 1012 of this title][/us/usc/t7/s1012] shall be made to the Governor or to the fiscal agent of such subdivision.
 
-([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 35, as added [Pub. L. 87–128, title III, § 342][/us/pl/87/128/s342], Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318].)
+([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 35, as added [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 342, Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t7/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1012
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
-[/us/pl/87/128/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs342
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

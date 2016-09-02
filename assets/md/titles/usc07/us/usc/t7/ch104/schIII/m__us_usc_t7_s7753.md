@@ -49,7 +49,7 @@
 
             Any late payment penalty and any accrued interest shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
 
-([Pub. L. 106–224, title IV, § 433][/us/pl/106/224/s433], June 20, 2000, [114 Stat. 452][/us/stat/114/452].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 433, June 20, 2000, [114 Stat. 452][/us/stat/114/452].)
 
  __Transfer of Functions__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
-[/us/pl/106/224/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs433
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F452
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

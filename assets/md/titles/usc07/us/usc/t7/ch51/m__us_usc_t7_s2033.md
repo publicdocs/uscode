@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2032.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2034.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2033)
 
-## § 2033. Repealed. [Pub. L. 107–171, title IV, § 4124(b)][/us/pl/107/171/s4124/b], May 13, 2002, [116 Stat. 326][/us/stat/116/326]
+## § 2033. Repealed. [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4124(b), May 13, 2002, [116 Stat. 326][/us/stat/116/326]
 
-    Section, [Pub. L. 88–525, § 24][/us/pl/88/525/s24], as added [Pub. L. 104–127, title IV, § 401(g)][/us/pl/104/127/s401/g], Apr. 4, 1996, [110 Stat. 1027][/us/stat/110/1027], related to payments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under [section 1469d(c) of title 48][/us/usc/t48/s1469d/c].
+    Section, [Pub. L. 88–525][/us/pl/88/525], § 24, as added [Pub. L. 104–127, title IV][/us/pl/104/127/tIV], § 401(g), Apr. 4, 1996, [110 Stat. 1027][/us/stat/110/1027], related to payments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under [section 1469d(c) of title 48][/us/usc/t48/s1469d/c].
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/107/171/s4124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4124%2Fb
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F326
-[/us/pl/88/525/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs24
-[/us/pl/104/127/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs401%2Fg
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/104/127/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIV
 [/us/stat/110/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1027
 [/us/usc/t48/s1469d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469d%2Fc
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

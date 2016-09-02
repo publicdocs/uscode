@@ -41,7 +41,7 @@
 
         There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 101–624, title XVI, § 1641][/us/pl/101/624/s1641], Nov. 28, 1990, [104 Stat. 3750][/us/stat/104/3750]; [Pub. L. 104–127, title VIII, § 833][/us/pl/104/127/s833], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7202, 7511(c)(20), May 22, 2008, [122 Stat. 1233][/us/stat/122/1233], 1269; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7202, 7511(c)(20), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994, 2030; [Pub. L. 113–79, title VII, § 7206][/us/pl/113/79/s7206], Feb. 7, 2014, [128 Stat. 881][/us/stat/128/881].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1641, Nov. 28, 1990, [104 Stat. 3750][/us/stat/104/3750]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 833, Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7202, 7511(c)(20), May 22, 2008, [122 Stat. 1233][/us/stat/122/1233], 1269; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7202, 7511(c)(20), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994, 2030; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7206, Feb. 7, 2014, [128 Stat. 881][/us/stat/128/881].)
 
  __Codification__ 
 
@@ -51,11 +51,11 @@
 
     2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] substituted “to carry out this subchapter $5,000,000” for “$5,000,000 to carry out this subchapter” and inserted “and $1,000,000 for each of fiscal years 2014 through 2018” before period at end.
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 7511(c)(20)(A)][/us/pl/110/246/s7511/c/20/A], substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(20)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
 
-    Subsec. (a)(4). [Pub. L. 110–246, § 7511(c)(20)(B)][/us/pl/110/246/s7511/c/20/B], substituted “National Institute of Food and Agriculture” for “Extension Service”.
+    Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(20)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-    Subsec. (c). [Pub. L. 110–246, § 7202][/us/pl/110/246/s7202], substituted “2008 through 2012” for “1991 through 1997”.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 7202, substituted “2008 through 2012” for “1991 through 1997”.
 
     1996—Subsec. (c). [Pub. L. 104–127][/us/pl/104/127] substituted “1997” for “1995”.
 
@@ -75,24 +75,24 @@
 [/us/usc/t7/s5852/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5852%2Fb%2F1
 [/us/usc/t7/s5852/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5852%2Fc
 [/us/usc/t7/s5854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5854
-[/us/pl/101/624/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1641
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3750
-[/us/pl/104/127/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs833
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1168
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1233
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7206
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F881
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7511/c/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F20%2FA
-[/us/pl/110/246/s7511/c/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F20%2FB
-[/us/pl/110/246/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7202
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

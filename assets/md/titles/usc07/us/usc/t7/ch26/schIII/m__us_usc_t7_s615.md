@@ -49,7 +49,7 @@
 
     (f) The President, in his discretion, is authorized by proclamation to decree that all or part of the taxes collected from the processing of sugar beets or sugarcane in Puerto Rico, the Territory of Hawaii, the Virgin Islands, American Samoa, the Canal Zone, and/or the island of Guam (if the provisions of this chapter are made applicable thereto), and/or upon the processing in continental United States of sugar produced in, or coming from, said areas, shall not be covered into the general fund of the Treasury of the United States but shall be held as a separate fund, in the name of the respective area to which related, to be used and expended for the benefit of agriculture and/or paid as rental or benefit payments in connection with the reduction in the acreage, or reduction in the production for market, or both, of sugar beets and/or sugarcane, and/or used and expended for expansion of markets and for removal of surplus agricultural products in such areas, respectively, as the Secretary of Agriculture, with the approval of the President, shall direct.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 15, [48 Stat. 39][/us/stat/48/39]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 8, 11, [48 Stat. 675][/us/stat/48/675], 676; [June 16, 1934, ch. 551][/us/act/1934-06-16/ch551], [48 Stat. 973][/us/stat/48/973]; [June 26, 1934, ch. 759, § 1][/us/act/1934-06-26/ch759/s1], [48 Stat. 1241][/us/stat/48/1241]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], §§ 8, 9, [49 Stat. 47][/us/stat/49/47], 48; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 21–24, [49 Stat. 768][/us/stat/49/768]; [June 22, 1936, ch. 690, § 601(a)][/us/act/1936-06-22/ch690/s601/a], [49 Stat. 1739][/us/stat/49/1739]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 15, [48 Stat. 39][/us/stat/48/39]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 8, 11, [48 Stat. 675][/us/stat/48/675], 676; [June 16, 1934, ch. 551][/us/act/1934-06-16/ch551], [48 Stat. 973][/us/stat/48/973]; [June 26, 1934, ch. 759][/us/act/1934-06-26/ch759], § 1, [48 Stat. 1241][/us/stat/48/1241]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], §§ 8, 9, [49 Stat. 47][/us/stat/49/47], 48; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 21–24, [49 Stat. 768][/us/stat/49/768]; [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], § 601(a), [49 Stat. 1739][/us/stat/49/1739]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -116,13 +116,13 @@
 [/us/stat/48/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F675
 [/us/act/1934-06-16/ch551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-16%2Fch551
 [/us/stat/48/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F973
-[/us/act/1934-06-26/ch759/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759%2Fs1
+[/us/act/1934-06-26/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759
 [/us/stat/48/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1241
 [/us/act/1935-03-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32
 [/us/stat/49/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F47
 [/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F768
-[/us/act/1936-06-22/ch690/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690%2Fs601%2Fa
+[/us/act/1936-06-22/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690
 [/us/stat/49/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1739
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 19, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582, § 21][/us/pl/94/582/s21], Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(c), 1604(n), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1029; [Pub. L. 97–35, title I, § 155(4)][/us/pl/97/35/s155/4], Aug. 13, 1981, [95 Stat. 372][/us/stat/95/372]; [Pub. L. 98–469, § 2(3)][/us/pl/98/469/s2/3], Oct. 11, 1984, [98 Stat. 1832][/us/stat/98/1832]; [Pub. L. 100–518, § 2(4)][/us/pl/100/518/s2/4], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; [Pub. L. 103–156, § 3][/us/pl/103/156/s3], Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 106–472, title I, § 108][/us/pl/106/472/s108], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(f)][/us/pl/114/54/s301/f], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 19, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582][/us/pl/94/582], § 21, Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1602(c), 1604(n), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1029; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155(4), Aug. 13, 1981, [95 Stat. 372][/us/stat/95/372]; [Pub. L. 98–469][/us/pl/98/469], § 2(3), Oct. 11, 1984, [98 Stat. 1832][/us/stat/98/1832]; [Pub. L. 100–518][/us/pl/100/518], § 2(4), Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; [Pub. L. 103–156][/us/pl/103/156], § 3, Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 108, Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83][/us/pl/109/83], § 1(a), Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III][/us/pl/114/54/tIII], § 301(f), Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 
  __Effective and Termination Dates of 1984 Amendment__ 
 
-    [Pub. L. 98–469, § 2][/us/pl/98/469/s2], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 98–469][/us/pl/98/469] is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+    [Pub. L. 98–469][/us/pl/98/469], § 2, Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 98–469][/us/pl/98/469] is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–35, title I, § 155][/us/pl/97/35/s155], Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469, § 1][/us/pl/98/469/s1], Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+    [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 155, Aug. 13, 1981, [95 Stat. 371][/us/stat/95/371], as amended by [Pub. L. 98–469][/us/pl/98/469], § 1, Oct. 11, 1984, [98 Stat. 1831][/us/stat/98/1831], provided that the amendment made by [Pub. L. 97–35][/us/pl/97/35] is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -79,25 +79,25 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F769
-[/us/pl/94/582/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs21
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2886
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1025
-[/us/pl/97/35/s155/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155%2F4
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F372
-[/us/pl/98/469/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs2%2F3
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1832
-[/us/pl/100/518/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518%2Fs2%2F4
+[/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/stat/102/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2586
-[/us/pl/103/156/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs3
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1525
-[/us/pl/106/472/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs108
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
-[/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
+[/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
-[/us/pl/114/54/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Ff
+[/us/pl/114/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtIII
 [/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
 [/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
@@ -119,12 +119,12 @@
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
-[/us/pl/98/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs2
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
 [/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
-[/us/pl/97/35/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs155
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F371
-[/us/pl/98/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469%2Fs1
+[/us/pl/98/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F469
 [/us/stat/98/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1831
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113

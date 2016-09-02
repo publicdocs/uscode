@@ -37,7 +37,7 @@
 
         Any spending authority (as defined in [section 651 of title 2][/us/usc/t2/s651]) provided in this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 101–624, title XXIII, § 2379][/us/pl/101/624/s2379], Nov. 28, 1990, [104 Stat. 4049][/us/stat/104/4049].)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2379, Nov. 28, 1990, [104 Stat. 4049][/us/stat/104/4049].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/usc/t2/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651
-[/us/pl/101/624/s2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2379
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4049
 
 

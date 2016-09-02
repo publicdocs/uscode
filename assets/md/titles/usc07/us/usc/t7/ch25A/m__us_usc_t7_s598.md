@@ -17,7 +17,7 @@
 
     If any provision of the chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 86–687, § 8][/us/pl/86/687/s8], Sept. 2, 1960, [74 Stat. 735][/us/stat/74/735].)
+([Pub. L. 86–687][/us/pl/86/687], § 8, Sept. 2, 1960, [74 Stat. 735][/us/stat/74/735].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/687/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs8
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F735
 
 

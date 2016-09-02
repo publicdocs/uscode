@@ -27,7 +27,7 @@
 
         The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, the remedies otherwise provided at law or in equity.
 
-([Pub. L. 95–113, title XVII, § 1711][/us/pl/95/113/s1711], Sept. 29, 1977, [91 Stat. 1038][/us/stat/91/1038].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1711, Sept. 29, 1977, [91 Stat. 1038][/us/stat/91/1038].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1711
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1038
 
 

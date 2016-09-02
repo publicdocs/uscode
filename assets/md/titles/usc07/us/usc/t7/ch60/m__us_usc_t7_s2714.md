@@ -29,7 +29,7 @@
 
         (4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-([Pub. L. 93–428, § 15][/us/pl/93/428/s15], Oct. 1, 1974, [88 Stat. 1177][/us/stat/88/1177]; [Pub. L. 96–276, § 6][/us/pl/96/276/s6], June 17, 1980, [94 Stat. 541][/us/stat/94/541].)
+([Pub. L. 93–428][/us/pl/93/428], § 15, Oct. 1, 1974, [88 Stat. 1177][/us/stat/88/1177]; [Pub. L. 96–276][/us/pl/96/276], § 6, June 17, 1980, [94 Stat. 541][/us/stat/94/541].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/93/428/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs15
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1177
-[/us/pl/96/276/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs6
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/stat/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F541
 [/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276

@@ -171,13 +171,13 @@
 
                         (bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
-([Pub. L. 88–525, § 8][/us/pl/88/525/s8], Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 968][/us/stat/91/968]; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 104(b), 110, Aug. 13, 1981, [95 Stat. 359][/us/stat/95/359], 361; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 143(c), 152(b), 163, 164, Sept. 8, 1982, [96 Stat. 773][/us/stat/96/773], 776, 778; [Pub. L. 99–198, title XV, § 1520][/us/pl/99/198/s1520], Dec. 23, 1985, [99 Stat. 1578][/us/stat/99/1578]; [Pub. L. 100–387, title V, § 502(a)][/us/pl/100/387/s502/a], Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960]; [Pub. L. 100–435, title II, § 203(a)][/us/pl/100/435/s203/a], Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1730, 1732, Nov. 28, 1990, [104 Stat. 3790][/us/stat/104/3790]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 909, 910, Dec. 13, 1991, [105 Stat. 1887][/us/stat/105/1887]; [Pub. L. 103–66, title XIII, § 13916][/us/pl/103/66/s13916], Aug. 10, 1993, [107 Stat. 674][/us/stat/107/674]; [Pub. L. 103–296, title I, § 108(f)(1)][/us/pl/103/296/s108/f/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 826–830, 854(c)(1), Aug. 22, 1996, [110 Stat. 2327][/us/stat/110/2327], 2342; [Pub. L. 107–171, title IV, § 4112(a)][/us/pl/107/171/s4112/a], (b)(3), May 13, 2002, [116 Stat. 310][/us/stat/116/310], 313; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4107, 4115(b)(5), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1106; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4107, 4115(b)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1868.)
+([Pub. L. 88–525][/us/pl/88/525], § 8, Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 968][/us/stat/91/968]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], §§ 104(b), 110, Aug. 13, 1981, [95 Stat. 359][/us/stat/95/359], 361; [Pub. L. 97–253, title I][/us/pl/97/253/tI], §§ 143(c), 152(b), 163, 164, Sept. 8, 1982, [96 Stat. 773][/us/stat/96/773], 776, 778; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1520, Dec. 23, 1985, [99 Stat. 1578][/us/stat/99/1578]; [Pub. L. 100–387, title V][/us/pl/100/387/tV], § 502(a), Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960]; [Pub. L. 100–435, title II][/us/pl/100/435/tII], § 203(a), Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], §§ 1730, 1732, Nov. 28, 1990, [104 Stat. 3790][/us/stat/104/3790]; [Pub. L. 102–237, title IX][/us/pl/102/237/tIX], §§ 909, 910, Dec. 13, 1991, [105 Stat. 1887][/us/stat/105/1887]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13916, Aug. 10, 1993, [107 Stat. 674][/us/stat/107/674]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(f)(1), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], §§ 826–830, 854(c)(1), Aug. 22, 1996, [110 Stat. 2327][/us/stat/110/2327], 2342; [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4112(a), (b)(3), May 13, 2002, [116 Stat. 310][/us/stat/116/310], 313; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4001(b), 4107, 4115(b)(5), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1106; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4001(b), 4107, 4115(b)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1868.)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (d)(2), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t7/s1305] and Tables.
 
-    Section 2012(n)(5), referred to in subsecs. (e)(1) and (f)(1)(A)(i), was redesignated as section 2012(m)(5) by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
+    Section 2012(n)(5), referred to in subsecs. (e)(1) and (f)(1)(A)(i), was redesignated as section 2012(m)(5) by [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(a)(4), Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
  __Codification__ 
 
@@ -185,73 +185,73 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4107][/us/pl/110/246/s4107], substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under [section 2012 of this title][/us/usc/t7/s2012], rounded to the nearest whole dollar increment” for “$10 per month”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under [section 2012 of this title][/us/usc/t7/s2012], rounded to the nearest whole dollar increment” for “$10 per month”.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (b). [Pub. L. 110–246, § 4115(b)(5)(A)][/us/pl/110/246/s4115/b/5/A], struck out “, whether through coupons, access devices, or otherwise” before “shall not”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(5)(A), struck out “, whether through coupons, access devices, or otherwise” before “shall not”.
 
-    Subsecs. (c)(2), (d)(2). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+    Subsecs. (c)(2), (d)(2). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 110–246, § 4115(b)(5)(B)][/us/pl/110/246/s4115/b/5/B], substituted “section 2012(n)(5)” for “section 2012(i)(5)” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)” in introductory provisions.
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 110–246, § 4115(b)(5)(B)][/us/pl/110/246/s4115/b/5/B], substituted “section 2012(n)(5)” for “section 2012(i)(5)”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)”.
 
-    Subsec. (f)(1)(D), (3)(B). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+    Subsec. (f)(1)(D), (3)(B). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-    2002—Subsec. (e)(1). [Pub. L. 107–171, § 4112(b)(3)][/us/pl/107/171/s4112/b/3], substituted “[section 2012(i)(5) of this title][/us/usc/t7/s2012/i/5]” for “the last sentence of [section 2012(i) of this title][/us/usc/t7/s2012/i]” in introductory provisions.
+    2002—Subsec. (e)(1). [Pub. L. 107–171][/us/pl/107/171], § 4112(b)(3), substituted “[section 2012(i)(5) of this title][/us/usc/t7/s2012/i/5]” for “the last sentence of [section 2012(i) of this title][/us/usc/t7/s2012/i]” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 107–171, § 4112(a)][/us/pl/107/171/s4112/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 4112(a), added subsec. (f).
 
-    1996—Subsec. (a). [Pub. L. 104–193, § 826][/us/pl/104/193/s826], struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+    1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–193, § 827][/us/pl/104/193/s827], struck out “of more than one month” after “following any period”.
+    Subsec. (c)(2)(B). [Pub. L. 104–193][/us/pl/104/193], § 827, struck out “of more than one month” after “following any period”.
 
-    Subsec. (c)(3). [Pub. L. 104–193, § 828][/us/pl/104/193/s828], added par. (3) and struck out former par. (3) which read as follows: “A State agency—
+    Subsec. (c)(3). [Pub. L. 104–193][/us/pl/104/193], § 828, added par. (3) and struck out former par. (3) which read as follows: “A State agency—
 
     “(A) in the case of a household that is not entitled in the month in which it applies to expedited service under [section 2020(e)(9) of this title][/us/usc/t7/s2020/e/9], may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of [section 2020(e) of this title][/us/usc/t7/s2020/e]; and
 
     “(B) in the case of a household that is entitled in the month in which it applies to expedited service under [section 2020(e)(9) of this title][/us/usc/t7/s2020/e/9], shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of [section 2020(e) of this title][/us/usc/t7/s2020/e].”
 
-    Subsec. (d). [Pub. L. 104–193, § 829][/us/pl/104/193/s829], added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household’s income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
+    Subsec. (d). [Pub. L. 104–193][/us/pl/104/193], § 829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household’s income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
 
-    Subsec. (e). [Pub. L. 104–193, § 854(c)(1)][/us/pl/104/193/s854/c/1], redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
+    Subsec. (e). [Pub. L. 104–193][/us/pl/104/193], § 854(c)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
 
-    Subsec. (f). [Pub. L. 104–193, § 854(c)(1)][/us/pl/104/193/s854/c/1], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 104–193][/us/pl/104/193], § 854(c)(1), redesignated subsec. (f) as (e).
 
-    [Pub. L. 104–193, § 830][/us/pl/104/193/s830], added subsec. (f).
+    [Pub. L. 104–193][/us/pl/104/193], § 830, added subsec. (f).
 
     1994—Subsec. (e)(6). [Pub. L. 103–296][/us/pl/103/296] inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
 
     1993—Subsec. (c)(2)(B). [Pub. L. 103–66][/us/pl/103/66] inserted “of more than one month in” after “following any period”.
 
-    1991—Subsec. (b). [Pub. L. 102–237, § 909][/us/pl/102/237/s909], substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
+    1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 909, substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
 
-    Subsec. (c)(1). [Pub. L. 102–237, § 910(1)][/us/pl/102/237/s910/1], inserted at end “Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.”
+    Subsec. (c)(1). [Pub. L. 102–237][/us/pl/102/237], § 910(1), inserted at end “Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.”
 
-    Subsec. (c)(2)(B). [Pub. L. 102–237, § 910(2)][/us/pl/102/237/s910/2], substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under [section 2020(e)(10) of this title][/us/usc/t7/s2020/e/10]” for “previous participation in such program”.
+    Subsec. (c)(2)(B). [Pub. L. 102–237][/us/pl/102/237], § 910(2), substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under [section 2020(e)(10) of this title][/us/usc/t7/s2020/e/10]” for “previous participation in such program”.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1730][/us/pl/101/624/s1730], inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
-    Subsec. (c)(3). [Pub. L. 101–624, § 1732][/us/pl/101/624/s1732], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of [section 2020(e) of this title][/us/usc/t7/s2020/e].”
+    Subsec. (c)(3). [Pub. L. 101–624][/us/pl/101/624], § 1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of [section 2020(e) of this title][/us/usc/t7/s2020/e].”
 
     1988—Subsec. (c). [Pub. L. 100–387][/us/pl/100/387] substituted “(2)” for “and (2)” and added cl. (3).
 
-    Subsec. (c)(1), (2). [Pub. L. 100–435, § 203(a)(1)][/us/pl/100/435/s203/a/1], (2), designated first sentence of subsec. (c) as par. (1) and designated second sentence of subsec. (c) as par. (2), and redesignated cls. (1) to (3) of par. (2) as cls. (A) to (C), respectively.
+    Subsec. (c)(1), (2). [Pub. L. 100–435][/us/pl/100/435], § 203(a)(1), (2), designated first sentence of subsec. (c) as par. (1) and designated second sentence of subsec. (c) as par. (2), and redesignated cls. (1) to (3) of par. (2) as cls. (A) to (C), respectively.
 
-    Subsec. (c)(3). [Pub. L. 100–435, § 203(a)(3)][/us/pl/100/435/s203/a/3], added par. (3).
+    Subsec. (c)(3). [Pub. L. 100–435][/us/pl/100/435], § 203(a)(3), added par. (3).
 
     1985—Subsec. (e). [Pub. L. 99–198][/us/pl/99/198] added subsec. (e).
 
     1982—Subsec. (a). [Pub. L. 97–253][/us/pl/97/253], §§ 143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
 
-    Subsec. (c). [Pub. L. 97–253, § 163][/us/pl/97/253/s163], inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
+    Subsec. (c). [Pub. L. 97–253][/us/pl/97/253], § 163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
 
-    Subsec. (d). [Pub. L. 97–253, § 164][/us/pl/97/253/s164], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–253][/us/pl/97/253], § 164, added subsec. (d).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 104(b)][/us/pl/97/35/s104/b], inserted “(d) and (e)” after “2014”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 104(b), inserted “(d) and (e)” after “2014”.
 
-    Subsec. (c). [Pub. L. 97–35, § 110][/us/pl/97/35/s110], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 110, added subsec. (c).
 
     1977—[Pub. L. 95–113][/us/pl/95/113] substituted revised provisions relating to the value of the coupon allotment for provisions covering approval of retail stores and wholesale food concerns which are now covered by [section 2018 of this title][/us/usc/t7/s2018].
 
@@ -285,7 +285,7 @@
 
     Amendment by [Pub. L. 100–435][/us/pl/100/435] effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see [section 701(b)(3)(A) of Pub. L. 100–435][/us/pl/100/435/s701/b/3/A], set out as a note under [section 2012 of this title][/us/usc/t7/s2012].
 
-[Pub. L. 100–387, title V, § 502(b)][/us/pl/100/387/s502/b], Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(JJ), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
+[Pub. L. 100–387, title V][/us/pl/100/387/tV], § 502(b), Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(JJ), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
 >     “(1) The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[Aug. 11, 1988\].
 
@@ -303,7 +303,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+    [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 ----------
 
@@ -317,86 +317,86 @@
 [/us/usc/t7/s2020/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F3
 [/us/usc/t7/s2020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/88/525/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs8
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F705
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F968
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F359
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtI
 [/us/stat/96/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F773
-[/us/pl/99/198/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1520
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1578
-[/us/pl/100/387/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs502%2Fa
+[/us/pl/100/387/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtV
 [/us/stat/102/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F960
-[/us/pl/100/435/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs203%2Fa
+[/us/pl/100/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtII
 [/us/stat/102/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1656
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3790
-[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIX
 [/us/stat/105/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1887
-[/us/pl/103/66/s13916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13916
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F674
-[/us/pl/103/296/s108/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Ff%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1486
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2327
-[/us/pl/107/171/s4112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4112%2Fa
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F310
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t7/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1305
-[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4107
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F5%2FA
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F5%2FB
-[/us/pl/110/246/s4115/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F5%2FB
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/107/171/s4112/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4112%2Fb%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2012/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fi%2F5
 [/us/usc/t7/s2012/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fi
-[/us/pl/107/171/s4112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4112%2Fa
-[/us/pl/104/193/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs826
-[/us/pl/104/193/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs827
-[/us/pl/104/193/s828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs828
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s2020/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F9
 [/us/usc/t7/s2020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe
 [/us/usc/t7/s2020/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F9
 [/us/usc/t7/s2020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe
-[/us/pl/104/193/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs829
-[/us/pl/104/193/s854/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs854%2Fc%2F1
-[/us/pl/104/193/s854/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs854%2Fc%2F1
-[/us/pl/104/193/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs830
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/102/237/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs909
-[/us/pl/102/237/s910/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs910%2F1
-[/us/pl/102/237/s910/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs910%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s2020/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F10
-[/us/pl/101/624/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1730
-[/us/pl/101/624/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1732
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s2020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe
 [/us/pl/100/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387
-[/us/pl/100/435/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs203%2Fa%2F1
-[/us/pl/100/435/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs203%2Fa%2F3
+[/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
+[/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
-[/us/pl/97/253/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs163
-[/us/pl/97/253/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs164
-[/us/pl/97/35/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs104%2Fb
-[/us/pl/97/35/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs110
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -426,11 +426,11 @@
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/pl/100/435/s701/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs701%2Fb%2F3%2FA
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/100/387/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs502%2Fb
+[/us/pl/100/387/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtV
 [/us/stat/102/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F960
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
@@ -444,7 +444,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs117
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
 
 

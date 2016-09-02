@@ -27,7 +27,7 @@
 
     (5) prevent conflicts.
 
-([July 10, 1954, ch. 469, § 2][/us/act/1954-07-10/ch469/s2], [68 Stat. 454][/us/stat/68/454]; [Pub. L. 89–808, § 2(A)][/us/pl/89/808/s2/A], Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526]; [Pub. L. 94–161, title II, § 201][/us/pl/94/161/s201], Dec. 20, 1975, [89 Stat. 850][/us/stat/89/850]; [Pub. L. 99–198, title XI, § 1111(a)][/us/pl/99/198/s1111/a], Dec. 23, 1985, [99 Stat. 1474][/us/stat/99/1474]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 107–171, title III, § 3001][/us/pl/107/171/s3001], May 13, 2002, [116 Stat. 280][/us/stat/116/280]; [Pub. L. 110–246, title III, § 3002][/us/pl/110/246/s3002], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], § 2, [68 Stat. 454][/us/stat/68/454]; [Pub. L. 89–808][/us/pl/89/808], § 2(A), Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526]; [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 201, Dec. 20, 1975, [89 Stat. 850][/us/stat/89/850]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1111(a), Dec. 23, 1985, [99 Stat. 1474][/us/stat/99/1474]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3001, May 13, 2002, [116 Stat. 280][/us/stat/116/280]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3002, June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
+[Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
 
 > “Any reference in any Federal, State, tribal, or local law (including regulations) to the ‘Agricultural Trade Development and Assistance Act of 1954’ shall be considered to be a reference to the ‘Food for Peace Act’ \[see Short Title note below\].”
 
@@ -55,53 +55,53 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XV, § 1513][/us/pl/101/624/s1513], Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662], provided that: 
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1513, Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662], provided that: 
 
 > “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–808, § 5][/us/pl/89/808/s5], Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538], provided that: 
+[Pub. L. 89–808][/us/pl/89/808], § 5, Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538], provided that: 
 
 > “This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under [section 1701 of this title][/us/usc/t7/s1701]\] shall take effect as of January 1, 1967, except that section 4 \[enacting [section 1707a of this title][/us/usc/t7/s1707a]\] shall take effect upon enactment \[Nov. 11, 1966\].”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–385, § 1(a)][/us/pl/105/385/s1/a], Nov. 13, 1998, [112 Stat. 3460][/us/stat/112/3460], provided that: 
+[Pub. L. 105–385][/us/pl/105/385], § 1(a), Nov. 13, 1998, [112 Stat. 3460][/us/stat/112/3460], provided that: 
 
 > “This Act \[amending sections 1736f–1 and 4001 of this title and [section 1241f of Title 46][/us/usc/t46/s1241f], Appendix, Shipping, enacting provisions set out as notes under this section, [section 1721 of this title][/us/usc/t7/s1721], and [section 2293 of Title 22][/us/usc/t22/s2293], Foreign Relations and Intercourse, and amending provisions set out as a note under [section 1736f–1 of this title][/us/usc/t7/s1736f–1]\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
 
-[Pub. L. 105–385, title II, § 211][/us/pl/105/385/s211], Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], provided that: 
+[Pub. L. 105–385, title II][/us/pl/105/385/tII], § 211, Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], provided that: 
 
 > “This subtitle \[subtitle B (§§ 211, 212) of title II of [Pub. L. 105–385][/us/pl/105/385], amending sections 1736f–1 and 4001 of this title and [section 1241f of Title 46][/us/usc/t46/s1241f], Appendix, Shipping, and amending provisions set out as a note under [section 1736f–1 of this title][/us/usc/t7/s1736f–1]\] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–532, § 1][/us/pl/102/532/s1], Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509], provided that: 
+[Pub. L. 102–532][/us/pl/102/532], § 1, Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509], provided that: 
 
 > “This Act \[enacting sections 1738o to 1738r, 3294, and 5404 of this title and amending [section 1738m of this title][/us/usc/t7/s1738m]\] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
 
-    [Pub. L. 102–532, § 2][/us/pl/102/532/s2], Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509], which enacted sections 1738o to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
+    [Pub. L. 102–532][/us/pl/102/532], § 2, Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509], which enacted sections 1738o to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XV, § 1501][/us/pl/101/624/s1501], Nov. 28, 1990, [104 Stat. 3632][/us/stat/104/3632], provided that: 
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1501, Nov. 28, 1990, [104 Stat. 3632][/us/stat/104/3632], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
 
-[Pub. L. 101–624, title XV, § 1511][/us/pl/101/624/s1511], Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633], provided that: 
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1511, Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1511–1517) of title XV of [Pub. L. 101–624][/us/pl/101/624], enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the ‘Mickey Leland Food for Peace Act’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–576, § 1][/us/pl/100/576/s1], Oct. 31, 1988, [102 Stat. 2897][/us/stat/102/2897], provided that: 
+[Pub. L. 100–576][/us/pl/100/576], § 1, Oct. 31, 1988, [102 Stat. 2897][/us/stat/102/2897], provided that: 
 
 > “This Act \[amending [section 1727 of this title][/us/usc/t7/s1727] and enacting provisions set out as a note under [section 1727 of this title][/us/usc/t7/s1727]\] may be cited as the ‘Bangladesh Disaster Assistance Act of 1988’.”
 
  __Short Title of 1987 Amendment__ 
 
-    [Pub. L. 100–202, § 16][/us/pl/100/202/s16], as added by [Pub. L. 100–418, title IV, § 4610(a)][/us/pl/100/418/s4610/a], Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of [Pub. L. 100–202][/us/pl/100/202], which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by [Pub. L. 104–127, title II, § 271(a)][/us/pl/104/127/s271/a], Apr. 4, 1996, [110 Stat. 976][/us/stat/110/976].
+    [Pub. L. 100–202][/us/pl/100/202], § 16, as added by [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4610(a), Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of [Pub. L. 100–202][/us/pl/100/202], which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 271(a), Apr. 4, 1996, [110 Stat. 976][/us/stat/110/976].
 
  __Short Title of 1980 Amendment__ 
 
@@ -109,19 +109,19 @@
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–808, § 1][/us/pl/89/808/s1], Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526], provided: 
+[Pub. L. 89–808][/us/pl/89/808], § 1, Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526], provided: 
 
 > “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under [section 1701 of this title][/us/usc/t7/s1701]\] may be cited as the ‘Food for Peace Act of 1966’.”
 
  __Short Title__ 
 
-[Act July 10, 1954, ch. 469, § 1][/us/act/1954-07-10/ch469/s1], [68 Stat. 454][/us/stat/68/454], as amended by act Nov. 28, 1990, [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 110–246, title III, § 3001(a)][/us/pl/110/246/s3001/a], June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that: 
+[Act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], § 1, [68 Stat. 454][/us/stat/68/454], as amended by act Nov. 28, 1990, [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(a), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Food for Peace Act’.”
 
  __Minimum Level of Food Assistance__ 
 
-[Pub. L. 100–418, title IV, § 4310][/us/pl/100/418/s4310], Aug. 23, 1988, [102 Stat. 1399][/us/stat/102/1399], as amended by [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(J), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
+[Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4310, Aug. 23, 1988, [102 Stat. 1399][/us/stat/102/1399], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(J), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
 
 >     “(a)  __Annual Minimum__  __.—__ 
 
@@ -141,21 +141,21 @@
 
  __Food Aid and Market Development__ 
 
-    [Pub. L. 100–418, title IV, § 4311][/us/pl/100/418/s4311], Aug. 23, 1988, [102 Stat. 1400][/us/stat/102/1400], which declared it to be the policy of the United States to use food aid and agriculturally-related foreign economic assistance programs more effectively to develop markets for United States agricultural commodities and products, and which directed the President (or, as appropriate, the Secretary of Agriculture) to encourage recipient countries under food assistance agreements entered into under any program administered by the Secretary to agree to give preference to United States food and food products in future food purchases, was repealed by [Pub. L. 101–624, title XV, § 1571][/us/pl/101/624/s1571], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702].
+    [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4311, Aug. 23, 1988, [102 Stat. 1400][/us/stat/102/1400], which declared it to be the policy of the United States to use food aid and agriculturally-related foreign economic assistance programs more effectively to develop markets for United States agricultural commodities and products, and which directed the President (or, as appropriate, the Secretary of Agriculture) to encourage recipient countries under food assistance agreements entered into under any program administered by the Secretary to agree to give preference to United States food and food products in future food purchases, was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1571, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702].
 
  __Agricultural Trade and Export Policy Commission Act__ 
 
-    [Pub. L. 97–98, title XII][/us/pl/97/98], subtitle C (§§ 1217–1224), as added [Pub. L. 98–412][/us/pl/98/412], Aug. 30, 1984, [98 Stat. 1576][/us/stat/98/1576], known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+    [Pub. L. 97–98, title XII][/us/pl/97/98/tXII], subtitle C (§§ 1217–1224), as added [Pub. L. 98–412][/us/pl/98/412], Aug. 30, 1984, [98 Stat. 1576][/us/stat/98/1576], known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
 
  __Use of Nonprice-Supported Commodities__ 
 
-[Pub. L. 95–113, title XII, § 1209][/us/pl/95/113/s1209], Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957], as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
+[Pub. L. 95–113, title XII][/us/pl/95/113/tXII], § 1209, Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
 
 > “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\].”
 
  __Special Task Force__ 
 
-    [Pub. L. 95–113, title XII, § 1210][/us/pl/95/113/s1210], Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957], required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), [7 U.S.C. 1961][/us/usc/t7/s1961] et seq.
+    [Pub. L. 95–113, title XII][/us/pl/95/113/tXII], § 1210, Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957], required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), [7 U.S.C. 1961][/us/usc/t7/s1961] et seq.
 
  __Executive Order No. 10560__ 
 
@@ -228,19 +228,19 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/act/1954-07-10/ch469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2Fs2
+[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
-[/us/pl/89/808/s2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FA
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1526
-[/us/pl/94/161/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs201
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F850
-[/us/pl/99/198/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fa
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1474
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3633
-[/us/pl/107/171/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3001
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F280
-[/us/pl/110/246/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3002
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
@@ -248,82 +248,82 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3662
-[/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1538
 [/us/usc/t7/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701
 [/us/usc/t7/s1707a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707a
-[/us/pl/105/385/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs1%2Fa
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
 [/us/stat/112/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3460
 [/us/usc/t46/s1241f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1241f
 [/us/usc/t7/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1721
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/105/385/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs211
+[/us/pl/105/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtII
 [/us/stat/112/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3465
 [/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
 [/us/usc/t46/s1241f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1241f
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/102/532/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs1
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3509
 [/us/usc/t7/s1738m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738m
-[/us/pl/102/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs2
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3509
-[/us/pl/101/624/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1501
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3632
-[/us/pl/101/624/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1511
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3633
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/576/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576%2Fs1
+[/us/pl/100/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576
 [/us/stat/102/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2897
 [/us/usc/t7/s1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727
 [/us/usc/t7/s1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727
-[/us/pl/100/202/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs16
-[/us/pl/100/418/s4610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4610%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1411
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/104/127/s271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs271%2Fa
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F976
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/pl/96/494/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs301
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/89/808/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs1
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1526
 [/us/usc/t7/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701
-[/us/act/1954-07-10/ch469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2Fs1
+[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3633
-[/us/pl/110/246/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/100/418/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4310
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1399
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
-[/us/pl/100/418/s4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4311
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1400
-[/us/pl/101/624/s1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1571
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
-[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXII
 [/us/pl/98/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F412
 [/us/stat/98/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1576
-[/us/pl/95/113/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1209
+[/us/pl/95/113/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXII
 [/us/stat/91/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F957
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
-[/us/pl/95/113/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1210
+[/us/pl/95/113/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXII
 [/us/stat/91/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F957
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691

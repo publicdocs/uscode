@@ -17,7 +17,7 @@
 
     The Secretary may not reschedule or reamortize a loan for a borrower under this chapter who has not requested consideration under [section 1981d(e) of this title][/us/usc/t7/s1981d/e] unless the borrower pays a portion, as determined by the Secretary, of the interest due on the loan.
 
-([Pub. L. 87–128, title III, § 372][/us/pl/87/128/s372], as added [Pub. L. 104–127, title VI, § 648(a)][/us/pl/104/127/s648/a], Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 372, as added [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 648(a), Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104].)
 
  __References in Text__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t7/s1981d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981d%2Fe
-[/us/pl/87/128/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs372
-[/us/pl/104/127/s648/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs648%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1104
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/104/127/s663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs663%2Fb

@@ -81,7 +81,7 @@
 
             A student who participates in an internship program shall not be considered a Federal employee, except for purposes of chapter 81 of title 5, and chapter 171 of title 28.
 
-([Pub. L. 104–127, title IX, § 922][/us/pl/104/127/s922], Apr. 4, 1996, [110 Stat. 1193][/us/stat/110/1193]; [Pub. L. 105–244, title I, § 102(a)(1)(A)][/us/pl/105/244/s102/a/1/A], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617].)
+([Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 922, Apr. 4, 1996, [110 Stat. 1193][/us/stat/110/1193]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(1)(A), Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617].)
 
  __Amendments__ 
 
@@ -100,9 +100,9 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/104/127/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs922
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1193
-[/us/pl/105/244/s102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F1%2FA
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1617
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

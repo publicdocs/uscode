@@ -17,7 +17,7 @@
 
     The Secretary shall establish for the Department, in the Office of the Secretary, an Office of Energy Policy and New Uses.
 
-([Pub. L. 103–354, title II, § 220][/us/pl/103/354/s220], as added [Pub. L. 105–185, title VI, § 602][/us/pl/105/185/s602], June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 220, as added [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 602, June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/103/354/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs220
-[/us/pl/105/185/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs602
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
 
 

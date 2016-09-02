@@ -59,7 +59,7 @@
 
         The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
 
-([Pub. L. 104–127, title I, § 191][/us/pl/104/127/s191], Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941]; [Pub. L. 106–224, title I, § 134][/us/pl/106/224/s134], June 20, 2000, [114 Stat. 388][/us/stat/114/388].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 191, Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941]; [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 134, June 20, 2000, [114 Stat. 388][/us/stat/114/388].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–224, § 134(1)][/us/pl/106/224/s134/1], substituted “300 counties, except that not more than 25” for “100 counties, except that not more than 6” in first sentence.
+    2000—Subsec. (b). [Pub. L. 106–224][/us/pl/106/224], § 134(1), substituted “300 counties, except that not more than 25” for “100 counties, except that not more than 6” in first sentence.
 
-    Subsec. (c)(2). [Pub. L. 106–224, § 134(2)][/us/pl/106/224/s134/2], inserted before semicolon at end “during any calendar year in which a county in which the farm of the producer is located is included in the pilot program”.
+    Subsec. (c)(2). [Pub. L. 106–224][/us/pl/106/224], § 134(2), inserted before semicolon at end “during any calendar year in which a county in which the farm of the producer is located is included in the pilot program”.
 
-    Subsec. (h). [Pub. L. 106–224, § 134(3)][/us/pl/106/224/s134/3], inserted before period at end of first sentence “, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003”.
+    Subsec. (h). [Pub. L. 106–224][/us/pl/106/224], § 134(3), inserted before period at end of first sentence “, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003”.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/104/127/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs191
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F941
-[/us/pl/106/224/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs134
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F388
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
@@ -102,9 +102,9 @@
 [/us/pl/104/127/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs191
 [/us/pl/104/127/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs191
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/106/224/s134/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs134%2F1
-[/us/pl/106/224/s134/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs134%2F2
-[/us/pl/106/224/s134/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs134%2F3
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/106/224/s171/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs171%2Fb%2F1%2FA
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501

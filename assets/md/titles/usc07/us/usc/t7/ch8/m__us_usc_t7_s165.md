@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s161a.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs165)
+[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s162...164a.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs165)
 
-## § 165. Repealed. [Pub. L. 88–448, title IV, § 402(a)(13)][/us/pl/88/448/s402/a/13], Aug. 19, 1964, [78 Stat. 493][/us/stat/78/493]
+## § 165. Repealed. [Pub. L. 88–448, title IV][/us/pl/88/448/tIV], § 402(a)(13), Aug. 19, 1964, [78 Stat. 493][/us/stat/78/493]
 
-    Section, [act Aug. 20, 1912, ch. 308, § 12][/us/act/1912-08-20/ch308/s12], [37 Stat. 319][/us/stat/37/319], related to appointment of members of a Federal Horticultural Board from among employees of Department of Agriculture.
+    Section, [act Aug. 20, 1912, ch. 308][/us/act/1912-08-20/ch308], § 12, [37 Stat. 319][/us/stat/37/319], related to appointment of members of a Federal Horticultural Board from among employees of Department of Agriculture.
 
  __Effective Date of Repeal__ 
 
@@ -23,14 +23,14 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s161a.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs165)
+[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s162...164a.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs165)
 
 ----------
 ----------
 
-[/us/pl/88/448/s402/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs402%2Fa%2F13
+[/us/pl/88/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2FtIV
 [/us/stat/78/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F493
-[/us/act/1912-08-20/ch308/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308%2Fs12
+[/us/act/1912-08-20/ch308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308
 [/us/stat/37/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F319
 [/us/pl/88/448/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs403
 

@@ -31,7 +31,7 @@
 
         The permit of any person to operate a facility to treat garbage in any State shall be automatically revoked, without action of the Secretary, upon the final effective date of the second conviction of such person pursuant to [section 3806 of this title][/us/usc/t7/s3806].
 
-([Pub. L. 96–468, § 5][/us/pl/96/468/s5], Oct. 17, 1980, [94 Stat. 2230][/us/stat/94/2230].)
+([Pub. L. 96–468][/us/pl/96/468], § 5, Oct. 17, 1980, [94 Stat. 2230][/us/stat/94/2230].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t7/s3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3808
 [/us/usc/t7/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3809
 [/us/usc/t7/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3806
-[/us/pl/96/468/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs5
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2230
 
 

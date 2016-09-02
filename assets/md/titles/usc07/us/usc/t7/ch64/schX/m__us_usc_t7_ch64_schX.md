@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIX/m__us_usc_t7_ch64_schIX.md) | [Next](./../../../../..//us/usc/t7/ch64/schX/m__us_usc_t7_s3310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch64%2FschX)
+[Previous](./../../../../..//us/usc/t7/ch64/schIX/m__us_usc_t7_s3301...3304.md) | [Next](./../../../../..//us/usc/t7/ch64/schX/m__us_usc_t7_s3310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch64%2FschX)
 
 ### SUBCHAPTER X—FUNDING AND MISCELLANEOUS PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIX/m__us_usc_t7_ch64_schIX.md) | [Next](./../../../../..//us/usc/t7/ch64/schX/m__us_usc_t7_s3310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch64%2FschX)
+[Previous](./../../../../..//us/usc/t7/ch64/schIX/m__us_usc_t7_s3301...3304.md) | [Next](./../../../../..//us/usc/t7/ch64/schX/m__us_usc_t7_s3310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch64%2FschX)
 
 ----------
 ----------

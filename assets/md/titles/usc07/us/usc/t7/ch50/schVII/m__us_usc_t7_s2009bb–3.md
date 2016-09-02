@@ -55,7 +55,7 @@
 
                 In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
-([Pub. L. 87–128, title III, § 383E][/us/pl/87/128/s383E], formerly § 383D, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 381][/us/stat/116/381]; renumbered § 383E and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (2)(C), (e), May 22, 2008, [122 Stat. 1178–1180][/us/stat/122/1178-1180], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (2)(C), (e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383E, formerly § 383D, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 381][/us/stat/116/381]; renumbered § 383E and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (2)(C), (e), May 22, 2008, [122 Stat. 1178–1180][/us/stat/122/1178-1180], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (2)(C), (e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
 
  __References in Text__ 
 
@@ -71,11 +71,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 6026(e)][/us/pl/110/246/s6026/e], struck out “, including local development districts,” after “region” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 6026(e), struck out “, including local development districts,” after “region” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 6026(c)(2)(C)(i)][/us/pl/110/246/s6026/c/2/C/i], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–5(b) of this title][/us/usc/t7/s2009bb–5/b].
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(C)(i), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–5(b) of this title][/us/usc/t7/s2009bb–5/b].
 
-    Subsec. (c)(2)(A). [Pub. L. 110–246, § 6026(c)(2)(C)(ii)][/us/pl/110/246/s6026/c/2/C/ii], made technical amendment to reference in original act which appears in introductory provisions as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
+    Subsec. (c)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(C)(ii), made technical amendment to reference in original act which appears in introductory provisions as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -90,12 +90,12 @@
 
 [/us/usc/t7/s2009bb–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%935%2Fb
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
-[/us/pl/87/128/s383E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383E
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F381
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178-1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178-1180
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F294
@@ -108,10 +108,10 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383E
 [/us/usc/t7/s2009bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%934
-[/us/pl/110/246/s6026/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fe
-[/us/pl/110/246/s6026/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FC%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%935%2Fb
-[/us/pl/110/246/s6026/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FC%2Fii
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

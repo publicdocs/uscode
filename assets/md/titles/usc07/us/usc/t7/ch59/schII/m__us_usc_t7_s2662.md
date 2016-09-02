@@ -37,7 +37,7 @@
 
         Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
 
-    (f) __, (g) Repealed.__  __[__  __Pub. L. 104–127, title VII, § 792(a)__  __][/us/pl/104/127/s792/a]__  __, title VIII, § 871,__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1152__  __][/us/stat/110/1152]__  __, 1175__ 
+    (f) __, (g) Repealed.__  __[__  __Pub. L. 104–127, title VII__  __][/us/pl/104/127/tVII]__  __, § 792(a), title VIII, § 871,__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1152__  __][/us/stat/110/1152]__  __, 1175__ 
 
     (h) __Rural development extension work__ 
 
@@ -169,7 +169,7 @@
 
             For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-([Pub. L. 92–419, title V, § 502][/us/pl/92/419/s502], as added [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1323][/us/stat/95/1323]; amended [Pub. L. 99–198, title XIV, § 1440(a)][/us/pl/99/198/s1440/a], Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560]; [Pub. L. 100–219, § 2][/us/pl/100/219/s2], Dec. 29, 1987, [101 Stat. 1456][/us/stat/101/1456]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, [104 Stat. 4032][/us/stat/104/4032], 4037, 4053–4055; [Pub. L. 102–237, title IV, § 403(a)][/us/pl/102/237/s403/a], title VII, § 704, Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863], 1881; [Pub. L. 104–127, title VII, § 792(a)][/us/pl/104/127/s792/a], title VIII, §§ 871, 886, Apr. 4, 1996, [110 Stat. 1152][/us/stat/110/1152], 1175, 1180; [Pub. L. 110–234, title VII, § 7511(c)(6)][/us/pl/110/234/s7511/c/6], May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029.)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 502, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1323][/us/stat/95/1323]; amended [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1440(a), Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560]; [Pub. L. 100–219][/us/pl/100/219], § 2, Dec. 29, 1987, [101 Stat. 1456][/us/stat/101/1456]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], §§ 2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, [104 Stat. 4032][/us/stat/104/4032], 4037, 4053–4055; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 403(a), title VII, § 704, Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863], 1881; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 792(a), title VIII, §§ 871, 886, Apr. 4, 1996, [110 Stat. 1152][/us/stat/110/1152], 1175, 1180; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(6), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029.)
 
  __References in Text__ 
 
@@ -183,67 +183,67 @@
 
  __Prior Provisions__ 
 
-    A prior section 2662, [Pub. L. 92–419, title V, § 502][/us/pl/92/419/s502], Aug. 30, 1972, [86 Stat. 671][/us/stat/86/671]; [Pub. L. 95–113, title XIV, § 1440][/us/pl/95/113/s1440], Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005], related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
+    A prior section 2662, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 502, Aug. 30, 1972, [86 Stat. 671][/us/stat/86/671]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1440, Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005], related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
 
  __Amendments__ 
 
-    2008—Subsec. (h)(1). [Pub. L. 110–246, § 7511(c)(6)(A)][/us/pl/110/246/s7511/c/6/A], substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
+    2008—Subsec. (h)(1). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
-    Subsec. (h)(4). [Pub. L. 110–246, § 7511(c)(6)(B)][/us/pl/110/246/s7511/c/6/B], substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
+    Subsec. (h)(4). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(6)(B), substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 886][/us/pl/104/127/s886], inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
 
-    Subsec. (f). [Pub. L. 104–127, § 792(a)][/us/pl/104/127/s792/a], struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
+    Subsec. (f). [Pub. L. 104–127][/us/pl/104/127], § 792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
 
-    Subsec. (g). [Pub. L. 104–127, § 871][/us/pl/104/127/s871], struck out subsec. (g), which authorized establishment of Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff to assist individuals in creating new businesses, or to assist existing businesses.
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 871, struck out subsec. (g), which authorized establishment of Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff to assist individuals in creating new businesses, or to assist existing businesses.
 
-    Subsec. (j). [Pub. L. 104–127, § 871][/us/pl/104/127/s871], struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
+    Subsec. (j). [Pub. L. 104–127][/us/pl/104/127], § 871, struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
 
-    1991—Subsec. (b). [Pub. L. 102–237, § 403(a)(2)(A)][/us/pl/102/237/s403/a/2/A], redesignated subsec. (b), relating to rural development extension work, as (h).
+    1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
 
-    Subsec. (f). [Pub. L. 102–237, § 403(a)(1)][/us/pl/102/237/s403/a/1], amended heading generally and in par. (2) substituted “until” for “during the period beginning on the date of the enactment of this Act and ending on”.
+    Subsec. (f). [Pub. L. 102–237][/us/pl/102/237], § 403(a)(1), amended heading generally and in par. (2) substituted “until” for “during the period beginning on the date of the enactment of this Act and ending on”.
 
-    Subsec. (h). [Pub. L. 102–237, § 403(a)(2)][/us/pl/102/237/s403/a/2], redesignated subsec. (b), relating to rural development extension work, as (h), redesignated former subsec. (h), relating to rural health and safety education programs, as (i) and former subsec. (h), relating to research grants, as (j), and moved such subsecs. to appear in proper order.
+    Subsec. (h). [Pub. L. 102–237][/us/pl/102/237], § 403(a)(2), redesignated subsec. (b), relating to rural development extension work, as (h), redesignated former subsec. (h), relating to rural health and safety education programs, as (i) and former subsec. (h), relating to research grants, as (j), and moved such subsecs. to appear in proper order.
 
-    Subsec. (i). [Pub. L. 102–237, § 403(a)(2)(B)][/us/pl/102/237/s403/a/2/B], (D), redesignated subsec. (h), relating to rural health and safety education programs, as (i) and moved such subsec. to appear in proper order.
+    Subsec. (i). [Pub. L. 102–237][/us/pl/102/237], § 403(a)(2)(B), (D), redesignated subsec. (h), relating to rural health and safety education programs, as (i) and moved such subsec. to appear in proper order.
 
-    Subsec. (i)(1)(C). [Pub. L. 102–237, § 704(a)][/us/pl/102/237/s704/a], added subpar. (C).
+    Subsec. (i)(1)(C). [Pub. L. 102–237][/us/pl/102/237], § 704(a), added subpar. (C).
 
-    Subsec. (i)(4). [Pub. L. 102–237, § 704(b)][/us/pl/102/237/s704/b], inserted “or entities described in paragraph (1)(C)” after “to States”.
+    Subsec. (i)(4). [Pub. L. 102–237][/us/pl/102/237], § 704(b), inserted “or entities described in paragraph (1)(C)” after “to States”.
 
-    Subsec. (j). [Pub. L. 102–237, § 403(a)(2)(C)][/us/pl/102/237/s403/a/2/C], (D), redesignated subsec. (h), relating to research grants, as (j) and moved such subsec. to appear in proper order.
+    Subsec. (j). [Pub. L. 102–237][/us/pl/102/237], § 403(a)(2)(C), (D), redesignated subsec. (h), relating to research grants, as (j) and moved such subsec. to appear in proper order.
 
-    1990—Subsec. (b). [Pub. L. 101–624, § 2346][/us/pl/101/624/s2346], added subsec. (b), relating to rural development extension work, following subsec. (g).
+    1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 2346, added subsec. (b), relating to rural development extension work, following subsec. (g).
 
-    Subsec. (f). [Pub. L. 101–624, § 2389(c)(1)][/us/pl/101/624/s2389/c/1], substituted “Competitive” for “Special” in heading.
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 2389(c)(1), substituted “Competitive” for “Special” in heading.
 
-    Subsec. (f)(1)(A). [Pub. L. 101–624, § 2389(b)(1)][/us/pl/101/624/s2389/b/1], substituted “competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational” for “special grants for programs to develop educational, retraining, and counseling”.
+    Subsec. (f)(1)(A). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(1), substituted “competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational” for “special grants for programs to develop educational, retraining, and counseling”.
 
-    Subsec. (f)(1)(B). [Pub. L. 101–624, § 2389(b)(3)][/us/pl/101/624/s2389/b/3], (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: “Such programs shall provide the following services:
+    Subsec. (f)(1)(B). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(3), (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: “Such programs shall provide the following services:
 
     “(i) Clinical outreach counseling and crisis management assistance through appropriate State officials.”
 
-    Subsec. (f)(1)(C). [Pub. L. 101–624, § 2389(b)(2)][/us/pl/101/624/s2389/b/2], (4), added subpar. (C) and redesignated former subpar. (C) as (E).
+    Subsec. (f)(1)(C). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(2), (4), added subpar. (C) and redesignated former subpar. (C) as (E).
 
-    Subsec. (f)(1)(D). [Pub. L. 101–624, § 2389(b)(2)][/us/pl/101/624/s2389/b/2], (4), added heading and introductory provisions of subpar. (D) and redesignated former subpar. (D) as (F).
+    Subsec. (f)(1)(D). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(2), (4), added heading and introductory provisions of subpar. (D) and redesignated former subpar. (D) as (F).
 
-    Subsec. (f)(1)(D)(i) to (vii). [Pub. L. 101–624, § 2389(b)(3)(B)][/us/pl/101/624/s2389/b/3/B], redesignated former subpar. (B)(ii) to (viii) as subpar. (D)(i) to (vii).
+    Subsec. (f)(1)(D)(i) to (vii). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(3)(B), redesignated former subpar. (B)(ii) to (viii) as subpar. (D)(i) to (vii).
 
-    Subsec. (f)(1)(D)(viii). [Pub. L. 101–624, § 2389(b)(5)][/us/pl/101/624/s2389/b/5], added cl. (viii).
+    Subsec. (f)(1)(D)(viii). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(5), added cl. (viii).
 
-    Subsec. (f)(1)(E). [Pub. L. 101–624, § 2389(b)(2)][/us/pl/101/624/s2389/b/2], redesignated former subpar. (C) as (E).
+    Subsec. (f)(1)(E). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(2), redesignated former subpar. (C) as (E).
 
-    Subsec. (f)(1)(F). [Pub. L. 101–624, § 2389(b)(6)][/us/pl/101/624/s2389/b/6], substituted “shall work with the appropriate State office of rural health, State department or agency of mental health, and other” for “is encouraged to work with” and “an annual comprehensive plan” for “a comprehensive plan”, struck out “special” before “grant funds”, and inserted at end “For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B).”
+    Subsec. (f)(1)(F). [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(6), substituted “shall work with the appropriate State office of rural health, State department or agency of mental health, and other” for “is encouraged to work with” and “an annual comprehensive plan” for “a comprehensive plan”, struck out “special” before “grant funds”, and inserted at end “For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B).”
 
-    [Pub. L. 101–624, § 2389(b)(2)][/us/pl/101/624/s2389/b/2], redesignated former subpar. (D) as (F).
+    [Pub. L. 101–624][/us/pl/101/624], § 2389(b)(2), redesignated former subpar. (D) as (F).
 
-    Subsec. (f)(2). [Pub. L. 101–624, § 2389(a)][/us/pl/101/624/s2389/a], inserted “to eligible applicants in any State applying for such grants” after “under paragraph (1)”, and substituted “1995” for “1990”.
+    Subsec. (f)(2). [Pub. L. 101–624][/us/pl/101/624], § 2389(a), inserted “to eligible applicants in any State applying for such grants” after “under paragraph (1)”, and substituted “1995” for “1990”.
 
-    Subsec. (g). [Pub. L. 101–624, § 2346][/us/pl/101/624/s2346], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 2346, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 101–624, § 2349][/us/pl/101/624/s2349], added subsec. (h) relating to research grants.
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 2349, added subsec. (h) relating to research grants.
 
-    [Pub. L. 101–624, § 2390(b)(1)][/us/pl/101/624/s2390/b/1], added subsec. (h) relating to rural health and safety education programs.
+    [Pub. L. 101–624][/us/pl/101/624], § 2390(b)(1), added subsec. (h) relating to rural health and safety education programs.
 
     1987—Subsec. (f). [Pub. L. 100–219][/us/pl/100/219] amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -279,11 +279,11 @@
 
  __Effect of Amendments on Current Grant Recipients__ 
 
-    [Pub. L. 101–624, title XXIII, § 2389(d)][/us/pl/101/624/s2389/d], Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], provided that 8 States receiving grants under [7 U.S.C. 2662(f)][/us/usc/t7/s2662/f] during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by [Pub. L. 104–127, title VII, § 792(b)(1)][/us/pl/104/127/s792/b/1], Apr. 4, 1996, [100 Stat. 1152][/us/stat/100/1152].
+    [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2389(d), Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], provided that 8 States receiving grants under [7 U.S.C. 2662(f)][/us/usc/t7/s2662/f] during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 792(b)(1), Apr. 4, 1996, [100 Stat. 1152][/us/stat/100/1152].
 
  __Rural Health Infrastructure Improvement__ 
 
-    [Pub. L. 101–624, title XXIII, § 2391][/us/pl/101/624/s2391], Nov. 28, 1990, [104 Stat. 4057][/us/stat/104/4057], provided for award of grant for establishment of project to demonstrate model approach to improving rural health infrastructure, which was to carry out systematic, community-based rural health needs assessments, identify and coordinate available health services resources, improve community infrastructure through health education and information and leadership development and training, and develop community generated health improvement strategies, and further provided for project implementation and limitations on authorization of appropriations, prior to repeal by [Pub. L. 104–127, title VII, § 709][/us/pl/104/127/s709], Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112].
+    [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2391, Nov. 28, 1990, [104 Stat. 4057][/us/stat/104/4057], provided for award of grant for establishment of project to demonstrate model approach to improving rural health infrastructure, which was to carry out systematic, community-based rural health needs assessments, identify and coordinate available health services resources, improve community infrastructure through health education and information and leadership development and training, and develop community generated health improvement strategies, and further provided for project implementation and limitations on authorization of appropriations, prior to repeal by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 709, Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112].
 
 ----------
 
@@ -292,26 +292,26 @@
 ----------
 ----------
 
-[/us/pl/104/127/s792/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1152
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/92/419/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs502
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1323
-[/us/pl/99/198/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1440%2Fa
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1560
-[/us/pl/100/219/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F219%2Fs2
+[/us/pl/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F219
 [/us/stat/101/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1456
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4032
-[/us/pl/102/237/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127/s792/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1152
-[/us/pl/110/234/s7511/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F6
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1267
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
@@ -323,40 +323,40 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/92/419/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs502
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F671
-[/us/pl/95/113/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1440
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1005
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
-[/us/pl/110/246/s7511/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F6%2FA
-[/us/pl/110/246/s7511/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F6%2FB
-[/us/pl/104/127/s886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs886
-[/us/pl/104/127/s792/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fa
-[/us/pl/104/127/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs871
-[/us/pl/104/127/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs871
-[/us/pl/102/237/s403/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa%2F2%2FA
-[/us/pl/102/237/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa%2F1
-[/us/pl/102/237/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa%2F2
-[/us/pl/102/237/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa%2F2%2FB
-[/us/pl/102/237/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs704%2Fa
-[/us/pl/102/237/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs704%2Fb
-[/us/pl/102/237/s403/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fa%2F2%2FC
-[/us/pl/101/624/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2346
-[/us/pl/101/624/s2389/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fc%2F1
-[/us/pl/101/624/s2389/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F1
-[/us/pl/101/624/s2389/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F3
-[/us/pl/101/624/s2389/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F2
-[/us/pl/101/624/s2389/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F2
-[/us/pl/101/624/s2389/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F3%2FB
-[/us/pl/101/624/s2389/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F5
-[/us/pl/101/624/s2389/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F2
-[/us/pl/101/624/s2389/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F6
-[/us/pl/101/624/s2389/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fb%2F2
-[/us/pl/101/624/s2389/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fa
-[/us/pl/101/624/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2346
-[/us/pl/101/624/s2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2349
-[/us/pl/101/624/s2390/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2390%2Fb%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F219
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -369,14 +369,14 @@
 [/us/usc/t7/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/101/624/s2389/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fd
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4055
 [/us/usc/t7/s2662/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Ff
-[/us/pl/104/127/s792/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fb%2F1
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/100/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1152
-[/us/pl/101/624/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2391
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4057
-[/us/pl/104/127/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs709
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1112
 
 

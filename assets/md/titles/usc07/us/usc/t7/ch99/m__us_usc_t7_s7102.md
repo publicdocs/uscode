@@ -153,7 +153,7 @@
 
         The term “wool products” means products produced, in whole or in part, from wool and products containing wool fiber.
 
-([Pub. L. 103–407, § 3][/us/pl/103/407/s3], Oct. 22, 1994, [108 Stat. 4211][/us/stat/108/4211].)
+([Pub. L. 103–407][/us/pl/103/407], § 3, Oct. 22, 1994, [108 Stat. 4211][/us/stat/108/4211].)
 
  __Transfer of Functions__ 
 
@@ -169,7 +169,7 @@
 [/us/usc/t7/s7104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7104%2Fb
 [/us/usc/t7/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7104%2Fg
 [/us/usc/t7/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7103
-[/us/pl/103/407/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs3
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

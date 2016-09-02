@@ -45,7 +45,7 @@
 
         A final determination issued by the Director shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
 
-([Pub. L. 103–354, title II, § 278][/us/pl/103/354/s278], Oct. 13, 1994, [108 Stat. 3232][/us/stat/108/3232]; [Pub. L. 107–171, title I, § 1613(j)(2)][/us/pl/107/171/s1613/j/2], May 13, 2002, [116 Stat. 221][/us/stat/116/221].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 278, Oct. 13, 1994, [108 Stat. 3232][/us/stat/108/3232]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1613(j)(2), May 13, 2002, [116 Stat. 221][/us/stat/116/221].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t7/s6997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6997
 [/us/usc/t7/s6997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6997
 [/us/usc/t7/s7996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7996
-[/us/pl/103/354/s278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs278
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3232
-[/us/pl/107/171/s1613/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1613%2Fj%2F2
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F221
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s7996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7996

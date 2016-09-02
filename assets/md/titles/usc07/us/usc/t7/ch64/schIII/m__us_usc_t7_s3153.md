@@ -39,13 +39,13 @@
 
         The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.
 
-([Pub. L. 95–113, title XIV, § 1418][/us/pl/95/113/s1418], Sept. 29, 1977, [91 Stat. 997][/us/stat/91/997]; [Pub. L. 97–98, title XIV, § 1420(a)][/us/pl/97/98/s1420/a], Dec. 22, 1981, [95 Stat. 1306][/us/stat/95/1306].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1418, Sept. 29, 1977, [91 Stat. 997][/us/stat/91/997]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1420(a), Dec. 22, 1981, [95 Stat. 1306][/us/stat/95/1306].)
 
  __Amendments__ 
 
-    1981—Subsec. (a). [Pub. L. 97–98, § 1420(a)(2)][/us/pl/97/98/s1420/a/2], substituted “Science Award” for “Research Award”, and “subsection (d)” for “subsection (c)”.
+    1981—Subsec. (a). [Pub. L. 97–98][/us/pl/97/98], § 1420(a)(2), substituted “Science Award” for “Research Award”, and “subsection (d)” for “subsection (c)”.
 
-    Subsecs. (c) to (e). [Pub. L. 97–98, § 1420(a)(3)][/us/pl/97/98/s1420/a/3], (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 97–98][/us/pl/97/98], § 1420(a)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1418
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F997
-[/us/pl/97/98/s1420/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1420%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1306
-[/us/pl/97/98/s1420/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1420%2Fa%2F2
-[/us/pl/97/98/s1420/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1420%2Fa%2F3
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

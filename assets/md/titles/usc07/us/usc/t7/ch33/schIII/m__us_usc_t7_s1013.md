@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 34, [50 Stat. 526][/us/stat/50/526], related to appropriations and expired by its own limitations at end of fiscal year 1940.
+    Section, [act July 22, 1937, ch. 517, title III][/us/act/1937-07-22/ch517/tIII], § 34, [50 Stat. 526][/us/stat/50/526], related to appropriations and expired by its own limitations at end of fiscal year 1940.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
+[/us/act/1937-07-22/ch517/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517%2FtIII
 [/us/stat/50/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F526
 
 

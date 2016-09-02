@@ -29,7 +29,7 @@
 
         Subsection (a)(1) shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 401, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(1)][/us/pl/87/703/s201/1], Sept. 27, 1962, [76 Stat. 610][/us/stat/76/610]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–88, title II, § 212][/us/pl/95/88/s212], Aug. 3, 1977, [91 Stat. 551][/us/stat/91/551]; [Pub. L. 95–113, title XII, § 1204][/us/pl/95/113/s1204], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–53, title II, § 208][/us/pl/96/53/s208], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3645][/us/stat/104/3645]; [Pub. L. 104–127, title II, § 212][/us/pl/104/127/s212], Apr. 4, 1996, [110 Stat. 955][/us/stat/110/955]; [Pub. L. 110–246, title III, § 3014(a)][/us/pl/110/246/s3014/a], June 18, 2008, [122 Stat. 1826][/us/stat/122/1826].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 401, as added [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 14, Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II][/us/pl/87/703/tII], § 201(1), Sept. 27, 1962, [76 Stat. 610][/us/stat/76/610]; [Pub. L. 89–808][/us/pl/89/808], § 2(E), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 212, Aug. 3, 1977, [91 Stat. 551][/us/stat/91/551]; [Pub. L. 95–113, title XII][/us/pl/95/113/tXII], § 1204, Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–53, title II][/us/pl/96/53/tII], § 208, Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3645][/us/stat/104/3645]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 212, Apr. 4, 1996, [110 Stat. 955][/us/stat/110/955]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3014(a), June 18, 2008, [122 Stat. 1826][/us/stat/122/1826].)
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Export Sales of Dairy Products__ 
 
-[Pub. L. 99–198, title XI, § 1163][/us/pl/99/198/s1163], Dec. 23, 1985, [99 Stat. 1499][/us/stat/99/1499], as amended by [Pub. L. 100–435, title I, § 107][/us/pl/100/435/s107], Sept. 19, 1988, [102 Stat. 1651][/us/stat/102/1651]; [Pub. L. 101–624, title I, § 111][/us/pl/101/624/s111], Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 103–465, title IV, § 411(c)][/us/pl/103/465/s411/c], Dec. 8, 1994, [108 Stat. 4963][/us/stat/108/4963], provided that:
+[Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1163, Dec. 23, 1985, [99 Stat. 1499][/us/stat/99/1499], as amended by [Pub. L. 100–435, title I][/us/pl/100/435/tI], § 107, Sept. 19, 1988, [102 Stat. 1651][/us/stat/102/1651]; [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 111, Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 411(c), Dec. 8, 1994, [108 Stat. 4963][/us/stat/108/4963], provided that:
 
 >     “(a) In each fiscal year, the Secretary of Agriculture may sell dairy products for export, at such prices as the Secretary determines appropriate, in a quantity and allocated as determined by the Secretary, consistent with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, if the disposition of the commodities will not interfere with the usual marketings of the United States nor disrupt world prices of agricultural commodities and patterns of commercial trade.
 
@@ -96,23 +96,23 @@
 
 [/us/usc/t7/s1727b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727b
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/86/341/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs14
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F610
-[/us/pl/87/703/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs201%2F1
+[/us/pl/87/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtII
 [/us/stat/76/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F610
-[/us/pl/89/808/s2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FE
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
-[/us/pl/95/88/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs212
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F551
-[/us/pl/95/113/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1204
+[/us/pl/95/113/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXII
 [/us/stat/91/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F956
-[/us/pl/96/53/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs208
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F370
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3645
-[/us/pl/104/127/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs212
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F955
-[/us/pl/110/246/s3014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3014%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1826
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -141,13 +141,13 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/99/198/s1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1163
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1499
-[/us/pl/100/435/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs107
+[/us/pl/100/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtI
 [/us/stat/102/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1651
-[/us/pl/101/624/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs111
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3380
-[/us/pl/103/465/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs411%2Fc
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4963
 [/us/pl/99/198/s1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1163
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

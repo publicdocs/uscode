@@ -17,7 +17,7 @@
 
     An error as to the naming of a breeder in the application, without deceptive intent, shall not affect validity of plant variety protection and may be corrected at any time by the Secretary in accordance with regulations established by the Secretary or upon order of a federal court before which the matter is called in question. Upon such correction the Secretary shall issue a certificate accordingly. Such correction shall not deprive any person of any rights the person otherwise would have had.
 
-([Pub. L. 91–577, title II, § 86][/us/pl/91/577/s86], Dec. 24, 1970, [84 Stat. 1552][/us/stat/84/1552]; [Pub. L. 103–349, § 13(n)][/us/pl/103/349/s13/n], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 86, Dec. 24, 1970, [84 Stat. 1552][/us/stat/84/1552]; [Pub. L. 103–349][/us/pl/103/349], § 13(n), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs86
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1552
-[/us/pl/103/349/s13/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fn
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

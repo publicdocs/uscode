@@ -27,7 +27,7 @@
 
         The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this subchapter.
 
-([Pub. L. 98–180, title I, § 116][/us/pl/98/180/s116], Nov. 29, 1983, [97 Stat. 1141][/us/stat/97/1141]; [Pub. L. 107–171, title I, § 1505(f)][/us/pl/107/171/s1505/f], May 13, 2002, [116 Stat. 209][/us/stat/116/209].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 116, Nov. 29, 1983, [97 Stat. 1141][/us/stat/97/1141]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1505(f), May 13, 2002, [116 Stat. 209][/us/stat/116/209].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/98/180/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs116
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1141
-[/us/pl/107/171/s1505/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Ff
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F209
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

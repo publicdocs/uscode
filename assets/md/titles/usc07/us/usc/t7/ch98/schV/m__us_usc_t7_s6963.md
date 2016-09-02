@@ -37,7 +37,7 @@
 
         Not later than March 31, 1995, the Secretary shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that describes actions taken to carry out subsection (a), identifies any disparities in regional funding patterns, and contains the rationale behind the disparities.
 
-([Pub. L. 103–354, title II, § 247][/us/pl/103/354/s247], Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 247, Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs247
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3225
 
 

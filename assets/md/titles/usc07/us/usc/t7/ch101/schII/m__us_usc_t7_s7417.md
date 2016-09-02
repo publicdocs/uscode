@@ -95,7 +95,7 @@
 
             Not later than 30 days before a referendum is conducted under this section with respect to an order, the Secretary shall notify the agricultural commodity industry involved, in such manner as determined by the Secretary, of the period during which voting in the referendum will occur. The notice shall explain any registration and voting procedures established under this subsection.
 
-([Pub. L. 104–127, title V, § 518][/us/pl/104/127/s518], Apr. 4, 1996, [110 Stat. 1043][/us/stat/110/1043].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 518, Apr. 4, 1996, [110 Stat. 1043][/us/stat/110/1043].)
 
 ----------
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t7/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7416
 [/us/usc/t7/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7416
-[/us/pl/104/127/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs518
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1043
 
 

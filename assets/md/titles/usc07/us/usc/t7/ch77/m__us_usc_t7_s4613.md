@@ -87,7 +87,7 @@
 
         If the amended order becomes effective, any referendum otherwise required to be conducted under [section 4612(c) of this title][/us/usc/t7/s4612/c] shall not be held before the date that is 5 years after the date of the referendum conducted under this section.
 
-([Pub. L. 98–590, § 14][/us/pl/98/590/s14], as added [Pub. L. 105–185, title VI, § 605(m)][/us/pl/105/185/s605/m], June 23, 1998, [112 Stat. 602][/us/stat/112/602].)
+([Pub. L. 98–590][/us/pl/98/590], § 14, as added [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(m), June 23, 1998, [112 Stat. 602][/us/stat/112/602].)
 
  __References in Text__ 
 
@@ -110,8 +110,8 @@
 [/us/usc/t7/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4603
 [/us/usc/t7/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4611
 [/us/usc/t7/s4612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4612%2Fc
-[/us/pl/98/590/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs14
-[/us/pl/105/185/s605/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fm
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F602
 [/us/pl/105/185/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605
 [/us/stat/112/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F523

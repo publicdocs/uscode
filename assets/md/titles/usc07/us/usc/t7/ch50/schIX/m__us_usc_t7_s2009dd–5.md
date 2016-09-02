@@ -189,7 +189,7 @@
 
             Paragraph (1) shall not apply to the provision of rural development assistance under any program relating to basic health, safety, or infrastructure, including broadband deployment or minimum environmental needs.
 
-([Pub. L. 87–128, title III, § 385F][/us/pl/87/128/s385F], as added [Pub. L. 107–171, title VI, § 6030][/us/pl/107/171/s6030], May 13, 2002, [116 Stat. 407][/us/stat/116/407]; amended [Pub. L. 110–234, title VI, § 6028][/us/pl/110/234/s6028], May 22, 2008, [122 Stat. 1190][/us/stat/122/1190]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1951.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 385F, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6030, May 13, 2002, [116 Stat. 407][/us/stat/116/407]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6028, May 22, 2008, [122 Stat. 1190][/us/stat/122/1190]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1951.)
 
  __Codification__ 
 
@@ -197,7 +197,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 6028][/us/pl/110/246/s6028], amended section generally. Prior to amendment, section provided regional strategic investment planning grants to Regional Boards.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 6028, amended section generally. Prior to amendment, section provided regional strategic investment planning grants to Regional Boards.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -212,18 +212,18 @@
 
 [/us/usc/t7/s2009dd–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009dd%E2%80%934
 [/us/usc/t7/s2009dd–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009dd%E2%80%933%2Fa
-[/us/pl/87/128/s385F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs385F
-[/us/pl/107/171/s6030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6030
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F407
-[/us/pl/110/234/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6028
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1190
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6028
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such regulations and to require the maintenance of such records as he deems necessary to carry out the provisions of this chapter.
 
-([Pub. L. 96–468, § 11][/us/pl/96/468/s11], formerly § 12, Oct. 17, 1980, [94 Stat. 2233][/us/stat/94/2233]; renumbered § 11, [Pub. L. 104–127, title IX, § 914(b)(2)][/us/pl/104/127/s914/b/2], Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
+([Pub. L. 96–468][/us/pl/96/468], § 11, formerly § 12, Oct. 17, 1980, [94 Stat. 2233][/us/stat/94/2233]; renumbered § 11, [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 914(b)(2), Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/468/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs11
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2233
-[/us/pl/104/127/s914/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs914%2Fb%2F2
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1186
 [/us/pl/96/468/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs11
 [/us/usc/t7/s3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3810

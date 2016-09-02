@@ -17,7 +17,7 @@
 
     In construing and enforcing the provisions of this chapter, the act, omission, or failure of any agent, officer, or other person acting for or employed by any commission merchant, dealer, or broker, within the scope of his employment or office, shall in every case be deemed the act, omission, or failure of such commission merchant, dealer, or broker as that of such agent, officer, or other person.
 
-([June 10, 1930, ch. 436, § 16][/us/act/1930-06-10/ch436/s16], [46 Stat. 538][/us/stat/46/538].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 16, [46 Stat. 538][/us/stat/46/538].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch436/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs16
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F538
 [/us/usc/t7/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs566
 

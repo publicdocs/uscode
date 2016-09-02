@@ -17,7 +17,7 @@
 
     The Secretary may declare a protected variety open to use on a basis of equitable remuneration to the owner, not less than a reasonable royalty, when the Secretary determines that such declaration is necessary in order to insure an adequate supply of fiber, food, or feed in this country and that the owner is unwilling or unable to supply the public needs for the variety at a price which may reasonably be deemed fair. Such declaration may be, with or without limitation, with or without designation of what the remuneration is to be; and shall be subject to review as under section 2461 or 2462 of this title (any finding that the price is not reasonable being reviewable), and shall remain in effect not more than two years. In the event litigation is required to collect such remuneration, a higher rate may be allowed by the court.
 
-([Pub. L. 91–577, title II, § 44][/us/pl/91/577/s44], Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547]; [Pub. L. 103–349, § 13(f)][/us/pl/103/349/s13/f], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 44, Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547]; [Pub. L. 103–349][/us/pl/103/349], § 13(f), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs44
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1547
-[/us/pl/103/349/s13/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Ff
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

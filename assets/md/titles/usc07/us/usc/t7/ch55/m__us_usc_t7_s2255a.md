@@ -17,7 +17,7 @@
 
     On and after October 21, 1993, appropriations available to the Department of Agriculture can be used to provide financial assistance to the organizers of national and international conferences, if such conferences are in support of agency programs.
 
-([Pub. L. 103–111, title I][/us/pl/103/111], Oct. 21, 1993, [107 Stat. 1050][/us/stat/107/1050].)
+([Pub. L. 103–111, title I][/us/pl/103/111/tI], Oct. 21, 1993, [107 Stat. 1050][/us/stat/107/1050].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111
+[/us/pl/103/111/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2FtI
 [/us/stat/107/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1050
 
 

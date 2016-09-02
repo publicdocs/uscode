@@ -17,7 +17,7 @@
 
     Any unexpended balances of appropriations for the current fiscal year, and any subsequent appropriations, made to carry out the Acts referred to in [section 499c(b) of this title][/us/usc/t7/s499c/b], may be deposited in the Perishable Agricultural Commodities Act fund.
 
-([June 10, 1930, ch. 436, § 19][/us/act/1930-06-10/ch436/s19], as added [June 15, 1950, ch. 254, § 4][/us/act/1950-06-15/ch254/s4], [64 Stat. 218][/us/stat/64/218].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 19, as added [June 15, 1950, ch. 254][/us/act/1950-06-15/ch254], § 4, [64 Stat. 218][/us/stat/64/218].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t7/s499c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499c%2Fb
-[/us/act/1930-06-10/ch436/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs19
-[/us/act/1950-06-15/ch254/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254%2Fs4
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
+[/us/act/1950-06-15/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254
 [/us/stat/64/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F218
 [/us/usc/t7/s499c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499c%2Fb
 [/us/act/1927-03-03/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch309

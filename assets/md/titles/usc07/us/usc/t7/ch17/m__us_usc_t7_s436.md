@@ -17,7 +17,7 @@
 
     In the interests of economy and efficiency, the records, property, real and personal, and civilian personnel of the Remount Service of the Quartermaster Corps, Department of the Army, are transferred to the Department of Agriculture, effective July 1, 1948. Prior to that date, the Secretary of the Army and the Secretary of Agriculture shall enter into a written agreement on the property and the personnel covered by this transfer.
 
-([Apr. 21, 1948, ch. 224, § 1][/us/act/1948-04-21/ch224/s1], [62 Stat. 197][/us/stat/62/197].)
+([Apr. 21, 1948, ch. 224][/us/act/1948-04-21/ch224], § 1, [62 Stat. 197][/us/stat/62/197].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-04-21/ch224/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-21%2Fch224%2Fs1
+[/us/act/1948-04-21/ch224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-21%2Fch224
 [/us/stat/62/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F197
 
 

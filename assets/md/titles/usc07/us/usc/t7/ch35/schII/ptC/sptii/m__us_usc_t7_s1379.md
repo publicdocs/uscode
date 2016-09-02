@@ -29,7 +29,7 @@
 
     (6) neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379, as added [Pub. L. 89–321, title VII, § 707][/us/pl/89/321/s707], Nov. 3, 1965, [79 Stat. 1211][/us/stat/79/1211]; amended [Pub. L. 91–524, title IV, § 404(4)][/us/pl/91/524/s404/4], title VI, § 605(2), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], 1378; [Pub. L. 98–180, title II, § 212(b)][/us/pl/98/180/s212/b], Nov. 29, 1983, [97 Stat. 1149][/us/stat/97/1149]; [Pub. L. 101–577, § 2(c)][/us/pl/101/577/s2/c], Nov. 15, 1990, [104 Stat. 2856][/us/stat/104/2856]; [Pub. L. 102–237, title I, § 116(3)][/us/pl/102/237/s116/3], Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 106–78, title VIII, § 803(c)(6)(C)][/us/pl/106/78/s803/c/6/C], Oct. 22, 1999, [113 Stat. 1178][/us/stat/113/1178]; [Pub. L. 108–357, title VI, § 611(m)][/us/pl/108/357/s611/m], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379, as added [Pub. L. 89–321, title VII][/us/pl/89/321/tVII], § 707, Nov. 3, 1965, [79 Stat. 1211][/us/stat/79/1211]; amended [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(4), title VI, § 605(2), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], 1378; [Pub. L. 98–180, title II][/us/pl/98/180/tII], § 212(b), Nov. 29, 1983, [97 Stat. 1149][/us/stat/97/1149]; [Pub. L. 101–577][/us/pl/101/577], § 2(c), Nov. 15, 1990, [104 Stat. 2856][/us/stat/104/2856]; [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 116(3), Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 106–78, title VIII][/us/pl/106/78/tVIII], § 803(c)(6)(C), Oct. 22, 1999, [113 Stat. 1178][/us/stat/113/1178]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(m), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective and Termination Dates of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 404][/us/pl/91/524/s404], title VI, § 605, Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], 1378, as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], (22), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404, title VI, § 605, Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], 1378, as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), (22), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
  __Savings Provision__ 
 
@@ -65,19 +65,19 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/89/321/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs707
+[/us/pl/89/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVII
 [/us/stat/79/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1211
-[/us/pl/91/524/s404/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F4
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/98/180/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs212%2Fb
+[/us/pl/98/180/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtII
 [/us/stat/97/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1149
-[/us/pl/101/577/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F577%2Fs2%2Fc
+[/us/pl/101/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F577
 [/us/stat/104/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2856
-[/us/pl/102/237/s116/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs116%2F3
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1841
-[/us/pl/106/78/s803/c/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs803%2Fc%2F6%2FC
+[/us/pl/106/78/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVIII
 [/us/stat/113/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1178
-[/us/pl/108/357/s611/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fm
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
@@ -88,9 +88,9 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518
-[/us/pl/91/524/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 2, 1931, ch. 370, § 2][/us/act/1931-03-02/ch370/s2], [46 Stat. 1469][/us/stat/46/1469], authorized $1,000,000 per year for fiscal years 1932 to 1941, inclusive.
+    Section, [act Mar. 2, 1931, ch. 370][/us/act/1931-03-02/ch370], § 2, [46 Stat. 1469][/us/stat/46/1469], authorized $1,000,000 per year for fiscal years 1932 to 1941, inclusive.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-03-02/ch370/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370%2Fs2
+[/us/act/1931-03-02/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370
 [/us/stat/46/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1469
 
 

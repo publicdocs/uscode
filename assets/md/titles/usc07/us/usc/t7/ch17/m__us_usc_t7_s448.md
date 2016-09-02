@@ -17,7 +17,7 @@
 
     Upon a finding by the Secretary of the Interior that migratory birds are threatened with starvation in any area of the United States, the Secretary is authorized to requisition from the Commodity Credit Corporation grain acquired by that Corporation through price support operations in such quantities as may be mutually agreed upon. The Corporation shall be reimbursed by the Secretary for its expense in packaging and transporting of such grain for purposes of sections 447 to 449 of this title.
 
-([Pub. L. 87–152, § 2][/us/pl/87/152/s2], Aug. 17, 1961, [75 Stat. 389][/us/stat/75/389].)
+([Pub. L. 87–152][/us/pl/87/152], § 2, Aug. 17, 1961, [75 Stat. 389][/us/stat/75/389].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/152/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F152%2Fs2
+[/us/pl/87/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F152
 [/us/stat/75/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F389
 
 

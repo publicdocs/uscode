@@ -23,7 +23,7 @@
 
         To assist the Secretary in evaluating applications under [section 6514 of this title][/us/usc/t7/s6514], the Secretary may establish a panel of not less than three persons who have expertise in organic farming and handling methods, to evaluate the State governing official or private person that is seeking accreditation as a certifying agent under such section. Not less than two members of such panel shall be persons who are not employees of the Department of Agriculture or of the applicable State government.
 
-([Pub. L. 101–624, title XXI, § 2117][/us/pl/101/624/s2117], Nov. 28, 1990, [104 Stat. 3945][/us/stat/104/3945].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2117, Nov. 28, 1990, [104 Stat. 3945][/us/stat/104/3945].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t7/s6514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6514
 [/us/usc/t7/s6514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6514
-[/us/pl/101/624/s2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2117
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3945
 
 

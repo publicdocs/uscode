@@ -17,7 +17,7 @@
 
     Whenever the Secretary procures or uses computer systems, as may be provided for in advance in appropriations Acts, the Secretary shall do so in a manner that enhances efficiency, productivity, and client services and is consistent with the goal of promoting computer information sharing among agencies of the Department.
 
-([Pub. L. 103–354, title II, § 216][/us/pl/103/354/s216], Oct. 13, 1994, [108 Stat. 3212][/us/stat/108/3212].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 216, Oct. 13, 1994, [108 Stat. 3212][/us/stat/108/3212].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs216
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3212
 
 

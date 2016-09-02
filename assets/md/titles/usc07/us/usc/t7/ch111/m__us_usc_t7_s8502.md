@@ -17,7 +17,7 @@
 
     It is the sense of Congress that there exists a need for improved and better coordinated control, interdiction, research, and eradication of the brown tree snake on the part of the United States and other interested parties.
 
-([Pub. L. 108–384, § 3][/us/pl/108/384/s3], Oct. 30, 2004, [118 Stat. 2222][/us/stat/118/2222].)
+([Pub. L. 108–384][/us/pl/108/384], § 3, Oct. 30, 2004, [118 Stat. 2222][/us/stat/118/2222].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/384/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs3
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2222
 
 

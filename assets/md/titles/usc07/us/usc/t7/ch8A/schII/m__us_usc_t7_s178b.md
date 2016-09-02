@@ -51,19 +51,19 @@
 
         To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
 
-([Pub. L. 95–592, § 4][/us/pl/95/592/s4], Nov. 4, 1978, [92 Stat. 2530][/us/stat/92/2530]; [Pub. L. 98–284, § 4][/us/pl/98/284/s4], May 16, 1984, [98 Stat. 181][/us/stat/98/181]; [Pub. L. 104–127, title VIII, § 881(a)][/us/pl/104/127/s881/a], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175].)
+([Pub. L. 95–592][/us/pl/95/592], § 4, Nov. 4, 1978, [92 Stat. 2530][/us/stat/92/2530]; [Pub. L. 98–284][/us/pl/98/284], § 4, May 16, 1984, [98 Stat. 181][/us/stat/98/181]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 881(a), Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175].)
 
  __Amendments__ 
 
     1996—Subsecs. (g), (h). [Pub. L. 104–127][/us/pl/104/127] redesignated subsec. (h) as (g), and struck out former subsec. (g) which read as follows: “One year after November 4, 1978, and each year thereafter, the Joint Commission shall provide to the Congress a report on the implementation of the subchapter. Such report shall (1) recommend specific directions for further research, development, and other work, and (2) recommend funding levels for various elements of the overall project.”
 
-    1984—Subsec. (a). [Pub. L. 98–284, § 4(a)][/us/pl/98/284/s4/a], substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
+    1984—Subsec. (a). [Pub. L. 98–284][/us/pl/98/284], § 4(a), substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
 
-    Subsec. (b). [Pub. L. 98–284, § 4(b)][/us/pl/98/284/s4/b], struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
+    Subsec. (b). [Pub. L. 98–284][/us/pl/98/284], § 4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
-    Subsec. (c). [Pub. L. 98–284, § 4(c)][/us/pl/98/284/s4/c], substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
+    Subsec. (c). [Pub. L. 98–284][/us/pl/98/284], § 4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
 
-    Subsec. (h). [Pub. L. 98–284, § 4(d)][/us/pl/98/284/s4/d], substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
+    Subsec. (h). [Pub. L. 98–284][/us/pl/98/284], § 4(d), substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
 
  __Transfer of Functions__ 
 
@@ -78,17 +78,17 @@
 ----------
 ----------
 
-[/us/pl/95/592/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs4
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2530
-[/us/pl/98/284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs4
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F181
-[/us/pl/104/127/s881/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs881%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1175
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/98/284/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs4%2Fa
-[/us/pl/98/284/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs4%2Fb
-[/us/pl/98/284/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs4%2Fc
-[/us/pl/98/284/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs4%2Fd
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

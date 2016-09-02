@@ -45,7 +45,7 @@
 
         There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 96–494, title II, § 211][/us/pl/96/494/s211], Dec. 3, 1980, [94 Stat. 2577][/us/stat/94/2577]; [Pub. L. 97–98, title XI, § 1114(b)][/us/pl/97/98/s1114/b], Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 106–78, title VII, § 752(b)(4)][/us/pl/106/78/s752/b/4], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
+([Pub. L. 96–494, title II][/us/pl/96/494/tII], § 211, Dec. 3, 1980, [94 Stat. 2577][/us/stat/94/2577]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1114(b), Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(4), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
 
  __References in Text__ 
 
@@ -57,11 +57,11 @@
 
     1999—Subsec. (a). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-    1981—Subsecs. (a), (b). [Pub. L. 97–98, § 1114(b)(1)][/us/pl/97/98/s1114/b/1], substituted “special nutrition projects” for “demonstration projects” wherever appearing.
+    1981—Subsecs. (a), (b). [Pub. L. 97–98][/us/pl/97/98], § 1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
 
-    Subsec. (d). [Pub. L. 97–98, § 1114(b)(2)][/us/pl/97/98/s1114/b/2], (3), substituted “to Congress a progress report on July 1, 1983, and a final report on January 1, 1984” for “a report to Congress on October 1, 1982” and “special nutrition projects” for “demonstration projects”.
+    Subsec. (d). [Pub. L. 97–98][/us/pl/97/98], § 1114(b)(2), (3), substituted “to Congress a progress report on July 1, 1983, and a final report on January 1, 1984” for “a report to Congress on October 1, 1982” and “special nutrition projects” for “demonstration projects”.
 
-    Subsecs. (f), (g). [Pub. L. 97–98, § 1114(b)(4)][/us/pl/97/98/s1114/b/4], (5), added subsec. (f), redesignated former subsec. (f) as (g), and substituted “such sums as may be necessary to carry out this section” for “to carry out this section $356,000”.
+    Subsecs. (f), (g). [Pub. L. 97–98][/us/pl/97/98], § 1114(b)(4), (5), added subsec. (f), redesignated former subsec. (f) as (g), and substituted “such sums as may be necessary to carry out this section” for “to carry out this section $356,000”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -83,11 +83,11 @@
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/pl/96/494/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs211
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2577
-[/us/pl/97/98/s1114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1114%2Fb
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1269
-[/us/pl/106/78/s752/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F4
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
@@ -96,9 +96,9 @@
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
-[/us/pl/97/98/s1114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1114%2Fb%2F1
-[/us/pl/97/98/s1114/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1114%2Fb%2F2
-[/us/pl/97/98/s1114/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1114%2Fb%2F4
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

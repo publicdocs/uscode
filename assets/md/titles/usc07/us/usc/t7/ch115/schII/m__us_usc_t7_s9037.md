@@ -151,7 +151,7 @@
 
             (B) ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
 
-([Pub. L. 113–79, title I, § 1207][/us/pl/113/79/s1207], Feb. 7, 2014, [128 Stat. 682][/us/stat/128/682].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1207, Feb. 7, 2014, [128 Stat. 682][/us/stat/128/682].)
 
  __References in Text__ 
 
@@ -170,7 +170,7 @@
 [/us/usc/t19/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fd
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
 [/us/usc/t19/s2463/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fd
-[/us/pl/113/79/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1207
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F682
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 

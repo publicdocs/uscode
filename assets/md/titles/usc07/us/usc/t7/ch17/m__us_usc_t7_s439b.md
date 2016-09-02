@@ -17,7 +17,7 @@
 
     Whenever the Secretary finds that the operation of any plant or plants as provided in sections 439 to 439e of this title is no longer necessary or desirable, he shall report such fact to Congress with his recommendations for the disposition thereof.
 
-([July 2, 1948, ch. 818, § 3][/us/act/1948-07-02/ch818/s3], [62 Stat. 1235][/us/stat/62/1235].)
+([July 2, 1948, ch. 818][/us/act/1948-07-02/ch818], § 3, [62 Stat. 1235][/us/stat/62/1235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-07-02/ch818/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818%2Fs3
+[/us/act/1948-07-02/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818
 [/us/stat/62/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1235
 
 

@@ -17,7 +17,7 @@
 
     Legal representatives of deceased breeders and of those under legal incapacity may make application for plant variety protection upon compliance with the requirements and on the same terms and conditions applicable to the breeder or the successor in interest of the breeder.
 
-([Pub. L. 91–577, title II, § 54][/us/pl/91/577/s54], Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349, § 13(h)][/us/pl/103/349/s13/h], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 54, Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349][/us/pl/103/349], § 13(h), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs54
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1548
-[/us/pl/103/349/s13/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fh
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

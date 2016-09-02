@@ -17,7 +17,7 @@
 
     Warehousemen shall provide space on warehouse tickets or other tags or labels used by them for showing the grade of the lot covered thereby as determined by an authorized tobacco inspector under this chapter. The Secretary may prescribe, by regulation, the form in which such certification of grade shall be shown, and may require that a copy of such warehouse ticket, tag, or label shall be furnished to the Secretary.
 
-([Aug. 23, 1935, ch. 623, § 8][/us/act/1935-08-23/ch623/s8], [49 Stat. 733][/us/stat/49/733].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 8, [49 Stat. 733][/us/stat/49/733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs8
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F733
 
 

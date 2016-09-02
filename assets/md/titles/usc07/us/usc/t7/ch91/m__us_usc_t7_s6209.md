@@ -65,7 +65,7 @@
 
                 Any funds not refunded under this paragraph shall be released to be used to carry out this chapter.
 
-([Pub. L. 101–624, title XIX, § 1960][/us/pl/101/624/s1960], Nov. 28, 1990, [104 Stat. 3879][/us/stat/104/3879]; [Pub. L. 103–194, § 5][/us/pl/103/194/s5], Dec. 14, 1993, [107 Stat. 2295][/us/stat/107/2295].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1960, Nov. 28, 1990, [104 Stat. 3879][/us/stat/104/3879]; [Pub. L. 103–194][/us/pl/103/194], § 5, Dec. 14, 1993, [107 Stat. 2295][/us/stat/107/2295].)
 
  __Amendments__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t7/s6204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6204%2Fd
 [/us/usc/t7/s6204/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6204%2Fd%2F5
 [/us/usc/t7/s6210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6210
-[/us/pl/101/624/s1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1960
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3879
-[/us/pl/103/194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs5
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/stat/107/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2295
 [/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/usc/t7/s6204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6204%2Fd

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_ch29.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
+[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_s801...833.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
 
 ## CHAPTER 30—ANTI-HOG-CHOLERA SERUM AND HOG-CHOLERA VIRUS
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_ch29.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
+[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_s801...833.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
 
 ----------
 ----------

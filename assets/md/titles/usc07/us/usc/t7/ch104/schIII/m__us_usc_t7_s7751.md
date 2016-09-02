@@ -73,7 +73,7 @@
 
                 (ii) the State department of agriculture that has jurisdiction over the unit of local government.
 
-([Pub. L. 106–224, title IV, § 431][/us/pl/106/224/s431], June 20, 2000, [114 Stat. 451][/us/stat/114/451]; [Pub. L. 110–234, title X, § 10206][/us/pl/110/234/s10206], May 22, 2008, [122 Stat. 1346][/us/stat/122/1346]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10206, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2107.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 431, June 20, 2000, [114 Stat. 451][/us/stat/114/451]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10206, May 22, 2008, [122 Stat. 1346][/us/stat/122/1346]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10206, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2107.)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (f). [Pub. L. 110–246, § 10206][/us/pl/110/246/s10206], added subsec. (f).
+    2008—Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 10206, added subsec. (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/106/224/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs431
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F451
-[/us/pl/110/234/s10206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10206
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1346
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
@@ -120,7 +120,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10206
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

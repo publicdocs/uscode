@@ -55,7 +55,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each fiscal year.
 
-([Pub. L. 107–188, title III, § 334][/us/pl/107/188/s334], June 12, 2002, [116 Stat. 679][/us/stat/116/679].)
+([Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 334, June 12, 2002, [116 Stat. 679][/us/stat/116/679].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/107/188/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs334
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F679
 
 

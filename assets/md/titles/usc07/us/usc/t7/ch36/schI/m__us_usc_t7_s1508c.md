@@ -37,7 +37,7 @@
 
             (B) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the reasons for the adjustment.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508C, as added [Pub. L. 113–79, title XI, § 11018][/us/pl/113/79/s11018], Feb. 7, 2014, [128 Stat. 966][/us/stat/128/966].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508C, as added [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11018, Feb. 7, 2014, [128 Stat. 966][/us/stat/128/966].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/113/79/s11018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11018
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F966
 
 

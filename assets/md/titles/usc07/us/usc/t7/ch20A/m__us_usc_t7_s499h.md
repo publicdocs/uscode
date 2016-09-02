@@ -43,7 +43,7 @@
 
         In lieu of suspending or revoking a license under this section when the Secretary determines, as provided by [section 499f of this title][/us/usc/t7/s499f], that a commission merchant, dealer, or broker has violated [section 499b of this title][/us/usc/t7/s499b] or subsection (b) of this section, the Secretary may assess a civil penalty not to exceed $2,000 for each violative transaction or each day the violation continues. In assessing the amount of a penalty under this subsection, the Secretary shall give due consideration to the size of the business, the number of employees, and the seriousness, nature, and amount of the violation. Amounts collected under this subsection shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-([June 10, 1930, ch. 436, § 8][/us/act/1930-06-10/ch436/s8], [46 Stat. 535][/us/stat/46/535]; [Apr. 13, 1934, ch. 120, § 14][/us/act/1934-04-13/ch120/s14], [48 Stat. 588][/us/stat/48/588]; [Aug. 20, 1937, ch. 719, § 11][/us/act/1937-08-20/ch719/s11], [50 Stat. 730][/us/stat/50/730]; [July 30, 1956, ch. 786, § 5][/us/act/1956-07-30/ch786/s5], [70 Stat. 727][/us/stat/70/727]; [Pub. L. 87–725, § 11][/us/pl/87/725/s11], Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 102–237, title X, § 1011(6)][/us/pl/102/237/s1011/6], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 11, 12(b), Nov. 15, 1995, [109 Stat. 430][/us/stat/109/430], 431.)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 8, [46 Stat. 535][/us/stat/46/535]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], § 14, [48 Stat. 588][/us/stat/48/588]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 11, [50 Stat. 730][/us/stat/50/730]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], § 5, [70 Stat. 727][/us/stat/70/727]; [Pub. L. 87–725][/us/pl/87/725], § 11, Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(6), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 11, 12(b), Nov. 15, 1995, [109 Stat. 430][/us/stat/109/430], 431.)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1995—Subsec. (b). [Pub. L. 104–48, § 12(b)][/us/pl/104/48/s12/b], inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
+    1995—Subsec. (b). [Pub. L. 104–48][/us/pl/104/48], § 12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
 
-    Subsec. (e). [Pub. L. 104–48, § 11][/us/pl/104/48/s11], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–48][/us/pl/104/48], § 11, added subsec. (e).
 
     1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237] redesignated cls. (a) and (b) as (1) and (2), respectively, and substituted a period for semicolon at end.
 
@@ -87,23 +87,23 @@
 [/us/usc/t7/s499c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499c%2Fa
 [/us/usc/t7/s499f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
-[/us/act/1930-06-10/ch436/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs8
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F535
-[/us/act/1934-04-13/ch120/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120%2Fs14
+[/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F588
-[/us/act/1937-08-20/ch719/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs11
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F730
-[/us/act/1956-07-30/ch786/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786%2Fs5
+[/us/act/1956-07-30/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786
 [/us/stat/70/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F727
-[/us/pl/87/725/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs11
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F675
-[/us/pl/102/237/s1011/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F6
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F430
 [/us/usc/t7/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs558
-[/us/pl/104/48/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs12%2Fb
-[/us/pl/104/48/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs11
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b

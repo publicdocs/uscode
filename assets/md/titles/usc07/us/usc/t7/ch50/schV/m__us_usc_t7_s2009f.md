@@ -99,13 +99,13 @@
 
         (2) limits the right of a State to impose additional limitations or conditions on assistance or a contract or grant under this section.
 
-([Pub. L. 87–128, title III, § 381G][/us/pl/87/128/s381G], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1143][/us/stat/110/1143]; amended [Pub. L. 107–171, title VI, § 6026(c)][/us/pl/107/171/s6026/c], May 13, 2002, [116 Stat. 372][/us/stat/116/372].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381G, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1143][/us/stat/110/1143]; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6026(c), May 13, 2002, [116 Stat. 372][/us/stat/116/372].)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1), (2). [Pub. L. 107–171, § 6026(c)(1)][/us/pl/107/171/s6026/c/1], substituted “[section 2009d(f) of this title][/us/usc/t7/s2009d/f]” for “[section 2009d(g) of this title][/us/usc/t7/s2009d/g]”.
+    2002—Subsec. (a)(1), (2). [Pub. L. 107–171][/us/pl/107/171], § 6026(c)(1), substituted “[section 2009d(f) of this title][/us/usc/t7/s2009d/f]” for “[section 2009d(g) of this title][/us/usc/t7/s2009d/g]”.
 
-    Subsec. (b)(1). [Pub. L. 107–171, § 6026(c)(2)][/us/pl/107/171/s6026/c/2], substituted “[section 2009d(g) of this title][/us/usc/t7/s2009d/g]” for “[section 2009d(h) of this title][/us/usc/t7/s2009d/h]”.
+    Subsec. (b)(1). [Pub. L. 107–171][/us/pl/107/171], § 6026(c)(2), substituted “[section 2009d(g) of this title][/us/usc/t7/s2009d/g]” for “[section 2009d(h) of this title][/us/usc/t7/s2009d/h]”.
 
 ----------
 
@@ -122,15 +122,15 @@
 [/us/usc/t7/s2009d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fc
 [/us/usc/t7/s2009d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fd
 [/us/usc/t7/s2009c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009c
-[/us/pl/87/128/s381G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381G
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1143
-[/us/pl/107/171/s6026/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fc
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F372
-[/us/pl/107/171/s6026/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fc%2F1
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2009d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Ff
 [/us/usc/t7/s2009d/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fg
-[/us/pl/107/171/s6026/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fc%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2009d/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fg
 [/us/usc/t7/s2009d/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fh
 

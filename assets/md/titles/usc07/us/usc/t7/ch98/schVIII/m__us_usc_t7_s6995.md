@@ -31,7 +31,7 @@
 
         (2) to the maximum extent practicable, be allowed to use both informal agency review and mediation to resolve disputes under that title.
 
-([Pub. L. 103–354, title II, § 275][/us/pl/103/354/s275], Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230]; [Pub. L. 110–234, title XII, § 12032][/us/pl/110/234/s12032], May 22, 2008, [122 Stat. 1391][/us/stat/122/1391]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12032, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2153.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 275, Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12032, May 22, 2008, [122 Stat. 1391][/us/stat/122/1391]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12032, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2153.)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12032][/us/pl/110/246/s12032], designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -58,11 +58,11 @@
 
 [/us/usc/t7/s6932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6932
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
-[/us/pl/103/354/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs275
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3230
-[/us/pl/110/234/s12032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12032
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1391
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/stat/101/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1568
@@ -71,7 +71,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12032
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

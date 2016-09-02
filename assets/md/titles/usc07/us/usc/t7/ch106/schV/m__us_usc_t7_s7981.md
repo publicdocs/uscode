@@ -47,7 +47,7 @@
 
         The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 
-([Pub. L. 107–171, title I, § 1501][/us/pl/107/171/s1501], May 13, 2002, [116 Stat. 205][/us/stat/116/205].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1501, May 13, 2002, [116 Stat. 205][/us/stat/116/205].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/107/171/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1501
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F205
 
 

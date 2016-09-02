@@ -55,7 +55,7 @@
 
         (2) $10,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 110–234, title XIV, § 14204][/us/pl/110/234/s14204], May 22, 2008, [122 Stat. 1459][/us/stat/122/1459]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2221; [Pub. L. 113–79, title XII, § 12301][/us/pl/113/79/s12301], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14204, May 22, 2008, [122 Stat. 1459][/us/stat/122/1459]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2221; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12301, Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
 
  __Codification__ 
 
@@ -83,11 +83,11 @@
 ----------
 
 [/us/usc/t7/s2008q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008q%2Fa
-[/us/pl/110/234/s14204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14204
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1459
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s12301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12301
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F984
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

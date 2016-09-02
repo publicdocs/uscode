@@ -17,7 +17,7 @@
 
     Not later than December 15 following the issuance of the marketing quota proclamation provided for in [section 1342 of this title][/us/usc/t7/s1342], the Secretary shall conduct a referendum, by secret ballot, of farmers engaged in the production of cotton in the calendar year in which the referendum is held, to determine whether such farmers are in favor of or opposed to the quota so proclaimed. If more than one-third of the farmers voting in the referendum oppose the national marketing quota, such quota shall become ineffective upon proclamation of the results of the referendum. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for cotton for the marketing year beginning August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 343, [52 Stat. 56][/us/stat/52/56]; [Apr. 7, 1938, ch. 107, § 8][/us/act/1938-04-07/ch107/s8], [52 Stat. 203][/us/stat/52/203]; [July 26, 1939, ch. 376][/us/act/1939-07-26/ch376], [53 Stat. 1125][/us/stat/53/1125]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 207(c), [62 Stat. 1257][/us/stat/62/1257]; [Aug. 29, 1949, ch. 518, § 1][/us/act/1949-08-29/ch518/s1], [63 Stat. 670][/us/stat/63/670]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 415(e), [63 Stat. 1058][/us/stat/63/1058]; [Pub. L. 97–77, § 2(c)][/us/pl/97/77/s2/c], Nov. 13, 1981, [95 Stat. 1069][/us/stat/95/1069]; [Pub. L. 99–157, § 4][/us/pl/99/157/s4], Nov. 15, 1985, [99 Stat. 818][/us/stat/99/818].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 343, [52 Stat. 56][/us/stat/52/56]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], § 8, [52 Stat. 203][/us/stat/52/203]; [July 26, 1939, ch. 376][/us/act/1939-07-26/ch376], [53 Stat. 1125][/us/stat/53/1125]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 207(c), [62 Stat. 1257][/us/stat/62/1257]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 1, [63 Stat. 670][/us/stat/63/670]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 415(e), [63 Stat. 1058][/us/stat/63/1058]; [Pub. L. 97–77][/us/pl/97/77], § 2(c), Nov. 13, 1981, [95 Stat. 1069][/us/stat/95/1069]; [Pub. L. 99–157][/us/pl/99/157], § 4, Nov. 15, 1985, [99 Stat. 818][/us/stat/99/818].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
     Section inapplicable to 1978 through 1981 crops of upland cotton, see [section 601 of Pub. L. 95–113][/us/pl/95/113/s601], set out as a note under [section 1342 of this title][/us/usc/t7/s1342].
 
-    [Pub. L. 91–524, title VI, § 601(1)][/us/pl/91/524/s601/1], Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601(1), Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 ----------
 
@@ -75,19 +75,19 @@
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F56
-[/us/act/1938-04-07/ch107/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107%2Fs8
+[/us/act/1938-04-07/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107
 [/us/stat/52/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F203
 [/us/act/1939-07-26/ch376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-26%2Fch376
 [/us/stat/53/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1125
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1257
-[/us/act/1949-08-29/ch518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs1
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F670
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1058
-[/us/pl/97/77/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F77%2Fs2%2Fc
+[/us/pl/97/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F77
 [/us/stat/95/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1069
-[/us/pl/99/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F157%2Fs4
+[/us/pl/99/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F157
 [/us/stat/99/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F818
 [/us/pl/99/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F157
 [/us/pl/97/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F77
@@ -107,9 +107,9 @@
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
 [/us/pl/95/113/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs601
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
-[/us/pl/91/524/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601%2F1
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1371
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 
 

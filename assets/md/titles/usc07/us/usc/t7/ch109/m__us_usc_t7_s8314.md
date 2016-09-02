@@ -93,7 +93,7 @@
 
             Paragraphs (1) and (2) do not apply to sections 8309(c) and 8313(b) of this title.
 
-([Pub. L. 107–171, title X, § 10415][/us/pl/107/171/s10415], May 13, 2002, [116 Stat. 505][/us/stat/116/505]; [Pub. L. 110–234, title XI, § 11012(b)][/us/pl/110/234/s11012/b], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11012(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10415, May 13, 2002, [116 Stat. 505][/us/stat/116/505]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11012(b), May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11012(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
 
  __References in Text__ 
 
@@ -105,13 +105,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(A). [Pub. L. 110–246, § 11012(b)(1)][/us/pl/110/246/s11012/b/1], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+    2008—Subsec. (a)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 11012(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
-    Subsec. (a)(2)(B). [Pub. L. 110–246, § 11012(b)(2)][/us/pl/110/246/s11012/b/2], struck out “documentary” before “evidence”.
+    Subsec. (a)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 11012(b)(2), struck out “documentary” before “evidence”.
 
-    Subsec. (a)(2)(C)(i). [Pub. L. 110–246, § 11012(b)(3)(A)][/us/pl/110/246/s11012/b/3/A], substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence”.
+    Subsec. (a)(2)(C)(i). [Pub. L. 110–246][/us/pl/110/246], § 11012(b)(3)(A), substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence”.
 
-    Subsec. (a)(2)(C)(ii). [Pub. L. 110–246, § 11012(b)(3)(B)][/us/pl/110/246/s11012/b/3/B], substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
+    Subsec. (a)(2)(C)(ii). [Pub. L. 110–246][/us/pl/110/246], § 11012(b)(3)(B), substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -128,11 +128,11 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10415
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F505
-[/us/pl/110/234/s11012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11012%2Fb
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
@@ -140,10 +140,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11012%2Fb%2F1
-[/us/pl/110/246/s11012/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11012%2Fb%2F2
-[/us/pl/110/246/s11012/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11012%2Fb%2F3%2FA
-[/us/pl/110/246/s11012/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11012%2Fb%2F3%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

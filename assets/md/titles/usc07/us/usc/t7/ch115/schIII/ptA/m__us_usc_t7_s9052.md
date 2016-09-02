@@ -39,7 +39,7 @@
 
             The calculation required by this subsection shall be made as soon as practicable using the full-month price of the applicable reference month.
 
-([Pub. L. 113–79, title I, § 1402][/us/pl/113/79/s1402], Feb. 7, 2014, [128 Stat. 689][/us/stat/128/689].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1402, Feb. 7, 2014, [128 Stat. 689][/us/stat/128/689].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1402
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F689
 
 

@@ -63,7 +63,7 @@
 
             Any aggrieved party may seek judicial review pursuant to section 6(c) of the Commodity Exchange Act \[[7 U.S.C. 9][/us/usc/t7/s9]\] of a determination or rulemaking by the Commodity Futures Trading Commission under this section.
 
-([Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title IV, § 406\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–459.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title IV, § 406\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–459.)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

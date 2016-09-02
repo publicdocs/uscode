@@ -39,7 +39,7 @@
 
     (7) For any commission merchant, dealer or broker, without the consent of an inspector, to make, cause, or permit to be made any change by way of substitution or otherwise in the contents of a load or lot of any perishable agricultural commodity after it has been officially inspected for grading and certification, but this shall not prohibit re-sorting and discarding inferior produce.
 
-([June 10, 1930, ch. 436, § 2][/us/act/1930-06-10/ch436/s2], [46 Stat. 532][/us/stat/46/532]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 2, 3, [48 Stat. 585][/us/stat/48/585]; [June 19, 1936, ch. 602, § 1][/us/act/1936-06-19/ch602/s1], [49 Stat. 1533][/us/stat/49/1533]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], §§ 2–4, [50 Stat. 725][/us/stat/50/725], 726; [June 29, 1940, ch. 456][/us/act/1940-06-29/ch456], §§ 3, 4, [54 Stat. 696][/us/stat/54/696]; [Apr. 6, 1942, ch. 211][/us/act/1942-04-06/ch211], [56 Stat. 200][/us/stat/56/200]; [July 30, 1956, ch. 786, § 1][/us/act/1956-07-30/ch786/s1], [70 Stat. 726][/us/stat/70/726]; [Pub. L. 93–369][/us/pl/93/369], Aug. 10, 1974, [88 Stat. 423][/us/stat/88/423]; [Pub. L. 97–352, § 1][/us/pl/97/352/s1], Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667]; [Pub. L. 98–273, § 2][/us/pl/98/273/s2], May 7, 1984, [98 Stat. 166][/us/stat/98/166]; [Pub. L. 104–48][/us/pl/104/48], §§ 9(b), 10, Nov. 15, 1995, [109 Stat. 430][/us/stat/109/430].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 2, [46 Stat. 532][/us/stat/46/532]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 2, 3, [48 Stat. 585][/us/stat/48/585]; [June 19, 1936, ch. 602][/us/act/1936-06-19/ch602], § 1, [49 Stat. 1533][/us/stat/49/1533]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], §§ 2–4, [50 Stat. 725][/us/stat/50/725], 726; [June 29, 1940, ch. 456][/us/act/1940-06-29/ch456], §§ 3, 4, [54 Stat. 696][/us/stat/54/696]; [Apr. 6, 1942, ch. 211][/us/act/1942-04-06/ch211], [56 Stat. 200][/us/stat/56/200]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], § 1, [70 Stat. 726][/us/stat/70/726]; [Pub. L. 93–369][/us/pl/93/369], Aug. 10, 1974, [88 Stat. 423][/us/stat/88/423]; [Pub. L. 97–352][/us/pl/97/352], § 1, Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667]; [Pub. L. 98–273][/us/pl/98/273], § 2, May 7, 1984, [98 Stat. 166][/us/stat/98/166]; [Pub. L. 104–48][/us/pl/104/48], §§ 9(b), 10, Nov. 15, 1995, [109 Stat. 430][/us/stat/109/430].)
 
  __Codification__ 
 
@@ -47,15 +47,15 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–48, § 9(b)(1)][/us/pl/104/48/s9/b/1], substituted “commerce:” for “commerce—” in introductory provisions.
+    1995—[Pub. L. 104–48][/us/pl/104/48], § 9(b)(1), substituted “commerce:” for “commerce—” in introductory provisions.
 
-    Pars. (1) to (3). [Pub. L. 104–48, § 9(b)(2)][/us/pl/104/48/s9/b/2], substituted period for semicolon at end.
+    Pars. (1) to (3). [Pub. L. 104–48][/us/pl/104/48], § 9(b)(2), substituted period for semicolon at end.
 
-    Par. (4). [Pub. L. 104–48, § 9(b)(2)][/us/pl/104/48/s9/b/2], (3), substituted period for semicolon after “[section 499e(c) of this title][/us/usc/t7/s499e/c]” and inserted at end “However, this paragraph shall not be considered to make the good faith offer, solicitation, payment, or receipt of collateral fees and expenses, in and of itself, unlawful under this chapter.”
+    Par. (4). [Pub. L. 104–48][/us/pl/104/48], § 9(b)(2), (3), substituted period for semicolon after “[section 499e(c) of this title][/us/usc/t7/s499e/c]” and inserted at end “However, this paragraph shall not be considered to make the good faith offer, solicitation, payment, or receipt of collateral fees and expenses, in and of itself, unlawful under this chapter.”
 
     Par. (5). [Pub. L. 104–48][/us/pl/104/48], §§ 9(b)(2), 10, substituted “foreign commerce. However,” for “foreign commerce: Provided, That”, substituted period for semicolon after “miscellaneous receipts”, and inserted at end “A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.”
 
-    Par. (6). [Pub. L. 104–48, § 9(b)(2)][/us/pl/104/48/s9/b/2], substituted period for semicolon at end.
+    Par. (6). [Pub. L. 104–48][/us/pl/104/48], § 9(b)(2), substituted period for semicolon at end.
 
     1984—Par. (4). [Pub. L. 98–273][/us/pl/98/273] inserted “or to fail to maintain the trust as required under [section 499e(c) of this title][/us/usc/t7/s499e/c];”.
 
@@ -91,11 +91,11 @@
 ----------
 
 [/us/usc/t7/s499e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499e%2Fc
-[/us/act/1930-06-10/ch436/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs2
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F532
 [/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F585
-[/us/act/1936-06-19/ch602/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602%2Fs1
+[/us/act/1936-06-19/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch602
 [/us/stat/49/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1533
 [/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F725
@@ -103,23 +103,23 @@
 [/us/stat/54/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F696
 [/us/act/1942-04-06/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-06%2Fch211
 [/us/stat/56/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F200
-[/us/act/1956-07-30/ch786/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786%2Fs1
+[/us/act/1956-07-30/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786
 [/us/stat/70/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F726
 [/us/pl/93/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F369
 [/us/stat/88/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F423
-[/us/pl/97/352/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352%2Fs1
+[/us/pl/97/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352
 [/us/stat/96/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1667
-[/us/pl/98/273/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273%2Fs2
+[/us/pl/98/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273
 [/us/stat/98/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F166
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F430
 [/us/usc/t7/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs552
-[/us/pl/104/48/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs9%2Fb%2F1
-[/us/pl/104/48/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs9%2Fb%2F2
-[/us/pl/104/48/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs9%2Fb%2F2
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/usc/t7/s499e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499e%2Fc
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
-[/us/pl/104/48/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs9%2Fb%2F2
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/98/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F273
 [/us/usc/t7/s499e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499e%2Fc
 [/us/pl/97/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352

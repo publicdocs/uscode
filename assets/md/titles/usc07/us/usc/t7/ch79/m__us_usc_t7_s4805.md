@@ -31,7 +31,7 @@
 
         An order shall contain such terms and conditions as are required in sections 4806 through 4809 of this title and, except as provided in [section 4810 of this title][/us/usc/t7/s4810], no others.
 
-([Pub. L. 99–198, title XVI, § 1616][/us/pl/99/198/s1616], Dec. 23, 1985, [99 Stat. 1609][/us/stat/99/1609].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1616, Dec. 23, 1985, [99 Stat. 1609][/us/stat/99/1609].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t7/s4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4804
 [/us/usc/t7/s4810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4810
-[/us/pl/99/198/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1616
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1609
 
 

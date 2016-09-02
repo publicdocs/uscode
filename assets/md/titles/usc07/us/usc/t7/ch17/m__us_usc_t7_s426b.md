@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to make such expenditures for equipment, supplies, and materials, including the employment of persons and means in the District of Columbia and elsewhere, and to employ such means as may be necessary to execute the functions imposed upon him by [section 426 of this title][/us/usc/t7/s426].
 
-([Mar. 2, 1931, ch. 370, § 3][/us/act/1931-03-02/ch370/s3], [46 Stat. 1469][/us/stat/46/1469].)
+([Mar. 2, 1931, ch. 370][/us/act/1931-03-02/ch370], § 3, [46 Stat. 1469][/us/stat/46/1469].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs426
-[/us/act/1931-03-02/ch370/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370%2Fs3
+[/us/act/1931-03-02/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370
 [/us/stat/46/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1469
 [/us/usc/t7/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs426
 

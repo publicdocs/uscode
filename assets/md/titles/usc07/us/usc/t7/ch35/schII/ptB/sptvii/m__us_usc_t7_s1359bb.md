@@ -91,7 +91,7 @@
 
             Any processor who knowingly violates paragraph (1) shall be liable to the Commodity Credit Corporation for a civil penalty in an amount equal to 3 times the United States market value, at the time of the commission of the violation, of that quantity of sugar involved in the violation.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359b, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 188][/us/stat/116/188]; amended [Pub. L. 110–234, title I, § 1403(b)][/us/pl/110/234/s1403/b], May 22, 2008, [122 Stat. 982][/us/stat/122/982]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1710; [Pub. L. 113–79, title I, § 1301(b)(1)][/us/pl/113/79/s1301/b/1], Feb. 7, 2014, [128 Stat. 688][/us/stat/128/688].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359b, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 188][/us/stat/116/188]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(b), May 22, 2008, [122 Stat. 982][/us/stat/122/982]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1710; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1301(b)(1), Feb. 7, 2014, [128 Stat. 688][/us/stat/128/688].)
 
  __Codification__ 
 
@@ -99,13 +99,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 1359bb, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359b, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3480][/us/stat/104/3480]; amended [Pub. L. 102–237, title I, § 111(d)][/us/pl/102/237/s111/d], Dec. 13, 1991, [105 Stat. 1831][/us/stat/105/1831]; [Pub. L. 103–66, title I, § 1107(b)][/us/pl/103/66/s1107/b], Aug. 10, 1993, [107 Stat. 324][/us/stat/107/324], related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359bb, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359b, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3480][/us/stat/104/3480]; amended [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(d), Dec. 13, 1991, [105 Stat. 1831][/us/stat/105/1831]; [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1107(b), Aug. 10, 1993, [107 Stat. 324][/us/stat/107/324], related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
     2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—[Pub. L. 110–246, § 1403(b)][/us/pl/110/246/s1403/b], amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -122,28 +122,28 @@
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
 [/us/usc/t7/s8110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8110
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F188
-[/us/pl/110/234/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fb
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F982
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fb%2F1
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F688
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3480
-[/us/pl/102/237/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Fd
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1831
-[/us/pl/103/66/s1107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1107%2Fb
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F324
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

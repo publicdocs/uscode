@@ -41,7 +41,7 @@
 
         The Secretary, from time to time, may amend any plan issued under this section. The provisions of this chapter applicable to a plan shall be applicable to amendments to a plan.
 
-([Pub. L. 101–624, title XIX, § 1908][/us/pl/101/624/s1908], Nov. 28, 1990, [104 Stat. 3841][/us/stat/104/3841].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1908, Nov. 28, 1990, [104 Stat. 3841][/us/stat/104/3841].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t7/s6001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6001%2Fb
-[/us/pl/101/624/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1908
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3841
 
 

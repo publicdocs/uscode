@@ -17,7 +17,7 @@
 
     Commodity Credit Corporation is authorized, on such terms as the Secretary of Agriculture may approve, to donate cotton acquired through its price support operations to educational institutions for use in the training of students in the processing and manufacture of cotton into textiles.
 
-([Pub. L. 85–835, title V, § 505][/us/pl/85/835/s505], Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996].)
+([Pub. L. 85–835, title V][/us/pl/85/835/tV], § 505, Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/835/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs505
+[/us/pl/85/835/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtV
 [/us/stat/72/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F996
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 

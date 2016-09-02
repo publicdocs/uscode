@@ -111,13 +111,13 @@
 
             An indemnity payment under paragraph (1) shall be subject to any agreement between a project grantee and operator entered into prior to the initiation of such project.
 
-([Pub. L. 101–624, title XVI, § 1621][/us/pl/101/624/s1621], Nov. 28, 1990, [104 Stat. 3734][/us/stat/104/3734]; [Pub. L. 104–127, title VIII, § 860(c)(2)][/us/pl/104/127/s860/c/2], Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173].)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1621, Nov. 28, 1990, [104 Stat. 3734][/us/stat/104/3734]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 860(c)(2), Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173].)
 
  __Amendments__ 
 
-    1996—Subsec. (c)(1). [Pub. L. 104–127, § 860(c)(2)(A)][/us/pl/104/127/s860/c/2/A], redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “the recommendations of the Advisory Council;”.
+    1996—Subsec. (c)(1). [Pub. L. 104–127][/us/pl/104/127], § 860(c)(2)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “the recommendations of the Advisory Council;”.
 
-    Subsec. (c)(2). [Pub. L. 104–127, § 860(c)(2)(B)][/us/pl/104/127/s860/c/2/B], redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “are recommended by the Advisory Council;”.
+    Subsec. (c)(2). [Pub. L. 104–127][/us/pl/104/127], § 860(c)(2)(B), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “are recommended by the Advisory Council;”.
 
 ----------
 
@@ -126,11 +126,11 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1621
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3734
-[/us/pl/104/127/s860/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fc%2F2
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1173
-[/us/pl/104/127/s860/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fc%2F2%2FA
-[/us/pl/104/127/s860/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fc%2F2%2FB
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

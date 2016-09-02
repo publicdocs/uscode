@@ -17,7 +17,7 @@
 
     There shall be in the Department of Agriculture a Bureau of Animal Industry. The Secretary of Agriculture is authorized to appoint a chief thereof, who shall be a competent veterinary surgeon, and whose duty it shall be to investigate and report upon the condition of the domestic animals and live poultry of the United States, their protection and use, and also inquire into and report the causes of contagious, infectious, and communicable diseases among them, and the means for the prevention and cure of the same, and to collect such information on these subjects as shall be valuable to the agricultural and commercial interests of the country.
 
-([May 29, 1884, ch. 60, § 1][/us/act/1884-05-29/ch60/s1], [23 Stat. 31][/us/stat/23/31]; [July 14, 1890, ch. 707][/us/act/1890-07-14/ch707], [26 Stat. 288][/us/stat/26/288]; [Feb. 7, 1928, ch. 30][/us/act/1928-02-07/ch30], [45 Stat. 59][/us/stat/45/59].)
+([May 29, 1884, ch. 60][/us/act/1884-05-29/ch60], § 1, [23 Stat. 31][/us/stat/23/31]; [July 14, 1890, ch. 707][/us/act/1890-07-14/ch707], [26 Stat. 288][/us/stat/26/288]; [Feb. 7, 1928, ch. 30][/us/act/1928-02-07/ch30], [45 Stat. 59][/us/stat/45/59].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@ Section 1 of that act as originally enacted contained this further provision:
 ----------
 ----------
 
-[/us/act/1884-05-29/ch60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-29%2Fch60%2Fs1
+[/us/act/1884-05-29/ch60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-29%2Fch60
 [/us/stat/23/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F31
 [/us/act/1890-07-14/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-14%2Fch707
 [/us/stat/26/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F288

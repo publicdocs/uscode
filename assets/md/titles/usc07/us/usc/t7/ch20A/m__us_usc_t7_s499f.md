@@ -51,7 +51,7 @@
 
         In case a complaint is made by a nonresident of the United States, or by a resident of the United States to whom the claim of a nonresident of the United States has been assigned, the complainant shall be required, before any formal action is taken on his complaint, to furnish a bond in double the amount of the claim conditioned upon the payment of costs, including a reasonable attorney’s fee for the respondent if the respondent shall prevail, and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent: Provided, That the Secretary shall have authority to waive the furnishing of a bond by a complainant who is a resident of a country which permits the filing of a complaint by a resident of the United States without the furnishing of a bond.
 
-([June 10, 1930, ch. 436, § 6][/us/act/1930-06-10/ch436/s6], [46 Stat. 534][/us/stat/46/534]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 8–10, [48 Stat. 586][/us/stat/48/586], 587; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], §§ 8, 9, [50 Stat. 728][/us/stat/50/728]; [Pub. L. 86–507, § 1(4)][/us/pl/86/507/s1/4], June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 87–725, § 8][/us/pl/87/725/s8], Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 92–231, § 1][/us/pl/92/231/s1], Feb. 15, 1972, [86 Stat. 38][/us/stat/86/38]; [Pub. L. 97–98, title XI, § 1115(c)][/us/pl/97/98/s1115/c], Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270]; [Pub. L. 97–352, § 2][/us/pl/97/352/s2], Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667]; [Pub. L. 102–237, title X, § 1011(4)][/us/pl/102/237/s1011/4], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 7, 8(a), Nov. 15, 1995, [109 Stat. 428][/us/stat/109/428], 429.)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 6, [46 Stat. 534][/us/stat/46/534]; [Apr. 13, 1934, ch. 120][/us/act/1934-04-13/ch120], §§ 8–10, [48 Stat. 586][/us/stat/48/586], 587; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], §§ 8, 9, [50 Stat. 728][/us/stat/50/728]; [Pub. L. 86–507][/us/pl/86/507], § 1(4), June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 87–725][/us/pl/87/725], § 8, Oct. 1, 1962, [76 Stat. 675][/us/stat/76/675]; [Pub. L. 92–231][/us/pl/92/231], § 1, Feb. 15, 1972, [86 Stat. 38][/us/stat/86/38]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1115(c), Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270]; [Pub. L. 97–352][/us/pl/97/352], § 2, Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(4), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898]; [Pub. L. 104–48][/us/pl/104/48], §§ 7, 8(a), Nov. 15, 1995, [109 Stat. 428][/us/stat/109/428], 429.)
 
  __Codification__ 
 
@@ -59,17 +59,17 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–48, § 7(d)(1)][/us/pl/104/48/s7/d/1], substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
+    1995—[Pub. L. 104–48][/us/pl/104/48], § 7(d)(1), substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–48, § 8(a)][/us/pl/104/48/s8/a], inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+    Subsec. (a). [Pub. L. 104–48][/us/pl/104/48], § 8(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-    Subsec. (b). [Pub. L. 104–48, § 7(a)][/us/pl/104/48/s7/a], inserted heading and amended text generally. Prior to amendment, text read as follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
+    Subsec. (b). [Pub. L. 104–48][/us/pl/104/48], § 7(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
 
-    Subsec. (c). [Pub. L. 104–48, § 7(b)][/us/pl/104/48/s7/b], inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: Provided, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent’s answer may be supplied in the form of depositions or verified statements of fact.”
+    Subsec. (c). [Pub. L. 104–48][/us/pl/104/48], § 7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: Provided, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent’s answer may be supplied in the form of depositions or verified statements of fact.”
 
-    Subsec. (d). [Pub. L. 104–48, § 7(c)][/us/pl/104/48/s7/c], (d)(2), inserted heading and substituted “$30,000” for “$15,000” in two places in text.
+    Subsec. (d). [Pub. L. 104–48][/us/pl/104/48], § 7(c), (d)(2), inserted heading and substituted “$30,000” for “$15,000” in two places in text.
 
-    Subsec. (e). [Pub. L. 104–48, § 7(d)(3)][/us/pl/104/48/s7/d/3], inserted heading.
+    Subsec. (e). [Pub. L. 104–48][/us/pl/104/48], § 7(d)(3), inserted heading.
 
     1991—Subsecs. (c), (d). [Pub. L. 102–237][/us/pl/102/237] inserted a period at end of subsec. (c) and substituted a period for semicolon at end of subsec. (d).
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–352, § 3][/us/pl/97/352/s3], Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667], provided that: 
+[Pub. L. 97–352][/us/pl/97/352], § 3, Oct. 18, 1982, [96 Stat. 1667][/us/stat/96/1667], provided that: 
 
 > “The amendment made by section 2 \[amending this section\] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 \[[7 U.S.C. 499f(e)][/us/usc/t7/s499f/e]\], before the date of enactment of this Act \[Oct. 18, 1982\].”
 
@@ -109,7 +109,7 @@
 
  __Filing and Handling Fees During Fiscal Years 1995 and 1996__ 
 
-    [Pub. L. 103–276, § 1][/us/pl/103/276/s1], July 5, 1994, [108 Stat. 1406][/us/stat/108/1406], during fiscal years 1995 and 1996, directed Secretary of Agriculture to require filing fee of $60 per petition for petitions alleging violation of [section 499b of this title][/us/usc/t7/s499b] and handling fee of $300 for petitions that warrant further action, which handling fee was to be included in determining amount of damages, with both fees to be deposited into the Perishable Agricultural Commodities Act Fund, prior to repeal by [Pub. L. 104–48, § 8(c)][/us/pl/104/48/s8/c], Nov. 15, 1995, [109 Stat. 429][/us/stat/109/429]. See subsec. (a)(2) of this section.
+    [Pub. L. 103–276][/us/pl/103/276], § 1, July 5, 1994, [108 Stat. 1406][/us/stat/108/1406], during fiscal years 1995 and 1996, directed Secretary of Agriculture to require filing fee of $60 per petition for petitions alleging violation of [section 499b of this title][/us/usc/t7/s499b] and handling fee of $300 for petitions that warrant further action, which handling fee was to be included in determining amount of damages, with both fees to be deposited into the Perishable Agricultural Commodities Act Fund, prior to repeal by [Pub. L. 104–48][/us/pl/104/48], § 8(c), Nov. 15, 1995, [109 Stat. 429][/us/stat/109/429]. See subsec. (a)(2) of this section.
 
 ----------
 
@@ -124,33 +124,33 @@
 [/us/usc/t7/s499e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499e
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
-[/us/act/1930-06-10/ch436/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs6
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F534
 [/us/act/1934-04-13/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch120
 [/us/stat/48/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F586
 [/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F728
-[/us/pl/86/507/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F4
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F200
-[/us/pl/87/725/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs8
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F675
-[/us/pl/92/231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F231%2Fs1
+[/us/pl/92/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F231
 [/us/stat/86/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F38
-[/us/pl/97/98/s1115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1115%2Fc
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1270
-[/us/pl/97/352/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352%2Fs2
+[/us/pl/97/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352
 [/us/stat/96/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1667
-[/us/pl/102/237/s1011/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F4
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F428
 [/us/usc/t7/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs556
-[/us/pl/104/48/s7/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs7%2Fd%2F1
-[/us/pl/104/48/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs8%2Fa
-[/us/pl/104/48/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs7%2Fa
-[/us/pl/104/48/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs7%2Fb
-[/us/pl/104/48/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs7%2Fc
-[/us/pl/104/48/s7/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs7%2Fd%2F3
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/97/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -160,16 +160,16 @@
 [/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
-[/us/pl/97/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352%2Fs3
+[/us/pl/97/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F352
 [/us/stat/96/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1667
 [/us/usc/t7/s499f/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499f%2Fe
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/103/276/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F276%2Fs1
+[/us/pl/103/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F276
 [/us/stat/108/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1406
 [/us/usc/t7/s499b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499b
-[/us/pl/104/48/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs8%2Fc
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F429
 
 

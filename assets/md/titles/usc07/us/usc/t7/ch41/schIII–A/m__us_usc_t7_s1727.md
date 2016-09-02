@@ -23,11 +23,11 @@
 
         To carry out the policies and accomplish the objectives described in [section 1691 of this title][/us/usc/t7/s1691], the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 301, as added [Pub. L. 95–88, title II, § 211(a)(2)][/us/pl/95/88/s211/a/2], Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; amended [Pub. L. 96–53, title II, § 204(a)][/us/pl/96/53/s204/a], Aug. 14, 1979, [93 Stat. 369][/us/stat/93/369]; [Pub. L. 99–198, title XI, § 1112(a)(3)][/us/pl/99/198/s1112/a/3], Dec. 23, 1985, [99 Stat. 1478][/us/stat/99/1478]; [Pub. L. 100–576, § 4(a)(1)][/us/pl/100/576/s4/a/1], Oct. 31, 1988, [102 Stat. 2898][/us/stat/102/2898]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3641][/us/stat/104/3641].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 301, as added [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 211(a)(2), Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; amended [Pub. L. 96–53, title II][/us/pl/96/53/tII], § 204(a), Aug. 14, 1979, [93 Stat. 369][/us/stat/93/369]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1112(a)(3), Dec. 23, 1985, [99 Stat. 1478][/us/stat/99/1478]; [Pub. L. 100–576][/us/pl/100/576], § 4(a)(1), Oct. 31, 1988, [102 Stat. 2898][/us/stat/102/2898]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3641][/us/stat/104/3641].)
 
  __Prior Provisions__ 
 
-    A prior section 301 of [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, [68 Stat. 458][/us/stat/68/458], which amended [section 1427 of this title][/us/usc/t7/s1427], was renumbered section 308 by [Pub. L. 95–88, title II, § 211(a)(1)][/us/pl/95/88/s211/a/1], Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548].
+    A prior section 301 of [act July 10, 1954, ch. 469, title III][/us/act/1954-07-10/ch469/tIII], [68 Stat. 458][/us/stat/68/458], which amended [section 1427 of this title][/us/usc/t7/s1427], was renumbered section 308 by [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 211(a)(1), Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548].
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Amendment of Food for Development Agreements; Disaster Assistance for Bangladesh__ 
 
-[Pub. L. 100–576, § 4(a)(2)][/us/pl/100/576/s4/a/2], (3), Oct. 31, 1988, [102 Stat. 2898][/us/stat/102/2898], provided that:
+[Pub. L. 100–576][/us/pl/100/576], § 4(a)(2), (3), Oct. 31, 1988, [102 Stat. 2898][/us/stat/102/2898], provided that:
 
 >     “(2) Food for Development agreements entered into under title III of that Act \[this subchapter\] before the date of enactment of this Act \[Oct. 31, 1988\] may be amended in order to implement the amendment made by paragraph (1) \[amending this section\].
 
@@ -61,7 +61,7 @@
 
  __Increased Immunizations of Children; Reporting Requirement__ 
 
-[Pub. L. 99–198, title XI, § 1112(b)][/us/pl/99/198/s1112/b], Dec. 23, 1985, [99 Stat. 1478][/us/stat/99/1478], as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
+[Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1112(b), Dec. 23, 1985, [99 Stat. 1478][/us/stat/99/1478], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
 
 > “In the implementation of health programs undertaken in relation to assistance provided under the Food for Peace Act \[this chapter\], it shall be the goal of the organizations and agencies involved to provide as many additional immunizations of children as possible. Such increased immunization activities should be taken in coordination with similar efforts of other organizations and in keeping with any national plans for expanded programs of immunization. The President shall include information concerning such immunization activities in the annual reports required by section 634 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2394][/us/usc/t22/s2394]\], including a report on the estimated number of immunizations provided each year pursuant to this subsection.”
 
@@ -78,20 +78,20 @@
 
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/95/88/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fa%2F2
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F548
-[/us/pl/96/53/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs204%2Fa
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F369
-[/us/pl/99/198/s1112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1112%2Fa%2F3
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1478
-[/us/pl/100/576/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576%2Fs4%2Fa%2F1
+[/us/pl/100/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576
 [/us/stat/102/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2898
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3641
-[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
+[/us/act/1954-07-10/ch469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2FtIII
 [/us/stat/68/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F458
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
-[/us/pl/95/88/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fa%2F1
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F548
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576
@@ -105,11 +105,11 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/95/88/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs215
 [/us/usc/t7/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1702
-[/us/pl/100/576/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576%2Fs4%2Fa%2F2
+[/us/pl/100/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F576
 [/us/stat/102/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2898
-[/us/pl/99/198/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1112%2Fb
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1478
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691

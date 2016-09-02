@@ -43,7 +43,7 @@
 
         Any information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of [section 136h of this title][/us/usc/t7/s136h].
 
-([June 25, 1947, ch. 125, § 7][/us/act/1947-06-25/ch125/s7], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 987][/us/stat/86/987]; amended [Pub. L. 95–396, § 13][/us/pl/95/396/s13], Sept. 30, 1978, [92 Stat. 829][/us/stat/92/829]; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (3)(F), (G), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 7, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 987][/us/stat/86/987]; amended [Pub. L. 95–396][/us/pl/95/396], § 13, Sept. 30, 1978, [92 Stat. 829][/us/stat/92/829]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(b)(1), (3)(F), (G), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
 
  __Prior Provisions__ 
 
@@ -51,17 +51,17 @@
 
  __Amendments__ 
 
-    1991—Subsec. (b). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “shall”.
+    1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
 
-    Subsec. (c)(1)(A) to (C). [Pub. L. 102–237, § 1006(b)(3)(F)][/us/pl/102/237/s1006/b/3/F], substituted “the producer” for “he”.
+    Subsec. (c)(1)(A) to (C). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(F), substituted “the producer” for “he”.
 
-    Subsec. (c)(2). [Pub. L. 102–237, § 1006(b)(3)(G)][/us/pl/102/237/s1006/b/3/G], substituted “the Administrator” for “him” after “inform” and “the producer” for “he”.
+    Subsec. (c)(2). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(G), substituted “the Administrator” for “him” after “inform” and “the producer” for “he”.
 
-    1978—Subsec. (a). [Pub. L. 95–396, § 13(1)][/us/pl/95/396/s13/1], made requirement of registration applicable to production of active ingredient used in producing a pesticide subject to this subchapter.
+    1978—Subsec. (a). [Pub. L. 95–396][/us/pl/95/396], § 13(1), made requirement of registration applicable to production of active ingredient used in producing a pesticide subject to this subchapter.
 
-    Subsec. (c)(1). [Pub. L. 95–396, § 13(2)][/us/pl/95/396/s13/2], required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable.
+    Subsec. (c)(1). [Pub. L. 95–396][/us/pl/95/396], § 13(2), required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable.
 
-    Subsec. (d). [Pub. L. 95–396, § 13(3)][/us/pl/95/396/s13/3], considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
+    Subsec. (d). [Pub. L. 95–396][/us/pl/95/396], § 13(3), considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
 
  __Effective Date__ 
 
@@ -76,21 +76,21 @@
 
 [/us/usc/t7/s136k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136k
 [/us/usc/t7/s136h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136h
-[/us/act/1947-06-25/ch125/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs7
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F987
-[/us/pl/95/396/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs13
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F829
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
 [/us/usc/t7/s135e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135e
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FF
-[/us/pl/102/237/s1006/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FG
-[/us/pl/95/396/s13/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs13%2F1
-[/us/pl/95/396/s13/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs13%2F2
-[/us/pl/95/396/s13/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs13%2F3
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 

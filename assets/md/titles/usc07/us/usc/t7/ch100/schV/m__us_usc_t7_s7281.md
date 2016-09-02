@@ -35,7 +35,7 @@
 
         (3) chapter 35 of title 44, United States Code (commonly know  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “known”. </sup></sup>  as the “Paperwork Reduction Act”).
 
-([Pub. L. 104–127, title I, § 161][/us/pl/104/127/s161], Apr. 4, 1996, [110 Stat. 934][/us/stat/110/934].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 161, Apr. 4, 1996, [110 Stat. 934][/us/stat/110/934].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/104/127/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs161
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F934
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/pl/104/127/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs161

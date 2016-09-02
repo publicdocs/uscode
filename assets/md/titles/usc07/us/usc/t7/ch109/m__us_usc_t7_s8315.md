@@ -17,7 +17,7 @@
 
     The Secretary may promulgate such regulations, and issue such orders, as the Secretary determines necessary to carry out this chapter.
 
-([Pub. L. 107–171, title X, § 10416][/us/pl/107/171/s10416], May 13, 2002, [116 Stat. 507][/us/stat/116/507].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10416, May 13, 2002, [116 Stat. 507][/us/stat/116/507].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10416
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

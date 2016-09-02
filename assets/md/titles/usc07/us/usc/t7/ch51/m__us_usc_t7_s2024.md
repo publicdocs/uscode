@@ -63,7 +63,7 @@
 
             (D) fourth, by the Secretary to carry out the approval, reauthorization, and compliance investigations of retail stores and wholesale food concerns under [section 2018 of this title][/us/usc/t7/s2018].
 
-([Pub. L. 88–525, § 15][/us/pl/88/525/s15], Aug. 31, 1964, [78 Stat. 708][/us/stat/78/708]; [Pub. L. 91–671, § 8][/us/pl/91/671/s8], Jan. 11, 1971, [84 Stat. 2052][/us/stat/84/2052]; [Pub. L. 93–347, § 2][/us/pl/93/347/s2], July 12, 1974, [88 Stat. 341][/us/stat/88/341]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 975][/us/stat/91/975]; [Pub. L. 96–249, title I, § 124][/us/pl/96/249/s124], May 26, 1980, [94 Stat. 363][/us/stat/94/363]; [Pub. L. 97–98, title XIII, § 1324][/us/pl/97/98/s1324], Dec. 22, 1981, [95 Stat. 1288][/us/stat/95/1288]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1747(a), (c), 1748, 1749, Nov. 28, 1990, [104 Stat. 3796][/us/stat/104/3796], 3797; [Pub. L. 104–193, title VIII, § 846][/us/pl/104/193/s846], Aug. 22, 1996, [110 Stat. 2334][/us/stat/110/2334]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4115(b)(10), May 22, 2008 [122 Stat. 1092][/us/stat/122/1092], 1107; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4115(b)(10), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1869; [Pub. L. 113–79, title IV, § 4030(h)][/us/pl/113/79/s4030/h], Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
+([Pub. L. 88–525][/us/pl/88/525], § 15, Aug. 31, 1964, [78 Stat. 708][/us/stat/78/708]; [Pub. L. 91–671][/us/pl/91/671], § 8, Jan. 11, 1971, [84 Stat. 2052][/us/stat/84/2052]; [Pub. L. 93–347][/us/pl/93/347], § 2, July 12, 1974, [88 Stat. 341][/us/stat/88/341]; [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 975][/us/stat/91/975]; [Pub. L. 96–249, title I][/us/pl/96/249/tI], § 124, May 26, 1980, [94 Stat. 363][/us/stat/94/363]; [Pub. L. 97–98, title XIII][/us/pl/97/98/tXIII], § 1324, Dec. 22, 1981, [95 Stat. 1288][/us/stat/95/1288]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], §§ 1747(a), (c), 1748, 1749, Nov. 28, 1990, [104 Stat. 3796][/us/stat/104/3796], 3797; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 846, Aug. 22, 1996, [110 Stat. 2334][/us/stat/110/2334]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4001(b), 4115(b)(10), May 22, 2008 [122 Stat. 1092][/us/stat/122/1092], 1107; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4001(b), 4115(b)(10), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1869; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(h), Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __Codification__ 
 
@@ -73,35 +73,35 @@
 
     2014—Subsec. (b)(1). [Pub. L. 113–79][/us/pl/113/79] substituted “a benefit” for “an benefit” in two places.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4115(b)(10)(A)][/us/pl/110/246/s4115/b/10/A], substituted “benefits” for “coupons”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(A), substituted “benefits” for “coupons”.
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 4115(b)(10)(B)][/us/pl/110/246/s4115/b/10/B], substituted “possesses benefits” for “possesses coupons, authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(B), substituted “possesses benefits” for “possesses coupons, authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (c). [Pub. L. 110–246, § 4115(b)(10)(C)][/us/pl/110/246/s4115/b/10/C], substituted “benefits” for “coupons” in two places.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(C), substituted “benefits” for “coupons” in two places.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (d). [Pub. L. 110–246, § 4115(b)(10)(D)][/us/pl/110/246/s4115/b/10/D], substituted “Benefits” for “Coupons”.
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(D), substituted “Benefits” for “Coupons”.
 
-    Subsec. (e). [Pub. L. 110–246, § 4115(b)(10)(G)][/us/pl/110/246/s4115/b/10/G], which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, was executed by making the substitution for “coupons, authorization cards or access devices”, to reflect the probable intent of Congress.
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(G), which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, was executed by making the substitution for “coupons, authorization cards or access devices”, to reflect the probable intent of Congress.
 
-    [Pub. L. 110–246, § 4115(b)(10)(E)][/us/pl/110/246/s4115/b/10/E], (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under [section 2016(d) of this title][/us/usc/t7/s2016/d] or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
+    [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(E), (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under [section 2016(d) of this title][/us/usc/t7/s2016/d] or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
-    Subsecs. (f) to (h). [Pub. L. 110–246, § 4115(b)(10)(E)][/us/pl/110/246/s4115/b/10/E], (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing false information in the report required under [section 2016(d) of this title][/us/usc/t7/s2016/d] shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+    Subsecs. (f) to (h). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(10)(E), (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing false information in the report required under [section 2016(d) of this title][/us/usc/t7/s2016/d] shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
-    1996—Subsec. (g). [Pub. L. 104–193, § 846(a)][/us/pl/104/193/s846/a], struck out “or intended to be furnished” after “that are furnished”.
+    1996—Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 846(a), struck out “or intended to be furnished” after “that are furnished”.
 
-    Subsec. (h). [Pub. L. 104–193, § 846(b)][/us/pl/104/193/s846/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–193][/us/pl/104/193], § 846(b), added subsec. (h).
 
-    1990—Subsec. (b)(1). [Pub. L. 101–624, § 1748][/us/pl/101/624/s1748], inserted “if such coupons, authorization cards, or access devices are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall,” after “chapter shall”, and inserted “but less than $5,000,” after “$100 or more” in two places.
+    1990—Subsec. (b)(1). [Pub. L. 101–624][/us/pl/101/624], § 1748, inserted “if such coupons, authorization cards, or access devices are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall,” after “chapter shall”, and inserted “but less than $5,000,” after “$100 or more” in two places.
 
-    [Pub. L. 101–624, § 1747(a)][/us/pl/101/624/s1747/a], substituted “, authorization cards, or access devices in any manner contrary to” for “or authorization cards in any manner not authorized by”, and inserted “or if the item used, transferred, acquired, altered, or possessed is an access device that has a value of $100 or more,” after “a value of $100 or more,”, and inserted “or if the item used, transferred, acquired, altered, or processed is an access device that has a value of less than $100,” after “a value of less than $100,”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1747(a), substituted “, authorization cards, or access devices in any manner contrary to” for “or authorization cards in any manner not authorized by”, and inserted “or if the item used, transferred, acquired, altered, or possessed is an access device that has a value of $100 or more,” after “a value of $100 or more,”, and inserted “or if the item used, transferred, acquired, altered, or processed is an access device that has a value of less than $100,” after “a value of less than $100,”.
 
-    Subsec. (c). [Pub. L. 101–624, § 1749][/us/pl/101/624/s1749], substituted “$20,000” for “$10,000” in two places.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1749, substituted “$20,000” for “$10,000” in two places.
 
-    Subsec. (g). [Pub. L. 101–624, § 1747(c)][/us/pl/101/624/s1747/c], substituted “, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to” for “or authorization cards in any manner not authorized by”.
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1747(c), substituted “, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to” for “or authorization cards in any manner not authorized by”.
 
     1981—Subsec. (b). [Pub. L. 97–98][/us/pl/97/98] designated existing provision as par. (1), inserted provisions specifying the minimum and maximum sentences for the second and any subsequent convictions for felonies and misdemeanors and provision authorizing the court to suspend a person convicted of a felony or misdemeanor under this subsection from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspension mandated by [section 2015(b)(1) of this title][/us/usc/t7/s2015/b/1], and added par. (2).
 
@@ -129,7 +129,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+    [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 ----------
 
@@ -142,50 +142,50 @@
 [/us/usc/t7/s2015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fb%2F1
 [/us/usc/t18/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs8
 [/us/usc/t7/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018
-[/us/pl/88/525/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs15
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F708
-[/us/pl/91/671/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671%2Fs8
+[/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
 [/us/stat/84/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2052
-[/us/pl/93/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F347%2Fs2
+[/us/pl/93/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F347
 [/us/stat/88/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F341
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F975
-[/us/pl/96/249/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F249%2Fs124
+[/us/pl/96/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F249%2FtI
 [/us/stat/94/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F363
-[/us/pl/97/98/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1324
+[/us/pl/97/98/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIII
 [/us/stat/95/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1288
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3796
-[/us/pl/104/193/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs846
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2334
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4030/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fh
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s4115/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FA
-[/us/pl/110/246/s4115/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FB
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FC
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/b/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FD
-[/us/pl/110/246/s4115/b/10/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FG
-[/us/pl/110/246/s4115/b/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fd
-[/us/pl/110/246/s4115/b/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F10%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fd
-[/us/pl/104/193/s846/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs846%2Fa
-[/us/pl/104/193/s846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs846%2Fb
-[/us/pl/101/624/s1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1748
-[/us/pl/101/624/s1747/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1747%2Fa
-[/us/pl/101/624/s1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1749
-[/us/pl/101/624/s1747/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1747%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t7/s2015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fb%2F1
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -214,7 +214,7 @@
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1338
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
 
 

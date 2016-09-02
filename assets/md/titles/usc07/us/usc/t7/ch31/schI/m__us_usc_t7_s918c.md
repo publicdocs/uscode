@@ -73,7 +73,7 @@
 
         There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2006 through 2012.
 
-([Pub. L. 95–617, title VI, § 609][/us/pl/95/617/s609], as added [Pub. L. 109–58, title II, § 209][/us/pl/109/58/s209], Aug. 8, 2005, [119 Stat. 657][/us/stat/119/657].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 609, as added [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 209, Aug. 8, 2005, [119 Stat. 657][/us/stat/119/657].)
 
  __Codification__ 
 
@@ -90,8 +90,8 @@
 ----------
 ----------
 
-[/us/pl/95/617/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs609
-[/us/pl/109/58/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs209
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F657
 [/us/usc/t16/s2602/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602%2F14
 

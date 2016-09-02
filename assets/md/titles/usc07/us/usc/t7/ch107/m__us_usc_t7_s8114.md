@@ -193,7 +193,7 @@
 
         There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2018, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
 
-([Pub. L. 110–234, title VII, § 7526][/us/pl/110/234/s7526], May 22, 2008, [122 Stat. 1274][/us/stat/122/1274]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7526, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(5), 7516, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 903.)
+([Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7526, May 22, 2008, [122 Stat. 1274][/us/stat/122/1274]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7526, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7128(b)(5), 7516, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 903.)
 
  __References in Text__ 
 
@@ -211,37 +211,37 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4)(B). [Pub. L. 113–79, § 7516(a)(1)][/us/pl/113/79/s7516/a/1], substituted “other appropriate Federal agencies (as determined by the Secretary)” for “the Department of Energy”.
+    2014—Subsec. (a)(4)(B). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(1), substituted “other appropriate Federal agencies (as determined by the Secretary)” for “the Department of Energy”.
 
-    Subsec. (b)(1)(A). [Pub. L. 113–79, § 7516(a)(2)(A)][/us/pl/113/79/s7516/a/2/A], struck out “at South Dakota State University” after “center”.
+    Subsec. (b)(1)(A). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(A), struck out “at South Dakota State University” after “center”.
 
-    Subsec. (b)(1)(B). [Pub. L. 113–79, § 7516(a)(2)(B)][/us/pl/113/79/s7516/a/2/B], struck out “at the University of Tennessee at Knoxville” after “center” in introductory provisions.
+    Subsec. (b)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(B), struck out “at the University of Tennessee at Knoxville” after “center” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 113–79, § 7516(a)(2)(C)][/us/pl/113/79/s7516/a/2/C], struck out “at Oklahoma State University” after “center”.
+    Subsec. (b)(1)(C). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(C), struck out “at Oklahoma State University” after “center”.
 
-    Subsec. (b)(1)(D). [Pub. L. 113–79, § 7516(a)(2)(D)][/us/pl/113/79/s7516/a/2/D], struck out “at Oregon State University” after “center” in introductory provisions.
+    Subsec. (b)(1)(D). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(D), struck out “at Oregon State University” after “center” in introductory provisions.
 
-    Subsec. (b)(1)(E). [Pub. L. 113–79, § 7516(a)(2)(E)][/us/pl/113/79/s7516/a/2/E], struck out “at Cornell University” after “center”.
+    Subsec. (b)(1)(E). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(E), struck out “at Cornell University” after “center”.
 
-    Subsec. (b)(1)(F). [Pub. L. 113–79, § 7516(a)(2)(F)][/us/pl/113/79/s7516/a/2/F], struck out “at the University of Hawaii” after “subcenter”.
+    Subsec. (b)(1)(F). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(2)(F), struck out “at the University of Hawaii” after “subcenter”.
 
-    Subsec. (c)(1)(B). [Pub. L. 113–79, § 7516(a)(3)(A)][/us/pl/113/79/s7516/a/3/A], substituted “integrated, multistate research, extension, and education programs on technology development and technology implementation” for “multistate—
+    Subsec. (c)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(3)(A), substituted “integrated, multistate research, extension, and education programs on technology development and technology implementation” for “multistate—
 
     “(i) research, extension, and education programs on technology development; and
 
     “(ii) integrated research, extension, and education programs on technology implementation”.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 113–79, § 7516(a)(3)(B)][/us/pl/113/79/s7516/a/3/B], (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to funding allocation.
+    Subsec. (c)(1)(C), (D). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(3)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to funding allocation.
 
-    Subsec. (c)(1)(D)(iv)(IV). [Pub. L. 113–79, § 7128(b)(5)][/us/pl/113/79/s7128/b/5], added subcl. (IV).
+    Subsec. (c)(1)(D)(iv)(IV). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(5), added subcl. (IV).
 
-    Subsec. (d)(1). [Pub. L. 113–79, § 7516(a)(4)(A)][/us/pl/113/79/s7516/a/4/A], struck out “in accordance with paragraph (2)” after “industry” and substituted “bioproducts” for “gasification” and “other appropriate Federal agencies” for “the Department of Energy”.
+    Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(4)(A), struck out “in accordance with paragraph (2)” after “industry” and substituted “bioproducts” for “gasification” and “other appropriate Federal agencies” for “the Department of Energy”.
 
-    Subsec. (d)(2) to (4). [Pub. L. 113–79, § 7516(a)(4)(B)][/us/pl/113/79/s7516/a/4/B], (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “With respect to gasification research activity, the sun grant centers and subcenter shall coordinate planning with land-grant colleges and universities in their respective regions that have ongoing research activities in that area.”
+    Subsec. (d)(2) to (4). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “With respect to gasification research activity, the sun grant centers and subcenter shall coordinate planning with land-grant colleges and universities in their respective regions that have ongoing research activities in that area.”
 
-    Subsec. (f)(1). [Pub. L. 113–79, § 7516(b)][/us/pl/113/79/s7516/b], substituted “subsection (c)(1)(C)(i)” for “subsection (c)(1)(D)(i)”.
+    Subsec. (f)(1). [Pub. L. 113–79][/us/pl/113/79], § 7516(b), substituted “subsection (c)(1)(C)(i)” for “subsection (c)(1)(D)(i)”.
 
-    Subsec. (g). [Pub. L. 113–79, § 7516(a)(5)][/us/pl/113/79/s7516/a/5], substituted “2018” for “2012”.
+    Subsec. (g). [Pub. L. 113–79][/us/pl/113/79], § 7516(a)(5), substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -264,11 +264,11 @@
 [/us/usc/t7/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6971
 [/us/usc/t7/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6971
 [/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
-[/us/pl/110/234/s7526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7526
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1274
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/110/246/s7511/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F4
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -277,20 +277,20 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8109
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/113/79/s7516/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F1
-[/us/pl/113/79/s7516/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FA
-[/us/pl/113/79/s7516/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FB
-[/us/pl/113/79/s7516/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FC
-[/us/pl/113/79/s7516/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FD
-[/us/pl/113/79/s7516/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FE
-[/us/pl/113/79/s7516/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F2%2FF
-[/us/pl/113/79/s7516/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F3%2FA
-[/us/pl/113/79/s7516/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F3%2FB
-[/us/pl/113/79/s7128/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F5
-[/us/pl/113/79/s7516/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F4%2FA
-[/us/pl/113/79/s7516/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F4%2FB
-[/us/pl/113/79/s7516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fb
-[/us/pl/113/79/s7516/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7516%2Fa%2F5
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

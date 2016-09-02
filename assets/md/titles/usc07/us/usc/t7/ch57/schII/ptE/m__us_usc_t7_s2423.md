@@ -19,13 +19,13 @@
 
     (b) The Secretary, after such notice as the Secretary may prescribe, may issue a certificate of plant variety protection to the applicant and such of the other breeders (or their successors in interest) as may have subsequently joined in the application.
 
-([Pub. L. 91–577, title II, § 53][/us/pl/91/577/s53], Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349, § 13(g)][/us/pl/103/349/s13/g], Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 53, Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349][/us/pl/103/349], § 13(g), Oct. 6, 1994, [108 Stat. 3143][/us/stat/108/3143].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–349, § 13(g)(1)][/us/pl/103/349/s13/g/1], substituted “one person (or the successor of the person)” for “one (or his successor)”.
+    1994—Subsec. (a). [Pub. L. 103–349][/us/pl/103/349], § 13(g)(1), substituted “one person (or the successor of the person)” for “one (or his successor)”.
 
-    Subsec. (b). [Pub. L. 103–349, § 13(g)(2)][/us/pl/103/349/s13/g/2], substituted “the Secretary” for “he” before “may”.
+    Subsec. (b). [Pub. L. 103–349][/us/pl/103/349], § 13(g)(2), substituted “the Secretary” for “he” before “may”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/91/577/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs53
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1548
-[/us/pl/103/349/s13/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fg
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3143
-[/us/pl/103/349/s13/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fg%2F1
-[/us/pl/103/349/s13/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fg%2F2
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
 [/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401

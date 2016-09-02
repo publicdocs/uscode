@@ -475,7 +475,7 @@
 
             Each derivatives clearing organization that clears swaps shall provide to the Commission (including any designee of the Commission) information under paragraph (2) in such form and at such frequency as is required by the Commission to comply with the public reporting requirements contained in [section 2(a)(13) of this title][/us/usc/t7/s2/a/13].
 
-([Sept. 21, 1922, ch. 369, § 5b][/us/act/1922-09-21/ch369/s5b], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396; amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1685–1687, 1693, 1695; [Pub. L. 114–94, div. G, title LXXXVI, § 86001(a)][/us/pl/114/94/s86001/a], Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5b, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396; amended [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1685–1687, 1693, 1695; [Pub. L. 114–94, div. G, title LXXXVI][/us/pl/114/94/dG/tLXXXVI], § 86001(a), Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797].)
 
  __References in Text__ 
 
@@ -493,23 +493,23 @@
 
     “(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title][/us/usc/t7/s12].”
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 725(a)][/us/pl/111/203/s725/a], added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
-    [Pub. L. 111–203, § 721(e)(6)][/us/pl/111/203/s721/e/6], substituted “section 1a” for “section 1a(9)” in introductory provisions.
+    [Pub. L. 111–203][/us/pl/111/203], § 721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–203, § 725(a)][/us/pl/111/203/s725/a], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.”
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.”
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 725(c)][/us/pl/111/203/s725/c], added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 725(c), added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 725(h)][/us/pl/111/203/s725/h], inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.”
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 725(h), inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.”
 
-    Subsecs. (g) to (i). [Pub. L. 111–203, § 725(b)][/us/pl/111/203/s725/b], added subsecs. (g) to (i).
+    Subsecs. (g) to (i). [Pub. L. 111–203][/us/pl/111/203], § 725(b), added subsecs. (g) to (i).
 
-    Subsec. (k). [Pub. L. 111–203, § 725(e)][/us/pl/111/203/s725/e], added subsec. (k).
+    Subsec. (k). [Pub. L. 111–203][/us/pl/111/203], § 725(e), added subsec. (k).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. G, title LXXXVI, § 86001(d)][/us/pl/114/94/s86001/d], Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798], provided that: 
+[Pub. L. 114–94, div. G, title LXXXVI][/us/pl/114/94/dG/tLXXXVI], § 86001(d), Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 24a of this title][/us/usc/t7/s24a], and [section 78m of Title 15][/us/usc/t15/s78m], Commerce and Trade\] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([Public Law 111–203][/us/pl/111/203]).”
 
@@ -519,7 +519,7 @@
 
  __Conflicts of Interest__ 
 
-[Pub. L. 111–203, title VII, § 725(d)][/us/pl/111/203/s725/d], July 21, 2010, [124 Stat. 1692][/us/stat/124/1692], provided that: 
+[Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 725(d), July 21, 2010, [124 Stat. 1692][/us/stat/124/1692], provided that: 
 
 > “The Commodity Futures Trading Commission shall adopt rules mitigating conflicts of interest in connection with the conduct of business by a swap dealer or a major swap participant with a derivatives clearing organization, board of trade, or a swap execution facility that clears or trades swaps in which the swap dealer or major swap participant has a material debt or material equity investment.”
 
@@ -542,12 +542,12 @@
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s2/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F13
-[/us/act/1922-09-21/ch369/s5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5b
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
-[/us/pl/114/94/s86001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fa
+[/us/pl/114/94/dG/tLXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXVI
 [/us/stat/129/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1797
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
@@ -556,14 +556,14 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/pl/111/203/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fa
-[/us/pl/111/203/s721/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F6
-[/us/pl/111/203/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fa
-[/us/pl/111/203/s725/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fc
-[/us/pl/111/203/s725/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fh
-[/us/pl/111/203/s725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fb
-[/us/pl/111/203/s725/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fe
-[/us/pl/114/94/s86001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/114/94/dG/tLXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXVI
 [/us/stat/129/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1798
 [/us/usc/t7/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs24a
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
@@ -572,7 +572,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
-[/us/pl/111/203/s725/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fd
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1692
 [/us/pl/111/203/s725/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fd
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

@@ -87,19 +87,19 @@
 
         For purposes of [section 552b of title 5][/us/usc/t5/s552b], the Telephone Bank Board shall be treated as an agency within the meaning of subsection (a)(1) of such section.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 405, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 32][/us/stat/85/32]; amended [Pub. L. 93–32, § 4][/us/pl/93/32/s4], May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 101–624, title XXIII, § 2363(a)][/us/pl/101/624/s2363/a], (b)(1), (c), Nov. 28, 1990, [104 Stat. 4042–4044][/us/stat/104/4042-4044]; [Pub. L. 103–354, title II, § 235(a)(7)][/us/pl/103/354/s235/a/7], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 405, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 32][/us/stat/85/32]; amended [Pub. L. 93–32][/us/pl/93/32], § 4, May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2363(a), (b)(1), (c), Nov. 28, 1990, [104 Stat. 4042–4044][/us/stat/104/4042-4044]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(7), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
     1994—Subsec. (b)(1)(A). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Rural Electrification Administration”.
 
-    1990—[Pub. L. 101–624, § 2363(a)][/us/pl/101/624/s2363/a], substituted “Board of directors” for “Telephone Bank Board” in section catchline.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 2363(a), substituted “Board of directors” for “Telephone Bank Board” in section catchline.
 
-    Subsecs. (a) to (f). [Pub. L. 101–624, § 2363(a)][/us/pl/101/624/s2363/a], struck out subsecs. (a) to (f) and inserted new subsecs. (a) to (f): in subsec. (a) struck out provisions relating to size of board, in subsec. (b) substituted provisions relating to size of board and to appointment and election of all board members for provisions naming Administrator of Rural Electrification Administration and Governor of Farm Credit Administration to board, and authorizing presidential appointment of 5 other members, in subsec. (c) substituted provisions relating to election of 6 cooperative and commercial members for provisions authorizing presidential appointment of initial 6 cooperative and commercial members, in subsec. (d) substituted provisions relating to compensation for provisions relating to interim election of 6 cooperative and commercial members, in subsec. (e) substituted provisions relating to succession for provisions relating to regular election of 6 cooperative and commercial members, and in subsec. (f) substituted provisions relating to chairperson for provisions relating to service after expiration of term, compensation and expenses.
+    Subsecs. (a) to (f). [Pub. L. 101–624][/us/pl/101/624], § 2363(a), struck out subsecs. (a) to (f) and inserted new subsecs. (a) to (f): in subsec. (a) struck out provisions relating to size of board, in subsec. (b) substituted provisions relating to size of board and to appointment and election of all board members for provisions naming Administrator of Rural Electrification Administration and Governor of Farm Credit Administration to board, and authorizing presidential appointment of 5 other members, in subsec. (c) substituted provisions relating to election of 6 cooperative and commercial members for provisions authorizing presidential appointment of initial 6 cooperative and commercial members, in subsec. (d) substituted provisions relating to compensation for provisions relating to interim election of 6 cooperative and commercial members, in subsec. (e) substituted provisions relating to succession for provisions relating to regular election of 6 cooperative and commercial members, and in subsec. (f) substituted provisions relating to chairperson for provisions relating to service after expiration of term, compensation and expenses.
 
-    Subsecs. (g) to (i). [Pub. L. 101–624, § 2363(b)(1)][/us/pl/101/624/s2363/b/1], inserted headings.
+    Subsecs. (g) to (i). [Pub. L. 101–624][/us/pl/101/624], § 2363(b)(1), inserted headings.
 
-    Subsec. (j). [Pub. L. 101–624, § 2363(c)][/us/pl/101/624/s2363/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 101–624][/us/pl/101/624], § 2363(c), added subsec. (j).
 
     1973—Subsec. (e). [Pub. L. 93–32][/us/pl/93/32] substituted provisions directing that the cooperative-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class and that the commercial-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class, for provisions that three directors be elected from among the directors, managers, and employees of cooperative-type entities and organizations controlled by such entities holding class B or class C stock and that three directors be elected from among the directors, managers, and employees of commercial-type entities and organizations controlled by such entities holding class B or class C stock, and inserted provisions prohibiting cumulative voting.
 
@@ -124,19 +124,19 @@
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F32
-[/us/pl/93/32/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs4
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/101/624/s2363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4042-4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4042-4044
-[/us/pl/103/354/s235/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/101/624/s2363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fa
-[/us/pl/101/624/s2363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fa
-[/us/pl/101/624/s2363/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fb%2F1
-[/us/pl/101/624/s2363/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fc
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/pl/93/32/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs12

@@ -17,7 +17,7 @@
 
     To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to persons engaged in the harvesting, marketing, ginning, or other handling of cotton, hereinafter referred to as handlers. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-([Pub. L. 89–502, § 3][/us/pl/89/502/s3], July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
+([Pub. L. 89–502][/us/pl/89/502], § 3, July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs3
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F280
 
 

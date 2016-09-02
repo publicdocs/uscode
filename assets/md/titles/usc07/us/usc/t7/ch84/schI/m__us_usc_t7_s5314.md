@@ -29,7 +29,7 @@
 
         Nothing in this subchapter may be construed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
 
-([Pub. L. 101–445, title I, § 104][/us/pl/101/445/s104], Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 104, Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/usc/t7/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313%2Fa
 [/us/usc/t7/s5313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313%2Fb
 [/us/usc/t7/s5313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313%2Fc
-[/us/pl/101/445/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs104
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1040
 
 

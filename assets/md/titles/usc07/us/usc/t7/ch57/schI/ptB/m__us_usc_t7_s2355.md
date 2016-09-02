@@ -17,7 +17,7 @@
 
     Any document to be filed in the Plant Variety Protection Office and which is required by any law or regulation to be executed in a specified manner may be provisionally accepted by the Secretary despite a defective execution, provided a properly executed document is submitted within such time as may be prescribed.
 
-([Pub. L. 91–577, title I, § 25][/us/pl/91/577/s25], Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 25, Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs25
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1545
 
 

@@ -17,7 +17,7 @@
 
     The governors of the several States to which scrip shall be issued under the provisions of this subchapter shall be required to report annually to Congress all sales made of such scrip until the whole shall be disposed of, the amount received for the same, and what appropriation has been made of the proceeds.
 
-([July 2, 1862, ch. 130, § 8][/us/act/1862-07-02/ch130/s8], [12 Stat. 505][/us/stat/12/505].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 8, [12 Stat. 505][/us/stat/12/505].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1862-07-02/ch130/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs8
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F505
 
 

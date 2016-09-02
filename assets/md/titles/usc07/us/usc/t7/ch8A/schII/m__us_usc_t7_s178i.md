@@ -17,7 +17,7 @@
 
     In carrying out the provisions of this subchapter, the Secretaries and the Joint Commission shall cooperate with each other in the conduct of their activities under this subchapter, and shall ensure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies such as the Department of the Interior, National Science Foundation, Bureau of Indian Affairs, Department of Energy, Department of State, Department of Defense, Treasury Department, Federal Emergency Management Agency, and others, in order to prevent duplication of effort, ensure compatibility with ongoing programs and policies, and to fully exploit the opportunities inherent in the culture and manufacture of native latex.
 
-([Pub. L. 95–592, § 11][/us/pl/95/592/s11], Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284, § 11][/us/pl/98/284/s11], May 16, 1984, [98 Stat. 184][/us/stat/98/184]; [Pub. L. 102–237, title X, § 1005(2)][/us/pl/102/237/s1005/2], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
+([Pub. L. 95–592][/us/pl/95/592], § 11, Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284][/us/pl/98/284], § 11, May 16, 1984, [98 Stat. 184][/us/stat/98/184]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1005(2), Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/95/592/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs11
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
-[/us/pl/98/284/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs11
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F184
-[/us/pl/102/237/s1005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1005%2F2
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284

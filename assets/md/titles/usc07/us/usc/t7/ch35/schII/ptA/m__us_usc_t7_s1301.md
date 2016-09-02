@@ -131,7 +131,7 @@
 
         (13)
 
-            (A) Repealed. [Pub. L. 87–703, title III, § 320(1)][/us/pl/87/703/s320/1], Sept. 27, 1962, [76 Stat. 625][/us/stat/76/625].
+            (A) Repealed. [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 320(1), Sept. 27, 1962, [76 Stat. 625][/us/stat/76/625].
 
             (B) “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county, adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
 
@@ -173,7 +173,7 @@
 
         In making any determination under this chapter or under the Agricultural Act of 1949 \[[7 U.S.C. 1421][/us/usc/t7/s1421] et seq.\] with respect to the carryover of any agricultural commodity, the Secretary shall exclude from such determination the stocks of any commodity acquired pursuant to, or under the authority of, the Strategic and Critical Materials Stock Piling Act ([60 Stat. 596][/us/stat/60/596]) \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\].
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 301, [52 Stat. 38][/us/stat/52/38]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], §§ 2–4, [52 Stat. 202][/us/stat/52/202]; [June 13, 1940, ch. 360, § 1][/us/act/1940-06-13/ch360/s1], [54 Stat. 392][/us/stat/54/392]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], §§ 3–5, [54 Stat. 727][/us/stat/54/727], 728; [Nov. 22, 1940, ch. 914][/us/act/1940-11-22/ch914], §§ 1, 3, 4, [54 Stat. 1209][/us/stat/54/1209], 1210; [Nov. 25, 1940, ch. 917][/us/act/1940-11-25/ch917], [54 Stat. 1211][/us/stat/54/1211]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], §§ 2, 3, [55 Stat. 91][/us/stat/55/91], 92; [July 9, 1942, ch. 497, § 1(4)][/us/act/1942-07-09/ch497/s1/4], (5), [56 Stat. 654][/us/stat/56/654]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 201(a), (b), (d), (e), [62 Stat. 1250][/us/stat/62/1250]; [Aug. 29, 1949, ch. 518, § 2(a)][/us/act/1949-08-29/ch518/s2/a], [63 Stat. 675][/us/stat/63/675]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, §§ 409(a)–(d), 415(c)–(e), 418(b), (c), [63 Stat. 1056–1058][/us/stat/63/1056-1058], 1062; [July 8, 1952, ch. 587][/us/act/1952-07-08/ch587], [66 Stat. 442][/us/stat/66/442]; [July 17, 1952, ch. 933, § 1][/us/act/1952-07-17/ch933/s1], [66 Stat. 758][/us/stat/66/758]; [July 14, 1953, ch. 194, § 6][/us/act/1953-07-14/ch194/s6], [67 Stat. 152][/us/stat/67/152]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, §§ 301, 302, [68 Stat. 902][/us/stat/68/902]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title V, § 502, title VI, § 602, [70 Stat. 212][/us/stat/70/212], 213; [Pub. L. 85–92, § 1][/us/pl/85/92/s1], July 10, 1957, [71 Stat. 284][/us/stat/71/284]; [Pub. L. 87–703, title III, § 320][/us/pl/87/703/s320], Sept. 27, 1962, [76 Stat. 625][/us/stat/76/625]; [Pub. L. 88–297, title I, § 106(5)][/us/pl/88/297/s106/5]–(7), Apr. 11, 1964, [78 Stat. 177][/us/stat/78/177]; [Pub. L. 89–321, title IV, § 403][/us/pl/89/321/s403], title V, §§ 509, 511(a), Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197], 1204, 1205; [Pub. L. 91–524, title IV, § 405(b)][/us/pl/91/524/s405/b], Nov. 30, 1970, as added [Pub. L. 93–86, § 1(12)(a)][/us/pl/93/86/s1/12/a], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229]; [Pub. L. 94–61, § 1][/us/pl/94/61/s1], July 25, 1975, [89 Stat. 302][/us/stat/89/302]; [Pub. L. 97–218, title III, § 303(a)][/us/pl/97/218/s303/a], July 20, 1982, [96 Stat. 211][/us/stat/96/211]; [Pub. L. 99–198, title X, § 1020][/us/pl/99/198/s1020], Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 99–272, title I, § 1103(a)][/us/pl/99/272/s1103/a], Apr. 7, 1986, [100 Stat. 85][/us/stat/100/85]; [Pub. L. 107–171, title I, § 1610][/us/pl/107/171/s1610], May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 108–357, title VI, § 611(f)][/us/pl/108/357/s611/f], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 301, [52 Stat. 38][/us/stat/52/38]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], §§ 2–4, [52 Stat. 202][/us/stat/52/202]; [June 13, 1940, ch. 360][/us/act/1940-06-13/ch360], § 1, [54 Stat. 392][/us/stat/54/392]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], §§ 3–5, [54 Stat. 727][/us/stat/54/727], 728; [Nov. 22, 1940, ch. 914][/us/act/1940-11-22/ch914], §§ 1, 3, 4, [54 Stat. 1209][/us/stat/54/1209], 1210; [Nov. 25, 1940, ch. 917][/us/act/1940-11-25/ch917], [54 Stat. 1211][/us/stat/54/1211]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], §§ 2, 3, [55 Stat. 91][/us/stat/55/91], 92; [July 9, 1942, ch. 497][/us/act/1942-07-09/ch497], § 1(4), (5), [56 Stat. 654][/us/stat/56/654]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 201(a), (b), (d), (e), [62 Stat. 1250][/us/stat/62/1250]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 2(a), [63 Stat. 675][/us/stat/63/675]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, §§ 409(a)–(d), 415(c)–(e), 418(b), (c), [63 Stat. 1056–1058][/us/stat/63/1056-1058], 1062; [July 8, 1952, ch. 587][/us/act/1952-07-08/ch587], [66 Stat. 442][/us/stat/66/442]; [July 17, 1952, ch. 933][/us/act/1952-07-17/ch933], § 1, [66 Stat. 758][/us/stat/66/758]; [July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 6, [67 Stat. 152][/us/stat/67/152]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, §§ 301, 302, [68 Stat. 902][/us/stat/68/902]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title V, § 502, title VI, § 602, [70 Stat. 212][/us/stat/70/212], 213; [Pub. L. 85–92][/us/pl/85/92], § 1, July 10, 1957, [71 Stat. 284][/us/stat/71/284]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 320, Sept. 27, 1962, [76 Stat. 625][/us/stat/76/625]; [Pub. L. 88–297, title I][/us/pl/88/297/tI], § 106(5)–(7), Apr. 11, 1964, [78 Stat. 177][/us/stat/78/177]; [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 403, title V, §§ 509, 511(a), Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197], 1204, 1205; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 405(b), Nov. 30, 1970, as added [Pub. L. 93–86][/us/pl/93/86], § 1(12)(a), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229]; [Pub. L. 94–61][/us/pl/94/61], § 1, July 25, 1975, [89 Stat. 302][/us/stat/89/302]; [Pub. L. 97–218, title III][/us/pl/97/218/tIII], § 303(a), July 20, 1982, [96 Stat. 211][/us/stat/96/211]; [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1020, Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 99–272, title I][/us/pl/99/272/tI], § 1103(a), Apr. 7, 1986, [100 Stat. 85][/us/stat/100/85]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1610, May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(f), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __References in Text__ 
 
@@ -185,35 +185,35 @@
 
     The Agricultural Act of 1949, referred to in subsec. (d), is [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], [63 Stat. 1051][/us/stat/63/1051], as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
  __Amendments__ 
 
-    2004—Subsec. (b)(3)(C), (D). [Pub. L. 108–357, § 611(f)(1)][/us/pl/108/357/s611/f/1], redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
+    2004—Subsec. (b)(3)(C), (D). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
 
-    Subsec. (b)(6)(A). [Pub. L. 108–357, § 611(f)(2)][/us/pl/108/357/s611/f/2], struck out “tobacco,” after “rice,”.
+    Subsec. (b)(6)(A). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(2), struck out “tobacco,” after “rice,”.
 
-    Subsec. (b)(10)(B), (C). [Pub. L. 108–357, § 611(f)(3)][/us/pl/108/357/s611/f/3], redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “normal supply” in the case of tobacco.
+    Subsec. (b)(10)(B), (C). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “normal supply” in the case of tobacco.
 
-    Subsec. (b)(11)(B). [Pub. L. 108–357, § 611(f)(4)][/us/pl/108/357/s611/f/4], struck out “and tobacco” after “cotton”.
+    Subsec. (b)(11)(B). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(4), struck out “and tobacco” after “cotton”.
 
-    Subsec. (b)(12). [Pub. L. 108–357, § 611(f)(5)][/us/pl/108/357/s611/f/5], struck out “tobacco,” after “rice,”.
+    Subsec. (b)(12). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(5), struck out “tobacco,” after “rice,”.
 
-    Subsec. (b)(14). [Pub. L. 108–357, § 611(f)(6)][/us/pl/108/357/s611/f/6], struck out “(A)” after “(14)” and subpars. (B) to (D) which defined “reserve supply level” of tobacco, “reserve stock level” in the case of Flue-cured tobacco, and “reserve stock level” in the case of Burley tobacco.
+    Subsec. (b)(14). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(6), struck out “(A)” after “(14)” and subpars. (B) to (D) which defined “reserve supply level” of tobacco, “reserve stock level” in the case of Flue-cured tobacco, and “reserve stock level” in the case of Burley tobacco.
 
-    Subsec. (b)(15). [Pub. L. 108–357, § 611(f)(7)][/us/pl/108/357/s611/f/7], (10), redesignated par. (16) as (15) and struck out former par. (15) which defined “tobacco” and “kind of tobacco”.
+    Subsec. (b)(15). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(7), (10), redesignated par. (16) as (15) and struck out former par. (15) which defined “tobacco” and “kind of tobacco”.
 
-    Subsec. (b)(16). [Pub. L. 108–357, § 611(f)(10)][/us/pl/108/357/s611/f/10], redesignated par. (16) as (15).
+    Subsec. (b)(16). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(10), redesignated par. (16) as (15).
 
-    Subsec. (b)(16)(B), (C). [Pub. L. 108–357, § 611(f)(8)][/us/pl/108/357/s611/f/8], redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “total supply” of tobacco for any marketing year.
+    Subsec. (b)(16)(B), (C). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(8), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “total supply” of tobacco for any marketing year.
 
-    Subsec. (b)(17). [Pub. L. 108–357, § 611(f)(9)][/us/pl/108/357/s611/f/9], struck out par. (17) which defined “domestic manufacturer of cigarettes”.
+    Subsec. (b)(17). [Pub. L. 108–357][/us/pl/108/357], § 611(f)(9), struck out par. (17) which defined “domestic manufacturer of cigarettes”.
 
     2002—Subsec. (b)(14)(C). [Pub. L. 107–171][/us/pl/107/171] substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
 
-    1986—Subsec. (b)(14)(C), (D). [Pub. L. 99–272, § 1103(a)(1)][/us/pl/99/272/s1103/a/1], added subpars. (C) and (D).
+    1986—Subsec. (b)(14)(C), (D). [Pub. L. 99–272][/us/pl/99/272], § 1103(a)(1), added subpars. (C) and (D).
 
-    Subsec. (b)(17). [Pub. L. 99–272, § 1103(a)(2)][/us/pl/99/272/s1103/a/2], added par. (17).
+    Subsec. (b)(17). [Pub. L. 99–272][/us/pl/99/272], § 1103(a)(2), added par. (17).
 
     1985—Subsec. (b)(7). [Pub. L. 99–198][/us/pl/99/198] substituted “Corn, September 1–August 31” for “Corn, October 1–September 30”.
 
@@ -223,13 +223,13 @@
 
     1973—Subsec. (b)(13)(K). Pub. L, 91–524, § 405(b), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily inserted “(five calendar years in the case of wheat)” after “three calendar years”. See Effective and Termination Dates of 1973 Amendment note below.
 
-    1965—Subsec. (b)(8). [Pub. L. 89–321, § 509(1)][/us/pl/89/321/s509/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    1965—Subsec. (b)(8). [Pub. L. 89–321][/us/pl/89/321], § 509(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (b)(9). [Pub. L. 89–321, § 511(a)][/us/pl/89/321/s511/a], struck out “cotton” and “wheat” in first sentence, and inserted definition of normal production when applied to any number of acres of cotton or wheat.
+    Subsec. (b)(9). [Pub. L. 89–321][/us/pl/89/321], § 511(a), struck out “cotton” and “wheat” in first sentence, and inserted definition of normal production when applied to any number of acres of cotton or wheat.
 
     Subsec. (b)(13). [Pub. L. 89–321][/us/pl/89/321], §§ 403, 509(2), added subpars. (J), (K), (L), and (M).
 
-    1964—Subsec. (b)(13). [Pub. L. 88–297, § 106(5)][/us/pl/88/297/s106/5]–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
+    1964—Subsec. (b)(13). [Pub. L. 88–297][/us/pl/88/297], § 106(5)–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
 
     1962—Subsec. (b)(13). [Pub. L. 87–703][/us/pl/87/703] struck out par. (A) which defined “normal yield” for any county in the case of corn or wheat; inserted in pars. (D) and (E) “and wheat” after “in the case of rice”, “or wheat, as the case may be,” after “per acre of rice”, and “in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat” after “determined”; and struck out from par. (G) “wheat,” after “corn,” in two places, “and, in the case of wheat, but not in the case of corn, cotton, or peanuts, for trends in yields” after “abnormal weather conditions”, “ten calendar years in the case of wheat, and” before “five calendar years” and “in the case of corn, cotton, or peanuts” after “five calendar years”.
 
@@ -257,7 +257,7 @@
 
     Subsec. (b)(1)(B). Act Oct. 31, 1949, § 418(b), included the actual production of rice.
 
-    Subsec. (b)(3)(B). Act Oct. 31, 1949, § 415(e), repealed amendatory provisions of [act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 201(c), [62 Stat. 1250][/us/stat/62/1250].
+    Subsec. (b)(3)(B). Act Oct. 31, 1949, § 415(e), repealed amendatory provisions of [act July 3, 1948, ch. 827, title II][/us/act/1948-07-03/ch827/tII], § 201(c), [62 Stat. 1250][/us/stat/62/1250].
 
     Act Aug. 29, 1949, § 2(a)(1), changed definition of “carry-over” of cotton by excluding United States cotton on hand outside the United States.
 
@@ -315,27 +315,27 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–61, § 2][/us/pl/94/61/s2], July 25, 1975, [89 Stat. 302][/us/stat/89/302], provided that: 
+[Pub. L. 94–61][/us/pl/94/61], § 2, July 25, 1975, [89 Stat. 302][/us/stat/89/302], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall become effective June 1, 1975”.
 
  __Effective and Termination Dates of 1973 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 405(b)][/us/pl/91/524/s405/b], as added by [Pub. L. 93–86, § 1(12)(a)][/us/pl/93/86/s1/12/a], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that the amendment made by [Pub. L. 91–524][/us/pl/91/524] is effective with respect to the 1974 through 1977 crops.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 405(b), as added by [Pub. L. 93–86][/us/pl/93/86], § 1(12)(a), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that the amendment made by [Pub. L. 91–524][/us/pl/91/524] is effective with respect to the 1974 through 1977 crops.
 
  __Effective Date of 1965 Amendment__ 
 
-    [Pub. L. 89–321, title V, § 511(a)][/us/pl/89/321/s511/a], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by that section is effective beginning with the crop planted for harvest in 1966.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 511(a), Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by that section is effective beginning with the crop planted for harvest in 1966.
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–703, title III, § 323][/us/pl/87/703/s323], Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626], provided that: 
+[Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 323, Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626], provided that: 
 
 > “The amendments to the Agricultural Adjustment Act of 1938, as amended, and to Public Law 74, Seventy-seventh Congress, as amended, made by sections 310 through 322 of this Act \[enacting sections 1334b and 1339 of this title, amending this section and sections 1331 to 1336, 1340, 1371 and 1385 of this title, and repealing [section 1337 of this title][/us/usc/t7/s1337]\] shall be in effect only with respect to programs applicable to the crops planted for harvest in the calendar year 1964 or any subsequent year and the marketing years beginning in the calendar year 1964, or any subsequent year”.
 
  __Effective Date of 1949 Amendment__ 
 
-[Act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 415(a), (b), [63 Stat. 1057][/us/stat/63/1057], provided that:
+[Act Oct. 31, 1949, ch. 792, title IV][/us/act/1949-10-31/ch792/tIV], § 415(a), (b), [63 Stat. 1057][/us/stat/63/1057], provided that:
 
 >     “(a) Except as modified by this Act or by Public Law 272 \[see Tables for classification\], Eighty-first Congress, sections 201(b), 201(d), 201(e), 203, 207(a), and 208 of the Agricultural Act of 1948 \[amending this section and sections 1312, 1322, and 1328 of this title\] shall be effective for the purpose of taking any action with respect to the 1950 and subsequent crops upon the enactment of this Act \[Oct. 31, 1949\]. If the time within which any such action is required to be taken shall have elapsed prior to the enactment of this Act, such action shall be taken within thirty days after the enactment of the Act.
 
@@ -343,7 +343,7 @@
 
  __Effective Date of 1948 Amendment__ 
 
-[Act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 303, [62 Stat. 1259][/us/stat/62/1259], provided that: 
+[Act July 3, 1948, ch. 827, title III][/us/act/1948-07-03/ch827/tIII], § 303, [62 Stat. 1259][/us/stat/62/1259], provided that: 
 
 > “Titles II and III of this Act \[amending this section and sections 602, 608c, 612c, 672, 1301a, 1302, 1312, 1322, 1328, 1333, 1335, 1336, 1343, 1345, 1355, and 1385 of this title and repealing sections 608e and 1322a of this title\] shall take effect on January 1, 1950.”
 
@@ -361,13 +361,13 @@
 
  __Rulemaking Procedures__ 
 
-[Pub. L. 99–272, title I, § 1108(c)][/us/pl/99/272/s1108/c], Apr. 7, 1986, [100 Stat. 95][/us/stat/100/95], provided that: 
+[Pub. L. 99–272, title I][/us/pl/99/272/tI], § 1108(c), Apr. 7, 1986, [100 Stat. 95][/us/stat/100/95], provided that: 
 
 > “The Secretary of Agriculture shall implement sections 1102 through 1109, and the amendments made by such sections \[enacting sections 1314g, 1314h, and 1445–3 of this title, amending this section and sections 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title\], without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in [section 553 of title 5][/us/usc/t5/s553], United States Code, or in any directive of the Secretary.”
 
  __Study of Methods of Improving Parity Formula__ 
 
-    [Act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title VI, § 602, [70 Stat. 213][/us/stat/70/213], required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
+    [Act May 28, 1956, ch. 327, title VI][/us/act/1956-05-28/ch327/tVI], § 602, [70 Stat. 213][/us/stat/70/213], required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
 
 ----------
 
@@ -378,7 +378,7 @@
 
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/87/703/s320/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs320%2F1
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F625
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/stat/60/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F596
@@ -387,7 +387,7 @@
 [/us/stat/52/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F38
 [/us/act/1938-04-07/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107
 [/us/stat/52/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F202
-[/us/act/1940-06-13/ch360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch360%2Fs1
+[/us/act/1940-06-13/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-13%2Fch360
 [/us/stat/54/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F392
 [/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F727
@@ -397,46 +397,46 @@
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/act/1941-04-03/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39
 [/us/stat/55/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F91
-[/us/act/1942-07-09/ch497/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-09%2Fch497%2Fs1%2F4
+[/us/act/1942-07-09/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-09%2Fch497
 [/us/stat/56/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F654
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1250
-[/us/act/1949-08-29/ch518/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs2%2Fa
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F675
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1056-1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1056-1058
 [/us/act/1952-07-08/ch587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-08%2Fch587
 [/us/stat/66/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F442
-[/us/act/1952-07-17/ch933/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch933%2Fs1
+[/us/act/1952-07-17/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch933
 [/us/stat/66/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F758
-[/us/act/1953-07-14/ch194/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs6
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F152
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F902
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F212
-[/us/pl/85/92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F92%2Fs1
+[/us/pl/85/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F92
 [/us/stat/71/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F284
-[/us/pl/87/703/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs320
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F625
-[/us/pl/88/297/s106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs106%2F5
+[/us/pl/88/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtI
 [/us/stat/78/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F177
-[/us/pl/89/321/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs403
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1197
-[/us/pl/91/524/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs405%2Fb
-[/us/pl/93/86/s1/12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F12%2Fa
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
-[/us/pl/94/61/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F61%2Fs1
+[/us/pl/94/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F61
 [/us/stat/89/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F302
-[/us/pl/97/218/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2Fs303%2Fa
+[/us/pl/97/218/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2FtIII
 [/us/stat/96/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F211
-[/us/pl/99/198/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1020
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1459
-[/us/pl/99/272/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1103%2Fa
+[/us/pl/99/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtI
 [/us/stat/100/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F85
-[/us/pl/107/171/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1610
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F218
-[/us/pl/108/357/s611/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/act/1942-01-30/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-30%2Fch26
 [/us/stat/56/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F23
@@ -448,52 +448,52 @@
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
-[/us/pl/108/357/s611/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F1
-[/us/pl/108/357/s611/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F2
-[/us/pl/108/357/s611/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F3
-[/us/pl/108/357/s611/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F4
-[/us/pl/108/357/s611/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F5
-[/us/pl/108/357/s611/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F6
-[/us/pl/108/357/s611/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F7
-[/us/pl/108/357/s611/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F10
-[/us/pl/108/357/s611/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F8
-[/us/pl/108/357/s611/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Ff%2F9
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/99/272/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1103%2Fa%2F1
-[/us/pl/99/272/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1103%2Fa%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218
 [/us/usc/t7/s1314e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314e
 [/us/pl/94/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F61
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/89/321/s509/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs509%2F1
-[/us/pl/89/321/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs511%2Fa
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
-[/us/pl/88/297/s106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs106%2F5
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/85/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F92
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtII
 [/us/stat/62/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1250
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518
-[/us/pl/94/61/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F61%2Fs2
+[/us/pl/94/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F61
 [/us/stat/89/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F302
-[/us/pl/91/524/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs405%2Fb
-[/us/pl/93/86/s1/12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F12%2Fa
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
-[/us/pl/89/321/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs511%2Fa
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
-[/us/pl/87/703/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs323
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F626
 [/us/usc/t7/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1337
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
+[/us/act/1949-10-31/ch792/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792%2FtIV
 [/us/stat/63/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1057
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtIII
 [/us/stat/62/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1259
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614
@@ -501,10 +501,10 @@
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/pl/99/272/s1108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1108%2Fc
+[/us/pl/99/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtI
 [/us/stat/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F95
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
+[/us/act/1956-05-28/ch327/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327%2FtVI
 [/us/stat/70/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F213
 
 

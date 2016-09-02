@@ -17,7 +17,7 @@
 
     The President may at any time in his discretion transfer to the Secretary any right, interest, or title held by the United States in any lands acquired in the program of national defense and no longer needed therefor, which the President shall find suitable for the purposes of this chapter, and the Secretary shall dispose of such lands in the manner and subject to the terms and conditions of the chapter.
 
-([Pub. L. 87–128, title III, § 340][/us/pl/87/128/s340], Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 340, Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/87/128/s340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs340
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

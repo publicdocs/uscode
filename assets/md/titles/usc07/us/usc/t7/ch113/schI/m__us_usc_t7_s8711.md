@@ -121,7 +121,7 @@
 
             Paragraphs (1) through (3) shall not apply during the 2008 crop year.
 
-([Pub. L. 110–234, title I, § 1101][/us/pl/110/234/s1101], May 22, 2008, [122 Stat. 938][/us/stat/122/938]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1666; [Pub. L. 110–398, § 1(a)(1)][/us/pl/110/398/s1/a/1], Oct. 13, 2008, [122 Stat. 4213][/us/stat/122/4213].)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1101, May 22, 2008, [122 Stat. 938][/us/stat/122/938]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1666; [Pub. L. 110–398][/us/pl/110/398], § 1(a)(1), Oct. 13, 2008, [122 Stat. 4213][/us/stat/122/4213].)
 
  __References in Text__ 
 
@@ -154,11 +154,11 @@
 [/us/usc/t7/s7911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911%2Fa%2F2
 [/us/usc/t7/s8752/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8752%2Fb
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
-[/us/pl/110/234/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1101
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F938
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/398/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs1%2Fa%2F1
+[/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 [/us/stat/122/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4213
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

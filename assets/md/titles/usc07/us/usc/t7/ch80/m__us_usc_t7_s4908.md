@@ -51,15 +51,15 @@
 
         Any such officer or employee violating the provisions of this subsection shall be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
-([Pub. L. 99–198, title XVI, § 1649][/us/pl/99/198/s1649], Dec. 23, 1985, [99 Stat. 1626][/us/stat/99/1626]; [Pub. L. 103–189, § 8(g)][/us/pl/103/189/s8/g], Dec. 14, 1993, [107 Stat. 2262][/us/stat/107/2262].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1649, Dec. 23, 1985, [99 Stat. 1626][/us/stat/99/1626]; [Pub. L. 103–189][/us/pl/103/189], § 8(g), Dec. 14, 1993, [107 Stat. 2262][/us/stat/107/2262].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–189, § 8(g)(1)][/us/pl/103/189/s8/g/1], designated existing provisions as par. (1) and added par. (2).
+    1993—Subsec. (a). [Pub. L. 103–189][/us/pl/103/189], § 8(g)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 103–189, § 8(g)(2)][/us/pl/103/189/s8/g/2], inserted “and importers” after “Handlers”.
+    Subsec. (b). [Pub. L. 103–189][/us/pl/103/189], § 8(g)(2), inserted “and importers” after “Handlers”.
 
-    Subsec. (c)(1). [Pub. L. 103–189, § 8(g)(3)][/us/pl/103/189/s8/g/3], inserted “or importers” after “handlers”.
+    Subsec. (c)(1). [Pub. L. 103–189][/us/pl/103/189], § 8(g)(3), inserted “or importers” after “handlers”.
 
 ----------
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t7/s4906/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4906%2Ff
-[/us/pl/99/198/s1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1649
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1626
-[/us/pl/103/189/s8/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fg
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2262
-[/us/pl/103/189/s8/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fg%2F1
-[/us/pl/103/189/s8/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fg%2F2
-[/us/pl/103/189/s8/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fg%2F3
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 
 

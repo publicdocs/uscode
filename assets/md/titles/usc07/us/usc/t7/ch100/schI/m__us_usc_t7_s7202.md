@@ -81,7 +81,7 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 104–127, title I, § 102][/us/pl/104/127/s102], Apr. 4, 1996, [110 Stat. 897][/us/stat/110/897].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 102, Apr. 4, 1996, [110 Stat. 897][/us/stat/110/897].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 [/us/usc/t7/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1461
 [/us/usc/t7/s7301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1
 [/us/usc/t7/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1465
-[/us/pl/104/127/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs102
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F897
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792

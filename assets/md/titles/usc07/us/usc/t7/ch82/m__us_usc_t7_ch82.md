@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch81/m__us_usc_t7_ch81.md) | [Next](./../../../..//us/usc/t7/ch82/m__us_usc_t7_s5101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch82)
+[Previous](./../../../..//us/usc/t7/ch81/m__us_usc_t7_s5001...5007.md) | [Next](./../../../..//us/usc/t7/ch82/m__us_usc_t7_s5101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch82)
 
 ## CHAPTER 82—STATE AGRICULTURAL LOAN MEDIATION PROGRAMS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch81/m__us_usc_t7_ch81.md) | [Next](./../../../..//us/usc/t7/ch82/m__us_usc_t7_s5101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch82)
+[Previous](./../../../..//us/usc/t7/ch81/m__us_usc_t7_s5001...5007.md) | [Next](./../../../..//us/usc/t7/ch82/m__us_usc_t7_s5101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch82)
 
 ----------
 ----------

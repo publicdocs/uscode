@@ -25,7 +25,7 @@
 
     (2) It shall be unlawful for any commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator registered under this chapter to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that such person’s abilities or qualifications have in any respect been passed upon, by the United States or any agency or officer thereof. This section shall not be construed to prohibit a statement that a person is registered under this chapter as a commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator, if such statement is true in fact and if the effect of such registration is not misrepresented.
 
-([Sept. 21, 1922, ch. 369, § 4][/us/act/1922-09-21/ch369/s4]o, as added [Pub. L. 93–463, title II, § 205(a)][/us/pl/93/463/s205/a], Oct. 23, 1974, [88 Stat. 1399][/us/stat/88/1399]; amended [Pub. L. 95–405, § 10][/us/pl/95/405/s10], Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title II, § 214][/us/pl/97/444/s214], Jan. 11, 1983, [96 Stat. 2305][/us/stat/96/2305].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4o, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 205(a), Oct. 23, 1974, [88 Stat. 1399][/us/stat/88/1399]; amended [Pub. L. 95–405][/us/pl/95/405], § 10, Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 214, Jan. 11, 1983, [96 Stat. 2305][/us/stat/96/2305].)
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4
-[/us/pl/93/463/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs205%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1399
-[/us/pl/95/405/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs10
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F870
-[/us/pl/97/444/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs214
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2305
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444

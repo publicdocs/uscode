@@ -25,9 +25,9 @@
 
     First sentence of section which related to the authority of the War Food Administrator to employ personnel was omitted on the authority of Ex. Ord. No. 9577, which terminated the War Food Administration.
 
-    The exception from “the Classification Act of 1923, as amended” was omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949 ([63 Stat. 972][/us/stat/63/972], 973) repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) that provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by [Pub. L. 89–544, § 8(a)][/us/pl/89/544/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632] (section 1 of which revised and enacted Title 5, Government Organization and Employees, into law). [Section 5102 of Title 5][/us/usc/t5/s5102] now contains the applicability provisions of the 1949 Act.
+    The exception from “the Classification Act of 1923, as amended” was omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949 ([63 Stat. 972][/us/stat/63/972], 973) repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) that provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by [Pub. L. 89–544][/us/pl/89/544], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632] (section 1 of which revised and enacted Title 5, Government Organization and Employees, into law). [Section 5102 of Title 5][/us/usc/t5/s5102] now contains the applicability provisions of the 1949 Act.
 
-    Section was formerly classified to [section 574 of Title 5][/us/usc/t5/s574] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 574 of Title 5][/us/usc/t5/s574] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -43,11 +43,11 @@
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F742
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/89/544/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs8%2Fa
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs574
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

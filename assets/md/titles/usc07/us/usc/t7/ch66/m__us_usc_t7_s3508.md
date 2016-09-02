@@ -63,7 +63,7 @@
 
     (6) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-([Pub. L. 95–460, § 9][/us/pl/95/460/s9], Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
+([Pub. L. 95–460][/us/pl/95/460], § 9, Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/95/460/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs9
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1266
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

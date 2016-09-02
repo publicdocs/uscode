@@ -67,7 +67,7 @@
 
         The term “warehouse operator” means a person that is lawfully engaged in the business of storing or handling agricultural products.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 2, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 2, as added [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061].)
 
  __Codification__ 
 
@@ -81,13 +81,13 @@
 
  __Short Title__ 
 
-[Act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 1, as added by [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
+[Act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 1, as added by [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘United States Warehouse Act’.”
 
  __Effective Date; Regulations__ 
 
-[Pub. L. 106–472, title II, § 202][/us/pl/106/472/s202], Nov. 9, 2000, [114 Stat. 2068][/us/stat/114/2068], provided that:
+[Pub. L. 106–472, title II][/us/pl/106/472/tII], § 202, Nov. 9, 2000, [114 Stat. 2068][/us/stat/114/2068], provided that:
 
 >     “(a)  __Proposed Regulations__  __.—__ 
 
@@ -114,7 +114,7 @@
 
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
@@ -126,9 +126,9 @@
 [/us/usc/t7/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs242
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
-[/us/pl/106/472/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs202
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2068
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
 

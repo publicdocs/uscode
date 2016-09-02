@@ -35,7 +35,7 @@
 
         (4) To counter or otherwise respond to chemical or biological attack.
 
-([Pub. L. 95–113, title XIV, § 1484][/us/pl/95/113/s1484], as added [Pub. L. 107–171, title VII, § 7221(a)][/us/pl/107/171/s7221/a], May 13, 2002, [116 Stat. 452][/us/stat/116/452]; amended [Pub. L. 110–234, title VII, § 7142][/us/pl/110/234/s7142], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7142, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993; [Pub. L. 113–79, title VII, § 7126][/us/pl/113/79/s7126], Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1484, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7221(a), May 13, 2002, [116 Stat. 452][/us/stat/116/452]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7142, May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7142, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7126, Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
     2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] substituted “response—” for “response such sums as are necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7142][/us/pl/110/246/s7142], substituted “2012” for “2007”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7142, substituted “2012” for “2007”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1484
-[/us/pl/107/171/s7221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7221%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F452
-[/us/pl/110/234/s7142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7142
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1232
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7126
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F877
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F981
@@ -79,7 +79,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7142
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

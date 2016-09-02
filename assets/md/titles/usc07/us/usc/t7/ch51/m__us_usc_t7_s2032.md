@@ -65,7 +65,7 @@
 
         Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.
 
-([Pub. L. 88–525, § 23][/us/pl/88/525/s23], as added [Pub. L. 101–624, title XVII, § 1763(a)][/us/pl/101/624/s1763/a], Nov. 28, 1990, [104 Stat. 3805][/us/stat/104/3805]; amended [Pub. L. 110–234, title IV, § 4001(b)][/us/pl/110/234/s4001/b], May 22, 2008, [122 Stat. 1092][/us/stat/122/1092]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4001(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853.)
+([Pub. L. 88–525][/us/pl/88/525], § 23, as added [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], § 1763(a), Nov. 28, 1990, [104 Stat. 3805][/us/stat/104/3805]; amended [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4001(b), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4001(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853.)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    Subsec. (c). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -91,19 +91,19 @@
 ----------
 
 [/us/usc/t7/s2025/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fg
-[/us/pl/88/525/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs23
-[/us/pl/101/624/s1763/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1763%2Fa
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3805
-[/us/pl/110/234/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4001%2Fb
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

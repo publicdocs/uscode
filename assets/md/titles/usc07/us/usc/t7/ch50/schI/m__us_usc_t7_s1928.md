@@ -27,7 +27,7 @@
 
         (2) participates in or condones.
 
-([Pub. L. 87–128, title III, § 308][/us/pl/87/128/s308], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–798][/us/pl/87/798], Oct. 11, 1962, [76 Stat. 908][/us/stat/76/908]; [Pub. L. 89–240, § 2(a)][/us/pl/89/240/s2/a], Oct. 7, 1965, [79 Stat. 932][/us/stat/79/932]; [Pub. L. 90–488, § 6][/us/pl/90/488/s6], Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 92–133][/us/pl/92/133], Oct. 5, 1971, [85 Stat. 364][/us/stat/85/364]; [Pub. L. 101–624, title XXIII, § 2388(a)][/us/pl/101/624/s2388/a], Nov. 28, 1990, [104 Stat. 4052][/us/stat/104/4052]; [Pub. L. 104–127, title VI, § 605][/us/pl/104/127/s605], Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 308, Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–798][/us/pl/87/798], Oct. 11, 1962, [76 Stat. 908][/us/stat/76/908]; [Pub. L. 89–240][/us/pl/89/240], § 2(a), Oct. 7, 1965, [79 Stat. 932][/us/stat/79/932]; [Pub. L. 90–488][/us/pl/90/488], § 6, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 92–133][/us/pl/92/133], Oct. 5, 1971, [85 Stat. 364][/us/stat/85/364]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2388(a), Nov. 28, 1990, [104 Stat. 4052][/us/stat/104/4052]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 605, Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086].)
 
  __References in Text__ 
 
@@ -60,19 +60,19 @@
 ----------
 ----------
 
-[/us/pl/87/128/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs308
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F308
 [/us/pl/87/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F798
 [/us/stat/76/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F908
-[/us/pl/89/240/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240%2Fs2%2Fa
+[/us/pl/89/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240
 [/us/stat/79/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F932
-[/us/pl/90/488/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs6
+[/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F770
 [/us/pl/92/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F133
 [/us/stat/85/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F364
-[/us/pl/101/624/s2388/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4052
-[/us/pl/104/127/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs605
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1086
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

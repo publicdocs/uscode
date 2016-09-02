@@ -23,7 +23,7 @@
 
         In providing financial assistance to, or entering into any contract with, any entity using funds made available pursuant to this chapter, the Secretary, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.
 
-([Pub. L. 103–354, title II, § 292][/us/pl/103/354/s292], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 292, Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs292
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209

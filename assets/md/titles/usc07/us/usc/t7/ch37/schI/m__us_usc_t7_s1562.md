@@ -21,7 +21,7 @@
 
     (2) it conforms to the number of generations designated by the certificate, if the certificate contains such a designation.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title I, § 102, as added [Pub. L. 85–581, § 4][/us/pl/85/581/s4], Aug. 1, 1958, [72 Stat. 476][/us/stat/72/476]; amended [Pub. L. 91–89, § 2][/us/pl/91/89/s2], Oct. 17, 1969, [83 Stat. 134][/us/stat/83/134]; [Pub. L. 91–577, title III, § 142(b)][/us/pl/91/577/s142/b], Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title I, § 102, as added [Pub. L. 85–581][/us/pl/85/581], § 4, Aug. 1, 1958, [72 Stat. 476][/us/stat/72/476]; amended [Pub. L. 91–89][/us/pl/91/89], § 2, Oct. 17, 1969, [83 Stat. 134][/us/stat/83/134]; [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 142(b), Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
-[/us/pl/85/581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs4
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F476
-[/us/pl/91/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F89%2Fs2
+[/us/pl/91/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F89
 [/us/stat/83/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F134
-[/us/pl/91/577/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs142%2Fb
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1558
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542

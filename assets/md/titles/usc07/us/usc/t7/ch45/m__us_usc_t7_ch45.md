@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch44/m__us_usc_t7_s1781.md) | [Next](./../../../..//us/usc/t7/ch45/schI/m__us_usc_t7_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45)
+[Previous](./../../../..//us/usc/t7/ch44/m__us_usc_t7_s1782...1787.md) | [Next](./../../../..//us/usc/t7/ch45/schI/m__us_usc_t7_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45)
 
 ## CHAPTER 45—SOIL BANK PROGRAM
 
@@ -107,7 +107,7 @@ SUBCHAPTER IV—CROPLAND ADJUSTMENTS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch44/m__us_usc_t7_s1781.md) | [Next](./../../../..//us/usc/t7/ch45/schI/m__us_usc_t7_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45)
+[Previous](./../../../..//us/usc/t7/ch44/m__us_usc_t7_s1782...1787.md) | [Next](./../../../..//us/usc/t7/ch45/schI/m__us_usc_t7_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45)
 
 ----------
 ----------

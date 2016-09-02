@@ -17,7 +17,7 @@
 
     Any person violating any provision of sections 511d and 511i of this title shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-([Aug. 23, 1935, ch. 623, § 12][/us/act/1935-08-23/ch623/s12], [49 Stat. 734][/us/stat/49/734].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 12, [49 Stat. 734][/us/stat/49/734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs12
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F734
 
 

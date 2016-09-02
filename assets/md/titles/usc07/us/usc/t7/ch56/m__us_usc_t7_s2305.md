@@ -33,7 +33,7 @@
 
         The provisions of this chapter shall not be construed to change or modify existing State law nor to deprive the proper State courts of jurisdiction.
 
-([Pub. L. 90–288, § 6][/us/pl/90/288/s6], Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
+([Pub. L. 90–288][/us/pl/90/288], § 6, Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t7/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2303
 [/us/usc/t7/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2303
 [/us/usc/t7/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2303
-[/us/pl/90/288/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs6
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F95
 
 

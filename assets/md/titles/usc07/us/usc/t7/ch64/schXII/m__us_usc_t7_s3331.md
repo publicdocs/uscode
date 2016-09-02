@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to promote the general welfare through improved productivity of the Nation’s rangelands, which comprise 60 per centum of the land area of the United States. Most of these rangelands are unsuited for cultivation, but produce a great volume of forage that is inedible by humans but readily converted, through an energy efficient process, to high quality food protein by grazing animals. These native grazing lands are located throughout the United States and are important resources for major segments of the Nation’s livestock industry. In addition to the many livestock producers directly dependent on rangelands, other segments of agriculture are indirectly dependent on range-fed livestock and on range-produced forage that can be substituted for grain in times of grain scarcity. Recent resource assessments indicate that forage production of rangeland can be increased at least 100 per centum through development and application of improved range management practices while simultaneously enhancing wildlife, watershed, recreational, and aesthetic values and reducing hazards of erosion and flooding.
 
-([Pub. L. 95–113, title XIV, § 1478][/us/pl/95/113/s1478], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1478, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1440(a), Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1478
-[/us/pl/97/98/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1440%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1318
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

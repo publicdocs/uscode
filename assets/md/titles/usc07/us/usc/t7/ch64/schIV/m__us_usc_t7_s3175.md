@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3173.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
+[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3174 _us_usc_t7_s3174a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
 
 ## § 3175. Nutrition education program
 
@@ -93,7 +93,7 @@
 
         There is authorized to be appropriated to carry out the expanded food and nutrition education program established under [section 343(d) of this title][/us/usc/t7/s343/d] and this section $90,000,000 for each of fiscal years 2009 through 2018.
 
-([Pub. L. 95–113, title XIV, § 1425][/us/pl/95/113/s1425], Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000]; [Pub. L. 97–98, title XIV, § 1423][/us/pl/97/98/s1423], Dec. 22, 1981, [95 Stat. 1307][/us/stat/95/1307]; [Pub. L. 101–624, title XVII, § 1776(b)][/us/pl/101/624/s1776/b], Nov. 28, 1990, [104 Stat. 3814][/us/stat/104/3814]; [Pub. L. 104–127, title VIII, § 809][/us/pl/104/127/s809], Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164]; [Pub. L. 105–185, title III, § 301(a)(6)][/us/pl/105/185/s301/a/6], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7106][/us/pl/107/171/s7106], May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII, § 7116(a)][/us/pl/110/234/s7116/a], May 22, 2008, [122 Stat. 1220][/us/stat/122/1220]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7116(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1981; [Pub. L. 113–79, title VII, § 7110][/us/pl/113/79/s7110], Feb. 7, 2014, [128 Stat. 870][/us/stat/128/870].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1425, Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1423, Dec. 22, 1981, [95 Stat. 1307][/us/stat/95/1307]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], § 1776(b), Nov. 28, 1990, [104 Stat. 3814][/us/stat/104/3814]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 809, Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164]; [Pub. L. 105–185, title III][/us/pl/105/185/tIII], § 301(a)(6), June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7106, May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7116(a), May 22, 2008, [122 Stat. 1220][/us/stat/122/1220]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7116(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1981; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7110, Feb. 7, 2014, [128 Stat. 870][/us/stat/128/870].)
 
  __Codification__ 
 
@@ -103,15 +103,15 @@
 
     2014—Subsec. (f). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—[Pub. L. 110–246, § 7116(a)(2)][/us/pl/110/246/s7116/a/2], reenacted section catchline without change.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 7116(a)(2), reenacted section catchline without change.
 
-    Subsecs. (a) to (d). [Pub. L. 110–246, § 7116(a)(1)][/us/pl/110/246/s7116/a/1]–(5)(A), added subsec. (a), redesignated former subsecs. (a) to (c) as (b) to (d), respectively, inserted headings, and in subsec. (c) substituted “To enable” for “In order to enable”.
+    Subsecs. (a) to (d). [Pub. L. 110–246][/us/pl/110/246], § 7116(a)(1)–(5)(A), added subsec. (a), redesignated former subsecs. (a) to (c) as (b) to (d), respectively, inserted headings, and in subsec. (c) substituted “To enable” for “In order to enable”.
 
-    Subsec. (d)(2)(B). [Pub. L. 110–246, § 7116(a)(5)(B)][/us/pl/110/246/s7116/a/5/B], added subpar. (B) and struck out former subpar. (B) which related to allocation of funds other than for administrative or technical purposes, 10 percent of which was to be distributed equally among all States, and the remainder was to be allocated to each State in an amount bearing the same ratio to the total amount to be allocated as the population of the State living at or below 125 percent of income poverty guidelines bore to the total population of all the States living at or below 125 percent of such guidelines.
+    Subsec. (d)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 7116(a)(5)(B), added subpar. (B) and struck out former subpar. (B) which related to allocation of funds other than for administrative or technical purposes, 10 percent of which was to be distributed equally among all States, and the remainder was to be allocated to each State in an amount bearing the same ratio to the total amount to be allocated as the population of the State living at or below 125 percent of income poverty guidelines bore to the total population of all the States living at or below 125 percent of such guidelines.
 
-    Subsec. (d)(3). [Pub. L. 110–246, § 7116(a)(5)(C)][/us/pl/110/246/s7116/a/5/C], struck out par. (3) which read as follows: “There is authorized to be appropriated to carry out the expanded food and nutrition education program established under [section 343(d) of this title][/us/usc/t7/s343/d] and this section, $83,000,000 for each of fiscal years 1996 through 2007.”
+    Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 7116(a)(5)(C), struck out par. (3) which read as follows: “There is authorized to be appropriated to carry out the expanded food and nutrition education program established under [section 343(d) of this title][/us/usc/t7/s343/d] and this section, $83,000,000 for each of fiscal years 1996 through 2007.”
 
-    Subsecs. (e), (f). [Pub. L. 110–246, § 7116(a)(6)][/us/pl/110/246/s7116/a/6], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 110–246][/us/pl/110/246], § 7116(a)(6), added subsecs. (e) and (f).
 
     2002—Subsec. (c)(3). [Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002”.
 
@@ -129,7 +129,7 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
 
-[Pub. L. 110–234, title VII, § 7116(c)][/us/pl/110/234/s7116/c], May 22, 2008, [122 Stat. 1221][/us/stat/122/1221], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7116(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1982, provided that: 
+[Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7116(c), May 22, 2008, [122 Stat. 1221][/us/stat/122/1221], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7116(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1982, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3175e of this title][/us/usc/t7/s3175e]\] take effect on October 1, 2008.”
 
@@ -145,7 +145,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3173.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
+[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3174 _us_usc_t7_s3174a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
 
 ----------
 ----------
@@ -158,35 +158,35 @@
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
-[/us/pl/95/113/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1425
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1000
-[/us/pl/97/98/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1423
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1307
-[/us/pl/101/624/s1776/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1776%2Fb
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3814
-[/us/pl/104/127/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs809
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1164
-[/us/pl/105/185/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs301%2Fa%2F6
+[/us/pl/105/185/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIII
 [/us/stat/112/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F562
-[/us/pl/107/171/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7106
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F432
-[/us/pl/110/234/s7116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7116%2Fa
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1220
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7110
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F870
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F2
-[/us/pl/110/246/s7116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F1
-[/us/pl/110/246/s7116/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F5%2FB
-[/us/pl/110/246/s7116/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F5%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
-[/us/pl/110/246/s7116/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F6
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -198,9 +198,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s7116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7116%2Fc
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1221
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s3175e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175e
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

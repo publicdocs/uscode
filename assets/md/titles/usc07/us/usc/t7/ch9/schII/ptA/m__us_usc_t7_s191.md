@@ -17,7 +17,7 @@
 
     When used in this chapter the term “packer” means any person engaged in the business (a) of buying livestock in commerce for purposes of slaughter, or (b) of manufacturing or preparing meats or meat food products for sale or shipment in commerce, or (c) of marketing meats, meat food products, or livestock products in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 201, [42 Stat. 160][/us/stat/42/160]; [Pub. L. 94–410, § 2][/us/pl/94/410/s2], Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 201, [42 Stat. 160][/us/stat/42/160]; [Pub. L. 94–410][/us/pl/94/410], § 2, Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F160
-[/us/pl/94/410/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs2
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1249
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 

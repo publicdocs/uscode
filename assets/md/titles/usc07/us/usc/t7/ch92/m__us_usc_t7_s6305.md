@@ -95,7 +95,7 @@
 
             Referenda shall be conducted at county extension offices and provision shall be made for absentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
 
-([Pub. L. 101–624, title XIX, § 1970][/us/pl/101/624/s1970], Nov. 28, 1990, [104 Stat. 3898][/us/stat/104/3898]; [Pub. L. 102–237, title VIII, § 806(2)][/us/pl/102/237/s806/2], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1970, Nov. 28, 1990, [104 Stat. 3898][/us/stat/104/3898]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 806(2), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
@@ -109,9 +109,9 @@
 ----------
 
 [/us/usc/t7/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6303
-[/us/pl/101/624/s1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1970
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3898
-[/us/pl/102/237/s806/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F2
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

@@ -31,7 +31,7 @@
 
         Any dealer, exhibitor, or operator of an auction sale subject to [section 2142 of this title][/us/usc/t7/s2142], who knowingly violates any provision of this chapter shall, on conviction thereof, be subject to imprisonment for not more than 1 year, or a fine of not more than $2,500, or both. Prosecution of such violations shall, to the maximum extent practicable, be brought initially before United States magistrate judges as provided in [section 636 of title 28][/us/usc/t28/s636], and sections 3401 and 3402 of title 18, and, with the consent of the Attorney General, may be conducted, at both trial and upon appeal to district court, by attorneys of the United States Department of Agriculture.
 
-([Pub. L. 89–544, § 19][/us/pl/89/544/s19], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579, § 20][/us/pl/91/579/s20], Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564]; [Pub. L. 94–279, § 13][/us/pl/94/279/s13], Apr. 22, 1976, [90 Stat. 420][/us/stat/90/420]; [Pub. L. 99–198, title XVII, § 1755][/us/pl/99/198/s1755], Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 110–234, title XIV, § 14214][/us/pl/110/234/s14214], May 22, 2008, [122 Stat. 1466][/us/stat/122/1466]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14214, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2228.)
+([Pub. L. 89–544][/us/pl/89/544], § 19, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579][/us/pl/91/579], § 20, Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564]; [Pub. L. 94–279][/us/pl/94/279], § 13, Apr. 22, 1976, [90 Stat. 420][/us/stat/90/420]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1755, Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14214, May 22, 2008, [122 Stat. 1466][/us/stat/122/1466]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14214, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2228.)
 
  __Codification__ 
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    Subsec. (b). [Pub. L. 110–246, § 14214][/us/pl/110/246/s14214], substituted “$10,000” for “$2,500”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 14214, substituted “$10,000” for “$2,500”.
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1755(a)][/us/pl/99/198/s1755/a], substituted “$2,500 for each such violation” for “$1,000 for each such violation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1755(a), substituted “$2,500 for each such violation” for “$1,000 for each such violation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 99–198, § 1755(b)][/us/pl/99/198/s1755/b], substituted “$2,500” for “$1,000”.
+    Subsec. (d). [Pub. L. 99–198][/us/pl/99/198], § 1755(b), substituted “$2,500” for “$1,000”.
 
     1976—Subsec. (a). [Pub. L. 94–279][/us/pl/94/279] substituted provisions covering violations by licensees, temporary license suspension, notice and hearing, and license revocation for provisions relating to violations by dealers, exhibitors, operators of auction sales, cease and desist orders, license suspension, and civil penalties.
 
@@ -83,27 +83,27 @@
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
 [/us/usc/t28/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636
-[/us/pl/89/544/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs19
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
-[/us/pl/91/579/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs20
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1564
-[/us/pl/94/279/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs13
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F420
-[/us/pl/99/198/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1755
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1650
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/110/234/s14214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14214
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1466
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14214
-[/us/pl/99/198/s1755/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1755%2Fa
-[/us/pl/99/198/s1755/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1755%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279

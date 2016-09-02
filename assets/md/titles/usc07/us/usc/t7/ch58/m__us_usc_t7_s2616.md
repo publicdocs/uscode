@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make such regulations with the force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-([Pub. L. 91–670, title III, § 307][/us/pl/91/670/s307], Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 307, Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/670/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs307
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2042
 
 

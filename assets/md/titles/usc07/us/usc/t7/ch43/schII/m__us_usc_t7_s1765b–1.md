@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–501, title VI, § 602][/us/pl/95/501/s602], Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691], which provided for an annual report on export promotion, was omitted as part of the complete revision of [Pub. L. 95–501][/us/pl/95/501] by [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668]. See chapter 87 (§ 5601 et seq.) of this title.
+    Section, [Pub. L. 95–501, title VI][/us/pl/95/501/tVI], § 602, Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691], which provided for an annual report on export promotion, was omitted as part of the complete revision of [Pub. L. 95–501][/us/pl/95/501] by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668]. See chapter 87 (§ 5601 et seq.) of this title.
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/95/501/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs602
+[/us/pl/95/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtVI
 [/us/stat/92/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1691
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3668
 
 

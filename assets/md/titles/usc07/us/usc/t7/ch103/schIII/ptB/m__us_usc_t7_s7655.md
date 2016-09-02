@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall continue to develop a national program of safe food handling education for adults and young people to reduce the risk of food-borne illness. The national program shall be suitable for adoption and implementation through State cooperative extension services and school-based education programs.
 
-([Pub. L. 105–185, title VI, § 616][/us/pl/105/185/s616], June 23, 1998, [112 Stat. 606][/us/stat/112/606].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 616, June 23, 1998, [112 Stat. 606][/us/stat/112/606].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/185/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs616
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F606
 
 

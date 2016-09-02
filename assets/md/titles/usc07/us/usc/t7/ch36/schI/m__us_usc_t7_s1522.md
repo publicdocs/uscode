@@ -597,7 +597,7 @@
 
             (B) any excess amounts to carry out other activities authorized under this section.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 522, as added [Pub. L. 106–224, title I, § 131][/us/pl/106/224/s131], June 20, 2000, [114 Stat. 379][/us/stat/114/379]; amended [Pub. L. 110–234, title VII, § 7511(c)(1)][/us/pl/110/234/s7511/c/1], title XII, §§ 12022–12024, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], 1382–1388, 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a] title VII, § 7511(c)(1), title XII, §§ 12022–12024, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, 2144–2150, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11010(b), 11022, 11023(b), 11024, 11027(b), 11028(b), Feb. 7, 2014, [128 Stat. 959][/us/stat/128/959], 969, 973, 974, 977.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 522, as added [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 131, June 20, 2000, [114 Stat. 379][/us/stat/114/379]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(1), title XII, §§ 12022–12024, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], 1382–1388, 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a) title VII, § 7511(c)(1), title XII, §§ 12022–12024, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, 2144–2150, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], §§ 11010(b), 11022, 11023(b), 11024, 11027(b), 11028(b), Feb. 7, 2014, [128 Stat. 959][/us/stat/128/959], 969, 973, 974, 977.)
 
  __References in Text__ 
 
@@ -609,75 +609,75 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(E). [Pub. L. 113–79, § 11010(b)][/us/pl/113/79/s11010/b], added subpar. (E) and struck out former subpar. (E) which related to Board approval of up to 50 percent of the projected total research and development costs to be paid in advance to an applicant.
+    2014—Subsec. (b)(2)(E). [Pub. L. 113–79][/us/pl/113/79], § 11010(b), added subpar. (E) and struck out former subpar. (E) which related to Board approval of up to 50 percent of the projected total research and development costs to be paid in advance to an applicant.
 
-    Subsec. (b)(4)(A). [Pub. L. 113–79, § 11028(b)(1)][/us/pl/113/79/s11028/b/1], substituted “paragraph (1)” for “paragraphs (1)”.
+    Subsec. (b)(4)(A). [Pub. L. 113–79][/us/pl/113/79], § 11028(b)(1), substituted “paragraph (1)” for “paragraphs (1)”.
 
-    Subsec. (c). [Pub. L. 113–79, § 11022(a)(1)][/us/pl/113/79/s11022/a/1], struck out “contracting” after “development” in heading.
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(1), struck out “contracting” after “development” in heading.
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 11022(a)(2)][/us/pl/113/79/s11022/a/2], substituted “may conduct activities or enter into contracts to carry out research and development to maintain or improve existing policies or develop new policies to” for “may enter into contracts to carry out research and development to” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(2), substituted “may conduct activities or enter into contracts to carry out research and development to maintain or improve existing policies or develop new policies to” for “may enter into contracts to carry out research and development to” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–79, § 11022(a)(3)(A)][/us/pl/113/79/s11022/a/3/A], inserted “conduct research and development or” after “The Corporation may”.
+    Subsec. (c)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(3)(A), inserted “conduct research and development or” after “The Corporation may”.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–79, § 11022(a)(3)(B)][/us/pl/113/79/s11022/a/3/B], inserted “conducting research and development or” after “Before”.
+    Subsec. (c)(2)(B). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(3)(B), inserted “conducting research and development or” after “Before”.
 
-    Subsec. (c)(5). [Pub. L. 113–79, § 11022(a)(4)][/us/pl/113/79/s11022/a/4], inserted “after expert review in accordance with [section 1505(e) of this title][/us/usc/t7/s1505/e]” after “approved by the Board”.
+    Subsec. (c)(5). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(4), inserted “after expert review in accordance with [section 1505(e) of this title][/us/usc/t7/s1505/e]” after “approved by the Board”.
 
-    Subsec. (c)(6). [Pub. L. 113–79, § 11022(a)(5)][/us/pl/113/79/s11022/a/5], substituted “policies that increase participation by producers of underserved agricultural commodities, including sweet sorghum, biomass sorghum, rice, peanuts, sugarcane, alfalfa, pennycress, dedicated energy crops, and specialty crops” for “a pasture, range, and forage program”.
+    Subsec. (c)(6). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(5), substituted “policies that increase participation by producers of underserved agricultural commodities, including sweet sorghum, biomass sorghum, rice, peanuts, sugarcane, alfalfa, pennycress, dedicated energy crops, and specialty crops” for “a pasture, range, and forage program”.
 
-    Subsec. (c)(10) to (16). [Pub. L. 113–79, § 11023(b)][/us/pl/113/79/s11023/b], redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which related to contracts for organic production coverage improvements.
+    Subsec. (c)(10) to (16). [Pub. L. 113–79][/us/pl/113/79], § 11023(b), redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which related to contracts for organic production coverage improvements.
 
-    Subsec. (c)(17) to (24). [Pub. L. 113–79, § 11023(b)(2)][/us/pl/113/79/s11023/b/2], redesignated pars. (18) to (25) as (17) to (24), respectively. Former par. (17) redesignated (16).
+    Subsec. (c)(17) to (24). [Pub. L. 113–79][/us/pl/113/79], § 11023(b)(2), redesignated pars. (18) to (25) as (17) to (24), respectively. Former par. (17) redesignated (16).
 
-    [Pub. L. 113–79, § 11022(a)(7)][/us/pl/113/79/s11022/a/7], added pars. (17) to (24).
+    [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(7), added pars. (17) to (24).
 
-    Subsec. (c)(25). [Pub. L. 113–79, § 11022(a)(6)][/us/pl/113/79/s11022/a/6], redesignated par. (17) as (25).
+    Subsec. (c)(25). [Pub. L. 113–79][/us/pl/113/79], § 11022(a)(6), redesignated par. (17) as (25).
 
-    Subsec. (d)(1). [Pub. L. 113–79, § 11024(a)][/us/pl/113/79/s11024/a], added par. (1) and struck out former par. (1). Text read as follows: “The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by [section 7333 of this title][/us/usc/t7/s7333], specialty crops, and underserved agricultural commodities.”
+    Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79], § 11024(a), added par. (1) and struck out former par. (1). Text read as follows: “The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by [section 7333 of this title][/us/usc/t7/s7333], specialty crops, and underserved agricultural commodities.”
 
-    Subsec. (d)(3)(F). [Pub. L. 113–79, § 11027(b)][/us/pl/113/79/s11027/b], inserted “farm financial benchmarking,” after “financial management,”.
+    Subsec. (d)(3)(F). [Pub. L. 113–79][/us/pl/113/79], § 11027(b), inserted “farm financial benchmarking,” after “financial management,”.
 
-    Subsec. (d)(3)(G), (H). [Pub. L. 113–79, § 11024(b)][/us/pl/113/79/s11024/b], added subpar. (G) and redesignated former subpar. (G) as (H).
+    Subsec. (d)(3)(G), (H). [Pub. L. 113–79][/us/pl/113/79], § 11024(b), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-    Subsec. (e)(1). [Pub. L. 113–79, § 11028(b)(2)][/us/pl/113/79/s11028/b/2], inserted period at end.
+    Subsec. (e)(1). [Pub. L. 113–79][/us/pl/113/79], § 11028(b)(2), inserted period at end.
 
-    Subsec. (e)(2)(A). [Pub. L. 113–79, § 11022(b)(1)(A)][/us/pl/113/79/s11022/b/1/A], in heading, substituted “Conducting and contracting for research and development” for “Authority” and, in text, inserted “conduct research and development and” after “the Corporation may use to”.
+    Subsec. (e)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 11022(b)(1)(A), in heading, substituted “Conducting and contracting for research and development” for “Authority” and, in text, inserted “conduct research and development and” after “the Corporation may use to”.
 
-    Subsec. (e)(2)(B). [Pub. L. 113–79, § 11022(b)(1)(B)][/us/pl/113/79/s11022/b/1/B], inserted “conduct research and development and” after “for the fiscal year to”.
+    Subsec. (e)(2)(B). [Pub. L. 113–79][/us/pl/113/79], § 11022(b)(1)(B), inserted “conduct research and development and” after “for the fiscal year to”.
 
-    Subsec. (e)(3). [Pub. L. 113–79, § 11022(b)(2)][/us/pl/113/79/s11022/b/2], struck out “to provide either reimbursement payments or contract payments” after “available” in introductory provisions.
+    Subsec. (e)(3). [Pub. L. 113–79][/us/pl/113/79], § 11022(b)(2), struck out “to provide either reimbursement payments or contract payments” after “available” in introductory provisions.
 
-    Subsec. (e)(4). [Pub. L. 113–79, § 11022(b)(3)][/us/pl/113/79/s11022/b/3], struck out par. (4) which related to prohibited research and development by the Corporation.
+    Subsec. (e)(4). [Pub. L. 113–79][/us/pl/113/79], § 11022(b)(3), struck out par. (4) which related to prohibited research and development by the Corporation.
 
-    2008—Subsec. (b)(1), (2). [Pub. L. 110–246, § 12022(a)][/us/pl/110/246/s12022/a], added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h] for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
+    2008—Subsec. (b)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h] for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
 
-    Subsec. (b)(2)(C)(v). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (b)(2)(C)(v). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (b)(3). [Pub. L. 110–246, § 12022(b)(1)][/us/pl/110/246/s12022/b/1], struck out “or (2)” after “paragraph (1)”.
+    Subsec. (b)(3). [Pub. L. 110–246][/us/pl/110/246], § 12022(b)(1), struck out “or (2)” after “paragraph (1)”.
 
-    Subsec. (b)(4)(A). [Pub. L. 110–246, § 12022(b)(2)][/us/pl/110/246/s12022/b/2], struck out “and (2)” after “paragraphs (1)”.
+    Subsec. (b)(4)(A). [Pub. L. 110–246][/us/pl/110/246], § 12022(b)(2), struck out “and (2)” after “paragraphs (1)”.
 
-    Subsec. (c)(10) to (16). [Pub. L. 110–246, § 12023(2)][/us/pl/110/246/s12023/2], added pars. (10) to (16). Former par. (10) redesignated (17).
+    Subsec. (c)(10) to (16). [Pub. L. 110–246][/us/pl/110/246], § 12023(2), added pars. (10) to (16). Former par. (10) redesignated (17).
 
-    Subsec. (c)(17). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in introductory provisions.
+    Subsec. (c)(17). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in introductory provisions.
 
-    [Pub. L. 110–246, § 12023(1)][/us/pl/110/246/s12023/1], redesignated par. (10) as (17).
+    [Pub. L. 110–246][/us/pl/110/246], § 12023(1), redesignated par. (10) as (17).
 
-    Subsec. (d)(2). [Pub. L. 110–246, § 7511(c)(1)][/us/pl/110/246/s7511/c/1], substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+    Subsec. (d)(2). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(1), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
-    Subsec. (e)(1). [Pub. L. 110–246, § 12024(1)][/us/pl/110/246/s12024/1], substituted “$7,500,000 for fiscal year 2008 and each subsequent fiscal year” for “$10,000,000 for each of fiscal years 2001 and 2002 and not more than $15,000,000 for fiscal year 2003 and each subsequent fiscal year.”
+    Subsec. (e)(1). [Pub. L. 110–246][/us/pl/110/246], § 12024(1), substituted “$7,500,000 for fiscal year 2008 and each subsequent fiscal year” for “$10,000,000 for each of fiscal years 2001 and 2002 and not more than $15,000,000 for fiscal year 2003 and each subsequent fiscal year.”
 
-    Subsec. (e)(2)(A). [Pub. L. 110–246, § 12024(2)][/us/pl/110/246/s12024/2], substituted “$12,500,000 for fiscal year 2008” for “$20,000,000 for each of fiscal years 2001 through 2003 and not more than $25,000,000 for fiscal year 2004”.
+    Subsec. (e)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 12024(2), substituted “$12,500,000 for fiscal year 2008” for “$20,000,000 for each of fiscal years 2001 through 2003 and not more than $25,000,000 for fiscal year 2004”.
 
-    Subsec. (e)(3). [Pub. L. 110–246, § 12024(3)][/us/pl/110/246/s12024/3], substituted “the Corporation may use—” for “the Corporation may use the excess amount to carry out another function authorized under this section.” and added subpars. (A) and (B).
+    Subsec. (e)(3). [Pub. L. 110–246][/us/pl/110/246], § 12024(3), substituted “the Corporation may use—” for “the Corporation may use the excess amount to carry out another function authorized under this section.” and added subpars. (A) and (B).
 
-    Subsec. (e)(4). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in two places.
+    Subsec. (e)(4). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in two places.
 
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
 
-    [Pub. L. 110–234, title VII, § 7511(c)][/us/pl/110/234/s7511/c], May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, provided that the amendments made by section 7511(c) are effective Oct. 1, 2009.
+    [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, provided that the amendments made by section 7511(c) are effective Oct. 1, 2009.
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].\]
 
@@ -687,7 +687,7 @@
 
  __Reimbursement Regulations__ 
 
-[Pub. L. 107–20, title II, § 2103][/us/pl/107/20/s2103], July 24, 2001, [115 Stat. 165][/us/stat/115/165], provided that:
+[Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2103, July 24, 2001, [115 Stat. 165][/us/stat/115/165], provided that:
 
 >     “(a)
 
@@ -728,62 +728,62 @@
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/106/224/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs131
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F379
-[/us/pl/110/234/s7511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F1
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1267
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F959
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s11010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11010%2Fb
-[/us/pl/113/79/s11028/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fb%2F1
-[/us/pl/113/79/s11022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F1
-[/us/pl/113/79/s11022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F2
-[/us/pl/113/79/s11022/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F3%2FA
-[/us/pl/113/79/s11022/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F3%2FB
-[/us/pl/113/79/s11022/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F4
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1505%2Fe
-[/us/pl/113/79/s11022/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F5
-[/us/pl/113/79/s11023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11023%2Fb
-[/us/pl/113/79/s11023/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11023%2Fb%2F2
-[/us/pl/113/79/s11022/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F7
-[/us/pl/113/79/s11022/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fa%2F6
-[/us/pl/113/79/s11024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11024%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
-[/us/pl/113/79/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fb
-[/us/pl/113/79/s11024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11024%2Fb
-[/us/pl/113/79/s11028/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fb%2F2
-[/us/pl/113/79/s11022/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F1%2FA
-[/us/pl/113/79/s11022/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F1%2FB
-[/us/pl/113/79/s11022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F2
-[/us/pl/113/79/s11022/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F3
-[/us/pl/110/246/s12022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12022%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1508/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fh
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12022/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12022%2Fb%2F1
-[/us/pl/110/246/s12022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12022%2Fb%2F2
-[/us/pl/110/246/s12023/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12023%2F2
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12023/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12023%2F1
-[/us/pl/110/246/s7511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F1
-[/us/pl/110/246/s12024/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12024%2F1
-[/us/pl/110/246/s12024/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12024%2F2
-[/us/pl/110/246/s12024/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12024%2F3
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s7511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1267
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -792,7 +792,7 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/106/224/s171/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs171%2Fb%2F1%2FA
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/107/20/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2103
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F165
 [/us/usc/t7/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs522%2Fb
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

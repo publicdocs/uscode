@@ -79,13 +79,13 @@
 
         Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).
 
-([Pub. L. 104–127, title I, § 137][/us/pl/104/127/s137], Apr. 4, 1996, [110 Stat. 912][/us/stat/110/912]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1126\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–46.)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 137, Apr. 4, 1996, [110 Stat. 912][/us/stat/110/912]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title XI, § 1126\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–46.)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title XI, § 1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
 
-    Subsecs. (c), (d). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title XI, § 1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
 
 ----------
 
@@ -95,11 +95,11 @@
 ----------
 
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/104/127/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs137
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F912
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

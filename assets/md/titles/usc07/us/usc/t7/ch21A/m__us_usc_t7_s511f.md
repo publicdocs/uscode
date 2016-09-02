@@ -17,7 +17,7 @@
 
     The Secretary shall provide for such reinspection or appeal inspection of tobacco as he may deem necessary for the confirmation or reversal of certificates issued under this chapter. Each inspection certificate issued under this chapter, unless invalidated or superseded in accordance with the regulations of the Secretary, shall be received in all courts and by all officers and employees of the United States as prima facie evidence of the truth of the statements therein contained.
 
-([Aug. 23, 1935, ch. 623, § 7][/us/act/1935-08-23/ch623/s7], [49 Stat. 733][/us/stat/49/733].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 7, [49 Stat. 733][/us/stat/49/733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs7
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F733
 
 

@@ -87,7 +87,7 @@
 
                 The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
 
-([Pub. L. 87–128, title III, § 313][/us/pl/87/128/s313], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 90–488, § 9][/us/pl/90/488/s9], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 122][/us/pl/92/419/s122], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I, § 116][/us/pl/95/334/s116], Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 98–258, title VI, § 604(a)][/us/pl/98/258/s604/a], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 806(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 110–234, title V, § 5102][/us/pl/110/234/s5102], May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908; [Pub. L. 113–79, title V, § 5106(a)][/us/pl/113/79/s5106/a], Feb. 7, 2014, [128 Stat. 837][/us/stat/128/837].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 313, Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 90–488][/us/pl/90/488], § 9, Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 122, Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 116, Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 98–258, title VI][/us/pl/98/258/tVI], § 604(a), Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, § 806(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5102, May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5106(a), Feb. 7, 2014, [128 Stat. 837][/us/stat/128/837].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
     2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] added subsec. (c).
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 5102][/us/pl/110/246/s5102], substituted “$300,000” for “$200,000”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 5102, substituted “$300,000” for “$200,000”.
 
     1998—[Pub. L. 105–277][/us/pl/105/277] inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subchapter—” for “this subchapter”, in introductory provisions, realigned margin of par. (1) and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in [section 1925 of this title][/us/usc/t7/s1925] that are guaranteed by the Secretary); or” for “$400,000; or”, realigned margin of par. (2), and added subsec. (b).
 
@@ -125,23 +125,23 @@
 ----------
 
 [/us/usc/t7/s1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1925
-[/us/pl/87/128/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs313
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F310
-[/us/pl/90/488/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs9
+[/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F771
-[/us/pl/92/419/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs122
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F665
-[/us/pl/95/334/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs116
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F426
-[/us/pl/98/258/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs604%2Fa
+[/us/pl/98/258/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2FtVI
 [/us/stat/98/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F139
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/110/234/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5102
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1146
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s5106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5106%2Fa
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F837
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -149,7 +149,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5102
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t7/s1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1925
 [/us/pl/98/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258

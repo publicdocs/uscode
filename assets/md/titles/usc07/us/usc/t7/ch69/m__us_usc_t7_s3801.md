@@ -33,11 +33,11 @@
 
     (8) therefore, in order to protect the commerce of the United States and the health and welfare of the people of this country, it is necessary to regulate the treatment of garbage to be fed to swine and the feeding thereof in accordance with the provisions of this chapter.
 
-([Pub. L. 96–468, § 2][/us/pl/96/468/s2], Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229].)
+([Pub. L. 96–468][/us/pl/96/468], § 2, Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229].)
 
  __Short Title__ 
 
-[Pub. L. 96–468, § 1][/us/pl/96/468/s1], Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229], provided: 
+[Pub. L. 96–468][/us/pl/96/468], § 1, Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Swine Health Protection Act’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/468/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs2
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2229
-[/us/pl/96/468/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs1
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2229
 
 

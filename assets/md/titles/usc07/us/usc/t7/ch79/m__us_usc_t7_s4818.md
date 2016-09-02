@@ -17,7 +17,7 @@
 
     The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 99–198, title XVI, § 1629][/us/pl/99/198/s1629], Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1629, Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1629
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1621
 
 

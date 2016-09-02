@@ -81,7 +81,7 @@
 
             In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles 2 B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles 2 B or C and as supplemented in accordance with paragraph (1).
 
-([Pub. L. 113–79, title I, § 1614][/us/pl/113/79/s1614], Feb. 7, 2014, [128 Stat. 711][/us/stat/128/711].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1614, Feb. 7, 2014, [128 Stat. 711][/us/stat/128/711].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
 [/us/usc/t2/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa
-[/us/pl/113/79/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1614
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F711
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

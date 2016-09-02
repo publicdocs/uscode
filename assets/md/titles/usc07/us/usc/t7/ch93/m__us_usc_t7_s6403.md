@@ -31,7 +31,7 @@
 
         Not more than one order shall be in effect under this chapter at any one time.
 
-([Pub. L. 101–624, title XIX, § 1999D][/us/pl/101/624/s1999D], Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999D, Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s6401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6401%2Fb
-[/us/pl/101/624/s1999D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999D
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3916
 
 

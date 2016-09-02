@@ -73,7 +73,7 @@
 
         If the Secretary of Agriculture determines that it is advisable in furtherance of the purposes of the program established under this section, the Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may, in any manner, dispose of all such holdings and use the receipts generated from such disposition as general program funds under this section. All funds so designated for the program established under this section shall remain available until expended.
 
-([Pub. L. 101–624, title XV, § 1543][/us/pl/101/624/s1543], Nov. 28, 1990, [104 Stat. 3694][/us/stat/104/3694]; [Pub. L. 102–237, title X, § 1002][/us/pl/102/237/s1002], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 102–511, title VII, § 705][/us/pl/102/511/s705], Oct. 24, 1992, [106 Stat. 3349][/us/stat/106/3349]; [Pub. L. 104–127, title II, § 277(b)][/us/pl/104/127/s277/b], Apr. 4, 1996, [110 Stat. 978][/us/stat/110/978].)
+([Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1543, Nov. 28, 1990, [104 Stat. 3694][/us/stat/104/3694]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1002, Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 705, Oct. 24, 1992, [106 Stat. 3349][/us/stat/106/3349]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 277(b), Apr. 4, 1996, [110 Stat. 978][/us/stat/110/978].)
 
  __References in Text__ 
 
@@ -85,17 +85,17 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–127, § 277(b)(1)][/us/pl/104/127/s277/b/1], in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
+    1996—[Pub. L. 104–127][/us/pl/104/127], § 277(b)(1), in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
 
-    Subsec. (b)(5). [Pub. L. 104–127, § 277(b)(2)][/us/pl/104/127/s277/b/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 104–127][/us/pl/104/127], § 277(b)(2), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 104–127, § 277(b)(3)][/us/pl/104/127/s277/b/3], substituted “food and fiber needs” for “food needs”.
+    Subsec. (c)(1). [Pub. L. 104–127][/us/pl/104/127], § 277(b)(3), substituted “food and fiber needs” for “food needs”.
 
-    1992—Subsec. (a). [Pub. L. 102–511, § 705(a)(1)][/us/pl/102/511/s705/a/1], struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b))” after “eligible countries”.
+    1992—Subsec. (a). [Pub. L. 102–511][/us/pl/102/511], § 705(a)(1), struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b))” after “eligible countries”.
 
-    Subsec. (b). [Pub. L. 102–511, § 705(a)(2)][/us/pl/102/511/s705/a/2], substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
+    Subsec. (b). [Pub. L. 102–511][/us/pl/102/511], § 705(a)(2), substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
 
-    Subsec. (d). [Pub. L. 102–511, § 705(b)][/us/pl/102/511/s705/b], inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
+    Subsec. (d). [Pub. L. 102–511][/us/pl/102/511], § 705(b), inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
 
     1991—Subsec. (e). [Pub. L. 102–237][/us/pl/102/237] substituted “program” for “Program”.
 
@@ -107,22 +107,22 @@
 ----------
 
 [/us/usc/t7/s5602/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5602%2F8
-[/us/pl/101/624/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1543
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3694
-[/us/pl/102/237/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1002
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
-[/us/pl/102/511/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs705
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3349
-[/us/pl/104/127/s277/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F978
 [/us/pl/101/624/s1542/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1542%2Ff
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
-[/us/pl/104/127/s277/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fb%2F1
-[/us/pl/104/127/s277/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fb%2F2
-[/us/pl/104/127/s277/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fb%2F3
-[/us/pl/102/511/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs705%2Fa%2F1
-[/us/pl/102/511/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs705%2Fa%2F2
-[/us/pl/102/511/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs705%2Fb
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

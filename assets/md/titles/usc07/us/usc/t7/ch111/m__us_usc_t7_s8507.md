@@ -23,7 +23,7 @@
 
         Of the amounts appropriated to carry out this chapter for a fiscal year, the Secretaries may expend not more than five percent to cover the administrative expenses necessary to carry out this chapter.
 
-([Pub. L. 108–384, § 8][/us/pl/108/384/s8], Oct. 30, 2004, [118 Stat. 2226][/us/stat/118/2226].)
+([Pub. L. 108–384][/us/pl/108/384], § 8, Oct. 30, 2004, [118 Stat. 2226][/us/stat/118/2226].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/384/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs8
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2226
 
 

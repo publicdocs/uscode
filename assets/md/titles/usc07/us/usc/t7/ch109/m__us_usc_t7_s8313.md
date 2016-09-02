@@ -93,7 +93,7 @@
 
         Subject to the approval of the Attorney General, the Secretary shall establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-([Pub. L. 107–171, title X, § 10414][/us/pl/107/171/s10414], May 13, 2002, [116 Stat. 504][/us/stat/116/504]; [Pub. L. 110–234, title XI, § 11012(a)][/us/pl/110/234/s11012/a], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11012(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10414, May 13, 2002, [116 Stat. 504][/us/stat/116/504]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11012(a), May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11012(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(A)(iii). [Pub. L. 110–246, § 11012(a)][/us/pl/110/246/s11012/a], added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
+    2008—Subsec. (b)(1)(A)(iii). [Pub. L. 110–246][/us/pl/110/246], § 11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -123,11 +123,11 @@
 ----------
 
 [/us/usc/t7/s8309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8309%2Fd
-[/us/pl/107/171/s10414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10414
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F504
-[/us/pl/110/234/s11012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11012%2Fa
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
@@ -136,7 +136,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11012%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

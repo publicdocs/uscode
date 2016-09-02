@@ -41,7 +41,7 @@
 
         Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 
-([Pub. L. 113–79, title I, § 1208][/us/pl/113/79/s1208], Feb. 7, 2014, [128 Stat. 684][/us/stat/128/684].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1208, Feb. 7, 2014, [128 Stat. 684][/us/stat/128/684].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1208
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F684
 
 

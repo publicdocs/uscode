@@ -25,7 +25,7 @@
 
     Third. That the association shall not deal in the products of nonmembers to an amount greater in value than such as are handled by it for members.
 
-([Feb. 18, 1922, ch. 57, § 1][/us/act/1922-02-18/ch57/s1], [42 Stat. 388][/us/stat/42/388].)
+([Feb. 18, 1922, ch. 57][/us/act/1922-02-18/ch57], § 1, [42 Stat. 388][/us/stat/42/388].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1922-02-18/ch57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch57%2Fs1
+[/us/act/1922-02-18/ch57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch57
 [/us/stat/42/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F388
 
 

@@ -35,7 +35,7 @@
 
     (9) To exercise with respect to rubber-bearing plants other than guayule the same powers as are granted in the foregoing provisions of this section with respect to guayule.
 
-([Mar. 5, 1942, ch. 140, § 1][/us/act/1942-03-05/ch140/s1], [56 Stat. 126][/us/stat/56/126]; [Oct. 20, 1942, ch. 617][/us/act/1942-10-20/ch617], §§ 1–4, [56 Stat. 796][/us/stat/56/796], 797.)
+([Mar. 5, 1942, ch. 140][/us/act/1942-03-05/ch140], § 1, [56 Stat. 126][/us/stat/56/126]; [Oct. 20, 1942, ch. 617][/us/act/1942-10-20/ch617], §§ 1–4, [56 Stat. 796][/us/stat/56/796], 797.)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Additional Acreage Authorized__ 
 
-[Act Oct. 26, 1942, ch. 629][/us/act/1942-10-26/ch629], title II, [56 Stat. 1002][/us/stat/56/1002], provided that: 
+[Act Oct. 26, 1942, ch. 629, title II][/us/act/1942-10-26/ch629/tII], [56 Stat. 1002][/us/stat/56/1002], provided that: 
 
 > “The Secretary of Agriculture, in connection with the appropriations herein and heretofore made for such project, is authorized to plant, or contract for the planting of, not to exceed twenty-five thousand acres of guayule in areas in the Western Hemisphere in addition to the acreage permitted under the provisions of paragraph (1), [section 1 of the act of March 5, 1942][/us/act/1942-03-05/s1] (Public Law 473) \[par. (1) of this section\].”
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/act/1942-03-05/ch140/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch140%2Fs1
+[/us/act/1942-03-05/ch140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch140
 [/us/stat/56/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F126
 [/us/act/1942-10-20/ch617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-20%2Fch617
 [/us/stat/56/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F796
-[/us/act/1942-10-26/ch629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-26%2Fch629
+[/us/act/1942-10-26/ch629/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-26%2Fch629%2FtII
 [/us/stat/56/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1002
 [/us/act/1942-03-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fs1
 

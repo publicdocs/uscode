@@ -17,7 +17,7 @@
 
     Notwithstanding the exemption contained in [section 553(a)(2) of title 5][/us/usc/t5/s553/a/2], the Governor of the telephone bank shall cause to be published in the Federal Register, in accordance with [section 553 of title 5][/us/usc/t5/s553], all rules, regulations, bulletins, and other written policy standards governing the operation of the telephone bank’s programs relating to public property, loans, grants, benefits, or contracts. After September 30, 1988, the telephone bank may not deny a loan or advance to, or take any other adverse action against, any applicant or borrower for any reason which is based upon a rule, regulation, bulletin, or other written policy standard which has not been published pursuant to such section.
 
-([Pub. L. 100–203, title I, § 1414][/us/pl/100/203/s1414], Dec. 22, 1987, [101 Stat. 1330–27][/us/stat/101/1330-27].)
+([Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1414, Dec. 22, 1987, [101 Stat. 1330–27][/us/stat/101/1330-27].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t5/s553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fa%2F2
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/100/203/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1414
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-27
 
 

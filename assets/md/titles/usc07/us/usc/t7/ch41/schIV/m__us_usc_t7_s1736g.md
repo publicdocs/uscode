@@ -17,7 +17,7 @@
 
     To the maximum extent practicable, assistance for a foreign country under subchapter III–A shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 413, as added [Pub. L. 96–53, title II, § 210][/us/pl/96/53/s210], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; [Pub. L. 104–127, title II, § 221][/us/pl/104/127/s221], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 110–246, title III, § 3022][/us/pl/110/246/s3022], June 18, 2008, [122 Stat. 1829][/us/stat/122/1829]; [Pub. L. 113–79, title III, § 3015][/us/pl/113/79/s3015], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 413, as added [Pub. L. 96–53, title II][/us/pl/96/53/tII], § 210, Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; amended [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 221, Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3022, June 18, 2008, [122 Stat. 1829][/us/stat/122/1829]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3015, Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/96/53/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs210
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F370
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3656
-[/us/pl/104/127/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs221
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F958
-[/us/pl/110/246/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3022
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1829
-[/us/pl/113/79/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3015
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F778
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

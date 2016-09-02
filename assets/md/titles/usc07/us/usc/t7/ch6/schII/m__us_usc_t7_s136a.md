@@ -537,7 +537,7 @@
 
                 (iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-([June 25, 1947, ch. 125, § 3][/us/act/1947-06-25/ch125/s3], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 979][/us/stat/86/979]; amended [Pub. L. 94–140, § 12][/us/pl/94/140/s12], Nov. 28, 1975, [89 Stat. 755][/us/stat/89/755]; [Pub. L. 95–396][/us/pl/95/396], §§ 2(a), 3–8, Sept. 30, 1978, [92 Stat. 820][/us/stat/92/820], 824–827; [Pub. L. 100–532, title I][/us/pl/100/532], §§ 102(b), 103, title VI, § 601(b)(1), title VIII, § 801(b), Oct. 25, 1988, [102 Stat. 2667][/us/stat/102/2667], 2677, 2680; [Pub. L. 101–624, title XIV, § 1492][/us/pl/101/624/s1492], Nov. 28, 1990, [104 Stat. 3628][/us/stat/104/3628]; [Pub. L. 102–237, title X, § 1006(a)(3)][/us/pl/102/237/s1006/a/3], (b)(1), (2), (c), Dec. 13, 1991, [105 Stat. 1894–1896][/us/stat/105/1894-1896]; [Pub. L. 104–170, title I][/us/pl/104/170], §§ 105(b), 106(b), title II, §§ 210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, [110 Stat. 1491][/us/stat/110/1491], 1494–1497, 1499, 1503, 1504, 1508, 1510; [Pub. L. 108–199, div. G, title V, § 501(b)][/us/pl/108/199/s501/b], Jan. 23, 2004, [118 Stat. 419][/us/stat/118/419]; [Pub. L. 110–94][/us/pl/110/94], §§ 2, 3, Oct. 9, 2007, [121 Stat. 1000][/us/stat/121/1000].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 3, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 979][/us/stat/86/979]; amended [Pub. L. 94–140][/us/pl/94/140], § 12, Nov. 28, 1975, [89 Stat. 755][/us/stat/89/755]; [Pub. L. 95–396][/us/pl/95/396], §§ 2(a), 3–8, Sept. 30, 1978, [92 Stat. 820][/us/stat/92/820], 824–827; [Pub. L. 100–532, title I][/us/pl/100/532/tI], §§ 102(b), 103, title VI, § 601(b)(1), title VIII, § 801(b), Oct. 25, 1988, [102 Stat. 2667][/us/stat/102/2667], 2677, 2680; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1492, Nov. 28, 1990, [104 Stat. 3628][/us/stat/104/3628]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, [105 Stat. 1894–1896][/us/stat/105/1894-1896]; [Pub. L. 104–170, title I][/us/pl/104/170/tI], §§ 105(b), 106(b), title II, §§ 210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, [110 Stat. 1491][/us/stat/110/1491], 1494–1497, 1499, 1503, 1504, 1508, 1510; [Pub. L. 108–199, div. G, title V][/us/pl/108/199/dG/tV], § 501(b), Jan. 23, 2004, [118 Stat. 419][/us/stat/118/419]; [Pub. L. 110–94][/us/pl/110/94], §§ 2, 3, Oct. 9, 2007, [121 Stat. 1000][/us/stat/121/1000].)
 
  __Prior Provisions__ 
 
@@ -545,79 +545,79 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c)(3)(B)(ii)(I). [Pub. L. 110–94, § 2(1)][/us/pl/110/94/s2/1], substituted “review the application in accordance with [section 136w–8(f)(4)(B) of this title][/us/usc/t7/s136w–8/f/4/B] and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
+    2007—Subsec. (c)(3)(B)(ii)(I). [Pub. L. 110–94][/us/pl/110/94], § 2(1), substituted “review the application in accordance with [section 136w–8(f)(4)(B) of this title][/us/usc/t7/s136w–8/f/4/B] and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
 
-    Subsec. (c)(3)(B)(ii)(II). [Pub. L. 110–94, § 2(2)][/us/pl/110/94/s2/2], substituted “not later than the applicable decision review time established pursuant to [section 136w–8(f)(4)(B) of this title][/us/usc/t7/s136w–8/f/4/B], or, if no review time is established, not later than” for “within”.
+    Subsec. (c)(3)(B)(ii)(II). [Pub. L. 110–94][/us/pl/110/94], § 2(2), substituted “not later than the applicable decision review time established pursuant to [section 136w–8(f)(4)(B) of this title][/us/usc/t7/s136w–8/f/4/B], or, if no review time is established, not later than” for “within”.
 
-    Subsec. (g)(1)(A). [Pub. L. 110–94, § 3(1)][/us/pl/110/94/s3/1], designated first sentence as cl. (i) and inserted heading, designated second sentence as cl. (ii), inserted heading, and substituted “In accordance with this subparagraph, the Administrator” for “The Administrator”, added cls. (iii) and (iv), designated fourth sentence as cl. (v) and inserted heading, and struck out third sentence which read as follows: “The goal of these regulations shall be a review of a pesticide’s registration every 15 years.”
+    Subsec. (g)(1)(A). [Pub. L. 110–94][/us/pl/110/94], § 3(1), designated first sentence as cl. (i) and inserted heading, designated second sentence as cl. (ii), inserted heading, and substituted “In accordance with this subparagraph, the Administrator” for “The Administrator”, added cls. (iii) and (iv), designated fourth sentence as cl. (v) and inserted heading, and struck out third sentence which read as follows: “The goal of these regulations shall be a review of a pesticide’s registration every 15 years.”
 
-    Subsec. (g)(1)(B), (C). [Pub. L. 110–94, § 3(2)][/us/pl/110/94/s3/2], (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (g)(1)(B), (C). [Pub. L. 110–94][/us/pl/110/94], § 3(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    2004—Subsec. (h)(2)(F). [Pub. L. 108–199, § 501(b)(1)][/us/pl/108/199/s501/b/1], substituted “120 days” for “90 to 180 days”.
+    2004—Subsec. (h)(2)(F). [Pub. L. 108–199][/us/pl/108/199], § 501(b)(1), substituted “120 days” for “90 to 180 days”.
 
-    Subsec. (h)(3)(D)(vi). [Pub. L. 108–199, § 501(b)(2)(A)][/us/pl/108/199/s501/b/2/A], substituted “120 days” for “240 days”.
+    Subsec. (h)(3)(D)(vi). [Pub. L. 108–199][/us/pl/108/199], § 501(b)(2)(A), substituted “120 days” for “240 days”.
 
-    Subsec. (h)(3)(F)(iv). [Pub. L. 108–199, § 501(b)(2)(B)][/us/pl/108/199/s501/b/2/B], added cl. (iv).
+    Subsec. (h)(3)(F)(iv). [Pub. L. 108–199][/us/pl/108/199], § 501(b)(2)(B), added cl. (iv).
 
-    1996—Subsec. (c)(1)(F)(ii) to (vi). [Pub. L. 104–170, § 210(b)][/us/pl/104/170/s210/b], added cls. (ii), (v), and (vi), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cl. (iv) substituted “(i), (ii), and (iii)” for “(i) and (ii)”.
+    1996—Subsec. (c)(1)(F)(ii) to (vi). [Pub. L. 104–170][/us/pl/104/170], § 210(b), added cls. (ii), (v), and (vi), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cl. (iv) substituted “(i), (ii), and (iii)” for “(i) and (ii)”.
 
-    Subsec. (c)(1)(G). [Pub. L. 104–170, § 250(1)][/us/pl/104/170/s250/1], added subpar. (G).
+    Subsec. (c)(1)(G). [Pub. L. 104–170][/us/pl/104/170], § 250(1), added subpar. (G).
 
     Subsec. (c)(2)(A). [Pub. L. 104–170][/us/pl/104/170], §§ 210(d)(1), 231, inserted heading, inserted “the public health and agricultural need for such minor use,” after “pattern of use,”, and substituted “potential beneficial or adverse effects on man and the environment” for “potential exposure of man and the environment to the pesticide”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–170, § 210(d)(2)][/us/pl/104/170/s210/d/2], inserted heading.
+    Subsec. (c)(2)(B). [Pub. L. 104–170][/us/pl/104/170], § 210(d)(2), inserted heading.
 
-    Subsec. (c)(2)(B)(vi). [Pub. L. 104–170, § 210(c)(1)][/us/pl/104/170/s210/c/1], added cl. (vi).
+    Subsec. (c)(2)(B)(vi). [Pub. L. 104–170][/us/pl/104/170], § 210(c)(1), added cl. (vi).
 
-    Subsec. (c)(2)(B)(vii). [Pub. L. 104–170, § 210(f)(2)][/us/pl/104/170/s210/f/2], added cl. (vii).
+    Subsec. (c)(2)(B)(vii). [Pub. L. 104–170][/us/pl/104/170], § 210(f)(2), added cl. (vii).
 
-    Subsec. (c)(2)(B)(viii). [Pub. L. 104–170, § 222][/us/pl/104/170/s222], added cl. (viii).
+    Subsec. (c)(2)(B)(viii). [Pub. L. 104–170][/us/pl/104/170], § 222, added cl. (viii).
 
-    Subsec. (c)(2)(C). [Pub. L. 104–170, § 210(d)(3)][/us/pl/104/170/s210/d/3], inserted heading.
+    Subsec. (c)(2)(C). [Pub. L. 104–170][/us/pl/104/170], § 210(d)(3), inserted heading.
 
-    Subsec. (c)(2)(E). [Pub. L. 104–170, § 210(d)(4)][/us/pl/104/170/s210/d/4], added subpar. (E).
+    Subsec. (c)(2)(E). [Pub. L. 104–170][/us/pl/104/170], § 210(d)(4), added subpar. (E).
 
-    Subsec. (c)(3)(A), (B). [Pub. L. 104–170, § 210(e)(1)][/us/pl/104/170/s210/e/1], (2), inserted headings.
+    Subsec. (c)(3)(A), (B). [Pub. L. 104–170][/us/pl/104/170], § 210(e)(1), (2), inserted headings.
 
-    Subsec. (c)(3)(C), (D). [Pub. L. 104–170, § 210(e)(3)][/us/pl/104/170/s210/e/3], added subpars. (C) and (D).
+    Subsec. (c)(3)(C), (D). [Pub. L. 104–170][/us/pl/104/170], § 210(e)(3), added subpars. (C) and (D).
 
-    Subsec. (c)(9). [Pub. L. 104–170, § 223][/us/pl/104/170/s223], added par. (9).
+    Subsec. (c)(9). [Pub. L. 104–170][/us/pl/104/170], § 223, added par. (9).
 
-    Subsec. (c)(10). [Pub. L. 104–170, § 250(2)][/us/pl/104/170/s250/2], added par. (10).
+    Subsec. (c)(10). [Pub. L. 104–170][/us/pl/104/170], § 250(2), added par. (10).
 
-    Subsec. (f)(4). [Pub. L. 104–170, § 105(b)][/us/pl/104/170/s105/b], added par. (4).
+    Subsec. (f)(4). [Pub. L. 104–170][/us/pl/104/170], § 105(b), added par. (4).
 
-    Subsec. (g). [Pub. L. 104–170, § 106(b)][/us/pl/104/170/s106/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–170][/us/pl/104/170], § 106(b), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 104–170, § 224][/us/pl/104/170/s224], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–170][/us/pl/104/170], § 224, added subsec. (h).
 
-    1991—Subsec. (c)(1)(D). [Pub. L. 102–237, § 1006(a)(3)(B)][/us/pl/102/237/s1006/a/3/B], (C), added subpar. (D) and redesignated former subpar. (D) as (F).
+    1991—Subsec. (c)(1)(D). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(3)(B), (C), added subpar. (D) and redesignated former subpar. (D) as (F).
 
-    Subsec. (c)(1)(E). [Pub. L. 102–237, § 1006(a)(3)(A)][/us/pl/102/237/s1006/a/3/A], (C), added subpar. (E) and struck out former subpar. (E) which read as follows: “the complete formula of the pesticide; and”.
+    Subsec. (c)(1)(E). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(3)(A), (C), added subpar. (E) and struck out former subpar. (E) which read as follows: “the complete formula of the pesticide; and”.
 
-    Subsec. (c)(1)(F). [Pub. L. 102–237, § 1006(a)(3)(A)][/us/pl/102/237/s1006/a/3/A], (B), (D), redesignated former subpar. (D) as (F), in cl. (i) substituted “With” for “with” and a period for semicolon at end, in cl. (ii) substituted “Except” for “except” and a period for semicolon at end, in cl. (iii) substituted “After” for “after” and a period for semicolon at end, and struck out former subpar. (F) which read as follows: “a request that the pesticide be classified for general use, for restricted use, or for both.”
+    Subsec. (c)(1)(F). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(3)(A), (B), (D), redesignated former subpar. (D) as (F), in cl. (i) substituted “With” for “with” and a period for semicolon at end, in cl. (ii) substituted “Except” for “except” and a period for semicolon at end, in cl. (iii) substituted “After” for “after” and a period for semicolon at end, and struck out former subpar. (F) which read as follows: “a request that the pesticide be classified for general use, for restricted use, or for both.”
 
-    Subsec. (c)(2)(A). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), substituted “the Administrator” for “he” before “requires”, “shall permit”, “shall make”, and “deems”, and substituted “the Administrator’s” for “his”.
+    Subsec. (c)(2)(A). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), (2), substituted “the Administrator” for “he” before “requires”, “shall permit”, “shall make”, and “deems”, and substituted “the Administrator’s” for “his”.
 
-    Subsec. (c)(2)(D). [Pub. L. 102–237, § 1006(c)][/us/pl/102/237/s1006/c], clarified amendment made by [Pub. L. 100–532, § 102(b)(2)(A)][/us/pl/100/532/s102/b/2/A]. See 1988 Amendment note below.
+    Subsec. (c)(2)(D). [Pub. L. 102–237][/us/pl/102/237], § 1006(c), clarified amendment made by [Pub. L. 100–532][/us/pl/100/532], § 102(b)(2)(A). See 1988 Amendment note below.
 
-    Subsec. (c)(3)(A). [Pub. L. 102–237, § 1006(b)(2)][/us/pl/102/237/s1006/b/2], substituted “the Administrator’s” for “his”.
+    Subsec. (c)(3)(A). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
-    Subsec. (c)(5). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “determines”.
+    Subsec. (c)(5). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-    Subsec. (c)(6). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), substituted “the Administrator” for “he” before “shall notify” in two places and “the Administrator’s” for “his” in four places.
+    Subsec. (c)(6). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), (2), substituted “the Administrator” for “he” before “shall notify” in two places and “the Administrator’s” for “his” in four places.
 
-    Subsec. (d)(1). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “shall classify it for both” in subpar. (A), before “will classify” in subpar. (B), and before “shall classify” in subpar. (C).
+    Subsec. (d)(1). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “shall classify it for both” in subpar. (A), before “will classify” in subpar. (B), and before “shall classify” in subpar. (C).
 
-    Subsec. (d)(2). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “shall notify”.
+    Subsec. (d)(2). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
 
     1990—Subsec. (c)(2)(A). [Pub. L. 101–624][/us/pl/101/624] inserted after third sentence “The Administrator shall not require a person to submit, in relation to a registration or reregistration of a pesticide for minor agricultural use under this subchapter, any field residue data from a geographic area where the pesticide will not be registered for such use.”
 
-    1988—Subsec. (a). [Pub. L. 100–532, § 601(b)(1)][/us/pl/100/532/s601/b/1], substituted “Requirement of registration” for “Requirement” in heading and amended text generally. Prior to amendment, text read as follows: “Except as otherwise provided by this subchapter, no person in any State may distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person any pesticide which is not registered with the Administrator.”
+    1988—Subsec. (a). [Pub. L. 100–532][/us/pl/100/532], § 601(b)(1), substituted “Requirement of registration” for “Requirement” in heading and amended text generally. Prior to amendment, text read as follows: “Except as otherwise provided by this subchapter, no person in any State may distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person any pesticide which is not registered with the Administrator.”
 
-    Subsec. (c)(1)(D). [Pub. L. 100–532, § 801(b)(1)][/us/pl/100/532/s801/b/1]–(4), in introductory provisions, substituted “paragraph (2)(D)” for “subsection (c)(2)(D) of this section”, in cl. (i), substituted “(i) with” for “(i) With” and “, except that” for “: Provided, That”, in cl. (ii), substituted “clause (i)” for “subparagraph (D)(i) of this paragraph”, and in cl. (iii), substituted “clauses (i) and (ii)” for “subparagraphs (D)(i) and (D)(ii) of this paragraph”.
+    Subsec. (c)(1)(D). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(1)–(4), in introductory provisions, substituted “paragraph (2)(D)” for “subsection (c)(2)(D) of this section”, in cl. (i), substituted “(i) with” for “(i) With” and “, except that” for “: Provided, That”, in cl. (ii), substituted “clause (i)” for “subparagraph (D)(i) of this paragraph”, and in cl. (iii), substituted “clauses (i) and (ii)” for “subparagraphs (D)(i) and (D)(ii) of this paragraph”.
 
-    Subsec. (c)(2)(A). [Pub. L. 100–532, § 801(b)(5)(A)][/us/pl/100/532/s801/b/5/A], (B), substituted “(2) Data in support of registration.—
+    Subsec. (c)(2)(A). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(5)(A), (B), substituted “(2) Data in support of registration.—
 
     “(A) The”
 
@@ -625,49 +625,49 @@
 
     Subsec. (c)(2)(B). [Pub. L. 100–532][/us/pl/100/532], §§ 102(b)(1), 801(b)(5)(C)–(F), substituted “(B)(i) If” for “(B) Additional data to support existing registration.—(i) If”, directed that cls. (ii) to (v) be aligned with left margin of subpar. (A), in cls. (ii) and (iii), inserted “The Administrator shall issue a notice of intent to suspend the registration of a pesticide in accordance with the procedures prescribed by clause (iv) if a registrant fails to comply with this clause.”, in cl. (iv), substituted “title. The only” for “title: Provided, that the only”, and in cl. (v), substituted “paragraph (1)(D)” for “subsection (c)(1)(D) of this section”.
 
-    Subsec. (c)(2)(C). [Pub. L. 100–532, § 801(b)(5)(G)][/us/pl/100/532/s801/b/5/G], (H), struck out “Simplified procedures” after “(C)” and directed that text be aligned with left margin of subpar. (A).
+    Subsec. (c)(2)(C). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(5)(G), (H), struck out “Simplified procedures” after “(C)” and directed that text be aligned with left margin of subpar. (A).
 
-    Subsec. (c)(2)(D). [Pub. L. 100–532, § 102(b)(2)(A)][/us/pl/100/532/s102/b/2/A], and [Pub. L. 102–237, § 1006(c)][/us/pl/102/237/s1006/c], substituted “the pesticide that is the subject of the application” for “an end-use product”.
+    Subsec. (c)(2)(D). [Pub. L. 100–532][/us/pl/100/532], § 102(b)(2)(A), and [Pub. L. 102–237][/us/pl/102/237], § 1006(c), substituted “the pesticide that is the subject of the application” for “an end-use product”.
 
-    Subsec. (c)(2)(D)(i). [Pub. L. 100–532, § 102(b)(2)(B)][/us/pl/100/532/s102/b/2/B], struck out “the safety of” after “data pertaining to”.
+    Subsec. (c)(2)(D)(i). [Pub. L. 100–532][/us/pl/100/532], § 102(b)(2)(B), struck out “the safety of” after “data pertaining to”.
 
-    Subsec. (c)(3). [Pub. L. 100–532, § 103][/us/pl/100/532/s103], substituted “(A) The Administrator” for “The Administrator” and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 100–532][/us/pl/100/532], § 103, substituted “(A) The Administrator” for “The Administrator” and added subpar. (B).
 
-    Subsec. (c)(7). [Pub. L. 100–532, § 801(b)(6)][/us/pl/100/532/s801/b/6], in introductory provisions, substituted “paragraph (5)” for “subsection (c)(5) of this section”, in subpars. (A) and (B), substituted “paragraph (5). If” for “subsection (c)(5) of this section: Provided, That, if”, and in subpar. (C), substituted “prescribe. A” for “prescribe: Provided, that a”.
+    Subsec. (c)(7). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(6), in introductory provisions, substituted “paragraph (5)” for “subsection (c)(5) of this section”, in subpars. (A) and (B), substituted “paragraph (5). If” for “subsection (c)(5) of this section: Provided, That, if”, and in subpar. (C), substituted “prescribe. A” for “prescribe: Provided, that a”.
 
-    Subsec. (d)(1)(A). [Pub. L. 100–532, § 801(b)(7)][/us/pl/100/532/s801/b/7], substituted “restricted use. If” for “restricted use, provided that if” and “restricted uses. The Administrator” for “restricted uses: Provided, however, That the Administrator”.
+    Subsec. (d)(1)(A). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(7), substituted “restricted use. If” for “restricted use, provided that if” and “restricted uses. The Administrator” for “restricted uses: Provided, however, That the Administrator”.
 
-    Subsec. (f)(2). [Pub. L. 100–532, § 801(b)(8)][/us/pl/100/532/s801/b/8], substituted “this subchapter. As” for “this subchapter: Provided, That as”.
+    Subsec. (f)(2). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(8), substituted “this subchapter. As” for “this subchapter: Provided, That as”.
 
-    Subsec. (g). [Pub. L. 100–532, § 801(b)(9)][/us/pl/100/532/s801/b/9], struck out subsec. (g) which read as follows: “The Administrator shall accomplish the reregistration of all pesticides in the most expeditious manner practicable: Provided, That, to the extent appropriate, any pesticide that results in a postharvest residue in or on food or feed crops shall be given priority in the reregistration process.”
+    Subsec. (g). [Pub. L. 100–532][/us/pl/100/532], § 801(b)(9), struck out subsec. (g) which read as follows: “The Administrator shall accomplish the reregistration of all pesticides in the most expeditious manner practicable: Provided, That, to the extent appropriate, any pesticide that results in a postharvest residue in or on food or feed crops shall be given priority in the reregistration process.”
 
-    1978—Subsec. (c)(1)(D). [Pub. L. 95–396, § 2(a)(1)][/us/pl/95/396/s2/a/1], added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing “if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shall have first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by [section 136h(b) of this title][/us/usc/t7/s136h/b]. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator’s determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.”.
+    1978—Subsec. (c)(1)(D). [Pub. L. 95–396][/us/pl/95/396], § 2(a)(1), added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing “if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shall have first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by [section 136h(b) of this title][/us/usc/t7/s136h/b]. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator’s determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.”.
 
     Subsec. (c)(2). [Pub. L. 95–396][/us/pl/95/396], §§ 2(a)(2)(A)–(D), 3, 4, designated existing provisions as subpar. (A), inserted in second sentence “under subparagraph (B) of this paragraph” after “kind of information”, struck out from introductory text of third sentence “subsection (c)(1)(D) of this section and” after “Except as provided by”, and inserted provisions relating to establishment of standards for data requirements for registration of pesticides with respect to minor uses and consideration of economic factors in development of standards and cost of development, and added subpars. (B) to (D).
 
-    Subsec. (c)(5). [Pub. L. 95–396, § 5][/us/pl/95/396/s5], provided for waiver of data requirements pertaining to efficacy.
+    Subsec. (c)(5). [Pub. L. 95–396][/us/pl/95/396], § 5, provided for waiver of data requirements pertaining to efficacy.
 
-    Subsec. (c)(7), (8). [Pub. L. 95–396, § 6][/us/pl/95/396/s6], added pars. (7) and (8).
+    Subsec. (c)(7), (8). [Pub. L. 95–396][/us/pl/95/396], § 6, added pars. (7) and (8).
 
-    Subsec. (d)(1)(A). [Pub. L. 95–396, § 7(1)][/us/pl/95/396/s7/1], authorized classification of pesticide uses by regulation on the initial classification and registered pesticides prior to reregistration.
+    Subsec. (d)(1)(A). [Pub. L. 95–396][/us/pl/95/396], § 7(1), authorized classification of pesticide uses by regulation on the initial classification and registered pesticides prior to reregistration.
 
-    Subsec. (d)(2). [Pub. L. 95–396, § 7(2)][/us/pl/95/396/s7/2], substituted “forty-five days” for “30 days”.
+    Subsec. (d)(2). [Pub. L. 95–396][/us/pl/95/396], § 7(2), substituted “forty-five days” for “30 days”.
 
-    Subsec. (d)(3). [Pub. L. 95–396, § 7(3)][/us/pl/95/396/s7/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 95–396][/us/pl/95/396], § 7(3), added par. (3).
 
-    Subsec. (g). [Pub. L. 95–396, § 8][/us/pl/95/396/s8], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–396][/us/pl/95/396], § 8, added subsec. (g).
 
     1975—Subsec. (c)(1)(D). [Pub. L. 94–140][/us/pl/94/140] inserted exception relating to test data submitted on or after January 1, 1970, in support of application, inserted provision that compensation for producing test data shall apply to all applications submitted on or after October 21, 1972, and provision relating to delay of registration pending determination of reasonable compensation, struck out requirement that payment determined by court not be less than amount determined by Administrator, and substituted “If either party” for “If the owner of the test data”.
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–94, § 6][/us/pl/110/94/s6], Oct. 9, 2007, [121 Stat. 1007][/us/stat/121/1007], provided that: 
+[Pub. L. 110–94][/us/pl/110/94], § 6, Oct. 9, 2007, [121 Stat. 1007][/us/stat/121/1007], provided that: 
 
 > “This Act \[see Short Title of 2007 Amendment note set out under [section 136 of this title][/us/usc/t7/s136]\] and the amendments made by this Act take effect on October 1, 2007.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–199, div. G, title V, § 501(h)][/us/pl/108/199/s501/h], Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434], provided that: 
+[Pub. L. 108–199, div. G, title V][/us/pl/108/199/dG/tV], § 501(h), Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434], provided that: 
 
 > “Except as otherwise provided in this section \[enacting [section 136w–8 of this title][/us/usc/t7/s136w–8], amending this section and sections 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under sections 136 of this title and [section 346a of Title 21][/us/usc/t21/s346a], Food and Drugs\] and the amendments made by this section, this section and the amendments made by this section take effect on the date that is 60 days after the date of enactment of this Act \[Jan. 23, 2004\].”
 
@@ -677,7 +677,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–396, § 2(b)][/us/pl/95/396/s2/b], Sept. 30, 1978, [92 Stat. 824][/us/stat/92/824], provided that: 
+[Pub. L. 95–396][/us/pl/95/396], § 2(b), Sept. 30, 1978, [92 Stat. 824][/us/stat/92/824], provided that: 
 
 > “The amendment to section 3(c)(1)(D) of the Federal Insecticide, Fungicide, and Rodenticide Act \[subsec. (c)(1)(D) of this section\] made by \[subsec. (a)(1) of\] this section shall apply with respect to all applications for registration approved after the date of enactment of this Act \[Sept. 30, 1978\].”
 
@@ -687,7 +687,7 @@
 
  __Biological Pesticide Handling Study__ 
 
-[Pub. L. 101–624, title XIV, § 1498][/us/pl/101/624/s1498], Nov. 28, 1990, [104 Stat. 3631][/us/stat/104/3631], provided that:
+[Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1498, Nov. 28, 1990, [104 Stat. 3631][/us/stat/104/3631], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -699,7 +699,7 @@
 
  __Education, Study, and Report__ 
 
-[Pub. L. 100–478, title I, § 1010][/us/pl/100/478/s1010], Oct. 7, 1988, [102 Stat. 2313][/us/stat/102/2313], provided that:
+[Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1010, Oct. 7, 1988, [102 Stat. 2313][/us/stat/102/2313], provided that:
 
 >     “(a)  __Education__  __.—__ 
 
@@ -739,104 +739,104 @@
 [/us/usc/t7/s136d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d
 [/us/usc/t7/s136h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136h
 [/us/usc/t7/s136/mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136%2Fmm
-[/us/act/1947-06-25/ch125/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs3
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F979
-[/us/pl/94/140/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs12
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
 [/us/stat/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F755
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F820
-[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtI
 [/us/stat/102/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2667
-[/us/pl/101/624/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1492
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3628
-[/us/pl/102/237/s1006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F3
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894-1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894-1896
-[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtI
 [/us/stat/110/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1491
-[/us/pl/108/199/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fb
+[/us/pl/108/199/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtV
 [/us/stat/118/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F419
 [/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/stat/121/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1000
 [/us/usc/t7/s135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135a
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/110/94/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs2%2F1
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/usc/t7/s136w–8/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938%2Ff%2F4%2FB
-[/us/pl/110/94/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs2%2F2
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/usc/t7/s136w–8/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938%2Ff%2F4%2FB
-[/us/pl/110/94/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs3%2F1
-[/us/pl/110/94/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs3%2F2
-[/us/pl/108/199/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fb%2F1
-[/us/pl/108/199/s501/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fb%2F2%2FA
-[/us/pl/108/199/s501/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fb%2F2%2FB
-[/us/pl/104/170/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fb
-[/us/pl/104/170/s250/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs250%2F1
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
-[/us/pl/104/170/s210/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fd%2F2
-[/us/pl/104/170/s210/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fc%2F1
-[/us/pl/104/170/s210/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Ff%2F2
-[/us/pl/104/170/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs222
-[/us/pl/104/170/s210/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fd%2F3
-[/us/pl/104/170/s210/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fd%2F4
-[/us/pl/104/170/s210/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fe%2F1
-[/us/pl/104/170/s210/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fe%2F3
-[/us/pl/104/170/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs223
-[/us/pl/104/170/s250/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs250%2F2
-[/us/pl/104/170/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs105%2Fb
-[/us/pl/104/170/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs106%2Fb
-[/us/pl/104/170/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs224
-[/us/pl/102/237/s1006/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F3%2FB
-[/us/pl/102/237/s1006/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F3%2FA
-[/us/pl/102/237/s1006/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F3%2FA
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fc
-[/us/pl/100/532/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs102%2Fb%2F2%2FA
-[/us/pl/102/237/s1006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F2
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/532/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs601%2Fb%2F1
-[/us/pl/100/532/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F1
-[/us/pl/100/532/s801/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F5%2FA
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
-[/us/pl/100/532/s801/b/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F5%2FG
-[/us/pl/100/532/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs102%2Fb%2F2%2FA
-[/us/pl/102/237/s1006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fc
-[/us/pl/100/532/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs102%2Fb%2F2%2FB
-[/us/pl/100/532/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs103
-[/us/pl/100/532/s801/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F6
-[/us/pl/100/532/s801/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F7
-[/us/pl/100/532/s801/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F8
-[/us/pl/100/532/s801/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fb%2F9
-[/us/pl/95/396/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs2%2Fa%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/usc/t7/s136h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136h%2Fb
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
-[/us/pl/95/396/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs5
-[/us/pl/95/396/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs6
-[/us/pl/95/396/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs7%2F1
-[/us/pl/95/396/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs7%2F2
-[/us/pl/95/396/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs7%2F3
-[/us/pl/95/396/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs8
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
-[/us/pl/110/94/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs6
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/stat/121/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1007
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/108/199/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fh
+[/us/pl/108/199/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtV
 [/us/stat/118/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F434
 [/us/usc/t7/s136w–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%938
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/95/396/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs2%2Fb
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F824
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/101/624/s1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1498
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3631
-[/us/pl/100/478/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1010
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2313
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 

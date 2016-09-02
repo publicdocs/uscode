@@ -45,7 +45,7 @@
 
         The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary under any other provision of law.
 
-([Pub. L. 99–198, title X, § 1009][/us/pl/99/198/s1009], Dec. 23, 1985, [99 Stat. 1453][/us/stat/99/1453]; [Pub. L. 101–134, § 3][/us/pl/101/134/s3], Oct. 30, 1989, [103 Stat. 781][/us/stat/103/781]; [Pub. L. 110–234, title I, § 1603(g)(1)][/us/pl/110/234/s1603/g/1], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739.)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1009, Dec. 23, 1985, [99 Stat. 1453][/us/stat/99/1453]; [Pub. L. 101–134][/us/pl/101/134], § 3, Oct. 30, 1989, [103 Stat. 781][/us/stat/103/781]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(g)(1), May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(g)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739.)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–246, § 1603(g)(1)][/us/pl/110/246/s1603/g/1], struck out “of $50,000” before “per person” in second sentence.
+    2008—Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
 
     1989—Subsec. (d). [Pub. L. 101–134][/us/pl/101/134], in introductory provisions, inserted “(including the program authorized by [section 1445e of this title][/us/usc/t7/s1445e])” after “nonrecourse loan program” and substituted “benefits” for “savings” and struck out concluding provisions which read as follows: “but the Secretary may not reduce the settlement price to less than the principal due on the loan”.
 
@@ -72,19 +72,19 @@
 
 [/us/usc/t7/s1445e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/99/198/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1009
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1453
-[/us/pl/101/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F134%2Fs3
+[/us/pl/101/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F134
 [/us/stat/103/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F781
-[/us/pl/110/234/s1603/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fg%2F1
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1603/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/101/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F134
 [/us/usc/t7/s1445e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

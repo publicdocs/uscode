@@ -71,7 +71,7 @@
 
             Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriate level of insurance to be required under paragraph (1).
 
-([Pub. L. 87–128, title III, § 303][/us/pl/87/128/s303], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 87–703, title IV, § 401(1)][/us/pl/87/703/s401/1], Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631]; [Pub. L. 90–488, § 1][/us/pl/90/488/s1], Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 95–113, title XIV, § 1448(a)][/us/pl/95/113/s1448/a], Sept. 29, 1977, [91 Stat. 1011][/us/stat/91/1011]; [Pub. L. 96–438, § 1(1)][/us/pl/96/438/s1/1], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–98, title XVI, § 1602][/us/pl/97/98/s1602], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 104–127, title VI, § 602(a)][/us/pl/104/127/s602/a], Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085]; [Pub. L. 107–171, title V, § 5002][/us/pl/107/171/s5002], May 13, 2002, [116 Stat. 341][/us/stat/116/341].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 303, Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 401(1), Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631]; [Pub. L. 90–488][/us/pl/90/488], § 1, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1448(a), Sept. 29, 1977, [91 Stat. 1011][/us/stat/91/1011]; [Pub. L. 96–438][/us/pl/96/438], § 1(1), Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–98, title XVI][/us/pl/97/98/tXVI], § 1602, Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 602(a), Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5002, May 13, 2002, [116 Stat. 341][/us/stat/116/341].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–127, title VI, § 602(b)][/us/pl/104/127/s602/b], Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085], provided that: 
+[Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 602(b), Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085], provided that: 
 
 > “Section 303(c)(1) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1923(c)(1)][/us/usc/t7/s1923/c/1]\] shall not apply until the Secretary of Agriculture makes the determination required by section 303(c)(2) of the Act.”
 
@@ -119,21 +119,21 @@
 [/us/usc/t7/s1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924
 [/us/usc/t7/s1994/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1994%2Fb
 [/us/usc/t7/s1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924
-[/us/pl/87/128/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs303
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
-[/us/pl/87/703/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs401%2F1
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F631
-[/us/pl/90/488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs1
+[/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F770
-[/us/pl/95/113/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1448%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1011
-[/us/pl/96/438/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs1%2F1
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1871
-[/us/pl/97/98/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1602
+[/us/pl/97/98/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVI
 [/us/stat/95/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1346
-[/us/pl/104/127/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs602%2Fa
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1085
-[/us/pl/107/171/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5002
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F341
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -142,7 +142,7 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
-[/us/pl/104/127/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs602%2Fb
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1085
 [/us/usc/t7/s1923/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1923%2Fc%2F1
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

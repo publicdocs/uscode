@@ -19,7 +19,7 @@
 
     (b) After notice and opportunity for hearing as provided in subsection (a) of this section, the Secretary shall issue a plan if the Secretary finds, and sets forth in such plan, on the evidence introduced at the hearing that the issuance of the plan and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-([Pub. L. 99–198, title XVI, § 1645][/us/pl/99/198/s1645], Dec. 23, 1985, [99 Stat. 1623][/us/stat/99/1623]; [Pub. L. 103–189, § 8(c)][/us/pl/103/189/s8/c], Dec. 14, 1993, [107 Stat. 2261][/us/stat/107/2261].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1645, Dec. 23, 1985, [99 Stat. 1623][/us/stat/99/1623]; [Pub. L. 103–189][/us/pl/103/189], § 8(c), Dec. 14, 1993, [107 Stat. 2261][/us/stat/107/2261].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1645
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1623
-[/us/pl/103/189/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fc
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2261
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 

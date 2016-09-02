@@ -17,7 +17,7 @@
 
     The Secretary may take such actions as the Secretary considers necessary to monitor compliance with the provisions of this chapter and to determine whether the information contained in any report submitted under [section 3501 of this title][/us/usc/t7/s3501] accurately and fully reveals the ownership interest of all foreign persons in any foreign person who is required to submit a report under such section.
 
-([Pub. L. 95–460, § 4][/us/pl/95/460/s4], Oct. 14, 1978, [92 Stat. 1265][/us/stat/92/1265].)
+([Pub. L. 95–460][/us/pl/95/460], § 4, Oct. 14, 1978, [92 Stat. 1265][/us/stat/92/1265].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
-[/us/pl/95/460/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs4
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1265
 
 

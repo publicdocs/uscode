@@ -61,7 +61,7 @@
 
         The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
 
-([Pub. L. 103–354, title II, § 272][/us/pl/103/354/s272], Oct. 13, 1994, [108 Stat. 3229][/us/stat/108/3229]; [Pub. L. 113–79, title I, § 1610(a)][/us/pl/113/79/s1610/a], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 272, Oct. 13, 1994, [108 Stat. 3229][/us/stat/108/3229]; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1610(a), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/103/354/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs272
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3229
-[/us/pl/113/79/s1610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

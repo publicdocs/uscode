@@ -41,7 +41,7 @@
 
         Approval authority for loans and loan guarantees in connection with the electric and telephone loan and loan guarantee programs authorized by the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.) shall not be transferred to, or conditioned on review of, a State director or other employee whose primary duty is not the review and approval of such loans or the provision of assistance to such borrowers.
 
-([Pub. L. 103–354, title II, § 231][/us/pl/103/354/s231], Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218]; [Pub. L. 104–127, title VII, § 794(a)][/us/pl/104/127/s794/a], Apr. 4, 1996, [110 Stat. 1155][/us/stat/110/1155].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 231, Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 794(a), Apr. 4, 1996, [110 Stat. 1155][/us/stat/110/1155].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/103/354/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs231
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3218
-[/us/pl/104/127/s794/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs794%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1155
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363

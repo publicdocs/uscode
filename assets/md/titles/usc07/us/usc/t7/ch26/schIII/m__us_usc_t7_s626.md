@@ -27,7 +27,7 @@
 
         The reports required by this section shall be made in a format that correlates statistics for the quantity and value of imported agricultural products to the production and consumption of domestic agricultural products. The Secretary shall issue such reports on an annual basis, with the first report required not later than 1 year after August 23, 1988.
 
-([Pub. L. 100–418, title IV, § 4502][/us/pl/100/418/s4502], Aug. 23, 1988, [102 Stat. 1403][/us/stat/102/1403].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4502, Aug. 23, 1988, [102 Stat. 1403][/us/stat/102/1403].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4502
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1403
 
 

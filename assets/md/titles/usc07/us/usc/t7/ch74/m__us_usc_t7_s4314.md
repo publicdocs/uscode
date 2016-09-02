@@ -27,7 +27,7 @@
 
         (4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-([Pub. L. 97–98, title XVII, § 1715][/us/pl/97/98/s1715], Dec. 22, 1981, [95 Stat. 1356][/us/stat/95/1356].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1715, Dec. 22, 1981, [95 Stat. 1356][/us/stat/95/1356].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1715
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1356
 
 

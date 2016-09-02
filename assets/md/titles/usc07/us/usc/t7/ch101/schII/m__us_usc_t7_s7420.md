@@ -39,7 +39,7 @@
 
         Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-([Pub. L. 104–127, title V, § 521][/us/pl/104/127/s521], Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 521, Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs521
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1047
 
 

@@ -149,7 +149,7 @@
 
             In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title IX, § 9003][/us/pl/107/171/s9003], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1310][/us/stat/122/1310], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2072; amended [Pub. L. 112–240, title VII, § 701(f)(2)][/us/pl/112/240/s701/f/2], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9003][/us/pl/113/79/s9003], Feb. 7, 2014, [128 Stat. 928][/us/stat/128/928].)
+([Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9003, as added [Pub. L. 110–234, title IX][/us/pl/110/234/tIX], § 9001(a), May 22, 2008, [122 Stat. 1310][/us/stat/122/1310], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2072; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(f)(2), Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX][/us/pl/113/79/tIX], § 9003, Feb. 7, 2014, [128 Stat. 928][/us/stat/128/928].)
 
  __References in Text__ 
 
@@ -161,39 +161,39 @@
 
  __Prior Provisions__ 
 
-    A prior section 8103, [Pub. L. 107–171, title IX, § 9003][/us/pl/107/171/s9003], May 13, 2002, [116 Stat. 478][/us/stat/116/478], related to biorefinery development grants, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
+    A prior section 8103, [Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9003, May 13, 2002, [116 Stat. 478][/us/stat/116/478], related to biorefinery development grants, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, § 9003(a)(1)][/us/pl/113/79/s9003/a/1], inserted “, renewable chemical, and biobased product manufacturing” after “Biorefinery” in section catchline.
+    2014—[Pub. L. 113–79][/us/pl/113/79], § 9003(a)(1), inserted “, renewable chemical, and biobased product manufacturing” after “Biorefinery” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–79, § 9003(a)(2)][/us/pl/113/79/s9003/a/2], inserted “renewable chemicals, and biobased product manufacturing” after “advanced biofuels,” in introductory provisions.
+    Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(2), inserted “renewable chemicals, and biobased product manufacturing” after “advanced biofuels,” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 113–79, § 9003(a)(3)][/us/pl/113/79/s9003/a/3], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Subsec. (c). [Pub. L. 113–79, § 9003(a)(4)][/us/pl/113/79/s9003/a/4], substituted “to eligible entities guarantees for loans” for “to eligible entities—
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(4), substituted “to eligible entities guarantees for loans” for “to eligible entities—
 
     “(1) grants to assist in paying the costs of the development and construction of demonstration-scale biorefineries to demonstrate the commercial viability of 1 or more processes for converting renewable biomass to advanced biofuels; and
 
     “(2) guarantees for loans”.
 
-    Subsec. (d). [Pub. L. 113–79, § 9003(a)(5)][/us/pl/113/79/s9003/a/5], (6), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to awarding of grants under subsec. (c)(1).
+    Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(5), (6), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to awarding of grants under subsec. (c)(1).
 
-    Subsec. (d)(1)(C). [Pub. L. 113–79, § 9003(a)(7)(B)][/us/pl/113/79/s9003/a/7/B], substituted “subsection (c)” for “subsection (c)(2)”.
+    Subsec. (d)(1)(C). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)”.
 
-    Subsec. (d)(1)(D). [Pub. L. 113–79, § 9003(a)(7)(A)][/us/pl/113/79/s9003/a/7/A], added subpar. (D).
+    Subsec. (d)(1)(D). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(7)(A), added subpar. (D).
 
-    Subsec. (d)(2)(A), (B). [Pub. L. 113–79, § 9003(a)(7)(B)][/us/pl/113/79/s9003/a/7/B], substituted “subsection (c)” for “subsection (c)(2)” wherever appearing.
+    Subsec. (d)(2)(A), (B). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)” wherever appearing.
 
-    Subsec. (d)(2)(C). [Pub. L. 113–79, § 9003(a)(7)(C)][/us/pl/113/79/s9003/a/7/C], substituted “subsection (g)” for “subsection (h)”.
+    Subsec. (d)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(7)(C), substituted “subsection (g)” for “subsection (h)”.
 
-    Subsecs. (e) to (g). [Pub. L. 113–79, § 9003(a)(6)][/us/pl/113/79/s9003/a/6], redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(6), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
-    Subsec. (g)(1). [Pub. L. 113–79, § 9003(b)(1)][/us/pl/113/79/s9003/b/1], added par. (1) and struck out former par. (1) which related to mandatory funding for loan guarantees for fiscal years 2009 and 2010.
+    Subsec. (g)(1). [Pub. L. 113–79][/us/pl/113/79], § 9003(b)(1), added par. (1) and struck out former par. (1) which related to mandatory funding for loan guarantees for fiscal years 2009 and 2010.
 
-    Subsec. (g)(2). [Pub. L. 113–79, § 9003(b)(2)][/us/pl/113/79/s9003/b/2], substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$150,000,000 for each of fiscal years 2009 through 2013”.
+    Subsec. (g)(2). [Pub. L. 113–79][/us/pl/113/79], § 9003(b)(2), substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$150,000,000 for each of fiscal years 2009 through 2013”.
 
-    Subsec. (h). [Pub. L. 113–79, § 9003(a)(6)][/us/pl/113/79/s9003/a/6], redesignated subsec. (h) as (g).
+    Subsec. (h). [Pub. L. 113–79][/us/pl/113/79], § 9003(a)(6), redesignated subsec. (h) as (g).
 
     2013—Subsec. (h)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
 
@@ -209,35 +209,35 @@
 ----------
 
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/107/171/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9003
-[/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/110/234/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIX
 [/us/stat/122/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1310
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F2
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
-[/us/pl/113/79/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003
+[/us/pl/113/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIX
 [/us/stat/128/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F928
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/107/171/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9003
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
 [/us/stat/116/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F478
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/113/79/s9003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F1
-[/us/pl/113/79/s9003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F2
-[/us/pl/113/79/s9003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F3
-[/us/pl/113/79/s9003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F4
-[/us/pl/113/79/s9003/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F5
-[/us/pl/113/79/s9003/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F7%2FB
-[/us/pl/113/79/s9003/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F7%2FA
-[/us/pl/113/79/s9003/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F7%2FB
-[/us/pl/113/79/s9003/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F7%2FC
-[/us/pl/113/79/s9003/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F6
-[/us/pl/113/79/s9003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fb%2F1
-[/us/pl/113/79/s9003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fb%2F2
-[/us/pl/113/79/s9003/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9003%2Fa%2F6
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

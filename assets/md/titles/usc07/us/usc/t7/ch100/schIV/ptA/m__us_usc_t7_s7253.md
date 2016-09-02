@@ -77,7 +77,7 @@
 
             Any limitation imposed by Act of Congress on the conduct or completion of reports to Congress shall not apply to the report required under this section, unless the limitation specifically refers to this section.
 
-([Pub. L. 104–127, title I, § 143][/us/pl/104/127/s143], Apr. 4, 1996, [110 Stat. 915][/us/stat/110/915]; [Pub. L. 113–79, title I, § 1410(d)][/us/pl/113/79/s1410/d], Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 143, Apr. 4, 1996, [110 Stat. 915][/us/stat/110/915]; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1410(d), Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Use of Option 1A as Price Structure for Class I Milk Under Consolidated Federal Milk Marketing Orders__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 1\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–517, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(8) \[§ 1\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–517, provided that:
 
 >     “(a)  __Final Rule Defined__  __.—__ 
 
@@ -119,7 +119,7 @@
 
  __Further Rulemaking To Develop Pricing Methods for Class III and Class IV Milk Under Marketing Orders__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 2\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–518, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(8) \[§ 2\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–518, provided that:
 
 >     “(a)  __Congressional Finding__  __.—__ 
 
@@ -158,18 +158,18 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
-[/us/pl/104/127/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs143
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F915
-[/us/pl/113/79/s1410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1410%2Fd
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F693
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/106/113/s1000/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F8
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s7253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7253
 [/us/usc/t7/s608c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F3
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
-[/us/pl/106/113/s1000/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F8
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 

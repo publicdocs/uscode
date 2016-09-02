@@ -63,7 +63,7 @@
 
         (2) is necessary to administer the order.
 
-([Pub. L. 104–127, title V, § 516][/us/pl/104/127/s516], Apr. 4, 1996, [110 Stat. 1041][/us/stat/110/1041].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 516, Apr. 4, 1996, [110 Stat. 1041][/us/stat/110/1041].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t7/s7414/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7414%2Fe
 [/us/usc/t7/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7416
 [/us/usc/t7/s7414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7414
-[/us/pl/104/127/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs516
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1041
 
 

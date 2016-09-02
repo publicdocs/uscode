@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to deprive any State commission, board, or other agency of jurisdiction, under any State law, now or hereafter effective, to regulate telephone service which is not subject to regulation by the Federal Communications Commission, under the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\], including the rates for such service.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 202, as added [Oct. 28, 1949, ch. 776, § 5][/us/act/1949-10-28/ch776/s5], [63 Stat. 948][/us/stat/63/948].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 202, as added [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], § 5, [63 Stat. 948][/us/stat/63/948].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/act/1949-10-28/ch776/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776%2Fs5
+[/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

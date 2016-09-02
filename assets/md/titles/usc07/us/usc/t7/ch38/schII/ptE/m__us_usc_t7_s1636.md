@@ -115,7 +115,7 @@
 
         (3) access documentary evidence as provided under sections 49 and 50 of title 15.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 251, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1200][/us/stat/113/1200]; amended [Pub. L. 110–234, title XI, § 11001(a)(1)][/us/pl/110/234/s11001/a/1], May 22, 2008, [122 Stat. 1350][/us/stat/122/1350]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11001(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2112.)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 251, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1200][/us/stat/113/1200]; amended [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11001(a)(1), May 22, 2008, [122 Stat. 1350][/us/stat/122/1350]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11001(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2112.)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (g). [Pub. L. 110–246, § 11001(a)(1)][/us/pl/110/246/s11001/a/1], amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
+    2008—Subsec. (g). [Pub. L. 110–246][/us/pl/110/246], § 11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -137,7 +137,7 @@
 
  __Implementation of Enhanced Electronic Publishing__ 
 
-[Pub. L. 110–234, title XI, § 11001(a)(2)][/us/pl/110/234/s11001/a/2], May 22, 2008, [122 Stat. 1351][/us/stat/122/1351], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11001(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2112, provided that:
+[Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11001(a)(2), May 22, 2008, [122 Stat. 1351][/us/stat/122/1351], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11001(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2112, provided that:
 
 >     “(A)  __Enhanced reporting__  __.—__ 
 
@@ -159,11 +159,11 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t7/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs181
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1200
-[/us/pl/110/234/s11001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11001%2Fa%2F1
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1350
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/stat/113/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1188
@@ -175,15 +175,15 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11001%2Fa%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s11001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11001%2Fa%2F2
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1351
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1636/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1636%2Fg
 [/us/stat/122/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2113

@@ -75,7 +75,7 @@
 
         The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
 
-([Pub. L. 98–8, title II, § 201A][/us/pl/98/8/s201A], as added [Pub. L. 98–92, § 2(2)][/us/pl/98/92/s2/2], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; amended [Pub. L. 99–198, title XV, § 1563][/us/pl/99/198/s1563], Dec. 23, 1985, [99 Stat. 1590][/us/stat/99/1590]; [Pub. L. 104–193, title VIII, § 871(a)][/us/pl/104/193/s871/a], Aug. 22, 1996, [110 Stat. 2343][/us/stat/110/2343].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 201A, as added [Pub. L. 98–92][/us/pl/98/92], § 2(2), Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; amended [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1563, Dec. 23, 1985, [99 Stat. 1590][/us/stat/99/1590]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(a), Aug. 22, 1996, [110 Stat. 2343][/us/stat/110/2343].)
 
  __References in Text__ 
 
@@ -91,11 +91,11 @@
 
  __Effective Date__ 
 
-    [Pub. L. 98–92, § 2][/us/pl/98/92/s2], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
+    [Pub. L. 98–92][/us/pl/98/92], § 2, Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
 
  __Short Title__ 
 
-[Pub. L. 98–8, title II, § 201][/us/pl/98/8/s201], Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], as amended by [Pub. L. 98–92, § 2(1)][/us/pl/98/92/s2/1], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; [Pub. L. 101–624, title XVII, § 1772(a)(2)][/us/pl/101/624/s1772/a/2], Nov. 28, 1990, [104 Stat. 3808][/us/stat/104/3808], provided that: 
+[Pub. L. 98–8, title II][/us/pl/98/8/tII], § 201, Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], as amended by [Pub. L. 98–92][/us/pl/98/92], § 2(1), Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], § 1772(a)(2), Nov. 28, 1990, [104 Stat. 3808][/us/stat/104/3808], provided that: 
 
 > “This title \[enacting this chapter and amending provisions set out as a note under [section 612c of this title][/us/usc/t7/s612c]\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
 
@@ -109,12 +109,12 @@
 [/us/usc/t7/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/98/8/s201A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs201A
-[/us/pl/98/92/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2%2F2
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
-[/us/pl/99/198/s1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1563
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1590
-[/us/pl/104/193/s871/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fa
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2343
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
@@ -124,13 +124,13 @@
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/98/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
-[/us/pl/98/8/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs201
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
-[/us/pl/98/92/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2%2F1
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
-[/us/pl/101/624/s1772/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1772%2Fa%2F2
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3808
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 

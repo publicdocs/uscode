@@ -67,7 +67,7 @@
 
         (4) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests.
 
-([Pub. L. 106–224, title IV, § 411][/us/pl/106/224/s411], June 20, 2000, [114 Stat. 440][/us/stat/114/440].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 411, June 20, 2000, [114 Stat. 440][/us/stat/114/440].)
 
  __Transfer of Functions__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs411
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F440
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

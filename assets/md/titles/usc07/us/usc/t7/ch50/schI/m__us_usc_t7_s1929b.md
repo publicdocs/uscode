@@ -17,7 +17,7 @@
 
     The Secretary may purchase, on such terms and conditions as the Secretary deems appropriate, the guaranteed portion of any loan guaranteed under this chapter: Provided, That the Secretary may not pay for any such guaranteed portion of a loan in excess of an amount equal to the unpaid principal balance and accrued interest on the guaranteed portion of the loan. The Secretary may use for such purchases funds from the Rural Development Insurance Fund with respect to rural development loans as defined in [section 1929a(a) of this title][/us/usc/t7/s1929a/a] and funds from the Agricultural Credit Insurance Fund with respect to all other loans under this chapter. This authority may be exercised only if the Secretary determines that an adequate secondary market is not available in the private sector.
 
-([Pub. L. 87–128, title III, § 309B][/us/pl/87/128/s309B], as added [Pub. L. 95–334, title I, § 111][/us/pl/95/334/s111], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 309B, as added [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 111, Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t7/s1929a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1929a%2Fa
-[/us/pl/87/128/s309B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs309B
-[/us/pl/95/334/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs111
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F424
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

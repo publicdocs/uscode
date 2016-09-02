@@ -17,7 +17,7 @@
 
     After notice and opportunity for hearing as provided in [section 2704 of this title][/us/usc/t7/s2704], the Secretary shall issue an order if he finds, and sets forth in such order, upon the evidence introduced at such hearing, that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-([Pub. L. 93–428, § 6][/us/pl/93/428/s6], Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
+([Pub. L. 93–428][/us/pl/93/428], § 6, Oct. 1, 1974, [88 Stat. 1173][/us/stat/88/1173].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2704
-[/us/pl/93/428/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs6
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1173
 
 

@@ -57,7 +57,7 @@
 
         The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-([Pub. L. 106–224, title IV, § 415][/us/pl/106/224/s415], June 20, 2000, [114 Stat. 445][/us/stat/114/445]; [Pub. L. 107–171, title VII, § 7504(a)][/us/pl/107/171/s7504/a], May 13, 2002, [116 Stat. 465][/us/stat/116/465]; [Pub. L. 110–234, title X, § 10203(a)][/us/pl/110/234/s10203/a], May 22, 2008, [122 Stat. 1342][/us/stat/122/1342]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10203(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 415, June 20, 2000, [114 Stat. 445][/us/stat/114/445]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7504(a), May 13, 2002, [116 Stat. 465][/us/stat/116/465]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10203(a), May 22, 2008, [122 Stat. 1342][/us/stat/122/1342]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10203(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–246, § 10203(a)][/us/pl/110/246/s10203/a], struck out “of longer than 60 days” after “or a review”.
+    2008—Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 10203(a), struck out “of longer than 60 days” after “or a review”.
 
     2002—Subsec. (e). [Pub. L. 107–171][/us/pl/107/171] inserted before period at end “or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary”.
 
@@ -84,19 +84,19 @@
 ----------
 ----------
 
-[/us/pl/106/224/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs415
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F445
-[/us/pl/107/171/s7504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7504%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F465
-[/us/pl/110/234/s10203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10203%2Fa
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1342
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

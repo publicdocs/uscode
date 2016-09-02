@@ -17,7 +17,7 @@
 
     After notice and opportunity for hearing, the Secretary shall issue a plan if he finds, and sets forth in such plan, upon the evidence introduced at such hearing, that the issuance of such plan and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-([Pub. L. 91–670, title III, § 306][/us/pl/91/670/s306], Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 306, Jan. 11, 1971, [84 Stat. 2042][/us/stat/84/2042].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/670/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs306
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2042
 
 

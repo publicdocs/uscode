@@ -71,7 +71,7 @@
 
         The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
 
-([Pub. L. 95–501, title II, § 201][/us/pl/95/501/s201], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3672][/us/stat/104/3672]; amended [Pub. L. 102–511, title VII, § 707(a)][/us/pl/102/511/s707/a]–(c), Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350], 3351; [Pub. L. 104–127, title II, § 277(c)(2)][/us/pl/104/127/s277/c/2], Apr. 4, 1996, [110 Stat. 979][/us/stat/110/979].)
+([Pub. L. 95–501, title II][/us/pl/95/501/tII], § 201, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3672][/us/stat/104/3672]; amended [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 707(a)–(c), Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350], 3351; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 277(c)(2), Apr. 4, 1996, [110 Stat. 979][/us/stat/110/979].)
 
  __Prior Provisions__ 
 
@@ -81,15 +81,15 @@
 
     1996—Subsec. (d)(1)(C)(ii). [Pub. L. 104–127][/us/pl/104/127] substituted “emerging markets” for “emerging democracies”.
 
-    1992—Subsec. (c). [Pub. L. 102–511, § 707(a)][/us/pl/102/511/s707/a], inserted sentence at end.
+    1992—Subsec. (c). [Pub. L. 102–511][/us/pl/102/511], § 707(a), inserted sentence at end.
 
-    Subsec. (d)(1)(C). [Pub. L. 102–511, § 707(b)][/us/pl/102/511/s707/b], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
+    Subsec. (d)(1)(C). [Pub. L. 102–511][/us/pl/102/511], § 707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
 
-    Subsec. (f). [Pub. L. 102–511, § 707(c)][/us/pl/102/511/s707/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–511][/us/pl/102/511], § 707(c), added subsec. (f).
 
  __Regulations__ 
 
-    [Pub. L. 102–511, title VII, § 707(d)][/us/pl/102/511/s707/d], Oct. 24, 1992, [106 Stat. 3351][/us/stat/106/3351], required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by [Pub. L. 104–127, title II, § 276][/us/pl/104/127/s276], Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977].
+    [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 707(d), Oct. 24, 1992, [106 Stat. 3351][/us/stat/106/3351], required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 276, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977].
 
 ----------
 
@@ -98,24 +98,24 @@
 ----------
 ----------
 
-[/us/pl/95/501/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs201
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3672
-[/us/pl/102/511/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs707%2Fa
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3350
-[/us/pl/104/127/s277/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fc%2F2
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F979
 [/us/pl/95/501/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs201
 [/us/usc/t7/s1707b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707b
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/511/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs707%2Fa
-[/us/pl/102/511/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs707%2Fb
-[/us/pl/102/511/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs707%2Fc
-[/us/pl/102/511/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs707%2Fd
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3351
-[/us/pl/104/127/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs276
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F977
 
 

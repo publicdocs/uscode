@@ -73,7 +73,7 @@
 
         (3) an agency, office, officer, or employee of the Department.
 
-([Pub. L. 103–354, title II, § 212][/us/pl/103/354/s212], Oct. 13, 1994, [108 Stat. 3210][/us/stat/108/3210]; [Pub. L. 110–234, title VII, § 7511(c)(27)][/us/pl/110/234/s7511/c/27], May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(27), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 212, Oct. 13, 1994, [108 Stat. 3210][/us/stat/108/3210]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(27), May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(27), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(A). [Pub. L. 110–246, § 7511(c)(27)][/us/pl/110/246/s7511/c/27], substituted “6971(f),” for “6971(d),”.
+    2008—Subsec. (a)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(27), substituted “6971(f),” for “6971(d),”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -104,11 +104,11 @@
 [/us/usc/t7/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6981
 [/us/usc/t16/s590h/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
-[/us/pl/103/354/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs212
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3210
-[/us/pl/110/234/s7511/c/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F27
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1270
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
@@ -117,7 +117,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F27
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     This Act may be cited as the “Agricultural Marketing Agreement Act of 1937”.
 
-([June 3, 1937, ch. 296, § 6][/us/act/1937-06-03/ch296/s6], [50 Stat. 249][/us/stat/50/249].)
+([June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 6, [50 Stat. 249][/us/stat/50/249].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-06-03/ch296/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs6
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F249
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246

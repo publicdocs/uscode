@@ -387,7 +387,7 @@
 
                 To the extent funds obligated or expended under subparagraph (A) include funds of the Commodity Credit Corporation, such funds shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15][/us/usc/t15/s714i].
 
-([Pub. L. 107–171, title IX, § 9011][/us/pl/107/171/s9011], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1327][/us/stat/122/1327], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2089; amended [Pub. L. 112–240, title VII, § 701(f)(10)][/us/pl/112/240/s701/f/10], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9010][/us/pl/113/79/s9010], Feb. 7, 2014, [128 Stat. 932][/us/stat/128/932].)
+([Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9011, as added [Pub. L. 110–234, title IX][/us/pl/110/234/tIX], § 9001(a), May 22, 2008, [122 Stat. 1327][/us/stat/122/1327], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2089; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(f)(10), Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX][/us/pl/113/79/tIX], § 9010, Feb. 7, 2014, [128 Stat. 932][/us/stat/128/932].)
 
  __References in Text__ 
 
@@ -440,14 +440,14 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865
 [/us/usc/t15/s714i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714i
-[/us/pl/107/171/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9011
-[/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/110/234/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIX
 [/us/stat/122/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1327
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F10
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
-[/us/pl/113/79/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9010
+[/us/pl/113/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIX
 [/us/stat/128/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F932
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649

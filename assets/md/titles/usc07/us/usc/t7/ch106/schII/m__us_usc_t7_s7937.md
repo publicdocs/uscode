@@ -15,7 +15,7 @@
 
 ## § 7937. Special marketing loan provisions for upland cotton
 
-    (a) __Repealed.__  __[__  __Pub. L. 109–171, title I, § 1103(a)(1)__  __][/us/pl/109/171/s1103/a/1]__  __,__  __Feb. 8, 2006__  __,__  __[__  __120 Stat. 5__  __][/us/stat/120/5]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 109–171, title I__  __][/us/pl/109/171/tI]__  __, § 1103(a)(1),__  __Feb. 8, 2006__  __,__  __[__  __120 Stat. 5__  __][/us/stat/120/5]__ 
 
     (b) __Special import quota__ 
 
@@ -139,7 +139,7 @@
 
             Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
-([Pub. L. 107–171, title I, § 1207][/us/pl/107/171/s1207], May 13, 2002, [116 Stat. 161][/us/stat/116/161]; [Pub. L. 109–171, title I, § 1103(a)][/us/pl/109/171/s1103/a], Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1207, May 13, 2002, [116 Stat. 161][/us/stat/116/161]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1103(a), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5].)
 
  __References in Text__ 
 
@@ -147,15 +147,15 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–171, § 1103(a)(1)][/us/pl/109/171/s1103/a/1], struck out subsec. (a), which related to cotton user marketing certificates.
+    2006—Subsec. (a). [Pub. L. 109–171][/us/pl/109/171], § 1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
 
-    Subsec. (b)(1)(B). [Pub. L. 109–171, § 1103(a)(2)(A)][/us/pl/109/171/s1103/a/2/A], struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
+    Subsec. (b)(1)(B). [Pub. L. 109–171][/us/pl/109/171], § 1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–171, § 1103(a)(2)(B)][/us/pl/109/171/s1103/a/2/B], struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
+    Subsec. (b)(1)(C). [Pub. L. 109–171][/us/pl/109/171], § 1103(a)(2)(B), struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–171, title I, § 1103(b)][/us/pl/109/171/s1103/b], Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], provided that: 
+[Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1103(b), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], provided that: 
 
 > “The amendments made by this section \[amending this section\] take effect on August 1, 2006.”
 
@@ -166,7 +166,7 @@
 ----------
 ----------
 
-[/us/pl/109/171/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fa%2F1
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F5
 [/us/usc/t19/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fd
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
@@ -174,15 +174,15 @@
 [/us/usc/t19/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fd
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
 [/us/usc/t19/s2463/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fd
-[/us/pl/107/171/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1207
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F161
-[/us/pl/109/171/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fa
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F5
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/109/171/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fa%2F1
-[/us/pl/109/171/s1103/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fa%2F2%2FA
-[/us/pl/109/171/s1103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fa%2F2%2FB
-[/us/pl/109/171/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1103%2Fb
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F5
 
 

@@ -131,7 +131,7 @@
 
             An organization or cooperative described in paragraph (1) may omit any confidential information from the copy of the report submitted for public display under that paragraph.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 207, as added [Pub. L. 99–198, title XI, § 1104(a)][/us/pl/99/198/s1104/a], Dec. 23, 1985, [99 Stat. 1466][/us/stat/99/1466]; amended [Pub. L. 100–202, § 14][/us/pl/100/202/s14], Dec. 22, 1987, [101 Stat. 1329–449][/us/stat/101/1329-449]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3640][/us/stat/104/3640]; [Pub. L. 104–127, title II, § 207(b)][/us/pl/104/127/s207/b], Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III, § 3007][/us/pl/107/171/s3007], May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3012, 3018(b), June 18, 2008, [122 Stat. 1824][/us/stat/122/1824], 1828; [Pub. L. 113–79, title III, § 3006(a)][/us/pl/113/79/s3006/a], (b), Feb. 7, 2014, [128 Stat. 774][/us/stat/128/774], 775.)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 207, as added [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1104(a), Dec. 23, 1985, [99 Stat. 1466][/us/stat/99/1466]; amended [Pub. L. 100–202][/us/pl/100/202], § 14, Dec. 22, 1987, [101 Stat. 1329–449][/us/stat/101/1329-449]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3640][/us/stat/104/3640]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 207(b), Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3007, May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], §§ 3012, 3018(b), June 18, 2008, [122 Stat. 1824][/us/stat/122/1824], 1828; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3006(a), (b), Feb. 7, 2014, [128 Stat. 774][/us/stat/128/774], 775.)
 
  __References in Text__ 
 
@@ -141,37 +141,37 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–79, § 3006(a)(1)][/us/pl/113/79/s3006/a/1], inserted “and guidance” after “Regulations” in heading.
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 3006(a)(1), inserted “and guidance” after “Regulations” in heading.
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 3006(a)(2)][/us/pl/113/79/s3006/a/2], inserted at end “Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.”
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 3006(a)(2), inserted at end “Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.”
 
-    Subsec. (c)(2). [Pub. L. 113–79, § 3006(a)(3)][/us/pl/113/79/s3006/a/3], inserted “and guidance” after “develop regulations” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79], § 3006(a)(3), inserted “and guidance” after “develop regulations” in introductory provisions.
 
-    Subsec. (f)(2)(F). [Pub. L. 113–79, § 3006(b)(1)][/us/pl/113/79/s3006/b/1], substituted “maintenance of” for “upgraded”.
+    Subsec. (f)(2)(F). [Pub. L. 113–79][/us/pl/113/79], § 3006(b)(1), substituted “maintenance of” for “upgraded”.
 
-    Subsec. (f)(3), (4). [Pub. L. 113–79, § 3006(b)(2)][/us/pl/113/79/s3006/b/2], (3), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to reports to be submitted by the Administrator and the Comptroller General.
+    Subsec. (f)(3), (4). [Pub. L. 113–79][/us/pl/113/79], § 3006(b)(2), (3), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to reports to be submitted by the Administrator and the Comptroller General.
 
-    Subsec. (f)(4)(A). [Pub. L. 113–79, § 3006(b)(4)(A)][/us/pl/113/79/s3006/b/4/A], substituted “$17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.” for “$22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.”
+    Subsec. (f)(4)(A). [Pub. L. 113–79][/us/pl/113/79], § 3006(b)(4)(A), substituted “$17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.” for “$22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.”
 
-    Subsec. (f)(4)(B)(i). [Pub. L. 113–79, § 3006(b)(4)(B)][/us/pl/113/79/s3006/b/4/B], substituted “2018” for “2012”.
+    Subsec. (f)(4)(B)(i). [Pub. L. 113–79][/us/pl/113/79], § 3006(b)(4)(B), substituted “2018” for “2012”.
 
-    Subsec. (f)(5), (6). [Pub. L. 113–79, § 3006(b)(3)][/us/pl/113/79/s3006/b/3], redesignated pars. (5) and (6) as (3) and (4), respectively.
+    Subsec. (f)(5), (6). [Pub. L. 113–79][/us/pl/113/79], § 3006(b)(3), redesignated pars. (5) and (6) as (3) and (4), respectively.
 
-    2008—Subsec. (a)(3). [Pub. L. 110–246, § 3012(1)][/us/pl/110/246/s3012/1], struck out “and the conditions that must be met for the approval of such proposal” before period at end.
+    2008—Subsec. (a)(3). [Pub. L. 110–246][/us/pl/110/246], § 3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
 
-    Subsec. (c)(3). [Pub. L. 110–246, § 3012(2)][/us/pl/110/246/s3012/2], struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
+    Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 3012(2), struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
 
-    Subsec. (d). [Pub. L. 110–246, § 3012(3)][/us/pl/110/246/s3012/3], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.”
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.”
 
-    Subsec. (e). [Pub. L. 110–246, § 3018(b)][/us/pl/110/246/s3018/b], struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: “Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: “Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
 
     “(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
 
     “(B) a statement of the total amount of funds approved to date for transportation and administrative costs under this section.”
 
-    Subsecs. (f), (g). [Pub. L. 110–246, § 3012(4)][/us/pl/110/246/s3012/4], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 110–246][/us/pl/110/246], § 3012(4), added subsecs. (f) and (g).
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 3007(1)][/us/pl/107/171/s3007/1], added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
 
     “(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
 
@@ -179,23 +179,23 @@
 
     under this subchapter, the Administrator shall make a decision concerning such proposal.”
 
-    Subsec. (b). [Pub. L. 107–171, § 3007(2)][/us/pl/107/171/s3007/2], substituted “guideline or annual policy guidance” for “guideline” wherever appearing.
+    Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 3007(2), substituted “guideline or annual policy guidance” for “guideline” wherever appearing.
 
-    Subsec. (e). [Pub. L. 107–171, § 3007(3)][/us/pl/107/171/s3007/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 3007(3), added subsec. (e).
 
-    1996—Subsec. (a)(1)(A), (B). [Pub. L. 104–127, § 207(b)(1)][/us/pl/104/127/s207/b/1], substituted “an eligible organization” for “a private voluntary organization or cooperative”.
+    1996—Subsec. (a)(1)(A), (B). [Pub. L. 104–127][/us/pl/104/127], § 207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
 
-    Subsec. (b)(1). [Pub. L. 104–127, § 207(b)(2)(A)][/us/pl/104/127/s207/b/2/A], substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
+    Subsec. (b)(1). [Pub. L. 104–127][/us/pl/104/127], § 207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
 
-    Subsec. (b)(2). [Pub. L. 104–127, § 207(b)(2)(B)][/us/pl/104/127/s207/b/2/B], substituted “eligible organizations” for “organizations, cooperatives,”.
+    Subsec. (b)(2). [Pub. L. 104–127][/us/pl/104/127], § 207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
 
-    1987—Subsec. (a). [Pub. L. 100–202, § 14(1)][/us/pl/100/202/s14/1], inserted “or cooperative” after “agency”.
+    1987—Subsec. (a). [Pub. L. 100–202][/us/pl/100/202], § 14(1), inserted “or cooperative” after “agency”.
 
-    Subsec. (b). [Pub. L. 100–202, § 14(2)][/us/pl/100/202/s14/2], substituted “10 percent” for “5 percent”.
+    Subsec. (b). [Pub. L. 100–202][/us/pl/100/202], § 14(2), substituted “10 percent” for “5 percent”.
 
-    Subsec. (c). [Pub. L. 100–202, § 14(3)][/us/pl/100/202/s14/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–202][/us/pl/100/202], § 14(3), added subsec. (c).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -207,7 +207,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–198, title XI, § 1104(b)][/us/pl/99/198/s1104/b], Dec. 23, 1985, [99 Stat. 1466][/us/stat/99/1466], as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
+[Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1104(b), Dec. 23, 1985, [99 Stat. 1466][/us/stat/99/1466], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
 
 > “Section 207 of the Food for Peace Act (as added by subsection (a)) \[this section\] shall apply with respect to agreements entered into after December 31, 1985.”
 
@@ -222,19 +222,19 @@
 [/us/usc/t7/s1722/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1722%2Fh%2F3
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/99/198/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1104%2Fa
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1466
-[/us/pl/100/202/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs14
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-449
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3640
-[/us/pl/104/127/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs207%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F954
-[/us/pl/107/171/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3007
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F282
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1824
-[/us/pl/113/79/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fa
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F774
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
@@ -242,38 +242,38 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/79/s3006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fa%2F1
-[/us/pl/113/79/s3006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fa%2F2
-[/us/pl/113/79/s3006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fa%2F3
-[/us/pl/113/79/s3006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fb%2F1
-[/us/pl/113/79/s3006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fb%2F2
-[/us/pl/113/79/s3006/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fb%2F4%2FA
-[/us/pl/113/79/s3006/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fb%2F4%2FB
-[/us/pl/113/79/s3006/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3006%2Fb%2F3
-[/us/pl/110/246/s3012/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3012%2F1
-[/us/pl/110/246/s3012/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3012%2F2
-[/us/pl/110/246/s3012/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3012%2F3
-[/us/pl/110/246/s3018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3018%2Fb
-[/us/pl/110/246/s3012/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3012%2F4
-[/us/pl/107/171/s3007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3007%2F1
-[/us/pl/107/171/s3007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3007%2F2
-[/us/pl/107/171/s3007/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3007%2F3
-[/us/pl/104/127/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs207%2Fb%2F1
-[/us/pl/104/127/s207/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs207%2Fb%2F2%2FA
-[/us/pl/104/127/s207/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs207%2Fb%2F2%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/202/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs14%2F1
-[/us/pl/100/202/s14/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs14%2F2
-[/us/pl/100/202/s14/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs14%2F3
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/99/198/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1104%2Fb
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1466
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 
 

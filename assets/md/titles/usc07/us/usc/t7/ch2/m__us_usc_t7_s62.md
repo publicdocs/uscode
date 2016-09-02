@@ -17,7 +17,7 @@
 
     Wherever used in this chapter, (a) the word “person” imports the plural or the singular, as the case demands, and includes an individual, a partnership, a corporation, or two or more persons having a joint or common interest; (b) the word “commerce” means commerce between any State or the District of Columbia and any place outside thereof, or between points within the same State or the District of Columbia but through any place outside thereof, or within the District of Columbia; and (c) the word “cotton” means cotton of any variety produced within the continental United States, including linters.
 
-([Mar. 4, 1923, ch. 288, § 11][/us/act/1923-03-04/ch288/s11], [42 Stat. 1519][/us/stat/42/1519].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 11, [42 Stat. 1519][/us/stat/42/1519].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch288/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs11
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1519
 [/us/usc/t7/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs63
 

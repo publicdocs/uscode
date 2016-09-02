@@ -31,7 +31,7 @@
 
         (B) shall be included in full in the biennial reports of the Secretaries to the President for transmittal to Congress under [section 5312(b) of this title][/us/usc/t7/s5312/b].
 
-([Pub. L. 101–445, title II, § 202][/us/pl/101/445/s202], Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042].)
+([Pub. L. 101–445, title II][/us/pl/101/445/tII], § 202, Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s5312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5312%2Fb
-[/us/pl/101/445/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs202
+[/us/pl/101/445/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtII
 [/us/stat/104/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1042
 
 

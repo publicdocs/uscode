@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated the sum of $50,000 to enable the Secretary of Agriculture to cooperate with the South Carolina Agricultural Experiment Station and/or other agencies in making investigations and experiments in dairying and livestock industries and of the problems pertaining to the establishment and development of such industries, including cropping systems, soil improvement, and farm organization studies of such industries, and for demonstration, assistance, and service in developing the agriculture of the Sand Hill region of the Southeast.
 
-([Mar. 3, 1927, ch. 367, § 1][/us/act/1927-03-03/ch367/s1], [44 Stat. 1397][/us/stat/44/1397].)
+([Mar. 3, 1927, ch. 367][/us/act/1927-03-03/ch367], § 1, [44 Stat. 1397][/us/stat/44/1397].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch367%2Fs1
+[/us/act/1927-03-03/ch367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch367
 [/us/stat/44/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1397
 
 

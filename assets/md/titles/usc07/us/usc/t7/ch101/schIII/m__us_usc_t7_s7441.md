@@ -47,7 +47,7 @@
 
         Nothing in this subchapter provides for the control of production or otherwise limits the right of individual producers to produce canola, rapeseed, or canola or rapeseed products.
 
-([Pub. L. 104–127, title V, § 532][/us/pl/104/127/s532], Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 532, Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs532
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1048
 
 

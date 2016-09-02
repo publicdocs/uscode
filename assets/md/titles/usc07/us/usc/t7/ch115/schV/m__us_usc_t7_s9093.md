@@ -23,7 +23,7 @@
 
         The Secretary shall preclude the issuance of payments to, and on behalf of, deceased individuals that were not eligible for payments.
 
-([Pub. L. 113–79, title I, § 1608][/us/pl/113/79/s1608], Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1608, Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1608
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F708
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

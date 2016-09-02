@@ -147,7 +147,7 @@
 
                 (iii) 40 percent to conduct activities to carry out subparagraph (F) of paragraph (2) through the Risk Management Agency.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 524, as added [Pub. L. 106–224, title I, § 133][/us/pl/106/224/s133], June 20, 2000, [114 Stat. 387][/us/stat/114/387]; amended [Pub. L. 107–171, title II, § 2501][/us/pl/107/171/s2501], May 13, 2002, [116 Stat. 263][/us/stat/116/263]; [Pub. L. 108–199, div. A, title VII, § 769][/us/pl/108/199/s769], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40]; [Pub. L. 110–234, title I, § 1603(g)(3)][/us/pl/110/234/s1603/g/3], title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, May 22, 2008, [122 Stat. 1011][/us/stat/122/1011], 1085, 1267, 1390; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(3), title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, 1813, 2028, 2152; [Pub. L. 112–55, div. A, title VII, § 716(a)][/us/pl/112/55/s716/a], Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–79, title I, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], title XI, § 11027(c), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], 977.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 524, as added [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 133, June 20, 2000, [114 Stat. 387][/us/stat/114/387]; amended [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2501, May 13, 2002, [116 Stat. 263][/us/stat/116/263]; [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 769, Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(g)(3), title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, May 22, 2008, [122 Stat. 1011][/us/stat/122/1011], 1085, 1267, 1390; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(g)(3), title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, 1813, 2028, 2152; [Pub. L. 112–55, div. A, title VII][/us/pl/112/55/dA/tVII], § 716(a), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(b)(1), title XI, § 11027(c), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], 977.)
 
  __References in Text__ 
 
@@ -159,33 +159,33 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3)(A). [Pub. L. 113–79, § 11027(c)(1)][/us/pl/113/79/s11027/c/1], inserted “farm financial benchmarking,” after “risk reduction,”.
+    2014—Subsec. (a)(3)(A). [Pub. L. 113–79][/us/pl/113/79], § 11027(c)(1), inserted “farm financial benchmarking,” after “risk reduction,”.
 
-    Subsec. (a)(4). [Pub. L. 113–79, § 11027(c)(2)][/us/pl/113/79/s11027/c/2], inserted “(including farm financial benchmarking)” after “management strategies” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 113–79][/us/pl/113/79], § 11027(c)(2), inserted “(including farm financial benchmarking)” after “management strategies” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], amended language inserted by [Pub. L. 110–246, § 1603(g)(3)][/us/pl/110/246/s1603/g/3]. See 2008 Amendment note below.
+    Subsec. (b)(3). [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), amended language inserted by [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(3). See 2008 Amendment note below.
 
     2011—Subsec. (b)(4)(B)(ii). [Pub. L. 112–55][/us/pl/112/55] substituted “certain fiscal years” for “fiscal years 2008 through 2012” in heading and “2014” for “2012” in text.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 12026(1)][/us/pl/110/246/s12026/1], substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 12026(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
 
-    Subsec. (a)(1)(B), (3)(A). [Pub. L. 110–246, § 7511(c)(2)][/us/pl/110/246/s7511/c/2], substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+    Subsec. (a)(1)(B), (3)(A). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(2), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
-    Subsec. (a)(4), (5). [Pub. L. 110–246, § 12026(2)][/us/pl/110/246/s12026/2], (3), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (a)(4), (5). [Pub. L. 110–246][/us/pl/110/246], § 12026(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 2801(a)][/us/pl/110/246/s2801/a], inserted “Hawaii,” after “Delaware,”.
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 2801(a), inserted “Hawaii,” after “Delaware,”.
 
-    Subsec. (b)(3). [Pub. L. 110–246, § 1603(g)(3)][/us/pl/110/246/s1603/g/3], as amended by [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308(5) of this title][/us/usc/t7/s1308/5])”.
+    Subsec. (b)(3). [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(3), as amended by [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308(5) of this title][/us/usc/t7/s1308/5])”.
 
-    Subsec. (b)(4)(B)(i). [Pub. L. 110–246, § 2801(b)(1)][/us/pl/110/246/s2801/b/1], substituted “Except as provided in clause (ii)” for “Except as provided in clauses (ii) and (iii)”.
+    Subsec. (b)(4)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 2801(b)(1), substituted “Except as provided in clause (ii)” for “Except as provided in clauses (ii) and (iii)”.
 
-    Subsec. (b)(4)(B)(ii), (iii). [Pub. L. 110–246, § 2801(b)(2)][/us/pl/110/246/s2801/b/2], added cl. (ii) and struck out former cls. (ii) and (iii) which related to exception for fiscal years 2003 through 2007 and minimum amounts to carry out certain uses.
+    Subsec. (b)(4)(B)(ii), (iii). [Pub. L. 110–246][/us/pl/110/246], § 2801(b)(2), added cl. (ii) and struck out former cls. (ii) and (iii) which related to exception for fiscal years 2003 through 2007 and minimum amounts to carry out certain uses.
 
-    Subsec. (b)(4)(C). [Pub. L. 110–246, § 2801(c)][/us/pl/110/246/s2801/c], added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 110–246][/us/pl/110/246], § 2801(c), added subpar. (C).
 
-    2004—Subsec. (b)(4)(B)(i). [Pub. L. 108–199, § 769(1)][/us/pl/108/199/s769/1], substituted “clauses (ii) and (iii)” for “clause (ii)”.
+    2004—Subsec. (b)(4)(B)(i). [Pub. L. 108–199][/us/pl/108/199], § 769(1), substituted “clauses (ii) and (iii)” for “clause (ii)”.
 
-    Subsec. (b)(4)(B)(iii). [Pub. L. 108–199, § 769(2)][/us/pl/108/199/s769/2], added cl. (iii).
+    Subsec. (b)(4)(B)(iii). [Pub. L. 108–199][/us/pl/108/199], § 769(2), added cl. (iii).
 
     2002—Subsec. (b). [Pub. L. 107–171][/us/pl/107/171] added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
@@ -246,19 +246,19 @@
 
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/106/224/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs133
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F387
-[/us/pl/107/171/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2501
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F263
-[/us/pl/108/199/s769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs769
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F40
-[/us/pl/110/234/s1603/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fg%2F3
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/55/s716/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fa
+[/us/pl/112/55/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdA%2FtVII
 [/us/stat/125/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F582
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5
 [/us/pl/107/171/s1603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fb%2F1
@@ -269,23 +269,23 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s11027/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fc%2F1
-[/us/pl/113/79/s11027/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fc%2F2
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
-[/us/pl/110/246/s1603/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F3
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/110/246/s12026/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12026%2F1
-[/us/pl/110/246/s7511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F2
-[/us/pl/110/246/s12026/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12026%2F2
-[/us/pl/110/246/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2801%2Fa
-[/us/pl/110/246/s1603/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F3
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5
-[/us/pl/110/246/s2801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2801%2Fb%2F1
-[/us/pl/110/246/s2801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2801%2Fb%2F2
-[/us/pl/110/246/s2801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2801%2Fc
-[/us/pl/108/199/s769/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs769%2F1
-[/us/pl/108/199/s769/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs769%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79

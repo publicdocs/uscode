@@ -29,7 +29,7 @@
 
     (6) provide for consideration of United States agricultural trade interests in the design of national fiscal and monetary policy that may foster continued strength in the value of the dollar.
 
-([Pub. L. 99–198, title XI, § 1121][/us/pl/99/198/s1121], Dec. 23, 1985, [99 Stat. 1480][/us/stat/99/1480]; [Pub. L. 104–127, title II, § 267][/us/pl/104/127/s267], Apr. 4, 1996, [110 Stat. 974][/us/stat/110/974].)
+([Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1121, Dec. 23, 1985, [99 Stat. 1480][/us/stat/99/1480]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 267, Apr. 4, 1996, [110 Stat. 974][/us/stat/110/974].)
 
  __Codification__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1121
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1480
-[/us/pl/104/127/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs267
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F974
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

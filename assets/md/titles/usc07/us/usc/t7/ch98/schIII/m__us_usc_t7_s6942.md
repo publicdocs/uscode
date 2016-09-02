@@ -47,17 +47,17 @@
 
             (B) section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 1 ([7 U.S.C. 1926][/us/usc/t7/s1926] note).
 
-([Pub. L. 103–354, title II, § 232][/us/pl/103/354/s232], Oct. 13, 1994, [108 Stat. 3219][/us/stat/108/3219]; [Pub. L. 104–127, title VII, § 747(b)(2)][/us/pl/104/127/s747/b/2], Apr. 4, 1996, [110 Stat. 1128][/us/stat/110/1128]; [Pub. L. 112–166, § 2(a)(2)][/us/pl/112/166/s2/a/2], Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 232, Oct. 13, 1994, [108 Stat. 3219][/us/stat/108/3219]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 747(b)(2), Apr. 4, 1996, [110 Stat. 1128][/us/stat/110/1128]; [Pub. L. 112–166][/us/pl/112/166], § 2(a)(2), Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283].)
 
  __References in Text__ 
 
     The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title][/us/usc/t7/s901] and Tables.
 
-    [Section 1926–1 of this title][/us/usc/t7/s1926–1], referred to in subsec. (c)(1)(B), was repealed by [Pub. L. 104–127, title VII, § 702][/us/pl/104/127/s702], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
+    [Section 1926–1 of this title][/us/usc/t7/s1926–1], referred to in subsec. (c)(1)(B), was repealed by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 702, Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
 
-    [Section 1926b of this title][/us/usc/t7/s1926b], referred to in subsec. (c)(2)(A), was repealed by [Pub. L. 104–127, title VII, § 743][/us/pl/104/127/s743], Apr. 4, 1996, [110 Stat. 1125][/us/stat/110/1125].
+    [Section 1926b of this title][/us/usc/t7/s1926b], referred to in subsec. (c)(2)(A), was repealed by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 743, Apr. 4, 1996, [110 Stat. 1125][/us/stat/110/1125].
 
-    Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is [section 2324 of Pub. L. 101–624][/us/pl/101/624/s2324], which was set out as a note under [section 1926 of this title][/us/usc/t7/s1926] prior to repeal by [Pub. L. 104–127, title VII, § 703][/us/pl/104/127/s703], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
+    Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is [section 2324 of Pub. L. 101–624][/us/pl/101/624/s2324], which was set out as a note under [section 1926 of this title][/us/usc/t7/s1926] prior to repeal by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 703, Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1). [Pub. L. 112–166, § 2(a)(2)(A)][/us/pl/112/166/s2/a/2/A], struck out “, by and with the advice and consent of the Senate” before period at end.
+    2012—Subsec. (b)(1). [Pub. L. 112–166][/us/pl/112/166], § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
 
-    Subsec. (b)(2). [Pub. L. 112–166, § 2(a)(2)(B)][/us/pl/112/166/s2/a/2/B], (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
+    Subsec. (b)(2). [Pub. L. 112–166][/us/pl/112/166], § 2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
 
     “(A) may be considered to be serving in the successor position established under paragraph (1); and
 
@@ -90,30 +90,30 @@
 [/us/usc/t7/s1932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fb
 [/us/usc/t7/s1013a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1013a
 [/us/usc/t7/s1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926
-[/us/pl/103/354/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs232
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3219
-[/us/pl/104/127/s747/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs747%2Fb%2F2
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1128
-[/us/pl/112/166/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fa%2F2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1283
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/usc/t7/s1926–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%E2%80%931
-[/us/pl/104/127/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs702
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1108
 [/us/usc/t7/s1926b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926b
-[/us/pl/104/127/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs743
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1125
 [/us/pl/101/624/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2324
 [/us/usc/t7/s1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926
-[/us/pl/104/127/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs703
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1108
 [/us/pl/103/354/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs232
 [/us/pl/103/354/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs232
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/112/166/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fa%2F2%2FA
-[/us/pl/112/166/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fa%2F2%2FB
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa

@@ -71,7 +71,7 @@
 
         (2) If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is not approved pursuant to the referendum required under [section 2906(a) of this title][/us/usc/t7/s2906/a], the Board shall prorate the amount of such refunds among all eligible persons who demand such refund.
 
-([Pub. L. 94–294, § 8][/us/pl/94/294/s8], May 28, 1976, [90 Stat. 532][/us/stat/90/532]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1604][/us/stat/99/1604].)
+([Pub. L. 94–294][/us/pl/94/294], § 8, May 28, 1976, [90 Stat. 532][/us/stat/90/532]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1604][/us/stat/99/1604].)
 
  __References in Text__ 
 
@@ -100,9 +100,9 @@
 [/us/usc/t7/s2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2906
 [/us/usc/t7/s2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904
 [/us/usc/t7/s2906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2906%2Fa
-[/us/pl/94/294/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs8
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F532
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1604
 [/us/usc/t7/s2906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2906%2Fa
 [/us/pl/94/294/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs10%2Fa

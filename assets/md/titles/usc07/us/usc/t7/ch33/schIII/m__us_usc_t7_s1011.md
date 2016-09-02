@@ -17,7 +17,7 @@
 
     To effectuate the program provided for in [section 1010 of this title][/us/usc/t7/s1010], the Secretary is authorized—
 
-    (a) Repealed. [Pub. L. 87–703, title I, § 102(b)][/us/pl/87/703/s102/b], Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607].
+    (a) Repealed. [Pub. L. 87–703, title I][/us/pl/87/703/tI], § 102(b), Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607].
 
     (b) To protect, improve, develop, and administer any property so acquired and to construct such structures thereon as may be necessary to adapt it to its most beneficial use.
 
@@ -37,11 +37,11 @@
 
     (f) To make such rules and regulations as he deems necessary to prevent trespasses and otherwise regulate the use and occupancy of property acquired by, or transferred to, the Secretary for the purposes of this subchapter, in order to conserve and utilize it or advance the purposes of this subchapter. Any violation of such rules and regulations shall be punished by a fine of not more than $500 or imprisonment for not more than six months, or both. Any person charged with the violation of such rules and regulations may be tried and sentenced by any United States magistrate judge specially designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401(b) to (e) of title 18.
 
-([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 32, [50 Stat. 525][/us/stat/50/525]; [July 28, 1942, ch. 531][/us/act/1942-07-28/ch531], [56 Stat. 725][/us/stat/56/725]; [Pub. L. 87–703, title I, § 102(b)][/us/pl/87/703/s102/b], (c), Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607]; [Pub. L. 87–869, § 7][/us/pl/87/869/s7], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]; [Pub. L. 88–537][/us/pl/88/537], Aug. 31, 1964, [78 Stat. 745][/us/stat/78/745]; [Pub. L. 89–796, § 1(b)][/us/pl/89/796/s1/b], Nov. 8, 1966, [80 Stat. 1478][/us/stat/80/1478]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 91–343][/us/pl/91/343], July 18, 1970, [84 Stat. 439][/us/stat/84/439]; [Pub. L. 92–419, title III, § 301][/us/pl/92/419/s301], Aug. 30, 1972, [86 Stat. 669][/us/stat/86/669]; [Pub. L. 95–113, title XV][/us/pl/95/113], §§ 1503(a), 1507, Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021], 1022; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–437, § 4(a)(4)][/us/pl/103/437/s4/a/4], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–127, title VII, § 791(a)][/us/pl/104/127/s791/a], Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151]; [Pub. L. 113–287, § 5(a)][/us/pl/113/287/s5/a], Dec. 19, 2014, [128 Stat. 3263][/us/stat/128/3263].)
+([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 32, [50 Stat. 525][/us/stat/50/525]; [July 28, 1942, ch. 531][/us/act/1942-07-28/ch531], [56 Stat. 725][/us/stat/56/725]; [Pub. L. 87–703, title I][/us/pl/87/703/tI], § 102(b), (c), Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607]; [Pub. L. 87–869][/us/pl/87/869], § 7, Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]; [Pub. L. 88–537][/us/pl/88/537], Aug. 31, 1964, [78 Stat. 745][/us/stat/78/745]; [Pub. L. 89–796][/us/pl/89/796], § 1(b), Nov. 8, 1966, [80 Stat. 1478][/us/stat/80/1478]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 91–343][/us/pl/91/343], July 18, 1970, [84 Stat. 439][/us/stat/84/439]; [Pub. L. 92–419, title III][/us/pl/92/419/tIII], § 301, Aug. 30, 1972, [86 Stat. 669][/us/stat/86/669]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], §§ 1503(a), 1507, Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021], 1022; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(4), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 791(a), Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151]; [Pub. L. 113–287][/us/pl/113/287], § 5(a), Dec. 19, 2014, [128 Stat. 3263][/us/stat/128/3263].)
 
  __Repeals__ 
 
-    Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 
     1964—Subsec. (f). [Pub. L. 88–537][/us/pl/88/537] provided that persons charged with violation of such rules and regulations may be tried and sentenced by any United States commissioner specially designated for that purpose by the court by which he was appointed, in the same manner as in section 3401(b) to (e) of Title 18, Crimes and Criminal Procedure.
 
-    1962—Subsec. (a). [Pub. L. 87–703, § 102(b)][/us/pl/87/703/s102/b], repealed authority of Secretary to acquire submarginal land and land not primarily suitable for cultivation, and interests in and options on such land.
+    1962—Subsec. (a). [Pub. L. 87–703][/us/pl/87/703], § 102(b), repealed authority of Secretary to acquire submarginal land and land not primarily suitable for cultivation, and interests in and options on such land.
 
-    Subsec. (e). [Pub. L. 87–703, § 102(c)][/us/pl/87/703/s102/c], authorized Secretary to assist in carrying out the plans by means of loans to State and local public agencies, conditioned loans on absence of disapproval of plans within 45 days, prescribed a $250,000 limitation on appropriation for a single loan without prior committee approval and provided for loan contracts and interest and repayment of principal and interest.
+    Subsec. (e). [Pub. L. 87–703][/us/pl/87/703], § 102(c), authorized Secretary to assist in carrying out the plans by means of loans to State and local public agencies, conditioned loans on absence of disapproval of plans within 45 days, prescribed a $250,000 limitation on appropriation for a single loan without prior committee approval and provided for loan contracts and interest and repayment of principal and interest.
 
     Subsec. (f). [Pub. L. 87–869][/us/pl/87/869] substituted “by a fine of not more than $500 or imprisonment for not more than six months, or both” for “as prescribed in [section 104 of title 18][/us/usc/t18/s104]”.
 
@@ -113,37 +113,37 @@
 ----------
 
 [/us/usc/t7/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010
-[/us/pl/87/703/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs102%2Fb
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F607
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
 [/us/stat/50/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F525
 [/us/act/1942-07-28/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-28%2Fch531
 [/us/stat/56/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F725
-[/us/pl/87/703/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs102%2Fb
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F607
-[/us/pl/87/869/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869%2Fs7
+[/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/stat/76/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1157
 [/us/pl/88/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F537
 [/us/stat/78/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F745
-[/us/pl/89/796/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796%2Fs1%2Fb
+[/us/pl/89/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796
 [/us/stat/80/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1478
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
 [/us/pl/91/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F343
 [/us/stat/84/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F439
-[/us/pl/92/419/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs301
+[/us/pl/92/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtIII
 [/us/stat/86/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F669
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1021
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/103/437/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F4
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
-[/us/pl/104/127/s791/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs791%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1151
-[/us/pl/113/287/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3263
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
@@ -155,8 +155,8 @@
 [/us/pl/91/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F343
 [/us/pl/89/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796
 [/us/pl/88/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F537
-[/us/pl/87/703/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs102%2Fb
-[/us/pl/87/703/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs102%2Fc
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/usc/t18/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs104
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

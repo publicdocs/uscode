@@ -17,7 +17,7 @@
 
     The Secretary shall make financial assistance under this subchapter available to any applicant seeking assistance based on production losses if the applicant shows that a single enterprise which constitutes a basic part of the applicant’s farming, ranching, or aquaculture operation has sustained at least a 30 per centum loss of normal per acre or per animal production, or such lesser per centum of loss as the Secretary may determine, as a result of the disaster based upon the average monthly price in effect for the previous year and the applicant otherwise meets the conditions of eligibility prescribed under this subchapter. Such loans shall be made available based upon 80 per centum, or such greater per centum as the Secretary may determine, of the total calculated actual production loss sustained by the applicant.
 
-([Pub. L. 87–128, title III, § 329][/us/pl/87/128/s329], as added [Pub. L. 94–68, § 7][/us/pl/94/68/s7], Aug. 5, 1975, [89 Stat. 382][/us/stat/89/382]; amended [Pub. L. 97–35, title I, § 163][/us/pl/97/35/s163], Aug. 13, 1981, [95 Stat. 378][/us/stat/95/378].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 329, as added [Pub. L. 94–68][/us/pl/94/68], § 7, Aug. 5, 1975, [89 Stat. 382][/us/stat/89/382]; amended [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 163, Aug. 13, 1981, [95 Stat. 378][/us/stat/95/378].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/87/128/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs329
-[/us/pl/94/68/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F68%2Fs7
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/94/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F68
 [/us/stat/89/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F382
-[/us/pl/97/35/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs163
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F378
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 

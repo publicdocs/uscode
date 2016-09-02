@@ -17,11 +17,11 @@
 
     The Secretary of Agriculture is authorized, in his discretion, to call advisers to counsel with him and/or his representatives relative to specific problems of cooperative marketing of farm products or any other cooperative activity. Any person, other than an officer, agent, or employee of the United States, called into conference, as provided for in this section, may be paid actual transportation expenses and not to exceed $10 per diem to cover subsistence and other expenses while in conference and en route from and to his home.
 
-([July 2, 1926, ch. 725, § 4][/us/act/1926-07-02/ch725/s4], [44 Stat. 803][/us/stat/44/803].)
+([July 2, 1926, ch. 725][/us/act/1926-07-02/ch725], § 4, [44 Stat. 803][/us/stat/44/803].)
 
  __Transfer to Secretary of Agriculture__ 
 
-    Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by [act Aug. 6, 1953, ch. 335, § 9][/us/act/1953-08-06/ch335/s9], [67 Stat. 394][/us/stat/67/394], see note set out under [section 452 of this title][/us/usc/t7/s452].
+    Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by [act Aug. 6, 1953, ch. 335][/us/act/1953-08-06/ch335], § 9, [67 Stat. 394][/us/stat/67/394], see note set out under [section 452 of this title][/us/usc/t7/s452].
 
  __Transfer of Functions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1926-07-02/ch725/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725%2Fs4
+[/us/act/1926-07-02/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725
 [/us/stat/44/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F803
-[/us/act/1953-08-06/ch335/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-06%2Fch335%2Fs9
+[/us/act/1953-08-06/ch335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-06%2Fch335
 [/us/stat/67/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F394
 [/us/usc/t7/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs452
 [/us/usc/t7/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs452

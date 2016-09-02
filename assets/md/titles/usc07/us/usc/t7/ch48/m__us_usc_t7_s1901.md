@@ -17,7 +17,7 @@
 
     The Congress finds that the use of humane methods in the slaughter of livestock prevents needless suffering; results in safer and better working conditions for persons engaged in the slaughtering industry; brings about improvement of products and economies in slaughtering operations; and produces other benefits for producers, processors, and consumers which tend to expedite an orderly flow of livestock and livestock products in interstate and foreign commerce. It is therefore declared to be the policy of the United States that the slaughtering of livestock and the handling of livestock in connection with slaughter shall be carried out only by humane methods.
 
-([Pub. L. 85–765, § 1][/us/pl/85/765/s1], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862].)
+([Pub. L. 85–765][/us/pl/85/765], § 1, Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862].)
 
  __Short Title of 1978 Amendment__ 
 
@@ -25,7 +25,7 @@
 
  __Enforcement of Humane Methods of Slaughter Act of 1958__ 
 
-[Pub. L. 107–171, title X, § 10305][/us/pl/107/171/s10305], May 13, 2002, [116 Stat. 493][/us/stat/116/493], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10305, May 13, 2002, [116 Stat. 493][/us/stat/116/493], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -51,7 +51,7 @@
 
  __Commercial Transportation of Equine for Slaughter__ 
 
-[Pub. L. 104–127, title IX][/us/pl/104/127], subtitle A, Apr. 4, 1996, [110 Stat. 1184][/us/stat/110/1184], provided that:
+[Pub. L. 104–127, title IX][/us/pl/104/127/tIX], subtitle A, Apr. 4, 1996, [110 Stat. 1184][/us/stat/110/1184], provided that:
 
 > “SEC. 901. __FINDINGS.__ 
 
@@ -116,18 +116,18 @@
 ----------
 ----------
 
-[/us/pl/85/765/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765%2Fs1
+[/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/pl/107/171/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10305
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F493
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/usc/t7/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1901
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1184
 
 

@@ -25,7 +25,7 @@
 
         (1) Agricultural price and income support programs, production adjustment programs, and related programs.
 
-        (2) Repealed. [Pub. L. 104–127, title I, § 194(c)][/us/pl/104/127/s194/c], Apr. 4, 1996, [110 Stat. 946][/us/stat/110/946].
+        (2) Repealed. [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 194(c), Apr. 4, 1996, [110 Stat. 946][/us/stat/110/946].
 
         (3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
 
@@ -97,7 +97,7 @@
 
         (2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under [section 6962(b) of this title][/us/usc/t7/s6962/b].
 
-([Pub. L. 103–354, title II, § 226][/us/pl/103/354/s226], Oct. 13, 1994, [108 Stat. 3214][/us/stat/108/3214]; [Pub. L. 104–127, title I, § 194(c)][/us/pl/104/127/s194/c], title III, §§ 315(b), 336(a)(2)(C), Apr. 4, 1996, [110 Stat. 946][/us/stat/110/946], 985, 1005.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 226, Oct. 13, 1994, [108 Stat. 3214][/us/stat/108/3214]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 194(c), title III, §§ 315(b), 336(a)(2)(C), Apr. 4, 1996, [110 Stat. 946][/us/stat/110/946], 985, 1005.)
 
  __References in Text__ 
 
@@ -109,11 +109,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(2). [Pub. L. 104–127, § 194(c)][/us/pl/104/127/s194/c], struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
+    1996—Subsec. (b)(2). [Pub. L. 104–127][/us/pl/104/127], § 194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
 
-    Subsec. (b)(4). [Pub. L. 104–127, § 336(a)(2)(C)][/us/pl/104/127/s336/a/2/C], struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590g][/us/usc/t16/s590g] et seq.)”.
+    Subsec. (b)(4). [Pub. L. 104–127][/us/pl/104/127], § 336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590g][/us/usc/t16/s590g] et seq.)”.
 
-    Subsec. (d)(2). [Pub. L. 104–127, § 315(b)][/us/pl/104/127/s315/b], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 104–127][/us/pl/104/127], § 315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
  __Change of Name__ 
 
@@ -126,7 +126,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs194%2Fc
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F946
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t7/s6962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6962%2Fb
@@ -137,9 +137,9 @@
 [/us/usc/t16/s590h/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5
 [/us/usc/t5/s2302/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FA
 [/us/usc/t7/s6962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6962%2Fb
-[/us/pl/103/354/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs226
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3214
-[/us/pl/104/127/s194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs194%2Fc
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F946
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
@@ -147,9 +147,9 @@
 [/us/pl/103/354/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs226
 [/us/pl/103/354/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs226
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
-[/us/pl/104/127/s194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs194%2Fc
-[/us/pl/104/127/s336/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F2%2FC
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s590g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g
-[/us/pl/104/127/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs315%2Fb
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 

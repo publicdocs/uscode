@@ -17,7 +17,7 @@
 
     In the case of any program operated by the Secretary or the Commodity Credit Corporation during the fiscal years 1991 through 1995, for the purpose of discouraging unfair trade practices, the Secretary shall establish as an objective to expend annually at least 25 percent of the total funds available (or 25 percent of the value of any commodities employed) for program activities involving the export sales of high-value agricultural commodities and value-added products of United States agricultural commodities.
 
-([Pub. L. 95–501, title III, § 302][/us/pl/95/501/s302], formerly § 303, as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; renumbered § 302 and amended [Pub. L. 110–246, title III, § 3103(b)(2)][/us/pl/110/246/s3103/b/2], (3), June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
+([Pub. L. 95–501, title III][/us/pl/95/501/tIII], § 302, formerly § 303, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; renumbered § 302 and amended [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3103(b)(2), (3), June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 3103(b)(3)][/us/pl/110/246/s3103/b/3], struck out “, such as that established under [section 5651 of this title][/us/usc/t7/s5651],” after “any program”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 3103(b)(3), struck out “, such as that established under [section 5651 of this title][/us/usc/t7/s5651],” after “any program”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/pl/95/501/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs302
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3680
-[/us/pl/110/246/s3103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F2
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1832
 [/us/pl/95/501/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs302
 [/us/usc/t7/s5652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5652
-[/us/pl/110/246/s3103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s5651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5651
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

@@ -35,7 +35,7 @@
 
         The Secretary shall carry out this subchapter in such a manner that there are no additional outlays under this subchapter as a result of the reconstitution of a farm that occurs as a result of the combination of another farm that does not contain eligible cropland covered by a production flexibility contract.
 
-([Pub. L. 104–127, title I, § 131][/us/pl/104/127/s131], Apr. 4, 1996, [110 Stat. 905][/us/stat/110/905].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 131, Apr. 4, 1996, [110 Stat. 905][/us/stat/110/905].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t7/s7232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7232
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/104/127/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs131
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F905
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

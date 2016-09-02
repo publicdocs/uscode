@@ -75,13 +75,13 @@
 
         If a producer of quota tobacco who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the contract payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the producer.
 
-([Pub. L. 108–357, title VI, § 623][/us/pl/108/357/s623], Oct. 22, 2004, [118 Stat. 1527][/us/stat/118/1527].)
+([Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 623, Oct. 22, 2004, [118 Stat. 1527][/us/stat/118/1527].)
 
  __References in Text__ 
 
     Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of [Pub. L. 108–357][/us/pl/108/357], which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15][/us/usc/t15/s714c], Commerce and Trade, repealed sections 511r, 515, 515a to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under [section 1314c of this title][/us/usc/t7/s1314c].
 
-    Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by [Pub. L. 108–357, title VI, § 611(a)][/us/pl/108/357/s611/a], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522]. For complete classification of this Act to the Code, see [section 1281 of this title][/us/usc/t7/s1281] and Tables.
+    Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(a), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522]. For complete classification of this Act to the Code, see [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
 ----------
 
@@ -91,12 +91,12 @@
 ----------
 
 [/us/usc/t7/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1311
-[/us/pl/108/357/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs623
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1527
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c
 [/us/usc/t7/s1314c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314c
-[/us/pl/108/357/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fa
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 

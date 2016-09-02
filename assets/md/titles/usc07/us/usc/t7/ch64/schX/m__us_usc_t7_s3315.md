@@ -43,13 +43,13 @@
 
         In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term “in-kind support”, with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
 
-([Pub. L. 95–113, title XIV, § 1469][/us/pl/95/113/s1469], Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019]; [Pub. L. 105–185, title II, § 230(b)][/us/pl/105/185/s230/b], June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(H), title VII, § 7132(b), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097, 1228; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1989; [Pub. L. 113–79, title VII, § 7121][/us/pl/113/79/s7121], Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1469, Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 230(b), June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097, 1228; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1989; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7121, Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 3102 of this title][/us/usc/t7/s3102].
 
-    Sections 450i(e), 450i(f), and 450i(h) of this title, referred to in subsec. (a)(1), were redesignated as sections 450i(f), 450i(g), and 450i(i), respectively, by [Pub. L. 101–624, title XIV, § 1497(1)][/us/pl/101/624/s1497/1], Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630].
+    Sections 450i(e), 450i(f), and 450i(h) of this title, referred to in subsec. (a)(1), were redesignated as sections 450i(f), 450i(g), and 450i(i), respectively, by [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1497(1), Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630].
 
  __Codification__ 
 
@@ -59,15 +59,15 @@
 
     2014—Subsecs. (b) to (e). [Pub. L. 113–79][/us/pl/113/79] added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
-    2008—Subsec. (a)(3). [Pub. L. 110–246, § 7132(b)][/us/pl/110/246/s7132/b], substituted “made available” for “appropriated”.
+    2008—Subsec. (a)(3). [Pub. L. 110–246][/us/pl/110/246], § 7132(b), substituted “made available” for “appropriated”.
 
-    Subsec. (b). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(H), made technical amendment to reference in original act which appears in text as reference to [section 2034 of this title][/us/usc/t7/s2034].
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(H), made technical amendment to reference in original act which appears in text as reference to [section 2034 of this title][/us/usc/t7/s2034].
 
-    1998—[Pub. L. 105–185, § 230(b)(1)][/us/pl/105/185/s230/b/1], reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 230(b)(1), reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
 
-    Subsec. (a)(3). [Pub. L. 105–185, § 230(b)(2)][/us/pl/105/185/s230/b/2], added par. (3) and struck out former par. (3) which read as follows: “three per centum of the appropriations shall be retained by the Secretary for the administration of the programs authorized under this chapter; and”.
+    Subsec. (a)(3). [Pub. L. 105–185][/us/pl/105/185], § 230(b)(2), added par. (3) and struck out former par. (3) which read as follows: “three per centum of the appropriations shall be retained by the Secretary for the administration of the programs authorized under this chapter; and”.
 
-    Subsecs. (b) to (d). [Pub. L. 105–185, § 230(b)(3)][/us/pl/105/185/s230/b/3], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 105–185][/us/pl/105/185], § 230(b)(3), added subsecs. (b) to (d).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -83,30 +83,30 @@
 ----------
 
 [/us/usc/t7/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2034
-[/us/pl/95/113/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1469
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1019
-[/us/pl/105/185/s230/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs230%2Fb
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F547
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7121
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
-[/us/pl/101/624/s1497/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1497%2F1
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3630
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7132%2Fb
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2034
-[/us/pl/105/185/s230/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs230%2Fb%2F1
-[/us/pl/105/185/s230/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs230%2Fb%2F2
-[/us/pl/105/185/s230/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs230%2Fb%2F3
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

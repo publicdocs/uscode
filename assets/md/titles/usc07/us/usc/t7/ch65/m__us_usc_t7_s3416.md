@@ -17,7 +17,7 @@
 
     The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 95–113, title XVII, § 1717][/us/pl/95/113/s1717], Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1717, Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1717
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1040
 
 

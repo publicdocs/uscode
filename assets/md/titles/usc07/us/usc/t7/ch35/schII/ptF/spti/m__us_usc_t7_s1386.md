@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    In text, “[section 6306 of title 41][/us/usc/t41/s6306]” substituted for “section 3741 of the Revised Statutes (U.S.C., 1934 edition, title 41, sec. 22)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “[section 6306 of title 41][/us/usc/t41/s6306]” substituted for “section 3741 of the Revised Statutes (U.S.C., 1934 edition, title 41, sec. 22)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     “Sections 431 and 432 of title 18” substituted in text for “sections 114 and 115 of the Criminal Code of the United States (U.S.C., 1934 edition, title 18, secs. 204 and 205)” on authority of [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 683][/us/stat/62/683], the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
@@ -41,7 +41,7 @@
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F68
 [/us/usc/t41/s6306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6306
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683

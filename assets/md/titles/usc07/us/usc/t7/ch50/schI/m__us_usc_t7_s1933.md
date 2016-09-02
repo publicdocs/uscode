@@ -19,11 +19,11 @@
 
     (b) For the purposes of title V of the Housing Act of 1949 \[[42 U.S.C. 1471][/us/usc/t42/s1471] et seq.\] or this chapter, a guarantee of payment given under the color of law by the Department of Hawaiian Home Lands (or its successor in function) shall be found by the Secretary reasonably to assure repayment of any indebtedness so guaranteed.
 
-([Pub. L. 87–128, title III, § 310C][/us/pl/87/128/s310C], as added [Pub. L. 92–419, title I, § 119][/us/pl/92/419/s119], Aug. 30, 1972, [86 Stat. 664][/us/stat/86/664]; amended [Pub. L. 101–624, title XVIII, § 1804][/us/pl/101/624/s1804], Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310C, as added [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 119, Aug. 30, 1972, [86 Stat. 664][/us/stat/86/664]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1804, Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819].)
 
  __References in Text__ 
 
-    Section 517(a) of the Housing Act of 1949 \[[42 U.S.C. 1487(a)][/us/usc/t42/s1487/a]\], referred to in subsec. (a), was amended by [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 514(a)(1)\], Nov. 30, 1983, [98 Stat. 1247][/us/stat/98/1247], and, as so amended, does not contain a par. (2).
+    Section 517(a) of the Housing Act of 1949 \[[42 U.S.C. 1487(a)][/us/usc/t42/s1487/a]\], referred to in subsec. (a), was amended by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 514(a)(1)\], Nov. 30, 1983, [98 Stat. 1247][/us/stat/98/1247], and, as so amended, does not contain a par. (2).
 
     The National Housing Act, referred to in subsec. (a), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
@@ -46,13 +46,13 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471%2Fc
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
-[/us/pl/87/128/s310C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310C
-[/us/pl/92/419/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs119
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F664
-[/us/pl/101/624/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1804
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3819
 [/us/usc/t42/s1487/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1487%2Fa
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/98/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1247
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

@@ -17,7 +17,7 @@
 
     A Chief of the Bureau of Dairy Industry shall be appointed by the Secretary of Agriculture, who shall be subject to the general direction of the Secretary of Agriculture. He shall devote his time to the investigation of the dairy industry, and the dissemination of information for the promotion of the dairy industry.
 
-([May 29, 1924, ch. 208, § 2][/us/act/1924-05-29/ch208/s2], [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
+([May 29, 1924, ch. 208][/us/act/1924-05-29/ch208], § 2, [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
 
  __Change of Name; Temporary Consolidation__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1924-05-29/ch208/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208%2Fs2
+[/us/act/1924-05-29/ch208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208
 [/us/stat/43/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F243
 [/us/act/1926-05-11/ch286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-11%2Fch286
 [/us/stat/44/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F499

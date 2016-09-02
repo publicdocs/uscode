@@ -51,7 +51,7 @@
 
             shall be considered as held by the producer.
 
-([Pub. L. 93–428, § 12][/us/pl/93/428/s12], Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176]; [Pub. L. 101–220, § 3(a)][/us/pl/101/220/s3/a], Dec. 12, 1989, [103 Stat. 1877][/us/stat/103/1877]; [Pub. L. 103–188, § 4][/us/pl/103/188/s4], Dec. 14, 1993, [107 Stat. 2257][/us/stat/107/2257].)
+([Pub. L. 93–428][/us/pl/93/428], § 12, Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176]; [Pub. L. 101–220][/us/pl/101/220], § 3(a), Dec. 12, 1989, [103 Stat. 1877][/us/stat/103/1877]; [Pub. L. 103–188][/us/pl/103/188], § 4, Dec. 14, 1993, [107 Stat. 2257][/us/stat/107/2257].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Egg Promotion and Research Order__ 
 
-[Pub. L. 101–220, § 3(b)][/us/pl/101/220/s3/b], Dec. 12, 1989, [103 Stat. 1878][/us/stat/103/1878], provided that:
+[Pub. L. 101–220][/us/pl/101/220], § 3(b), Dec. 12, 1989, [103 Stat. 1878][/us/stat/103/1878], provided that:
 
 >     “(1)  __Amendment__  __.—__ 
 
@@ -82,15 +82,15 @@
 ----------
 ----------
 
-[/us/pl/93/428/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs12
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1176
-[/us/pl/101/220/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs3%2Fa
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1877
-[/us/pl/103/188/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188%2Fs4
+[/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/stat/107/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2257
 [/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
-[/us/pl/101/220/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs3%2Fb
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1878
 [/us/usc/t7/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2701
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

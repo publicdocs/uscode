@@ -99,13 +99,13 @@
 
         [Section 1340 of this title][/us/usc/t7/s1340] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1996 through 2002.
 
-([Pub. L. 104–127, title I, § 171][/us/pl/104/127/s171], Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937]; [Pub. L. 107–171, title I, § 1602(d)][/us/pl/107/171/s1602/d], May 13, 2002, [116 Stat. 213][/us/stat/116/213].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171, Apr. 4, 1996, [110 Stat. 937][/us/stat/110/937]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1602(d), May 13, 2002, [116 Stat. 213][/us/stat/116/213].)
 
  __References in Text__ 
 
     The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1), is [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], [52 Stat. 31][/us/stat/52/31], as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V and VII of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), V (§ 1351, which was omitted from the Code), and VII (§ 1359aa et seq.), respectively, of part B of subchapter II of chapter 35 of this title. Part I of subtitle C of title III of the Act is classified generally to subpart I (§ 1361 et seq.) of part C of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
-    Sections 1358, 1358a, and 1359 of this title, referred to in subsec. (a)(1)(B)–(D), were repealed by [Pub. L. 107–171, title I, § 1309(a)(1)][/us/pl/107/171/s1309/a/1], May 13, 2002, [116 Stat. 179][/us/stat/116/179].
+    Sections 1358, 1358a, and 1359 of this title, referred to in subsec. (a)(1)(B)–(D), were repealed by [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309(a)(1), May 13, 2002, [116 Stat. 179][/us/stat/116/179].
 
     The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], [63 Stat. 1051][/us/stat/63/1051], as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
@@ -160,14 +160,14 @@
 [/us/usc/t7/s1446f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446f
 [/us/usc/t7/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1426
 [/us/usc/t7/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1340
-[/us/pl/104/127/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F937
-[/us/pl/107/171/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1602%2Fd
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F213
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/pl/107/171/s1309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fa%2F1
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F179
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

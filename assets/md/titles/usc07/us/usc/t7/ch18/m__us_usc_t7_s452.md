@@ -17,7 +17,7 @@
 
     The division of cooperative marketing shall be under the direction and supervision of the Secretary of Agriculture.
 
-([July 2, 1926, ch. 725, § 2][/us/act/1926-07-02/ch725/s2], [44 Stat. 802][/us/stat/44/802].)
+([July 2, 1926, ch. 725][/us/act/1926-07-02/ch725], § 2, [44 Stat. 802][/us/stat/44/802].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Transfer to Secretary of Agriculture__ 
 
-[Act Aug. 6, 1953, ch. 335, § 9][/us/act/1953-08-06/ch335/s9], [67 Stat. 394][/us/stat/67/394], provided: 
+[Act Aug. 6, 1953, ch. 335][/us/act/1953-08-06/ch335], § 9, [67 Stat. 394][/us/stat/67/394], provided: 
 
 > “There is hereby transferred from the Farm Credit Administration to the jurisdiction and control of the Secretary of Agriculture the Division of Cooperative Marketing (by whatever name now called) authorized and created under and by virtue of an Act of Congress of July 2, 1926 (Public, Numbered 450, Sixty-ninth Congress), entitled ‘An Act to create a Division of Cooperative Marketing in the Department of Agriculture; to provide for the acquisition and dissemination of information pertaining to cooperation; to promote the knowledge of cooperative principles and practices; to provide for calling advisers to counsel with the Secretary of Agriculture on cooperative activities; to authorize cooperative associations to acquire, interpret, and disseminate crop and market information, and for other purposes \[this chapter\]’, together with all functions pertaining to the work and services of such Division, its personnel, property (including office equipment), assets, funds, contracts, and records used and employed in the execution of its functions, powers, and duties, and so much of the unexpended balances of appropriations, allocations, and other funds available or to be made available for salaries, expenses, and all other administrative expenditures as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] shall determine, for use in the execution of the functions, powers, and duties of said Division.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/act/1926-07-02/ch725/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725%2Fs2
+[/us/act/1926-07-02/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725
 [/us/stat/44/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F802
-[/us/act/1953-08-06/ch335/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-06%2Fch335%2Fs9
+[/us/act/1953-08-06/ch335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-06%2Fch335
 [/us/stat/67/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F394
 [/us/stat/53/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1423
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241

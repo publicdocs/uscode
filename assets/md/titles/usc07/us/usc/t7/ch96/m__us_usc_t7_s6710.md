@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1997, to carry out this chapter.
 
-([Pub. L. 101–624, title XXIV, § 2412][/us/pl/101/624/s2412], Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 104–127, title VIII, § 843][/us/pl/104/127/s843], Apr. 4, 1996, [110 Stat. 1170][/us/stat/110/1170].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2412, Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 843, Apr. 4, 1996, [110 Stat. 1170][/us/stat/110/1170].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2412
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4062
-[/us/pl/104/127/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs843
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1170
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058

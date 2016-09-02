@@ -73,7 +73,7 @@
 
             Notwithstanding the requirements for making an annual contract payment specified in paragraphs (1) and (2), at the option of the owner or producer, the Secretary shall pay the full amount (or such portion as the owner or producer may specify) of the contract payment required to be paid for any of fiscal years 1999 through 2002 at such time or times during that fiscal year as the owner or producer may specify.
 
-([Pub. L. 104–127, title I, § 112][/us/pl/104/127/s112], Apr. 4, 1996, [110 Stat. 899][/us/stat/110/899]; [Pub. L. 105–228, § 2][/us/pl/105/228/s2], Aug. 12, 1998, [112 Stat. 1516][/us/stat/112/1516]; [Pub. L. 106–78, title VIII, § 811][/us/pl/106/78/s811], Oct. 22, 1999, [113 Stat. 1181][/us/stat/113/1181].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 112, Apr. 4, 1996, [110 Stat. 899][/us/stat/110/899]; [Pub. L. 105–228][/us/pl/105/228], § 2, Aug. 12, 1998, [112 Stat. 1516][/us/stat/112/1516]; [Pub. L. 106–78, title VIII][/us/pl/106/78/tVIII], § 811, Oct. 22, 1999, [113 Stat. 1181][/us/stat/113/1181].)
 
  __Amendments__ 
 
@@ -83,11 +83,11 @@
 
  __Production Flexibility Contract Payments__ 
 
-[Pub. L. 106–170, title V, § 525][/us/pl/106/170/s525], Dec. 17, 1999, [113 Stat. 1928][/us/stat/113/1928], as amended by [Pub. L. 107–147, title IV, § 417(24)(A)][/us/pl/107/147/s417/24/A], Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57], provided that: 
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 525, Dec. 17, 1999, [113 Stat. 1928][/us/stat/113/1928], as amended by [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(24)(A), Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57], provided that: 
 
 > “Any option to accelerate the receipt of any payment under a production flexibility contract which is payable under the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7201][/us/usc/t7/s7201] et seq.), as in effect on the date of the enactment of this Act \[Dec. 17, 1999\], shall be disregarded in determining the taxable year for which such payment is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\].”
 
-[Pub. L. 105–277, div. J, title II, § 2012][/us/pl/105/277/s2012], Oct. 21, 1998, [112 Stat. 2681–902][/us/stat/112/2681-902], provided that:
+[Pub. L. 105–277, div. J, title II][/us/pl/105/277/dJ/tII], § 2012, Oct. 21, 1998, [112 Stat. 2681–902][/us/stat/112/2681-902], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -105,21 +105,21 @@
 ----------
 
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/pl/104/127/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs112
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F899
-[/us/pl/105/228/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F228%2Fs2
+[/us/pl/105/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F228
 [/us/stat/112/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1516
-[/us/pl/106/78/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs811
+[/us/pl/106/78/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVIII
 [/us/stat/113/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1181
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/105/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F228
-[/us/pl/106/170/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs525
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1928
-[/us/pl/107/147/s417/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F24%2FA
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F57
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/277/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2012
+[/us/pl/105/277/dJ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtII
 [/us/stat/112/2681-902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-902
 [/us/usc/t7/s7212/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7212%2Fd%2F2
 [/us/usc/t7/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7211

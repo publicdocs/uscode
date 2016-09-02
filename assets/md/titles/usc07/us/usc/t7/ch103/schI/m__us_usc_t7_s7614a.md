@@ -67,7 +67,7 @@
 
         (2) make the roadmap available to the public.
 
-([Pub. L. 110–234, title VII, § 7504][/us/pl/110/234/s7504], May 22, 2008, [122 Stat. 1257][/us/stat/122/1257]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2019.)
+([Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7504, May 22, 2008, [122 Stat. 1257][/us/stat/122/1257]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2019.)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 ----------
 
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
-[/us/pl/110/234/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7504
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1257
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

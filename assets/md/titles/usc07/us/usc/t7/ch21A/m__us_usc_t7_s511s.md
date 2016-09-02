@@ -33,7 +33,7 @@
 
         A determination by the Secretary under this section shall not be subject to judicial review.
 
-([Pub. L. 107–76, title VII, § 759(a)][/us/pl/107/76/s759/a], Nov. 28, 2001, [115 Stat. 741][/us/stat/115/741].)
+([Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 759(a), Nov. 28, 2001, [115 Stat. 741][/us/stat/115/741].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs511
-[/us/pl/107/76/s759/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs759%2Fa
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F741
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

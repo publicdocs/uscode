@@ -39,7 +39,7 @@
 
         On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under [section 2009bb–1(c) of this title][/us/usc/t7/s2009bb–1/c] shall be required for approval of the application.
 
-([Pub. L. 87–128, title III, § 383J][/us/pl/87/128/s383J], formerly § 383I, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 386][/us/stat/116/386]; renumbered § 383J and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (2)(E), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383J, formerly § 383I, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 386][/us/stat/116/386]; renumbered § 383J and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (2)(E), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2). [Pub. L. 110–246, § 6026(c)(2)(E)][/us/pl/110/246/s6026/c/2/E], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–7 of this title][/us/usc/t7/s2009bb–7].
+    2008—Subsec. (c)(2). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(E), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–7 of this title][/us/usc/t7/s2009bb–7].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -66,12 +66,12 @@
 
 [/us/usc/t7/s2009bb–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%937
 [/us/usc/t7/s2009bb–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%931%2Fc
-[/us/pl/87/128/s383J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383J
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F386
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -79,7 +79,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383J
 [/us/usc/t7/s2009bb–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%939
-[/us/pl/110/246/s6026/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%937
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

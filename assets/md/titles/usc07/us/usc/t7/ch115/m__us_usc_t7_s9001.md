@@ -17,7 +17,7 @@
 
     In this Act, the term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 113–79, § 2][/us/pl/113/79/s2], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].)
+([Pub. L. 113–79][/us/pl/113/79], § 2, Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 113–79, § 1(a)][/us/pl/113/79/s1/a], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], provided that: 
+[Pub. L. 113–79][/us/pl/113/79], § 1(a), Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Agricultural Act of 2014’.”
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/113/79/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
 
 

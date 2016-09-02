@@ -23,7 +23,7 @@
 
     (3) identifies market operations or activities in those industries that appear to raise concerns under this chapter.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 415, as added [Pub. L. 106–472, title III, § 312(e)(2)][/us/pl/106/472/s312/e/2], Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 415, as added [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 312(e)(2), Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/106/472/s312/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs312%2Fe%2F2
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2077
 [/us/usc/t7/s229c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs229c
 

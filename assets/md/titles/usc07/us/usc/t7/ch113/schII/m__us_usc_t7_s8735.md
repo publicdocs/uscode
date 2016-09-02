@@ -73,7 +73,7 @@
 
         The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
-([Pub. L. 110–234, title I, § 1205][/us/pl/110/234/s1205], May 22, 2008, [122 Stat. 958][/us/stat/122/958]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1686.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1205, May 22, 2008, [122 Stat. 958][/us/stat/122/958]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1686.)
 
  __Codification__ 
 
@@ -95,9 +95,9 @@
 [/us/usc/t7/s8734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8734
 [/us/usc/t7/s8732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8732
 [/us/usc/t7/s8734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8734
-[/us/pl/110/234/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1205
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F958
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

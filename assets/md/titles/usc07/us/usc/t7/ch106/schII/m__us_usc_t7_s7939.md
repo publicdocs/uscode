@@ -59,7 +59,7 @@
 
         Notwithstanding [section 7237 of this title][/us/usc/t7/s7237], recourse loans shall not be made for the 2002 crop of corn, grain sorghum, and seed cotton under such section.
 
-([Pub. L. 107–171, title I, § 1209][/us/pl/107/171/s1209], May 13, 2002, [116 Stat. 165][/us/stat/116/165].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1209, May 13, 2002, [116 Stat. 165][/us/stat/116/165].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t7/s7931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7931
 [/us/usc/t7/s7283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7283
 [/us/usc/t7/s7237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7237
-[/us/pl/107/171/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1209
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F165
 
 

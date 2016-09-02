@@ -97,7 +97,7 @@
 
             (B) the pro rata amount of allocation at the processing company holding the applicable allocation that equals the contribution of the grower to allocation of the processing company for the sugarcane acreage base being transferred.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359g, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 201][/us/stat/116/201]; amended [Pub. L. 110–234, title I, § 1403(g)][/us/pl/110/234/s1403/g], May 22, 2008, [122 Stat. 987][/us/stat/122/987]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1715.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359g, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 201][/us/stat/116/201]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(g), May 22, 2008, [122 Stat. 987][/us/stat/122/987]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1715.)
 
  __Codification__ 
 
@@ -105,15 +105,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1359gg, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359g, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3486][/us/stat/104/3486]; amended [Pub. L. 102–237, title I, § 111(i)][/us/pl/102/237/s111/i], Dec. 13, 1991, [105 Stat. 1835][/us/stat/105/1835], related to special rules, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359gg, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359g, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3486][/us/stat/104/3486]; amended [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(i), Dec. 13, 1991, [105 Stat. 1835][/us/stat/105/1835], related to special rules, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 1403(g)(1)][/us/pl/110/246/s1403/g/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under [section 1359ff(c) of this title][/us/usc/t7/s1359ff/c], the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under [section 1359ff(c) of this title][/us/usc/t7/s1359ff/c], the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
 
-    Subsec. (d)(1). [Pub. L. 110–246, § 1403(g)(2)(A)][/us/pl/110/246/s1403/g/2/A], inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
+    Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
 
-    Subsec. (d)(2). [Pub. L. 110–246, § 1403(g)(2)(B)][/us/pl/110/246/s1403/g/2/B], struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (d)(2). [Pub. L. 110–246][/us/pl/110/246], § 1403(g)(2)(B), struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) the number of acres of proportionate shares being transferred; and
 
@@ -137,26 +137,26 @@
 [/us/usc/t7/s1359ff/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359ff%2Fc
 [/us/usc/t7/s1359dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359dd
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F201
-[/us/pl/110/234/s1403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fg
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F987
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3486
-[/us/pl/102/237/s111/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Fi
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1835
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s1403/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fg%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1359ff/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359ff%2Fc
-[/us/pl/110/246/s1403/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fg%2F2%2FA
-[/us/pl/110/246/s1403/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Fg%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1359ff/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359ff%2Fc%2F3
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

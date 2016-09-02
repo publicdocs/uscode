@@ -29,7 +29,7 @@
 
         Moneys in the Fund, other than moneys appropriated or transferred under paragraph (1) of subsection (b), shall be available to the board, in such amounts, and for such activities authorized by this subchapter, as the Secretary may approve.
 
-([Pub. L. 98–180, title I, § 135][/us/pl/98/180/s135], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 135, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
 
 ----------
 
@@ -40,8 +40,8 @@
 
 [/us/usc/t7/s4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4532
 [/us/usc/t7/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4533
-[/us/pl/98/180/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs135
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1371
 
 

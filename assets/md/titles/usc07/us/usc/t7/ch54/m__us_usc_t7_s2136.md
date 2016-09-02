@@ -17,7 +17,7 @@
 
     Every research facility, every intermediate handler, every carrier, and every exhibitor not licensed under [section 2133 of this title][/us/usc/t7/s2133] shall register with the Secretary in accordance with such rules and regulations as he may prescribe.
 
-([Pub. L. 89–544, § 6][/us/pl/89/544/s6], Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579, § 7][/us/pl/91/579/s7], Dec. 24, 1970, [84 Stat. 1561][/us/stat/84/1561]; [Pub. L. 94–279, § 6][/us/pl/94/279/s6], Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
+([Pub. L. 89–544][/us/pl/89/544], § 6, Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579][/us/pl/91/579], § 7, Dec. 24, 1970, [84 Stat. 1561][/us/stat/84/1561]; [Pub. L. 94–279][/us/pl/94/279], § 6, Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t7/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2133
-[/us/pl/89/544/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs6
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F351
-[/us/pl/91/579/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs7
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1561
-[/us/pl/94/279/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs6
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F418
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579

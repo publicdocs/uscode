@@ -27,7 +27,7 @@
 
         Neither [section 136w–1 of this title][/us/usc/t7/s136w–1] nor this section shall limit the authority of the Administrator to enforce this subchapter, where the Administrator determines that emergency conditions exist that require immediate action on the part of the Administrator and the State authority is unwilling or unable adequately to respond to the emergency.
 
-([June 25, 1947, ch. 125, § 27][/us/act/1947-06-25/ch125/s27], as added [Pub. L. 95–396, § 24(2)][/us/pl/95/396/s24/2], Sept. 30, 1978, [92 Stat. 837][/us/stat/92/837]; amended [Pub. L. 100–532, title VIII, § 801(p)][/us/pl/100/532/s801/p], Oct. 25, 1988, [102 Stat. 2683][/us/stat/102/2683].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 27, as added [Pub. L. 95–396][/us/pl/95/396], § 24(2), Sept. 30, 1978, [92 Stat. 837][/us/stat/92/837]; amended [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(p), Oct. 25, 1988, [102 Stat. 2683][/us/stat/102/2683].)
 
  __Prior Provisions__ 
 
@@ -49,10 +49,10 @@
 ----------
 
 [/us/usc/t7/s136w–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%E2%80%931
-[/us/act/1947-06-25/ch125/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs27
-[/us/pl/95/396/s24/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs24%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F837
-[/us/pl/100/532/s801/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fp
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2683
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/usc/t7/s136y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136y

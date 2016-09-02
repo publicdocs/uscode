@@ -61,7 +61,7 @@
 
             An officer or employee of the Department who knowingly violates paragraph (1) shall be subject to the penalties described in [section 7484(i)(3)(C)(ii) of this title][/us/usc/t7/s7484/i/3/C/ii].
 
-([Pub. L. 104–127, title V, § 576][/us/pl/104/127/s576], Apr. 4, 1996, [110 Stat. 1081][/us/stat/110/1081].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 576, Apr. 4, 1996, [110 Stat. 1081][/us/stat/110/1081].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t7/s7483/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7483%2Fb%2F3
 [/us/usc/t7/s7483/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7483%2Fb
 [/us/usc/t7/s7484/i/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7484%2Fi%2F3%2FC%2Fii
-[/us/pl/104/127/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs576
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1081
 
 

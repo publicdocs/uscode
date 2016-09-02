@@ -1075,7 +1075,7 @@
 
         The order shall provide such terms and conditions, not inconsistent with this section, as are necessary to carry out the order, including provisions for the assessment of a penalty for the late payment of an assessment due under the order.
 
-([Pub. L. 103–407, § 5][/us/pl/103/407/s5], Oct. 22, 1994, [108 Stat. 4213][/us/stat/108/4213].)
+([Pub. L. 103–407][/us/pl/103/407], § 5, Oct. 22, 1994, [108 Stat. 4213][/us/stat/108/4213].)
 
 ----------
 
@@ -1084,7 +1084,7 @@
 ----------
 ----------
 
-[/us/pl/103/407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs5
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4213
 
 

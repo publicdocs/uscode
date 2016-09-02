@@ -17,7 +17,7 @@
 
     In this Act, the term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 110–234, § 2][/us/pl/110/234/s2], May 22, 2008, [122 Stat. 936][/us/stat/122/936]; [Pub. L. 110–246][/us/pl/110/246], §§ 2, 4(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].)
+([Pub. L. 110–234][/us/pl/110/234], § 2, May 22, 2008, [122 Stat. 936][/us/stat/122/936]; [Pub. L. 110–246][/us/pl/110/246], §§ 2, 4(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–246, § 4][/us/pl/110/246/s4], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], provided that:
+[Pub. L. 110–246][/us/pl/110/246], § 4, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–234, § 1(a)][/us/pl/110/234/s1/a], May 22, 2008, [122 Stat. 923][/us/stat/122/923], and [Pub. L. 110–246][/us/pl/110/246], §§ 1(a), 4(a), June 18, 2008, [122 Stat. 1651][/us/stat/122/1651], 1664, provided that: 
+[Pub. L. 110–234][/us/pl/110/234], § 1(a), May 22, 2008, [122 Stat. 923][/us/stat/122/923], and [Pub. L. 110–246][/us/pl/110/246], §§ 1(a), 4(a), June 18, 2008, [122 Stat. 1651][/us/stat/122/1651], 1664, provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Food, Conservation, and Energy Act of 2008’.”
 
@@ -55,7 +55,7 @@
 
  __1-Year Extension of Agricultural Programs__ 
 
-[Pub. L. 112–240, title VII, § 701][/us/pl/112/240/s701], Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
+[Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701, Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
 
 >     “(a)  __Extension__  __.—__ 
 
@@ -255,7 +255,7 @@
 
  __Applicability of Explanatory Statement in House Report 110–627 to__  __[__  __Pub. L. 110–246__  __][/us/pl/110/246]__ 
 
-[Pub. L. 110–246, § 3][/us/pl/110/246/s3], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], provided that: 
+[Pub. L. 110–246][/us/pl/110/246], § 3, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], provided that: 
 
 > “The Joint Explanatory Statement submitted by the Committee of Conference for the conference report to accompany H.R. 2419 of the 110th Congress (House Report 110–627) shall be deemed to be part of the legislative history of this Act \[[Pub. L. 110–246][/us/pl/110/246], see Tables for classification\] and shall have the same effect with respect to the implementation of this Act as it would have had with respect to the implementation of H.R. 2419 \[enacted as [Pub. L. 110–234][/us/pl/110/234]\].”
 
@@ -266,7 +266,7 @@
 ----------
 ----------
 
-[/us/pl/110/234/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2
+[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/stat/122/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F936
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
@@ -277,11 +277,11 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1%2Fa
+[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/stat/122/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F923
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
@@ -289,7 +289,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/112/240/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2362
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
@@ -345,7 +345,7 @@
 [/us/stat/122/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2246
 [/us/usc/t19/s2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2497
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

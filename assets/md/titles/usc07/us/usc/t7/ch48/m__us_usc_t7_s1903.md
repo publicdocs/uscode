@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1902.md) | [Next](./../../../..//us/usc/t7/ch48/m__us_usc_t7_s1904.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1903)
 
-## § 1903. Repealed. [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]
+## § 1903. Repealed. [Pub. L. 95–445][/us/pl/95/445], § 5(b), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]
 
-    Section, [Pub. L. 85–765, § 3][/us/pl/85/765/s3], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], related to limitations on Government procurement and price support, modifications during national emergency, and statements of eligibility.
+    Section, [Pub. L. 85–765][/us/pl/85/765], § 3, Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], related to limitations on Government procurement and price support, modifications during national emergency, and statements of eligibility.
 
  __Effective Date of Repeal__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
-[/us/pl/85/765/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765%2Fs3
+[/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603

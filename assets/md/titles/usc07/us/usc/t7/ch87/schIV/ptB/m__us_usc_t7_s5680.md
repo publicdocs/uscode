@@ -57,7 +57,7 @@
 
             (D) $9,000,000 for each of fiscal years 2011 through 2018.
 
-([Pub. L. 107–171, title III, § 3205][/us/pl/107/171/s3205], May 13, 2002, [116 Stat. 301][/us/stat/116/301]; [Pub. L. 110–246, title III, § 3203][/us/pl/110/246/s3203], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III, § 3205(a)][/us/pl/113/79/s3205/a], (b), Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
+([Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3205, May 13, 2002, [116 Stat. 301][/us/stat/116/301]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3203, June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3205(a), (b), Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 3205(a)][/us/pl/113/79/s3205/a], substituted “technical barriers to trade” for “related barriers to trade”.
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 3205(a), substituted “technical barriers to trade” for “related barriers to trade”.
 
-    Subsec. (e)(2)(C) to (E). [Pub. L. 113–79, § 3205(b)][/us/pl/113/79/s3205/b], inserted “and” at end of subpar. (C), added subpar. (D), and struck out former subpars. (D) and (E) which read as follows:
+    Subsec. (e)(2)(C) to (E). [Pub. L. 113–79][/us/pl/113/79], § 3205(b), inserted “and” at end of subpar. (C), added subpar. (D), and struck out former subpars. (D) and (E) which read as follows:
 
     “(D) $9,000,000 for fiscal year 2011; and
 
@@ -86,14 +86,14 @@
 ----------
 ----------
 
-[/us/pl/107/171/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3205
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F301
-[/us/pl/110/246/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3203
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1837
-[/us/pl/113/79/s3205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fa
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
-[/us/pl/113/79/s3205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fa
-[/us/pl/113/79/s3205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

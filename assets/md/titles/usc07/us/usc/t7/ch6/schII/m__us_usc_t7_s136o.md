@@ -77,7 +77,7 @@
 
         The Secretary of the Treasury, in consultation with the Administrator, shall prescribe regulations for the enforcement of subsection (c) of this section.
 
-([June 25, 1947, ch. 125, § 17][/us/act/1947-06-25/ch125/s17], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 995][/us/stat/86/995]; amended [Pub. L. 95–396, § 18(a)][/us/pl/95/396/s18/a], Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833]; [Pub. L. 100–532, title VIII, § 801(j)][/us/pl/100/532/s801/j], Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X, § 1006(a)(9)][/us/pl/102/237/s1006/a/9], (b)(2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 110–234, title XIV, § 14209(a)][/us/pl/110/234/s14209/a], May 22, 2008, [122 Stat. 1463][/us/stat/122/1463]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14209(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2225; [Pub. L. 113–79, title X, § 10008][/us/pl/113/79/s10008], Feb. 7, 2014, [128 Stat. 948][/us/stat/128/948].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 17, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 995][/us/stat/86/995]; amended [Pub. L. 95–396][/us/pl/95/396], § 18(a), Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833]; [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(j), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(9), (b)(2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14209(a), May 22, 2008, [122 Stat. 1463][/us/stat/122/1463]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14209(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2225; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10008, Feb. 7, 2014, [128 Stat. 948][/us/stat/128/948].)
 
  __References in Text__ 
 
@@ -93,17 +93,17 @@
 
     2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 14209(a)][/us/pl/110/246/s14209/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 1006(a)(9)][/us/pl/102/237/s1006/a/9], removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
 
-    Subsec. (c). [Pub. L. 102–237, § 1006(b)(2)][/us/pl/102/237/s1006/b/2], substituted “the Administrator’s” for “his”.
+    Subsec. (c). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
     1988—Subsec. (c). [Pub. L. 100–532][/us/pl/100/532] substituted “prescribe. The Secretary” for “prescribe: Provided, That the Secretary” and “bond. All” for “bond: And provided further, That all”.
 
-    1978—Subsec. (a). [Pub. L. 95–396, § 18(a)(1)][/us/pl/95/396/s18/a/1], amended subsec. (a) generally.
+    1978—Subsec. (a). [Pub. L. 95–396][/us/pl/95/396], § 18(a)(1), amended subsec. (a) generally.
 
-    Subsec. (b). [Pub. L. 95–396, § 18(a)(2)][/us/pl/95/396/s18/a/2], inserted sentence at end relating to information to be included in notification.
+    Subsec. (b). [Pub. L. 95–396][/us/pl/95/396], § 18(a)(2), inserted sentence at end relating to information to be included in notification.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–396, § 18(b)][/us/pl/95/396/s18/b], Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833], provided that: 
+[Pub. L. 95–396][/us/pl/95/396], § 18(b), Sept. 30, 1978, [92 Stat. 833][/us/stat/92/833], provided that: 
 
 > “The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Sept. 30, 1978\].”
 
@@ -136,20 +136,20 @@
 [/us/usc/t7/s136c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136c
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 [/us/usc/t7/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1551
-[/us/act/1947-06-25/ch125/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs17
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F995
-[/us/pl/95/396/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs18%2Fa
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F833
-[/us/pl/100/532/s801/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fj
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2682
-[/us/pl/102/237/s1006/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F9
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
-[/us/pl/110/234/s14209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14209%2Fa
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1463
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s10008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10008
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F948
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
@@ -162,12 +162,12 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s14209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14209%2Fa
-[/us/pl/102/237/s1006/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F9
-[/us/pl/102/237/s1006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
-[/us/pl/95/396/s18/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs18%2Fa%2F1
-[/us/pl/95/396/s18/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs18%2Fa%2F2
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -176,7 +176,7 @@
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/95/396/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs18%2Fb
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F833
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

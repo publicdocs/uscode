@@ -17,7 +17,7 @@
 
     For the purposes of sections 439 to 439e of this title, the Secretary of Agriculture is authorized (a) to construct and provide additional facilities and equipment necessary to the operation of such plants, and to maintain, repair, and alter such plants; (b) to acquire property or rights or interest therein by purchase, lease, gift, transfer, condemnation, or otherwise; (c) to incur necessary administrative expenses, including personal services; and (d) to make such rules and regulations as may be necessary to carry out the purposes of said sections.
 
-([July 2, 1948, ch. 818, § 4][/us/act/1948-07-02/ch818/s4], [62 Stat. 1235][/us/stat/62/1235].)
+([July 2, 1948, ch. 818][/us/act/1948-07-02/ch818], § 4, [62 Stat. 1235][/us/stat/62/1235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-07-02/ch818/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818%2Fs4
+[/us/act/1948-07-02/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818
 [/us/stat/62/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1235
 
 

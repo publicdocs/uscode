@@ -17,7 +17,7 @@
 
     There is established in the Department of Agriculture a bureau to be known as the “Bureau of Dairy Industry.”
 
-([May 29, 1924, ch. 208, § 1][/us/act/1924-05-29/ch208/s1], [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
+([May 29, 1924, ch. 208][/us/act/1924-05-29/ch208], § 1, [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
 
  __Change of Name__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1924-05-29/ch208/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208%2Fs1
+[/us/act/1924-05-29/ch208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208
 [/us/stat/43/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F243
 [/us/act/1926-05-11/ch286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-11%2Fch286
 [/us/stat/44/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F499

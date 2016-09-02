@@ -63,7 +63,7 @@
 
         (2) provides for the control of production or otherwise limits the right of any individual processor to produce popcorn.
 
-([Pub. L. 104–127, title V, § 572][/us/pl/104/127/s572], Apr. 4, 1996, [110 Stat. 1074][/us/stat/110/1074].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 572, Apr. 4, 1996, [110 Stat. 1074][/us/stat/110/1074].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs572
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1074
 
 

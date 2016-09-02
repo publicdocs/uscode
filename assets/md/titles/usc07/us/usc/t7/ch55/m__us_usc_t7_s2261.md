@@ -11,29 +11,29 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2259.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2260 _us_usc_t7_s2260a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
 
 ## § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs
 
     In the conduct of foreign market development programs, the Secretary of Agriculture is authorized to credit contributions from individuals, firms, associations, agencies, and other groups, and the proceeds received from space rentals, and sales of products and materials at exhibitions, to the appropriations charged with the cost of acquiring such space, products, and materials.
 
-([Pub. L. 87–128, title II, § 203][/us/pl/87/128/s203], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307].)
+([Pub. L. 87–128, title II][/us/pl/87/128/tII], § 203, Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 577 of Title 5][/us/usc/t5/s577] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 577 of Title 5][/us/usc/t5/s577] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2259.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2260 _us_usc_t7_s2260a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
 
 ----------
 ----------
 
-[/us/pl/87/128/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs203
+[/us/pl/87/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t5/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs577
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

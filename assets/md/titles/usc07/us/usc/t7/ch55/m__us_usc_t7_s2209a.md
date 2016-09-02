@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, advances of money to chiefs of field parties from any appropriation for the Department of Agriculture may be made by authority of the Secretary of Agriculture.
 
-([Pub. L. 102–142, title VII, § 706][/us/pl/102/142/s706], Oct. 28, 1991, [105 Stat. 911][/us/stat/105/911].)
+([Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 706, Oct. 28, 1991, [105 Stat. 911][/us/stat/105/911].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/142/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs706
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F911
 
 

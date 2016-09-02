@@ -101,7 +101,7 @@
 
             The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
 
-([Pub. L. 101–624, title XXI, § 2107][/us/pl/101/624/s2107], Nov. 28, 1990, [104 Stat. 3938][/us/stat/104/3938]; [Pub. L. 105–185, title VI, § 601(a)][/us/pl/105/185/s601/a], June 23, 1998, [112 Stat. 585][/us/stat/112/585]; [Pub. L. 108–11, title II, § 2105][/us/pl/108/11/s2105], Apr. 16, 2003, [117 Stat. 589][/us/stat/117/589]; [Pub. L. 113–79, title X, § 10005(b)(2)][/us/pl/113/79/s10005/b/2], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2107, Nov. 28, 1990, [104 Stat. 3938][/us/stat/104/3938]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 601(a), June 23, 1998, [112 Stat. 585][/us/stat/112/585]; [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2105, Apr. 16, 2003, [117 Stat. 589][/us/stat/117/589]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10005(b)(2), Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
 
@@ -123,13 +123,13 @@
 [/us/usc/t7/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6511
 [/us/usc/t7/s6518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6518
 [/us/usc/t7/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6507
-[/us/pl/101/624/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2107
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3938
-[/us/pl/105/185/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs601%2Fa
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
-[/us/pl/108/11/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2105
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
 [/us/stat/117/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F589
-[/us/pl/113/79/s10005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F2
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11

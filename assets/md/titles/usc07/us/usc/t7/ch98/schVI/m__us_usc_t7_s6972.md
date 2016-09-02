@@ -17,7 +17,7 @@
 
     In making the personnel reductions required under [section 6913 of this title][/us/usc/t7/s6913], the Secretary shall reduce the number of Federal research and education personnel of the Department by a percentage equal to at least the percentage of overall Department personnel reductions. The Secretary shall achieve such reduction in research and education personnel in a manner that minimizes duplication and maximizes coordination between Federal and State research and extension activities.
 
-([Pub. L. 103–354, title II, § 252][/us/pl/103/354/s252], Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 252, Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s6913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6913
-[/us/pl/103/354/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs252
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3227
 
 

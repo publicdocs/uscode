@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444f–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%933)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445...1445–2.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%933)
 
 ## § 1445–3. Purchase of inventory stock
 
@@ -181,13 +181,13 @@
 
         The limitations on disclosure set forth in subsections (c) and (d) of section 1314g 1 of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) 1 of this title.
 
-([Pub. L. 99–272, title I, § 1109][/us/pl/99/272/s1109], Apr. 7, 1986, [100 Stat. 95][/us/stat/100/95]; [Pub. L. 107–296, title XI, § 1112(b)][/us/pl/107/296/s1112/b], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
+([Pub. L. 99–272, title I][/us/pl/99/272/tI], § 1109, Apr. 7, 1986, [100 Stat. 95][/us/stat/100/95]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(b), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
 
  __References in Text__ 
 
     This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§ 1101–1112) of title I of [Pub. L. 99–272][/us/pl/99/272], Apr. 7, 1986, [100 Stat. 83][/us/stat/100/83], which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
 
-    [Section 1314g of this title][/us/usc/t7/s1314g], referred to in subsec. (e), was repealed by [Pub. L. 108–357, title VI, § 611(a)][/us/pl/108/357/s611/a], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].
+    [Section 1314g of this title][/us/usc/t7/s1314g], referred to in subsec. (e), was repealed by [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(a), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].
 
  __Codification__ 
 
@@ -207,19 +207,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1444f–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%933)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445...1445–2.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%933)
 
 ----------
 ----------
 
-[/us/pl/99/272/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1109
+[/us/pl/99/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtI
 [/us/stat/100/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F95
-[/us/pl/107/296/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fb
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/stat/100/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F83
 [/us/usc/t7/s1314g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314g
-[/us/pl/108/357/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fa
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

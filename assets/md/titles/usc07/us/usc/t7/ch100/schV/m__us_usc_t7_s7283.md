@@ -23,7 +23,7 @@
 
         For purposes of this section, raw cane sugar, refined beet sugar, and in-process sugar eligible for a loan under [section 7272 of this title][/us/usc/t7/s7272] shall not be considered an agricultural commodity.
 
-([Pub. L. 104–127, title I, § 163][/us/pl/104/127/s163], Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I, § 1401(c)][/us/pl/107/171/s1401/c], May 13, 2002, [116 Stat. 187][/us/stat/116/187].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 163, Apr. 4, 1996, [110 Stat. 935][/us/stat/110/935]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1401(c), May 13, 2002, [116 Stat. 187][/us/stat/116/187].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
-[/us/pl/104/127/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs163
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F935
-[/us/pl/107/171/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1401%2Fc
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F187
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

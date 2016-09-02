@@ -101,7 +101,7 @@
 
         Notwithstanding any other provision of law, the full amount of any funds appropriated or otherwise made available to carry out cooperative projects under the arrangement entered into between the Secretary and the Government of Israel to support the Israel-United States Binational Agricultural Research and Development Fund shall be paid directly to the Fund.
 
-([Pub. L. 95–113, title XIV, § 1458][/us/pl/95/113/s1458], Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV, § 1436][/us/pl/97/98/s1436], Dec. 22, 1981, [95 Stat. 1313][/us/stat/95/1313]; [Pub. L. 99–198, title XIV, § 1418][/us/pl/99/198/s1418], Dec. 23, 1985, [99 Stat. 1550][/us/stat/99/1550]; [Pub. L. 101–624, title XVI, § 1613(a)][/us/pl/101/624/s1613/a], (b), (d)(1), Nov. 28, 1990, [104 Stat. 3724][/us/stat/104/3724], 3726; [Pub. L. 102–237, title IV, § 402(11)][/us/pl/102/237/s402/11], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII, § 816][/us/pl/104/127/s816], Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title II, § 227(a)][/us/pl/105/185/s227/a]–(d), June 23, 1998, [112 Stat. 543–545][/us/stat/112/543-545]; [Pub. L. 107–171, title VII, § 7209(c)][/us/pl/107/171/s7209/c], May 13, 2002, [116 Stat. 445][/us/stat/116/445]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7130, 7511(c)(10)(B), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7130, 7511(c)(10)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2029.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1458, Sept. 29, 1977, [91 Stat. 1015][/us/stat/91/1015]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1436, Dec. 22, 1981, [95 Stat. 1313][/us/stat/95/1313]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1418, Dec. 23, 1985, [99 Stat. 1550][/us/stat/99/1550]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1613(a), (b), (d)(1), Nov. 28, 1990, [104 Stat. 3724][/us/stat/104/3724], 3726; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 402(11), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 816, Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 227(a)–(d), June 23, 1998, [112 Stat. 543–545][/us/stat/112/543-545]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7209(c), May 13, 2002, [116 Stat. 445][/us/stat/116/445]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7130, 7511(c)(10)(B), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1268; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7130, 7511(c)(10)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2029.)
 
  __Codification__ 
 
@@ -109,53 +109,53 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(C). [Pub. L. 110–246, § 7130(1)][/us/pl/110/246/s7130/1], added subpar. (C).
+    2008—Subsec. (a)(1)(C). [Pub. L. 110–246][/us/pl/110/246], § 7130(1), added subpar. (C).
 
-    Subsec. (a)(3). [Pub. L. 110–246, § 7130(2)][/us/pl/110/246/s7130/2], added par. (3) and struck out former par. (3) which read as follows: “enter into agreements with land-grant colleges and universities, the Agency for International Development, and international organizations (such as the United Nations, World Bank, regional development banks, the International Agricultural Research Center), or other organizations, institutions or individuals with comparable goals, to promote and support the development of a viable and sustainable global agricultural system;”.
+    Subsec. (a)(3). [Pub. L. 110–246][/us/pl/110/246], § 7130(2), added par. (3) and struck out former par. (3) which read as follows: “enter into agreements with land-grant colleges and universities, the Agency for International Development, and international organizations (such as the United Nations, World Bank, regional development banks, the International Agricultural Research Center), or other organizations, institutions or individuals with comparable goals, to promote and support the development of a viable and sustainable global agricultural system;”.
 
-    Subsec. (a)(7)(A). [Pub. L. 110–246, § 7130(3)][/us/pl/110/246/s7130/3], substituted “, land-grant colleges and universities, and Hispanic-serving agricultural colleges and universities” for “and land-grant colleges and universities”.
+    Subsec. (a)(7)(A). [Pub. L. 110–246][/us/pl/110/246], § 7130(3), substituted “, land-grant colleges and universities, and Hispanic-serving agricultural colleges and universities” for “and land-grant colleges and universities”.
 
-    Subsec. (a)(9)(A). [Pub. L. 110–246, § 7130(4)(A)][/us/pl/110/246/s7130/4/A], substituted “, Hispanic-serving agricultural colleges and universities, or other colleges and universities” for “or other colleges and universities”.
+    Subsec. (a)(9)(A). [Pub. L. 110–246][/us/pl/110/246], § 7130(4)(A), substituted “, Hispanic-serving agricultural colleges and universities, or other colleges and universities” for “or other colleges and universities”.
 
-    Subsec. (a)(10). [Pub. L. 110–246, § 7511(c)(10)(B)][/us/pl/110/246/s7511/c/10/B], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+    Subsec. (a)(10). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(10)(B), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
-    Subsec. (a)(11). [Pub. L. 110–246, § 7130(4)(B)][/us/pl/110/246/s7130/4/B]–(6), added par. (11).
+    Subsec. (a)(11). [Pub. L. 110–246][/us/pl/110/246], § 7130(4)(B)–(6), added par. (11).
 
     2002—Subsec. (a)(10). [Pub. L. 107–171][/us/pl/107/171] added par. (10).
 
-    1998—[Pub. L. 105–185, § 227(a)(1)][/us/pl/105/185/s227/a/1], substituted “research, extension, and teaching” for “research and extension” in section catchline.
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 105–185, § 227(a)(2)(A)(i)][/us/pl/105/185/s227/a/2/A/i], substituted “related research, extension, and teaching” for “related research and extension” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(A)(i), substituted “related research, extension, and teaching” for “related research and extension” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 105–185, § 227(a)(2)(A)(ii)][/us/pl/105/185/s227/a/2/A/ii], substituted “research, extension, and teaching activities that address” for “research and extension on”.
+    Subsec. (a)(1)(B). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(A)(ii), substituted “research, extension, and teaching activities that address” for “research and extension on”.
 
-    Subsec. (a)(2). [Pub. L. 105–185, § 227(a)(2)(B)][/us/pl/105/185/s227/a/2/B], substituted “teaching” for “education”.
+    Subsec. (a)(2). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(B), substituted “teaching” for “education”.
 
-    Subsec. (a)(4). [Pub. L. 105–185, § 227(a)(2)(C)][/us/pl/105/185/s227/a/2/C], substituted “science and education experts” for “scientists and experts”.
+    Subsec. (a)(4). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(C), substituted “science and education experts” for “scientists and experts”.
 
-    Subsec. (a)(5). [Pub. L. 105–185, § 227(a)(2)(D)][/us/pl/105/185/s227/a/2/D], inserted “teaching,” after “development,”.
+    Subsec. (a)(5). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(D), inserted “teaching,” after “development,”.
 
-    Subsec. (a)(6). [Pub. L. 105–185, § 227(a)(2)(B)][/us/pl/105/185/s227/a/2/B], substituted “teaching” for “education”.
+    Subsec. (a)(6). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(B), substituted “teaching” for “education”.
 
-    Subsec. (a)(7). [Pub. L. 105–185, § 227(a)(2)(E)][/us/pl/105/185/s227/a/2/E], substituted “research, extension, and teaching programs” for “research and extension that is”.
+    Subsec. (a)(7). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(E), substituted “research, extension, and teaching programs” for “research and extension that is”.
 
-    Subsec. (a)(8). [Pub. L. 105–185, § 227(a)(2)(F)][/us/pl/105/185/s227/a/2/F], substituted “research, extension, and teaching capabilities” for “research capabilities”.
+    Subsec. (a)(8). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(2)(F), substituted “research, extension, and teaching capabilities” for “research capabilities”.
 
-    Subsec. (a)(9). [Pub. L. 105–185, § 227(b)][/us/pl/105/185/s227/b], added par. (9).
+    Subsec. (a)(9). [Pub. L. 105–185][/us/pl/105/185], § 227(b), added par. (9).
 
-    Subsec. (b). [Pub. L. 105–185, § 227(a)(3)][/us/pl/105/185/s227/a/3], substituted “counterpart research, extension, and teaching agencies” for “counterpart agencies”.
+    Subsec. (b). [Pub. L. 105–185][/us/pl/105/185], § 227(a)(3), substituted “counterpart research, extension, and teaching agencies” for “counterpart agencies”.
 
-    Subsec. (d). [Pub. L. 105–185, § 227(c)][/us/pl/105/185/s227/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–185][/us/pl/105/185], § 227(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 105–185, § 227(d)][/us/pl/105/185/s227/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–185][/us/pl/105/185], § 227(d), added subsec. (e).
 
     1996—Subsec. (a)(8). [Pub. L. 104–127][/us/pl/104/127] substituted “continue” for “establish” after “(8)” and struck out “to be” before “coordinated”.
 
     1991—Subsec. (a)(3). [Pub. L. 102–237][/us/pl/102/237] substituted a semicolon for period at end.
 
-    1990—[Pub. L. 101–624, § 1613(d)(1)(A)][/us/pl/101/624/s1613/d/1/A], inserted section catchline.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 1613(d)(1)(A), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 101–624, § 1613(a)][/us/pl/101/624/s1613/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
     “(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated research and extension on problems of significance to food and agriculture in the United States;
 
@@ -167,9 +167,9 @@
 
     “(5) further develop within the Department of Agriculture highly qualified and experienced scientists who specialize in international programs, to be available for the activities described in this section.”
 
-    Subsec. (b). [Pub. L. 101–624, § 1613(d)(1)(B)][/us/pl/101/624/s1613/d/1/B], inserted heading.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1613(d)(1)(B), inserted heading.
 
-    Subsec. (c). [Pub. L. 101–624, § 1613(b)][/us/pl/101/624/s1613/b], (d)(1)(C), inserted heading and “and other nongovernmental organizations” after “universities”.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1613(b), (d)(1)(C), inserted heading and “and other nongovernmental organizations” after “universities”.
 
     1985—Subsec. (a)(3). [Pub. L. 99–198][/us/pl/99/198] substituted “providing technical assistance, training, and advice to” for “the training of”.
 
@@ -198,56 +198,56 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1458
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1015
-[/us/pl/97/98/s1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1436
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1313
-[/us/pl/99/198/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1418
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1550
-[/us/pl/101/624/s1613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1613%2Fa
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3724
-[/us/pl/102/237/s402/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs402%2F11
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs816
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1167
-[/us/pl/105/185/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/543-545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F543-545
-[/us/pl/107/171/s7209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7209%2Fc
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F445
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7130/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7130%2F1
-[/us/pl/110/246/s7130/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7130%2F2
-[/us/pl/110/246/s7130/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7130%2F3
-[/us/pl/110/246/s7130/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7130%2F4%2FA
-[/us/pl/110/246/s7511/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F10%2FB
-[/us/pl/110/246/s7130/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7130%2F4%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/105/185/s227/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F1
-[/us/pl/105/185/s227/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FA%2Fi
-[/us/pl/105/185/s227/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FA%2Fii
-[/us/pl/105/185/s227/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FB
-[/us/pl/105/185/s227/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FC
-[/us/pl/105/185/s227/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FD
-[/us/pl/105/185/s227/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FB
-[/us/pl/105/185/s227/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FE
-[/us/pl/105/185/s227/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F2%2FF
-[/us/pl/105/185/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fb
-[/us/pl/105/185/s227/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fa%2F3
-[/us/pl/105/185/s227/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fc
-[/us/pl/105/185/s227/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs227%2Fd
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1613/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1613%2Fd%2F1%2FA
-[/us/pl/101/624/s1613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1613%2Fa
-[/us/pl/101/624/s1613/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1613%2Fd%2F1%2FB
-[/us/pl/101/624/s1613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1613%2Fb
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

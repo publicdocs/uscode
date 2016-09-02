@@ -91,11 +91,11 @@
 
         (2) may not be regulated as an insurance contract under the law of any State.
 
-([Sept. 21, 1922, ch. 369, § 12][/us/act/1922-09-21/ch369/s12], [42 Stat. 1003][/us/stat/42/1003]; [Pub. L. 93–463, title I, § 101(b)][/us/pl/93/463/s101/b], Oct. 23, 1974, [88 Stat. 1391][/us/stat/88/1391]; [Pub. L. 95–405, § 20][/us/pl/95/405/s20], Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II][/us/pl/97/444], §§ 228, 229, Jan. 11, 1983, [96 Stat. 2318][/us/stat/96/2318]; [Pub. L. 99–641, title I, § 106][/us/pl/99/641/s106], Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558]; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 216, 220(a), title III, §§ 302, 303, title IV, § 401, title V, § 502(c), Oct. 28, 1992, [106 Stat. 3611][/us/stat/106/3611], 3614, 3622, 3624, 3631; [Pub. L. 104–9, § 2][/us/pl/104/9/s2], Apr. 21, 1995, [109 Stat. 154][/us/stat/109/154]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 116, 117\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–402; [Pub. L. 110–234, title XIII, § 13104][/us/pl/110/234/s13104], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 722(b), 749(f), July 21, 2010, [124 Stat. 1673][/us/stat/124/1673], 1747.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 12, [42 Stat. 1003][/us/stat/42/1003]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 101(b), Oct. 23, 1974, [88 Stat. 1391][/us/stat/88/1391]; [Pub. L. 95–405][/us/pl/95/405], § 20, Sept. 30, 1978, [92 Stat. 875][/us/stat/92/875]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], §§ 228, 229, Jan. 11, 1983, [96 Stat. 2318][/us/stat/96/2318]; [Pub. L. 99–641, title I][/us/pl/99/641/tI], § 106, Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 216, 220(a), title III, §§ 302, 303, title IV, § 401, title V, § 502(c), Oct. 28, 1992, [106 Stat. 3611][/us/stat/106/3611], 3614, 3622, 3624, 3631; [Pub. L. 104–9][/us/pl/104/9], § 2, Apr. 21, 1995, [109 Stat. 154][/us/stat/109/154]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, §§ 116, 117\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–402; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13104, May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 722(b), 749(f), July 21, 2010, [124 Stat. 1673][/us/stat/124/1673], 1747.)
 
  __References in Text__ 
 
-    [Section 2(e) of this title][/us/usc/t7/s2/e] relating to the exclusion of electronic trading facilities, referred to in subsec. (e)(2)(A), was struck out by [Pub. L. 111–203, title VII, § 723(a)(1)(A)][/us/pl/111/203/s723/a/1/A], July 21, 2010, [124 Stat. 1675][/us/stat/124/1675].
+    [Section 2(e) of this title][/us/usc/t7/s2/e] relating to the exclusion of electronic trading facilities, referred to in subsec. (e)(2)(A), was struck out by [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 723(a)(1)(A), July 21, 2010, [124 Stat. 1675][/us/stat/124/1675].
 
  __Codification__ 
 
@@ -103,15 +103,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(2)(B). [Pub. L. 111–203, § 749(f)][/us/pl/111/203/s749/f], substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
+    2010—Subsec. (e)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 749(f), substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
 
-    Subsec. (h). [Pub. L. 111–203, § 722(b)][/us/pl/111/203/s722/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 722(b), added subsec. (h).
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 13104][/us/pl/110/246/s13104], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
 
-    2000—Subsec. (d). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 116\], substituted “2005” for “2000”.
+    2000—Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 116\], substituted “2005” for “2000”.
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 117\], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 117\], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
 
     1995—Subsec. (d). [Pub. L. 104–9][/us/pl/104/9] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter—
 
@@ -119,23 +119,23 @@
 
     “(2) $60,000,000 for fiscal year 1994.”
 
-    1992—Subsec. (a). [Pub. L. 102–546, § 302][/us/pl/102/546/s302], inserted “any foreign futures authority, any department or agency of a foreign government or political subdivision thereof,” after “thereof,”.
+    1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], § 302, inserted “any foreign futures authority, any department or agency of a foreign government or political subdivision thereof,” after “thereof,”.
 
-    Subsec. (b). [Pub. L. 102–546, § 216][/us/pl/102/546/s216], designated first through third sentences as pars. (1) to (3), respectively, and added par. (4).
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 216, designated first through third sentences as pars. (1) to (3), respectively, and added par. (4).
 
-    Subsec. (d). [Pub. L. 102–546, § 401][/us/pl/102/546/s401], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989.”
+    Subsec. (d). [Pub. L. 102–546][/us/pl/102/546], § 401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989.”
 
-    Subsec. (e)(2)(A). [Pub. L. 102–546, § 502(c)][/us/pl/102/546/s502/c], inserted “or, in the case of any State or local law that prohibits or regulates gaming or the operation of ‘bucket shops’ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of [section 6 of this title][/us/usc/t7/s6],” after “market,”.
+    Subsec. (e)(2)(A). [Pub. L. 102–546][/us/pl/102/546], § 502(c), inserted “or, in the case of any State or local law that prohibits or regulates gaming or the operation of ‘bucket shops’ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of [section 6 of this title][/us/usc/t7/s6],” after “market,”.
 
-    Subsec. (f). [Pub. L. 102–546, § 303][/us/pl/102/546/s303], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–546][/us/pl/102/546], § 303, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 102–546, § 220(a)][/us/pl/102/546/s220/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–546][/us/pl/102/546], § 220(a), added subsec. (g).
 
     1986—Subsec. (d). [Pub. L. 99–641][/us/pl/99/641] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be required for each of the fiscal years during the period beginning October 1, 1982, and ending September 30, 1986.”
 
-    1983—Subsec. (d). [Pub. L. 97–444, § 228][/us/pl/97/444/s228], substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
+    1983—Subsec. (d). [Pub. L. 97–444][/us/pl/97/444], § 228, substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
 
-    Subsec. (e). [Pub. L. 97–444, § 229][/us/pl/97/444/s229], added subsec. (e).
+    Subsec. (e). [Pub. L. 97–444][/us/pl/97/444], § 229, added subsec. (e).
 
     1978—Subsec. (d). [Pub. L. 95–405][/us/pl/95/405] substituted “for each of the fiscal years during the period beginning October 1, 1978, and ending September 30, 1982” for “for the fiscal year ending June 30, 1975, for the fiscal year ending June 30, 1976, for the fiscal year ending June 30, 1977, and for the fiscal year ending June 30, 1978”.
 
@@ -176,51 +176,51 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t7/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc
 [/us/usc/t7/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs22
-[/us/act/1922-09-21/ch369/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs12
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
-[/us/pl/93/463/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs101%2Fb
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1391
-[/us/pl/95/405/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs20
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F875
-[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2318
-[/us/pl/99/641/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs106
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3558
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3611
-[/us/pl/104/9/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F9%2Fs2
+[/us/pl/104/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F9
 [/us/stat/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F154
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13104
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1673
 [/us/usc/t7/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fe
-[/us/pl/111/203/s723/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs723%2Fa%2F1%2FA
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1675
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s749/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Ff
-[/us/pl/111/203/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Fb
-[/us/pl/110/246/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13104
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F9
-[/us/pl/102/546/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs302
-[/us/pl/102/546/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs216
-[/us/pl/102/546/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs401
-[/us/pl/102/546/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs502%2Fc
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/usc/t7/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6
-[/us/pl/102/546/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs303
-[/us/pl/102/546/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs220%2Fa
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
-[/us/pl/97/444/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs228
-[/us/pl/97/444/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs229
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109

@@ -71,7 +71,7 @@
 
             A member of the Regional Administrative Council or a technical committee may not participate in the discussion or recommendation of proposed projects if the member has or had a professional or business interest in, including the provision of consultancy services, the organization whose grant application is under review.
 
-([Pub. L. 101–624, title XVI, § 1622][/us/pl/101/624/s1622], Nov. 28, 1990, [104 Stat. 3736][/us/stat/104/3736]; [Pub. L. 104–127, title VIII, § 860(a)][/us/pl/104/127/s860/a], (b), Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII, § 7511(c)(15)][/us/pl/110/234/s7511/c/15], May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1622, Nov. 28, 1990, [104 Stat. 3736][/us/stat/104/3736]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 860(a), (b), Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(15), May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
 
  __Codification__ 
 
@@ -79,21 +79,21 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 7511(c)(15)(A)][/us/pl/110/246/s7511/c/15/A], substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service in close cooperation with the Extension Service”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(15)(A), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service in close cooperation with the Extension Service”.
 
-    Subsec. (b)(1)(B) to (L). [Pub. L. 110–246, § 7511(c)(15)(B)][/us/pl/110/246/s7511/c/15/B], added subpar. (B), redesignated former subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpars. (B) and (C) which read as follows:
+    Subsec. (b)(1)(B) to (L). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(15)(B), added subpar. (B), redesignated former subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) the Cooperative State Research Service;
 
     “(C) the Extension Service;”.
 
-    1996—Subsec. (a)(2) to (4). [Pub. L. 104–127, § 860(b)(1)][/us/pl/104/127/s860/b/1], redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “subsection (b)” for “subsection (e)” in par. (2), and struck out former par. (2) which read as follows: “establish the Advisory Council in accordance with subsection (c) of this section;”.
+    1996—Subsec. (a)(2) to (4). [Pub. L. 104–127][/us/pl/104/127], § 860(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “subsection (b)” for “subsection (e)” in par. (2), and struck out former par. (2) which read as follows: “establish the Advisory Council in accordance with subsection (c) of this section;”.
 
-    Subsec. (b). [Pub. L. 104–127, § 860(a)][/us/pl/104/127/s860/a], (b)(3), redesignated subsec. (e) as (b) and struck out former subsec. (b) which required Secretary, not later than Apr. 1, 1991, and each April 1 thereafter, to prepare and submit to congressional committees and to Advisory Council report describing results of programs carried out under sections 5811, 5813, and 5821 of this title and report describing progress of projects conducted under this subchapter.
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 860(a), (b)(3), redesignated subsec. (e) as (b) and struck out former subsec. (b) which required Secretary, not later than Apr. 1, 1991, and each April 1 thereafter, to prepare and submit to congressional committees and to Advisory Council report describing results of programs carried out under sections 5811, 5813, and 5821 of this title and report describing progress of projects conducted under this subchapter.
 
-    Subsec. (b)(2). [Pub. L. 104–127, § 860(b)(4)][/us/pl/104/127/s860/b/4], redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “make recommendations to the Advisory Council concerning research and extension projects that merit funding under sections 5811 and 5813 of this title;”.
+    Subsec. (b)(2). [Pub. L. 104–127][/us/pl/104/127], § 860(b)(4), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “make recommendations to the Advisory Council concerning research and extension projects that merit funding under sections 5811 and 5813 of this title;”.
 
-    Subsecs. (c) to (e). [Pub. L. 104–127, § 860(b)(2)][/us/pl/104/127/s860/b/2], (3), redesignated subsec. (e) as (b) and struck out subsec. (c) which provided for membership of the National Sustainable Agriculture Advisory Council and subsec. (d) which set forth responsibilities of Advisory Council.
+    Subsecs. (c) to (e). [Pub. L. 104–127][/us/pl/104/127], § 860(b)(2), (3), redesignated subsec. (e) as (b) and struck out subsec. (c) which provided for membership of the National Sustainable Agriculture Advisory Council and subsec. (d) which set forth responsibilities of Advisory Council.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -108,24 +108,24 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1622
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3736
-[/us/pl/104/127/s860/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1173
-[/us/pl/110/234/s7511/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F15
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1268
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F15%2FA
-[/us/pl/110/246/s7511/c/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F15%2FB
-[/us/pl/104/127/s860/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fb%2F1
-[/us/pl/104/127/s860/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fa
-[/us/pl/104/127/s860/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fb%2F4
-[/us/pl/104/127/s860/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fb%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

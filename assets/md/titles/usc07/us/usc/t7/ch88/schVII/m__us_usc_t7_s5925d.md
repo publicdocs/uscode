@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Agricultural Research Service (including the National Agricultural Library) and the Economic Research Service, shall facilitate access by research and extension professionals, farmers, and other interested persons in the United States to, and the use by those persons of, organic research conducted outside the United States.
 
-([Pub. L. 107–171, title VII, § 7408][/us/pl/107/171/s7408], May 13, 2002, [116 Stat. 461][/us/stat/116/461].)
+([Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7408, May 13, 2002, [116 Stat. 461][/us/stat/116/461].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7408
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F461
 [/us/pl/107/171/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7401%2F1
 [/us/usc/t7/s3319f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3319f

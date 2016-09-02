@@ -41,7 +41,7 @@
 
         There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-([Pub. L. 108–488, § 1][/us/pl/108/488/s1], Dec. 23, 2004, [118 Stat. 3964][/us/stat/118/3964].)
+([Pub. L. 108–488][/us/pl/108/488], § 1, Dec. 23, 2004, [118 Stat. 3964][/us/stat/118/3964].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F488%2Fs1
+[/us/pl/108/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F488
 [/us/stat/118/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3964
 
 

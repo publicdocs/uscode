@@ -97,7 +97,7 @@
 
         (5) any person who ships a substance or mixture of substances being put through tests in which the purpose is only to determine its value for pesticide purposes or to determine its toxicity or other properties and from which the user does not expect to receive any benefit in pest control from its use.
 
-([June 25, 1947, ch. 125, § 12][/us/act/1947-06-25/ch125/s12], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 989][/us/stat/86/989]; amended [Pub. L. 95–396, § 16][/us/pl/95/396/s16], Sept. 30, 1978, [92 Stat. 832][/us/stat/92/832]; [Pub. L. 100–532, title VI][/us/pl/100/532], §§ 601(b)(2), 603, title VIII, § 801(g), (q)(2)(B), Oct. 25, 1988, [102 Stat. 2677][/us/stat/102/2677], 2678, 2682, 2683; [Pub. L. 102–237, title X, § 1006(a)(7)][/us/pl/102/237/s1006/a/7], (b)(3)(L)–(O), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 12, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 989][/us/stat/86/989]; amended [Pub. L. 95–396][/us/pl/95/396], § 16, Sept. 30, 1978, [92 Stat. 832][/us/stat/92/832]; [Pub. L. 100–532, title VI][/us/pl/100/532/tVI], §§ 601(b)(2), 603, title VIII, § 801(g), (q)(2)(B), Oct. 25, 1988, [102 Stat. 2677][/us/stat/102/2677], 2678, 2682, 2683; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(7), (b)(3)(L)–(O), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
 
  __Prior Provisions__ 
 
@@ -105,37 +105,37 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a)(2)(C). [Pub. L. 102–237, § 1006(b)(3)(L)][/us/pl/102/237/s1006/b/3/L], substituted “the person’s” for “his” and “the person” for “he” before “received”.
+    1991—Subsec. (a)(2)(C). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(L), substituted “the person’s” for “his” and “the person” for “he” before “received”.
 
-    Subsec. (a)(2)(D). [Pub. L. 102–237, § 1006(b)(3)(M)][/us/pl/102/237/s1006/b/3/M], substituted “the person’s” for “his”.
+    Subsec. (a)(2)(D). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(M), substituted “the person’s” for “his”.
 
-    Subsec. (a)(2)(F). [Pub. L. 102–237, § 1006(a)(7)(A)][/us/pl/102/237/s1006/a/7/A], substituted “thereunder, except that it” for “thereunder. It”.
+    Subsec. (a)(2)(F). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(7)(A), substituted “thereunder, except that it” for “thereunder. It”.
 
-    Subsec. (a)(2)(O). [Pub. L. 102–237, § 1006(a)(7)(B)][/us/pl/102/237/s1006/a/7/B], struck out “or” after semicolon at end.
+    Subsec. (a)(2)(O). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(7)(B), struck out “or” after semicolon at end.
 
-    Subsec. (a)(2)(P). [Pub. L. 102–237, § 1006(a)(7)(C)][/us/pl/102/237/s1006/a/7/C], substituted a semicolon for period at end.
+    Subsec. (a)(2)(P). [Pub. L. 102–237][/us/pl/102/237], § 1006(a)(7)(C), substituted a semicolon for period at end.
 
-    Subsec. (b)(1). [Pub. L. 102–237, § 1006(b)(3)(N)][/us/pl/102/237/s1006/b/3/N], substituted “the person” for “he” after “from whom” and for “him” after “delivery to”.
+    Subsec. (b)(1). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(N), substituted “the person” for “he” after “from whom” and for “him” after “delivery to”.
 
-    Subsec. (b)(3). [Pub. L. 102–237, § 1006(b)(3)(O)][/us/pl/102/237/s1006/b/3/O], substituted “the official duties of the public official” for “his official duties”.
+    Subsec. (b)(3). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(3)(O), substituted “the official duties of the public official” for “his official duties”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–532, § 601(b)(2)(A)][/us/pl/100/532/s601/b/2/A], in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
+    1988—Subsec. (a)(1). [Pub. L. 100–532][/us/pl/100/532], § 601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
 
-    Subsec. (a)(1)(A). [Pub. L. 100–532, § 603(1)][/us/pl/100/532/s603/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under [section 136a of this title][/us/usc/t7/s136a], except as provided by [section 136d(a)(1) of this title][/us/usc/t7/s136d/a/1];”.
+    Subsec. (a)(1)(A). [Pub. L. 100–532][/us/pl/100/532], § 603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under [section 136a of this title][/us/usc/t7/s136a], except as provided by [section 136d(a)(1) of this title][/us/usc/t7/s136d/a/1];”.
 
-    Subsec. (a)(2)(B). [Pub. L. 100–532, § 603(2)(A)][/us/pl/100/532/s603/2/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to [section 136f of this title][/us/usc/t7/s136f], or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to [section 136g of this title][/us/usc/t7/s136g];”.
+    Subsec. (a)(2)(B). [Pub. L. 100–532][/us/pl/100/532], § 603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to [section 136f of this title][/us/usc/t7/s136f], or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to [section 136g of this title][/us/usc/t7/s136g];”.
 
     Subsec. (a)(2)(F). [Pub. L. 100–532][/us/pl/100/532], §§ 601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: Provided, That it”.
 
-    Subsec. (a)(2)(J). [Pub. L. 100–532, § 801(q)(2)(B)][/us/pl/100/532/s801/q/2/B], made a technical amendment to the reference to [section 136a–1 of this title][/us/usc/t7/s136a–1] to reflect the renumbering of the corresponding section of the original act.
+    Subsec. (a)(2)(J). [Pub. L. 100–532][/us/pl/100/532], § 801(q)(2)(B), made a technical amendment to the reference to [section 136a–1 of this title][/us/usc/t7/s136a–1] to reflect the renumbering of the corresponding section of the original act.
 
-    [Pub. L. 100–532, § 603(2)(B)][/us/pl/100/532/s603/2/B], added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under [section 136d of this title][/us/usc/t7/s136d];”.
+    [Pub. L. 100–532][/us/pl/100/532], § 603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under [section 136d of this title][/us/usc/t7/s136d];”.
 
-    Subsec. (a)(2)(K). [Pub. L. 100–532, § 603(2)(B)][/us/pl/100/532/s603/2/B], added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under [section 136d of this title][/us/usc/t7/s136d], except as provided by [section 136d(a)(1) of this title][/us/usc/t7/s136d/a/1];”.
+    Subsec. (a)(2)(K). [Pub. L. 100–532][/us/pl/100/532], § 603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under [section 136d of this title][/us/usc/t7/s136d], except as provided by [section 136d(a)(1) of this title][/us/usc/t7/s136d/a/1];”.
 
-    Subsec. (a)(2)(M). [Pub. L. 100–532, § 603(2)(C)][/us/pl/100/532/s603/2/C], substituted “this subchapter” for “[section 136f of this title][/us/usc/t7/s136f]”.
+    Subsec. (a)(2)(M). [Pub. L. 100–532][/us/pl/100/532], § 603(2)(C), substituted “this subchapter” for “[section 136f of this title][/us/usc/t7/s136f]”.
 
-    Subsec. (a)(2)(Q), (R), (S). [Pub. L. 100–532, § 603(2)(D)][/us/pl/100/532/s603/2/D], added subpars. (Q), (R), and (S).
+    Subsec. (a)(2)(Q), (R), (S). [Pub. L. 100–532][/us/pl/100/532], § 603(2)(D), added subpars. (Q), (R), and (S).
 
     1978—Subsec. (a)(2)(F). [Pub. L. 95–396][/us/pl/95/396] inserted proviso exempting from prohibition the sale, under regulations issued by the Administrator, of a restricted use pesticide to a person who is not a certified applicator for application by a certified applicator.
 
@@ -164,42 +164,42 @@
 [/us/usc/t7/s136d/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d%2Fg
 [/us/usc/t7/s136e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136e
 [/us/usc/t7/s136e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136e
-[/us/act/1947-06-25/ch125/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs12
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F989
-[/us/pl/95/396/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs16
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F832
-[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVI
 [/us/stat/102/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2677
-[/us/pl/102/237/s1006/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F7
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
 [/us/usc/t7/s135j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135j
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
-[/us/pl/102/237/s1006/b/3/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FL
-[/us/pl/102/237/s1006/b/3/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FM
-[/us/pl/102/237/s1006/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F7%2FA
-[/us/pl/102/237/s1006/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F7%2FB
-[/us/pl/102/237/s1006/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F7%2FC
-[/us/pl/102/237/s1006/b/3/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FN
-[/us/pl/102/237/s1006/b/3/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F3%2FO
-[/us/pl/100/532/s601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs601%2Fb%2F2%2FA
-[/us/pl/100/532/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a
 [/us/usc/t7/s136d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d%2Fa%2F1
-[/us/pl/100/532/s603/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F2%2FA
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136f
 [/us/usc/t7/s136g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136g
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
-[/us/pl/100/532/s801/q/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fq%2F2%2FB
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%E2%80%931
-[/us/pl/100/532/s603/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F2%2FB
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d
-[/us/pl/100/532/s603/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F2%2FB
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d
 [/us/usc/t7/s136d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d%2Fa%2F1
-[/us/pl/100/532/s603/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F2%2FC
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/usc/t7/s136f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136f
-[/us/pl/100/532/s603/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs603%2F2%2FD
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901

@@ -45,15 +45,15 @@
 
         (2) the Secretary of Homeland Security, with respect to an animal used for purposes of official inspections by the Department of Homeland Security.
 
-([Pub. L. 106–224, title V, § 501][/us/pl/106/224/s501], June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–296, title IV, § 421(h)][/us/pl/107/296/s421/h], Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
+([Pub. L. 106–224, title V][/us/pl/106/224/tV], § 501, June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 421(h), Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 421(h)(1)][/us/pl/107/296/s421/h/1], inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 421(h)(1), inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
 
-    Subsecs. (b) to (d)(1). [Pub. L. 107–296, § 421(h)(2)][/us/pl/107/296/s421/h/2], substituted “Secretary concerned” for “Secretary” wherever appearing.
+    Subsecs. (b) to (d)(1). [Pub. L. 107–296][/us/pl/107/296], § 421(h)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
 
-    Subsec. (e). [Pub. L. 107–296, § 421(h)(3)][/us/pl/107/296/s421/h/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–296][/us/pl/107/296], § 421(h)(3), added subsec. (e).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -67,13 +67,13 @@
 ----------
 
 [/us/usc/t7/s2279f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279f
-[/us/pl/106/224/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs501
+[/us/pl/106/224/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtV
 [/us/stat/114/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F455
-[/us/pl/107/296/s421/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421%2Fh
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2184
-[/us/pl/107/296/s421/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421%2Fh%2F1
-[/us/pl/107/296/s421/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421%2Fh%2F2
-[/us/pl/107/296/s421/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421%2Fh%2F3
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

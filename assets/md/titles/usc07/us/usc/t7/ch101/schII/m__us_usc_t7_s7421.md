@@ -27,7 +27,7 @@
 
         (2) as soon as practicable, suspend or terminate, as the case may be, activities under the order in an orderly manner.
 
-([Pub. L. 104–127, title V, § 522][/us/pl/104/127/s522], Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 522, Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t7/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417
 [/us/usc/t7/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417
-[/us/pl/104/127/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs522
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1047
 
 

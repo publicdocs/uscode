@@ -23,7 +23,7 @@
 
         A provision of this chapter or an amendment made by this chapter shall not affect the liability of any person under any provision of law as in effect before April 4, 1996.
 
-([Pub. L. 104–127, title I, § 172][/us/pl/104/127/s172], Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 172, Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs172
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F938
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 

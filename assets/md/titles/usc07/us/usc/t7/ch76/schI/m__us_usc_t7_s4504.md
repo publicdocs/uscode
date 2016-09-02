@@ -123,7 +123,7 @@
 
     (l) The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
-([Pub. L. 98–180, title I, § 113][/us/pl/98/180/s113], Nov. 29, 1983, [97 Stat. 1137][/us/stat/97/1137]; [Pub. L. 104–127, title I, § 152][/us/pl/104/127/s152], Apr. 4, 1996, [110 Stat. 922][/us/stat/110/922]; [Pub. L. 107–171, title I, § 1505(b)][/us/pl/107/171/s1505/b]–(e), May 13, 2002, [116 Stat. 208][/us/stat/116/208], 209; [Pub. L. 110–234, title I, § 1507(a)][/us/pl/110/234/s1507/a], (d)–(f), May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1507(a), (d)–(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725; [Pub. L. 113–79, title I, § 1426][/us/pl/113/79/s1426], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 113, Nov. 29, 1983, [97 Stat. 1137][/us/stat/97/1137]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 152, Apr. 4, 1996, [110 Stat. 922][/us/stat/110/922]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1505(b)–(e), May 13, 2002, [116 Stat. 208][/us/stat/116/208], 209; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1507(a), (d)–(f), May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1507(a), (d)–(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1426, Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __References in Text__ 
 
@@ -137,21 +137,21 @@
 
     2014—Subsec. (e)(2). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—Subsec. (e)(2). [Pub. L. 110–246, § 1507(a)][/us/pl/110/246/s1507/a], substituted “2012” for “2007”.
+    2008—Subsec. (e)(2). [Pub. L. 110–246][/us/pl/110/246], § 1507(a), substituted “2012” for “2007”.
 
-    Subsec. (g)(3). [Pub. L. 110–246, § 1507(d)][/us/pl/110/246/s1507/d], added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
+    Subsec. (g)(3). [Pub. L. 110–246][/us/pl/110/246], § 1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
 
-    Subsec. (g)(6)(B), (C). [Pub. L. 110–246, § 1507(e)][/us/pl/110/246/s1507/e], redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
+    Subsec. (g)(6)(B), (C). [Pub. L. 110–246][/us/pl/110/246], § 1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
 
-    Subsec. (g)(7). [Pub. L. 110–246, § 1507(f)][/us/pl/110/246/s1507/f], added par. (7).
+    Subsec. (g)(7). [Pub. L. 110–246][/us/pl/110/246], § 1507(f), added par. (7).
 
-    2002—Subsec. (b). [Pub. L. 107–171, § 1505(b)][/us/pl/107/171/s1505/b], inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
+    2002—Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
 
-    Subsec. (e). [Pub. L. 107–171, § 1505(c)][/us/pl/107/171/s1505/c], inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
 
-    Subsec. (g). [Pub. L. 107–171, § 1505(d)][/us/pl/107/171/s1505/d], inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted “for milk produced in the United States and imported dairy products” after “The rate of assessment” and “, as determined by the Secretary” before period at end in par. (3), and added par. (6).
+    Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 1505(d), inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted “for milk produced in the United States and imported dairy products” after “The rate of assessment” and “, as determined by the Secretary” before period at end in par. (3), and added par. (6).
 
-    Subsec. (k). [Pub. L. 107–171, § 1505(e)][/us/pl/107/171/s1505/e], substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
+    Subsec. (k). [Pub. L. 107–171][/us/pl/107/171], § 1505(e), substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
 
     1996—Subsec. (e). [Pub. L. 104–127][/us/pl/104/127] inserted at end “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
 
@@ -167,17 +167,17 @@
 ----------
 
 [/us/usc/t7/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4505
-[/us/pl/98/180/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs113
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1137
-[/us/pl/104/127/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs152
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F922
-[/us/pl/107/171/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fb
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F208
-[/us/pl/110/234/s1507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1507%2Fa
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F997
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1426
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -185,14 +185,14 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fa
-[/us/pl/110/246/s1507/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fd
-[/us/pl/110/246/s1507/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fe
-[/us/pl/110/246/s1507/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Ff
-[/us/pl/107/171/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fb
-[/us/pl/107/171/s1505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fc
-[/us/pl/107/171/s1505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fd
-[/us/pl/107/171/s1505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fe
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

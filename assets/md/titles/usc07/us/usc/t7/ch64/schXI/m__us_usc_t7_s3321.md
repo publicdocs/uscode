@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to promote research and extension activities of the institutions hereinafter referred to in [section 3322(b) of this title][/us/usc/t7/s3322/b], and to coordinate their efforts as an integral part in the implementation of the National Aquaculture Act of 1980 ([16 U.S.C. 2801][/us/usc/t16/s2801] et seq.) by encouraging landowners, individuals, and commercial institutions to develop aquaculture production and facilities and sound aquacultural practices that will, through research and technology transfer programs, provide for the increased production and marketing of aquacultural food products.
 
-([Pub. L. 95–113, title XIV, § 1474][/us/pl/95/113/s1474], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1474, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1440(a), Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 
 [/us/usc/t7/s3322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3322%2Fb
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
-[/us/pl/95/113/s1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1474
-[/us/pl/97/98/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1440%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1316
 [/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1198

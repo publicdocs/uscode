@@ -33,7 +33,7 @@
 
     (5) “region” means two or more States acting together to develop a coordinated regional subterminal facilities plan.
 
-([Pub. L. 96–358, § 3][/us/pl/96/358/s3], Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184].)
+([Pub. L. 96–358][/us/pl/96/358], § 3, Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/96/358/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358%2Fs3
+[/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1184
 [/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1184

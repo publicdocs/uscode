@@ -35,7 +35,7 @@
 
         (3) The study required by this subsection shall include recommendations for changes in research and extension policies or priorities, food safety programs and policies, and policies and procedures governing the approval, use, and monitoring of animal drugs.
 
-([Pub. L. 95–113, title XIV, § 1431][/us/pl/95/113/s1431], Sept. 29, 1977, [91 Stat. 1002][/us/stat/91/1002]; [Pub. L. 101–624, title XVI, § 1611(a)][/us/pl/101/624/s1611/a], Nov. 28, 1990, [104 Stat. 3720][/us/stat/104/3720]; [Pub. L. 113–79, title VII, § 7111(b)(3)(A)][/us/pl/113/79/s7111/b/3/A], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1431, Sept. 29, 1977, [91 Stat. 1002][/us/stat/91/1002]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1611(a), Nov. 28, 1990, [104 Stat. 3720][/us/stat/104/3720]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7111(b)(3)(A), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1431
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1002
-[/us/pl/101/624/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1611%2Fa
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3720
-[/us/pl/113/79/s7111/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F3%2FA
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

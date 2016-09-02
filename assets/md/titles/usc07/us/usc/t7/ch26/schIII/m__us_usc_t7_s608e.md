@@ -15,7 +15,7 @@
 
 ## § 608e. Repealed. [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(d), [62 Stat. 1258][/us/stat/62/1258]
 
-    Section, [act May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8e, as added [Aug. 24, 1935, ch. 641, § 6][/us/act/1935-08-24/ch641/s6], [49 Stat. 762][/us/stat/49/762]; amended [June 3, 1937, ch. 296, § 1][/us/act/1937-06-03/ch296/s1], [50 Stat. 246][/us/stat/50/246], related to determination of base period.
+    Section, [act May 12, 1933, ch. 25, title I][/us/act/1933-05-12/ch25/tI], § 8e, as added [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 6, [49 Stat. 762][/us/stat/49/762]; amended [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 1, [50 Stat. 246][/us/stat/50/246], related to determination of base period.
 
  __Effective Date of Repeal__ 
 
@@ -30,10 +30,10 @@
 
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1258
-[/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1935-08-24/ch641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs6
+[/us/act/1933-05-12/ch25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25%2FtI
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F762
-[/us/act/1937-06-03/ch296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs1
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301
 

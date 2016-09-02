@@ -27,7 +27,7 @@
 
         For each of the 2012 and subsequent crop years, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in the same manner as was used on the day before the date of enactment of this section.
 
-([Pub. L. 104–127, title I, § 167][/us/pl/104/127/s167], as added [Pub. L. 110–234, title I, § 1405][/us/pl/110/234/s1405], May 22, 2008, [122 Stat. 990][/us/stat/122/990], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1718.)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 167, as added [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1405, May 22, 2008, [122 Stat. 990][/us/stat/122/990], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1718.)
 
  __References in Text__ 
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/104/127/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs167
-[/us/pl/110/234/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1405
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F990
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

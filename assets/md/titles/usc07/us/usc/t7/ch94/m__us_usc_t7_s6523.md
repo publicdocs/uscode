@@ -43,7 +43,7 @@
 
             There is authorized to be appropriated to carry out this section $22,000,000 for fiscal year 2013, to remain available until expended.
 
-([Pub. L. 107–171, title X, § 10606][/us/pl/107/171/s10606], May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 110–234, title X, § 10301][/us/pl/110/234/s10301], May 22, 2008, [122 Stat. 1346][/us/stat/122/1346]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII, § 701(g)(3)][/us/pl/112/240/s701/g/3], Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X, § 10004(c)][/us/pl/113/79/s10004/c], Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10606, May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10301, May 22, 2008, [122 Stat. 1346][/us/stat/122/1346]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(g)(3), Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10004(c), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942].)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 
     2014—Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79] added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.”
 
-    2013—Subsec. (a). [Pub. L. 112–240, § 701(g)(3)(A)][/us/pl/112/240/s701/g/3/A], substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
+    2013—Subsec. (a). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
 
-    Subsec. (d). [Pub. L. 112–240, § 701(g)(3)(B)][/us/pl/112/240/s701/g/3/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(3)(B), added subsec. (d).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 10301(1)][/us/pl/110/246/s10301/1], substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
 
-    Subsec. (b)(2). [Pub. L. 110–246, § 10301(2)][/us/pl/110/246/s10301/2], substituted “$750” for “$500”.
+    Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 10301(2), substituted “$750” for “$500”.
 
-    Subsec. (c). [Pub. L. 110–246, § 10301(3)][/us/pl/110/246/s10301/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 10301(3), added subsec. (c).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -85,15 +85,15 @@
 ----------
 
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/107/171/s10606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10606
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F514
-[/us/pl/110/234/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10301
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1346
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F3
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2366
-[/us/pl/113/79/s10004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fc
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F942
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
@@ -103,11 +103,11 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/112/240/s701/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F3%2FA
-[/us/pl/112/240/s701/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F3%2FB
-[/us/pl/110/246/s10301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10301%2F1
-[/us/pl/110/246/s10301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10301%2F2
-[/us/pl/110/246/s10301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10301%2F3
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

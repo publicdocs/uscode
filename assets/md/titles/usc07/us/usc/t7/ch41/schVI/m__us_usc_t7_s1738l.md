@@ -23,7 +23,7 @@
 
         The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 613, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 613, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3662
 
 

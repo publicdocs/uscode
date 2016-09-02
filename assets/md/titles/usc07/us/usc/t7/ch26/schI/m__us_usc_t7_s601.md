@@ -25,13 +25,13 @@ For information regarding constitutionality of act May 12, 1933, and act Aug. 24
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–215, § 1][/us/pl/109/215/s1], Apr. 11, 2006, [120 Stat. 328][/us/stat/120/328], provided that: 
+[Pub. L. 109–215][/us/pl/109/215], § 1, Apr. 11, 2006, [120 Stat. 328][/us/stat/120/328], provided that: 
 
 > “This Act \[amending [section 608c of this title][/us/usc/t7/s608c] and enacting provisions set out as notes under [section 608c of this title][/us/usc/t7/s608c]\] may be cited as the ‘Milk Regulatory Equity Act of 2005’.”
 
  __Short Title__ 
 
-    [Act June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], title I, § 8(a), [48 Stat. 199][/us/stat/48/199], provided in part that title I of act May 12, 1933, which is classified to this chapter, may for all purposes be referred to as the “Agricultural Adjustment Act.”
+    [Act June 16, 1933, ch. 90, title I][/us/act/1933-06-16/ch90/tI], § 8(a), [48 Stat. 199][/us/stat/48/199], provided in part that title I of act May 12, 1933, which is classified to this chapter, may for all purposes be referred to as the “Agricultural Adjustment Act.”
 
  __Validity of Certain Sections Affirmed__ 
 
@@ -78,11 +78,11 @@ For information regarding constitutionality of act May 12, 1933, and act Aug. 24
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
-[/us/pl/109/215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs1
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
 [/us/stat/120/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F328
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
-[/us/act/1933-06-16/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch90
+[/us/act/1933-06-16/ch90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch90%2FtI
 [/us/stat/48/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F199
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246

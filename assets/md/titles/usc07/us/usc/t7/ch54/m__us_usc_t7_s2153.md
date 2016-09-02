@@ -17,7 +17,7 @@
 
     The Secretary shall charge, assess, and cause to be collected reasonable fees for licenses issued. Such fees shall be adjusted on an equitable basis taking into consideration the type and nature of the operations to be licensed and shall be deposited and covered into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as Congress may from time to time provide: Provided, That there is authorized to be appropriated to the Secretary of Agriculture for enforcement by the Department of Agriculture of the provisions of [section 2156 of this title][/us/usc/t7/s2156] an amount not to exceed $100,000 for the transition quarter ending September 30, 1976, and not to exceed $400,000 for each fiscal year thereafter.
 
-([Pub. L. 89–544, § 23][/us/pl/89/544/s23], Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353]; [Pub. L. 94–279, § 18][/us/pl/94/279/s18], Apr. 22, 1976, [90 Stat. 423][/us/stat/90/423].)
+([Pub. L. 89–544][/us/pl/89/544], § 23, Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353]; [Pub. L. 94–279][/us/pl/94/279], § 18, Apr. 22, 1976, [90 Stat. 423][/us/stat/90/423].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t7/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2156
-[/us/pl/89/544/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs23
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F353
-[/us/pl/94/279/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs18
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F423
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/usc/t7/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2156

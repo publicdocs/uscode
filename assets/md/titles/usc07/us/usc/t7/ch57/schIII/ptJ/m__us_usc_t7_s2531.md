@@ -23,7 +23,7 @@
 
     (d) An assignment, grant, conveyance or license shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it, or an acknowledgment thereof by the person giving such encumbrance that there is such encumbrance, is filed for recording in the Plant Variety Protection Office within one month from its date or at least one month prior to the date of such subsequent purchase or mortgage.
 
-([Pub. L. 91–577, title III, § 101][/us/pl/91/577/s101], Dec. 24, 1970, [84 Stat. 1554][/us/stat/84/1554].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 101, Dec. 24, 1970, [84 Stat. 1554][/us/stat/84/1554].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs101
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1554
 
 

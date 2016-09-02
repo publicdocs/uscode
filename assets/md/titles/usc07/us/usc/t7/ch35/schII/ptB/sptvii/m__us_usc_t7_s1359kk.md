@@ -43,7 +43,7 @@
 
             (B) if there is still a shortage of sugar in the United States market, and marketing of domestic sugar has been maximized, the Secretary may increase the tariff-rate quota for raw cane sugar if the further increase will not threaten to result in the forfeiture of sugar pledged as collateral for a loan under [section 7272 of this title][/us/usc/t7/s7272].
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359k, as added [Pub. L. 110–234, title I, § 1403(j)][/us/pl/110/234/s1403/j], May 22, 2008, [122 Stat. 988][/us/stat/122/988], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(j), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1717.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359k, as added [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(j), May 22, 2008, [122 Stat. 988][/us/stat/122/988], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(j), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1717.)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1359kk, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359k, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 204][/us/stat/116/204], related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by [Pub. L. 110–234, title I, § 1403(i)][/us/pl/110/234/s1403/i], May 22, 2008, [122 Stat. 988][/us/stat/122/988]; [Pub. L. 110–246, § 4][/us/pl/110/246/s4], title I, § 1403(i), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1716, effective May 22, 2008.
+    A prior section 1359kk, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359k, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 204][/us/stat/116/204], related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(i), May 22, 2008, [122 Stat. 988][/us/stat/122/988]; [Pub. L. 110–246][/us/pl/110/246], § 4, title I, § 1403(i), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1716, effective May 22, 2008.
 
  __Effective Date__ 
 
@@ -67,20 +67,20 @@
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/110/234/s1403/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fj
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F988
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F204
-[/us/pl/110/234/s1403/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fi
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F988
-[/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

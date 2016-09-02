@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 90–288, § 7][/us/pl/90/288/s7], Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
+([Pub. L. 90–288][/us/pl/90/288], § 7, Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/288/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs7
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F95
 
 

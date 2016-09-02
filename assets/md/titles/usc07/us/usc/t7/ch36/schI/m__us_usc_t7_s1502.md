@@ -123,7 +123,7 @@
 
             Nothing in this subchapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act ([7 U.S.C. 1][/us/usc/t7/s1] et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider’s risk under a plan or policy of insurance under this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 502, [52 Stat. 72][/us/stat/52/72]; [June 21, 1941, ch. 214, § 1][/us/act/1941-06-21/ch214/s1], [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440, § 4][/us/act/1947-08-01/ch440/s4], [61 Stat. 719][/us/stat/61/719]; [Pub. L. 103–354, title I, § 102(a)][/us/pl/103/354/s102/a], Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180]; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 122, 141, June 20, 2000, [114 Stat. 377][/us/stat/114/377], 389; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12001, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12001, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11001, 11016(a), 11027(a), Feb. 7, 2014, [128 Stat. 954][/us/stat/128/954], 963, 977.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 502, [52 Stat. 72][/us/stat/52/72]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], § 1, [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], § 4, [61 Stat. 719][/us/stat/61/719]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 102(a), Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180]; [Pub. L. 106–224, title I][/us/pl/106/224/tI], §§ 122, 141, June 20, 2000, [114 Stat. 377][/us/stat/114/377], 389; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12001, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12001, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], §§ 11001, 11016(a), 11027(a), Feb. 7, 2014, [128 Stat. 954][/us/stat/128/954], 963, 977.)
 
  __References in Text__ 
 
@@ -135,23 +135,23 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3) to (6). [Pub. L. 113–79, § 11016(a)][/us/pl/113/79/s11016/a], added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
+    2014—Subsec. (b)(3) to (6). [Pub. L. 113–79][/us/pl/113/79], § 11016(a), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
 
-    Subsec. (b)(7) to (10). [Pub. L. 113–79, § 11027(a)][/us/pl/113/79/s11027/a], added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
+    Subsec. (b)(7) to (10). [Pub. L. 113–79][/us/pl/113/79], § 11027(a), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
 
-    [Pub. L. 113–79, § 11016(a)(1)][/us/pl/113/79/s11016/a/1], redesignated pars. (6) to (9) as (7) to (10), respectively.
+    [Pub. L. 113–79][/us/pl/113/79], § 11016(a)(1), redesignated pars. (6) to (9) as (7) to (10), respectively.
 
-    Subsec. (b)(11). [Pub. L. 113–79, § 11027(a)(1)][/us/pl/113/79/s11027/a/1], redesignated par. (10) as (11).
+    Subsec. (b)(11). [Pub. L. 113–79][/us/pl/113/79], § 11027(a)(1), redesignated par. (10) as (11).
 
-    Subsec. (c)(4). [Pub. L. 113–79, § 11001][/us/pl/113/79/s11001], added par. (4).
+    Subsec. (c)(4). [Pub. L. 113–79][/us/pl/113/79], § 11001, added par. (4).
 
-    2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (b)(7) to (9). [Pub. L. 110–246, § 12001][/us/pl/110/246/s12001], added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+    Subsec. (b)(7) to (9). [Pub. L. 110–246][/us/pl/110/246], § 12001, added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-    2000—Subsec. (c). [Pub. L. 106–224, § 122][/us/pl/106/224/s122], added subsec. (c).
+    2000—Subsec. (c). [Pub. L. 106–224][/us/pl/106/224], § 122, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 106–224, § 141][/us/pl/106/224/s141], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–224][/us/pl/106/224], § 141, added subsec. (d).
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “Purpose and definitions” for “Declaration of purpose” in section catchline, designated existing text as subsec. (a) and added heading, and added subsec. (b).
 
@@ -165,7 +165,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–354, title I, § 120][/us/pl/103/354/s120], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208], provided that: 
+[Pub. L. 103–354, title I][/us/pl/103/354/tI], § 120, Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208], provided that: 
 
 > “Except as otherwise provided in this title, this title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending this section and sections 1441–2, 1444–2, 1444f, 1445b–3a, 1503 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and [section 1014 of Title 18][/us/usc/t18/s1014], Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1501, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] and the amendments made by this title shall become effective on the date of enactment of this Act \[Oct. 13, 1994\] and shall apply to the provision of crop insurance under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.) beginning with the 1995 crop year. With respect to the 1994 crop year, the Federal Crop Insurance Act (as in effect on the day before the date of enactment of this Act) shall continue to apply.”
 
@@ -185,19 +185,19 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
-[/us/act/1941-06-21/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-21%2Fch214%2Fs1
+[/us/act/1941-06-21/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-21%2Fch214
 [/us/stat/55/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F255
-[/us/act/1947-08-01/ch440/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440%2Fs4
+[/us/act/1947-08-01/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440
 [/us/stat/61/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F719
-[/us/pl/103/354/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fa
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3180
-[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F377
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1371
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F954
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -206,22 +206,22 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s11016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fa
-[/us/pl/113/79/s11027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fa
-[/us/pl/113/79/s11016/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fa%2F1
-[/us/pl/113/79/s11027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fa%2F1
-[/us/pl/113/79/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11001
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12001
-[/us/pl/106/224/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs122
-[/us/pl/106/224/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs141
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/103/354/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs120
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3208
 [/us/usc/t18/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1014
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421

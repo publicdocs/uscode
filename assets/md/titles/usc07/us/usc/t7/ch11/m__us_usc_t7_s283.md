@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may propagate bee-breeding stock and may release bee germ plasm to the public.
 
-([Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title I, § 103, [58 Stat. 735][/us/stat/58/735]; [Oct. 31, 1951, ch. 654, § 3(1)][/us/act/1951-10-31/ch654/s3/1], [65 Stat. 708][/us/stat/65/708]; [Pub. L. 97–98, title XI, § 1120][/us/pl/97/98/s1120], Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273].)
+([Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title I, § 103, [58 Stat. 735][/us/stat/58/735]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 3(1), [65 Stat. 708][/us/stat/65/708]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1120, Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273].)
 
  __Codification__ 
 
@@ -48,9 +48,9 @@ Provisions similar to this section were contained in the following prior Departm
 
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F735
-[/us/act/1951-10-31/ch654/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs3%2F1
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F708
-[/us/pl/97/98/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1120
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1273
 [/us/act/1944-06-28/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch296
 [/us/stat/58/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F439

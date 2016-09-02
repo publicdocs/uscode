@@ -17,7 +17,7 @@
 
     The Secretary may develop and implement a cooperative rangeland research program in coordination with the program carried out under the Renewable Resources Extension Act of 1978 \[[16 U.S.C. 1671][/us/usc/t16/s1671] et seq.\], to improve the production and quality of desirable native forages or introduced forages which are managed in a similar manner to native forages for livestock and wildlife. The program shall include studies of: (1) management of rangelands and agricultural land as integrated systems for more efficient utilization of crops and waste products in the production of food and fiber; (2) methods of managing rangeland watersheds to maximize efficient use of water and improve water yield, water quality, and water conservation, to protect against onsite and offsite damage of rangeland resources from floods, erosion, and other detrimental influences, and to remedy unsatisfactory and unstable rangeland conditions; (3) revegetation and rehabilitation of rangelands including the control of undesirable species of plants; and (4) such other matters as the Secretary considers appropriate.
 
-([Pub. L. 95–113, title XIV, § 1479][/us/pl/95/113/s1479], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1479, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1440(a), Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t16/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1671
-[/us/pl/95/113/s1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1479
-[/us/pl/97/98/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1440%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1318
 [/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
 [/us/stat/92/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F349

@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate rules and regulations requiring dealers, exhibitors, research facilities, and operators of auction sales subject to [section 2142 of this title][/us/usc/t7/s2142] to permit inspection of their animals and records at reasonable hours upon request by legally constituted law enforcement agencies in search of lost animals.
 
-([Pub. L. 89–544, § 17][/us/pl/89/544/s17], Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579, § 18][/us/pl/91/579/s18], Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564].)
+([Pub. L. 89–544][/us/pl/89/544], § 17, Aug. 24, 1966, [80 Stat. 352][/us/stat/80/352]; [Pub. L. 91–579][/us/pl/91/579], § 18, Dec. 24, 1970, [84 Stat. 1564][/us/stat/84/1564].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
-[/us/pl/89/544/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs17
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F352
-[/us/pl/91/579/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs18
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1564
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142

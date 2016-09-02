@@ -145,11 +145,11 @@
 
             (C) the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.).
 
-([Pub. L. 101–624, title XXI, § 2120][/us/pl/101/624/s2120], Nov. 28, 1990, [104 Stat. 3949][/us/stat/104/3949]; [Pub. L. 102–237, title X, § 1001(8)][/us/pl/102/237/s1001/8], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X, § 10005(c)][/us/pl/113/79/s10005/c], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2120, Nov. 28, 1990, [104 Stat. 3949][/us/stat/104/3949]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(8), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10005(c), Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __References in Text__ 
 
-    The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21][/us/usc/t21/s601] and Tables.
+    The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11015(a), June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21][/us/usc/t21/s601] and Tables.
 
     The Poultry Products Inspection Act, referred to in subsec. (c)(6)(A)(ii), is [Pub. L. 85–172][/us/pl/85/172], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441], which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of Title 21][/us/usc/t21/s451] and Tables.
 
@@ -179,16 +179,16 @@
 [/us/usc/t21/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1031
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/101/624/s2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2120
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3949
-[/us/pl/102/237/s1001/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F8
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/113/79/s10005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fc
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
 [/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172

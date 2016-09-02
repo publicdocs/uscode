@@ -39,7 +39,7 @@
 
         Notwithstanding [section 2008h of this title][/us/usc/t7/s2008h] or any other provision of this chapter, a borrower who receives assistance under this section shall not, as a result of the assistance, be considered to be delinquent or receiving debt forgiveness for purposes of receiving a direct or guaranteed loan under this chapter.
 
-([Pub. L. 87–128, title III, § 332][/us/pl/87/128/s332], as added [Pub. L. 108–375, div. A, title VI, § 664][/us/pl/108/375/s664], Oct. 28, 2004, [118 Stat. 1974][/us/stat/118/1974].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 332, as added [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 664, Oct. 28, 2004, [118 Stat. 1974][/us/stat/118/1974].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1982, [Pub. L. 87–128, title III, § 332][/us/pl/87/128/s332], Aug. 8, 1961, [75 Stat. 314][/us/stat/75/314]; [Pub. L. 99–198, title XIII, § 1311][/us/pl/99/198/s1311], Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; [Pub. L. 100–233, title VI, § 607][/us/pl/100/233/s607], Jan. 6, 1988, [101 Stat. 1667][/us/stat/101/1667]; [Pub. L. 101–624, title XVIII, § 1809][/us/pl/101/624/s1809], Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820]; [Pub. L. 102–554, § 11][/us/pl/102/554/s11], Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151], related to county committees, prior to repeal by [Pub. L. 103–354, title II, § 227(b)(1)][/us/pl/103/354/s227/b/1], Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218].
+    A prior section 1982, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 332, Aug. 8, 1961, [75 Stat. 314][/us/stat/75/314]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1311, Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 607, Jan. 6, 1988, [101 Stat. 1667][/us/stat/101/1667]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1809, Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820]; [Pub. L. 102–554][/us/pl/102/554], § 11, Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151], related to county committees, prior to repeal by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 227(b)(1), Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218].
 
 ----------
 
@@ -59,23 +59,23 @@
 [/us/usc/t10/s101/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F5
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
 [/us/usc/t7/s2008h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008h
-[/us/pl/87/128/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs332
-[/us/pl/108/375/s664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs664
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1974
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/87/128/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs332
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F314
-[/us/pl/99/198/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1311
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1524
-[/us/pl/100/233/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs607
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1667
-[/us/pl/101/624/s1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1809
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3820
-[/us/pl/102/554/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs11
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4151
-[/us/pl/103/354/s227/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs227%2Fb%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3218
 
 

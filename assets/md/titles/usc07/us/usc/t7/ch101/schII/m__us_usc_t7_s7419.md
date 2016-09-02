@@ -81,7 +81,7 @@
 
         The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 104–127, title V, § 520][/us/pl/104/127/s520], Apr. 4, 1996, [110 Stat. 1045][/us/stat/110/1045].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 520, Apr. 4, 1996, [110 Stat. 1045][/us/stat/110/1045].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs520
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1045
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1032

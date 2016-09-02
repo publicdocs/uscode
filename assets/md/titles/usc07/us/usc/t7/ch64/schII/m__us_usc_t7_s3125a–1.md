@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
-([Pub. L. 113–79, title VII, § 7603][/us/pl/113/79/s7603], Feb. 7, 2014, [128 Stat. 911][/us/stat/128/911].)
+([Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7603, Feb. 7, 2014, [128 Stat. 911][/us/stat/128/911].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/113/79/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7603
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F911
 
 

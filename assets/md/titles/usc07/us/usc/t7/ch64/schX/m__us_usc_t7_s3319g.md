@@ -17,7 +17,7 @@
 
     In fiscal year 2003 and thereafter, the agency is authorized to charge fees, commensurate with the fair market value, for any permit, easement, lease, or other special use authorization for the occupancy or use of land and facilities (including land and facilities at the Beltsville Agricultural Research Center) issued by the agency, as authorized by law, and such fees shall be credited to this account, and shall remain available until expended for authorized purposes.
 
-([Pub. L. 108–7, div. A, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 17][/us/stat/117/17].)
+([Pub. L. 108–7, div. A, title I][/us/pl/108/7/dA/tI], Feb. 20, 2003, [117 Stat. 17][/us/stat/117/17].)
 
  __References in Text__ 
 
@@ -31,13 +31,13 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 107–76, title I][/us/pl/107/76], Nov. 29, 2001, [115 Stat. 709][/us/stat/115/709].
+    [Pub. L. 107–76, title I][/us/pl/107/76/tI], Nov. 29, 2001, [115 Stat. 709][/us/stat/115/709].
 
-    [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title I\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–6.
+    [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title I\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–6.
 
-    [Pub. L. 106–78, title I][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1140][/us/stat/113/1140].
+    [Pub. L. 106–78, title I][/us/pl/106/78/tI], Oct. 22, 1999, [113 Stat. 1140][/us/stat/113/1140].
 
-    [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title I\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–5.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title I\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–5.
 
 ----------
 
@@ -46,15 +46,15 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtI
 [/us/stat/117/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F17
-[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/107/76/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtI
 [/us/stat/115/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F709
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtI
 [/us/stat/113/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1140
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 
 

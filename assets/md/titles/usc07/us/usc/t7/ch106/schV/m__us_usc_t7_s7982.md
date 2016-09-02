@@ -103,7 +103,7 @@
 
             (B) allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
 
-([Pub. L. 107–171, title I, § 1502][/us/pl/107/171/s1502], May 13, 2002, [116 Stat. 205][/us/stat/116/205]; [Pub. L. 109–171, title I, § 1101][/us/pl/109/171/s1101], Feb. 8, 2006, [120 Stat. 4][/us/stat/120/4]; [Pub. L. 110–28, title IX, § 9006(a)][/us/pl/110/28/s9006/a], May 25, 2007, [121 Stat. 217][/us/stat/121/217].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1502, May 13, 2002, [116 Stat. 205][/us/stat/116/205]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1101, Feb. 8, 2006, [120 Stat. 4][/us/stat/120/4]; [Pub. L. 110–28, title IX][/us/pl/110/28/tIX], § 9006(a), May 25, 2007, [121 Stat. 217][/us/stat/121/217].)
 
  __References in Text__ 
 
@@ -113,13 +113,13 @@
 
     2007—Subsec. (c)(3). [Pub. L. 110–28][/us/pl/110/28] inserted “and” at end of subpar. (A), substituted “September 30, 2007, 34 percent.” for “August 31, 2007, 34 percent; and” in subpar. (B), and struck out subpar. (C), which read as follows: “during the period beginning on September 1, 2007, 0 percent.”
 
-    2006—Subsec. (c)(3). [Pub. L. 109–171, § 1101(a)][/us/pl/109/171/s1101/a], added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
+    2006—Subsec. (c)(3). [Pub. L. 109–171][/us/pl/109/171], § 1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
 
-    Subsec. (f). [Pub. L. 109–171, § 1101(b)][/us/pl/109/171/s1101/b], substituted “2007” for “2005”.
+    Subsec. (f). [Pub. L. 109–171][/us/pl/109/171], § 1101(b), substituted “2007” for “2005”.
 
-    Subsec. (g)(1). [Pub. L. 109–171, § 1101(b)][/us/pl/109/171/s1101/b], (c)(1), struck out “and subsection (h) of this section” after “paragraph (2)” and substituted “2007” for “2005”.
+    Subsec. (g)(1). [Pub. L. 109–171][/us/pl/109/171], § 1101(b), (c)(1), struck out “and subsection (h) of this section” after “paragraph (2)” and substituted “2007” for “2005”.
 
-    Subsec. (h). [Pub. L. 109–171, § 1101(c)(2)][/us/pl/109/171/s1101/c/2], struck out subsec. (h), which related to transition rule.
+    Subsec. (h). [Pub. L. 109–171][/us/pl/109/171], § 1101(c)(2), struck out subsec. (h), which related to transition rule.
 
 ----------
 
@@ -131,18 +131,18 @@
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/171/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1502
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F205
-[/us/pl/109/171/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1101
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F4
-[/us/pl/110/28/s9006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs9006%2Fa
+[/us/pl/110/28/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtIX
 [/us/stat/121/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F217
 [/us/pl/106/387/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs805
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
-[/us/pl/109/171/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1101%2Fa
-[/us/pl/109/171/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1101%2Fb
-[/us/pl/109/171/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1101%2Fb
-[/us/pl/109/171/s1101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1101%2Fc%2F2
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 
 

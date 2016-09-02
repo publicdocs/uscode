@@ -31,19 +31,19 @@
 
         The Administrator shall consider the local currency proceeds as an integral part of the overall development strategy of the Agency for International Development and the recipient country.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 305, as added [Pub. L. 95–88, title II, § 211(a)(2)][/us/pl/95/88/s211/a/2], Aug. 3, 1977, [91 Stat. 550][/us/stat/91/550]; amended [Pub. L. 95–424, title II, § 203][/us/pl/95/424/s203], Oct. 6, 1978, [92 Stat. 955][/us/stat/92/955]; [Pub. L. 96–53, title II][/us/pl/96/53], §§ 204(b), 206, Aug. 14, 1979, [93 Stat. 369][/us/stat/93/369]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3643][/us/stat/104/3643].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 305, as added [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 211(a)(2), Aug. 3, 1977, [91 Stat. 550][/us/stat/91/550]; amended [Pub. L. 95–424, title II][/us/pl/95/424/tII], § 203, Oct. 6, 1978, [92 Stat. 955][/us/stat/92/955]; [Pub. L. 96–53, title II][/us/pl/96/53/tII], §§ 204(b), 206, Aug. 14, 1979, [93 Stat. 369][/us/stat/93/369]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3643][/us/stat/104/3643].)
 
  __Prior Provisions__ 
 
-    A prior section 305 of [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, [68 Stat. 459][/us/stat/68/459], enacted [section 1694 of this title][/us/usc/t7/s1694], prior to repeal by [Pub. L. 89–808, § 2(D)][/us/pl/89/808/s2/D], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
+    A prior section 305 of [act July 10, 1954, ch. 469, title III][/us/act/1954-07-10/ch469/tIII], [68 Stat. 459][/us/stat/68/459], enacted [section 1694 of this title][/us/usc/t7/s1694], prior to repeal by [Pub. L. 89–808][/us/pl/89/808], § 2(D), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
 
  __Amendments__ 
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
-    1979—Subsec. (a). [Pub. L. 96–53, § 206][/us/pl/96/53/s206], inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under [section 1727c(a) of this title][/us/usc/t7/s1727c/a].
+    1979—Subsec. (a). [Pub. L. 96–53][/us/pl/96/53], § 206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under [section 1727c(a) of this title][/us/usc/t7/s1727c/a].
 
-    Subsec. (c). [Pub. L. 96–53, § 204(b)][/us/pl/96/53/s204/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–53][/us/pl/96/53], § 204(b), added subsec. (c).
 
     1978—Subsecs. (a), (b). [Pub. L. 95–424][/us/pl/95/424] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -74,23 +74,23 @@
 [/us/usc/t7/s1727e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727e%2Fa
 [/us/usc/t7/s1727c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727c%2F2
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/95/88/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fa%2F2
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F550
-[/us/pl/95/424/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs203
+[/us/pl/95/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtII
 [/us/stat/92/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F955
-[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F369
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3643
-[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
+[/us/act/1954-07-10/ch469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2FtIII
 [/us/stat/68/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F459
 [/us/usc/t7/s1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1694
-[/us/pl/89/808/s2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FD
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/96/53/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs206
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/usc/t7/s1727c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1727c%2Fa
-[/us/pl/96/53/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs204%2Fb
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513

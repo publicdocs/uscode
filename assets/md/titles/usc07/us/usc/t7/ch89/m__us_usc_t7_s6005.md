@@ -333,7 +333,7 @@
 
         The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
 
-([Pub. L. 101–624, title XIX, § 1910][/us/pl/101/624/s1910], Nov. 28, 1990, [104 Stat. 3841][/us/stat/104/3841]; [Pub. L. 102–237, title VIII, § 802(2)][/us/pl/102/237/s802/2], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1910, Nov. 28, 1990, [104 Stat. 3841][/us/stat/104/3841]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 802(2), Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882].)
 
  __Amendments__ 
 
@@ -352,9 +352,9 @@
 [/us/usc/t7/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6007
 [/us/usc/t7/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6007
 [/us/usc/t7/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6007
-[/us/pl/101/624/s1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1910
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3841
-[/us/pl/102/237/s802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs802%2F2
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

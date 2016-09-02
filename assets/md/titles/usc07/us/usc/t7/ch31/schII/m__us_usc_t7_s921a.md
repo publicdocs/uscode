@@ -17,7 +17,7 @@
 
     It is hereby declared to be the policy of the Congress that the growing capital needs of the rural telephone systems require the establishment of a rural telephone bank which will furnish assured and viable sources of supplementary financing with the objective that said bank will become an entirely privately owned, operated, and financed corporation. The Congress further finds that many rural telephone systems require financing under the terms and conditions provided in this subchapter.
 
-([Pub. L. 92–12, § 1][/us/pl/92/12/s1], May 7, 1971, [85 Stat. 29][/us/stat/85/29].)
+([Pub. L. 92–12][/us/pl/92/12], § 1, May 7, 1971, [85 Stat. 29][/us/stat/85/29].)
 
  __Codification__ 
 
@@ -29,13 +29,13 @@ The last sentence of [section 1 of Pub. L. 92–12][/us/pl/92/12/s1] provided th
 
  __Effective Date__ 
 
-[Pub. L. 92–12, § 7][/us/pl/92/12/s7], May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that: 
+[Pub. L. 92–12][/us/pl/92/12], § 7, May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that: 
 
 > “This Act \[enacting sections 921a, 931, 932, and 941 to 950b of this title and amending sections 903 and 922 of this title\] shall take effect upon enactment \[May 7, 1971\].”
 
  __Reservation of Right To Repeal, Alter, or Amend__  __[__  __Pub. L. 92–12__  __][/us/pl/92/12]__ 
 
-[Pub. L. 92–12, § 6][/us/pl/92/12/s6], May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that: 
+[Pub. L. 92–12][/us/pl/92/12], § 6, May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that: 
 
 > “The right to repeal, alter, or amend this Act \[enacting sections 921a, 931, 932, and 941 to 950b of this title, amending sections 903 and 922 of this title and sections 856 and 868 of former Title 31, and enacting provisions set out as notes under sections 856 and 868 of former Title 31\] is expressly reserved.”
 
@@ -46,14 +46,14 @@ The last sentence of [section 1 of Pub. L. 92–12][/us/pl/92/12/s1] provided th
 ----------
 ----------
 
-[/us/pl/92/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs1
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F29
 [/us/pl/92/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs1
 [/us/usc/t7/s921–924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs921%E2%80%93924
-[/us/pl/92/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs7
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F37
 [/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
-[/us/pl/92/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs6
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F37
 
 

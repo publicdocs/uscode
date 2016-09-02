@@ -31,17 +31,17 @@
 
         Within thirty days after September 26, 1980, the Secretary of the Treasury shall cancel, without consideration, receipts for payments for or on account of the stock of the Corporation outstanding on September 26, 1980, and such receipts shall cease to be liabilities of the Corporation.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 504, [52 Stat. 72][/us/stat/52/72]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 4, 6, [63 Stat. 665][/us/stat/63/665]; [Pub. L. 95–47][/us/pl/95/47], June 16, 1977, [91 Stat. 228][/us/stat/91/228]; [Pub. L. 95–181, § 1][/us/pl/95/181/s1], Nov. 15, 1977, [91 Stat. 1373][/us/stat/91/1373]; [Pub. L. 96–365, title I, § 101][/us/pl/96/365/s101], Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312]; [Pub. L. 103–354, title I, § 102(b)(2)][/us/pl/103/354/s102/b/2], (4)(C), Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180], 3181.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 504, [52 Stat. 72][/us/stat/52/72]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 4, 6, [63 Stat. 665][/us/stat/63/665]; [Pub. L. 95–47][/us/pl/95/47], June 16, 1977, [91 Stat. 228][/us/stat/91/228]; [Pub. L. 95–181][/us/pl/95/181], § 1, Nov. 15, 1977, [91 Stat. 1373][/us/stat/91/1373]; [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 101, Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 102(b)(2), (4)(C), Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180], 3181.)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–354, § 102(b)(2)(A)][/us/pl/103/354/s102/b/2/A], (4)(C), struck out “of Agriculture” after “Secretary” and “of Directors of the Corporation” after “Board”.
+    1994—Subsec. (a). [Pub. L. 103–354][/us/pl/103/354], § 102(b)(2)(A), (4)(C), struck out “of Agriculture” after “Secretary” and “of Directors of the Corporation” after “Board”.
 
-    Subsec. (d). [Pub. L. 103–354, § 102(b)(2)(B)][/us/pl/103/354/s102/b/2/B], struck out “Federal Crop Insurance” before “Corporation outstanding”.
+    Subsec. (d). [Pub. L. 103–354][/us/pl/103/354], § 102(b)(2)(B), struck out “Federal Crop Insurance” before “Corporation outstanding”.
 
-    1980—Subsec. (a). [Pub. L. 96–365, § 101(a)][/us/pl/96/365/s101/a], substituted “$500,000,000” for “$200,000,000”.
+    1980—Subsec. (a). [Pub. L. 96–365][/us/pl/96/365], § 101(a), substituted “$500,000,000” for “$200,000,000”.
 
-    Subsec. (d). [Pub. L. 96–365, § 101(b)][/us/pl/96/365/s101/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–365][/us/pl/96/365], § 101(b), added subsec. (d).
 
     1977—Subsec. (a). [Pub. L. 95–181][/us/pl/95/181] substituted “$200,000,000” for “$150,000,000”.
 
@@ -57,11 +57,11 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–365, title I, § 112][/us/pl/96/365/s112], Sept. 26, 1980, [94 Stat. 1319][/us/stat/94/1319], provided that: 
+[Pub. L. 96–365, title I][/us/pl/96/365/tI], § 112, Sept. 26, 1980, [94 Stat. 1319][/us/stat/94/1319], provided that: 
 
 > “Except as otherwise provided in this Act, the provisions of this Act amending the Federal Crop Insurance Act \[amending sections 1504, 1505 to 1507, 1508, and 1518 of this title and repealing [section 1515 of this title][/us/usc/t7/s1515]\] shall become effective on the date of enactment of this Act \[Sept. 26, 1980\].”
 
-    [Pub. L. 96–365, title I, § 101(a)][/us/pl/96/365/s101/a], Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312], provided that the amendment made by section 101(a) is effective Oct. 1, 1980.
+    [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 101(a), Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312], provided that the amendment made by section 101(a) is effective Oct. 1, 1980.
 
  __Transfer of Functions__ 
 
@@ -71,13 +71,13 @@
 
  __Cancellation of Outstanding Receipts for Stock in Excess of $27,000,000__ 
 
-[Act Aug. 25, 1949, ch. 512, § 5][/us/act/1949-08-25/ch512/s5], [63 Stat. 665][/us/stat/63/665], provided that: 
+[Act Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], § 5, [63 Stat. 665][/us/stat/63/665], provided that: 
 
 > “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts for payments for or on account of the stock of the Corporation in excess of $27,000,000.”
 
  __Institution of Expanded Program; Payment of Cost for Fiscal Year 1950__ 
 
-[Act Aug. 25, 1949, ch. 512, § 11][/us/act/1949-08-25/ch512/s11], [63 Stat. 666][/us/stat/63/666], provided that: 
+[Act Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], § 11, [63 Stat. 666][/us/stat/63/666], provided that: 
 
 > “The expanded program authorized herein \[sections 1504, 1505, 1506, 1507, and 1508 of this title\] shall be instituted beginning with the 1950 crop year, the additional cost for fiscal year 1950 to be financed, pending the appropriation of supplemental funds, from any appropriation available for operating and administrative expenses of the Corporation for such fiscal year.”
 
@@ -94,33 +94,33 @@
 [/us/stat/63/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F665
 [/us/pl/95/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F47
 [/us/stat/91/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F228
-[/us/pl/95/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F181%2Fs1
+[/us/pl/95/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F181
 [/us/stat/91/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1373
-[/us/pl/96/365/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs101
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1312
-[/us/pl/103/354/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F2
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3180
-[/us/pl/103/354/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F2%2FA
-[/us/pl/103/354/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F2%2FB
-[/us/pl/96/365/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs101%2Fa
-[/us/pl/96/365/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs101%2Fb
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/pl/95/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F181
 [/us/pl/95/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F47
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/pl/103/354/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs120
 [/us/usc/t7/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1502
-[/us/pl/96/365/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs112
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1319
 [/us/usc/t7/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1515
-[/us/pl/96/365/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs101%2Fa
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1312
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
-[/us/act/1949-08-25/ch512/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512%2Fs5
+[/us/act/1949-08-25/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512
 [/us/stat/63/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F665
-[/us/act/1949-08-25/ch512/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512%2Fs11
+[/us/act/1949-08-25/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512
 [/us/stat/63/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F666
 
 

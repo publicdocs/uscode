@@ -35,7 +35,7 @@
 
         (7) To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information and findings as may be useful in the development and practice of cooperation.
 
-([July 2, 1926, ch. 725, § 3][/us/act/1926-07-02/ch725/s3], [44 Stat. 802][/us/stat/44/802].)
+([July 2, 1926, ch. 725][/us/act/1926-07-02/ch725], § 3, [44 Stat. 802][/us/stat/44/802].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-02/ch725/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725%2Fs3
+[/us/act/1926-07-02/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-02%2Fch725
 [/us/stat/44/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F802
 
 

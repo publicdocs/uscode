@@ -53,7 +53,7 @@
 
             (D) Job training or employment-related education, with emphasis on use of existing public educational institutions located in the region.
 
-([Pub. L. 87–128, title III, § 383D][/us/pl/87/128/s383D], formerly § 383C, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 380][/us/stat/116/380]; renumbered § 383D and amended [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], (2)(B), (d), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), (2)(B), (d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383D, formerly § 383C, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 380][/us/stat/116/380]; renumbered § 383D and amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(A), (2)(B), (d), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], 1179, and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(A), (2)(B), (d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940, 1941.)
 
  __Codification__ 
 
@@ -65,11 +65,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 6026(c)(2)(B)][/us/pl/110/246/s6026/c/2/B], made technical amendment to reference in original act which appears in introductory provisions as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(B), made technical amendment to reference in original act which appears in introductory provisions as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
 
-    Subsec. (a)(1), (2). [Pub. L. 110–246, § 6026(d)(1)][/us/pl/110/246/s6026/d/1], redesignated pars. (2) and (1) as (1) and (2), respectively, and, in par. (2), substituted “transportation, renewable energy transmission, and telecommunication” for “transportation and telecommunication”.
+    Subsec. (a)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 6026(d)(1), redesignated pars. (2) and (1) as (1) and (2), respectively, and, in par. (2), substituted “transportation, renewable energy transmission, and telecommunication” for “transportation and telecommunication”.
 
-    Subsec. (b)(2). [Pub. L. 110–246, § 6026(d)(2)][/us/pl/110/246/s6026/d/2], substituted “the following activities” for “the activities in the following order or priority” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 6026(d)(2), substituted “the following activities” for “the activities in the following order or priority” in introductory provisions.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -83,12 +83,12 @@
 ----------
 
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
-[/us/pl/87/128/s383D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383D
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F380
-[/us/pl/110/234/s6026/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FA
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -96,10 +96,10 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383D
 [/us/usc/t7/s2009bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%933
-[/us/pl/110/246/s6026/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
-[/us/pl/110/246/s6026/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fd%2F1
-[/us/pl/110/246/s6026/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fd%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

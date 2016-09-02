@@ -53,23 +53,23 @@
 
     (o) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
-([Pub. L. 89–544, § 2][/us/pl/89/544/s2], Aug. 24, 1966, [80 Stat. 350][/us/stat/80/350]; [Pub. L. 91–579, § 3][/us/pl/91/579/s3], Dec. 24, 1970, [84 Stat. 1560][/us/stat/84/1560]; [Pub. L. 94–279][/us/pl/94/279], §§ 3, 4, Apr. 22, 1976, [90 Stat. 417][/us/stat/90/417], 418; [Pub. L. 99–198, title XVII, § 1756(a)][/us/pl/99/198/s1756/a], Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 107–171, title X, § 10301][/us/pl/107/171/s10301], May 13, 2002, [116 Stat. 491][/us/stat/116/491]; [Pub. L. 112–261, § 1][/us/pl/112/261/s1], Jan. 10, 2013, [126 Stat. 2428][/us/stat/126/2428]; [Pub. L. 113–79, title XII, § 12308(a)(1)][/us/pl/113/79/s12308/a/1], Feb. 7, 2014, [128 Stat. 990][/us/stat/128/990].)
+([Pub. L. 89–544][/us/pl/89/544], § 2, Aug. 24, 1966, [80 Stat. 350][/us/stat/80/350]; [Pub. L. 91–579][/us/pl/91/579], § 3, Dec. 24, 1970, [84 Stat. 1560][/us/stat/84/1560]; [Pub. L. 94–279][/us/pl/94/279], §§ 3, 4, Apr. 22, 1976, [90 Stat. 417][/us/stat/90/417], 418; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1756(a), Dec. 23, 1985, [99 Stat. 1650][/us/stat/99/1650]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10301, May 13, 2002, [116 Stat. 491][/us/stat/116/491]; [Pub. L. 112–261][/us/pl/112/261], § 1, Jan. 10, 2013, [126 Stat. 2428][/us/stat/126/2428]; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12308(a)(1), Feb. 7, 2014, [128 Stat. 990][/us/stat/128/990].)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, § 12308(a)(1)(A)][/us/pl/113/79/s12308/a/1/A], substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
+    2014—[Pub. L. 113–79][/us/pl/113/79], § 12308(a)(1)(A), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
 
-    Subsecs. (a), (b), (d), (e). [Pub. L. 113–79, § 12308(a)(1)(C)][/us/pl/113/79/s12308/a/1/C], substituted period for semicolon at end.
+    Subsecs. (a), (b), (d), (e). [Pub. L. 113–79][/us/pl/113/79], § 12308(a)(1)(C), substituted period for semicolon at end.
 
-    Subsec. (f)(2). [Pub. L. 113–79, § 12308(a)(1)(B)][/us/pl/113/79/s12308/a/1/B], substituted “(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer).” for “(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
+    Subsec. (f)(2). [Pub. L. 113–79][/us/pl/113/79], § 12308(a)(1)(B), substituted “(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer).” for “(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
 
     “(i) a retail pet store except such store which sells any animals to a research facility, an exhibitor, or a dealer; or
 
     “(ii) any person who does not sell, or negotiate the purchase or sale of any wild animal, dog, or cat, and who derives no more than $500 gross income from the sale of other animals during any calendar year;”.
 
-    Subsecs. (g), (h) to (k), (m). [Pub. L. 113–79, § 12308(a)(1)(C)][/us/pl/113/79/s12308/a/1/C], substituted period for semicolon at end.
+    Subsecs. (g), (h) to (k), (m). [Pub. L. 113–79][/us/pl/113/79], § 12308(a)(1)(C), substituted period for semicolon at end.
 
-    Subsec. (n). [Pub. L. 113–79, § 12308(a)(1)(D)][/us/pl/113/79/s12308/a/1/D], substituted period at end for “; and”.
+    Subsec. (n). [Pub. L. 113–79][/us/pl/113/79], § 12308(a)(1)(D), substituted period at end for “; and”.
 
     2013—Subsec. (h). [Pub. L. 112–261][/us/pl/112/261] inserted “an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner,” after “stores,”.
 
@@ -77,31 +77,31 @@
 
     1985—Subsecs. (k) to (o). [Pub. L. 99–198][/us/pl/99/198] added subsecs. (k) to (o).
 
-    1976—Subsec. (c). [Pub. L. 94–279, § 3(1)][/us/pl/94/279/s3/1], made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
+    1976—Subsec. (c). [Pub. L. 94–279][/us/pl/94/279], § 3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
 
-    Subsec. (d). [Pub. L. 94–279, § 3(1)][/us/pl/94/279/s3/1], substituted definition of “State” for definition of “affecting commerce”.
+    Subsec. (d). [Pub. L. 94–279][/us/pl/94/279], § 3(1), substituted definition of “State” for definition of “affecting commerce”.
 
-    Subsec. (e). [Pub. L. 94–279, § 3(2)][/us/pl/94/279/s3/2], substituted “in commerce” for “affecting commerce”.
+    Subsec. (e). [Pub. L. 94–279][/us/pl/94/279], § 3(2), substituted “in commerce” for “affecting commerce”.
 
-    Subsec. (f). [Pub. L. 94–279, § 3(2)][/us/pl/94/279/s3/2], (3), made changes in phraseology, restructured subsection and expanded definition of “dealer” to include persons who negotiate the purchase or sale of protected animals.
+    Subsec. (f). [Pub. L. 94–279][/us/pl/94/279], § 3(2), (3), made changes in phraseology, restructured subsection and expanded definition of “dealer” to include persons who negotiate the purchase or sale of protected animals.
 
-    Subsec. (g). [Pub. L. 94–279, § 3(4)][/us/pl/94/279/s3/4], expanded definition of “animal” to include dogs used for hunting, security, or breeding purposes.
+    Subsec. (g). [Pub. L. 94–279][/us/pl/94/279], § 3(4), expanded definition of “animal” to include dogs used for hunting, security, or breeding purposes.
 
-    Subsecs. (i), (j). [Pub. L. 94–279, § 4][/us/pl/94/279/s4], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 94–279][/us/pl/94/279], § 4, added subsecs. (i) and (j).
 
-    1970—Subsec. (b). [Pub. L. 91–579, § 3(1)][/us/pl/91/579/s3/1], inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
+    1970—Subsec. (b). [Pub. L. 91–579][/us/pl/91/579], § 3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
 
-    Subsec. (c). [Pub. L. 91–579, § 3(2)][/us/pl/91/579/s3/2], substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
+    Subsec. (c). [Pub. L. 91–579][/us/pl/91/579], § 3(2), substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
 
-    Subsec. (d). [Pub. L. 91–579, § 3(3)][/us/pl/91/579/s3/3], substituted definition of “affecting commerce” for definition of “dog”.
+    Subsec. (d). [Pub. L. 91–579][/us/pl/91/579], § 3(3), substituted definition of “affecting commerce” for definition of “dog”.
 
-    Subsec. (e). [Pub. L. 91–579, § 3(3)][/us/pl/91/579/s3/3], struck out definition of “cat” and substituted for it a definition of “research facility” formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term’s meaning to include those using “animals” rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
+    Subsec. (e). [Pub. L. 91–579][/us/pl/91/579], § 3(3), struck out definition of “cat” and substituted for it a definition of “research facility” formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term’s meaning to include those using “animals” rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
 
-    Subsec. (f). [Pub. L. 91–579, § 3(3)][/us/pl/91/579/s3/3], substituted definition of “dealer” formerly contained in subsec. (g) for definition of “research facility” and in such definition of “dealer” as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of “research facility” transferred to subsec. (e) and amended.
+    Subsec. (f). [Pub. L. 91–579][/us/pl/91/579], § 3(3), substituted definition of “dealer” formerly contained in subsec. (g) for definition of “research facility” and in such definition of “dealer” as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of “research facility” transferred to subsec. (e) and amended.
 
-    Subsec. (g). [Pub. L. 91–579, § 3(3)][/us/pl/91/579/s3/3], substituted definition of “animal” formerly contained in subsec. (h) for definition of “dealer” and in such definition of “animal” as thus transferred inserted stipulation “live or dead” to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of “dealer” transferred to subsec. (f) and amended.
+    Subsec. (g). [Pub. L. 91–579][/us/pl/91/579], § 3(3), substituted definition of “animal” formerly contained in subsec. (h) for definition of “dealer” and in such definition of “animal” as thus transferred inserted stipulation “live or dead” to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of “dealer” transferred to subsec. (f) and amended.
 
-    Subsec. (h). [Pub. L. 91–579, § 3(3)][/us/pl/91/579/s3/3], substituted definition of “exhibitor” for definition of “animal”. Definition of “animal” transferred to subsec. (g) and amended.
+    Subsec. (h). [Pub. L. 91–579][/us/pl/91/579], § 3(3), substituted definition of “exhibitor” for definition of “animal”. Definition of “animal” transferred to subsec. (g) and amended.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -113,7 +113,7 @@
 
  __Report on Rats, Mice, and Birds__ 
 
-[Pub. L. 107–171, title X, § 10304][/us/pl/107/171/s10304], May 13, 2002, [116 Stat. 492][/us/stat/116/492], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10304, May 13, 2002, [116 Stat. 492][/us/stat/116/492], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -196,48 +196,48 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t7/s2143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2143%2Fb
-[/us/pl/89/544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs2
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F350
-[/us/pl/91/579/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1560
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F417
-[/us/pl/99/198/s1756/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1756%2Fa
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1650
-[/us/pl/107/171/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10301
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F491
-[/us/pl/112/261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F261%2Fs1
+[/us/pl/112/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F261
 [/us/stat/126/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2428
-[/us/pl/113/79/s12308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F990
-[/us/pl/113/79/s12308/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1%2FA
-[/us/pl/113/79/s12308/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1%2FC
-[/us/pl/113/79/s12308/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1%2FB
-[/us/pl/113/79/s12308/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1%2FC
-[/us/pl/113/79/s12308/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fa%2F1%2FD
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F261
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/94/279/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs3%2F1
-[/us/pl/94/279/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs3%2F1
-[/us/pl/94/279/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs3%2F2
-[/us/pl/94/279/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs3%2F2
-[/us/pl/94/279/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs3%2F4
-[/us/pl/94/279/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs4
-[/us/pl/91/579/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F1
-[/us/pl/91/579/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F2
-[/us/pl/91/579/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F3
-[/us/pl/91/579/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F3
-[/us/pl/91/579/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F3
-[/us/pl/91/579/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F3
-[/us/pl/91/579/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs3%2F3
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1759
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/pl/91/579/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs23
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
-[/us/pl/107/171/s10304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10304
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F492
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary shall be reimbursed from assessments for all costs incurred by the Government in connection with the conduct of the referendum, except for the salaries of Government employees.
 
-([Pub. L. 97–98, title XVII, § 1709][/us/pl/97/98/s1709], Dec. 22, 1981, [95 Stat. 1354][/us/stat/95/1354].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1709, Dec. 22, 1981, [95 Stat. 1354][/us/stat/95/1354].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t7/s4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4311
-[/us/pl/97/98/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1709
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1354
 
 

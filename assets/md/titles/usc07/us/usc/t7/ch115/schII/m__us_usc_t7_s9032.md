@@ -83,7 +83,7 @@
 
         The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsection (a)(11).
 
-([Pub. L. 113–79, title I, § 1202][/us/pl/113/79/s1202], Feb. 7, 2014, [128 Stat. 675][/us/stat/128/675].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1202, Feb. 7, 2014, [128 Stat. 675][/us/stat/128/675].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t7/s9031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9031
-[/us/pl/113/79/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1202
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F675
 
 

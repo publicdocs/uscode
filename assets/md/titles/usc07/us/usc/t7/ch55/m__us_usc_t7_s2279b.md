@@ -155,7 +155,7 @@
 
         The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
 
-([Pub. L. 104–127, title IX, § 921][/us/pl/104/127/s921], Apr. 4, 1996, [110 Stat. 1191][/us/stat/110/1191]; [Pub. L. 107–171, title X, § 10705(a)][/us/pl/107/171/s10705/a], May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title XIV, § 14213(a)][/us/pl/110/234/s14213/a], May 22, 2008, [122 Stat. 1465][/us/stat/122/1465]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14213(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2227.)
+([Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 921, Apr. 4, 1996, [110 Stat. 1191][/us/stat/110/1191]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10705(a), May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14213(a), May 22, 2008, [122 Stat. 1465][/us/stat/122/1465]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14213(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2227.)
 
  __References in Text__ 
 
@@ -163,15 +163,15 @@
 
  __Codification__ 
 
-    In subsecs. (h)(4) and (i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsecs. (h)(4) and (i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 14213(a)(1)][/us/pl/110/246/s14213/a/1], substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 14213(a)(1), substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
 
-    Subsec. (b). [Pub. L. 110–246, § 14213(a)(2)][/us/pl/110/246/s14213/a/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.”
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 14213(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.”
 
     2002—Subsec. (k). [Pub. L. 107–171][/us/pl/107/171] added subsec. (k).
 
@@ -181,13 +181,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–171, title X, § 10705(c)][/us/pl/107/171/s10705/c], May 13, 2002, [116 Stat. 519][/us/stat/116/519], provided that: 
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10705(c), May 13, 2002, [116 Stat. 519][/us/stat/116/519], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 5922 of this title][/us/usc/t7/s5922]\] take effect on October 1, 2002.”
 
  __Procurement Procedures__ 
 
-[Pub. L. 110–234, title XIV, § 14213(b)][/us/pl/110/234/s14213/b], May 22, 2008, [122 Stat. 1466][/us/stat/122/1466], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14213(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2228, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14213(b), May 22, 2008, [122 Stat. 1466][/us/stat/122/1466], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14213(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2228, provided that: 
 
 > “Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government.”
 
@@ -200,39 +200,39 @@
 ----------
 ----------
 
-[/us/pl/104/127/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs921
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1191
-[/us/pl/107/171/s10705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10705%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F518
-[/us/pl/110/234/s14213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14213%2Fa
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1465
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14213%2Fa%2F1
-[/us/pl/110/246/s14213/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14213%2Fa%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s10705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10705%2Fc
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F519
 [/us/usc/t7/s5922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5922
-[/us/pl/110/234/s14213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14213%2Fb
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1466
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

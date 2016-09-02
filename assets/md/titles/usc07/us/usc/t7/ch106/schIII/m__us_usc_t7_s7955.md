@@ -61,11 +61,11 @@
 
         The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
 
-([Pub. L. 107–171, title I, § 1305][/us/pl/107/171/s1305], May 13, 2002, [116 Stat. 173][/us/stat/116/173].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1305, May 13, 2002, [116 Stat. 173][/us/stat/116/173].)
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (a)(1), (c), and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
+    This subchapter, referred to in subsecs. (a)(1), (c), and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171/tI], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
 
     The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
@@ -80,9 +80,9 @@
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s7956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7956
 [/us/usc/t7/s7952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952
-[/us/pl/107/171/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1305
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F173
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166
 [/us/usc/t7/s7951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7951
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

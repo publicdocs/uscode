@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such amounts as may be necessary to carry out this chapter. Except as specifically authorized by law, no part of the money appropriated under this section shall be used to pay indemnities for property injured or destroyed by or at the direction of the Secretary.
 
-([Pub. L. 106–224, title IV, § 441][/us/pl/106/224/s441], June 20, 2000, [114 Stat. 455][/us/stat/114/455].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 441, June 20, 2000, [114 Stat. 455][/us/stat/114/455].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs441
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F455
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

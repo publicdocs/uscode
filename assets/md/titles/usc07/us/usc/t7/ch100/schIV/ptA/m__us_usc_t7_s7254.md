@@ -21,7 +21,7 @@
 
     (2) the labeling of such fluid milk products with regard to milk solids or solids not fat.
 
-([Pub. L. 104–127, title I, § 144][/us/pl/104/127/s144], Apr. 4, 1996, [110 Stat. 917][/us/stat/110/917].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 144, Apr. 4, 1996, [110 Stat. 917][/us/stat/110/917].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs144
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F917
 
 

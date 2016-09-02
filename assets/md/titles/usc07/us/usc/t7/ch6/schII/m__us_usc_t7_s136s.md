@@ -31,7 +31,7 @@
 
         In connection with all public hearings under this subchapter the Administrator shall publish timely notice of such hearings in the Federal Register.
 
-([June 25, 1947, ch. 125, § 21][/us/act/1947-06-25/ch125/s21], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996]; amended [Pub. L. 94–140, § 2(b)][/us/pl/94/140/s2/b], Nov. 28, 1975, [89 Stat. 752][/us/stat/89/752]; [Pub. L. 100–532, title VIII, § 801][/us/pl/100/532/s801](l), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 104–170, title II, § 234][/us/pl/104/170/s234], Aug. 3, 1996, [110 Stat. 1509][/us/stat/110/1509].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 21, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996]; amended [Pub. L. 94–140][/us/pl/94/140], § 2(b), Nov. 28, 1975, [89 Stat. 752][/us/stat/89/752]; [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(l), Oct. 25, 1988, [102 Stat. 2682][/us/stat/102/2682]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(b)(1), (2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 104–170, title II][/us/pl/104/170/tII], § 234, Aug. 3, 1996, [110 Stat. 1509][/us/stat/110/1509].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
     1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237] substituted “the Administrator” for “he” before “deems” and “the Administrator’s” for “his”.
 
-    1988—[Pub. L. 100–532, § 801][/us/pl/100/532/s801](l), inserted headings for subsecs. (a) to (c).
+    1988—[Pub. L. 100–532][/us/pl/100/532], § 801(l), inserted headings for subsecs. (a) to (c).
 
     1975—Subsec. (a). [Pub. L. 94–140][/us/pl/94/140] inserted “in accordance with the procedure described in [section 136w(a) of this title][/us/usc/t7/s136w/a]” after “Secretary of Agriculture”.
 
@@ -60,20 +60,20 @@
 
 [/us/usc/t7/s136w/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%2Fa
 [/us/usc/t7/s136w/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%2Fa%2F2
-[/us/act/1947-06-25/ch125/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs21
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F996
-[/us/pl/94/140/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs2%2Fb
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
 [/us/stat/89/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F752
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2682
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
-[/us/pl/104/170/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs234
+[/us/pl/104/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtII
 [/us/stat/110/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1509
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
 [/us/usc/t7/s136w/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%2Fa
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532

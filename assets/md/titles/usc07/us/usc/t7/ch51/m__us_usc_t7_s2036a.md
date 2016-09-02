@@ -199,7 +199,7 @@
 
         Not later than January 1, 2012, the Secretary shall publish in the Federal Register a description of the requirements for the receipt of a grant under this section.
 
-([Pub. L. 88–525, § 28][/us/pl/88/525/s28], as added [Pub. L. 111–296, title II, § 241(a)][/us/pl/111/296/s241/a], Dec. 13, 2010, [124 Stat. 3232][/us/stat/124/3232]; amended [Pub. L. 112–240, title VII, § 701(d)(2)][/us/pl/112/240/s701/d/2], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title IV, § 4028][/us/pl/113/79/s4028], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].)
+([Pub. L. 88–525][/us/pl/88/525], § 28, as added [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 241(a), Dec. 13, 2010, [124 Stat. 3232][/us/stat/124/3232]; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(d)(2), Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4028, Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].)
 
  __Amendments__ 
 
@@ -228,12 +228,12 @@
 [/us/usc/t7/s2027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027%2Fa%2F1
 [/us/usc/t7/s2020/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Ff
 [/us/usc/t7/s2025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fa
-[/us/pl/88/525/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs28
-[/us/pl/111/296/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs241%2Fa
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3232
-[/us/pl/112/240/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fd%2F2
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2363
-[/us/pl/113/79/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4028
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240

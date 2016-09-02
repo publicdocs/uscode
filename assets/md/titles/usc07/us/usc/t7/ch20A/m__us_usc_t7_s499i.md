@@ -17,7 +17,7 @@
 
     Every commission merchant, dealer, and broker shall keep such accounts, records, and memoranda as fully and correctly disclose all transactions involved in his business, including the true ownership of such business by stockholding or otherwise. If such accounts, records, and memoranda are not so kept, the Secretary may publish the facts and circumstances and/or, by order, suspend the license of the offender for a period not to exceed ninety days.
 
-([June 10, 1930, ch. 436, § 9][/us/act/1930-06-10/ch436/s9], [46 Stat. 535][/us/stat/46/535].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 9, [46 Stat. 535][/us/stat/46/535].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch436/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs9
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F535
 [/us/usc/t7/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs559
 

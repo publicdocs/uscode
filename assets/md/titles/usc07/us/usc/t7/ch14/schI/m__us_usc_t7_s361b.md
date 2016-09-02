@@ -17,7 +17,7 @@
 
     It is further the policy of the Congress to promote the efficient production, marketing, distribution, and utilization of products of the farm as essential to the health and welfare of our peoples and to promote a sound and prosperous agriculture and rural life as indispensable to the maintenance of maximum employment and national prosperity and security. It is also the intent of Congress to assure agriculture a position in research equal to that of industry, which will aid in maintaining an equitable balance between agriculture and other segments of our economy. It shall be the object and duty of the State agricultural experiment stations through the expenditure of the appropriations hereinafter authorized to conduct original and other researches, investigations, and experiments bearing directly on and contributing to the establishment and maintenance of a permanent and effective agricultural industry of the United States, including researches basic to the problems of agriculture in its broadest aspects, and such investigations as have for their purpose the development and improvement of the rural home and rural life and the maximum contribution by agriculture to the welfare of the consumer, as may be deemed advisable, having due regard to the varying conditions and needs of the respective States.
 
-([Mar. 2, 1887, ch. 314, § 2][/us/act/1887-03-02/ch314/s2], [24 Stat. 440][/us/stat/24/440]; [Aug. 11, 1955, ch. 790, § 1][/us/act/1955-08-11/ch790/s1], [69 Stat. 671][/us/stat/69/671].)
+([Mar. 2, 1887, ch. 314][/us/act/1887-03-02/ch314], § 2, [24 Stat. 440][/us/stat/24/440]; [Aug. 11, 1955, ch. 790][/us/act/1955-08-11/ch790], § 1, [69 Stat. 671][/us/stat/69/671].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1887-03-02/ch314/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314%2Fs2
+[/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
 [/us/stat/24/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F440
-[/us/act/1955-08-11/ch790/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790%2Fs1
+[/us/act/1955-08-11/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790
 [/us/stat/69/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F671
 [/us/usc/t7/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs363
 

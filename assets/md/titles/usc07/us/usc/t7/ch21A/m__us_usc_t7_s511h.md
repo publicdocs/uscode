@@ -17,7 +17,7 @@
 
     The Secretary is authorized to collect, publish, and distribute, by telegraph, mail, or otherwise without cost to the grower, timely information on the market supply and demand, location, disposition, quality, condition, and market prices for tobacco.
 
-([Aug. 23, 1935, ch. 623, § 9][/us/act/1935-08-23/ch623/s9], [49 Stat. 733][/us/stat/49/733].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 9, [49 Stat. 733][/us/stat/49/733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs9
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F733
 
 

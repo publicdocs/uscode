@@ -17,7 +17,7 @@
 
     Applications for plant variety protection and their contents shall be kept in confidence by the Plant Variety Protection Office, by the Board, and by the offices in the Department of Agriculture to which access may be given under regulations. No information concerning the same shall be given without the authority of the owner, unless necessary under special circumstances as may be determined by the Secretary, except that the Secretary may publish the variety names designated in applications, stating the kind to which each applies, the name of the applicant, and whether the applicant specified that the variety is to be sold by variety name only as a class of certified seed.
 
-([Pub. L. 91–577, title II, § 56][/us/pl/91/577/s56], Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549]; [Pub. L. 96–574, § 12][/us/pl/96/574/s12], Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 56, Dec. 24, 1970, [84 Stat. 1549][/us/stat/84/1549]; [Pub. L. 96–574][/us/pl/96/574], § 12, Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs56
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1549
-[/us/pl/96/574/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs12
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3350
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 

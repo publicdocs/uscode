@@ -239,25 +239,25 @@
 
         Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-([Pub. L. 101–624, title XIX, § 1955][/us/pl/101/624/s1955], Nov. 28, 1990, [104 Stat. 3872][/us/stat/104/3872]; [Pub. L. 102–237, title VIII, § 805(1)][/us/pl/102/237/s805/1], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882]; [Pub. L. 103–194, § 4][/us/pl/103/194/s4], Dec. 14, 1993, [107 Stat. 2295][/us/stat/107/2295].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1955, Nov. 28, 1990, [104 Stat. 3872][/us/stat/104/3872]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 805(1), Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882]; [Pub. L. 103–194][/us/pl/103/194], § 4, Dec. 14, 1993, [107 Stat. 2295][/us/stat/107/2295].)
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1)(A), (2)(B). [Pub. L. 103–194, § 4(a)(1)][/us/pl/103/194/s4/a/1], (2), substituted “3” for “7”.
+    1993—Subsec. (b)(1)(A), (2)(B). [Pub. L. 103–194][/us/pl/103/194], § 4(a)(1), (2), substituted “3” for “7”.
 
-    Subsec. (b)(2)(F). [Pub. L. 103–194, § 4(a)(3)][/us/pl/103/194/s4/a/3], inserted at end “The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.”
+    Subsec. (b)(2)(F). [Pub. L. 103–194][/us/pl/103/194], § 4(a)(3), inserted at end “The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.”
 
-    Subsec. (b)(2)(G). [Pub. L. 103–194, § 4(a)(4)][/us/pl/103/194/s4/a/4], added subpar. (G).
+    Subsec. (b)(2)(G). [Pub. L. 103–194][/us/pl/103/194], § 4(a)(4), added subpar. (G).
 
-    Subsec. (b)(4). [Pub. L. 103–194, § 4(b)(1)][/us/pl/103/194/s4/b/1], substituted “The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—” for “Members of the Board shall be appointed for a term of 3 years. Of the members first appointed—”.
+    Subsec. (b)(4). [Pub. L. 103–194][/us/pl/103/194], § 4(b)(1), substituted “The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—” for “Members of the Board shall be appointed for a term of 3 years. Of the members first appointed—”.
 
-    Subsec. (b)(4)(A). [Pub. L. 103–194, § 4(b)(2)][/us/pl/103/194/s4/b/2], substituted “2” for “3”.
+    Subsec. (b)(4)(A). [Pub. L. 103–194][/us/pl/103/194], § 4(b)(2), substituted “2” for “3”.
 
-    Subsec. (b)(4)(B). [Pub. L. 103–194, § 4(b)(3)][/us/pl/103/194/s4/b/3], substituted “2” for “4” before “members”.
+    Subsec. (b)(4)(B). [Pub. L. 103–194][/us/pl/103/194], § 4(b)(3), substituted “2” for “4” before “members”.
 
-    Subsec. (b)(4)(C). [Pub. L. 103–194, § 4(b)(4)][/us/pl/103/194/s4/b/4], substituted “3” for “4” before “members”.
+    Subsec. (b)(4)(C). [Pub. L. 103–194][/us/pl/103/194], § 4(b)(4), substituted “3” for “4” before “members”.
 
-    Subsec. (d)(5). [Pub. L. 103–194, § 4(c)][/us/pl/103/194/s4/c], substituted “200,000” for “35,000”, wherever appearing.
+    Subsec. (d)(5). [Pub. L. 103–194][/us/pl/103/194], § 4(c), substituted “200,000” for “35,000”, wherever appearing.
 
     1991—Subsec. (e)(1)(B). [Pub. L. 102–237][/us/pl/102/237] substituted “Government employees” for “government employees”.
 
@@ -274,20 +274,20 @@
 [/us/usc/t7/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6203%2Fa
 [/us/usc/t7/s6205/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6205%2F4
 [/us/usc/t7/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6203%2Fa
-[/us/pl/101/624/s1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1955
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3872
-[/us/pl/102/237/s805/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs805%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
-[/us/pl/103/194/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/stat/107/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2295
-[/us/pl/103/194/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fa%2F1
-[/us/pl/103/194/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fa%2F3
-[/us/pl/103/194/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fa%2F4
-[/us/pl/103/194/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fb%2F1
-[/us/pl/103/194/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fb%2F2
-[/us/pl/103/194/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fb%2F3
-[/us/pl/103/194/s4/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fb%2F4
-[/us/pl/103/194/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194%2Fs4%2Fc
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
+[/us/pl/103/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F194
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

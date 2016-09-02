@@ -27,7 +27,7 @@
 
     (5) The term “plums” means both European and Japanese type, whether or not they have been in storage, but does not mean Italian-type prunes, nor damson-type plums.
 
-([Pub. L. 86–687, § 9][/us/pl/86/687/s9], Sept. 2, 1960, [74 Stat. 735][/us/stat/74/735].)
+([Pub. L. 86–687][/us/pl/86/687], § 9, Sept. 2, 1960, [74 Stat. 735][/us/stat/74/735].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/86/687/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs9
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F735
 
 

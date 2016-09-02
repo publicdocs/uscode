@@ -31,7 +31,7 @@
 
         Any persons violating any provision of this section shall, upon conviction thereof, be punished by a fine of not more than $2,000 or imprisonment for not more than two years, or both.
 
-([Pub. L. 87–128, title III, § 336][/us/pl/87/128/s336], Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 98–258, title VI, § 606][/us/pl/98/258/s606], Apr. 10, 1984, [98 Stat. 140][/us/stat/98/140]; [Pub. L. 107–171, title V, § 5501(b)][/us/pl/107/171/s5501/b], May 13, 2002, [116 Stat. 351][/us/stat/116/351].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 336, Aug. 8, 1961, [75 Stat. 316][/us/stat/75/316]; [Pub. L. 98–258, title VI][/us/pl/98/258/tVI], § 606, Apr. 10, 1984, [98 Stat. 140][/us/stat/98/140]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5501(b), May 13, 2002, [116 Stat. 351][/us/stat/116/351].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/87/128/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs336
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F316
-[/us/pl/98/258/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs606
+[/us/pl/98/258/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2FtVI
 [/us/stat/98/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F140
-[/us/pl/107/171/s5501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5501%2Fb
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F351
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

@@ -31,7 +31,7 @@
 
     (g) The organization’s ability and willingness to further the aims and objectives of this chapter: Provided, however, That the primary consideration in determining the eligibility of an organization shall be whether its commercial egg producer membership consists of a substantial number of egg producers who produce a substantial volume of commercial eggs. The Secretary shall certify any organization which he finds to be eligible under this section and his determination as to eligibility shall be final. Where more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under [section 2707(b) of this title][/us/usc/t7/s2707/b].
 
-([Pub. L. 93–428, § 16][/us/pl/93/428/s16], Oct. 1, 1974, [88 Stat. 1178][/us/stat/88/1178].)
+([Pub. L. 93–428][/us/pl/93/428], § 16, Oct. 1, 1974, [88 Stat. 1178][/us/stat/88/1178].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t7/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2704
 [/us/usc/t7/s2707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2707%2Fb
 [/us/usc/t7/s2707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2707%2Fb
-[/us/pl/93/428/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs16
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1178
 
 

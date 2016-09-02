@@ -23,7 +23,7 @@
 
         Such order shall be issued and, if approved by fluid milk processors as provided in [section 6413 of this title][/us/usc/t7/s6413], shall become effective not later than 180 days following publication of the proposed order.
 
-([Pub. L. 101–624, title XIX, § 1999F][/us/pl/101/624/s1999F], Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999F, Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t7/s6404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6404
 [/us/usc/t7/s6413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6413
-[/us/pl/101/624/s1999F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999F
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3916
 
 

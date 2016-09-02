@@ -49,7 +49,7 @@
 
         The site of any hearings held under section 6306 or 6307 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-([Pub. L. 101–624, title XIX, § 1973][/us/pl/101/624/s1973], Nov. 28, 1990, [104 Stat. 3902][/us/stat/104/3902].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1973, Nov. 28, 1990, [104 Stat. 3902][/us/stat/104/3902].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1973
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3902
 
 

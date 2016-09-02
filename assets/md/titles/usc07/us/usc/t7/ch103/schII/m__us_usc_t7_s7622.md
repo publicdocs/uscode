@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7621.md) | [Next](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7622)
 
-## § 7622. Repealed. [Pub. L. 110–234, title VII, § 7302][/us/pl/110/234/s7302], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
+## § 7622. Repealed. [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7302, May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
 
-    Section, [Pub. L. 105–185, title IV, § 402][/us/pl/105/185/s402], June 23, 1998, [112 Stat. 566][/us/stat/112/566]; [Pub. L. 107–171, title VII, § 7123][/us/pl/107/171/s7123], May 13, 2002, [116 Stat. 434][/us/stat/116/434], related to partnerships for high-value agricultural product quality research.
+    Section, [Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 402, June 23, 1998, [112 Stat. 566][/us/stat/112/566]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7123, May 13, 2002, [116 Stat. 434][/us/stat/116/434], related to partnerships for high-value agricultural product quality research.
 
  __Codification__ 
 
@@ -32,13 +32,13 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7302
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/105/185/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs402
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F566
-[/us/pl/107/171/s7123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7123
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F434
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

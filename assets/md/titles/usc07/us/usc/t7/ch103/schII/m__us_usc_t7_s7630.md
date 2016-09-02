@@ -35,7 +35,7 @@
 
         (2) $3,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 105–185, title IV, § 410][/us/pl/105/185/s410], as added [Pub. L. 107–171, title VII, § 7412][/us/pl/107/171/s7412], May 13, 2002, [116 Stat. 462][/us/stat/116/462]; amended [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7309, 7511(c)(32), May 22, 2008, [122 Stat. 1243][/us/stat/122/1243], 1270; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7309, 7511(c)(32), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004, 2032; [Pub. L. 113–79, title VII, § 7305][/us/pl/113/79/s7305], Feb. 7, 2014, [128 Stat. 888][/us/stat/128/888].)
+([Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 410, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7412, May 13, 2002, [116 Stat. 462][/us/stat/116/462]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7309, 7511(c)(32), May 22, 2008, [122 Stat. 1243][/us/stat/122/1243], 1270; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7309, 7511(c)(32), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004, 2032; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7305, Feb. 7, 2014, [128 Stat. 888][/us/stat/128/888].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] substituted “section—” for “section such sums as are necessary for each of fiscal years 2008 through 2012.” and added pars. (1) and (2).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(32)][/us/pl/110/246/s7511/c/32], substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(32), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
 
-    Subsecs. (b) to (d). [Pub. L. 110–246, § 7309][/us/pl/110/246/s7309], added subsecs. (b) to (d) and struck out former subsecs. (b) and (c) which related to availability of funds of the Commodity Credit Corporation for fiscal year 2002 and authorization of appropriations for fiscal years 2003 through 2007.
+    Subsecs. (b) to (d). [Pub. L. 110–246][/us/pl/110/246], § 7309, added subsecs. (b) to (d) and struck out former subsecs. (b) and (c) which related to availability of funds of the Commodity Credit Corporation for fiscal year 2002 and authorization of appropriations for fiscal years 2003 through 2007.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -68,14 +68,14 @@
 
 [/us/pl/107/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F19
 [/us/stat/115/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F153
-[/us/pl/105/185/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs410
-[/us/pl/107/171/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7412
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F462
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1243
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7305
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F888
 [/us/pl/107/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F19
 [/us/pl/107/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F19
@@ -85,8 +85,8 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7511/c/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F32
-[/us/pl/110/246/s7309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7309
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

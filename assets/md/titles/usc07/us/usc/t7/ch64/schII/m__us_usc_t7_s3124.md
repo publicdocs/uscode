@@ -17,7 +17,7 @@
 
     It is the intent of Congress in enacting this chapter to augment, coordinate, and supplement the planning, initiation, and conduct of agricultural research programs existing prior to September 29, 1977, except that it is not the intent of Congress in enacting this title to limit the authority of the Secretary of Health and Human Services under any Act which the Secretary of Health and Human Services administers.
 
-([Pub. L. 95–113, title XIV, § 1409][/us/pl/95/113/s1409], Sept. 29, 1977, [91 Stat. 989][/us/stat/91/989]; [Pub. L. 97–98, title XIV, § 1409][/us/pl/97/98/s1409], Dec. 22, 1981, [95 Stat. 1301][/us/stat/95/1301].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1409, Sept. 29, 1977, [91 Stat. 989][/us/stat/91/989]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1409, Dec. 22, 1981, [95 Stat. 1301][/us/stat/95/1301].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1409
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F989
-[/us/pl/97/98/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1409
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1301
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

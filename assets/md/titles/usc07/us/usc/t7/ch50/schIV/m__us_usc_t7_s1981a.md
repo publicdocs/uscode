@@ -45,7 +45,7 @@
 
             If a farmer or rancher does not prevail on a claim of discrimination described in paragraph (1), the farmer or rancher shall be liable for any interest and offsets that accrued during the period that loan acceleration or foreclosure proceedings have been suspended under paragraph (1).
 
-([Pub. L. 87–128, title III, § 331A][/us/pl/87/128/s331A], as added [Pub. L. 95–334, title I, § 122][/us/pl/95/334/s122], Aug. 4, 1978, [92 Stat. 427][/us/stat/92/427]; amended [Pub. L. 101–624, title XXIII, § 2303(b)][/us/pl/101/624/s2303/b], Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981]; [Pub. L. 110–234, title XIV, § 14002(a)][/us/pl/110/234/s14002/a], May 22, 2008, [122 Stat. 1442][/us/stat/122/1442]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14002(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 331A, as added [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 122, Aug. 4, 1978, [92 Stat. 427][/us/stat/92/427]; amended [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2303(b), Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14002(a), May 22, 2008, [122 Stat. 1442][/us/stat/122/1442]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14002(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204.)
 
  __References in Text__ 
 
@@ -61,27 +61,27 @@
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-    [Pub. L. 102–341, title III][/us/pl/102/341], Aug. 14, 1992, [106 Stat. 897][/us/stat/106/897].
+    [Pub. L. 102–341, title III][/us/pl/102/341/tIII], Aug. 14, 1992, [106 Stat. 897][/us/stat/106/897].
 
-    [Pub. L. 102–142, title III][/us/pl/102/142], Oct. 28, 1991, [105 Stat. 902][/us/stat/105/902].
+    [Pub. L. 102–142, title III][/us/pl/102/142/tIII], Oct. 28, 1991, [105 Stat. 902][/us/stat/105/902].
 
-    [Pub. L. 101–506, title II][/us/pl/101/506], Nov. 5, 1990, [104 Stat. 1333][/us/stat/104/1333].
+    [Pub. L. 101–506, title II][/us/pl/101/506/tII], Nov. 5, 1990, [104 Stat. 1333][/us/stat/104/1333].
 
-    [Pub. L. 101–161, title II][/us/pl/101/161], Nov. 21, 1989, [103 Stat. 969][/us/stat/103/969].
+    [Pub. L. 101–161, title II][/us/pl/101/161/tII], Nov. 21, 1989, [103 Stat. 969][/us/stat/103/969].
 
-    [Pub. L. 100–460, title II][/us/pl/100/460], Oct. 1, 1988, [102 Stat. 2246][/us/stat/102/2246].
+    [Pub. L. 100–460, title II][/us/pl/100/460/tII], Oct. 1, 1988, [102 Stat. 2246][/us/stat/102/2246].
 
-    [Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title II\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–340.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(k) \[title II\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–340.
 
-    [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title II\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–16, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title II\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–16.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(a) \[title II\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–16, and [Pub. L. 99–591][/us/pl/99/591], § 101(a) \[title II\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–16.
 
-    [Pub. L. 99–190, § 101(a)][/us/pl/99/190/s101/a] \[H.R. 3037, title II\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185]; [Pub. L. 100–202, § 106][/us/pl/100/202/s106], Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433].
+    [Pub. L. 99–190][/us/pl/99/190], § 101(a) \[H.R. 3037, title II\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185]; [Pub. L. 100–202][/us/pl/100/202], § 106, Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433].
 
-    [Pub. L. 97–370, title II][/us/pl/97/370], Dec. 18, 1982, [96 Stat. 1800][/us/stat/96/1800].
+    [Pub. L. 97–370, title II][/us/pl/97/370/tII], Dec. 18, 1982, [96 Stat. 1800][/us/stat/96/1800].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 14002(a)][/us/pl/110/246/s14002/a], designated existing provisions as subsec. (a) and added subsec. (b).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 14002(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
     1990—[Pub. L. 101–624][/us/pl/101/624] inserted “or by the Rural Development Administration” after “Farmers Home Administration”.
 
@@ -91,7 +91,7 @@ Provisions similar to those in this section were contained in the following appr
 
  __Forbearance and Restructuring for Farm Loans__ 
 
-[Pub. L. 100–387, title III, § 313(a)][/us/pl/100/387/s313/a], Aug. 11, 1988, [102 Stat. 949][/us/stat/102/949], provided that: 
+[Pub. L. 100–387, title III][/us/pl/100/387/tIII], § 313(a), Aug. 11, 1988, [102 Stat. 949][/us/stat/102/949], provided that: 
 
 > “It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
@@ -108,14 +108,14 @@ Provisions similar to those in this section were contained in the following appr
 ----------
 ----------
 
-[/us/pl/87/128/s331A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs331A
-[/us/pl/95/334/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs122
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F427
-[/us/pl/101/624/s2303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2303%2Fb
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3981
-[/us/pl/110/234/s14002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14002%2Fa
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1442
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -123,36 +123,36 @@ Provisions similar to those in this section were contained in the following appr
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/102/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341
+[/us/pl/102/341/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2FtIII
 [/us/stat/106/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F897
-[/us/pl/102/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142
+[/us/pl/102/142/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtIII
 [/us/stat/105/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F902
-[/us/pl/101/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506
+[/us/pl/101/506/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506%2FtII
 [/us/stat/104/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1333
-[/us/pl/101/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161
+[/us/pl/101/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2FtII
 [/us/stat/103/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F969
-[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/100/460/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtII
 [/us/stat/102/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2246
-[/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
-[/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
-[/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
-[/us/pl/99/190/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fa
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
-[/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-433
-[/us/pl/97/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F370
+[/us/pl/97/370/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F370%2FtII
 [/us/stat/96/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1800
-[/us/pl/110/246/s14002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14002%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/100/387/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs313%2Fa
+[/us/pl/100/387/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtIII
 [/us/stat/102/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F949
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233

@@ -41,23 +41,23 @@
 
         It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of powers provided in this chapter, of an orderly procedure for developing, financing, through adequate assessments on fluid milk products produced in the United States and carrying out an effective, continuous, and coordinated program of promotion, research, and consumer information designed to strengthen the position of the dairy industry in the marketplace and maintain and expand domestic and foreign markets and uses for fluid milk products, the purpose of which is not to compete with or replace individual advertising or promotion efforts designed to promote individual brand name or trade name fluid milk products, but rather to maintain and expand the markets for all fluid milk products, with the goal and purpose of this chapter being a national governmental goal that authorizes and funds programs that result in government speech promoting government objectives.
 
-([Pub. L. 101–624, title XIX, § 1999B][/us/pl/101/624/s1999B], Nov. 28, 1990, [104 Stat. 3914][/us/stat/104/3914]; [Pub. L. 104–127, title I, § 146(a)][/us/pl/104/127/s146/a], (b), Apr. 4, 1996, [110 Stat. 918][/us/stat/110/918].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999B, Nov. 28, 1990, [104 Stat. 3914][/us/stat/104/3914]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 146(a), (b), Apr. 4, 1996, [110 Stat. 918][/us/stat/110/918].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(6) to (9). [Pub. L. 104–127, § 146(a)][/us/pl/104/127/s146/a], added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+    1996—Subsec. (a)(6) to (9). [Pub. L. 104–127][/us/pl/104/127], § 146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
-    Subsec. (b). [Pub. L. 104–127, § 146(b)][/us/pl/104/127/s146/b], amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–72, § 1][/us/pl/103/72/s1], Aug. 11, 1993, [107 Stat. 717][/us/stat/107/717], provided that: 
+[Pub. L. 103–72][/us/pl/103/72], § 1, Aug. 11, 1993, [107 Stat. 717][/us/stat/107/717], provided that: 
 
 > “This Act \[amending sections 6402 and 6409 of this title\] may be cited as the ‘Fluid Milk Promotion Amendments Act of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XIX, § 1999A][/us/pl/101/624/s1999A], Nov. 28, 1990, [104 Stat. 3914][/us/stat/104/3914], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999A, Nov. 28, 1990, [104 Stat. 3914][/us/stat/104/3914], provided that: 
 
 > “This subtitle \[subtitle H (§§ 1999A—1999R) of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting this chapter\] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999B
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3914
-[/us/pl/104/127/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fa
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F918
-[/us/pl/104/127/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fa
-[/us/pl/104/127/s146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fb
-[/us/pl/103/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F72%2Fs1
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/103/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F72
 [/us/stat/107/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F717
-[/us/pl/101/624/s1999A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999A
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3914
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

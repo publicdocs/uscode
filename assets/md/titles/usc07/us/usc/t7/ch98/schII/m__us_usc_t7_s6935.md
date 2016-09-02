@@ -57,7 +57,7 @@
 
         The position of Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs established under subsection (b)(2)(A) shall be appointed by the President, by and with the advice and consent of the Senate.
 
-([Pub. L. 113–79, title III, § 3208][/us/pl/113/79/s3208], Feb. 7, 2014, [128 Stat. 781][/us/stat/128/781].)
+([Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3208, Feb. 7, 2014, [128 Stat. 781][/us/stat/128/781].)
 
  __Codification__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3208
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F781
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 

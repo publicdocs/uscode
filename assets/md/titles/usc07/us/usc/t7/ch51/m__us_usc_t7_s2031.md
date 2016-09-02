@@ -251,13 +251,13 @@
 
         (4) The term “State” means the State of Minnesota.
 
-([Pub. L. 88–525, § 22][/us/pl/88/525/s22], as added [Pub. L. 101–202][/us/pl/101/202], Dec. 6, 1989, [103 Stat. 1796][/us/stat/103/1796]; amended [Pub. L. 102–237, title IX, § 941(11)][/us/pl/102/237/s941/11], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 107–171, title IV, § 4118(d)][/us/pl/107/171/s4118/d], May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1108; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1870; [Pub. L. 113–79, title IV, § 4030(k)][/us/pl/113/79/s4030/k], Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
+([Pub. L. 88–525][/us/pl/88/525], § 22, as added [Pub. L. 101–202][/us/pl/101/202], Dec. 6, 1989, [103 Stat. 1796][/us/stat/103/1796]; amended [Pub. L. 102–237, title IX][/us/pl/102/237/tIX], § 941(11), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4118(d), May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1108; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1870; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(k), Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __References in Text__ 
 
-    The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(e), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to [section 682 of Title 42][/us/usc/t42/s682], The Public Health and Welfare, prior to repeal by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
+    Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to [section 682 of Title 42][/us/usc/t42/s682], The Public Health and Welfare, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(e), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
 
  __Codification__ 
 
@@ -267,37 +267,37 @@
 
     2014—Subsec. (b)(10)(B)(i). [Pub. L. 113–79][/us/pl/113/79] substituted “Benefits shall” for “Food benefits shall”.
 
-    2008—[Pub. L. 110–246, § 4002(a)(11)(A)][/us/pl/110/246/s4002/a/11/A], substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4002(a)(11)(A), substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-    Subsec. (b)(3)(D). [Pub. L. 110–246, § 4115(b)(15)(B)][/us/pl/110/246/s4115/b/15/B], substituted “benefits” for “coupons” in two places.
+    Subsec. (b)(3)(D). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(B), substituted “benefits” for “coupons” in two places.
 
-    Subsec. (b)(9). [Pub. L. 110–246, § 4115(b)(15)(B)][/us/pl/110/246/s4115/b/15/B], substituted “benefits” for “coupons”.
+    Subsec. (b)(9). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(B), substituted “benefits” for “coupons”.
 
-    Subsec. (b)(10)(B)(i). [Pub. L. 110–246, § 4115(b)(15)(B)][/us/pl/110/246/s4115/b/15/B], substituted “benefits shall be issued” for “coupons shall be issued”.
+    Subsec. (b)(10)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(B), substituted “benefits shall be issued” for “coupons shall be issued”.
 
-    Subsec. (b)(10)(B)(ii). [Pub. L. 110–246, § 4115(b)(15)(A)][/us/pl/110/246/s4115/b/15/A], (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
+    Subsec. (b)(10)(B)(ii). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(A), (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
 
-    Subsec. (b)(12). [Pub. L. 110–246, § 4002(a)(11)(B)][/us/pl/110/246/s4002/a/11/B], made technical amendment to reference in original Act which appears in text as reference to this chapter.
+    Subsec. (b)(12). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
-    Subsec. (d)(1), (2). [Pub. L. 110–246, § 4115(b)(15)(B)][/us/pl/110/246/s4115/b/15/B], substituted “benefits” for “coupons” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(B), substituted “benefits” for “coupons” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 110–246, § 4002(a)(11)(B)][/us/pl/110/246/s4002/a/11/B], made technical amendment to reference in original Act which appears in text as reference to this chapter.
+    Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
-    Subsec. (g)(1). [Pub. L. 110–246, § 4002(a)(11)(C)][/us/pl/110/246/s4002/a/11/C], made technical amendment to reference in original Act which appears in introductory provisions as reference to this chapter.
+    Subsec. (g)(1). [Pub. L. 110–246][/us/pl/110/246], § 4002(a)(11)(C), made technical amendment to reference in original Act which appears in introductory provisions as reference to this chapter.
 
-    Subsec. (g)(1)(A). [Pub. L. 110–246, § 4115(b)(15)(C)][/us/pl/110/246/s4115/b/15/C], substituted “benefits” for “coupon”.
+    Subsec. (g)(1)(A). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(C), substituted “benefits” for “coupon”.
 
-    Subsec. (h). [Pub. L. 110–246, § 4115(b)(15)(A)][/us/pl/110/246/s4115/b/15/A], substituted “benefits” for “food coupons”.
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(15)(A), substituted “benefits” for “food coupons”.
 
     2002—Subsec. (h). [Pub. L. 107–171][/us/pl/107/171] substituted “[section 2025(c)(1) of this title][/us/usc/t7/s2025/c/1]” for “[section 2025(c)(1)(C) of this title][/us/usc/t7/s2025/c/1/C]” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under [section 2025(c)(1)(A) of this title][/us/usc/t7/s2025/c/1/A].” at end.
 
-    1991—[Pub. L. 102–237, § 941(11)(A)][/us/pl/102/237/s941/11/A], inserted section catchline.
+    1991—[Pub. L. 102–237][/us/pl/102/237], § 941(11)(A), inserted section catchline.
 
-    Subsec. (d)(2)(B). [Pub. L. 102–237, § 941(11)(B)][/us/pl/102/237/s941/11/B], substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
+    Subsec. (d)(2)(B). [Pub. L. 102–237][/us/pl/102/237], § 941(11)(B), substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
 
-    Subsec. (h). [Pub. L. 102–237, § 941(11)(C)][/us/pl/102/237/s941/11/C], substituted “subsection (b)(12)” for “subsection b(12)”.
+    Subsec. (h). [Pub. L. 102–237][/us/pl/102/237], § 941(11)(C), substituted “subsection (b)(12)” for “subsection b(12)”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -340,51 +340,51 @@
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
 [/us/usc/t7/s2025/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1
-[/us/pl/88/525/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs22
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/pl/101/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F202
 [/us/stat/103/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1796
-[/us/pl/102/237/s941/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs941%2F11
+[/us/pl/102/237/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/107/171/s4118/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4118%2Fd
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F321
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4030/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fk
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
-[/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2167
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs682
-[/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2167
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s4002/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F11%2FA
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4115/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FB
-[/us/pl/110/246/s4115/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FB
-[/us/pl/110/246/s4115/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FB
-[/us/pl/110/246/s4115/b/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FA
-[/us/pl/110/246/s4002/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F11%2FB
-[/us/pl/110/246/s4115/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FB
-[/us/pl/110/246/s4002/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F11%2FB
-[/us/pl/110/246/s4002/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F11%2FC
-[/us/pl/110/246/s4115/b/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FC
-[/us/pl/110/246/s4115/b/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2025/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1
 [/us/usc/t7/s2025/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FC
 [/us/usc/t7/s2025/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FA
-[/us/pl/102/237/s941/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs941%2F11%2FA
-[/us/pl/102/237/s941/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs941%2F11%2FB
-[/us/pl/102/237/s941/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs941%2F11%2FC
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -81,7 +81,7 @@
 
         (3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\].
 
-([Pub. L. 101–445, title III, § 301][/us/pl/101/445/s301], Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042]; [Pub. L. 113–79, title IV, § 4204][/us/pl/113/79/s4204], Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822].)
+([Pub. L. 101–445, title III][/us/pl/101/445/tIII], § 301, Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4204, Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822].)
 
  __References in Text__ 
 
@@ -99,9 +99,9 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/101/445/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs301
+[/us/pl/101/445/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtIII
 [/us/stat/104/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1042
-[/us/pl/113/79/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4204
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F822
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

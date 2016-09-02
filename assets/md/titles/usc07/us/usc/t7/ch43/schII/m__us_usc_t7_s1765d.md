@@ -17,7 +17,7 @@
 
     Upon the request of the Secretary of Agriculture, the Secretary of State may use the authorities contained in the Foreign Service Buildings Act, 1926 \[[22 U.S.C. 292][/us/usc/t22/s292] et seq.\], to acquire sites and buildings, including living quarters, for the purpose of establishing United States Agricultural Trade Offices.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605D, as added [Pub. L. 95–501, title IV, § 401(1)][/us/pl/95/501/s401/1], Oct. 21, 1978, [92 Stat. 1690][/us/stat/92/1690].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605D, as added [Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401(1), Oct. 21, 1978, [92 Stat. 1690][/us/stat/92/1690].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
-[/us/pl/95/501/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F1
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
 [/us/stat/92/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1690
 [/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F403

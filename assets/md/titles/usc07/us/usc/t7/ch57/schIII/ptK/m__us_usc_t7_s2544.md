@@ -17,7 +17,7 @@
 
     The use and reproduction of a protected variety for plant breeding or other bona fide research shall not constitute an infringement of the protection provided under this chapter.
 
-([Pub. L. 91–577, title III, § 114][/us/pl/91/577/s114], Dec. 24, 1970, [84 Stat. 1555][/us/stat/84/1555].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 114, Dec. 24, 1970, [84 Stat. 1555][/us/stat/84/1555].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs114
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1555
 
 

@@ -79,7 +79,7 @@
 
         Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).
 
-([Pub. L. 98–590, § 8][/us/pl/98/590/s8], Oct. 30, 1984, [98 Stat. 3119][/us/stat/98/3119]; [Pub. L. 105–185, title VI, § 605(g)][/us/pl/105/185/s605/g], June 23, 1998, [112 Stat. 596][/us/stat/112/596].)
+([Pub. L. 98–590][/us/pl/98/590], § 8, Oct. 30, 1984, [98 Stat. 3119][/us/stat/98/3119]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(g), June 23, 1998, [112 Stat. 596][/us/stat/112/596].)
 
  __Amendments__ 
 
@@ -93,9 +93,9 @@
 ----------
 
 [/us/usc/t7/s4608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4608
-[/us/pl/98/590/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs8
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3119
-[/us/pl/105/185/s605/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fg
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F596
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

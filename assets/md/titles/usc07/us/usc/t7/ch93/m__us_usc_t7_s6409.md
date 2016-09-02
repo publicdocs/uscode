@@ -55,7 +55,7 @@
 
         Except as provided in [section 6415(b) of this title][/us/usc/t7/s6415/b], the rate of assessment prescribed by the order shall be 20 cents per hundredweight of fluid milk products marketed.
 
-([Pub. L. 101–624, title XIX, § 1999J][/us/pl/101/624/s1999J], Nov. 28, 1990, [104 Stat. 3921][/us/stat/104/3921]; [Pub. L. 103–72, § 2(b)][/us/pl/103/72/s2/b], Aug. 11, 1993, [107 Stat. 717][/us/stat/107/717].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999J, Nov. 28, 1990, [104 Stat. 3921][/us/stat/104/3921]; [Pub. L. 103–72][/us/pl/103/72], § 2(b), Aug. 11, 1993, [107 Stat. 717][/us/stat/107/717].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/usc/t7/s4504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504%2Fg
 [/us/usc/t7/s6415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6415%2Fb
-[/us/pl/101/624/s1999J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999J
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3921
-[/us/pl/103/72/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F72%2Fs2%2Fb
+[/us/pl/103/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F72
 [/us/stat/107/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F717
 [/us/pl/103/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F72
 [/us/usc/t7/s4504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504%2Fg

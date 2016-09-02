@@ -75,7 +75,7 @@
 
         The Stacked Income Protection Plan is in addition to all other coverages available to producers of upland cotton.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508B, as added [Pub. L. 113–79, title XI, § 11017(a)][/us/pl/113/79/s11017/a], Feb. 7, 2014, [128 Stat. 964][/us/stat/128/964].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508B, as added [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11017(a), Feb. 7, 2014, [128 Stat. 964][/us/stat/128/964].)
 
 ----------
 
@@ -89,7 +89,7 @@
 [/us/usc/t7/s1508/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fe%2F4
 [/us/usc/t7/s1508/k/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fk%2F4%2FF
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/113/79/s11017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11017%2Fa
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F964
 
 

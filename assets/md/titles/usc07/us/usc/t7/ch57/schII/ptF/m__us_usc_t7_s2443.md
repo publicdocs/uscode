@@ -17,7 +17,7 @@
 
     When an application for plant variety protection has been refused by the Plant Variety Protection Office, the applicant may appeal to the Secretary. The Secretary shall seek the advice of the Plant Variety Protection Board on all appeals, before deciding the appeal.
 
-([Pub. L. 91–577, title II, § 63][/us/pl/91/577/s63], Dec. 24, 1970, [84 Stat. 1550][/us/stat/84/1550].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 63, Dec. 24, 1970, [84 Stat. 1550][/us/stat/84/1550].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs63
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1550
 
 

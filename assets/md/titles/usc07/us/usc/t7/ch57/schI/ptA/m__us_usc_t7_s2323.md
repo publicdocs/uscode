@@ -17,7 +17,7 @@
 
     The organization of the Plant Variety Protection Office shall, except as provided herein, be determined by the Secretary of Agriculture (hereinafter called the Secretary). The office shall devote itself substantially exclusively to the administration of this chapter.
 
-([Pub. L. 91–577, title I, § 3][/us/pl/91/577/s3], Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 3, Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs3
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542
 
 

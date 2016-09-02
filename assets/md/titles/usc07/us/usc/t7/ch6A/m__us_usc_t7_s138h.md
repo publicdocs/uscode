@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate regulations to carry out this chapter.
 
-([Pub. L. 101–624, title XIII, § 1329][/us/pl/101/624/s1329], Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1329, Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1329
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3565
 
 

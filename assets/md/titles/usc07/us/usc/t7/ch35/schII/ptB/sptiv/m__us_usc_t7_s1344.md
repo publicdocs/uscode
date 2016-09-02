@@ -81,7 +81,7 @@
 
         (2) In apportioning the county allotment among the farms within the county, the Secretary, through the local committees, shall take into consideration different conditions within separate administrative areas within a county if any exist, including types, kinds, and productivity of the soil so as to prevent discrimination among the administrative areas of the county.
 
-    (h) __Repealed.__  __[__  __Feb. 16, 1938, ch. 30__  __][/us/act/1938-02-16/ch30]__  __, title III, § 378(d), as added__  __Aug. 28, 1958__  __,__  __[__  __Pub. L. 85–835, title V, § 501__  __][/us/pl/85/835/s501]__  __,__  __[__  __72 Stat. 996__  __][/us/stat/72/996]__ 
+    (h) __Repealed.__  __[__  __Feb. 16, 1938, ch. 30__  __][/us/act/1938-02-16/ch30]__  __, title III, § 378(d), as added__  __Aug. 28, 1958__  __,__  __[__  __Pub. L. 85–835, title V__  __][/us/pl/85/835/tV]__  __, § 501,__  __[__  __72 Stat. 996__  __][/us/stat/72/996]__ 
 
     (i) __Excess planting; old and new farm allotment__ 
 
@@ -125,25 +125,25 @@
 
         Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of a natural disaster a portion of the farm cotton acreage allotments in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of the cotton acreage allotment for any farm in the county so affected to another farm in the county or in an adjoining county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this paragraph shall be deemed to be released acreage for purposes of acreage history credits under subsections (f)(8) and (m)(2) of this section, and [section 1377 of this title][/us/usc/t7/s1377]: Provided, That, notwithstanding the provisions of subsection (m)(2) of this section, the transfer of any farm allotment under this subsection for any year shall operate to make the farm from which the allotment was transferred eligible for an allotment as having cotton planted thereon during the three-year base period.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 344, [52 Stat. 57][/us/stat/52/57]; [Apr. 7, 1938, ch. 107, § 9][/us/act/1938-04-07/ch107/s9], [52 Stat. 203][/us/stat/52/203]; [May 31, 1938, ch. 292, § 1][/us/act/1938-05-31/ch292/s1], [52 Stat. 586][/us/stat/52/586]; [Mar. 13, 1939, ch. 9][/us/act/1939-03-13/ch9], [53 Stat. 512][/us/stat/53/512]; [June 22, 1939, ch. 238][/us/act/1939-06-22/ch238], §§ 1–3, [53 Stat. 853][/us/stat/53/853]; [Feb. 6, 1942, ch. 44, § 3][/us/act/1942-02-06/ch44/s3], [56 Stat. 52][/us/stat/56/52]; [Aug. 29, 1949, ch. 518, § 1][/us/act/1949-08-29/ch518/s1], [63 Stat. 670][/us/stat/63/670]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 419, [63 Stat. 1062][/us/stat/63/1062]; [Mar. 31, 1950, ch. 81, § 1][/us/act/1950-03-31/ch81/s1], [64 Stat. 40][/us/stat/64/40]; [Jan. 30, 1954, ch. 2][/us/act/1954-01-30/ch2], §§ 1–3, [68 Stat. 4–6][/us/stat/68/4-6]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 310, [68 Stat. 904][/us/stat/68/904]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title III, § 303(a)–(d), [70 Stat. 203][/us/stat/70/203]; [Pub. L. 85–456][/us/pl/85/456], June 11, 1958, [72 Stat. 186][/us/stat/72/186]; [Pub. L. 85–835, title I][/us/pl/85/835], §§ 103(4), 104(a)–(d), 105–107, Aug. 28, 1958, [72 Stat. 990–992][/us/stat/72/990-992]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 378(d), as added [Pub. L. 85–835, title V, § 501][/us/pl/85/835/s501], Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 86–172, § 2][/us/pl/86/172/s2], Aug. 18, 1959, [73 Stat. 393][/us/stat/73/393]; [Pub. L. 87–37][/us/pl/87/37], May 20, 1961, [75 Stat. 84][/us/stat/75/84]; [Pub. L. 87–446][/us/pl/87/446], Apr. 27, 1962, [76 Stat. 64][/us/stat/76/64]; [Pub. L. 88–12][/us/pl/88/12], Apr. 26, 1963, [77 Stat. 13][/us/stat/77/13]; [Pub. L. 88–297, title I, § 106(3)][/us/pl/88/297/s106/3], (8), Apr. 11, 1964, [78 Stat. 177][/us/stat/78/177]; [Pub. L. 104–127, title III, § 336(b)(2)(A)][/us/pl/104/127/s336/b/2/A], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 344, [52 Stat. 57][/us/stat/52/57]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], § 9, [52 Stat. 203][/us/stat/52/203]; [May 31, 1938, ch. 292][/us/act/1938-05-31/ch292], § 1, [52 Stat. 586][/us/stat/52/586]; [Mar. 13, 1939, ch. 9][/us/act/1939-03-13/ch9], [53 Stat. 512][/us/stat/53/512]; [June 22, 1939, ch. 238][/us/act/1939-06-22/ch238], §§ 1–3, [53 Stat. 853][/us/stat/53/853]; [Feb. 6, 1942, ch. 44][/us/act/1942-02-06/ch44], § 3, [56 Stat. 52][/us/stat/56/52]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 1, [63 Stat. 670][/us/stat/63/670]; [Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 419, [63 Stat. 1062][/us/stat/63/1062]; [Mar. 31, 1950, ch. 81][/us/act/1950-03-31/ch81], § 1, [64 Stat. 40][/us/stat/64/40]; [Jan. 30, 1954, ch. 2][/us/act/1954-01-30/ch2], §§ 1–3, [68 Stat. 4–6][/us/stat/68/4-6]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 310, [68 Stat. 904][/us/stat/68/904]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title III, § 303(a)–(d), [70 Stat. 203][/us/stat/70/203]; [Pub. L. 85–456][/us/pl/85/456], June 11, 1958, [72 Stat. 186][/us/stat/72/186]; [Pub. L. 85–835, title I][/us/pl/85/835/tI], §§ 103(4), 104(a)–(d), 105–107, Aug. 28, 1958, [72 Stat. 990–992][/us/stat/72/990-992]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 378(d), as added [Pub. L. 85–835, title V][/us/pl/85/835/tV], § 501, Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 86–172][/us/pl/86/172], § 2, Aug. 18, 1959, [73 Stat. 393][/us/stat/73/393]; [Pub. L. 87–37][/us/pl/87/37], May 20, 1961, [75 Stat. 84][/us/stat/75/84]; [Pub. L. 87–446][/us/pl/87/446], Apr. 27, 1962, [76 Stat. 64][/us/stat/76/64]; [Pub. L. 88–12][/us/pl/88/12], Apr. 26, 1963, [77 Stat. 13][/us/stat/77/13]; [Pub. L. 88–297, title I][/us/pl/88/297/tI], § 106(3), (8), Apr. 11, 1964, [78 Stat. 177][/us/stat/78/177]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(b)(2)(A), Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].)
 
  __References in Text__ 
 
     Public Law 12, Seventy-ninth Congress, referred to in subsecs. (b), (c), (d), (f), (l), is [act Feb. 28, 1945, ch. 15][/us/act/1945-02-28/ch15], [59 Stat. 9][/us/stat/59/9], which related to Emergency Farm Acreage Allotments. See note below. For complete classification of this Act to the Code, see Tables.
 
-    The Soil Bank Act, referred to in subsec. (f)(8), is [act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], [70 Stat. 188][/us/stat/70/188], as amended, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by [Pub. L. 89–321, title VI, § 601][/us/pl/89/321/s601], Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]. For complete classification of this Act to the Code prior to its repeal, see Tables.
+    The Soil Bank Act, referred to in subsec. (f)(8), is [act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], [70 Stat. 188][/us/stat/70/188], as amended, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by [Pub. L. 89–321, title VI][/us/pl/89/321/tVI], § 601, Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
     The Food Security Act of 1985, referred to in subsec. (f)(8), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
-    [Section 1347 of this title][/us/usc/t7/s1347], referred to in subsec. (m)(1), (2), was repealed by [Pub. L. 98–88, § 2][/us/pl/98/88/s2], Aug. 26, 1983, [97 Stat. 494][/us/stat/97/494].
+    [Section 1347 of this title][/us/usc/t7/s1347], referred to in subsec. (m)(1), (2), was repealed by [Pub. L. 98–88][/us/pl/98/88], § 2, Aug. 26, 1983, [97 Stat. 494][/us/stat/97/494].
 
  __Amendments__ 
 
     1996—Subsec. (f)(8). [Pub. L. 104–127][/us/pl/104/127] substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Great Plains program”.
 
-    1964—Subsec. (f)(8). [Pub. L. 88–297, § 106(3)][/us/pl/88/297/s106/3], inserted “or, in the case of a farm which qualified for price support on the crop produced in such year under [section 1444(b) of this title][/us/usc/t7/s1444/b], 75 per centum of the farm domestic allotment established under [section 1350 of this title][/us/usc/t7/s1350] for such year, whichever is smaller” after “75 per centum of the farm allotment for such year” to protect the farm base of any farm participating in the domestic allotment choice program if the acreage planted on the farm was at least 75 per centum of the farm domestic allotment.
+    1964—Subsec. (f)(8). [Pub. L. 88–297][/us/pl/88/297], § 106(3), inserted “or, in the case of a farm which qualified for price support on the crop produced in such year under [section 1444(b) of this title][/us/usc/t7/s1444/b], 75 per centum of the farm domestic allotment established under [section 1350 of this title][/us/usc/t7/s1350] for such year, whichever is smaller” after “75 per centum of the farm allotment for such year” to protect the farm base of any farm participating in the domestic allotment choice program if the acreage planted on the farm was at least 75 per centum of the farm domestic allotment.
 
-    Subsec. (n). [Pub. L. 88–297, § 106(8)][/us/pl/88/297/s106/8], extended the transfer provisions to natural disasters occurring in any year instead of only during 1963.
+    Subsec. (n). [Pub. L. 88–297][/us/pl/88/297], § 106(8), extended the transfer provisions to natural disasters occurring in any year instead of only during 1963.
 
     1963—Subsec. (n). [Pub. L. 88–12][/us/pl/88/12] substituted “portion of the 1963” for “substantial portion of the 1962”, and inserted proviso “that notwithstanding subsection (m)(2) of this section, transfers under this subsection for 1963 makes the farm from which the allotment was transferred eligible for an allotment as having cotton during the three-year period”.
 
@@ -151,31 +151,31 @@
 
     1961—Subsec. (n). [Pub. L. 87–37][/us/pl/87/37] substituted “1961” for “1958”, and “Any farm allotment transferred under this paragraph shall be deemed to be released acreage for purposes of acreage history credits under subsections (f)(8) and (m)(2) of this section, and [section 1377 of this title][/us/usc/t7/s1377]” for “Acreage history credits for transferred acreage shall be governed by the provisions of subsection (m)(2) of this section pertaining to the release and reapportionment of acreage allotments. No transfer hereunder shall be made to a farm covered by a 1958 acreage reserve contract for cotton.”
 
-    1959—Subsec. (f)(8). [Pub. L. 86–172, § 2(1)][/us/pl/86/172/s2/1], inserted proviso for determination of base beginning with allotments established for the 1961 crop of cotton, and inserted provisions prohibiting the adjustment of the base for a farm where the county committee determines that failure to plant at least 75 per centum of the farm allotment was due to conditions beyond control of producers on the farm, and requiring the Secretary to establish limitations to prevent allocations of allotment to farms not affected by proviso.
+    1959—Subsec. (f)(8). [Pub. L. 86–172][/us/pl/86/172], § 2(1), inserted proviso for determination of base beginning with allotments established for the 1961 crop of cotton, and inserted provisions prohibiting the adjustment of the base for a farm where the county committee determines that failure to plant at least 75 per centum of the farm allotment was due to conditions beyond control of producers on the farm, and requiring the Secretary to establish limitations to prevent allocations of allotment to farms not affected by proviso.
 
-    Subsec. (g)(3). [Pub. L. 86–172, § 2(2)][/us/pl/86/172/s2/2], repealed par. (3) which provided that for any farm on which the acreage planted to cotton in any year was less than the farm acreage allotment for such year by not more than the larger of 10 per centum of the allotment or one acre, an acreage equal to the farm acreage allotment should be deemed to be the acreage planted to cotton on such farm, and the additional acreage added to the cotton acreage history for the farm should be added to the cotton acreage history for the county and State.
+    Subsec. (g)(3). [Pub. L. 86–172][/us/pl/86/172], § 2(2), repealed par. (3) which provided that for any farm on which the acreage planted to cotton in any year was less than the farm acreage allotment for such year by not more than the larger of 10 per centum of the allotment or one acre, an acreage equal to the farm acreage allotment should be deemed to be the acreage planted to cotton on such farm, and the additional acreage added to the cotton acreage history for the farm should be added to the cotton acreage history for the county and State.
 
-    Subsec. (i). [Pub. L. 86–172, § 2(3)][/us/pl/86/172/s2/3], inserted provisions respecting eligibility for old and new farm allotment.
+    Subsec. (i). [Pub. L. 86–172][/us/pl/86/172], § 2(3), inserted provisions respecting eligibility for old and new farm allotment.
 
-    Subsec. (m)(2). [Pub. L. 86–172, § 2(4)][/us/pl/86/172/s2/4], struck out “; but no such acreage shall be surrendered to the State committee so long as any farmer receiving a cotton acreage allotment in such county desires additional cotton acreage” after “subsection (e) of this section” and substituted “Any allotment released under this provision shall be regarded for the purpose of establishing future allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred” for “Any allotment transferred under this provision shall be regarded for the purposes of subsection (f) of this section as having been planted on the farm from which transferred rather than on the farm to which transferred” and “Acreage released under this paragraph shall be credited to the State in determining future allotments” for “Acreage surrendered, reapportioned under this paragraph, and planted shall be credited to the State and county in determining future acreage allotments”.
+    Subsec. (m)(2). [Pub. L. 86–172][/us/pl/86/172], § 2(4), struck out “; but no such acreage shall be surrendered to the State committee so long as any farmer receiving a cotton acreage allotment in such county desires additional cotton acreage” after “subsection (e) of this section” and substituted “Any allotment released under this provision shall be regarded for the purpose of establishing future allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred” for “Any allotment transferred under this provision shall be regarded for the purposes of subsection (f) of this section as having been planted on the farm from which transferred rather than on the farm to which transferred” and “Acreage released under this paragraph shall be credited to the State in determining future allotments” for “Acreage surrendered, reapportioned under this paragraph, and planted shall be credited to the State and county in determining future acreage allotments”.
 
-    1958—Subsec. (a). [Pub. L. 85–835, § 103(4)][/us/pl/85/835/s103/4], substituted “four” for “five” in second sentence.
+    1958—Subsec. (a). [Pub. L. 85–835][/us/pl/85/835], § 103(4), substituted “four” for “five” in second sentence.
 
-    Subsec. (b). [Pub. L. 85–835, § 104(a)][/us/pl/85/835/s104/a], established a national acreage reserve of 310,000 acres in addition to the national acreage allotment, provided that apportionments of additional acreage shall not be taken into account in establishing future State allotments, and inserted provisions for determination of needs for additional acreage.
+    Subsec. (b). [Pub. L. 85–835][/us/pl/85/835], § 104(a), established a national acreage reserve of 310,000 acres in addition to the national acreage allotment, provided that apportionments of additional acreage shall not be taken into account in establishing future State allotments, and inserted provisions for determination of needs for additional acreage.
 
-    Subsec. (e). [Pub. L. 85–835, § 104(b)][/us/pl/85/835/s104/b], inserted proviso relating to additional acreage allocated to a State.
+    Subsec. (e). [Pub. L. 85–835][/us/pl/85/835], § 104(b), inserted proviso relating to additional acreage allocated to a State.
 
-    Subsec. (f)(1). [Pub. L. 85–835, § 104(c)][/us/pl/85/835/s104/c], substituted “(A) ten acres; or (B) the acreage allotment established for the farm for the 1958 crop” for “(A) four acres; or (B) the highest number of acres planted to cotton in any year of such three-year period”.
+    Subsec. (f)(1). [Pub. L. 85–835][/us/pl/85/835], § 104(c), substituted “(A) ten acres; or (B) the acreage allotment established for the farm for the 1958 crop” for “(A) four acres; or (B) the highest number of acres planted to cotton in any year of such three-year period”.
 
-    Subsec. (f)(6). [Pub. L. 85–835, § 104(d)][/us/pl/85/835/s104/d], substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection”, “remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted” for “county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned”, and inserted provisions requiring the allotments to be a prescribed percentage of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined.
+    Subsec. (f)(6). [Pub. L. 85–835][/us/pl/85/835], § 104(d), substituted “provisions of paragraph (2) of this subsection” for “foregoing provisions of this subsection except paragraph (3) of this subsection”, “remainder of the county acreage allotment (after making allotments as provided in paragraph (1) of this subsection) shall be allotted” for “county acreage allotment, less the acreage reserved under paragraph (3) of this subsection, shall be apportioned”, and inserted provisions requiring the allotments to be a prescribed percentage of the average acreage planted to cotton on the farm during the three years immediately preceding the year for which such allotment is determined.
 
-    Subsec. (f)(7). [Pub. L. 85–835, § 105][/us/pl/85/835/s105], added par. (7).
+    Subsec. (f)(7). [Pub. L. 85–835][/us/pl/85/835], § 105, added par. (7).
 
-    Subsec. (f)(8). [Pub. L. 85–835, § 106][/us/pl/85/835/s106], added par. (8).
+    Subsec. (f)(8). [Pub. L. 85–835][/us/pl/85/835], § 106, added par. (8).
 
-    Subsec. (h). Act Feb. 16, 1938, § 378(d), as added by [Pub. L. 85–835, § 501][/us/pl/85/835/s501], repealed subsec. (h) which related to apportionment by county committee and reallocation of flood lands.
+    Subsec. (h). Act Feb. 16, 1938, § 378(d), as added by [Pub. L. 85–835][/us/pl/85/835], § 501, repealed subsec. (h) which related to apportionment by county committee and reallocation of flood lands.
 
-    Subsec. (m)(2). [Pub. L. 85–835, § 107][/us/pl/85/835/s107], provided that any cotton acreage which is surrendered shall be retained in the county and not surrendered to the State committee so long as any farmer in the county desires additional cotton acreage.
+    Subsec. (m)(2). [Pub. L. 85–835][/us/pl/85/835], § 107, provided that any cotton acreage which is surrendered shall be retained in the county and not surrendered to the State committee so long as any farmer in the county desires additional cotton acreage.
 
     Subsec. (n). [Pub. L. 85–456][/us/pl/85/456] added subsec. (n).
 
@@ -233,21 +233,21 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–835, title I, § 104(e)][/us/pl/85/835/s104/e], Aug. 28, 1958, [72 Stat. 991][/us/stat/72/991], provided that: 
+[Pub. L. 85–835, title I][/us/pl/85/835/tI], § 104(e), Aug. 28, 1958, [72 Stat. 991][/us/stat/72/991], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective beginning with the 1959 crop.”
 
-    [Pub. L. 85–835, title I, § 105][/us/pl/85/835/s105], Aug. 28, 1958, [72 Stat. 991][/us/stat/72/991], provided that the amendment made by that section is effective beginning with the 1959 crop.
+    [Pub. L. 85–835, title I][/us/pl/85/835/tI], § 105, Aug. 28, 1958, [72 Stat. 991][/us/stat/72/991], provided that the amendment made by that section is effective beginning with the 1959 crop.
 
  __Effective and Termination Dates of 1956 Amendment__ 
 
-[Act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title III, § 303(e), [70 Stat. 204][/us/stat/70/204], provided that: 
+[Act May 28, 1956, ch. 327, title III][/us/act/1956-05-28/ch327/tIII], § 303(e), [70 Stat. 204][/us/stat/70/204], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective only with respect to 1957 and 1958 crops. For the 1956 crop, an acreage in each State equal to the acreage allotted in such State which the Secretary determines will not be planted, placed in the acreage reserve or conservation reserve, or considered as planted under section 377 of the Agricultural Adjustment Act of 1938, as amended \[[7 U.S.C. 1377][/us/usc/t7/s1377]\], may be apportioned by the Secretary among farms in such State having allotments of less than the smaller of the following: (1) four acres, or (2) the highest number of acres planted to cotton in any of the years 1953, 1954, and 1955.”
 
  __Effective Date of 1954 Amendment__ 
 
-    [Act Jan. 30, 1954, ch. 2, § 3][/us/act/1954-01-30/ch2/s3], [68 Stat. 6][/us/stat/68/6], provided that the amendments made by section 3 are effective beginning with the 1955 crop.
+    [Act Jan. 30, 1954, ch. 2][/us/act/1954-01-30/ch2], § 3, [68 Stat. 6][/us/stat/68/6], provided that the amendments made by section 3 are effective beginning with the 1955 crop.
 
  __Savings Provision__ 
 
@@ -273,11 +273,11 @@
 
     Section inapplicable to 1978 through 1981 crops of upland cotton, see [section 601 of Pub. L. 95–113][/us/pl/95/113/s601], set out as a note under [section 1342 of this title][/us/usc/t7/s1342].
 
-    [Pub. L. 91–524, title VI, § 601(1)][/us/pl/91/524/s601/1], Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601(1), Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
  __Emergency Farm Acreage Allotment__ 
 
-    [Act Feb. 28, 1945, ch. 15][/us/act/1945-02-28/ch15], [59 Stat. 9][/us/stat/59/9], provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941, and which emergencies terminated on July 25, 1947, by the provisions of Joint Res. [July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451].
+    [Act Feb. 28, 1945, ch. 15][/us/act/1945-02-28/ch15], [59 Stat. 9][/us/stat/59/9], provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941, and which emergencies terminated on July 25, 1947, by the provisions of Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451].
 
  __County Committee Allotment__ 
 
@@ -298,28 +298,28 @@
 [/us/usc/t7/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1350
 [/us/usc/t7/s1344a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1344a
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/85/835/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs501
+[/us/pl/85/835/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtV
 [/us/stat/72/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F996
 [/us/usc/t7/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347
 [/us/usc/t7/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347
 [/us/usc/t7/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1377
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F57
-[/us/act/1938-04-07/ch107/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107%2Fs9
+[/us/act/1938-04-07/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107
 [/us/stat/52/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F203
-[/us/act/1938-05-31/ch292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch292%2Fs1
+[/us/act/1938-05-31/ch292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch292
 [/us/stat/52/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F586
 [/us/act/1939-03-13/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-03-13%2Fch9
 [/us/stat/53/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F512
 [/us/act/1939-06-22/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-22%2Fch238
 [/us/stat/53/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F853
-[/us/act/1942-02-06/ch44/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44%2Fs3
+[/us/act/1942-02-06/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44
 [/us/stat/56/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F52
-[/us/act/1949-08-29/ch518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs1
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F670
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1062
-[/us/act/1950-03-31/ch81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-31%2Fch81%2Fs1
+[/us/act/1950-03-31/ch81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-31%2Fch81
 [/us/stat/64/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F40
 [/us/act/1954-01-30/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-01-30%2Fch2
 [/us/stat/68/4-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F4-6
@@ -329,12 +329,12 @@
 [/us/stat/70/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F203
 [/us/pl/85/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F456
 [/us/stat/72/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F186
-[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/990-992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F990-992
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/85/835/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs501
+[/us/pl/85/835/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtV
 [/us/stat/72/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F996
-[/us/pl/86/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172%2Fs2
+[/us/pl/86/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172
 [/us/stat/73/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F393
 [/us/pl/87/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F37
 [/us/stat/75/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F84
@@ -342,53 +342,53 @@
 [/us/stat/76/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F64
 [/us/pl/88/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F12
 [/us/stat/77/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F13
-[/us/pl/88/297/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs106%2F3
+[/us/pl/88/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtI
 [/us/stat/78/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F177
-[/us/pl/104/127/s336/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fb%2F2%2FA
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1006
 [/us/act/1945-02-28/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-02-28%2Fch15
 [/us/stat/59/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F9
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F188
-[/us/pl/89/321/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs601
+[/us/pl/89/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVI
 [/us/stat/79/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1206
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/usc/t7/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347
-[/us/pl/98/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs2
+[/us/pl/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88
 [/us/stat/97/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F494
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/88/297/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs106%2F3
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/usc/t7/s1444/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Fb
 [/us/usc/t7/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1350
-[/us/pl/88/297/s106/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs106%2F8
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/pl/88/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F12
 [/us/pl/87/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F466
 [/us/pl/87/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F37
 [/us/usc/t7/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1377
-[/us/pl/86/172/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172%2Fs2%2F1
-[/us/pl/86/172/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172%2Fs2%2F2
-[/us/pl/86/172/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172%2Fs2%2F3
-[/us/pl/86/172/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172%2Fs2%2F4
-[/us/pl/85/835/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs103%2F4
-[/us/pl/85/835/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs104%2Fa
-[/us/pl/85/835/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs104%2Fb
-[/us/pl/85/835/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs104%2Fc
-[/us/pl/85/835/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs104%2Fd
-[/us/pl/85/835/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs105
-[/us/pl/85/835/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs106
-[/us/pl/85/835/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs501
-[/us/pl/85/835/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs107
+[/us/pl/86/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172
+[/us/pl/86/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172
+[/us/pl/86/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172
+[/us/pl/86/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F172
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
+[/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
 [/us/pl/85/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F456
-[/us/pl/85/835/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs104%2Fe
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F991
-[/us/pl/85/835/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs105
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F991
-[/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
+[/us/act/1956-05-28/ch327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327%2FtIII
 [/us/stat/70/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F204
 [/us/usc/t7/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1377
-[/us/act/1954-01-30/ch2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-01-30%2Fch2%2Fs3
+[/us/act/1954-01-30/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-01-30%2Fch2
 [/us/stat/68/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F6
 [/us/usc/t7/s1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1378
 [/us/pl/98/88/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs3
@@ -405,13 +405,13 @@
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
 [/us/pl/95/113/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs601
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
-[/us/pl/91/524/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601%2F1
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1371
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 [/us/act/1945-02-28/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-02-28%2Fch15
 [/us/stat/59/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F9
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 [/us/act/1939-03-13/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-03-13%2Fch9
 [/us/stat/53/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F512

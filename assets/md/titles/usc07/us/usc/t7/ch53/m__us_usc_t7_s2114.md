@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make such regulations with the force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-([Pub. L. 89–502, § 15][/us/pl/89/502/s15], July 13, 1966, [80 Stat. 285][/us/stat/80/285].)
+([Pub. L. 89–502][/us/pl/89/502], § 15, July 13, 1966, [80 Stat. 285][/us/stat/80/285].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/502/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs15
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F285
 
 

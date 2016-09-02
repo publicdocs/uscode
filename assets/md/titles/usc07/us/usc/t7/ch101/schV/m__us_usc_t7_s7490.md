@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations as are necessary to carry out this subchapter.
 
-([Pub. L. 104–127, title V, § 581][/us/pl/104/127/s581], Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 581, Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs581
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1083
 
 

@@ -27,7 +27,7 @@
 
         The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-([Pub. L. 89–502, § 9][/us/pl/89/502/s9], July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX, § 1994][/us/pl/101/624/s1994], Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912].)
+([Pub. L. 89–502][/us/pl/89/502], § 9, July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1994, Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/89/502/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs9
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F283
-[/us/pl/101/624/s1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1994
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3912
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

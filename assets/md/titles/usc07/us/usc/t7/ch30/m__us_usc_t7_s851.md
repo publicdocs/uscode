@@ -17,7 +17,7 @@
 
     It is declared to be the policy of Congress to insure the maintenance of an adequate supply of anti-hog-cholera serum and hog-cholera virus by regulating the marketing of such serum and virus in interstate and foreign commerce, and to prevent undue and excessive fluctuations and unfair methods of competition and unfair trade practices in such marketing.
 
-([Aug. 24, 1935, ch. 641, § 56][/us/act/1935-08-24/ch641/s56], [49 Stat. 781][/us/stat/49/781].)
+([Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 56, [49 Stat. 781][/us/stat/49/781].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-24/ch641/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs56
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F781
 
 

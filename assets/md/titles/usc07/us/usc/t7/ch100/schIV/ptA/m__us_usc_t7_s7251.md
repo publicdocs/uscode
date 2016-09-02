@@ -71,7 +71,7 @@
 
         This section (other than subsection (g)) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on May 31, 2002. The program authorized by this section shall terminate on May 31, 2002, and shall be considered to have expired notwithstanding [section 907 of title 2][/us/usc/t2/s907].
 
-([Pub. L. 104–127, title I, § 141][/us/pl/104/127/s141], Apr. 4, 1996, [110 Stat. 914][/us/stat/110/914]; [Pub. L. 106–78, title VIII, § 807(a)][/us/pl/106/78/s807/a], Oct. 22, 1999, [113 Stat. 1181][/us/stat/113/1181]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 742(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–35; [Pub. L. 107–76, title VII, § 772(a)][/us/pl/107/76/s772/a], Nov. 28, 2001, [115 Stat. 745][/us/stat/115/745].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 141, Apr. 4, 1996, [110 Stat. 914][/us/stat/110/914]; [Pub. L. 106–78, title VIII][/us/pl/106/78/tVIII], § 807(a), Oct. 22, 1999, [113 Stat. 1181][/us/stat/113/1181]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 742(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–35; [Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 772(a), Nov. 28, 2001, [115 Stat. 745][/us/stat/115/745].)
 
  __References in Text__ 
 
@@ -83,17 +83,17 @@
 
  __Amendments__ 
 
-    2001—Subsec. (b)(5). [Pub. L. 107–76, § 772(a)(1)][/us/pl/107/76/s772/a/1], added par. (5).
+    2001—Subsec. (b)(5). [Pub. L. 107–76][/us/pl/107/76], § 772(a)(1), added par. (5).
 
-    Subsec. (h). [Pub. L. 107–76, § 772(a)(2)][/us/pl/107/76/s772/a/2], substituted “May 31, 2002” for “December 31, 2001” in two places.
+    Subsec. (h). [Pub. L. 107–76][/us/pl/107/76], § 772(a)(2), substituted “May 31, 2002” for “December 31, 2001” in two places.
 
-    2000—Subsec. (b)(4). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 742(a)(1)\], substituted “through 2001” for “and 2000”.
+    2000—Subsec. (b)(4). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 742(a)(1)\], substituted “through 2001” for “and 2000”.
 
-    Subsec. (h). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 742(a)(2)\], substituted “2001” for “2000” in two places.
+    Subsec. (h). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 742(a)(2)\], substituted “2001” for “2000” in two places.
 
-    1999—Subsec. (b)(4). [Pub. L. 106–78, § 807(a)(1)][/us/pl/106/78/s807/a/1], substituted “each of calendar years 1999 and 2000” for “calendar year 1999”.
+    1999—Subsec. (b)(4). [Pub. L. 106–78][/us/pl/106/78], § 807(a)(1), substituted “each of calendar years 1999 and 2000” for “calendar year 1999”.
 
-    Subsec. (h). [Pub. L. 106–78, § 807(a)(2)][/us/pl/106/78/s807/a/2], substituted “2000” for “1999” in two places.
+    Subsec. (h). [Pub. L. 106–78][/us/pl/106/78], § 807(a)(2), substituted “2000” for “1999” in two places.
 
 ----------
 
@@ -105,24 +105,24 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s1446e/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446e%2Fh%2F2
 [/us/usc/t2/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907
-[/us/pl/104/127/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs141
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F914
-[/us/pl/106/78/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs807%2Fa
+[/us/pl/106/78/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVIII
 [/us/stat/113/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1181
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/76/s772/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs772%2Fa
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F745
 [/us/usc/t7/s1446e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446e
 [/us/pl/104/127/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs141
 [/us/pl/104/127/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs141
 [/us/usc/t7/s1446e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446e
 [/us/usc/t7/s1446e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446e
-[/us/pl/107/76/s772/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs772%2Fa%2F1
-[/us/pl/107/76/s772/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs772%2Fa%2F2
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
-[/us/pl/106/78/s807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs807%2Fa%2F1
-[/us/pl/106/78/s807/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs807%2Fa%2F2
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 
 

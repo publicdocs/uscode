@@ -53,7 +53,7 @@
 
         Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 221, as added [Pub. L. 106–78, title IX, § 934(2)][/us/pl/106/78/s934/2], Oct. 22, 1999, [113 Stat. 1208][/us/stat/113/1208].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 221, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 934(2), Oct. 22, 1999, [113 Stat. 1208][/us/stat/113/1208].)
 
  __Termination of Section__ 
 
@@ -73,7 +73,7 @@
 [/us/usc/t7/s198b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs198b%2Fa
 [/us/usc/t7/s1635i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635i
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/106/78/s934/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs934%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1208
 [/us/pl/106/78/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs942
 [/us/usc/t7/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635

@@ -47,7 +47,7 @@
 
         (2) the United States should increase its contribution of bona fide food assistance to developing countries consistent with the Agreement on Agriculture.
 
-([July 10, 1954, ch. 469, § 3][/us/act/1954-07-10/ch469/s3], as added [Pub. L. 94–161, title II, § 202][/us/pl/94/161/s202], Dec. 20, 1975, [89 Stat. 851][/us/stat/89/851]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 104–127, title II, § 201(a)][/us/pl/104/127/s201/a], Apr. 4, 1996, [110 Stat. 951][/us/stat/110/951]; [Pub. L. 110–246, title III, § 3003][/us/pl/110/246/s3003], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], § 3, as added [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 202, Dec. 20, 1975, [89 Stat. 851][/us/stat/89/851]; amended [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3633][/us/stat/104/3633]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 201(a), Apr. 4, 1996, [110 Stat. 951][/us/stat/110/951]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3003, June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __World Food Conference Recommendations__ 
 
-    [Pub. L. 94–161, title II, § 213][/us/pl/94/161/s213], Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855], directed the President to strengthen the efforts of the United States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by [Pub. L. 97–113, title VII, § 734(a)(7)][/us/pl/97/113/s734/a/7], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 213, Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855], directed the President to strengthen the efforts of the United States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(7), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
 ----------
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/act/1954-07-10/ch469/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2Fs3
-[/us/pl/94/161/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs202
+[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F851
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3633
-[/us/pl/104/127/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs201%2Fa
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F951
-[/us/pl/110/246/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3003
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -98,9 +98,9 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/94/161/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs213
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F855
-[/us/pl/97/113/s734/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F7
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 
 

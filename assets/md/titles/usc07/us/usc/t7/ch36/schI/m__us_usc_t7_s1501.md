@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Federal Crop Insurance Act”. Except as otherwise expressly provided the provisions in titles I to IV, inclusive, shall not apply with respect to this subchapter, and the term “Act” wherever it appears in such titles shall not be construed to include this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 501, [52 Stat. 72][/us/stat/52/72]; [Pub. L. 110–234, title XII, § 12033(c)][/us/pl/110/234/s12033/c], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 501, [52 Stat. 72][/us/stat/52/72]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12033(c)][/us/pl/110/246/s12033/c], inserted section catchline and substituted “subchapter” for “chapter” wherever appearing in text.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c), inserted section catchline and substituted “subchapter” for “chapter” wherever appearing in text.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–224, title I, § 171][/us/pl/106/224/s171], June 20, 2000, [114 Stat. 397][/us/stat/114/397], provided that:
+[Pub. L. 106–224, title I][/us/pl/106/224/tI], § 171, June 20, 2000, [114 Stat. 397][/us/stat/114/397], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -87,31 +87,31 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–224, § 1(a)][/us/pl/106/224/s1/a], June 20, 2000, [114 Stat. 358][/us/stat/114/358], provided that: 
+[Pub. L. 106–224][/us/pl/106/224], § 1(a), June 20, 2000, [114 Stat. 358][/us/stat/114/358], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Agricultural Risk Protection Act of 2000’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–354, title I, § 101(a)][/us/pl/103/354/s101/a], Oct. 13, 1994, [108 Stat. 3179][/us/stat/108/3179], provided that: 
+[Pub. L. 103–354, title I][/us/pl/103/354/tI], § 101(a), Oct. 13, 1994, [108 Stat. 3179][/us/stat/108/3179], provided that: 
 
 > “This title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending sections 1441–2, 1444–2, 1444f, 1445b–3a, 1502 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and [section 1014 of Title 18][/us/usc/t18/s1014], Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1502, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] may be cited as the ‘Federal Crop Insurance Reform Act of 1994’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–365, § 1][/us/pl/96/365/s1], Sept, 26, 1980, [94 Stat. 1312][/us/stat/94/1312], provided: 
+[Pub. L. 96–365][/us/pl/96/365], § 1, Sept, 26, 1980, [94 Stat. 1312][/us/stat/94/1312], provided: 
 
 > “That this Act \[amending sections 1441, 1444, 1444c, 1445b, 1504, 1505, 1506, 1507, 1508, 1516, and 1518 and repealing [section 1515 of this title][/us/usc/t7/s1515] and enacting provisions set out as notes under sections 1504, 1508, and 1516 of this title\] may be cited as the ‘Federal Crop Insurance Act of 1980’.”
 
  __Regulations__ 
 
-[Pub. L. 106–224, title I, § 172][/us/pl/106/224/s172], June 20, 2000, [114 Stat. 397][/us/stat/114/397], provided that: 
+[Pub. L. 106–224, title I][/us/pl/106/224/tI], § 172, June 20, 2000, [114 Stat. 397][/us/stat/114/397], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this Act \[June 20, 2000\], the Secretary of Agriculture shall promulgate regulations to carry out this Act \[probably means this title, see Tables for classification\] and the amendments made by this Act.”
 
  __Savings Clause__ 
 
-[Pub. L. 106–224, title I, § 173][/us/pl/106/224/s173], June 20, 2000, [114 Stat. 398][/us/stat/114/398], provided that: 
+[Pub. L. 106–224, title I][/us/pl/106/224/tI], § 173, June 20, 2000, [114 Stat. 398][/us/stat/114/398], provided that: 
 
 > “The Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.) and section 196 of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7333][/us/usc/t7/s7333]), as in effect on day before the date of the enactment of this Act \[June 20, 2000\], shall—
 
@@ -128,9 +128,9 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
-[/us/pl/110/234/s12033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31
@@ -139,13 +139,13 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/106/224/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs171
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F397
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
@@ -162,18 +162,18 @@
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
 [/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
-[/us/pl/106/224/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs1%2Fa
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F358
-[/us/pl/103/354/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs101%2Fa
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3179
 [/us/usc/t18/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1014
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/96/365/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs1
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/stat/94/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1312
 [/us/usc/t7/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1515
-[/us/pl/106/224/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs172
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F397
-[/us/pl/106/224/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs173
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F398
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333

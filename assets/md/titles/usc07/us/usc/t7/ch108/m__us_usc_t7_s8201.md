@@ -33,7 +33,7 @@
 
         The term “tree” includes a tree, bush, and vine.
 
-([Pub. L. 107–171, title X, § 10201][/us/pl/107/171/s10201], May 13, 2002, [116 Stat. 490][/us/stat/116/490].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10201, May 13, 2002, [116 Stat. 490][/us/stat/116/490].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10201
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F490
 
 

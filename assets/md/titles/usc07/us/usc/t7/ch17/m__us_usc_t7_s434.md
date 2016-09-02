@@ -21,7 +21,7 @@
 
     (c) All records and property (including office furniture and equipment) under the jurisdiction of the Secretary of the Interior and the Fish and Wildlife Service of the Department of the Interior used primarily in connection with the administration of functions transferred by said sections are transferred to the jurisdiction of the Secretary of Agriculture.
 
-([Apr. 30, 1946, ch. 242, § 2][/us/act/1946-04-30/ch242/s2], [60 Stat. 127][/us/stat/60/127]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
+([Apr. 30, 1946, ch. 242][/us/act/1946-04-30/ch242], § 2, [60 Stat. 127][/us/stat/60/127]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t7/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs433
-[/us/act/1946-04-30/ch242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242%2Fs2
+[/us/act/1946-04-30/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch242
 [/us/stat/60/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F127
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t7/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs433

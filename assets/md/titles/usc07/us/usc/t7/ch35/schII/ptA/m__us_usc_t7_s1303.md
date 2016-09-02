@@ -17,7 +17,7 @@
 
     If and when appropriations are made therefor, the Secretary is authorized and directed to make payments to producers of corn, wheat, cotton, or rice, on their normal production of such commodities in amounts which, together with the proceeds thereof, will provide a return to such producers which is as nearly equal to parity price as the funds so made available will permit. All funds available for such payments with respect to these commodities shall unless otherwise provided by law, be apportioned to these commodities in proportion to the amount by which each fails to reach the parity income. Such payments shall be in addition to and not in substitution for any other payments authorized by law.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 303, [52 Stat. 45][/us/stat/52/45]; [Pub. L. 108–357, title VI, § 611(g)][/us/pl/108/357/s611/g], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 303, [52 Stat. 45][/us/stat/52/45]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(g), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F45
-[/us/pl/108/357/s611/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fg
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

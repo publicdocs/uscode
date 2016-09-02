@@ -31,7 +31,7 @@
 
         A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action.
 
-([Pub. L. 94–294, § 9][/us/pl/94/294/s9], May 28, 1976, [90 Stat. 534][/us/stat/90/534]; [Pub. L. 95–334, title III, § 302][/us/pl/95/334/s302], Aug. 4, 1978, [92 Stat. 433][/us/stat/92/433]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1605][/us/stat/99/1605].)
+([Pub. L. 94–294][/us/pl/94/294], § 9, May 28, 1976, [90 Stat. 534][/us/stat/90/534]; [Pub. L. 95–334, title III][/us/pl/95/334/tIII], § 302, Aug. 4, 1978, [92 Stat. 433][/us/stat/92/433]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1605][/us/stat/99/1605].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/94/294/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs9
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F534
-[/us/pl/95/334/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs302
+[/us/pl/95/334/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtIII
 [/us/stat/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F433
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1605
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334

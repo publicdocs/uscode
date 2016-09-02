@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed as providing for a cause of action under this section.
 
-([Pub. L. 101–624, title XIX, § 1999T][/us/pl/101/624/s1999T], Nov. 28, 1990, [104 Stat. 3928][/us/stat/104/3928].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999T, Nov. 28, 1990, [104 Stat. 3928][/us/stat/104/3928].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999T
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3928
 
 

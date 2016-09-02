@@ -29,7 +29,7 @@
 
     (6) promote local partnerships and other coordination between borrowers under this chapter and community organizations, States, counties, or other entities, to improve rural development.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title V, § 501, as added [Pub. L. 101–624, title XXIII, § 2345][/us/pl/101/624/s2345], Nov. 28, 1990, [104 Stat. 4029][/us/stat/104/4029]; amended [Pub. L. 102–237, title VII, § 703(c)][/us/pl/102/237/s703/c], Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881]; [Pub. L. 103–354, title II, § 235(a)(12)][/us/pl/103/354/s235/a/12], (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII, § 781(b)][/us/pl/104/127/s781/b], Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title V, § 501, as added [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2345, Nov. 28, 1990, [104 Stat. 4029][/us/stat/104/4029]; amended [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 703(c), Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(12), (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 781(b), Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 
 [/us/usc/t7/s940b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs940b
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/101/624/s2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2345
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4029
-[/us/pl/102/237/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs703%2Fc
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1881
-[/us/pl/103/354/s235/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F12
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
-[/us/pl/104/127/s781/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs781%2Fb
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1151
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s950aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950aa%E2%80%931

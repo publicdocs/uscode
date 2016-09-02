@@ -17,7 +17,7 @@
 
     Claims for indemnities under this subchapter shall not be liable to attachment, levy, garnishment, or any other legal process before payment to the insured or to deduction on account of the indebtedness of the insured or the estate of the insured to the United States except claims of the United States or the Corporation arising under this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 509, [52 Stat. 75][/us/stat/52/75]; [Pub. L. 103–354, title I, § 115(c)][/us/pl/103/354/s115/c], Oct. 13, 1994, [108 Stat. 3204][/us/stat/108/3204]; [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 509, [52 Stat. 75][/us/stat/52/75]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 115(c), Oct. 13, 1994, [108 Stat. 3204][/us/stat/108/3204]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c)(2)(B), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in two places.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in two places.
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “or the estate of the insured” for “or his estate”.
 
@@ -52,17 +52,17 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F75
-[/us/pl/103/354/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs115%2Fc
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3204
-[/us/pl/110/234/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

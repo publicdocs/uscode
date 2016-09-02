@@ -51,11 +51,11 @@
 
         Any guarantee of a loan prepaid under this section shall be fully assignable under the provisions of [section 936 of this title][/us/usc/t7/s936] and transferable. However, the Secretary may require that any such guarantee, if transfered  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “transferred”. </sup></sup>  or assigned, be transferred or assigned to a loan or security that, if sold, will be grouped with nonguaranteed loans or securities and sold in a manner to ensure that such sale will not unreasonably compete with the marketing of obligations of the United States.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306A, as added [Pub. L. 99–509, title I, § 1011(a)][/us/pl/99/509/s1011/a], Oct. 21, 1986, [100 Stat. 1875][/us/stat/100/1875]; amended [Pub. L. 103–354, title II, § 235(a)(7)][/us/pl/103/354/s235/a/7], (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306A, as added [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1011(a), Oct. 21, 1986, [100 Stat. 1875][/us/stat/100/1875]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(7), (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __References in Text__ 
 
-    [Public Law 99–349][/us/pl/99/349], referred to in subsec. (d)(1), is [Pub. L. 99–349][/us/pl/99/349], July 2, 1986, [100 Stat. 710][/us/stat/100/710], known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of [Pub. L. 99–349][/us/pl/99/349] relating to prepayment of loans were set out as a note under [section 936 of this title][/us/usc/t7/s936] and were repealed by [Pub. L. 99–509, title I, § 1011(b)][/us/pl/99/509/s1011/b], Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876]. For complete classification of this Act to the Code, see Tables.
+    [Public Law 99–349][/us/pl/99/349], referred to in subsec. (d)(1), is [Pub. L. 99–349][/us/pl/99/349], July 2, 1986, [100 Stat. 710][/us/stat/100/710], known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of [Pub. L. 99–349][/us/pl/99/349] relating to prepayment of loans were set out as a note under [section 936 of this title][/us/usc/t7/s936] and were repealed by [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1011(b), Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Prepayment of Rural Electrification Loans During Fiscal Year 1988__ 
 
-[Pub. L. 100–203, title I, § 1401][/us/pl/100/203/s1401], Dec. 22, 1987, [101 Stat. 1330–20][/us/stat/101/1330-20], provided that:
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1401, Dec. 22, 1987, [101 Stat. 1330–20][/us/stat/101/1330-20], provided that:
 
 >     “(a)  __Eligibility to Prepay__  __.—__ 
 
@@ -111,17 +111,17 @@
 
  __Prepayment of Guaranteed Loans; Restrictions__ 
 
-[Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title VI, § 633\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–356, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(k) \[title VI, § 633\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–356, provided that: 
 
 > “Hereafter, notwithstanding section 306A(c), (d), and (e) of the Rural Electrification Act of 1936, as amended \[[7 U.S.C. 936a(c)][/us/usc/t7/s936a/c], (d), (e)\], a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act ([7 U.S.C. 936][/us/usc/t7/s936]) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A(a) and (b) of such Act: Provided, That any prepayment in excess of $2,500,000,000 shall be subject to the approval of the Secretary of the Treasury.”
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 429][/us/stat/101/429], provided in part that: 
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 429][/us/stat/101/429], provided in part that: 
 
 > “Hereafter, notwithstanding section 306A(d) of the Rural Electrification Act of 1936 ([7 U.S.C. 936a(d)][/us/usc/t7/s936a/d]), a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act ([7 U.S.C. 936][/us/usc/t7/s936]) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A of such Act.”
 
  __Regulations__ 
 
-[Pub. L. 99–509, title I, § 1011(c)][/us/pl/99/509/s1011/c], Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876], provided that: 
+[Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1011(c), Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876], provided that: 
 
 > “The Secretary of Agriculture shall issue regulations to implement this section \[enacting sections 936a and 936b of this title and repealing provisions set out as a note under [section 936 of this title][/us/usc/t7/s936]\] within 60 days after the date of enactment of this Act \[Oct. 21, 1986\]. Such regulations—
 
@@ -140,32 +140,32 @@
 [/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/99/509/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1011%2Fa
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1875
-[/us/pl/103/354/s235/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
 [/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
 [/us/stat/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F710
 [/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
-[/us/pl/99/509/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1011%2Fb
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1876
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/100/203/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1401
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-20
 [/us/usc/t7/s936a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936a%2Fc
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 [/us/usc/t7/s936a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936a
-[/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
 [/us/usc/t7/s936a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936a%2Fc
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F429
 [/us/usc/t7/s936a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936a%2Fd
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
-[/us/pl/99/509/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1011%2Fc
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1876
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 

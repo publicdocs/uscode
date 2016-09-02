@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2029.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2031.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2030)
 
-## § 2030. Repealed. [Pub. L. 110–234, title IV, § 4115(b)(14)][/us/pl/110/234/s4115/b/14], May 22, 2008, [122 Stat. 1108][/us/stat/122/1108], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4115(b)(14), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1870
+## § 2030. Repealed. [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4115(b)(14), May 22, 2008, [122 Stat. 1108][/us/stat/122/1108], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4115(b)(14), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1870
 
-    Section, [Pub. L. 88–525, § 21][/us/pl/88/525/s21], as added [Pub. L. 100–203, title I, § 1509][/us/pl/100/203/s1509], Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29]; amended [Pub. L. 100–481, § 1][/us/pl/100/481/s1], Oct. 11, 1988, [102 Stat. 2336][/us/stat/102/2336]; [Pub. L. 104–316, title I, § 104(a)][/us/pl/104/316/s104/a], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829], related to a demonstration project as an alternative to the food stamp program in the State of Washington.
+    Section, [Pub. L. 88–525][/us/pl/88/525], § 21, as added [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1509, Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29]; amended [Pub. L. 100–481][/us/pl/100/481], § 1, Oct. 11, 1988, [102 Stat. 2336][/us/stat/102/2336]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 104(a), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829], related to a demonstration project as an alternative to the food stamp program in the State of Washington.
 
  __Codification__ 
 
@@ -34,16 +34,16 @@
 ----------
 ----------
 
-[/us/pl/110/234/s4115/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4115%2Fb%2F14
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1108
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/88/525/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs21
-[/us/pl/100/203/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1509
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-29
-[/us/pl/100/481/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F481%2Fs1
+[/us/pl/100/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F481
 [/us/stat/102/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2336
-[/us/pl/104/316/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs104%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

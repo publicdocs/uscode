@@ -29,7 +29,7 @@
 
         Subsection (a) shall not be construed to supersede any duty imposed on the Secretary by any law or rule of law in effect immediately before January 6, 1988, unless such duty is in direct conflict with any duty imposed by subsection (a).
 
-([Pub. L. 87–128, title III, § 333C][/us/pl/87/128/s333C], as added [Pub. L. 100–233, title VI, § 609][/us/pl/100/233/s609], Jan. 6, 1988, [101 Stat. 1668][/us/stat/101/1668].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 333C, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 609, Jan. 6, 1988, [101 Stat. 1668][/us/stat/101/1668].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s333C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs333C
-[/us/pl/100/233/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs609
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1668
 
 

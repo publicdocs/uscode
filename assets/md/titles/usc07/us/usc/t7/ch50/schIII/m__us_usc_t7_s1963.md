@@ -17,7 +17,7 @@
 
     Loans may be made or insured under this subchapter for any purpose authorized for loans under subchapter I or II of this chapter and for crop or livestock changes that are necessitated by a quarantine, natural disaster, major disaster, or emergency and that are deemed desirable by the applicant, subject to the limitations on the amounts of loans provided in [section 1964(a) of this title][/us/usc/t7/s1964/a].
 
-([Pub. L. 87–128, title III, § 323][/us/pl/87/128/s323], Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 96–438, § 3(b)(1)][/us/pl/96/438/s3/b/1], Oct. 13, 1980, [94 Stat. 1873][/us/stat/94/1873]; [Pub. L. 104–127, title VI, § 623][/us/pl/104/127/s623], Apr. 4, 1996, [110 Stat. 1091][/us/stat/110/1091]; [Pub. L. 107–171, title V, § 5201(b)][/us/pl/107/171/s5201/b], May 13, 2002, [116 Stat. 344][/us/stat/116/344].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 323, Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 96–438][/us/pl/96/438], § 3(b)(1), Oct. 13, 1980, [94 Stat. 1873][/us/stat/94/1873]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 623, Apr. 4, 1996, [110 Stat. 1091][/us/stat/110/1091]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5201(b), May 13, 2002, [116 Stat. 344][/us/stat/116/344].)
 
  __References in Text__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t7/s1964/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1964%2Fa
-[/us/pl/87/128/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs323
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F311
-[/us/pl/96/438/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs3%2Fb%2F1
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1873
-[/us/pl/104/127/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs623
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1091
-[/us/pl/107/171/s5201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5201%2Fb
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F344
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

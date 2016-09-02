@@ -95,7 +95,7 @@
 
         The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 103–190, § 9][/us/pl/103/190/s9], Dec. 14, 1993, [107 Stat. 2286][/us/stat/107/2286].)
+([Pub. L. 103–190][/us/pl/103/190], § 9, Dec. 14, 1993, [107 Stat. 2286][/us/stat/107/2286].)
 
 ----------
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t7/s6809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6809%2Fb%2F2
-[/us/pl/103/190/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs9
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2286
 
 

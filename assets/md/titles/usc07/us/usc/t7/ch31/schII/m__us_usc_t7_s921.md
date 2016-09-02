@@ -17,7 +17,7 @@
 
     It is declared to be the policy of the Congress that adequate telephone service be made generally available in rural areas through the improvement and expansion of existing telephone facilities and the construction and operation of such additional facilities as are required to assure the availability of adequate telephone service to the widest practicable number of rural users of such service.
 
-([Oct. 28, 1949, ch. 776, § 1][/us/act/1949-10-28/ch776/s1], [63 Stat. 948][/us/stat/63/948].)
+([Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], § 1, [63 Stat. 948][/us/stat/63/948].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@ Section is composed of the first sentence of section 1 of act Oct. 28, 1949. The
 ----------
 ----------
 
-[/us/act/1949-10-28/ch776/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776%2Fs1
+[/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
 
 

@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations as may be necessary to carry out this subchapter and the power vested in the Secretary under this subchapter.
 
-([Pub. L. 104–127, title V, § 525][/us/pl/104/127/s525], Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 525, Apr. 4, 1996, [110 Stat. 1048][/us/stat/110/1048].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs525
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1048
 
 

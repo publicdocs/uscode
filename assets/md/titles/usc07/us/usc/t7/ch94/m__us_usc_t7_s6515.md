@@ -71,7 +71,7 @@
 
             If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
 
-([Pub. L. 101–624, title XXI, § 2116][/us/pl/101/624/s2116], Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944]; [Pub. L. 102–237, title X, § 1001(5)][/us/pl/102/237/s1001/5], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X, § 10005(b)(1)][/us/pl/113/79/s10005/b/1], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2116, Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(5), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10005(b)(1), Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
 
@@ -88,11 +88,11 @@
 
 [/us/usc/t7/s6514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6514
 [/us/usc/t7/s6506/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6506%2Fa%2F9
-[/us/pl/101/624/s2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2116
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3944
-[/us/pl/102/237/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F5
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/113/79/s10005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

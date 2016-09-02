@@ -41,7 +41,7 @@
 
         Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7231][/us/usc/t7/s7231]), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act \[[7 U.S.C. 7231][/us/usc/t7/s7231] et seq.\].
 
-([Pub. L. 107–171, title I, § 1201][/us/pl/107/171/s1201], May 13, 2002, [116 Stat. 155][/us/stat/116/155].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1201, May 13, 2002, [116 Stat. 155][/us/stat/116/155].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/107/171/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1201
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155

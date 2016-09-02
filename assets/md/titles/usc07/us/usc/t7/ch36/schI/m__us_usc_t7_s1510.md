@@ -17,7 +17,7 @@
 
     All money of the Corporation not otherwise employed may be deposited with the Treasurer of the United States or in any bank approved by the Secretary of the Treasury, subject to withdrawal by the Corporation at any time, or with the approval of the Secretary of the Treasury may be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States. Subject to the approval of the Secretary of the Treasury, the Federal Reserve banks are hereby authorized and directed to act as depositories, custodians, and fiscal agents for the Corporation in the performance of its powers conferred by this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 510, [52 Stat. 75][/us/stat/52/75]; [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 510, [52 Stat. 75][/us/stat/52/75]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c)(2)(B), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -46,15 +46,15 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F75
-[/us/pl/110/234/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

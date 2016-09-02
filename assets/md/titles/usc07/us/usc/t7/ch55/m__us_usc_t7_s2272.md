@@ -31,7 +31,7 @@
 
         Any individual who provides voluntary service under this section shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
 
-([Pub. L. 97–98, title XV, § 1526][/us/pl/97/98/s1526], Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1526, Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 97–98, title XV, § 1527][/us/pl/97/98/s1527], Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], provided that: 
+[Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1527, Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], provided that: 
 
 > “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle \[subtitle G (§§ 1526, 1527) of title XV of [Pub. L. 97–98][/us/pl/97/98], enacting this section and this note\], such sums to remain available until expended.”
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/97/98/s1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1526
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1337
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/97/98/s1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1527
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1337
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 

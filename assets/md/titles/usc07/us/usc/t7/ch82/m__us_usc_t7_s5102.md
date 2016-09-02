@@ -63,7 +63,7 @@
 
         If the Secretary determines that a State has not complied with subsection (c), such State shall not be eligible for additional financial assistance under this chapter.
 
-([Pub. L. 100–233, title V, § 502][/us/pl/100/233/s502], Jan. 6, 1988, [101 Stat. 1663][/us/stat/101/1663]; [Pub. L. 102–554, § 22][/us/pl/102/554/s22], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 103–354, title II, § 282(f)(1)(A)][/us/pl/103/354/s282/f/1/A], Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235]; [Pub. L. 106–472, title III, § 306(b)][/us/pl/106/472/s306/b], Nov. 9, 2000, [114 Stat. 2072][/us/stat/114/2072].)
+([Pub. L. 100–233, title V][/us/pl/100/233/tV], § 502, Jan. 6, 1988, [101 Stat. 1663][/us/stat/101/1663]; [Pub. L. 102–554][/us/pl/102/554], § 22, Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 282(f)(1)(A), Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235]; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 306(b), Nov. 9, 2000, [114 Stat. 2072][/us/stat/114/2072].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 
     1994—Subsecs. (a), (b)(1), (c). [Pub. L. 103–354][/us/pl/103/354] struck out “agricultural loan” before “mediation program”.
 
-    1992—Subsec. (b)(1). [Pub. L. 102–554, § 22(1)][/us/pl/102/554/s22/1], substituted “70” for “50”.
+    1992—Subsec. (b)(1). [Pub. L. 102–554][/us/pl/102/554], § 22(1), substituted “70” for “50”.
 
-    Subsec. (c). [Pub. L. 102–554, § 22(2)][/us/pl/102/554/s22/2], inserted before period at end “with respect to which the amount was paid”.
+    Subsec. (c). [Pub. L. 102–554][/us/pl/102/554], § 22(2), inserted before period at end “with respect to which the amount was paid”.
 
 ----------
 
@@ -83,17 +83,17 @@
 ----------
 
 [/us/usc/t7/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101%2Fb
-[/us/pl/100/233/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs502
+[/us/pl/100/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtV
 [/us/stat/101/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1663
-[/us/pl/102/554/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs22
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4161
-[/us/pl/103/354/s282/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Ff%2F1%2FA
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3235
-[/us/pl/106/472/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs306%2Fb
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2072
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/102/554/s22/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs22%2F1
-[/us/pl/102/554/s22/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs22%2F2
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 
 

@@ -17,7 +17,7 @@
 
     This chapter shall not apply to any employee of the United States in the performance of the duties of the employee in handling the mail.
 
-([Pub. L. 106–224, title IV, § 435][/us/pl/106/224/s435], June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 435, June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs435
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F453
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

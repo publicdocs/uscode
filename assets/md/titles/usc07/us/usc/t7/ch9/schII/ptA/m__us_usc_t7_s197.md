@@ -35,7 +35,7 @@
 
         For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 207, as added [Pub. L. 100–173, § 4][/us/pl/100/173/s4], Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 207, as added [Pub. L. 100–173][/us/pl/100/173], § 4, Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t7/s228b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs228b%E2%80%931
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/100/173/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs4
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F918
 [/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12
 [/us/usc/t7/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs182

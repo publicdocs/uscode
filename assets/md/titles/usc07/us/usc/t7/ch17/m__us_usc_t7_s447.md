@@ -17,7 +17,7 @@
 
     For the purpose of meeting emergency situations caused by adverse weather conditions or other factors destructive of important wildlife resources, the States are authorized, upon the request of the State fish and game authority or other State agency having similar authority and a finding by the Secretary of the Interior that any area of the United States is threatened with serious damage or loss to resident game birds and other resident wildlife from starvation, to requisition from the Commodity Credit Corporation grain acquired by the Corporation through price support operations. Such grain may thereafter be furnished to the particular State for direct and sole utilization by the appropriate State agencies for purposes of sections 447 to 449 of this title in such quantities as mutually agreed upon by the State and the Commodity Credit Corporation and subject to such regulations as may be considered desirable by the Corporation. The Corporation shall be reimbursed by the particular State in each instance for the expense of the Corporation in packaging and transporting such grain for purposes of sections 447 to 449 of this title.
 
-([Pub. L. 87–152, § 1][/us/pl/87/152/s1], Aug. 17, 1961, [75 Stat. 389][/us/stat/75/389].)
+([Pub. L. 87–152][/us/pl/87/152], § 1, Aug. 17, 1961, [75 Stat. 389][/us/stat/75/389].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/152/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F152%2Fs1
+[/us/pl/87/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F152
 [/us/stat/75/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F389
 
 

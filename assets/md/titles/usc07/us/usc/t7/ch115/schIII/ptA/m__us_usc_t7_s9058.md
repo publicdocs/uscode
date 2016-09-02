@@ -27,7 +27,7 @@
 
         The Secretary may take such action as necessary to collect administrative fees and premium payments for participation in the margin protection program.
 
-([Pub. L. 113–79, title I, § 1408][/us/pl/113/79/s1408], Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1408, Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t7/s9054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9054
 [/us/usc/t7/s9057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9057
-[/us/pl/113/79/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1408
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F693
 
 

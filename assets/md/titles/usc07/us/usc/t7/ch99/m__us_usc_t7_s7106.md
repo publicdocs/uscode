@@ -51,7 +51,7 @@
 
             (B) to take such further action as, in the opinion of the court, the law requires.
 
-([Pub. L. 103–407, § 7][/us/pl/103/407/s7], Oct. 22, 1994, [108 Stat. 4224][/us/stat/108/4224].)
+([Pub. L. 103–407][/us/pl/103/407], § 7, Oct. 22, 1994, [108 Stat. 4224][/us/stat/108/4224].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/103/407/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs7
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4224
 
 

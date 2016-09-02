@@ -17,13 +17,13 @@
 
     There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
 
-(R.S. § 520; [Pub. L. 92–419, title VI, § 603(a)][/us/pl/92/419/s603/a], Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 95–113, title XV, § 1502(a)][/us/pl/95/113/s1502/a], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021].)
+(R.S. § 520; [Pub. L. 92–419, title VI][/us/pl/92/419/tVI], § 603(a), Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1502(a), Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021].)
 
  __Codification__ 
 
-    R.S. § 520 derived from [act May 15, 1862, ch. 72, § 1][/us/act/1862-05-15/ch72/s1], [12 Stat. 387][/us/stat/12/387].
+    R.S. § 520 derived from [act May 15, 1862, ch. 72][/us/act/1862-05-15/ch72], § 1, [12 Stat. 387][/us/stat/12/387].
 
-    Section was formerly classified to [section 511 of Title 5][/us/usc/t5/s511] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 511 of Title 5][/us/usc/t5/s511] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -37,13 +37,13 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–113, § 1][/us/pl/105/113/s1], Nov. 21, 1997, [111 Stat. 2274][/us/stat/111/2274], provided that: 
+[Pub. L. 105–113][/us/pl/105/113], § 1, Nov. 21, 1997, [111 Stat. 2274][/us/stat/111/2274], provided that: 
 
 > “This Act \[enacting [section 2204g of this title][/us/usc/t7/s2204g], amending sections 1991 and 2276 of this title and [section 9 of Title 13][/us/usc/t13/s9], Census, repealing [section 142 of Title 13][/us/usc/t13/s142], and enacting provisions set out as a note under [section 1991 of this title][/us/usc/t7/s1991]\] may be cited as the ‘Census of Agriculture Act of 1997’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–355, § 1][/us/pl/96/355/s1], Sept. 24, 1980, [94 Stat. 1171][/us/stat/94/1171], provided that: 
+[Pub. L. 96–355][/us/pl/96/355], § 1, Sept. 24, 1980, [94 Stat. 1171][/us/stat/94/1171], provided that: 
 
 > “This Act \[enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and [section 3122 of Title 42][/us/usc/t42/s3122], The Public Health and Welfare, and enacting provisions set out as a note under [section 2204b of this title][/us/usc/t7/s2204b]\] may be cited as the ‘Rural Development Policy Act of 1980’.”
 
@@ -59,7 +59,7 @@ Act Aug. 3, 1956, § 1, provided that:
 
  __Establishment of Personnel Ceiling for Fiscal Years 1982, 1983, and 1984__ 
 
-[Pub. L. 97–35, title I, § 125][/us/pl/97/35/s125], Aug. 13, 1981, [95 Stat. 369][/us/stat/95/369], provided that: 
+[Pub. L. 97–35, title I][/us/pl/97/35/tI], § 125, Aug. 13, 1981, [95 Stat. 369][/us/stat/95/369], provided that: 
 
 > “Notwithstanding any other provision of law, the total full-time equivalent staff year personnel ceiling for the United States Department of Agriculture shall not exceed one hundred and seventeen thousand staff years (including overtime) for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984.”
 
@@ -105,7 +105,7 @@ Act Aug. 3, 1956, § 1, provided that:
 
 >     “(e) All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior.”
 
- __REORGANIZATION PLAN NO. 2 OF 1953__  __Eff.__  __June 4, 1953__  __, 18 F.R. 3219,__  __[__  __67 Stat. 633__  __][/us/stat/67/633]__  __, as amended__  __Oct. 15, 1982__  __,__  __[__  __Pub. L. 97–325, § 8(d)__  __][/us/pl/97/325/s8/d]__  __,__  __[__  __96 Stat. 1606__  __][/us/stat/96/1606]__  __;__  __Oct. 13, 1994__  __,__  __[__  __Pub. L. 103–354, title II, § 218(e)(1)__  __][/us/pl/103/354/s218/e/1]__  __,__  __[__  __108 Stat. 3213__  __][/us/stat/108/3213]__ 
+ __REORGANIZATION PLAN NO. 2 OF 1953__  __Eff.__  __June 4, 1953__  __, 18 F.R. 3219,__  __[__  __67 Stat. 633__  __][/us/stat/67/633]__  __, as amended__  __Oct. 15, 1982__  __,__  __[__  __Pub. L. 97–325__  __][/us/pl/97/325]__  __, § 8(d),__  __[__  __96 Stat. 1606__  __][/us/stat/96/1606]__  __;__  __Oct. 13, 1994__  __,__  __[__  __Pub. L. 103–354, title II__  __][/us/pl/103/354/tII]__  __, § 218(e)(1),__  __[__  __108 Stat. 3213__  __][/us/stat/108/3213]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 25, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -119,11 +119,11 @@ Act Aug. 3, 1956, § 1, provided that:
 
  __Sec. 2. Assistant Secretaries of Agriculture__ 
 
-    \[Repealed. [Pub. L. 103–354, title II, § 218(e)(1)][/us/pl/103/354/s218/e/1], Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213]. Section authorized the appointment of two additional Assistant Secretaries of Agriculture. See [section 6918 of this title][/us/usc/t7/s6918].\]
+    \[Repealed. [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 218(e)(1), Oct. 13, 1994, [108 Stat. 3213][/us/stat/108/3213]. Section authorized the appointment of two additional Assistant Secretaries of Agriculture. See [section 6918 of this title][/us/usc/t7/s6918].\]
 
  __Sec. 3. Administrative Assistant Secretary__ 
 
-    \[Repealed. [Pub. L. 97–325, § 8(d)][/us/pl/97/325/s8/d], Oct. 15, 1982, [96 Stat. 1606][/us/stat/96/1606]. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See [section 2212c of this title][/us/usc/t7/s2212c].\]
+    \[Repealed. [Pub. L. 97–325][/us/pl/97/325], § 8(d), Oct. 15, 1982, [96 Stat. 1606][/us/stat/96/1606]. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See [section 2212c of this title][/us/usc/t7/s2212c].\]
 
  __Sec. 4. Delegation of Functions__ 
 
@@ -144,32 +144,32 @@ Act Aug. 3, 1956, § 1, provided that:
 ----------
 ----------
 
-[/us/pl/92/419/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs603%2Fa
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
 [/us/stat/86/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F675
-[/us/pl/95/113/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1502%2Fa
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1021
-[/us/act/1862-05-15/ch72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-15%2Fch72%2Fs1
+[/us/act/1862-05-15/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-15%2Fch72
 [/us/stat/12/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F387
 [/us/usc/t5/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs511
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/105/113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs1
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2274
 [/us/usc/t7/s2204g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
 [/us/usc/t13/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142
 [/us/usc/t7/s1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991
-[/us/pl/96/355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs1
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1171
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t42/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3122
 [/us/usc/t7/s2204b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204b
-[/us/pl/97/35/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs125
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F369
 [/us/pl/86/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F509
 [/us/stat/74/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F205
@@ -203,17 +203,17 @@ Act Aug. 3, 1956, § 1, provided that:
 [/us/stat/69/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F367
 [/us/usc/t30/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs601
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
-[/us/pl/97/325/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs8%2Fd
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1606
-[/us/pl/103/354/s218/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs218%2Fe%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3213
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
 [/us/usc/t5/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1001
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
-[/us/pl/103/354/s218/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs218%2Fe%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3213
 [/us/usc/t7/s6918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6918
-[/us/pl/97/325/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs8%2Fd
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1606
 [/us/usc/t7/s2212c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2212c
 

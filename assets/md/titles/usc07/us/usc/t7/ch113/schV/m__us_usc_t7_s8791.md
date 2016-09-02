@@ -67,7 +67,7 @@
 
             The disclosure of information under paragraph (2) shall not constitute a waiver of any applicable privilege or protection under Federal law, including trade secret protection.
 
-([Pub. L. 110–234, title I, § 1619][/us/pl/110/234/s1619], May 22, 2008, [122 Stat. 1022][/us/stat/122/1022]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1619, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1750.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1619, May 22, 2008, [122 Stat. 1022][/us/stat/122/1022]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1619, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1750.)
 
  __Codification__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1619
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1022
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

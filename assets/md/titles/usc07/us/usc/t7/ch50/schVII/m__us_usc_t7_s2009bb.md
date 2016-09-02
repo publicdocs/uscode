@@ -43,7 +43,7 @@
 
         The term “region” means the States of Iowa, Minnesota, Missouri (other than counties included in the Delta Regional Authority), Nebraska, North Dakota, and South Dakota.
 
-([Pub. L. 87–128, title III, § 383A][/us/pl/87/128/s383A], as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 375][/us/stat/116/375]; amended [Pub. L. 110–234, title VI, § 6026(a)][/us/pl/110/234/s6026/a], May 22, 2008, [122 Stat. 1177][/us/stat/122/1177]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1939.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383A, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 375][/us/stat/116/375]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(a), May 22, 2008, [122 Stat. 1177][/us/stat/122/1177]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1939.)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2008—Par. (4). [Pub. L. 110–246, § 6026(a)][/us/pl/110/246/s6026/a], inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
+    2008—Par. (4). [Pub. L. 110–246][/us/pl/110/246], § 6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -68,18 +68,18 @@
 [/us/usc/t7/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2661
 [/us/pl/103/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F318
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/87/128/s383A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383A
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F375
-[/us/pl/110/234/s6026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fa
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1177
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

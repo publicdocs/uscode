@@ -17,11 +17,11 @@
 
     The Secretary is authorized and directed to develop a program of land conservation and land utilization, in order thereby to correct maladjustments in land use, and thus assist in controlling soil erosion, reforestation, preserving natural resources, protecting fish and wildlife, developing and protecting recreational facilities, mitigating floods, preventing impairment of dams and reservoirs, developing energy resources, conserving surface and subsurface moisture, protecting the watersheds of navigable streams, and protecting the public lands, health, safety, and welfare, but not to build industrial parks or establish private industrial or commercial enterprises.
 
-([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 31, [50 Stat. 525][/us/stat/50/525]; [Pub. L. 87–703, title I, § 102(a)][/us/pl/87/703/s102/a], Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607]; [Pub. L. 89–796, § 1(a)][/us/pl/89/796/s1/a], Nov. 8, 1966, [80 Stat. 1478][/us/stat/80/1478]; [Pub. L. 97–98, title XV, § 1513][/us/pl/97/98/s1513], Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333].)
+([July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], title III, § 31, [50 Stat. 525][/us/stat/50/525]; [Pub. L. 87–703, title I][/us/pl/87/703/tI], § 102(a), Sept. 27, 1962, [76 Stat. 607][/us/stat/76/607]; [Pub. L. 89–796][/us/pl/89/796], § 1(a), Nov. 8, 1966, [80 Stat. 1478][/us/stat/80/1478]; [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1513, Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333].)
 
  __Repeals__ 
 
-    Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __Amendments__ 
 
@@ -56,13 +56,13 @@
 
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
 [/us/stat/50/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F525
-[/us/pl/87/703/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs102%2Fa
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F607
-[/us/pl/89/796/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796%2Fs1%2Fa
+[/us/pl/89/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796
 [/us/stat/80/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1478
-[/us/pl/97/98/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1513
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1333
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/89/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F796

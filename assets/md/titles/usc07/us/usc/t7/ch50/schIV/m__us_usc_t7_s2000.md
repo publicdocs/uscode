@@ -107,15 +107,15 @@
 
         In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-([Pub. L. 87–128, title III, § 352][/us/pl/87/128/s352], as added [Pub. L. 99–198, title XIII, § 1321][/us/pl/99/198/s1321], Dec. 23, 1985, [99 Stat. 1532][/us/stat/99/1532]; amended [Pub. L. 100–233, title VI, § 614][/us/pl/100/233/s614], Jan. 6, 1988, [101 Stat. 1675][/us/stat/101/1675]; [Pub. L. 102–237, title V, § 501(g)][/us/pl/102/237/s501/g], title VII, § 701(h)(2), Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867], 1880; [Pub. L. 102–552, title V, § 516(i)][/us/pl/102/552/s516/i], (j)(1), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138]; [Pub. L. 104–127, title VI, § 644][/us/pl/104/127/s644], Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103]; [Pub. L. 110–234, title V, § 5305][/us/pl/110/234/s5305], May 22, 2008, [122 Stat. 1153][/us/stat/122/1153]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 352, as added [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1321, Dec. 23, 1985, [99 Stat. 1532][/us/stat/99/1532]; amended [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 614, Jan. 6, 1988, [101 Stat. 1675][/us/stat/101/1675]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 501(g), title VII, § 701(h)(2), Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867], 1880; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(i), (j)(1), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 644, Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5305, May 22, 2008, [122 Stat. 1153][/us/stat/122/1153]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
     For definition of “this chapter”, referred to in subsecs. (b)(1)(A) and (c)(6), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
-    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in subsec. (c)(3), was repealed by [Pub. L. 103–354, title II, § 281(c)][/us/pl/103/354/s281/c], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
+    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in subsec. (c)(3), was repealed by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281(c), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
 
  __Codification__ 
 
@@ -123,33 +123,33 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(4)(B). [Pub. L. 110–246, § 5305][/us/pl/110/246/s5305], substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in [section 2003(e)(2) of this title][/us/usc/t7/s2003/e/2]), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
+    2008—Subsec. (c)(4)(B). [Pub. L. 110–246][/us/pl/110/246], § 5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in [section 2003(e)(2) of this title][/us/usc/t7/s2003/e/2]), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
 
-    1996—Subsec. (c)(1)(A). [Pub. L. 104–127, § 644(1)][/us/pl/104/127/s644/1], substituted “30” for “90” in two places.
+    1996—Subsec. (c)(1)(A). [Pub. L. 104–127][/us/pl/104/127], § 644(1), substituted “30” for “90” in two places.
 
-    Subsec. (c)(6). [Pub. L. 104–127, § 644(2)][/us/pl/104/127/s644/2], substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+    Subsec. (c)(6). [Pub. L. 104–127][/us/pl/104/127], § 644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
-    1992—Subsec. (a)(4), (5). [Pub. L. 102–552, § 516(i)][/us/pl/102/552/s516/i], redesignated par. (4), defining “Secretary”, as (5).
+    1992—Subsec. (a)(4), (5). [Pub. L. 102–552][/us/pl/102/552], § 516(i), redesignated par. (4), defining “Secretary”, as (5).
 
-    Subsec. (b)(2). [Pub. L. 102–552, § 516(j)(1)][/us/pl/102/552/s516/j/1], substituted “borrower-owner’s” for “borrower’s”.
+    Subsec. (b)(2). [Pub. L. 102–552][/us/pl/102/552], § 516(j)(1), substituted “borrower-owner’s” for “borrower’s”.
 
-    1991—Subsec. (a)(2) to (4). [Pub. L. 102–237, § 501(g)][/us/pl/102/237/s501/g], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
+    1991—Subsec. (a)(2) to (4). [Pub. L. 102–237][/us/pl/102/237], § 501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
 
-    Subsec. (b)(1). [Pub. L. 102–237, § 501(g)(2)][/us/pl/102/237/s501/g/2], substituted “borrower-owner” for “borrower” wherever appearing.
+    Subsec. (b)(1). [Pub. L. 102–237][/us/pl/102/237], § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 102–237, § 701(h)(2)][/us/pl/102/237/s701/h/2], struck out “be” after “shall”.
+    Subsec. (b)(3). [Pub. L. 102–237][/us/pl/102/237], § 701(h)(2), struck out “be” after “shall”.
 
-    Subsecs. (c), (d), (g). [Pub. L. 102–237, § 501(g)(2)][/us/pl/102/237/s501/g/2], substituted “borrower-owner” for “borrower” wherever appearing.
+    Subsecs. (c), (d), (g). [Pub. L. 102–237][/us/pl/102/237], § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
-    1988—Subsec. (a)(3). [Pub. L. 100–233, § 614(1)][/us/pl/100/233/s614/1], inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
+    1988—Subsec. (a)(3). [Pub. L. 100–233][/us/pl/100/233], § 614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
 
-    Subsec. (b)(1). [Pub. L. 100–233, § 614(2)][/us/pl/100/233/s614/2], added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
+    Subsec. (b)(1). [Pub. L. 100–233][/us/pl/100/233], § 614(2), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
 
-    Subsec. (c). [Pub. L. 100–233, § 614(3)][/us/pl/100/233/s614/3], completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
+    Subsec. (c). [Pub. L. 100–233][/us/pl/100/233], § 614(3), completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
 
-    Subsec. (d). [Pub. L. 100–233, § 614(3)][/us/pl/100/233/s614/3], inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
+    Subsec. (d). [Pub. L. 100–233][/us/pl/100/233], § 614(3), inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
 
-    Subsecs. (f), (g). [Pub. L. 100–233, § 614(4)][/us/pl/100/233/s614/4], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 100–233][/us/pl/100/233], § 614(4), added subsecs. (f) and (g).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–552, title V, § 516(j)(2)][/us/pl/102/552/s516/j/2], Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
+[Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(j)(2), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(f) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 ([Public Law 102–237][/us/pl/102/237]; [105 Stat. 1867][/us/stat/105/1867]) \[amending [section 1985 of this title][/us/usc/t7/s1985]\] took effect.”
 
@@ -179,48 +179,48 @@
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t7/s2003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F2
-[/us/pl/87/128/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs352
-[/us/pl/99/198/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1321
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1532
-[/us/pl/100/233/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1675
-[/us/pl/102/237/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fg
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1867
-[/us/pl/102/552/s516/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fi
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4138
-[/us/pl/104/127/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs644
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1103
-[/us/pl/110/234/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5305
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1153
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/103/354/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fc
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5305
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F2
-[/us/pl/104/127/s644/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs644%2F1
-[/us/pl/104/127/s644/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs644%2F2
-[/us/pl/102/552/s516/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fi
-[/us/pl/102/552/s516/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fj%2F1
-[/us/pl/102/237/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fg
-[/us/pl/102/237/s501/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fg%2F2
-[/us/pl/102/237/s701/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fh%2F2
-[/us/pl/102/237/s501/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fg%2F2
-[/us/pl/100/233/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614%2F1
-[/us/pl/100/233/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/100/233/s614/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614%2F3
-[/us/pl/100/233/s614/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614%2F3
-[/us/pl/100/233/s614/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs614%2F4
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -229,7 +229,7 @@
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
-[/us/pl/102/552/s516/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fj%2F2
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4138
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/stat/105/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1867

@@ -23,7 +23,7 @@
 
     (3) to the extent practicable, coordinate activities carried out under the program with the delivery to low-income individuals of benefits under food assistance programs.
 
-([Pub. L. 99–198, title XV, § 1586][/us/pl/99/198/s1586], Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596].)
+([Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1586, Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@ This subtitle, referred to in text, is subtitle C (§§ 1581–1589) of title 
 
 [/us/usc/t7/s3175b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175b
 [/us/usc/t7/s3175b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175b
-[/us/pl/99/198/s1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1586
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1596
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011

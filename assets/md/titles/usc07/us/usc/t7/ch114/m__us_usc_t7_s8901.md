@@ -99,7 +99,7 @@
 
         The term “qualified agricultural countermeasure” means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.
 
-([Pub. L. 110–234, title XIV, § 14102][/us/pl/110/234/s14102], May 22, 2008, [122 Stat. 1453][/us/stat/122/1453]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2215.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14102, May 22, 2008, [122 Stat. 1453][/us/stat/122/1453]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2215.)
 
  __Codification__ 
 
@@ -111,7 +111,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–234, title XIV, § 14101][/us/pl/110/234/s14101], May 22, 2008, [122 Stat. 1453][/us/stat/122/1453], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2215, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14101, May 22, 2008, [122 Stat. 1453][/us/stat/122/1453], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14101, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2215, provided that: 
 
 > “This subtitle \[subtitle B (§§ 14101–14122) of title XIV of [Pub. L. 110–246][/us/pl/110/246], enacting this chapter\] may be cited as the ‘Agricultural Security Improvement Act of 2008’.”
 
@@ -130,9 +130,9 @@
 
 [/us/usc/t7/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8302
 [/us/usc/t7/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7702
-[/us/pl/110/234/s14102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14102
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1453
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -143,9 +143,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14101
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1453
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

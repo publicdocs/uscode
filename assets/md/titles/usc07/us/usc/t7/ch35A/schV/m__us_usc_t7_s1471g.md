@@ -37,7 +37,7 @@
 
         Each person otherwise eligible for a livestock emergency benefit under this subchapter in 1988 shall be subject to the combined payment and benefits limitation established under section 211(c) of the Disaster Assistance Act of 1988.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 609, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930]; amended [Pub. L. 110–234, title I, § 1603(g)(2)][/us/pl/110/234/s1603/g/2], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739; [Pub. L. 113–79, title I, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 609, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930]; amended [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(g)(2), May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(g)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(b)(1), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1). [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], amended language inserted by [Pub. L. 110–246, § 1603(g)(2)][/us/pl/110/246/s1603/g/2]. See 2008 Amendment note below.
+    2014—Subsec. (b)(1). [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), amended language inserted by [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(2). See 2008 Amendment note below.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–246, § 1603(g)(2)][/us/pl/110/246/s1603/g/2], as amended by [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of this title][/us/usc/t7/s1308]”.
+    2008—Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(2), as amended by [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of this title][/us/usc/t7/s1308]”.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–79, title I, § 1609(b)(2)][/us/pl/113/79/s1609/b/2], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], provided that: 
+[Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(b)(2), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709], provided that: 
 
 > “This subsection \[amending this section, sections 1524 and 8204 of this title, [section 2106a of Title 16][/us/usc/t16/s2106a], Conservation, and [section 2401 of Title 19][/us/usc/t19/s2401], Customs Duties\] and the amendments made by this subsection take effect as if included in the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 1651][/us/stat/122/1651] \[see Effective Date of 2008 Amendment note below\]).”
 
@@ -88,13 +88,13 @@
 
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F930
-[/us/pl/110/234/s1603/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fg%2F2
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
@@ -108,12 +108,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
-[/us/pl/110/246/s1603/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F2
-[/us/pl/110/246/s1603/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F2
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/113/79/s1609/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F2
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t16/s2106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2106a
 [/us/usc/t19/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401

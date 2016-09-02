@@ -35,7 +35,7 @@
 
         (B) The State shall give the Commission prior written notice of its intent to proceed before instituting a proceeding in State court as described in this subsection and shall furnish the Commission with a copy of its complaint immediately upon instituting any such proceeding. The Commission shall have the right to (i) intervene in the proceeding and, upon doing so, shall be heard on all matters arising therein, and (ii) file a petition for appeal. The Commission or the defendant may remove such proceeding to the district court of the United States for the proper district by following the procedure for removal otherwise provided by law, except that the petition for removal shall be filed within sixty days after service of the summons and complaint upon the defendant. The Commission shall have the right to appear as amicus curiae in any such proceeding.
 
-([Sept. 21, 1922, ch. 369, § 6d][/us/act/1922-09-21/ch369/s6d], as added [Pub. L. 95–405, § 15][/us/pl/95/405/s15], Sept. 30, 1978, [92 Stat. 872][/us/stat/92/872]; amended [Pub. L. 97–444, title II, § 221][/us/pl/97/444/s221], Jan. 11, 1983, [96 Stat. 2308][/us/stat/96/2308]; [Pub. L. 102–546, title II, § 207(b)(1)][/us/pl/102/546/s207/b/1], (2), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(16)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 6d, as added [Pub. L. 95–405][/us/pl/95/405], § 15, Sept. 30, 1978, [92 Stat. 872][/us/stat/92/872]; amended [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 221, Jan. 11, 1983, [96 Stat. 2308][/us/stat/96/2308]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 207(b)(1), (2), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(16)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
 
  __Amendments__ 
 
@@ -64,14 +64,14 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s6d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs6d
-[/us/pl/95/405/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs15
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F872
-[/us/pl/97/444/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs221
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2308
-[/us/pl/102/546/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F1
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3604
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546

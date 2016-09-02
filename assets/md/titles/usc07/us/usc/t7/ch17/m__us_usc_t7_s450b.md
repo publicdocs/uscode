@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 563 of Title 5][/us/usc/t5/s563] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 563 of Title 5][/us/usc/t5/s563] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
-    A prior section 450b, [Pub. L. 89–106, § 2][/us/pl/89/106/s2], Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431], which related to research grants, duration, records, and audit, was transferred to [section 450i of this title][/us/usc/t7/s450i].
+    A prior section 450b, [Pub. L. 89–106][/us/pl/89/106], § 2, Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431], which related to research grants, duration, records, and audit, was transferred to [section 450i of this title][/us/usc/t7/s450i].
 
 ----------
 
@@ -35,9 +35,9 @@
 [/us/act/1919-07-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-24%2Fch26
 [/us/stat/41/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F270
 [/us/usc/t5/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs563
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/106/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106%2Fs2
+[/us/pl/89/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106
 [/us/stat/79/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F431
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 

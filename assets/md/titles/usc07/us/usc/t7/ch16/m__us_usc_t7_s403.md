@@ -17,7 +17,7 @@
 
     For the purpose of enabling the Secretary of Agriculture and the Chief of the Bureau of Dairy Industry to carry out the purposes of this chapter, the Secretary of Agriculture is authorized to transfer to the Bureau of Dairy Industry such activities of the Department of Agriculture as he may designate which relate primarily to the dairy industry, and to employ such additional persons in the city of Washington and elsewhere, as may be necessary.
 
-([May 29, 1924, ch. 208, § 3][/us/act/1924-05-29/ch208/s3], [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
+([May 29, 1924, ch. 208][/us/act/1924-05-29/ch208], § 3, [43 Stat. 243][/us/stat/43/243]; [May 11, 1926, ch. 286][/us/act/1926-05-11/ch286], [44 Stat. 499][/us/stat/44/499].)
 
  __Change of Name; Temporary Consolidation__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1924-05-29/ch208/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208%2Fs3
+[/us/act/1924-05-29/ch208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch208
 [/us/stat/43/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F243
 [/us/act/1926-05-11/ch286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-11%2Fch286
 [/us/stat/44/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F499

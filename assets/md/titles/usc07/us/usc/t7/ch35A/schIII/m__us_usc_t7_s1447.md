@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title at a level not in excess of 90 per centum of the parity price for the commodity.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title III, § 301, [63 Stat. 1053][/us/stat/63/1053]; [Pub. L. 95–113, title X, § 1003(a)][/us/pl/95/113/s1003/a], Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title III, § 301, [63 Stat. 1053][/us/stat/63/1053]; [Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1003(a), Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Effective and Termination Dates of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title X, § 1003(a)][/us/pl/95/113/s1003/a], Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950], provided that the amendment made by section 1003(a) is effective only with respect to the 1978 through 1981 crops.
+    [Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1003(a), Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950], provided that the amendment made by section 1003(a) is effective only with respect to the 1978 through 1981 crops.
 
  __Inapplicability of Section__ 
 
@@ -43,13 +43,13 @@
 
  __Elimination of Wool and Mohair Programs__ 
 
-[Pub. L. 103–130, § 3(c)][/us/pl/103/130/s3/c], Nov. 1, 1993, [107 Stat. 1369][/us/stat/107/1369], provided that: 
+[Pub. L. 103–130][/us/pl/103/130], § 3(c), Nov. 1, 1993, [107 Stat. 1369][/us/stat/107/1369], provided that: 
 
 > “Effective beginning December 31, 1995, the Secretary of Agriculture may not provide loans or payments for wool or mohair by using the funds of the Commodity Credit Corporation or under the authority of any law.”
 
  __Other Price Support Programs in Effect on__  __September 29, 1977__ 
 
-[Pub. L. 95–113, title X, § 1003(b)][/us/pl/95/113/s1003/b], Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950], provided that: 
+[Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1003(b), Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950], provided that: 
 
 > “The amendment made by this section \[amending this section\] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act \[Sept. 29, 1977\].”
 
@@ -62,19 +62,19 @@
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1053
-[/us/pl/95/113/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1003%2Fa
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F950
 [/us/usc/t7/s1446d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446d
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/95/113/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1003%2Fa
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F950
 [/us/usc/t7/s9092/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F9
 [/us/usc/t7/s8782/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F9
 [/us/usc/t7/s7992/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fb%2F9
 [/us/usc/t7/s7301/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1%2FI
-[/us/pl/103/130/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F130%2Fs3%2Fc
+[/us/pl/103/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F130
 [/us/stat/107/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1369
-[/us/pl/95/113/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1003%2Fb
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F950
 
 

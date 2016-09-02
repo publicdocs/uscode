@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 101–624, title XXV, § 2514][/us/pl/101/624/s2514], Nov. 28, 1990, [104 Stat. 4074][/us/stat/104/4074].)
+([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2514, Nov. 28, 1990, [104 Stat. 4074][/us/stat/104/4074].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2514
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4074
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/101/624/s2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2514

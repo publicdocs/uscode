@@ -17,7 +17,7 @@
 
     For the purposes of [section 424 of this title][/us/usc/t7/s424] there is authorized to be appropriated, after June 30, 1931, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary.
 
-([Apr. 19, 1930, ch. 203, § 2][/us/act/1930-04-19/ch203/s2], [46 Stat. 248][/us/stat/46/248].)
+([Apr. 19, 1930, ch. 203][/us/act/1930-04-19/ch203], § 2, [46 Stat. 248][/us/stat/46/248].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs424
-[/us/act/1930-04-19/ch203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch203%2Fs2
+[/us/act/1930-04-19/ch203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch203
 [/us/stat/46/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F248
 
 

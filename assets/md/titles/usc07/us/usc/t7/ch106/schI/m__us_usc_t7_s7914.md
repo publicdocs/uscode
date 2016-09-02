@@ -169,7 +169,7 @@
 
             The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
 
-([Pub. L. 107–171, title I, § 1104][/us/pl/107/171/s1104], May 13, 2002, [116 Stat. 150][/us/stat/116/150].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1104, May 13, 2002, [116 Stat. 150][/us/stat/116/150].)
 
  __References in Text__ 
 
@@ -184,7 +184,7 @@
 
 [/us/usc/t7/s7913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7913
 [/us/usc/t7/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912
-[/us/pl/107/171/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1104
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F150
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F155

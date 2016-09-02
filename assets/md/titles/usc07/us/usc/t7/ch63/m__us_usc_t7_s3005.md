@@ -105,7 +105,7 @@
 
             In carrying out this subsection, the Secretary shall ensure coordination between the various agencies to the maximum extent practicable.
 
-([Pub. L. 94–463, § 6][/us/pl/94/463/s6], as added [Pub. L. 107–171, title X, § 10605(a)][/us/pl/107/171/s10605/a], May 13, 2002, [116 Stat. 513][/us/stat/116/513]; amended [Pub. L. 110–234, title X, § 10106][/us/pl/110/234/s10106], May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10106, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2098; [Pub. L. 112–240, title VII, § 701(g)(1)][/us/pl/112/240/s701/g/1], Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X, § 10003][/us/pl/113/79/s10003], Feb. 7, 2014, [128 Stat. 940][/us/stat/128/940].)
+([Pub. L. 94–463][/us/pl/94/463], § 6, as added [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10605(a), May 13, 2002, [116 Stat. 513][/us/stat/116/513]; amended [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10106, May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10106, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2098; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(g)(1), Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10003, Feb. 7, 2014, [128 Stat. 940][/us/stat/128/940].)
 
  __Codification__ 
 
@@ -113,41 +113,41 @@
 
  __Prior Provisions__ 
 
-    A prior section 3005, [Pub. L. 94–463, § 6][/us/pl/94/463/s6], Oct. 8, 1976, [90 Stat. 1983][/us/stat/90/1983]; [Pub. L. 103–437, § 4(a)(8)][/us/pl/103/437/s4/a/8], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], related to review of activities by Secretary and annual report to Congress, prior to repeal by [Pub. L. 105–362, title I, § 101(d)(1)][/us/pl/105/362/s101/d/1], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].
+    A prior section 3005, [Pub. L. 94–463][/us/pl/94/463], § 6, Oct. 8, 1976, [90 Stat. 1983][/us/stat/90/1983]; [Pub. L. 103–437][/us/pl/103/437], § 4(a)(8), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], related to review of activities by Secretary and annual report to Congress, prior to repeal by [Pub. L. 105–362, title I][/us/pl/105/362/tI], § 101(d)(1), Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281].
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, § 10003(1)][/us/pl/113/79/s10003/1], inserted “and Local Food” after “Farmers’ Market” in section catchline.
+    2014—[Pub. L. 113–79][/us/pl/113/79], § 10003(1), inserted “and Local Food” after “Farmers’ Market” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–79, § 10003(2)][/us/pl/113/79/s10003/2], inserted “and Local Food” after “Farmers’ Market”, struck out “farmers’ markets and to promote” after “and promote”, and substituted “and assist in the development of local food business enterprises.” for period at end.
+    Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 10003(2), inserted “and Local Food” after “Farmers’ Market”, struck out “farmers’ markets and to promote” after “and promote”, and substituted “and assist in the development of local food business enterprises.” for period at end.
 
-    Subsec. (b). [Pub. L. 113–79, § 10003(3)][/us/pl/113/79/s10003/3], added subsec. (b) and struck out former subsec. (b) which related to purposes of the Program and limitations on use of grants or other assistance provided under the Program.
+    Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 10003(3), added subsec. (b) and struck out former subsec. (b) which related to purposes of the Program and limitations on use of grants or other assistance provided under the Program.
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 10003(4)][/us/pl/113/79/s10003/4], inserted “or other agricultural business entity” after “cooperative” and “, including a community supported agriculture network or association” after “association”.
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 10003(4), inserted “or other agricultural business entity” after “cooperative” and “, including a community supported agriculture network or association” after “association”.
 
-    Subsecs. (e), (f). [Pub. L. 113–79, § 10003(6)][/us/pl/113/79/s10003/6], added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 113–79][/us/pl/113/79], § 10003(6), added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
 
-    Subsec. (g). [Pub. L. 113–79, § 10003(5)][/us/pl/113/79/s10003/5], redesignated subsec. (e) as (g).
+    Subsec. (g). [Pub. L. 113–79][/us/pl/113/79], § 10003(5), redesignated subsec. (e) as (g).
 
-    Subsec. (g)(1). [Pub. L. 113–79, § 10003(7)(A)(i)][/us/pl/113/79/s10003/7/A/i], substituted “Mandatory funding” for “Fiscal years 2008 through 2012” in heading.
+    Subsec. (g)(1). [Pub. L. 113–79][/us/pl/113/79], § 10003(7)(A)(i), substituted “Mandatory funding” for “Fiscal years 2008 through 2012” in heading.
 
-    Subsec. (g)(1)(D). [Pub. L. 113–79, § 10003(7)(A)(ii)][/us/pl/113/79/s10003/7/A/ii]–(iv), added subpar. (D).
+    Subsec. (g)(1)(D). [Pub. L. 113–79][/us/pl/113/79], § 10003(7)(A)(ii)–(iv), added subpar. (D).
 
-    Subsec. (g)(3) to (6). [Pub. L. 113–79, § 10003(7)(B)][/us/pl/113/79/s10003/7/B]–(D), added pars. (3) to (5), redesignated former par. (4) as (6), and struck out former pars. (3) and (5) which related to use of funds to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets and limitation on such use of funds, respectively.
+    Subsec. (g)(3) to (6). [Pub. L. 113–79][/us/pl/113/79], § 10003(7)(B)–(D), added pars. (3) to (5), redesignated former par. (4) as (6), and struck out former pars. (3) and (5) which related to use of funds to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets and limitation on such use of funds, respectively.
 
-    2013—Subsec. (e)(1). [Pub. L. 112–240, § 701(g)(1)(A)][/us/pl/112/240/s701/g/1/A], substituted “Fiscal years 2008 through 2012” for “In general” in heading.
+    2013—Subsec. (e)(1). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(1)(A), substituted “Fiscal years 2008 through 2012” for “In general” in heading.
 
-    Subsec. (e)(2) to (5). [Pub. L. 112–240, § 701(g)(1)(B)][/us/pl/112/240/s701/g/1/B]–(E), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “paragraph (1) or (2)” for “paragraph (1)” in par. (3) and “paragraph (3)” for “paragraph (2)” in introductory provisions of par. (5).
+    Subsec. (e)(2) to (5). [Pub. L. 112–240][/us/pl/112/240], § 701(g)(1)(B)–(E), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “paragraph (1) or (2)” for “paragraph (1)” in par. (3) and “paragraph (3)” for “paragraph (2)” in introductory provisions of par. (5).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 10106(1)][/us/pl/110/246/s10106/1], inserted “and to promote direct producer-to-consumer marketing” before period at end.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 10106(1), inserted “and to promote direct producer-to-consumer marketing” before period at end.
 
-    Subsec. (b)(1)(A). [Pub. L. 110–246, § 10106(2)(A)][/us/pl/110/246/s10106/2/A], inserted “agri-tourism activities,” after “programs,”.
+    Subsec. (b)(1)(A). [Pub. L. 110–246][/us/pl/110/246], § 10106(2)(A), inserted “agri-tourism activities,” after “programs,”.
 
-    Subsec. (b)(1)(B). [Pub. L. 110–246, § 10106(2)(B)][/us/pl/110/246/s10106/2/B], inserted “agri-tourism activities,” after “programs,” and substituted “marketing opportunities” for “infrastructure”.
+    Subsec. (b)(1)(B). [Pub. L. 110–246][/us/pl/110/246], § 10106(2)(B), inserted “agri-tourism activities,” after “programs,” and substituted “marketing opportunities” for “infrastructure”.
 
-    Subsec. (c)(1). [Pub. L. 110–246, § 10106(3)][/us/pl/110/246/s10106/3], inserted “or a producer network or association” after “cooperative”.
+    Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 10106(3), inserted “or a producer network or association” after “cooperative”.
 
-    Subsec. (e). [Pub. L. 110–246, § 10106(4)][/us/pl/110/246/s10106/4], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.”
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 10106(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -164,43 +164,43 @@
 ----------
 ----------
 
-[/us/pl/94/463/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs6
-[/us/pl/107/171/s10605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10605%2Fa
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F513
-[/us/pl/110/234/s10106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10106
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1337
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F1
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2366
-[/us/pl/113/79/s10003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F940
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/94/463/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463%2Fs6
+[/us/pl/94/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F463
 [/us/stat/90/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1983
-[/us/pl/103/437/s4/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs4%2Fa%2F8
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/105/362/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fd%2F1
+[/us/pl/105/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtI
 [/us/stat/112/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3281
-[/us/pl/113/79/s10003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F1
-[/us/pl/113/79/s10003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F2
-[/us/pl/113/79/s10003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F3
-[/us/pl/113/79/s10003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F4
-[/us/pl/113/79/s10003/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F6
-[/us/pl/113/79/s10003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F5
-[/us/pl/113/79/s10003/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F7%2FA%2Fi
-[/us/pl/113/79/s10003/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F7%2FA%2Fii
-[/us/pl/113/79/s10003/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10003%2F7%2FB
-[/us/pl/112/240/s701/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F1%2FA
-[/us/pl/112/240/s701/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F1%2FB
-[/us/pl/110/246/s10106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10106%2F1
-[/us/pl/110/246/s10106/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10106%2F2%2FA
-[/us/pl/110/246/s10106/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10106%2F2%2FB
-[/us/pl/110/246/s10106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10106%2F3
-[/us/pl/110/246/s10106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10106%2F4
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

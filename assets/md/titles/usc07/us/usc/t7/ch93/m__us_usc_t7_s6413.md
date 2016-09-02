@@ -51,7 +51,7 @@
 
             The Secretary shall notify all processors at least 30 days prior to a referendum conducted under this chapter. The notice shall explain the procedure established under this subsection.
 
-([Pub. L. 101–624, title XIX, § 1999N][/us/pl/101/624/s1999N], Nov. 28, 1990, [104 Stat. 3924][/us/stat/104/3924]; [Pub. L. 104–127, title I, § 146(d)(1)][/us/pl/104/127/s146/d/1], Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999N, Nov. 28, 1990, [104 Stat. 3924][/us/stat/104/3924]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 146(d)(1), Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t7/s6405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6405%2Fa
 [/us/usc/t7/s6405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6405%2Fb
-[/us/pl/101/624/s1999N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999N
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3924
-[/us/pl/104/127/s146/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs146%2Fd%2F1
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F919
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

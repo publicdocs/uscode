@@ -47,7 +47,7 @@
 
     (l) “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 408, [63 Stat. 1055][/us/stat/63/1055]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title II, § 209, [68 Stat. 901][/us/stat/68/901]; [Pub. L. 89–321, title IV, § 402(b)][/us/pl/89/321/s402/b], Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197]; [Pub. L. 90–559, § 1(4)][/us/pl/90/559/s1/4], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV, § 408][/us/pl/91/524/s408], title VI, §§ 604, 607, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1378; [Pub. L. 93–86, § 1(22)][/us/pl/93/86/s1/22], Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235]; [Pub. L. 94–214, title III][/us/pl/94/214], §§ 303, 304, Feb. 16, 1976, [90 Stat. 187][/us/stat/90/187], 188; [Pub. L. 95–113, title IV, § 407][/us/pl/95/113/s407], title VI, § 604(a), (b), title VII, §§ 704, 705, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939, 944; [Pub. L. 97–98, title XI, § 1104][/us/pl/97/98/s1104], Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264]; [Pub. L. 99–198, title X, § 1018][/us/pl/99/198/s1018], Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 101–624, title XI, § 1131][/us/pl/101/624/s1131], Nov. 28, 1990, [104 Stat. 3511][/us/stat/104/3511]; [Pub. L. 107–171, title I, § 1310(a)(2)(B)][/us/pl/107/171/s1310/a/2/B], May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI, § 612(c)][/us/pl/108/357/s612/c], Oct. 22, 2004, [118 Stat. 1524][/us/stat/118/1524].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 408, [63 Stat. 1055][/us/stat/63/1055]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title II, § 209, [68 Stat. 901][/us/stat/68/901]; [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 402(b), Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197]; [Pub. L. 90–559][/us/pl/90/559], § 1(4), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 408, title VI, §§ 604, 607, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1378; [Pub. L. 93–86][/us/pl/93/86], § 1(22), Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235]; [Pub. L. 94–214, title III][/us/pl/94/214/tIII], §§ 303, 304, Feb. 16, 1976, [90 Stat. 187][/us/stat/90/187], 188; [Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 407, title VI, § 604(a), (b), title VII, §§ 704, 705, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939, 944; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1104, Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264]; [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1018, Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1131, Nov. 28, 1990, [104 Stat. 3511][/us/stat/104/3511]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1310(a)(2)(B), May 13, 2002, [116 Stat. 182][/us/stat/116/182]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 612(c), Oct. 22, 2004, [118 Stat. 1524][/us/stat/118/1524].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
     2002—Subsec. (c). [Pub. L. 107–171][/us/pl/107/171] struck out “peanuts,” before “rice,”.
 
-    1990—Subsec. (k). [Pub. L. 101–624, § 1131(a)][/us/pl/101/624/s1131/a], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+    1990—Subsec. (k). [Pub. L. 101–624][/us/pl/101/624], § 1131(a), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
     “(1) Reference made in sections 1422, 1423, 1426, 1427, and 1431 of this title to the terms ‘support price’, ‘level of support’, and ‘level of price support’ shall be considered to apply as well to the loan and purchase level for wheat, feed grains, upland cotton, and rice under this Act.
 
     “(2) References made to the terms ‘price support’, ‘price support operations’, and ‘price support program’ in such sections and in [section 1421(a) of this title][/us/usc/t7/s1421/a] shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, and rice under this Act.”
 
-    Subsecs. (l), (m). [Pub. L. 101–624, § 1131(b)][/us/pl/101/624/s1131/b], added subsec. (l) and struck out former subsecs. (l) and (m). See 1977 Amendment note below.
+    Subsecs. (l), (m). [Pub. L. 101–624][/us/pl/101/624], § 1131(b), added subsec. (l) and struck out former subsecs. (l) and (m). See 1977 Amendment note below.
 
     1985—Subsec. (k). [Pub. L. 99–198][/us/pl/99/198] temporarily amended subsec. (k) generally, designating provisions before the semicolon as par. (1) and substituting “loan and purchase level” for “level of loans and purchases”, and designating provisions after the semicolon as par. (2). See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -79,13 +79,13 @@
 
     Subsecs. (k) to (m). [Pub. L. 95–113][/us/pl/95/113], §§ 407, 604(b), 705, temporarily amended subsecs. (k) to (m) generally. See Effective and Termination Dates of 1977 Amendment note below.
 
-    1976—Subsec. (b). [Pub. L. 94–214, § 303][/us/pl/94/214/s303], inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
+    1976—Subsec. (b). [Pub. L. 94–214][/us/pl/94/214], § 303, inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
 
-    Subsec. (m). [Pub. L. 94–214, § 304][/us/pl/94/214/s304], temporarily added subsec. (m). See Effective and Termination Dates of 1976 Amendment note below.
+    Subsec. (m). [Pub. L. 94–214][/us/pl/94/214], § 304, temporarily added subsec. (m). See Effective and Termination Dates of 1976 Amendment note below.
 
     1973—Subsec. (b). [Pub. L. 93–86][/us/pl/93/86] substituted “1971 through 1977” for “1971, 1972, and 1973” in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under [section 1444(e) of this title][/us/usc/t7/s1444/e].
 
-    1970—Subsec. (b). [Pub. L. 91–524, § 604][/us/pl/91/524/s604], inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under [section 1444(e) of this title][/us/usc/t7/s1444/e].
+    1970—Subsec. (b). [Pub. L. 91–524][/us/pl/91/524], § 604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under [section 1444(e) of this title][/us/usc/t7/s1444/e].
 
     Subsecs. (k), (l). [Pub. L. 91–524][/us/pl/91/524], §§ 408, 607, temporarily added subsecs. (k) and (l). See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -105,27 +105,27 @@
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title X, § 1018][/us/pl/99/198/s1018], Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459], provided that the amendment made by section 1018 is effective only for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+    [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1018, Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459], provided that the amendment made by section 1018 is effective only for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–98, title XI, § 1104][/us/pl/97/98/s1104], Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264], provided that the amendment made by section 1104 is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
+    [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1104, Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264], provided that the amendment made by section 1104 is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
 
  __Effective and Termination Dates of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title IV, § 407][/us/pl/95/113/s407], title VI, § 604(b), title VII, § 705, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939, 944, provided that the provisions amended by sections 407, 604(b), and 705 were effective for the 1978 through 1981 crops.
+    [Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 407, title VI, § 604(b), title VII, § 705, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939, 944, provided that the provisions amended by sections 407, 604(b), and 705 were effective for the 1978 through 1981 crops.
 
  __Effective and Termination Dates of 1976 Amendment__ 
 
-    [Pub. L. 94–214, title III, § 304][/us/pl/94/214/s304], Feb. 16, 1976, [90 Stat. 188][/us/stat/90/188], provided that the amendment made by section 304 is effective only with respect to the 1976 and 1977 crops of rice.
+    [Pub. L. 94–214, title III][/us/pl/94/214/tIII], § 304, Feb. 16, 1976, [90 Stat. 188][/us/stat/90/188], provided that the amendment made by section 304 is effective only with respect to the 1976 and 1977 crops of rice.
 
  __Effective and Termination Dates of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 408][/us/pl/91/524/s408], title VI, § 607, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1378, as amended by [Pub. L. 93–86, § 1(15)][/us/pl/93/86/s1/15], (22), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], 235, provided that the amendments made by sections 408 and 607 are effective only with respect to the 1971 through 1977 crops of the commodity.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 408, title VI, § 607, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1378, as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(15), (22), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], 235, provided that the amendments made by sections 408 and 607 are effective only with respect to the 1971 through 1977 crops of the commodity.
 
  __Effective and Termination Dates of 1965 Amendment__ 
 
-    [Pub. L. 89–321, title IV, § 402(b)][/us/pl/89/321/s402/b], Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197], as amended by [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by section 402(b) is effective only for the 1966 through 1970 crops.
+    [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 402(b), Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197], as amended by [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by section 402(b) is effective only for the 1966 through 1970 crops.
 
  __Savings Provision__ 
 
@@ -158,27 +158,27 @@
 [/us/stat/63/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1055
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F901
-[/us/pl/89/321/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs402%2Fb
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1197
-[/us/pl/90/559/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F4
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/pl/91/524/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs408
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F22
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F235
-[/us/pl/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214
+[/us/pl/94/214/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2FtIII
 [/us/stat/90/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F187
-[/us/pl/95/113/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs407
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
-[/us/pl/97/98/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1104
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1264
-[/us/pl/99/198/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1018
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1459
-[/us/pl/101/624/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1131
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3511
-[/us/pl/107/171/s1310/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1310%2Fa%2F2%2FB
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F182
-[/us/pl/108/357/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs612%2Fc
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1524
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
@@ -189,20 +189,20 @@
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/101/624/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1131%2Fa
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421%2Fa
-[/us/pl/101/624/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1131%2Fb
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s1444/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Ff
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/94/214/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2Fs303
-[/us/pl/94/214/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2Fs304
+[/us/pl/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214
+[/us/pl/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/usc/t7/s1444/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Fe
-[/us/pl/91/524/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs604
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/usc/t7/s1444/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Fe
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
@@ -213,21 +213,21 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/99/198/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1018
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1459
-[/us/pl/97/98/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1104
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1264
-[/us/pl/95/113/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs407
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
-[/us/pl/94/214/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2Fs304
+[/us/pl/94/214/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F214%2FtIII
 [/us/stat/90/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F188
-[/us/pl/91/524/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs408
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F15
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
-[/us/pl/89/321/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs402%2Fb
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1197
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614

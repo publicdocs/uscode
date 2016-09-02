@@ -29,11 +29,11 @@
 
     (f) it is imperative for the Department of Agriculture and the National Institutes of Health to coordinate and consult with regard to the research authorized under this chapter to achieve the maximum benefits from such research.
 
-([Pub. L. 96–469, § 2][/us/pl/96/469/s2], Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
+([Pub. L. 96–469][/us/pl/96/469], § 2, Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
 
  __Short Title__ 
 
-[Pub. L. 96–469, § 1][/us/pl/96/469/s1], Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235], provided: 
+[Pub. L. 96–469][/us/pl/96/469], § 1, Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Animal Cancer Research Act’.”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/96/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469%2Fs2
+[/us/pl/96/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469
 [/us/stat/94/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2235
-[/us/pl/96/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469%2Fs1
+[/us/pl/96/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469
 [/us/stat/94/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2235
 
 

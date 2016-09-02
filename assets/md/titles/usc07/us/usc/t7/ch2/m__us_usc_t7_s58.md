@@ -17,7 +17,7 @@
 
     In order to carry out the provisions of this chapter, the Secretary of Agriculture is authorized to cause the inspection, including the sampling, of any cotton involved in any transaction or shipment in commerce, wherever such cotton may be found, or of any cotton with respect to which a determination of the true classification is requested under [section 54 of this title][/us/usc/t7/s54].
 
-([Mar. 4, 1923, ch. 288, § 7][/us/act/1923-03-04/ch288/s7], [42 Stat. 1518][/us/stat/42/1518].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 7, [42 Stat. 1518][/us/stat/42/1518].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs54
-[/us/act/1923-03-04/ch288/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs7
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1518
 
 

@@ -161,7 +161,7 @@
 
             Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
-([Pub. L. 104–127, title I, § 136][/us/pl/104/127/s136], Apr. 4, 1996, [110 Stat. 909][/us/stat/110/909]; [Pub. L. 105–86, title VII, § 731][/us/pl/105/86/s731], Nov. 18, 1997, [111 Stat. 2108][/us/stat/111/2108]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 762\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–36; [Pub. L. 106–78, title VIII, § 806][/us/pl/106/78/s806], Oct. 22, 1999, [113 Stat. 1179][/us/stat/113/1179].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 136, Apr. 4, 1996, [110 Stat. 909][/us/stat/110/909]; [Pub. L. 105–86, title VII][/us/pl/105/86/tVII], § 731, Nov. 18, 1997, [111 Stat. 2108][/us/stat/111/2108]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 762\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–36; [Pub. L. 106–78, title VIII][/us/pl/106/78/tVIII], § 806, Oct. 22, 1999, [113 Stat. 1179][/us/stat/113/1179].)
 
  __References in Text__ 
 
@@ -169,29 +169,29 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a)(1). [Pub. L. 106–78, § 806(a)(1)][/us/pl/106/78/s806/a/1], substituted “or cash payments, at the option of the recipient,” for “or cash payments” in introductory provisions.
+    1999—Subsec. (a)(1). [Pub. L. 106–78][/us/pl/106/78], § 806(a)(1), substituted “or cash payments, at the option of the recipient,” for “or cash payments” in introductory provisions.
 
-    Subsec. (a)(1)(A), (2). [Pub. L. 106–78, § 806(a)(2)][/us/pl/106/78/s806/a/2], substituted “1.25 cents per pound” for “3 cents per pound”.
+    Subsec. (a)(1)(A), (2). [Pub. L. 106–78][/us/pl/106/78], § 806(a)(2), substituted “1.25 cents per pound” for “3 cents per pound”.
 
-    Subsec. (a)(3)(A). [Pub. L. 106–78, § 806(a)(3)(A)][/us/pl/106/78/s806/a/3/A], substituted “owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton” for “owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates” in first sentence.
+    Subsec. (a)(3)(A). [Pub. L. 106–78][/us/pl/106/78], § 806(a)(3)(A), substituted “owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton” for “owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates” in first sentence.
 
-    Subsec. (a)(3)(B). [Pub. L. 106–78, § 806(a)(3)(B)][/us/pl/106/78/s806/a/3/B], struck out at end “If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of the certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after the reasonable number of days and ending with the date of the presentation of the certificate to the Commodity Credit Corporation.”
+    Subsec. (a)(3)(B). [Pub. L. 106–78][/us/pl/106/78], § 806(a)(3)(B), struck out at end “If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of the certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after the reasonable number of days and ending with the date of the presentation of the certificate to the Commodity Credit Corporation.”
 
-    Subsec. (a)(4). [Pub. L. 106–78, § 806(a)(4)][/us/pl/106/78/s806/a/4], struck out heading and text of par. (4). Text read as follows: “Total expenditures under this subsection shall not exceed $701,000,000 during fiscal years 1996 through 2002.”
+    Subsec. (a)(4). [Pub. L. 106–78][/us/pl/106/78], § 806(a)(4), struck out heading and text of par. (4). Text read as follows: “Total expenditures under this subsection shall not exceed $701,000,000 during fiscal years 1996 through 2002.”
 
-    Subsec. (b)(1). [Pub. L. 106–78, § 806(b)(1)][/us/pl/106/78/s806/b/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The President shall carry out an import quota program that provides that, during the period ending July 31, 2003, whenever the Secretary determines and announces that for any consecutive 10-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificates issued under subsection (a) of this section, exceeds the Northern Europe price by more than 3 cents per pound, there shall immediately be in effect a special import quota.”
+    Subsec. (b)(1). [Pub. L. 106–78][/us/pl/106/78], § 806(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The President shall carry out an import quota program that provides that, during the period ending July 31, 2003, whenever the Secretary determines and announces that for any consecutive 10-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificates issued under subsection (a) of this section, exceeds the Northern Europe price by more than 3 cents per pound, there shall immediately be in effect a special import quota.”
 
-    Subsec. (b)(7). [Pub. L. 106–78, § 806(b)(2)][/us/pl/106/78/s806/b/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 106–78][/us/pl/106/78], § 806(b)(2), added par. (7).
 
     1998—Subsecs. (a)(1)(A), (2), (b)(1). [Pub. L. 105–277][/us/pl/105/277] substituted “3 cents” for “1.25 cents”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–86, § 731(1)][/us/pl/105/86/s731/1], in introductory provisions substituted “During” for “Subject to paragraph (4), during” and in subpar. (B) substituted “134” for “130”.
+    1997—Subsec. (a)(1). [Pub. L. 105–86][/us/pl/105/86], § 731(1), in introductory provisions substituted “During” for “Subject to paragraph (4), during” and in subpar. (B) substituted “134” for “130”.
 
-    Subsec. (a)(4), (5). [Pub. L. 105–86, § 731(2)][/us/pl/105/86/s731/2], (3) redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound.”
+    Subsec. (a)(4), (5). [Pub. L. 105–86][/us/pl/105/86], § 731(2), (3) redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound.”
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–86, title VII, § 731][/us/pl/105/86/s731], Nov. 18, 1997, [111 Stat. 2108][/us/stat/111/2108], provided that the amendment made by that section is effective on Oct. 1, 1998.
+    [Pub. L. 105–86, title VII][/us/pl/105/86/tVII], § 731, Nov. 18, 1997, [111 Stat. 2108][/us/stat/111/2108], provided that the amendment made by that section is effective on Oct. 1, 1998.
 
 ----------
 
@@ -207,26 +207,26 @@
 [/us/usc/t19/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fd
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
 [/us/usc/t19/s2463/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fd
-[/us/pl/104/127/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs136
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F909
-[/us/pl/105/86/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs731
+[/us/pl/105/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtVII
 [/us/stat/111/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2108
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/78/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806
+[/us/pl/106/78/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVIII
 [/us/stat/113/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1179
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/106/78/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fa%2F1
-[/us/pl/106/78/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fa%2F2
-[/us/pl/106/78/s806/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fa%2F3%2FA
-[/us/pl/106/78/s806/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fa%2F3%2FB
-[/us/pl/106/78/s806/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fa%2F4
-[/us/pl/106/78/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fb%2F1
-[/us/pl/106/78/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs806%2Fb%2F2
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/86/s731/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs731%2F1
-[/us/pl/105/86/s731/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs731%2F2
-[/us/pl/105/86/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs731
+[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
+[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
+[/us/pl/105/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtVII
 [/us/stat/111/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2108
 
 

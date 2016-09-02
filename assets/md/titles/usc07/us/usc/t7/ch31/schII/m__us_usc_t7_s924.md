@@ -19,7 +19,7 @@
 
     (b) As used in this subchapter, the term “rural area” shall be deemed to mean any area of the United States not included within the boundaries of any incorporated or unincorporated city, village, or borough having a population in excess of 5,000 inhabitants.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 203, as added [Oct. 28, 1949, ch. 776, § 5][/us/act/1949-10-28/ch776/s5], [63 Stat. 948][/us/stat/63/948]; amended [Pub. L. 87–862][/us/pl/87/862], Oct. 23, 1962, [76 Stat. 1140][/us/stat/76/1140]; [Pub. L. 101–624, title XXIII, § 2354][/us/pl/101/624/s2354], Nov. 28, 1990, [104 Stat. 4039][/us/stat/104/4039]; [Pub. L. 103–129, § 2(c)(5)][/us/pl/103/129/s2/c/5], Nov. 1, 1993, [107 Stat. 1364][/us/stat/107/1364].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title II, § 203, as added [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], § 5, [63 Stat. 948][/us/stat/63/948]; amended [Pub. L. 87–862][/us/pl/87/862], Oct. 23, 1962, [76 Stat. 1140][/us/stat/76/1140]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2354, Nov. 28, 1990, [104 Stat. 4039][/us/stat/104/4039]; [Pub. L. 103–129][/us/pl/103/129], § 2(c)(5), Nov. 1, 1993, [107 Stat. 1364][/us/stat/107/1364].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/act/1949-10-28/ch776/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776%2Fs5
+[/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
 [/us/pl/87/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F862
 [/us/stat/76/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1140
-[/us/pl/101/624/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2354
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4039
-[/us/pl/103/129/s2/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F5
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1364
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129

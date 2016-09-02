@@ -45,7 +45,7 @@
 
         The Northeast Interstate Dairy Compact Commission shall not prohibit or in any way limit the marketing in the Compact region of any milk or milk product produced in any other production area in the United States. The Compact Commission shall respect and abide by the ongoing procedures between Federal milk marketing orders with respect to the sharing of proceeds from sales within the Compact region of bulk milk, packaged milk, or producer milk originating from outside of the Compact region. The Compact Commission shall not use compensatory payments under section 10(6) of the Compact as a barrier to the entry of milk into the Compact region or for any other purpose. Establishment of a Compact over-order price, in itself, shall not be considered a compensatory payment or a limitation or prohibition on the marketing of milk.
 
-([Pub. L. 104–127, title I, § 147][/us/pl/104/127/s147], Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919]; [Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 4\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–520.)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 147, Apr. 4, 1996, [110 Stat. 919][/us/stat/110/919]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(8) \[§ 4\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–520.)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
-[/us/pl/104/127/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs147
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F919
-[/us/pl/106/113/s1000/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F8
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s608c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F5
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c

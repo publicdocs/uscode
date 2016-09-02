@@ -99,7 +99,7 @@
 
             (B) the funds shall be available to the board for disbursement as authorized in the order.
 
-([Pub. L. 104–127, title V, § 517][/us/pl/104/127/s517], Apr. 4, 1996, [110 Stat. 1042][/us/stat/110/1042].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 517, Apr. 4, 1996, [110 Stat. 1042][/us/stat/110/1042].)
 
 ----------
 
@@ -112,7 +112,7 @@
 [/us/usc/t7/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417
 [/us/usc/t7/s7417/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417%2Fb%2F1
 [/us/usc/t7/s7417/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7417%2Fb%2F1
-[/us/pl/104/127/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs517
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1042
 
 

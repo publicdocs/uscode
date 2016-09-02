@@ -17,7 +17,7 @@
 
     Every packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, and dealer shall keep such accounts, records, and memoranda as fully and correctly disclose all transactions involved in his business, including the true ownership of such business by stockholding or otherwise. Whenever the Secretary finds that the accounts, records, and memoranda of any such person do not fully and correctly disclose all transactions involved in his business, the Secretary may prescribe the manner and form in which such accounts, records, and memoranda shall be kept, and thereafter any such person who fails to keep such accounts, records, and memoranda in the manner and form prescribed or approved by the Secretary shall upon conviction be fined not more than $5,000, or imprisoned not more than three years, or both.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 401, [42 Stat. 168][/us/stat/42/168]; [Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title V, § 503, as added [Aug. 14, 1935, ch. 532][/us/act/1935-08-14/ch532], [49 Stat. 649][/us/stat/49/649]; [Pub. L. 100–173, § 6][/us/pl/100/173/s6], Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918]; [Pub. L. 107–171, title X, § 10502(b)(2)(C)][/us/pl/107/171/s10502/b/2/C], May 13, 2002, [116 Stat. 510][/us/stat/116/510].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 401, [42 Stat. 168][/us/stat/42/168]; [Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title V, § 503, as added [Aug. 14, 1935, ch. 532][/us/act/1935-08-14/ch532], [49 Stat. 649][/us/stat/49/649]; [Pub. L. 100–173][/us/pl/100/173], § 6, Nov. 23, 1987, [101 Stat. 918][/us/stat/101/918]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10502(b)(2)(C), May 13, 2002, [116 Stat. 510][/us/stat/116/510].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Liens or Security Interests Against Livestock; Interagency Task Force To Recommend Method of Providing Information to Purchasers; Report to Congress__ 
 
-    [Pub. L. 95–409, § 2][/us/pl/95/409/s2], Oct. 2, 1978, [92 Stat. 887][/us/stat/92/887], required the Secretary of Agriculture to appoint a task force to recommend methods of providing information to purchasers of livestock concerning the existence of a lien or security interest against livestock and to submit a report to Congress not later than Feb. 1, 1979.
+    [Pub. L. 95–409][/us/pl/95/409], § 2, Oct. 2, 1978, [92 Stat. 887][/us/stat/92/887], required the Secretary of Agriculture to appoint a task force to recommend methods of providing information to purchasers of livestock concerning the existence of a lien or security interest against livestock and to submit a report to Congress not later than Feb. 1, 1979.
 
 ----------
 
@@ -47,16 +47,16 @@
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/act/1935-08-14/ch532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch532
 [/us/stat/49/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F649
-[/us/pl/100/173/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs6
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F918
-[/us/pl/107/171/s10502/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10502%2Fb%2F2%2FC
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F510
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12
 [/us/usc/t7/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs182
-[/us/pl/95/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409%2Fs2
+[/us/pl/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409
 [/us/stat/92/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F887
 
 

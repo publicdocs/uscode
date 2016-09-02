@@ -39,7 +39,7 @@
 
         The termination or suspension of an order, or a provision of an order, shall not be considered an order within the meaning of this chapter.
 
-([Pub. L. 99–198, title XVI, § 1623][/us/pl/99/198/s1623], Dec. 23, 1985, [99 Stat. 1618][/us/stat/99/1618].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1623, Dec. 23, 1985, [99 Stat. 1618][/us/stat/99/1618].)
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/usc/t7/s4811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4811%2Fa
 [/us/usc/t7/s4811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4811%2Fa
 [/us/usc/t7/s4811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4811
-[/us/pl/99/198/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1623
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1618
 
 

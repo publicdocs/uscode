@@ -35,7 +35,7 @@
 
         For purposes of subsection (b)(3) of this title, mark-to-market margining requirements shall not include the obligation of an issuer of a secured debt instrument to increase the amount of collateral held in pledge for the benefit of the purchaser of the secured debt instrument to secure the repayment obligations of the issuer under the secured debt instrument.
 
-([Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title IV, § 405\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–459.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title IV, § 405\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–459.)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

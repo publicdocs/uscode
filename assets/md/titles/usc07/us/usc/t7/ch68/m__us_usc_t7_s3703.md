@@ -77,7 +77,7 @@
 
         To carry out the purposes of this section, there are authorized to be appropriated not to exceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
 
-([Pub. L. 96–358, § 4][/us/pl/96/358/s4], Sept. 25, 1980, [94 Stat. 1185][/us/stat/94/1185].)
+([Pub. L. 96–358][/us/pl/96/358], § 4, Sept. 25, 1980, [94 Stat. 1185][/us/stat/94/1185].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Codification__ 
 
-    In subsec. (d)(4), “[section 22102 of title 49][/us/usc/t49/s22102]” substituted for “section 5(j) of the Department of Transportation Act ([49 U.S.C. 1654(j)][/us/usc/t49/s1654/j])” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by [Pub. L. 101–213, § 2(c)][/us/pl/101/213/s2/c], Dec. 11, 1989, [103 Stat. 1843][/us/stat/103/1843], and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
+    In subsec. (d)(4), “[section 22102 of title 49][/us/usc/t49/s22102]” substituted for “section 5(j) of the Department of Transportation Act ([49 U.S.C. 1654(j)][/us/usc/t49/s1654/j])” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by [Pub. L. 101–213][/us/pl/101/213], § 2(c), Dec. 11, 1989, [103 Stat. 1843][/us/stat/103/1843], and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
 
 ----------
 
@@ -99,7 +99,7 @@
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
 [/us/usc/t7/s321–326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321%E2%80%93326
 [/us/usc/t49/s22102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22102
-[/us/pl/96/358/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358%2Fs4
+[/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1185
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
@@ -110,9 +110,9 @@
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t49/s22102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22102
 [/us/usc/t49/s1654/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1654%2Fj
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/101/213/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F213%2Fs2%2Fc
+[/us/pl/101/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F213
 [/us/stat/103/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1843
 
 

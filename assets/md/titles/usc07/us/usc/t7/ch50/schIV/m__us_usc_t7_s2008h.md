@@ -59,7 +59,7 @@
 
         The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
-([Pub. L. 87–128, title III, § 373][/us/pl/87/128/s373], as added [Pub. L. 104–127, title VI, § 648(b)][/us/pl/104/127/s648/b], Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 801\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37; [Pub. L. 107–171, title V, § 5319][/us/pl/107/171/s5319], May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 373, as added [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 648(b), Apr. 4, 1996, [110 Stat. 1104][/us/stat/110/1104]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, § 801\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5319, May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
 
  __References in Text__ 
 
@@ -87,12 +87,12 @@
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
-[/us/pl/87/128/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs373
-[/us/pl/104/127/s648/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs648%2Fb
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1104
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171/s5319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5319
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F348
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288

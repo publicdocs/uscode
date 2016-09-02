@@ -65,7 +65,7 @@
 
             The Secretary may use up to 5 percent of the funds made available under paragraph (1) for Federal administrative expenses incurred in carrying out this section.
 
-([Pub. L. 111–296, title II, § 244][/us/pl/111/296/s244], Dec. 13, 2010, [124 Stat. 3239][/us/stat/124/3239].)
+([Pub. L. 111–296, title II][/us/pl/111/296/tII], § 244, Dec. 13, 2010, [124 Stat. 3239][/us/stat/124/3239].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 
  __Definition of Secretary__ 
 
-[Pub. L. 111–296, § 2][/us/pl/111/296/s2], Dec. 13, 2010, [124 Stat. 3185][/us/stat/124/3185], provided that: 
+[Pub. L. 111–296][/us/pl/111/296], § 2, Dec. 13, 2010, [124 Stat. 3185][/us/stat/124/3185], provided that: 
 
 > “In this Act \[see Short Title of 2010 Amendment note set out under [section 1751 of Title 42][/us/usc/t42/s1751], The Public Health and Welfare\], the term ‘Secretary’ means the Secretary of Agriculture.”
 
@@ -89,11 +89,11 @@
 ----------
 
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
-[/us/pl/111/296/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs244
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3239
 [/us/pl/111/296/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs445
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/111/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs2
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/stat/124/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3185
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 

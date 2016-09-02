@@ -31,7 +31,7 @@
 
         (5) the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchange for agricultural products, to the maximum extent feasible.
 
-([Pub. L. 96–494, title II, § 210][/us/pl/96/494/s210], Dec. 3, 1980, [94 Stat. 2576][/us/stat/94/2576].)
+([Pub. L. 96–494, title II][/us/pl/96/494/tII], § 210, Dec. 3, 1980, [94 Stat. 2576][/us/stat/94/2576].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/494/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs210
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2576
 
 

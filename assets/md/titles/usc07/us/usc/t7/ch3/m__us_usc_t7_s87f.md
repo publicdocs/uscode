@@ -35,31 +35,31 @@
 
         Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce documentary evidence, if in the power of the person to do so, in obedience to the subpena or lawful requirement of the Secretary, shall be guilty of a misdemeanor, and upon conviction thereof be subject to imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine.
 
-    (f) __Repealed.__  __[__  __Pub. L. 91–452, title II, § 203__  __][/us/pl/91/452/s203]__  __,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 928__  __][/us/stat/84/928]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 91–452, title II__  __][/us/pl/91/452/tII]__  __, § 203,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 928__  __][/us/stat/84/928]__ 
 
-    (g) __Repealed.__  __[__  __Pub. L. 94–582, § 19(d)__  __][/us/pl/94/582/s19/d]__  __,__  __Oct. 21, 1976__  __,__  __[__  __90 Stat. 2886__  __][/us/stat/90/2886]__ 
+    (g) __Repealed.__  __[__  __Pub. L. 94–582__  __][/us/pl/94/582]__  __, § 19(d),__  __Oct. 21, 1976__  __,__  __[__  __90 Stat. 2886__  __][/us/stat/90/2886]__ 
 
     (h) __District court jurisdiction__ 
 
         The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions of the United States shall have jurisdiction in cases arising under this chapter.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 17, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 91–452, title II, § 203][/us/pl/91/452/s203], Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928]; [Pub. L. 94–582, § 19][/us/pl/94/582/s19], Oct. 21, 1976, [90 Stat. 2885][/us/stat/90/2885]; [Pub. L. 103–156][/us/pl/103/156], §§ 10, 12(o), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528], 1529; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 17, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 768][/us/stat/82/768]; amended [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 203, Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928]; [Pub. L. 94–582][/us/pl/94/582], § 19, Oct. 21, 1976, [90 Stat. 2885][/us/stat/90/2885]; [Pub. L. 103–156][/us/pl/103/156], §§ 10, 12(o), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528], 1529; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
     1994—Subsecs. (a) to (e). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1993—Subsec. (e). [Pub. L. 103–156, § 12][/us/pl/103/156/s12](o), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—Subsec. (e). [Pub. L. 103–156][/us/pl/103/156], § 12(o), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    [Pub. L. 103–156, § 10][/us/pl/103/156/s10], substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of [section 87c of this title][/us/usc/t7/s87c]”.
+    [Pub. L. 103–156][/us/pl/103/156], § 10, substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of [section 87c of this title][/us/usc/t7/s87c]”.
 
-    1976—Subsec. (a). [Pub. L. 94–582, § 19(a)][/us/pl/94/582/s19/a], (b), substituted “Administrator” for “Secretary” in two places and inserted “by the Administrator” after “under investigation”, respectively.
+    1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582], § 19(a), (b), substituted “Administrator” for “Secretary” in two places and inserted “by the Administrator” after “under investigation”, respectively.
 
-    Subsecs. (b) to (d). [Pub. L. 94–582, § 19(a)][/us/pl/94/582/s19/a], substituted “Administrator” for “Secretary” in subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 94–582][/us/pl/94/582], § 19(a), substituted “Administrator” for “Secretary” in subsecs. (b) to (d).
 
-    Subsec. (e). [Pub. L. 94–582, § 19(a)][/us/pl/94/582/s19/a], (c), substituted “Administrator” for “Secretary” and inserted “subsection (a) of” before “[section 87c of this title][/us/usc/t7/s87c]”.
+    Subsec. (e). [Pub. L. 94–582][/us/pl/94/582], § 19(a), (c), substituted “Administrator” for “Secretary” and inserted “subsection (a) of” before “[section 87c of this title][/us/usc/t7/s87c]”.
 
-    Subsec. (g). [Pub. L. 94–582, § 19(d)][/us/pl/94/582/s19/d], struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in [section 87c of this title][/us/usc/t7/s87c].
+    Subsec. (g). [Pub. L. 94–582][/us/pl/94/582], § 19(d), struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in [section 87c of this title][/us/usc/t7/s87c].
 
     1970—Subsec. (f). [Pub. L. 91–452][/us/pl/91/452] struck out subsec. (f) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination.
 
@@ -82,30 +82,30 @@
 ----------
 ----------
 
-[/us/pl/91/452/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs203
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F928
-[/us/pl/94/582/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19%2Fd
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2886
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F768
-[/us/pl/91/452/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs203
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F928
-[/us/pl/94/582/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2885
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12
-[/us/pl/103/156/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs10
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/usc/t7/s87c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87c
-[/us/pl/94/582/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19%2Fa
-[/us/pl/94/582/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19%2Fa
-[/us/pl/94/582/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19%2Fa
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s87c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87c
-[/us/pl/94/582/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs19%2Fd
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s87c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87c
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582

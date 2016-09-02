@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is charged with the proper administration of this subchapter.
 
-([Aug. 30, 1890, ch. 841, § 4][/us/act/1890-08-30/ch841/s4], [26 Stat. 419][/us/stat/26/419]; 1939 Reorg. Plan No. 1, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424][/us/stat/53/1424]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III, § 301(a)(2)(E)][/us/pl/96/88/s301/a/2/E], Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677]; [Pub. L. 97–98, title XIV, § 1419][/us/pl/97/98/s1419], Dec. 22, 1981, [95 Stat. 1306][/us/stat/95/1306].)
+([Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], § 4, [26 Stat. 419][/us/stat/26/419]; 1939 Reorg. Plan No. 1, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424][/us/stat/53/1424]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(E), Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1419, Dec. 22, 1981, [95 Stat. 1306][/us/stat/95/1306].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Designation of Central State University as 1890 Institution__ 
 
-[Pub. L. 113–79, title VII, § 7129][/us/pl/113/79/s7129], Feb. 7, 2014, [128 Stat. 880][/us/stat/128/880], provided that:
+[Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7129, Feb. 7, 2014, [128 Stat. 880][/us/stat/128/880], provided that:
 
 >     “(a)  __Designation__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __West Virginia State College at Institute, West Virginia__ 
 
-[Pub. L. 107–76, title VII, § 753][/us/pl/107/76/s753], Nov. 28, 2001, [115 Stat. 740][/us/stat/115/740], provided that: 
+[Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 753, Nov. 28, 2001, [115 Stat. 740][/us/stat/115/740], provided that: 
 
 > “Hereafter, any provision of any Act of Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[[7 U.S.C. 321][/us/usc/t7/s321] et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: Provided, That the Secretary may waive the matching funds’ requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3222d][/us/usc/t7/s3222d]) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement.”
 
@@ -70,19 +70,19 @@
 ----------
 ----------
 
-[/us/act/1890-08-30/ch841/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841%2Fs4
+[/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F419
 [/us/stat/53/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1424
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s301/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FE
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/97/98/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1419
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1306
 [/us/usc/t7/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs326
 [/us/pl/97/98/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1419
 [/us/pl/96/88/s301/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FE
 [/us/usc/t20/s3441/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441%2Fa%2F2%2FE
-[/us/pl/113/79/s7129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7129
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F880
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3221
@@ -91,7 +91,7 @@
 [/us/usc/t16/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1671
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
-[/us/pl/107/76/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs753
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F740
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s3222d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222d

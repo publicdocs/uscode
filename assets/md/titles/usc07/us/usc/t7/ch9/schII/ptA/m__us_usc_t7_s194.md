@@ -47,7 +47,7 @@
 
         The court of appeals shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in [section 1254 of title 28][/us/usc/t28/s1254], if such writ is duly applied for within sixty days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction unless so ordered by the Supreme Court.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 204, [42 Stat. 162][/us/stat/42/162]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 6(b)][/us/pl/85/791/s6/b], (c), Aug. 28, 1958, [72 Stat. 944][/us/stat/72/944]; [Pub. L. 98–620, title IV, § 402(5)][/us/pl/98/620/s402/5], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 107–171, title X, § 10502(b)(1)][/us/pl/107/171/s10502/b/1], May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 204, [42 Stat. 162][/us/stat/42/162]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 6(b), (c), Aug. 28, 1958, [72 Stat. 944][/us/stat/72/944]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(5), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10502(b)(1), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
  __Codification__ 
 
@@ -61,11 +61,11 @@
 
     1958—Subsec. (b). [Pub. L. 85–791][/us/pl/85/791] § 6(b), substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of”, and “as provided in [section 2112 of Title 28][/us/usc/t28/s2112]” for “including the complaint, the evidence, and the report and order” in first sentence, and “record” for “transcript” in second sentence.
 
-    Subsec. (c). [Pub. L. 85–791, § 6(b)][/us/pl/85/791/s6/b], substituted “petition” for “transcript”.
+    Subsec. (c). [Pub. L. 85–791][/us/pl/85/791], § 6(b), substituted “petition” for “transcript”.
 
-    Subsec. (d). [Pub. L. 85–791, § 6(b)][/us/pl/85/791/s6/b], struck out “duly certified” after “admitted”.
+    Subsec. (d). [Pub. L. 85–791][/us/pl/85/791], § 6(b), struck out “duly certified” after “admitted”.
 
-    Subsec. (h). [Pub. L. 85–791, § 6(c)][/us/pl/85/791/s6/c], substituted “jurisdiction, which upon the finding of the record with it shall be exclusive,” for “exclusive jurisdiction,” and section “1254” for “347”.
+    Subsec. (h). [Pub. L. 85–791][/us/pl/85/791], § 6(c), substituted “jurisdiction, which upon the finding of the record with it shall be exclusive,” for “exclusive jurisdiction,” and section “1254” for “347”.
 
  __Change of Name__ 
 
@@ -91,23 +91,23 @@
 [/us/stat/42/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F162
 [/us/act/1934-06-07/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-07%2Fch426
 [/us/stat/48/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F926
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs6%2Fb
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F944
-[/us/pl/98/620/s402/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F5
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
-[/us/pl/107/171/s10502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10502%2Fb%2F1
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/85/791/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs6%2Fb
-[/us/pl/85/791/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs6%2Fb
-[/us/pl/85/791/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs6%2Fc
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

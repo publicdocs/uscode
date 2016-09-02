@@ -39,7 +39,7 @@
 
         Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different registered entities when such determinations are warranted in the judgment of the Commission.
 
-([Sept. 21, 1922, ch. 369, § 4g][/us/act/1922-09-21/ch369/s4g], as added [June 15, 1936, ch. 545, § 5][/us/act/1936-06-15/ch545/s5], [49 Stat. 1496][/us/stat/49/1496]; amended [Pub. L. 90–258, § 8][/us/pl/90/258/s8], Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (f), title IV, § 415, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1415; [Pub. L. 95–405, § 6][/us/pl/95/405/s6], Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II, § 209][/us/pl/97/444/s209], Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 102–546, title II, § 207(b)(1)][/us/pl/102/546/s207/b/1], title IV, § 402(5), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3624; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII, § 13202(a)][/us/pl/110/234/s13202/a], May 22, 2008, [122 Stat. 1438][/us/stat/122/1438]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13202(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2200.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4g, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 5, [49 Stat. 1496][/us/stat/49/1496]; amended [Pub. L. 90–258][/us/pl/90/258], § 8, Feb. 19, 1968, [82 Stat. 28][/us/stat/82/28]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (f), title IV, § 415, Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392], 1415; [Pub. L. 95–405][/us/pl/95/405], § 6, Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 209, Jan. 11, 1983, [96 Stat. 2302][/us/stat/96/2302]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 207(b)(1), title IV, § 402(5), Oct. 28, 1992, [106 Stat. 3604][/us/stat/106/3604], 3624; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–407; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13202(a), May 22, 2008, [122 Stat. 1438][/us/stat/122/1438]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13202(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2200.)
 
  __Codification__ 
 
@@ -47,29 +47,29 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 13202(a)][/us/pl/110/246/s13202/a], inserted “, and in any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “elsewhere”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 13202(a), inserted “, and in any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “elsewhere”.
 
-    2000—Subsec. (b). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(7)(A)\], substituted “registered entity” for “clearinghouse and contract market”.
+    2000—Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(7)(A)\], substituted “registered entity” for “clearinghouse and contract market”.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(7)(B)\], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”.
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(7)(B)\], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”.
 
     1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], §§ 207(b)(1), 402(5)(A), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 
-    Subsec. (b). [Pub. L. 102–546, § 402(5)(A)][/us/pl/102/546/s402/5/A], redesignated par. (2) as subsec. (b).
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 402(5)(A), redesignated par. (2) as subsec. (b).
 
-    Subsec. (c). [Pub. L. 102–546, § 402(5)][/us/pl/102/546/s402/5], redesignated par. (3) as subsec. (c) and substituted “subsection (b)” for “paragraph (2)”.
+    Subsec. (c). [Pub. L. 102–546][/us/pl/102/546], § 402(5), redesignated par. (3) as subsec. (c) and substituted “subsection (b)” for “paragraph (2)”.
 
-    Subsecs. (d) to (f). [Pub. L. 102–546, § 402(5)(A)][/us/pl/102/546/s402/5/A], redesignated pars. (4) to (6) as subsecs. (d) to (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 102–546][/us/pl/102/546], § 402(5)(A), redesignated pars. (4) to (6) as subsecs. (d) to (f), respectively.
 
-    1983—Par. (1). [Pub. L. 97–444, § 209(1)][/us/pl/97/444/s209/1], made reporting and recordkeeping requirements applicable to introducing brokers.
+    1983—Par. (1). [Pub. L. 97–444][/us/pl/97/444], § 209(1), made reporting and recordkeeping requirements applicable to introducing brokers.
 
-    Par. (2). [Pub. L. 97–444, § 209(2)][/us/pl/97/444/s209/2], made customer daily trading records requirement applicable to introducing brokers.
+    Par. (2). [Pub. L. 97–444][/us/pl/97/444], § 209(2), made customer daily trading records requirement applicable to introducing brokers.
 
     1978—Par. (3). [Pub. L. 95–405][/us/pl/95/405] substituted “Floor brokers” for “Brokers”.
 
     1974—Par. (1). [Pub. L. 93–463][/us/pl/93/463], §§ 103(a), (f), 415, designated existing provisions as par. (1) and substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
 
-    Pars. (2) to (6). [Pub. L. 93–463, § 415][/us/pl/93/463/s415], added pars. (2) to (6).
+    Pars. (2) to (6). [Pub. L. 93–463][/us/pl/93/463], § 415, added pars. (2) to (6).
 
     1968—[Pub. L. 90–258][/us/pl/90/258] rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See [section 9 of this title][/us/usc/t7/s9].
 
@@ -110,41 +110,41 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4g
-[/us/act/1936-06-15/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1496
-[/us/pl/90/258/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs8
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F28
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/95/405/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs6
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F869
-[/us/pl/97/444/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs209
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2302
-[/us/pl/102/546/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs207%2Fb%2F1
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3604
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13202%2Fa
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1438
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s13202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13202%2Fa
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/102/546/s402/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F5%2FA
-[/us/pl/102/546/s402/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F5
-[/us/pl/102/546/s402/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F5%2FA
-[/us/pl/97/444/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs209%2F1
-[/us/pl/97/444/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs209%2F2
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
-[/us/pl/93/463/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs415
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

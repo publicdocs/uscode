@@ -81,7 +81,7 @@
 
         As used in this section, the term “perform without authority” includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
-([Pub. L. 91–577, title III, § 111][/us/pl/91/577/s111], Dec. 24, 1970, [84 Stat. 1554][/us/stat/84/1554]; [Pub. L. 96–574, § 19(a)][/us/pl/96/574/s19/a], Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351]; [Pub. L. 102–560, § 3(a)][/us/pl/102/560/s3/a], Oct. 28, 1992, [106 Stat. 4231][/us/stat/106/4231]; [Pub. L. 103–349][/us/pl/103/349], §§ 9, 13(q), Oct. 6, 1994, [108 Stat. 3141][/us/stat/108/3141], 3144.)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 111, Dec. 24, 1970, [84 Stat. 1554][/us/stat/84/1554]; [Pub. L. 96–574][/us/pl/96/574], § 19(a), Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351]; [Pub. L. 102–560][/us/pl/102/560], § 3(a), Oct. 28, 1992, [106 Stat. 4231][/us/stat/106/4231]; [Pub. L. 103–349][/us/pl/103/349], §§ 9, 13(q), Oct. 6, 1994, [108 Stat. 3141][/us/stat/108/3141], 3144.)
 
  __References in Text__ 
 
@@ -91,25 +91,25 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–349, § 9(1)(A)][/us/pl/103/349/s9/1/A], substituted “protected” for “novel” in two places in introductory provisions.
+    1994—Subsec. (a). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 103–349, § 9(1)(B)][/us/pl/103/349/s9/1/B], substituted “or market the protected” for “the novel”.
+    Subsec. (a)(1). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(B), substituted “or market the protected” for “the novel”.
 
-    Subsec. (a)(2). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], struck out “novel” before “variety”.
+    Subsec. (a)(2). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(C), struck out “novel” before “variety”.
 
-    Subsec. (a)(3). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C]–(E), inserted “, or propagate by a tuber or a part of a tuber,” after “multiply”, struck out “novel” before “variety”, and struck out “or” at end.
+    Subsec. (a)(3). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(C)–(E), inserted “, or propagate by a tuber or a part of a tuber,” after “multiply”, struck out “novel” before “variety”, and struck out “or” at end.
 
-    Subsec. (a)(4) to (6). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], (E), struck out “novel” before “variety” and struck out “or” at end.
+    Subsec. (a)(4) to (6). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(C), (E), struck out “novel” before “variety” and struck out “or” at end.
 
-    Subsec. (a)(7). [Pub. L. 103–349, § 9(1)(G)][/us/pl/103/349/s9/1/G], added par. (7). Former par. (7) redesignated (9).
+    Subsec. (a)(7). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(G), added par. (7). Former par. (7) redesignated (9).
 
-    [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], struck out “novel” before “variety”.
+    [Pub. L. 103–349][/us/pl/103/349], § 9(1)(C), struck out “novel” before “variety”.
 
-    Subsec. (a)(8). [Pub. L. 103–349, § 9(1)(G)][/us/pl/103/349/s9/1/G], added par. (8). Former par. (8) redesignated (10).
+    Subsec. (a)(8). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(G), added par. (8). Former par. (8) redesignated (10).
 
-    Subsec. (a)(9), (10). [Pub. L. 103–349, § 9(1)(F)][/us/pl/103/349/s9/1/F], redesignated pars. (7) and (8) as (9) and (10), respectively.
+    Subsec. (a)(9), (10). [Pub. L. 103–349][/us/pl/103/349], § 9(1)(F), redesignated pars. (7) and (8) as (9) and (10), respectively.
 
-    Subsecs. (b) to (e). [Pub. L. 103–349, § 9(3)][/us/pl/103/349/s9/3], added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
+    Subsecs. (b) to (e). [Pub. L. 103–349][/us/pl/103/349], § 9(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
     Subsec. (f). [Pub. L. 103–349][/us/pl/103/349], §§ 9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–560, § 4][/us/pl/102/560/s4], Oct. 28, 1992, [106 Stat. 4232][/us/stat/106/4232], provided that: 
+[Pub. L. 102–560][/us/pl/102/560], § 4, Oct. 28, 1992, [106 Stat. 4232][/us/stat/106/4232], provided that: 
 
 > “The amendments made by this Act \[enacting [section 2570 of this title][/us/usc/t7/s2570] and [section 296 of Title 35][/us/usc/t35/s296], Patents, and amending this section and [section 271 of Title 35][/us/usc/t35/s271]\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -136,11 +136,11 @@
 
 [/us/usc/t7/s2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2567
 [/us/usc/t7/s2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2543
-[/us/pl/91/577/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs111
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1554
-[/us/pl/96/574/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs19%2Fa
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3351
-[/us/pl/102/560/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs3%2Fa
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/stat/106/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4231
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3141
@@ -149,23 +149,23 @@
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3136
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
-[/us/pl/103/349/s9/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FA
-[/us/pl/103/349/s9/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FB
-[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
-[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
-[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
-[/us/pl/103/349/s9/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FG
-[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
-[/us/pl/103/349/s9/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FG
-[/us/pl/103/349/s9/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FF
-[/us/pl/103/349/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F3
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
 [/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401
-[/us/pl/102/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs4
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
 [/us/stat/106/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4232
 [/us/usc/t7/s2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2570
 [/us/usc/t35/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs296

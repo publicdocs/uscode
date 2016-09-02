@@ -69,7 +69,7 @@
 
         If the Government of any country requests that moisture content remain a criterion in the official grade designations of grain, such criterion shall be included in determining the official grade designation of grain shipped to such country.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 4, [39 Stat. 483][/us/stat/39/483]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 762][/us/stat/82/762]; [Pub. L. 94–582, § 5][/us/pl/94/582/s5], Oct. 21, 1976, [90 Stat. 2869][/us/stat/90/2869]; [Pub. L. 95–113, title XVI, § 1604(c)][/us/pl/95/113/s1604/c], Sept. 29, 1977, [91 Stat. 1027][/us/stat/91/1027]; [Pub. L. 99–198, title XVI, § 1671][/us/pl/99/198/s1671], Dec. 23, 1985, [99 Stat. 1632][/us/stat/99/1632]; [Pub. L. 101–624, title XX][/us/pl/101/624], §§ 2005, 2006, Nov. 28, 1990, [104 Stat. 3930][/us/stat/104/3930]; [Pub. L. 103–156, § 12(b)][/us/pl/103/156/s12/b], Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 4, [39 Stat. 483][/us/stat/39/483]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 762][/us/stat/82/762]; [Pub. L. 94–582][/us/pl/94/582], § 5, Oct. 21, 1976, [90 Stat. 2869][/us/stat/90/2869]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], § 1604(c), Sept. 29, 1977, [91 Stat. 1027][/us/stat/91/1027]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1671, Dec. 23, 1985, [99 Stat. 1632][/us/stat/99/1632]; [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], §§ 2005, 2006, Nov. 28, 1990, [104 Stat. 3930][/us/stat/104/3930]; [Pub. L. 103–156][/us/pl/103/156], § 12(b), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 
     1993—Subsec. (a)(1). [Pub. L. 103–156][/us/pl/103/156], which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    1990—Subsec. (b). [Pub. L. 101–624, § 2005][/us/pl/101/624/s2005], designated existing provisions as par. (1) and added par. (2).
+    1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 2005, designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (c), (d). [Pub. L. 101–624, § 2006][/us/pl/101/624/s2006], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 101–624][/us/pl/101/624], § 2006, added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1985—Subsec. (c). [Pub. L. 99–198][/us/pl/99/198] added subsec. (c).
 
     1977—Subsec. (a). [Pub. L. 95–113][/us/pl/95/113] substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”.
 
-    1976—Subsec. (a). [Pub. L. 94–582, § 5(a)][/us/pl/94/582/s5/a], authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
+    1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582], § 5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
 
-    Subsec. (b). [Pub. L. 94–582, § 5(b)][/us/pl/94/582/s5/b], substituted “Administrator” for “Secretary” in two places.
+    Subsec. (b). [Pub. L. 94–582][/us/pl/94/582], § 5(b), substituted “Administrator” for “Secretary” in two places.
 
     1968—[Pub. L. 90–487][/us/pl/90/487] substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
@@ -105,19 +105,19 @@
 
  __Benefits and Costs Associated With Improved Grain Quality__ 
 
-[Pub. L. 101–624, title XX, § 2003][/us/pl/101/624/s2003], Nov. 28, 1990, [104 Stat. 3929][/us/stat/104/3929], provided that: 
+[Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2003, Nov. 28, 1990, [104 Stat. 3929][/us/stat/104/3929], provided that: 
 
 > “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act ([7 U.S.C. 76][/us/usc/t7/s76] and 87b) prior to making such changes.”
 
  __Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation__ 
 
-[Pub. L. 99–641, title III, § 304][/us/pl/99/641/s304], Nov. 10, 1986, [100 Stat. 3565][/us/stat/100/3565], provided that: 
+[Pub. L. 99–641, title III][/us/pl/99/641/tIII], § 304, Nov. 10, 1986, [100 Stat. 3565][/us/stat/100/3565], provided that: 
 
 > “Not later than 6 months after the date of enactment of this Act \[Nov. 10, 1986\], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act ([7 U.S.C. 71][/us/usc/t7/s71] et seq.) to more accurately reflect levels of insect infestation.”
 
  __Study of Uniform End-Use Value Tests for Grain__ 
 
-[Pub. L. 99–641, title III, § 307][/us/pl/99/641/s307], Nov. 10, 1986, [100 Stat. 3566][/us/stat/100/3566], as amended by [Pub. L. 104–66, title I, § 1011(i)][/us/pl/104/66/s1011/i], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710], provided that:
+[Pub. L. 99–641, title III][/us/pl/99/641/tIII], § 307, Nov. 10, 1986, [100 Stat. 3566][/us/stat/100/3566], as amended by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(i), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -147,7 +147,7 @@
 
  __New Grain Classifications__ 
 
-[Pub. L. 99–198, title XVI, § 1672][/us/pl/99/198/s1672], Dec. 23, 1985, [99 Stat. 1632][/us/stat/99/1632], provided that:
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1672, Dec. 23, 1985, [99 Stat. 1632][/us/stat/99/1632], provided that:
 
 >     “(a) The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to cooperate in developing new means of establishing grain classifications taking into account characteristics other than those visually evident.
 
@@ -155,7 +155,7 @@
 
  __Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by__  __October 21, 1978__ 
 
-    [Pub. L. 94–582, § 24][/us/pl/94/582/s24], Oct. 21, 1976, [90 Stat. 2888][/us/stat/90/2888], which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by [Pub. L. 106–472, title I, § 110(b)][/us/pl/106/472/s110/b], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061].
+    [Pub. L. 94–582][/us/pl/94/582], § 24, Oct. 21, 1976, [90 Stat. 2888][/us/stat/90/2888], which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 110(b), Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061].
 
 ----------
 
@@ -166,28 +166,28 @@
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F483
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F762
-[/us/pl/94/582/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs5
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2869
-[/us/pl/95/113/s1604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fc
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1027
-[/us/pl/99/198/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1671
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1632
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3930
-[/us/pl/103/156/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fb
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
-[/us/pl/101/624/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2005
-[/us/pl/101/624/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2006
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/94/582/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs5%2Fa
-[/us/pl/94/582/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs5%2Fb
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
@@ -198,22 +198,22 @@
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/pl/90/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs2
 [/us/usc/t7/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs78
-[/us/pl/101/624/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2003
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3929
 [/us/usc/t7/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs76
-[/us/pl/99/641/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs304
+[/us/pl/99/641/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIII
 [/us/stat/100/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3565
 [/us/usc/t7/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71
-[/us/pl/99/641/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs307
+[/us/pl/99/641/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIII
 [/us/stat/100/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3566
-[/us/pl/104/66/s1011/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fi
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F710
 [/us/usc/t7/s75/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs75%2Fi
-[/us/pl/99/198/s1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1672
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1632
-[/us/pl/94/582/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs24
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2888
-[/us/pl/106/472/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fb
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
 
 

@@ -19,7 +19,7 @@
 
     No borrower of funds under sections 904 or 922 of this title shall, without the approval of the Secretary, sell or dispose of its property, rights, or franchises, acquired under the provisions of this chapter, until any loan obtained from the Rural Electrification Administration, including all interest and charges, shall have been repaid.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 7, [49 Stat. 1365][/us/stat/49/1365]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], §§ 2, 4(f), [63 Stat. 948][/us/stat/63/948]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 7, [49 Stat. 1365][/us/stat/49/1365]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], §§ 2, 4(f), [63 Stat. 948][/us/stat/63/948]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 [/us/stat/49/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1365
 [/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 

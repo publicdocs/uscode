@@ -371,7 +371,7 @@
 
                 Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in [section 7614a of this title][/us/usc/t7/s7614a].
 
-([Pub. L. 103–354, title II, § 251][/us/pl/103/354/s251], Oct. 13, 1994, [108 Stat. 3226][/us/stat/108/3226]; [Pub. L. 110–234, title VII, § 7511(a)][/us/pl/110/234/s7511/a], May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2021; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7111(b)(2), 7212(b), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 886.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 251, Oct. 13, 1994, [108 Stat. 3226][/us/stat/108/3226]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(a), May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2021; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7111(b)(2), 7212(b), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 886.)
 
  __References in Text__ 
 
@@ -391,17 +391,17 @@
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
-    Section is comprised of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251]. Subsec. (g), formerly (e), of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251], as redesignated by [Pub. L. 110–246, § 7511(a)(3)][/us/pl/110/246/s7511/a/3], amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
+    Section is comprised of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251]. Subsec. (g), formerly (e), of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251], as redesignated by [Pub. L. 110–246][/us/pl/110/246], § 7511(a)(3), amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
 
  __Amendments__ 
 
-    2014—Subsec. (f)(1)(C)(vi). [Pub. L. 113–79, § 7111(b)(2)][/us/pl/113/79/s7111/b/2], inserted “except for the competitive grant program under section 1433(b)” before period at end.
+    2014—Subsec. (f)(1)(C)(vi). [Pub. L. 113–79][/us/pl/113/79], § 7111(b)(2), inserted “except for the competitive grant program under section 1433(b)” before period at end.
 
-    Subsec. (f)(1)(D)(xi) to (xiii). [Pub. L. 113–79, § 7212(b)][/us/pl/113/79/s7212/b], redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under [section 5925e of this title][/us/usc/t7/s5925e].”
+    Subsec. (f)(1)(D)(xi) to (xiii). [Pub. L. 113–79][/us/pl/113/79], § 7212(b), redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under [section 5925e of this title][/us/usc/t7/s5925e].”
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7511(a)(1)][/us/pl/110/246/s7511/a/1], inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
 
-    Subsecs. (b) to (f). [Pub. L. 110–246, § 7511(a)(2)][/us/pl/110/246/s7511/a/2], (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
+    Subsecs. (b) to (f). [Pub. L. 110–246][/us/pl/110/246], § 7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -449,13 +449,13 @@
 [/us/usc/t7/s7627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7627
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t7/s7614a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7614a
-[/us/pl/103/354/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs251
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3226
-[/us/pl/110/234/s7511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fa
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1259
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
@@ -480,13 +480,13 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/103/354/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs251
 [/us/pl/103/354/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs251
-[/us/pl/110/246/s7511/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/113/79/s7111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F2
-[/us/pl/113/79/s7212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7212%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s5925e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925e
-[/us/pl/110/246/s7511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F1
-[/us/pl/110/246/s7511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

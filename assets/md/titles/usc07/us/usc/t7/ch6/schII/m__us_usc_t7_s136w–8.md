@@ -6935,7 +6935,7 @@
 
                     In the case of an application received under this section on or after September 30, 2017, subsection (f) shall not apply to the application.
 
-([June 25, 1947, ch. 125, § 33][/us/act/1947-06-25/ch125/s33], as added [Pub. L. 108–199, div. G, title V, § 501(f)(2)][/us/pl/108/199/s501/f/2], Jan. 23, 2004, [118 Stat. 422][/us/stat/118/422]; amended [Pub. L. 110–94, § 5][/us/pl/110/94/s5], Oct. 9, 2007, [121 Stat. 1002][/us/stat/121/1002]; [Pub. L. 110–193, § 1(a)][/us/pl/110/193/s1/a], Mar. 6, 2008, [122 Stat. 649][/us/stat/122/649]; [Pub. L. 112–177, § 2(a)(2)(B)][/us/pl/112/177/s2/a/2/B], (b), Sept. 28, 2012, [126 Stat. 1328][/us/stat/126/1328], 1330.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 33, as added [Pub. L. 108–199, div. G, title V][/us/pl/108/199/dG/tV], § 501(f)(2), Jan. 23, 2004, [118 Stat. 422][/us/stat/118/422]; amended [Pub. L. 110–94][/us/pl/110/94], § 5, Oct. 9, 2007, [121 Stat. 1002][/us/stat/121/1002]; [Pub. L. 110–193][/us/pl/110/193], § 1(a), Mar. 6, 2008, [122 Stat. 649][/us/stat/122/649]; [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(B), (b), Sept. 28, 2012, [126 Stat. 1328][/us/stat/126/1328], 1330.)
 
  __References in Text__ 
 
@@ -6955,137 +6955,137 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(3). [Pub. L. 112–177, § 2(b)(1)(A)][/us/pl/112/177/s2/b/1/A], added par. (3) and struck out former par. (3) which related to schedule of covered applications and registration service fees.
+    2012—Subsec. (b)(3). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(1)(A), added par. (3) and struck out former par. (3) which related to schedule of covered applications and registration service fees.
 
-    Subsec. (b)(6)(A). [Pub. L. 112–177, § 2(b)(1)(B)(i)][/us/pl/112/177/s2/b/1/B/i], substituted “October 1, 2013” for “October 1, 2008” and “September 30, 2015” for “September 30, 2010”.
+    Subsec. (b)(6)(A). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(1)(B)(i), substituted “October 1, 2013” for “October 1, 2008” and “September 30, 2015” for “September 30, 2010”.
 
-    Subsec. (b)(6)(B). [Pub. L. 112–177, § 2(b)(1)(B)(ii)][/us/pl/112/177/s2/b/1/B/ii], substituted “October 1, 2015” for “October 1, 2010” and “September 30, 2015” for “September 30, 2010”.
+    Subsec. (b)(6)(B). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(1)(B)(ii), substituted “October 1, 2015” for “October 1, 2010” and “September 30, 2015” for “September 30, 2010”.
 
-    Subsec. (b)(7)(F)(i). [Pub. L. 112–177, § 2(a)(2)(B)(i)][/us/pl/112/177/s2/a/2/B/i], substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
+    Subsec. (b)(7)(F)(i). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
 
-    Subsec. (b)(7)(F)(ii). [Pub. L. 112–177, § 2(a)(2)(B)(i)][/us/pl/112/177/s2/a/2/B/i], (ii), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)” in subcl. (I) and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “136a–1(i)(5)(E)(ii)(I)(bb)” in subcl. (II).
+    Subsec. (b)(7)(F)(ii). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(B)(i), (ii), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)” in subcl. (I) and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “136a–1(i)(5)(E)(ii)(I)(bb)” in subcl. (II).
 
-    Subsec. (b)(7)(F)(iv)(I). [Pub. L. 112–177, § 2(a)(2)(B)(i)][/us/pl/112/177/s2/a/2/B/i], substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
+    Subsec. (b)(7)(F)(iv)(I). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(B)(i), substituted “section 136a–1 (i)(1)(E)(ii)” for “section 136a–1(i)(5)(E)(ii)”.
 
-    Subsec. (b)(7)(F)(iv)(II). [Pub. L. 112–177, § 2(a)(2)(B)(ii)][/us/pl/112/177/s2/a/2/B/ii], (iii), substituted “applicable” for “applicable.”, “revenue” for “revenues”, and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “section 136a–1(i)(5)(E)(ii)(I)(bb)”.
+    Subsec. (b)(7)(F)(iv)(II). [Pub. L. 112–177][/us/pl/112/177], § 2(a)(2)(B)(ii), (iii), substituted “applicable” for “applicable.”, “revenue” for “revenues”, and “section 136a–1(i)(1)(E)(ii)(I)(bb)” for “section 136a–1(i)(5)(E)(ii)(I)(bb)”.
 
-    Subsec. (b)(8)(C)(ii)(III). [Pub. L. 112–177, § 2(b)(1)(C)][/us/pl/112/177/s2/b/1/C], added subcl. (III).
+    Subsec. (b)(8)(C)(ii)(III). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(1)(C), added subcl. (III).
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 112–177, § 2(b)(2)(A)][/us/pl/112/177/s2/b/2/A], substituted “2013 through 2017” for “2008 through 2012”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(2)(A), substituted “2013 through 2017” for “2008 through 2012”.
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 112–177, § 2(b)(2)(B)][/us/pl/112/177/s2/b/2/B], substituted “grants, for each of fiscal years 2013 through 2017, $500,000.” for “grants—
+    Subsec. (c)(3)(B)(ii). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(2)(B), substituted “grants, for each of fiscal years 2013 through 2017, $500,000.” for “grants—
 
     “(I) for each of fiscal years 2008 and 2009, $750,000; and
 
     “(II) for each of fiscal years 2010 through 2012, $500,000.”
 
-    Subsec. (c)(3)(B)(iii). [Pub. L. 112–177, § 2(b)(2)(C)][/us/pl/112/177/s2/b/2/C], substituted “2013 through 2017” for “2008 through 2012”.
+    Subsec. (c)(3)(B)(iii). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(2)(C), substituted “2013 through 2017” for “2008 through 2012”.
 
-    Subsec. (d)(2). [Pub. L. 112–177, § 2(b)(3)(A)][/us/pl/112/177/s2/b/3/A], substituted “2012” for “2002” in two places.
+    Subsec. (d)(2). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(3)(A), substituted “2012” for “2002” in two places.
 
-    Subsec. (d)(4), (5). [Pub. L. 112–177, § 2(b)(3)(B)][/us/pl/112/177/s2/b/3/B], (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriations for covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).”
+    Subsec. (d)(4), (5). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(3)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriations for covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).”
 
-    Subsec. (e). [Pub. L. 112–177, § 2(b)(4)][/us/pl/112/177/s2/b/4], substituted “Pesticide Registration Improvement Extension Act of 2012” for “Pesticide Registration Improvement Act of 2003”.
+    Subsec. (e). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(4), substituted “Pesticide Registration Improvement Extension Act of 2012” for “Pesticide Registration Improvement Act of 2003”.
 
-    Subsec. (f)(1). [Pub. L. 112–177, § 2(b)(5)(A)][/us/pl/112/177/s2/b/5/A], substituted “Pesticide Registration Improvement Extension Act of 2012, the Administrator shall make publicly available” for “Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register”.
+    Subsec. (f)(1). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(A), substituted “Pesticide Registration Improvement Extension Act of 2012, the Administrator shall make publicly available” for “Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register”.
 
-    Subsec. (f)(2). [Pub. L. 112–177, § 2(b)(5)(B)][/us/pl/112/177/s2/b/5/B], substituted “provided under subsection (b)(3).” for “appearing in the Congressional Record on pages S10409 through S10411, dated July 31, 2007.”
+    Subsec. (f)(2). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(B), substituted “provided under subsection (b)(3).” for “appearing in the Congressional Record on pages S10409 through S10411, dated July 31, 2007.”
 
-    Subsec. (f)(4)(A). [Pub. L. 112–177, § 2(b)(5)(C)(i)][/us/pl/112/177/s2/b/5/C/i], inserted “and fee” before period at end.
+    Subsec. (f)(4)(A). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(i), inserted “and fee” before period at end.
 
-    Subsec. (f)(4)(B). [Pub. L. 112–177, § 2(b)(5)(C)(ii)(I)][/us/pl/112/177/s2/b/5/C/ii/I], substituted “Initial content and preliminary technical screenings” for “Completeness of application” in heading.
+    Subsec. (f)(4)(B). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(ii)(I), substituted “Initial content and preliminary technical screenings” for “Completeness of application” in heading.
 
-    Subsec. (f)(4)(B)(i). [Pub. L. 112–177, § 2(b)(5)(C)(ii)(I)][/us/pl/112/177/s2/b/5/C/ii/I], (II), substituted “Screenings” for “In general” in cl. heading, designated existing provisions as subcl. (I) and inserted subcl. heading, and added subcl. (II).
+    Subsec. (f)(4)(B)(i). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(ii)(I), (II), substituted “Screenings” for “In general” in cl. heading, designated existing provisions as subcl. (I) and inserted subcl. heading, and added subcl. (II).
 
-    Subsec. (f)(4)(B)(ii). [Pub. L. 112–177, § 2(b)(5)(C)(ii)(III)][/us/pl/112/177/s2/b/5/C/ii/III], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “If the Administrator determines under clause (i) that the application does not pass the initial screening and cannot be corrected within the 21-day period, the Administrator shall reject the application not later than 10 days after making the determination.”
+    Subsec. (f)(4)(B)(ii). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(ii)(III), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “If the Administrator determines under clause (i) that the application does not pass the initial screening and cannot be corrected within the 21-day period, the Administrator shall reject the application not later than 10 days after making the determination.”
 
-    Subsec. (f)(4)(B)(iii). [Pub. L. 112–177, § 2(b)(5)(C)(ii)(IV)][/us/pl/112/177/s2/b/5/C/ii/IV], inserted “initial content” before “screening” in heading, “content” before “screening” in introductory provisions, and substituted “appears to contain” for “contains” in subcl. (II).
+    Subsec. (f)(4)(B)(iii). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(ii)(IV), inserted “initial content” before “screening” in heading, “content” before “screening” in introductory provisions, and substituted “appears to contain” for “contains” in subcl. (II).
 
-    Subsec. (f)(4)(B)(iv). [Pub. L. 112–177, § 2(b)(5)(C)(ii)(V)][/us/pl/112/177/s2/b/5/C/ii/V], added cl. (iv).
+    Subsec. (f)(4)(B)(iv). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(5)(C)(ii)(V), added cl. (iv).
 
-    Subsec. (k)(1). [Pub. L. 112–177, § 2(b)(6)(A)][/us/pl/112/177/s2/b/6/A], substituted “March 1, 2017” for “March 1, 2014”.
+    Subsec. (k)(1). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(6)(A), substituted “March 1, 2017” for “March 1, 2014”.
 
-    Subsec. (k)(2)(A)(viii). [Pub. L. 112–177, § 2(b)(6)(B)(i)][/us/pl/112/177/s2/b/6/B/i], added cl. (viii).
+    Subsec. (k)(2)(A)(viii). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(6)(B)(i), added cl. (viii).
 
-    Subsec. (k)(2)(G) to (J). [Pub. L. 112–177, § 2(b)(6)(B)(ii)][/us/pl/112/177/s2/b/6/B/ii]–(iv), added subpars. (G) to (J).
+    Subsec. (k)(2)(G) to (J). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(6)(B)(ii)–(iv), added subpars. (G) to (J).
 
-    Subsec. (k)(4). [Pub. L. 112–177, § 2(b)(6)(C)][/us/pl/112/177/s2/b/6/C], added par. (4).
+    Subsec. (k)(4). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(6)(C), added par. (4).
 
-    Subsec. (m)(1). [Pub. L. 112–177, § 2(b)(7)(A)][/us/pl/112/177/s2/b/7/A], substituted “2017” for “2012”.
+    Subsec. (m)(1). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(7)(A), substituted “2017” for “2012”.
 
-    Subsec. (m)(2)(A). [Pub. L. 112–177, § 2(b)(7)(B)(i)][/us/pl/112/177/s2/b/7/B/i], substituted “2018” for “2013” in heading and “2018,” for “2013,” and “September 30, 2017” for “September 30, 2012” in text.
+    Subsec. (m)(2)(A). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(7)(B)(i), substituted “2018” for “2013” in heading and “2018,” for “2013,” and “September 30, 2017” for “September 30, 2012” in text.
 
-    Subsec. (m)(2)(B). [Pub. L. 112–177, § 2(b)(7)(B)(ii)][/us/pl/112/177/s2/b/7/B/ii], substituted “2019” for “2014” in heading and “2019,” for “2014,” and “September 30, 2017” for “September 30, 2012” in text.
+    Subsec. (m)(2)(B). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(7)(B)(ii), substituted “2019” for “2014” in heading and “2019,” for “2014,” and “September 30, 2017” for “September 30, 2012” in text.
 
-    Subsec. (m)(2)(C). [Pub. L. 112–177, § 2(b)(7)(B)(iii)][/us/pl/112/177/s2/b/7/B/iii], substituted “2019” for “2014” in heading and “September 30, 2019” for “September 30, 2014” in text.
+    Subsec. (m)(2)(C). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(7)(B)(iii), substituted “2019” for “2014” in heading and “September 30, 2019” for “September 30, 2014” in text.
 
-    Subsec. (m)(2)(D). [Pub. L. 112–177, § 2(b)(7)(B)(iv)][/us/pl/112/177/s2/b/7/B/iv], substituted “2017” for “2012” in cls. (i) and (ii).
+    Subsec. (m)(2)(D). [Pub. L. 112–177][/us/pl/112/177], § 2(b)(7)(B)(iv), substituted “2017” for “2012” in cls. (i) and (ii).
 
-    2008—Subsec. (b)(7)(D)(i). [Pub. L. 110–193, § 1(a)(1)(A)(i)][/us/pl/110/193/s1/a/1/A/i], added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
+    2008—Subsec. (b)(7)(D)(i). [Pub. L. 110–193][/us/pl/110/193], § 1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
 
-    Subsec. (b)(7)(D)(ii). [Pub. L. 110–193, § 1(a)(1)(A)(ii)][/us/pl/110/193/s1/a/1/A/ii], inserted “or exemption” after “waiver”.
+    Subsec. (b)(7)(D)(ii). [Pub. L. 110–193][/us/pl/110/193], § 1(a)(1)(A)(ii), inserted “or exemption” after “waiver”.
 
-    Subsec. (b)(7)(E). [Pub. L. 110–193, § 1(a)(1)(B)(ii)][/us/pl/110/193/s1/a/1/B/ii], substituted “exempt an application from the registration service fee” for “waive the registration service fee for an application” in introductory provisions.
+    Subsec. (b)(7)(E). [Pub. L. 110–193][/us/pl/110/193], § 1(a)(1)(B)(ii), substituted “exempt an application from the registration service fee” for “waive the registration service fee for an application” in introductory provisions.
 
-    [Pub. L. 110–193, § 1(a)(1)(B)(i)][/us/pl/110/193/s1/a/1/B/i], substituted “exemption” for “waiver” in heading.
+    [Pub. L. 110–193][/us/pl/110/193], § 1(a)(1)(B)(i), substituted “exemption” for “waiver” in heading.
 
-    Subsec. (b)(7)(E)(ii). [Pub. L. 110–193, § 1(a)(1)(B)(iii)][/us/pl/110/193/s1/a/1/B/iii], substituted “exemption” for “waiver”.
+    Subsec. (b)(7)(E)(ii). [Pub. L. 110–193][/us/pl/110/193], § 1(a)(1)(B)(iii), substituted “exemption” for “waiver”.
 
-    Subsec. (m)(2)(A), (B). [Pub. L. 110–193, § 1(a)(2)][/us/pl/110/193/s1/a/2], substituted “2012” for “2008”.
+    Subsec. (m)(2)(A), (B). [Pub. L. 110–193][/us/pl/110/193], § 1(a)(2), substituted “2012” for “2008”.
 
-    2007—Subsec. (b)(2)(C)(ii). [Pub. L. 110–94, § 5(a)(1)][/us/pl/110/94/s5/a/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
+    2007—Subsec. (b)(2)(C)(ii). [Pub. L. 110–94][/us/pl/110/94], § 5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
 
-    Subsec. (b)(2)(D) to (H). [Pub. L. 110–94, § 5(a)(2)][/us/pl/110/94/s5/a/2], added subpars. (D) to (H).
+    Subsec. (b)(2)(D) to (H). [Pub. L. 110–94][/us/pl/110/94], § 5(a)(2), added subpars. (D) to (H).
 
-    Subsec. (b)(3)(A). [Pub. L. 110–94, § 5(b)(1)(A)][/us/pl/110/94/s5/b/1/A], substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
+    Subsec. (b)(3)(A). [Pub. L. 110–94][/us/pl/110/94], § 5(b)(1)(A), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
 
-    Subsec. (b)(3)(B). [Pub. L. 110–94, § 5(b)(1)(B)][/us/pl/110/94/s5/b/1/B], substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
+    Subsec. (b)(3)(B). [Pub. L. 110–94][/us/pl/110/94], § 5(b)(1)(B), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
 
-    Subsec. (b)(6). [Pub. L. 110–94, § 5(b)(2)][/us/pl/110/94/s5/b/2], added par. (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
+    Subsec. (b)(6). [Pub. L. 110–94][/us/pl/110/94], § 5(b)(2), added par. (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
 
     “(A) increase by 5 percent the service fee payable for the application under paragraph (3); and
 
     “(B) publish in the Federal Register the revised registration service fee schedule.”
 
-    Subsec. (b)(7)(F)(ii). [Pub. L. 110–94, § 5(c)(1)][/us/pl/110/94/s5/c/1], substituted “75 percent” for “all” in introductory provisions.
+    Subsec. (b)(7)(F)(ii). [Pub. L. 110–94][/us/pl/110/94], § 5(c)(1), substituted “75 percent” for “all” in introductory provisions.
 
-    Subsec. (b)(7)(F)(iv)(II). [Pub. L. 110–94, § 5(c)(2)][/us/pl/110/94/s5/c/2], substituted “75 percent of the applicable.” for “all”.
+    Subsec. (b)(7)(F)(iv)(II). [Pub. L. 110–94][/us/pl/110/94], § 5(c)(2), substituted “75 percent of the applicable.” for “all”.
 
-    Subsec. (b)(8)(A). [Pub. L. 110–94, § 5(d)][/us/pl/110/94/s5/d], substituted “25 percent.” for “10 percent”.
+    Subsec. (b)(8)(A). [Pub. L. 110–94][/us/pl/110/94], § 5(d), substituted “25 percent.” for “10 percent”.
 
-    Subsec. (c)(1)(B). [Pub. L. 110–94, § 5(e)(1)][/us/pl/110/94/s5/e/1], substituted “paragraph (5)” for “paragraph (4)”.
+    Subsec. (c)(1)(B). [Pub. L. 110–94][/us/pl/110/94], § 5(e)(1), substituted “paragraph (5)” for “paragraph (4)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 110–94, § 5(e)(2)(A)][/us/pl/110/94/s5/e/2/A], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “For each of fiscal years 2004 through 2008, the Administrator shall use approximately 1⁄17 of the amount in the Fund (but not more than $1,000,000, and not less than $750,000, for any fiscal year) to enhance current scientific and regulatory activities related to worker protection.”
+    Subsec. (c)(3)(B). [Pub. L. 110–94][/us/pl/110/94], § 5(e)(2)(A), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “For each of fiscal years 2004 through 2008, the Administrator shall use approximately 1⁄17 of the amount in the Fund (but not more than $1,000,000, and not less than $750,000, for any fiscal year) to enhance current scientific and regulatory activities related to worker protection.”
 
-    Subsec. (c)(3)(C). [Pub. L. 110–94, § 5(e)(2)(B)][/us/pl/110/94/s5/e/2/B], struck out subpar. (C). Text read as follows: “For each of fiscal years 2004 and 2005, the Administrator shall use approximately 1⁄34 of the amount in the Fund (but not to exceed $500,000 for any fiscal year) for the review and evaluation of new inert ingredients.”
+    Subsec. (c)(3)(C). [Pub. L. 110–94][/us/pl/110/94], § 5(e)(2)(B), struck out subpar. (C). Text read as follows: “For each of fiscal years 2004 and 2005, the Administrator shall use approximately 1⁄34 of the amount in the Fund (but not to exceed $500,000 for any fiscal year) for the review and evaluation of new inert ingredients.”
 
-    Subsec. (c)(5). [Pub. L. 110–94, § 5(e)(3)][/us/pl/110/94/s5/e/3], designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
+    Subsec. (c)(5). [Pub. L. 110–94][/us/pl/110/94], § 5(e)(3), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
 
-    Subsec. (d)(2). [Pub. L. 110–94, § 5(f)][/us/pl/110/94/s5/f], which directed substitution of “Registration” for “For fiscal years 2004, 2005 and 2006 only, registration”, was executed by making the substitution for text which contained a comma after “2005” to reflect the probable intent of Congress.
+    Subsec. (d)(2). [Pub. L. 110–94][/us/pl/110/94], § 5(f), which directed substitution of “Registration” for “For fiscal years 2004, 2005 and 2006 only, registration”, was executed by making the substitution for text which contained a comma after “2005” to reflect the probable intent of Congress.
 
-    Subsec. (f)(1). [Pub. L. 110–94, § 5(g)(1)][/us/pl/110/94/s5/g/1], substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
+    Subsec. (f)(1). [Pub. L. 110–94][/us/pl/110/94], § 5(g)(1), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
 
-    Subsec. (f)(2). [Pub. L. 110–94, § 5(g)(2)][/us/pl/110/94/s5/g/2], substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
+    Subsec. (f)(2). [Pub. L. 110–94][/us/pl/110/94], § 5(g)(2), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
 
-    Subsec. (f)(4)(B). [Pub. L. 110–94, § 5(g)(3)][/us/pl/110/94/s5/g/3], added subpar. (B) and struck out former subpar. (B) which provided criteria for determining completeness of pesticide registration applications.
+    Subsec. (f)(4)(B). [Pub. L. 110–94][/us/pl/110/94], § 5(g)(3), added subpar. (B) and struck out former subpar. (B) which provided criteria for determining completeness of pesticide registration applications.
 
-    Subsec. (k)(1). [Pub. L. 110–94, § 5(h)(1)][/us/pl/110/94/s5/h/1], substituted “March 1, 2014” for “March 1, 2009”.
+    Subsec. (k)(1). [Pub. L. 110–94][/us/pl/110/94], § 5(h)(1), substituted “March 1, 2014” for “March 1, 2009”.
 
-    Subsec. (k)(2)(A)(ii) to (v). [Pub. L. 110–94, § 5(h)(2)(A)(i)][/us/pl/110/94/s5/h/2/A/i], (ii), added cls. (ii) to (iv) and redesignated former cl. (ii) as (v). Former cls. (iii) and (iv) redesignated (vi) and (vii), respectively.
+    Subsec. (k)(2)(A)(ii) to (v). [Pub. L. 110–94][/us/pl/110/94], § 5(h)(2)(A)(i), (ii), added cls. (ii) to (iv) and redesignated former cl. (ii) as (v). Former cls. (iii) and (iv) redesignated (vi) and (vii), respectively.
 
-    Subsec. (k)(2)(A)(vi). [Pub. L. 110–94, § 5(h)(2)(A)(i)][/us/pl/110/94/s5/h/2/A/i], (iii), redesignated cl. (iii) as (vi) and added subcls. (IV) and (V).
+    Subsec. (k)(2)(A)(vi). [Pub. L. 110–94][/us/pl/110/94], § 5(h)(2)(A)(i), (iii), redesignated cl. (iii) as (vi) and added subcls. (IV) and (V).
 
-    Subsec. (k)(2)(A)(vii). [Pub. L. 110–94, § 5(h)(2)(A)(i)][/us/pl/110/94/s5/h/2/A/i], redesignated cl. (iv) as (vii).
+    Subsec. (k)(2)(A)(vii). [Pub. L. 110–94][/us/pl/110/94], § 5(h)(2)(A)(i), redesignated cl. (iv) as (vii).
 
-    Subsec. (k)(2)(D) to (F). [Pub. L. 110–94, § 5(h)(2)(B)][/us/pl/110/94/s5/h/2/B]–(D), added subpars. (D) to (F).
+    Subsec. (k)(2)(D) to (F). [Pub. L. 110–94][/us/pl/110/94], § 5(h)(2)(B)–(D), added subpars. (D) to (F).
 
-    Subsec. (m)(1). [Pub. L. 110–94, § 5(i)(1)][/us/pl/110/94/s5/i/1], substituted “2012” for “2008”.
+    Subsec. (m)(1). [Pub. L. 110–94][/us/pl/110/94], § 5(i)(1), substituted “2012” for “2008”.
 
-    Subsec. (m)(2)(A). [Pub. L. 110–94, § 5(i)(2)(A)][/us/pl/110/94/s5/i/2/A], substituted “2013” for “2009” in heading and text.
+    Subsec. (m)(2)(A). [Pub. L. 110–94][/us/pl/110/94], § 5(i)(2)(A), substituted “2013” for “2009” in heading and text.
 
-    Subsec. (m)(2)(B), (C). [Pub. L. 110–94, § 5(i)(2)(B)][/us/pl/110/94/s5/i/2/B], substituted “2014” for “2010” in headings and text.
+    Subsec. (m)(2)(B), (C). [Pub. L. 110–94][/us/pl/110/94], § 5(i)(2)(B), substituted “2014” for “2010” in headings and text.
 
-    Subsec. (m)(2)(D). [Pub. L. 110–94, § 5(i)(2)(C)][/us/pl/110/94/s5/i/2/C], substituted “2012” for “2008” in two places.
+    Subsec. (m)(2)(D). [Pub. L. 110–94][/us/pl/110/94], § 5(i)(2)(C), substituted “2012” for “2008” in two places.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -7093,7 +7093,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–193, § 1(b)][/us/pl/110/193/s1/b], Mar. 6, 2008, [122 Stat. 650][/us/stat/122/650], provided that: 
+[Pub. L. 110–193][/us/pl/110/193], § 1(b), Mar. 6, 2008, [122 Stat. 650][/us/stat/122/650], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] take effect on October 1, 2007.”
 
@@ -7134,14 +7134,14 @@
 [/us/usc/t7/s136a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fg
 [/us/usc/t7/s136a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%2Fh
 [/us/usc/t7/s136a–1/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%E2%80%931%2Fk%2F4
-[/us/act/1947-06-25/ch125/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs33
-[/us/pl/108/199/s501/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Ff%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/108/199/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtV
 [/us/stat/118/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F422
-[/us/pl/110/94/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/stat/121/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1002
-[/us/pl/110/193/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
 [/us/stat/122/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F649
-[/us/pl/112/177/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FB
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/stat/126/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1328
 [/us/pl/108/199/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501
 [/us/pl/108/199/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fh
@@ -7160,72 +7160,72 @@
 [/us/usc/t31/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3301
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/usc/t7/s136x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136x
-[/us/pl/112/177/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F1%2FA
-[/us/pl/112/177/s2/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F1%2FB%2Fi
-[/us/pl/112/177/s2/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F1%2FB%2Fii
-[/us/pl/112/177/s2/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FB%2Fi
-[/us/pl/112/177/s2/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FB%2Fi
-[/us/pl/112/177/s2/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FB%2Fi
-[/us/pl/112/177/s2/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F2%2FB%2Fii
-[/us/pl/112/177/s2/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F1%2FC
-[/us/pl/112/177/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F2%2FA
-[/us/pl/112/177/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F2%2FB
-[/us/pl/112/177/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F2%2FC
-[/us/pl/112/177/s2/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F3%2FA
-[/us/pl/112/177/s2/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F3%2FB
-[/us/pl/112/177/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F4
-[/us/pl/112/177/s2/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FA
-[/us/pl/112/177/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FB
-[/us/pl/112/177/s2/b/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fi
-[/us/pl/112/177/s2/b/5/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fii%2FI
-[/us/pl/112/177/s2/b/5/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fii%2FI
-[/us/pl/112/177/s2/b/5/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fii%2FIII
-[/us/pl/112/177/s2/b/5/C/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fii%2FIV
-[/us/pl/112/177/s2/b/5/C/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F5%2FC%2Fii%2FV
-[/us/pl/112/177/s2/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F6%2FA
-[/us/pl/112/177/s2/b/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F6%2FB%2Fi
-[/us/pl/112/177/s2/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F6%2FB%2Fii
-[/us/pl/112/177/s2/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F6%2FC
-[/us/pl/112/177/s2/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F7%2FA
-[/us/pl/112/177/s2/b/7/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F7%2FB%2Fi
-[/us/pl/112/177/s2/b/7/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F7%2FB%2Fii
-[/us/pl/112/177/s2/b/7/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F7%2FB%2Fiii
-[/us/pl/112/177/s2/b/7/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fb%2F7%2FB%2Fiv
-[/us/pl/110/193/s1/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F1%2FA%2Fi
-[/us/pl/110/193/s1/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F1%2FA%2Fii
-[/us/pl/110/193/s1/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F1%2FB%2Fii
-[/us/pl/110/193/s1/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F1%2FB%2Fi
-[/us/pl/110/193/s1/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F1%2FB%2Fiii
-[/us/pl/110/193/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fa%2F2
-[/us/pl/110/94/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fa%2F1
-[/us/pl/110/94/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fa%2F2
-[/us/pl/110/94/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fb%2F1%2FA
-[/us/pl/110/94/s5/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fb%2F1%2FB
-[/us/pl/110/94/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fb%2F2
-[/us/pl/110/94/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fc%2F1
-[/us/pl/110/94/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fc%2F2
-[/us/pl/110/94/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fd
-[/us/pl/110/94/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fe%2F1
-[/us/pl/110/94/s5/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fe%2F2%2FA
-[/us/pl/110/94/s5/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fe%2F2%2FB
-[/us/pl/110/94/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fe%2F3
-[/us/pl/110/94/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Ff
-[/us/pl/110/94/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fg%2F1
-[/us/pl/110/94/s5/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fg%2F2
-[/us/pl/110/94/s5/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fg%2F3
-[/us/pl/110/94/s5/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fh%2F1
-[/us/pl/110/94/s5/h/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fh%2F2%2FA%2Fi
-[/us/pl/110/94/s5/h/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fh%2F2%2FA%2Fi
-[/us/pl/110/94/s5/h/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fh%2F2%2FA%2Fi
-[/us/pl/110/94/s5/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fh%2F2%2FB
-[/us/pl/110/94/s5/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fi%2F1
-[/us/pl/110/94/s5/i/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fi%2F2%2FA
-[/us/pl/110/94/s5/i/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fi%2F2%2FB
-[/us/pl/110/94/s5/i/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs5%2Fi%2F2%2FC
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/pl/112/177/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fc
 [/us/usc/t7/s136a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a%E2%80%931
-[/us/pl/110/193/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193%2Fs1%2Fb
+[/us/pl/110/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F193
 [/us/stat/122/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F650
 [/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/pl/110/94/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs6

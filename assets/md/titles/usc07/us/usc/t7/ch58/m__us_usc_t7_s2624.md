@@ -27,7 +27,7 @@
 
         The termination or suspension of any plan, or any provision thereof, shall not be considered the issuance of a plan within the meaning of this chapter.
 
-([Pub. L. 91–670, title III, § 315][/us/pl/91/670/s315], Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047]; [Pub. L. 101–624, title XIX, § 1945][/us/pl/101/624/s1945], Nov. 28, 1990, [104 Stat. 3868][/us/stat/104/3868].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 315, Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1945, Nov. 28, 1990, [104 Stat. 3868][/us/stat/104/3868].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1990—Subsec. (b). [Pub. L. 101–624, § 1945(1)][/us/pl/101/624/s1945/1], inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
+    1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
 
-    Subsec. (c). [Pub. L. 101–624, § 1945(2)][/us/pl/101/624/s1945/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1945(2), added subsec. (c).
 
 ----------
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/91/670/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs315
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2047
-[/us/pl/101/624/s1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1945
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3868
 [/us/pl/91/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670
-[/us/pl/101/624/s1945/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1945%2F1
-[/us/pl/101/624/s1945/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1945%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary of Agriculture for the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, such sums as are necessary to carry out the provisions of this chapter, but not to exceed $100,000 in any fiscal year.
 
-([Pub. L. 97–325, § 7][/us/pl/97/325/s7], Oct. 15, 1982, [96 Stat. 1605][/us/stat/96/1605].)
+([Pub. L. 97–325][/us/pl/97/325], § 7, Oct. 15, 1982, [96 Stat. 1605][/us/stat/96/1605].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/325/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs7
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1605
 [/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603

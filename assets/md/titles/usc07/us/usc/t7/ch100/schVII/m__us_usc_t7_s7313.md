@@ -51,7 +51,7 @@
 
         In carrying out the subsequent review under subsection (b), the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2).
 
-([Pub. L. 104–127, title I, § 183][/us/pl/104/127/s183], Apr. 4, 1996, [110 Stat. 939][/us/stat/110/939].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 183, Apr. 4, 1996, [110 Stat. 939][/us/stat/110/939].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs183
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F939
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 

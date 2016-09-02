@@ -173,25 +173,25 @@
 
         (E) other purchase arrangement.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 231, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193]; amended [Pub. L. 109–296, § 2][/us/pl/109/296/s2], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 114–54, title I, § 102(a)][/us/pl/114/54/s102/a], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 231, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193]; amended [Pub. L. 109–296][/us/pl/109/296], § 2, Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 114–54, title I][/us/pl/114/54/tI], § 102(a), Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513].)
 
  __Amendments__ 
 
-    2015—Pars. (9) to (12). [Pub. L. 114–54, § 102(a)(1)][/us/pl/114/54/s102/a/1], (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
+    2015—Pars. (9) to (12). [Pub. L. 114–54][/us/pl/114/54], § 102(a)(1), (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
 
-    Par. (12)(A). [Pub. L. 114–54, § 102(a)(3)][/us/pl/114/54/s102/a/3], inserted “negotiated formula purchase,” after “pork market formula purchase,”.
+    Par. (12)(A). [Pub. L. 114–54][/us/pl/114/54], § 102(a)(3), inserted “negotiated formula purchase,” after “pork market formula purchase,”.
 
-    Pars. (13) to (23). [Pub. L. 114–54, § 102(a)(1)][/us/pl/114/54/s102/a/1], redesignated pars. (12) to (22) as (13) to (23), respectively.
+    Pars. (13) to (23). [Pub. L. 114–54][/us/pl/114/54], § 102(a)(1), redesignated pars. (12) to (22) as (13) to (23), respectively.
 
-    Par. (23)(D). [Pub. L. 114–54, § 102(a)(4)][/us/pl/114/54/s102/a/4], added subpar. (D).
+    Par. (23)(D). [Pub. L. 114–54][/us/pl/114/54], § 102(a)(4), added subpar. (D).
 
-    2006—Par. (4). [Pub. L. 109–296, § 2(a)][/us/pl/109/296/s2/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
+    2006—Par. (4). [Pub. L. 109–296][/us/pl/109/296], § 2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
 
-    Par. (5). [Pub. L. 109–296, § 2(b)][/us/pl/109/296/s2/b], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
+    Par. (5). [Pub. L. 109–296][/us/pl/109/296], § 2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
 
-    Par. (12)(B). [Pub. L. 109–296, § 2(c)(1)][/us/pl/109/296/s2/c/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
+    Par. (12)(B). [Pub. L. 109–296][/us/pl/109/296], § 2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
 
-    Par. (12)(C). [Pub. L. 109–296, § 2(c)(2)][/us/pl/109/296/s2/c/2], inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
+    Par. (12)(C). [Pub. L. 109–296][/us/pl/109/296], § 2(c)(2), inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
 
 ----------
 
@@ -202,19 +202,19 @@
 
 [/us/usc/t7/s1635j/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635j%2Fc
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1193
-[/us/pl/109/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
 [/us/stat/120/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1464
-[/us/pl/114/54/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa
+[/us/pl/114/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtI
 [/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
-[/us/pl/114/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F1
-[/us/pl/114/54/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F3
-[/us/pl/114/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F1
-[/us/pl/114/54/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F4
-[/us/pl/109/296/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fa
-[/us/pl/109/296/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fb
-[/us/pl/109/296/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fc%2F1
-[/us/pl/109/296/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fc%2F2
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
 
 

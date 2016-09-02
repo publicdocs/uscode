@@ -31,7 +31,7 @@
 
         The Secretary shall carry out the program provided under this section through the Commodity Credit Corporation.
 
-([Pub. L. 99–198, title X, § 1001E][/us/pl/99/198/s1001E], formerly § 1001D, as added [Pub. L. 101–624, title XI, § 1111(g)][/us/pl/101/624/s1111/g], Nov. 28, 1990, [104 Stat. 3499][/us/stat/104/3499]; renumbered § 1001E, [Pub. L. 107–171, title I, § 1604(1)][/us/pl/107/171/s1604/1], May 13, 2002, [116 Stat. 215][/us/stat/116/215].)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001E, formerly § 1001D, as added [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1111(g), Nov. 28, 1990, [104 Stat. 3499][/us/stat/104/3499]; renumbered § 1001E, [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1604(1), May 13, 2002, [116 Stat. 215][/us/stat/116/215].)
 
  __Codification__ 
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/99/198/s1001E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001E
-[/us/pl/101/624/s1111/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fg
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3499
-[/us/pl/107/171/s1604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1604%2F1
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
 [/us/pl/99/198/s1001E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001E
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935

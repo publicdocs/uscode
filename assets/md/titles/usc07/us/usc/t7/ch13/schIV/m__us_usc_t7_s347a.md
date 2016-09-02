@@ -35,7 +35,7 @@
 
         Sums appropriated pursuant to this section shall be in addition to, and not in substitution for, appropriations otherwise available under this subchapter. The amounts authorized to be appropriated pursuant to this section shall not exceed a sum in any year equal to 10 per centum of sums otherwise appropriated pursuant to this subchapter.
 
-([May 8, 1914, ch. 79, § 8][/us/act/1914-05-08/ch79/s8], as added [Aug. 11, 1955, ch. 798, § 1(a)][/us/act/1955-08-11/ch798/s1/a], [69 Stat. 683][/us/stat/69/683]; amended [Pub. L. 87–749, § 1(h)][/us/pl/87/749/s1/h], Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745].)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 8, as added [Aug. 11, 1955, ch. 798][/us/act/1955-08-11/ch798], § 1(a), [69 Stat. 683][/us/stat/69/683]; amended [Pub. L. 87–749][/us/pl/87/749], § 1(h), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745].)
 
  __Prior Provisions__ 
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t7/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs342
-[/us/act/1914-05-08/ch79/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs8
-[/us/act/1955-08-11/ch798/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch798%2Fs1%2Fa
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
+[/us/act/1955-08-11/ch798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch798
 [/us/stat/69/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F683
-[/us/pl/87/749/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fh
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/stat/76/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F745
 [/us/usc/t7/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs348
 [/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749

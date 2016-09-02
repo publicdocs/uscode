@@ -17,7 +17,7 @@
 
     The Secretary shall establish a market placement program for qualified beginning farmers and ranchers and other borrowers of farmer program loans that the Secretary believes have a reasonable chance of qualifying for commercial credit with a guarantee provided under this chapter.
 
-([Pub. L. 87–128, title III, § 362][/us/pl/87/128/s362], as added [Pub. L. 101–624, title XVIII, § 1821][/us/pl/101/624/s1821], Nov. 28, 1990, [104 Stat. 3831][/us/stat/104/3831].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 362, as added [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1821, Nov. 28, 1990, [104 Stat. 3831][/us/stat/104/3831].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs362
-[/us/pl/101/624/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1821
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3831
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

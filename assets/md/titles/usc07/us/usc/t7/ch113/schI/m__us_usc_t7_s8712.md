@@ -47,7 +47,7 @@
 
             In the case of establishing yields for designated oilseeds and eligible pulse crops, if historic yield data is not available, the Secretary shall use the ratio for dry peas calculated under paragraph (2)(A)(ii) in determining the yields for designated oilseeds and eligible pulse crops, as determined to be fair and equitable by the Secretary.
 
-([Pub. L. 110–234, title I, § 1102][/us/pl/110/234/s1102], May 22, 2008, [122 Stat. 940][/us/stat/122/940]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1669.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1102, May 22, 2008, [122 Stat. 940][/us/stat/122/940]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1669.)
 
  __Codification__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t7/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912
-[/us/pl/110/234/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1102
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F940
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

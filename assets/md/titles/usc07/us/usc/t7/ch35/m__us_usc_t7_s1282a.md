@@ -31,7 +31,7 @@
 
         The Secretary of Agriculture is directed to implement policies under this Act which are designed to encourage American farmers to produce to their full capabilities during periods of short supply to assure American consumers with an adequate supply of food and fiber at fair and reasonable prices.
 
-([Pub. L. 91–524, title VIII, § 815][/us/pl/91/524/s815], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 815, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240].)
 
  __References in Text__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/91/524/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs815
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F240
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358

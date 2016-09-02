@@ -19,7 +19,7 @@
 
     (b) The district courts of the United States in any district in which the person is an inhabitant, or in which the person’s principal place of business is located, are hereby vested with jurisdiction to review such ruling, provided that a complaint for that purpose is filed within twenty days from the date of the entry of the ruling. Service of process in such proceedings may be had on the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that the ruling is not in accordance with law, it shall remand the proceedings to the Secretary with directions either to (1) make such ruling as the court shall determine to be in accordance with law, or (2) take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted under subsection (a) shall not impede or delay the United States or the Secretary from obtaining relief under section 4910(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 99–198, title XVI, § 1650][/us/pl/99/198/s1650], Dec. 23, 1985, [99 Stat. 1627][/us/stat/99/1627].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1650, Dec. 23, 1985, [99 Stat. 1627][/us/stat/99/1627].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1650
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1627
 [/us/usc/t7/s4910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4910%2Fa
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

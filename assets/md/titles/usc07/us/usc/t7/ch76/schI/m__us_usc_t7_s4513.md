@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such funds as are necessary to carry out the provisions of this subchapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provisions of any order issued under the terms of this subchapter.
 
-([Pub. L. 98–180, title I, § 122][/us/pl/98/180/s122], Nov. 29, 1983, [97 Stat. 1143][/us/stat/97/1143].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 122, Nov. 29, 1983, [97 Stat. 1143][/us/stat/97/1143].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/180/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs122
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1143
 
 

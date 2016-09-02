@@ -101,11 +101,11 @@
 
             To the extent practicable, the Secretary shall match any funds made available under paragraph (1) with funds made available under [section 1646 of title 16][/us/usc/t16/s1646].
 
-([Pub. L. 105–185, title VI, § 617][/us/pl/105/185/s617], as added [Pub. L. 113–79, title VII, § 7310][/us/pl/113/79/s7310], Feb. 7, 2014, [128 Stat. 892][/us/stat/128/892].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 617, as added [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7310, Feb. 7, 2014, [128 Stat. 892][/us/stat/128/892].)
 
  __Prior Provisions__ 
 
-    A prior [section 617 of Pub. L. 105–185][/us/pl/105/185/s617], title VI, June 23, 1998, [112 Stat. 607][/us/stat/112/607], which was not classified to the Code, was repealed by [Pub. L. 107–171, title VII, § 7302][/us/pl/107/171/s7302], May 13, 2002, [116 Stat. 455][/us/stat/116/455].
+    A prior [section 617 of Pub. L. 105–185][/us/pl/105/185/s617], title VI, June 23, 1998, [112 Stat. 607][/us/stat/112/607], which was not classified to the Code, was repealed by [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7302, May 13, 2002, [116 Stat. 455][/us/stat/116/455].
 
 ----------
 
@@ -116,12 +116,12 @@
 
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 [/us/usc/t16/s1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1646
-[/us/pl/105/185/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs617
-[/us/pl/113/79/s7310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7310
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F892
 [/us/pl/105/185/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs617
 [/us/stat/112/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F607
-[/us/pl/107/171/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7302
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F455
 
 

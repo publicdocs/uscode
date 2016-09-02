@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, other departments, agencies, and executive establishments of the Federal Government may participate and provide financial and technical assistance jointly with the Secretary to any applicant to whom assistance is being provided under any program administered by the Farmers Home Administration. Participation by any other department, agency, or executive establishment shall be only to the extent authorized for, and subject to the authorities of, such other department, agency, or executive establishment, except that any limitation on joint participation is superseded by this section.
 
-([Pub. L. 87–128, title III, § 347][/us/pl/87/128/s347], as added [Pub. L. 95–334, title I, § 125][/us/pl/95/334/s125], Aug. 4, 1978, [92 Stat. 429][/us/stat/92/429].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 347, as added [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 125, Aug. 4, 1978, [92 Stat. 429][/us/stat/92/429].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs347
-[/us/pl/95/334/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs125
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F429
 
 

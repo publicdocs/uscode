@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may, under such rules and regulations as may be prescribed by the President or his designee, provide to personnel appointed or assigned by the Secretary of Agriculture under this chapter or other authority allowance and benefits similar to those provided by chapter 9 of title I of the Foreign Service Act of 1980 \[[22 U.S.C. 4081][/us/usc/t22/s4081] et seq.\]. Leaves of absence for personnel under this chapter shall be on the same basis as is provided for the Foreign Service of the United States by subchapter I of chapter 63 of title 5.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 606D, formerly § 603, [68 Stat. 909][/us/stat/68/909]; renumbered § 606D, [Pub. L. 95–501, title IV, § 401(3)][/us/pl/95/501/s401/3], Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691]; amended [Pub. L. 96–465, title II, § 2206(b)(2)][/us/pl/96/465/s2206/b/2], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 606D, formerly § 603, [68 Stat. 909][/us/stat/68/909]; renumbered § 606D, [Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401(3), Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691]; amended [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(b)(2), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “Subchapter I of chapter 63 of title 5” substituted in text for “the Annual and Sick Leave Act of 1951” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “Subchapter I of chapter 63 of title 5” substituted in text for “the Annual and Sick Leave Act of 1951” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
     Section was formerly classified to [section 1763 of this title][/us/usc/t7/s1763].
 
@@ -47,14 +47,14 @@
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F909
-[/us/pl/95/501/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F3
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
 [/us/stat/92/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1691
-[/us/pl/96/465/s2206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fb%2F2
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t7/s1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1763
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465

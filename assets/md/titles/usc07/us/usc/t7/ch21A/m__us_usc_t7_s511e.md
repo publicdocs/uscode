@@ -21,7 +21,7 @@
 
     This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested in tobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
 
-([Aug. 23, 1935, ch. 623, § 6][/us/act/1935-08-23/ch623/s6], [49 Stat. 732][/us/stat/49/732]; [Pub. L. 97–35, title I, § 157(a)(2)][/us/pl/97/35/s157/a/2], Aug. 13, 1981, [95 Stat. 375][/us/stat/95/375].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 6, [49 Stat. 732][/us/stat/49/732]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 157(a)(2), Aug. 13, 1981, [95 Stat. 375][/us/stat/95/375].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t7/s511d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs511d
-[/us/act/1935-08-23/ch623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs6
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F732
-[/us/pl/97/35/s157/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs157%2Fa%2F2
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F375
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

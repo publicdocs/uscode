@@ -17,7 +17,7 @@
 
     When authorized by appropriation or other law, funds of the Farmers’ Home Administration available for administrative expenses may be placed in a single account.
 
-([Aug. 3, 1956, ch. 950, § 9(b)][/us/act/1956-08-03/ch950/s9/b], [70 Stat. 1034][/us/stat/70/1034].)
+([Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 9(b), [70 Stat. 1034][/us/stat/70/1034].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-03/ch950/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs9%2Fb
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1034
 
 

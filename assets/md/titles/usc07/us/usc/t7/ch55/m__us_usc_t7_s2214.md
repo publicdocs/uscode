@@ -25,7 +25,7 @@
 
     Section is based on that part of section 301 of act July 31, 1956, relating to the General Counsel of the Department of Agriculture. That part of such section 301 relating to the General Counsel of the Department of Health, Education, and Welfare \[now Health and Human Services\], is classified to [section 3504 of Title 42][/us/usc/t42/s3504], The Public Health and Welfare. That part of such section 301 relating to the General Counsel of the Post Office Department was enacted as [section 307 of Title 39][/us/usc/t39/s307] by [Pub. L. 86–682][/us/pl/86/682], Sept. 2, 1960, [74 Stat. 580][/us/stat/74/580]. Such provisions were eliminated from Title 39 by the Postal Reorganization Act, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719].
 
-    Section was formerly classified to [section 518a of Title 5][/us/usc/t5/s518a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 518a of Title 5][/us/usc/t5/s518a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
 [/us/usc/t5/s518a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs518a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

@@ -39,7 +39,7 @@
 
         Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments. Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.
 
-([Pub. L. 97–98, title XI, § 1121][/us/pl/97/98/s1121], Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273]; [Pub. L. 99–198, title XVII, § 1769][/us/pl/99/198/s1769], Dec. 23, 1985, [99 Stat. 1656][/us/stat/99/1656]; [Pub. L. 101–624, title XXV, § 2510][/us/pl/101/624/s2510], Nov. 28, 1990, [104 Stat. 4073][/us/stat/104/4073].)
+([Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1121, Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1769, Dec. 23, 1985, [99 Stat. 1656][/us/stat/99/1656]; [Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2510, Nov. 28, 1990, [104 Stat. 4073][/us/stat/104/4073].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/97/98/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1121
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1273
-[/us/pl/99/198/s1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1769
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1656
-[/us/pl/101/624/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2510
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4073
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

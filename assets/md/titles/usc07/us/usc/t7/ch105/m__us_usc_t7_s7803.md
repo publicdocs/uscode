@@ -53,7 +53,7 @@
 
         The Secretary, from time to time, may amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1204\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–81.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title XII, § 1204\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–81.)
 
 ----------
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t7/s7801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7801%2Fb
 [/us/usc/t7/s7805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7805
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

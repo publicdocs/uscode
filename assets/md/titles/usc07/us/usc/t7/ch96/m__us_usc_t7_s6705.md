@@ -17,7 +17,7 @@
 
     The President’s proposed budget to Congress for the first fiscal year beginning after November 28, 1990, and for each subsequent fiscal year shall specifically identify funds to be spent on Forest Service international cooperation and assistance.
 
-([Pub. L. 101–624, title XXIV, § 2406][/us/pl/101/624/s2406], Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2406, Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2406
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4060
 
 

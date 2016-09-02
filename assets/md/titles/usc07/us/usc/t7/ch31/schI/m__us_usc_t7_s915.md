@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to purchase such financial and credit reports as may be necessary to carry out the Secretary’s authorized work: Provided, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
-([Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title V, § 505, [58 Stat. 740][/us/stat/58/740]; [Pub. L. 103–354, title II, § 235(b)(2)][/us/pl/103/354/s235/b/2], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title V, § 505, [58 Stat. 740][/us/stat/58/740]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(2), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F740
-[/us/pl/103/354/s235/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F2
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 

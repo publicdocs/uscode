@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_ch59_schI.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
+[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_s2651...2654.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
 
 ## § 2655. Rural firefighters and emergency medical service assistance program
 
@@ -123,7 +123,7 @@
 
             Not more than 5 percent of the amount appropriated under paragraph (1) for a fiscal year may be used for administrative expenses incurred in carrying out this section.
 
-([Pub. L. 107–171, title VI, § 6405][/us/pl/107/171/s6405], May 13, 2002, [116 Stat. 430][/us/stat/116/430]; [Pub. L. 109–171, title I, § 1405(a)][/us/pl/109/171/s1405/a], Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7]; [Pub. L. 110–234, title VI, § 6204][/us/pl/110/234/s6204], May 22, 2008, [122 Stat. 1208][/us/stat/122/1208]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1969.)
+([Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6405, May 13, 2002, [116 Stat. 430][/us/stat/116/430]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1405(a), Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6204, May 22, 2008, [122 Stat. 1208][/us/stat/122/1208]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1969.)
 
  __Codification__ 
 
@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 6204][/us/pl/110/246/s6204], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 6204, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
 
     2006—Subsec. (c). [Pub. L. 109–171][/us/pl/109/171] substituted “2006” for “2007”.
 
@@ -141,25 +141,25 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_ch59_schI.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
+[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_s2651...2654.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
 
 ----------
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/107/171/s6405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6405
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F430
-[/us/pl/109/171/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1405%2Fa
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F7
-[/us/pl/110/234/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6204
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1208
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6204
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

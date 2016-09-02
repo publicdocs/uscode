@@ -11,26 +11,26 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_ch35_schII_ptE.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
+[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_s1380a...1380p.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
 
 #### Part F—Miscellaneous Provisions and Appropriations
 
  __Amendments__ 
 
-    1962—[Pub. L. 87–703, title III, § 324(1)][/us/pl/87/703/s324/1], Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626], redesignated part E as F.
+    1962—[Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(1), Sept. 27, 1962, [76 Stat. 626][/us/stat/76/626], redesignated part E as F.
 
-    1956—[Act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title V, § 501(2), [70 Stat. 208][/us/stat/70/208], redesignated as part E.
-
-----------
-
-[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_ch35_schII_ptE.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
+    1956—[Act May 28, 1956, ch. 327, title V][/us/act/1956-05-28/ch327/tV], § 501(2), [70 Stat. 208][/us/stat/70/208], redesignated as part E.
 
 ----------
+
+[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_s1380a...1380p.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
+
+----------
 ----------
 
-[/us/pl/87/703/s324/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F1
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F626
-[/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
+[/us/act/1956-05-28/ch327/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327%2FtV
 [/us/stat/70/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F208
 
 

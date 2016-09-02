@@ -23,7 +23,7 @@
 
         Funds appropriated to carry out this chapter shall not be available for payment of the expenses or expenditures of the Board in administering any provision of any plan issued under this chapter.
 
-([Pub. L. 101–624, title XIX, § 1918][/us/pl/101/624/s1918], Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1918, Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1918
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3854
 
 

@@ -111,7 +111,7 @@
 
             (B) review the activity in accordance with such process.
 
-([Pub. L. 105–185, title I, § 103][/us/pl/105/185/s103], June 23, 1998, [112 Stat. 527][/us/stat/112/527]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(3), 7301, 7511(c)(30), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242, 1270; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(3), 7301, 7511(c)(30), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2003, 2031; [Pub. L. 113–79, title VII, § 7301][/us/pl/113/79/s7301], Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887].)
+([Pub. L. 105–185, title I][/us/pl/105/185/tI], § 103, June 23, 1998, [112 Stat. 527][/us/stat/112/527]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7129(c)(3), 7301, 7511(c)(30), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242, 1270; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7129(c)(3), 7301, 7511(c)(30), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2003, 2031; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7301, Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887].)
 
  __Codification__ 
 
@@ -121,17 +121,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–79, § 7301(1)][/us/pl/113/79/s7301/1], substituted “Relevance and merit review of research, extension,” for “Merit review of extension” in heading.
+    2014—Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79], § 7301(1), substituted “Relevance and merit review of research, extension,” for “Merit review of extension” in heading.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–79, § 7301(2)][/us/pl/113/79/s7301/2], inserted “relevance and” before “merit” and substituted “research, extension, or education” for “extension or education”.
+    Subsec. (a)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 7301(2), inserted “relevance and” before “merit” and substituted “research, extension, or education” for “extension or education”.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–79, § 7301(3)][/us/pl/113/79/s7301/3], inserted “on a continuous basis” after “procedures”.
+    Subsec. (a)(2)(B). [Pub. L. 113–79][/us/pl/113/79], § 7301(3), inserted “on a continuous basis” after “procedures”.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(30)][/us/pl/110/246/s7511/c/30], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(30), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
 
-    Subsec. (a)(3). [Pub. L. 110–246, § 7301][/us/pl/110/246/s7301], added par. (3).
+    Subsec. (a)(3). [Pub. L. 110–246][/us/pl/110/246], § 7301, added par. (3).
 
-    Subsec. (e)(3). [Pub. L. 110–246, § 7129(c)(3)][/us/pl/110/246/s7129/c/3], added par. (3).
+    Subsec. (e)(3). [Pub. L. 110–246][/us/pl/110/246], § 7129(c)(3), added par. (3).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -148,13 +148,13 @@
 
 [/us/usc/t7/s7612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7612%2Fa
 [/us/usc/t7/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7612
-[/us/pl/105/185/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F527
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F887
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -162,12 +162,12 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/105/185/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103
 [/us/pl/105/185/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103
-[/us/pl/113/79/s7301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F1
-[/us/pl/113/79/s7301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F2
-[/us/pl/113/79/s7301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F3
-[/us/pl/110/246/s7511/c/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F30
-[/us/pl/110/246/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7301
-[/us/pl/110/246/s7129/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F3
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

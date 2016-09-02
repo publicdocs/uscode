@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 97–98, title XVII, § 1719][/us/pl/97/98/s1719], Dec. 22, 1981, [95 Stat. 1358][/us/stat/95/1358].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1719, Dec. 22, 1981, [95 Stat. 1358][/us/stat/95/1358].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1719
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1358
 
 

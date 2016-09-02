@@ -23,7 +23,7 @@
 
         When two or more agencies of the Department share a common field office, the Secretary shall require the agencies to jointly use office space, equipment, office supplies, administrative personnel, and clerical personnel associated with that field office.
 
-([Pub. L. 103–354, title II, § 215][/us/pl/103/354/s215], Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 215, Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs215
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3211
 
 

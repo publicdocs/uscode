@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person to ship or offer for shipment or for any carrier, or any steamship company, or any person to transport or receive for transportation to any foreign destination, except as provided in this chapter, any grapes or plums of any variety in packages which are not accompanied by a certificate issued under authority of the Secretary showing that such grapes or plums are of a Federal or State grade which meets the minimum of quality established for such variety and destination by the Secretary for shipment in export to such destination. The Secretary is authorized to prescribe, by regulations, the requirements, other than those of grades, which the fruit must meet before certificates are issued. The Secretary shall provide opportunity, by public hearing or otherwise for interested persons to examine and make recommendation with respect to any standard of export proposed to be established or designated, or regulation prescribed, by the Secretary for the purposes of this chapter.
 
-([Pub. L. 86–687, § 1][/us/pl/86/687/s1], Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734]; [Pub. L. 87–105, § 1][/us/pl/87/105/s1], July 26, 1961, [75 Stat. 220][/us/stat/75/220]; [Pub. L. 93–606][/us/pl/93/606], Jan. 2, 1975, [88 Stat. 1966][/us/stat/88/1966].)
+([Pub. L. 86–687][/us/pl/86/687], § 1, Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734]; [Pub. L. 87–105][/us/pl/87/105], § 1, July 26, 1961, [75 Stat. 220][/us/stat/75/220]; [Pub. L. 93–606][/us/pl/93/606], Jan. 2, 1975, [88 Stat. 1966][/us/stat/88/1966].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/86/687/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs1
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F734
-[/us/pl/87/105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F105%2Fs1
+[/us/pl/87/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F105
 [/us/stat/75/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F220
 [/us/pl/93/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F606
 [/us/stat/88/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1966

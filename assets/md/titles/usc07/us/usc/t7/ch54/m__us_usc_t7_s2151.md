@@ -17,7 +17,7 @@
 
     The Secretary is authorized to promulgate such rules, regulations, and orders as he may deem necessary in order to effectuate the purposes of this chapter.
 
-([Pub. L. 89–544, § 21][/us/pl/89/544/s21], Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353].)
+([Pub. L. 89–544][/us/pl/89/544], § 21, Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/544/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs21
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F353
 
 

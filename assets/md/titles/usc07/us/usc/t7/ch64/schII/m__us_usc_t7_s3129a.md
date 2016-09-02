@@ -17,7 +17,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[[7 U.S.C. 2281][/us/usc/t7/s2281] et seq.\] shall not apply to any committee, board, commission, panel, or task force, or similar entity, created solely for the purpose of reviewing applications or proposals requesting funding under any competitive research, extension, or education program carried out by the Secretary.
 
-([Pub. L. 95–113, title XIV, § 1413B][/us/pl/95/113/s1413B], as added [Pub. L. 104–127, title VIII, § 804][/us/pl/104/127/s804], Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1413B, as added [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 804, Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160].)
 
  __References in Text__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
-[/us/pl/95/113/s1413B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1413B
-[/us/pl/104/127/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs804
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1160
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

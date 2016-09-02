@@ -23,7 +23,7 @@
 
     (3) make grants to rural business investment companies, and to other entities, under [section 2009cc–7 of this title][/us/usc/t7/s2009cc–7].
 
-([Pub. L. 87–128, title III, § 384C][/us/pl/87/128/s384C], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 391][/us/stat/116/391].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384C, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 391][/us/stat/116/391].)
 
 ----------
 
@@ -36,8 +36,8 @@
 [/us/usc/t7/s2009cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%931
 [/us/usc/t7/s2009cc–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%934
 [/us/usc/t7/s2009cc–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%937
-[/us/pl/87/128/s384C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384C
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F391
 
 

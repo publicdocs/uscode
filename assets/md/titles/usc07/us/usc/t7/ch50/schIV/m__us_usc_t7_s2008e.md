@@ -27,7 +27,7 @@
 
         Not later than 6 months after November 1, 1993, the Secretary shall issue interim final regulations to ensure compliance with subsection (a).
 
-([Pub. L. 87–128, title III, § 370][/us/pl/87/128/s370], as added [Pub. L. 103–129, § 5][/us/pl/103/129/s5], Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 370, as added [Pub. L. 103–129][/us/pl/103/129], § 5, Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs370
-[/us/pl/103/129/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs5
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1366
 
 

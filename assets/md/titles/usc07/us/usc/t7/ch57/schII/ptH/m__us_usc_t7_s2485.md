@@ -17,7 +17,7 @@
 
     Whenever a mistake of a clerical or typographical nature, or of minor character, or in the description of the variety, which was not the fault of the Plant Variety Protection Office, appears in a certificate of plant variety protection and a showing has been made that such mistake occurred in good faith, the Secretary may, upon payment of the required fee, issue a corrected certificate if the correction could have been made before the certificate issued. Such certificate of plant variety protection shall have the same effect and operation in law as if the same had been originally issued in such corrected form.
 
-([Pub. L. 91–577, title II, § 85][/us/pl/91/577/s85], Dec. 24, 1970, [84 Stat. 1552][/us/stat/84/1552]; [Pub. L. 96–574, § 16][/us/pl/96/574/s16], Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 85, Dec. 24, 1970, [84 Stat. 1552][/us/stat/84/1552]; [Pub. L. 96–574][/us/pl/96/574], § 16, Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs85
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1552
-[/us/pl/96/574/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs16
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3351
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/usc/t7/s2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2484

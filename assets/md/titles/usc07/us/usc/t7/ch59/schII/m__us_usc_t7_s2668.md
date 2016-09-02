@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–419, title V, § 508][/us/pl/92/419/s508], Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674], related to Secretary’s authority to promulgate such regulations as might be necessary to carry out the provisions of this subchapter, prior to the general revision of this subchapter by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1322][/us/stat/95/1322]. See [section 2667 of this title][/us/usc/t7/s2667].
+    Section, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 508, Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674], related to Secretary’s authority to promulgate such regulations as might be necessary to carry out the provisions of this subchapter, prior to the general revision of this subchapter by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1322][/us/stat/95/1322]. See [section 2667 of this title][/us/usc/t7/s2667].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/92/419/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs508
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F674
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1322
 [/us/usc/t7/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2667
 

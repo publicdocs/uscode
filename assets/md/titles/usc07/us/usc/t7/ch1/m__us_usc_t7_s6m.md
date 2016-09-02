@@ -33,7 +33,7 @@
 
         For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.
 
-([Sept. 21, 1922, ch. 369, § 4m][/us/act/1922-09-21/ch369/s4m], as added [Pub. L. 93–463, title II, § 205(a)][/us/pl/93/463/s205/a], Oct. 23, 1974, [88 Stat. 1398][/us/stat/88/1398]; amended [Pub. L. 95–405, § 8][/us/pl/95/405/s8], Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title I, § 103][/us/pl/97/444/s103], Jan. 11, 1983, [96 Stat. 2296][/us/stat/96/2296]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–443; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(2), 749(b), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1747.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4m, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 205(a), Oct. 23, 1974, [88 Stat. 1398][/us/stat/88/1398]; amended [Pub. L. 95–405][/us/pl/95/405], § 8, Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title I][/us/pl/97/444/tI], § 103, Jan. 11, 1983, [96 Stat. 2296][/us/stat/96/2296]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–443; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(e)(2), 749(b), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1747.)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Par. (3). [Pub. L. 111–203, § 749(b)][/us/pl/111/203/s749/b], inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
+    2010—Par. (3). [Pub. L. 111–203][/us/pl/111/203], § 749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
 
-    [Pub. L. 111–203, § 721(e)(2)][/us/pl/111/203/s721/e/2], substituted “section 1a” for “section 1a(6)”.
+    [Pub. L. 111–203][/us/pl/111/203], § 721(e)(2), substituted “section 1a” for “section 1a(6)”.
 
     2000—Par. (3). [Pub. L. 106–554][/us/pl/106/554] added par. (3).
 
@@ -82,16 +82,16 @@
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
-[/us/act/1922-09-21/ch369/s4m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4m
-[/us/pl/93/463/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs205%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1398
-[/us/pl/95/405/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs8
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F870
-[/us/pl/97/444/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs103
+[/us/pl/97/444/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtI
 [/us/stat/96/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2296
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
@@ -99,8 +99,8 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s749/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fb
-[/us/pl/111/203/s721/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405

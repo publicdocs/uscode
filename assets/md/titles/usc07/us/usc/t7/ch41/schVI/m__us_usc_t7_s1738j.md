@@ -17,7 +17,7 @@
 
     The President may designate appropriate United States agencies to review the implementation of programs under this subchapter and the fiscal audits relating to such programs. Such oversight shall not constitute active management of an Environmental Fund.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 611, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 611, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661].)
 
  __Delegation of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3661
 [/us/usc/t7/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738
 

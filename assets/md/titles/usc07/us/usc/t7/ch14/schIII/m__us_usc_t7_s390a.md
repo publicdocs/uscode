@@ -69,19 +69,19 @@
 
         The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.
 
-([Pub. L. 88–74, § 3][/us/pl/88/74/s3], as added [Pub. L. 104–127, title VIII, § 884(a)][/us/pl/104/127/s884/a], Apr. 4, 1996, [110 Stat. 1177][/us/stat/110/1177]; amended [Pub. L. 105–185, title I, § 106(a)][/us/pl/105/185/s106/a], (b), June 23, 1998, [112 Stat. 530][/us/stat/112/530].)
+([Pub. L. 88–74][/us/pl/88/74], § 3, as added [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 884(a), Apr. 4, 1996, [110 Stat. 1177][/us/stat/110/1177]; amended [Pub. L. 105–185, title I][/us/pl/105/185/tI], § 106(a), (b), June 23, 1998, [112 Stat. 530][/us/stat/112/530].)
 
  __Prior Provisions__ 
 
-    A prior section 390a, [Pub. L. 88–74, § 2][/us/pl/88/74/s2], July 22, 1963, [77 Stat. 90][/us/stat/77/90]; [Pub. L. 95–113, title XIV, § 1416(3)][/us/pl/95/113/s1416/3], Sept. 29, 1977, [91 Stat. 996][/us/stat/91/996]; [Pub. L. 99–198, title XIV, § 1411(b)][/us/pl/99/198/s1411/b], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], related to congressional declaration of purpose, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 390a, [Pub. L. 88–74][/us/pl/88/74], § 2, July 22, 1963, [77 Stat. 90][/us/stat/77/90]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1416(3), Sept. 29, 1977, [91 Stat. 996][/us/stat/91/996]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1411(b), Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], related to congressional declaration of purpose, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
     A prior [section 3 of Pub. L. 88–74][/us/pl/88/74/s3] was classified to [section 390b of this title][/us/usc/t7/s390b] prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
 
-    1998—Subsec. (c)(2)(C)(ii). [Pub. L. 105–185, § 106(a)][/us/pl/105/185/s106/a], substituted “national or multistate needs” for “regional needs”.
+    1998—Subsec. (c)(2)(C)(ii). [Pub. L. 105–185][/us/pl/105/185], § 106(a), substituted “national or multistate needs” for “regional needs”.
 
-    Subsec. (e). [Pub. L. 105–185, § 106(b)][/us/pl/105/185/s106/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–185][/us/pl/105/185], § 106(b), added subsec. (e).
 
 ----------
 
@@ -91,22 +91,22 @@
 ----------
 
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
-[/us/pl/88/74/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs3
-[/us/pl/104/127/s884/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs884%2Fa
+[/us/pl/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1177
-[/us/pl/105/185/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs106%2Fa
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F530
-[/us/pl/88/74/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs2
+[/us/pl/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74
 [/us/stat/77/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F90
-[/us/pl/95/113/s1416/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1416%2F3
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F996
-[/us/pl/99/198/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1411%2Fb
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1547
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/88/74/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs3
 [/us/usc/t7/s390b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs390b
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/105/185/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs106%2Fa
-[/us/pl/105/185/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs106%2Fb
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 
 

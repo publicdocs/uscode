@@ -31,7 +31,7 @@
 
         The institution in each State responsible for administering the programs authorized under this subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
 
-([Pub. L. 92–419, title V, § 504][/us/pl/92/419/s504], as added [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1325][/us/stat/95/1325].)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 504, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1325][/us/stat/95/1325].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2664, [Pub. L. 92–419, title V, § 504][/us/pl/92/419/s504], Aug. 30, 1972, [86 Stat. 673][/us/stat/86/673], related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
+    A prior section 2664, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 504, Aug. 30, 1972, [86 Stat. 673][/us/stat/86/673], related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
 
  __Effective Date__ 
 
@@ -56,8 +56,8 @@
 
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/92/419/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs504
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1325
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
@@ -65,9 +65,9 @@
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/92/419/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs504
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F673
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

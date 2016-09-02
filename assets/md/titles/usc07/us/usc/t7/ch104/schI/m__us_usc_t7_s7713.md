@@ -61,7 +61,7 @@
 
         (2) is otherwise released by the Secretary.
 
-([Pub. L. 106–224, title IV, § 413][/us/pl/106/224/s413], June 20, 2000, [114 Stat. 443][/us/stat/114/443].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 413, June 20, 2000, [114 Stat. 443][/us/stat/114/443].)
 
  __Transfer of Functions__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs413
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F443
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

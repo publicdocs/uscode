@@ -17,7 +17,7 @@
 
     For the purposes of this chapter the provisions of all laws relating to the suspending or restraining of the enforcement, operation, or execution, or the setting-aside, in whole or in part, of the orders of the Interstate Commerce Commission are made applicable to orders of the Secretary under this chapter and to any person subject to the provisions of this chapter.
 
-([June 10, 1930, ch. 436, § 11][/us/act/1930-06-10/ch436/s11], [46 Stat. 535][/us/stat/46/535].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 11, [46 Stat. 535][/us/stat/46/535].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch436/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs11
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F535
 [/us/usc/t7/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs561
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

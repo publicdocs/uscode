@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is also authorized and directed to collect, authenticate, publish, and distribute, by telegraph, radio, mail, or otherwise, timely information on the market supply, demand, location, condition, and market prices for cotton, and to cause to be prepared regularly and distributed for posting at gins, in post offices, or in other public or conspicuous places in cotton-growing communities, information on prices for the various grades and staple lengths of cotton.
 
-([Mar. 3, 1927, ch. 337, § 3b][/us/act/1927-03-03/ch337/s3b], as added [Apr. 13, 1937, ch. 75][/us/act/1937-04-13/ch75], [50 Stat. 62][/us/stat/50/62].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3b, as added [Apr. 13, 1937, ch. 75][/us/act/1937-04-13/ch75], [50 Stat. 62][/us/stat/50/62].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3b
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/act/1937-04-13/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-13%2Fch75
 [/us/stat/50/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F62
 

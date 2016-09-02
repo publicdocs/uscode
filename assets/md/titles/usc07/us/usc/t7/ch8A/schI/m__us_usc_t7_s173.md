@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of sections 171 to 173 of this title. Any amounts so appropriated, and any funds received by the Secretary under said sections, shall remain permanently available for the purposes of said sections without regard to the provisions of any other laws relating to the availability and disposition of appropriated funds and the disposition of funds collected by officers or agencies of the United States.
 
-([Mar. 5, 1942, ch. 140, § 3][/us/act/1942-03-05/ch140/s3], [56 Stat. 128][/us/stat/56/128].)
+([Mar. 5, 1942, ch. 140][/us/act/1942-03-05/ch140], § 3, [56 Stat. 128][/us/stat/56/128].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-05/ch140/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch140%2Fs3
+[/us/act/1942-03-05/ch140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch140
 [/us/stat/56/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F128
 
 

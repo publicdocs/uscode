@@ -17,7 +17,7 @@
 
     On and after December 30, 1963, the Administrator of the Agricultural Research Service may enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects with such cooperators.
 
-([Pub. L. 88–250, title I][/us/pl/88/250], Dec. 30, 1963, [77 Stat. 820][/us/stat/77/820].)
+([Pub. L. 88–250, title I][/us/pl/88/250/tI], Dec. 30, 1963, [77 Stat. 820][/us/stat/77/820].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F250
+[/us/pl/88/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F250%2FtI
 [/us/stat/77/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F820
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe regulations governing the admission to practice and conduct of persons representing applicants or other parties before the Plant Variety Protection Office. The Secretary may, after notice and opportunity for a hearing, suspend or exclude, either generally or in any particular case, from further practice before the Office of Plant Variety Protection any person shown to be incompetent or disreputable or guilty of gross misconduct.
 
-([Pub. L. 91–577, title I, § 26][/us/pl/91/577/s26], Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 26, Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs26
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1545
 
 

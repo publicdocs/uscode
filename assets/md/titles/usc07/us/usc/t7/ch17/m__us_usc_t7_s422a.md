@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act May 29, 1928, ch. 892, § 2][/us/act/1928-05-29/ch892/s2], [45 Stat. 981][/us/stat/45/981], appropriated $50,000 for the purposes of [section 422 of this title][/us/usc/t7/s422].
+    Section, [act May 29, 1928, ch. 892][/us/act/1928-05-29/ch892], § 2, [45 Stat. 981][/us/stat/45/981], appropriated $50,000 for the purposes of [section 422 of this title][/us/usc/t7/s422].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-05-29/ch892/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch892%2Fs2
+[/us/act/1928-05-29/ch892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch892
 [/us/stat/45/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F981
 [/us/usc/t7/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs422
 

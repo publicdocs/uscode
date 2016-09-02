@@ -41,7 +41,7 @@
 
         (2) the construction and operation of research laboratories, quarantine stations, and other buildings and facilities for special purposes.
 
-([Pub. L. 107–171, title X, § 10417][/us/pl/107/171/s10417], May 13, 2002, [116 Stat. 507][/us/stat/116/507]; [Pub. L. 110–234, title XI, § 11011(3)][/us/pl/110/234/s11011/3], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11011(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10417, May 13, 2002, [116 Stat. 507][/us/stat/116/507]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11011(3), May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11011(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3). [Pub. L. 110–246, § 11011(3)][/us/pl/110/246/s11011/3], struck out “of longer than 60 days” after “review”.
+    2008—Subsec. (b)(3). [Pub. L. 110–246][/us/pl/110/246], § 11011(3), struck out “of longer than 60 days” after “review”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10417
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
-[/us/pl/110/234/s11011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11011%2F3
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
@@ -83,7 +83,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11011%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

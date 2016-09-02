@@ -17,7 +17,7 @@
 
     If any provision of the [act of June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], [49 Stat. 1491][/us/stat/49/1491], which amends this chapter, or the application thereof to any person or circumstances is held invalid, the provisions of the section of this chapter which is amended by such provision of said act shall apply to such person or circumstances. No proceeding shall be abated by reason of any amendment to this chapter made by said act but shall be disposed of pursuant to said act.
 
-([June 15, 1936, ch. 545, § 12][/us/act/1936-06-15/ch545/s12], [49 Stat. 1501][/us/stat/49/1501].)
+([June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 12, [49 Stat. 1501][/us/stat/49/1501].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
-[/us/act/1936-06-15/ch545/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs12
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1501
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 

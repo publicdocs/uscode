@@ -17,7 +17,7 @@
 
     All fees shall be paid to the Secretary, and the Secretary may refund any sum paid by mistake or in excess of the fee required.
 
-([Pub. L. 91–577, title I, § 32][/us/pl/91/577/s32], Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 32, Dec. 24, 1970, [84 Stat. 1545][/us/stat/84/1545].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs32
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1545
 
 

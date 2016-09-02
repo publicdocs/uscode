@@ -39,7 +39,7 @@
 
         Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-([Pub. L. 103–407, § 9][/us/pl/103/407/s9], Oct. 22, 1994, [108 Stat. 4226][/us/stat/108/4226].)
+([Pub. L. 103–407][/us/pl/103/407], § 9, Oct. 22, 1994, [108 Stat. 4226][/us/stat/108/4226].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/407/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs9
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4226
 
 

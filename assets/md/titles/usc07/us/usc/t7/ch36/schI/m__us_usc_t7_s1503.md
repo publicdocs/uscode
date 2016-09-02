@@ -17,7 +17,7 @@
 
     To carry out the purposes of this subchapter, there is hereby created as an agency of and within the Department a body corporate with the name “Federal Crop Insurance Corporation”. The principal office of the Corporation shall be located in the District of Columbia, but there may be established agencies or branch offices elsewhere in the United States under rules and regulations prescribed by the Board.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 503, [52 Stat. 72][/us/stat/52/72]; [Pub. L. 103–354, title I, § 102(b)(1)][/us/pl/103/354/s102/b/1], (4)(A), (B), Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180], 3181; [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 503, [52 Stat. 72][/us/stat/52/72]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 102(b)(1), (4)(A), (B), Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180], 3181; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c)(2)(B), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
     1994—[Pub. L. 103–354][/us/pl/103/354] in first sentence struck out “of Agriculture” after “Department” and “(herein called the Corporation)” before period at end, and in second sentence struck out “of Directors” after “Board”.
 
@@ -52,17 +52,17 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
-[/us/pl/103/354/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F1
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3180
-[/us/pl/110/234/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

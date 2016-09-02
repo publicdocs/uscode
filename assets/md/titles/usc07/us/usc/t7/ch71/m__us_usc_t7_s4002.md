@@ -73,11 +73,11 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section. Any loans made under this section shall be made to such extent and such amounts as provided in appropriation Acts. The authority to make loans under this section shall expire five years after December 3, 1980.
 
-([Pub. L. 96–494, title II, § 209][/us/pl/96/494/s209], Dec. 3, 1980, [94 Stat. 2575][/us/stat/94/2575].)
+([Pub. L. 96–494, title II][/us/pl/96/494/tII], § 209, Dec. 3, 1980, [94 Stat. 2575][/us/stat/94/2575].)
 
  __References in Text__ 
 
-    The producer storage program provided for under [section 1445e of this title][/us/usc/t7/s1445e], referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by [Pub. L. 101–624, title XI, § 1123][/us/pl/101/624/s1123], Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503]. As amended, section 1445e now provides for a farmer owned reserve program.
+    The producer storage program provided for under [section 1445e of this title][/us/usc/t7/s1445e], referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1123, Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503]. As amended, section 1445e now provides for a farmer owned reserve program.
 
 ----------
 
@@ -87,10 +87,10 @@
 ----------
 
 [/us/usc/t42/s8802/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8802%2F19
-[/us/pl/96/494/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs209
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2575
 [/us/usc/t7/s1445e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e
-[/us/pl/101/624/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1123
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3503
 
 

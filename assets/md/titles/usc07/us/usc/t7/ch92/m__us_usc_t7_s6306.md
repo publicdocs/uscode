@@ -55,7 +55,7 @@
 
             The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 6307 of this title][/us/usc/t7/s6307].
 
-([Pub. L. 101–624, title XIX, § 1971][/us/pl/101/624/s1971], Nov. 28, 1990, [104 Stat. 3900][/us/stat/104/3900].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1971, Nov. 28, 1990, [104 Stat. 3900][/us/stat/104/3900].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t7/s6307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6307
-[/us/pl/101/624/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1971
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3900
 
 

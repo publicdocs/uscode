@@ -31,7 +31,7 @@
 
         Insofar as practicable, the Secretary shall use existing Federal, State, and private education resources in carrying out these programs.
 
-([Pub. L. 101–624, title XXIII, § 2377][/us/pl/101/624/s2377], Nov. 28, 1990, [104 Stat. 4048][/us/stat/104/4048]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(e)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204; [Pub. L. 110–234, title VII, § 7511(c)(26)][/us/pl/110/234/s7511/c/26], May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(26), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2377, Nov. 28, 1990, [104 Stat. 4048][/us/stat/104/4048]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 345(e)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(26), May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(26), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(26)][/us/pl/110/246/s7511/c/26], substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(26), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
     1999—Subsec. (a)(2), (3). [Pub. L. 106–113][/us/pl/106/113], which directed substitution of “National Forest System land resources” for “national forest resources” in pars. (3) and (4), was executed by making the substitution in pars. (2) and (3) to reflect the probable intent of Congress.
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2377
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4048
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/110/234/s7511/c/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F26
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1270
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F26
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

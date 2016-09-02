@@ -25,7 +25,7 @@
 
     (b) Subsection (a) shall not apply to a borrower of a loan made or insured under this chapter with respect to which a liquidation or foreclosure proceeding is pending on December 23, 1985.
 
-([Pub. L. 87–128, title III, § 331C][/us/pl/87/128/s331C], as added [Pub. L. 99–198, title XIII, § 1310(a)][/us/pl/99/198/s1310/a], Dec. 23, 1985, [99 Stat. 1523][/us/stat/99/1523].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 331C, as added [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1310(a), Dec. 23, 1985, [99 Stat. 1523][/us/stat/99/1523].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s331C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs331C
-[/us/pl/99/198/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1310%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1523
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

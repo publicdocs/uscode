@@ -17,7 +17,7 @@
 
     It is the intent of Congress to provide the indicated protection for new varieties by exercise of any constitutional power needed for that end, so as to afford adequate encouragement for research, and for marketing when appropriate, to yield for the public the benefits of new varieties. Constitutional clauses 3 and 8 of article I, section 8 are both relied upon.
 
-([Pub. L. 91–577, title III, § 131][/us/pl/91/577/s131], Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 131, Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs131
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1558
 
 

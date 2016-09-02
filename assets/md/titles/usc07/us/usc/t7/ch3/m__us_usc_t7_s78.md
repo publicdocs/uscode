@@ -19,7 +19,7 @@
 
     (b) No person shall, in any sale, offer for sale, or consignment for sale, of any grain which involves the shipment of such grain from the United States to any place outside thereof, knowingly describe such grain by any official grade designation, or other description, which is false or misleading.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 6, [39 Stat. 484][/us/stat/39/484]; [Pub. L. 85–509][/us/pl/85/509], July 11, 1958, [72 Stat. 352][/us/stat/72/352]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 763][/us/stat/82/763]; [Pub. L. 94–582, § 7][/us/pl/94/582/s7], Oct. 21, 1976, [90 Stat. 2870][/us/stat/90/2870]; [Pub. L. 95–113, title XVI, § 1606(c)][/us/pl/95/113/s1606/c], Sept. 29, 1977, [91 Stat. 1030][/us/stat/91/1030].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 6, [39 Stat. 484][/us/stat/39/484]; [Pub. L. 85–509][/us/pl/85/509], July 11, 1958, [72 Stat. 352][/us/stat/72/352]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 763][/us/stat/82/763]; [Pub. L. 94–582][/us/pl/94/582], § 7, Oct. 21, 1976, [90 Stat. 2870][/us/stat/90/2870]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], § 1606(c), Sept. 29, 1977, [91 Stat. 1030][/us/stat/91/1030].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–487, § 2][/us/pl/90/487/s2], Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770], provided that: 
+[Pub. L. 90–487][/us/pl/90/487], § 2, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770], provided that: 
 
 > “This Act \[amending this section and sections 71, 74, 75, 76, 77, 79, 84, 85, 86, and 87 of this title and enacting sections 87a to 87h of this title\] shall become effective one hundred and eighty days after enactment hereof \[Aug. 15, 1968\], except that the repeal of the mandatory inspection provisions with respect to grain shipped or delivered for shipment in interstate commerce shall become effective thirty days after enactment hereof, and the provisions of sections 6(a) and 13(a)(5) of the United States Grain Standards Act, as amended by this Act \[subsec. (a) of this section and [section 87b(a)(5) of this title][/us/usc/t7/s87b/a/5]\] shall then become effective with respect to such grain.”
 
@@ -57,11 +57,11 @@
 [/us/stat/39/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F484
 [/us/pl/85/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F509
 [/us/stat/72/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F352
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F763
-[/us/pl/94/582/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs7
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2870
-[/us/pl/95/113/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fc
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1030
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
@@ -73,7 +73,7 @@
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/94/582/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs27
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
-[/us/pl/90/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs2
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F770
 [/us/usc/t7/s87b/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87b%2Fa%2F5
 

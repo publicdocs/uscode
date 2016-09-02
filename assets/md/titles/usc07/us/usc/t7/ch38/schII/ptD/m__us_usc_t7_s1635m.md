@@ -29,11 +29,11 @@
 
         If the Secretary establishes a mandatory price reporting program under subsection (a), the Secretary shall provide an opportunity for comment on proposed regulations to establish the program during the 30-day period beginning on the date of the publication of the proposed regulations.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 241, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1200][/us/stat/113/1200].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 241, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1200][/us/stat/113/1200].)
 
  __Lamb Reporting__ 
 
-[Pub. L. 114–54, title I, § 103][/us/pl/114/54/s103], Sept. 30, 2015, [129 Stat. 514][/us/stat/129/514], provided that: 
+[Pub. L. 114–54, title I][/us/pl/114/54/tI], § 103, Sept. 30, 2015, [129 Stat. 514][/us/stat/129/514], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2015\], the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1200
-[/us/pl/114/54/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs103
+[/us/pl/114/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtI
 [/us/stat/129/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F514
 
 

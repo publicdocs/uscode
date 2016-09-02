@@ -35,7 +35,7 @@
 
     The primary consideration in determining the eligibility of any organization shall be whether its membership consists of a substantial number of producers and importers who produce and import a substantial volume of flowers and plants. The Secretary shall certify any organization which is found to be eligible under this section, and the Secretary’s determination as to eligibility shall be final. Whenever more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under [section 4306(2) of this title][/us/usc/t7/s4306/2].
 
-([Pub. L. 97–98, title XVII, § 1716][/us/pl/97/98/s1716], Dec. 22, 1981, [95 Stat. 1357][/us/stat/95/1357].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1716, Dec. 22, 1981, [95 Stat. 1357][/us/stat/95/1357].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t7/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4304
 [/us/usc/t7/s4306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4306%2F2
 [/us/usc/t7/s4306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4306%2F2
-[/us/pl/97/98/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1716
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1357
 
 

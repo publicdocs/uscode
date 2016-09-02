@@ -57,7 +57,7 @@
 
         (8) If the amount in the escrow account required to be established by paragraph (3) is not sufficient to refund the total amount of assessments demanded by all eligible producers under this subsection and the amendment issued pursuant to paragraph (1) is not approved pursuant to a referendum under section 2708 or 2709(b) of this title, the Egg Board shall prorate the amount of such refunds among all eligible producers who demand such refund.
 
-([Pub. L. 93–428, § 13][/us/pl/93/428/s13], Oct. 1, 1974, [88 Stat. 1177][/us/stat/88/1177]; [Pub. L. 100–575, § 3][/us/pl/100/575/s3], Oct. 31, 1988, [102 Stat. 2895][/us/stat/102/2895].)
+([Pub. L. 93–428][/us/pl/93/428], § 13, Oct. 1, 1974, [88 Stat. 1177][/us/stat/88/1177]; [Pub. L. 100–575][/us/pl/100/575], § 3, Oct. 31, 1988, [102 Stat. 2895][/us/stat/102/2895].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/93/428/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs13
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1177
-[/us/pl/100/575/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575%2Fs3
+[/us/pl/100/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575
 [/us/stat/102/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2895
 [/us/pl/100/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F575
 

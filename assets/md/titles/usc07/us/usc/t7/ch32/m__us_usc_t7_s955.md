@@ -17,7 +17,7 @@
 
     The information furnished under the provisions of this chapter shall be used only for the statistical purposes for which it is supplied. No publication shall be made by the Secretary whereby the data furnished by any person can be identified nor shall the Secretary permit anyone other than the sworn employees of the Department of Agriculture to examine the individual reports.
 
-([June 24, 1936, ch. 745, § 5][/us/act/1936-06-24/ch745/s5], [49 Stat. 1899][/us/stat/49/1899].)
+([June 24, 1936, ch. 745][/us/act/1936-06-24/ch745], § 5, [49 Stat. 1899][/us/stat/49/1899].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-24/ch745/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745%2Fs5
+[/us/act/1936-06-24/ch745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745
 [/us/stat/49/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1899
 
 

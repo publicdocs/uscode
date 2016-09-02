@@ -33,7 +33,7 @@
 
         (4) Notwithstanding any other provision of this subsection (c), the farm acreage allotment for the 1967 and any subsequent crop of wheat shall be established for each old farm by apportioning the county wheat acreage allotment among farms in the county on which wheat has been planted, or is considered to have been planted, for harvest as grain in any one of the three years immediately preceding the year for which allotments are determined on the basis of past acreage of wheat and the farm acreage allotment for the year immediately preceding the year for which the allotment is being established, adjusted as hereinafter provided. For purposes of this paragraph, the acreage allotment for the immediately preceding year may be adjusted to reflect established crop-rotation practices, may be adjusted downward to reflect a reduction in the tillable acreage on the farm, and may be adjusted upward to reflect such other factors as the Secretary determines should be considered for the purpose of establishing a fair and equitable allotment: Provided, That (i) for the purposes of computing the allotment for any year, the acreage allotment for the farm for the immediately preceding year shall be decreased by 7 per centum if for the year immediately preceding the year for which such reduction is made neither a voluntary diversion program nor a voluntary certificate program was in effect and there was noncompliance with the farm acreage allotment for such year; (ii) for purposes of clause (i), any farm on which the entire amount of farm marketing excess is delivered to the Secretary, stored, or adjusted to zero in accordance with applicable regulations to avoid or postpone payment of the penalty when farm marketing quotas are in effect, shall be considered in compliance with the allotment, but if any part of the amount of wheat so stored is later depleted and penalty becomes due by reason of such depletion, the allotment for such farm next computed after determination of such depletion shall be reduced by reducing the allotment for the immediately preceding year by 7 per centum; and (iii) for purposes of clause (i) if the Secretary determines that the reduction in the allotment does not provide fair and equitable treatment to producers on farms following special crop rotation practices, he may modify such reduction in the allotment as he determines to be necessary to provide fair and equitable treatment to such producers.
 
-    (d) __Repealed.__  __[__  __Pub. L. 89–321, title V, § 501(6)__  __][/us/pl/89/321/s501/6]__  __,__  __Nov. 3, 1965__  __,__  __[__  __79 Stat. 1201__  __][/us/stat/79/1201]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 89–321, title V__  __][/us/pl/89/321/tV]__  __, § 501(6),__  __Nov. 3, 1965__  __,__  __[__  __79 Stat. 1201__  __][/us/stat/79/1201]__ 
 
     (e) __Increase in acreage allotments and marketing quotas for class II durum wheat__ 
 
@@ -61,7 +61,7 @@
 
         Notwithstanding any other provision of this chapter, if the Secretary determines that because of a natural disaster a portion of the farm wheat acreage allotments in a county cannot be timely planted or replanted, he may authorize the transfer of all or a part of the wheat acreage allotment for any farm in the county so affected to another farm in the county or in an adjoining county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of wheat and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this subsection shall be deemed to be planted on the farm from which it was transferred for the purposes of acreage history credits under this chapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 334, [52 Stat. 53][/us/stat/52/53]; [Apr. 7, 1938, ch. 107, § 7][/us/act/1938-04-07/ch107/s7], [52 Stat. 203][/us/stat/52/203]; [Feb. 6, 1942, ch. 44, § 2][/us/act/1942-02-06/ch44/s2], [56 Stat. 52][/us/stat/56/52]; [July 14, 1953, ch. 194, § 1][/us/act/1953-07-14/ch194/s1], [67 Stat. 151][/us/stat/67/151]; [Jan. 30, 1954, ch. 2, § 4][/us/act/1954-01-30/ch2/s4], [68 Stat. 6][/us/stat/68/6]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 308, [68 Stat. 903][/us/stat/68/903]; [Feb. 19, 1955, ch. 8][/us/act/1955-02-19/ch8], [69 Stat. 9][/us/stat/69/9]; [Mar. 16, 1956, ch. 86][/us/act/1956-03-16/ch86], [70 Stat. 50][/us/stat/70/50]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title III, § 301, [70 Stat. 203][/us/stat/70/203]; [Aug. 7, 1956, ch. 1030, § 2][/us/act/1956-08-07/ch1030/s2], [70 Stat. 1117][/us/stat/70/1117]; [Pub. L. 85–13][/us/pl/85/13], Apr. 2, 1957, [71 Stat. 10][/us/stat/71/10]; [Pub. L. 85–203, § 2][/us/pl/85/203/s2], Aug. 28, 1957, [71 Stat. 477][/us/stat/71/477]; [Pub. L. 85–366][/us/pl/85/366], Apr. 4, 1958, [72 Stat. 78][/us/stat/72/78]; [Pub. L. 85–390][/us/pl/85/390], May 1, 1958, [72 Stat. 101][/us/stat/72/101]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 378(d), as added [Pub. L. 85–835, title V, § 501][/us/pl/85/835/s501], Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 86–385][/us/pl/86/385], Feb. 20, 1960, [74 Stat. 4][/us/stat/74/4]; [Pub. L. 86–419][/us/pl/86/419], Apr. 9, 1960, [74 Stat. 39][/us/stat/74/39]; [Pub. L. 87–128, title I][/us/pl/87/128], §§ 121, 125, Aug. 8, 1961, [75 Stat. 296][/us/stat/75/296], 300; [Pub. L. 87–357][/us/pl/87/357], Oct. 4, 1961, [75 Stat. 778][/us/stat/75/778]; [Pub. L. 87–703, title III][/us/pl/87/703], §§ 308(a), 313, Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], 620; [Pub. L. 88–64][/us/pl/88/64], July 17, 1963, [77 Stat. 79][/us/stat/77/79]; [Pub. L. 88–297, title II, § 202(1)][/us/pl/88/297/s202/1]–(5), Apr. 11, 1964, [78 Stat. 178][/us/stat/78/178], 179; [Pub. L. 89–321, title V, § 501(3)][/us/pl/89/321/s501/3]–(7), Nov. 3, 1965, [79 Stat. 1199–1201][/us/stat/79/1199-1201]; [Pub. L. 90–243][/us/pl/90/243], Jan. 2, 1968, [81 Stat. 781][/us/stat/81/781]; [Pub. L. 91–220][/us/pl/91/220], Mar. 31, 1970, [84 Stat. 86][/us/stat/84/86]; [Pub. L. 99–198, title III, § 304][/us/pl/99/198/s304], Dec. 23, 1985, [99 Stat. 1379][/us/stat/99/1379].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 334, [52 Stat. 53][/us/stat/52/53]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], § 7, [52 Stat. 203][/us/stat/52/203]; [Feb. 6, 1942, ch. 44][/us/act/1942-02-06/ch44], § 2, [56 Stat. 52][/us/stat/56/52]; [July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 1, [67 Stat. 151][/us/stat/67/151]; [Jan. 30, 1954, ch. 2][/us/act/1954-01-30/ch2], § 4, [68 Stat. 6][/us/stat/68/6]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 308, [68 Stat. 903][/us/stat/68/903]; [Feb. 19, 1955, ch. 8][/us/act/1955-02-19/ch8], [69 Stat. 9][/us/stat/69/9]; [Mar. 16, 1956, ch. 86][/us/act/1956-03-16/ch86], [70 Stat. 50][/us/stat/70/50]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title III, § 301, [70 Stat. 203][/us/stat/70/203]; [Aug. 7, 1956, ch. 1030][/us/act/1956-08-07/ch1030], § 2, [70 Stat. 1117][/us/stat/70/1117]; [Pub. L. 85–13][/us/pl/85/13], Apr. 2, 1957, [71 Stat. 10][/us/stat/71/10]; [Pub. L. 85–203][/us/pl/85/203], § 2, Aug. 28, 1957, [71 Stat. 477][/us/stat/71/477]; [Pub. L. 85–366][/us/pl/85/366], Apr. 4, 1958, [72 Stat. 78][/us/stat/72/78]; [Pub. L. 85–390][/us/pl/85/390], May 1, 1958, [72 Stat. 101][/us/stat/72/101]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 378(d), as added [Pub. L. 85–835, title V][/us/pl/85/835/tV], § 501, Aug. 28, 1958, [72 Stat. 996][/us/stat/72/996]; [Pub. L. 86–385][/us/pl/86/385], Feb. 20, 1960, [74 Stat. 4][/us/stat/74/4]; [Pub. L. 86–419][/us/pl/86/419], Apr. 9, 1960, [74 Stat. 39][/us/stat/74/39]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], §§ 121, 125, Aug. 8, 1961, [75 Stat. 296][/us/stat/75/296], 300; [Pub. L. 87–357][/us/pl/87/357], Oct. 4, 1961, [75 Stat. 778][/us/stat/75/778]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], §§ 308(a), 313, Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], 620; [Pub. L. 88–64][/us/pl/88/64], July 17, 1963, [77 Stat. 79][/us/stat/77/79]; [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(1)–(5), Apr. 11, 1964, [78 Stat. 178][/us/stat/78/178], 179; [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 501(3)–(7), Nov. 3, 1965, [79 Stat. 1199–1201][/us/stat/79/1199-1201]; [Pub. L. 90–243][/us/pl/90/243], Jan. 2, 1968, [81 Stat. 781][/us/stat/81/781]; [Pub. L. 91–220][/us/pl/91/220], Mar. 31, 1970, [84 Stat. 86][/us/stat/84/86]; [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 304, Dec. 23, 1985, [99 Stat. 1379][/us/stat/99/1379].)
 
  __References in Text__ 
 
@@ -107,43 +107,43 @@
 
     1968—Subsec. (a). [Pub. L. 90–243][/us/pl/90/243] inserted provisions allowing the Secretary to make additional use, with specified limitations, of the 1 percent national wheat acreage allotment reserve in counties which have wheat as the principal grain crop, an average ratio of wheat acreage allotment to cropland on old wheat farms at least 20 percent below that in an adjoining county or alternative ratio, a low ratio caused by a shift prior to 1951 from wheat to an alternative crop or crops which have become unprofitable because of plant disease or sustained loss of markets, and no alternative income-producing crop.
 
-    1965—Subsec. (a). [Pub. L. 89–321, § 501(3)][/us/pl/89/321/s501/3], substituted the preceding year’s allotment for the acreage seeded for the production of wheat over the preceding ten-year period as the basis for determining the state’s apportioned share of the national acreage allotment and made provision for a special acreage reserve to be apportioned only to counties where wheat is a major income-producing crop.
+    1965—Subsec. (a). [Pub. L. 89–321][/us/pl/89/321], § 501(3), substituted the preceding year’s allotment for the acreage seeded for the production of wheat over the preceding ten-year period as the basis for determining the state’s apportioned share of the national acreage allotment and made provision for a special acreage reserve to be apportioned only to counties where wheat is a major income-producing crop.
 
-    Subsec. (b). [Pub. L. 89–321, § 501(4)][/us/pl/89/321/s501/4], substituted the county’s allotment covering the preceding year for the acreage seeded for the production of wheat during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined as the basis for determining the county’s allotment.
+    Subsec. (b). [Pub. L. 89–321][/us/pl/89/321], § 501(4), substituted the county’s allotment covering the preceding year for the acreage seeded for the production of wheat during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined as the basis for determining the county’s allotment.
 
-    Subsec. (c)(3), (4). [Pub. L. 89–321, § 501(5)][/us/pl/89/321/s501/5], added pars. (3) and (4).
+    Subsec. (c)(3), (4). [Pub. L. 89–321][/us/pl/89/321], § 501(5), added pars. (3) and (4).
 
-    Subsec. (d). [Pub. L. 89–321, § 501(6)][/us/pl/89/321/s501/6], repealed subsec. (d) dealing with farms on which the entire amount of the farm marketing excess has been delivered to the Secretary or stored in accordance with applicable provisions.
+    Subsec. (d). [Pub. L. 89–321][/us/pl/89/321], § 501(6), repealed subsec. (d) dealing with farms on which the entire amount of the farm marketing excess has been delivered to the Secretary or stored in accordance with applicable provisions.
 
-    Subsec. (g). [Pub. L. 89–321, § 501(7)][/us/pl/89/321/s501/7], struck out “except as prescribed in the provisos to the first sentence of subsections (a) and (b) respectively of this section” after “county acreage allotments.”
+    Subsec. (g). [Pub. L. 89–321][/us/pl/89/321], § 501(7), struck out “except as prescribed in the provisos to the first sentence of subsections (a) and (b) respectively of this section” after “county acreage allotments.”
 
-    1964—Subsec. (a). [Pub. L. 88–297, § 202(1)][/us/pl/88/297/s202/1], provided (1) for the apportionment among the States of the national acreage allotment for wheat less the special acreage reserve; (2) that in establishing State acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965; and (3) beginning with the 1965 crop, a special acreage reserve and uses of such reserve and apportionment to counties of such reserve.
+    1964—Subsec. (a). [Pub. L. 88–297][/us/pl/88/297], § 202(1), provided (1) for the apportionment among the States of the national acreage allotment for wheat less the special acreage reserve; (2) that in establishing State acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965; and (3) beginning with the 1965 crop, a special acreage reserve and uses of such reserve and apportionment to counties of such reserve.
 
-    Subsec. (b). [Pub. L. 88–297, § 202(2)][/us/pl/88/297/s202/2], provided that in establishing county acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965.
+    Subsec. (b). [Pub. L. 88–297][/us/pl/88/297], § 202(2), provided that in establishing county acreage allotments, the acreage seeded for the production of wheat plus the acreage diverted for 1965 for any farm shall be the base acreage of wheat determined for the farm under regulations for determining farm wheat acreage allotments for 1965.
 
-    Subsec. (c)(1). [Pub. L. 88–297, § 202(3)][/us/pl/88/297/s202/3], inserted in third sentence, cls. (i) and (ii), “or 1965” after “1958” wherever appearing and in third sentence, cl. (iii), “except 1965” after “any subsequent year.”
+    Subsec. (c)(1). [Pub. L. 88–297][/us/pl/88/297], § 202(3), inserted in third sentence, cls. (i) and (ii), “or 1965” after “1958” wherever appearing and in third sentence, cl. (iii), “except 1965” after “any subsequent year.”
 
-    Subsec. (g). [Pub. L. 88–297, § 202(4)][/us/pl/88/297/s202/4], inserted in first sentence “except 1965” after “in 1958 or thereafter”.
+    Subsec. (g). [Pub. L. 88–297][/us/pl/88/297], § 202(4), inserted in first sentence “except 1965” after “in 1958 or thereafter”.
 
-    Subsec. (k). [Pub. L. 88–297, § 202(5)][/us/pl/88/297/s202/5], added subsec. (k).
+    Subsec. (k). [Pub. L. 88–297][/us/pl/88/297], § 202(5), added subsec. (k).
 
-    1963—Subsec. (h). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. [Pub. L. 87–703, § 313(2)][/us/pl/87/703/s313/2], redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (h). [Pub. L. 88–64, § 1(a)][/us/pl/88/64/s1/a], redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j).
+    1963—Subsec. (h). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. [Pub. L. 87–703][/us/pl/87/703], § 313(2), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (h). [Pub. L. 88–64][/us/pl/88/64], § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j).
 
-    Subsec. (i). [Pub. L. 88–64, § 1(a)][/us/pl/88/64/s1/a], redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). [Pub. L. 87–703, § 313(4)][/us/pl/87/703/s313/4], added subsec. (i) (effective with the 1964 Wheat Crop). See 1962 Amendment note hereunder.
+    Subsec. (i). [Pub. L. 88–64][/us/pl/88/64], § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). [Pub. L. 87–703][/us/pl/87/703], § 313(4), added subsec. (i) (effective with the 1964 Wheat Crop). See 1962 Amendment note hereunder.
 
     Subsec. (j). [Pub. L. 88–64][/us/pl/88/64] redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j), inserted “privately owned” before “farms” in first and second sentences and increased from eight to twelve thousand acres the total acreage allotment for each crop.
 
     1962—Subsec. (e). [Pub. L. 87–703][/us/pl/87/703], §§ 308(a), 313(1), inserted provision respecting participation in the special wheat program formulated under section 307 of the Food and Agriculture Act of 1962 and substituted “the 1962 and 1963 crops” for “any of the 1962, 1963, and 1964 crops”, respectively.
 
-    Subsec. (g). [Pub. L. 87–703, § 313(2)][/us/pl/87/703/s313/2], redesignated former subsec. (h) as (g). Former subsec. (g), which related to weather conditions, underplanting, and subnormal production affecting acreage allotments, was repealed by such section 313(2). See [section 1377 of this title][/us/usc/t7/s1377].
+    Subsec. (g). [Pub. L. 87–703][/us/pl/87/703], § 313(2), redesignated former subsec. (h) as (g). Former subsec. (g), which related to weather conditions, underplanting, and subnormal production affecting acreage allotments, was repealed by such section 313(2). See [section 1377 of this title][/us/usc/t7/s1377].
 
-    Subsec. (h). [Pub. L. 87–703, § 313][/us/pl/87/703/s313] (2), (3), redesignated former subsec. (i) as (h) and inserted the sentence “The land-use provisions of [section 1339 of this title][/us/usc/t7/s1339] shall not be applicable to any farm receiving an additional allotment under this subsection.” Former subsec. (h) redesignated (g). See Effective Date of 1962 Amendment note below making the changes effective with the 1964 Wheat Crop. [Pub. L. 88–64, § 1(a)][/us/pl/88/64/s1/a], redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. See 1963 Amendment note above.
+    Subsec. (h). [Pub. L. 87–703][/us/pl/87/703], § 313 (2), (3), redesignated former subsec. (i) as (h) and inserted the sentence “The land-use provisions of [section 1339 of this title][/us/usc/t7/s1339] shall not be applicable to any farm receiving an additional allotment under this subsection.” Former subsec. (h) redesignated (g). See Effective Date of 1962 Amendment note below making the changes effective with the 1964 Wheat Crop. [Pub. L. 88–64][/us/pl/88/64], § 1(a), redesignated former subsec. (i) (so designated through the 1963 Wheat Crop) as (j). There is no subsec. (h) for 1964 and Subsequent Wheat Crops. See 1963 Amendment note above.
 
-    Subsec. (i). [Pub. L. 87–703, § 313(4)][/us/pl/87/703/s313/4], added subsec. (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 87–703][/us/pl/87/703], § 313(4), added subsec. (i). Former subsec. (i) redesignated (h).
 
-    1961—Subsec. (c). [Pub. L. 87–128, § 121][/us/pl/87/128/s121], designated existing provisions as par. (1) and added par. (2).
+    1961—Subsec. (c). [Pub. L. 87–128][/us/pl/87/128], § 121, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 87–128, § 125][/us/pl/87/128/s125], authorized the Secretary to increase durum wheat acreage allotment during 1962, 1963, and 1964 crops of wheat when he determines that acreage allotments established for durum wheat farms will be inadequate to produce a sufficient quantity of durum wheat to meet demand therefor, not including export demand involving a subsidy by or loss to the Federal Government, by such percentage factor as is determined to be necessary to provide for the increase in quantity the increase not to exceed the cropland on the farm well suited to wheat and to be conditioned upon the production of an acreage of durum wheat (class II) at least equal to the average acreage of such wheat produced during prescribed two-year period plus the number of acres by which the allotment is increased, provided that any farm receiving an increased durum wheat allotment shall not be required as a condition of price support, or permitted, to participate in the special 1962 wheat diversion program, and required the Secretary to become familiar with the views and recommendations of durum wheat grower and millers and manufacturers of semolina products prior to making any determinations. Former provisions of the subsection related to increase in allotment for durum wheat farms for 1957 crop of wheat, conditioned upon the production of durum wheat (class II) on the increased acreage and determined by adding to the allotment established without regard to subsec. (e) an acreage equal to the acreage by which the original allotment exceeded the 1957 acreage on the farm of classes of wheat other than durum wheat (class II), but not exceeding the smaller of the cropland on the farm well suited to wheat or the wheat acreage on the farm.
+    Subsec. (e). [Pub. L. 87–128][/us/pl/87/128], § 125, authorized the Secretary to increase durum wheat acreage allotment during 1962, 1963, and 1964 crops of wheat when he determines that acreage allotments established for durum wheat farms will be inadequate to produce a sufficient quantity of durum wheat to meet demand therefor, not including export demand involving a subsidy by or loss to the Federal Government, by such percentage factor as is determined to be necessary to provide for the increase in quantity the increase not to exceed the cropland on the farm well suited to wheat and to be conditioned upon the production of an acreage of durum wheat (class II) at least equal to the average acreage of such wheat produced during prescribed two-year period plus the number of acres by which the allotment is increased, provided that any farm receiving an increased durum wheat allotment shall not be required as a condition of price support, or permitted, to participate in the special 1962 wheat diversion program, and required the Secretary to become familiar with the views and recommendations of durum wheat grower and millers and manufacturers of semolina products prior to making any determinations. Former provisions of the subsection related to increase in allotment for durum wheat farms for 1957 crop of wheat, conditioned upon the production of durum wheat (class II) on the increased acreage and determined by adding to the allotment established without regard to subsec. (e) an acreage equal to the acreage by which the original allotment exceeded the 1957 acreage on the farm of classes of wheat other than durum wheat (class II), but not exceeding the smaller of the cropland on the farm well suited to wheat or the wheat acreage on the farm.
 
     Subsec. (i). [Pub. L. 87–357][/us/pl/87/357] substituted “1958 through 1963” for “1958 through 1961”, and excluded from any general reduction in farm acreage allotments or farm acreage diversion program for the 1962 or 1963 wheat crop, the farms for which acreage allotments are increased under the provisions hereof, unless such reduction is specifically made applicable.
 
@@ -151,15 +151,15 @@
 
     Subsec. (i). [Pub. L. 86–385][/us/pl/86/385] substituted “1958 through 1961” for “1958 and 1959”.
 
-    1958—Subsec. (a). [Pub. L. 85–366, § 1(1)][/us/pl/85/366/s1/1], inserted proviso that in establishing State acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage allotment for such year.
+    1958—Subsec. (a). [Pub. L. 85–366][/us/pl/85/366], § 1(1), inserted proviso that in establishing State acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage allotment for such year.
 
-    Subsec. (b). [Pub. L. 85–366, § 1(2)][/us/pl/85/366/s1/2], inserted proviso that in establishing county acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage for such year.
+    Subsec. (b). [Pub. L. 85–366][/us/pl/85/366], § 1(2), inserted proviso that in establishing county acreage allotments acreage seeded plus acreage diverted for 1959 and subsequent years for farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty shall be base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, farm’s seeded plus diverted acreage for year excess was produced shall be reduced to acreage for such year.
 
-    Subsec. (c). [Pub. L. 85–366, § 1(3)][/us/pl/85/366/s1/3], inserted sentence relating to establishment of farm acreage allotment for 1958 and past acreage for 1959 and subsequent years, with the proviso that for 1959 and subsequent years, any farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty, the past acreage for the year of delivery or storage shall be the base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, past acreage of wheat for year excess was produced shall be reduced to farm allotment for such year.
+    Subsec. (c). [Pub. L. 85–366][/us/pl/85/366], § 1(3), inserted sentence relating to establishment of farm acreage allotment for 1958 and past acreage for 1959 and subsequent years, with the proviso that for 1959 and subsequent years, any farm on which entire marketing excess is delivered to Secretary or stored to avoid penalty, the past acreage for the year of delivery or storage shall be the base acreage determined for farm by Secretary’s regulations for such year, but if such stored wheat is subsequently depleted, resulting in penalty, past acreage of wheat for year excess was produced shall be reduced to farm allotment for such year.
 
     Subsec. (d). Act Feb. 16, 1938, § 378(d), as added by [Pub. L. 85–835][/us/pl/85/835], repealed subsec. (d) which related to adjustment of allotment upon acquisition of part of farms by United States for defense.
 
-    Subsec. (h). [Pub. L. 85–366, § 1(4)][/us/pl/85/366/s1/4], substituted “future State and county acreage allotments except as prescribed in the provisos to the first sentence of subsections (a) and (b), respectively, of this section” for “future State, county, and farm acreage allotments”.
+    Subsec. (h). [Pub. L. 85–366][/us/pl/85/366], § 1(4), substituted “future State and county acreage allotments except as prescribed in the provisos to the first sentence of subsections (a) and (b), respectively, of this section” for “future State, county, and farm acreage allotments”.
 
     Subsec. (i). [Pub. L. 85–390][/us/pl/85/390] added subsec. (i).
 
@@ -193,7 +193,7 @@
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title III, § 304][/us/pl/99/198/s304], Dec. 23, 1985, [99 Stat. 1379][/us/stat/99/1379], provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
+    [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 304, Dec. 23, 1985, [99 Stat. 1379][/us/stat/99/1379], provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
 
  __Effective Date of 1965 Amendment__ 
 
@@ -205,7 +205,7 @@
 
  __Effective Date of 1956 Amendment__ 
 
-    [Act Aug. 7, 1956, ch. 1030, § 2][/us/act/1956-08-07/ch1030/s2], [70 Stat. 1117][/us/stat/70/1117], provided that the amendment made by that act is effective beginning with the 1957 crop of wheat.
+    [Act Aug. 7, 1956, ch. 1030][/us/act/1956-08-07/ch1030], § 2, [70 Stat. 1117][/us/stat/70/1117], provided that the amendment made by that act is effective beginning with the 1957 crop of wheat.
 
  __Effective Date of 1955 Amendment__ 
 
@@ -213,7 +213,7 @@
 
  __Effective Date of 1953 Amendment__ 
 
-[Act July 14, 1953, ch. 194, § 5][/us/act/1953-07-14/ch194/s5], [67 Stat. 152][/us/stat/67/152], provided that: 
+[Act July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 5, [67 Stat. 152][/us/stat/67/152], provided that: 
 
 > “Sections 1, 2, and 3 of this Act \[amending this section and [section 1340 of this title][/us/usc/t7/s1340] and repealing [section 1339 of this title][/us/usc/t7/s1339]\] shall become effective with respect to the 1954 and subsequent crops of wheat.”
 
@@ -239,31 +239,31 @@
 
     Section inapplicable to 1978 through 1981 crops of wheat, see [section 404 of Pub. L. 95–113][/us/pl/95/113/s404], set out as a note under [section 1331 of this title][/us/usc/t7/s1331].
 
-    [Pub. L. 91–524, title IV, § 404(2)][/us/pl/91/524/s404/2], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1972 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(2), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1972 through 1977 crops of wheat.
 
  __Farm Acreage Allotments for 1966 Crop of Wheat__ 
 
-    [Pub. L. 89–321, title V, § 512][/us/pl/89/321/s512], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], required the national, State, county, and farm acreage allotments for the 1966 crop of wheat to be established in accordance with the provisions of law in effect prior to Nov. 3, 1965.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 512, Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], required the national, State, county, and farm acreage allotments for the 1966 crop of wheat to be established in accordance with the provisions of law in effect prior to Nov. 3, 1965.
 
  __1963 Diverted Wheat Acreage Program__ 
 
-    [Pub. L. 87–703, title III, § 307][/us/pl/87/703/s307], Sept. 27, 1962, [76 Stat. 615][/us/stat/76/615], provided that payments were authorized to be made in cash or wheat by the Commodity Credit Corporation to producers on any farm, except farms with new farm wheat allotments, if marketing quotas were in effect for the 1963 wheat crop, if they diverted certain acreage from wheat production, and if they devoted such acreage to conservation uses; that such acreage was to be in addition to acreage diverted to conservation uses for which payment was made under other federal programs although cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to fifty per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
+    [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 307, Sept. 27, 1962, [76 Stat. 615][/us/stat/76/615], provided that payments were authorized to be made in cash or wheat by the Commodity Credit Corporation to producers on any farm, except farms with new farm wheat allotments, if marketing quotas were in effect for the 1963 wheat crop, if they diverted certain acreage from wheat production, and if they devoted such acreage to conservation uses; that such acreage was to be in addition to acreage diverted to conservation uses for which payment was made under other federal programs although cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to fifty per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
 
  __Applicability of 1963 Diverted Wheat Acreage Program to Increased Allotment Farms__ 
 
-    [Pub. L. 87–703, title III, § 308(b)][/us/pl/87/703/s308/b], Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], provided that the special wheat program formulated under [section 307 of Pub. L. 87–703][/us/pl/87/703/s307] \[set out above\] was not applicable to any farm receiving an additional acreage allotment for wheat in short supply under section 334(i) of the Agricultural Adjustment Act of 1938, as amended \[subsec. (i) of this section\].
+    [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 308(b), Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618], provided that the special wheat program formulated under [section 307 of Pub. L. 87–703][/us/pl/87/703/s307] \[set out above\] was not applicable to any farm receiving an additional acreage allotment for wheat in short supply under section 334(i) of the Agricultural Adjustment Act of 1938, as amended \[subsec. (i) of this section\].
 
  __1962 Diverted Wheat Acreage Program__ 
 
-    [Pub. L. 87–128, title I, § 124][/us/pl/87/128/s124], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], as amended by [Pub. L. 87–410][/us/pl/87/410], Mar. 3, 1962, [76 Stat. 19][/us/stat/76/19]; [Pub. L. 87–451][/us/pl/87/451], §§ 1–3, May 15, 1962, [76 Stat. 70][/us/stat/76/70], provided that producers on any farm, except farms with a new farm wheat allotment, were entitled to payments if marketing quotas were in effect for the 1962 wheat crop, if they diverted certain acreage from wheat production, and if such diverted acreage were devoted to conservation uses; that the payments were to be made by the Commodity Credit Corporation in cash or wheat and computed as therein provided; that additional acreage could be diverted and payments made with respect thereto; that any diverted acreage was to be in addition to acreage diverted for conservation uses for which payment is made under any other federal program except that cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to 50 per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
+    [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 124, Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297], as amended by [Pub. L. 87–410][/us/pl/87/410], Mar. 3, 1962, [76 Stat. 19][/us/stat/76/19]; [Pub. L. 87–451][/us/pl/87/451], §§ 1–3, May 15, 1962, [76 Stat. 70][/us/stat/76/70], provided that producers on any farm, except farms with a new farm wheat allotment, were entitled to payments if marketing quotas were in effect for the 1962 wheat crop, if they diverted certain acreage from wheat production, and if such diverted acreage were devoted to conservation uses; that the payments were to be made by the Commodity Credit Corporation in cash or wheat and computed as therein provided; that additional acreage could be diverted and payments made with respect thereto; that any diverted acreage was to be in addition to acreage diverted for conservation uses for which payment is made under any other federal program except that cost-sharing payments under the agricultural conservation program or the Great Plains program were not precluded; that advance payments up to 50 per cent could be made; that wheat stored to avoid a marketing quota penalty was not to be released for underplanting based on such diverted acreage; that the Secretary could promulgate regulations; and that the Commodity Credit Corporation could use its capital funds and assets to make payments.
 
  __Acreage Allotment for 1954 Crop__ 
 
-    [Act July 14, 1953, ch. 194, § 4(a)][/us/act/1953-07-14/ch194/s4/a], [67 Stat. 152][/us/stat/67/152], provided that the National acreage allotment for the 1954 crop of wheat shall not be less than sixty-two million acres.
+    [Act July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 4(a), [67 Stat. 152][/us/stat/67/152], provided that the National acreage allotment for the 1954 crop of wheat shall not be less than sixty-two million acres.
 
  __Acreage Allotment for 1950 Crop__ 
 
-    [Act Aug. 29, 1949, ch. 518, § 5][/us/act/1949-08-29/ch518/s5], [63 Stat. 677][/us/stat/63/677], provided that the farm acreage allotment of wheat for 1950 crop for any farm was not to be less than the larger of—
+    [Act Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 5, [63 Stat. 677][/us/stat/63/677], provided that the farm acreage allotment of wheat for 1950 crop for any farm was not to be less than the larger of—
 
     (A) 50 per centum of—
 
@@ -281,7 +281,7 @@
 
  __Emergency Farm Acreage Allotment__ 
 
-    [Act Feb. 28, 1945, ch. 15][/us/act/1945-02-28/ch15], [59 Stat. 9][/us/stat/59/9], provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941. Such emergencies terminated on July 25, 1947, by the provisions of Joint Res. [July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451].
+    [Act Feb. 28, 1945, ch. 15][/us/act/1945-02-28/ch15], [59 Stat. 9][/us/stat/59/9], provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941. Such emergencies terminated on July 25, 1947, by the provisions of Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451].
 
 ----------
 
@@ -292,20 +292,20 @@
 
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
-[/us/pl/89/321/s501/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F6
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1201
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
 [/us/usc/t7/s1379b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379b
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F53
-[/us/act/1938-04-07/ch107/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107%2Fs7
+[/us/act/1938-04-07/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107
 [/us/stat/52/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F203
-[/us/act/1942-02-06/ch44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44%2Fs2
+[/us/act/1942-02-06/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44
 [/us/stat/56/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F52
-[/us/act/1953-07-14/ch194/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs1
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F151
-[/us/act/1954-01-30/ch2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-01-30%2Fch2%2Fs4
+[/us/act/1954-01-30/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-01-30%2Fch2
 [/us/stat/68/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F6
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F903
@@ -315,40 +315,40 @@
 [/us/stat/70/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F50
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F203
-[/us/act/1956-08-07/ch1030/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1030%2Fs2
+[/us/act/1956-08-07/ch1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1030
 [/us/stat/70/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1117
 [/us/pl/85/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F13
 [/us/stat/71/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F10
-[/us/pl/85/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203%2Fs2
+[/us/pl/85/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203
 [/us/stat/71/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F477
 [/us/pl/85/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366
 [/us/stat/72/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F78
 [/us/pl/85/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F390
 [/us/stat/72/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F101
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/85/835/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs501
+[/us/pl/85/835/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtV
 [/us/stat/72/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F996
 [/us/pl/86/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F385
 [/us/stat/74/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F4
 [/us/pl/86/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F419
 [/us/stat/74/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F39
-[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F296
 [/us/pl/87/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F357
 [/us/stat/75/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F778
-[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F618
 [/us/pl/88/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64
 [/us/stat/77/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F79
-[/us/pl/88/297/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F1
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F178
-[/us/pl/89/321/s501/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F3
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1199-1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1199-1201
 [/us/pl/90/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F243
 [/us/stat/81/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F781
 [/us/pl/91/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F220
 [/us/stat/84/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F86
-[/us/pl/99/198/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs304
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1379
 [/us/pl/87/128/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs124
 [/us/pl/87/703/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs307
@@ -365,43 +365,43 @@
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
 [/us/pl/90/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F243
-[/us/pl/89/321/s501/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F3
-[/us/pl/89/321/s501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F4
-[/us/pl/89/321/s501/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F5
-[/us/pl/89/321/s501/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F6
-[/us/pl/89/321/s501/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F7
-[/us/pl/88/297/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F1
-[/us/pl/88/297/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F2
-[/us/pl/88/297/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F3
-[/us/pl/88/297/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F4
-[/us/pl/88/297/s202/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F5
-[/us/pl/87/703/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313%2F2
-[/us/pl/88/64/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64%2Fs1%2Fa
-[/us/pl/88/64/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64%2Fs1%2Fa
-[/us/pl/87/703/s313/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313%2F4
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/88/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64
 [/us/pl/88/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
-[/us/pl/87/703/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313%2F2
+[/us/pl/88/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/usc/t7/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1377
-[/us/pl/87/703/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
-[/us/pl/88/64/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64%2Fs1%2Fa
-[/us/pl/87/703/s313/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313%2F4
-[/us/pl/87/128/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs121
-[/us/pl/87/128/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs125
+[/us/pl/88/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F64
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
+[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/pl/87/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F357
 [/us/pl/86/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F419
 [/us/pl/86/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F385
-[/us/pl/85/366/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366%2Fs1%2F1
-[/us/pl/85/366/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366%2Fs1%2F2
-[/us/pl/85/366/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366%2Fs1%2F3
+[/us/pl/85/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366
+[/us/pl/85/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366
+[/us/pl/85/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366
 [/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
-[/us/pl/85/366/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366%2Fs1%2F4
+[/us/pl/85/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F366
 [/us/pl/85/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F390
 [/us/pl/85/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F13
 [/us/usc/t7/s1821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1821%2Fa%2F1
 [/us/pl/85/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F203
-[/us/pl/99/198/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs304
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1379
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/89/321/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501
@@ -409,11 +409,11 @@
 [/us/pl/87/703/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs313
 [/us/pl/87/703/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs323
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301
-[/us/act/1956-08-07/ch1030/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1030%2Fs2
+[/us/act/1956-08-07/ch1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1030
 [/us/stat/70/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1117
 [/us/act/1955-02-19/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-02-19%2Fch8
 [/us/stat/69/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F9
-[/us/act/1953-07-14/ch194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs5
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F152
 [/us/usc/t7/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1340
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
@@ -430,30 +430,30 @@
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
 [/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/91/524/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F2
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
-[/us/pl/89/321/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs512
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
-[/us/pl/87/703/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs307
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F615
-[/us/pl/87/703/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs308%2Fb
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F618
 [/us/pl/87/703/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs307
-[/us/pl/87/128/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs124
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
 [/us/pl/87/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F410
 [/us/stat/76/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F19
 [/us/pl/87/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F451
 [/us/stat/76/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F70
-[/us/act/1953-07-14/ch194/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs4%2Fa
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F152
-[/us/act/1949-08-29/ch518/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs5
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F677
 [/us/act/1945-02-28/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-02-28%2Fch15
 [/us/stat/59/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F9
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 
 

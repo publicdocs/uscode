@@ -81,7 +81,7 @@
 
         In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.
 
-([Pub. L. 107–171, title X, § 10706][/us/pl/107/171/s10706], May 13, 2002, [116 Stat. 519][/us/stat/116/519].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10706, May 13, 2002, [116 Stat. 519][/us/stat/116/519].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 
 [/us/usc/t7/s1515/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1515%2Ff
 [/us/usc/t7/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1502%2Fb
-[/us/pl/107/171/s10706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10706
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F519
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F143

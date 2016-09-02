@@ -537,7 +537,7 @@
 
         The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out [section 6805 of this title][/us/usc/t7/s6805]).
 
-([Pub. L. 103–190, § 5][/us/pl/103/190/s5], Dec. 14, 1993, [107 Stat. 2272][/us/stat/107/2272].)
+([Pub. L. 103–190][/us/pl/103/190], § 5, Dec. 14, 1993, [107 Stat. 2272][/us/stat/107/2272].)
 
  __Transfer of Functions__ 
 
@@ -564,7 +564,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s6805/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6805%2Fb%2F3
 [/us/usc/t7/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6805
-[/us/pl/103/190/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs5
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2272
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

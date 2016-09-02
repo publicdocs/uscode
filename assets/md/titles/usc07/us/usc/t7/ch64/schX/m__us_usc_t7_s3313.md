@@ -17,7 +17,7 @@
 
     Except as provided elsewhere in this Act or any other Act of Congress, funds available for allotment under this chapter shall be paid to each eligible institution or State at such time and in such amounts as shall be determined by the Secretary.
 
-([Pub. L. 95–113, title XIV, § 1467][/us/pl/95/113/s1467], Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1467, Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1467
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1018
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 

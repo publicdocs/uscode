@@ -23,7 +23,7 @@
 
     (3) The term “entry” means entry, or withdrawal from warehouse, for consumption in the customs territory of the United States.
 
-([Pub. L. 96–236, § 1][/us/pl/96/236/s1], Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336].)
+([Pub. L. 96–236][/us/pl/96/236], § 1, Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/236/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236%2Fs1
+[/us/pl/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236
 [/us/stat/94/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F336
 
 

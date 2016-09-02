@@ -41,7 +41,7 @@
 
     (4) Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
 
-([Sept. 21, 1922, ch. 369, § 4n][/us/act/1922-09-21/ch369/s4n], as added [Pub. L. 93–463, title II, § 205(a)][/us/pl/93/463/s205/a], Oct. 23, 1974, [88 Stat. 1398][/us/stat/88/1398]; amended [Pub. L. 95–405, § 9][/us/pl/95/405/s9], Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title II, § 213][/us/pl/97/444/s213], Jan. 11, 1983, [96 Stat. 2305][/us/stat/96/2305].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4n, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 205(a), Oct. 23, 1974, [88 Stat. 1398][/us/stat/88/1398]; amended [Pub. L. 95–405][/us/pl/95/405], § 9, Sept. 30, 1978, [92 Stat. 870][/us/stat/92/870]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 213, Jan. 11, 1983, [96 Stat. 2305][/us/stat/96/2305].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     Par. (6). [Pub. L. 97–444][/us/pl/97/444] struck out par. (6) which authorized Commission to deny registration or revoke or suspend the registration of any commodity trading advisor or commodity pool operator if the Commission found that such denial, revocation, or suspension was in the public interest and that such person had been guilty of certain specified activities. See section 12a(2), (3), and (4) of this title.
 
-    1978—Par. (2). [Pub. L. 95–405, § 9(1)][/us/pl/95/405/s9/1]–(3), redesignated par. (3) as (2) and substituted “Each registration” for “All registrations” and inserted “or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe,” after “June of each year,”. Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
+    1978—Par. (2). [Pub. L. 95–405][/us/pl/95/405], § 9(1)–(3), redesignated par. (3) as (2) and substituted “Each registration” for “All registrations” and inserted “or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe,” after “June of each year,”. Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
 
-    Pars. (3) to (6). [Pub. L. 95–405, § 9(1)][/us/pl/95/405/s9/1], redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
+    Pars. (3) to (6). [Pub. L. 95–405][/us/pl/95/405], § 9(1), redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
 
  __Effective Date of 1983 Amendment__ 
 
@@ -72,17 +72,17 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4n
-[/us/pl/93/463/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs205%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1398
-[/us/pl/95/405/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs9
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F870
-[/us/pl/97/444/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs213
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2305
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
-[/us/pl/95/405/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs9%2F1
-[/us/pl/95/405/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs9%2F1
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs239
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2

@@ -19,7 +19,7 @@
 
     (b) The right of a producer to demand a refund under subsection (a) shall terminate if the proposed amendment of the order implementing the Cotton Research and Promotion Amendments Act of 1990 is approved in the referendum provided for under [section 2107 of this title][/us/usc/t7/s2107]. Such right shall terminate 30 days after the date the Secretary announces the results of such referendum if such proposed amendment is approved. Such right shall be reinstated if the amendment should be disapproved in any subsequent referendum.
 
-([Pub. L. 89–502, § 11][/us/pl/89/502/s11], July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX, § 1996][/us/pl/101/624/s1996], Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912]; [Pub. L. 102–237, title VIII, § 808(a)(4)][/us/pl/102/237/s808/a/4], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 89–502][/us/pl/89/502], § 11, July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1996, Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 808(a)(4), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t7/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2107
-[/us/pl/89/502/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs11
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F283
-[/us/pl/101/624/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1996
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3912
-[/us/pl/102/237/s808/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs808%2Fa%2F4
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3909

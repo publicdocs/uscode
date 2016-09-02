@@ -33,7 +33,7 @@
 
         Fruits, vegetables, and nuts may be purchased under this section in the form of frozen, canned, dried, or fresh fruits, vegetables, and nuts.
 
-([Pub. L. 110–234, title IV, § 4404][/us/pl/110/234/s4404], May 22, 2008, [122 Stat. 1137][/us/stat/122/1137]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899.)
+([Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4404, May 22, 2008, [122 Stat. 1137][/us/stat/122/1137]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899.)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t7/s612c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%934
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/110/234/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4404
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1137
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

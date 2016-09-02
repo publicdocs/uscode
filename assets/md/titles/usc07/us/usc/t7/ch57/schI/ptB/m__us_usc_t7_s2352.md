@@ -17,7 +17,7 @@
 
     The Secretary may by regulations prescribe the form of papers to be filed in the Plant Variety Protection Office.
 
-([Pub. L. 91–577, title I, § 22][/us/pl/91/577/s22], Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 22, Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs22
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1544
 
 

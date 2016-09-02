@@ -31,7 +31,7 @@
 
         For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $1,000,000 for deposit in the Fund.
 
-([Pub. L. 108–465, title IV, § 401][/us/pl/108/465/s401], Dec. 21, 2004, [118 Stat. 3886][/us/stat/118/3886].)
+([Pub. L. 108–465, title IV][/us/pl/108/465/tIV], § 401, Dec. 21, 2004, [118 Stat. 3886][/us/stat/118/3886].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
-[/us/pl/108/465/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465%2Fs401
+[/us/pl/108/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465%2FtIV
 [/us/stat/118/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3886
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

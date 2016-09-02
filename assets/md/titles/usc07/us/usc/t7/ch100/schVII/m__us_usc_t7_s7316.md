@@ -23,7 +23,7 @@
 
         A majority of the members of the Commission shall constitute a quorum for the transaction of business.
 
-([Pub. L. 104–127, title I, § 186][/us/pl/104/127/s186], Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 186, Apr. 4, 1996, [110 Stat. 941][/us/stat/110/941].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs186
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F941
 
 

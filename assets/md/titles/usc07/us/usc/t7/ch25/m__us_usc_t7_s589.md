@@ -27,7 +27,7 @@
 
     (5) The term “bulk container” means a container that contains a quantity of apples weighing more than 100 pounds.
 
-([June 10, 1933, ch. 59, § 9][/us/act/1933-06-10/ch59/s9], [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96, § 1(b)][/us/pl/106/96/s1/b], Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321]; [Pub. L. 113–79, title X, § 10009(b)][/us/pl/113/79/s10009/b], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 9, [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96][/us/pl/106/96], § 1(b), Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10009(b), Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs9
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
 [/us/stat/48/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F124
-[/us/pl/106/96/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96%2Fs1%2Fb
+[/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 [/us/stat/113/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1321
-[/us/pl/113/79/s10009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10009%2Fb
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F949
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96

@@ -85,7 +85,7 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2013.
 
-([Pub. L. 107–171, title IX, § 9009][/us/pl/107/171/s9009], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1324][/us/stat/122/1324], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2085; amended [Pub. L. 112–240, title VII, § 701(f)(8)][/us/pl/112/240/s701/f/8], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365].)
+([Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9009, as added [Pub. L. 110–234, title IX][/us/pl/110/234/tIX], § 9001(a), May 22, 2008, [122 Stat. 1324][/us/stat/122/1324], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2085; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(f)(8), Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365].)
 
  __Codification__ 
 
@@ -93,7 +93,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 8109, [Pub. L. 107–171, title IX, § 9011][/us/pl/107/171/s9011], as added [Pub. L. 108–199, div. A, title VII, § 778(b)][/us/pl/108/199/s778/b], Jan. 23, 2004, [118 Stat. 41][/us/stat/118/41], related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246]. See [section 8114 of this title][/us/usc/t7/s8114].
+    A prior section 8109, [Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9011, as added [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 778(b), Jan. 23, 2004, [118 Stat. 41][/us/stat/118/41], related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246]. See [section 8114 of this title][/us/usc/t7/s8114].
 
     A prior [section 9009 of Pub. L. 107–171][/us/pl/107/171/s9009] amended [section 6711 of this title][/us/usc/t7/s6711].
 
@@ -113,19 +113,19 @@
 ----------
 
 [/us/usc/t7/s1991/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fa%2F13%2FA
-[/us/pl/107/171/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9009
-[/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/110/234/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIX
 [/us/stat/122/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1324
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F8
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/107/171/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9011
-[/us/pl/108/199/s778/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs778%2Fb
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F41
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8114

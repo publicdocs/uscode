@@ -17,7 +17,7 @@
 
     The Commodity Credit Corporation may carry out a program under which commercial export credit guarantees available under [section 5622 of this title][/us/usc/t7/s5622] are combined with direct credits from the Commodity Credit Corporation under [section 5621 of this title][/us/usc/t7/s5621] to reduce the effective rate of interest on export sales of agricultural commodities.
 
-([Pub. L. 95–501, title II, § 205][/us/pl/95/501/s205], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3677][/us/stat/104/3677].)
+([Pub. L. 95–501, title II][/us/pl/95/501/tII], § 205, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3677][/us/stat/104/3677].)
 
 ----------
 
@@ -28,8 +28,8 @@
 
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
 [/us/usc/t7/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5621
-[/us/pl/95/501/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs205
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3677
 
 

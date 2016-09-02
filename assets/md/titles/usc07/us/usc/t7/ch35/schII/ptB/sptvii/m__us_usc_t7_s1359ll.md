@@ -23,7 +23,7 @@
 
         The Secretary shall administer flexible marketing allotments for sugar for the 2007 crop year for sugar on the terms and conditions provided in this subpart as in effect on the day before the date of enactment of this section.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359l, as added [Pub. L. 110–234, title I, § 1403(k)][/us/pl/110/234/s1403/k], May 22, 2008, [122 Stat. 989][/us/stat/122/989], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1717; amended [Pub. L. 113–79, title I, § 1301(b)(2)][/us/pl/113/79/s1301/b/2], Feb. 7, 2014, [128 Stat. 688][/us/stat/128/688].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359l, as added [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1403(k), May 22, 2008, [122 Stat. 989][/us/stat/122/989], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1403(k), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1717; amended [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1301(b)(2), Feb. 7, 2014, [128 Stat. 688][/us/stat/128/688].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/110/234/s1403/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1403%2Fk
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F989
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fb%2F2
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F688
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

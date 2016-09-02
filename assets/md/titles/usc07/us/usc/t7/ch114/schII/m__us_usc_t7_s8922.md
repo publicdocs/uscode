@@ -69,7 +69,7 @@
 
         (2) $5,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
-([Pub. L. 110–234, title XIV, § 14122][/us/pl/110/234/s14122], May 22, 2008, [122 Stat. 1456][/us/stat/122/1456]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14122, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2218; [Pub. L. 113–79, title VII, § 7504][/us/pl/113/79/s7504], Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901].)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14122, May 22, 2008, [122 Stat. 1456][/us/stat/122/1456]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14122, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2218; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7504, Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901].)
 
  __Codification__ 
 
@@ -90,11 +90,11 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14122
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1456
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7504
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F901
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

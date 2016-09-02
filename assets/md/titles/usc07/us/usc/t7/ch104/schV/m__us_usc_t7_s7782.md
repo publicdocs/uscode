@@ -27,7 +27,7 @@
 
         Subject to the availability of appropriations under [section 7786(b) of this title][/us/usc/t7/s7786/b], the Secretary shall enter into agreements under [section 7784 of this title][/us/usc/t7/s7784] with weed management entities to provide financial and technical assistance for the control or eradication of noxious weeds.
 
-([Pub. L. 106–224, title IV, § 453][/us/pl/106/224/s453], as added [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2321][/us/stat/118/2321].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 453, as added [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2321][/us/stat/118/2321].)
 
 ----------
 
@@ -40,8 +40,8 @@
 [/us/usc/t7/s7783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7783
 [/us/usc/t7/s7786/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7786%2Fb
 [/us/usc/t7/s7784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7784
-[/us/pl/106/224/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs453
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2321
 
 

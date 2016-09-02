@@ -99,7 +99,7 @@
 
         (2) the obligations of such department or agency with respect to the use of such funds.
 
-([Pub. L. 101–445, title I, § 103][/us/pl/101/445/s103], Oct. 22, 1990, [104 Stat. 1037][/us/stat/104/1037].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 103, Oct. 22, 1990, [104 Stat. 1037][/us/stat/104/1037].)
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/101/445/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs103
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1037
 
 

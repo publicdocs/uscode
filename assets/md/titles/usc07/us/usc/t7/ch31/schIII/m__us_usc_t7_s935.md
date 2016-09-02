@@ -197,25 +197,25 @@
 
                 A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be paragraph “(2)(A)(ii)”. </sup></sup>  and section 948(b)(4)(C)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be section “948(b)(4)(B)”. </sup></sup>  of this title, the Secretary and the Governor of the telephone bank may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 305, as added [Pub. L. 93–32, § 2][/us/pl/93/32/s2], May 11, 1973, [87 Stat. 68][/us/stat/87/68]; amended [Pub. L. 94–570, § 3][/us/pl/94/570/s3], Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701]; [Pub. L. 97–35, title I, § 165(a)][/us/pl/97/35/s165/a], Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379]; [Pub. L. 101–624, title XXIII, § 2361][/us/pl/101/624/s2361], Nov. 28, 1990, [104 Stat. 4042][/us/stat/104/4042]; [Pub. L. 103–129, § 2(a)(1)][/us/pl/103/129/s2/a/1], (c)(6), Nov. 1, 1993, [107 Stat. 1356][/us/stat/107/1356], 1364; [Pub. L. 103–354, title II, § 235(a)(8)][/us/pl/103/354/s235/a/8], (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 305, as added [Pub. L. 93–32][/us/pl/93/32], § 2, May 11, 1973, [87 Stat. 68][/us/stat/87/68]; amended [Pub. L. 94–570][/us/pl/94/570], § 3, Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 165(a), Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2361, Nov. 28, 1990, [104 Stat. 4042][/us/stat/104/4042]; [Pub. L. 103–129][/us/pl/103/129], § 2(a)(1), (c)(6), Nov. 1, 1993, [107 Stat. 1356][/us/stat/107/1356], 1364; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(8), (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” in heading for subsec. (c)(2)(C)(ii)(II) and wherever appearing in text.
 
-    1993—[Pub. L. 103–129, § 2(c)(6)(A)][/us/pl/103/129/s2/c/6/A], amended section catchline generally.
+    1993—[Pub. L. 103–129][/us/pl/103/129], § 2(c)(6)(A), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 103–129, § 2(c)(6)(A)][/us/pl/103/129/s2/c/6/A], inserted heading.
+    Subsec. (a). [Pub. L. 103–129][/us/pl/103/129], § 2(c)(6)(A), inserted heading.
 
-    Subsec. (b). [Pub. L. 103–129, § 2(a)(1)(A)][/us/pl/103/129/s2/a/1/A], (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: “Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that the Administrator may make insured loans to electric or telephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator’s sole discretion, the Administrator finds that the borrower—
+    Subsec. (b). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(1)(A), (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: “Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that the Administrator may make insured loans to electric or telephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator’s sole discretion, the Administrator finds that the borrower—
 
     “(1) has experienced extreme financial hardship; or
 
     “(2) cannot, in accordance with generally accepted management and accounting principles and without charging rates to its customers or subscribers so high as to create a substantial disparity between such rates and the rates charged for similar service in the same or nearby areas by other suppliers, provide service consistent with the objectives of this chapter.”
 
-    Subsec. (c). [Pub. L. 103–129, § 2(a)(1)(C)][/us/pl/103/129/s2/a/1/C], added subsec. (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(1)(C), added subsec. (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 103–129, § 2(a)(1)(A)][/us/pl/103/129/s2/a/1/A], (C), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Administrator shall make a telephone loan under this subchapter to an applicant therefor who is otherwise qualified to receive such a loan at the highest interest rate (but not less than the lowest interest rate, nor higher than the highest interest rate, specified in subsection (b) of this section) at which the borrower would be capable of producing net income or margins before interest payments of at least 100 percent (but not more than 150 percent) of the interest requirements on all of the applicant’s outstanding and proposed loans.”
+    Subsec. (d). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(1)(A), (C), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Administrator shall make a telephone loan under this subchapter to an applicant therefor who is otherwise qualified to receive such a loan at the highest interest rate (but not less than the lowest interest rate, nor higher than the highest interest rate, specified in subsection (b) of this section) at which the borrower would be capable of producing net income or margins before interest payments of at least 100 percent (but not more than 150 percent) of the interest requirements on all of the applicant’s outstanding and proposed loans.”
 
     1990—Subsec. (d). [Pub. L. 101–624][/us/pl/101/624] added subsec. (d).
 
@@ -225,13 +225,13 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title I, § 165(d)][/us/pl/97/35/s165/d], Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379], provided that: 
+[Pub. L. 97–35, title I][/us/pl/97/35/tI], § 165(d), Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply to loans the applications for which are received by the Rural Electrification Administration after July 24, 1981.”
 
  __Effective Date of 1976 Amendment; Interest Rate__ 
 
-[Pub. L. 94–570, § 4][/us/pl/94/570/s4], Oct. 20, 1976, [90 Stat. 2702][/us/stat/90/2702], provided that: 
+[Pub. L. 94–570][/us/pl/94/570], § 4, Oct. 20, 1976, [90 Stat. 2702][/us/stat/90/2702], provided that: 
 
 > “This Act \[amending this section and [section 931 of this title][/us/usc/t7/s931] and enacting provisions set out as a note under [section 901 of this title][/us/usc/t7/s901]\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\].”
 
@@ -252,30 +252,30 @@
 [/us/usc/t7/s948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/93/32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs2
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F68
-[/us/pl/94/570/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570%2Fs3
+[/us/pl/94/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570
 [/us/stat/90/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2701
-[/us/pl/97/35/s165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs165%2Fa
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F379
-[/us/pl/101/624/s2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2361
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4042
-[/us/pl/103/129/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F1
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1356
-[/us/pl/103/354/s235/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F8
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/129/s2/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F6%2FA
-[/us/pl/103/129/s2/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F6%2FA
-[/us/pl/103/129/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F1%2FA
-[/us/pl/103/129/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F1%2FC
-[/us/pl/103/129/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F1%2FA
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570
-[/us/pl/97/35/s165/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs165%2Fd
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F379
-[/us/pl/94/570/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570%2Fs4
+[/us/pl/94/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570
 [/us/stat/90/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2702
 [/us/usc/t7/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs931
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901

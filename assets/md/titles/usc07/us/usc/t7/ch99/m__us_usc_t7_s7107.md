@@ -85,7 +85,7 @@
 
         The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-([Pub. L. 103–407, § 8][/us/pl/103/407/s8], Oct. 22, 1994, [108 Stat. 4224][/us/stat/108/4224].)
+([Pub. L. 103–407][/us/pl/103/407], § 8, Oct. 22, 1994, [108 Stat. 4224][/us/stat/108/4224].)
 
 ----------
 
@@ -95,7 +95,7 @@
 ----------
 
 [/us/usc/t7/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7106
-[/us/pl/103/407/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs8
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4224
 
 

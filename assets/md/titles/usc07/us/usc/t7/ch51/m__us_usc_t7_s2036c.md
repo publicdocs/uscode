@@ -31,7 +31,7 @@
 
         Not later than 90 days after the completion in multiple States of a temporary pilot program to test the detection and prevention of duplicate participation by beneficiaries of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report assessing the feasibility, effectiveness, and cost for the expansion of the pilot program nationwide.
 
-([Pub. L. 113–79, title IV, § 4032][/us/pl/113/79/s4032], Feb. 7, 2014, [128 Stat. 817][/us/stat/128/817].)
+([Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4032, Feb. 7, 2014, [128 Stat. 817][/us/stat/128/817].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s2025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fa
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/113/79/s4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4032
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F817
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703

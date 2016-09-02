@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to preempt or interfere with the workings of any other program relating to wheat or wheat foods research or nutrition education organized and operating under the laws of the United States or any State.
 
-([Pub. L. 95–113, title XVII, § 1715][/us/pl/95/113/s1715], Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1715, Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1715
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1040
 
 

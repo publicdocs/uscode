@@ -89,7 +89,7 @@
 
             Nothing in this subsection prohibits the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-([Pub. L. 87–128, title III, § 384F][/us/pl/87/128/s384F], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 393][/us/stat/116/393]; amended [Pub. L. 110–234, title VI, § 6027(a)][/us/pl/110/234/s6027/a], May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6027(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1943.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384F, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 393][/us/stat/116/393]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6027(a), May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6027(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1943.)
 
  __Codification__ 
 
@@ -97,7 +97,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3)(A). [Pub. L. 110–246, § 6027(a)][/us/pl/110/246/s6027/a], added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
+    2008—Subsec. (b)(3)(A). [Pub. L. 110–246][/us/pl/110/246], § 6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -111,18 +111,18 @@
 ----------
 
 [/us/usc/t7/s2009g/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009g%2Fi
-[/us/pl/87/128/s384F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384F
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F393
-[/us/pl/110/234/s6027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6027%2Fa
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1182
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

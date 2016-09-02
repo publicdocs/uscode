@@ -33,7 +33,7 @@
 
         An accreditation made under this section shall be for a period of not to exceed 5 years, as determined appropriate by the Secretary, and may be renewed.
 
-([Pub. L. 101–624, title XXI, § 2115][/us/pl/101/624/s2115], Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2115, Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t7/s6515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6515
-[/us/pl/101/624/s2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2115
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3944
 
 

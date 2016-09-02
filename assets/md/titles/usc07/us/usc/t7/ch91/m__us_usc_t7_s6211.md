@@ -23,7 +23,7 @@
 
         The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provisions of an order issued under this chapter.
 
-([Pub. L. 101–624, title XIX, § 1962][/us/pl/101/624/s1962], Nov. 28, 1990, [104 Stat. 3880][/us/stat/104/3880].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1962, Nov. 28, 1990, [104 Stat. 3880][/us/stat/104/3880].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1962
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3880
 
 

@@ -15,7 +15,7 @@
 
 ## § 725. Repealed. [Feb. 10, 1936, ch. 42][/us/act/1936-02-10/ch42], [49 Stat. 1106][/us/stat/49/1106]
 
-    Section, [act Apr. 21, 1934, ch. 157, § 25][/us/act/1934-04-21/ch157/s25], as added [June 20, 1934, ch. 687][/us/act/1934-06-20/ch687], [48 Stat. 1184][/us/stat/48/1184], related to issuance of tax exemption certificates.
+    Section, [act Apr. 21, 1934, ch. 157][/us/act/1934-04-21/ch157], § 25, as added [June 20, 1934, ch. 687][/us/act/1934-06-20/ch687], [48 Stat. 1184][/us/stat/48/1184], related to issuance of tax exemption certificates.
 
  __Collection of Unpaid Taxes__ 
 
@@ -30,7 +30,7 @@
 
 [/us/act/1936-02-10/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-10%2Fch42
 [/us/stat/49/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1106
-[/us/act/1934-04-21/ch157/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-21%2Fch157%2Fs25
+[/us/act/1934-04-21/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-21%2Fch157
 [/us/act/1934-06-20/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-20%2Fch687
 [/us/stat/48/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1184
 [/us/act/1936-03-02/ch112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-02%2Fch112

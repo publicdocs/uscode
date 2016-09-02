@@ -47,13 +47,13 @@
 
         The provisions of [section 1571(i) of this title][/us/usc/t7/s1571/i] relative to the labeling of agricultural and vegetable seeds with the name of any substance used in the treatment of seeds shall not be deemed violated if the substance or substances used in such treatment could not be or were not identified because of their indistinguishability from the substance or substances intended to be used in the treatment of the seeds: Provided, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclosed that said person has taken reasonable precautions to insure the identity of the substance or substances to be as stated.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 203, [53 Stat. 1281][/us/stat/53/1281]; [Pub. L. 85–581, § 10][/us/pl/85/581/s10], Aug. 1, 1958, [72 Stat. 477][/us/stat/72/477]; [Pub. L. 89–686, § 12][/us/pl/89/686/s12], Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 203, [53 Stat. 1281][/us/stat/53/1281]; [Pub. L. 85–581][/us/pl/85/581], § 10, Aug. 1, 1958, [72 Stat. 477][/us/stat/72/477]; [Pub. L. 89–686][/us/pl/89/686], § 12, Oct. 15, 1966, [80 Stat. 978][/us/stat/80/978].)
 
  __Amendments__ 
 
-    1966—Subsec. (d). [Pub. L. 89–686, § 12(a)][/us/pl/89/686/s12/a], substituted “the kind or kind and variety of seeds”, “if there are seeds”, “: Provided, That”, and “reasonable precautions to insure the identity of the seed to be that stated” for “the kind or variety or type of seeds”, “if there be other seeds”, “, provided that”, and “proper precautions to insure the identity to be that stated”, respectively.
+    1966—Subsec. (d). [Pub. L. 89–686][/us/pl/89/686], § 12(a), substituted “the kind or kind and variety of seeds”, “if there are seeds”, “: Provided, That”, and “reasonable precautions to insure the identity of the seed to be that stated” for “the kind or variety or type of seeds”, “if there be other seeds”, “, provided that”, and “proper precautions to insure the identity to be that stated”, respectively.
 
-    Subsec. (e). [Pub. L. 89–686, § 12(b)][/us/pl/89/686/s12/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 89–686][/us/pl/89/686], § 12(b), added subsec. (e).
 
     1958—Subsec. (b). [Pub. L. 85–581][/us/pl/85/581] inserted references to [section 1571(i) of this title][/us/usc/t7/s1571/i] and eased labeling requirements with respect to shipment of seed in containers and in quantities of twenty thousand pounds or more.
 
@@ -72,12 +72,12 @@
 [/us/usc/t7/s1571/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1571%2Fi
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1281
-[/us/pl/85/581/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs10
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F477
-[/us/pl/89/686/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs12
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/stat/80/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F978
-[/us/pl/89/686/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs12%2Fa
-[/us/pl/89/686/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs12%2Fb
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/usc/t7/s1571/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1571%2Fi
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610

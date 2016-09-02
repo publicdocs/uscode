@@ -19,7 +19,7 @@
 
     (b) The Secretary shall designate one or more farmland information centers to serve as central depositories and distribution points for information on farmland issues, policies, programs, technical principles, and innovative actions or proposals by local and State governments.
 
-([Pub. L. 97–98, title XV, § 1544][/us/pl/97/98/s1544], Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1544, Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1544
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1343
 
 

@@ -41,7 +41,7 @@
 
         Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 
-([Pub. L. 110–234, title I, § 1208][/us/pl/110/234/s1208], May 22, 2008, [122 Stat. 963][/us/stat/122/963]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1692.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1208, May 22, 2008, [122 Stat. 963][/us/stat/122/963]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1208, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1692.)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1208
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F963
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -201,7 +201,7 @@
 
             Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
 
-([Pub. L. 88–525, § 12][/us/pl/88/525/s12], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 175, 176(a), Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781]; [Pub. L. 99–198, title XV, § 1532(a)][/us/pl/99/198/s1532/a], Dec. 23, 1985, [99 Stat. 1582][/us/stat/99/1582]; [Pub. L. 100–435, title III, § 344][/us/pl/100/435/s344], Sept. 19, 1988, [102 Stat. 1664][/us/stat/102/1664]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1743–1745, Nov. 28, 1990, [104 Stat. 3795][/us/stat/104/3795], 3796; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13943, 13944, Aug. 10, 1993, [107 Stat. 677][/us/stat/107/677]; [Pub. L. 104–127, title IV, § 401(a)][/us/pl/104/127/s401/a], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 841–843, Aug. 22, 1996, [110 Stat. 2331][/us/stat/110/2331], 2332; [Pub. L. 110–234, title IV, § 4132][/us/pl/110/234/s4132], May 22, 2008, [122 Stat. 1114][/us/stat/122/1114]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4132, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1875; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4017, 4030(g), Feb. 7, 2014, [128 Stat. 796][/us/stat/128/796], 814.)
+([Pub. L. 88–525][/us/pl/88/525], § 12, Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–253, title I][/us/pl/97/253/tI], §§ 175, 176(a), Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781]; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1532(a), Dec. 23, 1985, [99 Stat. 1582][/us/stat/99/1582]; [Pub. L. 100–435, title III][/us/pl/100/435/tIII], § 344, Sept. 19, 1988, [102 Stat. 1664][/us/stat/102/1664]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], §§ 1743–1745, Nov. 28, 1990, [104 Stat. 3795][/us/stat/104/3795], 3796; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], §§ 13943, 13944, Aug. 10, 1993, [107 Stat. 677][/us/stat/107/677]; [Pub. L. 104–127, title IV][/us/pl/104/127/tIV], § 401(a), Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], §§ 841–843, Aug. 22, 1996, [110 Stat. 2331][/us/stat/110/2331], 2332; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4132, May 22, 2008, [122 Stat. 1114][/us/stat/122/1114]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4132, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1875; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], §§ 4017, 4030(g), Feb. 7, 2014, [128 Stat. 796][/us/stat/128/796], 814.)
 
  __Codification__ 
 
@@ -209,63 +209,63 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3)(C). [Pub. L. 113–79, § 4030(g)(1)][/us/pl/113/79/s4030/g/1], substituted “civil penalties” for “civil money penalties”.
+    2014—Subsec. (b)(3)(C). [Pub. L. 113–79][/us/pl/113/79], § 4030(g)(1), substituted “civil penalties” for “civil money penalties”.
 
-    Subsec. (g)(1). [Pub. L. 113–79, § 4030(g)(2)][/us/pl/113/79/s4030/g/2], made technical amendment to reference in original act which appears in text as reference to [section 1786 of title 42][/us/usc/t42/s1786].
+    Subsec. (g)(1). [Pub. L. 113–79][/us/pl/113/79], § 4030(g)(2), made technical amendment to reference in original act which appears in text as reference to [section 1786 of title 42][/us/usc/t42/s1786].
 
-    Subsec. (i). [Pub. L. 113–79, § 4017][/us/pl/113/79/s4017], added subsec. (i).
+    Subsec. (i). [Pub. L. 113–79][/us/pl/113/79], § 4017, added subsec. (i).
 
-    2008—[Pub. L. 110–246, § 4132(1)][/us/pl/110/246/s4132/1], substituted “Civil penalties” for “Civil money penalties” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–246, § 4132(1)][/us/pl/110/246/s4132/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+    Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
-    Subsec. (b). [Pub. L. 110–246, § 4132(2)(A)][/us/pl/110/246/s4132/2/A], inserted heading and substituted “Subject to subsection (c), a disqualification” for “Disqualification” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 4132(2)(A), inserted heading and substituted “Subject to subsection (c), a disqualification” for “Disqualification” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 4132(2)(B)][/us/pl/110/246/s4132/2/B], substituted “not to exceed 5 years” for “of no less than six months nor more than five years”.
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 4132(2)(B), substituted “not to exceed 5 years” for “of no less than six months nor more than five years”.
 
-    Subsec. (b)(2). [Pub. L. 110–246, § 4132(2)(C)][/us/pl/110/246/s4132/2/C], substituted “not to exceed 10 years” for “of no less than twelve months nor more than ten years”.
+    Subsec. (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 4132(2)(C), substituted “not to exceed 10 years” for “of no less than twelve months nor more than ten years”.
 
-    Subsec. (b)(3)(B). [Pub. L. 110–246, § 4132(2)(D)][/us/pl/110/246/s4132/2/D], (E), in introductory provisions, inserted “or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards” after “wholesale food concern” and substituted “civil penalty” for “civil money penalty” and “civil penalties” for “civil money penalties”.
+    Subsec. (b)(3)(B). [Pub. L. 110–246][/us/pl/110/246], § 4132(2)(D), (E), in introductory provisions, inserted “or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards” after “wholesale food concern” and substituted “civil penalty” for “civil money penalty” and “civil penalties” for “civil money penalties”.
 
-    Subsec. (b)(3)(C). [Pub. L. 110–246, § 4132(2)(E)][/us/pl/110/246/s4132/2/E], substituted “civil penalty” for “civil money penalty”.
+    Subsec. (b)(3)(C). [Pub. L. 110–246][/us/pl/110/246], § 4132(2)(E), substituted “civil penalty” for “civil money penalty”.
 
-    Subsec. (c). [Pub. L. 110–246, § 4132(3)][/us/pl/110/246/s4132/3], inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted “civil penalty” for “civil money penalty” in text.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted “civil penalty” for “civil money penalty” in text.
 
-    Subsec. (d). [Pub. L. 110–246, § 4132(4)][/us/pl/110/246/s4132/4], inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted “A store or concern described in paragraph (4)” for “Such store or concern”, and struck out after subsec. designation “As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter.”
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted “A store or concern described in paragraph (4)” for “Such store or concern”, and struck out after subsec. designation “As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter.”
 
-    Subsec. (e). [Pub. L. 110–246, § 4132(5)][/us/pl/110/246/s4132/5], substituted “civil penalty” for “civil money penalty” wherever appearing.
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 4132(5), substituted “civil penalty” for “civil money penalty” wherever appearing.
 
-    Subsec. (h). [Pub. L. 110–246, § 4132(6)][/us/pl/110/246/s4132/6], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 4132(6), added subsec. (h).
 
-    1996—Subsec. (a). [Pub. L. 104–193, § 841][/us/pl/104/193/s841], inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+    1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
-    Subsec. (b)(3)(B). [Pub. L. 104–127, § 401(a)][/us/pl/104/127/s401/a], struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
+    Subsec. (b)(3)(B). [Pub. L. 104–127][/us/pl/104/127], § 401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
 
-    Subsec. (b)(4). [Pub. L. 104–193, § 842][/us/pl/104/193/s842], added par. (4).
+    Subsec. (b)(4). [Pub. L. 104–193][/us/pl/104/193], § 842, added par. (4).
 
-    Subsec. (g). [Pub. L. 104–193, § 843][/us/pl/104/193/s843], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 843, added subsec. (g).
 
-    1993—Subsec. (b)(3)(B). [Pub. L. 103–66, § 13943][/us/pl/103/66/s13943], substituted “for violations occurring during a single investigation” for “during a 2-year period”.
+    1993—Subsec. (b)(3)(B). [Pub. L. 103–66][/us/pl/103/66], § 13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
 
-    Subsec. (b)(3)(C). [Pub. L. 103–66, § 13944][/us/pl/103/66/s13944], substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
+    Subsec. (b)(3)(C). [Pub. L. 103–66][/us/pl/103/66], § 13944, substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
 
-    1990—Subsec. (b)(3). [Pub. L. 101–624, § 1743][/us/pl/101/624/s1743], in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
+    1990—Subsec. (b)(3). [Pub. L. 101–624][/us/pl/101/624], § 1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
 
-    Subsec. (e)(3). [Pub. L. 101–624, § 1744][/us/pl/101/624/s1744], added par. (3).
+    Subsec. (e)(3). [Pub. L. 101–624][/us/pl/101/624], § 1744, added par. (3).
 
-    Subsec. (f). [Pub. L. 101–624, § 1745][/us/pl/101/624/s1745], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 1745, added subsec. (f).
 
     1988—Subsec. (b)(3). [Pub. L. 100–435][/us/pl/100/435] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern.”
 
     1985—Subsec. (e). [Pub. L. 99–198][/us/pl/99/198] added subsec. (e).
 
-    1982—Subsec. (a). [Pub. L. 97–253, § 175(1)][/us/pl/97/253/s175/1]–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
+    1982—Subsec. (a). [Pub. L. 97–253][/us/pl/97/253], § 175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
 
-    Subsec. (b). [Pub. L. 97–253, § 175(3)][/us/pl/97/253/s175/3], added subsec. (b) relating to disqualification.
+    Subsec. (b). [Pub. L. 97–253][/us/pl/97/253], § 175(3), added subsec. (b) relating to disqualification.
 
-    Subsec. (c). [Pub. L. 97–253, § 175(4)][/us/pl/97/253/s175/4], redesignated last sentence as subsec. (c).
+    Subsec. (c). [Pub. L. 97–253][/us/pl/97/253], § 175(4), redesignated last sentence as subsec. (c).
 
-    Subsec. (d). [Pub. L. 97–253, § 176(a)][/us/pl/97/253/s176/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–253][/us/pl/97/253], § 176(a), added subsec. (d).
 
     1977—[Pub. L. 95–113][/us/pl/95/113] substituted revised provisions covering civil money penalties and disqualification of retail food stores and wholesale food concerns for provisions relating to the determination and disposition of claims which are now covered by [section 2022 of this title][/us/usc/t7/s2022].
 
@@ -297,7 +297,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+    [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 ----------
 
@@ -313,64 +313,64 @@
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
 [/us/usc/t7/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2023
 [/us/usc/t7/s2024/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2024%2Fg
-[/us/pl/88/525/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs12
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F707
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F974
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtI
 [/us/stat/96/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F781
-[/us/pl/99/198/s1532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1532%2Fa
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1582
-[/us/pl/100/435/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs344
+[/us/pl/100/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtIII
 [/us/stat/102/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1664
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3795
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F677
-[/us/pl/104/127/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs401%2Fa
+[/us/pl/104/127/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIV
 [/us/stat/110/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1026
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2331
-[/us/pl/110/234/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4132
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1114
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F796
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4030/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fg%2F1
-[/us/pl/113/79/s4030/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fg%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
-[/us/pl/113/79/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4017
-[/us/pl/110/246/s4132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F1
-[/us/pl/110/246/s4132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F1
-[/us/pl/110/246/s4132/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FA
-[/us/pl/110/246/s4132/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FB
-[/us/pl/110/246/s4132/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FC
-[/us/pl/110/246/s4132/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FD
-[/us/pl/110/246/s4132/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FE
-[/us/pl/110/246/s4132/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F3
-[/us/pl/110/246/s4132/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F4
-[/us/pl/110/246/s4132/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F5
-[/us/pl/110/246/s4132/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F6
-[/us/pl/104/193/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs841
-[/us/pl/104/127/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs401%2Fa
-[/us/pl/104/193/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs842
-[/us/pl/104/193/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs843
-[/us/pl/103/66/s13943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13943
-[/us/pl/103/66/s13944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13944
-[/us/pl/101/624/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1743
-[/us/pl/101/624/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1744
-[/us/pl/101/624/s1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1745
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/253/s175/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs175%2F1
-[/us/pl/97/253/s175/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs175%2F3
-[/us/pl/97/253/s175/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs175%2F4
-[/us/pl/97/253/s176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs176%2Fa
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022
 [/us/pl/110/246/s4115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fd
@@ -395,7 +395,7 @@
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/253/s193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs193%2Fa
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
 
 

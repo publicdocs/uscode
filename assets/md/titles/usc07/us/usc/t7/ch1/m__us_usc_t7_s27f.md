@@ -23,7 +23,7 @@
 
         Sections 27 to 27f of this title shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of a hybrid instrument that is predominantly a banking product.
 
-([Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title IV, § 408\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–461; [Pub. L. 111–203, title VII, § 725(g)(1)(C)][/us/pl/111/203/s725/g/1/C], July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title IV, § 408\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–461; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 725(g)(1)(C), July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–203, § 725(g)(1)(C)(ii)][/us/pl/111/203/s725/g/1/C/ii], (iii), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text of subsec. (b) read as follows: “No covered swap agreement shall be void, voidable, or unenforceable, and no party to a covered swap agreement shall be entitled to rescind, or recover any payment made with respect to, a covered swap agreement under any provision of Federal or State law, based solely on the failure of the covered swap agreement to comply with the terms or conditions of an exemption or exclusion from any provision of the Commodity Exchange Act or any regulation of the Commodity Futures Trading Commission.”
+    2010—Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 725(g)(1)(C)(ii), (iii), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text of subsec. (b) read as follows: “No covered swap agreement shall be void, voidable, or unenforceable, and no party to a covered swap agreement shall be entitled to rescind, or recover any payment made with respect to, a covered swap agreement under any provision of Federal or State law, based solely on the failure of the covered swap agreement to comply with the terms or conditions of an exemption or exclusion from any provision of the Commodity Exchange Act or any regulation of the Commodity Futures Trading Commission.”
 
-    Subsec. (c). [Pub. L. 111–203, § 725(g)(1)(C)(iii)][/us/pl/111/203/s725/g/1/C/iii], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 725(g)(1)(C)(iii), redesignated subsec. (c) as (b).
 
-    [Pub. L. 111–203, § 725(g)(1)(C)(i)][/us/pl/111/203/s725/g/1/C/i], substituted “in the case of” for “in the case of—”, struck out par. (1) designation before “a hybrid”, substituted “product.” for “product; or”, and struck out par. (2) which read as follows: “a covered swap agreement.”
+    [Pub. L. 111–203][/us/pl/111/203], § 725(g)(1)(C)(i), substituted “in the case of” for “in the case of—”, struck out par. (1) designation before “a hybrid”, substituted “product.” for “product; or”, and struck out par. (2) which read as follows: “a covered swap agreement.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -54,16 +54,16 @@
 
 [/us/usc/t7/s27c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs27c%2Fb
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s725/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F1%2FC
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1694
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/111/203/s725/g/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F1%2FC%2Fii
-[/us/pl/111/203/s725/g/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F1%2FC%2Fiii
-[/us/pl/111/203/s725/g/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F1%2FC%2Fi
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter $75,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 101–624, title XXIII, § 2335A][/us/pl/101/624/s2335A], as added [Pub. L. 104–127, title VII, § 704][/us/pl/104/127/s704], Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112]; amended [Pub. L. 107–171, title VI, § 6203(a)][/us/pl/107/171/s6203/a], May 13, 2002, [116 Stat. 421][/us/stat/116/421]; [Pub. L. 110–234, title VI, § 6201(b)][/us/pl/110/234/s6201/b], May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6201(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967; [Pub. L. 113–79, title VI, § 6201(a)][/us/pl/113/79/s6201/a], Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856].)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2335A, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 704, Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112]; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6203(a), May 13, 2002, [116 Stat. 421][/us/stat/116/421]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6201(b), May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6201(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6201(a), Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856].)
 
  __Termination of Section__ 
 
@@ -29,13 +29,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 950aaa–5, [Pub. L. 101–624, title XXIII, § 2335A][/us/pl/101/624/s2335A], as added [Pub. L. 102–551, § 1(a)][/us/pl/102/551/s1/a], Oct. 28, 1992, [106 Stat. 4098][/us/stat/106/4098]; amended [Pub. L. 103–354, title II, § 235(b)(4)(C)][/us/pl/103/354/s235/b/4/C], Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222], related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 950aaa–5, [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2335A, as added [Pub. L. 102–551][/us/pl/102/551], § 1(a), Oct. 28, 1992, [106 Stat. 4098][/us/stat/106/4098]; amended [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(4)(C), Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222], related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
 
     2014—[Pub. L. 113–79][/us/pl/113/79] substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
 
-    2008—[Pub. L. 110–246, § 6201(b)][/us/pl/110/246/s6201/b], substituted “2012” for “2007”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 6201(b), substituted “2012” for “2007”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002”.
 
@@ -50,16 +50,16 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2335A
-[/us/pl/104/127/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs704
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1112
-[/us/pl/107/171/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6203%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F421
-[/us/pl/110/234/s6201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6201%2Fb
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1206
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6201%2Fa
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F856
 [/us/pl/102/551/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F551%2Fs1%2Fb
 [/us/usc/t7/s950aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950aaa
@@ -67,14 +67,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/101/624/s2335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2335A
-[/us/pl/102/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F551%2Fs1%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
+[/us/pl/102/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F551
 [/us/stat/106/4098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4098
-[/us/pl/103/354/s235/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F4%2FC
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3222
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s6201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6201%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

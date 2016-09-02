@@ -29,7 +29,7 @@
 
     (f) To conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by this chapter.
 
-([Pub. L. 90–288, § 4][/us/pl/90/288/s4], Apr. 16, 1968, [82 Stat. 94][/us/stat/82/94].)
+([Pub. L. 90–288][/us/pl/90/288], § 4, Apr. 16, 1968, [82 Stat. 94][/us/stat/82/94].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/90/288/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs4
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F94
 
 

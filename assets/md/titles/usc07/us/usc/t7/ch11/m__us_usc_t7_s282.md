@@ -17,7 +17,7 @@
 
     Any person who violates any provision of [section 281 of this title][/us/usc/t7/s281] or any regulation issued under it is guilty of an offense against the United States and shall, upon conviction, be fined not more than $1,000, or imprisoned for not more than one year, or both.
 
-([Aug. 31, 1922, ch. 301, § 2][/us/act/1922-08-31/ch301/s2], [42 Stat. 834][/us/stat/42/834]; [Pub. L. 94–319, § 2][/us/pl/94/319/s2], June 25, 1976, [90 Stat. 709][/us/stat/90/709].)
+([Aug. 31, 1922, ch. 301][/us/act/1922-08-31/ch301], § 2, [42 Stat. 834][/us/stat/42/834]; [Pub. L. 94–319][/us/pl/94/319], § 2, June 25, 1976, [90 Stat. 709][/us/stat/90/709].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t7/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs281
-[/us/act/1922-08-31/ch301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301%2Fs2
+[/us/act/1922-08-31/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301
 [/us/stat/42/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F834
-[/us/pl/94/319/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319%2Fs2
+[/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 [/us/stat/90/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F709
 [/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 

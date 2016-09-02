@@ -57,7 +57,7 @@
 
             Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
 
-([Pub. L. 95–113, title XIV, § 1449][/us/pl/95/113/s1449], as added [Pub. L. 105–185, title II, § 226(a)][/us/pl/105/185/s226/a], June 23, 1998, [112 Stat. 542][/us/stat/112/542]; amended [Pub. L. 107–171, title VII, § 7212][/us/pl/107/171/s7212], May 13, 2002, [116 Stat. 447][/us/stat/116/447]; [Pub. L. 110–234, title VII, § 7127][/us/pl/110/234/s7127], May 22, 2008, [122 Stat. 1223][/us/stat/122/1223]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7127, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1984.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1449, as added [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 226(a), June 23, 1998, [112 Stat. 542][/us/stat/112/542]; amended [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7212, May 13, 2002, [116 Stat. 447][/us/stat/116/447]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7127, May 22, 2008, [122 Stat. 1223][/us/stat/122/1223]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7127, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1984.)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 7127][/us/pl/110/246/s7127], substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 7127, substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
 
     “(1) 60 percent of the formula funds to be distributed to the eligible institution for fiscal year 2003;
 
@@ -81,7 +81,7 @@
 
     “(5) 100 percent of the formula funds to be distributed to the eligible institution for fiscal year 2007 and each fiscal year thereafter.”
 
-    2002—Subsec. (c). [Pub. L. 107–171, § 7212(1)][/us/pl/107/171/s7212/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
+    2002—Subsec. (c). [Pub. L. 107–171][/us/pl/107/171], § 7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
 
     “(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
 
@@ -89,7 +89,7 @@
 
     “(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution.”
 
-    Subsec. (d). [Pub. L. 107–171, § 7212(2)][/us/pl/107/171/s7212/2], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 107–171][/us/pl/107/171], § 7212(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
     “(1) Fiscal year 2000.—Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c)(1) of this section for fiscal year 2000 for an eligible institution of a State if the Secretary determines that, based on the report received under subsection (b) of this section, the State will be unlikely to satisfy the matching requirement.
 
@@ -107,14 +107,14 @@
 ----------
 
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/95/113/s1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1449
-[/us/pl/105/185/s226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F542
-[/us/pl/107/171/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7212
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F447
-[/us/pl/110/234/s7127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7127
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1223
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
@@ -123,9 +123,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7127
-[/us/pl/107/171/s7212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7212%2F1
-[/us/pl/107/171/s7212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7212%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

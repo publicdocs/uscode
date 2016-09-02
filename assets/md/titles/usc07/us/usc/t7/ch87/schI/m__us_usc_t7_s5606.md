@@ -21,7 +21,7 @@
 
     (2) transmit a copy of the evaluation to the Committee on Agriculture, and the Committee on Ways and Means, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Finance, of the Senate.
 
-([Pub. L. 95–501, title I, § 106][/us/pl/95/501/s106], as added [Pub. L. 104–127, title II, § 242(a)][/us/pl/104/127/s242/a], Apr. 4, 1996, [110 Stat. 964][/us/stat/110/964].)
+([Pub. L. 95–501, title I][/us/pl/95/501/tI], § 106, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 242(a), Apr. 4, 1996, [110 Stat. 964][/us/stat/110/964].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/501/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs106
-[/us/pl/104/127/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs242%2Fa
+[/us/pl/95/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtI
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F964
 
 

@@ -339,7 +339,7 @@
 
         Loans and advances made under this section on or after November 5, 1990, shall bear interest at a rate determined under this section, taking into account all assets and liabilities of the telephone bank. This subsection shall not apply to loans obligated before November 1, 1993. Funds are not authorized to be appropriated to carry out this subsection until the funds are appropriated in advance to carry out this subsection.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 408, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 35][/us/stat/85/35]; amended [Pub. L. 93–32][/us/pl/93/32], §§ 8, 9, May 11, 1973, [87 Stat. 70][/us/stat/87/70], 71; [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1411(b)(1), (c), 1412, Dec. 22, 1987, [101 Stat. 1330–22][/us/stat/101/1330-22], 1330–23, 1330–26; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2365, 2366, 2367(b), Nov. 28, 1990, [104 Stat. 4044][/us/stat/104/4044]; [Pub. L. 103–129, § 2(a)(2)][/us/pl/103/129/s2/a/2], Nov. 1, 1993, [107 Stat. 1361][/us/stat/107/1361]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–66, title I, § 1011(y)][/us/pl/104/66/s1011/y], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 408, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 35][/us/stat/85/35]; amended [Pub. L. 93–32][/us/pl/93/32], §§ 8, 9, May 11, 1973, [87 Stat. 70][/us/stat/87/70], 71; [Pub. L. 100–203, title I][/us/pl/100/203/tI], §§ 1411(b)(1), (c), 1412, Dec. 22, 1987, [101 Stat. 1330–22][/us/stat/101/1330-22], 1330–23, 1330–26; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], §§ 2365, 2366, 2367(b), Nov. 28, 1990, [104 Stat. 4044][/us/stat/104/4044]; [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2), Nov. 1, 1993, [107 Stat. 1361][/us/stat/107/1361]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(y), Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711].)
 
  __Amendments__ 
 
@@ -347,35 +347,35 @@
 
     1994—Subsecs. (a), (b)(4)(B). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–129, § 2(a)(2)(A)][/us/pl/103/129/s2/a/2/A], substituted “acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service” for “purposes of financing, or refinancing, the construction, improvement, expansion, acquisition, and operation of telephone lines, facilities, or systems, in order to improve the efficiency, effectiveness, or financial stability of borrowers financed under [section 922 of this title][/us/usc/t7/s922] and this section”.
+    1993—Subsec. (a)(2). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2)(A), substituted “acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service” for “purposes of financing, or refinancing, the construction, improvement, expansion, acquisition, and operation of telephone lines, facilities, or systems, in order to improve the efficiency, effectiveness, or financial stability of borrowers financed under [section 922 of this title][/us/usc/t7/s922] and this section”.
 
-    Subsec. (b)(4). [Pub. L. 103–129, § 2(a)(2)(B)(i)][/us/pl/103/129/s2/a/2/B/i], added par. (4) and struck out former par. (4) which related to adequacy of security and capacity for repayment of loans made under this section.
+    Subsec. (b)(4). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2)(B)(i), added par. (4) and struck out former par. (4) which related to adequacy of security and capacity for repayment of loans made under this section.
 
-    Subsec. (b)(8)(A). [Pub. L. 103–129, § 2(a)(2)(B)(ii)][/us/pl/103/129/s2/a/2/B/ii], designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
+    Subsec. (b)(8)(A). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2)(B)(ii), designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
 
-    Subsec. (b)(9), (10). [Pub. L. 103–129, § 2(a)(2)(B)(iii)][/us/pl/103/129/s2/a/2/B/iii], added pars. (9) and (10).
+    Subsec. (b)(9), (10). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2)(B)(iii), added pars. (9) and (10).
 
-    Subsec. (e). [Pub. L. 103–129, § 2(a)(2)(C)][/us/pl/103/129/s2/a/2/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–129][/us/pl/103/129], § 2(a)(2)(C), added subsec. (e).
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 2365][/us/pl/101/624/s2365], substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 2365, substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
 
-    Subsec. (b)(3)(B). [Pub. L. 101–624, § 2367(b)(1)][/us/pl/101/624/s2367/b/1], substituted “the date of enactment of this subparagraph” for “the date of enactment of this paragraph” in the original text before “advances”, which was translated as “December 22, 1987”, requiring no change in text.
+    Subsec. (b)(3)(B). [Pub. L. 101–624][/us/pl/101/624], § 2367(b)(1), substituted “the date of enactment of this subparagraph” for “the date of enactment of this paragraph” in the original text before “advances”, which was translated as “December 22, 1987”, requiring no change in text.
 
-    Subsec. (b)(3)(D)(ii). [Pub. L. 101–624, § 2367(b)(2)][/us/pl/101/624/s2367/b/2], inserted “For purposes of the calculation under this subparagraph, such rate shall be zero.”
+    Subsec. (b)(3)(D)(ii). [Pub. L. 101–624][/us/pl/101/624], § 2367(b)(2), inserted “For purposes of the calculation under this subparagraph, such rate shall be zero.”
 
-    Subsec. (b)(3)(E). [Pub. L. 101–624, § 2367(b)(3)][/us/pl/101/624/s2367/b/3], substituted “paragraph” for “subparagraph” after “of this”.
+    Subsec. (b)(3)(E). [Pub. L. 101–624][/us/pl/101/624], § 2367(b)(3), substituted “paragraph” for “subparagraph” after “of this”.
 
-    Subsec. (d). [Pub. L. 101–624, § 2366][/us/pl/101/624/s2366], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 2366, added subsec. (d).
 
-    1987—Subsec. (b)(3). [Pub. L. 100–203, § 1411(c)][/us/pl/100/203/s1411/c], designated existing provisions as subpar. (A) and added subpars. (B) to (J).
+    1987—Subsec. (b)(3). [Pub. L. 100–203][/us/pl/100/203], § 1411(c), designated existing provisions as subpar. (A) and added subpars. (B) to (J).
 
-    Subsec. (b)(4). [Pub. L. 100–203, § 1412][/us/pl/100/203/s1412], inserted at end “For purposes of determining the creditworthiness of a borrower for a loan under this paragraph, the Governor shall assume that the loan, if made, would bear interest at a rate equal to the average yield (on the date of the determination) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the loan.”
+    Subsec. (b)(4). [Pub. L. 100–203][/us/pl/100/203], § 1412, inserted at end “For purposes of determining the creditworthiness of a borrower for a loan under this paragraph, the Governor shall assume that the loan, if made, would bear interest at a rate equal to the average yield (on the date of the determination) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the loan.”
 
-    Subsec. (b)(8). [Pub. L. 100–203, § 1411(b)(1)][/us/pl/100/203/s1411/b/1], added par. (8).
+    Subsec. (b)(8). [Pub. L. 100–203][/us/pl/100/203], § 1411(b)(1), added par. (8).
 
-    1973—Subsec. (a). [Pub. L. 93–32, § 8][/us/pl/93/32/s8], inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
+    1973—Subsec. (a). [Pub. L. 93–32][/us/pl/93/32], § 8, inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
 
-    Subsec. (b)(3). [Pub. L. 93–32, § 9][/us/pl/93/32/s9], substituted provisions for a “cost of money rate” of interest with a “not less than 5 per centum per annum” limit on such rate, for provisions for interest “at the highest rate which meets the requirements set forth in paragraph (4), consistent with the borrower’s ability to pay such interest rate and with achievement of the objectives of this chapter” with a “not less than 4 per centum per annum” limit on such rate.
+    Subsec. (b)(3). [Pub. L. 93–32][/us/pl/93/32], § 9, substituted provisions for a “cost of money rate” of interest with a “not less than 5 per centum per annum” limit on such rate, for provisions for interest “at the highest rate which meets the requirements set forth in paragraph (4), consistent with the borrower’s ability to pay such interest rate and with achievement of the objectives of this chapter” with a “not less than 4 per centum per annum” limit on such rate.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -391,7 +391,7 @@
 
  __Congressional Findings Covering Interest Rates and Loan Prepayments__ 
 
-[Pub. L. 100–203, title I, § 1411(a)][/us/pl/100/203/s1411/a], Dec. 22, 1987, [101 Stat. 1330–22][/us/stat/101/1330-22], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1411(a), Dec. 22, 1987, [101 Stat. 1330–22][/us/stat/101/1330-22], provided that: 
 
 > “Congress finds that—
 
@@ -403,7 +403,7 @@
 
  __Prepayment Regulations__ 
 
-[Pub. L. 100–203, title I, § 1411(b)(2)][/us/pl/100/203/s1411/b/2], Dec. 22, 1987, [101 Stat. 1330–23][/us/stat/101/1330-23], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1411(b)(2), Dec. 22, 1987, [101 Stat. 1330–23][/us/stat/101/1330-23], provided that: 
 
 > “The Governor of the Rural Telephone Bank shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\] within 30 days after the date of enactment of this Act \[Dec. 22, 1987\]. Such regulations shall implement the amendment made by paragraph (1) without the addition of any restrictions not set forth in such amendment.”
 
@@ -434,38 +434,38 @@
 [/us/usc/t7/s935/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935%2Fd%2F2
 [/us/usc/t7/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs904
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F35
 [/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-22
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4044
-[/us/pl/103/129/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1361
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
-[/us/pl/104/66/s1011/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fy
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F711
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/129/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2%2FA
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/usc/t7/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs922
-[/us/pl/103/129/s2/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2%2FB%2Fi
-[/us/pl/103/129/s2/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2%2FB%2Fii
-[/us/pl/103/129/s2/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2%2FB%2Fiii
-[/us/pl/103/129/s2/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fa%2F2%2FC
-[/us/pl/101/624/s2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2365
-[/us/pl/101/624/s2367/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2367%2Fb%2F1
-[/us/pl/101/624/s2367/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2367%2Fb%2F2
-[/us/pl/101/624/s2367/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2367%2Fb%2F3
-[/us/pl/101/624/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2366
-[/us/pl/100/203/s1411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1411%2Fc
-[/us/pl/100/203/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1412
-[/us/pl/100/203/s1411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1411%2Fb%2F1
-[/us/pl/93/32/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs8
-[/us/pl/93/32/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs9
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/pl/101/624/s2367/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2367%2Fb
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/101/624/s2368/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2368%2Fb
@@ -475,11 +475,11 @@
 [/us/usc/t7/s930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs930
 [/us/pl/92/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs7
 [/us/usc/t7/s921a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs921a
-[/us/pl/100/203/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1411%2Fa
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-22
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/100/203/s1411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1411%2Fb%2F2
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-23
 
 

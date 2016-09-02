@@ -17,7 +17,7 @@
 
     Every owner not residing in the United States may file in the Plant Variety Protection Office a written designation stating the name and address of a person residing within the United States on whom may be served process or notice of proceedings affecting the plant variety protection or rights thereunder. If the person designated cannot be found at the address given in the last designation, or if no person has been designated, the United States District Court for the District of Columbia shall have jurisdiction and summons shall be served by publication or otherwise as the court directs. The court shall have the same jurisdiction to take any action respecting the plant variety protection, or rights thereunder that it would have if the owner were personally within the jurisdiction of the court.
 
-([Pub. L. 91–577, title III, § 129][/us/pl/91/577/s129], Dec. 24, 1970, [84 Stat. 1557][/us/stat/84/1557].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 129, Dec. 24, 1970, [84 Stat. 1557][/us/stat/84/1557].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs129
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1557
 
 

@@ -17,7 +17,7 @@
 
     This subpart shall apply to the publication and review of farm marketing quotas established for corn, wheat, cotton, and rice, established under part B of this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 361, [52 Stat. 62][/us/stat/52/62]; [Apr. 3, 1941, ch. 39, § 4][/us/act/1941-04-03/ch39/s4], [55 Stat. 92][/us/stat/55/92]; [Pub. L. 107–171, title I, § 1309(h)(1)][/us/pl/107/171/s1309/h/1], May 13, 2002, [116 Stat. 181][/us/stat/116/181]; [Pub. L. 108–357, title VI, § 611(h)][/us/pl/108/357/s611/h], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 361, [52 Stat. 62][/us/stat/52/62]; [Apr. 3, 1941, ch. 39][/us/act/1941-04-03/ch39], § 4, [55 Stat. 92][/us/stat/55/92]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309(h)(1), May 13, 2002, [116 Stat. 181][/us/stat/116/181]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(h), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F62
-[/us/act/1941-04-03/ch39/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39%2Fs4
+[/us/act/1941-04-03/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-03%2Fch39
 [/us/stat/55/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F92
-[/us/pl/107/171/s1309/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fh%2F1
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F181
-[/us/pl/108/357/s611/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fh
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

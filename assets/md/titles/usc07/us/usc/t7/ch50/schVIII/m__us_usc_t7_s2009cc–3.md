@@ -111,7 +111,7 @@
 
                 An applicant approved under subparagraph (A) shall be eligible for grants under [section 2009cc–7 of this title][/us/usc/t7/s2009cc–7] in proportion to the private capital of the applicant, as determined by the Secretary.
 
-([Pub. L. 87–128, title III, § 384D][/us/pl/87/128/s384D], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 391][/us/stat/116/391].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384D, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 391][/us/stat/116/391].)
 
 ----------
 
@@ -124,8 +124,8 @@
 [/us/usc/t7/s2009cc–8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%938%2Fc
 [/us/usc/t7/s2009cc–8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%938%2Fc
 [/us/usc/t7/s2009cc–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009cc%E2%80%937
-[/us/pl/87/128/s384D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384D
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F391
 
 

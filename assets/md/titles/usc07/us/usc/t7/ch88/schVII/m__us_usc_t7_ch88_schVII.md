@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch88/schVI/m__us_usc_t7_ch88_schVI.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch88%2FschVII)
+[Previous](./../../../../..//us/usc/t7/ch88/schVI/m__us_usc_t7_s5901...5909.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch88%2FschVII)
 
 ### SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch88/schVI/m__us_usc_t7_ch88_schVI.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch88%2FschVII)
+[Previous](./../../../../..//us/usc/t7/ch88/schVI/m__us_usc_t7_s5901...5909.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch88%2FschVII)
 
 ----------
 ----------

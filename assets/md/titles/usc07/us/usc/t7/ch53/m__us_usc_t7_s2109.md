@@ -31,7 +31,7 @@
 
         The disapproval of any amendment to an order issued under this chapter shall not be deemed to invalidate such order.
 
-([Pub. L. 89–502, § 10][/us/pl/89/502/s10], July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX, § 1995][/us/pl/101/624/s1995], Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912]; [Pub. L. 102–237, title VIII, § 808(a)(3)][/us/pl/102/237/s808/a/3], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 89–502][/us/pl/89/502], § 10, July 13, 1966, [80 Stat. 283][/us/stat/80/283]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1995, Nov. 28, 1990, [104 Stat. 3912][/us/stat/104/3912]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 808(a)(3), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t7/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2107
-[/us/pl/89/502/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs10
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F283
-[/us/pl/101/624/s1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1995
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3912
-[/us/pl/102/237/s808/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs808%2Fa%2F3
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

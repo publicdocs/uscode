@@ -31,7 +31,7 @@
 
         No later than December 15 of each fiscal year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 614, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662]; as amended [Pub. L. 102–237, title III, § 330][/us/pl/102/237/s330], Dec. 13, 1991, [105 Stat. 1858][/us/stat/105/1858]; [Pub. L. 102–532, § 3][/us/pl/102/532/s3], Oct. 27, 1992, [106 Stat. 3512][/us/stat/106/3512].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 614, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3662][/us/stat/104/3662]; as amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 330, Dec. 13, 1991, [105 Stat. 1858][/us/stat/105/1858]; [Pub. L. 102–532][/us/pl/102/532], § 3, Oct. 27, 1992, [106 Stat. 3512][/us/stat/106/3512].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3662
-[/us/pl/102/237/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs330
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1858
-[/us/pl/102/532/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs3
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3512
 [/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

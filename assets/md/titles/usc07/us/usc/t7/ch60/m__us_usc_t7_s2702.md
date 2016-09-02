@@ -57,7 +57,7 @@
 
     (t) The term “handler” means any person, specified in the order or the rules and regulations issued thereunder, who receives or otherwise acquires eggs from an egg producer, and processes, prepares for marketing, or markets, such eggs, including eggs of his own production.
 
-([Pub. L. 93–428, § 3][/us/pl/93/428/s3], Oct. 1, 1974, [88 Stat. 1172][/us/stat/88/1172].)
+([Pub. L. 93–428][/us/pl/93/428], § 3, Oct. 1, 1974, [88 Stat. 1172][/us/stat/88/1172].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/93/428/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs3
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1172
 
 

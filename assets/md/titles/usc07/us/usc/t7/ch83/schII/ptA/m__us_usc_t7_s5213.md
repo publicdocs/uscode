@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_ch83_schII_ptA.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5211 _us_usc_t7_s5212.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
 
 ## § 5213. Joint development assistance agreements with certain trading partners
 
@@ -23,16 +23,16 @@
 
         The President may enter into an agreement with any country that has a positive trade balance with the United States under which that country would purchase United States agricultural commodities or products for use in agreed-on development activities in developing countries.
 
-([Pub. L. 100–418, title IV, § 4203][/us/pl/100/418/s4203], Aug. 23, 1988, [102 Stat. 1392][/us/stat/102/1392].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4203, Aug. 23, 1988, [102 Stat. 1392][/us/stat/102/1392].)
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_ch83_schII_ptA.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5211 _us_usc_t7_s5212.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
 
 ----------
 ----------
 
-[/us/pl/100/418/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4203
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1392
 
 

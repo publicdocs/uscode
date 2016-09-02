@@ -27,7 +27,7 @@
 
         Using authorities under [section 1308(h) of this title][/us/usc/t7/s1308/h] and subtitle H of the Department of Agriculture Reorganization Act ([7 U.S.C. 6991][/us/usc/t7/s6991] et seq.), the Secretary shall promulgate regulations to provide for administrative appeals of decisions of the Secretary that are adverse to participants of the margin protection program.
 
-([Pub. L. 113–79, title I, § 1410][/us/pl/113/79/s1410], Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1410, Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t7/s1308/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fh
 [/us/usc/t7/s6991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6991
-[/us/pl/113/79/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1410
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F693
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209

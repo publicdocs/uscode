@@ -17,7 +17,7 @@
 
     The Secretary shall give reasonable notice through one or more trade papers of the effective date of standards of export established or designated by him under this chapter: Provided, That any grapes or plums may be certified and shipped for export in fulfillment of any contract made within two months prior to the date of such shipment if the terms of such contract were in accordance with the grades and regulations of the Secretary in effect at the time the contract was made.
 
-([Pub. L. 86–687, § 2][/us/pl/86/687/s2], Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734].)
+([Pub. L. 86–687][/us/pl/86/687], § 2, Sept. 2, 1960, [74 Stat. 734][/us/stat/74/734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/687/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687%2Fs2
+[/us/pl/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F687
 [/us/stat/74/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F734
 
 

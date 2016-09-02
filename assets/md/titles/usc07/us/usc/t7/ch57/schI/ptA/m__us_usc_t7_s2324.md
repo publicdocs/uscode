@@ -17,7 +17,7 @@
 
     Employees of the Plant Variety Protection Office shall be ineligible during the periods of their employment, to apply for plant variety protection and to acquire directly or indirectly, except by inheritance or bequest, any right or interest in any matters before that office. This section shall not apply to members of the Plant Variety Protection Board who are not otherwise employees of the Plant Variety Protection Office.
 
-([Pub. L. 91–577, title I, § 4][/us/pl/91/577/s4], Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 4, Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs4
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542
 
 

@@ -17,7 +17,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281][/us/usc/t7/s2281] et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-([Pub. L. 88–74, § 5][/us/pl/88/74/s5], as added [Pub. L. 104–127, title VIII, § 884(a)][/us/pl/104/127/s884/a], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179].)
+([Pub. L. 88–74][/us/pl/88/74], § 5, as added [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 884(a), Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 390c, [Pub. L. 88–74, § 4][/us/pl/88/74/s4], July 22, 1963, [77 Stat. 91][/us/stat/77/91]; [Pub. L. 95–113, title XIV, § 1416(2)][/us/pl/95/113/s1416/2], Sept. 29, 1977, [91 Stat. 994][/us/stat/91/994]; [Pub. L. 97–98, title XIV, § 1416][/us/pl/97/98/s1416], Dec. 22, 1981, [95 Stat. 1304][/us/stat/95/1304]; [Pub. L. 99–198, title XIV, § 1411(d)][/us/pl/99/198/s1411/d], Dec. 23, 1985, [99 Stat. 1548][/us/stat/99/1548]; [Pub. L. 101–624, title XVI, § 1601(a)][/us/pl/101/624/s1601/a], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703], related to appropriations and administrative authority, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 390c, [Pub. L. 88–74][/us/pl/88/74], § 4, July 22, 1963, [77 Stat. 91][/us/stat/77/91]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1416(2), Sept. 29, 1977, [91 Stat. 994][/us/stat/91/994]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1416, Dec. 22, 1981, [95 Stat. 1304][/us/stat/95/1304]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1411(d), Dec. 23, 1985, [99 Stat. 1548][/us/stat/99/1548]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(a), Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703], related to appropriations and administrative authority, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
     A prior [section 5 of Pub. L. 88–74][/us/pl/88/74/s5] was classified to [section 390d of this title][/us/usc/t7/s390d] prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
@@ -39,23 +39,23 @@
 ----------
 
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
-[/us/pl/88/74/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs5
-[/us/pl/104/127/s884/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs884%2Fa
+[/us/pl/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1179
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F913
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/pl/88/74/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs4
+[/us/pl/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74
 [/us/stat/77/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F91
-[/us/pl/95/113/s1416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1416%2F2
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F994
-[/us/pl/97/98/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1416
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1304
-[/us/pl/99/198/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1411%2Fd
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1548
-[/us/pl/101/624/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Fa
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3703
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/88/74/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F74%2Fs5

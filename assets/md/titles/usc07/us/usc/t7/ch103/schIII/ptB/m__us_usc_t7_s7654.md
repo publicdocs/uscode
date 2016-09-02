@@ -31,7 +31,7 @@
 
         The Office shall carry out this section in cooperation with the National Institutes of Health, the Food and Drug Administration, the Centers for Disease Control and Prevention, public institutions, and, on a voluntary basis, private research entities.
 
-([Pub. L. 105–185, title VI, § 615][/us/pl/105/185/s615], June 23, 1998, [112 Stat. 606][/us/stat/112/606]; [Pub. L. 107–171, title VII, § 7301(a)][/us/pl/107/171/s7301/a], (b)(1), May 13, 2002, [116 Stat. 454][/us/stat/116/454].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 615, June 23, 1998, [112 Stat. 606][/us/stat/112/606]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7301(a), (b)(1), May 13, 2002, [116 Stat. 454][/us/stat/116/454].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/105/185/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs615
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F606
-[/us/pl/107/171/s7301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7301%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F454
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

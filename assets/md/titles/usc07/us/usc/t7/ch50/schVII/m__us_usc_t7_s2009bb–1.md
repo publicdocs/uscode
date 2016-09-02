@@ -345,7 +345,7 @@
 
         The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) or subsection (i) of this subtitle  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup> , or sections 202 through 209 of title 18.
 
-([Pub. L. 87–128, title III, § 383B][/us/pl/87/128/s383B], as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 375][/us/stat/116/375]; amended [Pub. L. 110–234, title VI, § 6026(b)][/us/pl/110/234/s6026/b], (c)(2)(A), May 22, 2008, [122 Stat. 1177][/us/stat/122/1177], 1179; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(b), (c)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1939, 1940.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383B, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6028, May 13, 2002, [116 Stat. 375][/us/stat/116/375]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(b), (c)(2)(A), May 22, 2008, [122 Stat. 1177][/us/stat/122/1177], 1179; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(b), (c)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1939, 1940.)
 
  __References in Text__ 
 
@@ -357,27 +357,27 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(4). [Pub. L. 110–246, § 6026(b)(1)][/us/pl/110/246/s6026/b/1], added par. (4).
+    2008—Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(1), added par. (4).
 
-    Subsec. (c)(3)(B). [Pub. L. 110–246, § 6026(c)(2)(A)][/us/pl/110/246/s6026/c/2/A], made technical amendment to reference in original act which appears in text as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
+    Subsec. (c)(3)(B). [Pub. L. 110–246][/us/pl/110/246], § 6026(c)(2)(A), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–8 of this title][/us/usc/t7/s2009bb–8].
 
-    Subsec. (d)(1). [Pub. L. 110–246, § 6026(b)(2)(A)][/us/pl/110/246/s6026/b/2/A], substituted “programs for multistate cooperation to advance the economic and social well-being of the region and to” for “programs to establish priorities and”.
+    Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(2)(A), substituted “programs for multistate cooperation to advance the economic and social well-being of the region and to” for “programs to establish priorities and”.
 
-    Subsec. (d)(3). [Pub. L. 110–246, § 6026(b)(2)(B)][/us/pl/110/246/s6026/b/2/B], substituted “regional and local development districts or organizations, regional boards established under subchapter IX,” for “local development districts,”.
+    Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(2)(B), substituted “regional and local development districts or organizations, regional boards established under subchapter IX,” for “local development districts,”.
 
-    Subsec. (d)(4). [Pub. L. 110–246, § 6026(b)(2)(C)][/us/pl/110/246/s6026/b/2/C], substituted “cooperation for—” for “cooperation;” in introductory provisions and added cls. (i) to (vi).
+    Subsec. (d)(4). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(2)(C), substituted “cooperation for—” for “cooperation;” in introductory provisions and added cls. (i) to (vi).
 
-    Subsec. (d)(6). [Pub. L. 110–246, § 6026(b)(2)(D)][/us/pl/110/246/s6026/b/2/D], added par. (6) and struck out former par. (6) which read as follows:
+    Subsec. (d)(6). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(2)(D), added par. (6) and struck out former par. (6) which read as follows:
 
     “(A) enhance the capacity of, and provide support for, local development districts in the region; or
 
     “(B) if no local development district exists in an area in a participating State in the region, foster the creation of a local development district;”.
 
-    Subsec. (d)(7). [Pub. L. 110–246, § 6026(b)(2)(E)][/us/pl/110/246/s6026/b/2/E], inserted “renewable energy,” after “commercial,”.
+    Subsec. (d)(7). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(2)(E), inserted “renewable energy,” after “commercial,”.
 
-    Subsec. (f)(2). [Pub. L. 110–246, § 6026(b)(3)][/us/pl/110/246/s6026/b/3], substituted “a cochairperson” for “the Federal cochairperson”.
+    Subsec. (f)(2). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(3), substituted “a cochairperson” for “the Federal cochairperson”.
 
-    Subsec. (g)(1). [Pub. L. 110–246, § 6026(b)(4)][/us/pl/110/246/s6026/b/4], added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (g)(1). [Pub. L. 110–246][/us/pl/110/246], § 6026(b)(4), added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) for fiscal year 2002, 100 percent;
 
@@ -398,28 +398,28 @@
 
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/87/128/s383B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383B
-[/us/pl/107/171/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6028
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F375
-[/us/pl/110/234/s6026/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fb
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1177
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6026/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F1
-[/us/pl/110/246/s6026/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fc%2F2%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2009bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%938
-[/us/pl/110/246/s6026/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F2%2FA
-[/us/pl/110/246/s6026/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F2%2FB
-[/us/pl/110/246/s6026/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F2%2FC
-[/us/pl/110/246/s6026/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F2%2FD
-[/us/pl/110/246/s6026/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F2%2FE
-[/us/pl/110/246/s6026/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F3
-[/us/pl/110/246/s6026/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6026%2Fb%2F4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

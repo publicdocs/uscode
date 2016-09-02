@@ -63,7 +63,7 @@
 
         There is authorized to be appropriated to the Secretary of Agriculture and the Secretary of the Interior such amounts as may be required to carry out subsection (b)(10).
 
-([Pub. L. 108–384, § 4][/us/pl/108/384/s4], Oct. 30, 2004, [118 Stat. 2222][/us/stat/118/2222].)
+([Pub. L. 108–384][/us/pl/108/384], § 4, Oct. 30, 2004, [118 Stat. 2222][/us/stat/118/2222].)
 
  __Control and Eradication of Brown Tree Snakes__ 
 
@@ -71,7 +71,7 @@
 
 > “The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes.”
 
-[Pub. L. 102–237, title X, § 1013(a)][/us/pl/102/237/s1013/a]–(c), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901], as amended by [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 743\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–31, provided that:
+[Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1013(a)–(c), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 743\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–31, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,7 +85,7 @@
 
 >     The Secretary shall use the authority provided under the Federal Plant Pest Act ([7 U.S.C. 150aa][/us/usc/t7/s150aa] et seq.) to carry out subsections (a) and (b).”
 
-[Pub. L. 102–190, div. A, title III, § 348][/us/pl/102/190/s348], Dec. 5, 1991, [105 Stat. 1348][/us/stat/105/1348], provided that: 
+[Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 348, Dec. 5, 1991, [105 Stat. 1348][/us/stat/105/1348], provided that: 
 
 > “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
 
@@ -96,16 +96,16 @@
 ----------
 ----------
 
-[/us/pl/108/384/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs4
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2222
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4410
-[/us/pl/102/237/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1013%2Fa
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/usc/t7/s150aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs150aa
-[/us/pl/102/190/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs348
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1348
 
 

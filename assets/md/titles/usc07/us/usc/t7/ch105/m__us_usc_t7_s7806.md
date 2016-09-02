@@ -59,7 +59,7 @@
 
         The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under [section 7807 of this title][/us/usc/t7/s7807].
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1207\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–92.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title XII, § 1207\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–92.)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t7/s7808/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7808%2Fb%2F2
 [/us/usc/t7/s7807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7807
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

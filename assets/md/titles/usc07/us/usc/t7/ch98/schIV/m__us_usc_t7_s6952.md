@@ -65,7 +65,7 @@
 
         (2) policies implemented for the improvement of commodity procurement programs.
 
-([Pub. L. 103–354, title II, § 242][/us/pl/103/354/s242], as added [Pub. L. 113–79, title IV, § 4205][/us/pl/113/79/s4205], Feb. 7, 2014, [128 Stat. 823][/us/stat/128/823].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 242, as added [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4205, Feb. 7, 2014, [128 Stat. 823][/us/stat/128/823].)
 
 ----------
 
@@ -74,8 +74,8 @@
 ----------
 ----------
 
-[/us/pl/103/354/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs242
-[/us/pl/113/79/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4205
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F823
 
 

@@ -17,13 +17,13 @@
 
     The Deputy Secretary of Agriculture is authorized to exercise the functions and perform the duties of the first assistant of the Secretary of Agriculture within the meaning of [section 3345 of title 5][/us/usc/t5/s3345] and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
 
-([June 5, 1939, ch. 181][/us/act/1939-06-05/ch181], [53 Stat. 809][/us/stat/53/809]; [Pub. L. 94–561, § 1(c)(2)][/us/pl/94/561/s1/c/2], Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643].)
+([June 5, 1939, ch. 181][/us/act/1939-06-05/ch181], [53 Stat. 809][/us/stat/53/809]; [Pub. L. 94–561][/us/pl/94/561], § 1(c)(2), Oct. 19, 1976, [90 Stat. 2643][/us/stat/90/2643].)
 
  __Codification__ 
 
-    “[Section 3345 of title 5][/us/usc/t5/s3345]” substituted in text for “section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “[Section 3345 of title 5][/us/usc/t5/s3345]” substituted in text for “section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Section was formerly classified to [section 514b of Title 5][/us/usc/t5/s514b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 514b of Title 5][/us/usc/t5/s514b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/act/1939-06-05/ch181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-05%2Fch181
 [/us/stat/53/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F809
-[/us/pl/94/561/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561%2Fs1%2Fc%2F2
+[/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
 [/us/stat/90/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2643
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s514b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs514b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561
 [/us/pl/94/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F561

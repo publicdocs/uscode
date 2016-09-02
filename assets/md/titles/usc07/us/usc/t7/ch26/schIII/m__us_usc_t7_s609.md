@@ -71,9 +71,9 @@
 
         (3) In case of tobacco, the term “processing” means the manufacturing or other processing (except drying or converting into insecticides and fertilizers) of tobacco.
 
-        (4) Repealed. [June 26, 1934, ch. 759, § 2(a)][/us/act/1934-06-26/ch759/s2/a], [48 Stat. 1242][/us/stat/48/1242].
+        (4) Repealed. [June 26, 1934, ch. 759][/us/act/1934-06-26/ch759], § 2(a), [48 Stat. 1242][/us/stat/48/1242].
 
-        (5) Repealed. [Aug. 24, 1935, ch. 641, § 14(b)][/us/act/1935-08-24/ch641/s14/b], [49 Stat. 767][/us/stat/49/767].
+        (5) Repealed. [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 14(b), [49 Stat. 767][/us/stat/49/767].
 
         (6)
 
@@ -113,13 +113,13 @@
 
     (g) Nothing contained in this chapter shall be construed to authorize any tax upon the processing of any commodity which processing results in the production of newsprint.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 9, [48 Stat. 35][/us/stat/48/35]; [Apr. 7, 1934, ch. 103, § 3(a)][/us/act/1934-04-07/ch103/s3/a], [48 Stat. 528][/us/stat/48/528]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 2, 3, 5, 6, 9, [48 Stat. 670][/us/stat/48/670], 671, 675, 676; [June 26, 1934, ch. 759, § 2][/us/act/1934-06-26/ch759/s2], [48 Stat. 1242][/us/stat/48/1242]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], §§ 1–6, [49 Stat. 45][/us/stat/49/45], 46; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 11–15, [49 Stat. 762–767][/us/stat/49/762-767]; [Pub. L. 108–357, title VI, § 611(d)][/us/pl/108/357/s611/d], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 9, [48 Stat. 35][/us/stat/48/35]; [Apr. 7, 1934, ch. 103][/us/act/1934-04-07/ch103], § 3(a), [48 Stat. 528][/us/stat/48/528]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 2, 3, 5, 6, 9, [48 Stat. 670][/us/stat/48/670], 671, 675, 676; [June 26, 1934, ch. 759][/us/act/1934-06-26/ch759], § 2, [48 Stat. 1242][/us/stat/48/1242]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], §§ 1–6, [49 Stat. 45][/us/stat/49/45], 46; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 11–15, [49 Stat. 762–767][/us/stat/49/762-767]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(d), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].)
 
  __References in Text__ 
 
     The Revenue Act of 1932, referred to in subsec. (a), is [act June 6, 1932, ch. 209][/us/act/1932-06-06/ch209], [47 Stat. 169][/us/stat/47/169]. For complete classification of the Act to the Code, see Tables.
 
-    [Section 1001 of title 19][/us/usc/t19/s1001], referred to in subsec. (b)(8), was repealed by [Pub. L. 87–456, title I, § 101(a)][/us/pl/87/456/s101/a], May 24, 1962, [76 Stat. 72][/us/stat/76/72]. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
+    [Section 1001 of title 19][/us/usc/t19/s1001], referred to in subsec. (b)(8), was repealed by [Pub. L. 87–456, title I][/us/pl/87/456/tI], § 101(a), May 24, 1962, [76 Stat. 72][/us/stat/76/72]. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
 
     The treaty of commercial reciprocity concluded between the United States and Cuba on December 11, 1902, referred to in subsec. (b)(8), was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See, Bevans, Treaties and Other International Agreements of the United States of America, 1776–1949, vol. VI, page 1106.
 
@@ -129,9 +129,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(2). [Pub. L. 108–357, § 611(d)(1)][/us/pl/108/357/s611/d/1], struck out “tobacco,” after “peanuts,”.
+    2004—Subsec. (b)(2). [Pub. L. 108–357][/us/pl/108/357], § 611(d)(1), struck out “tobacco,” after “peanuts,”.
 
-    Subsec. (b)(6)(B)(i). [Pub. L. 108–357, § 611(d)(2)][/us/pl/108/357/s611/d/2], struck out “, or, in the case of tobacco, is less than the fair exchange value by not more than 10 per centum,” before “the rate of such tax”.
+    Subsec. (b)(6)(B)(i). [Pub. L. 108–357][/us/pl/108/357], § 611(d)(2), struck out “, or, in the case of tobacco, is less than the fair exchange value by not more than 10 per centum,” before “the rate of such tax”.
 
     1935—Subsec. (a). Act Aug. 24, 1935, § 11, struck out second sentence preceding semicolon and inserted in lieu thereof “When the Secretary of Agriculture determines that any one or more payments authorized to be made under [section 608 of this title][/us/usc/t7/s608] are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation.”
 
@@ -195,33 +195,33 @@
 [/us/usc/t7/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs613
 [/us/usc/t7/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs613
 [/us/usc/t7/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs602
-[/us/act/1934-06-26/ch759/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759%2Fs2%2Fa
+[/us/act/1934-06-26/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759
 [/us/stat/48/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1242
-[/us/act/1935-08-24/ch641/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs14%2Fb
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F767
 [/us/usc/t7/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs615
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F35
-[/us/act/1934-04-07/ch103/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-07%2Fch103%2Fs3%2Fa
+[/us/act/1934-04-07/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-07%2Fch103
 [/us/stat/48/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F528
 [/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F670
-[/us/act/1934-06-26/ch759/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759%2Fs2
+[/us/act/1934-06-26/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759
 [/us/stat/48/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1242
 [/us/act/1935-03-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32
 [/us/stat/49/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F45
 [/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/762-767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F762-767
-[/us/pl/108/357/s611/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fd
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/act/1932-06-06/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-06%2Fch209
 [/us/stat/47/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F169
 [/us/usc/t19/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1001
-[/us/pl/87/456/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs101%2Fa
+[/us/pl/87/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtI
 [/us/stat/76/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F72
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/108/357/s611/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fd%2F1
-[/us/pl/108/357/s611/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fd%2F2
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/usc/t7/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608
 [/us/usc/t19/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1001
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

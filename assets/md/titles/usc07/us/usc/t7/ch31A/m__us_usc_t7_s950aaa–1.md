@@ -29,7 +29,7 @@
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 101–624, title XXIII, § 2332][/us/pl/101/624/s2332], as added [Pub. L. 104–127, title VII, § 704][/us/pl/104/127/s704], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2332, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 704, Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].)
 
  __Termination of Section__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 950aaa–1, [Pub. L. 101–624, title XXIII, § 2332][/us/pl/101/624/s2332], Nov. 28, 1990, [104 Stat. 4017][/us/stat/104/4017]; [Pub. L. 102–237, title VII, § 702(g)][/us/pl/102/237/s702/g], Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880], provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 950aaa–1, [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2332, Nov. 28, 1990, [104 Stat. 4017][/us/stat/104/4017]; [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 702(g), Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880], provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
 
 ----------
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2332
-[/us/pl/104/127/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs704
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1108
 [/us/pl/102/551/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F551%2Fs1%2Fb
 [/us/usc/t7/s950aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950aaa
-[/us/pl/101/624/s2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2332
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4017
-[/us/pl/102/237/s702/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs702%2Fg
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1880
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

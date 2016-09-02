@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized and directed to establish at Mandan, North Dakota, a dairying and livestock experiment station, in connection with the Great Plains Experiment Station, for investigations and experiments in the dairy and livestock industries and the problems pertaining to the establishment and development of such industries, and for demonstrations, assistance, and service in livestock breeding, growing, and feeding.
 
-([July 3, 1926, ch. 769, § 1][/us/act/1926-07-03/ch769/s1], [44 Stat. 840][/us/stat/44/840].)
+([July 3, 1926, ch. 769][/us/act/1926-07-03/ch769], § 1, [44 Stat. 840][/us/stat/44/840].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch769/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch769%2Fs1
+[/us/act/1926-07-03/ch769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch769
 [/us/stat/44/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F840
 
 

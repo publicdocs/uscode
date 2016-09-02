@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_ch21B.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
+[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_s516 _us_usc_t7_s517.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
 
 ## CHAPTER 21C—TOBACCO REFORM
 
@@ -115,7 +115,7 @@ SUBCHAPTER II—IMPLEMENTATION AND TRANSITION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_ch21B.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
+[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_s516 _us_usc_t7_s517.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
 
 ----------
 ----------

@@ -47,59 +47,59 @@
 
         Delivery of the commodities shall be made in accordance with the terms of the agreement.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title I, § 103, [68 Stat. 456][/us/stat/68/456]; [Aug. 12, 1955, ch. 873, § 1][/us/act/1955-08-12/ch873/s1], [69 Stat. 721][/us/stat/69/721]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(a), [70 Stat. 201][/us/stat/70/201]; [Aug. 3, 1956, ch. 933, § 1][/us/act/1956-08-03/ch933/s1], [70 Stat. 988][/us/stat/70/988]; [Pub. L. 85–128, § 1(2)][/us/pl/85/128/s1/2], Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931, § 2][/us/pl/85/931/s2], Sept. 6, 1958, [72 Stat. 1790][/us/stat/72/1790]; [Pub. L. 86–341, title I, § 2][/us/pl/86/341/s2], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–28][/us/pl/87/28], May 4, 1961, [75 Stat. 64][/us/stat/75/64]; [Pub. L. 87–128, title II, § 201(2)][/us/pl/87/128/s201/2], Aug. 8, 1961, [75 Stat. 306][/us/stat/75/306]; [Pub. L. 88–638, § 1(4)][/us/pl/88/638/s1/4], (5), Oct. 8, 1964, [78 Stat. 1035][/us/stat/78/1035]; [Pub. L. 89–808, § 2(B)][/us/pl/89/808/s2/B], Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526]; [Pub. L. 90–436][/us/pl/90/436], §§ 4, 5, July 29, 1968, [82 Stat. 450][/us/stat/82/450]; [Pub. L. 91–524, title VII, § 703][/us/pl/91/524/s703], Nov. 30, 1970, as added [Pub. L. 93–86, § 1(26)][/us/pl/93/86/s1/26], Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; [Pub. L. 93–125, § 1(e)][/us/pl/93/125/s1/e], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–161, title II, § 203][/us/pl/94/161/s203], Dec. 20, 1975, [89 Stat. 851][/us/stat/89/851]; [Pub. L. 95–88, title II][/us/pl/95/88], §§ 201(b), 211(b)(1), Aug. 3, 1977, [91 Stat. 545][/us/stat/91/545], 551; [Pub. L. 95–424, title I, § 102(b)(2)(B)][/us/pl/95/424/s102/b/2/B], Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941]; [Pub. L. 96–53, title II, § 201][/us/pl/96/53/s201], Aug. 14, 1979, [93 Stat. 368][/us/stat/93/368]; [Pub. L. 97–113, title IV, § 401(2)][/us/pl/97/113/s401/2]–(4), Dec. 29, 1981, [95 Stat. 1537][/us/stat/95/1537]; [Pub. L. 99–198, title XI, § 1111(d)][/us/pl/99/198/s1111/d], Dec. 23, 1985, [99 Stat. 1475][/us/stat/99/1475]; [Pub. L. 100–202, § 9][/us/pl/100/202/s9], Dec. 22, 1987, [101 Stat. 1329–448][/us/stat/101/1329-448]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3634][/us/stat/104/3634]; [Pub. L. 104–127, title II, § 204][/us/pl/104/127/s204], Apr. 4, 1996, [110 Stat. 953][/us/stat/110/953].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title I, § 103, [68 Stat. 456][/us/stat/68/456]; [Aug. 12, 1955, ch. 873][/us/act/1955-08-12/ch873], § 1, [69 Stat. 721][/us/stat/69/721]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(a), [70 Stat. 201][/us/stat/70/201]; [Aug. 3, 1956, ch. 933][/us/act/1956-08-03/ch933], § 1, [70 Stat. 988][/us/stat/70/988]; [Pub. L. 85–128][/us/pl/85/128], § 1(2), Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931][/us/pl/85/931], § 2, Sept. 6, 1958, [72 Stat. 1790][/us/stat/72/1790]; [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 2, Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–28][/us/pl/87/28], May 4, 1961, [75 Stat. 64][/us/stat/75/64]; [Pub. L. 87–128, title II][/us/pl/87/128/tII], § 201(2), Aug. 8, 1961, [75 Stat. 306][/us/stat/75/306]; [Pub. L. 88–638][/us/pl/88/638], § 1(4), (5), Oct. 8, 1964, [78 Stat. 1035][/us/stat/78/1035]; [Pub. L. 89–808][/us/pl/89/808], § 2(B), Nov. 11, 1966, [80 Stat. 1526][/us/stat/80/1526]; [Pub. L. 90–436][/us/pl/90/436], §§ 4, 5, July 29, 1968, [82 Stat. 450][/us/stat/82/450]; [Pub. L. 91–524, title VII][/us/pl/91/524/tVII], § 703, Nov. 30, 1970, as added [Pub. L. 93–86][/us/pl/93/86], § 1(26), Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; [Pub. L. 93–125][/us/pl/93/125], § 1(e), Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 203, Dec. 20, 1975, [89 Stat. 851][/us/stat/89/851]; [Pub. L. 95–88, title II][/us/pl/95/88/tII], §§ 201(b), 211(b)(1), Aug. 3, 1977, [91 Stat. 545][/us/stat/91/545], 551; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(b)(2)(B), Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941]; [Pub. L. 96–53, title II][/us/pl/96/53/tII], § 201, Aug. 14, 1979, [93 Stat. 368][/us/stat/93/368]; [Pub. L. 97–113, title IV][/us/pl/97/113/tIV], § 401(2)–(4), Dec. 29, 1981, [95 Stat. 1537][/us/stat/95/1537]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1111(d), Dec. 23, 1985, [99 Stat. 1475][/us/stat/99/1475]; [Pub. L. 100–202][/us/pl/100/202], § 9, Dec. 22, 1987, [101 Stat. 1329–448][/us/stat/101/1329-448]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3634][/us/stat/104/3634]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 204, Apr. 4, 1996, [110 Stat. 953][/us/stat/110/953].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2)(A). [Pub. L. 104–127, § 204(1)][/us/pl/104/127/s204/1], struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
+    1996—Subsec. (a)(2)(A). [Pub. L. 104–127][/us/pl/104/127], § 204(1), struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
 
-    Subsec. (c). [Pub. L. 104–127, § 204(2)][/us/pl/104/127/s204/2], struck out “less than 10 nor” before “more than 30”.
+    Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 204(2), struck out “less than 10 nor” before “more than 30”.
 
-    Subsec. (d). [Pub. L. 104–127, § 204(3)][/us/pl/104/127/s204/3], substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
+    Subsec. (d). [Pub. L. 104–127][/us/pl/104/127], § 204(3), substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
     1987—Subsec. (r). [Pub. L. 100–202][/us/pl/100/202] added subsec. (r).
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1111(d)(1)][/us/pl/99/198/s1111/d/1], inserted “, in [section 1708 of this title][/us/usc/t7/s1708],” after “[section 1704 of this title][/us/usc/t7/s1704]”.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(1), inserted “, in [section 1708 of this title][/us/usc/t7/s1708],” after “[section 1704 of this title][/us/usc/t7/s1704]”.
 
-    Subsec. (d). [Pub. L. 99–198, § 1111(d)(2)][/us/pl/99/198/s1111/d/2], struck out “for dollars on credit terms” after “agricultural commodities”.
+    Subsec. (d). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(2), struck out “for dollars on credit terms” after “agricultural commodities”.
 
-    Subsec. (m). [Pub. L. 99–198, § 1111(d)(3)][/us/pl/99/198/s1111/d/3], inserted introductory text “except as provided in [section 1708 of this title][/us/usc/t7/s1708],” substituted a period for the semicolon at end of cl. (2), and inserted provisions respecting period for convertibility of foreign currencies into dollars and establishment in the agreement for sale of a schedule for conversion without specifying the exchange rate.
+    Subsec. (m). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(3), inserted introductory text “except as provided in [section 1708 of this title][/us/usc/t7/s1708],” substituted a period for the semicolon at end of cl. (2), and inserted provisions respecting period for convertibility of foreign currencies into dollars and establishment in the agreement for sale of a schedule for conversion without specifying the exchange rate.
 
-    Subsec. (n). [Pub. L. 99–198, § 1111(d)(4)][/us/pl/99/198/s1111/d/4], struck out “for dollars on credit terms” after “sales” and “for cash dollars” after “made”.
+    Subsec. (n). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(4), struck out “for dollars on credit terms” after “sales” and “for cash dollars” after “made”.
 
-    Subsec. (o). [Pub. L. 99–198, § 1111(d)(5)][/us/pl/99/198/s1111/d/5], substituted “take” for “Take”.
+    Subsec. (o). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(5), substituted “take” for “Take”.
 
-    Subsecs. (p), (q). [Pub. L. 99–198, § 1111(d)(6)][/us/pl/99/198/s1111/d/6], (7), substituted “except as provided in [section 1708 of this title][/us/usc/t7/s1708], assure convertibility” for “Assure convertibility”.
+    Subsecs. (p), (q). [Pub. L. 99–198][/us/pl/99/198], § 1111(d)(6), (7), substituted “except as provided in [section 1708 of this title][/us/usc/t7/s1708], assure convertibility” for “Assure convertibility”.
 
-    1981—Subsec. (b). [Pub. L. 97–113, § 401(2)][/us/pl/97/113/s401/2], struck out requirement that President take steps to assure a progressive transition from sales for foreign currencies to sales for dollars (or to the extent that transition to sales for dollars under the terms applicable to such sales is not possible, transition to sales for foreign currencies on credit terms no less favorable to the United States than those for development loans made under [section 2151t of title 22][/us/usc/t22/s2151t], and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement) at a rate whereby the transition can be completed by Dec. 31, 1971; and struck out reference to subsec. (c) of [section 1704 of this title][/us/usc/t7/s1704].
+    1981—Subsec. (b). [Pub. L. 97–113][/us/pl/97/113], § 401(2), struck out requirement that President take steps to assure a progressive transition from sales for foreign currencies to sales for dollars (or to the extent that transition to sales for dollars under the terms applicable to such sales is not possible, transition to sales for foreign currencies on credit terms no less favorable to the United States than those for development loans made under [section 2151t of title 22][/us/usc/t22/s2151t], and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement) at a rate whereby the transition can be completed by Dec. 31, 1971; and struck out reference to subsec. (c) of [section 1704 of this title][/us/usc/t7/s1704].
 
-    Subsec. (d). [Pub. L. 97–113, § 401(3)][/us/pl/97/113/s401/3], in defining “friendly country”, struck out provision excluding from term “for the purpose only of sales of agricultural commodities for foreign currencies under this subchapter, any country or area dominated by a Communist government”.
+    Subsec. (d). [Pub. L. 97–113][/us/pl/97/113], § 401(3), in defining “friendly country”, struck out provision excluding from term “for the purpose only of sales of agricultural commodities for foreign currencies under this subchapter, any country or area dominated by a Communist government”.
 
-    Subsec. (l). [Pub. L. 97–113, § 401(4)][/us/pl/97/113/s401/4], struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
+    Subsec. (l). [Pub. L. 97–113][/us/pl/97/113], § 401(4), struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
 
     1979—Subsec. (f). [Pub. L. 96–53][/us/pl/96/53] substituted provisions requiring Presidential consideration to the development and expansion of markets for United States agricultural commodities and local foodstuffs, for provisions requiring special Presidential consideration to the development and expansion of foreign markets for United States agricultural commodities.
 
     1978—Subsec. (b). [Pub. L. 95–424][/us/pl/95/424] substituted “[section 2151t of title 22][/us/usc/t22/s2151t]” for “[section 2161 of title 22][/us/usc/t22/s2161]”.
 
-    1977—Subsec. (b). [Pub. L. 95–88, § 211(b)(1)][/us/pl/95/88/s211/b/1], substituted “and in subchapters I and III–A of this chapter” for “and in [section 1706(b)(2) of this title][/us/usc/t7/s1706/b/2]” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
+    1977—Subsec. (b). [Pub. L. 95–88][/us/pl/95/88], § 211(b)(1), substituted “and in subchapters I and III–A of this chapter” for “and in [section 1706(b)(2) of this title][/us/usc/t7/s1706/b/2]” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
 
-    Subsec. (d). [Pub. L. 95–88, § 201(b)][/us/pl/95/88/s201/b], struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: Provided, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
+    Subsec. (d). [Pub. L. 95–88][/us/pl/95/88], § 201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: Provided, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
 
-    1975—Subsec. (a). [Pub. L. 94–161, § 203(1)][/us/pl/94/161/s203/1], substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
+    1975—Subsec. (a). [Pub. L. 94–161][/us/pl/94/161], § 203(1), substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
 
-    Subsec. (b). [Pub. L. 94–161, § 203(2)][/us/pl/94/161/s203/2], substituted “section 1704 and in [section 1706(b)(2) of this title][/us/usc/t7/s1706/b/2]” for “[section 1704 of this title][/us/usc/t7/s1704]”.
+    Subsec. (b). [Pub. L. 94–161][/us/pl/94/161], § 203(2), substituted “section 1704 and in [section 1706(b)(2) of this title][/us/usc/t7/s1706/b/2]” for “[section 1704 of this title][/us/usc/t7/s1704]”.
 
-    Subsec. (d). [Pub. L. 94–161, § 203(3)][/us/pl/94/161/s203/3], substituted second proviso “Provided, That this exclusion from the definition of ‘friendly country’ may be waived by the President if he determines that such waiver is in the national interest and reports such determination to the Congress within 10 days of the date of such determination” for “Provided, That with respect to furnishing, selling, or selling and transporting to Cuba medical supplies, non-strategic raw materials for agriculture, and non-strategic agricultural or food commodities, sales agreements may be entered into if the President finds with respect to each such country and so informs the Senate and the House of Representatives of the reasons therefor, that the making of each such agreement would be in the national interest of the United States and all such findings and reasons therefor shall be published in the Federal Register”.
+    Subsec. (d). [Pub. L. 94–161][/us/pl/94/161], § 203(3), substituted second proviso “Provided, That this exclusion from the definition of ‘friendly country’ may be waived by the President if he determines that such waiver is in the national interest and reports such determination to the Congress within 10 days of the date of such determination” for “Provided, That with respect to furnishing, selling, or selling and transporting to Cuba medical supplies, non-strategic raw materials for agriculture, and non-strategic agricultural or food commodities, sales agreements may be entered into if the President finds with respect to each such country and so informs the Senate and the House of Representatives of the reasons therefor, that the making of each such agreement would be in the national interest of the United States and all such findings and reasons therefor shall be published in the Federal Register”.
 
     1973—Subsec. (o). [Pub. L. 93–125][/us/pl/93/125] made technical correction to [Pub. L. 93–86][/us/pl/93/86], see 1973 Amendment note below.
 
-    [Pub. L. 91–524, § 703][/us/pl/91/524/s703], as added by [Pub. L. 93–86][/us/pl/93/86] as amended by [Pub. L. 93–125][/us/pl/93/125], inserted “and that commercial supplies are available to meet demands developed through programs carried out under this chapter.” before the semicolon at end.
+    [Pub. L. 91–524][/us/pl/91/524], § 703, as added by [Pub. L. 93–86][/us/pl/93/86] as amended by [Pub. L. 93–125][/us/pl/93/125], inserted “and that commercial supplies are available to meet demands developed through programs carried out under this chapter.” before the semicolon at end.
 
-    1968—Subsec. (b). [Pub. L. 90–436, § 4][/us/pl/90/436/s4], made mandatory, except when determined by President to be inconsistent with objectives of this chapter, proviso that President, in agreements for credit sales, require immediate payment in dollars or in foreign currencies upon delivery of agricultural commodities, such payment to be considered as an advance payment of earliest obligations.
+    1968—Subsec. (b). [Pub. L. 90–436][/us/pl/90/436], § 4, made mandatory, except when determined by President to be inconsistent with objectives of this chapter, proviso that President, in agreements for credit sales, require immediate payment in dollars or in foreign currencies upon delivery of agricultural commodities, such payment to be considered as an advance payment of earliest obligations.
 
-    Subsecs. (o) to (q). [Pub. L. 90–436, § 5][/us/pl/90/436/s5], added subsecs. (o) to (q).
+    Subsecs. (o) to (q). [Pub. L. 90–436][/us/pl/90/436], § 5, added subsecs. (o) to (q).
 
     1966—Subsec. (a). [Pub. L. 89–808][/us/pl/89/808] substituted provisions respecting self-help measures for meeting problems of food production and population growth for former provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by [section 1733 of this title][/us/usc/t7/s1733].
 
@@ -129,9 +129,9 @@
 
     Subsec. (n). [Pub. L. 89–808][/us/pl/89/808] incorporated in provisions added as subsec. (n) part of former [section 1734 of this title][/us/usc/t7/s1734] requiring the Secretary to take such reasonable precautions as he determines necessary to avoid replacing any sales which the Secretary found and determined would otherwise be made for cash dollars.
 
-    1964—Subsec. (a). [Pub. L. 88–638, § 1(4)][/us/pl/88/638/s1/4], directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
+    1964—Subsec. (a). [Pub. L. 88–638][/us/pl/88/638], § 1(4), directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
 
-    Subsec. (b). [Pub. L. 88–638, § 1(5)][/us/pl/88/638/s1/5], substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
+    Subsec. (b). [Pub. L. 88–638][/us/pl/88/638], § 1(5), substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
 
     1961—Subsec. (b). [Pub. L. 87–128][/us/pl/87/128] substituted authorization provision of $4,500,000,000 for period beginning January 1, 1962, and ending December 31, 1964, with a limitation of $2,500,000,000 for any one calendar year, for authorization provision of $1,500,000,000 plus any amount by which agreements entered into in the preceding calendar year called for appropriations in amount less than authorized for such preceding year by this chapter as in effect during the preceding year for period beginning January 1, 1960, and ending December 31, 1961.
 
@@ -171,15 +171,15 @@
 
  __Effective Date of 1964 Amendment__ 
 
-    [Pub. L. 88–638, § 1(5)][/us/pl/88/638/s1/5], Oct. 8, 1964, [78 Stat. 1035][/us/stat/78/1035], provided that the amendment made by section 1(5) is effective Jan. 1, 1965.
+    [Pub. L. 88–638][/us/pl/88/638], § 1(5), Oct. 8, 1964, [78 Stat. 1035][/us/stat/78/1035], provided that the amendment made by section 1(5) is effective Jan. 1, 1965.
 
  __Effective Date of 1961 Amendment__ 
 
-    [Pub. L. 87–128, title II, § 201(2)][/us/pl/87/128/s201/2], Aug. 8, 1961, [75 Stat. 306][/us/stat/75/306], provided that the amendment made by section 201(2) is effective Jan. 1, 1962.
+    [Pub. L. 87–128, title II][/us/pl/87/128/tII], § 201(2), Aug. 8, 1961, [75 Stat. 306][/us/stat/75/306], provided that the amendment made by section 201(2) is effective Jan. 1, 1962.
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–341, title I, § 2][/us/pl/86/341/s2], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606], provided that the amendment made by section 2 is effective Jan. 1, 1960.
+    [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 2, Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606], provided that the amendment made by section 2 is effective Jan. 1, 1960.
 
 ----------
 
@@ -191,90 +191,90 @@
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F456
-[/us/act/1955-08-12/ch873/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch873%2Fs1
+[/us/act/1955-08-12/ch873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch873
 [/us/stat/69/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F721
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F201
-[/us/act/1956-08-03/ch933/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch933%2Fs1
+[/us/act/1956-08-03/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch933
 [/us/stat/70/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F988
-[/us/pl/85/128/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128%2Fs1%2F2
+[/us/pl/85/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128
 [/us/stat/71/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F345
-[/us/pl/85/931/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F931%2Fs2
+[/us/pl/85/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F931
 [/us/stat/72/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1790
-[/us/pl/86/341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs2
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F606
 [/us/pl/87/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F28
 [/us/stat/75/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F64
-[/us/pl/87/128/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs201%2F2
+[/us/pl/87/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtII
 [/us/stat/75/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F306
-[/us/pl/88/638/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F4
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/stat/78/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1035
-[/us/pl/89/808/s2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FB
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1526
 [/us/pl/90/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F436
 [/us/stat/82/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F450
-[/us/pl/91/524/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs703
-[/us/pl/93/86/s1/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F26
+[/us/pl/91/524/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F237
-[/us/pl/93/125/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fe
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/stat/87/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F450
-[/us/pl/94/161/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs203
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F851
-[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F545
-[/us/pl/95/424/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fb%2F2%2FB
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F941
-[/us/pl/96/53/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs201
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F368
-[/us/pl/97/113/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs401%2F2
+[/us/pl/97/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIV
 [/us/stat/95/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1537
-[/us/pl/99/198/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1475
-[/us/pl/100/202/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs9
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-448
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3634
-[/us/pl/104/127/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs204
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F953
-[/us/pl/104/127/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs204%2F1
-[/us/pl/104/127/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs204%2F2
-[/us/pl/104/127/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs204%2F3
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/99/198/s1111/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F1
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1708
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
-[/us/pl/99/198/s1111/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F2
-[/us/pl/99/198/s1111/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F3
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1708
-[/us/pl/99/198/s1111/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F4
-[/us/pl/99/198/s1111/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F5
-[/us/pl/99/198/s1111/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1111%2Fd%2F6
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1708
-[/us/pl/97/113/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs401%2F2
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2151t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
-[/us/pl/97/113/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs401%2F3
-[/us/pl/97/113/s401/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs401%2F4
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2151t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t
 [/us/usc/t22/s2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2161
-[/us/pl/95/88/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fb%2F1
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/usc/t7/s1706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1706%2Fb%2F2
-[/us/pl/95/88/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs201%2Fb
-[/us/pl/94/161/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs203%2F1
-[/us/pl/94/161/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs203%2F2
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/usc/t7/s1706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1706%2Fb%2F2
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
-[/us/pl/94/161/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs203%2F3
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs703
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
-[/us/pl/90/436/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F436%2Fs4
-[/us/pl/90/436/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F436%2Fs5
+[/us/pl/90/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F436
+[/us/pl/90/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F436
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/usc/t7/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1733
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
@@ -300,8 +300,8 @@
 [/us/usc/t7/s1701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701%2Fg
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/usc/t7/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1734
-[/us/pl/88/638/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F4
-[/us/pl/88/638/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F5
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/pl/87/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F28
 [/us/pl/86/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341
@@ -322,11 +322,11 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/88/638/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F5
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/stat/78/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1035
-[/us/pl/87/128/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs201%2F2
+[/us/pl/87/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtII
 [/us/stat/75/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F306
-[/us/pl/86/341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs2
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F606
 
 

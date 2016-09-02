@@ -127,7 +127,7 @@
 
         (5) In implementing paragraph (1)(C), the Secretary shall report any prohibitions to other appropriate public health agencies.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 13, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 766][/us/stat/82/766]; amended [Pub. L. 94–582, § 15][/us/pl/94/582/s15], Oct. 21, 1976, [90 Stat. 2883][/us/stat/90/2883]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(j), 1606(h), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1030; [Pub. L. 99–641, title III, § 303(a)][/us/pl/99/641/s303/a], Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564]; [Pub. L. 101–624, title XX, § 2008][/us/pl/101/624/s2008], Nov. 28, 1990, [104 Stat. 3931][/us/stat/104/3931]; [Pub. L. 103–156][/us/pl/103/156], §§ 7, 12(l), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1529; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 107][/us/pl/106/472/s107], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 13, as added [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 766][/us/stat/82/766]; amended [Pub. L. 94–582][/us/pl/94/582], § 15, Oct. 21, 1976, [90 Stat. 2883][/us/stat/90/2883]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1604(j), 1606(h), Sept. 29, 1977, [91 Stat. 1029][/us/stat/91/1029], 1030; [Pub. L. 99–641, title III][/us/pl/99/641/tIII], § 303(a), Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564]; [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2008, Nov. 28, 1990, [104 Stat. 3931][/us/stat/104/3931]; [Pub. L. 103–156][/us/pl/103/156], §§ 7, 12(l), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1529; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 107, Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060].)
 
  __Amendments__ 
 
@@ -135,15 +135,15 @@
 
     1994—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1993—[Pub. L. 103–156, § 12][/us/pl/103/156/s12](l), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(l), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    Subsec. (a)(2). [Pub. L. 103–156, § 12][/us/pl/103/156/s12](l)(1), substituted “the representative of the Administrator” for “his representative”.
+    Subsec. (a)(2). [Pub. L. 103–156][/us/pl/103/156], § 12(l)(1), substituted “the representative of the Administrator” for “his representative”.
 
-    Subsec. (a)(7), (8). [Pub. L. 103–156, § 12][/us/pl/103/156/s12](l)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
+    Subsec. (a)(7), (8). [Pub. L. 103–156][/us/pl/103/156], § 12(l)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
 
-    Subsec. (a)(9). [Pub. L. 103–156, § 12][/us/pl/103/156/s12](l)(3), substituted “the person” for “he”.
+    Subsec. (a)(9). [Pub. L. 103–156][/us/pl/103/156], § 12(l)(3), substituted “the person” for “he”.
 
-    Subsec. (a)(11). [Pub. L. 103–156, § 7][/us/pl/103/156/s7], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
+    Subsec. (a)(11). [Pub. L. 103–156][/us/pl/103/156], § 7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
 
     1990—Subsec. (e). [Pub. L. 101–624][/us/pl/101/624] added subsec. (e).
 
@@ -151,35 +151,35 @@
 
     1977—Subsec. (a)(6). [Pub. L. 95–113][/us/pl/95/113], §§ 1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
 
-    Subsec. (a)(11). [Pub. L. 95–113, § 1604(j)(2)][/us/pl/95/113/s1604/j/2], inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
+    Subsec. (a)(11). [Pub. L. 95–113][/us/pl/95/113], § 1604(j)(2), inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
 
-    Subsec. (a)(12). [Pub. L. 95–113, § 1604(j)(3)][/us/pl/95/113/s1604/j/3], substituted “weighing equipment” for “testing equipment”.
+    Subsec. (a)(12). [Pub. L. 95–113][/us/pl/95/113], § 1604(j)(3), substituted “weighing equipment” for “testing equipment”.
 
-    Subsec. (a)(13). [Pub. L. 95–113, § 1604(j)(4)][/us/pl/95/113/s1604/j/4], substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
+    Subsec. (a)(13). [Pub. L. 95–113][/us/pl/95/113], § 1604(j)(4), substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–582, § 15(a)(1)][/us/pl/94/582/s15/a/1], substituted “official mark” for “official inspection mark”.
+    1976—Subsec. (a)(1). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(1), substituted “official mark” for “official inspection mark”.
 
-    Subsec. (a)(2). [Pub. L. 94–582, § 15(a)(2)][/us/pl/94/582/s15/a/2], substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
+    Subsec. (a)(2). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(2), substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
 
-    Subsec. (a)(3). [Pub. L. 94–582, § 15(a)(2)][/us/pl/94/582/s15/a/2], prohibited deceptive weighing of grain or submitting grain for official weighing or supervision of weighing knowing it has been deceptively weighed without disclosure before official weighing or supervision of weighing.
+    Subsec. (a)(3). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(2), prohibited deceptive weighing of grain or submitting grain for official weighing or supervision of weighing knowing it has been deceptively weighed without disclosure before official weighing or supervision of weighing.
 
-    Subsec. (a)(5). [Pub. L. 94–582, § 15(a)(3)][/us/pl/94/582/s15/a/3], substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
+    Subsec. (a)(5). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(3), substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
 
-    Subsecs. (a)(7), (8). [Pub. L. 94–582, § 15(a)(4)][/us/pl/94/582/s15/a/4], inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
+    Subsecs. (a)(7), (8). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(4), inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
 
-    Subsec. (a)(9). [Pub. L. 94–582, § 15(a)(5)][/us/pl/94/582/s15/a/5], inserted “or official weighing or supervision of weighing” after “official inspection”.
+    Subsec. (a)(9). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(5), inserted “or official weighing or supervision of weighing” after “official inspection”.
 
-    Subsec. (a)(10). [Pub. L. 94–582, § 15(a)(5)][/us/pl/94/582/s15/a/5], (6), inserted “or official weighing or supervision of weighing” after “official inspection” and struck out “or” at end.
+    Subsec. (a)(10). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(5), (6), inserted “or official weighing or supervision of weighing” after “official inspection” and struck out “or” at end.
 
-    Subsec. (a)(11). [Pub. L. 94–582, § 15(a)(5)][/us/pl/94/582/s15/a/5], inserted after “sections 77, 78,” references to “79(f)(2), 79a, 79b(c)”.
+    Subsec. (a)(11). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(5), inserted after “sections 77, 78,” references to “79(f)(2), 79a, 79b(c)”.
 
-    Subsecs. (a)(12), (13). [Pub. L. 94–582, § 15(a)(6)][/us/pl/94/582/s15/a/6], added pars. (12) and (13).
+    Subsecs. (a)(12), (13). [Pub. L. 94–582][/us/pl/94/582], § 15(a)(6), added pars. (12) and (13).
 
-    Subsec. (b)(2). [Pub. L. 94–582, § 15(b)][/us/pl/94/582/s15/b], substituted “inspection or weighing function” for “inspection function”.
+    Subsec. (b)(2). [Pub. L. 94–582][/us/pl/94/582], § 15(b), substituted “inspection or weighing function” for “inspection function”.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–641, title III, § 303(b)][/us/pl/99/641/s303/b], Nov. 10, 1986, [100 Stat. 3565][/us/stat/100/3565], provided that: 
+[Pub. L. 99–641, title III][/us/pl/99/641/tIII], § 303(b), Nov. 10, 1986, [100 Stat. 3565][/us/stat/100/3565], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on May 1, 1987.”
 
@@ -207,46 +207,46 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F766
-[/us/pl/94/582/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2883
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1029
-[/us/pl/99/641/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs303%2Fa
+[/us/pl/99/641/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIII
 [/us/stat/100/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3564
-[/us/pl/101/624/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2008
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3931
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1526
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/106/472/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs107
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12
-[/us/pl/103/156/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12
-[/us/pl/103/156/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12
-[/us/pl/103/156/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12
-[/us/pl/103/156/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs7
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
-[/us/pl/95/113/s1604/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fj%2F2
-[/us/pl/95/113/s1604/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fj%2F3
-[/us/pl/95/113/s1604/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fj%2F4
-[/us/pl/94/582/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F1
-[/us/pl/94/582/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F2
-[/us/pl/94/582/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F2
-[/us/pl/94/582/s15/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F3
-[/us/pl/94/582/s15/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F4
-[/us/pl/94/582/s15/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F5
-[/us/pl/94/582/s15/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F5
-[/us/pl/94/582/s15/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F5
-[/us/pl/94/582/s15/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fa%2F6
-[/us/pl/94/582/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs15%2Fb
-[/us/pl/99/641/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs303%2Fb
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/99/641/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIII
 [/us/stat/100/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3565
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901

@@ -19,7 +19,7 @@
 
     The facts found by the Secretary of Agriculture and recited or set forth in said order shall be prima facie evidence of such facts, but either party may adduce additional evidence. The Department of Justice shall have charge of the enforcement of such order. After the order is so filed in such district court and while pending for review therein the court may issue a temporary writ of injunction forbidding such association from violating such order or any part thereof. The court may, upon conclusion of its hearing, enforce its decree by a permanent injunction or other appropriate remedy. Service of such complaint and of all notices may be made upon such association by service upon any officer or agent thereof engaged in carrying on its business, or on any attorney authorized to appear in such proceedings for such association, and such service shall be binding upon such association, the officers, and members thereof.
 
-([Feb. 18, 1922, ch. 57, § 2][/us/act/1922-02-18/ch57/s2], [42 Stat. 388][/us/stat/42/388].)
+([Feb. 18, 1922, ch. 57][/us/act/1922-02-18/ch57], § 2, [42 Stat. 388][/us/stat/42/388].)
 
  __Restriction on Use of Funds Respecting Study, Investigation, or Prosecution of any Agricultural Cooperative or Study or Investigation of any Agricul­tural Marketing Orders__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1922-02-18/ch57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch57%2Fs2
+[/us/act/1922-02-18/ch57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-18%2Fch57
 [/us/stat/42/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F388
 [/us/pl/96/252/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs20
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c

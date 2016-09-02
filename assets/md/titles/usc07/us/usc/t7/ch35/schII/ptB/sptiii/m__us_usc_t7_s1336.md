@@ -17,7 +17,7 @@
 
     If a national marketing quota for wheat for one, two, or three marketing years is proclaimed, the Secretary shall, not later than August 1 of the calendar year in which such national marketing quota is proclaimed, conduct a referendum, by secret ballot, of farmers to determine whether they favor or oppose marketing quotas for the marketing year or years for which proclaimed. Any producer who has a farm acreage allotment shall be eligible to vote in any referendum held pursuant to this section, except that a producer who has a farm acreage allotment of less than fifteen acres shall not be eligible to vote unless the farm operator elected pursuant to [section 1335 of this title][/us/usc/t7/s1335] to be subject to the farm marketing quota. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum, and if the Secretary determines that more than one-third of the farmers voting in the referendum voted against marketing quotas, the Secretary shall proclaim that marketing quotas will not be in effect with respect to the crop of wheat produced for harvest in the calendar year following the calendar year in which the referendum is held. If the Secretary determines that two-thirds or more of the farmers voting in a referendum approve marketing quotas for a period of two or three marketing years, no referendum shall be held for the subsequent year or years of such period. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for wheat for the marketing year beginning June 1, 1986, may be conducted not later than thirty-one days after December 20, 1985.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 336, [52 Stat. 55][/us/stat/52/55]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 204(b), [62 Stat. 1256][/us/stat/62/1256]; [Pub. L. 87–104][/us/pl/87/104], July 25, 1961, [75 Stat. 220][/us/stat/75/220]; [Pub. L. 87–128, title I, § 122(f)][/us/pl/87/128/s122/f], Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–540][/us/pl/87/540], July 19, 1962, [76 Stat. 170][/us/stat/76/170]; [Pub. L. 87–703, title III, § 316][/us/pl/87/703/s316], Sept. 27, 1962, [76 Stat. 621][/us/stat/76/621]; [Pub. L. 88–297, title II, § 202(6)][/us/pl/88/297/s202/6], Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179]; [Pub. L. 89–82][/us/pl/89/82], July 24, 1965, [79 Stat. 258][/us/stat/79/258]; [Pub. L. 91–348][/us/pl/91/348], July 23, 1970, [84 Stat. 448][/us/stat/84/448]; [Pub. L. 91–455][/us/pl/91/455], Oct. 15, 1970, [84 Stat. 969][/us/stat/84/969]; [Pub. L. 93–68][/us/pl/93/68], July 10, 1973, [87 Stat. 161][/us/stat/87/161]; [Pub. L. 95–48][/us/pl/95/48], June 17, 1977, [91 Stat. 229][/us/stat/91/229]; [Pub. L. 97–24, § 1][/us/pl/97/24/s1], July 23, 1981, [95 Stat. 143][/us/stat/95/143]; [Pub. L. 97–62][/us/pl/97/62], Oct. 14, 1981, [95 Stat. 1010][/us/stat/95/1010]; [Pub. L. 97–67, § 2][/us/pl/97/67/s2], Oct. 20, 1981, [95 Stat. 1039][/us/stat/95/1039]; [Pub. L. 97–77, § 2(b)][/us/pl/97/77/s2/b], Nov. 13, 1981, [95 Stat. 1069][/us/stat/95/1069]; [Pub. L. 99–63][/us/pl/99/63], July 11, 1985, [99 Stat. 119][/us/stat/99/119]; [Pub. L. 99–198, title III, § 306][/us/pl/99/198/s306], Dec. 23, 1985, [99 Stat. 1382][/us/stat/99/1382].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 336, [52 Stat. 55][/us/stat/52/55]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title II, § 204(b), [62 Stat. 1256][/us/stat/62/1256]; [Pub. L. 87–104][/us/pl/87/104], July 25, 1961, [75 Stat. 220][/us/stat/75/220]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 122(f), Aug. 8, 1961, [75 Stat. 297][/us/stat/75/297]; [Pub. L. 87–540][/us/pl/87/540], July 19, 1962, [76 Stat. 170][/us/stat/76/170]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 316, Sept. 27, 1962, [76 Stat. 621][/us/stat/76/621]; [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(6), Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179]; [Pub. L. 89–82][/us/pl/89/82], July 24, 1965, [79 Stat. 258][/us/stat/79/258]; [Pub. L. 91–348][/us/pl/91/348], July 23, 1970, [84 Stat. 448][/us/stat/84/448]; [Pub. L. 91–455][/us/pl/91/455], Oct. 15, 1970, [84 Stat. 969][/us/stat/84/969]; [Pub. L. 93–68][/us/pl/93/68], July 10, 1973, [87 Stat. 161][/us/stat/87/161]; [Pub. L. 95–48][/us/pl/95/48], June 17, 1977, [91 Stat. 229][/us/stat/91/229]; [Pub. L. 97–24][/us/pl/97/24], § 1, July 23, 1981, [95 Stat. 143][/us/stat/95/143]; [Pub. L. 97–62][/us/pl/97/62], Oct. 14, 1981, [95 Stat. 1010][/us/stat/95/1010]; [Pub. L. 97–67][/us/pl/97/67], § 2, Oct. 20, 1981, [95 Stat. 1039][/us/stat/95/1039]; [Pub. L. 97–77][/us/pl/97/77], § 2(b), Nov. 13, 1981, [95 Stat. 1069][/us/stat/95/1069]; [Pub. L. 99–63][/us/pl/99/63], July 11, 1985, [99 Stat. 119][/us/stat/99/119]; [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 306, Dec. 23, 1985, [99 Stat. 1382][/us/stat/99/1382].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title III, § 306][/us/pl/99/198/s306], Dec. 23, 1985, [99 Stat. 1382][/us/stat/99/1382], provided that the amendment made by [Pub. L. 99–198][/us/pl/99/198] is effective only for the 1987 through 1990 crops of wheat.
+    [Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 306, Dec. 23, 1985, [99 Stat. 1382][/us/stat/99/1382], provided that the amendment made by [Pub. L. 99–198][/us/pl/99/198] is effective only for the 1987 through 1990 crops of wheat.
 
  __Effective Date of 1962 Amendment__ 
 
@@ -87,11 +87,11 @@
 
     Section inapplicable to 1978 through 1981 crops of wheat, see [section 404 of Pub. L. 95–113][/us/pl/95/113/s404], set out as a note under [section 1331 of this title][/us/usc/t7/s1331].
 
-    [Pub. L. 91–524, title IV, § 404(1)][/us/pl/91/524/s404/1], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(1), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
  __Date of Referendum for 1954 Crop__ 
 
-    [Act July 14, 1953, ch. 194, § 4(b)][/us/act/1953-07-14/ch194/s4/b], [67 Stat. 152][/us/stat/67/152], provided that the referendum with respect to 1954 crop of wheat could be held as late as Aug. 15, 1953.
+    [Act July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], § 4(b), [67 Stat. 152][/us/stat/67/152], provided that the referendum with respect to 1954 crop of wheat could be held as late as Aug. 15, 1953.
 
 ----------
 
@@ -107,13 +107,13 @@
 [/us/stat/62/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1256
 [/us/pl/87/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F104
 [/us/stat/75/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F220
-[/us/pl/87/128/s122/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs122%2Ff
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F297
 [/us/pl/87/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F540
 [/us/stat/76/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F170
-[/us/pl/87/703/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs316
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F621
-[/us/pl/88/297/s202/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F6
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F179
 [/us/pl/89/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F82
 [/us/stat/79/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F258
@@ -125,17 +125,17 @@
 [/us/stat/87/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F161
 [/us/pl/95/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F48
 [/us/stat/91/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F229
-[/us/pl/97/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F24%2Fs1
+[/us/pl/97/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F24
 [/us/stat/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F143
 [/us/pl/97/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F62
 [/us/stat/95/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1010
-[/us/pl/97/67/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F67%2Fs2
+[/us/pl/97/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F67
 [/us/stat/95/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1039
-[/us/pl/97/77/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F77%2Fs2%2Fb
+[/us/pl/97/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F77
 [/us/stat/95/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1069
 [/us/pl/99/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F63
 [/us/stat/99/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F119
-[/us/pl/99/198/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs306
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1382
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
@@ -154,7 +154,7 @@
 [/us/pl/87/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F540
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/pl/87/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F104
-[/us/pl/99/198/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs306
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1382
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
@@ -173,11 +173,11 @@
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
 [/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/91/524/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F1
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
-[/us/act/1953-07-14/ch194/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194%2Fs4%2Fb
+[/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F152
 
 

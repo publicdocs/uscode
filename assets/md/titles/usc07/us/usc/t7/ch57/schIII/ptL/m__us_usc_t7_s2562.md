@@ -19,7 +19,7 @@
 
     (b) The following shall be defenses in any action charging infringement and shall be pleaded: (1) noninfringement, absence of liability for infringement, or unenforceability; (2) invalidity of the plant variety protection in suit on any ground specified in [section 2402 of this title][/us/usc/t7/s2402] as a condition for protectability; (3) invalidity of the plant variety protection in suit for failure to comply with any requirement of [section 2422 of this title][/us/usc/t7/s2422]; (4) that the asserted infringement was performed under an existing certificate adverse to that asserted and prior to notice of the infringement; and (5) any other fact or act made a defense by this chapter.
 
-([Pub. L. 91–577, title III, § 122][/us/pl/91/577/s122], Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 122, Dec. 24, 1970, [84 Stat. 1556][/us/stat/84/1556].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t7/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2402
 [/us/usc/t7/s2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2422
-[/us/pl/91/577/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs122
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1556
 
 

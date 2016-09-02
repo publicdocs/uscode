@@ -89,7 +89,7 @@
 
         The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in [section 553 of title 5][/us/usc/t5/s553]. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
-([Pub. L. 88–525, § 4][/us/pl/88/525/s4], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671, § 3][/us/pl/91/671/s3], Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 961][/us/stat/91/961]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1505(a), 1506, Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1102, 1106, 1122; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1867, 1884; [Pub. L. 111–296, title II, § 241(b)(1)][/us/pl/111/296/s241/b/1], Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236]; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4004(a), 4030(b), Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], 814.)
+([Pub. L. 88–525][/us/pl/88/525], § 4, Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671][/us/pl/91/671], § 3, Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 961][/us/stat/91/961]; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], §§ 1505(a), 1506, Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1102, 1106, 1122; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1867, 1884; [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 241(b)(1), Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], §§ 4004(a), 4030(b), Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], 814.)
 
  __References in Text__ 
 
@@ -101,27 +101,27 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 4030(b)][/us/pl/113/79/s4030/b], substituted “Benefits issued and used” for “benefits issued and used”.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 4030(b), substituted “Benefits issued and used” for “benefits issued and used”.
 
-    Subsec. (b)(6)(F). [Pub. L. 113–79, § 4004(a)][/us/pl/113/79/s4004/a], substituted “2018” for “2012”.
+    Subsec. (b)(6)(F). [Pub. L. 113–79][/us/pl/113/79], § 4004(a), substituted “2018” for “2012”.
 
     2010—Subsec. (a). [Pub. L. 111–296][/us/pl/111/296] struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
 
-    2008—[Pub. L. 110–246, § 4002(a)(1)][/us/pl/110/246/s4002/a/1], substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–246, § 4115(b)(2)][/us/pl/110/246/s4115/b/2], substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
+    Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4115(b)(2), substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
 
-    [Pub. L. 110–246, § 4111(a)][/us/pl/110/246/s4111/a], inserted “and, through an approved State plan, nutrition education” after “an allotment” in first sentence.
+    [Pub. L. 110–246][/us/pl/110/246], § 4111(a), inserted “and, through an approved State plan, nutrition education” after “an allotment” in first sentence.
 
-    [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+    [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-    Subsec. (b). [Pub. L. 110–246, § 4211(a)][/us/pl/110/246/s4211/a], added subsec. (b) and struck out former subsec. (b) which read as follows: “Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: Provided, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 4211(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: Provided, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
 
-    Subsec. (c). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1505(a)][/us/pl/99/198/s1505/a], inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
 
-    Subsec. (b). [Pub. L. 99–198, § 1506][/us/pl/99/198/s1506], struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
+    Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
 
     1977—Subsec. (a). [Pub. L. 95–113][/us/pl/95/113] made establishment of food stamp program subject to availability of funds appropriated under [section 2027 of this title][/us/usc/t7/s2027].
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XV, § 1505(b)][/us/pl/99/198/s1505/b], Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567], provided that:
+[Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1505(b), Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
 
@@ -153,11 +153,11 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by that section is effective Oct. 1, 1977.
+    [Pub. L. 95–113, title XIII][/us/pl/95/113/tXIII], § 1301, Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by that section is effective Oct. 1, 1977.
 
  __Feasibility Study, Report, and Demonstration Project for Indian Tribes__ 
 
-[Pub. L. 113–79, title IV, § 4004(b)][/us/pl/113/79/s4004/b], Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], provided that:
+[Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4004(b), Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -226,38 +226,38 @@
 
 [/us/usc/t7/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/88/525/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs4
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F704
-[/us/pl/91/671/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671%2Fs3
+[/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
 [/us/stat/84/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2049
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F961
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1567
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/296/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs241%2Fb%2F1
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3236
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F785
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fb
-[/us/pl/113/79/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4004%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
-[/us/pl/110/246/s4002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F1
-[/us/pl/110/246/s4115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F2
-[/us/pl/110/246/s4111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4111%2Fa
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/110/246/s4211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4211%2Fa
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/99/198/s1505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1505%2Fa
-[/us/pl/99/198/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1506
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
@@ -275,11 +275,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/99/198/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1505%2Fb
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1567
-[/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
+[/us/pl/95/113/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIII
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
-[/us/pl/113/79/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4004%2Fb
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F785
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b

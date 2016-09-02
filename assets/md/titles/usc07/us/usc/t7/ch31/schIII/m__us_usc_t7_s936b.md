@@ -83,7 +83,7 @@
 
         Notwithstanding subsection (a), a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under [section 904 of this title][/us/usc/t7/s904].
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306B, as added [Pub. L. 99–509, title I, § 1011(a)][/us/pl/99/509/s1011/a], Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876]; amended [Pub. L. 101–624, title XXIII, § 2387][/us/pl/101/624/s2387], Nov. 28, 1990, [104 Stat. 4051][/us/stat/104/4051]; [Pub. L. 102–428, § 2][/us/pl/102/428/s2], Oct. 21, 1992, [106 Stat. 2183][/us/stat/106/2183]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306B, as added [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1011(a), Oct. 21, 1986, [100 Stat. 1876][/us/stat/100/1876]; amended [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2387, Nov. 28, 1990, [104 Stat. 4051][/us/stat/104/4051]; [Pub. L. 102–428][/us/pl/102/428], § 2, Oct. 21, 1992, [106 Stat. 2183][/us/stat/106/2183]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Codification__ 
 
@@ -93,9 +93,9 @@
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1992—Subsec. (a). [Pub. L. 102–428, § 2(a)][/us/pl/102/428/s2/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan’s present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987.”
+    1992—Subsec. (a). [Pub. L. 102–428][/us/pl/102/428], § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan’s present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987.”
 
-    Subsec. (b). [Pub. L. 102–428, § 2(b)][/us/pl/102/428/s2/b], inserted heading.
+    Subsec. (b). [Pub. L. 102–428][/us/pl/102/428], § 2(b), inserted heading.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -110,18 +110,18 @@
 [/us/usc/t7/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935
 [/us/usc/t7/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs904
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/99/509/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1011%2Fa
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1876
-[/us/pl/101/624/s2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2387
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4051
-[/us/pl/102/428/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428%2Fs2
+[/us/pl/102/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428
 [/us/stat/106/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2183
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/102/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/102/428/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428%2Fs2%2Fa
-[/us/pl/102/428/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428%2Fs2%2Fb
+[/us/pl/102/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428
+[/us/pl/102/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

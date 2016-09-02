@@ -301,7 +301,7 @@
 
         The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
 
-([Pub. L. 87–128, title III, § 382B][/us/pl/87/128/s382B], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–269; amended [Pub. L. 107–171, title VI, § 6027(a)][/us/pl/107/171/s6027/a], (b), May 13, 2002, [116 Stat. 373][/us/stat/116/373]; [Pub. L. 108–447, div. C, title V, § 506][/us/pl/108/447/s506], Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963]; [Pub. L. 111–85, title IV, § 402][/us/pl/111/85/s402], Oct. 28, 2009, [123 Stat. 2878][/us/stat/123/2878].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 382B, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–269; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6027(a), (b), May 13, 2002, [116 Stat. 373][/us/stat/116/373]; [Pub. L. 108–447, div. C, title V][/us/pl/108/447/dC/tV], § 506, Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963]; [Pub. L. 111–85, title IV][/us/pl/111/85/tIV], § 402, Oct. 28, 2009, [123 Stat. 2878][/us/stat/123/2878].)
 
  __Amendments__ 
 
@@ -311,13 +311,13 @@
 
     “(B) Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
-    2004—Subsec. (c)(1)(A). [Pub. L. 108–447, § 506(1)][/us/pl/108/447/s506/1], substituted “2008” for “2004”.
+    2004—Subsec. (c)(1)(A). [Pub. L. 108–447][/us/pl/108/447], § 506(1), substituted “2008” for “2004”.
 
-    Subsec. (c)(1)(B). [Pub. L. 108–447, § 506(2)][/us/pl/108/447/s506/2], substituted “2009” for “2005”.
+    Subsec. (c)(1)(B). [Pub. L. 108–447][/us/pl/108/447], § 506(2), substituted “2009” for “2005”.
 
-    2002—Subsec. (c)(1). [Pub. L. 107–171, § 6027(a)][/us/pl/107/171/s6027/a], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+    2002—Subsec. (c)(1). [Pub. L. 107–171][/us/pl/107/171], § 6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
-    Subsec. (e)(4). [Pub. L. 107–171, § 6027(b)][/us/pl/107/171/s6027/b], substituted “, rules, and regulations” for “and rules”.
+    Subsec. (e)(4). [Pub. L. 107–171][/us/pl/107/171], § 6027(b), substituted “, rules, and regulations” for “and rules”.
 
 ----------
 
@@ -328,19 +328,19 @@
 
 [/us/usc/t7/s2009aa–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%938
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/87/128/s382B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs382B
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/171/s6027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F373
-[/us/pl/108/447/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs506
+[/us/pl/108/447/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtV
 [/us/stat/118/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2963
-[/us/pl/111/85/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs402
+[/us/pl/111/85/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIV
 [/us/stat/123/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2878
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
-[/us/pl/108/447/s506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs506%2F1
-[/us/pl/108/447/s506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs506%2F2
-[/us/pl/107/171/s6027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fa
-[/us/pl/107/171/s6027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 
 

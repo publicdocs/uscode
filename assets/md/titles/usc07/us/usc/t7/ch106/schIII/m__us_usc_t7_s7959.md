@@ -91,7 +91,7 @@
 
             If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person’s personal or organizational successor, as determined by the Secretary.
 
-([Pub. L. 107–171, title I, § 1309][/us/pl/107/171/s1309], May 13, 2002, [116 Stat. 179][/us/stat/116/179].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309, May 13, 2002, [116 Stat. 179][/us/stat/116/179].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 [/us/usc/t16/s590h/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fg
 [/us/usc/t7/s1358–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1358%E2%80%931%2Fb
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/pl/107/171/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F179
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31

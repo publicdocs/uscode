@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 91–670, title III, § 317][/us/pl/91/670/s317], Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 317, Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/670/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs317
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2047
 
 

@@ -47,7 +47,7 @@
 
         The criminal and civil penalties described in [section 8313 of this title][/us/usc/t7/s8313] shall not apply to a violation of this section that is not a violation of any other provision of this chapter.
 
-([Pub. L. 107–171, title X, § 10410][/us/pl/107/171/s10410], May 13, 2002, [116 Stat. 501][/us/stat/116/501].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10410, May 13, 2002, [116 Stat. 501][/us/stat/116/501].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t7/s8313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8313
-[/us/pl/107/171/s10410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10410
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F501
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

@@ -57,7 +57,7 @@
 
             When construing and enforcing the provisions of this subchapter, the act, omission, or failure of any officer, agent, or other person acting for or employed by any person shall in every case be also deemed to be the act, omission, or failure of such person as well as that of the person employed.
 
-([June 25, 1947, ch. 125, § 14][/us/act/1947-06-25/ch125/s14], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 992][/us/stat/86/992]; amended [Pub. L. 95–396, § 17][/us/pl/95/396/s17], Sept. 30, 1978, [92 Stat. 832][/us/stat/92/832]; [Pub. L. 100–532, title VI, § 604][/us/pl/100/532/s604], Oct. 25, 1988, [102 Stat. 2678][/us/stat/102/2678]; [Pub. L. 102–237, title X, § 1006(a)(8)][/us/pl/102/237/s1006/a/8], Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 14, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 992][/us/stat/86/992]; amended [Pub. L. 95–396][/us/pl/95/396], § 17, Sept. 30, 1978, [92 Stat. 832][/us/stat/92/832]; [Pub. L. 100–532, title VI][/us/pl/100/532/tVI], § 604, Oct. 25, 1988, [102 Stat. 2678][/us/stat/102/2678]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(8), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895].)
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 
     1988—Subsec. (b)(1). [Pub. L. 100–532][/us/pl/100/532] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
 
-    1978—Subsec. (a)(2). [Pub. L. 95–396, § 17(1)][/us/pl/95/396/s17/1], authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
+    1978—Subsec. (a)(2). [Pub. L. 95–396][/us/pl/95/396], § 17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
 
-    Subsec. (a)(3). [Pub. L. 95–396, § 17(2)][/us/pl/95/396/s17/2], struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
+    Subsec. (a)(3). [Pub. L. 95–396][/us/pl/95/396], § 17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
 
-    Subsec. (a)(4). [Pub. L. 95–396, § 17(4)][/us/pl/95/396/s17/4], reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 95–396][/us/pl/95/396], § 17(4), reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 95–396, § 17(3)][/us/pl/95/396/s17/3], redesignated former par. (4) as (5).
+    Subsec. (a)(5). [Pub. L. 95–396][/us/pl/95/396], § 17(3), redesignated former par. (4) as (5).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -89,21 +89,21 @@
 ----------
 
 [/us/usc/t7/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136a
-[/us/act/1947-06-25/ch125/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs14
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F992
-[/us/pl/95/396/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs17
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F832
-[/us/pl/100/532/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs604
+[/us/pl/100/532/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVI
 [/us/stat/102/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2678
-[/us/pl/102/237/s1006/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F8
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
-[/us/pl/95/396/s17/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs17%2F1
-[/us/pl/95/396/s17/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs17%2F2
-[/us/pl/95/396/s17/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs17%2F4
-[/us/pl/95/396/s17/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs17%2F3
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

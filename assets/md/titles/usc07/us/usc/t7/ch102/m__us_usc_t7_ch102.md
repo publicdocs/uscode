@@ -171,7 +171,7 @@
 
  __Codification__ 
 
-    This chapter is comprised principally of title II (§§ 201–215) of [Pub. L. 98–8][/us/pl/98/8], Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], as amended. Title II of [Pub. L. 98–8][/us/pl/98/8] was formerly set out as a note under [section 612c of this title][/us/usc/t7/s612c]. [Section 203 of title II of Pub. L. 98–8][/us/pl/98/8/s203], which related to processing agreements, was repealed by [Pub. L. 99–198, title XV, § 1567(c)][/us/pl/99/198/s1567/c], Dec. 23, 1985, [99 Stat. 1592][/us/stat/99/1592]. [Section 207 of title II of Pub. L. 98–8][/us/pl/98/8/s207] amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, [Pub. L. 93–86][/us/pl/93/86], set out as a note under [section 612c of this title][/us/usc/t7/s612c]. [Section 212 of title II of Pub. L. 98–8][/us/pl/98/8/s212], which provided for termination of title II of [Pub. L. 98–8][/us/pl/98/8] on Sept. 30, 2002, was repealed by [Pub. L. 104–193, title VIII, § 871(e)(4)][/us/pl/104/193/s871/e/4], Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].
+    This chapter is comprised principally of title II (§§ 201–215) of [Pub. L. 98–8][/us/pl/98/8], Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], as amended. Title II of [Pub. L. 98–8][/us/pl/98/8] was formerly set out as a note under [section 612c of this title][/us/usc/t7/s612c]. [Section 203 of title II of Pub. L. 98–8][/us/pl/98/8/tII/s203], which related to processing agreements, was repealed by [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1567(c), Dec. 23, 1985, [99 Stat. 1592][/us/stat/99/1592]. [Section 207 of title II of Pub. L. 98–8][/us/pl/98/8/tII/s207] amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, [Pub. L. 93–86][/us/pl/93/86], set out as a note under [section 612c of this title][/us/usc/t7/s612c]. [Section 212 of title II of Pub. L. 98–8][/us/pl/98/8/tII/s212], which provided for termination of title II of [Pub. L. 98–8][/us/pl/98/8] on Sept. 30, 2002, was repealed by [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(e)(4), Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].
 
 ----------
 
@@ -184,15 +184,15 @@
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/98/8/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs203
-[/us/pl/99/198/s1567/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1567%2Fc
+[/us/pl/98/8/tII/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII%2Fs203
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1592
-[/us/pl/98/8/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs207
+[/us/pl/98/8/tII/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII%2Fs207
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/98/8/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs212
+[/us/pl/98/8/tII/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII%2Fs212
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
-[/us/pl/104/193/s871/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fe%2F4
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2345
 
 

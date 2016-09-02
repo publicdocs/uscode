@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of any such provision to any person or circumstances shall be held invalid, the remainder of this chapter and the application of any such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-([Pub. L. 89–544, § 22][/us/pl/89/544/s22], Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353].)
+([Pub. L. 89–544][/us/pl/89/544], § 22, Aug. 24, 1966, [80 Stat. 353][/us/stat/80/353].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/544/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs22
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F353
 
 

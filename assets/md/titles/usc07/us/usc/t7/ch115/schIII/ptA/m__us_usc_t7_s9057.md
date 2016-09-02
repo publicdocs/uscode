@@ -311,7 +311,7 @@
 
             A participating dairy operation in the margin protection program for a calendar year shall be legally obligated to pay the applicable premium for that calendar year, except that the Secretary may waive that obligation, under terms and conditions determined by the Secretary, for any participating dairy operation in the case of death, retirement, permanent dissolution of a participating dairy operation, or other circumstances as the Secretary considers appropriate to ensure the integrity of the program.
 
-([Pub. L. 113–79, title I, § 1407][/us/pl/113/79/s1407], Feb. 7, 2014, [128 Stat. 691][/us/stat/128/691].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1407, Feb. 7, 2014, [128 Stat. 691][/us/stat/128/691].)
 
 ----------
 
@@ -321,7 +321,7 @@
 ----------
 
 [/us/usc/t7/s9056/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9056%2Fa%2F2
-[/us/pl/113/79/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1407
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F691
 
 

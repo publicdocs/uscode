@@ -27,11 +27,11 @@
 
     (2) may be sold in such country by the government of the country or the Administrator (or their designees) as provided in the agreement, and the proceeds of such sale used in accordance with this subchapter.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 304, as added [Pub. L. 95–88, title II, § 211(a)(2)][/us/pl/95/88/s211/a/2], Aug. 3, 1977, [91 Stat. 550][/us/stat/91/550]; amended [Pub. L. 95–424, title II, § 202][/us/pl/95/424/s202], Oct. 6, 1978, [92 Stat. 955][/us/stat/92/955]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3642][/us/stat/104/3642].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 304, as added [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 211(a)(2), Aug. 3, 1977, [91 Stat. 550][/us/stat/91/550]; amended [Pub. L. 95–424, title II][/us/pl/95/424/tII], § 202, Oct. 6, 1978, [92 Stat. 955][/us/stat/92/955]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3642][/us/stat/104/3642].)
 
  __Prior Provisions__ 
 
-    A prior section 304 of [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, [68 Stat. 459][/us/stat/68/459], enacted [section 1693 of this title][/us/usc/t7/s1693], prior to repeal by [Pub. L. 89–808, § 2(D)][/us/pl/89/808/s2/D], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
+    A prior section 304 of [act July 10, 1954, ch. 469, title III][/us/act/1954-07-10/ch469/tIII], [68 Stat. 459][/us/stat/68/459], enacted [section 1693 of this title][/us/usc/t7/s1693], prior to repeal by [Pub. L. 89–808][/us/pl/89/808], § 2(D), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
 
  __Amendments__ 
 
@@ -60,16 +60,16 @@
 
 [/us/usc/t22/s2151b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc%2F2
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/95/88/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fa%2F2
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F550
-[/us/pl/95/424/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs202
+[/us/pl/95/424/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtII
 [/us/stat/92/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F955
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3642
-[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
+[/us/act/1954-07-10/ch469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2FtIII
 [/us/stat/68/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F459
 [/us/usc/t7/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1693
-[/us/pl/89/808/s2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FD
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424

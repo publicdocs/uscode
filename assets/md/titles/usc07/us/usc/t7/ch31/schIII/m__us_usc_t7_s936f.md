@@ -55,7 +55,7 @@
 
         (2) recommendations for any regulatory or legislative changes that would be appropriate to improve services to substantially underserved trust areas.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306F, as added [Pub. L. 110–234, title VI, § 6105][/us/pl/110/234/s6105], May 22, 2008, [122 Stat. 1196][/us/stat/122/1196], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1957.)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306F, as added [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6105, May 22, 2008, [122 Stat. 1196][/us/stat/122/1196], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1957.)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t7/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa
 [/us/usc/t38/s3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3765
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/110/234/s6105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6105
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1196
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

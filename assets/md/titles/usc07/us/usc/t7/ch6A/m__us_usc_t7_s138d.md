@@ -33,7 +33,7 @@
 
         A laboratory that has been denied, or has lost, accreditation under this chapter shall not reapply for accreditation until the expiration of at least 6 months after such denial or loss of accreditation. Corrective actions taken by the laboratory to address deficiencies upon which the denial or loss of accreditation was based must accompany the reapplication.
 
-([Pub. L. 101–624, title XIII, § 1325][/us/pl/101/624/s1325], Nov. 28, 1990, [104 Stat. 3564][/us/stat/104/3564].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1325, Nov. 28, 1990, [104 Stat. 3564][/us/stat/104/3564].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1325
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3564
 
 

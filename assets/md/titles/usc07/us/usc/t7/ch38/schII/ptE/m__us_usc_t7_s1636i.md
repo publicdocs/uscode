@@ -17,7 +17,7 @@
 
     The authority provided by this subchapter terminates on September 30, 2020.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 260, as added [Pub. L. 109–296, § 1(a)][/us/pl/109/296/s1/a], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; amended [Pub. L. 111–239, § 2(a)(1)][/us/pl/111/239/s2/a/1], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501]; [Pub. L. 114–54, title I, § 101(a)][/us/pl/114/54/s101/a], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 260, as added [Pub. L. 109–296][/us/pl/109/296], § 1(a), Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; amended [Pub. L. 111–239][/us/pl/111/239], § 2(a)(1), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501]; [Pub. L. 114–54, title I][/us/pl/114/54/tI], § 101(a), Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/109/296/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs1%2Fa
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
 [/us/stat/120/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1464
-[/us/pl/111/239/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fa%2F1
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
-[/us/pl/114/54/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs101%2Fa
+[/us/pl/114/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtI
 [/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
 [/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239

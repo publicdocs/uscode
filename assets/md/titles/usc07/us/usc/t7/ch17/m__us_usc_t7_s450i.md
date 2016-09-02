@@ -353,7 +353,7 @@
 
                 Clause (i) shall not apply to the extent that making the report, or a part of the report, available to the public is not authorized or permitted by [section 552 of title 5][/us/usc/t5/s552] or [section 1905 of title 18][/us/usc/t18/s1905].
 
-    (d) __Repealed.__  __[__  __Pub. L. 110–246, title VII, § 7406(b)(2)__  __][/us/pl/110/246/s7406/b/2]__  __,__  __June 18, 2008__  __,__  __[__  __122 Stat. 2013__  __][/us/stat/122/2013]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 110–246, title VII__  __][/us/pl/110/246/tVII]__  __, § 7406(b)(2),__  __June 18, 2008__  __,__  __[__  __122 Stat. 2013__  __][/us/stat/122/2013]__ 
 
     (e) __Inter-Regional Research Project Number 4__ 
 
@@ -433,7 +433,7 @@
 
         The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in [section 3103 of this title][/us/usc/t7/s3103].
 
-([Pub. L. 89–106, § 2][/us/pl/89/106/s2], Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 95–113, title XIV, § 1414][/us/pl/95/113/s1414], Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV, § 1415][/us/pl/97/98/s1415], Dec. 22, 1981, [95 Stat. 1303][/us/stat/95/1303]; [Pub. L. 99–198, title XIV, § 1409][/us/pl/99/198/s1409], Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XIV, § 1497][/us/pl/101/624/s1497], title XVI, §§ 1615, 1616, Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630], 3729, 3732; [Pub. L. 102–237, title IV, § 401][/us/pl/102/237/s401], Dec. 13, 1991, [105 Stat. 1862][/us/stat/105/1862]; [Pub. L. 104–66, title I, § 1011(v)][/us/pl/104/66/s1011/v], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 885][/us/pl/104/127/s885], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; [Pub. L. 105–185, title II][/us/pl/105/185], §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, [112 Stat. 536][/us/stat/112/536], 563, 604; [Pub. L. 107–76, title VII, § 775][/us/pl/107/76/s775], Nov. 28, 2001, [115 Stat. 746][/us/stat/115/746]; [Pub. L. 107–171, title VI, § 6403(b)][/us/pl/107/171/s6403/b], title VII, §§ 7136, 7211, May 13, 2002, [116 Stat. 429][/us/stat/116/429], 436, 447; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, [122 Stat. 1213][/us/stat/122/1213], 1247, 1251; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1974, 2009, 2013; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(4), 7404, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 895.)
+([Pub. L. 89–106][/us/pl/89/106], § 2, Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1414, Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1415, Dec. 22, 1981, [95 Stat. 1303][/us/stat/95/1303]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1409, Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1497, title XVI, §§ 1615, 1616, Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630], 3729, 3732; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 401, Dec. 13, 1991, [105 Stat. 1862][/us/stat/105/1862]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(v), Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 885, Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, [112 Stat. 536][/us/stat/112/536], 563, 604; [Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 775, Nov. 28, 2001, [115 Stat. 746][/us/stat/115/746]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6403(b), title VII, §§ 7136, 7211, May 13, 2002, [116 Stat. 429][/us/stat/116/429], 436, 447; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, [122 Stat. 1213][/us/stat/122/1213], 1247, 1251; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1974, 2009, 2013; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7128(b)(4), 7404, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 895.)
 
  __References in Text__ 
 
@@ -453,125 +453,125 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(B)(ix), (x). [Pub. L. 113–79, § 7404(b)(1)][/us/pl/113/79/s7404/b/1], added cls. (ix) and (x).
+    2014—Subsec. (b)(2)(B)(ix), (x). [Pub. L. 113–79][/us/pl/113/79], § 7404(b)(1), added cls. (ix) and (x).
 
-    Subsec. (b)(2)(D). [Pub. L. 113–79, § 7404(b)(2)(A)][/us/pl/113/79/s7404/b/2/A], substituted “Bioenergy” for “Renewable energy” in heading.
+    Subsec. (b)(2)(D). [Pub. L. 113–79][/us/pl/113/79], § 7404(b)(2)(A), substituted “Bioenergy” for “Renewable energy” in heading.
 
-    Subsec. (b)(2)(D)(iv) to (vii). [Pub. L. 113–79, § 7404(b)(2)(B)][/us/pl/113/79/s7404/b/2/B], (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
+    Subsec. (b)(2)(D)(iv) to (vii). [Pub. L. 113–79][/us/pl/113/79], § 7404(b)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
 
-    Subsec. (b)(2)(F). [Pub. L. 113–79, § 7404(b)(3)(A)][/us/pl/113/79/s7404/b/3/A], inserted “economics,” after “trade,” in introductory provisions.
+    Subsec. (b)(2)(F). [Pub. L. 113–79][/us/pl/113/79], § 7404(b)(3)(A), inserted “economics,” after “trade,” in introductory provisions.
 
-    Subsec. (b)(2)(F)(v) to (vii). [Pub. L. 113–79, § 7404(b)(3)(B)][/us/pl/113/79/s7404/b/3/B], (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
+    Subsec. (b)(2)(F)(v) to (vii). [Pub. L. 113–79][/us/pl/113/79], § 7404(b)(3)(B), (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
 
-    Subsec. (b)(4)(F). [Pub. L. 113–79, § 7404(c)][/us/pl/113/79/s7404/c], added subpar. (F).
+    Subsec. (b)(4)(F). [Pub. L. 113–79][/us/pl/113/79], § 7404(c), added subpar. (F).
 
-    Subsec. (b)(6)(E). [Pub. L. 113–79, § 7404(d)][/us/pl/113/79/s7404/d], added subpar. (E).
+    Subsec. (b)(6)(E). [Pub. L. 113–79][/us/pl/113/79], § 7404(d), added subpar. (E).
 
-    Subsec. (b)(7)(G). [Pub. L. 113–79, § 7404(e)][/us/pl/113/79/s7404/e], substituted “, foundations, or corporations” for “or corporations”.
+    Subsec. (b)(7)(G). [Pub. L. 113–79][/us/pl/113/79], § 7404(e), substituted “, foundations, or corporations” for “or corporations”.
 
-    Subsec. (b)(9)(A)(iii). [Pub. L. 113–79, § 7128(b)(4)(A)][/us/pl/113/79/s7128/b/4/A], added cl. (iii).
+    Subsec. (b)(9)(A)(iii). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(4)(A), added cl. (iii).
 
-    Subsec. (b)(9)(B). [Pub. L. 113–79, § 7404(f)][/us/pl/113/79/s7404/f], added subpar. (B).
+    Subsec. (b)(9)(B). [Pub. L. 113–79][/us/pl/113/79], § 7404(f), added subpar. (B).
 
-    [Pub. L. 113–79, § 7128(b)(4)(B)][/us/pl/113/79/s7128/b/4/B], struck out subpar. (B) which related to applied research.
+    [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(4)(B), struck out subpar. (B) which related to applied research.
 
-    Subsec. (b)(11)(A). [Pub. L. 113–79, § 7404(a)][/us/pl/113/79/s7404/a], substituted “2018” for “2012” in introductory provisions.
+    Subsec. (b)(11)(A). [Pub. L. 113–79][/us/pl/113/79], § 7404(a), substituted “2018” for “2012” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 113–79, § 7404(g)(1)][/us/pl/113/79/s7404/g/1], substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621][/us/usc/t7/s1621] note)),” for “minor use pesticides”.
+    Subsec. (e)(1)(A). [Pub. L. 113–79][/us/pl/113/79], § 7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621][/us/usc/t7/s1621] note)),” for “minor use pesticides”.
 
-    Subsec. (e)(4)(A). [Pub. L. 113–79, § 7404(g)(2)(A)][/us/pl/113/79/s7404/g/2/A], inserted “and for use on specialty crops” after “minor agricultural use”.
+    Subsec. (e)(4)(A). [Pub. L. 113–79][/us/pl/113/79], § 7404(g)(2)(A), inserted “and for use on specialty crops” after “minor agricultural use”.
 
-    Subsec. (e)(4)(C) to (G). [Pub. L. 113–79, § 7404(g)(2)(B)][/us/pl/113/79/s7404/g/2/B]–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
+    Subsec. (e)(4)(C) to (G). [Pub. L. 113–79][/us/pl/113/79], § 7404(g)(2)(B)–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 7406(a)][/us/pl/110/246/s7406/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
 
-    Subsec. (d). [Pub. L. 110–246, § 7406(b)(2)][/us/pl/110/246/s7406/b/2], struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 7406(b)(2), struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
 
-    Subsec. (k). [Pub. L. 110–246, § 7101(b)(2)][/us/pl/110/246/s7101/b/2], which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
+    Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 7101(b)(2), which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
 
-    2002—Subsec. (b)(2). [Pub. L. 107–171, § 7211][/us/pl/107/171/s7211], substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
+    2002—Subsec. (b)(2). [Pub. L. 107–171][/us/pl/107/171], § 7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
 
-    Subsec. (b)(8)(B). [Pub. L. 107–171, § 6403(b)][/us/pl/107/171/s6403/b], substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in [section 2204f(c)(2)(C)(ii) of this title][/us/usc/t7/s2204f/c/2/C/ii])” in second sentence.
+    Subsec. (b)(8)(B). [Pub. L. 107–171][/us/pl/107/171], § 6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in [section 2204f(c)(2)(C)(ii) of this title][/us/usc/t7/s2204f/c/2/C/ii])” in second sentence.
 
-    Subsec. (b)(10). [Pub. L. 107–171, § 7136][/us/pl/107/171/s7136], substituted “2007” for “2002” in introductory provisions.
+    Subsec. (b)(10). [Pub. L. 107–171][/us/pl/107/171], § 7136, substituted “2007” for “2002” in introductory provisions.
 
-    2001—Subsec. (b)(3)(G). [Pub. L. 107–76, § 775(1)][/us/pl/107/76/s775/1], added subpar. (G).
+    2001—Subsec. (b)(3)(G). [Pub. L. 107–76][/us/pl/107/76], § 775(1), added subpar. (G).
 
-    Subsec. (b)(10)(C). [Pub. L. 107–76, § 775(2)][/us/pl/107/76/s775/2], substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
+    Subsec. (b)(10)(C). [Pub. L. 107–76][/us/pl/107/76], § 775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
 
     1998—Subsec. (b)(1). [Pub. L. 105–185][/us/pl/105/185], §§ 211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under [section 3123 of this title][/us/usc/t7/s3123])” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
 
-    Subsec. (b)(2). [Pub. L. 105–185, § 211(2)][/us/pl/105/185/s211/2], substituted “multistate” for “regional” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 105–185][/us/pl/105/185], § 211(2), substituted “multistate” for “regional” in introductory provisions.
 
-    Subsec. (b)(3)(E). [Pub. L. 105–185, § 211(3)][/us/pl/105/185/s211/3], substituted “an individual shall be within 5 years of the individual’s initial career track position” for “an individual shall have less than 5 years of post-graduate research experience” in second sentence.
+    Subsec. (b)(3)(E). [Pub. L. 105–185][/us/pl/105/185], § 211(3), substituted “an individual shall be within 5 years of the individual’s initial career track position” for “an individual shall have less than 5 years of post-graduate research experience” in second sentence.
 
-    Subsec. (b)(8)(B). [Pub. L. 105–185, § 211(4)][/us/pl/105/185/s211/4], substituted “the cost of” for “the cost” and inserted at end “The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in [section 2204f(c)(2)(C)(ii) of this title][/us/usc/t7/s2204f/c/2/C/ii]) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.”
+    Subsec. (b)(8)(B). [Pub. L. 105–185][/us/pl/105/185], § 211(4), substituted “the cost of” for “the cost” and inserted at end “The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in [section 2204f(c)(2)(C)(ii) of this title][/us/usc/t7/s2204f/c/2/C/ii]) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.”
 
-    Subsec. (b)(10). [Pub. L. 105–185, § 301(f)][/us/pl/105/185/s301/f], substituted “2002” for “1997” in introductory provisions.
+    Subsec. (b)(10). [Pub. L. 105–185][/us/pl/105/185], § 301(f), substituted “2002” for “1997” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–185, § 212(1)(A)][/us/pl/105/185/s212/1/A], substituted “3 years” for “5 years” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 105–185][/us/pl/105/185], § 212(1)(A), substituted “3 years” for “5 years” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 105–185, § 212(1)(B)][/us/pl/105/185/s212/1/B], inserted “, extension, or education activities” after “conducting research”.
+    Subsec. (c)(1)(A). [Pub. L. 105–185][/us/pl/105/185], § 212(1)(B), inserted “, extension, or education activities” after “conducting research”.
 
-    Subsec. (c)(1)(B). [Pub. L. 105–185, § 212(1)(C)(i)][/us/pl/105/185/s212/1/C/i], inserted “, extension, or education” after “agricultural research” in introductory provisions.
+    Subsec. (c)(1)(B). [Pub. L. 105–185][/us/pl/105/185], § 212(1)(C)(i), inserted “, extension, or education” after “agricultural research” in introductory provisions.
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 105–185, § 212(1)(C)(ii)][/us/pl/105/185/s212/1/C/ii], inserted “, extension, or education” after “research”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 105–185][/us/pl/105/185], § 212(1)(C)(ii), inserted “, extension, or education” after “research”.
 
-    Subsec. (c)(1)(B)(iv). [Pub. L. 105–185, § 212(1)(C)(iii)][/us/pl/105/185/s212/1/C/iii], substituted “, extension, or education among States through regional” for “among States through regional research”.
+    Subsec. (c)(1)(B)(iv). [Pub. L. 105–185][/us/pl/105/185], § 212(1)(C)(iii), substituted “, extension, or education among States through regional” for “among States through regional research”.
 
-    Subsec. (c)(5), (6). [Pub. L. 105–185, § 212(2)][/us/pl/105/185/s212/2], added pars. (5) and (6).
+    Subsec. (c)(5), (6). [Pub. L. 105–185][/us/pl/105/185], § 212(2), added pars. (5) and (6).
 
-    Subsec. (l). [Pub. L. 105–185, § 606(h)(2)][/us/pl/105/185/s606/h/2], struck out heading and text of subsec. (l). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
+    Subsec. (l). [Pub. L. 105–185][/us/pl/105/185], § 606(h)(2), struck out heading and text of subsec. (l). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
 
-    1996—Subsec. (b)(10). [Pub. L. 104–127, § 885(a)(1)][/us/pl/104/127/s885/a/1], substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
+    1996—Subsec. (b)(10). [Pub. L. 104–127][/us/pl/104/127], § 885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
 
-    Subsec. (b)(10)(B). [Pub. L. 104–127, § 885(a)(2)][/us/pl/104/127/s885/a/2], substituted “40 percent” for “20 percent”.
+    Subsec. (b)(10)(B). [Pub. L. 104–127][/us/pl/104/127], § 885(a)(2), substituted “40 percent” for “20 percent”.
 
-    Subsec. (b)(11). [Pub. L. 104–127, § 885(b)][/us/pl/104/127/s885/b], added par. (11).
+    Subsec. (b)(11). [Pub. L. 104–127][/us/pl/104/127], § 885(b), added par. (11).
 
     1995—Subsecs. (l), (m). [Pub. L. 104–66][/us/pl/104/66] redesignated subsec. (m) as (l) and struck out former subsec. (l) which directed Secretary of Agriculture to submit annual reports to Congress on competitive grant and special grant awards.
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 401(a)][/us/pl/102/237/s401/a], designated existing provisions as par. (1) and added par. (2).
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 401(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(10). [Pub. L. 102–237, § 401(b)(1)][/us/pl/102/237/s401/b/1], struck out “and” after “1993,”.
+    Subsec. (b)(10). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(1), struck out “and” after “1993,”.
 
-    Subsec. (e). [Pub. L. 102–237, § 401(b)(2)(A)][/us/pl/102/237/s401/b/2/A], substituted “Inter-Regional Research Project Number 4” for “Record keeping” as heading.
+    Subsec. (e). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(A), substituted “Inter-Regional Research Project Number 4” for “Record keeping” as heading.
 
-    Subsec. (e)(1). [Pub. L. 102–237, § 401(b)(2)(B)][/us/pl/102/237/s401/b/2/B], substituted “this subsection” for “this section” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(B), substituted “this subsection” for “this section” in introductory provisions.
 
-    Subsec. (e)(2) to (4). [Pub. L. 102–237, § 401(b)(2)(C)][/us/pl/102/237/s401/b/2/C], substituted “IR–4 Program” for “IR–4 program”.
+    Subsec. (e)(2) to (4). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-    Subsec. (e)(5)(B). [Pub. L. 102–237, § 401(b)(2)(D)][/us/pl/102/237/s401/b/2/D], substituted “registrations,” for “registration,” and inserted “and” at end.
+    Subsec. (e)(5)(B). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(D), substituted “registrations,” for “registration,” and inserted “and” at end.
 
-    Subsec. (e)(5)(C). [Pub. L. 102–237, § 401(b)(2)(C)][/us/pl/102/237/s401/b/2/C], substituted “IR–4 Program” for “IR–4 program”.
+    Subsec. (e)(5)(C). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-    Subsec. (e)(6). [Pub. L. 102–237, § 401(b)(2)(E)][/us/pl/102/237/s401/b/2/E], substituted “not later than November 28, 1991,” for “within one year of November 28, 1990,” and inserted a comma after “reregistrations” in first sentence.
+    Subsec. (e)(6). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(E), substituted “not later than November 28, 1991,” for “within one year of November 28, 1990,” and inserted a comma after “reregistrations” in first sentence.
 
-    Subsec. (e)(6)(A). [Pub. L. 102–237, § 401(b)(2)(C)][/us/pl/102/237/s401/b/2/C], substituted “IR–4 Program” for “IR–4 program”.
+    Subsec. (e)(6)(A). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-    Subsec. (e)(7). [Pub. L. 102–237, § 401(b)(2)(B)][/us/pl/102/237/s401/b/2/B], substituted “this subsection” for “this section”.
+    Subsec. (e)(7). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(2)(B), substituted “this subsection” for “this section”.
 
-    Subsec. (f). [Pub. L. 102–237, § 401(b)(3)][/us/pl/102/237/s401/b/3], substituted “Record keeping” for “Limits on overhead costs” as heading.
+    Subsec. (f). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(3), substituted “Record keeping” for “Limits on overhead costs” as heading.
 
-    Subsec. (g). [Pub. L. 102–237, § 401(b)(4)][/us/pl/102/237/s401/b/4], substituted “Limits on overhead costs” for “Authorization of appropriations” as heading.
+    Subsec. (g). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(4), substituted “Limits on overhead costs” for “Authorization of appropriations” as heading.
 
-    Subsec. (h). [Pub. L. 102–237, § 401(b)(5)][/us/pl/102/237/s401/b/5], substituted “Authorization of appropriations” for “Rules” as heading and “subsections (b) and (e)” for “subsection (b) of this section” and struck out “the provisions of” after “to carry out”.
+    Subsec. (h). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(5), substituted “Authorization of appropriations” for “Rules” as heading and “subsections (b) and (e)” for “subsection (b) of this section” and struck out “the provisions of” after “to carry out”.
 
-    Subsec. (i). [Pub. L. 102–237, § 401(b)(6)][/us/pl/102/237/s401/b/6], substituted “Rules” for “Application of other laws” as heading, substituted “may” for “is authorized to”, and struck out “the provisions of” after “to carry out”.
+    Subsec. (i). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(6), substituted “Rules” for “Application of other laws” as heading, substituted “may” for “is authorized to”, and struck out “the provisions of” after “to carry out”.
 
-    Subsec. (j). [Pub. L. 102–237, § 401(b)(7)][/us/pl/102/237/s401/b/7], (8), inserted “Application of other laws” as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
+    Subsec. (j). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(7), (8), inserted “Application of other laws” as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
 
-    Subsecs. (k) to (m). [Pub. L. 102–237, § 401(b)(8)][/us/pl/102/237/s401/b/8], redesignated subsecs. (j) to (l), as added by [Pub. L. 101–624, § 1615(b)][/us/pl/101/624/s1615/b], as (k) to (m), respectively.
+    Subsecs. (k) to (m). [Pub. L. 102–237][/us/pl/102/237], § 401(b)(8), redesignated subsecs. (j) to (l), as added by [Pub. L. 101–624][/us/pl/101/624], § 1615(b), as (k) to (m), respectively.
 
-    1990—[Pub. L. 101–624, § 1615(c)(1)][/us/pl/101/624/s1615/c/1], inserted “Competitive, special, and facilities research grants” as section catchline.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
 
-    Subsec. (a). [Pub. L. 101–624, § 1615(c)(1)][/us/pl/101/624/s1615/c/1], inserted heading.
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1615(c)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 101–624, § 1615(a)][/us/pl/101/624/s1615/a], inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified “high priority research” as well as provisions relating to the awarding, administration, and funding of such research.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1615(a), inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified “high priority research” as well as provisions relating to the awarding, administration, and funding of such research.
 
-    Subsec. (c). [Pub. L. 101–624, § 1616][/us/pl/101/624/s1616], amended subsec. (c) generally, designating former introductory text as par. (1), redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, and in subpar. (A), expanding the entities which may receive grants under this subsection to include all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for the purpose of conducting research in areas of food and agriculture important to the U.S., and designating former closing provisions as pars. (2) through (4), and in par. (4), inserting provisions requiring that ninety percent of the amounts appropriated for a fiscal year under this subsection be used for regional research projects.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1616, amended subsec. (c) generally, designating former introductory text as par. (1), redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, and in subpar. (A), expanding the entities which may receive grants under this subsection to include all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for the purpose of conducting research in areas of food and agriculture important to the U.S., and designating former closing provisions as pars. (2) through (4), and in par. (4), inserting provisions requiring that ninety percent of the amounts appropriated for a fiscal year under this subsection be used for regional research projects.
 
-    Subsec. (d). [Pub. L. 101–624, § 1615(c)(2)][/us/pl/101/624/s1615/c/2], inserted heading.
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1615(c)(2), inserted heading.
 
     Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], §§ 1497(1), (2), 1615(c)(3), added subsec. (e), inserted heading, and redesignated former subsec. (e) as (f).
 
@@ -579,33 +579,33 @@
 
     Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], §§ 1497(1), 1615(c)(5), redesignated subsec. (f) as (g) and inserted heading. Former subsec. (g) redesignated (h).
 
-    [Pub. L. 101–624, § 1497(3)][/us/pl/101/624/s1497/3], which directed insertion of “and subsection (e)” after “subsection (b)”, could not be executed because “subsection (b)” did not appear in text.
+    [Pub. L. 101–624][/us/pl/101/624], § 1497(3), which directed insertion of “and subsection (e)” after “subsection (b)”, could not be executed because “subsection (b)” did not appear in text.
 
     Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], §§ 1497(1), 1615(c)(6), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
 
     Subsec. (i). [Pub. L. 101–624][/us/pl/101/624], §§ 1497(1), 1615(c)(7), redesignated subsec. (h) as (i) and inserted heading. Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 101–624, § 1615(b)][/us/pl/101/624/s1615/b], added subsec. (j) relating to emphasis on sustainable agriculture.
+    Subsec. (j). [Pub. L. 101–624][/us/pl/101/624], § 1615(b), added subsec. (j) relating to emphasis on sustainable agriculture.
 
-    [Pub. L. 101–624, § 1497(1)][/us/pl/101/624/s1497/1], redesignated subsec. (i), relating to application of other laws, as (j).
+    [Pub. L. 101–624][/us/pl/101/624], § 1497(1), redesignated subsec. (i), relating to application of other laws, as (j).
 
-    Subsecs. (k) and (l). [Pub. L. 101–624, § 1615(b)][/us/pl/101/624/s1615/b], added subsecs. (k) and (l).
+    Subsecs. (k) and (l). [Pub. L. 101–624][/us/pl/101/624], § 1615(b), added subsecs. (k) and (l).
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1409(a)(1)][/us/pl/99/198/s1409/a/1], (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
-    [Pub. L. 99–198, § 1409(a)(3)][/us/pl/99/198/s1409/a/3], in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
+    [Pub. L. 99–198][/us/pl/99/198], § 1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
 
-    Subsec. (c). [Pub. L. 99–198, § 1409(b)(1)][/us/pl/99/198/s1409/b/1], prohibited any grant under subsec. (c) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+    Subsec. (c). [Pub. L. 99–198][/us/pl/99/198], § 1409(b)(1), prohibited any grant under subsec. (c) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
-    [Pub. L. 99–198, § 1409(b)(2)][/us/pl/99/198/s1409/b/2], authorized retention of four percent of appropriated funds for payment of administrative costs.
+    [Pub. L. 99–198][/us/pl/99/198], § 1409(b)(2), authorized retention of four percent of appropriated funds for payment of administrative costs.
 
-    Subsec. (i). [Pub. L. 99–198, § 1409(c)][/us/pl/99/198/s1409/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 99–198][/us/pl/99/198], § 1409(c), added subsec. (i).
 
-    1981—Subsec. (b). [Pub. L. 97–98, § 1415(a)][/us/pl/97/98/s1415/a], inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
+    1981—Subsec. (b). [Pub. L. 97–98][/us/pl/97/98], § 1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
 
-    Subsec. (c). [Pub. L. 97–98, § 1415(b)][/us/pl/97/98/s1415/b], in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
+    Subsec. (c). [Pub. L. 97–98][/us/pl/97/98], § 1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
-    Subsec. (d). [Pub. L. 97–98, § 1415(c)][/us/pl/97/98/s1415/c], in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
+    Subsec. (d). [Pub. L. 97–98][/us/pl/97/98], § 1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 
     1977—[Pub. L. 95–113][/us/pl/95/113] designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 
@@ -613,7 +613,7 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
 
-[Pub. L. 110–234, title VII, § 7406(c)][/us/pl/110/234/s7406/c], May 22, 2008, [122 Stat. 1251][/us/stat/122/1251], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7406(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013, provided that: 
+[Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7406(c), May 22, 2008, [122 Stat. 1251][/us/stat/122/1251], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7406(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013, provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3319, 5924, and 5925b of this title and repealing [section 7621 of this title][/us/usc/t7/s7621]\] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act \[June 18, 2008\].”
 
@@ -621,9 +621,9 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title XIV, § 1409(a)(3)][/us/pl/99/198/s1409/a/3], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], provided that the amendment made by [section 1409(a)(3) of Pub. L. 99–198][/us/pl/99/198/s1409/a/3] is effective Oct. 1, 1985.
+    [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1409(a)(3), Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], provided that the amendment made by [section 1409(a)(3) of Pub. L. 99–198][/us/pl/99/198/s1409/a/3] is effective Oct. 1, 1985.
 
-    [Pub. L. 99–198, title XIV, § 1409(b)(2)][/us/pl/99/198/s1409/b/2], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], provided that the amendment made by [section 1409(b)(2) of Pub. L. 99–198][/us/pl/99/198/s1409/b/2] is effective Oct. 1, 1985.
+    [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1409(b)(2), Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547], provided that the amendment made by [section 1409(b)(2) of Pub. L. 99–198][/us/pl/99/198/s1409/b/2] is effective Oct. 1, 1985.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -654,39 +654,39 @@
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/110/246/s7406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fb%2F2
+[/us/pl/110/246/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtVII
 [/us/stat/122/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2013
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/89/106/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106%2Fs2
+[/us/pl/89/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106
 [/us/stat/79/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F431
-[/us/pl/95/113/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1414
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F991
-[/us/pl/97/98/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1415
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1303
-[/us/pl/99/198/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1546
-[/us/pl/101/624/s1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1497
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3630
-[/us/pl/102/237/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1862
-[/us/pl/104/66/s1011/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fv
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F711
-[/us/pl/104/127/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs885
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1179
-[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F536
-[/us/pl/107/76/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs775
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F746
-[/us/pl/107/171/s6403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6403%2Fb
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F429
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1213
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
@@ -706,97 +706,97 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F1
-[/us/pl/113/79/s7404/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F2%2FA
-[/us/pl/113/79/s7404/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F2%2FB
-[/us/pl/113/79/s7404/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F3%2FA
-[/us/pl/113/79/s7404/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F3%2FB
-[/us/pl/113/79/s7404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fc
-[/us/pl/113/79/s7404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fd
-[/us/pl/113/79/s7404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fe
-[/us/pl/113/79/s7128/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F4%2FA
-[/us/pl/113/79/s7404/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Ff
-[/us/pl/113/79/s7128/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F4%2FB
-[/us/pl/113/79/s7404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fa
-[/us/pl/113/79/s7404/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
-[/us/pl/113/79/s7404/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F2%2FA
-[/us/pl/113/79/s7404/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F2%2FB
-[/us/pl/110/246/s7406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fa
-[/us/pl/110/246/s7406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fb%2F2
-[/us/pl/110/246/s7101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F2
-[/us/pl/107/171/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7211
-[/us/pl/107/171/s6403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6403%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2204f/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204f%2Fc%2F2%2FC%2Fii
-[/us/pl/107/171/s7136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7136
-[/us/pl/107/76/s775/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs775%2F1
-[/us/pl/107/76/s775/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs775%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
-[/us/pl/105/185/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs211%2F2
-[/us/pl/105/185/s211/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs211%2F3
-[/us/pl/105/185/s211/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs211%2F4
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s2204f/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204f%2Fc%2F2%2FC%2Fii
-[/us/pl/105/185/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs301%2Ff
-[/us/pl/105/185/s212/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F1%2FA
-[/us/pl/105/185/s212/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F1%2FB
-[/us/pl/105/185/s212/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F1%2FC%2Fi
-[/us/pl/105/185/s212/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F1%2FC%2Fii
-[/us/pl/105/185/s212/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F1%2FC%2Fiii
-[/us/pl/105/185/s212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs212%2F2
-[/us/pl/105/185/s606/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fh%2F2
-[/us/pl/104/127/s885/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs885%2Fa%2F1
-[/us/pl/104/127/s885/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs885%2Fa%2F2
-[/us/pl/104/127/s885/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs885%2Fb
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/102/237/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fa
-[/us/pl/102/237/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F1
-[/us/pl/102/237/s401/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FA
-[/us/pl/102/237/s401/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FB
-[/us/pl/102/237/s401/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FC
-[/us/pl/102/237/s401/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FD
-[/us/pl/102/237/s401/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FC
-[/us/pl/102/237/s401/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FE
-[/us/pl/102/237/s401/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FC
-[/us/pl/102/237/s401/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F2%2FB
-[/us/pl/102/237/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F3
-[/us/pl/102/237/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F4
-[/us/pl/102/237/s401/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F5
-[/us/pl/102/237/s401/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F6
-[/us/pl/102/237/s401/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F7
-[/us/pl/102/237/s401/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs401%2Fb%2F8
-[/us/pl/101/624/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fb
-[/us/pl/101/624/s1615/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fc%2F1
-[/us/pl/101/624/s1615/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fc%2F1
-[/us/pl/101/624/s1615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fa
-[/us/pl/101/624/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1616
-[/us/pl/101/624/s1615/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fc%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s1497/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1497%2F3
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fb
-[/us/pl/101/624/s1497/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1497%2F1
-[/us/pl/101/624/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1615%2Fb
-[/us/pl/99/198/s1409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fa%2F1
-[/us/pl/99/198/s1409/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fa%2F3
-[/us/pl/99/198/s1409/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fb%2F1
-[/us/pl/99/198/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fb%2F2
-[/us/pl/99/198/s1409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fc
-[/us/pl/97/98/s1415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1415%2Fa
-[/us/pl/97/98/s1415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1415%2Fb
-[/us/pl/97/98/s1415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1415%2Fc
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s7406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7406%2Fc
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1251
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7621
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -804,10 +804,10 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/99/198/s1409/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fa%2F3
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1547
 [/us/pl/99/198/s1409/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fa%2F3
-[/us/pl/99/198/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fb%2F2
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1547
 [/us/pl/99/198/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1409%2Fb%2F2
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

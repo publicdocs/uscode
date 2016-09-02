@@ -37,7 +37,7 @@
 
         The Secretary may amend an order issued under this section.
 
-([Pub. L. 104–127, title V, § 534][/us/pl/104/127/s534], Apr. 4, 1996, [110 Stat. 1050][/us/stat/110/1050].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 534, Apr. 4, 1996, [110 Stat. 1050][/us/stat/110/1050].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs534
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1050
 
 

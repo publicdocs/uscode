@@ -17,7 +17,7 @@
 
     When the day, or the last day, for taking any action or paying any fee in the United States Plant Variety Protection Office falls on Saturday, Sunday, a holiday within the District of Columbia, or on any other day the Plant Variety Protection Office is closed for the receipt of papers, the action may be taken or the fee paid, on the next succeeding business day.
 
-([Pub. L. 91–577, title I, § 21][/us/pl/91/577/s21], Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 21, Dec. 24, 1970, [84 Stat. 1544][/us/stat/84/1544].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs21
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1544
 
 

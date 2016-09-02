@@ -31,7 +31,7 @@
 
         The Secretary shall implement the program established under subsection (a) through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
 
-([Pub. L. 101–624, title XXI, § 2104][/us/pl/101/624/s2104], Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2104, Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t7/s6517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6517
 [/us/usc/t7/s6518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6518
-[/us/pl/101/624/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2104
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3937
 
 

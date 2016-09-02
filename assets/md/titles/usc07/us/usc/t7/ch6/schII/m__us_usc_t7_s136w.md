@@ -81,7 +81,7 @@
 
         The Administrator shall, by written procedures, provide for peer review with respect to the design, protocols, and conduct of major scientific studies conducted under this subchapter by the Environmental Protection Agency or by any other Federal agency, any State or political subdivision thereof, or any institution or individual under grant, contract, or cooperative agreement from or with the Environmental Protection Agency. In such procedures, the Administrator shall also provide for peer review, using the advisory panel established under subsection (d) of this section or appropriate experts appointed by the Administrator from a current list of nominees maintained by such panel, with respect to the results of any such scientific studies relied upon by the Administrator with respect to actions the Administrator may take relating to the change in classification, suspension, or cancellation of a pesticide. Whenever the Administrator determines that circumstances do not permit the peer review of the results of any such scientific study prior to the Administrator’s exercising authority under [section 136d(c) of this title][/us/usc/t7/s136d/c] to immediately suspend the registration of any pesticide to prevent an imminent hazard, the Administrator shall promptly thereafter provide for the conduct of peer review as provided in this sentence. The evaluations and relevant documentation constituting the peer review that relate to the proposed scientific studies and the results of the completed scientific studies shall be included in the submission for comment forwarded by the Administrator to the advisory panel as provided in subsection (d). As used in this subsection, the term “peer review” shall mean an independent evaluation by scientific experts, either within or outside the Environmental Protection Agency, in the appropriate disciplines.
 
-([June 25, 1947, ch. 125, § 25][/us/act/1947-06-25/ch125/s25], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 997][/us/stat/86/997]; amended [Pub. L. 94–140][/us/pl/94/140], §§ 2(a), 6, 7, Nov. 28, 1975, [89 Stat. 751][/us/stat/89/751], 753; [Pub. L. 95–396, § 23][/us/pl/95/396/s23], Sept. 30, 1978, [92 Stat. 836][/us/stat/92/836]; [Pub. L. 96–539][/us/pl/96/539], §§ 1, 2(a), 4, Dec. 17, 1980, [94 Stat. 3194][/us/stat/94/3194], 3195; [Pub. L. 98–201, § 1][/us/pl/98/201/s1], Dec. 2, 1983, [97 Stat. 1379][/us/stat/97/1379]; [Pub. L. 98–620, title IV, § 402(4)(D)][/us/pl/98/620/s402/4/D], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 100–352, § 6(i)][/us/pl/100/352/s6/i], June 27, 1988, [102 Stat. 664][/us/stat/102/664]; [Pub. L. 100–532, title VI][/us/pl/100/532], §§ 602, 605, title VIII, § 801(n), Oct. 25, 1988, [102 Stat. 2678][/us/stat/102/2678], 2679, 2683; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 104–170, title I, § 104][/us/pl/104/170/s104], title II, § 235, Aug. 3, 1996, [110 Stat. 1490][/us/stat/110/1490], 1509.)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 25, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 997][/us/stat/86/997]; amended [Pub. L. 94–140][/us/pl/94/140], §§ 2(a), 6, 7, Nov. 28, 1975, [89 Stat. 751][/us/stat/89/751], 753; [Pub. L. 95–396][/us/pl/95/396], § 23, Sept. 30, 1978, [92 Stat. 836][/us/stat/92/836]; [Pub. L. 96–539][/us/pl/96/539], §§ 1, 2(a), 4, Dec. 17, 1980, [94 Stat. 3194][/us/stat/94/3194], 3195; [Pub. L. 98–201][/us/pl/98/201], § 1, Dec. 2, 1983, [97 Stat. 1379][/us/stat/97/1379]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(4)(D), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 100–352][/us/pl/100/352], § 6(i), June 27, 1988, [102 Stat. 664][/us/stat/102/664]; [Pub. L. 100–532, title VI][/us/pl/100/532/tVI], §§ 602, 605, title VIII, § 801(n), Oct. 25, 1988, [102 Stat. 2678][/us/stat/102/2678], 2679, 2683; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(b)(1), (2), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895]; [Pub. L. 104–170, title I][/us/pl/104/170/tI], § 104, title II, § 235, Aug. 3, 1996, [110 Stat. 1490][/us/stat/110/1490], 1509.)
 
  __References in Text__ 
 
@@ -93,53 +93,53 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–170, § 235][/us/pl/104/170/s235], inserted “, including public health pesticides,” after “various classes of pesticides” and substituted “, nonagricultural, and public health pesticides” for “and nonagricultural pesticides”.
+    1996—Subsec. (a)(1). [Pub. L. 104–170][/us/pl/104/170], § 235, inserted “, including public health pesticides,” after “various classes of pesticides” and substituted “, nonagricultural, and public health pesticides” for “and nonagricultural pesticides”.
 
-    Subsec. (d). [Pub. L. 104–170, § 104][/us/pl/104/170/s104], designated existing text as par. (1), inserted heading, and added par. (2).
+    Subsec. (d). [Pub. L. 104–170][/us/pl/104/170], § 104, designated existing text as par. (1), inserted heading, and added par. (2).
 
-    1991—Subsec. (a)(3). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “shall”.
+    1991—Subsec. (a)(3). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “shall”.
 
-    Subsec. (b). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “determines”.
+    Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-    Subsec. (c)(4). [Pub. L. 102–237, § 1006(b)(2)][/us/pl/102/237/s1006/b/2], substituted “the Administrator’s” for “his”.
+    Subsec. (c)(4). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(2), substituted “the Administrator’s” for “his”.
 
-    Subsec. (c)(5). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “determines”.
+    Subsec. (c)(5). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “determines”.
 
-    Subsec. (d). [Pub. L. 102–237, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], substituted “the Administrator” for “he” before “deems necessary” and before “shall publish”.
+    Subsec. (d). [Pub. L. 102–237][/us/pl/102/237], § 1006(b)(1), substituted “the Administrator” for “he” before “deems necessary” and before “shall publish”.
 
-    1988—Subsec. (a). [Pub. L. 100–532, § 801(n)(1)][/us/pl/100/532/s801/n/1], amended heading and directed that pars. (1) to (3) be aligned at left margin with subsec. (c)(1), and that subpars. (A) to (D) of par. (2) be indented, and in par. (3) substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+    1988—Subsec. (a). [Pub. L. 100–532][/us/pl/100/532], § 801(n)(1), amended heading and directed that pars. (1) to (3) be aligned at left margin with subsec. (c)(1), and that subpars. (A) to (D) of par. (2) be indented, and in par. (3) substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-    Subsec. (a)(4). [Pub. L. 100–532, § 605][/us/pl/100/532/s605], amended par. (4) generally, substituting single unlettered par. (4) for former subpars. (A) to (E).
+    Subsec. (a)(4). [Pub. L. 100–532][/us/pl/100/532], § 605, amended par. (4) generally, substituting single unlettered par. (4) for former subpars. (A) to (E).
 
     [Pub. L. 100–352][/us/pl/100/352], in subpar. (E), struck out “(i)” before “Any interested” and struck out cl. (ii) which provided that notwithstanding any other provision of law, any decision on a matter certified under cl. (i) of this subparagraph be reviewable by appeal directly to the Supreme Court of the United States, with such appeal to be brought not later than 20 days after the decision of the court of appeals.
 
-    Subsec. (d). [Pub. L. 100–532, § 602][/us/pl/100/532/s602], substituted “section shall be permanent” for “subsection shall terminate September 30, 1987”.
+    Subsec. (d). [Pub. L. 100–532][/us/pl/100/532], § 602, substituted “section shall be permanent” for “subsection shall terminate September 30, 1987”.
 
-    Subsec. (e). [Pub. L. 100–532, § 801(n)(2)][/us/pl/100/532/s801/n/2], substituted “pesticide. Whenever” for “pesticide: Provided, That whenever”.
+    Subsec. (e). [Pub. L. 100–532][/us/pl/100/532], § 801(n)(2), substituted “pesticide. Whenever” for “pesticide: Provided, That whenever”.
 
     1984—Subsec. (a)(4)(E)(iii). [Pub. L. 98–620][/us/pl/98/620] struck out cl. (iii) requiring the court of appeals and the Supreme Court to advance on the docket and expedite the disposition of any matter certified under cl. (i) of this subparagraph.
 
     1983—Subsec. (d). [Pub. L. 98–201][/us/pl/98/201] in fourth sentence, inserted “under this subsection” after “submitted”; in eighth sentence, provided for utilization of a system of staggered terms of appointment and substituted “7” and “6” for “seven” and “six”, respectively, and inserted ninth through fourteenth sentences respecting basis for selection of members, multidisciplinary representation, appointments to fill vacancies, extension of term pending filling of vacancies, appointment for unexpired term, and request for additional set of nominees from nominating entities; and in present eighteenth, formerly twelfth sentence, extended termination date to Sept. 30, 1987, from Sept. 30, 1981.
 
-    1980—Subsec. (a)(4). [Pub. L. 96–539, § 4][/us/pl/96/539/s4], added par. (4).
+    1980—Subsec. (a)(4). [Pub. L. 96–539][/us/pl/96/539], § 4, added par. (4).
 
-    Subsec. (d). [Pub. L. 96–539, § 1][/us/pl/96/539/s1], inserted provisions relating to composition of subpanels and submissions to advisory panels respecting registration suspensions.
+    Subsec. (d). [Pub. L. 96–539][/us/pl/96/539], § 1, inserted provisions relating to composition of subpanels and submissions to advisory panels respecting registration suspensions.
 
-    Subsec. (e). [Pub. L. 96–539, § 2(a)][/us/pl/96/539/s2/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 96–539][/us/pl/96/539], § 2(a), added subsec. (e).
 
-    1978—Subsec. (a)(1). [Pub. L. 95–396, § 23(1)][/us/pl/95/396/s23/1], required regulations to take into account differences in environmental risk and appropriate data for evaluating such risk between agricultural and nonagricultural pesticides.
+    1978—Subsec. (a)(1). [Pub. L. 95–396][/us/pl/95/396], § 23(1), required regulations to take into account differences in environmental risk and appropriate data for evaluating such risk between agricultural and nonagricultural pesticides.
 
-    Subsec. (a)(2)(B). [Pub. L. 95–396, § 23(2)][/us/pl/95/396/s23/2], required the Administrator, before taking any final action, to consider certain factors bearing on the agricultural economy and to publish an analysis of the effect in the Federal Register.
+    Subsec. (a)(2)(B). [Pub. L. 95–396][/us/pl/95/396], § 23(2), required the Administrator, before taking any final action, to consider certain factors bearing on the agricultural economy and to publish an analysis of the effect in the Federal Register.
 
-    Subsec. (d). [Pub. L. 95–396, § 23(3)][/us/pl/95/396/s23/3], (4), required the Administrator to solicit operating guidelines from the scientific advisory panel to improve scientific analyses made by personnel of the Environmental Protection Agency that lead to decisions by the Administrator in carrying out this subchapter; extended requirement of publication in the Federal Register to evaluations and recommendations of the advisory panel; authorized creation of temporary subpanels on specific projects to assist in accelerating the work of the advisory panel; set forth Sept. 30, 1981, as the termination date of the advisory panel; and required the panel to consult and coordinate its activities with the Science Advisory Board established under [section 4365 of title 42][/us/usc/t42/s4365].
+    Subsec. (d). [Pub. L. 95–396][/us/pl/95/396], § 23(3), (4), required the Administrator to solicit operating guidelines from the scientific advisory panel to improve scientific analyses made by personnel of the Environmental Protection Agency that lead to decisions by the Administrator in carrying out this subchapter; extended requirement of publication in the Federal Register to evaluations and recommendations of the advisory panel; authorized creation of temporary subpanels on specific projects to assist in accelerating the work of the advisory panel; set forth Sept. 30, 1981, as the termination date of the advisory panel; and required the panel to consult and coordinate its activities with the Science Advisory Board established under [section 4365 of title 42][/us/usc/t42/s4365].
 
-    1975—Subsec. (a)(1). [Pub. L. 94–140, § 2(a)(1)][/us/pl/94/140/s2/a/1], (2), redesignated existing provision as subsec. (a)(1) and inserted “, in accordance with the procedure described in paragraph (2),” after “is authorized”.
+    1975—Subsec. (a)(1). [Pub. L. 94–140][/us/pl/94/140], § 2(a)(1), (2), redesignated existing provision as subsec. (a)(1) and inserted “, in accordance with the procedure described in paragraph (2),” after “is authorized”.
 
-    Subsec. (a)(2). [Pub. L. 94–140, § 2(a)(3)][/us/pl/94/140/s2/a/3], added par. (2).
+    Subsec. (a)(2). [Pub. L. 94–140][/us/pl/94/140], § 2(a)(3), added par. (2).
 
-    Subsec. (a)(3). [Pub. L. 94–140, § 6][/us/pl/94/140/s6], added par. (3).
+    Subsec. (a)(3). [Pub. L. 94–140][/us/pl/94/140], § 6, added par. (3).
 
-    Subsec. (d). [Pub. L. 94–140, § 7][/us/pl/94/140/s7], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–140][/us/pl/94/140], § 7, added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–539, § 2(b)][/us/pl/96/539/s2/b], Dec. 17, 1980, [94 Stat. 3195][/us/stat/94/3195], provided that: 
+[Pub. L. 96–539][/us/pl/96/539], § 2(b), Dec. 17, 1980, [94 Stat. 3195][/us/stat/94/3195], provided that: 
 
 > “The provisions of this section \[amending this section\] shall become effective upon publication in the Federal Register of final procedures for peer review as provided in this section, but in no event shall such provisions become effective later than one year after the date of enactment of this Act \[Dec. 17, 1980\].”
 
@@ -167,7 +167,7 @@
 
  __User Fees__ 
 
-[Pub. L. 101–508, title I, § 1204(e)][/us/pl/101/508/s1204/e], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11], provided that: 
+[Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1204(e), Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11], provided that: 
 
 > “Notwithstanding any provision of the Omnibus Budget Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508], see Tables for classification\], nothing in this title or the other provisions of this Act shall be construed to require or authorize the Administrator of the Environmental Protection Agency to assess or collect any fees or charges for services and activities authorized under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.).”
 
@@ -186,26 +186,26 @@
 [/us/usc/t42/s4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4365
 [/us/usc/t7/s136d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d%2Fc
 [/us/usc/t7/s136d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136d%2Fc
-[/us/act/1947-06-25/ch125/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs25
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F997
 [/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
 [/us/stat/89/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F751
-[/us/pl/95/396/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs23
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F836
 [/us/pl/96/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539
 [/us/stat/94/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3194
-[/us/pl/98/201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F201%2Fs1
+[/us/pl/98/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F201
 [/us/stat/97/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1379
-[/us/pl/98/620/s402/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F4%2FD
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
-[/us/pl/100/352/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs6%2Fi
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F664
-[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVI
 [/us/stat/102/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2678
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
-[/us/pl/104/170/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs104
+[/us/pl/104/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtI
 [/us/stat/110/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1490
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670
@@ -213,31 +213,31 @@
 [/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1257
 [/us/usc/t42/s4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4365
-[/us/pl/104/170/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs235
-[/us/pl/104/170/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs104
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F2
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/102/237/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fb%2F1
-[/us/pl/100/532/s801/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fn%2F1
-[/us/pl/100/532/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs605
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
-[/us/pl/100/532/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs602
-[/us/pl/100/532/s801/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801%2Fn%2F2
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F201
-[/us/pl/96/539/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539%2Fs4
-[/us/pl/96/539/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539%2Fs1
-[/us/pl/96/539/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539%2Fs2%2Fa
-[/us/pl/95/396/s23/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs23%2F1
-[/us/pl/95/396/s23/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs23%2F2
-[/us/pl/95/396/s23/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs23%2F3
+[/us/pl/96/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539
+[/us/pl/96/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539
+[/us/pl/96/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/usc/t42/s4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4365
-[/us/pl/94/140/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs2%2Fa%2F1
-[/us/pl/94/140/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs2%2Fa%2F3
-[/us/pl/94/140/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs6
-[/us/pl/94/140/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140%2Fs7
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
+[/us/pl/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F140
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
@@ -247,13 +247,13 @@
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657
-[/us/pl/96/539/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539%2Fs2%2Fb
+[/us/pl/96/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F539
 [/us/stat/94/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3195
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/101/508/s1204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1204%2Fe
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-11
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

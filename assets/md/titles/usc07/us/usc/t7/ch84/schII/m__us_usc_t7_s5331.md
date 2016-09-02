@@ -85,7 +85,7 @@
 
         The Council shall terminate 10 years after the final comprehensive plan is prepared under [section 5313 of this title][/us/usc/t7/s5313].
 
-([Pub. L. 101–445, title II, § 201][/us/pl/101/445/s201], Oct. 22, 1990, [104 Stat. 1041][/us/stat/104/1041].)
+([Pub. L. 101–445, title II][/us/pl/101/445/tII], § 201, Oct. 22, 1990, [104 Stat. 1041][/us/stat/104/1041].)
 
  __Ex. Ord. No. 12747. National Nutrition Monitoring Advisory Council__ 
 
@@ -147,7 +147,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t7/s5311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5311%2Fd
 [/us/usc/t7/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313
-[/us/pl/101/445/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs201
+[/us/pl/101/445/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtII
 [/us/stat/104/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1041
 [/us/pl/101/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445
 [/us/usc/t7/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5301

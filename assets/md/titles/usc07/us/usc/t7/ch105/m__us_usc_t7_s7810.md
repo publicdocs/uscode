@@ -23,7 +23,7 @@
 
         If, as a result of a referendum, the Secretary determines that the order is not approved, the Secretary shall, within 180 days after making the determination, suspend, or terminate, as appropriate, collection of assessments under the order, and suspend or terminate, as appropriate, activities under the order in an orderly manner as soon as possible.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1211\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–96.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title XII, § 1211\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–96.)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s7801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7801%2Fb
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

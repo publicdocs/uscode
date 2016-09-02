@@ -47,7 +47,7 @@
 
         (I) [Section 20 of this title][/us/usc/t7/s20].
 
-([Sept. 21, 1922, ch. 369, § 4k][/us/act/1922-09-21/ch369/s4k], as added [Pub. L. 93–463, title II, § 204(a)][/us/pl/93/463/s204/a], Oct. 23, 1974, [88 Stat. 1396][/us/stat/88/1396]; amended [Pub. L. 95–405, § 7][/us/pl/95/405/s7], Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II, § 212][/us/pl/97/444/s212], Jan. 11, 1983, [96 Stat. 2303][/us/stat/96/2303]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 252(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–448; [Pub. L. 110–234, title XIII, § 13105(c)][/us/pl/110/234/s13105/c], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4k, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 204(a), Oct. 23, 1974, [88 Stat. 1396][/us/stat/88/1396]; amended [Pub. L. 95–405][/us/pl/95/405], § 7, Sept. 30, 1978, [92 Stat. 869][/us/stat/92/869]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 212, Jan. 11, 1983, [96 Stat. 2303][/us/stat/96/2303]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 252(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–448; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13105(c), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196.)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    2008—Pars. (5), (6). [Pub. L. 110–246, § 13105(c)][/us/pl/110/246/s13105/c], redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
+    2008—Pars. (5), (6). [Pub. L. 110–246][/us/pl/110/246], § 13105(c), redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
 
-    2000—Par. (5). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 252(d)\], which directed amendment of this section by “inserting after paragraph (4), as added by subsection (c) of this section” a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)\[title II, § 252(c)\] did not add a par. (4) to this section.
+    2000—Par. (5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 252(d)\], which directed amendment of this section by “inserting after paragraph (4), as added by subsection (c) of this section” a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)\[title II, § 252(c)\] did not add a par. (4) to this section.
 
     1983—Par. (1). [Pub. L. 97–444][/us/pl/97/444] amended par. (1) generally to apply to introducing brokers and persons associated with introducing brokers.
 
@@ -69,9 +69,9 @@
 
     Par. (5). [Pub. L. 97–444][/us/pl/97/444] added par. (5).
 
-    1978—Par. (2). [Pub. L. 95–405, § 7(1)][/us/pl/95/405/s7/1], inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
+    1978—Par. (2). [Pub. L. 95–405][/us/pl/95/405], § 7(1), inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
 
-    Par. (3). [Pub. L. 95–405, § 7(2)][/us/pl/95/405/s7/2], added par. (3).
+    Par. (3). [Pub. L. 95–405][/us/pl/95/405], § 7(2), added par. (3).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -104,33 +104,33 @@
 [/us/usc/t7/s13a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs13a%E2%80%932
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs20
-[/us/act/1922-09-21/ch369/s4k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4k
-[/us/pl/93/463/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs204%2Fa
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1396
-[/us/pl/95/405/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs7
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F869
-[/us/pl/97/444/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs212
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2303
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13105%2Fc
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s13105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fc
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
-[/us/pl/95/405/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs7%2F1
-[/us/pl/95/405/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs7%2F2
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

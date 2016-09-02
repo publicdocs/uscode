@@ -99,7 +99,7 @@
 
         To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-([Pub. L. 95–113, title XIV, § 1444][/us/pl/95/113/s1444], Sept. 29, 1977, [91 Stat. 1007][/us/stat/91/1007]; [Pub. L. 97–98, title XIV, § 1431][/us/pl/97/98/s1431], Dec. 22, 1981, [95 Stat. 1310][/us/stat/95/1310]; [Pub. L. 99–198, title XIV, § 1415][/us/pl/99/198/s1415], Dec. 23, 1985, [99 Stat. 1549][/us/stat/99/1549]; [Pub. L. 104–127, title VIII, § 883(b)][/us/pl/104/127/s883/b], Apr. 4, 1996, [110 Stat. 1176][/us/stat/110/1176]; [Pub. L. 105–185, title I, § 103(f)(3)(A)][/us/pl/105/185/s103/f/3/A], title II, §§ 225(a), 226(c)(2), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 540, 543; [Pub. L. 107–171, title VII, § 7203(a)][/us/pl/107/171/s7203/a], May 13, 2002, [116 Stat. 438][/us/stat/116/438]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], 1246, 1247, 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983, 2008, 2029.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1444, Sept. 29, 1977, [91 Stat. 1007][/us/stat/91/1007]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1431, Dec. 22, 1981, [95 Stat. 1310][/us/stat/95/1310]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1415, Dec. 23, 1985, [99 Stat. 1549][/us/stat/99/1549]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 883(b), Apr. 4, 1996, [110 Stat. 1176][/us/stat/110/1176]; [Pub. L. 105–185, title I][/us/pl/105/185/tI], § 103(f)(3)(A), title II, §§ 225(a), 226(c)(2), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 540, 543; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7203(a), May 13, 2002, [116 Stat. 438][/us/stat/116/438]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], 1246, 1247, 1268; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983, 2008, 2029.)
 
  __References in Text__ 
 
@@ -115,31 +115,31 @@
 
     2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], §§ 7121, 7403(c), substituted “20 percent” for “15 percent” and “under section 3(d) of that Act ([7 U.S.C. 343(d)][/us/usc/t7/s343/d])” for “after September 30, 1995, under section 3(d) of that Act ([7 U.S.C. 343(d)][/us/usc/t7/s343/d]), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
 
-    Subsec. (b)(2)(A). [Pub. L. 110–246, § 7511(c)(12)][/us/pl/110/246/s7511/c/12], substituted “National Institute of Food and Agriculture” for “Extension Service”.
+    Subsec. (b)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(12), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-    Subsec. (f). [Pub. L. 110–246, § 7404(b)(2)(A)(i)][/us/pl/110/246/s7404/b/2/A/i], struck out “under penalty indicia: Provided, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 7404(b)(2)(A)(i), struck out “under penalty indicia: Provided, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out “Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 ([38 Stat. 372–374][/us/stat/38/372-374], as amended; [7 U.S.C. 341–349][/us/usc/t7/s341–349]): Provided, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under [section 3(d) of the Act of May 8, 1914][/us/act/1914-05-08/s3/d] ([38 Stat. 373][/us/stat/38/373], as amended; [7 U.S.C. 343(d)][/us/usc/t7/s343/d].” after “(hereinafter in this section referred to as ‘eligible institutions’).” in par. (1), and substituted “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent” for “Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum” in par. (2).
 
-    1998—[Pub. L. 105–185, § 226(c)(2)(A)][/us/pl/105/185/s226/c/2/A], substituted “University” for “Institute” in section catchline.
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 226(c)(2)(A), substituted “University” for “Institute” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 105–185, § 226(c)(2)(B)][/us/pl/105/185/s226/c/2/B], substituted “Tuskegee University” for “Tuskegee Institute” in first sentence of subsec. (a) and concluding provisions of subsec. (b).
+    Subsecs. (a), (b). [Pub. L. 105–185][/us/pl/105/185], § 226(c)(2)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence of subsec. (a) and concluding provisions of subsec. (b).
 
-    Subsec. (d). [Pub. L. 105–185, § 225(a)][/us/pl/105/185/s225/a], inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted “The amount to which an eligible institution is entitled” for “Such sums”, and added pars. (3) to (5).
+    Subsec. (d). [Pub. L. 105–185][/us/pl/105/185], § 225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted “The amount to which an eligible institution is entitled” for “Such sums”, and added pars. (3) to (5).
 
-    Subsecs. (f), (g). [Pub. L. 105–185, § 103(f)(3)(A)][/us/pl/105/185/s103/f/3/A], redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
+    Subsecs. (f), (g). [Pub. L. 105–185][/us/pl/105/185], § 103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
     1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127] inserted before period at end of third sentence “, except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act ([7 U.S.C. 343(d)][/us/usc/t7/s343/d]), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
 
     1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198] in third sentence, struck out “, through the fiscal year ending September 30, 1985,” after “fiscal year thereafter” and inserted at end “, and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 ([38 Stat. 372][/us/stat/38/372], chapter 79; [7 U.S.C. 341][/us/usc/t7/s341] et seq.)”.
 
-    1981—Subsec. (a). [Pub. L. 97–98, § 1431(1)][/us/pl/97/98/s1431/1], (2), inserted provisions designating the fiscal year ending Sept. 30, 1981, as the last of the fiscal years for which the appropriation under this section had to be 4 per centum or more of the total appropriation for each year under the Act of May 8, 1914, and inserted provisions that, beginning with the fiscal year ending Sept. 30, 1982, there must be appropriated under this section an amount not less than 5½ per centum and for each fiscal year thereafter, through the fiscal year ending Sept. 30, 1985, an amount not less than 6 per centum of the total appropriations for such year under the Act of May 8, 1914.
+    1981—Subsec. (a). [Pub. L. 97–98][/us/pl/97/98], § 1431(1), (2), inserted provisions designating the fiscal year ending Sept. 30, 1981, as the last of the fiscal years for which the appropriation under this section had to be 4 per centum or more of the total appropriation for each year under the Act of May 8, 1914, and inserted provisions that, beginning with the fiscal year ending Sept. 30, 1982, there must be appropriated under this section an amount not less than 5½ per centum and for each fiscal year thereafter, through the fiscal year ending Sept. 30, 1985, an amount not less than 6 per centum of the total appropriations for such year under the Act of May 8, 1914.
 
     Subsec. (b)(2)(B). Pub. L., 97–98, § 1431(3), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
 
-    Subsec. (c). [Pub. L. 97–98, § 1431(4)][/us/pl/97/98/s1431/4], substituted “extension administrator” for “administrative head for extension” and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
+    Subsec. (c). [Pub. L. 97–98][/us/pl/97/98], § 1431(4), substituted “extension administrator” for “administrative head for extension” and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
 
-    Subsec. (d). [Pub. L. 97–98, § 1431(5)][/us/pl/97/98/s1431/5], substituted “submitted, as part of the State plan of work,” for “submitted by the proper officials of each institution”.
+    Subsec. (d). [Pub. L. 97–98][/us/pl/97/98], § 1431(5), substituted “submitted, as part of the State plan of work,” for “submitted by the proper officials of each institution”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–185, title II, § 225(c)][/us/pl/105/185/s225/c], June 23, 1998, [112 Stat. 542][/us/stat/112/542], provided that: 
+[Pub. L. 105–185, title II][/us/pl/105/185/tII], § 225(c), June 23, 1998, [112 Stat. 542][/us/stat/112/542], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3222 of this title][/us/usc/t7/s3222]\] take effect on October 1, 1999.”
 
@@ -163,7 +163,7 @@
 
  __West Virginia State College, Institute, West Virginia__ 
 
-[Pub. L. 106–78, title I][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1141][/us/stat/113/1141], provided in part that West Virginia State College in Institute, West Virginia: 
+[Pub. L. 106–78, title I][/us/pl/106/78/tI], Oct. 22, 1999, [113 Stat. 1141][/us/stat/113/1141], provided in part that West Virginia State College in Institute, West Virginia: 
 
 > “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3221][/us/usc/t7/s3221])”.
 
@@ -184,21 +184,21 @@
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
-[/us/pl/95/113/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1444
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1007
-[/us/pl/97/98/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1431
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1310
-[/us/pl/99/198/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1415
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1549
-[/us/pl/104/127/s883/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs883%2Fb
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1176
-[/us/pl/105/185/s103/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F3%2FA
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F528
-[/us/pl/107/171/s7203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7203%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F438
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1222
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
@@ -211,26 +211,26 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
-[/us/pl/110/246/s7511/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F12
-[/us/pl/110/246/s7404/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7404%2Fb%2F2%2FA%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/38/372-374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F372-374
 [/us/usc/t7/s341–349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs341%E2%80%93349
 [/us/act/1914-05-08/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fs3%2Fd
 [/us/stat/38/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F373
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
-[/us/pl/105/185/s226/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fc%2F2%2FA
-[/us/pl/105/185/s226/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fc%2F2%2FB
-[/us/pl/105/185/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs225%2Fa
-[/us/pl/105/185/s103/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F3%2FA
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/38/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F372
 [/us/usc/t7/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs341
-[/us/pl/97/98/s1431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1431%2F1
-[/us/pl/97/98/s1431/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1431%2F4
-[/us/pl/97/98/s1431/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1431%2F5
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -239,7 +239,7 @@
 [/us/pl/110/246/s7511/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F12
 [/us/pl/110/246/s7511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc
 [/us/usc/t7/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522
-[/us/pl/105/185/s225/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs225%2Fc
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F542
 [/us/usc/t7/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -247,7 +247,7 @@
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtI
 [/us/stat/113/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1141
 [/us/usc/t7/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3221
 

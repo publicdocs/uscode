@@ -87,41 +87,41 @@
 
         The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
 
-([Pub. L. 87–128, title III, § 349][/us/pl/87/128/s349], as added [Pub. L. 99–198, title XIII, § 1318(a)][/us/pl/99/198/s1318/a], Dec. 23, 1985, [99 Stat. 1530][/us/stat/99/1530]; amended [Pub. L. 100–233, title VI, § 612][/us/pl/100/233/s612], Jan. 6, 1988, [101 Stat. 1674][/us/stat/101/1674]; [Pub. L. 101–624, title XVIII, § 1815][/us/pl/101/624/s1815], title XXIII, § 2388(j), Nov. 28, 1990, [104 Stat. 3825][/us/stat/104/3825], 4053; [Pub. L. 104–127, title VI, § 642][/us/pl/104/127/s642], Apr. 4, 1996, [110 Stat. 1102][/us/stat/110/1102].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 349, as added [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1318(a), Dec. 23, 1985, [99 Stat. 1530][/us/stat/99/1530]; amended [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 612, Jan. 6, 1988, [101 Stat. 1674][/us/stat/101/1674]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1815, title XXIII, § 2388(j), Nov. 28, 1990, [104 Stat. 3825][/us/stat/104/3825], 4053; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 642, Apr. 4, 1996, [110 Stat. 1102][/us/stat/110/1102].)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–127, § 642(1)][/us/pl/104/127/s642/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
+    1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
 
-    Subsec. (c). [Pub. L. 104–127, § 642(2)(A)][/us/pl/104/127/s642/2/A], inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
+    Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 642(2)(A), inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
 
-    Subsec. (c)(2). [Pub. L. 104–127, § 642(2)(B)][/us/pl/104/127/s642/2/B], inserted “and” at end.
+    Subsec. (c)(2). [Pub. L. 104–127][/us/pl/104/127], § 642(2)(B), inserted “and” at end.
 
-    Subsec. (c)(3). [Pub. L. 104–127, § 642(2)(C)][/us/pl/104/127/s642/2/C], struck out “(i)” after “(3)(A)”, substituted “administered by the Secretary” for “administered by the Farmers Home Administration”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “such contract” for “such easement” and a period for “; or” at end, and struck out former subpar. (B) which read as follows: “such property is administered under this chapter by the Secretary; and”.
+    Subsec. (c)(3). [Pub. L. 104–127][/us/pl/104/127], § 642(2)(C), struck out “(i)” after “(3)(A)”, substituted “administered by the Secretary” for “administered by the Farmers Home Administration”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “such contract” for “such easement” and a period for “; or” at end, and struck out former subpar. (B) which read as follows: “such property is administered under this chapter by the Secretary; and”.
 
-    Subsec. (c)(4). [Pub. L. 104–127, § 642(2)(D)][/us/pl/104/127/s642/2/D], struck out par. (4) which read as follows: “such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985.”
+    Subsec. (c)(4). [Pub. L. 104–127][/us/pl/104/127], § 642(2)(D), struck out par. (4) which read as follows: “such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985.”
 
-    Subsec. (d). [Pub. L. 104–127, § 642(3)][/us/pl/104/127/s642/3], substituted “contract” for “easement” in introductory provisions and par. (3).
+    Subsec. (d). [Pub. L. 104–127][/us/pl/104/127], § 642(3), substituted “contract” for “easement” in introductory provisions and par. (3).
 
-    Subsec. (e). [Pub. L. 104–127, § 642(4)][/us/pl/104/127/s642/4], in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
+    Subsec. (e). [Pub. L. 104–127][/us/pl/104/127], § 642(4), in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
 
-    Subsec. (f). [Pub. L. 104–127, § 642(5)][/us/pl/104/127/s642/5], in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
+    Subsec. (f). [Pub. L. 104–127][/us/pl/104/127], § 642(5), in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
 
-    Subsec. (g). [Pub. L. 104–127, § 642(6)][/us/pl/104/127/s642/6], substituted “a contract entered into” for “an easement acquired”.
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 642(6), substituted “a contract entered into” for “an easement acquired”.
 
-    1990—Subsec. (a)(4), (5). [Pub. L. 101–624, § 2388(j)][/us/pl/101/624/s2388/j], redesignated par. (5) as (4).
+    1990—Subsec. (a)(4), (5). [Pub. L. 101–624][/us/pl/101/624], § 2388(j), redesignated par. (5) as (4).
 
-    Subsec. (c). [Pub. L. 101–624, § 1815(1)(A)][/us/pl/101/624/s1815/1/A]–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 101–624, § 1815(1)(E)][/us/pl/101/624/s1815/1/E], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
+    Subsec. (c)(3)(A)(ii). [Pub. L. 101–624][/us/pl/101/624], § 1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
 
-    Subsec. (e). [Pub. L. 101–624, § 1815(2)][/us/pl/101/624/s1815/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
 
-    Subsec. (h). [Pub. L. 101–624, § 1815(9)][/us/pl/101/624/s1815/9], struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
 
-    1988—Subsec. (c)(4). [Pub. L. 100–233, § 612(1)][/us/pl/100/233/s612/1], inserted “and other wildlife habitat” after “wetland”.
+    1988—Subsec. (c)(4). [Pub. L. 100–233][/us/pl/100/233], § 612(1), inserted “and other wildlife habitat” after “wetland”.
 
-    Subsec. (e). [Pub. L. 100–233, § 612(2)][/us/pl/100/233/s612/2], inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
+    Subsec. (e). [Pub. L. 100–233][/us/pl/100/233], § 612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -136,31 +136,31 @@
 
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
 [/us/usc/t16/s3371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3371%2Fa
-[/us/pl/87/128/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs349
-[/us/pl/99/198/s1318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1318%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1530
-[/us/pl/100/233/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs612
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1674
-[/us/pl/101/624/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1815
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3825
-[/us/pl/104/127/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1102
-[/us/pl/104/127/s642/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F1
-[/us/pl/104/127/s642/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F2%2FA
-[/us/pl/104/127/s642/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F2%2FB
-[/us/pl/104/127/s642/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F2%2FC
-[/us/pl/104/127/s642/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F2%2FD
-[/us/pl/104/127/s642/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F3
-[/us/pl/104/127/s642/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F4
-[/us/pl/104/127/s642/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F5
-[/us/pl/104/127/s642/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs642%2F6
-[/us/pl/101/624/s2388/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fj
-[/us/pl/101/624/s1815/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1815%2F1%2FA
-[/us/pl/101/624/s1815/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1815%2F1%2FE
-[/us/pl/101/624/s1815/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1815%2F2
-[/us/pl/101/624/s1815/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1815%2F9
-[/us/pl/100/233/s612/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs612%2F1
-[/us/pl/100/233/s612/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs612%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127/s663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs663%2Fb
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922

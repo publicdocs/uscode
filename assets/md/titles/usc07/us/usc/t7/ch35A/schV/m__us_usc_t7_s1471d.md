@@ -79,7 +79,7 @@
 
         The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 606, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928]; amended [Pub. L. 101–82, title II][/us/pl/101/82], §§ 201, 202, Aug. 14, 1989, [103 Stat. 581][/us/stat/103/581].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 606, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928]; amended [Pub. L. 101–82, title II][/us/pl/101/82/tII], §§ 201, 202, Aug. 14, 1989, [103 Stat. 581][/us/stat/103/581].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 
  __Amendments__ 
 
-    1989—Subsec. (b). [Pub. L. 101–82, § 201][/us/pl/101/82/s201], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
+    1989—Subsec. (b). [Pub. L. 101–82][/us/pl/101/82], § 201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
 
-    Subsec. (f). [Pub. L. 101–82, § 202][/us/pl/101/82/s202], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–82][/us/pl/101/82], § 202, added subsec. (f).
 
  __Effective Date__ 
 
@@ -107,7 +107,7 @@
 
  __Emergency Forage Program__ 
 
-[Pub. L. 100–387, title I, § 103][/us/pl/100/387/s103], Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], provided that:
+[Pub. L. 100–387, title I][/us/pl/100/387/tI], § 103, Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -146,22 +146,22 @@
 
 [/us/usc/t7/s1471c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471c%2Fa
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F928
-[/us/pl/101/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82
+[/us/pl/101/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtII
 [/us/stat/103/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F581
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/82/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs201
-[/us/pl/101/82/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs202
+[/us/pl/101/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82
+[/us/pl/101/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82
 [/us/pl/100/387/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/usc/t7/s9092/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F12
 [/us/usc/t7/s8782/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F12
 [/us/usc/t7/s7992/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fb%2F12
 [/us/usc/t7/s7301/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1%2FL
-[/us/pl/100/387/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs103
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F932
 
 

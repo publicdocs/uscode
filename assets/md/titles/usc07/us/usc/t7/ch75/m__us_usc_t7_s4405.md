@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture may, effective October 1, 1982, fix and cause to be collected reasonable fees to cover, as nearly as practicable, the costs to the Department of Agriculture incurred in connection with the issuance of certificates of compliance as provided under [section 4403(2) of this title][/us/usc/t7/s4403/2]. All fees collected shall be credited to the current appropriation account that incurs the cost and shall be available without fiscal year limitation to pay the expenses of the Secretary of Agriculture incident to the issuance of certificates of compliance under this chapter.
 
-([Pub. L. 97–325, § 6][/us/pl/97/325/s6], Oct. 15, 1982, [96 Stat. 1605][/us/stat/96/1605].)
+([Pub. L. 97–325][/us/pl/97/325], § 6, Oct. 15, 1982, [96 Stat. 1605][/us/stat/96/1605].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t7/s4403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4403%2F2
-[/us/pl/97/325/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs6
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1605
 [/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603

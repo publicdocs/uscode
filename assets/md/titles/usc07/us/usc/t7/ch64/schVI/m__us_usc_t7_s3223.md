@@ -39,7 +39,7 @@
 
         The Secretary may promulgate such rules and regulations as the Secretary may deem necessary to carry out the provisions of this section.
 
-([Pub. L. 97–98, title XIV, § 1433][/us/pl/97/98/s1433], Dec. 22, 1981, [95 Stat. 1312][/us/stat/95/1312]; [Pub. L. 99–198, title XIV, § 1433][/us/pl/99/198/s1433], Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].)
+([Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1433, Dec. 22, 1981, [95 Stat. 1312][/us/stat/95/1312]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1433, Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1432(a)][/us/pl/99/198/s1432/a], inserted “, including agricultural libraries,” after “equipment”.
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1432(a), inserted “, including agricultural libraries,” after “equipment”.
 
-    Subsec. (b). [Pub. L. 99–198, § 1432(b)][/us/pl/99/198/s1432/b], authorized appropriations for fiscal year ending Sept. 30, 1987.
+    Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1432(b), authorized appropriations for fiscal year ending Sept. 30, 1987.
 
  __Effective Date__ 
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/97/98/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1433
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1312
-[/us/pl/99/198/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1433
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1557
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/99/198/s1432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1432%2Fa
-[/us/pl/99/198/s1432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1432%2Fb
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 

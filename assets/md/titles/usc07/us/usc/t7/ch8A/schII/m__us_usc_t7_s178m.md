@@ -17,7 +17,7 @@
 
     The Secretaries shall submit to the President and the Congress, no later than December 31, 1980, and each year thereafter through 1987, a report on the status of the research, development, and other work underway under this subchapter. Such report shall (1) recommend specific directions for further research, development and other work, and (2) recommend funding levels for various elements of the overall project.
 
-([Pub. L. 95–592, § 15][/us/pl/95/592/s15], Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284, § 14][/us/pl/98/284/s14], May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
+([Pub. L. 95–592][/us/pl/95/592], § 15, Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284][/us/pl/98/284], § 14, May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/592/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs15
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
-[/us/pl/98/284/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs14
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F184
 [/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 

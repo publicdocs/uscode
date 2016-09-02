@@ -23,7 +23,7 @@
 
         Principal repayments on new obligations issued under [section 1738c of this title][/us/usc/t7/s1738c] shall be deposited in Commodity Credit Corporation accounts.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 605, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 605, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t7/s1738c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738c
 [/us/usc/t7/s1738c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738c
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3659
 
 

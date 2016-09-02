@@ -39,7 +39,7 @@
 
         Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under [section 2279e of this title][/us/usc/t7/s2279e] may run to any other judicial district.
 
-([Pub. L. 106–224, title V, § 502][/us/pl/106/224/s502], June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–296, title IV, § 421(h)(2)][/us/pl/107/296/s421/h/2], Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
+([Pub. L. 106–224, title V][/us/pl/106/224/tV], § 502, June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 421(h)(2), Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t7/s2279e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279e
 [/us/usc/t7/s2279e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279e
 [/us/usc/t7/s2279e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279e
-[/us/pl/106/224/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs502
+[/us/pl/106/224/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtV
 [/us/stat/114/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F455
-[/us/pl/107/296/s421/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421%2Fh%2F2
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2184
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

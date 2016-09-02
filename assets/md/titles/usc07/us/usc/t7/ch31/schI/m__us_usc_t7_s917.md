@@ -43,23 +43,23 @@
 
         Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a).
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 17, as added [Pub. L. 104–127, title VII, § 778][/us/pl/104/127/s778], Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 17, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 778, Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].)
 
  __References in Text__ 
 
-    Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title][/us/usc/t7/s2008j] prior to repeal by [Pub. L. 87–128, title III, § 375(j)(7)][/us/pl/87/128/s375/j/7], as added [Pub. L. 106–78, title VIII, § 816(d)][/us/pl/106/78/s816/d], Oct. 22, 1999, [113 Stat. 1182][/us/stat/113/1182].
+    Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title][/us/usc/t7/s2008j] prior to repeal by [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 375(j)(7), as added [Pub. L. 106–78, title VIII][/us/pl/106/78/tVIII], § 816(d), Oct. 22, 1999, [113 Stat. 1182][/us/stat/113/1182].
 
-    The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is [Pub. L. 87–128, title III][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
+    The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is [Pub. L. 87–128, title III][/us/pl/87/128/tIII], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
-    The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359], as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by [Pub. L. 107–171, title VI, § 6201(a)][/us/pl/107/171/s6201/a], May 13, 2002, [116 Stat. 418][/us/stat/116/418]. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
+    The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359], as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(a), May 13, 2002, [116 Stat. 418][/us/stat/116/418]. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
     The Rural Development Act of 1972, referred to in subsec. (c)(5), is [Pub. L. 92–419][/us/pl/92/419], Aug. 30, 1972, [86 Stat. 657][/us/stat/86/657], as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
-    Sections 905 and 940a of this title, referred to in subsec. (c)(6), were repealed by [Pub. L. 104–127, title VII][/us/pl/104/127], §§ 774(a), 780, Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150], 1151.
+    Sections 905 and 940a of this title, referred to in subsec. (c)(6), were repealed by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], §§ 774(a), 780, Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150], 1151.
 
  __Prior Provisions__ 
 
-    A prior section 917, [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 17, as added Nov. 28, 1990, [Pub. L. 101–624, title XXIII, § 2343][/us/pl/101/624/s2343], [104 Stat. 4027][/us/stat/104/4027], related to establishment of technical assistance unit to provide advice and technical assistance to electric and telephone borrowers under this chapter, prior to repeal by [Pub. L. 102–237, title VII, § 703(b)][/us/pl/102/237/s703/b], Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881].
+    A prior section 917, [act May 20, 1936, ch. 432, title I][/us/act/1936-05-20/ch432/tI], § 17, as added Nov. 28, 1990, [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2343, [104 Stat. 4027][/us/stat/104/4027], related to establishment of technical assistance unit to provide advice and technical assistance to electric and telephone borrowers under this chapter, prior to repeal by [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 703(b), Dec. 13, 1991, [105 Stat. 1881][/us/stat/105/1881].
 
 ----------
 
@@ -79,29 +79,29 @@
 [/us/usc/t7/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2661
 [/us/usc/t7/s2204a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204a
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/104/127/s778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs778
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1150
 [/us/usc/t7/s2008j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008j
-[/us/pl/87/128/s375/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs375%2Fj%2F7
-[/us/pl/106/78/s816/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs816%2Fd
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/78/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVIII
 [/us/stat/113/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1182
-[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3359
-[/us/pl/107/171/s6201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F418
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/stat/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F657
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1150
-[/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/101/624/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2343
+[/us/act/1936-05-20/ch432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432%2FtI
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4027
-[/us/pl/102/237/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs703%2Fb
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1881
 
 

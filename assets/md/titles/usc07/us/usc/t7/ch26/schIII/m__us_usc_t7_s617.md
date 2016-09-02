@@ -19,7 +19,7 @@
 
     (b) Upon the giving of bond satisfactory to the Secretary of the Treasury for the faithful observance of the provisions of this chapter requiring the payment of taxes, any person shall be entitled, without payment of the tax, to process for such exportation any commodity with respect to which a tax is imposed by this chapter, or to hold for such exportation any article processed wholly or partly therefrom.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 17, [48 Stat. 40][/us/stat/48/40]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 12, 13, [48 Stat. 676][/us/stat/48/676]; [Mar. 18, 1935, ch. 32, § 11][/us/act/1935-03-18/ch32/s11], [49 Stat. 48][/us/stat/49/48]; [Aug. 24, 1935, ch. 641, § 28][/us/act/1935-08-24/ch641/s28], [49 Stat. 770][/us/stat/49/770]; [June 22, 1936, ch. 690, § 601(a)][/us/act/1936-06-22/ch690/s601/a], [49 Stat. 1739][/us/stat/49/1739]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 17, [48 Stat. 40][/us/stat/48/40]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 12, 13, [48 Stat. 676][/us/stat/48/676]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], § 11, [49 Stat. 48][/us/stat/49/48]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 28, [49 Stat. 770][/us/stat/49/770]; [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], § 601(a), [49 Stat. 1739][/us/stat/49/1739]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -68,11 +68,11 @@
 [/us/stat/48/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F40
 [/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F676
-[/us/act/1935-03-18/ch32/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32%2Fs11
+[/us/act/1935-03-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32
 [/us/stat/49/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F48
-[/us/act/1935-08-24/ch641/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs28
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F770
-[/us/act/1936-06-22/ch690/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690%2Fs601%2Fa
+[/us/act/1936-06-22/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690
 [/us/stat/49/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1739
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

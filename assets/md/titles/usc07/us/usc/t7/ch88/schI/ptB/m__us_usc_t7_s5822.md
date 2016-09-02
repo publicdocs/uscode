@@ -181,11 +181,11 @@
 
                     In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Agricultural Act of 1949, the term “traditionally underplanted acreage” means 8 percent of the producer’s permitted acreage for such year.
 
-([Pub. L. 101–624, title XIV, § 1451][/us/pl/101/624/s1451], Nov. 28, 1990, [104 Stat. 3607][/us/stat/104/3607]; [Pub. L. 101–508, title I, § 1204(a)][/us/pl/101/508/s1204/a], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 102–237, title II, § 201(a)][/us/pl/102/237/s201/a], Dec. 13, 1991, [105 Stat. 1846][/us/stat/105/1846].)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1451, Nov. 28, 1990, [104 Stat. 3607][/us/stat/104/3607]; [Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1204(a), Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 201(a), Dec. 13, 1991, [105 Stat. 1846][/us/stat/105/1846].)
 
  __References in Text__ 
 
-    The Agricultural Act of 1949, referred to in subsec. (h)(2), (5)(A), (6), (7)(A), is [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], [63 Stat. 1051][/us/stat/63/1051], as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Agricultural Act of 1949, is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. Sections 101B, 103B, 105B, and 107B of the Act were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title prior to repeal by [Pub. L. 104–127, title I, § 171(b)(2)(A)][/us/pl/104/127/s171/b/2/A]–(D), Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938]. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
+    The Agricultural Act of 1949, referred to in subsec. (h)(2), (5)(A), (6), (7)(A), is [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], [63 Stat. 1051][/us/stat/63/1051], as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Agricultural Act of 1949, is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. Sections 101B, 103B, 105B, and 107B of the Act were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title prior to repeal by [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171(b)(2)(A)–(D), Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938]. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
     This Act, referred to in subsec. (h)(4), is [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359], as amended, known as the Food, Agriculture, Conservation, and Trade Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
@@ -197,19 +197,19 @@
 
  __Amendments__ 
 
-    1991—Subsec. (b)(1)(D). [Pub. L. 102–237, § 201(a)(1)][/us/pl/102/237/s201/a/1], substituted “subsection (f)” for “subsection (e)”.
+    1991—Subsec. (b)(1)(D). [Pub. L. 102–237][/us/pl/102/237], § 201(a)(1), substituted “subsection (f)” for “subsection (e)”.
 
-    Subsec. (d). [Pub. L. 102–237, § 201(a)(2)][/us/pl/102/237/s201/a/2], inserted “each of” before “the calendar”.
+    Subsec. (d). [Pub. L. 102–237][/us/pl/102/237], § 201(a)(2), inserted “each of” before “the calendar”.
 
-    Subsec. (f)(5). [Pub. L. 102–237, § 201(a)(3)][/us/pl/102/237/s201/a/3], substituted “assist” for “assisting”.
+    Subsec. (f)(5). [Pub. L. 102–237][/us/pl/102/237], § 201(a)(3), substituted “assist” for “assisting”.
 
-    Subsec. (h)(7)(B)(i). [Pub. L. 102–237, § 201(a)(4)(A)][/us/pl/102/237/s201/a/4/A], inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 ([Public Law 101–508][/us/pl/101/508]; [104 Stat. 1388–1][/us/stat/104/1388-1])”.
+    Subsec. (h)(7)(B)(i). [Pub. L. 102–237][/us/pl/102/237], § 201(a)(4)(A), inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 ([Public Law 101–508][/us/pl/101/508]; [104 Stat. 1388–1][/us/stat/104/1388-1])”.
 
-    Subsec. (h)(7)(B)(ii). [Pub. L. 102–237, § 201(a)(4)(B)][/us/pl/102/237/s201/a/4/B], substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
+    Subsec. (h)(7)(B)(ii). [Pub. L. 102–237][/us/pl/102/237], § 201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
 
-    1990—Subsec. (d). [Pub. L. 101–508, § 1204(a)(1)][/us/pl/101/508/s1204/a/1], substituted “enroll not less than” for “enroll not more than”.
+    1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
 
-    Subsec. (h)(7)(A). [Pub. L. 101–508, § 1204(a)(2)][/us/pl/101/508/s1204/a/2], substituted “shall be eligible” for “shall not be eligible”.
+    Subsec. (h)(7)(A). [Pub. L. 101–508][/us/pl/101/508], § 1204(a)(2), substituted “shall be eligible” for “shall not be eligible”.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -232,15 +232,15 @@
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388-1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-1
-[/us/pl/101/624/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1451
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3607
-[/us/pl/101/508/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1204%2Fa
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-11
-[/us/pl/102/237/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1846
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
-[/us/pl/104/127/s171/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171%2Fb%2F2%2FA
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F938
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
@@ -248,15 +248,15 @@
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/101/508/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1101
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/102/237/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa%2F1
-[/us/pl/102/237/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa%2F2
-[/us/pl/102/237/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa%2F3
-[/us/pl/102/237/s201/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa%2F4%2FA
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388-1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-1
-[/us/pl/102/237/s201/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs201%2Fa%2F4%2FB
-[/us/pl/101/508/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1204%2Fa%2F1
-[/us/pl/101/508/s1204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1204%2Fa%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/102/237/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fb%2F1

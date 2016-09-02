@@ -23,7 +23,7 @@
 
         The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
-([Pub. L. 113–79, title I, § 1611][/us/pl/113/79/s1611], Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1611, Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s590h/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fg
-[/us/pl/113/79/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1611
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F710
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649

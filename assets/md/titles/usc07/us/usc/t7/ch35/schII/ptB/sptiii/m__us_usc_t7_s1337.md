@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptiii/m__us_usc_t7_s1336.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptiii/m__us_usc_t7_s1338.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1337)
 
-## § 1337. Repealed. [Pub. L. 87–703, title III, § 317][/us/pl/87/703/s317], Sept. 27, 1962, [76 Stat. 622][/us/stat/76/622]
+## § 1337. Repealed. [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 317, Sept. 27, 1962, [76 Stat. 622][/us/stat/76/622]
 
-    Section, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 337, [52 Stat. 55][/us/stat/52/55], related to adjustment and suspension of quotas.
+    Section, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 337, [52 Stat. 55][/us/stat/52/55], related to adjustment and suspension of quotas.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/87/703/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs317
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F622
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
 [/us/stat/52/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F55
 [/us/pl/87/703/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs323
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301

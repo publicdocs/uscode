@@ -33,7 +33,7 @@
 
         after providing notice and an opportunity for a hearing before the Secretary with respect to the violation, the Secretary may fine the retailer or person in an amount of not more than $1,000 for each violation.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 283, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 535][/us/stat/116/535]; amended [Pub. L. 110–234, title XI, § 11002(3)][/us/pl/110/234/s11002/3], May 22, 2008, [122 Stat. 1354][/us/stat/122/1354]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2116.)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 283, as added [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10816, May 13, 2002, [116 Stat. 535][/us/stat/116/535]; amended [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11002(3), May 22, 2008, [122 Stat. 1354][/us/stat/122/1354]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11002(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2116.)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 11002(3)][/us/pl/110/246/s11002/3], redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of [section 1636b of this title][/us/usc/t7/s1636b] to a violation of this subchapter and fine for violation of [section 1638a of this title][/us/usc/t7/s1638a]. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 11002(3), redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of [section 1636b of this title][/us/usc/t7/s1636b] to a violation of this subchapter and fine for violation of [section 1638a of this title][/us/usc/t7/s1638a]. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -59,17 +59,17 @@
 [/us/usc/t7/s1638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638a
 [/us/usc/t7/s1638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638a
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/107/171/s10816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10816
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F535
-[/us/pl/110/234/s11002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11002%2F3
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1354
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11002%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1636b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1636b
 [/us/usc/t7/s1638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

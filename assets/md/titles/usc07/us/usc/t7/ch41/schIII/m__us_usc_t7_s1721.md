@@ -31,23 +31,23 @@
 
     (7) build resilience to mitigate and prevent food crises and reduce the future need for emergency aid.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 201, [68 Stat. 457][/us/stat/68/457]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(b), [70 Stat. 201][/us/stat/70/201]; [Aug. 3, 1956, ch. 933, § 4][/us/act/1956-08-03/ch933/s4], [70 Stat. 988][/us/stat/70/988]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1534][/us/stat/80/1534]; [Pub. L. 94–161, title II, § 208][/us/pl/94/161/s208], Dec. 20, 1975, [89 Stat. 853][/us/stat/89/853]; [Pub. L. 95–88, title II, § 206][/us/pl/95/88/s206], Aug. 3, 1977, [91 Stat. 547][/us/stat/91/547]; [Pub. L. 97–113, title IV, § 404][/us/pl/97/113/s404], Dec. 29, 1981, [95 Stat. 1538][/us/stat/95/1538]; [Pub. L. 99–83, title X, § 1002][/us/pl/99/83/s1002], Aug. 8, 1985, [99 Stat. 270][/us/stat/99/270]; [Pub. L. 99–198, title XI][/us/pl/99/198], §§ 1102, 1103, Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3636][/us/stat/104/3636]; [Pub. L. 110–246, title III, § 3007][/us/pl/110/246/s3007], June 18, 2008, [122 Stat. 1823][/us/stat/122/1823]; [Pub. L. 113–79, title III, § 3001][/us/pl/113/79/s3001], Feb. 7, 2014, [128 Stat. 772][/us/stat/128/772].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 201, [68 Stat. 457][/us/stat/68/457]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(b), [70 Stat. 201][/us/stat/70/201]; [Aug. 3, 1956, ch. 933][/us/act/1956-08-03/ch933], § 4, [70 Stat. 988][/us/stat/70/988]; [Pub. L. 89–808][/us/pl/89/808], § 2(C), Nov. 11, 1966, [80 Stat. 1534][/us/stat/80/1534]; [Pub. L. 94–161, title II][/us/pl/94/161/tII], § 208, Dec. 20, 1975, [89 Stat. 853][/us/stat/89/853]; [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 206, Aug. 3, 1977, [91 Stat. 547][/us/stat/91/547]; [Pub. L. 97–113, title IV][/us/pl/97/113/tIV], § 404, Dec. 29, 1981, [95 Stat. 1538][/us/stat/95/1538]; [Pub. L. 99–83, title X][/us/pl/99/83/tX], § 1002, Aug. 8, 1985, [99 Stat. 270][/us/stat/99/270]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], §§ 1102, 1103, Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3636][/us/stat/104/3636]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3007, June 18, 2008, [122 Stat. 1823][/us/stat/122/1823]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3001, Feb. 7, 2014, [128 Stat. 772][/us/stat/128/772].)
 
  __Amendments__ 
 
     2014—[Pub. L. 113–79][/us/pl/113/79] inserted “(to be implemented by the Administrator)” after “under this subchapter” in introductory provisions and struck out concluding provisions which read as follows: “Such program shall be implemented by the Administrator.”
 
-    Par. (7). [Pub. L. 113–79, § 3001(2)][/us/pl/113/79/s3001/2], added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: “promote economic and nutritional security by increasing educational, training, and other productive activities.”
+    Par. (7). [Pub. L. 113–79][/us/pl/113/79], § 3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: “promote economic and nutritional security by increasing educational, training, and other productive activities.”
 
-    2008—Par. (1). [Pub. L. 110–246, § 3007(1)][/us/pl/110/246/s3007/1], added par. (1) and struck out former par. (1) which read as follows: “address famine or other urgent or extraordinary relief requirements;”.
+    2008—Par. (1). [Pub. L. 110–246][/us/pl/110/246], § 3007(1), added par. (1) and struck out former par. (1) which read as follows: “address famine or other urgent or extraordinary relief requirements;”.
 
-    Par. (5). [Pub. L. 110–246, § 3007(2)(A)][/us/pl/110/246/s3007/2/A], inserted “food security and support” after “promote”.
+    Par. (5). [Pub. L. 110–246][/us/pl/110/246], § 3007(2)(A), inserted “food security and support” after “promote”.
 
-    Par. (7). [Pub. L. 110–246, § 3007(2)(B)][/us/pl/110/246/s3007/2/B]–(4), added par. (7).
+    Par. (7). [Pub. L. 110–246][/us/pl/110/246], § 3007(2)(B)–(4), added par. (7).
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions requiring President to furnish commodities to meet famine, combat malnutrition, promote economic development in friendly countries, and for needy persons and school lunch and preschool feeding programs, setting minimum quantity for distribution, requiring use of certain distribution networks, requiring President to consider benefits of distributing processed and protein-fortified foods, nutritional needs of recipients, cost effectiveness of particular commodities, and purposes of this subchapter, requiring that 75 percent of commodities distributed be in form of processed or fortified products or bagged commodities, and authorizing waiver of such 75 percent requirement.
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1102][/us/pl/99/198/s1102], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
 
     “(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
@@ -59,7 +59,7 @@
 
     [Pub. L. 99–83][/us/pl/99/83] inserted provisions relating to minimum quantities for fiscal years 1986 and 1987.
 
-    Subsec. (c). [Pub. L. 99–198, § 1103][/us/pl/99/198/s1103], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–198][/us/pl/99/198], § 1103, added subsec. (c).
 
     1981—Subsec. (b)(3). [Pub. L. 97–113][/us/pl/97/113] substituted “1,200,000 metric tons for nonemergency programs” for “1,400,000 metric tons”.
 
@@ -95,7 +95,7 @@
 
  __Nonemergency Food Assistance Programs__ 
 
-[Pub. L. 105–385, title II, § 201][/us/pl/105/385/s201], Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], as amended by [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(D), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
+[Pub. L. 105–385, title II][/us/pl/105/385/tII], § 201, Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(D), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -132,36 +132,36 @@
 [/us/stat/68/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F457
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F201
-[/us/act/1956-08-03/ch933/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch933%2Fs4
+[/us/act/1956-08-03/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch933
 [/us/stat/70/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F988
-[/us/pl/89/808/s2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FC
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1534
-[/us/pl/94/161/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs208
+[/us/pl/94/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtII
 [/us/stat/89/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F853
-[/us/pl/95/88/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs206
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F547
-[/us/pl/97/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs404
+[/us/pl/97/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIV
 [/us/stat/95/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1538
-[/us/pl/99/83/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1002
+[/us/pl/99/83/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtX
 [/us/stat/99/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F270
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1465
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3636
-[/us/pl/110/246/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3007
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1823
-[/us/pl/113/79/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3001
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F772
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79/s3001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3001%2F2
-[/us/pl/110/246/s3007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3007%2F1
-[/us/pl/110/246/s3007/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3007%2F2%2FA
-[/us/pl/110/246/s3007/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3007%2F2%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/99/198/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1102
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1731
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/99/198/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1103
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
@@ -181,9 +181,9 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/105/385/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs201
+[/us/pl/105/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtII
 [/us/stat/112/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3465
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/usc/t7/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1721
 [/us/usc/t7/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1721

@@ -33,7 +33,7 @@
 
         If an eligible country to which a new obligation has been issued under [section 1738c of this title][/us/usc/t7/s1738c] enters into an agreement under [section 1738f of this title][/us/usc/t7/s1738f] subsequent to the date on which interest first becomes due on such new obligation, any interest paid on such new obligation prior to such agreement being entered into shall not be redeposited into the Fund established for the eligible country under [section 1738g(a) of this title][/us/usc/t7/s1738g/a] but shall be deposited into Commodity Credit Corporation accounts.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 606, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659]; amended [Pub. L. 102–237, title III, § 304][/us/pl/102/237/s304], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 606, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3659][/us/stat/104/3659]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 304, Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 [/us/usc/t7/s1738f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f
 [/us/usc/t7/s1738g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738g%2Fa
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3659
-[/us/pl/102/237/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs304
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1855
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

@@ -17,7 +17,7 @@
 
     The provisions of [section 1764(a) of this title][/us/usc/t7/s1764/a] shall apply with respect to personnel appointed and assigned under this subchapter.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605G, as added [Pub. L. 95–501, title IV, § 401(1)][/us/pl/95/501/s401/1], Oct. 21, 1978, [92 Stat. 1690][/us/stat/92/1690].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605G, as added [Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401(1), Oct. 21, 1978, [92 Stat. 1690][/us/stat/92/1690].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t7/s1764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1764%2Fa
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
-[/us/pl/95/501/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F1
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
 [/us/stat/92/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1690
 
 

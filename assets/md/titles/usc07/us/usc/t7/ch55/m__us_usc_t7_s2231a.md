@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, notwithstanding any other provision of law, any appropriations or funds available to the agencies of the Department of Agriculture may be used to reimburse employees for the cost of State licenses and certification fees pursuant to their Department of Agriculture position and that are necessary to comply with State laws, regulations, and requirements.
 
-([Pub. L. 102–142, title VII, § 738][/us/pl/102/142/s738], Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915].)
+([Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 738, Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/142/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs738
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F915
 
 

@@ -31,11 +31,11 @@
 
     (7) provide for the conduct of such scientific research and development as may be necessary or appropriate in support of such purposes.
 
-([Pub. L. 101–445, § 2][/us/pl/101/445/s2], Oct. 22, 1990, [104 Stat. 1034][/us/stat/104/1034].)
+([Pub. L. 101–445][/us/pl/101/445], § 2, Oct. 22, 1990, [104 Stat. 1034][/us/stat/104/1034].)
 
  __Short Title__ 
 
-[Pub. L. 101–445, § 1][/us/pl/101/445/s1], Oct. 22, 1990, [104 Stat. 1034][/us/stat/104/1034], provided that: 
+[Pub. L. 101–445][/us/pl/101/445], § 1, Oct. 22, 1990, [104 Stat. 1034][/us/stat/104/1034], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Nutrition Monitoring and Related Research Act of 1990’.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/101/445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs2
+[/us/pl/101/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445
 [/us/stat/104/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1034
-[/us/pl/101/445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs1
+[/us/pl/101/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445
 [/us/stat/104/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1034
 
 

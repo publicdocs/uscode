@@ -87,7 +87,7 @@
 
         The term “State” means each of the 50 States.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 212, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 212, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188].)
 
 ----------
 
@@ -97,7 +97,7 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1188
 
 

@@ -55,7 +55,7 @@
 
             (B) direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
 
-([Pub. L. 107–171, title I, § 1306][/us/pl/107/171/s1306], May 13, 2002, [116 Stat. 174][/us/stat/116/174].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1306, May 13, 2002, [116 Stat. 174][/us/stat/116/174].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1306
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F174
 
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in the grain transferred pursuant to sections 442 to 445 of this title.
 
-([July 3, 1956, ch. 512, § 4][/us/act/1956-07-03/ch512/s4], [70 Stat. 492][/us/stat/70/492].)
+([July 3, 1956, ch. 512][/us/act/1956-07-03/ch512], § 4, [70 Stat. 492][/us/stat/70/492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-03/ch512/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512%2Fs4
+[/us/act/1956-07-03/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512
 [/us/stat/70/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F492
 
 

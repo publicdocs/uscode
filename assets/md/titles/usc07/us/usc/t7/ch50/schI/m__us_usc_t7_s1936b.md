@@ -57,7 +57,7 @@
 
         There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 87–128, title III, § 310H][/us/pl/87/128/s310H], as added [Pub. L. 113–79, title VI, § 6017(a)][/us/pl/113/79/s6017/a], Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310H, as added [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6017(a), Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].)
 
 ----------
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t42/s9812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9812%2Fa
-[/us/pl/87/128/s310H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310H
-[/us/pl/113/79/s6017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6017%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F845
 
 

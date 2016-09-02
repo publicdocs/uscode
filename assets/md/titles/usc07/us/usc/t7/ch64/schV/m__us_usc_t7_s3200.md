@@ -17,7 +17,7 @@
 
     No funds in excess of $100,000, exclusive of the funds provided for research on specific national or regional animal health and disease problems under the provisions of [section 3196 of this title][/us/usc/t7/s3196], shall be paid by the Federal Government to any State under subsection (c) of [section 3195 of this title][/us/usc/t7/s3195] to carry out subsection (a) of such section during any fiscal year in excess of the amount from non-Federal sources made available to and budgeted for expenditure by eligible institutions in the State during the same fiscal year for animal health and disease research. The Secretary is authorized to make such payments in excess of $100,000 on the certificate of the appropriate official of the eligible institution having charge of the animal health and disease research for which such payments are to be made. If any eligible institution certified for receipt of matching funds fails to make available and budget for expenditure for animal health and disease research in any fiscal year sums at least equal to the amount for which it is certified, the difference between the Federal matching funds available and the funds made available to and budgeted for expenditure by the eligible institution shall be reapportioned by the Secretary among other eligible institutions of the same State, if there are any which qualify therefor, and, if there are none, the Secretary shall reapportion such difference among the other States.
 
-([Pub. L. 95–113, title XIV, § 1438][/us/pl/95/113/s1438], Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005]; [Pub. L. 113–79, title VII, § 7111(b)(3)(E)][/us/pl/113/79/s7111/b/3/E], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1438, Sept. 29, 1977, [91 Stat. 1005][/us/stat/91/1005]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7111(b)(3)(E), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t7/s3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3196
 [/us/usc/t7/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195
-[/us/pl/95/113/s1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1438
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1005
-[/us/pl/113/79/s7111/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F3%2FE
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

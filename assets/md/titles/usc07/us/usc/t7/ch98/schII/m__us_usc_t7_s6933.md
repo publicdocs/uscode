@@ -51,7 +51,7 @@
 
             Notwithstanding paragraph (1) or any other provision of law or order of the Secretary, the Secretary shall provide the Office of Risk Management with human and capital resources sufficient for the Office to carry out its functions in a timely and efficient manner.
 
-([Pub. L. 103–354, title II, § 226A][/us/pl/103/354/s226A], as added [Pub. L. 104–127, title I, § 194(a)][/us/pl/104/127/s194/a], Apr. 4, 1996, [110 Stat. 945][/us/stat/110/945].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 226A, as added [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 194(a), Apr. 4, 1996, [110 Stat. 945][/us/stat/110/945].)
 
  __References in Text__ 
 
@@ -65,8 +65,8 @@
 ----------
 
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/103/354/s226A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs226A
-[/us/pl/104/127/s194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs194%2Fa
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F945
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72

@@ -29,11 +29,11 @@
 
     (b) To make any false or misleading representation with respect to any seed subject to this subchapter being imported into the United States or offered for import: Provided, That this subsection shall not be deemed violated by any person if the false or misleading representation is the name of a variety indistinguishable in appearance from the seed being imported or offered for import and the records and other pertinent facts reveal that such person relied in good faith upon representations with respect to the name of the indistinguishable variety made by the shipper of the seed.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 304, formerly § 306, [53 Stat. 1285][/us/stat/53/1285]; [Pub. L. 85–581, § 15][/us/pl/85/581/s15], Aug. 1, 1958, [72 Stat. 479][/us/stat/72/479]; renumbered § 304, [Pub. L. 97–439, § 5(b)(4)][/us/pl/97/439/s5/b/4], Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 103–465, title IV, § 441(4)][/us/pl/103/465/s441/4], Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 304, formerly § 306, [53 Stat. 1285][/us/stat/53/1285]; [Pub. L. 85–581][/us/pl/85/581], § 15, Aug. 1, 1958, [72 Stat. 479][/us/stat/72/479]; renumbered § 304, [Pub. L. 97–439][/us/pl/97/439], § 5(b)(4), Jan. 8, 1983, [96 Stat. 2288][/us/stat/96/2288]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 441(4), Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(4) to (7). [Pub. L. 103–465, § 441(4)(A)][/us/pl/103/465/s441/4/A], struck out pars. (4) to (7) which read as follows:
+    1994—Subsec. (a)(4) to (7). [Pub. L. 103–465][/us/pl/103/465], § 441(4)(A), struck out pars. (4) to (7) which read as follows:
 
     “(4) any seed which has been stained to resemble seed stained in accordance with the provisions of this chapter and the rules and regulations made and promulgated thereunder;
 
@@ -43,7 +43,7 @@
 
     “(7) any seed stained under the provisions of this chapter, the labeling of which states that such seed is adapted.”
 
-    Subsecs. (b), (c). [Pub. L. 103–465, § 441(4)(B)][/us/pl/103/465/s441/4/B], (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
+    Subsecs. (b), (c). [Pub. L. 103–465][/us/pl/103/465], § 441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
 
     1958—Subsec. (c). [Pub. L. 85–581][/us/pl/85/581] added subsec. (c).
 
@@ -64,14 +64,14 @@
 
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1285
-[/us/pl/85/581/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs15
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F479
-[/us/pl/97/439/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F4
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
 [/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
-[/us/pl/103/465/s441/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F4
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4973
-[/us/pl/103/465/s441/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F4%2FA
-[/us/pl/103/465/s441/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs441%2F4%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451

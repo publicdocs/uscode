@@ -17,11 +17,11 @@
 
     The Department of Agriculture is authorized to furnish subsistence to employees without consideration as, or deduction from, the compensation of such employees where warranted by emergency condition connected with the work under such regulations as the Secretary of Agriculture may prescribe.
 
-([Aug. 3, 1956, ch. 950, § 5][/us/act/1956-08-03/ch950/s5], [70 Stat. 1033][/us/stat/70/1033].)
+([Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 5, [70 Stat. 1033][/us/stat/70/1033].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 541d of Title 5][/us/usc/t5/s541d] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 541d of Title 5][/us/usc/t5/s541d] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1956-08-03/ch950/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs5
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1033
 [/us/usc/t5/s541d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs541d
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

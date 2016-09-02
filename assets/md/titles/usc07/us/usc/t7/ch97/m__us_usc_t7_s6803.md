@@ -63,7 +63,7 @@
 
         The Secretary, from time to time, may amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
 
-([Pub. L. 103–190, § 4][/us/pl/103/190/s4], Dec. 14, 1993, [107 Stat. 2271][/us/stat/107/2271].)
+([Pub. L. 103–190][/us/pl/103/190], § 4, Dec. 14, 1993, [107 Stat. 2271][/us/stat/107/2271].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t7/s6801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6801%2Fb
-[/us/pl/103/190/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs4
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2271
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2911.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
+[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2912...2918.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
 
 ## CHAPTER 63—FARMER–TO–CONSUMER DIRECT MARKETING
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2911.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
+[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2912...2918.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
 
 ----------
 ----------

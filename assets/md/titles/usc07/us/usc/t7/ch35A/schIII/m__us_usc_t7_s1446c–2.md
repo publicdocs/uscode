@@ -27,7 +27,7 @@
 
         The Commodity Credit Corporation shall take appropriate action to ensure that the nonfat dry milk sold by the Corporation under this section is used only for the manufacture of casein.
 
-([Pub. L. 99–198, title I, § 105][/us/pl/99/198/s105], Dec. 23, 1985, [99 Stat. 1367][/us/stat/99/1367].)
+([Pub. L. 99–198, title I][/us/pl/99/198/tI], § 105, Dec. 23, 1985, [99 Stat. 1367][/us/stat/99/1367].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs105
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1367
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446

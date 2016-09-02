@@ -23,11 +23,11 @@
 
     This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-    Section was formerly classified to [section 520a of Title 5][/us/usc/t5/s520a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 520a of Title 5][/us/usc/t5/s520a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Prior Provisions__ 
 
-Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts, and were repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept 6, 1966, [80 Stat. 632][/us/stat/80/632]:
+Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts, and were repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept 6, 1966, [80 Stat. 632][/us/stat/80/632]:
 
     [June 28, 1944, ch. 296][/us/act/1944-06-28/ch296], [58 Stat. 426][/us/stat/58/426].
 
@@ -77,9 +77,9 @@ Provisions similar to those in this section were contained in the following Depa
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F742
 [/us/usc/t5/s520a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs520a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/act/1944-06-28/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch296
 [/us/stat/58/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F426

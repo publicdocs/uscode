@@ -17,7 +17,7 @@
 
     The Farmers Home Administration may employ local attorneys, on a case-by-case basis, to process all legal procedures necessary to clear the title to foreclosed properties in the inventory of the Farmers Home Administration. Such attorneys shall be compensated at not more than their usual and customary charges for such work.
 
-([Pub. L. 87–128, title III, § 356][/us/pl/87/128/s356], as added [Pub. L. 100–233, title VI, § 618][/us/pl/100/233/s618], Jan. 6, 1988, [101 Stat. 1683][/us/stat/101/1683].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 356, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 618, Jan. 6, 1988, [101 Stat. 1683][/us/stat/101/1683].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs356
-[/us/pl/100/233/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs618
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1683
 
 

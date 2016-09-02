@@ -41,7 +41,7 @@
 
         The Secretary, from time to time, may amend any order issued under this chapter.
 
-([Pub. L. 103–407, § 4][/us/pl/103/407/s4], Oct. 22, 1994, [108 Stat. 4213][/us/stat/108/4213].)
+([Pub. L. 103–407][/us/pl/103/407], § 4, Oct. 22, 1994, [108 Stat. 4213][/us/stat/108/4213].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t7/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7105
-[/us/pl/103/407/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs4
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4213
 
 

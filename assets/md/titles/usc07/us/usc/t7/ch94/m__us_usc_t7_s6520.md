@@ -27,7 +27,7 @@
 
         A final decision of the Secretary under subsection (a) may be appealed to the United States district court for the district in which such person is located.
 
-([Pub. L. 101–624, title XXI, § 2121][/us/pl/101/624/s2121], Nov. 28, 1990, [104 Stat. 3950][/us/stat/104/3950]; [Pub. L. 102–237, title X, § 1001(9)][/us/pl/102/237/s1001/9], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2121, Nov. 28, 1990, [104 Stat. 3950][/us/stat/104/3950]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(9), Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2121
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3950
-[/us/pl/102/237/s1001/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F9
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

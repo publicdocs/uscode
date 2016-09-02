@@ -45,7 +45,7 @@
 
         In sections 27 to 27f of this title, the term “hybrid instrument” means an identified banking product not excluded by [section 27a of this title][/us/usc/t7/s27a], offered by a bank, having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities (as defined in [section 1a of this title][/us/usc/t7/s1a]).
 
-([Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title IV, § 402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(9), 725(g)(1)(B), July 21, 2010, [124 Stat. 1672][/us/stat/124/1672], 1694.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title IV, § 402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(e)(9), 725(g)(1)(B), July 21, 2010, [124 Stat. 1672][/us/stat/124/1672], 1694.)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(7). [Pub. L. 111–203, § 721(e)(9)(A)][/us/pl/111/203/s721/e/9/A], substituted “section 1a” for “section 1a(20)”.
+    2010—Subsec. (a)(7). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(9)(A), substituted “section 1a” for “section 1a(20)”.
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 721(e)(9)(B)][/us/pl/111/203/s721/e/9/B], substituted “section 1a” for “section 1a(12)”.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(9)(B), substituted “section 1a” for “section 1a(12)”.
 
-    Subsec. (c). [Pub. L. 111–203, § 721(e)(9)(C)][/us/pl/111/203/s721/e/9/C], substituted “section 1a” for “section 1a(4)”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(9)(C), substituted “section 1a” for “section 1a(4)”.
 
-    Subsec. (d). [Pub. L. 111–203, § 725(g)(1)(B)][/us/pl/111/203/s725/g/1/B], struck out subsec. (d) which defined covered swap agreement.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -92,16 +92,16 @@
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
 [/us/usc/t7/s27a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs27a
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1672
 [/us/pl/106/102/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs206
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/111/203/s721/e/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F9%2FA
-[/us/pl/111/203/s721/e/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F9%2FB
-[/us/pl/111/203/s721/e/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F9%2FC
-[/us/pl/111/203/s725/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fg%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

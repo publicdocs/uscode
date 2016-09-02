@@ -71,7 +71,7 @@
 
         (3) section 2036  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 110–234, title XIV, § 14222][/us/pl/110/234/s14222], May 22, 2008, [122 Stat. 1483][/us/stat/122/1483]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14222, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245; [Pub. L. 112–55, div. A, title IV][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 574][/us/stat/125/574].)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14222, May 22, 2008, [122 Stat. 1483][/us/stat/122/1483]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14222, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245; [Pub. L. 112–55, div. A, title IV][/us/pl/112/55/dA/tIV], Nov. 18, 2011, [125 Stat. 574][/us/stat/125/574].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 
     The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is [act Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], [70 Stat. 119][/us/stat/70/119], which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of Title 16][/us/usc/t16/s742a] and Tables.
 
-    The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is [Pub. L. 98–8, title II][/us/pl/98/8], Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], which is classified principally to chapter 102 (§ 7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7501 of this title][/us/usc/t7/s7501] and Tables.
+    The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is [Pub. L. 98–8, title II][/us/pl/98/8/tII], Mar. 24, 1983, [97 Stat. 35][/us/stat/97/35], which is classified principally to chapter 102 (§ 7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7501 of this title][/us/usc/t7/s7501] and Tables.
 
-    [Section 2036 of this title][/us/usc/t7/s2036], referred to in subsec. (e)(3), was in the original “section 27 of the Food Stamp Act of 1977”, and was translated as meaning [section 27 of Pub. L. 88–525][/us/pl/88/525/s27], the Food and Nutrition Act of 2008, to reflect the probable intent of Congress and the renaming of the Act by [Pub. L. 110–246, title IV, § 4001(a)][/us/pl/110/246/s4001/a], June 18, 2008, [122 Stat. 1853][/us/stat/122/1853].
+    [Section 2036 of this title][/us/usc/t7/s2036], referred to in subsec. (e)(3), was in the original “section 27 of the Food Stamp Act of 1977”, and was translated as meaning [section 27 of Pub. L. 88–525][/us/pl/88/525/s27], the Food and Nutrition Act of 2008, to reflect the probable intent of Congress and the renaming of the Act by [Pub. L. 110–246, title IV][/us/pl/110/246/tIV], § 4001(a), June 18, 2008, [122 Stat. 1853][/us/stat/122/1853].
 
  __Codification__ 
 
@@ -122,11 +122,11 @@
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1769a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769a
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/pl/110/234/s14222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14222
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1483
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdA%2FtIV
 [/us/stat/125/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F574
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
@@ -137,12 +137,12 @@
 [/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F119
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
-[/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
 [/us/usc/t7/s2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2036
 [/us/pl/88/525/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs27
-[/us/pl/110/246/s4001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fa
+[/us/pl/110/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIV
 [/us/stat/122/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1853
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

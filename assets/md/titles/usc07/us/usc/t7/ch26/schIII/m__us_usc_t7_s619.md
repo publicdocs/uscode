@@ -23,7 +23,7 @@
 
     (d) Under regulations made by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, any person required pursuant to the provisions of this chapter to file a return may be required to file such return and pay the tax shown to be due thereon to the collector of internal revenue for the district in which the processing was done or the liability was incurred. Whenever the Commissioner of Internal Revenue deems it necessary, he may require any person or class of persons handling or dealing in any commodity or product thereof, with respect to which a tax is imposed under the provisions of this chapter, to make a return, render under oath such statements, or to keep such records, as the Commissioner deems sufficient to show whether or not such person, or any other person, is liable for the tax.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 19, [48 Stat. 41][/us/stat/48/41]; [June 26, 1934, ch. 759, § 3][/us/act/1934-06-26/ch759/s3], [48 Stat. 1242][/us/stat/48/1242]; [Aug. 24, 1935, ch. 641, § 29][/us/act/1935-08-24/ch641/s29], [49 Stat. 770][/us/stat/49/770]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(d), [61 Stat. 208][/us/stat/61/208].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 19, [48 Stat. 41][/us/stat/48/41]; [June 26, 1934, ch. 759][/us/act/1934-06-26/ch759], § 3, [48 Stat. 1242][/us/stat/48/1242]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 29, [49 Stat. 770][/us/stat/49/770]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(d), [61 Stat. 208][/us/stat/61/208].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 [/us/stat/61/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F208
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F41
-[/us/act/1934-06-26/ch759/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759%2Fs3
+[/us/act/1934-06-26/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759
 [/us/stat/48/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1242
-[/us/act/1935-08-24/ch641/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs29
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F770
 [/us/act/1947-06-30/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166
 [/us/stat/61/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F208

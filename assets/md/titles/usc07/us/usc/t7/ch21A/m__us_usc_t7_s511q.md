@@ -17,7 +17,7 @@
 
     This chapter may be cited as “The Tobacco Inspection Act.”
 
-([Aug. 23, 1935, ch. 623, § 18][/us/act/1935-08-23/ch623/s18], [49 Stat. 735][/us/stat/49/735].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 18, [49 Stat. 735][/us/stat/49/735].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs18
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F735
 
 

@@ -97,7 +97,7 @@
 
                     (II) a public college or university or other postsecondary institution.
 
-([Pub. L. 95–113, title XIV, § 1409A][/us/pl/95/113/s1409A], as added [Pub. L. 97–98, title XIV, § 1410(a)][/us/pl/97/98/s1410/a], Dec. 22, 1981, [95 Stat. 1301][/us/stat/95/1301]; amended [Pub. L. 99–198, title XIV, § 1407][/us/pl/99/198/s1407], Dec. 23, 1985, [99 Stat. 1545][/us/stat/99/1545]; [Pub. L. 101–624, title XVI, § 1601(f)(1)(B)][/us/pl/101/624/s1601/f/1/B], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704]; [Pub. L. 104–127, title VIII, § 803][/us/pl/104/127/s803], Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1409A, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1410(a), Dec. 22, 1981, [95 Stat. 1301][/us/stat/95/1301]; amended [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1407, Dec. 23, 1985, [99 Stat. 1545][/us/stat/99/1545]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(f)(1)(B), Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 803, Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159].)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 
     Act of August 30, 1890, referred to in subsec. (a)(3)(B), is [act Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], [26 Stat. 417][/us/stat/26/417], as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title][/us/usc/t7/s321] and Tables.
 
-    Act of June 29, 1935, referred to in subsec. (a)(3)(C), is [act June 29, 1935, ch. 338][/us/act/1935-06-29/ch338], [49 Stat. 436][/us/stat/49/436], popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by [act Aug. 11, 1966, ch. 790, § 2][/us/act/1966-08-11/ch790/s2], [69 Stat. 674][/us/stat/69/674], except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under [section 427 of this title][/us/usc/t7/s427] and Tables.
+    Act of June 29, 1935, referred to in subsec. (a)(3)(C), is [act June 29, 1935, ch. 338][/us/act/1935-06-29/ch338], [49 Stat. 436][/us/stat/49/436], popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by [act Aug. 11, 1966, ch. 790][/us/act/1966-08-11/ch790], § 2, [69 Stat. 674][/us/stat/69/674], except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under [section 427 of this title][/us/usc/t7/s427] and Tables.
 
     The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22][/us/usc/t22/s2151] and Tables.
 
@@ -125,9 +125,9 @@
 
     1990—Subsecs. (c) to (e). [Pub. L. 101–624][/us/pl/101/624] redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of [section 3101 of this title][/us/usc/t7/s3101]. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
 
-    1985—Subsec. (a)(4). [Pub. L. 99–198, § 1407(a)][/us/pl/99/198/s1407/a], added par. (4).
+    1985—Subsec. (a)(4). [Pub. L. 99–198][/us/pl/99/198], § 1407(a), added par. (4).
 
-    Subsecs. (d), (e). [Pub. L. 99–198, § 1407(b)][/us/pl/99/198/s1407/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 99–198][/us/pl/99/198], § 1407(b), added subsecs. (d) and (e).
 
  __Effective Date__ 
 
@@ -148,14 +148,14 @@
 [/us/usc/t7/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs329
 [/us/usc/t22/s2220a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220a
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
-[/us/pl/95/113/s1409A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1409A
-[/us/pl/97/98/s1410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1410%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1301
-[/us/pl/99/198/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1407
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1545
-[/us/pl/101/624/s1601/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FB
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
-[/us/pl/104/127/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs803
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1159
 [/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
 [/us/stat/24/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F440
@@ -174,7 +174,7 @@
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/act/1935-06-29/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-29%2Fch338
 [/us/stat/49/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F436
-[/us/act/1966-08-11/ch790/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-08-11%2Fch790%2Fs2
+[/us/act/1966-08-11/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-08-11%2Fch790
 [/us/stat/69/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F674
 [/us/usc/t7/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -188,8 +188,8 @@
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
-[/us/pl/99/198/s1407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1407%2Fa
-[/us/pl/99/198/s1407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1407%2Fb
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 

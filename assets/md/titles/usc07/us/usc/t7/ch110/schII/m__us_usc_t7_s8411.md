@@ -97,7 +97,7 @@
 
         Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
 
-([Pub. L. 107–188, title II, § 221][/us/pl/107/188/s221], June 12, 2002, [116 Stat. 657][/us/stat/116/657].)
+([Pub. L. 107–188, title II][/us/pl/107/188/tII], § 221, June 12, 2002, [116 Stat. 657][/us/stat/116/657].)
 
 ----------
 
@@ -110,7 +110,7 @@
 [/us/usc/t7/s8401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401%2Fa%2F1
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
 [/us/usc/t7/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401
-[/us/pl/107/188/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs221
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F657
 
 

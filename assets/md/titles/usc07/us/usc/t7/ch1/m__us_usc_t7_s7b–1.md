@@ -67,11 +67,11 @@
 
             (C) An alternative trading system shall not be deemed to be an exchange for any purpose as a result of the designation of such alternative trading system as a contract market under this section.
 
-([Sept. 21, 1922, ch. 369, § 5f][/us/act/1922-09-21/ch369/s5f], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 252(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–445.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5f, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 252(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–445.)
 
  __References in Text__ 
 
-    Subsec. (f) of [section 13 of this title][/us/usc/t7/s13], referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by [Pub. L. 110–246, title XIII, § 13105(h)(2)][/us/pl/110/246/s13105/h/2], June 18, 2008, [122 Stat. 2197][/us/stat/122/2197].
+    Subsec. (f) of [section 13 of this title][/us/usc/t7/s13], referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by [Pub. L. 110–246, title XIII][/us/pl/110/246/tXIII], § 13105(h)(2), June 18, 2008, [122 Stat. 2197][/us/stat/122/2197].
 
 ----------
 
@@ -89,11 +89,11 @@
 [/us/usc/t7/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs20
 [/us/usc/t7/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21
 [/us/usc/t7/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21
-[/us/act/1922-09-21/ch369/s5f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5f
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t7/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs13
-[/us/pl/110/246/s13105/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fh%2F2
+[/us/pl/110/246/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXIII
 [/us/stat/122/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2197
 
 

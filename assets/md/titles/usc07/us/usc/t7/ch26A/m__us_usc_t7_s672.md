@@ -19,7 +19,7 @@
 
     (b) Any program in effect under the Agricultural Adjustment Act \[[7 U.S.C. 601][/us/usc/t7/s601] et seq.\], as reenacted and amended by this Act, on January 1, 1950, shall continue in effect without the necessity for any amendatory action relative to such program, but any such program shall be continued in operation by the Secretary of Agriculture only to establish and maintain such orderly marketing conditions as will tend to effectuate the declared purpose set out in section 2 or 8c(18) of the Agricultural Adjustment Act \[[7 U.S.C. 602][/us/usc/t7/s602] or 608c(18)\], as reenacted and amended by this Act.
 
-([June 3, 1937, ch. 296, § 4][/us/act/1937-06-03/ch296/s4], [50 Stat. 249][/us/stat/50/249]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(e), [62 Stat. 1258][/us/stat/62/1258].)
+([June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 4, [50 Stat. 249][/us/stat/50/249]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(e), [62 Stat. 1258][/us/stat/62/1258].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t7/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs602
-[/us/act/1937-06-03/ch296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs4
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F249
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1258

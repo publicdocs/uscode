@@ -31,7 +31,7 @@
 
         (2) promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
 
-([Pub. L. 107–171, title X, § 10204][/us/pl/107/171/s10204], May 13, 2002, [116 Stat. 491][/us/stat/116/491]; [Pub. L. 110–234, title I, § 1603(g)(4)][/us/pl/110/234/s1603/g/4], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10204, May 13, 2002, [116 Stat. 491][/us/stat/116/491]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(g)(4), May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(g)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(b)(1), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79] amended language inserted by [Pub. L. 110–246, § 1603(g)(4)][/us/pl/110/246/s1603/g/4]. See 2008 Amendment note below.
+    2014—Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79] amended language inserted by [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(4). See 2008 Amendment note below.
 
-    2008—Subsec. (c)(1). [Pub. L. 110–246, § 1603(g)(4)][/us/pl/110/246/s1603/g/4], as amended by [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of this title][/us/usc/t7/s1308]”.
+    2008—Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(4), as amended by [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of this title][/us/usc/t7/s1308]”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/107/171/s10204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10204
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F491
-[/us/pl/110/234/s1603/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fg%2F4
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
@@ -81,9 +81,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1603/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F4
-[/us/pl/110/246/s1603/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F4
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

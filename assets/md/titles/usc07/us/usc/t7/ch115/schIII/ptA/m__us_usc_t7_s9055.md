@@ -37,7 +37,7 @@
 
         A participating dairy operation shall provide all information that the Secretary may require in order to establish the production history of the participating dairy operation for purposes of participating in the margin protection program.
 
-([Pub. L. 113–79, title I, § 1405][/us/pl/113/79/s1405], Feb. 7, 2014, [128 Stat. 690][/us/stat/128/690].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1405, Feb. 7, 2014, [128 Stat. 690][/us/stat/128/690].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1405
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F690
 
 

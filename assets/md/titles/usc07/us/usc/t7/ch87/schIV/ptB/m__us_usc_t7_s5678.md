@@ -105,7 +105,7 @@
 
         The Secretary may seek and accept gifts from public and private sources to carry out this section.
 
-([Pub. L. 104–127, title II, § 261][/us/pl/104/127/s261], Apr. 4, 1996, [110 Stat. 972][/us/stat/110/972].)
+([Pub. L. 104–127, title II][/us/pl/104/127/tII], § 261, Apr. 4, 1996, [110 Stat. 972][/us/stat/110/972].)
 
  __Codification__ 
 
@@ -118,7 +118,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs261
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F972
 
 

@@ -31,7 +31,7 @@
 
         Within 1 year after December 21, 2000, the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the steps it has taken to implement this section and on the activities of contract markets pursuant to this section.
 
-([Sept. 21, 1922, ch. 369, § 4q][/us/act/1922-09-21/ch369/s4q], formerly § 4p, as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404; renumbered § 4q, [Pub. L. 110–234, title XIII, § 13105(d)][/us/pl/110/234/s13105/d], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII, § 721(e)(3)][/us/pl/111/203/s721/e/3], July 21, 2010, [124 Stat. 1671][/us/stat/124/1671].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4q, formerly § 4p, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404; renumbered § 4q, [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13105(d), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 721(e)(3), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671].)
 
  __Codification__ 
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t7/s1a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F9
-[/us/act/1922-09-21/ch369/s4q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4q
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13105%2Fd
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s721/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F3
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

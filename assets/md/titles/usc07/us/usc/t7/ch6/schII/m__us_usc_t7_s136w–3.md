@@ -49,7 +49,7 @@
 
         The Administrator, in coordination with the Secretary of Agriculture and the Secretary of Health and Human Services, shall identify pests of significant public health importance and, in coordination with the Public Health Service, develop and implement programs to improve and facilitate the safe and necessary use of chemical, biological, and other methods to combat and control such pests of public health importance.
 
-([June 25, 1947, ch. 125, § 28][/us/act/1947-06-25/ch125/s28], as added [Pub. L. 95–396, § 24(2)][/us/pl/95/396/s24/2], Sept. 30, 1978, [92 Stat. 838][/us/stat/92/838]; amended [Pub. L. 101–624, title XIV, § 1495][/us/pl/101/624/s1495], Nov. 28, 1990, [104 Stat. 3629][/us/stat/104/3629]; [Pub. L. 104–127, title VIII, § 862(b)(1)][/us/pl/104/127/s862/b/1], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 104–170, title II, § 236][/us/pl/104/170/s236], Aug. 3, 1996, [110 Stat. 1509][/us/stat/110/1509].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 28, as added [Pub. L. 95–396][/us/pl/95/396], § 24(2), Sept. 30, 1978, [92 Stat. 838][/us/stat/92/838]; amended [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1495, Nov. 28, 1990, [104 Stat. 3629][/us/stat/104/3629]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 862(b)(1), Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 104–170, title II][/us/pl/104/170/tII], § 236, Aug. 3, 1996, [110 Stat. 1509][/us/stat/110/1509].)
 
  __Amendments__ 
 
@@ -66,14 +66,14 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs28
-[/us/pl/95/396/s24/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs24%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F838
-[/us/pl/101/624/s1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1495
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3629
-[/us/pl/104/127/s862/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs862%2Fb%2F1
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1174
-[/us/pl/104/170/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs236
+[/us/pl/104/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtII
 [/us/stat/110/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1509
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s5882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5882

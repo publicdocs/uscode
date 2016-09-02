@@ -125,7 +125,7 @@
 
             (D) any animal, article, facility, or means of conveyance that becomes or has become affected with or exposed to any pest or disease of livestock because of a violation of an agreement for the control and eradication of diseases or pests or a violation of this chapter by the owner.
 
-([Pub. L. 107–171, title X, § 10407][/us/pl/107/171/s10407], May 13, 2002, [116 Stat. 498][/us/stat/116/498]; [Pub. L. 110–234, title XI, § 11011(1)][/us/pl/110/234/s11011/1], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11011(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2121.)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10407, May 13, 2002, [116 Stat. 498][/us/stat/116/498]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11011(1), May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11011(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2121.)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(2)(C). [Pub. L. 110–246, § 11011(1)][/us/pl/110/246/s11011/1], struck out “of longer than 60 days” after “or review”.
+    2008—Subsec. (d)(2)(C). [Pub. L. 110–246][/us/pl/110/246], § 11011(1), struck out “of longer than 60 days” after “or review”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -154,11 +154,11 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10407
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F498
-[/us/pl/110/234/s11011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11011%2F1
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
@@ -167,7 +167,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11011%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

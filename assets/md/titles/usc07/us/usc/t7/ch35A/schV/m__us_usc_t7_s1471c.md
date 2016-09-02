@@ -31,7 +31,7 @@
 
         Any livestock producer, located in a county or area in which benefits under the emergency feed program or the emergency feed assistance program were made available due to the drought or related condition in 1988 prior to the effective date of this subchapter, who qualifies for assistance under such pre-existing programs shall be eligible for assistance for such drought or related conditions as prescribed in subsection (a) or, at the producer’s option, for assistance under such pre-existing programs.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 605, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 605, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t7/s1471a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471a%2Fb
 [/us/usc/t7/s1471e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471e
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F928
 [/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
 [/us/pl/100/387/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc

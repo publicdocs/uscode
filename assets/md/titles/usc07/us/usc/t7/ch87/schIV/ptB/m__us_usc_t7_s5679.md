@@ -51,11 +51,11 @@
 
         There is authorized to be appropriated $6,000,000 for each of fiscal years 2002 through 2007.
 
-([Pub. L. 101–624, title XV, § 1543A][/us/pl/101/624/s1543A], as added [Pub. L. 107–171, title III, § 3204][/us/pl/107/171/s3204], May 13, 2002, [116 Stat. 300][/us/stat/116/300].)
+([Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1543A, as added [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3204, May 13, 2002, [116 Stat. 300][/us/stat/116/300].)
 
  __References in Text__ 
 
-    Section 1542, referred to in subsec. (c)(2), is [section 1542 of title XV of Pub. L. 101–624][/us/pl/101/624/s1542], which is set out as a note under [section 5622 of this title][/us/usc/t7/s5622].
+    Section 1542, referred to in subsec. (c)(2), is [section 1542 of title XV of Pub. L. 101–624][/us/pl/101/624/tXV/s1542], which is set out as a note under [section 5622 of this title][/us/usc/t7/s5622].
 
  __Codification__ 
 
@@ -70,10 +70,10 @@
 
 [/us/usc/t7/s5602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5602
 [/us/usc/t7/s3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3293
-[/us/pl/101/624/s1543A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1543A
-[/us/pl/107/171/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3204
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F300
-[/us/pl/101/624/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1542
+[/us/pl/101/624/tXV/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV%2Fs1542
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
 
 

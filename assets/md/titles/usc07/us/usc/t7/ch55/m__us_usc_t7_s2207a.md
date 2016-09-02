@@ -27,7 +27,7 @@
 
         (3) The justification for the award of each contract and the reason the work cannot be performed by civil servants.
 
-([Pub. L. 101–161, title VI, § 641][/us/pl/101/161/s641], Nov. 21, 1989, [103 Stat. 986][/us/stat/103/986]; [Pub. L. 104–316, title I, § 104(b)][/us/pl/104/316/s104/b], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829].)
+([Pub. L. 101–161, title VI][/us/pl/101/161/tVI], § 641, Nov. 21, 1989, [103 Stat. 986][/us/stat/103/986]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 104(b), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/161/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2Fs641
+[/us/pl/101/161/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2FtVI
 [/us/stat/103/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F986
-[/us/pl/104/316/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs104%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 

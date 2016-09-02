@@ -91,7 +91,7 @@
 
         Not later than 1 year after February 7, 2014, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress that has been made in implementing this section and identifying any additional needs and barriers related to developing local and regional food systems.
 
-([Pub. L. 113–79, title X, § 10016][/us/pl/113/79/s10016], Feb. 7, 2014, [128 Stat. 952][/us/stat/128/952].)
+([Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10016, Feb. 7, 2014, [128 Stat. 952][/us/stat/128/952].)
 
  __Definition of “Secretary”__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t7/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3005
-[/us/pl/113/79/s10016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10016
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F952
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 

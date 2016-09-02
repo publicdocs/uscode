@@ -47,7 +47,7 @@
 
             The Authority shall develop guidelines for providing public participation described in paragraph (1), including public hearings.
 
-([Pub. L. 87–128, title III, § 382G][/us/pl/87/128/s382G], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–278.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 382G, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–278.)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t7/s2009aa–1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%931%2Fd%2F2
-[/us/pl/87/128/s382G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs382G
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

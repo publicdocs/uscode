@@ -187,7 +187,7 @@
 
         There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title VI, § 6407][/us/pl/107/171/s6407], as added [Pub. L. 113–79, title VI, § 6205][/us/pl/113/79/s6205], Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
+([Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6407, as added [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6205, Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
 
  __Codification__ 
 
@@ -200,8 +200,8 @@
 ----------
 ----------
 
-[/us/pl/107/171/s6407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6407
-[/us/pl/113/79/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6205
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F857
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

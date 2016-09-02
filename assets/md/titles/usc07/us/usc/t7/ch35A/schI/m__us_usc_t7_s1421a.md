@@ -27,7 +27,7 @@
 
         The study under this section (including the study of the effect of the support levels on the ability of producers to meet their financial obligations) shall be only for informational purposes and for Congressional oversight and shall not give rise to any cause of action, be a basis for, or be used as evidence in support of, any claim or right of any person, including farmers and borrowers, in any administrative or judicial proceeding.
 
-([Pub. L. 101–624, title XI, § 1147][/us/pl/101/624/s1147], Nov. 28, 1990, [104 Stat. 3516][/us/stat/104/3516].)
+([Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1147, Nov. 28, 1990, [104 Stat. 3516][/us/stat/104/3516].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/624/s1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1147
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3516
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

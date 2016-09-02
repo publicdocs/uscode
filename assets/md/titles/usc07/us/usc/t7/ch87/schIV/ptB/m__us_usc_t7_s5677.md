@@ -57,7 +57,7 @@
 
         If the President or any other member of the executive branch causes exports to be suspended based on a determination of short supply, the Secretary shall carry out [section 1310 of this title][/us/usc/t7/s1310].
 
-([Pub. L. 95–501, title IV, § 417][/us/pl/95/501/s417], as added [Pub. L. 104–127, title II, § 249][/us/pl/104/127/s249], Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 417, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 249, Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969].)
 
 ----------
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t7/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1310
-[/us/pl/95/501/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs417
-[/us/pl/104/127/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs249
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F969
 
 

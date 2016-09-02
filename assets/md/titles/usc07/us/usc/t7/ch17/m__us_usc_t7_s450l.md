@@ -17,7 +17,7 @@
 
     The authority granted under sections 450j to 450l of this title shall expire on September 30, 2018.
 
-([Pub. L. 90–484, § 3][/us/pl/90/484/s3], Aug. 13, 1968, [82 Stat. 750][/us/stat/82/750]; [Pub. L. 91–524, title II, § 204(a)][/us/pl/91/524/s204/a], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361]; [Pub. L. 93–86, § 1(5)(A)][/us/pl/93/86/s1/5/A], Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; [Pub. L. 95–113, title II, § 205(2)][/us/pl/95/113/s205/2], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–98, title I, § 105][/us/pl/97/98/s105], Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 99–198, title I, § 152][/us/pl/99/198/s152], Dec. 23, 1985, [99 Stat. 1377][/us/stat/99/1377]; [Pub. L. 101–624, title I, § 110][/us/pl/101/624/s110], Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 107–171, title I, § 1503(b)][/us/pl/107/171/s1503/b], May 13, 2002, [116 Stat. 207][/us/stat/116/207]; [Pub. L. 110–234, title I, § 1505][/us/pl/110/234/s1505], May 22, 2008, [122 Stat. 994][/us/stat/122/994]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1723; [Pub. L. 113–79, title I, § 1425][/us/pl/113/79/s1425], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
+([Pub. L. 90–484][/us/pl/90/484], § 3, Aug. 13, 1968, [82 Stat. 750][/us/stat/82/750]; [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 204(a), Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361]; [Pub. L. 93–86][/us/pl/93/86], § 1(5)(A), Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; [Pub. L. 95–113, title II][/us/pl/95/113/tII], § 205(2), Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–98, title I][/us/pl/97/98/tI], § 105, Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 152, Dec. 23, 1985, [99 Stat. 1377][/us/stat/99/1377]; [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 110, Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1503(b), May 13, 2002, [116 Stat. 207][/us/stat/116/207]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1505, May 22, 2008, [122 Stat. 994][/us/stat/122/994]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1723; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1425, Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __Codification__ 
 
@@ -29,21 +29,21 @@
 
 The following Acts authorized indemnity payments for the periods ending as indicated:
 
-    June 30, 1968—[Pub. L. 90–95, § 3][/us/pl/90/95/s3], Sept. 28, 1967, [81 Stat. 231][/us/stat/81/231].
+    June 30, 1968—[Pub. L. 90–95][/us/pl/90/95], § 3, Sept. 28, 1967, [81 Stat. 231][/us/stat/81/231].
 
-    June 30, 1967—[Pub. L. 89–794, title III, § 301(c)][/us/pl/89/794/s301/c], Nov. 8, 1966, [80 Stat. 1465][/us/stat/80/1465].
+    June 30, 1967—[Pub. L. 89–794, title III][/us/pl/89/794/tIII], § 301(c), Nov. 8, 1966, [80 Stat. 1465][/us/stat/80/1465].
 
-    June 30, 1966—[Pub. L. 89–253, § 24][/us/pl/89/253/s24], Oct. 29, 1965, [79 Stat. 977][/us/stat/79/977].
+    June 30, 1966—[Pub. L. 89–253][/us/pl/89/253], § 24, Oct. 29, 1965, [79 Stat. 977][/us/stat/79/977].
 
-    June 30, 1965—[Pub. L. 89–16, title III, § 303][/us/pl/89/16/s303], Apr. 30, 1965, [79 Stat. 108][/us/stat/79/108].
+    June 30, 1965—[Pub. L. 89–16, title III][/us/pl/89/16/tIII], § 303, Apr. 30, 1965, [79 Stat. 108][/us/stat/79/108].
 
-    Jan. 31, 1965—[Pub. L. 88–452, title III, § 331][/us/pl/88/452/s331], Aug. 20, 1964, [78 Stat. 525][/us/stat/78/525].
+    Jan. 31, 1965—[Pub. L. 88–452, title III][/us/pl/88/452/tIII], § 331, Aug. 20, 1964, [78 Stat. 525][/us/stat/78/525].
 
  __Amendments__ 
 
     2014—[Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—[Pub. L. 110–246, § 1505][/us/pl/110/246/s1505], substituted “2012” for “2007”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 1505, substituted “2012” for “2007”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “1995”.
 
@@ -82,27 +82,27 @@ The following Acts authorized indemnity payments for the periods ending as indic
 ----------
 ----------
 
-[/us/pl/90/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F484%2Fs3
+[/us/pl/90/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F484
 [/us/stat/82/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F750
-[/us/pl/91/524/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs204%2Fa
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1361
-[/us/pl/93/86/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F5%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F223
-[/us/pl/95/113/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs205%2F2
+[/us/pl/95/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtII
 [/us/stat/91/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F920
-[/us/pl/97/98/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs105
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1220
-[/us/pl/99/198/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs152
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1377
-[/us/pl/101/624/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs110
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3380
-[/us/pl/107/171/s1503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1503%2Fb
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F207
-[/us/pl/110/234/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1505
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F994
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1425
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -112,18 +112,18 @@ The following Acts authorized indemnity payments for the periods ending as indic
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/90/95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F95%2Fs3
+[/us/pl/90/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F95
 [/us/stat/81/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F231
-[/us/pl/89/794/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs301%2Fc
+[/us/pl/89/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtIII
 [/us/stat/80/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1465
-[/us/pl/89/253/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F253%2Fs24
+[/us/pl/89/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F253
 [/us/stat/79/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F977
-[/us/pl/89/16/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16%2Fs303
+[/us/pl/89/16/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16%2FtIII
 [/us/stat/79/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F108
-[/us/pl/88/452/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs331
+[/us/pl/88/452/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtIII
 [/us/stat/78/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F525
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1505
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

@@ -111,27 +111,27 @@
 
     (24) The term “State association” means that organization of beekeepers in a State which is generally recognized as representing the beekeepers of that State.
 
-([Pub. L. 98–590, § 3][/us/pl/98/590/s3], Oct. 30, 1984, [98 Stat. 3116][/us/stat/98/3116]; [Pub. L. 101–624, title XIX, § 1982][/us/pl/101/624/s1982], Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904]; [Pub. L. 105–185, title VI, § 605(b)][/us/pl/105/185/s605/b], June 23, 1998, [112 Stat. 588][/us/stat/112/588].)
+([Pub. L. 98–590][/us/pl/98/590], § 3, Oct. 30, 1984, [98 Stat. 3116][/us/stat/98/3116]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1982, Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(b), June 23, 1998, [112 Stat. 588][/us/stat/112/588].)
 
  __Amendments__ 
 
-    1998—Pars. (1) to (5). [Pub. L. 105–185, § 605(b)(3)][/us/pl/105/185/s605/b/3], redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
+    1998—Pars. (1) to (5). [Pub. L. 105–185][/us/pl/105/185], § 605(b)(3), redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
 
-    Par. (7). [Pub. L. 105–185, § 605(b)(3)][/us/pl/105/185/s605/b/3], redesignated par. (1) as (7). Former par. (7) redesignated (5).
+    Par. (7). [Pub. L. 105–185][/us/pl/105/185], § 605(b)(3), redesignated par. (1) as (7). Former par. (7) redesignated (5).
 
-    [Pub. L. 105–185, § 605(b)(1)][/us/pl/105/185/s605/b/1], added par. (7) and struck out former par. (7) which read as follows: “The term ‘handle’ means to sell, package, or process honey.”
+    [Pub. L. 105–185][/us/pl/105/185], § 605(b)(1), added par. (7) and struck out former par. (7) which read as follows: “The term ‘handle’ means to sell, package, or process honey.”
 
-    Pars. (8) to (12). [Pub. L. 105–185, § 605(b)(3)][/us/pl/105/185/s605/b/3], redesignated pars. (15), (20), (2), (8), and (21) as (8) to (12), respectively. Former pars. (8) to (12) redesignated (11), (17), (18), (21), and (2), respectively.
+    Pars. (8) to (12). [Pub. L. 105–185][/us/pl/105/185], § 605(b)(3), redesignated pars. (15), (20), (2), (8), and (21) as (8) to (12), respectively. Former pars. (8) to (12) redesignated (11), (17), (18), (21), and (2), respectively.
 
-    Pars. (14) to (18). [Pub. L. 105–185, § 605(b)(3)][/us/pl/105/185/s605/b/3], redesignated pars. (22), (4), (5), (9), and (10) as (14) to (18), respectively. Former pars. (14) to (18) redesignated (1), (8), (24), (23), and (4), respectively.
+    Pars. (14) to (18). [Pub. L. 105–185][/us/pl/105/185], § 605(b)(3), redesignated pars. (22), (4), (5), (9), and (10) as (14) to (18), respectively. Former pars. (14) to (18) redesignated (1), (8), (24), (23), and (4), respectively.
 
-    Pars. (19) to (24). [Pub. L. 105–185, § 605(b)(3)][/us/pl/105/185/s605/b/3], redesignated pars. (23), (24), (11), (3), (17), and (16) as (19) to (24), respectively. Former pars. (19) to (24) redesignated (3), (9), (12), (14), (19), and (20), respectively.
+    Pars. (19) to (24). [Pub. L. 105–185][/us/pl/105/185], § 605(b)(3), redesignated pars. (23), (24), (11), (3), (17), and (16) as (19) to (24), respectively. Former pars. (19) to (24) redesignated (3), (9), (12), (14), (19), and (20), respectively.
 
-    [Pub. L. 105–185, § 605(b)(2)][/us/pl/105/185/s605/b/2], added pars. (19) to (24).
+    [Pub. L. 105–185][/us/pl/105/185], § 605(b)(2), added pars. (19) to (24).
 
-    1990—Par. (8). [Pub. L. 101–624, § 1982(1)][/us/pl/101/624/s1982/1], substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
+    1990—Par. (8). [Pub. L. 101–624][/us/pl/101/624], § 1982(1), substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
 
-    Par. (18). [Pub. L. 101–624, § 1982(2)][/us/pl/101/624/s1982/2], added par. (18).
+    Par. (18). [Pub. L. 101–624][/us/pl/101/624], § 1982(2), added par. (18).
 
 ----------
 
@@ -144,20 +144,20 @@
 [/us/usc/t7/s4606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fc
 [/us/usc/t7/s4606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fb
 [/us/usc/t7/s4606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fb
-[/us/pl/98/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs3
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3116
-[/us/pl/101/624/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1982
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3904
-[/us/pl/105/185/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F588
-[/us/pl/105/185/s605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F3
-[/us/pl/105/185/s605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F3
-[/us/pl/105/185/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F1
-[/us/pl/105/185/s605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F3
-[/us/pl/105/185/s605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F3
-[/us/pl/105/185/s605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F3
-[/us/pl/105/185/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fb%2F2
-[/us/pl/101/624/s1982/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1982%2F1
-[/us/pl/101/624/s1982/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1982%2F2
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

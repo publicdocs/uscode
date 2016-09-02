@@ -259,7 +259,7 @@
 
         The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321][/us/usc/t7/s321] et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
 
-([Pub. L. 101–624, title XXV, § 2501][/us/pl/101/624/s2501], Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 102–237, title X, § 1003][/us/pl/102/237/s1003], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 107–171, title X, § 10707][/us/pl/107/171/s10707], May 13, 2002, [116 Stat. 520][/us/stat/116/520]; [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14001, 14004, 14005, May 22, 2008, [122 Stat. 1442][/us/stat/122/1442], 1443, 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14001, 14004, 14005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204, 2205, 2207; [Pub. L. 112–240, title VII, § 701(h)][/us/pl/112/240/s701/h], Jan. 2, 2013, [126 Stat. 2367][/us/stat/126/2367]; [Pub. L. 113–79, title XII][/us/pl/113/79], §§ 12201, 12203, Feb. 7, 2014, [128 Stat. 983][/us/stat/128/983], 984.)
+([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2501, Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1003, Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10707, May 13, 2002, [116 Stat. 520][/us/stat/116/520]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], §§ 14001, 14004, 14005, May 22, 2008, [122 Stat. 1442][/us/stat/122/1442], 1443, 1445; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, §§ 14001, 14004, 14005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204, 2205, 2207; [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(h), Jan. 2, 2013, [126 Stat. 2367][/us/stat/126/2367]; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], §§ 12201, 12203, Feb. 7, 2014, [128 Stat. 983][/us/stat/128/983], 984.)
 
  __References in Text__ 
 
@@ -283,53 +283,53 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, § 12201(a)(1)][/us/pl/113/79/s12201/a/1], inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
+    2014—[Pub. L. 113–79][/us/pl/113/79], § 12201(a)(1), inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–79, § 12201(a)(2)(A)][/us/pl/113/79/s12201/a/2/A], inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(2)(A), inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 113–79, § 12201(a)(2)(B)][/us/pl/113/79/s12201/a/2/B], inserted “and veteran farmers or ranchers” after “ranchers”.
+    Subsec. (a)(2)(B)(i). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(2)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-    Subsec. (a)(4)(A). [Pub. L. 113–79, § 12201(a)(2)(C)(i)(I)][/us/pl/113/79/s12201/a/2/C/i/I], substituted “2018” for “2012” in heading.
+    Subsec. (a)(4)(A). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(2)(C)(i)(I), substituted “2018” for “2012” in heading.
 
-    Subsec. (a)(4)(A)(iii). [Pub. L. 113–79, § 12201(a)(2)(C)(i)(II)][/us/pl/113/79/s12201/a/2/C/i/II]–(IV), added cl. (iii).
+    Subsec. (a)(4)(A)(iii). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(2)(C)(i)(II)–(IV), added cl. (iii).
 
-    Subsec. (a)(4)(E). [Pub. L. 113–79, § 12201(a)(2)(C)(ii)][/us/pl/113/79/s12201/a/2/C/ii], added subpar. (E).
+    Subsec. (a)(4)(E). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(2)(C)(ii), added subpar. (E).
 
-    Subsec. (b)(2). [Pub. L. 113–79, § 12201(a)(3)][/us/pl/113/79/s12201/a/3], inserted “or veteran farmers and ranchers” after “socially disadvantaged farmers and ranchers”.
+    Subsec. (b)(2). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(3), inserted “or veteran farmers and ranchers” after “socially disadvantaged farmers and ranchers”.
 
-    Subsec. (c)(1)(A). [Pub. L. 113–79, § 12201(a)(4)(A)][/us/pl/113/79/s12201/a/4/A], inserted “veteran farmers or ranchers and” before “members”.
+    Subsec. (c)(1)(A). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(4)(A), inserted “veteran farmers or ranchers and” before “members”.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–79, § 12201(a)(4)(B)][/us/pl/113/79/s12201/a/4/B], inserted “veteran farmers or ranchers and” before “members”.
+    Subsec. (c)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(4)(B), inserted “veteran farmers or ranchers and” before “members”.
 
-    Subsec. (e)(5)(A)(i). [Pub. L. 113–79, § 12201(a)(5)(A)][/us/pl/113/79/s12201/a/5/A], inserted “and veteran farmers or ranchers” after “ranchers”.
+    Subsec. (e)(5)(A)(i). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(5)(A), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-    Subsec. (e)(5)(A)(ii). [Pub. L. 113–79, § 12201(a)(5)(B)][/us/pl/113/79/s12201/a/5/B], inserted “and veteran farmers or ranchers” after “ranchers”.
+    Subsec. (e)(5)(A)(ii). [Pub. L. 113–79][/us/pl/113/79], § 12201(a)(5)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-    Subsec. (e)(7). [Pub. L. 113–79, § 12201(b)][/us/pl/113/79/s12201/b], added par. (7).
+    Subsec. (e)(7). [Pub. L. 113–79][/us/pl/113/79], § 12201(b), added par. (7).
 
-    Subsec. (i). [Pub. L. 113–79, § 12203][/us/pl/113/79/s12203], added subsec. (i).
+    Subsec. (i). [Pub. L. 113–79][/us/pl/113/79], § 12203, added subsec. (i).
 
-    2013—Subsec. (a)(4)(A). [Pub. L. 112–240, § 701(h)(1)][/us/pl/112/240/s701/h/1], substituted “Fiscal years 2009 through 2012” for “In general” in heading.
+    2013—Subsec. (a)(4)(A). [Pub. L. 112–240][/us/pl/112/240], § 701(h)(1), substituted “Fiscal years 2009 through 2012” for “In general” in heading.
 
-    Subsec. (a)(4)(B) to (D). [Pub. L. 112–240, § 701(h)(2)][/us/pl/112/240/s701/h/2]–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
+    Subsec. (a)(4)(B) to (D). [Pub. L. 112–240][/us/pl/112/240], § 701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 14004(a)(1)][/us/pl/110/246/s14004/a/1], amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
 
-    Subsec. (a)(3)(A). [Pub. L. 110–246, § 14004(a)(2)(A)][/us/pl/110/246/s14004/a/2/A], substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
+    Subsec. (a)(3)(A). [Pub. L. 110–246][/us/pl/110/246], § 14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
 
-    Subsec. (a)(3)(D). [Pub. L. 110–246, § 14004(a)(2)(B)][/us/pl/110/246/s14004/a/2/B], added subpar. (D).
+    Subsec. (a)(3)(D). [Pub. L. 110–246][/us/pl/110/246], § 14004(a)(2)(B), added subpar. (D).
 
-    Subsec. (a)(4)(A). [Pub. L. 110–246, § 14004(a)(3)(A)][/us/pl/110/246/s14004/a/3/A], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
+    Subsec. (a)(4)(A). [Pub. L. 110–246][/us/pl/110/246], § 14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
 
-    Subsec. (a)(4)(C). [Pub. L. 110–246, § 14004(a)(3)(B)][/us/pl/110/246/s14004/a/3/B], added subpar. (C).
+    Subsec. (a)(4)(C). [Pub. L. 110–246][/us/pl/110/246], § 14004(a)(3)(B), added subpar. (C).
 
-    Subsec. (e)(5)(A)(ii). [Pub. L. 110–246, § 14004(b)][/us/pl/110/246/s14004/b], which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
+    Subsec. (e)(5)(A)(ii). [Pub. L. 110–246][/us/pl/110/246], § 14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
 
-    Subsec. (g)(1). [Pub. L. 110–246, § 14001][/us/pl/110/246/s14001], substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
+    Subsec. (g)(1). [Pub. L. 110–246][/us/pl/110/246], § 14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
 
-    Subsec. (h). [Pub. L. 110–246, § 14005][/us/pl/110/246/s14005], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 14005, added subsec. (h).
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 10707(b)][/us/pl/107/171/s10707/b], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
     “(1) In general.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
 
@@ -347,17 +347,17 @@
 
     “(3) Funding.—There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection.”
 
-    Subsec. (d)(1). [Pub. L. 107–171, § 10707(c)(1)][/us/pl/107/171/s10707/c/1], struck out “of Agriculture” after “analyze within the Department”.
+    Subsec. (d)(1). [Pub. L. 107–171][/us/pl/107/171], § 10707(c)(1), struck out “of Agriculture” after “analyze within the Department”.
 
-    Subsec. (e)(4) to (6). [Pub. L. 107–171, § 10707(a)][/us/pl/107/171/s10707/a], added pars. (4) to (6).
+    Subsec. (e)(4) to (6). [Pub. L. 107–171][/us/pl/107/171], § 10707(a), added pars. (4) to (6).
 
-    Subsec. (g)(1). [Pub. L. 107–171, § 10707(c)(2)][/us/pl/107/171/s10707/c/2], struck out “of Agriculture” after “Department”.
+    Subsec. (g)(1). [Pub. L. 107–171][/us/pl/107/171], § 10707(c)(2), struck out “of Agriculture” after “Department”.
 
-    1991—Subsec. (a)(3). [Pub. L. 102–237, § 1003(1)][/us/pl/102/237/s1003/1], substituted “subsection” for “section”.
+    1991—Subsec. (a)(3). [Pub. L. 102–237][/us/pl/102/237], § 1003(1), substituted “subsection” for “section”.
 
-    Subsec. (c)(1)(C). [Pub. L. 102–237, § 1003(2)][/us/pl/102/237/s1003/2], inserted “program” after “agricultural”.
+    Subsec. (c)(1)(C). [Pub. L. 102–237][/us/pl/102/237], § 1003(2), inserted “program” after “agricultural”.
 
-    Subsec. (d)(3). [Pub. L. 102–237, § 1003(3)][/us/pl/102/237/s1003/3], substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
+    Subsec. (d)(3). [Pub. L. 102–237][/us/pl/102/237], § 1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -369,7 +369,7 @@
 
  __Minority Farmer Advisory Committee__ 
 
-[Pub. L. 110–234, title XIV, § 14008][/us/pl/110/234/s14008], May 22, 2008, [122 Stat. 1446][/us/stat/122/1446], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208, provided that:
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14008, May 22, 2008, [122 Stat. 1446][/us/stat/122/1446], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -409,7 +409,7 @@
 
  __Waiver of Statute of Limitations__ 
 
-[Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 741\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–30, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 741\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–30, provided that:
 
 >     “(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
 
@@ -470,19 +470,19 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t38/s101/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F10
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4062
-[/us/pl/102/237/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1003
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
-[/us/pl/107/171/s10707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10707
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F520
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1442
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2367
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F983
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
@@ -509,37 +509,37 @@
 [/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
 [/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
 [/us/usc/t7/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003
-[/us/pl/113/79/s12201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F1
-[/us/pl/113/79/s12201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FA
-[/us/pl/113/79/s12201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FB
-[/us/pl/113/79/s12201/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fi%2FI
-[/us/pl/113/79/s12201/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fi%2FII
-[/us/pl/113/79/s12201/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fii
-[/us/pl/113/79/s12201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F3
-[/us/pl/113/79/s12201/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F4%2FA
-[/us/pl/113/79/s12201/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F4%2FB
-[/us/pl/113/79/s12201/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F5%2FA
-[/us/pl/113/79/s12201/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F5%2FB
-[/us/pl/113/79/s12201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fb
-[/us/pl/113/79/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12203
-[/us/pl/112/240/s701/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh%2F1
-[/us/pl/112/240/s701/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh%2F2
-[/us/pl/110/246/s14004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F1
-[/us/pl/110/246/s14004/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F2%2FA
-[/us/pl/110/246/s14004/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F2%2FB
-[/us/pl/110/246/s14004/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F3%2FA
-[/us/pl/110/246/s14004/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F3%2FB
-[/us/pl/110/246/s14004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fb
-[/us/pl/110/246/s14001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14001
-[/us/pl/110/246/s14005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14005
-[/us/pl/107/171/s10707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10707%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/107/171/s10707/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10707%2Fc%2F1
-[/us/pl/107/171/s10707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10707%2Fa
-[/us/pl/107/171/s10707/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10707%2Fc%2F2
-[/us/pl/102/237/s1003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1003%2F1
-[/us/pl/102/237/s1003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1003%2F2
-[/us/pl/102/237/s1003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1003%2F3
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
@@ -548,9 +548,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14008
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1446
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279
 [/us/usc/t7/s2279/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe%2F2
@@ -559,7 +559,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/usc/t15/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471

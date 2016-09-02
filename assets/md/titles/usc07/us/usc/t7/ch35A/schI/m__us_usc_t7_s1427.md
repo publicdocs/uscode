@@ -119,7 +119,7 @@
 
         (2) sales made on condition that commodities of the same kind and of comparable value or quantity be exported, either in raw or processed form.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 407, [63 Stat. 1055][/us/stat/63/1055]; [July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 308, formerly § 301, [68 Stat. 458][/us/stat/68/458], renumbered § 308, [Pub. L. 95–88, title II, § 211(a)(1)][/us/pl/95/88/s211/a/1], Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; amended [July 29, 1954, ch. 643][/us/act/1954-07-29/ch643], [68 Stat. 583][/us/stat/68/583]; [Jan. 28, 1956, ch. 14][/us/act/1956-01-28/ch14], [70 Stat. 6][/us/stat/70/6]; [Pub. L. 85–835, title I, § 109][/us/pl/85/835/s109], Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; [Pub. L. 87–127][/us/pl/87/127], Aug. 7, 1961, [75 Stat. 293][/us/stat/75/293]; [Pub. L. 87–703, title III, § 325(2)][/us/pl/87/703/s325/2], title IV, § 404, Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631], 632; [Pub. L. 88–297, title I, § 104][/us/pl/88/297/s104], title II, § 204, Apr. 11, 1964, [78 Stat. 175][/us/stat/78/175], 183; [Pub. L. 88–585, § 1][/us/pl/88/585/s1], Sept. 11, 1964, [78 Stat. 927][/us/stat/78/927]; [Pub. L. 89–321, title IV, § 404][/us/pl/89/321/s404], Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197]; [Pub. L. 89–808, § 3(e)][/us/pl/89/808/s3/e], Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538]; [Pub. L. 90–475, § 7][/us/pl/90/475/s7], Aug. 11, 1968, [82 Stat. 703][/us/stat/82/703]; [Pub. L. 90–559, § 1(5)][/us/pl/90/559/s1/5], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV, § 409][/us/pl/91/524/s409], title VI, § 603, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1377; [Pub. L. 95–113, title IV, § 408][/us/pl/95/113/s408], title VI, § 603, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939; [Pub. L. 97–98, title V, § 503][/us/pl/97/98/s503], title XI, §§ 1103, 1111(a), Dec. 22, 1981, [95 Stat. 1240][/us/stat/95/1240], 1264, 1267; [Pub. L. 98–88, § 5][/us/pl/98/88/s5], Aug. 26, 1983, [97 Stat. 499][/us/stat/97/499]; [Pub. L. 99–198, title V, § 503][/us/pl/99/198/s503], title X, § 1007, title XVII, § 1763(b), Dec. 23, 1985, [99 Stat. 1418][/us/stat/99/1418], 1451, 1651; [Pub. L. 100–387, title I, § 101(b)(2)][/us/pl/100/387/s101/b/2], Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931]; [Pub. L. 100–707, title I, § 109(a)(2)][/us/pl/100/707/s109/a/2], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–624, title XI, § 1130][/us/pl/101/624/s1130], Nov. 28, 1990, [104 Stat. 3509][/us/stat/104/3509].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 407, [63 Stat. 1055][/us/stat/63/1055]; [July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, § 308, formerly § 301, [68 Stat. 458][/us/stat/68/458], renumbered § 308, [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 211(a)(1), Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; amended [July 29, 1954, ch. 643][/us/act/1954-07-29/ch643], [68 Stat. 583][/us/stat/68/583]; [Jan. 28, 1956, ch. 14][/us/act/1956-01-28/ch14], [70 Stat. 6][/us/stat/70/6]; [Pub. L. 85–835, title I][/us/pl/85/835/tI], § 109, Aug. 28, 1958, [72 Stat. 993][/us/stat/72/993]; [Pub. L. 87–127][/us/pl/87/127], Aug. 7, 1961, [75 Stat. 293][/us/stat/75/293]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 325(2), title IV, § 404, Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631], 632; [Pub. L. 88–297, title I][/us/pl/88/297/tI], § 104, title II, § 204, Apr. 11, 1964, [78 Stat. 175][/us/stat/78/175], 183; [Pub. L. 88–585][/us/pl/88/585], § 1, Sept. 11, 1964, [78 Stat. 927][/us/stat/78/927]; [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 404, Nov. 3, 1965, [79 Stat. 1197][/us/stat/79/1197]; [Pub. L. 89–808][/us/pl/89/808], § 3(e), Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538]; [Pub. L. 90–475][/us/pl/90/475], § 7, Aug. 11, 1968, [82 Stat. 703][/us/stat/82/703]; [Pub. L. 90–559][/us/pl/90/559], § 1(5), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 409, title VI, § 603, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], 1377; [Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 408, title VI, § 603, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], 939; [Pub. L. 97–98, title V][/us/pl/97/98/tV], § 503, title XI, §§ 1103, 1111(a), Dec. 22, 1981, [95 Stat. 1240][/us/stat/95/1240], 1264, 1267; [Pub. L. 98–88][/us/pl/98/88], § 5, Aug. 26, 1983, [97 Stat. 499][/us/stat/97/499]; [Pub. L. 99–198, title V][/us/pl/99/198/tV], § 503, title X, § 1007, title XVII, § 1763(b), Dec. 23, 1985, [99 Stat. 1418][/us/stat/99/1418], 1451, 1651; [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(b)(2), Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(a)(2), Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1130, Nov. 28, 1990, [104 Stat. 3509][/us/stat/104/3509].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 308 of [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title III, as added Sept. 21, 1959, [Pub. L. 86–341, title I, § 13][/us/pl/86/341/s13], [73 Stat. 609][/us/stat/73/609]; amended Sept. 27, 1962, [Pub. L. 87–703, title II, § 203][/us/pl/87/703/s203], [76 Stat. 611][/us/stat/76/611], cited as a credit to this section, which enacted [section 1697 of this title][/us/usc/t7/s1697], was repealed by [Pub. L. 89–808, § 2(D)][/us/pl/89/808/s2/D], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
+    A prior section 308 of [act July 10, 1954, ch. 469, title III][/us/act/1954-07-10/ch469/tIII], as added Sept. 21, 1959, [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 13, [73 Stat. 609][/us/stat/73/609]; amended Sept. 27, 1962, [Pub. L. 87–703, title II][/us/pl/87/703/tII], § 203, [76 Stat. 611][/us/stat/76/611], cited as a credit to this section, which enacted [section 1697 of this title][/us/usc/t7/s1697], was repealed by [Pub. L. 89–808][/us/pl/89/808], § 2(D), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535].
 
  __Amendments__ 
 
@@ -137,11 +137,11 @@
 
     [Pub. L. 100–387][/us/pl/100/387] substituted provision authorizing the Commodity Credit Corporation to donate or sell commodities in accordance with subchapter V of this chapter for provision authorizing the Commodity Credit Corporation to make feed for livestock available to certain persons in certain areas during emergencies.
 
-    1985—[Pub. L. 99–198, § 1007][/us/pl/99/198/s1007], temporarily reenacted substantially without change the amendments made in 1981 by [section 1103 of Pub. L. 97–98][/us/pl/97/98/s1103], which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by [Pub. L. 97–98][/us/pl/97/98] which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation’s operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
+    1985—[Pub. L. 99–198][/us/pl/99/198], § 1007, temporarily reenacted substantially without change the amendments made in 1981 by [section 1103 of Pub. L. 97–98][/us/pl/97/98/s1103], which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by [Pub. L. 97–98][/us/pl/97/98] which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation’s operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
 
-    [Pub. L. 99–198, § 1763(b)][/us/pl/99/198/s1763/b], inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
+    [Pub. L. 99–198][/us/pl/99/198], § 1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
-    [Pub. L. 99–198, § 503][/us/pl/99/198/s503], temporarily reenacted substantially without change the amendments made in 1981 by [section 503 of Pub. L. 97–98][/us/pl/97/98/s503], which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
+    [Pub. L. 99–198][/us/pl/99/198], § 503, temporarily reenacted substantially without change the amendments made in 1981 by [section 503 of Pub. L. 97–98][/us/pl/97/98/s503], which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
 
     1983—[Pub. L. 98–88][/us/pl/98/88] inserted provision that, beginning Aug. 26, 1983, the Commodity Credit Corporation may sell extra long staple cotton for unrestricted use at such price levels as the Secretary determines appropriate to maintain and expand export and domestic markets for such cotton.
 
@@ -161,9 +161,9 @@
 
     1964—[Pub. L. 88–585][/us/pl/88/585] provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted “or other area” after “one or more central locations in each State”.
 
-    [Pub. L. 88–297, § 104][/us/pl/88/297/s104], inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under [section 1444(a) of this title][/us/usc/t7/s1444/a] plus reasonable carrying charges.
+    [Pub. L. 88–297][/us/pl/88/297], § 104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under [section 1444(a) of this title][/us/usc/t7/s1444/a] plus reasonable carrying charges.
 
-    [Pub. L. 88–297, § 204][/us/pl/88/297/s204], temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
+    [Pub. L. 88–297][/us/pl/88/297], § 204, temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
 
     1962—[Pub. L. 87–703][/us/pl/87/703] prescribed that a marketing certificate accompany the support price for wheat and wheat sold and authorized the Secretary to make Commodity Credit Corporation feed available, prior to Dec. 31, 1963, to milk producers to assure supply free of radioactive fallout contamination, respectively.
 
@@ -183,7 +183,7 @@
 
  __Effective and Termination Dates of 1988 Amendment__ 
 
-[Pub. L. 100–387, title I, § 101(c)][/us/pl/100/387/s101/c], Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], provided that:
+[Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(c), Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], provided that:
 
 >     “(1) This section and the amendments made by this section \[enacting sections 1471 to 1471j of this title, amending this section, repealing sections 1433 and 2267 of this title, enacting provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421], and repealing provisions set out as notes under this section\] shall become effective 15 days after the date of the enactment of this Act \[Aug. 11, 1988\].
 
@@ -191,29 +191,29 @@
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title V, § 503][/us/pl/99/198/s503], Dec. 23, 1985, [99 Stat. 1418][/us/stat/99/1418], provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
+    [Pub. L. 99–198, title V][/us/pl/99/198/tV], § 503, Dec. 23, 1985, [99 Stat. 1418][/us/stat/99/1418], provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
 
-    [Pub. L. 99–198, title X, § 1007][/us/pl/99/198/s1007], Dec. 23, 1985, [99 Stat. 1451][/us/stat/99/1451], provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
+    [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1007, Dec. 23, 1985, [99 Stat. 1451][/us/stat/99/1451], provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–98, title V, § 503][/us/pl/97/98/s503], Dec. 22, 1981, [95 Stat. 1240][/us/stat/95/1240], provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1986.
+    [Pub. L. 97–98, title V][/us/pl/97/98/tV], § 503, Dec. 22, 1981, [95 Stat. 1240][/us/stat/95/1240], provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1986.
 
-    [Pub. L. 97–98, title XI, § 1103][/us/pl/97/98/s1103], Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264], provided that the amendment made by section 1103 is effective only for the marketing years for the 1982 through 1985 crops.
+    [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1103, Dec. 22, 1981, [95 Stat. 1264][/us/stat/95/1264], provided that the amendment made by section 1103 is effective only for the marketing years for the 1982 through 1985 crops.
 
-    Amendment by [§ 1111(a) of Pub. L. 97–98][/us/pl/97/98/s1111/a] effective Dec. 22, 1981, see [section 1801 of Pub. L. 97–98][/us/pl/97/98/s1801], set out as an Effective Date note under [section 4301 of this title][/us/usc/t7/s4301].
+    Amendment by § 1111(a) of [Pub. L. 97–98][/us/pl/97/98] effective Dec. 22, 1981, see [section 1801 of Pub. L. 97–98][/us/pl/97/98/s1801], set out as an Effective Date note under [section 4301 of this title][/us/usc/t7/s4301].
 
  __Effective and Termination Dates of 1977 Amendment__ 
 
-    [Pub. L. 95–113, title IV, § 408][/us/pl/95/113/s408], Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that the amendment made by section 408 (which reenacted without change the amendment first made by [section 409 of Pub. L. 91–524][/us/pl/91/524/s409] establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for the 1978 through 1981 crops.
+    [Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 408, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that the amendment made by section 408 (which reenacted without change the amendment first made by [section 409 of Pub. L. 91–524][/us/pl/91/524/s409] establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for the 1978 through 1981 crops.
 
-    [Pub. L. 95–113, title VI, § 603][/us/pl/95/113/s603], Sept. 29, 1977, [91 Stat. 939][/us/stat/91/939], provided that the amendment made by section 603, which reenacted with some changes (see 1977 Amendment note above) the amendment first made by [section 603 of Pub. L. 91–524][/us/pl/91/524/s603] relating to sale of upland cotton by Corporation, is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1982.
+    [Pub. L. 95–113, title VI][/us/pl/95/113/tVI], § 603, Sept. 29, 1977, [91 Stat. 939][/us/stat/91/939], provided that the amendment made by section 603, which reenacted with some changes (see 1977 Amendment note above) the amendment first made by [section 603 of Pub. L. 91–524][/us/pl/91/524/s603] relating to sale of upland cotton by Corporation, is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1982.
 
  __Effective and Termination Dates of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 409][/us/pl/91/524/s409], Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86, § 1(16)][/us/pl/93/86/s1/16], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 409 (establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for 1971 through 1977 crops of the commodity.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 409, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(16), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230], provided that the amendment made by section 409 (establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for 1971 through 1977 crops of the commodity.
 
-    [Pub. L. 91–524, title VI, § 603][/us/pl/91/524/s603], Nov. 30, 1970, [84 Stat. 1377][/us/stat/84/1377], as amended by [Pub. L. 93–86, § 1(21)][/us/pl/93/86/s1/21], Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235], provided that the amendment made by section 603 (covering sale of upland cotton by Corporation) is effective only with respect to the period beginning Aug. 1, 1971, and ending July 31, 1978.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 603, Nov. 30, 1970, [84 Stat. 1377][/us/stat/84/1377], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(21), Aug. 10, 1973, [87 Stat. 235][/us/stat/87/235], provided that the amendment made by section 603 (covering sale of upland cotton by Corporation) is effective only with respect to the period beginning Aug. 1, 1971, and ending July 31, 1978.
 
  __Effective Date of 1966 Amendment__ 
 
@@ -221,7 +221,7 @@
 
  __Effective and Termination Dates of 1964 Amendment__ 
 
-    [Pub. L. 88–297, title II, § 204][/us/pl/88/297/s204], Apr. 11, 1964, [78 Stat. 183][/us/stat/78/183], as amended by [Pub. L. 89–321, title V, § 505(3)][/us/pl/89/321/s505/3], Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
+    [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 204, Apr. 11, 1964, [78 Stat. 183][/us/stat/78/183], as amended by [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 505(3), Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
 
  __Exceptions From Transfer of Functions__ 
 
@@ -239,7 +239,7 @@
 
  __Sale of Corn to Ethanol Producers__ 
 
-[Pub. L. 100–387, title III, § 332][/us/pl/100/387/s332], Aug. 11, 1988, [102 Stat. 951][/us/stat/102/951], provided that:
+[Pub. L. 100–387, title III][/us/pl/100/387/tIII], § 332, Aug. 11, 1988, [102 Stat. 951][/us/stat/102/951], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -277,15 +277,15 @@
 
  __Emergency Feed Assistance__ 
 
-    [Pub. L. 98–180, title III, § 303][/us/pl/98/180/s303], Nov. 29, 1983, [97 Stat. 1151][/us/stat/97/1151], which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by [Pub. L. 100–387, title I, § 101(b)(5)][/us/pl/100/387/s101/b/5], Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], eff. 15 days after Aug. 11, 1988.
+    [Pub. L. 98–180, title III][/us/pl/98/180/tIII], § 303, Nov. 29, 1983, [97 Stat. 1151][/us/stat/97/1151], which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(b)(5), Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], eff. 15 days after Aug. 11, 1988.
 
  __Sale of Feed for Livestock in Emergency Areas; Designation of Emergency Area; Conditions; Penalty__ 
 
-    [Pub. L. 86–299][/us/pl/86/299], Sept. 21, 1959, [73 Stat. 574][/us/stat/73/574], as amended by [Pub. L. 88–585, § 3][/us/pl/88/585/s3], Sept. 11, 1964, [78 Stat. 927][/us/stat/78/927], which authorized Secretary of Agriculture to sell feed grains to provide feed for livestock in any area determined by Secretary to be an emergency area, and provided penalty for any person disposing of such feed other than by feeding livestock owned by him, was repealed by [Pub. L. 100–387, title I, § 101(b)(4)][/us/pl/100/387/s101/b/4], Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931], eff. 15 days after Aug. 11, 1988.
+    [Pub. L. 86–299][/us/pl/86/299], Sept. 21, 1959, [73 Stat. 574][/us/stat/73/574], as amended by [Pub. L. 88–585][/us/pl/88/585], § 3, Sept. 11, 1964, [78 Stat. 927][/us/stat/78/927], which authorized Secretary of Agriculture to sell feed grains to provide feed for livestock in any area determined by Secretary to be an emergency area, and provided penalty for any person disposing of such feed other than by feeding livestock owned by him, was repealed by [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(b)(4), Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931], eff. 15 days after Aug. 11, 1988.
 
  __Feed Grain; Sale by CCC; Termination Date__ 
 
-    [Act Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title II, § 208, [68 Stat. 901][/us/stat/68/901], authorized the Commodity Credit Corporation until March 1, 1955, to sell at the point of storage any feed grain owned by the Corporation at 10 per centum above the current support price for the commodity.
+    [Act Aug. 28, 1954, ch. 1041, title II][/us/act/1954-08-28/ch1041/tII], § 208, [68 Stat. 901][/us/stat/68/901], authorized the Commodity Credit Corporation until March 1, 1955, to sell at the point of storage any feed grain owned by the Corporation at 10 per centum above the current support price for the commodity.
 
  __Authorization for Commodity Credit Corporation To Sell Wheat and Corn__ 
 
@@ -326,66 +326,66 @@
 [/us/stat/63/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1055
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F458
-[/us/pl/95/88/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs211%2Fa%2F1
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F548
 [/us/act/1954-07-29/ch643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch643
 [/us/stat/68/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F583
 [/us/act/1956-01-28/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-01-28%2Fch14
 [/us/stat/70/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F6
-[/us/pl/85/835/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2Fs109
+[/us/pl/85/835/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835%2FtI
 [/us/stat/72/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F993
 [/us/pl/87/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F127
 [/us/stat/75/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F293
-[/us/pl/87/703/s325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs325%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F631
-[/us/pl/88/297/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs104
+[/us/pl/88/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtI
 [/us/stat/78/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F175
-[/us/pl/88/585/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F585%2Fs1
+[/us/pl/88/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F585
 [/us/stat/78/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F927
-[/us/pl/89/321/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs404
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1197
-[/us/pl/89/808/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs3%2Fe
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1538
-[/us/pl/90/475/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F475%2Fs7
+[/us/pl/90/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F475
 [/us/stat/82/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F703
-[/us/pl/90/559/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F5
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/pl/91/524/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs409
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/95/113/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs408
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
-[/us/pl/97/98/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs503
+[/us/pl/97/98/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtV
 [/us/stat/95/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1240
-[/us/pl/98/88/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs5
+[/us/pl/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88
 [/us/stat/97/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F499
-[/us/pl/99/198/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs503
+[/us/pl/99/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtV
 [/us/stat/99/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1418
-[/us/pl/100/387/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fb%2F2
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F931
-[/us/pl/100/707/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fa%2F2
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
-[/us/pl/101/624/s1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1130
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3509
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/86/341/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs13
+[/us/act/1954-07-10/ch469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469%2FtIII
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F609
-[/us/pl/87/703/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs203
+[/us/pl/87/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtII
 [/us/stat/76/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F611
 [/us/usc/t7/s1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1697
-[/us/pl/89/808/s2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FD
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1855
 [/us/pl/100/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387
-[/us/pl/99/198/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1007
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1103
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
-[/us/pl/99/198/s1763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1763%2Fb
-[/us/pl/99/198/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs503
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs503
 [/us/pl/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -402,52 +402,52 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/88/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F585
-[/us/pl/88/297/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs104
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/usc/t7/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%2Fa
-[/us/pl/88/297/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs204
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F127
 [/us/pl/85/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F835
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/100/387/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F932
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1471b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471b%2Fd
-[/us/pl/99/198/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs503
+[/us/pl/99/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtV
 [/us/stat/99/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1418
-[/us/pl/99/198/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1007
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1451
-[/us/pl/97/98/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs503
+[/us/pl/97/98/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtV
 [/us/stat/95/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1240
-[/us/pl/97/98/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1103
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1264
-[/us/pl/97/98/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1111%2Fa
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/95/113/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs408
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
 [/us/pl/91/524/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs409
-[/us/pl/95/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs603
+[/us/pl/95/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtVI
 [/us/stat/91/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F939
 [/us/pl/91/524/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs603
-[/us/pl/91/524/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs409
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F16
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
-[/us/pl/91/524/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs603
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1377
-[/us/pl/93/86/s1/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F21
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F235
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/88/297/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs204
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F183
-[/us/pl/89/321/s505/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs505%2F3
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1203
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
@@ -455,23 +455,23 @@
 [/us/usc/t7/s8782/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F10
 [/us/usc/t7/s7992/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fb%2F10
 [/us/usc/t7/s7301/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1%2FJ
-[/us/pl/100/387/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs332
+[/us/pl/100/387/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtIII
 [/us/stat/102/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F951
 [/us/usc/t7/s1445e/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e%2Ff
 [/us/usc/t7/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4005
 [/us/usc/t7/s1444e/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444e%2Fa%2F3
 [/us/usc/t7/s1445e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e%2Fb
-[/us/pl/98/180/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs303
+[/us/pl/98/180/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtIII
 [/us/stat/97/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1151
-[/us/pl/100/387/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fb%2F5
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F932
 [/us/pl/86/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F299
 [/us/stat/73/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F574
-[/us/pl/88/585/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F585%2Fs3
+[/us/pl/88/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F585
 [/us/stat/78/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F927
-[/us/pl/100/387/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fb%2F4
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F931
-[/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
+[/us/act/1954-08-28/ch1041/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041%2FtII
 [/us/stat/68/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F901
 [/us/pl/85/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F683
 [/us/stat/72/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F635

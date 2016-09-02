@@ -133,7 +133,7 @@
 
             (D) providing the Secretary with such information and advice as the Secretary may request.
 
-([Pub. L. 95–113, title XIV, § 1408A][/us/pl/95/113/s1408A], as added [Pub. L. 108–465, title III, § 303][/us/pl/108/465/s303], Dec. 21, 2004, [118 Stat. 3885][/us/stat/118/3885]; amended [Pub. L. 110–234, title VII, § 7103][/us/pl/110/234/s7103], May 22, 2008, [122 Stat. 1215][/us/stat/122/1215]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1976; [Pub. L. 113–79, title VII, § 7103][/us/pl/113/79/s7103], Feb. 7, 2014, [128 Stat. 864][/us/stat/128/864].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1408A, as added [Pub. L. 108–465, title III][/us/pl/108/465/tIII], § 303, Dec. 21, 2004, [118 Stat. 3885][/us/stat/118/3885]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7103, May 22, 2008, [122 Stat. 1215][/us/stat/122/1215]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1976; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7103, Feb. 7, 2014, [128 Stat. 864][/us/stat/128/864].)
 
  __References in Text__ 
 
@@ -145,35 +145,35 @@
 
  __Prior Provisions__ 
 
-    A prior section 3123a, [Pub. L. 95–113, title XIV, § 1408A][/us/pl/95/113/s1408A], as added [Pub. L. 101–624, title XVI, § 1605(a)][/us/pl/101/624/s1605/a], Nov. 28, 1990, [104 Stat. 3711][/us/stat/104/3711]; amended [Pub. L. 102–237, title IV, § 402(3)][/us/pl/102/237/s402/3], (4), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863], related to establishment of Agricultural Science and Technology Review Board, prior to repeal by [Pub. L. 104–127, title VIII, § 853(a)][/us/pl/104/127/s853/a], Apr. 4, 1996, [110 Stat. 1172][/us/stat/110/1172].
+    A prior section 3123a, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1408A, as added [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1605(a), Nov. 28, 1990, [104 Stat. 3711][/us/stat/104/3711]; amended [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 402(3), (4), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863], related to establishment of Agricultural Science and Technology Review Board, prior to repeal by [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 853(a), Apr. 4, 1996, [110 Stat. 1172][/us/stat/110/1172].
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 7103(a)][/us/pl/113/79/s7103/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 7103(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (b). [Pub. L. 113–79, § 7103(b)][/us/pl/113/79/s7103/b], designated first sentence of existing provisions as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+    Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 7103(b), designated first sentence of existing provisions as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 7103(c)(1)][/us/pl/113/79/s7103/c/1], substituted “Programs” for “Measures”.
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(1), substituted “Programs” for “Measures”.
 
-    Subsec. (c)(2). [Pub. L. 113–79, § 7103(c)(4)(A)][/us/pl/113/79/s7103/c/4/A], substituted “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would” for “Programs that would” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(4)(A), substituted “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would” for “Programs that would” in introductory provisions.
 
-    [Pub. L. 113–79, § 7103(c)(2)][/us/pl/113/79/s7103/c/2], (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Measures designed to improve competitiveness in research, extension, and economics programs affecting the specialty crop industry.”
+    [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Measures designed to improve competitiveness in research, extension, and economics programs affecting the specialty crop industry.”
 
-    Subsec. (c)(2)(D). [Pub. L. 113–79, § 7103(c)(4)(B)][/us/pl/113/79/s7103/c/4/B], inserted “, including improving the quality and taste of processed specialty crops” before semicolon at end.
+    Subsec. (c)(2)(D). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(4)(B), inserted “, including improving the quality and taste of processed specialty crops” before semicolon at end.
 
-    Subsec. (c)(2)(G). [Pub. L. 113–79, § 7103(c)(4)(C)][/us/pl/113/79/s7103/c/4/C], inserted “the remote sensing and the” before “mechanization”.
+    Subsec. (c)(2)(G). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(4)(C), inserted “the remote sensing and the” before “mechanization”.
 
-    Subsec. (c)(3), (4). [Pub. L. 113–79, § 7103(c)(3)][/us/pl/113/79/s7103/c/3], redesignated pars. (4) and (5) as (3) and (4), respectively.
+    Subsec. (c)(3), (4). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(3), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-    Subsec. (c)(5). [Pub. L. 113–79, § 7103(c)(5)][/us/pl/113/79/s7103/c/5], added par. (5). Former par. (5) redesignated (4).
+    Subsec. (c)(5). [Pub. L. 113–79][/us/pl/113/79], § 7103(c)(5), added par. (5). Former par. (5) redesignated (4).
 
-    Subsecs. (d), (e). [Pub. L. 113–79, § 7103(d)(1)][/us/pl/113/79/s7103/d/1], (2), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 113–79][/us/pl/113/79], § 7103(d)(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 113–79, § 7103(d)(1)][/us/pl/113/79/s7103/d/1], (3), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (f). [Pub. L. 113–79][/us/pl/113/79], § 7103(d)(1), (3), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
 
-    Subsec. (g). [Pub. L. 113–79, § 7103(e)][/us/pl/113/79/s7103/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–79][/us/pl/113/79], § 7103(e), added subsec. (g).
 
-    2008—Subsec. (c)(4), (5). [Pub. L. 110–246, § 7103][/us/pl/110/246/s7103], added pars. (4) and (5).
+    2008—Subsec. (c)(4), (5). [Pub. L. 110–246][/us/pl/110/246], § 7103, added pars. (4) and (5).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -192,40 +192,40 @@
 [/us/usc/t7/s7632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7632
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t7/s7632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7632
-[/us/pl/95/113/s1408A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1408A
-[/us/pl/108/465/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465%2Fs303
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/108/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465%2FtIII
 [/us/stat/118/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3885
-[/us/pl/110/234/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7103
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1215
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F864
 [/us/pl/92/463/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs9
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/95/113/s1408A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1408A
-[/us/pl/101/624/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3711
-[/us/pl/102/237/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs402%2F3
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127/s853/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs853%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1172
-[/us/pl/113/79/s7103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fa
-[/us/pl/113/79/s7103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fb
-[/us/pl/113/79/s7103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F1
-[/us/pl/113/79/s7103/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F4%2FA
-[/us/pl/113/79/s7103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F2
-[/us/pl/113/79/s7103/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F4%2FB
-[/us/pl/113/79/s7103/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F4%2FC
-[/us/pl/113/79/s7103/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F3
-[/us/pl/113/79/s7103/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fc%2F5
-[/us/pl/113/79/s7103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fd%2F1
-[/us/pl/113/79/s7103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fd%2F1
-[/us/pl/113/79/s7103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7103%2Fe
-[/us/pl/110/246/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7103
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

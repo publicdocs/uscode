@@ -17,7 +17,7 @@
 
     This chapter may be cited as the “Rural Electrification Act of 1936”.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 1, [49 Stat. 1363][/us/stat/49/1363]; 1939 Reorg. Plan No. II, § 5, eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1434][/us/stat/53/1434]; [Oct. 28, 1949, ch. 776, § 2][/us/act/1949-10-28/ch776/s2], [63 Stat. 948][/us/stat/63/948]; [Pub. L. 103–354, title II, § 235(a)(1)][/us/pl/103/354/s235/a/1], Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 1, [49 Stat. 1363][/us/stat/49/1363]; 1939 Reorg. Plan No. II, § 5, eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1434][/us/stat/53/1434]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], § 2, [63 Stat. 948][/us/stat/63/948]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(1), Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220].)
 
  __Amendments__ 
 
@@ -27,31 +27,31 @@
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–129, § 1][/us/pl/103/129/s1], Nov. 1, 1993, [107 Stat. 1356][/us/stat/107/1356], provided that: 
+[Pub. L. 103–129][/us/pl/103/129], § 1, Nov. 1, 1993, [107 Stat. 1356][/us/stat/107/1356], provided that: 
 
 > “This Act \[enacting sections 936d, 936e, and 2008e of this title, amending sections 902, 904, 913, 918, 924, 935, 936c, 937, 939, 940d, 946, 948, 1926, and 2006f of this title, and enacting provisions set out as a note below\] may be cited as the ‘Rural Electrification Loan Restructuring Act of 1993’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–428, § 1][/us/pl/102/428/s1], Oct. 21, 1992, [106 Stat. 2183][/us/stat/106/2183], provided that: 
+[Pub. L. 102–428][/us/pl/102/428], § 1, Oct. 21, 1992, [106 Stat. 2183][/us/stat/106/2183], provided that: 
 
 > “This Act \[amending [section 936b of this title][/us/usc/t7/s936b]\] may be cited as the ‘Rural Electrification Administration Improvement Act of 1992’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XXIII, § 2351(a)][/us/pl/101/624/s2351/a], Nov. 28, 1990, [104 Stat. 4038][/us/stat/104/4038], provided that: 
+[Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2351(a), Nov. 28, 1990, [104 Stat. 4038][/us/stat/104/4038], provided that: 
 
 > “This subtitle \[subtitle F (§§ 2351–2368) of title XXIII of [Pub. L. 101–624][/us/pl/101/624], enacting sections 918 and 925 to 928 of this title, amending sections 924, 932, 935, 936, 939, 945, 946, 948, and 950 of this title, and enacting provisions set out as notes under this section and [section 946 of this title][/us/usc/t7/s946]\] may be cited as the ‘Rural Telecommunications Improvements Act of 1990’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–570, § 1][/us/pl/94/570/s1], Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701], provided: 
+[Pub. L. 94–570][/us/pl/94/570], § 1, Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701], provided: 
 
 > “That this Act \[amending sections 931 and 935 of this title and enacting provisions set out as a note under [section 935 of this title][/us/usc/t7/s935]\] may be cited as the ‘Rural Electrification Administration Technical Amendments Act of 1976’.”
 
  __Regulations__ 
 
-[Pub. L. 103–129, § 6][/us/pl/103/129/s6], Nov. 1, 1993, [107 Stat. 1367][/us/stat/107/1367], provided that: 
+[Pub. L. 103–129][/us/pl/103/129], § 6, Nov. 1, 1993, [107 Stat. 1367][/us/stat/107/1367], provided that: 
 
 > “Except as provided in section 2(b) of the Rural Electrification Act of 1936 \[[7 U.S.C. 902(b)][/us/usc/t7/s902/b]\] and section 370 of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 2008e][/us/usc/t7/s2008e]\], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act \[Nov. 1, 1993\], interim final regulations shall be issued by—
 
@@ -69,7 +69,7 @@
 
  __Findings; Statement of Policy__ 
 
-[Pub. L. 101–624, title XXIII, § 2352][/us/pl/101/624/s2352], Nov. 28, 1990, [104 Stat. 4038][/us/stat/104/4038], provided that:
+[Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2352, Nov. 28, 1990, [104 Stat. 4038][/us/stat/104/4038], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -93,30 +93,30 @@
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/stat/53/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1434
-[/us/act/1949-10-28/ch776/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776%2Fs2
+[/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
-[/us/pl/103/354/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3220
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/129/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs1
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1356
-[/us/pl/102/428/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428%2Fs1
+[/us/pl/102/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F428
 [/us/stat/106/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2183
 [/us/usc/t7/s936b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936b
-[/us/pl/101/624/s2351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2351%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4038
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs946
-[/us/pl/94/570/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570%2Fs1
+[/us/pl/94/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570
 [/us/stat/90/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2701
 [/us/usc/t7/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935
-[/us/pl/103/129/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs6
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1367
 [/us/usc/t7/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs902%2Fb
 [/us/usc/t7/s2008e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008e
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
-[/us/pl/101/624/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2352
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4038
 
 

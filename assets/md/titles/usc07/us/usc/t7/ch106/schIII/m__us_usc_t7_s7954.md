@@ -169,11 +169,11 @@
 
             The producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for that crop year.
 
-([Pub. L. 107–171, title I, § 1304][/us/pl/107/171/s1304], May 13, 2002, [116 Stat. 171][/us/stat/116/171].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1304, May 13, 2002, [116 Stat. 171][/us/stat/116/171].)
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
+    This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171/tI], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
 
 ----------
 
@@ -185,9 +185,9 @@
 [/us/usc/t7/s7952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952
 [/us/usc/t7/s7953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7953
 [/us/usc/t7/s7952/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952%2Fa%2F1
-[/us/pl/107/171/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1304
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F171
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166
 [/us/usc/t7/s7951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7951
 

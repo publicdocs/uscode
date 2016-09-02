@@ -29,7 +29,7 @@
 
     (3) take such other action, and issue and enforce such rules or regulations, as he may consider necessary or appropriate in order to implement the rights and obligations of the United States under the Agreement.
 
-([Pub. L. 96–236, § 2][/us/pl/96/236/s2], Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336]; [Pub. L. 97–446, title I, § 153][/us/pl/97/446/s153], Jan. 12, 1983, [96 Stat. 2344][/us/stat/96/2344].)
+([Pub. L. 96–236][/us/pl/96/236], § 2, Apr. 22, 1980, [94 Stat. 336][/us/stat/94/336]; [Pub. L. 97–446, title I][/us/pl/97/446/tI], § 153, Jan. 12, 1983, [96 Stat. 2344][/us/stat/96/2344].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __United States Membership in the International Sugar Organization__ 
 
-[Pub. L. 110–234, title I, § 1402][/us/pl/110/234/s1402], May 22, 2008, [122 Stat. 981][/us/stat/122/981], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1402, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1709, provided that: 
+[Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1402, May 22, 2008, [122 Stat. 981][/us/stat/122/981], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1402, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1709, provided that: 
 
 > “The Secretary \[of Agriculture\] shall work with the Secretary of State to restore United States membership in the International Sugar Organization not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
@@ -45,7 +45,7 @@
 
  __Elimination of Sugar Quota Allocation of Panama__ 
 
-[Pub. L. 101–167, title V, § 562][/us/pl/101/167/s562], Nov. 21, 1989, [103 Stat. 1241][/us/stat/103/1241], provided that:
+[Pub. L. 101–167, title V][/us/pl/101/167/tV], § 562, Nov. 21, 1989, [103 Stat. 1241][/us/stat/103/1241], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -61,9 +61,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–461, title V, § 565][/us/pl/100/461/s565], Oct. 1, 1988, [102 Stat. 2268–42][/us/stat/102/2268-42].
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 565, Oct. 1, 1988, [102 Stat. 2268–42][/us/stat/102/2268-42].
 
-    [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 571\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–175.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 571\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–175.
 
  __Ex. Ord. No. 12224. Implementation of the International Sugar Agreement__ 
 
@@ -86,28 +86,28 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/96/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236%2Fs2
+[/us/pl/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236
 [/us/stat/94/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F336
-[/us/pl/97/446/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs153
+[/us/pl/97/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtI
 [/us/stat/96/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2344
 [/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
-[/us/pl/110/234/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1402
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F981
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/101/167/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs562
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1241
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/101/167/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs561%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/100/461/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs565
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-42
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F236
 [/us/stat/94/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F336

@@ -41,27 +41,27 @@
 
     (12) establish appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
 
-([Pub. L. 95–113, title XIV, § 1405][/us/pl/95/113/s1405], Sept. 29, 1977, [91 Stat. 985][/us/stat/91/985]; [Pub. L. 97–98, title XIV, § 1405][/us/pl/97/98/s1405], Dec. 22, 1981, [95 Stat. 1298][/us/stat/95/1298]; [Pub. L. 99–198, title XIV, § 1404][/us/pl/99/198/s1404], Dec. 23, 1985, [99 Stat. 1544][/us/stat/99/1544]; [Pub. L. 101–624, title XVI, § 1605(b)(3)][/us/pl/101/624/s1605/b/3], Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 852(b)(1), 853(b)(2), Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171], 1172.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1405, Sept. 29, 1977, [91 Stat. 985][/us/stat/91/985]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1405, Dec. 22, 1981, [95 Stat. 1298][/us/stat/95/1298]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1404, Dec. 23, 1985, [99 Stat. 1544][/us/stat/99/1544]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1605(b)(3), Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], §§ 852(b)(1), 853(b)(2), Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171], 1172.)
 
  __Amendments__ 
 
-    1996—Par. (5). [Pub. L. 104–127, § 852(b)(1)(A)][/us/pl/104/127/s852/b/1/A], substituted “Advisory Board” for “Joint Council, Advisory Board,”.
+    1996—Par. (5). [Pub. L. 104–127][/us/pl/104/127], § 852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
 
-    Par. (11). [Pub. L. 104–127, § 852(b)(1)(B)][/us/pl/104/127/s852/b/1/B], struck out “the Joint Council,” before “the Advisory Board”.
+    Par. (11). [Pub. L. 104–127][/us/pl/104/127], § 852(b)(1)(B), struck out “the Joint Council,” before “the Advisory Board”.
 
-    Par. (12). [Pub. L. 104–127, § 853(b)(2)][/us/pl/104/127/s853/b/2], struck out “, after coordination with the Technology Board,” after “establish”.
+    Par. (12). [Pub. L. 104–127][/us/pl/104/127], § 853(b)(2), struck out “, after coordination with the Technology Board,” after “establish”.
 
     1990—Par. (12). [Pub. L. 101–624][/us/pl/101/624] inserted “, after coordination with the Technology Board,” after “establish”.
 
     1985—Pars. (11), (12). [Pub. L. 99–198][/us/pl/99/198] added pars. (11) and (12) and struck out former par. (11) which required the Secretary to “take the initiative in overcoming barriers to long-range planning by developing, in conjunction with the States, State cooperative institutions, the Joint Council, the Advisory Board, and other appropriate institutions, a long-term needs assessment for food, fiber, and forest products, and by determining the research requirements necessary to meet the identified needs.”
 
-    1981—Par. (1). [Pub. L. 97–98, § 1405(1)][/us/pl/97/98/s1405/1], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    1981—Par. (1). [Pub. L. 97–98][/us/pl/97/98], § 1405(1), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    Par. (5). [Pub. L. 97–98, § 1405(2)][/us/pl/97/98/s1405/2], substituted “and appropriate advisory” for “and other appropriate advisory”.
+    Par. (5). [Pub. L. 97–98][/us/pl/97/98], § 1405(2), substituted “and appropriate advisory” for “and other appropriate advisory”.
 
-    Par. (6). [Pub. L. 97–98, § 1405(3)][/us/pl/97/98/s1405/3], inserted “or proposed”.
+    Par. (6). [Pub. L. 97–98][/us/pl/97/98], § 1405(3), inserted “or proposed”.
 
-    Pars. (10), (11). [Pub. L. 97–98, § 1405(4)][/us/pl/97/98/s1405/4]–(6), added pars. (10) and (11).
+    Pars. (10), (11). [Pub. L. 97–98][/us/pl/97/98], § 1405(4)–(6), added pars. (10) and (11).
 
  __Effective Date of 1981 Amendment__ 
 
@@ -78,25 +78,25 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1405
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F985
-[/us/pl/97/98/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1405
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1298
-[/us/pl/99/198/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1404
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1544
-[/us/pl/101/624/s1605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F3
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3714
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1171
-[/us/pl/104/127/s852/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs852%2Fb%2F1%2FA
-[/us/pl/104/127/s852/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs852%2Fb%2F1%2FB
-[/us/pl/104/127/s853/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs853%2Fb%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/98/s1405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1405%2F1
-[/us/pl/97/98/s1405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1405%2F2
-[/us/pl/97/98/s1405/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1405%2F3
-[/us/pl/97/98/s1405/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1405%2F4
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

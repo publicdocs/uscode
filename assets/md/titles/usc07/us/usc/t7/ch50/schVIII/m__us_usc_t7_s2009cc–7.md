@@ -45,7 +45,7 @@
 
             The amount of a grant made under this section to any entity other than a rural business investment company shall be equal to the resources (in cash or in kind) raised by the entity in accordance with the requirements applicable to rural business investment companies under this subchapter.
 
-([Pub. L. 87–128, title III, § 384H][/us/pl/87/128/s384H], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 395][/us/stat/116/395].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384H, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 395][/us/stat/116/395].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s384H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384H
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F395
 
 

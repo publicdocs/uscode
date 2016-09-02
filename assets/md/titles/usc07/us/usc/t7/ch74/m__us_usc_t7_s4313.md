@@ -19,7 +19,7 @@
 
     (b) The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to [section 4314(a) of this title][/us/usc/t7/s4314/a].
 
-([Pub. L. 97–98, title XVII, § 1714][/us/pl/97/98/s1714], Dec. 22, 1981, [95 Stat. 1355][/us/stat/95/1355].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1714, Dec. 22, 1981, [95 Stat. 1355][/us/stat/95/1355].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t7/s4314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4314%2Fa
-[/us/pl/97/98/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1714
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1355
 
 

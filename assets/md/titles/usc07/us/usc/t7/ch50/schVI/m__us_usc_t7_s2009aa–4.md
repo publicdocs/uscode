@@ -95,7 +95,7 @@
 
             (C) provide leadership and civic development assistance.
 
-([Pub. L. 87–128, title III, § 382E][/us/pl/87/128/s382E], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–276; amended [Pub. L. 107–171, title VI, § 6027(e)][/us/pl/107/171/s6027/e], May 13, 2002, [116 Stat. 374][/us/stat/116/374].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 382E, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–276; amended [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6027(e), May 13, 2002, [116 Stat. 374][/us/stat/116/374].)
 
  __Amendments__ 
 
@@ -108,10 +108,10 @@
 ----------
 ----------
 
-[/us/pl/87/128/s382E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs382E
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/171/s6027/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6027%2Fe
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F374
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

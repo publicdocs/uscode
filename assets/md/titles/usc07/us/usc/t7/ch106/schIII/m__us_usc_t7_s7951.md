@@ -69,7 +69,7 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 107–171, title I, § 1301][/us/pl/107/171/s1301], May 13, 2002, [116 Stat. 166][/us/stat/116/166].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1301, May 13, 2002, [116 Stat. 166][/us/stat/116/166].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t7/s7952/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952%2Fa%2F2
 [/us/usc/t7/s7952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952%2Fb
 [/us/usc/t7/s7952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952%2Fb
-[/us/pl/107/171/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1301
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166

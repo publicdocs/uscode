@@ -43,7 +43,7 @@
 
         Under regulations prescribed by the Secretary of Agriculture, certificates issued to rice exporters under this section may be transferred to other exporters and persons approved by the Secretary.
 
-([Pub. L. 99–198, title VI, § 603][/us/pl/99/198/s603], Dec. 23, 1985, [99 Stat. 1429][/us/stat/99/1429].)
+([Pub. L. 99–198, title VI][/us/pl/99/198/tVI], § 603, Dec. 23, 1985, [99 Stat. 1429][/us/stat/99/1429].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs603
+[/us/pl/99/198/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVI
 [/us/stat/99/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1429
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 

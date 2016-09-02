@@ -17,7 +17,7 @@
 
     It shall be unlawful in the United States or in interstate or foreign commerce to sell or offer for sale or advertise, by variety name, seed not certified by an official seed certifying agency, when it is a variety for which a certificate of plant variety protection under the Plant Variety Protection Act \[[7 U.S.C. 2321][/us/usc/t7/s2321] et seq.\] specifies sale only as a class of certified seed: Provided, That seed from a certified lot may be labeled as to variety name when used in a mixture by, or with the approval of, the owners of the variety.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title V, § 501, as added [Pub. L. 91–577, title III, § 142(a)][/us/pl/91/577/s142/a], Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558]; amended [Pub. L. 97–98, title XI, § 1118][/us/pl/97/98/s1118], Dec. 22, 1981, [95 Stat. 1272][/us/stat/95/1272].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title V, § 501, as added [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 142(a), Dec. 24, 1970, [84 Stat. 1558][/us/stat/84/1558]; amended [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1118, Dec. 22, 1981, [95 Stat. 1272][/us/stat/95/1272].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
-[/us/pl/91/577/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs142%2Fa
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1558
-[/us/pl/97/98/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1118
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1272
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542

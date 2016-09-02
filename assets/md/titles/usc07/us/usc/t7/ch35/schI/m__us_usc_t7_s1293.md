@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title II, § 204, [52 Stat. 38][/us/stat/52/38], which provided for annual report of Federal Surplus Commodities Corporation, was transferred to [section 713c–1 of Title 15][/us/usc/t15/s713c–1], Commerce and Trade.
+    Section, [act Feb. 16, 1938, ch. 30, title II][/us/act/1938-02-16/ch30/tII], § 204, [52 Stat. 38][/us/stat/52/38], which provided for annual report of Federal Surplus Commodities Corporation, was transferred to [section 713c–1 of Title 15][/us/usc/t15/s713c–1], Commerce and Trade.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtII
 [/us/stat/52/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F38
 [/us/usc/t15/s713c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%931
 

@@ -51,7 +51,7 @@
 
         The ballots and other information or reports that reveal, or tend to reveal, the identity or vote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.
 
-([Pub. L. 98–590, § 12][/us/pl/98/590/s12], Oct. 30, 1984, [98 Stat. 3123][/us/stat/98/3123]; [Pub. L. 105–185, title VI, § 605(k)][/us/pl/105/185/s605/k], June 23, 1998, [112 Stat. 600][/us/stat/112/600].)
+([Pub. L. 98–590][/us/pl/98/590], § 12, Oct. 30, 1984, [98 Stat. 3123][/us/stat/98/3123]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(k), June 23, 1998, [112 Stat. 600][/us/stat/112/600].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t7/s4606/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F4
 [/us/usc/t7/s4606/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F4
-[/us/pl/98/590/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs12
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3123
-[/us/pl/105/185/s605/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fk
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F600
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/usc/t7/s4606/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4606%2Fe%2F2

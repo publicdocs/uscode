@@ -23,7 +23,7 @@
 
         If a producer receives all or any portion of the payment authorized for fiscal year 2002 under a production flexibility contract, the Secretary shall reduce the amount of the direct payment otherwise due the producer for the 2002 crop year under [section 7913 of this title][/us/usc/t7/s7913] by the amount of the fiscal year 2002 payment received by the producer under the production flexibility contract.
 
-([Pub. L. 107–171, title I, § 1107][/us/pl/107/171/s1107], May 13, 2002, [116 Stat. 154][/us/stat/116/154].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1107, May 13, 2002, [116 Stat. 154][/us/stat/116/154].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t7/s7213/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7213%2Fa%2F7
 [/us/usc/t7/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7211
 [/us/usc/t7/s7913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7913
-[/us/pl/107/171/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1107
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F154
 
 

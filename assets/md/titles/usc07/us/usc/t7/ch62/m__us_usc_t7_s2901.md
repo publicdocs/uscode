@@ -33,7 +33,7 @@
 
     (b) It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all cattle sold in the United States and on cattle, beef, and beef products imported into the United States) and carrying out a coordinated program of promotion and research designed to strengthen the beef industry’s position in the marketplace and to maintain and expand domestic and foreign markets and uses for beef and beef products. Nothing in this chapter shall be construed to limit the right of individual producers to raise cattle.
 
-([Pub. L. 94–294, § 2][/us/pl/94/294/s2], May 28, 1976, [90 Stat. 529][/us/stat/90/529]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597].)
+([Pub. L. 94–294][/us/pl/94/294], § 2, May 28, 1976, [90 Stat. 529][/us/stat/90/529]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597].)
 
  __Amendments__ 
 
@@ -41,31 +41,31 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVI, § 1601(c)][/us/pl/99/198/s1601/c], Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(c), Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1986.”
 
  __Effective Date__ 
 
-[Pub. L. 94–294, § 21][/us/pl/94/294/s21], May 28, 1976, [90 Stat. 538][/us/stat/90/538], provided that: 
+[Pub. L. 94–294][/us/pl/94/294], § 21, May 28, 1976, [90 Stat. 538][/us/stat/90/538], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section\] shall take effect upon enactment \[May 28, 1976\]”.
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVI, § 1601(a)][/us/pl/99/198/s1601/a], Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(a), Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597], provided that: 
 
 > “This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
 
  __Short Title__ 
 
-[Pub. L. 94–294, § 1][/us/pl/94/294/s1], May 28, 1976, [90 Stat. 529][/us/stat/90/529], provided: 
+[Pub. L. 94–294][/us/pl/94/294], § 1, May 28, 1976, [90 Stat. 529][/us/stat/90/529], provided: 
 
 > “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Beef Research and Information Act’.”
 
  __Separability__ 
 
-    [Pub. L. 94–294, § 19][/us/pl/94/294/s19], May 28, 1976, [90 Stat. 537][/us/stat/90/537], which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of [Pub. L. 94–294][/us/pl/94/294] by [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 28, 1985, [99 Stat. 1597][/us/stat/99/1597].
+    [Pub. L. 94–294][/us/pl/94/294], § 19, May 28, 1976, [90 Stat. 537][/us/stat/90/537], which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of [Pub. L. 94–294][/us/pl/94/294] by [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 28, 1985, [99 Stat. 1597][/us/stat/99/1597].
 
 ----------
 
@@ -74,23 +74,23 @@
 ----------
 ----------
 
-[/us/pl/94/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs2
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F529
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1597
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/198/s1601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fc
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1606
-[/us/pl/94/294/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs21
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F538
-[/us/pl/99/198/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fa
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1597
-[/us/pl/94/294/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs1
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F529
-[/us/pl/94/294/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs19
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F537
 [/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1597
 
 

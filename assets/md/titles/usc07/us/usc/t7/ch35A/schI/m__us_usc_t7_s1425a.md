@@ -31,19 +31,19 @@
 
         The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a).
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 405A, as added [Pub. L. 100–460, title VI, § 634(b)][/us/pl/100/460/s634/b], Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263]; amended [Pub. L. 101–624, title X, § 1002][/us/pl/101/624/s1002], title XI, § 1161(d), Nov. 28, 1990, [104 Stat. 3490][/us/stat/104/3490], 3521.)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 405A, as added [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 634(b), Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263]; amended [Pub. L. 101–624, title X][/us/pl/101/624/tX], § 1002, title XI, § 1161(d), Nov. 28, 1990, [104 Stat. 3490][/us/stat/104/3490], 3521.)
 
  __References in Text__ 
 
-    [Section 1446h of this title][/us/usc/t7/s1446h], referred to in subsec. (a), was repealed by [Pub. L. 104–127, title I, § 171(b)(2)(H)][/us/pl/104/127/s171/b/2/H], Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].
+    [Section 1446h of this title][/us/usc/t7/s1446h], referred to in subsec. (a), was repealed by [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171(b)(2)(H), Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1161(d)][/us/pl/101/624/s1161/d], substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1161(d), substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
 
-    [Pub. L. 101–624, § 1002(1)][/us/pl/101/624/s1002/1], substituted “person for such crop of honey under [section 1446h of this title][/us/usc/t7/s1446h], does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under [section 1446(b) of this title][/us/usc/t7/s1446/b], does not exceed $250,000”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1002(1), substituted “person for such crop of honey under [section 1446h of this title][/us/usc/t7/s1446h], does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under [section 1446(b) of this title][/us/usc/t7/s1446/b], does not exceed $250,000”.
 
-    Subsec. (d). [Pub. L. 101–624, § 1002(2)][/us/pl/101/624/s1002/2], inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1002(2), inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -61,13 +61,13 @@
 
  __Prohibition on Use of Funds for Honey Payments or Loan Forfeitures__ 
 
-    [Pub. L. 104–37, title VII, § 718][/us/pl/104/37/s718], Oct. 21, 1995, [109 Stat. 331][/us/stat/109/331], provided that none of the funds appropriated or otherwise made available by [Pub. L. 104–37][/us/pl/104/37] were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former [section 1446h of this title][/us/usc/t7/s1446h] in excess of zero dollars in the 1994, 1995, and 1996 crop years.
+    [Pub. L. 104–37, title VII][/us/pl/104/37/tVII], § 718, Oct. 21, 1995, [109 Stat. 331][/us/stat/109/331], provided that none of the funds appropriated or otherwise made available by [Pub. L. 104–37][/us/pl/104/37] were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former [section 1446h of this title][/us/usc/t7/s1446h] in excess of zero dollars in the 1994, 1995, and 1996 crop years.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 103–330, title VII, § 723][/us/pl/103/330/s723], Sept. 30, 1994, [108 Stat. 2469][/us/stat/108/2469].
+    [Pub. L. 103–330, title VII][/us/pl/103/330/tVII], § 723, Sept. 30, 1994, [108 Stat. 2469][/us/stat/108/2469].
 
-    [Pub. L. 103–111, title VII, § 728][/us/pl/103/111/s728], Oct. 21, 1993, [107 Stat. 1081][/us/stat/107/1081].
+    [Pub. L. 103–111, title VII][/us/pl/103/111/tVII], § 728, Oct. 21, 1993, [107 Stat. 1081][/us/stat/107/1081].
 
 ----------
 
@@ -77,18 +77,18 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/460/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs634%2Fb
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2263
-[/us/pl/101/624/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1002
+[/us/pl/101/624/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtX
 [/us/stat/104/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3490
 [/us/usc/t7/s1446h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446h
-[/us/pl/104/127/s171/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171%2Fb%2F2%2FH
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F938
-[/us/pl/101/624/s1161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1161%2Fd
-[/us/pl/101/624/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1002%2F1
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s1446h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446h
 [/us/usc/t7/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446%2Fb
-[/us/pl/101/624/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1002%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
@@ -96,13 +96,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t7/s8782/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F10
 [/us/usc/t7/s7992/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fb%2F10
 [/us/usc/t7/s7301/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fb%2F1%2FJ
-[/us/pl/104/37/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F37%2Fs718
+[/us/pl/104/37/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F37%2FtVII
 [/us/stat/109/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F331
 [/us/pl/104/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F37
 [/us/usc/t7/s1446h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446h
-[/us/pl/103/330/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F330%2Fs723
+[/us/pl/103/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F330%2FtVII
 [/us/stat/108/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2469
-[/us/pl/103/111/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2Fs728
+[/us/pl/103/111/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F111%2FtVII
 [/us/stat/107/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1081
 
 

@@ -25,17 +25,17 @@
 
     (4) the location of such facilities must be carefully planned to assure maximum benefits to producers of agricultural commodities and unprocessed agricultural products and utilization of the most efficient means of transporting bulk agricultural commodities for domestic and export markets.
 
-([Pub. L. 96–358, § 2][/us/pl/96/358/s2], Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184].)
+([Pub. L. 96–358][/us/pl/96/358], § 2, Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184].)
 
  __Effective Date__ 
 
-[Pub. L. 96–358, § 6][/us/pl/96/358/s6], Sept. 25, 1980, [94 Stat. 1189][/us/stat/94/1189], provided that: 
+[Pub. L. 96–358][/us/pl/96/358], § 6, Sept. 25, 1980, [94 Stat. 1189][/us/stat/94/1189], provided that: 
 
 > “The provisions of this Act \[enacting this chapter and amending [section 1932 of this title][/us/usc/t7/s1932]\] shall become effective October 1, 1980.”
 
  __Short Title__ 
 
-[Pub. L. 96–358, § 1][/us/pl/96/358/s1], Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184], provided: 
+[Pub. L. 96–358][/us/pl/96/358], § 1, Sept. 25, 1980, [94 Stat. 1184][/us/stat/94/1184], provided: 
 
 > “That this Act \[enacting this chapter and amending [section 1932 of this title][/us/usc/t7/s1932]\] may be cited as the ‘Agricultural Subterminal Facilities Act of 1980’.”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/96/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358%2Fs2
+[/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1184
-[/us/pl/96/358/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358%2Fs6
+[/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1189
 [/us/usc/t7/s1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932
-[/us/pl/96/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358%2Fs1
+[/us/pl/96/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F358
 [/us/stat/94/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1184
 [/us/usc/t7/s1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932
 

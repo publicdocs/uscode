@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture and the Director of the National Institutes of Health shall annually review the research program conducted under this chapter in order to coordinate the program with the National Cancer Institute research program.
 
-([Pub. L. 96–469, § 4][/us/pl/96/469/s4], Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
+([Pub. L. 96–469][/us/pl/96/469], § 4, Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/469/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469%2Fs4
+[/us/pl/96/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469
 [/us/stat/94/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2235
 
 

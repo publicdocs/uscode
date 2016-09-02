@@ -167,7 +167,7 @@
 
         (3) the degree of success in improving the long-term capacity of a community to address food and agriculture problems related to hunger or access to healthy food.
 
-([Pub. L. 88–525, § 25][/us/pl/88/525/s25], as added [Pub. L. 104–127, title IV, § 401(h)][/us/pl/104/127/s401/h], Apr. 4, 1996, [110 Stat. 1027][/us/stat/110/1027]; amended [Pub. L. 107–171, title IV, § 4125(a)][/us/pl/107/171/s4125/a], May 13, 2002, [116 Stat. 326][/us/stat/116/326]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4402, 4406(a)(7), May 22, 2008, [122 Stat. 1135][/us/stat/122/1135], 1141; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4402, 4406(a)(7), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1896, 1902; [Pub. L. 110–380, § 1(a)][/us/pl/110/380/s1/a], Oct. 8, 2008, [122 Stat. 4080][/us/stat/122/4080]; [Pub. L. 113–79, title IV, § 4026][/us/pl/113/79/s4026], Feb. 7, 2014, [128 Stat. 810][/us/stat/128/810].)
+([Pub. L. 88–525][/us/pl/88/525], § 25, as added [Pub. L. 104–127, title IV][/us/pl/104/127/tIV], § 401(h), Apr. 4, 1996, [110 Stat. 1027][/us/stat/110/1027]; amended [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4125(a), May 13, 2002, [116 Stat. 326][/us/stat/116/326]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4402, 4406(a)(7), May 22, 2008, [122 Stat. 1135][/us/stat/122/1135], 1141; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4402, 4406(a)(7), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1896, 1902; [Pub. L. 110–380][/us/pl/110/380], § 1(a), Oct. 8, 2008, [122 Stat. 4080][/us/stat/122/4080]; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4026, Feb. 7, 2014, [128 Stat. 810][/us/stat/128/810].)
 
  __References in Text__ 
 
@@ -181,45 +181,45 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B)(i)(I). [Pub. L. 113–79, § 4026(1)(A)(i)(I)][/us/pl/113/79/s4026/1/A/i/I], inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
+    2014—Subsec. (a)(1)(B)(i)(I). [Pub. L. 113–79][/us/pl/113/79], § 4026(1)(A)(i)(I), inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
 
-    Subsec. (a)(1)(B)(i)(III). [Pub. L. 113–79, § 4026(1)(A)(i)(II)][/us/pl/113/79/s4026/1/A/i/II], inserted “food access,” after “food,”.
+    Subsec. (a)(1)(B)(i)(III). [Pub. L. 113–79][/us/pl/113/79], § 4026(1)(A)(i)(II), inserted “food access,” after “food,”.
 
-    Subsec. (a)(1)(B)(ii)(I). [Pub. L. 113–79, § 4026(1)(A)(ii)][/us/pl/113/79/s4026/1/A/ii], added subcl. (I) and struck out former subcl. (I) which read as follows: “infrastructure improvement and development;”.
+    Subsec. (a)(1)(B)(ii)(I). [Pub. L. 113–79][/us/pl/113/79], § 4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: “infrastructure improvement and development;”.
 
-    Subsec. (a)(2), (3). [Pub. L. 113–79, § 4026(1)(B)][/us/pl/113/79/s4026/1/B], added pars. (2) and (3) and struck out former pars. (2) and (3) which defined “Center” and “underserved community”, respectively.
+    Subsec. (a)(2), (3). [Pub. L. 113–79][/us/pl/113/79], § 4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined “Center” and “underserved community”, respectively.
 
-    Subsec. (b)(2)(B). [Pub. L. 113–79, § 4026(2)(B)][/us/pl/113/79/s4026/2/B], substituted “each of fiscal years 2008 through 2014; and” for “fiscal year 2008 and each fiscal year thereafter.”
+    Subsec. (b)(2)(B). [Pub. L. 113–79][/us/pl/113/79], § 4026(2)(B), substituted “each of fiscal years 2008 through 2014; and” for “fiscal year 2008 and each fiscal year thereafter.”
 
-    Subsec. (b)(2)(C). [Pub. L. 113–79, § 4026(2)][/us/pl/113/79/s4026/2], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 4026(2), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 113–79, § 4026(3)(A)][/us/pl/113/79/s4026/3/A], substituted “public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners,” for “private nonprofit entity” in introductory provisions.
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 4026(3)(A), substituted “public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners,” for “private nonprofit entity” in introductory provisions.
 
-    Subsec. (c)(1)(C). [Pub. L. 113–79, § 4026(3)(B)][/us/pl/113/79/s4026/3/B], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 113–79][/us/pl/113/79], § 4026(3)(B), added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 113–79, § 4026(3)(C)][/us/pl/113/79/s4026/3/C]–(E), added par. (4).
+    Subsec. (c)(4). [Pub. L. 113–79][/us/pl/113/79], § 4026(3)(C)–(E), added par. (4).
 
-    Subsec. (d)(5). [Pub. L. 113–79, § 4026(4)][/us/pl/113/79/s4026/4], added par. (5).
+    Subsec. (d)(5). [Pub. L. 113–79][/us/pl/113/79], § 4026(4), added par. (5).
 
-    Subsec. (f)(2). [Pub. L. 113–79, § 4026(5)][/us/pl/113/79/s4026/5], substituted “5 years” for “3 years”.
+    Subsec. (f)(2). [Pub. L. 113–79][/us/pl/113/79], § 4026(5), substituted “5 years” for “3 years”.
 
-    Subsecs. (h), (i). [Pub. L. 113–79, § 4026(6)][/us/pl/113/79/s4026/6], added subsec. (h) and struck out former subsecs. (h) and (i) which related to healthy urban food enterprise development center and innovative programs for addressing common community problems, respectively.
+    Subsecs. (h), (i). [Pub. L. 113–79][/us/pl/113/79], § 4026(6), added subsec. (h) and struck out former subsecs. (h) and (i) which related to healthy urban food enterprise development center and innovative programs for addressing common community problems, respectively.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4402(1)][/us/pl/110/246/s4402/1], added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
 
-    Subsec. (b)(2)(B). [Pub. L. 110–246, § 4406(a)(7)(A)][/us/pl/110/246/s4406/a/7/A], as amended by [Pub. L. 110–380][/us/pl/110/380], substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
+    Subsec. (b)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 4406(a)(7)(A), as amended by [Pub. L. 110–380][/us/pl/110/380], substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
 
-    Subsecs. (h), (i). [Pub. L. 110–246, § 4402(2)][/us/pl/110/246/s4402/2], (3), added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 110–246][/us/pl/110/246], § 4402(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    Subsec. (i)(4). [Pub. L. 110–246, § 4406(a)(7)(B)][/us/pl/110/246/s4406/a/7/B], as amended by [Pub. L. 110–380][/us/pl/110/380], substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
+    Subsec. (i)(4). [Pub. L. 110–246][/us/pl/110/246], § 4406(a)(7)(B), as amended by [Pub. L. 110–380][/us/pl/110/380], substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 4125(a)(1)][/us/pl/107/171/s4125/a/1], designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
 
-    Subsec. (b)(2)(B). [Pub. L. 107–171, § 4125(a)(2)][/us/pl/107/171/s4125/a/2], substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
+    Subsec. (b)(2)(B). [Pub. L. 107–171][/us/pl/107/171], § 4125(a)(2), substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
 
-    Subsec. (d)(4). [Pub. L. 107–171, § 4125(a)(3)][/us/pl/107/171/s4125/a/3], added par. (4) and struck out former par. (4) which read as follows: “encourage long-term planning activities and multi-system, interagency approaches.”
+    Subsec. (d)(4). [Pub. L. 107–171][/us/pl/107/171], § 4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: “encourage long-term planning activities and multi-system, interagency approaches.”
 
-    Subsec. (h). [Pub. L. 107–171, § 4125(a)(4)][/us/pl/107/171/s4125/a/4], added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
+    Subsec. (h). [Pub. L. 107–171][/us/pl/107/171], § 4125(a)(4), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
 
     “(1) In general.—The Secretary shall provide for the evaluation of the success of community food projects supported using funds under this section.
 
@@ -233,7 +233,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–171, title IV, § 4125(b)][/us/pl/107/171/s4125/b], May 13, 2002, [116 Stat. 327][/us/stat/116/327], provided that: 
+[Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4125(b), May 13, 2002, [116 Stat. 327][/us/stat/116/327], provided that: 
 
 > “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
 
@@ -244,18 +244,18 @@
 ----------
 ----------
 
-[/us/pl/88/525/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs25
-[/us/pl/104/127/s401/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs401%2Fh
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/104/127/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIV
 [/us/stat/110/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1027
-[/us/pl/107/171/s4125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fa
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F326
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1135
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/380/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F380%2Fs1%2Fa
+[/us/pl/110/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F380
 [/us/stat/122/4080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4080
-[/us/pl/113/79/s4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F810
 [/us/stat/106/5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5204
 [/us/pl/110/246/s4406/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4406%2Fa%2F7
@@ -272,28 +272,28 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4026/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F1%2FA%2Fi%2FI
-[/us/pl/113/79/s4026/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F1%2FA%2Fi%2FII
-[/us/pl/113/79/s4026/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F1%2FA%2Fii
-[/us/pl/113/79/s4026/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F1%2FB
-[/us/pl/113/79/s4026/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F2%2FB
-[/us/pl/113/79/s4026/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F2
-[/us/pl/113/79/s4026/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F3%2FA
-[/us/pl/113/79/s4026/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F3%2FB
-[/us/pl/113/79/s4026/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F3%2FC
-[/us/pl/113/79/s4026/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F4
-[/us/pl/113/79/s4026/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F5
-[/us/pl/113/79/s4026/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4026%2F6
-[/us/pl/110/246/s4402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4402%2F1
-[/us/pl/110/246/s4406/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4406%2Fa%2F7%2FA
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F380
-[/us/pl/110/246/s4402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4402%2F2
-[/us/pl/110/246/s4406/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4406%2Fa%2F7%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F380
-[/us/pl/107/171/s4125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fa%2F1
-[/us/pl/107/171/s4125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fa%2F2
-[/us/pl/107/171/s4125/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fa%2F3
-[/us/pl/107/171/s4125/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fa%2F4
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -302,7 +302,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/107/171/s4125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4125%2Fb
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F327
 
 

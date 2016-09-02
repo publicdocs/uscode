@@ -29,7 +29,7 @@
 
         (3) an emergency loan (EM) under [section 1961 of this title][/us/usc/t7/s1961].
 
-([Pub. L. 87–128, title III, § 371][/us/pl/87/128/s371], as added [Pub. L. 103–354, title I, § 119(b)][/us/pl/103/354/s119/b], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 371, as added [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 119(b), Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208].)
 
  __Effective Date__ 
 
@@ -46,8 +46,8 @@
 [/us/usc/t7/s1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1923
 [/us/usc/t7/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1942
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
-[/us/pl/87/128/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs371
-[/us/pl/103/354/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs119%2Fb
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3208
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/pl/103/354/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs120

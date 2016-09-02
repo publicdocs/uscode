@@ -49,7 +49,7 @@
 
         (2) The term “import” means any such entry.
 
-([Pub. L. 89–502, § 17][/us/pl/89/502/s17], July 13, 1966, [80 Stat. 286][/us/stat/80/286]; [Pub. L. 101–624, title XIX, § 1997][/us/pl/101/624/s1997], Nov. 28, 1990, [104 Stat. 3913][/us/stat/104/3913]; [Pub. L. 110–234, title XIV, § 14202][/us/pl/110/234/s14202], May 22, 2008, [122 Stat. 1458][/us/stat/122/1458]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2220.)
+([Pub. L. 89–502][/us/pl/89/502], § 17, July 13, 1966, [80 Stat. 286][/us/stat/80/286]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1997, Nov. 28, 1990, [104 Stat. 3913][/us/stat/104/3913]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14202, May 22, 2008, [122 Stat. 1458][/us/stat/122/1458]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2220.)
 
  __Codification__ 
 
@@ -57,13 +57,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (f). [Pub. L. 110–246, § 14202][/us/pl/110/246/s14202], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
+    2008—Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 14202, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
 
-    1990—Subsec. (c). [Pub. L. 101–624, § 1997(1)][/us/pl/101/624/s1997/1], designated existing provisions as cl. (1) and added cl. (2).
+    1990—Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1997(1), designated existing provisions as cl. (1) and added cl. (2).
 
-    Subsec. (d). [Pub. L. 101–624, § 1997(2)][/us/pl/101/624/s1997/2], inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c),” after “cottonseed”.
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1997(2), inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c),” after “cottonseed”.
 
-    Subsec. (h). [Pub. L. 101–624, § 1997(3)][/us/pl/101/624/s1997/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 1997(3), added subsec. (h).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -77,22 +77,22 @@
 ----------
 
 [/us/usc/t7/s2106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2106%2Fe
-[/us/pl/89/502/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs17
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F286
-[/us/pl/101/624/s1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1997
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3913
-[/us/pl/110/234/s14202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14202
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1458
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14202
-[/us/pl/101/624/s1997/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1997%2F1
-[/us/pl/101/624/s1997/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1997%2F2
-[/us/pl/101/624/s1997/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1997%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

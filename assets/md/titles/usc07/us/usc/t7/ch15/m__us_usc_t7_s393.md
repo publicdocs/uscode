@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to prepare and sell at cost such pathological and zoological specimens as he may deem of scientific or educational value to scientists or others engaged in the work of hygiene and sanitation: Provided, That all moneys received from the sale of such specimens shall be deposited in the Treasury as miscellaneous receipts.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] \[part\], [37 Stat. 833][/us/stat/37/833].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 \[part\], [37 Stat. 833][/us/stat/37/833].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F833
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/usc/t7/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs391

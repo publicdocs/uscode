@@ -67,7 +67,7 @@
 
         As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 617, as added [Pub. L. 102–532, § 2][/us/pl/102/532/s2], Oct. 27, 1992, [106 Stat. 3510][/us/stat/106/3510].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 617, as added [Pub. L. 102–532][/us/pl/102/532], § 2, Oct. 27, 1992, [106 Stat. 3510][/us/stat/106/3510].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/102/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs2
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3510
 
 

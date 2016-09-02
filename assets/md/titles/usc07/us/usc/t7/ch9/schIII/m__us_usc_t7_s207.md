@@ -47,7 +47,7 @@
 
         Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall on conviction be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 306, [42 Stat. 164][/us/stat/42/164]; [Pub. L. 94–410, § 3(c)][/us/pl/94/410/s3/c], Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 306, [42 Stat. 164][/us/stat/42/164]; [Pub. L. 94–410][/us/pl/94/410], § 3(c), Sept. 13, 1976, [90 Stat. 1249][/us/stat/90/1249].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t7/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs202
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F164
-[/us/pl/94/410/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs3%2Fc
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1249
 [/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 

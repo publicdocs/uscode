@@ -899,7 +899,7 @@
 
         For the purpose of ascertaining whether the issuance of an order is approved or favored by producers or processors, as required under the applicable provisions of this chapter, the Secretary may conduct a referendum among producers or processors and in the case of an order other than an amendatory order shall do so. The requirements of approval or favor under any such provision shall be held to be complied with if, of the total number of producers or processors, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of the percentage required under such provision. The terms and conditions of the proposed order shall be described by the Secretary in the ballot used in the conduct of the referendum. The nature, content, or extent of such description shall not be a basis for attacking the legality of the order or any action relating thereto. Nothing in this subsection shall be construed as limiting representation by cooperative associations as provided in subsection (12) of this section. For the purpose of ascertaining whether the issuance of an order applicable to pears for canning or freezing is approved or favored by producers as required under the applicable provisions of this chapter, the Secretary shall conduct a referendum among producers in each State in which pears for canning or freezing are proposed to be included within the provisions of such marketing order and the requirements of approval or favor under any such provisions applicable to pears for canning or freezing shall be held to be complied with if, of the total number of producers, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of 66⅔ per centum except that in the event that pear producers in any State fail to approve or favor the issuance of any such marketing order, it shall not be made effective in such State.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8c, as added [Aug. 24, 1935, ch. 641, § 5][/us/act/1935-08-24/ch641/s5], [49 Stat. 753][/us/stat/49/753]; amended [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(d)–(f), [50 Stat. 246][/us/stat/50/246], 247; [June 3, 1937, ch. 296, § 2(k)][/us/act/1937-06-03/ch296/s2/k], (l), as added [Aug. 5, 1937, ch. 567][/us/act/1937-08-05/ch567], [50 Stat. 563][/us/stat/50/563]; [Apr. 13, 1938, ch. 143][/us/act/1938-04-13/ch143], §§ 1, 2, [52 Stat. 215][/us/stat/52/215]; [May 31, 1939, ch. 157][/us/act/1939-05-31/ch157], [53 Stat. 793][/us/stat/53/793]; [Feb. 10, 1942, ch. 52][/us/act/1942-02-10/ch52], §§ 2, 3, [56 Stat. 85][/us/stat/56/85]; 1947 Reorg. Plan No. 1, § 102, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 951][/us/stat/61/951]; [Aug. 1, 1947, ch. 425][/us/act/1947-08-01/ch425], §§ 2, 4, [61 Stat. 707][/us/stat/61/707], 710; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(b), (c), [62 Stat. 1258][/us/stat/62/1258]; [June 29, 1949, ch. 273][/us/act/1949-06-29/ch273], [63 Stat. 282][/us/stat/63/282]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title IV, § 401(b)–(d), [68 Stat. 906][/us/stat/68/906], 907; [Pub. L. 87–128, title I, § 141(3)][/us/pl/87/128/s141/3], (4), Aug. 8, 1961, [75 Stat. 304][/us/stat/75/304], 305; [Pub. L. 87–703, title IV, § 403][/us/pl/87/703/s403], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–321, title I][/us/pl/89/321], §§ 101, 102, Nov. 3, 1965, [79 Stat. 1187][/us/stat/79/1187]; [Pub. L. 89–330, § 1(b)][/us/pl/89/330/s1/b], Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; [Pub. L. 91–196, § 1][/us/pl/91/196/s1], Feb. 20, 1970, [84 Stat. 14][/us/stat/84/14]; [Pub. L. 91–292, § 1(2)][/us/pl/91/292/s1/2], June 25, 1970, [84 Stat. 333][/us/stat/84/333]; [Pub. L. 91–341][/us/pl/91/341], July 18, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 91–363][/us/pl/91/363], July 31, 1970, [84 Stat. 687][/us/stat/84/687]; [Pub. L. 91–384][/us/pl/91/384], Aug. 18, 1970, [84 Stat. 827][/us/stat/84/827]; [Pub. L. 91–522][/us/pl/91/522], Nov. 25, 1970, [84 Stat. 1357][/us/stat/84/1357]; [Pub. L. 91–524, title II, § 201(a)][/us/pl/91/524/s201/a], Nov. 30, 1970, [84 Stat. 1359][/us/stat/84/1359]; [Pub. L. 91–670, title I, § 101][/us/pl/91/670/s101], title II, § 201, Jan. 11, 1971, [84 Stat. 2040][/us/stat/84/2040], 2041; [Pub. L. 92–120][/us/pl/92/120], Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 92–233][/us/pl/92/233], Feb. 15, 1972, [86 Stat. 39][/us/stat/86/39]; [Pub. L. 92–466][/us/pl/92/466], Oct. 6, 1972, [86 Stat. 780][/us/stat/86/780]; [Pub. L. 91–524, title II, § 201(f)][/us/pl/91/524/s201/f], Nov. 30, 1970, as added [Pub. L. 93–86, § 1(2)(B)][/us/pl/93/86/s1/2/B], Aug. 10, 1973, [87 Stat. 222][/us/stat/87/222]; [Pub. L. 93–230][/us/pl/93/230], Dec. 29, 1973, [87 Stat. 945][/us/stat/87/945]; [Pub. L. 95–279, title IV, § 401(a)][/us/pl/95/279/s401/a], May 15, 1978, [92 Stat. 242][/us/stat/92/242]; [Pub. L. 96–494, title I, § 101][/us/pl/96/494/s101], Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570]; [Pub. L. 97–98, title I, § 101(a)][/us/pl/97/98/s101/a], Dec. 22, 1981, [95 Stat. 1218][/us/stat/95/1218]; [Pub. L. 98–171, § 1][/us/pl/98/171/s1], Nov. 29, 1983, [97 Stat. 1117][/us/stat/97/1117]; [Pub. L. 98–180, title III, § 304][/us/pl/98/180/s304], Nov. 29, 1983, [97 Stat. 1151][/us/stat/97/1151]; [Pub. L. 99–198, title I][/us/pl/99/198], §§ 131(a), 133, title XVI, §§ 1661(a), 1662(a), Dec. 23, 1985, [99 Stat. 1372][/us/stat/99/1372], 1373, 1630, 1631; [Pub. L. 100–203, title I, § 1501][/us/pl/100/203/s1501], Dec. 22, 1987, [101 Stat. 1330–27][/us/stat/101/1330-27]; [Pub. L. 100–418, title IV][/us/pl/100/418], §§ 4601, 4602, Aug. 23, 1988, [102 Stat. 1407][/us/stat/102/1407]; [Pub. L. 101–624, title I][/us/pl/101/624], §§ 112, 113, title XIII, § 1306, Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380], 3561; [Pub. L. 102–237, title I, § 115(2)][/us/pl/102/237/s115/2], Dec. 13, 1991, [105 Stat. 1840][/us/stat/105/1840]; [Pub. L. 102–553, § 2][/us/pl/102/553/s2], Oct. 28, 1992, [106 Stat. 4141][/us/stat/106/4141]; [Pub. L. 106–78, title VII][/us/pl/106/78], §§ 757(a), 760, Oct. 22, 1999, [113 Stat. 1171][/us/stat/113/1171], 1173; [Pub. L. 107–76, title VII, § 765][/us/pl/107/76/s765], Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title X, § 10601(a)][/us/pl/107/171/s10601/a], May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 108–379, § 1][/us/pl/108/379/s1], Oct. 30, 2004, [118 Stat. 2209][/us/stat/118/2209]; [Pub. L. 109–215, § 2(a)][/us/pl/109/215/s2/a], (b), Apr. 11, 2006, [120 Stat. 328][/us/stat/120/328], 329; [Pub. L. 110–234, title I, § 1504][/us/pl/110/234/s1504], May 22, 2008, [122 Stat. 993][/us/stat/122/993]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1721.)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8c, as added [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 5, [49 Stat. 753][/us/stat/49/753]; amended [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(d)–(f), [50 Stat. 246][/us/stat/50/246], 247; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 2(k), (l), as added [Aug. 5, 1937, ch. 567][/us/act/1937-08-05/ch567], [50 Stat. 563][/us/stat/50/563]; [Apr. 13, 1938, ch. 143][/us/act/1938-04-13/ch143], §§ 1, 2, [52 Stat. 215][/us/stat/52/215]; [May 31, 1939, ch. 157][/us/act/1939-05-31/ch157], [53 Stat. 793][/us/stat/53/793]; [Feb. 10, 1942, ch. 52][/us/act/1942-02-10/ch52], §§ 2, 3, [56 Stat. 85][/us/stat/56/85]; 1947 Reorg. Plan No. 1, § 102, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 951][/us/stat/61/951]; [Aug. 1, 1947, ch. 425][/us/act/1947-08-01/ch425], §§ 2, 4, [61 Stat. 707][/us/stat/61/707], 710; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(b), (c), [62 Stat. 1258][/us/stat/62/1258]; [June 29, 1949, ch. 273][/us/act/1949-06-29/ch273], [63 Stat. 282][/us/stat/63/282]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title IV, § 401(b)–(d), [68 Stat. 906][/us/stat/68/906], 907; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 141(3), (4), Aug. 8, 1961, [75 Stat. 304][/us/stat/75/304], 305; [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 403, Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–321, title I][/us/pl/89/321/tI], §§ 101, 102, Nov. 3, 1965, [79 Stat. 1187][/us/stat/79/1187]; [Pub. L. 89–330][/us/pl/89/330], § 1(b), Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; [Pub. L. 91–196][/us/pl/91/196], § 1, Feb. 20, 1970, [84 Stat. 14][/us/stat/84/14]; [Pub. L. 91–292][/us/pl/91/292], § 1(2), June 25, 1970, [84 Stat. 333][/us/stat/84/333]; [Pub. L. 91–341][/us/pl/91/341], July 18, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 91–363][/us/pl/91/363], July 31, 1970, [84 Stat. 687][/us/stat/84/687]; [Pub. L. 91–384][/us/pl/91/384], Aug. 18, 1970, [84 Stat. 827][/us/stat/84/827]; [Pub. L. 91–522][/us/pl/91/522], Nov. 25, 1970, [84 Stat. 1357][/us/stat/84/1357]; [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(a), Nov. 30, 1970, [84 Stat. 1359][/us/stat/84/1359]; [Pub. L. 91–670, title I][/us/pl/91/670/tI], § 101, title II, § 201, Jan. 11, 1971, [84 Stat. 2040][/us/stat/84/2040], 2041; [Pub. L. 92–120][/us/pl/92/120], Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 92–233][/us/pl/92/233], Feb. 15, 1972, [86 Stat. 39][/us/stat/86/39]; [Pub. L. 92–466][/us/pl/92/466], Oct. 6, 1972, [86 Stat. 780][/us/stat/86/780]; [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(f), Nov. 30, 1970, as added [Pub. L. 93–86][/us/pl/93/86], § 1(2)(B), Aug. 10, 1973, [87 Stat. 222][/us/stat/87/222]; [Pub. L. 93–230][/us/pl/93/230], Dec. 29, 1973, [87 Stat. 945][/us/stat/87/945]; [Pub. L. 95–279, title IV][/us/pl/95/279/tIV], § 401(a), May 15, 1978, [92 Stat. 242][/us/stat/92/242]; [Pub. L. 96–494, title I][/us/pl/96/494/tI], § 101, Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570]; [Pub. L. 97–98, title I][/us/pl/97/98/tI], § 101(a), Dec. 22, 1981, [95 Stat. 1218][/us/stat/95/1218]; [Pub. L. 98–171][/us/pl/98/171], § 1, Nov. 29, 1983, [97 Stat. 1117][/us/stat/97/1117]; [Pub. L. 98–180, title III][/us/pl/98/180/tIII], § 304, Nov. 29, 1983, [97 Stat. 1151][/us/stat/97/1151]; [Pub. L. 99–198, title I][/us/pl/99/198/tI], §§ 131(a), 133, title XVI, §§ 1661(a), 1662(a), Dec. 23, 1985, [99 Stat. 1372][/us/stat/99/1372], 1373, 1630, 1631; [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1501, Dec. 22, 1987, [101 Stat. 1330–27][/us/stat/101/1330-27]; [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], §§ 4601, 4602, Aug. 23, 1988, [102 Stat. 1407][/us/stat/102/1407]; [Pub. L. 101–624, title I][/us/pl/101/624/tI], §§ 112, 113, title XIII, § 1306, Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380], 3561; [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 115(2), Dec. 13, 1991, [105 Stat. 1840][/us/stat/105/1840]; [Pub. L. 102–553][/us/pl/102/553], § 2, Oct. 28, 1992, [106 Stat. 4141][/us/stat/106/4141]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], §§ 757(a), 760, Oct. 22, 1999, [113 Stat. 1171][/us/stat/113/1171], 1173; [Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 765, Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10601(a), May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 108–379][/us/pl/108/379], § 1, Oct. 30, 2004, [118 Stat. 2209][/us/stat/118/2209]; [Pub. L. 109–215][/us/pl/109/215], § 2(a), (b), Apr. 11, 2006, [120 Stat. 328][/us/stat/120/328], 329; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1504, May 22, 2008, [122 Stat. 993][/us/stat/122/993]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1721.)
 
  __References in Text__ 
 
@@ -907,7 +907,7 @@
 
     For the effective date of this sentence, referred to in subsec. (5)(A), see [section 131(b) of Pub. L. 99–198][/us/pl/99/198/s131/b], set out as an Effective Date of 1985 Amendment note below.
 
-    The Standard Containers Act of 1916 and the Standard Containers Act of 1928, referred to in subsec. (6)(H), are [act Aug. 31, 1916, ch. 426][/us/act/1916-08-31/ch426], [39 Stat. 673][/us/stat/39/673], as amended, and [act May 21, 1928, ch. 664][/us/act/1928-05-21/ch664], [45 Stat. 685][/us/stat/45/685], as amended, respectively, and were repealed by [Pub. L. 90–628, § 1(a)][/us/pl/90/628/s1/a], (b), Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320].
+    The Standard Containers Act of 1916 and the Standard Containers Act of 1928, referred to in subsec. (6)(H), are [act Aug. 31, 1916, ch. 426][/us/act/1916-08-31/ch426], [39 Stat. 673][/us/stat/39/673], as amended, and [act May 21, 1928, ch. 664][/us/act/1928-05-21/ch664], [45 Stat. 685][/us/stat/45/685], as amended, respectively, and were repealed by [Pub. L. 90–628][/us/pl/90/628], § 1(a), (b), Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320].
 
     The date of enactment of this subparagraph, referred to in subsec. (17)(B)(i), (iii), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
@@ -925,67 +925,67 @@
 
  __Amendments__ 
 
-    2008—Subsec. (17). [Pub. L. 110–246, § 1504][/us/pl/110/246/s1504], added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, [section 608d of this title][/us/usc/t7/s608d], applicable to orders shall be applicable to amendments to orders: Provided, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
+    2008—Subsec. (17). [Pub. L. 110–246][/us/pl/110/246], § 1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, [section 608d of this title][/us/usc/t7/s608d], applicable to orders shall be applicable to amendments to orders: Provided, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
 
-    2006—Subsec. (5)(M) to (O). [Pub. L. 109–215, § 2(a)][/us/pl/109/215/s2/a], added pars. (M) to (O).
+    2006—Subsec. (5)(M) to (O). [Pub. L. 109–215][/us/pl/109/215], § 2(a), added pars. (M) to (O).
 
-    Subsec. (11). [Pub. L. 109–215, § 2(b)(1)][/us/pl/109/215/s2/b/1], which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
+    Subsec. (11). [Pub. L. 109–215][/us/pl/109/215], § 2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
 
-    Subsec. (11)(D). [Pub. L. 109–215, § 2(b)(2)][/us/pl/109/215/s2/b/2], added par. (D).
+    Subsec. (11)(D). [Pub. L. 109–215][/us/pl/109/215], § 2(b)(2), added par. (D).
 
     2004—Subsec. (7)(C). [Pub. L. 108–379][/us/pl/108/379], in concluding provisions, struck out “or pears” after “grapefruit” and “: Provided, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal” before period at end.
 
-    2002—Subsec. (2)(A). [Pub. L. 107–171, § 10601(a)(1)][/us/pl/107/171/s10601/a/1], inserted “caneberries (including raspberries, blackberries, and loganberries),” after “other than pears, olives, grapefruit, cherries,”.
+    2002—Subsec. (2)(A). [Pub. L. 107–171][/us/pl/107/171], § 10601(a)(1), inserted “caneberries (including raspberries, blackberries, and loganberries),” after “other than pears, olives, grapefruit, cherries,”.
 
-    Subsec. (6)(I). [Pub. L. 107–171, § 10601(a)(2)][/us/pl/107/171/s10601/a/2], substituted “tomatoes, caneberries (including raspberries, blackberries, and loganberries),” for “tomatoes,,” in first proviso.
+    Subsec. (6)(I). [Pub. L. 107–171][/us/pl/107/171], § 10601(a)(2), substituted “tomatoes, caneberries (including raspberries, blackberries, and loganberries),” for “tomatoes,,” in first proviso.
 
     2001—Subsec. (1). [Pub. L. 107–76][/us/pl/107/76], which directed insertion of “The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year.” at end of penultimate sentence of section 8c(1) of the Agricultural Marketing Agreement Act of 1937, was executed to this section, which is section 8c(1) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
 
-    1999—Subsec. (6)(I). [Pub. L. 106–78, § 757(a)(2)][/us/pl/106/78/s757/a/2], substituted “Florida Indian River grapefruit, and cranberries” for “and Florida Indian River grapefruit” in first proviso.
+    1999—Subsec. (6)(I). [Pub. L. 106–78][/us/pl/106/78], § 757(a)(2), substituted “Florida Indian River grapefruit, and cranberries” for “and Florida Indian River grapefruit” in first proviso.
 
-    [Pub. L. 106–78, § 757(a)(1)][/us/pl/106/78/s757/a/1], which directed substitution of “, Florida grown strawberries, or cranberries” for “or Florida grown strawberries” in first proviso, was executed by making the substitution for “or Florida-grown strawberries” to reflect the probable intent of Congress.
+    [Pub. L. 106–78][/us/pl/106/78], § 757(a)(1), which directed substitution of “, Florida grown strawberries, or cranberries” for “or Florida grown strawberries” in first proviso, was executed by making the substitution for “or Florida-grown strawberries” to reflect the probable intent of Congress.
 
-    Subsec. (11). [Pub. L. 106–78, § 760][/us/pl/106/78/s760], inserted at end “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.”
+    Subsec. (11). [Pub. L. 106–78][/us/pl/106/78], § 760, inserted at end “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.”
 
     1992—Subsec. (1). [Pub. L. 102–553][/us/pl/102/553] inserted at end “In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations.”
 
     1991—Subsec. (5)(B). [Pub. L. 102–237][/us/pl/102/237] substituted “, and” for “and,” before cl. (f).
 
-    1990—Subsec. (5)(B)(f). [Pub. L. 101–624, § 112][/us/pl/101/624/s112], added cl. (f).
+    1990—Subsec. (5)(B)(f). [Pub. L. 101–624][/us/pl/101/624], § 112, added cl. (f).
 
-    Subsec. (5)(L). [Pub. L. 101–624, § 113][/us/pl/101/624/s113], added par. (L).
+    Subsec. (5)(L). [Pub. L. 101–624][/us/pl/101/624], § 113, added par. (L).
 
-    Subsec. (14)(A). [Pub. L. 101–624, § 1306(1)][/us/pl/101/624/s1306/1], struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “shall, on conviction” and substituted “. If” for “: Provided, That if”.
+    Subsec. (14)(A). [Pub. L. 101–624][/us/pl/101/624], § 1306(1), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “shall, on conviction” and substituted “. If” for “: Provided, That if”.
 
-    Subsec. (14)(B). [Pub. L. 101–624, § 1306(2)][/us/pl/101/624/s1306/2], struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “may be assessed”.
+    Subsec. (14)(B). [Pub. L. 101–624][/us/pl/101/624], § 1306(2), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “may be assessed”.
 
-    1988—Subsec. (5)(K). [Pub. L. 100–418, § 4601][/us/pl/100/418/s4601], added par. (K).
+    1988—Subsec. (5)(K). [Pub. L. 100–418][/us/pl/100/418], § 4601, added par. (K).
 
-    Subsec. (6)(I). [Pub. L. 100–418, § 4602][/us/pl/100/418/s4602], substituted “tomatoes, or Florida-grown strawberries,” for “or tomatoes” in first proviso.
+    Subsec. (6)(I). [Pub. L. 100–418][/us/pl/100/418], § 4602, substituted “tomatoes, or Florida-grown strawberries,” for “or tomatoes” in first proviso.
 
     1987—Subsec. (14). [Pub. L. 100–203][/us/pl/100/203] designated existing provisions as par. (A) and added par. (B).
 
-    1985—Subsec. (5)(A). [Pub. L. 99–198, § 131(a)][/us/pl/99/198/s131/a], inserted provisions, with accompanying table, establishing the minimum aggregate amounts of the adjustments under cls. (1) and (2) to prices for milk of the highest use classification under orders in effect on Dec. 23, 1985, and requiring that such prices be adjusted for the locations at which delivery of such milk is made to such handlers.
+    1985—Subsec. (5)(A). [Pub. L. 99–198][/us/pl/99/198], § 131(a), inserted provisions, with accompanying table, establishing the minimum aggregate amounts of the adjustments under cls. (1) and (2) to prices for milk of the highest use classification under orders in effect on Dec. 23, 1985, and requiring that such prices be adjusted for the locations at which delivery of such milk is made to such handlers.
 
-    Subsec. (5)(J). [Pub. L. 99–198, § 133][/us/pl/99/198/s133], added par. (J).
+    Subsec. (5)(J). [Pub. L. 99–198][/us/pl/99/198], § 133, added par. (J).
 
-    Subsec. (14). [Pub. L. 99–198, § 1661(a)][/us/pl/99/198/s1661/a], substituted “$5,000” for “$500”.
+    Subsec. (14). [Pub. L. 99–198][/us/pl/99/198], § 1661(a), substituted “$5,000” for “$500”.
 
-    Subsec. (16)(A). [Pub. L. 99–198, § 1662(a)(1)][/us/pl/99/198/s1662/a/1], designated existing provisions of par. (A) as cl. (i), substituted “Except as provided in clause (ii), the Secretary” for “The Secretary”, and added cl. (ii).
+    Subsec. (16)(A). [Pub. L. 99–198][/us/pl/99/198], § 1662(a)(1), designated existing provisions of par. (A) as cl. (i), substituted “Except as provided in clause (ii), the Secretary” for “The Secretary”, and added cl. (ii).
 
-    Subsec. (16)(C). [Pub. L. 99–198, § 1662(a)(2)][/us/pl/99/198/s1662/a/2], substituted “Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination” for “The termination”.
+    Subsec. (16)(C). [Pub. L. 99–198][/us/pl/99/198], § 1662(a)(2), substituted “Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination” for “The termination”.
 
-    1983—Subsec. (2)(B). [Pub. L. 98–180, § 304(1)][/us/pl/98/180/s304/1], substituted “poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs),” for “poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),”.
+    1983—Subsec. (2)(B). [Pub. L. 98–180][/us/pl/98/180], § 304(1), substituted “poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs),” for “poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),”.
 
-    Subsec. (6)(I). [Pub. L. 98–180, § 304(2)][/us/pl/98/180/s304/2], inserted “eggs,” after “pecans,” in first proviso.
+    Subsec. (6)(I). [Pub. L. 98–180][/us/pl/98/180], § 304(2), inserted “eggs,” after “pecans,” in first proviso.
 
     [Pub. L. 98–171][/us/pl/98/171] inserted, in first proviso, “filberts (otherwise known as hazelnuts),” after “almonds,” in two places.
 
-    1981—Subsec. (5)(B). [Pub. L. 97–98, § 101(a)(1)][/us/pl/97/98/s101/a/1], temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: “a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.” See Effective and Termination Dates of 1981 Amendment note below.
+    1981—Subsec. (5)(B). [Pub. L. 97–98][/us/pl/97/98], § 101(a)(1), temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: “a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.” See Effective and Termination Dates of 1981 Amendment note below.
 
-    Subsec. (17). [Pub. L. 97–98, § 101(a)(2)][/us/pl/97/98/s101/a/2], temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Effective and Termination Dates of 1981 Amendment note below. A substantially identical amendment was temporarily made by [Pub. L. 91–524, § 201(f)(1)][/us/pl/91/524/s201/f/1], as added by [Pub. L. 93–86][/us/pl/93/86], see 1970 Amendment note and Termination of 1970 Amendment note below.
+    Subsec. (17). [Pub. L. 97–98][/us/pl/97/98], § 101(a)(2), temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Effective and Termination Dates of 1981 Amendment note below. A substantially identical amendment was temporarily made by [Pub. L. 91–524][/us/pl/91/524], § 201(f)(1), as added by [Pub. L. 93–86][/us/pl/93/86], see 1970 Amendment note and Termination of 1970 Amendment note below.
 
-    Subsec. (18). [Pub. L. 97–98, § 101(a)(3)][/us/pl/97/98/s101/a/3], temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by [Pub. L. 91–524, § 201(f)(2)][/us/pl/91/524/s201/f/2], as added by [Pub. L. 93–86][/us/pl/93/86], see 1970 Amendment note and Termination of 1970 Amendment note below.
+    Subsec. (18). [Pub. L. 97–98][/us/pl/97/98], § 101(a)(3), temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by [Pub. L. 91–524][/us/pl/91/524], § 201(f)(2), as added by [Pub. L. 93–86][/us/pl/93/86], see 1970 Amendment note and Termination of 1970 Amendment note below.
 
     1980—Subsec. (6)(I). [Pub. L. 96–494][/us/pl/96/494] inserted, in first proviso, “walnuts,” before “or tomatoes” and “walnuts, olives,” before “and Florida Indian River grapefruit”.
 
@@ -993,37 +993,37 @@
 
     1973—Subsec. (6)(I). [Pub. L. 93–230][/us/pl/93/230] inserted “and Florida Indian River grapefruit” after “with respect to almonds” in first proviso.
 
-    Subsec. (17). [Pub. L. 93–86][/us/pl/93/86] added [Pub. L. 91–524, § 201(f)(1)][/us/pl/91/524/s201/f/1]. See 1970 Amendment note below.
+    Subsec. (17). [Pub. L. 93–86][/us/pl/93/86] added [Pub. L. 91–524][/us/pl/91/524], § 201(f)(1). See 1970 Amendment note below.
 
-    Subsec. (18). [Pub. L. 93–86][/us/pl/93/86] added [Pub. L. 91–524, § 201(f)(2)][/us/pl/91/524/s201/f/2]. See 1970 Amendment note below.
+    Subsec. (18). [Pub. L. 93–86][/us/pl/93/86] added [Pub. L. 91–524][/us/pl/91/524], § 201(f)(2). See 1970 Amendment note below.
 
-    1972—Subsec. (2)(A). [Pub. L. 92–466, § 1(1)][/us/pl/92/466/s1/1], inserted “pears,” after “canned or frozen” the first time appearing and before “olives,”.
+    1972—Subsec. (2)(A). [Pub. L. 92–466][/us/pl/92/466], § 1(1), inserted “pears,” after “canned or frozen” the first time appearing and before “olives,”.
 
-    [Pub. L. 92–233, § 1(1)][/us/pl/92/233/s1/1], inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. The amendment served to make permanent the temporary exemption first inserted by [Pub. L. 91–196, § 1(1)][/us/pl/91/196/s1/1]. See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+    [Pub. L. 92–233][/us/pl/92/233], § 1(1), inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. The amendment served to make permanent the temporary exemption first inserted by [Pub. L. 91–196][/us/pl/91/196], § 1(1). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-    Subsec. (2)(B). [Pub. L. 92–233, § 1(2)][/us/pl/92/233/s1/2], inserted “including potatoes for canning, freezing, or other processing” after “fruits and vegetables for canning or freezing,”. The amendment served to make permanent the temporary exemption first inserted by [Pub. L. 91–196, § 1(2)][/us/pl/91/196/s1/2]. See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+    Subsec. (2)(B). [Pub. L. 92–233][/us/pl/92/233], § 1(2), inserted “including potatoes for canning, freezing, or other processing” after “fruits and vegetables for canning or freezing,”. The amendment served to make permanent the temporary exemption first inserted by [Pub. L. 91–196][/us/pl/91/196], § 1(2). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-    Subsec. (6)(I). [Pub. L. 92–466, § 1(2)][/us/pl/92/466/s1/2], in first proviso, struck out “fresh” before “pears” and inserted at end “and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form”.
+    Subsec. (6)(I). [Pub. L. 92–466][/us/pl/92/466], § 1(2), in first proviso, struck out “fresh” before “pears” and inserted at end “and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form”.
 
-    Subsec. (6)(J). [Pub. L. 92–466, § 1(5)][/us/pl/92/466/s1/5], added par. (J).
+    Subsec. (6)(J). [Pub. L. 92–466][/us/pl/92/466], § 1(5), added par. (J).
 
-    Subsec. (7)(C). [Pub. L. 92–466, § 1(3)][/us/pl/92/466/s1/3], inserted “or pears” after “a marketing order applicable to grapefruit”, struck out period at end, and inserted “: Provided, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal.”
+    Subsec. (7)(C). [Pub. L. 92–466][/us/pl/92/466], § 1(3), inserted “or pears” after “a marketing order applicable to grapefruit”, struck out period at end, and inserted “: Provided, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal.”
 
-    Subsec. (19). [Pub. L. 92–466, § 1(4)][/us/pl/92/466/s1/4], inserted provision respecting producer or processor referendum for approving order applicable to pears for canning or freezing.
+    Subsec. (19). [Pub. L. 92–466][/us/pl/92/466], § 1(4), inserted provision respecting producer or processor referendum for approving order applicable to pears for canning or freezing.
 
-    1971—Subsec. (5)(I). [Pub. L. 91–670, § 101][/us/pl/91/670/s101], added par. (I).
+    1971—Subsec. (5)(I). [Pub. L. 91–670][/us/pl/91/670], § 101, added par. (I).
 
     Subsec. (6)(I). [Pub. L. 92–120][/us/pl/92/120] inserted “California-grown peaches,” after “applicable to almonds,” in first proviso.
 
-    [Pub. L. 91–670, § 201][/us/pl/91/670/s201], substituted “apples, or tomatoes” for “or apples” in first proviso.
+    [Pub. L. 91–670][/us/pl/91/670], § 201, substituted “apples, or tomatoes” for “or apples” in first proviso.
 
     1970—Subsec. (2)(A). [Pub. L. 91–341][/us/pl/91/341] substituted “Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio” for “and Connecticut”.
 
-    [Pub. L. 91–196, § 1(1)][/us/pl/91/196/s1/1], temporarily inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. See Effective Date of 1970 Amendment note below.
+    [Pub. L. 91–196][/us/pl/91/196], § 1(1), temporarily inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. See Effective Date of 1970 Amendment note below.
 
-    Subsec. (2)(B). [Pub. L. 91–196, § 1(2)][/us/pl/91/196/s1/2], temporarily inserted “including potatoes for canning, freezing, or other processing,” after “fruits and vegetables for canning or freezing,”. See Effective Date of 1970 Amendment note below.
+    Subsec. (2)(B). [Pub. L. 91–196][/us/pl/91/196], § 1(2), temporarily inserted “including potatoes for canning, freezing, or other processing,” after “fruits and vegetables for canning or freezing,”. See Effective Date of 1970 Amendment note below.
 
-    Subsec. (5)(B). [Pub. L. 91–524, § 201(a)][/us/pl/91/524/s201/a], temporarily added cls. (d) to (f) and struck out former cl. (d) and concluding provisions. See Termination of 1970 Amendment note below.
+    Subsec. (5)(B). [Pub. L. 91–524][/us/pl/91/524], § 201(a), temporarily added cls. (d) to (f) and struck out former cl. (d) and concluding provisions. See Termination of 1970 Amendment note below.
 
     Subsec. (6)(I). [Pub. L. 91–522][/us/pl/91/522] inserted “almonds,” before “cherries” in first proviso, inserted at end of first proviso “and with respect to almonds may provide for crediting the pro rata expense assessment obligations of a handler with all or any portion of his direct expenditures for such marketing promotion including paid advertising as may be authorized by the order”, and amended second proviso generally.
 
@@ -1033,23 +1033,23 @@
 
     [Pub. L. 91–292][/us/pl/91/292] which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress, inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: Provided further, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
 
-    Subsec. (17). [Pub. L. 91–524, § 201(f)(1)][/us/pl/91/524/s201/f/1], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
+    Subsec. (17). [Pub. L. 91–524][/us/pl/91/524], § 201(f)(1), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
 
-    Subsec. (18). [Pub. L. 91–524, § 201(f)(2)][/us/pl/91/524/s201/f/2], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Termination of 1970 Amendment note below.
+    Subsec. (18). [Pub. L. 91–524][/us/pl/91/524], § 201(f)(2), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Termination of 1970 Amendment note below.
 
-    1965—Subsec. (5)(B). [Pub. L. 89–321, § 101][/us/pl/89/321/s101], temporarily added cl. (d) and concluding provisions and struck out former cl. (d). See Termination of 1965 Amendments note below.
+    1965—Subsec. (5)(B). [Pub. L. 89–321][/us/pl/89/321], § 101, temporarily added cl. (d) and concluding provisions and struck out former cl. (d). See Termination of 1965 Amendments note below.
 
-    Subsec. (5)(H). [Pub. L. 89–321, § 102(a)][/us/pl/89/321/s102/a], temporarily added par. (H). See Termination of 1965 Amendments note below.
+    Subsec. (5)(H). [Pub. L. 89–321][/us/pl/89/321], § 102(a), temporarily added par. (H). See Termination of 1965 Amendments note below.
 
     Subsec. (6)(I). [Pub. L. 89–330][/us/pl/89/330] inserted “, carrots, citrus fruits, onions, Tokay grapes, fresh pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, or avocados” after “applicable to cherries” in proviso.
 
-    Subsec. (18). [Pub. L. 89–321, § 102(b)][/us/pl/89/321/s102/b], temporarily inserted “or, in the case of orders applying only to manufacturing milk, the production area” after “marketing area” in two places. See Termination of 1965 Amendments note below.
+    Subsec. (18). [Pub. L. 89–321][/us/pl/89/321], § 102(b), temporarily inserted “or, in the case of orders applying only to manufacturing milk, the production area” after “marketing area” in two places. See Termination of 1965 Amendments note below.
 
     1962—Subsec. (6)(I). [Pub. L. 87–703][/us/pl/87/703] struck out period at end and inserted “: Provided, That with respect to orders applicable to cherries such projects may provide for any form of marketing promotion including paid advertising.”
 
-    1961—Subsec. (2). [Pub. L. 87–128, § 141(3)][/us/pl/87/128/s141/3], designated provisions after “applicable only to” as par. (A), inserted “cherries, apples, or cranberries,” after “grapefruit,” the first time appearing, substituted “Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)” for “and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)”, struck out “soybeans,” before “hops, honeybees”, and added par. (B).
+    1961—Subsec. (2). [Pub. L. 87–128][/us/pl/87/128], § 141(3), designated provisions after “applicable only to” as par. (A), inserted “cherries, apples, or cranberries,” after “grapefruit,” the first time appearing, substituted “Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)” for “and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)”, struck out “soybeans,” before “hops, honeybees”, and added par. (B).
 
-    Subsec. (19). [Pub. L. 87–128, § 141(4)][/us/pl/87/128/s141/4], amended text generally.
+    Subsec. (19). [Pub. L. 87–128][/us/pl/87/128], § 141(4), amended text generally.
 
     1954—Subsec. (2). Act Aug. 28, 1954, § 401(b), amended text generally.
 
@@ -1097,13 +1097,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–215, § 2(d)][/us/pl/109/215/s2/d], Apr. 11, 2006, [120 Stat. 330][/us/stat/120/330], provided that: 
+[Pub. L. 109–215][/us/pl/109/215], § 2(d), Apr. 11, 2006, [120 Stat. 330][/us/stat/120/330], provided that: 
 
 > “The amendments made by this section \[amending this section\] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act \[Apr. 11, 2006\]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act ([7 U.S.C. 608c(5)][/us/usc/t7/s608c/5]), reenacted with amendments by the Agriculture \[Agricultural\] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler’s distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act ([7 U.S.C. 608c(19)][/us/usc/t7/s608c/19]).”
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–78, title VII, § 760][/us/pl/106/78/s760], Oct. 22, 1999, [113 Stat. 1173][/us/stat/113/1173], provided that the amendment made by section 760 is effective Oct. 1, 1999.
+    [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 760, Oct. 22, 1999, [113 Stat. 1173][/us/stat/113/1173], provided that the amendment made by section 760 is effective Oct. 1, 1999.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -1111,29 +1111,29 @@
 
  __Effective Dates of 1985 Amendment__ 
 
-[Pub. L. 99–198, title I, § 131(b)][/us/pl/99/198/s131/b], Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that: 
+[Pub. L. 99–198, title I][/us/pl/99/198/tI], § 131(b), Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act \[Dec. 23, 1985\].”
 
-    [Pub. L. 99–198, title I, § 133][/us/pl/99/198/s133], Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that the amendment made by that section is effective Jan. 1, 1986.
+    [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 133, Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that the amendment made by that section is effective Jan. 1, 1986.
 
-[Pub. L. 99–198, title XVI, § 1661(b)][/us/pl/99/198/s1661/b], Dec. 23, 1985, [99 Stat. 1630][/us/stat/99/1630], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1661(b), Dec. 23, 1985, [99 Stat. 1630][/us/stat/99/1630], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any violation described in section 8c(14) of the Agricultural Adjustment Act \[subsec. (14) of this section\] occurring before the date of the enactment of this Act \[Dec. 23, 1985\].”
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-[Pub. L. 97–98, title I, § 101(b)][/us/pl/97/98/s101/b], Dec. 22, 1981, [95 Stat. 1219][/us/stat/95/1219], as amended by [Pub. L. 99–198, title I, § 132][/us/pl/99/198/s132], Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373]; [Pub. L. 101–624, title I, § 108][/us/pl/101/624/s108], Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 103–66, title I, § 1105(b)][/us/pl/103/66/s1105/b], Aug. 10, 1993, [107 Stat. 317][/us/stat/107/317], provided that: 
+[Pub. L. 97–98, title I][/us/pl/97/98/tI], § 101(b), Dec. 22, 1981, [95 Stat. 1219][/us/stat/95/1219], as amended by [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 132, Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373]; [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 108, Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1105(b), Aug. 10, 1993, [107 Stat. 317][/us/stat/107/317], provided that: 
 
 > “The provisions of subsection (a) \[amending this section\] shall become effective January 1, 1982, and shall terminate December 31, 1996.”
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–279, title IV, § 401(a)][/us/pl/95/279/s401/a], May 15, 1978, [92 Stat. 242][/us/stat/92/242], provided that the amendment made by that section is effective Oct. 1, 1978.
+    [Pub. L. 95–279, title IV][/us/pl/95/279/tIV], § 401(a), May 15, 1978, [92 Stat. 242][/us/stat/92/242], provided that the amendment made by that section is effective Oct. 1, 1978.
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–196, § 2][/us/pl/91/196/s2], Feb. 20, 1970, [84 Stat. 14][/us/stat/84/14], provided that: 
+[Pub. L. 91–196][/us/pl/91/196], § 2, Feb. 20, 1970, [84 Stat. 14][/us/stat/84/14], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall be effective only during the period beginning with the date of enactment of this Act \[Feb. 20, 1970\] and ending two years after such date.”
 
@@ -1141,13 +1141,13 @@
 
  __Termination of 1970 Amendment; Savings Provision__ 
 
-[Pub. L. 91–524, title II, § 201(e)][/us/pl/91/524/s201/e], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], as amended by [Pub. L. 93–86, § 1(2)(A)][/us/pl/93/86/s1/2/A], Aug. 10, 1973, [87 Stat. 222][/us/stat/87/222]; [Pub. L. 95–113, title II, § 201][/us/pl/95/113/s201], Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that: 
+[Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(e), Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(2)(A), Aug. 10, 1973, [87 Stat. 222][/us/stat/87/222]; [Pub. L. 95–113, title II][/us/pl/95/113/tII], § 201, Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that: 
 
 > “The provisions of this section \[amending this section\] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
 
  __Termination of 1965 Amendment; Reversion of Status of Producer Handlers of Milk to Pre-Amendment Status__ 
 
-[Pub. L. 89–321, title I][/us/pl/89/321], §§ 103, 104, Nov. 3, 1965, [79 Stat. 1188][/us/stat/79/1188], as amended by [Pub. L. 90–559, § 1(3)][/us/pl/90/559/s1/3], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that:
+[Pub. L. 89–321, title I][/us/pl/89/321/tI], §§ 103, 104, Nov. 3, 1965, [79 Stat. 1188][/us/stat/79/1188], as amended by [Pub. L. 90–559][/us/pl/90/559], § 1(3), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that:
 
 > “Sec. 103. The provisions of this title \[amending this section\] shall not be effective after December 31, 1970.
 
@@ -1159,13 +1159,13 @@
 
  __Short Title__ 
 
-[Pub. L. 89–321, § 1][/us/pl/89/321/s1], Nov. 3, 1965, [79 Stat. 1187][/us/stat/79/1187], provided: 
+[Pub. L. 89–321][/us/pl/89/321], § 1, Nov. 3, 1965, [79 Stat. 1187][/us/stat/79/1187], provided: 
 
 > “That this Act \[enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and [section 590p of Title 16][/us/usc/t16/s590p], Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and [section 590p of Title 16][/us/usc/t16/s590p], and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title\] may be cited as the ‘Food and Agriculture Act of 1965’.”
 
  __Expedited Marketing Order for Hass Avocados for Grades and Standards and Other Purposes__ 
 
-[Pub. L. 110–234, title X, § 10108][/us/pl/110/234/s10108], May 22, 2008, [122 Stat. 1338][/us/stat/122/1338], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099, provided that:
+[Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10108, May 22, 2008, [122 Stat. 1338][/us/stat/122/1338], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1189,31 +1189,31 @@
 
  __Records and Facility Requirements__ 
 
-[Pub. L. 109–215, § 2(c)][/us/pl/109/215/s2/c], Apr. 11, 2006, [120 Stat. 330][/us/stat/120/330], provided that: 
+[Pub. L. 109–215][/us/pl/109/215], § 2(c), Apr. 11, 2006, [120 Stat. 330][/us/stat/120/330], provided that: 
 
 > “Notwithstanding any other provision of this section \[amending this section and enacting provisions set out as notes under this section and [section 601 of this title][/us/usc/t7/s601]\], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities.”
 
  __Minnesota-Wisconsin Price Series Reform__ 
 
-    [Pub. L. 101–624, title I, § 103][/us/pl/101/624/s103], Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], required the Secretary of Agriculture to consider alternative pricing formula recommendations as they related to the Minnesota-Wisconsin price series used to determine the minimum prices paid under milk marketing orders, to hold a national hearing on proposed replacements of that price series, and to report to Congress on issuance of a final decision on the hearing proposals.
+    [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 103, Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], required the Secretary of Agriculture to consider alternative pricing formula recommendations as they related to the Minnesota-Wisconsin price series used to determine the minimum prices paid under milk marketing orders, to hold a national hearing on proposed replacements of that price series, and to report to Congress on issuance of a final decision on the hearing proposals.
 
  __Hearings on Federal Milk Marketing Orders__ 
 
-    [Pub. L. 101–624, title I, § 104][/us/pl/101/624/s104], Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], required the Secretary of Agriculture to conclude national hearings on possible changes in the pricing provisions of Federal milk marketing orders by Mar. 29, 1990, and to effect any system-wide changes in the Federal orders setting minimum prices that milk processors must pay for Grade A milk received from producers, by Jan. 1, 1992.
+    [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 104, Nov. 28, 1990, [104 Stat. 3379][/us/stat/104/3379], required the Secretary of Agriculture to conclude national hearings on possible changes in the pricing provisions of Federal milk marketing orders by Mar. 29, 1990, and to effect any system-wide changes in the Federal orders setting minimum prices that milk processors must pay for Grade A milk received from producers, by Jan. 1, 1992.
 
  __Status of Producer Handlers__ 
 
-[Pub. L. 101–624, title I, § 115][/us/pl/101/624/s115], Nov. 28, 1990, [104 Stat. 3381][/us/stat/104/3381], provided that: 
+[Pub. L. 101–624, title I][/us/pl/101/624/tI], § 115, Nov. 28, 1990, [104 Stat. 3381][/us/stat/104/3381], provided that: 
 
 > “The legal status of producer handlers of milk under the Agricultural Adjustment Act ([7 U.S.C. 601][/us/usc/t7/s601] et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title \[enacting [section 1446e of this title][/us/usc/t7/s1446e] and amending this section and sections 450l and 1446a of this title, [section 713a–14 of Title 15][/us/usc/t15/s713a–14], Commerce and Trade, and provisions set out as notes under this section and [section 1731 of this title][/us/usc/t7/s1731]\] take effect as it was before the effective date of the amendments \[see Effective Date of 1990 Amendment note set out under [section 1421 of this title][/us/usc/t7/s1421]\].”
 
  __Multiple Component Pricing Study__ 
 
-    [Pub. L. 101–624, title I, § 116][/us/pl/101/624/s116], Nov. 28, 1990, [104 Stat. 3381][/us/stat/104/3381], required the Secretary of Agriculture to initiate a study to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
+    [Pub. L. 101–624, title I][/us/pl/101/624/tI], § 116, Nov. 28, 1990, [104 Stat. 3381][/us/stat/104/3381], required the Secretary of Agriculture to initiate a study to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
 
  __Marketwide Service Payments__ 
 
-[Pub. L. 99–260, § 9][/us/pl/99/260/s9], Mar. 20, 1986, [100 Stat. 51][/us/stat/100/51], provided that:
+[Pub. L. 99–260][/us/pl/99/260], § 9, Mar. 20, 1986, [100 Stat. 51][/us/stat/100/51], provided that:
 
 >     “(a)  __Hearing__  __.—__ 
 
@@ -1225,53 +1225,53 @@
 
  __Termination of Marketing Orders__ 
 
-[Pub. L. 99–198, title XVI, § 1662(b)][/us/pl/99/198/s1662/b], Dec. 23, 1985, [99 Stat. 1631][/us/stat/99/1631], provided that: 
+[Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1662(b), Dec. 23, 1985, [99 Stat. 1631][/us/stat/99/1631], provided that: 
 
 > “The Secretary of Agriculture may not terminate any marketing order under section 8c(16) of the of the \[so in original\] Agricultural Adjustment Act ([7 U.S.C. 608c(16)][/us/usc/t7/s608c/16]), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, if such termination becomes effective before January 16, 1986.”
 
  __Report to Houses of Congress Regarding Implementation of Provisions Relating to Handling of Commodities__ 
 
-    [Pub. L. 95–279, title IV, § 401(b)][/us/pl/95/279/s401/b], May 15, 1978, [92 Stat. 243][/us/stat/92/243], provided that, within a period of 60 days following the second anniversary of the implementation of [section 401 of Pub. L. 95–279][/us/pl/95/279/s401], the Secretary of Agriculture was to submit to Congress a report describing how section 401 was implemented.
+    [Pub. L. 95–279, title IV][/us/pl/95/279/tIV], § 401(b), May 15, 1978, [92 Stat. 243][/us/stat/92/243], provided that, within a period of 60 days following the second anniversary of the implementation of [section 401 of Pub. L. 95–279][/us/pl/95/279/s401], the Secretary of Agriculture was to submit to Congress a report describing how section 401 was implemented.
 
  __Retention of Status of Producer Handlers of Milk at Pre-1985 Amendment Status__ 
 
-[Pub. L. 99–198, title I, § 134][/us/pl/99/198/s134], Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that: 
+[Pub. L. 99–198, title I][/us/pl/99/198/tI], § 134, Dec. 23, 1985, [99 Stat. 1373][/us/stat/99/1373], provided that: 
 
 > “The legal status of producer handlers of milk under the Agricultural Adjustment Act ([7 U.S.C. 601][/us/usc/t7/s601] et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title \[probably means this subtitle, subtitle C (§§ 131–134) of title I of [Pub. L. 99–198][/us/pl/99/198], amending subsec. (5) of this section and provisions set out as a note above\] take effect as it was before the effective date of such amendments.”
 
  __Retention of Status of Producer Handlers of Milk at Pre-1981 Amendment Status__ 
 
-[Pub. L. 97–98, title I, § 102][/us/pl/97/98/s102], Dec. 22, 1981, [95 Stat. 1219][/us/stat/95/1219], provided that: 
+[Pub. L. 97–98, title I][/us/pl/97/98/tI], § 102, Dec. 22, 1981, [95 Stat. 1219][/us/stat/95/1219], provided that: 
 
 > “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937 \[this chapter\] shall be the same subsequent to the adoption of the amendment made by the Agriculture and Food Act of 1981 \[see Tables\] as it was prior thereto.”
 
  __Retention of Status of Producer Handlers of Milk at Pre-1977 Amendment Status__ 
 
-[Pub. L. 95–113, title II, § 202][/us/pl/95/113/s202], Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that: 
+[Pub. L. 95–113, title II][/us/pl/95/113/tII], § 202, Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that: 
 
 > “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act \[see Short Title note set out under [section 601 of this title][/us/usc/t7/s601]\], as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended \[[act June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], [50 Stat. 246][/us/stat/50/246], set out as a note under [section 601 of this title][/us/usc/t7/s601]\] shall be the same subsequent to the adoption of the amendment made by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281]\] as it was prior thereto.”
 
  __Retention of Status of Producer Handlers of Milk at Pre-1973 Amendment Status__ 
 
-[Pub. L. 91–524, title II, § 206][/us/pl/91/524/s206], as added by [Pub. L. 93–86, § 1(6)][/us/pl/93/86/s1/6], Aug. 10, 1973, [87 Stat. 224][/us/stat/87/224]; amended [Pub. L. 93–125, § 1(a)(iii)][/us/pl/93/125/s1/a/iii], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450], provided that: 
+[Pub. L. 91–524, title II][/us/pl/91/524/tII], § 206, as added by [Pub. L. 93–86][/us/pl/93/86], § 1(6), Aug. 10, 1973, [87 Stat. 224][/us/stat/87/224]; amended [Pub. L. 93–125][/us/pl/93/125], § 1(a)(iii), Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450], provided that: 
 
 > “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 \[[Pub. L. 93–86][/us/pl/93/86], amending this section and sections 450l, 1446, and 1446a of this title\] as it was prior thereto.”
 
  __Retention of Status of Producer Handlers of Milk at Pre-1970 Amendment Status__ 
 
-    [Pub. L. 91–524, title II, § 201(b)][/us/pl/91/524/s201/b], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], provided that the legal status of producer handlers of milk under the Agricultural Adjustment Act shall be the same subsequent to the adoption of the amendments made by [Pub. L. 91–524][/us/pl/91/524] as it was prior thereto. For termination of this provision, see Termination of 1970 Amendment note above.
+    [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(b), Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], provided that the legal status of producer handlers of milk under the Agricultural Adjustment Act shall be the same subsequent to the adoption of the amendments made by [Pub. L. 91–524][/us/pl/91/524] as it was prior thereto. For termination of this provision, see Termination of 1970 Amendment note above.
 
  __Ratification, Legalization, Confirmation, and Extension of Class I Base Plan Provisions in Marketing Orders Issued Prior to__  __Nov. 30, 1970__ 
 
-    [Pub. L. 91–524, title II, § 201(c)][/us/pl/91/524/s201/c], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], validated and expressly ratified, legalized, and confirmed class I base plan provisions of marketing orders previously issued by the Secretary of Agriculture. For termination of this provision, see Termination of 1970 Amendment note above.
+    [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(c), Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], validated and expressly ratified, legalized, and confirmed class I base plan provisions of marketing orders previously issued by the Secretary of Agriculture. For termination of this provision, see Termination of 1970 Amendment note above.
 
  __Reaffirmation of Subsec. (5)(G) of This Section__ 
 
-    [Pub. L. 91–524, title II, § 201(d)][/us/pl/91/524/s201/d], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], clarified Congressional intent that subsection (5)(G) be fully reaffirmed and in no way altered, rescinded, or amended. For termination of this provision, see Termination of 1970 Amendment note above.
+    [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 201(d), Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361], clarified Congressional intent that subsection (5)(G) be fully reaffirmed and in no way altered, rescinded, or amended. For termination of this provision, see Termination of 1970 Amendment note above.
 
  __Validity of Section Affirmed__ 
 
-    [Act June 3, 1937, ch. 296, § 1][/us/act/1937-06-03/ch296/s1], [50 Stat. 246][/us/stat/50/246], affirmed and validated, and reenacted without change the provisions of this section, except for the amendments to subsections (5)(B)(d) and (6)(B) by section 2 of the act, and the addition of subsections (18) and (19) by said section 2. See Validity of Certain Sections Affirmed note set out under [section 601 of this title][/us/usc/t7/s601].
+    [Act June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 1, [50 Stat. 246][/us/stat/50/246], affirmed and validated, and reenacted without change the provisions of this section, except for the amendments to subsections (5)(B)(d) and (6)(B) by section 2 of the act, and the addition of subsections (18) and (19) by said section 2. See Validity of Certain Sections Affirmed note set out under [section 601 of this title][/us/usc/t7/s601].
 
 ----------
 
@@ -1296,13 +1296,13 @@
 [/us/usc/t7/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs602
 [/us/usc/t7/s608b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608b
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1935-08-24/ch641/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs5
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F753
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
-[/us/act/1937-06-03/ch296/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs2%2Fk
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/act/1937-08-05/ch567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-05%2Fch567
 [/us/stat/50/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F563
 [/us/act/1938-04-13/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-13%2Fch143
@@ -1320,17 +1320,17 @@
 [/us/stat/63/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F282
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F906
-[/us/pl/87/128/s141/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs141%2F3
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F304
-[/us/pl/87/703/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs403
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
-[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtI
 [/us/stat/79/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1187
-[/us/pl/89/330/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F330%2Fs1%2Fb
+[/us/pl/89/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F330
 [/us/stat/79/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1270
-[/us/pl/91/196/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs1
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
 [/us/stat/84/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F14
-[/us/pl/91/292/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F292%2Fs1%2F2
+[/us/pl/91/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F292
 [/us/stat/84/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F333
 [/us/pl/91/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F341
 [/us/stat/84/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F438
@@ -1340,9 +1340,9 @@
 [/us/stat/84/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F827
 [/us/pl/91/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F522
 [/us/stat/84/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1357
-[/us/pl/91/524/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fa
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1359
-[/us/pl/91/670/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs101
+[/us/pl/91/670/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtI
 [/us/stat/84/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2040
 [/us/pl/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F120
 [/us/stat/85/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F340
@@ -1350,46 +1350,46 @@
 [/us/stat/86/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F39
 [/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
 [/us/stat/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F780
-[/us/pl/91/524/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff
-[/us/pl/93/86/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F2%2FB
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F222
 [/us/pl/93/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F230
 [/us/stat/87/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F945
-[/us/pl/95/279/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2Fs401%2Fa
+[/us/pl/95/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2FtIV
 [/us/stat/92/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F242
-[/us/pl/96/494/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs101
+[/us/pl/96/494/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtI
 [/us/stat/94/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2570
-[/us/pl/97/98/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs101%2Fa
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1218
-[/us/pl/98/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F171%2Fs1
+[/us/pl/98/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F171
 [/us/stat/97/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1117
-[/us/pl/98/180/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs304
+[/us/pl/98/180/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtIII
 [/us/stat/97/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1151
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1372
-[/us/pl/100/203/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1501
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-27
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1407
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3380
-[/us/pl/102/237/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs115%2F2
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1840
-[/us/pl/102/553/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F553%2Fs2
+[/us/pl/102/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F553
 [/us/stat/106/4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4141
-[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1171
-[/us/pl/107/76/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs765
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F743
-[/us/pl/107/171/s10601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10601%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F511
-[/us/pl/108/379/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F379%2Fs1
+[/us/pl/108/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F379
 [/us/stat/118/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2209
-[/us/pl/109/215/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fa
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
 [/us/stat/120/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F328
-[/us/pl/110/234/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1504
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F993
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1435
@@ -1399,7 +1399,7 @@
 [/us/stat/39/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F673
 [/us/act/1928-05-21/ch664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-21%2Fch664
 [/us/stat/45/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F685
-[/us/pl/90/628/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628%2Fs1%2Fa
+[/us/pl/90/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa
@@ -1407,80 +1407,80 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1504
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s608d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608d
-[/us/pl/109/215/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fa
-[/us/pl/109/215/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fb%2F1
-[/us/pl/109/215/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fb%2F2
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
 [/us/pl/108/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F379
-[/us/pl/107/171/s10601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10601%2Fa%2F1
-[/us/pl/107/171/s10601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10601%2Fa%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
-[/us/pl/106/78/s757/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs757%2Fa%2F2
-[/us/pl/106/78/s757/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs757%2Fa%2F1
-[/us/pl/106/78/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs760
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/102/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F553
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs112
-[/us/pl/101/624/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs113
-[/us/pl/101/624/s1306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1306%2F1
-[/us/pl/101/624/s1306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1306%2F2
-[/us/pl/100/418/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4601
-[/us/pl/100/418/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4602
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/198/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs131%2Fa
-[/us/pl/99/198/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs133
-[/us/pl/99/198/s1661/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1661%2Fa
-[/us/pl/99/198/s1662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1662%2Fa%2F1
-[/us/pl/99/198/s1662/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1662%2Fa%2F2
-[/us/pl/98/180/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs304%2F1
-[/us/pl/98/180/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs304%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/98/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180
+[/us/pl/98/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180
 [/us/pl/98/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F171
-[/us/pl/97/98/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs101%2Fa%2F1
-[/us/pl/97/98/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs101%2Fa%2F2
-[/us/pl/91/524/s201/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F1
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/97/98/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs101%2Fa%2F3
-[/us/pl/91/524/s201/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F2
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/pl/95/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279
 [/us/pl/93/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F230
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s201/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F1
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s201/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F2
-[/us/pl/92/466/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466%2Fs1%2F1
-[/us/pl/92/233/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F233%2Fs1%2F1
-[/us/pl/91/196/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs1%2F1
-[/us/pl/92/233/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F233%2Fs1%2F2
-[/us/pl/91/196/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs1%2F2
-[/us/pl/92/466/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466%2Fs1%2F2
-[/us/pl/92/466/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466%2Fs1%2F5
-[/us/pl/92/466/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466%2Fs1%2F3
-[/us/pl/92/466/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466%2Fs1%2F4
-[/us/pl/91/670/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs101
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
+[/us/pl/92/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F233
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
+[/us/pl/92/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F233
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
+[/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
+[/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
+[/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
+[/us/pl/92/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F466
+[/us/pl/91/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670
 [/us/pl/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F120
-[/us/pl/91/670/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs201
+[/us/pl/91/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670
 [/us/pl/91/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F341
-[/us/pl/91/196/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs1%2F1
-[/us/pl/91/196/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs1%2F2
-[/us/pl/91/524/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fa
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/91/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F522
 [/us/pl/91/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F384
 [/us/pl/91/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F363
 [/us/pl/91/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F292
-[/us/pl/91/524/s201/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F1
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s201/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Ff%2F2
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/89/321/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs101
-[/us/pl/89/321/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs102%2Fa
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/89/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F330
-[/us/pl/89/321/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs102%2Fb
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
-[/us/pl/87/128/s141/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs141%2F3
-[/us/pl/87/128/s141/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs141%2F4
+[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
+[/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/usc/t7/s608e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608e
 [/us/usc/t7/s608/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608%2F3
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -1488,56 +1488,56 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/109/215/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fd
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
 [/us/stat/120/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F330
 [/us/usc/t7/s608c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F5
 [/us/usc/t7/s608c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F19
-[/us/pl/106/78/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs760
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1173
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/99/198/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs131%2Fb
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1373
-[/us/pl/99/198/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs133
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1373
-[/us/pl/99/198/s1661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1661%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1630
-[/us/pl/97/98/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs101%2Fb
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1219
-[/us/pl/99/198/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs132
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1373
-[/us/pl/101/624/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs108
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3380
-[/us/pl/103/66/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1105%2Fb
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F317
-[/us/pl/95/279/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2Fs401%2Fa
+[/us/pl/95/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2FtIV
 [/us/stat/92/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F242
-[/us/pl/91/196/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196%2Fs2
+[/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
 [/us/stat/84/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F14
 [/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
 [/us/pl/92/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F233
 [/us/stat/86/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F39
 [/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
 [/us/pl/91/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F196
-[/us/pl/91/524/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fe
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1361
-[/us/pl/93/86/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F2%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F222
-[/us/pl/95/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs201
+[/us/pl/95/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtII
 [/us/stat/91/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F919
-[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtI
 [/us/stat/79/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1188
-[/us/pl/90/559/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F3
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/usc/t7/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1301
-[/us/pl/89/321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs1
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/stat/79/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1187
 [/us/usc/t16/s590p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p
 [/us/usc/t16/s590p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p
-[/us/pl/110/234/s10108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10108
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1338
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
@@ -1546,58 +1546,58 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/109/215/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215%2Fs2%2Fc
+[/us/pl/109/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F215
 [/us/stat/120/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F330
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
-[/us/pl/101/624/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs103
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3379
-[/us/pl/101/624/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs104
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3379
-[/us/pl/101/624/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs115
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3381
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t7/s1446e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446e
 [/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314
 [/us/usc/t7/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1731
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/624/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs116
+[/us/pl/101/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtI
 [/us/stat/104/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3381
-[/us/pl/99/260/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260%2Fs9
+[/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/stat/100/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F51
 [/us/usc/t7/s608c/5/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F5%2FJ
-[/us/pl/99/198/s1662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1662%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1631
 [/us/usc/t7/s608c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c%2F16
-[/us/pl/95/279/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2Fs401%2Fb
+[/us/pl/95/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2FtIV
 [/us/stat/92/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F243
 [/us/pl/95/279/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2Fs401
-[/us/pl/99/198/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs134
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1373
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/98/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs102
+[/us/pl/97/98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtI
 [/us/stat/95/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1219
-[/us/pl/95/113/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs202
+[/us/pl/95/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtII
 [/us/stat/91/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F919
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/pl/91/524/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs206
-[/us/pl/93/86/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F6
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F224
-[/us/pl/93/125/s1/a/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fa%2Fiii
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/stat/87/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F450
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fb
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1361
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
-[/us/pl/91/524/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fc
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1361
-[/us/pl/91/524/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs201%2Fd
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
 [/us/stat/84/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1361
-[/us/act/1937-06-03/ch296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs1
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 

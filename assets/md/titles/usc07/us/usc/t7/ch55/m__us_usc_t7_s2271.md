@@ -17,7 +17,7 @@
 
     In carrying out marketing research and education programs, the Secretary of Agriculture shall take such steps as may be necessary to increase the efforts of the Department of Agriculture in providing marketing education programs for persons engaged in small and medium size family farm operations.
 
-([Pub. L. 97–98, title XIV, § 1445][/us/pl/97/98/s1445], Dec. 22, 1981, [95 Stat. 1327][/us/stat/95/1327].)
+([Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1445, Dec. 22, 1981, [95 Stat. 1327][/us/stat/95/1327].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1445
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1327
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

@@ -23,7 +23,7 @@
 
         Payments made pursuant to this section shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
 
-([Pub. L. 99–198, title X, § 1001F][/us/pl/99/198/s1001F], formerly § 1001E, as added [Pub. L. 101–624, title XI, § 1111(h)][/us/pl/101/624/s1111/h], Nov. 28, 1990, [104 Stat. 3499][/us/stat/104/3499]; renumbered § 1001F, [Pub. L. 107–171, title I, § 1604(1)][/us/pl/107/171/s1604/1], May 13, 2002, [116 Stat. 215][/us/stat/116/215].)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001F, formerly § 1001E, as added [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1111(h), Nov. 28, 1990, [104 Stat. 3499][/us/stat/104/3499]; renumbered § 1001F, [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1604(1), May 13, 2002, [116 Stat. 215][/us/stat/116/215].)
 
  __References in Text__ 
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1001F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001F
-[/us/pl/101/624/s1111/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fh
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3499
-[/us/pl/107/171/s1604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1604%2F1
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1504

@@ -59,7 +59,7 @@
 
         Before any sale of qualified debt may occur under this section, the President should consult with the eligible country’s government concerning such sale. The topics addressed in the consultation shall include the amount of qualified debt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 616, as added [Pub. L. 102–532, § 2][/us/pl/102/532/s2], Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 616, as added [Pub. L. 102–532][/us/pl/102/532], § 2, Oct. 27, 1992, [106 Stat. 3509][/us/stat/106/3509].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t7/s1738k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738k
 [/us/usc/t7/s1738g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738g
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/102/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532%2Fs2
+[/us/pl/102/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F532
 [/us/stat/106/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3509
 
 

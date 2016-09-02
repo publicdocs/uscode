@@ -27,7 +27,7 @@
 
         (2) consider any recommendations or feedback provided to the Secretary in response to the notice provided under paragraph (1).
 
-([Pub. L. 87–128, title III, § 333D][/us/pl/87/128/s333D], as added [Pub. L. 113–79, title V, § 5302][/us/pl/113/79/s5302], Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 333D, as added [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5302, Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s333D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs333D
-[/us/pl/113/79/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5302
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F839
 
 

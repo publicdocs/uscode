@@ -83,7 +83,7 @@
 
         (2) the Secretary of Commerce, to the extent that a matter under the jurisdiction of the Secretary of Commerce is involved.
 
-([Pub. L. 105–113, § 2][/us/pl/105/113/s2], Nov. 21, 1997, [111 Stat. 2274][/us/stat/111/2274]; [Pub. L. 110–234, title X, § 10103][/us/pl/110/234/s10103], May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
+([Pub. L. 105–113][/us/pl/105/113], § 2, Nov. 21, 1997, [111 Stat. 2274][/us/stat/111/2274]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10103, May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
 
  __Codification__ 
 
@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 10103][/us/pl/110/246/s10103], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -106,17 +106,17 @@
 
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/pl/108/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465
-[/us/pl/105/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs2
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2274
-[/us/pl/110/234/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10103
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1336
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10103
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

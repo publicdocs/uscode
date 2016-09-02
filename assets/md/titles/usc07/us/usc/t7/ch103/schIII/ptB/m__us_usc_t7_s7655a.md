@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-([Pub. L. 110–234, title X, § 10105][/us/pl/110/234/s10105], May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2098; [Pub. L. 113–79, title X, § 10006][/us/pl/113/79/s10006], Feb. 7, 2014, [128 Stat. 947][/us/stat/128/947].)
+([Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10105, May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10105, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2098; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10006, Feb. 7, 2014, [128 Stat. 947][/us/stat/128/947].)
 
  __Codification__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/110/234/s10105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10105
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1336
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s10006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10006
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F947
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

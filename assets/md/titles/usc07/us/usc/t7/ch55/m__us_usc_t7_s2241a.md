@@ -39,7 +39,7 @@
 
         Subsection (b) does not apply to the free dissemination of new varieties of seeds and germplasm in accordance with [section 2201 of this title][/us/usc/t7/s2201].
 
-([Pub. L. 103–354, title III, § 307][/us/pl/103/354/s307], as added [Pub. L. 110–234, title VII, § 7408][/us/pl/110/234/s7408], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7408, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; amended [Pub. L. 113–79, title VII, § 7605][/us/pl/113/79/s7605], Feb. 7, 2014, [128 Stat. 912][/us/stat/128/912].)
+([Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 307, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7408, May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7408, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; amended [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7605, Feb. 7, 2014, [128 Stat. 912][/us/stat/128/912].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79][/us/pl/113/79] made technical amendment to directory language of [Pub. L. 110–246, § 7408][/us/pl/110/246/s7408], which enacted this section.
+    2014—[Pub. L. 113–79][/us/pl/113/79] made technical amendment to directory language of [Pub. L. 110–246][/us/pl/110/246], § 7408, which enacted this section.
 
  __Effective Date__ 
 
@@ -61,19 +61,19 @@
 ----------
 
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
-[/us/pl/103/354/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs307
-[/us/pl/110/234/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7408
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7605
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F912
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7408
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

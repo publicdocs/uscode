@@ -23,7 +23,7 @@
 
         The Secretary shall develop and implement a plan that will result in increasing the use of contracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.1
 
-([Pub. L. 101–624, title XXIII, § 2394][/us/pl/101/624/s2394], Nov. 28, 1990, [104 Stat. 4057][/us/stat/104/4057].)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2394, Nov. 28, 1990, [104 Stat. 4057][/us/stat/104/4057].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2394
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4057
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3979

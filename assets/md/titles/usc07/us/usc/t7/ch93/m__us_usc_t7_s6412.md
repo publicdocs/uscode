@@ -49,7 +49,7 @@
 
         The site of any hearings held under section 6410 or 6411 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-([Pub. L. 101–624, title XIX, § 1999M][/us/pl/101/624/s1999M], Nov. 28, 1990, [104 Stat. 3924][/us/stat/104/3924].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999M, Nov. 28, 1990, [104 Stat. 3924][/us/stat/104/3924].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999M
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3924
 
 

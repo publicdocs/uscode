@@ -21,7 +21,7 @@
 
     (2) shall ensure, to the maximum extent practicable, that the confidentiality of persons is maintained.
 
-([Pub. L. 106–222, § 6][/us/pl/106/222/s6], June 20, 2000, [114 Stat. 355][/us/stat/114/355].)
+([Pub. L. 106–222][/us/pl/106/222], § 6, June 20, 2000, [114 Stat. 355][/us/stat/114/355].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/222/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222%2Fs6
+[/us/pl/106/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222
 [/us/stat/114/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F355
 
 

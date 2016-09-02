@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Council in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-([Pub. L. 95–113, title XVII, § 1719][/us/pl/95/113/s1719], Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1719, Sept. 29, 1977, [91 Stat. 1040][/us/stat/91/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1719
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1040
 
 

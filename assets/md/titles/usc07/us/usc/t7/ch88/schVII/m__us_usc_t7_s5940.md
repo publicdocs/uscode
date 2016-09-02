@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Notwithstanding the Controlled Substances Act ([21 U.S.C. 801][/us/usc/t21/s801] et seq.), the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101][/us/usc/t20/s7101] et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20][/us/usc/t20/s1001]) or a State department of agriculture may grow or cultivate industrial hemp if—
+    Notwithstanding the Controlled Substances Act ([21 U.S.C. 801][/us/usc/t21/s801] et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20][/us/usc/t20/s1001]) or a State department of agriculture may grow or cultivate industrial hemp if—
 
         (1) the industrial hemp is grown or cultivated for purposes of research conducted under an agricultural pilot program or other agricultural or academic research; and
 
@@ -51,17 +51,23 @@
 
             The term “State department of agriculture” means the agency, commission, or department of a State government responsible for agriculture within the State.
 
-([Pub. L. 113–79, title VII, § 7606][/us/pl/113/79/s7606], Feb. 7, 2014, [128 Stat. 912][/us/stat/128/912].)
+([Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7606, Feb. 7, 2014, [128 Stat. 912][/us/stat/128/912]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(f), Dec. 10, 2015, [129 Stat. 2166][/us/stat/129/2166].)
 
  __References in Text__ 
 
     The Controlled Substances Act, referred to in subsec. (a), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801] and Tables.
 
-    The Safe and Drug-Free Schools and Communities Act, referred to in subsec. (a), is part A (§ 4001 et seq.) of title IV of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 107–110, title IV, § 401][/us/pl/107/110/s401], Jan. 8, 2002, [115 Stat. 1734][/us/stat/115/1734], which is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see [section 7101 of Title 20][/us/usc/t20/s7101] and Tables.
-
  __Codification__ 
 
     Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95] struck out “the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101][/us/usc/t20/s7101] et seq.),” before “chapter 81” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -71,16 +77,18 @@
 ----------
 
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/usc/t20/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7101
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/113/79/s7606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7606
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F912
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2166
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/107/110/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs401
-[/us/stat/115/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1734
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7101
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

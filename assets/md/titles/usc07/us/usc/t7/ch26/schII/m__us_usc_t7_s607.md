@@ -21,7 +21,7 @@
 
     Notwithstanding any provision of existing law, the Secretary of Agriculture may, in the administration of this chapter, make public such information as he deems necessary in order to effectuate the purposes of this chapter.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 7, [48 Stat. 34][/us/stat/48/34]; [June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], title II, § 221, [48 Stat. 210][/us/stat/48/210]; [Aug. 24, 1935, ch. 641, § 33][/us/act/1935-08-24/ch641/s33], [49 Stat. 775][/us/stat/49/775].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 7, [48 Stat. 34][/us/stat/48/34]; [June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], title II, § 221, [48 Stat. 210][/us/stat/48/210]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 33, [49 Stat. 775][/us/stat/49/775].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 [/us/stat/48/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F34
 [/us/act/1933-06-16/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch90
 [/us/stat/48/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F210
-[/us/act/1935-08-24/ch641/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs33
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F775
 
 

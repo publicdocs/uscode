@@ -37,7 +37,7 @@
 
             Nothing in this section shall be construed to alter or modify the authority of the Administrator of the Environmental Protection Agency or to provide any authority to the Secretary of Agriculture under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] or regulations promulgated under the Clean Air Act.
 
-([Pub. L. 106–224, title IV, § 419][/us/pl/106/224/s419], as added [Pub. L. 107–171, title VII, § 7504(c)][/us/pl/107/171/s7504/c], May 13, 2002, [116 Stat. 466][/us/stat/116/466].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 419, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7504(c), May 13, 2002, [116 Stat. 466][/us/stat/116/466].)
 
  __References in Text__ 
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/106/224/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs419
-[/us/pl/107/171/s7504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7504%2Fc
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F466
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

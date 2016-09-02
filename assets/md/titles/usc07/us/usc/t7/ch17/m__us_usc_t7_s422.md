@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized and directed to establish at or near Lewisburg, Tennessee, a dairying station for investigations, experiments, and demonstrations in the dairy industry, and the problems pertaining to the development of such industry in the South, and for investigations, demonstrations, assistance, and service in dairy livestock breeding, growing, and feeding, and dairy products manufacture.
 
-([May 29, 1928, ch. 892, § 1][/us/act/1928-05-29/ch892/s1], [45 Stat. 981][/us/stat/45/981].)
+([May 29, 1928, ch. 892][/us/act/1928-05-29/ch892], § 1, [45 Stat. 981][/us/stat/45/981].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-05-29/ch892/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch892%2Fs1
+[/us/act/1928-05-29/ch892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch892
 [/us/stat/45/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F981
 
 

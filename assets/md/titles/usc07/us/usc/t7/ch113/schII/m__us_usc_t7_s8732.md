@@ -203,11 +203,11 @@
 
         The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11), (b)(11), and (c)(11).
 
-([Pub. L. 110–234, title I, § 1202][/us/pl/110/234/s1202], May 22, 2008, [122 Stat. 954][/us/stat/122/954]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1682.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1202, May 22, 2008, [122 Stat. 954][/us/stat/122/954]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1682.)
 
  __References in Text__ 
 
-    [Section 8715 of this title][/us/usc/t7/s8715], referred to in subsecs. (b) and (c), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    [Section 8715 of this title][/us/usc/t7/s8715], referred to in subsecs. (b) and (c), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1103(a), Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
  __Codification__ 
 
@@ -223,12 +223,12 @@
 [/us/usc/t7/s8731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8731
 [/us/usc/t7/s8731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8731
 [/us/usc/t7/s8731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8731
-[/us/pl/110/234/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1202
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F954
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
-[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

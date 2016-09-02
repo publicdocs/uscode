@@ -17,7 +17,7 @@
 
     The Secretaries may dispose of any latex, resin, wax, pulp, and any other byproducts, as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance, resulting from operations under this subchapter. Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes. All moneys received from dispositions under this section shall be paid into the Treasury as miscellaneous receipts.
 
-([Pub. L. 95–592, § 13][/us/pl/95/592/s13], Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284, § 12][/us/pl/98/284/s12], May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
+([Pub. L. 95–592][/us/pl/95/592], § 13, Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284][/us/pl/98/284], § 12, May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/592/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs13
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
-[/us/pl/98/284/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs12
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F184
 [/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 

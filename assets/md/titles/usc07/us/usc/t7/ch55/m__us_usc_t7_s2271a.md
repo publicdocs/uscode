@@ -17,11 +17,11 @@
 
     The Secretary of Agriculture may establish a program to train farmers and ranchers in advanced techniques for the marketing of agricultural commodities, livestock, and aquacultural products produced by such farmers and ranchers, including (where appropriate as determined by the Secretary) training in the use of futures and options markets.
 
-([Pub. L. 99–641, title II, § 206(b)][/us/pl/99/641/s206/b], Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564].)
+([Pub. L. 99–641, title II][/us/pl/99/641/tII], § 206(b), Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564].)
 
  __Study and Report of Marketing Practices of Applicants and Borrowers of Farm Loans__ 
 
-[Pub. L. 99–641, title II, § 206(a)][/us/pl/99/641/s206/a], Nov. 10, 1986, [100 Stat. 3563][/us/stat/100/3563], provided that:
+[Pub. L. 99–641, title II][/us/pl/99/641/tII], § 206(a), Nov. 10, 1986, [100 Stat. 3563][/us/stat/100/3563], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/99/641/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs206%2Fb
+[/us/pl/99/641/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtII
 [/us/stat/100/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3564
-[/us/pl/99/641/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs206%2Fa
+[/us/pl/99/641/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtII
 [/us/stat/100/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3563
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

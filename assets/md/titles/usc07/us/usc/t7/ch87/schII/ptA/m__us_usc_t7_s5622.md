@@ -93,7 +93,7 @@
 
             (D) notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may be agreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
 
-([Pub. L. 95–501, title II, § 202][/us/pl/95/501/s202], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3673][/us/stat/104/3673]; amended [Pub. L. 102–237, title III, § 334][/us/pl/102/237/s334], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII][/us/pl/102/511], §§ 708, 709(a), Oct. 24, 1992, [106 Stat. 3351][/us/stat/106/3351]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 243(a), 277(c)(3), Apr. 4, 1996, [110 Stat. 965][/us/stat/110/965], 979; [Pub. L. 107–171, title III, § 3102(a)][/us/pl/107/171/s3102/a]–(c), May 13, 2002, [116 Stat. 289][/us/stat/116/289]; [Pub. L. 110–246, title III, § 3101(a)][/us/pl/110/246/s3101/a], (c), June 18, 2008, [122 Stat. 1831][/us/stat/122/1831], 1832; [Pub. L. 113–79, title III, § 3101(a)][/us/pl/113/79/s3101/a], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
+([Pub. L. 95–501, title II][/us/pl/95/501/tII], § 202, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3673][/us/stat/104/3673]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 334, Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], §§ 708, 709(a), Oct. 24, 1992, [106 Stat. 3351][/us/stat/106/3351]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], §§ 243(a), 277(c)(3), Apr. 4, 1996, [110 Stat. 965][/us/stat/110/965], 979; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3102(a)–(c), May 13, 2002, [116 Stat. 289][/us/stat/116/289]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3101(a), (c), June 18, 2008, [122 Stat. 1831][/us/stat/122/1831], 1832; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3101(a), Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
  __Prior Provisions__ 
 
@@ -101,73 +101,73 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 3101(a)(1)][/us/pl/113/79/s3101/a/1], substituted “24-month” for “3-year”.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(1), substituted “24-month” for “3-year”.
 
-    Subsec. (d). [Pub. L. 113–79, § 3101(a)(2)][/us/pl/113/79/s3101/a/2], substituted “obligor” for “country”.
+    Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(2), substituted “obligor” for “country”.
 
-    Subsecs. (i), (j). [Pub. L. 113–79, § 3101(a)(3)][/us/pl/113/79/s3101/a/3], (4), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to percentages of export credit guarantees issued to promote export of processed or high-value agricultural products in fiscal years 1996 through 2007.
+    Subsecs. (i), (j). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(3), (4), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to percentages of export credit guarantees issued to promote export of processed or high-value agricultural products in fiscal years 1996 through 2007.
 
-    Subsec. (j)(2)(A), (B). [Pub. L. 113–79, § 3101(a)(5)(A)][/us/pl/113/79/s3101/a/5/A], (B), redesignated subpars. (C) and (D) as (A) and (B), respectively, and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (j)(2)(A), (B). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(5)(A), (B), redesignated subpars. (C) and (D) as (A) and (B), respectively, and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) maximize the export sales of agricultural commodities;
 
     “(B) maximize the export credit guarantees that are made available and used during the course of a fiscal year;”.
 
-    Subsec. (j)(2)(C). [Pub. L. 113–79, § 3101(a)(5)(B)][/us/pl/113/79/s3101/a/5/B], (D)(i), redesignated subpar. (E) as (C) and struck out “, but do not exceed,” after “cover”. Former subpar. (C) redesignated (A).
+    Subsec. (j)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(5)(B), (D)(i), redesignated subpar. (E) as (C) and struck out “, but do not exceed,” after “cover”. Former subpar. (C) redesignated (A).
 
-    Subsec. (j)(2)(D). [Pub. L. 113–79, § 3101(a)(5)(C)][/us/pl/113/79/s3101/a/5/C], (D)(ii), (E), added subpar. (D). Former subpar. (D) redesignated (B).
+    Subsec. (j)(2)(D). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(5)(C), (D)(ii), (E), added subpar. (D). Former subpar. (D) redesignated (B).
 
-    Subsec. (j)(2)(E). [Pub. L. 113–79, § 3101(a)(5)(B)][/us/pl/113/79/s3101/a/5/B], redesignated subpar. (E) as (C).
+    Subsec. (j)(2)(E). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(5)(B), redesignated subpar. (E) as (C).
 
-    Subsec. (k). [Pub. L. 113–79, § 3101(a)(4)][/us/pl/113/79/s3101/a/4], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 113–79][/us/pl/113/79], § 3101(a)(4), redesignated subsec. (k) as (j).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 3101(a)(1)][/us/pl/110/246/s3101/a/1], struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(1), struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
 
-    Subsec. (b). [Pub. L. 110–246, § 3101(a)(2)][/us/pl/110/246/s3101/a/2], (3), redesignated subsec. (d) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subject to the provisions of subsection (c) of this section, the Commodity Credit Corporation may guarantee the repayment of credit made available by financial institutions in the United States to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that are for not less than a 3-year period nor for more than a 10-year period in a manner that will directly benefit United States agricultural producers.”
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subject to the provisions of subsection (c) of this section, the Commodity Credit Corporation may guarantee the repayment of credit made available by financial institutions in the United States to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that are for not less than a 3-year period nor for more than a 10-year period in a manner that will directly benefit United States agricultural producers.”
 
-    Subsec. (b)(4). [Pub. L. 110–246, § 3101(c)(1)][/us/pl/110/246/s3101/c/1], struck out “, consistent with the provisions of subsection (c) of this section” after “appropriate”.
+    Subsec. (b)(4). [Pub. L. 110–246][/us/pl/110/246], § 3101(c)(1), struck out “, consistent with the provisions of subsection (c) of this section” after “appropriate”.
 
-    Subsec. (c). [Pub. L. 110–246, § 3101(a)(2)][/us/pl/110/246/s3101/a/2], (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to requirements for guarantees under former subsec. (b).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to requirements for guarantees under former subsec. (b).
 
-    Subsec. (d). [Pub. L. 110–246, § 3101(c)(2)][/us/pl/110/246/s3101/c/2], struck out par. (1) designation and heading before “The Commodity” and struck out par. (2) which related to criteria for the determination required under this subsec. with respect to credit guarantees under former subsec. (b).
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 3101(c)(2), struck out par. (1) designation and heading before “The Commodity” and struck out par. (2) which related to criteria for the determination required under this subsec. with respect to credit guarantees under former subsec. (b).
 
-    [Pub. L. 110–246, § 3101(a)(3)][/us/pl/110/246/s3101/a/3], redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+    [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(3), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-    Subsecs. (e) to (g). [Pub. L. 110–246, § 3101(a)(3)][/us/pl/110/246/s3101/a/3], redesignated subsecs. (g) to (i) as (e) to (g), respectively. Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
+    Subsecs. (e) to (g). [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(3), redesignated subsecs. (g) to (i) as (e) to (g), respectively. Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
 
-    Subsec. (g)(2). [Pub. L. 110–246, § 3101(c)(3)][/us/pl/110/246/s3101/c/3], substituted “subsection (a)” for “subsections (a) and (b)”.
+    Subsec. (g)(2). [Pub. L. 110–246][/us/pl/110/246], § 3101(c)(3), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-    Subsecs. (h) to (l). [Pub. L. 110–246, § 3101(a)(3)][/us/pl/110/246/s3101/a/3], (4), redesignated subsecs. (j) to (l) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
+    Subsecs. (h) to (l). [Pub. L. 110–246][/us/pl/110/246], § 3101(a)(3), (4), redesignated subsecs. (j) to (l) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
 
-    2002—Subsec. (a)(3). [Pub. L. 107–171, § 3102(a)][/us/pl/107/171/s3102/a], added par. (3).
+    2002—Subsec. (a)(3). [Pub. L. 107–171][/us/pl/107/171], § 3102(a), added par. (3).
 
-    Subsec. (k)(1). [Pub. L. 107–171, § 3102(b)][/us/pl/107/171/s3102/b], substituted “through 2007” for “, 2001, and 2002”.
+    Subsec. (k)(1). [Pub. L. 107–171][/us/pl/107/171], § 3102(b), substituted “through 2007” for “, 2001, and 2002”.
 
-    Subsec. (l). [Pub. L. 107–171, § 3102(c)][/us/pl/107/171/s3102/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 107–171][/us/pl/107/171], § 3102(c), added subsec. (l).
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 243(a)(1)][/us/pl/104/127/s243/a/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (d)(3)(B). [Pub. L. 104–127, § 277(c)(3)][/us/pl/104/127/s277/c/3], substituted “emerging markets” for “emerging democracies”.
+    Subsec. (d)(3)(B). [Pub. L. 104–127][/us/pl/104/127], § 277(c)(3), substituted “emerging markets” for “emerging democracies”.
 
-    Subsec. (f). [Pub. L. 104–127, § 243(a)(2)][/us/pl/104/127/s243/a/2], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (f). [Pub. L. 104–127][/us/pl/104/127], § 243(a)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (h). [Pub. L. 104–127, § 243(a)(3)][/us/pl/104/127/s243/a/3], added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.”
+    Subsec. (h). [Pub. L. 104–127][/us/pl/104/127], § 243(a)(3), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.”
 
-    Subsec. (i). [Pub. L. 104–127, § 243(a)(4)][/us/pl/104/127/s243/a/4], designated existing provisions as par. (1), inserted heading, struck out former par. (1) which read as follows: “is not in a sound financial condition;”, redesignated pars. (2) and (3) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+    Subsec. (i). [Pub. L. 104–127][/us/pl/104/127], § 243(a)(4), designated existing provisions as par. (1), inserted heading, struck out former par. (1) which read as follows: “is not in a sound financial condition;”, redesignated pars. (2) and (3) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-    Subsec. (k). [Pub. L. 104–127, § 243(a)(5)][/us/pl/104/127/s243/a/5], added subsec. (k) and struck out heading and text of former subsec. (k). Text read as follows:
+    Subsec. (k). [Pub. L. 104–127][/us/pl/104/127], § 243(a)(5), added subsec. (k) and struck out heading and text of former subsec. (k). Text read as follows:
 
     “(1) In general.—In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote the export of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
 
     “(2) Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
 
-    1992—Subsecs. (a), (b). [Pub. L. 102–511, § 709(a)(1)][/us/pl/102/511/s709/a/1], inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
+    1992—Subsecs. (a), (b). [Pub. L. 102–511][/us/pl/102/511], § 709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
-    Subsec. (c). [Pub. L. 102–511, § 708(a)][/us/pl/102/511/s708/a], inserted sentence at end.
+    Subsec. (c). [Pub. L. 102–511][/us/pl/102/511], § 708(a), inserted sentence at end.
 
-    Subsec. (d)(3). [Pub. L. 102–511, § 708(b)][/us/pl/102/511/s708/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
+    Subsec. (d)(3). [Pub. L. 102–511][/us/pl/102/511], § 708(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
 
-    Subsec. (k). [Pub. L. 102–511, § 709(a)(2)][/us/pl/102/511/s709/a/2], added subsec. (k).
+    Subsec. (k). [Pub. L. 102–511][/us/pl/102/511], § 709(a)(2), added subsec. (k).
 
     1991—Subsec. (i). [Pub. L. 102–237][/us/pl/102/237] substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
 
@@ -181,13 +181,13 @@
 
  __Regulations__ 
 
-[Pub. L. 104–127, title II, § 243(d)][/us/pl/104/127/s243/d], Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967], provided that: 
+[Pub. L. 104–127, title II][/us/pl/104/127/tII], § 243(d), Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
 
  __Promotion of Agricultural Exports to Emerging Markets__ 
 
-[Pub. L. 101–624, title XV, § 1542][/us/pl/101/624/s1542], Nov. 28, 1990, [104 Stat. 3691][/us/stat/104/3691], as amended by [Pub. L. 102–237, title III, § 338][/us/pl/102/237/s338], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 706][/us/pl/102/511/s706], Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350]; [Pub. L. 103–182, title III, § 321(g)][/us/pl/103/182/s321/g], Dec. 8, 1993, [107 Stat. 2112][/us/stat/107/2112]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 277(a), 278, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977], 979; [Pub. L. 107–171, title III, § 3203][/us/pl/107/171/s3203], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III, § 3204][/us/pl/110/246/s3204], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III, § 3203][/us/pl/113/79/s3203], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779]; [Pub. L. 113–188, title I, § 101(b)][/us/pl/113/188/s101/b], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017], provided that:
+[Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1542, Nov. 28, 1990, [104 Stat. 3691][/us/stat/104/3691], as amended by [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 338, Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 706, Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 321(g), Dec. 8, 1993, [107 Stat. 2112][/us/stat/107/2112]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], §§ 277(a), 278, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977], 979; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3203, May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3204, June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3203, Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779]; [Pub. L. 113–188, title I][/us/pl/113/188/tI], § 101(b), Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017], provided that:
 
 >     “(a)  __Funding__  __.—__ 
 
@@ -350,78 +350,78 @@ Pursuant to the authority vested in me by section 1542(f) of the Food, Agricultu
 ----------
 ----------
 
-[/us/pl/95/501/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs202
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3673
-[/us/pl/102/237/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs334
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1859
-[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3351
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F965
-[/us/pl/107/171/s3102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3102%2Fa
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F289
-[/us/pl/110/246/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1831
-[/us/pl/113/79/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F778
 [/us/pl/95/501/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs202
 [/us/usc/t7/s1707c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707c
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/113/79/s3101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F1
-[/us/pl/113/79/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F2
-[/us/pl/113/79/s3101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F3
-[/us/pl/113/79/s3101/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F5%2FA
-[/us/pl/113/79/s3101/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F5%2FB
-[/us/pl/113/79/s3101/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F5%2FC
-[/us/pl/113/79/s3101/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F5%2FB
-[/us/pl/113/79/s3101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fa%2F4
-[/us/pl/110/246/s3101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F1
-[/us/pl/110/246/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F2
-[/us/pl/110/246/s3101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fc%2F1
-[/us/pl/110/246/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F2
-[/us/pl/110/246/s3101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fc%2F2
-[/us/pl/110/246/s3101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F3
-[/us/pl/110/246/s3101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F3
-[/us/pl/110/246/s3101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fc%2F3
-[/us/pl/110/246/s3101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fa%2F3
-[/us/pl/107/171/s3102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3102%2Fa
-[/us/pl/107/171/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3102%2Fb
-[/us/pl/107/171/s3102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3102%2Fc
-[/us/pl/104/127/s243/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fa%2F1
-[/us/pl/104/127/s277/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fc%2F3
-[/us/pl/104/127/s243/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fa%2F2
-[/us/pl/104/127/s243/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fa%2F3
-[/us/pl/104/127/s243/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fa%2F4
-[/us/pl/104/127/s243/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fa%2F5
-[/us/pl/102/511/s709/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs709%2Fa%2F1
-[/us/pl/102/511/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs708%2Fa
-[/us/pl/102/511/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs708%2Fb
-[/us/pl/102/511/s709/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs709%2Fa%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/104/127/s243/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fd
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F967
-[/us/pl/101/624/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1542
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3691
-[/us/pl/102/237/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs338
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1859
-[/us/pl/102/511/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs706
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3350
-[/us/pl/103/182/s321/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321%2Fg
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2112
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F977
-[/us/pl/107/171/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3203
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F300
-[/us/pl/110/246/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3204
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1837
-[/us/pl/113/79/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3203
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
-[/us/pl/113/188/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fb
+[/us/pl/113/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtI
 [/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/usc/t7/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5621
 [/us/usc/t7/s5641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5641

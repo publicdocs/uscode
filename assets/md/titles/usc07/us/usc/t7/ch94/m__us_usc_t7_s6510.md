@@ -37,11 +37,11 @@
 
         For a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
 
-([Pub. L. 101–624, title XXI, § 2111][/us/pl/101/624/s2111], Nov. 28, 1990, [104 Stat. 3941][/us/stat/104/3941]; [Pub. L. 102–237, title X, § 1001(3)][/us/pl/102/237/s1001/3], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 748\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–41; [Pub. L. 109–97, title VII, § 797(a)][/us/pl/109/97/s797/a], Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2111, Nov. 28, 1990, [104 Stat. 3941][/us/stat/104/3941]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(3), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 748\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–41; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 797(a), Nov. 10, 2005, [119 Stat. 2165][/us/stat/119/2165].)
 
  __References in Text__ 
 
-    The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/101/624/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2111
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3941
-[/us/pl/102/237/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F3
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/109/97/s797/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs797%2Fa
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2165
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97

@@ -27,7 +27,7 @@
 
         The failure of an exporter, seller or other person to comply with the provisions of this section shall not affect the validity of any credit guarantee or other obligation of the Commodity Credit Corporation under the programs under this chapter with respect to any exporter, seller, or person who had no knowledge of such failure to comply at the time such exporter, seller, or person was assigned the credit guarantee or at the time the Corporation entered into such obligation.
 
-([Pub. L. 95–501, title IV, § 401][/us/pl/95/501/s401], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; amended [Pub. L. 104–127, title II, § 246][/us/pl/104/127/s246], Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969]; [Pub. L. 110–246, title III, § 3103(b)(4)][/us/pl/110/246/s3103/b/4], June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; amended [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 246, Apr. 4, 1996, [110 Stat. 969][/us/stat/110/969]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3103(b)(4), June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
 
  __Prior Provisions__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 3103(b)(4)(A)][/us/pl/110/246/s3103/b/4/A], substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 3103(b)(4)(A), substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
 
-    Subsec. (b). [Pub. L. 110–246, § 3103(b)(4)(B)][/us/pl/110/246/s3103/b/4/B], substituted “sections 5621 and 5622” for “sections 5621, 5622, and 5651”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 3103(b)(4)(B), substituted “sections 5621 and 5622” for “sections 5621, 5622, and 5651”.
 
     1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127] added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/95/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3680
-[/us/pl/104/127/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs246
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F969
-[/us/pl/110/246/s3103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F4
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1832
 [/us/pl/95/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401
 [/us/usc/t7/s1766b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1766b
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/110/246/s3103/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F4%2FA
-[/us/pl/110/246/s3103/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3103%2Fb%2F4%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

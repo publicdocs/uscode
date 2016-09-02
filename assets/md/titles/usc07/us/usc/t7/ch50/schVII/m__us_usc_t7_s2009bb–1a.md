@@ -43,7 +43,7 @@
 
         (6) conservation land management.
 
-([Pub. L. 87–128, title III, § 383C][/us/pl/87/128/s383C], as added [Pub. L. 110–234, title VI, § 6026(c)(1)(B)][/us/pl/110/234/s6026/c/1/B], May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 383C, as added [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6026(c)(1)(B), May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6026(c)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940.)
 
  __Codification__ 
 
@@ -64,10 +64,10 @@
 ----------
 ----------
 
-[/us/pl/87/128/s383C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383C
-[/us/pl/110/234/s6026/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6026%2Fc%2F1%2FB
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

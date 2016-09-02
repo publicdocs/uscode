@@ -31,7 +31,7 @@
 
     (c) Anyone whose business is damaged or is likely to be damaged by an act prohibited in subsection (a) of this section, or is subjected to competition in connection with which such act is performed, may have remedy by civil action.
 
-([Pub. L. 91–577, title III, § 128][/us/pl/91/577/s128], Dec. 24, 1970, [84 Stat. 1557][/us/stat/84/1557]; [Pub. L. 96–574, § 19(c)][/us/pl/96/574/s19/c], Dec. 22, 1980, [94 Stat. 3352][/us/stat/94/3352]; [Pub. L. 103–349][/us/pl/103/349], §§ 12, 13(v), Oct. 6, 1994, [108 Stat. 3142][/us/stat/108/3142], 3144.)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 128, Dec. 24, 1970, [84 Stat. 1557][/us/stat/84/1557]; [Pub. L. 96–574][/us/pl/96/574], § 19(c), Dec. 22, 1980, [94 Stat. 3352][/us/stat/94/3352]; [Pub. L. 103–349][/us/pl/103/349], §§ 12, 13(v), Oct. 6, 1994, [108 Stat. 3142][/us/stat/108/3142], 3144.)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t7/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2461
-[/us/pl/91/577/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs128
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1557
-[/us/pl/96/574/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs19%2Fc
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3352
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3142

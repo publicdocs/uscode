@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Aug. 31, 1922, ch. 301, § 5][/us/act/1922-08-31/ch301/s5], as added [Pub. L. 94–319, § 3][/us/pl/94/319/s3], June 25, 1976, [90 Stat. 710][/us/stat/90/710].)
+([Aug. 31, 1922, ch. 301][/us/act/1922-08-31/ch301], § 5, as added [Pub. L. 94–319][/us/pl/94/319], § 3, June 25, 1976, [90 Stat. 710][/us/stat/90/710].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1922-08-31/ch301/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301%2Fs5
-[/us/pl/94/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319%2Fs3
+[/us/act/1922-08-31/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-08-31%2Fch301
+[/us/pl/94/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F319
 [/us/stat/90/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F710
 
 

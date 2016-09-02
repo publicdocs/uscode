@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall be the principal official in the executive branch responsible for coordinating all Federal research and extension activities related to food and agricultural sciences.
 
-([Pub. L. 105–185, title VI, § 613][/us/pl/105/185/s613], June 23, 1998, [112 Stat. 605][/us/stat/112/605].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 613, June 23, 1998, [112 Stat. 605][/us/stat/112/605].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/185/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs613
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F605
 
 

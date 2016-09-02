@@ -289,7 +289,7 @@ Part C—Swine Reporting  </td>
 
   <tr>
 
-    <td> § <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635k" data-uslm-ref="/us/usc/t7/s1635k">1635k.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635k" data-uslm-ref="/us/usc/t7/s1635k">1635k.</a>  </td>
 
     <td> Mandatory reporting of wholesale pork cuts.  </td>
 

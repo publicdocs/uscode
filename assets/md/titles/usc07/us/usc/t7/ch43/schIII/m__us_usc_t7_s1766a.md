@@ -17,7 +17,7 @@
 
     The President shall prescribe regulations to insure that the official activities of persons assigned abroad under this chapter are carried on (1) consonant with United States foreign policy objectives as defined by the Secretary of State; (2) in accordance with instructions of the Secretary of Agriculture with respect to agricultural matters; and (3) in coordination with other representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 606B, formerly § 602(d), [68 Stat. 909][/us/stat/68/909]; renumbered [Pub. L. 95–501, title IV, § 401(3)][/us/pl/95/501/s401/3], Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 606B, formerly § 602(d), [68 Stat. 909][/us/stat/68/909]; renumbered [Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401(3), Oct. 21, 1978, [92 Stat. 1691][/us/stat/92/1691].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F909
-[/us/pl/95/501/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F3
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
 [/us/stat/92/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1691
 [/us/usc/t7/s1762/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1762%2Fd
 [/us/pl/95/501/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F3

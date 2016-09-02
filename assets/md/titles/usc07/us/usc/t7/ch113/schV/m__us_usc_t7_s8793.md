@@ -17,7 +17,7 @@
 
     The Secretary shall make available to the Farm Service Agency to carry out this chapter $50,000,000.
 
-([Pub. L. 110–234, title I, § 1622][/us/pl/110/234/s1622], May 22, 2008, [122 Stat. 1025][/us/stat/122/1025]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1622, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1622, May 22, 2008, [122 Stat. 1025][/us/stat/122/1025]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1622, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753.)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1622
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1025
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664

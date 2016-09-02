@@ -17,7 +17,7 @@
 
     There is hereby made available from the funds provided by [section 612c of this title][/us/usc/t7/s612c] such sums as are necessary to carry out the provisions of this chapter: Provided, That no such sum shall be used for the payment of any expenses or expenditures of the board in administering any provision of any plan issued under authority of this chapter.
 
-([Pub. L. 91–670, title III, § 318][/us/pl/91/670/s318], Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 318, Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/91/670/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs318
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2047
 
 

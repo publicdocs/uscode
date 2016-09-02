@@ -129,7 +129,7 @@
 
         To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 203, [60 Stat. 1087][/us/stat/60/1087]; [Aug. 9, 1955, ch. 632, § 1][/us/act/1955-08-09/ch632/s1], [69 Stat. 553][/us/stat/69/553]; [Pub. L. 95–113, title II, § 206][/us/pl/95/113/s206], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–31, § 12(2)][/us/pl/97/31/s12/2], Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 98–403, § 2][/us/pl/98/403/s2], Aug. 28, 1984, [98 Stat. 1480][/us/stat/98/1480]; [Pub. L. 98–443, § 9(j)][/us/pl/98/443/s9/j], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 755(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–34; [Pub. L. 106–472, title III, § 303][/us/pl/106/472/s303], Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069]; [Pub. L. 110–234, title X, § 10402(a)][/us/pl/110/234/s10402/a], title XI, § 11016(a), May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], 1368; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10402(a), title XI, § 11016(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2110, 2130; [Pub. L. 113–79, title VI, § 6202][/us/pl/113/79/s6202], title XII, § 12106(a)(4), Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856], 981.)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 203, [60 Stat. 1087][/us/stat/60/1087]; [Aug. 9, 1955, ch. 632][/us/act/1955-08-09/ch632], § 1, [69 Stat. 553][/us/stat/69/553]; [Pub. L. 95–113, title II][/us/pl/95/113/tII], § 206, Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–31][/us/pl/97/31], § 12(2), Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 98–403][/us/pl/98/403], § 2, Aug. 28, 1984, [98 Stat. 1480][/us/stat/98/1480]; [Pub. L. 98–443][/us/pl/98/443], § 9(j), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 755(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–34; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 303, Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10402(a), title XI, § 11016(a), May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], 1368; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10402(a), title XI, § 11016(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2110, 2130; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6202, title XII, § 12106(a)(4), Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856], 981.)
 
  __References in Text__ 
 
@@ -141,13 +141,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (j). [Pub. L. 113–79, § 6202][/us/pl/113/79/s6202], substituted “the Surface Transportation Board, the Federal Maritime Commission,” for “the Interstate Commerce Commission, the Maritime Commission,,”.
+    2014—Subsec. (j). [Pub. L. 113–79][/us/pl/113/79], § 6202, substituted “the Surface Transportation Board, the Federal Maritime Commission,” for “the Interstate Commerce Commission, the Maritime Commission,,”.
 
-    Subsec. (n)(1). [Pub. L. 113–79, § 12106(a)(4)][/us/pl/113/79/s12106/a/4], added par. (1) and struck out former par. (1) which read as follows: “catfish (as defined by the Secretary under paragraph (2) of [section 601(w) of title 21][/us/usc/t21/s601/w]); and”.
+    Subsec. (n)(1). [Pub. L. 113–79][/us/pl/113/79], § 12106(a)(4), added par. (1) and struck out former par. (1) which read as follows: “catfish (as defined by the Secretary under paragraph (2) of [section 601(w) of title 21][/us/usc/t21/s601/w]); and”.
 
-    2008—Subsec. (h). [Pub. L. 110–246, § 10402(a)][/us/pl/110/246/s10402/a], designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
+    2008—Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
 
-    Subsecs. (n), (o). [Pub. L. 110–246, § 11016(a)][/us/pl/110/246/s11016/a], added subsec. (n) and redesignated former subsec. (n) as (o).
+    Subsecs. (n), (o). [Pub. L. 110–246][/us/pl/110/246], § 11016(a), added subsec. (n) and redesignated former subsec. (n) as (o).
 
     2000—Subsec. (e). [Pub. L. 106–472][/us/pl/106/472] inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -171,7 +171,7 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
 
-[Pub. L. 110–234, title X, § 10402(b)][/us/pl/110/234/s10402/b], May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10402(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2111, provided that: 
+[Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10402(b), May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10402(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2111, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
@@ -197,7 +197,7 @@
 
  __Agricultural Processing Equipment; Inspection and Certification; Fee__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 729\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–33, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 729\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–33, provided that: 
 
 > “Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
 
@@ -207,17 +207,17 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–78, title VII, § 734][/us/pl/106/78/s734], Oct. 22, 1999, [113 Stat. 1165][/us/stat/113/1165].
+    [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 734, Oct. 22, 1999, [113 Stat. 1165][/us/stat/113/1165].
 
-    [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 747\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32, as amended by [Pub. L. 106–31, title V, § 5001(c)][/us/pl/106/31/s5001/c], May 21, 1999, [113 Stat. 109][/us/stat/113/109].
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 747\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32, as amended by [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5001(c), May 21, 1999, [113 Stat. 109][/us/stat/113/109].
 
  __Collection and Dissemination of Information on Prices Received for Bulk Cheese__ 
 
-    [Pub. L. 105–18, title II, § 1001][/us/pl/105/18/s1001], June 12, 1997, [111 Stat. 172][/us/stat/111/172], provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
+    [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 1001, June 12, 1997, [111 Stat. 172][/us/stat/111/172], provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
 
  __Lamb Price and Supply Reporting Services Report and System__ 
 
-[Pub. L. 102–237, title I, § 124][/us/pl/102/237/s124], Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844], provided that:
+[Pub. L. 102–237, title I][/us/pl/102/237/tI], § 124, Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -271,7 +271,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Research To Investigate Extent to Which Grade Standards Governing Cosmetic Appearance Affect Pesticide Use in Production of Perishable Commodities; Advisory Committee; Report__ 
 
-[Pub. L. 101–624, title XIII][/us/pl/101/624], subtitle C, Nov. 28, 1990, [104 Stat. 3566][/us/stat/104/3566], as amended by [Pub. L. 102–237, title I, § 114(a)(3)][/us/pl/102/237/s114/a/3], Dec. 13, 1991, [105 Stat. 1838][/us/stat/105/1838], provided that:
+[Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], subtitle C, Nov. 28, 1990, [104 Stat. 3566][/us/stat/104/3566], as amended by [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 114(a)(3), Dec. 13, 1991, [105 Stat. 1838][/us/stat/105/1838], provided that:
 
 > “SEC. 1351. __DEFINITION.__ 
 
@@ -366,25 +366,25 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
-[/us/act/1955-08-09/ch632/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch632%2Fs1
+[/us/act/1955-08-09/ch632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch632
 [/us/stat/69/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F553
-[/us/pl/95/113/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs206
+[/us/pl/95/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtII
 [/us/stat/91/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F920
-[/us/pl/97/31/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F2
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F153
-[/us/pl/98/403/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F403%2Fs2
+[/us/pl/98/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F403
 [/us/stat/98/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1480
-[/us/pl/98/443/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fj
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/472/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs303
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2069
-[/us/pl/110/234/s10402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10402%2Fa
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1349
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6202
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F856
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1082
@@ -393,11 +393,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6202
-[/us/pl/113/79/s12106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fa%2F4
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t21/s601/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fw
-[/us/pl/110/246/s10402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10402%2Fa
-[/us/pl/110/246/s11016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/98/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F403
@@ -413,9 +413,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s10402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10402%2Fb
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1349
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -437,26 +437,26 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/75/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F840
 [/us/stat/64/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1273
 [/us/stat/63/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1069
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t7/s1622/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622%2Ff
 [/us/usc/t7/s1622/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622%2Fh
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
 [/us/usc/t21/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1031
-[/us/pl/106/78/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs734
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1165
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/31/s5001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5001%2Fc
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F109
-[/us/pl/105/18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs1001
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F172
-[/us/pl/102/237/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs124
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1844
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3566
-[/us/pl/102/237/s114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs114%2Fa%2F3
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1838
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621

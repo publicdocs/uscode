@@ -49,7 +49,7 @@
 
         The site of any hearing held under section 7467 or 7468 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
 
-([Pub. L. 104–127, title V, § 560][/us/pl/104/127/s560], Apr. 4, 1996, [110 Stat. 1072][/us/stat/110/1072].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 560, Apr. 4, 1996, [110 Stat. 1072][/us/stat/110/1072].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs560
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1072
 
 

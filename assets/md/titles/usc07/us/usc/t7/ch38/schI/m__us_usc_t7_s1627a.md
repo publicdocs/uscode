@@ -39,7 +39,7 @@
 
         Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,500,000 for fiscal year 2014, to remain available until expended.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 209, as added [Pub. L. 113–79, title XII, § 12102(a)][/us/pl/113/79/s12102/a], Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 209, as added [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12102(a), Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/113/79/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12102%2Fa
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F978
 
 

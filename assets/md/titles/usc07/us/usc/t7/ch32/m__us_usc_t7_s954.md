@@ -17,7 +17,7 @@
 
     The Secretary is authorized to establish and promulgate grades and standards for the classification of peanuts, whenever in his discretion he may see fit.
 
-([June 24, 1936, ch. 745, § 4][/us/act/1936-06-24/ch745/s4], [49 Stat. 1899][/us/stat/49/1899].)
+([June 24, 1936, ch. 745][/us/act/1936-06-24/ch745], § 4, [49 Stat. 1899][/us/stat/49/1899].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-24/ch745/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745%2Fs4
+[/us/act/1936-06-24/ch745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745
 [/us/stat/49/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1899
 
 

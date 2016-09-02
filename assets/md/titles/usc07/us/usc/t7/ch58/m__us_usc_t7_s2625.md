@@ -17,11 +17,11 @@
 
     The provisions of this chapter applicable to plans shall be applicable to amendments to plans.
 
-([Pub. L. 91–670, title III, § 316][/us/pl/91/670/s316], Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 316, Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047].)
 
  __Amendment Procedure__ 
 
-[Pub. L. 101–624, title XIX, § 1946][/us/pl/101/624/s1946], Nov. 28, 1990, [104 Stat. 3869][/us/stat/104/3869], provided that:
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1946, Nov. 28, 1990, [104 Stat. 3869][/us/stat/104/3869], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/91/670/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs316
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2047
-[/us/pl/101/624/s1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1946
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3869
 [/us/usc/t7/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2611
 [/us/usc/t7/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2611

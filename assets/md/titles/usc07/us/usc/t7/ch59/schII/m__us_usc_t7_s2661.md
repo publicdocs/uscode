@@ -57,11 +57,11 @@
 
             (D) developing and disseminating better information about rural conditions.
 
-([Pub. L. 92–419, title V, § 501][/us/pl/92/419/s501], as added [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1322][/us/stat/95/1322].)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 501, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1322][/us/stat/95/1322].)
 
  __Prior Provisions__ 
 
-    A prior section 2661, [Pub. L. 92–419, title V, § 501][/us/pl/92/419/s501], Aug. 30, 1972, [86 Stat. 671][/us/stat/86/671], stated Congressional statement of purposes, prior to repeal by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
+    A prior section 2661, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 501, Aug. 30, 1972, [86 Stat. 671][/us/stat/86/671], stated Congressional statement of purposes, prior to repeal by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
 
  __Effective Date__ 
 
@@ -69,19 +69,19 @@
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XXIII, § 2390(a)][/us/pl/101/624/s2390/a], Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], provided that: 
+[Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2390(a), Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], provided that: 
 
 > “This section \[amending sections 2662 and 2663 of this title\] may be cited as the ‘Rural Health and Safety Education Act of 1990’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–219, § 1][/us/pl/100/219/s1], Dec. 29, 1987, [101 Stat. 1456][/us/stat/101/1456], provided that: 
+[Pub. L. 100–219][/us/pl/100/219], § 1, Dec. 29, 1987, [101 Stat. 1456][/us/stat/101/1456], provided that: 
 
 > “This Act \[amending [section 2662 of this title][/us/usc/t7/s2662]\] may be cited as the ‘Rural Crisis Recovery Program Act of 1987’.”
 
  __Northern Great Plains Rural Development__ 
 
-    [Pub. L. 103–318][/us/pl/103/318], Aug. 26, 1994, [108 Stat. 1781][/us/stat/108/1781], as amended by [Pub. L. 104–327, § 2][/us/pl/104/327/s2], Oct. 19, 1996, [110 Stat. 4003][/us/stat/110/4003], established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
+    [Pub. L. 103–318][/us/pl/103/318], Aug. 26, 1994, [108 Stat. 1781][/us/stat/108/1781], as amended by [Pub. L. 104–327][/us/pl/104/327], § 2, Oct. 19, 1996, [110 Stat. 4003][/us/stat/110/4003], established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
 
 ----------
 
@@ -90,23 +90,23 @@
 ----------
 ----------
 
-[/us/pl/92/419/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs501
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1322
-[/us/pl/92/419/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs501
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F671
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/101/624/s2390/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2390%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4055
-[/us/pl/100/219/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F219%2Fs1
+[/us/pl/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F219
 [/us/stat/101/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1456
 [/us/usc/t7/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662
 [/us/pl/103/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F318
 [/us/stat/108/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1781
-[/us/pl/104/327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F327%2Fs2
+[/us/pl/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F327
 [/us/stat/110/4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4003
 
 

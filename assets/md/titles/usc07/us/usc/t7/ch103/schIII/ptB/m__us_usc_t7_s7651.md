@@ -27,7 +27,7 @@
 
         (2) the timing for updating the data.
 
-([Pub. L. 105–185, title VI, § 611][/us/pl/105/185/s611], June 23, 1998, [112 Stat. 605][/us/stat/112/605].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 611, June 23, 1998, [112 Stat. 605][/us/stat/112/605].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/185/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs611
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F605
 
 

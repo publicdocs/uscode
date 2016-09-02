@@ -31,7 +31,7 @@
 
         The Secretary may issue certificates of accreditation to laboratories that are limited to specific fields of testing.
 
-([Pub. L. 101–624, title XIII, § 1323][/us/pl/101/624/s1323], Nov. 28, 1990, [104 Stat. 3563][/us/stat/104/3563].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1323, Nov. 28, 1990, [104 Stat. 3563][/us/stat/104/3563].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s138a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs138a
-[/us/pl/101/624/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1323
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3563
 
 

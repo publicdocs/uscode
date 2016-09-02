@@ -49,7 +49,7 @@
 
         There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 91–524, title VIII, § 813][/us/pl/91/524/s813], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 239][/us/stat/87/239]; amended [Pub. L. 95–113, title XI, § 1103][/us/pl/95/113/s1103], Sept. 29, 1977, [91 Stat. 953][/us/stat/91/953]; [Pub. L. 97–98, title X, § 1003][/us/pl/97/98/s1003], Dec. 22, 1981, [95 Stat. 1260][/us/stat/95/1260]; [Pub. L. 100–707, title I, § 109(b)][/us/pl/100/707/s109/b], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 103–337, div. C, title XXXIV, § 3412(b)(3)][/us/pl/103/337/s3412/b/3], Oct. 5, 1994, [108 Stat. 3111][/us/stat/108/3111].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 813, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 239][/us/stat/87/239]; amended [Pub. L. 95–113, title XI][/us/pl/95/113/tXI], § 1103, Sept. 29, 1977, [91 Stat. 953][/us/stat/91/953]; [Pub. L. 97–98, title X][/us/pl/97/98/tX], § 1003, Dec. 22, 1981, [95 Stat. 1260][/us/stat/95/1260]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(b), Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3412(b)(3), Oct. 5, 1994, [108 Stat. 3111][/us/stat/108/3111].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
     Act of September 21, 1959, referred to in subsec. (d), is [Pub. L. 86–299][/us/pl/86/299], Sept. 21, 1959, [73 Stat. 574][/us/stat/73/574], as amended, which is set out as a note under [section 1427 of this title][/us/usc/t7/s1427].
 
-    [Section 2267 of this title][/us/usc/t7/s2267], referred to in subsec. (d), was repealed by [Pub. L. 100–387, title I, § 101(b)(1)][/us/pl/100/387/s101/b/1], Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931].
+    [Section 2267 of this title][/us/usc/t7/s2267], referred to in subsec. (d), was repealed by [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(b)(1), Aug. 11, 1988, [102 Stat. 931][/us/stat/102/931].
 
  __Codification__ 
 
@@ -75,9 +75,9 @@
 
     Subsec. (b). [Pub. L. 97–98][/us/pl/97/98] substituted “Secretary may acquire such commodities” for “Secretary shall acquire such commodities”.
 
-    1977—Subsec. (b). [Pub. L. 95–113, § 1103(a)][/us/pl/95/113/s1103/a], inserted provisions authorizing Secretary to act if it is determined that no wheat, feed grains, or soybeans are available through the price support program at locations where they can be economically utilized to alleviate distress caused by a natural disaster.
+    1977—Subsec. (b). [Pub. L. 95–113][/us/pl/95/113], § 1103(a), inserted provisions authorizing Secretary to act if it is determined that no wheat, feed grains, or soybeans are available through the price support program at locations where they can be economically utilized to alleviate distress caused by a natural disaster.
 
-    Subsec. (d). [Pub. L. 95–113, § 1103(b)][/us/pl/95/113/s1103/b], substituted “(A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief Act of 1974, and (C) in connection with any emergency determined by the Secretary to warrant assistance under [section 1427 of this title][/us/usc/t7/s1427], the Act of September 21, 1959, or [section 2267 of this title][/us/usc/t7/s2267]” for “(a) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands and (b) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under Public Law 875, Eighty-first Congress, as amended”.
+    Subsec. (d). [Pub. L. 95–113][/us/pl/95/113], § 1103(b), substituted “(A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief Act of 1974, and (C) in connection with any emergency determined by the Secretary to warrant assistance under [section 1427 of this title][/us/usc/t7/s1427], the Act of September 21, 1959, or [section 2267 of this title][/us/usc/t7/s2267]” for “(a) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands and (b) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under Public Law 875, Eighty-first Congress, as amended”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Commodity Credit Corporation Fund; Disaster Reserve Assistance Program__ 
 
-[Pub. L. 105–18, title II][/us/pl/105/18], June 12, 1997, [111 Stat. 170][/us/stat/111/170], provided in part: 
+[Pub. L. 105–18, title II][/us/pl/105/18/tII], June 12, 1997, [111 Stat. 170][/us/stat/111/170], provided in part: 
 
 > “That notwithstanding any other provision of law, beginning on October 1, 1997, grain in the disaster reserve established in the Agricultural Act of 1970 \[see Short Title of 1970 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281]\] shall not exceed 20 million bushels”.
 
@@ -106,16 +106,16 @@
 [/us/stat/73/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F574
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/91/524/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs813
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F239
-[/us/pl/95/113/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1103
+[/us/pl/95/113/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXI
 [/us/stat/91/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F953
-[/us/pl/97/98/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1003
+[/us/pl/97/98/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtX
 [/us/stat/95/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1260
-[/us/pl/100/707/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fb
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
-[/us/pl/103/337/s3412/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fb%2F3
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3111
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358
@@ -127,15 +127,15 @@
 [/us/stat/73/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F574
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/usc/t7/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2267
-[/us/pl/100/387/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fb%2F1
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F931
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
-[/us/pl/95/113/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1103%2Fa
-[/us/pl/95/113/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1103%2Fb
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/usc/t7/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2267
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -144,7 +144,7 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F170
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 

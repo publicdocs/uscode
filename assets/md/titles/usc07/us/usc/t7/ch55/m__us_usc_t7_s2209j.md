@@ -29,7 +29,7 @@
 
             A debarment under subsection (a) shall not apply with respect to participation in domestic food assistance programs (as defined by the Secretary).
 
-([Pub. L. 110–234, title XIV, § 14211][/us/pl/110/234/s14211], May 22, 2008, [122 Stat. 1464][/us/stat/122/1464]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14211, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14211, May 22, 2008, [122 Stat. 1464][/us/stat/122/1464]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14211, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2226.)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14211
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1464
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

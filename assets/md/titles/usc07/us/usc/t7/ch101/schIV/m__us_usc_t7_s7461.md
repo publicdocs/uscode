@@ -43,7 +43,7 @@
 
         (3) to treat domestically produced kiwifruit and imported kiwifruit equitably.
 
-([Pub. L. 104–127, title V, § 552][/us/pl/104/127/s552], Apr. 4, 1996, [110 Stat. 1064][/us/stat/110/1064].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 552, Apr. 4, 1996, [110 Stat. 1064][/us/stat/110/1064].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs552
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1064
 
 

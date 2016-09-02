@@ -61,7 +61,7 @@
 
             (C) qualifies as a nonprofit organization under [section 501(c) of title 26][/us/usc/t26/s501/c].
 
-([Pub. L. 101–624, title XVI, § 1619][/us/pl/101/624/s1619], Nov. 28, 1990, [104 Stat. 3733][/us/stat/104/3733]; [Pub. L. 102–237, title IV, § 407(2)][/us/pl/102/237/s407/2], Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864]; [Pub. L. 104–127, title VIII, § 860(c)(1)][/us/pl/104/127/s860/c/1], Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII, § 7101(b)(5)][/us/pl/110/234/s7101/b/5], May 22, 2008, [122 Stat. 1213][/us/stat/122/1213]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7101(b)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1619, Nov. 28, 1990, [104 Stat. 3733][/us/stat/104/3733]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 407(2), Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 860(c)(1), Apr. 4, 1996, [110 Stat. 1173][/us/stat/110/1173]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7101(b)(5), May 22, 2008, [122 Stat. 1213][/us/stat/122/1213]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7101(b)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975.)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–246, § 7101(b)(5)(A)][/us/pl/110/246/s7101/b/5/A], substituted “section 3103” for “section 3103(17)”.
+    2008—Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 7101(b)(5)(A), substituted “section 3103” for “section 3103(17)”.
 
-    Subsec. (b)(5). [Pub. L. 110–246, § 7101(b)(5)(B)][/us/pl/110/246/s7101/b/5/B], substituted “section 3103” for “section 3103(7)”.
+    Subsec. (b)(5). [Pub. L. 110–246][/us/pl/110/246], § 7101(b)(5)(B), substituted “section 3103” for “section 3103(7)”.
 
-    Subsec. (b)(8). [Pub. L. 110–246, § 7101(b)(5)(C)][/us/pl/110/246/s7101/b/5/C], substituted “section 3103” for “section 3103(13)”.
+    Subsec. (b)(8). [Pub. L. 110–246][/us/pl/110/246], § 7101(b)(5)(C), substituted “section 3103” for “section 3103(13)”.
 
     1996—Subsec. (b)(7) to (10). [Pub. L. 104–127][/us/pl/104/127] redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “The term ‘Advisory Council’ means the National Sustainable Agriculture Advisory Council established under [section 5812(c) of this title][/us/usc/t7/s5812/c].”
 
@@ -102,15 +102,15 @@
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
-[/us/pl/101/624/s1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1619
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3733
-[/us/pl/102/237/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F2
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1864
-[/us/pl/104/127/s860/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs860%2Fc%2F1
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1173
-[/us/pl/110/234/s7101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7101%2Fb%2F5
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1213
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3733
@@ -119,9 +119,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7101/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F5%2FA
-[/us/pl/110/246/s7101/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F5%2FB
-[/us/pl/110/246/s7101/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F5%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s5812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5812%2Fc
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

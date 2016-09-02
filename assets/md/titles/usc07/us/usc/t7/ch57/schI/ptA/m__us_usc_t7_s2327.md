@@ -33,7 +33,7 @@
 
         The members of the Plant Variety Protection Board shall serve without compensation except for standard government reimbursable expenses.
 
-([Pub. L. 91–577, title I, § 7][/us/pl/91/577/s7], Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 103–349, § 13(a)][/us/pl/103/349/s13/a], Oct. 6, 1994, [108 Stat. 3142][/us/stat/108/3142].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 7, Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 103–349][/us/pl/103/349], § 13(a), Oct. 6, 1994, [108 Stat. 3142][/us/stat/108/3142].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t7/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2404
-[/us/pl/91/577/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs7
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1543
-[/us/pl/103/349/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fa
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3142
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349

@@ -57,7 +57,7 @@
 
         The term “United States”, when used in the geographic sense, means the several States, the District of Colombia, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Columbia,”. </sup></sup>  American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the United States Virgin Islands, any other possession of the United States, and any waters within the jurisdiction of the United States.
 
-([Pub. L. 108–384, § 2][/us/pl/108/384/s2], Oct. 30, 2004, [118 Stat. 2221][/us/stat/118/2221].)
+([Pub. L. 108–384][/us/pl/108/384], § 2, Oct. 30, 2004, [118 Stat. 2221][/us/stat/118/2221].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–384, § 1][/us/pl/108/384/s1], Oct. 30, 2004, [118 Stat. 2221][/us/stat/118/2221], provided that: 
+[Pub. L. 108–384][/us/pl/108/384], § 1, Oct. 30, 2004, [118 Stat. 2221][/us/stat/118/2221], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Brown Tree Snake Control and Eradication Act of 2004’.”
 
@@ -85,7 +85,7 @@
 [/us/stat/100/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3673
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 [/us/usc/t16/s4728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4728
-[/us/pl/108/384/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs2
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2221
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
@@ -94,7 +94,7 @@
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/stat/100/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3672
-[/us/pl/108/384/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384%2Fs1
+[/us/pl/108/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F384
 [/us/stat/118/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2221
 
 

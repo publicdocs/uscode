@@ -27,7 +27,7 @@
 
     (5) to provide for increased representation of United States agricultural trade interests in the formulation of national fiscal and monetary policy affecting trade.
 
-([Pub. L. 100–418, title IV, § 4102][/us/pl/100/418/s4102], Aug. 23, 1988, [102 Stat. 1390][/us/stat/102/1390].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4102, Aug. 23, 1988, [102 Stat. 1390][/us/stat/102/1390].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t19/s2901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901%2Fb
-[/us/pl/100/418/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4102
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1390
 
 

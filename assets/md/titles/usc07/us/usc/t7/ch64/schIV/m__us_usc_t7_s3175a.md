@@ -17,7 +17,7 @@
 
     Congress finds that individuals in households eligible to participate in programs under the Food Stamp Act of 1977 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\] and other low-income individuals, including those residing in rural areas, should have greater access to nutrition and consumer education to enable them to use their food budgets, including food assistance, effectively and to select and prepare foods that satisfy their nutritional needs and improve their diets.
 
-([Pub. L. 99–198, title XV, § 1584][/us/pl/99/198/s1584], Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596].)
+([Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1584, Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/99/198/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1584
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1596
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703

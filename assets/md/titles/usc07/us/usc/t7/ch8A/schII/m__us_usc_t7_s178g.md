@@ -37,7 +37,7 @@
 
     (j) cooperate with other Federal departments and agencies, with State and local departments, agencies, and instrumentalities, and with interested persons, firms, institutions, and organizations.
 
-([Pub. L. 95–592, § 9][/us/pl/95/592/s9], Nov. 4, 1978, [92 Stat. 2532][/us/stat/92/2532]; [Pub. L. 98–284, § 9][/us/pl/98/284/s9], May 16, 1984, [98 Stat. 183][/us/stat/98/183].)
+([Pub. L. 95–592][/us/pl/95/592], § 9, Nov. 4, 1978, [92 Stat. 2532][/us/stat/92/2532]; [Pub. L. 98–284][/us/pl/98/284], § 9, May 16, 1984, [98 Stat. 183][/us/stat/98/183].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    1984—Cl. (h). [Pub. L. 98–284, § 9(1)][/us/pl/98/284/s9/1], inserted “or the culture of other native agricultural crops which could supply critical agricultural materials”.
+    1984—Cl. (h). [Pub. L. 98–284][/us/pl/98/284], § 9(1), inserted “or the culture of other native agricultural crops which could supply critical agricultural materials”.
 
-    Cl. (i). [Pub. L. 98–284, § 9(2)][/us/pl/98/284/s9/2], inserted “or the technology of other native agricultural crops which could supply critical agricultural materials”.
+    Cl. (i). [Pub. L. 98–284][/us/pl/98/284], § 9(2), inserted “or the technology of other native agricultural crops which could supply critical agricultural materials”.
 
 ----------
 
@@ -58,16 +58,16 @@
 
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/592/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs9
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2532
-[/us/pl/98/284/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs9
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F183
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/98/284/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs9%2F1
-[/us/pl/98/284/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs9%2F2
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 
 

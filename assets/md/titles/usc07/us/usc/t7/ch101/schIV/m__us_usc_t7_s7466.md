@@ -35,7 +35,7 @@
 
         The order may authorize the Board to use, with the approval of the Secretary, funds collected under [section 7465(b) of this title][/us/usc/t7/s7465/b] and funds from other sources for the development and expansion of sales in foreign markets of kiwifruit produced in the United States.
 
-([Pub. L. 104–127, title V, § 557][/us/pl/104/127/s557], Apr. 4, 1996, [110 Stat. 1070][/us/stat/110/1070].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 557, Apr. 4, 1996, [110 Stat. 1070][/us/stat/110/1070].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
 [/us/usc/t7/s7465/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7465%2Fb
 [/us/usc/t7/s7465/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7465%2Fb
-[/us/pl/104/127/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs557
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1070
 
 

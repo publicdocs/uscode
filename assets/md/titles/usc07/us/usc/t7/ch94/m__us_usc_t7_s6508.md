@@ -37,7 +37,7 @@
 
         (3) use transplants that are treated with any synthetic or prohibited material.
 
-([Pub. L. 101–624, title XXI, § 2109][/us/pl/101/624/s2109], Nov. 28, 1990, [104 Stat. 3940][/us/stat/104/3940].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2109, Nov. 28, 1990, [104 Stat. 3940][/us/stat/104/3940].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2109
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3940
 
 

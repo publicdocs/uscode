@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 96–468, § 13][/us/pl/96/468/s13], formerly § 14, Oct. 17, 1980, [94 Stat. 2234][/us/stat/94/2234]; renumbered § 13, [Pub. L. 104–127, title IX, § 914(b)(2)][/us/pl/104/127/s914/b/2], Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
+([Pub. L. 96–468][/us/pl/96/468], § 13, formerly § 14, Oct. 17, 1980, [94 Stat. 2234][/us/stat/94/2234]; renumbered § 13, [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 914(b)(2), Apr. 4, 1996, [110 Stat. 1186][/us/stat/110/1186].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/468/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs13
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2234
-[/us/pl/104/127/s914/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs914%2Fb%2F2
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1186
 [/us/pl/96/468/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs13
 [/us/usc/t7/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3812

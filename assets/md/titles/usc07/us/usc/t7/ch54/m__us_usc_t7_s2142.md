@@ -17,7 +17,7 @@
 
     The Secretary is authorized to promulgate humane standards and recordkeeping requirements governing the purchase, handling, or sale of animals, in commerce, by dealers, research facilities, and exhibitors at auction sales and by the operators of such auction sales. The Secretary is also authorized to require the licensing of operators of auction sales where any dogs or cats are sold, in commerce, under such conditions as he may prescribe, and upon payment of such fee as prescribed by the Secretary under [section 2153 of this title][/us/usc/t7/s2153].
 
-([Pub. L. 89–544, § 12][/us/pl/89/544/s12], Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579, § 13][/us/pl/91/579/s13], Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279, § 5][/us/pl/94/279/s5], Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
+([Pub. L. 89–544][/us/pl/89/544], § 12, Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579][/us/pl/91/579], § 13, Dec. 24, 1970, [84 Stat. 1562][/us/stat/84/1562]; [Pub. L. 94–279][/us/pl/94/279], § 5, Apr. 22, 1976, [90 Stat. 418][/us/stat/90/418].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t7/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2153
-[/us/pl/89/544/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs12
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F351
-[/us/pl/91/579/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs13
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1562
-[/us/pl/94/279/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279%2Fs5
+[/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/stat/90/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F418
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579

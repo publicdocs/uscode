@@ -19,7 +19,7 @@
 
     (b) It shall be the duty of the various United States attorneys, under the direction of the Attorney General, to prosecute for the recovery of forfeitures. The costs and expense of such prosecution shall be paid out of the appropriation for the expenses of the courts of the United States.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 314, [42 Stat. 167][/us/stat/42/167]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 314, [42 Stat. 167][/us/stat/42/167]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __Change of Name__ 
 
@@ -34,7 +34,7 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F167
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
 

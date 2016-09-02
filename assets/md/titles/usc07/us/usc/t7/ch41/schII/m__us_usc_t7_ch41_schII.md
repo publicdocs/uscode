@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schI/m__us_usc_t7_s1692.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch41/schI/m__us_usc_t7_s1693...1697.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschII)
 
 ### SUBCHAPTER II—ECONOMIC ASSISTANCE AND FOOD SECURITY
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schI/m__us_usc_t7_s1692.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch41/schI/m__us_usc_t7_s1693...1697.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschII)
 
 ----------
 ----------

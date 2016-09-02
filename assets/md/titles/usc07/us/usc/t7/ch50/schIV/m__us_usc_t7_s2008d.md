@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008a...2008c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
 
 ## § 2008d. Recordkeeping of loans by borrower’s gender
 
     The Secretary shall classify, by gender, records of applicants for loans and loan guarantees under this chapter.
 
-([Pub. L. 87–128, title III, § 369][/us/pl/87/128/s369], as added [Pub. L. 102–554, § 21(c)][/us/pl/102/554/s21/c], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 369, as added [Pub. L. 102–554][/us/pl/102/554], § 21(c), Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161].)
 
  __References in Text__ 
 
@@ -25,13 +25,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008a...2008c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
 
 ----------
 ----------
 
-[/us/pl/87/128/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs369
-[/us/pl/102/554/s21/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs21%2Fc
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4161
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 

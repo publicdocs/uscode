@@ -19,13 +19,13 @@
 
     (b) No rule of any board of trade designated or registered as a contract market or a derivatives transaction execution facility shall forbid or be construed to forbid the payment of compensation on a commodity-unit basis, or otherwise, by any federated cooperative association to its regional member-associations for services rendered or to be rendered in connection with any organization work, educational activity, or procurement of patronage, provided no part of any such compensation is returned to patrons (whether members or nonmembers) of such cooperative association, or of its regional or local member-associations, otherwise than as a dividend on capital stock or as a patronage dividend out of the net earnings or surplus of such federated cooperative association.
 
-([Sept. 21, 1922, ch. 369, § 6a][/us/act/1922-09-21/ch369/s6a], as added [June 15, 1936, ch. 545, § 9][/us/act/1936-06-15/ch545/s9], [49 Stat. 1499][/us/stat/49/1499]; amended [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 102–546, title II, § 209(b)(4)][/us/pl/102/546/s209/b/4], title IV, § 402(8), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3625; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(13)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 6a, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 9, [49 Stat. 1499][/us/stat/49/1499]; amended [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 209(b)(4), title IV, § 402(8), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3625; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(13)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(13)(A)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(13)(A)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
 
-    Subsec. (b). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(13)(B)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a contract market”.
+    Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(13)(B)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a contract market”.
 
     1992—[Pub. L. 102–546][/us/pl/102/546] redesignated subsecs. (1) and (2) as (a) and (b), respectively, and in subsec. (a) substituted reference to [section 8(b) of this title][/us/usc/t7/s8/b] for reference to [section 8 of this title][/us/usc/t7/s8].
 
@@ -45,19 +45,19 @@
 ----------
 
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
-[/us/act/1922-09-21/ch369/s6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs6a
-[/us/act/1936-06-15/ch545/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs9
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1499
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/102/546/s209/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F4
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3607
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
 [/us/usc/t7/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8

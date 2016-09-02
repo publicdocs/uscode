@@ -63,7 +63,7 @@
 
             The Secretary shall determine a method of allocating, by a pro rata percentage of annual projected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
 
-([Pub. L. 103–407, § 6][/us/pl/103/407/s6], Oct. 22, 1994, [108 Stat. 4223][/us/stat/108/4223].)
+([Pub. L. 103–407][/us/pl/103/407], § 6, Oct. 22, 1994, [108 Stat. 4223][/us/stat/108/4223].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t7/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7103
-[/us/pl/103/407/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs6
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4223
 
 

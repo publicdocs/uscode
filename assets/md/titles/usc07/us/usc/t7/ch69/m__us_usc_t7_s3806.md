@@ -29,7 +29,7 @@
 
         shall on conviction be fined not more than $10,000, or imprisoned for not more than one year, or both. Each day during which such failure continues shall be deemed a separate offense.
 
-([Pub. L. 96–468, § 7][/us/pl/96/468/s7], Oct. 17, 1980, [94 Stat. 2231][/us/stat/94/2231].)
+([Pub. L. 96–468][/us/pl/96/468], § 7, Oct. 17, 1980, [94 Stat. 2231][/us/stat/94/2231].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t7/s3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3804
 [/us/usc/t7/s3804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3804%2Fb
-[/us/pl/96/468/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs7
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2231
 
 

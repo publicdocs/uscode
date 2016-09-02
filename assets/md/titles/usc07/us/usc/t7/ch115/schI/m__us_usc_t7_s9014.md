@@ -91,7 +91,7 @@
 
             (B) in any region in which there is a history of double-cropping covered commodities with crops referred to in paragraph (1) and such crops were so double-cropped on the base acres, as determined by the Secretary.
 
-([Pub. L. 113–79, title I, § 1114][/us/pl/113/79/s1114], Feb. 7, 2014, [128 Stat. 666][/us/stat/128/666].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1114, Feb. 7, 2014, [128 Stat. 666][/us/stat/128/666].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t7/s9015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9015%2Fb%2F1
 [/us/usc/t7/s9015/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9015%2Fb%2F2
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
-[/us/pl/113/79/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1114
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F666
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

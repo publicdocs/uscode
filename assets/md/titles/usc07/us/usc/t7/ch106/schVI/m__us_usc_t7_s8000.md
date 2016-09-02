@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch106/schVI/m__us_usc_t7_s7999.md) | [Next](./../../../../..//us/usc/t7/ch106/schVI/m__us_usc_t7_s8001.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8000)
 
-## § 8000. Repealed. [Pub. L. 110–234, title I, § 1623(b)][/us/pl/110/234/s1623/b], May 22, 2008, [122 Stat. 1025][/us/stat/122/1025], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1623(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753
+## § 8000. Repealed. [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1623(b), May 22, 2008, [122 Stat. 1025][/us/stat/122/1025], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1623(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753
 
-    Section, [Pub. L. 107–171, title I, § 1617][/us/pl/107/171/s1617], May 13, 2002, [116 Stat. 222][/us/stat/116/222], related to renewed availability of market loss assistance and certain emergency assistance to persons that failed to receive assistance under earlier authorities.
+    Section, [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1617, May 13, 2002, [116 Stat. 222][/us/stat/116/222], related to renewed availability of market loss assistance and certain emergency assistance to persons that failed to receive assistance under earlier authorities.
 
  __Codification__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1623%2Fb
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1025
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/107/171/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1617
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F222
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

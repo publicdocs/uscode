@@ -25,7 +25,7 @@
 
     (d) Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-([Pub. L. 89–502, § 6][/us/pl/89/502/s6], July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
+([Pub. L. 89–502][/us/pl/89/502], § 6, July 13, 1966, [80 Stat. 280][/us/stat/80/280].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2106
-[/us/pl/89/502/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs6
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F280
 
 

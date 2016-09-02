@@ -19,13 +19,13 @@
 
     (b) The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
-(R.S. § 526; [Feb. 9, 1889, ch. 122][/us/act/1889-02-09/ch122], §§ 1, 4, [25 Stat. 659][/us/stat/25/659]; [Pub. L. 92–419, title VI, § 603(b)][/us/pl/92/419/s603/b], Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 94–273, § 7(4)][/us/pl/94/273/s7/4], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 95–113, title XV, § 1502(b)][/us/pl/95/113/s1502/b], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 96–355, § 5][/us/pl/96/355/s5], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174].)
+(R.S. § 526; [Feb. 9, 1889, ch. 122][/us/act/1889-02-09/ch122], §§ 1, 4, [25 Stat. 659][/us/stat/25/659]; [Pub. L. 92–419, title VI][/us/pl/92/419/tVI], § 603(b), Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 94–273][/us/pl/94/273], § 7(4), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1502(b), Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 96–355][/us/pl/96/355], § 5, Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174].)
 
  __Codification__ 
 
-    R.S. § 526 derived from [act May 15, 1862, ch. 72, § 3][/us/act/1862-05-15/ch72/s3], [12 Stat. 387][/us/stat/12/387].
+    R.S. § 526 derived from [act May 15, 1862, ch. 72][/us/act/1862-05-15/ch72], § 3, [12 Stat. 387][/us/stat/12/387].
 
-    Section was formerly classified to [section 514 of Title 5][/us/usc/t5/s514] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 514 of Title 5][/us/usc/t5/s514] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 
     1976—Subsec. (b). [Pub. L. 94–273][/us/pl/94/273] substituted “December” for “September”.
 
-    1972—Subsec. (a). [Pub. L. 92–419, § 603(b)(1)][/us/pl/92/419/s603/b/1]–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
+    1972—Subsec. (a). [Pub. L. 92–419][/us/pl/92/419], § 603(b)(1)–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
 
-    Subsec. (b). [Pub. L. 92–419, § 603(b)(4)][/us/pl/92/419/s603/b/4], added subsec. (b).
+    Subsec. (b). [Pub. L. 92–419][/us/pl/92/419], § 603(b)(4), added subsec. (b).
 
  __Change of Name__ 
 
@@ -65,7 +65,7 @@
 
  __Report on Geographically Disadvantaged Farmers and Ranchers__ 
 
-[Pub. L. 107–171, title X, § 10906][/us/pl/107/171/s10906], May 13, 2002, [116 Stat. 538][/us/stat/116/538], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10906, May 13, 2002, [116 Stat. 538][/us/stat/116/538], provided that:
 
 >     “(a)  __Definition of Geographically Disadvantaged Farmer or Rancher__  __.—__ 
 
@@ -91,7 +91,7 @@
 
  __Review of Operation of Agricultural and Natural Resource Programs on Tribal Trust Land__ 
 
-[Pub. L. 107–171, title X, § 10910][/us/pl/107/171/s10910], May 13, 2002, [116 Stat. 539][/us/stat/116/539], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10910, May 13, 2002, [116 Stat. 539][/us/stat/116/539], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -151,7 +151,7 @@
 
  __Aviation Inspections__ 
 
-[Pub. L. 103–354, title III, § 306][/us/pl/103/354/s306], Oct. 13, 1994, [108 Stat. 3241][/us/stat/108/3241], provided that:
+[Pub. L. 103–354, title III][/us/pl/103/354/tIII], § 306, Oct. 13, 1994, [108 Stat. 3241][/us/stat/108/3241], provided that:
 
 >     “(a) __Study of Aircraft Inspections.—__ 
 
@@ -202,24 +202,24 @@
 
 [/us/act/1889-02-09/ch122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-02-09%2Fch122
 [/us/stat/25/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F659
-[/us/pl/92/419/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs603%2Fb
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
 [/us/stat/86/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F675
-[/us/pl/94/273/s7/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs7%2F4
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/95/113/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1502%2Fb
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1021
-[/us/pl/96/355/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs5
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1174
-[/us/act/1862-05-15/ch72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-15%2Fch72%2Fs3
+[/us/act/1862-05-15/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-15%2Fch72
 [/us/stat/12/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F387
 [/us/usc/t5/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs514
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/92/419/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs603%2Fb%2F1
-[/us/pl/92/419/s603/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs603%2Fb%2F4
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/usc/t7/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2202
 [/us/usc/t7/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205
 [/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
@@ -233,12 +233,12 @@
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t7/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs452
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/107/171/s10906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10906
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F538
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/107/171/s10910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10910
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F539
-[/us/pl/103/354/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs306
+[/us/pl/103/354/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtIII
 [/us/stat/108/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3241
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 

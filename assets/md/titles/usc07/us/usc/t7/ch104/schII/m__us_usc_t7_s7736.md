@@ -23,7 +23,7 @@
 
         This section does not apply to the imposition of civil penalties under [section 7734(b) of this title][/us/usc/t7/s7734/b].
 
-([Pub. L. 106–224, title IV, § 426][/us/pl/106/224/s426], June 20, 2000, [114 Stat. 451][/us/stat/114/451].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 426, June 20, 2000, [114 Stat. 451][/us/stat/114/451].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t7/s7734/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7734%2Fb
-[/us/pl/106/224/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs426
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F451
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

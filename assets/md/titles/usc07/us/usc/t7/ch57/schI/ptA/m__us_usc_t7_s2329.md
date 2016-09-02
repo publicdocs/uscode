@@ -17,7 +17,7 @@
 
     The Secretary shall maintain a register of descriptions of United States protected plant varieties.
 
-([Pub. L. 91–577, title I, § 9][/us/pl/91/577/s9], Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 96–574, § 4][/us/pl/96/574/s4], Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 9, Dec. 24, 1970, [84 Stat. 1543][/us/stat/84/1543]; [Pub. L. 96–574][/us/pl/96/574], § 4, Dec. 22, 1980, [94 Stat. 3350][/us/stat/94/3350].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/577/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs9
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1543
-[/us/pl/96/574/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs4
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3350
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 

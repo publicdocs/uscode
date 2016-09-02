@@ -17,7 +17,7 @@
 
     Subject to the policy declared in [section 851 of this title][/us/usc/t7/s851], the provisions of subsections (6) to (9) of section 608a and of subsections (14) and (15) of [section 608c of this title][/us/usc/t7/s608c], are made applicable in connection with orders issued pursuant to [section 854 of this title][/us/usc/t7/s854], and the provisions of [section 608d of this title][/us/usc/t7/s608d] are made applicable in connection with marketing agreements entered into pursuant to [section 852 of this title][/us/usc/t7/s852] and orders issued pursuant to [section 854 of this title][/us/usc/t7/s854]. The provisions of subsections (a), (b)(2), (c), (f), (h), and (i) of [section 610 of this title][/us/usc/t7/s610], are made applicable in connection with the administration of this chapter.
 
-([Aug. 24, 1935, ch. 641, § 60][/us/act/1935-08-24/ch641/s60], [49 Stat. 782][/us/stat/49/782].)
+([Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 60, [49 Stat. 782][/us/stat/49/782].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t7/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs852
 [/us/usc/t7/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs854
 [/us/usc/t7/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610
-[/us/act/1935-08-24/ch641/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs60
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F782
 
 

@@ -21,7 +21,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not more than $1,000,000 in any fiscal year.
 
-([Pub. L. 91–524, title VIII, § 810][/us/pl/91/524/s810], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 810, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/524/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs810
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F238
 
 

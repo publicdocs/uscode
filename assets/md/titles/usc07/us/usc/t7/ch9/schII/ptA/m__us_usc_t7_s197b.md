@@ -23,7 +23,7 @@
 
         A poultry growing arrangement or swine production or marketing contract may specify which State’s law is to apply to issues governed by State law in any dispute arising out of the arrangement or contract, except to the extent that doing so is prohibited by the law of the State in which the principal part of the performance takes place under the arrangement or contract.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 209, as added [Pub. L. 110–234, title XI, § 11005][/us/pl/110/234/s11005], May 22, 2008, [122 Stat. 1357][/us/stat/122/1357], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2119.)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 209, as added [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11005, May 22, 2008, [122 Stat. 1357][/us/stat/122/1357], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2119.)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/110/234/s11005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11005
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1357
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

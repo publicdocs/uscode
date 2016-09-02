@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343e.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343f _us_usc_t7_s343g.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
 
 ## § 344. Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work
 
@@ -51,7 +51,7 @@
 
         To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) to satisfy other appropriate Federal reporting requirements.
 
-([May 8, 1914, ch. 79, § 4][/us/act/1914-05-08/ch79/s4], [38 Stat. 374][/us/stat/38/374]; [June 26, 1953, ch. 157, § 1][/us/act/1953-06-26/ch157/s1], [67 Stat. 85][/us/stat/67/85]; [Pub. L. 87–749, § 1(f)][/us/pl/87/749/s1/f], Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 94–273, § 15][/us/pl/94/273/s15], Apr. 21, 1976, [90 Stat. 379][/us/stat/90/379]; [Pub. L. 101–624, title XVI, § 1617][/us/pl/101/624/s1617], Nov. 28, 1990, [104 Stat. 3732][/us/stat/104/3732]; [Pub. L. 105–185, title II, § 202(a)][/us/pl/105/185/s202/a], June 23, 1998, [112 Stat. 531][/us/stat/112/531].)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 4, [38 Stat. 374][/us/stat/38/374]; [June 26, 1953, ch. 157][/us/act/1953-06-26/ch157], § 1, [67 Stat. 85][/us/stat/67/85]; [Pub. L. 87–749][/us/pl/87/749], § 1(f), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 94–273][/us/pl/94/273], § 15, Apr. 21, 1976, [90 Stat. 379][/us/stat/90/379]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1617, Nov. 28, 1990, [104 Stat. 3732][/us/stat/104/3732]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 202(a), June 23, 1998, [112 Stat. 531][/us/stat/112/531].)
 
  __Amendments__ 
 
@@ -67,35 +67,35 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–185, title II, § 202(c)][/us/pl/105/185/s202/c], June 23, 1998, [112 Stat. 533][/us/stat/112/533], provided that: 
+[Pub. L. 105–185, title II][/us/pl/105/185/tII], § 202(c), June 23, 1998, [112 Stat. 533][/us/stat/112/533], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 361g of this title][/us/usc/t7/s361g]\] take effect on October 1, 1999.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343e.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343f _us_usc_t7_s343g.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
 
 ----------
 ----------
 
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
-[/us/act/1914-05-08/ch79/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs4
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
 [/us/stat/38/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F374
-[/us/act/1953-06-26/ch157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157%2Fs1
+[/us/act/1953-06-26/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157
 [/us/stat/67/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F85
-[/us/pl/87/749/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Ff
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/stat/76/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F745
-[/us/pl/94/273/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs15
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F379
-[/us/pl/101/624/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1617
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3732
-[/us/pl/105/185/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs202%2Fa
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F531
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
-[/us/pl/105/185/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs202%2Fc
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F533
 [/us/usc/t7/s361g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361g
 

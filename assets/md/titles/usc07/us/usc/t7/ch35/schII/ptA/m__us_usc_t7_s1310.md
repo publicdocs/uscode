@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “commodity” shall include any of the following: wheat, corn, grain sorghum, soybeans, oats, rye, barley, rice, flaxseed, and cotton.
 
-([Pub. L. 95–113, title X, § 1002][/us/pl/95/113/s1002], Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950].)
+([Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1002, Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/95/113/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1002
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F950
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

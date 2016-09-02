@@ -25,7 +25,7 @@
 
     (4) the term “State” means the fifty States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
 
-([Pub. L. 96–468, § 3][/us/pl/96/468/s3], Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229]; [Pub. L. 96–592, title V, § 511][/us/pl/96/592/s511], Dec. 24, 1980, [94 Stat. 3451][/us/stat/94/3451].)
+([Pub. L. 96–468][/us/pl/96/468], § 3, Oct. 17, 1980, [94 Stat. 2229][/us/stat/94/2229]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 511, Dec. 24, 1980, [94 Stat. 3451][/us/stat/94/3451].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/96/468/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs3
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2229
-[/us/pl/96/592/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs511
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3451
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 

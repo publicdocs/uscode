@@ -17,7 +17,7 @@
 
     The word “person” as used in this chapter shall be held to embrace also any partnership, corporation, association, or other legal entity.
 
-([Jan. 14, 1929, ch. 69, § 4][/us/act/1929-01-14/ch69/s4], [45 Stat. 1080][/us/stat/45/1080].)
+([Jan. 14, 1929, ch. 69][/us/act/1929-01-14/ch69], § 4, [45 Stat. 1080][/us/stat/45/1080].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1929-01-14/ch69/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69%2Fs4
+[/us/act/1929-01-14/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-14%2Fch69
 [/us/stat/45/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1080
 
 

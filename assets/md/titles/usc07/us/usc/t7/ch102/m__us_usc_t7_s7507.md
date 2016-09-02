@@ -27,7 +27,7 @@
 
         State and emergency feeding organizations shall continue, to the maximum extent practicable, to use volunteer workers and commodities and other foodstuffs donated by charitable and other organizations in the operation of the program authorized by this section.
 
-([Pub. L. 98–8, title II, § 203D][/us/pl/98/8/s203D], as added [Pub. L. 100–435, title I, § 102][/us/pl/100/435/s102], Sept. 19, 1988, [102 Stat. 1647][/us/stat/102/1647].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 203D, as added [Pub. L. 100–435, title I][/us/pl/100/435/tI], § 102, Sept. 19, 1988, [102 Stat. 1647][/us/stat/102/1647].)
 
  __Effective Date__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/98/8/s203D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs203D
-[/us/pl/100/435/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs102
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/100/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtI
 [/us/stat/102/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1647
 [/us/pl/100/435/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs701%2Fa
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012

@@ -21,15 +21,15 @@
 
     (b) May make an order that such owner or operator (1) shall cease and desist from such violation to the extent to which the Secretary finds that it does or will exist; (2) shall not thereafter publish, demand, or collect any rate or charge for the furnishing of stockyard services other than the rate or charge or rates or charges so prescribed; and (3) shall conform to and observe the regulation or practice so prescribed.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 310, [42 Stat. 166][/us/stat/42/166]; [Aug. 10, 1939, ch. 663][/us/act/1939-08-10/ch663], [53 Stat. 1351][/us/stat/53/1351]; [Pub. L. 95–409, § 1(b)][/us/pl/95/409/s1/b], Oct. 2, 1978, [92 Stat. 886][/us/stat/92/886].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 310, [42 Stat. 166][/us/stat/42/166]; [Aug. 10, 1939, ch. 663][/us/act/1939-08-10/ch663], [53 Stat. 1351][/us/stat/53/1351]; [Pub. L. 95–409][/us/pl/95/409], § 1(b), Oct. 2, 1978, [92 Stat. 886][/us/stat/92/886].)
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–409, § 1(b)(1)][/us/pl/95/409/s1/b/1], in provision preceding subsec. (a), substituted “violative of section 205, 206 or 208 of this title” for “unjust, unreasonable, or discriminatory”.
+    1978—[Pub. L. 95–409][/us/pl/95/409], § 1(b)(1), in provision preceding subsec. (a), substituted “violative of section 205, 206 or 208 of this title” for “unjust, unreasonable, or discriminatory”.
 
-    Subsec. (a). [Pub. L. 95–409, § 1(b)(2)][/us/pl/95/409/s1/b/2], substituted “May in accordance with the standard set forth in [section 206 of this title][/us/usc/t7/s206] determine and prescribe what will be the rate” for “May determine and prescribe what will be the just and reasonable rate”, and “as the maximum or minimum or both” for “as both the maximum and minimum”, and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of [section 206 of this title][/us/usc/t7/s206].
+    Subsec. (a). [Pub. L. 95–409][/us/pl/95/409], § 1(b)(2), substituted “May in accordance with the standard set forth in [section 206 of this title][/us/usc/t7/s206] determine and prescribe what will be the rate” for “May determine and prescribe what will be the just and reasonable rate”, and “as the maximum or minimum or both” for “as both the maximum and minimum”, and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of [section 206 of this title][/us/usc/t7/s206].
 
-    Subsec. (b). [Pub. L. 95–409, § 1(b)(3)][/us/pl/95/409/s1/b/3], substituted “other than the rate or charge or rates or charges” for “more or less than the rate or charge”.
+    Subsec. (b). [Pub. L. 95–409][/us/pl/95/409], § 1(b)(3), substituted “other than the rate or charge or rates or charges” for “more or less than the rate or charge”.
 
     1939—Subsec. (a). Act Aug. 10, 1939, substituted “as both” for “or the”.
 
@@ -49,12 +49,12 @@
 [/us/stat/42/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F166
 [/us/act/1939-08-10/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch663
 [/us/stat/53/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1351
-[/us/pl/95/409/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409%2Fs1%2Fb
+[/us/pl/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409
 [/us/stat/92/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F886
-[/us/pl/95/409/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409%2Fs1%2Fb%2F1
-[/us/pl/95/409/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409%2Fs1%2Fb%2F2
+[/us/pl/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409
+[/us/pl/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409
 [/us/usc/t7/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs206
 [/us/usc/t7/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs206
-[/us/pl/95/409/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409%2Fs1%2Fb%2F3
+[/us/pl/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F409
 
 

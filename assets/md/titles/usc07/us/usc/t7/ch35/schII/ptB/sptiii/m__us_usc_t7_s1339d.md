@@ -25,7 +25,7 @@
 
     (e) The Secretary of Agriculture is authorized to make or guarantee loans to farmers, both tenants and landowners, to assist such farmers in the construction of storage facilities on the farm for the storage of emergency hay pursuant to the provisions of this section if such farmers are unable to obtain loans from commercial sources at reasonable rates and on reasonable terms and conditions. Loans made by the Secretary under this subsection shall be made at the current rate of interest for periods not exceeding ten years, and on such other terms and conditions as the Secretary may prescribe.
 
-([Pub. L. 91–524, title VIII, § 805][/us/pl/91/524/s805], Nov. 30, 1970, [84 Stat. 1382][/us/stat/84/1382].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 805, Nov. 30, 1970, [84 Stat. 1382][/us/stat/84/1382].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/91/524/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs805
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/stat/84/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1382
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358

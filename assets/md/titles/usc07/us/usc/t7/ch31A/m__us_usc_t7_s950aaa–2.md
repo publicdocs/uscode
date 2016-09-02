@@ -143,7 +143,7 @@
 
             (B) make the applications available for inspection.
 
-([Pub. L. 101–624, title XXIII, § 2333][/us/pl/101/624/s2333], as added [Pub. L. 104–127, title VII, § 704][/us/pl/104/127/s704], Apr. 4, 1996, [110 Stat. 1109][/us/stat/110/1109]; amended [Pub. L. 110–234, title VI, § 6201(a)][/us/pl/110/234/s6201/a], May 22, 2008, [122 Stat. 1205][/us/stat/122/1205]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2333, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 704, Apr. 4, 1996, [110 Stat. 1109][/us/stat/110/1109]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6201(a), May 22, 2008, [122 Stat. 1205][/us/stat/122/1205]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967.)
 
  __Termination of Section__ 
 
@@ -159,11 +159,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 950aaa–2, [Pub. L. 101–624, title XXIII, § 2333][/us/pl/101/624/s2333], Nov. 28, 1990, [104 Stat. 4017][/us/stat/104/4017]; [Pub. L. 103–354, title II, § 235(b)(4)(A)][/us/pl/103/354/s235/b/4/A], (C), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221], 3222, provided definitions for chapter, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 950aaa–2, [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2333, Nov. 28, 1990, [104 Stat. 4017][/us/stat/104/4017]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(4)(A), (C), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221], 3222, provided definitions for chapter, prior to the general amendment of this chapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(C). [Pub. L. 110–246, § 6201(a)][/us/pl/110/246/s6201/a], added subpar. (C).
+    2008—Subsec. (c)(1)(C). [Pub. L. 110–246][/us/pl/110/246], § 6201(a), added subpar. (C).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -180,12 +180,12 @@
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/usc/t7/s2009c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009c
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/101/624/s2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2333
-[/us/pl/104/127/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs704
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1109
-[/us/pl/110/234/s6201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6201%2Fa
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1205
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/102/551/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F551%2Fs1%2Fb
 [/us/usc/t7/s950aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950aaa
@@ -196,12 +196,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/101/624/s2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2333
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4017
-[/us/pl/103/354/s235/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F4%2FA
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/110/246/s6201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6201%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

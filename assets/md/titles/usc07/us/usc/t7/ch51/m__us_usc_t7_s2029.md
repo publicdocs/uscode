@@ -81,7 +81,7 @@
 
         (3) The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
 
-([Pub. L. 88–525, § 20][/us/pl/88/525/s20], as added [Pub. L. 97–98, title XIII, § 1333][/us/pl/97/98/s1333], Dec. 22, 1981, [95 Stat. 1291][/us/stat/95/1291]; amended [Pub. L. 97–253, title I][/us/pl/97/253], §§ 185–188, Sept. 8, 1982, [96 Stat. 786][/us/stat/96/786]; [Pub. L. 99–198, title XV, § 1517(d)][/us/pl/99/198/s1517/d], Dec. 23, 1985, [99 Stat. 1577][/us/stat/99/1577]; [Pub. L. 102–237, title IX, § 941(10)][/us/pl/102/237/s941/10], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 104–193, title I, § 109(e)][/us/pl/104/193/s109/e], title VIII, § 815(b)(2), Aug. 22, 1996, [110 Stat. 2170][/us/stat/110/2170], 2317; [Pub. L. 110–234, title IV, § 4001(b)][/us/pl/110/234/s4001/b], May 22, 2008, [122 Stat. 1092][/us/stat/122/1092]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4001(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853.)
+([Pub. L. 88–525][/us/pl/88/525], § 20, as added [Pub. L. 97–98, title XIII][/us/pl/97/98/tXIII], § 1333, Dec. 22, 1981, [95 Stat. 1291][/us/stat/95/1291]; amended [Pub. L. 97–253, title I][/us/pl/97/253/tI], §§ 185–188, Sept. 8, 1982, [96 Stat. 786][/us/stat/96/786]; [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1517(d), Dec. 23, 1985, [99 Stat. 1577][/us/stat/99/1577]; [Pub. L. 102–237, title IX][/us/pl/102/237/tIX], § 941(10), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 109(e), title VIII, § 815(b)(2), Aug. 22, 1996, [110 Stat. 2170][/us/stat/110/2170], 2317; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4001(b), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4001(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853.)
 
  __References in Text__ 
 
@@ -95,15 +95,15 @@
 
  __Amendments__ 
 
-    2008—Subsecs. (a)(1), (f). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
+    2008—Subsecs. (a)(1), (f). [Pub. L. 110–246][/us/pl/110/246], § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    1996—Subsec. (a)(2)(B). [Pub. L. 104–193, § 109(e)(1)][/us/pl/104/193/s109/e/1], substituted “operating any” for “operating—
+    1996—Subsec. (a)(2)(B). [Pub. L. 104–193][/us/pl/104/193], § 109(e)(1), substituted “operating any” for “operating—
 
     “(i) a workfare program pursuant to title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.); or
 
     “(ii) any other”.
 
-    Subsec. (b). [Pub. L. 104–193, § 109(e)(2)][/us/pl/104/193/s109/e/2], struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
+    Subsec. (b). [Pub. L. 104–193][/us/pl/104/193], § 109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
 
     “(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act ([42 U.S.C. 609][/us/usc/t42/s609]), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 
@@ -115,19 +115,19 @@
 
     “(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act.”
 
-    Subsec. (f). [Pub. L. 104–193, § 815(b)(2)][/us/pl/104/193/s815/b/2], added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
+    Subsec. (f). [Pub. L. 104–193][/us/pl/104/193], § 815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
 
     1991—Subsec. (g)(2). [Pub. L. 102–237][/us/pl/102/237] realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
     1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198] in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
-    1982—Subsec. (a). [Pub. L. 97–253, § 185][/us/pl/97/253/s185], redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
+    1982—Subsec. (a). [Pub. L. 97–253][/us/pl/97/253], § 185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 
-    Subsec. (b)(4). [Pub. L. 97–253, § 186][/us/pl/97/253/s186], substituted “at the option of the operating agency, subject to and currently actively and satisfactorily participating” for “subject to and currently involved”.
+    Subsec. (b)(4). [Pub. L. 97–253][/us/pl/97/253], § 186, substituted “at the option of the operating agency, subject to and currently actively and satisfactorily participating” for “subject to and currently involved”.
 
-    Subsec. (c). [Pub. L. 97–253, § 187][/us/pl/97/253/s187], substituted “, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week” for “either exceeds twenty hours a week or would, together with any other hours worked in any other compensated capacity by such member on a regular or predictable part-time basis, exceed thirty hours a week”.
+    Subsec. (c). [Pub. L. 97–253][/us/pl/97/253], § 187, substituted “, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week” for “either exceeds twenty hours a week or would, together with any other hours worked in any other compensated capacity by such member on a regular or predictable part-time basis, exceed thirty hours a week”.
 
-    Subsec. (g)(2), (3). [Pub. L. 97–253, § 188][/us/pl/97/253/s188], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (g)(2), (3). [Pub. L. 97–253][/us/pl/97/253], § 188, added par. (2) and redesignated former par. (2) as (3).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -166,20 +166,20 @@
 [/us/usc/t7/s2015/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F2
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t7/s2015/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F1
-[/us/pl/88/525/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs20
-[/us/pl/97/98/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1333
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/97/98/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIII
 [/us/stat/95/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1291
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtI
 [/us/stat/96/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F786
-[/us/pl/99/198/s1517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1517%2Fd
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1577
-[/us/pl/102/237/s941/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs941%2F10
+[/us/pl/102/237/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
-[/us/pl/104/193/s109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2170
-[/us/pl/110/234/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4001%2Fb
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
@@ -191,18 +191,18 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
-[/us/pl/104/193/s109/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fe%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/104/193/s109/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fe%2F2
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609
-[/us/pl/104/193/s815/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs815%2Fb%2F2
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/253/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs185
-[/us/pl/97/253/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs186
-[/us/pl/97/253/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs187
-[/us/pl/97/253/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs188
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

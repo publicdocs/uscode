@@ -109,7 +109,7 @@
 
         The national export market acreage reserve shall be apportioned to farms by the Secretary on the basis of the applications therefor. No application shall be accepted for a greater acreage than is available on the farm for the production of upland cotton. After apportionments are thus made to farms, the Secretary shall provide farm operators a reasonable time in which to cancel their applications (and agreements to forgo price support) and surrender to the Secretary through the county committee the export market acreage assigned to the farm. Acreage so surrendered shall be available for reassignment by the Secretary to other eligible farms to which export market acreage has been apportioned on the basis of the applications remaining outstanding. The operator of any farm who elects to forgo price support for any such crop under this subsection shall not be eligible for price support on cotton of such crop produced on any other farm in which he has a controlling or substantial interest as determined by the Secretary. Acreage planted to cotton in excess of the farm acreage allotment established under [section 1344 of this title][/us/usc/t7/s1344] shall not be taken into account in establishing future State, county, and farm acreage allotments. The operator of any farm to which export market acreage is apportioned, or the purchasers of cotton produced on such farm, shall, under regulations issued by the Secretary, furnish a bond or other undertaking prescribed by the Secretary providing for the exportation, without benefit of any Government cotton export subsidy and within such time as the Secretary may specify, of all cotton produced on such farm for such year. The bond or other undertaking given pursuant to this subsection shall provide that, upon failure to comply with the terms and conditions thereof, the person furnishing such bond or other undertaking shall be liable for liquidated damages in an amount which the Secretary determines and specifies in such undertaking will approximate the amount payable on excess cotton under subsection (a). The Secretary may, in lieu of the furnishing of a bond or other undertaking, provide for the payment of an amount equal to that which would be payable as liquidated damages under such bond or other undertaking. If such bond or other undertaking is not furnished, or if payment in lieu thereof is not made as provided herein, at such time and in the manner required by regulations of the Secretary, or if the acreage planted to cotton on the farm exceeds the sum of the farm acreage allotment established under [section 1344 of this title][/us/usc/t7/s1344] and the acreage apportioned to the farm from the national export market acreage reserve, the acreage planted to cotton in excess of the farm acreage allotment established under [section 1344 of this title][/us/usc/t7/s1344] shall be regarded as excess acreage for purposes of this section and [section 1345 of this title][/us/usc/t7/s1345]. Amounts collected by the Secretary under this subsection shall be remitted to the Commodity Credit Corporation.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 346, [52 Stat. 59][/us/stat/52/59]; [Aug. 29, 1949, ch. 518, § 1][/us/act/1949-08-29/ch518/s1], [63 Stat. 674][/us/stat/63/674]; [Pub. L. 89–321, title IV, § 401(2)][/us/pl/89/321/s401/2], Nov. 3, 1965, [79 Stat. 1192][/us/stat/79/1192]; [Pub. L. 90–559, § 1(2)][/us/pl/90/559/s1/2], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 346, [52 Stat. 59][/us/stat/52/59]; [Aug. 29, 1949, ch. 518][/us/act/1949-08-29/ch518], § 1, [63 Stat. 674][/us/stat/63/674]; [Pub. L. 89–321, title IV][/us/pl/89/321/tIV], § 401(2), Nov. 3, 1965, [79 Stat. 1192][/us/stat/79/1192]; [Pub. L. 90–559][/us/pl/90/559], § 1(2), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
 
  __Amendments__ 
 
@@ -139,7 +139,7 @@
 
     Section inapplicable to 1978 through 1981 crops of upland cotton, see [section 601 of Pub. L. 95–113][/us/pl/95/113/s601], set out as a note under [section 1342 of this title][/us/usc/t7/s1342].
 
-    [Pub. L. 91–524, title VI, § 601(1)][/us/pl/91/524/s601/1], Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86, § 1(19)(A)][/us/pl/93/86/s1/19/A], Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+    [Pub. L. 91–524, title VI][/us/pl/91/524/tVI], § 601(1), Nov. 30, 1970, [84 Stat. 1371][/us/stat/84/1371], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(19)(A), Aug. 10, 1973, [87 Stat. 233][/us/stat/87/233], provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
  __Removal of Marketing Penalties on Certain Long Staple Cotton__ 
 
@@ -160,11 +160,11 @@
 [/us/usc/t7/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1345
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F59
-[/us/act/1949-08-29/ch518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518%2Fs1
+[/us/act/1949-08-29/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-29%2Fch518
 [/us/stat/63/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F674
-[/us/pl/89/321/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs401%2F2
+[/us/pl/89/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtIV
 [/us/stat/79/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1192
-[/us/pl/90/559/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F2
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
@@ -183,9 +183,9 @@
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
 [/us/pl/95/113/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs601
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
-[/us/pl/91/524/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs601%2F1
+[/us/pl/91/524/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVI
 [/us/stat/84/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1371
-[/us/pl/93/86/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F19%2FA
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F233
 [/us/act/1951-01-09/ch1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-09%2Fch1215
 [/us/stat/64/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1237

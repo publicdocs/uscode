@@ -23,7 +23,7 @@
 
         The Secretary shall supplement the commodities made available to emergency feeding organizations under sections 7502 and 7507(a) of this title with nutritious and useful commodities purchased by the Secretary under [section 7515 of this title][/us/usc/t7/s7515].
 
-([Pub. L. 98–8, title II, § 213][/us/pl/98/8/s213], as added [Pub. L. 100–435, title I, § 104][/us/pl/100/435/s104], Sept. 19, 1988, [102 Stat. 1648][/us/stat/102/1648].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 213, as added [Pub. L. 100–435, title I][/us/pl/100/435/tI], § 104, Sept. 19, 1988, [102 Stat. 1648][/us/stat/102/1648].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t7/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515
 [/us/usc/t7/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515
-[/us/pl/98/8/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs213
-[/us/pl/100/435/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs104
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/100/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtI
 [/us/stat/102/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1648
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
 [/us/pl/100/435/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs701%2Fa

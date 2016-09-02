@@ -21,7 +21,7 @@
 
     (2) the results of the reviews of existing policies and procedures required under [section 4203(a) of this title][/us/usc/t7/s4203/a].
 
-([Pub. L. 97–98, title XV, § 1546][/us/pl/97/98/s1546], Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343]; [Pub. L. 99–198, title XII, § 1255(a)][/us/pl/99/198/s1255/a], Dec. 23, 1985, [99 Stat. 1518][/us/stat/99/1518].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1546, Dec. 22, 1981, [95 Stat. 1343][/us/stat/95/1343]; [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1255(a), Dec. 23, 1985, [99 Stat. 1518][/us/stat/99/1518].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t7/s4203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4203%2Fa
-[/us/pl/97/98/s1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1546
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1343
-[/us/pl/99/198/s1255/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1255%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1518
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 

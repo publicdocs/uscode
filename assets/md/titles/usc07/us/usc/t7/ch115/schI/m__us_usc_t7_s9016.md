@@ -61,7 +61,7 @@
 
         The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of [section 9011(18) of this title][/us/usc/t7/s9011/18] in order to reflect price premiums.
 
-([Pub. L. 113–79, title I, § 1116][/us/pl/113/79/s1116], Feb. 7, 2014, [128 Stat. 668][/us/stat/128/668].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1116, Feb. 7, 2014, [128 Stat. 668][/us/stat/128/668].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t7/s9015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9015
 [/us/usc/t7/s9011/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9011%2F18
-[/us/pl/113/79/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1116
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F668
 
 

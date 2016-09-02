@@ -17,7 +17,7 @@
 
     The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 93–428, § 11][/us/pl/93/428/s11], Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176].)
+([Pub. L. 93–428][/us/pl/93/428], § 11, Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/428/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs11
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1176
 
 

@@ -45,7 +45,7 @@
 
         Funds are authorized to be appropriated annually in such amounts as Congress may determine necessary to support the purposes of this section. The Secretary is authorized to carry out this section with existing facilities through the use of grants, contracts, or such other means as the Secretary deems appropriate and to require matching of funds. No funds appropriated to support the purposes of this section shall be used to purchase additional equipment unless specifically authorized by law subsequent to September 29, 1977.
 
-([Pub. L. 95–113, title XIV, § 1411][/us/pl/95/113/s1411], Sept. 29, 1977, [91 Stat. 990][/us/stat/91/990]; [Pub. L. 97–98, title XIV, § 1412][/us/pl/97/98/s1412], Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1411, Sept. 29, 1977, [91 Stat. 990][/us/stat/91/990]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1412, Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    1981—Subsec. (a)(6). [Pub. L. 97–98, § 1412(1)][/us/pl/97/98/s1412/1]–(3), added par. (6).
+    1981—Subsec. (a)(6). [Pub. L. 97–98][/us/pl/97/98], § 1412(1)–(3), added par. (6).
 
-    Subsec. (b)(3). [Pub. L. 97–98, § 1412(4)][/us/pl/97/98/s1412/4], substituted “notification about these collections on a regular basis to the State cooperative extension services, State educational agencies, and other interested persons” for “for the dissemination of such information and materials on a regular basis to State educational agencies and other interested persons”.
+    Subsec. (b)(3). [Pub. L. 97–98][/us/pl/97/98], § 1412(4), substituted “notification about these collections on a regular basis to the State cooperative extension services, State educational agencies, and other interested persons” for “for the dissemination of such information and materials on a regular basis to State educational agencies and other interested persons”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1411
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F990
-[/us/pl/97/98/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1412
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1302
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
-[/us/pl/97/98/s1412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1412%2F1
-[/us/pl/97/98/s1412/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1412%2F4
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

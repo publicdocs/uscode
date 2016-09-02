@@ -47,7 +47,7 @@
 
         Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605A, as added [Pub. L. 95–501, title IV, § 401(1)][/us/pl/95/501/s401/1], Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688]; amended [Pub. L. 96–465, title II, § 2206(b)(1)][/us/pl/96/465/s2206/b/1], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 605A, as added [Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 401(1), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688]; amended [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(b)(1), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
-[/us/pl/95/501/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F1
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
 [/us/stat/92/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1688
-[/us/pl/96/465/s2206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fb%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465

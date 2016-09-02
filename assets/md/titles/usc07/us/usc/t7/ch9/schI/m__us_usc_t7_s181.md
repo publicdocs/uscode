@@ -21,13 +21,13 @@
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–173, § 1][/us/pl/100/173/s1], Nov. 23, 1987, [101 Stat. 917][/us/stat/101/917], provided that: 
+[Pub. L. 100–173][/us/pl/100/173], § 1, Nov. 23, 1987, [101 Stat. 917][/us/stat/101/917], provided that: 
 
 > “This Act \[enacting sections 197 and 228b–1 to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title\] may be cited as the ‘Poultry Producers Financial Protection Act of 1987’.”
 
  __Improved Investigative and Enforcement Activities Under This Chapter__ 
 
-[Pub. L. 106–472, title III, § 312(a)][/us/pl/106/472/s312/a]-(d), Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076], 2077, provided that:
+[Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 312(a)-(d), Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076], 2077, provided that:
 
 >     “(a)  __Implementation of General Accounting Office \[now Government Accountability Office\] Recommendations__  __.—__ 
 
@@ -58,9 +58,9 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F159
-[/us/pl/100/173/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs1
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F917
-[/us/pl/106/472/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs312%2Fa
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2076
 [/us/usc/t7/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs181
 

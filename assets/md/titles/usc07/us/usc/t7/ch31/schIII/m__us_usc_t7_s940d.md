@@ -67,7 +67,7 @@
 
         Amounts made available for loans under [section 935 of this title][/us/usc/t7/s935] are authorized to remain available until expended.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 314, as added [Pub. L. 101–508, title I, § 1201][/us/pl/101/508/s1201], Nov. 5, 1990, [104 Stat. 1388–7][/us/stat/104/1388-7]; amended [Pub. L. 103–129, § 2(b)(1)][/us/pl/103/129/s2/b/1], Nov. 1, 1993, [107 Stat. 1362][/us/stat/107/1362]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 314, as added [Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1201, Nov. 5, 1990, [104 Stat. 1388–7][/us/stat/104/1388-7]; amended [Pub. L. 103–129][/us/pl/103/129], § 2(b)(1), Nov. 1, 1993, [107 Stat. 1362][/us/stat/107/1362]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title I, § 1301][/us/pl/101/508/s1301], Nov. 5, 1990, [104 Stat. 1388–12][/us/stat/104/1388-12], provided that: 
+[Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1301, Nov. 5, 1990, [104 Stat. 1388–12][/us/stat/104/1388-12], provided that: 
 
 > “This title and the amendments made by this title \[enacting this section, amending sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1994, 1999, and 5822 of this title and [section 136a of Title 21][/us/usc/t21/s136a], Food and Drugs, enacting provisions set out as notes under sections 136w, 1421, and 1445b–3a of this title, and amending provisions set out as notes under sections 1421 and 1999 of this title\] shall become effective 1 day after the date of enactment of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Nov. 28, 1990\], or December 1, 1990, whichever is earlier.”
 
@@ -95,17 +95,17 @@
 [/us/usc/t7/s935/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935%2Fd%2F2
 [/us/usc/t7/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/101/508/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1201
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-7
-[/us/pl/103/129/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fb%2F1
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1362
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/usc/t7/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs935
 [/us/usc/t7/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs931
-[/us/pl/101/508/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1301
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-12
 [/us/usc/t21/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs136a
 

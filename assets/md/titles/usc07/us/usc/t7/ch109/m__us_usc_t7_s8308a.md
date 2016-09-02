@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title X, § 10409A][/us/pl/107/171/s10409A], as added [Pub. L. 113–79, title XII, § 12105][/us/pl/113/79/s12105], Feb. 7, 2014, [128 Stat. 980][/us/stat/128/980].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10409A, as added [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12105, Feb. 7, 2014, [128 Stat. 980][/us/stat/128/980].)
 
 ----------
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/107/171/s10409A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10409A
-[/us/pl/113/79/s12105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12105
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F980
 
 

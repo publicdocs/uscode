@@ -57,7 +57,7 @@
 
         (4) a laboratory not operated for commercial purposes that performs pesticide chemical residue analysis on agricultural products for research or quality control for the internal use of a person who is initiating the analysis.
 
-([Pub. L. 101–624, title XIII, § 1322][/us/pl/101/624/s1322], Nov. 28, 1990, [104 Stat. 3562][/us/stat/104/3562].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1322, Nov. 28, 1990, [104 Stat. 3562][/us/stat/104/3562].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1322
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3562
 
 

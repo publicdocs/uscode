@@ -37,19 +37,19 @@
 
     (c) A later application shall not by itself establish that a characteristic newly described was in the variety at the time of the earlier application.
 
-([Pub. L. 91–577, title II, § 55][/us/pl/91/577/s55], Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349][/us/pl/103/349], §§ 5, 13(i), Oct. 6, 1994, [108 Stat. 3139][/us/stat/108/3139], 3143.)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 55, Dec. 24, 1970, [84 Stat. 1548][/us/stat/84/1548]; [Pub. L. 103–349][/us/pl/103/349], §§ 5, 13(i), Oct. 6, 1994, [108 Stat. 3139][/us/stat/108/3139], 3143.)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–349, § 5(1)][/us/pl/103/349/s5/1], designated first sentence as par. (1) and second sentence as par. (2).
+    1994—Subsec. (a). [Pub. L. 103–349][/us/pl/103/349], § 5(1), designated first sentence as par. (1) and second sentence as par. (2).
 
-    Subsec. (a)(1). [Pub. L. 103–349, § 5(2)][/us/pl/103/349/s5/2], inserted before period at end “, not including the date on which the application is filed in the foreign country”.
+    Subsec. (a)(1). [Pub. L. 103–349][/us/pl/103/349], § 5(2), inserted before period at end “, not including the date on which the application is filed in the foreign country”.
 
-    Subsec. (a)(2). [Pub. L. 103–349, § 13(i)(1)][/us/pl/103/349/s13/i/1], substituted “in the application filed in the United States” for “in his application”.
+    Subsec. (a)(2). [Pub. L. 103–349][/us/pl/103/349], § 13(i)(1), substituted “in the application filed in the United States” for “in his application”.
 
-    Subsec. (a)(3). [Pub. L. 103–349, § 5(3)][/us/pl/103/349/s5/3], added par. (3).
+    Subsec. (a)(3). [Pub. L. 103–349][/us/pl/103/349], § 5(3), added par. (3).
 
-    Subsec. (b). [Pub. L. 103–349, § 13(i)(2)][/us/pl/103/349/s13/i/2], substituted “the predecessor in title of the person” for “his predecessor in title”.
+    Subsec. (b). [Pub. L. 103–349][/us/pl/103/349], § 13(i)(2), substituted “the predecessor in title of the person” for “his predecessor in title”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/91/577/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs55
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1548
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3139
-[/us/pl/103/349/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs5%2F1
-[/us/pl/103/349/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs5%2F2
-[/us/pl/103/349/s13/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fi%2F1
-[/us/pl/103/349/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs5%2F3
-[/us/pl/103/349/s13/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs13%2Fi%2F2
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
 [/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401

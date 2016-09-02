@@ -37,7 +37,7 @@
 
             (B) any notice given by the Secretary to the United States Trade Representative.
 
-([Pub. L. 95–501, title IV, § 414][/us/pl/95/501/s414], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3685][/us/stat/104/3685]; amended [Pub. L. 104–127, title II, § 242(b)][/us/pl/104/127/s242/b], Apr. 4, 1996, [110 Stat. 965][/us/stat/110/965].)
+([Pub. L. 95–501, title IV][/us/pl/95/501/tIV], § 414, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3685][/us/stat/104/3685]; amended [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 242(b), Apr. 4, 1996, [110 Stat. 965][/us/stat/110/965].)
 
  __Amendments__ 
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/95/501/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs414
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIV
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3685
-[/us/pl/104/127/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs242%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F965
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

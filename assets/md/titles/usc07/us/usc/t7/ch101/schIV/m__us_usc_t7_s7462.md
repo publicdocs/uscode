@@ -77,7 +77,7 @@
 
         The term “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 104–127, title V, § 553][/us/pl/104/127/s553], Apr. 4, 1996, [110 Stat. 1064][/us/stat/110/1064].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 553, Apr. 4, 1996, [110 Stat. 1064][/us/stat/110/1064].)
 
 ----------
 
@@ -88,7 +88,7 @@
 
 [/us/usc/t7/s7464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7464
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
-[/us/pl/104/127/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs553
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1064
 
 

@@ -41,7 +41,7 @@
 
         Funds reserved under subsection (a) and unobligated at the end of the fiscal year shall be returned to the agency from which the funds were reserved, to remain available until expended.
 
-([Pub. L. 106–222, § 4][/us/pl/106/222/s4], June 20, 2000, [114 Stat. 354][/us/stat/114/354].)
+([Pub. L. 106–222][/us/pl/106/222], § 4, June 20, 2000, [114 Stat. 354][/us/stat/114/354].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t7/s7031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7031%2Fb
 [/us/usc/t7/s7031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7031
 [/us/usc/t7/s7032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7032
-[/us/pl/106/222/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222%2Fs4
+[/us/pl/106/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222
 [/us/stat/114/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F354
 
 

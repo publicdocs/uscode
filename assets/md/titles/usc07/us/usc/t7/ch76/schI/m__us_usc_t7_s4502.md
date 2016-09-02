@@ -57,7 +57,7 @@
 
     (o) the term “Customs” means the United States Customs Service.
 
-([Pub. L. 98–180, title I, § 111][/us/pl/98/180/s111], Nov. 29, 1983, [97 Stat. 1136][/us/stat/97/1136]; [Pub. L. 107–171, title I, § 1505(a)][/us/pl/107/171/s1505/a], (h)(2), May 13, 2002, [116 Stat. 207][/us/stat/116/207], 210; [Pub. L. 110–234, title I, § 1507(b)][/us/pl/110/234/s1507/b], May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1507(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725.)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 111, Nov. 29, 1983, [97 Stat. 1136][/us/stat/97/1136]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1505(a), (h)(2), May 13, 2002, [116 Stat. 207][/us/stat/116/207], 210; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1507(b), May 22, 2008, [122 Stat. 997][/us/stat/122/997]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1507(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1725.)
 
  __Codification__ 
 
@@ -65,13 +65,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (l). [Pub. L. 110–246, § 1507(b)(1)][/us/pl/110/246/s1507/b/1], added subsec. (l) and struck out former subsec. (l) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
+    2008—Subsec. (l). [Pub. L. 110–246][/us/pl/110/246], § 1507(b)(1), added subsec. (l) and struck out former subsec. (l) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
 
-    Subsec. (m). [Pub. L. 110–246, § 1507(b)(2)][/us/pl/110/246/s1507/b/2], struck out “(as defined in subsection (l) of this section)” before “, including”.
+    Subsec. (m). [Pub. L. 110–246][/us/pl/110/246], § 1507(b)(2), struck out “(as defined in subsection (l) of this section)” before “, including”.
 
-    2002—Subsec. (d). [Pub. L. 107–171, § 1505(h)(2)][/us/pl/107/171/s1505/h/2], struck out “produced in the United States” before semicolon at end.
+    2002—Subsec. (d). [Pub. L. 107–171][/us/pl/107/171], § 1505(h)(2), struck out “produced in the United States” before semicolon at end.
 
-    Subsec. (m) to (o). [Pub. L. 107–171, § 1505(a)][/us/pl/107/171/s1505/a], added subsecs. (m) to (o).
+    Subsec. (m) to (o). [Pub. L. 107–171][/us/pl/107/171], § 1505(a), added subsecs. (m) to (o).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -89,22 +89,22 @@
 ----------
 
 [/us/usc/t7/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504
-[/us/pl/98/180/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs111
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1136
-[/us/pl/107/171/s1505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fa
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F207
-[/us/pl/110/234/s1507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1507%2Fb
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F997
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fb%2F1
-[/us/pl/110/246/s1507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1507%2Fb%2F2
-[/us/pl/107/171/s1505/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fh%2F2
-[/us/pl/107/171/s1505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

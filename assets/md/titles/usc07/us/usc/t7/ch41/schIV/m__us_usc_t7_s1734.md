@@ -63,15 +63,15 @@
 
         (3) fostering increased food security.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 404, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 96–53, title II, § 209][/us/pl/96/53/s209], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3648][/us/stat/104/3648]; [Pub. L. 104–127, title II, § 214][/us/pl/104/127/s214], Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 404, as added [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 14, Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 89–808][/us/pl/89/808], § 2(E), Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 96–53, title II][/us/pl/96/53/tII], § 209, Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3648][/us/stat/104/3648]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 214, Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 214(1)][/us/pl/104/127/s214/1], inserted “with foreign countries” after “Before entering into agreements”.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 214(1), inserted “with foreign countries” after “Before entering into agreements”.
 
-    Subsec. (b)(2). [Pub. L. 104–127, § 214(2)][/us/pl/104/127/s214/2], inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
+    Subsec. (b)(2). [Pub. L. 104–127][/us/pl/104/127], § 214(2), inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
 
-    Subsec. (c)(1). [Pub. L. 104–127, § 214(3)][/us/pl/104/127/s214/3], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
+    Subsec. (c)(1). [Pub. L. 104–127][/us/pl/104/127], § 214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions outlining aims of assistance programs, namely humanitarian and national interest objectives, and requiring assessments of recipient countries to determine types and quantities of commodities needed, conditions under which distribution should take place, most suitable timing for delivery, etc.
 
@@ -99,19 +99,19 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/86/341/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs14
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F610
-[/us/pl/89/808/s2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FE
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1536
-[/us/pl/96/53/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs209
+[/us/pl/96/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtII
 [/us/stat/93/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F370
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3648
-[/us/pl/104/127/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs214
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F956
-[/us/pl/104/127/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs214%2F1
-[/us/pl/104/127/s214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs214%2F2
-[/us/pl/104/127/s214/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs214%2F3
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808

@@ -17,11 +17,11 @@
 
     Subject to limitations applicable with respect to each appropriation concerned, each appropriation available to the Department of Agriculture may be charged, at any time during a fiscal year, for the benefit of any other appropriation available to the Department, for the purpose of financing the procurement of materials and services, or financing activities or other costs, for which funds are available both in the financing appropriation so charged and in the appropriation so benefited; except that such expenses so financed shall be charged on a final basis, as of a date not later than the close of such fiscal year, to the appropriations so benefited, with appropriate credit to the financing appropriation.
 
-([Pub. L. 89–106, § 8][/us/pl/89/106/s8], Aug. 4, 1965, [79 Stat. 432][/us/stat/79/432].)
+([Pub. L. 89–106][/us/pl/89/106], § 8, Aug. 4, 1965, [79 Stat. 432][/us/stat/79/432].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 579 of Title 5][/us/usc/t5/s579] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 579 of Title 5][/us/usc/t5/s579] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/106/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106%2Fs8
+[/us/pl/89/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106
 [/us/stat/79/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F432
 [/us/usc/t5/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs579
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

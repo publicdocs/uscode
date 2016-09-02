@@ -33,7 +33,7 @@
 
             The action of the Secretary in carrying out paragraph (1) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-([Pub. L. 107–171, title X, § 10409][/us/pl/107/171/s10409], May 13, 2002, [116 Stat. 501][/us/stat/116/501]; [Pub. L. 110–234, title XI, § 11011(2)][/us/pl/110/234/s11011/2], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11011(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10409, May 13, 2002, [116 Stat. 501][/us/stat/116/501]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11011(2), May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11011(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2), (3). [Pub. L. 110–246, § 11011(2)][/us/pl/110/246/s11011/2], added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out “of longer than 60 days” after “review”.
+    2008—Subsec. (b)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out “of longer than 60 days” after “review”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -57,7 +57,7 @@
 
  __National Poultry Improvement Plan__ 
 
-[Pub. L. 113–79, title XII, § 12107][/us/pl/113/79/s12107], Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12107, Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
 
 > “The Secretary of Agriculture shall ensure that the Department of Agriculture continues to administer the diagnostic surveillance program for H5/H7 low pathogenic avian influenza with respect to commercial poultry under section 146.14 of title 9, Code of Federal Regulations (or a successor regulation), without amending the regulations in section 147.43 of title 9, Code of Federal Regulations (as in effect on the date of the enactment of this Act \[Feb. 7, 2014\]), with respect to the governance of the General Conference Committee established under such section. The Secretary of Agriculture shall maintain—
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10409
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F501
-[/us/pl/110/234/s11011/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11011%2F2
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
@@ -91,14 +91,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11011/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11011%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/113/79/s12107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12107
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F982
 
 

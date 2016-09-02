@@ -105,7 +105,7 @@
 
         There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain available to the Secretary for the purposes of this section until expended.
 
-([Pub. L. 95–113, title XIV, § 1415A][/us/pl/95/113/s1415A], as added [Pub. L. 108–161, § 2][/us/pl/108/161/s2], Dec. 6, 2003, [117 Stat. 2014][/us/stat/117/2014]; amended [Pub. L. 110–234, title VII, § 7105(a)][/us/pl/110/234/s7105/a], May 22, 2008, [122 Stat. 1216][/us/stat/122/1216]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7105(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1977.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1415A, as added [Pub. L. 108–161][/us/pl/108/161], § 2, Dec. 6, 2003, [117 Stat. 2014][/us/stat/117/2014]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7105(a), May 22, 2008, [122 Stat. 1216][/us/stat/122/1216]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7105(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1977.)
 
  __References in Text__ 
 
@@ -117,11 +117,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 7105(a)(1)][/us/pl/110/246/s7105/a/1], added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
 
-    Subsec. (c)(8). [Pub. L. 110–246, § 7105(a)(2)][/us/pl/110/246/s7105/a/2], added par. (8).
+    Subsec. (c)(8). [Pub. L. 110–246][/us/pl/110/246], § 7105(a)(2), added par. (8).
 
-    Subsecs. (d) to (f). [Pub. L. 110–246, § 7105(a)(3)][/us/pl/110/246/s7105/a/3], (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+    Subsecs. (d) to (f). [Pub. L. 110–246][/us/pl/110/246], § 7105(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -135,21 +135,21 @@
 ----------
 
 [/us/usc/t5/s5379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5379
-[/us/pl/95/113/s1415A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1415A
-[/us/pl/108/161/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F161%2Fs2
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/108/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F161
 [/us/stat/117/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2014
-[/us/pl/110/234/s7105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7105%2Fa
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1216
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7105%2Fa%2F1
-[/us/pl/110/246/s7105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7105%2Fa%2F2
-[/us/pl/110/246/s7105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7105%2Fa%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

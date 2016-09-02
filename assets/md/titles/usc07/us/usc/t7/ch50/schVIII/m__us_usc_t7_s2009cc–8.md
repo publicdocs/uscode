@@ -87,7 +87,7 @@
 
         The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
 
-([Pub. L. 87–128, title III, § 384I][/us/pl/87/128/s384I], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 396][/us/stat/116/396]; amended [Pub. L. 110–234, title VI, § 6027(c)][/us/pl/110/234/s6027/c], May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6027(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1944.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384I, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 396][/us/stat/116/396]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6027(c), May 22, 2008, [122 Stat. 1182][/us/stat/122/1182]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6027(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1944.)
 
  __Codification__ 
 
@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(3), (4). [Pub. L. 110–246, § 6027(c)][/us/pl/110/246/s6027/c], added par. (3) and redesignated former par. (3) as (4).
+    2008—Subsec. (c)(3), (4). [Pub. L. 110–246][/us/pl/110/246], § 6027(c), added par. (3) and redesignated former par. (3) as (4).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -108,18 +108,18 @@
 ----------
 ----------
 
-[/us/pl/87/128/s384I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384I
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F396
-[/us/pl/110/234/s6027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6027%2Fc
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1182
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6027%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

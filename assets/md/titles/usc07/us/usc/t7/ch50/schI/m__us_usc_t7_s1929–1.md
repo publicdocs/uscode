@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, no funds in this Act or any other Act shall be available to carry out loan programs under the Agricultural Credit Insurance Fund at levels other than those provided for in advance in appropriations Acts.
 
-([Pub. L. 102–142, title III][/us/pl/102/142], Oct. 28, 1991, [105 Stat. 899][/us/stat/105/899].)
+([Pub. L. 102–142, title III][/us/pl/102/142/tIII], Oct. 28, 1991, [105 Stat. 899][/us/stat/105/899].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142
+[/us/pl/102/142/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtIII
 [/us/stat/105/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F899
 
 

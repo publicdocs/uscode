@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Secretary of Energy, may carry out projects that demonstrate the potential of short-rotation silvicultural methods to produce wood for electricity production and industrial energy needs. In carrying out such projects, the Secretary shall cooperate with private industries, Federal and State agencies, and other organizations.
 
-([Pub. L. 101–624, title XXIV, § 2410][/us/pl/101/624/s2410], Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2410, Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2410
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4061
 
 

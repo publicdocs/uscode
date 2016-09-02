@@ -19,7 +19,7 @@
 
     (b) Sums appropriated to carry out this chapter shall not be available for payment of an expense or expenditure incurred by the Board in administering an order.
 
-([Pub. L. 99–198, title XVI, § 1630][/us/pl/99/198/s1630], Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1630, Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t7/s4809/c/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4809%2Fc%2F3%2FB%2Fiv
-[/us/pl/99/198/s1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1630
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1621
 
 

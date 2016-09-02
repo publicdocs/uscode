@@ -27,7 +27,7 @@
 
         Nothing contained in this section shall be construed to diminish the authority of the Attorney General of the United States under [section 516 of title 28][/us/usc/t28/s516] to conduct litigation on behalf of the United States.
 
-([Pub. L. 98–8, title II, § 215][/us/pl/98/8/s215], as added [Pub. L. 102–237, title IX, § 922(b)][/us/pl/102/237/s922/b], Dec. 13, 1991, [105 Stat. 1888][/us/stat/105/1888].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 215, as added [Pub. L. 102–237, title IX][/us/pl/102/237/tIX], § 922(b), Dec. 13, 1991, [105 Stat. 1888][/us/stat/105/1888].)
 
  __Effective Date__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t28/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs516
-[/us/pl/98/8/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs215
-[/us/pl/102/237/s922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs922%2Fb
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/102/237/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIX
 [/us/stat/105/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1888
 [/us/pl/102/237/s1101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fd%2F1
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421

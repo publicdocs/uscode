@@ -17,7 +17,7 @@
 
     A final determination of the Division shall be reviewable and enforceable by any United States district court of competent jurisdiction in accordance with chapter 7 of title 5.
 
-([Pub. L. 103–354, title II, § 279][/us/pl/103/354/s279], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 279, Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs279
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 
 

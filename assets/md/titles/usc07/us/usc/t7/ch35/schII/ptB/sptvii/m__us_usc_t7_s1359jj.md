@@ -23,11 +23,11 @@
 
         The Secretary shall use the services, facilities, funds, and authorities of the Commodity Credit Corporation to carry out this subpart.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359j, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 203][/us/stat/116/203].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359j, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 203][/us/stat/116/203].)
 
  __Prior Provisions__ 
 
-    A prior section 1359jj, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359j, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3488][/us/stat/104/3488], related to administration of this subpart, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359jj, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359j, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3488][/us/stat/104/3488], related to administration of this subpart, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
 ----------
 
@@ -38,10 +38,10 @@
 
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F203
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3488
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

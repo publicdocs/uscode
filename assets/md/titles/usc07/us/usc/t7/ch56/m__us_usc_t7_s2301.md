@@ -19,11 +19,11 @@
 
     It is, therefore, declared to be the policy of Congress and the purpose of this chapter to establish standards of fair practices required of handlers in their dealings in agricultural products.
 
-([Pub. L. 90–288, § 2][/us/pl/90/288/s2], Apr. 16, 1968, [82 Stat. 93][/us/stat/82/93].)
+([Pub. L. 90–288][/us/pl/90/288], § 2, Apr. 16, 1968, [82 Stat. 93][/us/stat/82/93].)
 
  __Short Title__ 
 
-[Pub. L. 90–288, § 1][/us/pl/90/288/s1], Apr. 16, 1968, [82 Stat. 93][/us/stat/82/93], provided: 
+[Pub. L. 90–288][/us/pl/90/288], § 1, Apr. 16, 1968, [82 Stat. 93][/us/stat/82/93], provided: 
 
 > “That this Act \[enacting this chapter\] shall be known as the Agricultural Fair Practices Act of 1967.”
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs2
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93
-[/us/pl/90/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs1
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F93
 
 

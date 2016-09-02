@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-Section, [act June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title V, § 508, [70 Stat. 241][/us/stat/70/241], which provided for availability of appropriations for committee expenses in effectuating research and service work, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, [act June 4, 1956, ch. 355, title V][/us/act/1956-06-04/ch355/tV], § 508, [70 Stat. 241][/us/stat/70/241], which provided for availability of appropriations for committee expenses in effectuating research and service work, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
     [May 23, 1955, ch. 43][/us/act/1955-05-23/ch43], title V, § 509, [69 Stat. 64][/us/stat/69/64].
 
@@ -30,7 +30,7 @@ Section, [act June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title V, § 50
 ----------
 ----------
 
-[/us/act/1956-06-04/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355
+[/us/act/1956-06-04/ch355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355%2FtV
 [/us/stat/70/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F241
 [/us/act/1955-05-23/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-23%2Fch43
 [/us/stat/69/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F64

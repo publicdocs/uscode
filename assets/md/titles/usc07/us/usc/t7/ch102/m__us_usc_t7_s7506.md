@@ -19,7 +19,7 @@
 
     (b) Commodities provided under this chapter shall be distributed only in quantities that can be consumed without waste. No eligible recipient agency may receive commodities under this chapter in excess of anticipated use, based on inventory records and controls, or in excess of its ability to accept and store such commodities.
 
-([Pub. L. 98–8, title II, § 203C][/us/pl/98/8/s203C], as added [Pub. L. 98–92, § 2(5)][/us/pl/98/92/s2/5], Sept. 2, 1983, [97 Stat. 610][/us/stat/97/610]; amended [Pub. L. 99–198, title XV, § 1566][/us/pl/99/198/s1566], Dec. 23, 1985, [99 Stat. 1591][/us/stat/99/1591]; [Pub. L. 104–66, title I, § 1011(k)][/us/pl/104/66/s1011/k], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 203C, as added [Pub. L. 98–92][/us/pl/98/92], § 2(5), Sept. 2, 1983, [97 Stat. 610][/us/stat/97/610]; amended [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1566, Dec. 23, 1985, [99 Stat. 1591][/us/stat/99/1591]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(k), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 98–92, § 2][/us/pl/98/92/s2], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that this section is effective Oct. 1, 1983.
+    [Pub. L. 98–92][/us/pl/98/92], § 2, Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that this section is effective Oct. 1, 1983.
 
 ----------
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/pl/98/8/s203C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs203C
-[/us/pl/98/92/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2%2F5
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F610
-[/us/pl/99/198/s1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1566
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1591
-[/us/pl/104/66/s1011/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fk
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F710
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/98/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
 
 

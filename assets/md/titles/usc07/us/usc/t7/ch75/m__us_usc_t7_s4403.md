@@ -33,7 +33,7 @@
 
     (8) take such other action as may be considered appropriate to implement the agreement and administer this chapter.
 
-([Pub. L. 97–325, § 4][/us/pl/97/325/s4], Oct. 15, 1982, [96 Stat. 1604][/us/stat/96/1604].)
+([Pub. L. 97–325][/us/pl/97/325], § 4, Oct. 15, 1982, [96 Stat. 1604][/us/stat/96/1604].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/97/325/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs4
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1604
 [/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603

@@ -59,11 +59,11 @@
 
         Sections 1308 through 1308–3 of this title, as in effect on September 30, 2013, shall apply to the receipt of transition assistance under this section in the same manner as such sections applied to [section 8713 of this title][/us/usc/t7/s8713].
 
-([Pub. L. 113–79, title I, § 1119][/us/pl/113/79/s1119], Feb. 7, 2014, [128 Stat. 673][/us/stat/128/673].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1119, Feb. 7, 2014, [128 Stat. 673][/us/stat/128/673].)
 
  __References in Text__ 
 
-    [Section 8713 of this title][/us/usc/t7/s8713], referred to in subsecs. (a)(1), (c)(3), and (e), was repealed by [Pub. L. 113–79, title I, § 1101][/us/pl/113/79/s1101], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    [Section 8713 of this title][/us/usc/t7/s8713], referred to in subsecs. (a)(1), (c)(3), and (e), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1101, Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
     [Section 1508b of this title][/us/usc/t7/s1508b], as added by section 11017 of this Act, referred to in subsec. (a)(1), is [section 1508b of this title][/us/usc/t7/s1508b], as added by [section 11017(a) of Pub. L. 113–79][/us/pl/113/79/s11017/a].
 
@@ -80,10 +80,10 @@
 [/us/usc/t7/s9012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9012
 [/us/usc/t7/s8713/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8713%2Fc%2F3
 [/us/usc/t7/s8713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8713
-[/us/pl/113/79/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1119
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F673
 [/us/usc/t7/s8713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8713
-[/us/pl/113/79/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1101
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b
 [/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b

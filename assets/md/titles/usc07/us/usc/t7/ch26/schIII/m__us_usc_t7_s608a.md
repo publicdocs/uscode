@@ -37,7 +37,7 @@
 
         The term “person” as used in this chapter includes an individual, partnership, corporation, association, and any other business unit.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8a, as added [May 9, 1934, ch. 263, § 4][/us/act/1934-05-09/ch263/s4], [48 Stat. 672][/us/stat/48/672]; amended [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 8–10, [49 Stat. 762][/us/stat/49/762]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(c), [50 Stat. 246][/us/stat/50/246], 247; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]; [Pub. L. 87–128, title I, § 141(2)][/us/pl/87/128/s141/2], Aug. 8, 1961, [75 Stat. 304][/us/stat/75/304].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8a, as added [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], § 4, [48 Stat. 672][/us/stat/48/672]; amended [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 8–10, [49 Stat. 762][/us/stat/49/762]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], §§ 1, 2(c), [50 Stat. 246][/us/stat/50/246], 247; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 141(2), Aug. 8, 1961, [75 Stat. 304][/us/stat/75/304].)
 
  __Codification__ 
 
@@ -79,15 +79,15 @@ Provisions of subsecs. (1) to (4), relating to establishment, regulation and det
 ----------
 
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1934-05-09/ch263/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263%2Fs4
+[/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F672
 [/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F762
 [/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/87/128/s141/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs141%2F2
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F304
 [/us/act/1937-09-01/ch898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch898
 [/us/stat/50/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F916

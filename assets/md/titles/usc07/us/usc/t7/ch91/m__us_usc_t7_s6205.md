@@ -35,7 +35,7 @@
 
         (B) necessary to effectuate the other provisions of such order.
 
-([Pub. L. 101–624, title XIX, § 1956][/us/pl/101/624/s1956], Nov. 28, 1990, [104 Stat. 3876][/us/stat/104/3876].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1956, Nov. 28, 1990, [104 Stat. 3876][/us/stat/104/3876].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t7/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6203%2Fa
 [/us/usc/t7/s6204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6204%2Fd
 [/us/usc/t7/s6204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6204%2Fd
-[/us/pl/101/624/s1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1956
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3876
 
 

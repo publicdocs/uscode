@@ -49,7 +49,7 @@
 
         The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 ([16 U.S.C. 2805][/us/usc/t16/s2805]), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-([Pub. L. 95–113, title XIV, § 1475][/us/pl/95/113/s1475], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316]; amended [Pub. L. 99–198, title XIV, § 1429(a)][/us/pl/99/198/s1429/a], Dec. 23, 1985, [99 Stat. 1555][/us/stat/99/1555]; [Pub. L. 101–624, title XVI, § 1614(a)][/us/pl/101/624/s1614/a], Nov. 28, 1990, [104 Stat. 3727][/us/stat/104/3727]; [Pub. L. 104–66, title I, § 1011(u)][/us/pl/104/66/s1011/u], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 820(b)][/us/pl/104/127/s820/b], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7124(a), 7128(b)(1)(B), Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876], 878.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1475, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1440(a), Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316]; amended [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1429(a), Dec. 23, 1985, [99 Stat. 1555][/us/stat/99/1555]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1614(a), Nov. 28, 1990, [104 Stat. 3727][/us/stat/104/3727]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(u), Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 820(b), Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7124(a), 7128(b)(1)(B), Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876], 878.)
 
  __References in Text__ 
 
@@ -57,31 +57,31 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 7128(b)(1)(B)][/us/pl/113/79/s7128/b/1/B], struck out at end of concluding provisions “Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980.”
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(1)(B), struck out at end of concluding provisions “Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980.”
 
-    [Pub. L. 113–79, § 7124(a)][/us/pl/113/79/s7124/a], inserted “competitive” before “grants” in introductory provisions.
+    [Pub. L. 113–79][/us/pl/113/79], § 7124(a), inserted “competitive” before “grants” in introductory provisions.
 
     1996—Subsecs. (e) to (g). [Pub. L. 104–127][/us/pl/104/127] redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
     1995—Subsec. (e). [Pub. L. 104–66][/us/pl/104/66] struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1614(a)(1)][/us/pl/101/624/s1614/a/1], inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(1), inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
 
-    Subsec. (b). [Pub. L. 101–624, § 1614(a)(2)][/us/pl/101/624/s1614/a/2], inserted heading, inserted “and sea grant” after “land-grant” in par. (1), and inserted before period at end “and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds”.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(2), inserted heading, inserted “and sea grant” after “land-grant” in par. (1), and inserted before period at end “and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds”.
 
-    Subsec. (c). [Pub. L. 101–624, § 1614(a)(3)][/us/pl/101/624/s1614/a/3], inserted heading.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(3), inserted heading.
 
-    Subsec. (d). [Pub. L. 101–624, § 1614(a)(4)][/us/pl/101/624/s1614/a/4], inserted heading, substituted “five aquacultural” for “four aquacultural”, and inserted at end “To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.”
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(4), inserted heading, substituted “five aquacultural” for “four aquacultural”, and inserted at end “To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.”
 
-    Subsec. (e). [Pub. L. 101–624, § 1614(a)(5)][/us/pl/101/624/s1614/a/5], inserted heading, designated existing provisions as par. (1), substituted “Not later than March 1 of each year,” for “Not later than one year after the effective date of this subchapter and not later than March 1 of each subsequent year,”, and added par. (2).
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(5), inserted heading, designated existing provisions as par. (1), substituted “Not later than March 1 of each year,” for “Not later than one year after the effective date of this subchapter and not later than March 1 of each subsequent year,”, and added par. (2).
 
-    Subsecs. (f), (g). [Pub. L. 101–624, § 1614(a)(6)][/us/pl/101/624/s1614/a/6], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 101–624][/us/pl/101/624], § 1614(a)(6), added subsecs. (f) and (g).
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1429(a)(1)][/us/pl/99/198/s1429/a/1], (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1429(a)(1), (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
 
-    Subsec. (d). [Pub. L. 99–198, § 1429(a)(3)][/us/pl/99/198/s1429/a/3], (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b)” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
+    Subsec. (d). [Pub. L. 99–198][/us/pl/99/198], § 1429(a)(3), (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b)” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 
-    Subsec. (e). [Pub. L. 99–198, § 1429(a)(5)][/us/pl/99/198/s1429/a/5], inserted “the House Committee on Merchant Marine and Fisheries,”.
+    Subsec. (e). [Pub. L. 99–198][/us/pl/99/198], § 1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
 
 ----------
 
@@ -94,34 +94,34 @@
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
 [/us/usc/t16/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2805%2Fa
 [/us/usc/t16/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2805
-[/us/pl/95/113/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1475
-[/us/pl/97/98/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1440%2Fa
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1316
-[/us/pl/99/198/s1429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1429%2Fa
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1555
-[/us/pl/101/624/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3727
-[/us/pl/104/66/s1011/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fu
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F711
-[/us/pl/104/127/s820/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs820%2Fb
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1168
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1198
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
-[/us/pl/113/79/s7128/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F1%2FB
-[/us/pl/113/79/s7124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7124%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/101/624/s1614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F1
-[/us/pl/101/624/s1614/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F2
-[/us/pl/101/624/s1614/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F3
-[/us/pl/101/624/s1614/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F4
-[/us/pl/101/624/s1614/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F5
-[/us/pl/101/624/s1614/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F6
-[/us/pl/99/198/s1429/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1429%2Fa%2F1
-[/us/pl/99/198/s1429/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1429%2Fa%2F3
-[/us/pl/99/198/s1429/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1429%2Fa%2F5
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 
 

@@ -35,7 +35,7 @@
 
         The Secretary may, in his discretion, compromise, modify, or remit, with or without conditions, any civil penalty assessed under this chapter.
 
-([Pub. L. 96–468, § 6][/us/pl/96/468/s6], Oct. 17, 1980, [94 Stat. 2231][/us/stat/94/2231].)
+([Pub. L. 96–468][/us/pl/96/468], § 6, Oct. 17, 1980, [94 Stat. 2231][/us/stat/94/2231].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/468/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs6
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2231
 
 

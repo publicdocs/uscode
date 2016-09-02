@@ -23,7 +23,7 @@
 
     (3) be produced and handled in compliance with an organic plan agreed to by the producer and handler of such product and the certifying agent.
 
-([Pub. L. 101–624, title XXI, § 2105][/us/pl/101/624/s2105], Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937]; [Pub. L. 102–237, title X, § 1001(1)][/us/pl/102/237/s1001/1], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2105, Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1001(1), Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2105
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3937
-[/us/pl/102/237/s1001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

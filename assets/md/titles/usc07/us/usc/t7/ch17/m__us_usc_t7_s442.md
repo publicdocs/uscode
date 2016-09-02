@@ -17,7 +17,7 @@
 
     For the purpose of preventing crop damage by migratory waterfowl, the Commodity Credit Corporation shall make available to the Secretary of the Interior such wheat, corn, or other grains, acquired through price support operations and certified by the Commodity Credit Corporation to be available for purposes of sections 442 to 445 of this title or in such condition through spoilage or deterioration as not to be desirable for human consumption, as the Secretary of the Interior shall requisition pursuant to [section 443 of this title][/us/usc/t7/s443]. With respect to any grain thus made available, the Commodity Credit Corporation may pay packaging, transporting, handling, and other charges up to the time of delivery to one or more designated locations in each State.
 
-([July 3, 1956, ch. 512, § 1][/us/act/1956-07-03/ch512/s1], [70 Stat. 492][/us/stat/70/492].)
+([July 3, 1956, ch. 512][/us/act/1956-07-03/ch512], § 1, [70 Stat. 492][/us/stat/70/492].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs443
-[/us/act/1956-07-03/ch512/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512%2Fs1
+[/us/act/1956-07-03/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch512
 [/us/stat/70/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F492
 
 

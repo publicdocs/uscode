@@ -37,33 +37,33 @@
 
         (3) be invested, and any interest earned on such investment may be used, for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 203, [68 Stat. 458][/us/stat/68/458]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(c), [70 Stat. 201][/us/stat/70/201]; [Pub. L. 85–128, § 1(3)][/us/pl/85/128/s1/3], Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 86–341, title I, § 3][/us/pl/86/341/s3], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 86–472][/us/pl/86/472], ch. VI, § 601(b), May 14, 1960, [74 Stat. 140][/us/stat/74/140]; [Pub. L. 87–128, title II, § 202(1)][/us/pl/87/128/s202/1], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638, § 1(13)][/us/pl/88/638/s1/13], (14), Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–88, title II, § 209][/us/pl/95/88/s209], Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; [Pub. L. 98–473, title III, § 305][/us/pl/98/473/s305], Oct. 12, 1984, [98 Stat. 2195][/us/stat/98/2195]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3638][/us/stat/104/3638]; [Pub. L. 104–127, title II, § 208][/us/pl/104/127/s208], Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III, § 3003][/us/pl/107/171/s3003], May 13, 2002, [116 Stat. 281][/us/stat/116/281]; [Pub. L. 110–246, title III, § 3009][/us/pl/110/246/s3009], June 18, 2008, [122 Stat. 1824][/us/stat/122/1824].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 203, [68 Stat. 458][/us/stat/68/458]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(c), [70 Stat. 201][/us/stat/70/201]; [Pub. L. 85–128][/us/pl/85/128], § 1(3), Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 3, Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 86–472][/us/pl/86/472], ch. VI, § 601(b), May 14, 1960, [74 Stat. 140][/us/stat/74/140]; [Pub. L. 87–128, title II][/us/pl/87/128/tII], § 202(1), Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638][/us/pl/88/638], § 1(13), (14), Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808][/us/pl/89/808], § 2(C), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–88, title II][/us/pl/95/88/tII], § 209, Aug. 3, 1977, [91 Stat. 548][/us/stat/91/548]; [Pub. L. 98–473, title III][/us/pl/98/473/tIII], § 305, Oct. 12, 1984, [98 Stat. 2195][/us/stat/98/2195]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3638][/us/stat/104/3638]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 208, Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3003, May 13, 2002, [116 Stat. 281][/us/stat/116/281]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3009, June 18, 2008, [122 Stat. 1824][/us/stat/122/1824].)
 
  __Amendments__ 
 
     2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246] inserted “in” before “1 or more recipient countries”.
 
-    2002—[Pub. L. 107–171, § 3003(1)][/us/pl/107/171/s3003/1], struck out “foreign” before “currencies” in section catchline.
+    2002—[Pub. L. 107–171][/us/pl/107/171], § 3003(1), struck out “foreign” before “currencies” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–171, § 3003(2)][/us/pl/107/171/s3003/2], substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
+    Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 3003(2), substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
 
-    Subsec. (b). [Pub. L. 107–171, § 3003(3)][/us/pl/107/171/s3003/3], substituted “1 or more recipient countries, or in 1 or more countries” for “in recipient countries, or in countries” and struck out “foreign currency” before “proceeds”.
+    Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 3003(3), substituted “1 or more recipient countries, or in 1 or more countries” for “in recipient countries, or in countries” and struck out “foreign currency” before “proceeds”.
 
-    Subsec. (c). [Pub. L. 107–171, § 3003(4)][/us/pl/107/171/s3003/4], struck out “foreign currency” before “proceeds” and substituted “1 or more recipient countries, or in 1 or more countries” for “the recipient country, or in a country”.
+    Subsec. (c). [Pub. L. 107–171][/us/pl/107/171], § 3003(4), struck out “foreign currency” before “proceeds” and substituted “1 or more recipient countries, or in 1 or more countries” for “the recipient country, or in a country”.
 
-    Subsec. (d). [Pub. L. 107–171, § 3003(5)(A)][/us/pl/107/171/s3003/5/A], substituted “Proceeds” for “Foreign currencies” in introductory provisions.
+    Subsec. (d). [Pub. L. 107–171][/us/pl/107/171], § 3003(5)(A), substituted “Proceeds” for “Foreign currencies” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 107–171, § 3003(5)(B)][/us/pl/107/171/s3003/5/B], substituted “income-generating” for “income generating” and “1 or more recipient countries or within 1 or more countries” for “the recipient country or within a country”.
+    Subsec. (d)(2). [Pub. L. 107–171][/us/pl/107/171], § 3003(5)(B), substituted “income-generating” for “income generating” and “1 or more recipient countries or within 1 or more countries” for “the recipient country or within a country”.
 
-    Subsec. (d)(3). [Pub. L. 107–171, § 3003(5)(C)][/us/pl/107/171/s3003/5/C], inserted comma after “invested” and after “investment may be used”.
+    Subsec. (d)(3). [Pub. L. 107–171][/us/pl/107/171], § 3003(5)(C), inserted comma after “invested” and after “investment may be used”.
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 208(1)][/us/pl/104/127/s208/1], inserted “, or in a country in the same region,” after “in the recipient country”.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
 
-    Subsec. (b). [Pub. L. 104–127, § 208(2)][/us/pl/104/127/s208/2], inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
 
-    Subsec. (c). [Pub. L. 104–127, § 208(3)][/us/pl/104/127/s208/3], inserted “or in a country in the same region,” after “recipient country,”.
+    Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 208(3), inserted “or in a country in the same region,” after “recipient country,”.
 
-    Subsec. (d)(2). [Pub. L. 104–127, § 208(4)][/us/pl/104/127/s208/4], inserted “or within a country in the same region” after “recipient country”.
+    Subsec. (d)(2). [Pub. L. 104–127][/us/pl/104/127], § 208(4), inserted “or within a country in the same region” after “recipient country”.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
@@ -103,11 +103,11 @@
 
  __Effective Date of 1964 Amendment__ 
 
-    [Pub. L. 88–638, § 1(13)][/us/pl/88/638/s1/13], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037], provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
+    [Pub. L. 88–638][/us/pl/88/638], § 1(13), Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037], provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–341, title I, § 3][/us/pl/86/341/s3], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606], provided that the amendment made by section 3 is effective Jan. 1, 1960.
+    [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 3, Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606], provided that the amendment made by section 3 is effective Jan. 1, 1960.
 
 ----------
 
@@ -120,42 +120,42 @@
 [/us/stat/68/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F458
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F201
-[/us/pl/85/128/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128%2Fs1%2F3
+[/us/pl/85/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128
 [/us/stat/71/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F345
-[/us/pl/86/341/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs3
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F606
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F140
-[/us/pl/87/128/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs202%2F1
+[/us/pl/87/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
-[/us/pl/88/638/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F13
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/stat/78/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1037
-[/us/pl/89/808/s2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FC
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
-[/us/pl/95/88/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs209
+[/us/pl/95/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtII
 [/us/stat/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F548
-[/us/pl/98/473/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs305
+[/us/pl/98/473/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtIII
 [/us/stat/98/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2195
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3638
-[/us/pl/104/127/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs208
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F954
-[/us/pl/107/171/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F281
-[/us/pl/110/246/s3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3009
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1824
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/107/171/s3003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F1
-[/us/pl/107/171/s3003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F2
-[/us/pl/107/171/s3003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F3
-[/us/pl/107/171/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F4
-[/us/pl/107/171/s3003/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F5%2FA
-[/us/pl/107/171/s3003/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F5%2FB
-[/us/pl/107/171/s3003/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3003%2F5%2FC
-[/us/pl/104/127/s208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs208%2F1
-[/us/pl/104/127/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs208%2F2
-[/us/pl/104/127/s208/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs208%2F3
-[/us/pl/104/127/s208/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs208%2F4
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
@@ -179,9 +179,9 @@
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/pl/89/808/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs5
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/88/638/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F13
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/stat/78/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1037
-[/us/pl/86/341/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs3
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F606
 
 

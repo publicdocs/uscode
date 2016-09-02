@@ -127,7 +127,7 @@
 
         There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b).
 
-([Pub. L. 87–128, title III, § 379][/us/pl/87/128/s379], as added [Pub. L. 107–171, title VI, § 6022][/us/pl/107/171/s6022], May 13, 2002, [116 Stat. 368][/us/stat/116/368].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 379, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6022, May 13, 2002, [116 Stat. 368][/us/stat/116/368].)
 
  __References in Text__ 
 
@@ -142,8 +142,8 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/87/128/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs379
-[/us/pl/107/171/s6022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6022
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F368
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

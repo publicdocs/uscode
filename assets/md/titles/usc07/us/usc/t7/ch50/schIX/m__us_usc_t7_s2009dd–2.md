@@ -171,7 +171,7 @@
 
         The Secretary, on a reimbursable basis from funds made available under [section 2009dd–7 of this title][/us/usc/t7/s2009dd–7], may provide such administrative support to the National Board as the Secretary determines is necessary.
 
-([Pub. L. 87–128, title III, § 385C][/us/pl/87/128/s385C], as added [Pub. L. 107–171, title VI, § 6030][/us/pl/107/171/s6030], May 13, 2002, [116 Stat. 403][/us/stat/116/403]; amended [Pub. L. 110–234, title VI, § 6028][/us/pl/110/234/s6028], May 22, 2008, [122 Stat. 1184][/us/stat/122/1184]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1945; [Pub. L. 113–188, title I, § 101(e)(1)][/us/pl/113/188/s101/e/1], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 385C, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6030, May 13, 2002, [116 Stat. 403][/us/stat/116/403]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6028, May 22, 2008, [122 Stat. 1184][/us/stat/122/1184]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1945; [Pub. L. 113–188, title I][/us/pl/113/188/tI], § 101(e)(1), Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017].)
 
  __References in Text__ 
 
@@ -185,7 +185,7 @@
 
     2014—Subsec. (b)(7)(B) to (D). [Pub. L. 113–188][/us/pl/113/188] inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), and struck out subpar. (D) which related to annual reports evaluating the performance of the Regional Boards.
 
-    2008—[Pub. L. 110–246, § 6028][/us/pl/110/246/s6028], amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 6028, amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -200,14 +200,14 @@
 
 [/us/usc/t18/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fa
 [/us/usc/t7/s2009dd–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009dd%E2%80%937
-[/us/pl/87/128/s385C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs385C
-[/us/pl/107/171/s6030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6030
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F403
-[/us/pl/110/234/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6028
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1184
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/188/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fe%2F1
+[/us/pl/113/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtI
 [/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -215,7 +215,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/110/246/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6028
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

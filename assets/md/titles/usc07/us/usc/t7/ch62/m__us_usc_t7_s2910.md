@@ -19,7 +19,7 @@
 
     (b) The provisions of this chapter applicable to the order shall be applicable to amendments to the order.
 
-([Pub. L. 94–294, § 11][/us/pl/94/294/s11], May 28, 1976, [90 Stat. 535][/us/stat/90/535]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606].)
+([Pub. L. 94–294][/us/pl/94/294], § 11, May 28, 1976, [90 Stat. 535][/us/stat/90/535]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/94/294/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs11
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F535
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1606
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

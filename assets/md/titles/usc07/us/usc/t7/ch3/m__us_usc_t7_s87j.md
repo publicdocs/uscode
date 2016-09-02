@@ -35,7 +35,7 @@
 
         The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 21, as added [Pub. L. 100–518, § 2(5)][/us/pl/100/518/s2/5], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 13(b)(1), 14(c), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529], 1530; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 109][/us/pl/106/472/s109], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(g)][/us/pl/114/54/s301/g], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 21, as added [Pub. L. 100–518][/us/pl/100/518], § 2(5), Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 13(b)(1), 14(c), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529], 1530; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 109, Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83][/us/pl/109/83], § 1(a), Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III][/us/pl/114/54/tIII], § 301(g), Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
     1994—Subsecs. (a), (c). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator”.
 
-    1993—Subsec. (a). [Pub. L. 103–156, § 13(b)(1)][/us/pl/103/156/s13/b/1], struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under [section 87i of this title][/us/usc/t7/s87i] (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under [section 87i of this title][/us/usc/t7/s87i] to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under [section 87i of this title][/us/usc/t7/s87i].”
+    1993—Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under [section 87i of this title][/us/usc/t7/s87i] (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under [section 87i of this title][/us/usc/t7/s87i] to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under [section 87i of this title][/us/usc/t7/s87i].”
 
-    Subsec. (e). [Pub. L. 103–156, § 14(c)][/us/pl/103/156/s14/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–156][/us/pl/103/156], § 14(c), added subsec. (e).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -76,17 +76,17 @@
 [/us/usc/t7/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/100/518/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518%2Fs2%2F5
+[/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/stat/102/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2586
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1529
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/106/472/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs109
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
-[/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
+[/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
-[/us/pl/114/54/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fg
+[/us/pl/114/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtIII
 [/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
@@ -95,11 +95,11 @@
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs13%2Fb%2F1
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/usc/t7/s87i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87i
 [/us/usc/t7/s87i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87i
 [/us/usc/t7/s87i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87i
-[/us/pl/103/156/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs14%2Fc
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/106/472/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs111
 [/us/usc/t7/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79

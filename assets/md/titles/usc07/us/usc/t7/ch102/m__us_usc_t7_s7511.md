@@ -17,7 +17,7 @@
 
     Whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary for distribution within the States to eligible recipient agencies, the State may not charge recipient agencies any amount that is in excess of the State’s direct costs of storing and transporting the commodities to recipient agencies minus any amount the Secretary provides the State for the costs of storing and transporting such commodities.
 
-([Pub. L. 98–8, title II, § 208][/us/pl/98/8/s208], Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 208, Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/8/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs208
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
 [/us/stat/97/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F36
 
 

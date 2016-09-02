@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–624, title XX, § 2002][/us/pl/101/624/s2002], Nov. 28, 1990, [104 Stat. 3928][/us/stat/104/3928], provided for establishment of Committee on Grain Quality and Grain Quality Coordinator, established duties of Coordinator with respect to grain quality and competitiveness, and provided for termination of section on Jan. 1, 2001.
+    Section, [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2002, Nov. 28, 1990, [104 Stat. 3928][/us/stat/104/3928], provided for establishment of Committee on Grain Quality and Grain Quality Coordinator, established duties of Coordinator with respect to grain quality and competitiveness, and provided for termination of section on Jan. 1, 2001.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2002
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3928
 
 

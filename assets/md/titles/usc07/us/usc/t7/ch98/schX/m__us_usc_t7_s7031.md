@@ -57,7 +57,7 @@
 
         Not later than 180 days after June 20, 2000, the Secretary shall submit to Congress a report that describes the progress made toward implementing the Internet-based system required under this section.
 
-([Pub. L. 106–222, § 2][/us/pl/106/222/s2], June 20, 2000, [114 Stat. 353][/us/stat/114/353].)
+([Pub. L. 106–222][/us/pl/106/222], § 2, June 20, 2000, [114 Stat. 353][/us/stat/114/353].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t7/s6915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6915
-[/us/pl/106/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222%2Fs2
+[/us/pl/106/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F222
 [/us/stat/114/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F353
 
 

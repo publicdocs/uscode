@@ -33,7 +33,7 @@
 
             (B) substantively complied with all program requirements.
 
-([Pub. L. 113–79, title I, § 1613][/us/pl/113/79/s1613], Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1613, Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1613
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F710
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

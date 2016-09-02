@@ -23,11 +23,11 @@
 
     (c) “small farm” means any farm (1) producing family net income from all sources (farm and nonfarm) below the median nonmetropolitan income of the State; (2) operated by a family dependent on farming for a significant though not necessarily a majority of its income; and (3) on which family members provide most of the labor and management.
 
-([Pub. L. 92–419, title V, § 506][/us/pl/92/419/s506], as added [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 506, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].)
 
  __Prior Provisions__ 
 
-    A prior section 2666, [Pub. L. 92–419, title V, § 506][/us/pl/92/419/s506], Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674], related to withholding of funds, the keeping of a separate account in the Treasury, appeal by a State to Congress, covering of moneys into the Treasury, and State money replacement, prior to repeal by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
+    A prior section 2666, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 506, Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674], related to withholding of funds, the keeping of a separate account in the Treasury, appeal by a State to Congress, covering of moneys into the Treasury, and State money replacement, prior to repeal by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
 
     Provisions similar to those comprising this section were contained in former [section 2667 of this title][/us/usc/t7/s2667], prior to repeal by [Pub. L. 97–98][/us/pl/97/98].
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/92/419/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs506
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
-[/us/pl/92/419/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs506
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F674
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
 [/us/usc/t7/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2667
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

@@ -27,7 +27,7 @@
 
         The Secretary may amend, from time to time, the dairy products research order issued under subsection (b).
 
-([Pub. L. 98–180, title I, § 132][/us/pl/98/180/s132], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1369][/us/stat/99/1369].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 132, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1369][/us/stat/99/1369].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t7/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4505
-[/us/pl/98/180/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs132
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1369
 
 

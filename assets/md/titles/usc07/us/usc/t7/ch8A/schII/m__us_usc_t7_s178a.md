@@ -25,13 +25,13 @@
 
     (d) The term “native” means hydrocarbon-containing plants and other agricultural crops of strategic and industrial importance which may be cultured in North America, especially plants which are members of the genus Parthenium known as Guayule.
 
-([Pub. L. 95–592, § 3][/us/pl/95/592/s3], Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529]; [Pub. L. 98–284, § 3][/us/pl/98/284/s3], May 16, 1984, [98 Stat. 181][/us/stat/98/181].)
+([Pub. L. 95–592][/us/pl/95/592], § 3, Nov. 4, 1978, [92 Stat. 2529][/us/stat/92/2529]; [Pub. L. 98–284][/us/pl/98/284], § 3, May 16, 1984, [98 Stat. 181][/us/stat/98/181].)
 
  __Amendments__ 
 
-    1984—Subsec. (d). [Pub. L. 98–284, § 3(a)][/us/pl/98/284/s3/a], inserted “and other agricultural crops of strategic and industrial importance” and “plants which are”.
+    1984—Subsec. (d). [Pub. L. 98–284][/us/pl/98/284], § 3(a), inserted “and other agricultural crops of strategic and industrial importance” and “plants which are”.
 
-    Subsec. (e). [Pub. L. 98–284, § 3(b)][/us/pl/98/284/s3/b], struck out subsec. (e) which defined “Regional Commissions” as the Regional Action Planning Commissions established pursuant to title V of the Public Works and Economic Development Act of 1965.
+    Subsec. (e). [Pub. L. 98–284][/us/pl/98/284], § 3(b), struck out subsec. (e) which defined “Regional Commissions” as the Regional Action Planning Commissions established pursuant to title V of the Public Works and Economic Development Act of 1965.
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/95/592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs3
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2529
-[/us/pl/98/284/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs3
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F181
-[/us/pl/98/284/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs3%2Fa
-[/us/pl/98/284/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs3%2Fb
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 
 

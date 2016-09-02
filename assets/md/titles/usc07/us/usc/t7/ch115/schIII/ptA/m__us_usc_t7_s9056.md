@@ -41,7 +41,7 @@
 
             (B) the production history of the participating dairy operation divided by 6.
 
-([Pub. L. 113–79, title I, § 1406][/us/pl/113/79/s1406], Feb. 7, 2014, [128 Stat. 691][/us/stat/128/691].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1406, Feb. 7, 2014, [128 Stat. 691][/us/stat/128/691].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1406
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F691
 
 

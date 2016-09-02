@@ -51,7 +51,7 @@
 
     (17) The term “cost of plant material” means the actual price paid by a producer for any propagational material or any other flowers and plants used in the production of flowers and plants. This term does not include the cost of seeds.
 
-([Pub. L. 97–98, title XVII, § 1703][/us/pl/97/98/s1703], Dec. 22, 1981, [95 Stat. 1349][/us/stat/95/1349].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1703, Dec. 22, 1981, [95 Stat. 1349][/us/stat/95/1349].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t7/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4306
-[/us/pl/97/98/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1703
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1349
 
 

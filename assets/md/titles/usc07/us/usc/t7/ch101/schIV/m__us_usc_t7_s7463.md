@@ -37,7 +37,7 @@
 
         The Secretary may amend any order issued under this section. The provisions of this subchapter applicable to an order shall be applicable to an amendment to an order, except that an amendment to an order shall not require a referendum to become effective.
 
-([Pub. L. 104–127, title V, § 554][/us/pl/104/127/s554], Apr. 4, 1996, [110 Stat. 1065][/us/stat/110/1065]; [Pub. L. 105–185, title VI, § 603(a)][/us/pl/105/185/s603/a], June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 554, Apr. 4, 1996, [110 Stat. 1065][/us/stat/110/1065]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 603(a), June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t7/s7461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7461%2Fb
-[/us/pl/104/127/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs554
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1065
-[/us/pl/105/185/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs603%2Fa
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

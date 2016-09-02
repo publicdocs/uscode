@@ -61,7 +61,7 @@
 
         This section shall not affect any rights or obligations arising out of any transaction subject to this section, as in effect before November 10, 1986, that was entered into, or the execution of which was confirmed, before November 10, 1986.
 
-([Sept. 21, 1922, ch. 369, § 19][/us/act/1922-09-21/ch369/s19], as added [Pub. L. 95–405, § 23][/us/pl/95/405/s23], Sept. 30, 1978, [92 Stat. 876][/us/stat/92/876]; amended [Pub. L. 97–444, title II, § 234][/us/pl/97/444/s234], Jan. 11, 1983, [96 Stat. 2322][/us/stat/96/2322]; [Pub. L. 99–641, title I, § 109][/us/pl/99/641/s109], Nov. 10, 1986, [100 Stat. 3560][/us/stat/100/3560].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 19, as added [Pub. L. 95–405][/us/pl/95/405], § 23, Sept. 30, 1978, [92 Stat. 876][/us/stat/92/876]; amended [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 234, Jan. 11, 1983, [96 Stat. 2322][/us/stat/96/2322]; [Pub. L. 99–641, title I][/us/pl/99/641/tI], § 109, Nov. 10, 1986, [100 Stat. 3560][/us/stat/100/3560].)
 
  __Prior Provisions__ 
 
@@ -77,9 +77,9 @@
 
     Subsec. (d). [Pub. L. 99–641][/us/pl/99/641], in amending section generally, added subsec. (d).
 
-    1983—Subsec. (c). [Pub. L. 97–444, § 234(1)][/us/pl/97/444/s234/1], substituted “shall regulate” for “may prohibit or regulate” and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
+    1983—Subsec. (c). [Pub. L. 97–444][/us/pl/97/444], § 234(1), substituted “shall regulate” for “may prohibit or regulate” and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
 
-    Subsec. (d). [Pub. L. 97–444, § 234(2)][/us/pl/97/444/s234/2], struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
+    Subsec. (d). [Pub. L. 97–444][/us/pl/97/444], § 234(2), struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -96,12 +96,12 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs19
-[/us/pl/95/405/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs23
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F876
-[/us/pl/97/444/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs234
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2322
-[/us/pl/99/641/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs109
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3560
 [/us/usc/t7/s15a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs15a
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
@@ -109,8 +109,8 @@
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
-[/us/pl/97/444/s234/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs234%2F1
-[/us/pl/97/444/s234/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs234%2F2
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/97/444/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs239
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2

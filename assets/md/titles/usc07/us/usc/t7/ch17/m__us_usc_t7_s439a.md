@@ -23,7 +23,7 @@
 
     Such plants may be operated in the furtherance of any authorized activities of the Department of Agriculture, and any lease, or other arrangement may be upon such terms and conditions as to result in the plant being operated for such purposes.
 
-([July 2, 1948, ch. 818, § 2][/us/act/1948-07-02/ch818/s2], [62 Stat. 1234][/us/stat/62/1234].)
+([July 2, 1948, ch. 818][/us/act/1948-07-02/ch818], § 2, [62 Stat. 1234][/us/stat/62/1234].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1948-07-02/ch818/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818%2Fs2
+[/us/act/1948-07-02/ch818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-02%2Fch818
 [/us/stat/62/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1234
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

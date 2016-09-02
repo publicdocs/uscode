@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Sept. 21, 1922, ch. 369, § 4q][/us/act/1922-09-21/ch369/s4q], formerly § 4p, as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404, and renumbered, which related to special procedures to encourage and facilitate bona fide hedging by agricultural producers, was transferred to [section 6q of this title][/us/usc/t7/s6q].
+    Section, [Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4q, formerly § 4p, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404, and renumbered, which related to special procedures to encourage and facilitate bona fide hedging by agricultural producers, was transferred to [section 6q of this title][/us/usc/t7/s6q].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4q
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t7/s6q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6q
 

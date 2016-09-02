@@ -95,7 +95,7 @@
 
             Referenda under this section shall be conducted at locations determined by the Secretary. On request, absentee mail ballots shall be furnished by the Secretary in a manner prescribed by the Secretary.
 
-([Pub. L. 104–127, title V, § 537][/us/pl/104/127/s537], Apr. 4, 1996, [110 Stat. 1058][/us/stat/110/1058]; [Pub. L. 110–234, title VII, § 7511(c)(28)][/us/pl/110/234/s7511/c/28], May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(28), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 537, Apr. 4, 1996, [110 Stat. 1058][/us/stat/110/1058]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(28), May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(28), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 
  __Codification__ 
 
@@ -103,7 +103,7 @@
 
  __Amendments__ 
 
-    2008—Subsecs. (a)(2), (b)(3)(B)(i). [Pub. L. 110–246, § 7511(c)(28)][/us/pl/110/246/s7511/c/28], substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
+    2008—Subsecs. (a)(2), (b)(3)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(28), substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -119,17 +119,17 @@
 ----------
 
 [/us/usc/t7/s7443/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7443%2Fb%2F3
-[/us/pl/104/127/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs537
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1058
-[/us/pl/110/234/s7511/c/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F28
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1270
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F28
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

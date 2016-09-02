@@ -37,11 +37,11 @@
 
     (b) The quantity of any commodity in the commodity set-aside shall be reduced to the extent that the Commodity Credit Corporation inventory of such commodity is reduced, by natural or other cause beyond the control of the Corporation, below the quantity then charged to the commodity set-aside.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 103, [68 Stat. 897][/us/stat/68/897]; [Pub. L. 96–41, § 3(a)(1)][/us/pl/96/41/s3/a/1], July 30, 1979, [93 Stat. 324][/us/stat/93/324]; [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 103, [68 Stat. 897][/us/stat/68/897]; [Pub. L. 96–41][/us/pl/96/41], § 3(a)(1), July 30, 1979, [93 Stat. 324][/us/stat/93/324]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
 
  __References in Text__ 
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
  __Amendments__ 
 
@@ -66,12 +66,12 @@
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F897
-[/us/pl/96/41/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs3%2Fa%2F1
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F324
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41

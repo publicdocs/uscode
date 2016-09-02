@@ -17,7 +17,7 @@
 
     The Secretaries shall coordinate the conduct of, and may contract with the National Science Foundation, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and other suitable Federal agencies for, such scientific research and development as may be necessary or appropriate in support of the coordinated program and the comprehensive plan and in furtherance of the purposes and objectives of this chapter.
 
-([Pub. L. 101–445, title I, § 105][/us/pl/101/445/s105], Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 105, Oct. 22, 1990, [104 Stat. 1040][/us/stat/104/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/445/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs105
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1040
 
 

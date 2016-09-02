@@ -53,7 +53,7 @@
 
         Funds provided to each State under this subchapter may be used to finance programs through or at private and publicly supported colleges and universities other than the institutions responsible for administering the programs, as provided under [section 2664 of this title][/us/usc/t7/s2664].
 
-([Pub. L. 92–419, title V, § 503][/us/pl/92/419/s503], as added [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1324][/us/stat/95/1324]; amended [Pub. L. 99–198, title XIV, § 1440(b)][/us/pl/99/198/s1440/b], Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2389(c)(2), 2390(b)(2), Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], 4056; [Pub. L. 102–237, title IV, § 403(b)][/us/pl/102/237/s403/b], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VII, § 792(b)(2)][/us/pl/104/127/s792/b/2], Apr. 4, 1996, [110 Stat. 1152][/us/stat/110/1152].)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 503, as added [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1324][/us/stat/95/1324]; amended [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1440(b), Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], §§ 2389(c)(2), 2390(b)(2), Nov. 28, 1990, [104 Stat. 4055][/us/stat/104/4055], 4056; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 403(b), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 792(b)(2), Apr. 4, 1996, [110 Stat. 1152][/us/stat/110/1152].)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 2663, [Pub. L. 92–419, title V, § 503][/us/pl/92/419/s503], Aug. 30, 1972, [86 Stat. 672][/us/stat/86/672]; [Pub. L. 94–259, § 1][/us/pl/94/259/s1], Apr. 5, 1976, [90 Stat. 314][/us/stat/90/314]; [Pub. L. 95–113, title XIV, § 1441][/us/pl/95/113/s1441], Sept. 29, 1977, [91 Stat. 1006][/us/stat/91/1006]; [Pub. L. 96–355, § 4(1)][/us/pl/96/355/s4/1]–(3), Sept. 24, 1980, [94 Stat. 1173][/us/stat/94/1173], 1174, related to program moneys, prior to repeal by [Pub. L. 97–98, title XIV, § 1444(a)][/us/pl/97/98/s1444/a], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
+    A prior section 2663, [Pub. L. 92–419, title V][/us/pl/92/419/tV], § 503, Aug. 30, 1972, [86 Stat. 672][/us/stat/86/672]; [Pub. L. 94–259][/us/pl/94/259], § 1, Apr. 5, 1976, [90 Stat. 314][/us/stat/90/314]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1441, Sept. 29, 1977, [91 Stat. 1006][/us/stat/91/1006]; [Pub. L. 96–355][/us/pl/96/355], § 4(1)–(3), Sept. 24, 1980, [94 Stat. 1173][/us/stat/94/1173], 1174, related to program moneys, prior to repeal by [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(a), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–127, § 792(b)(2)(A)(ii)][/us/pl/104/127/s792/b/2/A/ii], (iii), which directed substitution of “subsections (e), (h), and (i) of [section 2662 of this title][/us/usc/t7/s2662] shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of [section 2662 of this title][/us/usc/t7/s2662]” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by [Pub. L. 102–237][/us/pl/102/237], which substituted “subsections (e) and (i) of [section 2662 of this title][/us/usc/t7/s2662] shall be distributed” for “the provisions of [section 2662(e) of this title][/us/usc/t7/s2662/e] shall be distributed” and “objectives of those subsections” for “objectives of [section 2662(e) of this title][/us/usc/t7/s2662/e]”. See 1991 Amendment note below.
+    1996—Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of [section 2662 of this title][/us/usc/t7/s2662] shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of [section 2662 of this title][/us/usc/t7/s2662]” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by [Pub. L. 102–237][/us/pl/102/237], which substituted “subsections (e) and (i) of [section 2662 of this title][/us/usc/t7/s2662] shall be distributed” for “the provisions of [section 2662(e) of this title][/us/usc/t7/s2662/e] shall be distributed” and “objectives of those subsections” for “objectives of [section 2662(e) of this title][/us/usc/t7/s2662/e]”. See 1991 Amendment note below.
 
-    [Pub. L. 104–127, § 792(b)(2)(A)(i)][/us/pl/104/127/s792/b/2/A/i], (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out [section 2662(f) of this title][/us/usc/t7/s2662/f] to colleges and universities in accordance with the requirements of such subsection.”
+    [Pub. L. 104–127][/us/pl/104/127], § 792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out [section 2662(f) of this title][/us/usc/t7/s2662/f] to colleges and universities in accordance with the requirements of such subsection.”
 
     1991—Subsec. (c)(1). [Pub. L. 102–237][/us/pl/102/237] substituted “subsections (e) and (i) of [section 2662 of this title][/us/usc/t7/s2662]” for “the provisions of [section 2662(e) of this title][/us/usc/t7/s2662/e]” and “objectives of those subsections” for “objectives of [section 2662(e) of this title][/us/usc/t7/s2662/e]”.
 
-    1990—Subsec. (c). [Pub. L. 101–624, § 2390(b)(2)][/us/pl/101/624/s2390/b/2], which directed substitution of “[section 2662(f) of this title][/us/usc/t7/s2662/f], and [section 2662(h) of this title][/us/usc/t7/s2662/h]” for “and [section 2662(f) of this title][/us/usc/t7/s2662/f]”, could not be executed because of prior amendment by [Pub. L. 101–624, § 2389(c)(2)(B)][/us/pl/101/624/s2389/c/2/B], which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
+    1990—Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 2390(b)(2), which directed substitution of “[section 2662(f) of this title][/us/usc/t7/s2662/f], and [section 2662(h) of this title][/us/usc/t7/s2662/h]” for “and [section 2662(f) of this title][/us/usc/t7/s2662/f]”, could not be executed because of prior amendment by [Pub. L. 101–624][/us/pl/101/624], § 2389(c)(2)(B), which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
 
-    [Pub. L. 101–624, § 2389(c)(2)][/us/pl/101/624/s2389/c/2], inserted heading, designated existing provisions as par. (1), struck out “and section 2662(f)” before “of this title” in two places, and added par. (2).
+    [Pub. L. 101–624][/us/pl/101/624], § 2389(c)(2), inserted heading, designated existing provisions as par. (1), struck out “and section 2662(f)” before “of this title” in two places, and added par. (2).
 
     1985—Subsec. (c). [Pub. L. 99–198][/us/pl/99/198] inserted references to [section 2662(f) of this title][/us/usc/t7/s2662/f].
 
@@ -94,16 +94,16 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2664
-[/us/pl/92/419/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs503
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1324
-[/us/pl/99/198/s1440/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1440%2Fb
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1560
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4055
-[/us/pl/102/237/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs403%2Fb
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127/s792/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fb%2F2
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1152
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
@@ -111,35 +111,35 @@
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/92/419/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs503
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
 [/us/stat/86/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F672
-[/us/pl/94/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F259%2Fs1
+[/us/pl/94/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F259
 [/us/stat/90/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F314
-[/us/pl/95/113/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1441
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1006
-[/us/pl/96/355/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs4%2F1
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1173
-[/us/pl/97/98/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
-[/us/pl/104/127/s792/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fb%2F2%2FA%2Fii
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662
 [/us/usc/t7/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662
 [/us/usc/t7/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Fe
 [/us/usc/t7/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Fe
-[/us/pl/104/127/s792/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs792%2Fb%2F2%2FA%2Fi
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s2662/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Ff
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662
 [/us/usc/t7/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Fe
 [/us/usc/t7/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Fe
-[/us/pl/101/624/s2390/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2390%2Fb%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s2662/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Ff
 [/us/usc/t7/s2662/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Fh
 [/us/usc/t7/s2662/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Ff
-[/us/pl/101/624/s2389/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fc%2F2%2FB
-[/us/pl/101/624/s2389/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2389%2Fc%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s2662/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2662%2Ff
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

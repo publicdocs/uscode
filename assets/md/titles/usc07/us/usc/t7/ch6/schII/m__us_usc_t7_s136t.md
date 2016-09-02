@@ -23,7 +23,7 @@
 
         The Administrator shall cooperate with Department of Agriculture, any other Federal agency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.
 
-([June 25, 1947, ch. 125, § 22][/us/act/1947-06-25/ch125/s22], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 22, as added [Pub. L. 92–516][/us/pl/92/516], § 2, Oct. 21, 1972, [86 Stat. 996][/us/stat/86/996].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs22
-[/us/pl/92/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F996
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

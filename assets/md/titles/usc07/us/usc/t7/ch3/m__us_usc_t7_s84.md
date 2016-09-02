@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s79d.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s80...83.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
 
 ## § 84. Licensing of inspectors
 
@@ -43,7 +43,7 @@
 
         The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: Provided, That persons licensed or authorized on October 21, 1976, to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 8, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 764][/us/stat/82/764]; [Pub. L. 94–582, § 10][/us/pl/94/582/s10], Oct. 21, 1976, [90 Stat. 2877][/us/stat/90/2877]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(g), 1606(f), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156][/us/pl/103/156], §§ 6, 12(g), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 106][/us/pl/106/472/s106], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 114–54, title III, § 301(e)][/us/pl/114/54/s301/e], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 8, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 764][/us/stat/82/764]; [Pub. L. 94–582][/us/pl/94/582], § 10, Oct. 21, 1976, [90 Stat. 2877][/us/stat/90/2877]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1604(g), 1606(f), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156][/us/pl/103/156], §§ 6, 12(g), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 106, Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 114–54, title III][/us/pl/114/54/tIII], § 301(e), Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __References in Text__ 
 
@@ -57,27 +57,27 @@
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-    1993—[Pub. L. 103–156, § 12(g)][/us/pl/103/156/s12/g], which directed amendment of “Section 8”, without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(g), which directed amendment of “Section 8”, without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
     Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], §§ 6(1), 12(g)(1), in cl. (1), substituted “presentation to the Administrator” for “presentation to him” and inserted “(or is supervised under a contractual arrangement)” after “and is employed”, and in second sentence, substituted “Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person” for “No person”.
 
-    Subsec. (b). [Pub. L. 103–156, § 6(2)][/us/pl/103/156/s6/2], substituted “under the terms of a contract for the conduct of any functions” for “independently under the terms of a contract for the conduct of any functions involved in official inspection”.
+    Subsec. (b). [Pub. L. 103–156][/us/pl/103/156], § 6(2), substituted “under the terms of a contract for the conduct of any functions” for “independently under the terms of a contract for the conduct of any functions involved in official inspection”.
 
-    Subsec. (c). [Pub. L. 103–156, § 12(g)(2)][/us/pl/103/156/s12/g/2], substituted “the Administrator” for “he”.
+    Subsec. (c). [Pub. L. 103–156][/us/pl/103/156], § 12(g)(2), substituted “the Administrator” for “he”.
 
-    Subsec. (d). [Pub. L. 103–156, § 6(3)][/us/pl/103/156/s6/3], inserted “or supervised under a contractual arrangement” after “Persons employed” and after “including persons employed”.
+    Subsec. (d). [Pub. L. 103–156][/us/pl/103/156], § 6(3), inserted “or supervised under a contractual arrangement” after “Persons employed” and after “including persons employed”.
 
-    Subsec. (f). [Pub. L. 103–156, § 12(g)(2)][/us/pl/103/156/s12/g/2], substituted “the Administrator” for “he”.
+    Subsec. (f). [Pub. L. 103–156][/us/pl/103/156], § 12(g)(2), substituted “the Administrator” for “he”.
 
-    1977—Subsec. (a)(1). [Pub. L. 95–113, § 1604(g)(1)(A)][/us/pl/95/113/s1604/g/1/A], substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
+    1977—Subsec. (a)(1). [Pub. L. 95–113][/us/pl/95/113], § 1604(g)(1)(A), substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
 
-    Subsec. (a)(2)(B). [Pub. L. 95–113, § 1604(g)(1)(B)][/us/pl/95/113/s1604/g/1/B], substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
+    Subsec. (a)(2)(B). [Pub. L. 95–113][/us/pl/95/113], § 1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
 
-    Subsec. (a)(3). [Pub. L. 95–113, § 1604(g)(1)(C)][/us/pl/95/113/s1604/g/1/C], substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
+    Subsec. (a)(3). [Pub. L. 95–113][/us/pl/95/113], § 1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
 
-    Subsec. (e). [Pub. L. 95–113, § 1604(g)(2)][/us/pl/95/113/s1604/g/2], inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to [section 5333 of title 5][/us/usc/t5/s5333].
+    Subsec. (e). [Pub. L. 95–113][/us/pl/95/113], § 1604(g)(2), inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to [section 5333 of title 5][/us/usc/t5/s5333].
 
-    Subsec. (f). [Pub. L. 95–113, § 1606(f)][/us/pl/95/113/s1606/f], substituted “official inspection and weighing system” for “official inspection system”.
+    Subsec. (f). [Pub. L. 95–113][/us/pl/95/113], § 1606(f), substituted “official inspection and weighing system” for “official inspection system”.
 
     1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582] substituted “Administrator” for “Secretary” in two places; designated existing provisions as item (1) and substituted “official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing of grain in the United States” for “official inspection agency to perform all or specified functions involved in official inspection”; substituted provisions designated as item (2) for “to authorize any competent employee of the Department of Agriculture to perform all or specified functions involved in supervisory or appeal inspection or initial inspection of United States grain in Canadian ports”; inserted items (3) and (4); struck out authorization to license any competent individual to perform specified functions involved in official inspection under a contract with the Department of Agriculture; and conditioned performance of any official weighing function on the holding of a license or authorization.
 
@@ -105,7 +105,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s79d.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s80...83.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
 
 ----------
 ----------
@@ -114,36 +114,36 @@
 [/us/usc/t5/s5333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5333
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F485
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F764
-[/us/pl/94/582/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs10
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2877
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1028
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1526
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
-[/us/pl/106/472/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs106
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
-[/us/pl/114/54/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fe
+[/us/pl/114/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtIII
 [/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fg
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
-[/us/pl/103/156/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs6%2F2
-[/us/pl/103/156/s12/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fg%2F2
-[/us/pl/103/156/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs6%2F3
-[/us/pl/103/156/s12/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fg%2F2
-[/us/pl/95/113/s1604/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fg%2F1%2FA
-[/us/pl/95/113/s1604/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fg%2F1%2FB
-[/us/pl/95/113/s1604/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fg%2F1%2FC
-[/us/pl/95/113/s1604/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fg%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t5/s5333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5333
-[/us/pl/95/113/s1606/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Ff
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582

@@ -17,7 +17,7 @@
 
     If the Secretary determines that a person has knowingly adopted a material scheme or device to obtain catastrophic risk, additional coverage, or noninsured assistance benefits under this subchapter to which the person is not entitled, has evaded this subchapter, or has acted with the purposes of evading this subchapter, the person shall be ineligible to receive all benefits applicable to the crop year for which the scheme or device was adopted.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 521, as added [Pub. L. 103–354, title I, § 114][/us/pl/103/354/s114], Oct. 13, 1994, [108 Stat. 3203][/us/stat/108/3203]; amended [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12002(b)(2), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12002(b)(2), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 521, as added [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 114, Oct. 13, 1994, [108 Stat. 3203][/us/stat/108/3203]; amended [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12002(b)(2), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12002(b)(2), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167.)
 
  __Codification__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/103/354/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs114
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3203
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1371
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

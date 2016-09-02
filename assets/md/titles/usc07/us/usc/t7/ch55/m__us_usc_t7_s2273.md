@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may assist, through the use of Soil Conservation Service personnel, vehicles, communication equipment, and other equipment or materials available to the Secretary, in local search and rescue operations when requested by responsible local public authorities. Such assistance may be provided in emergencies caused by tornadoes, fires, floods, snowstorms, earthquakes, and similar disasters.
 
-([Pub. L. 97–98, title XV, § 1550][/us/pl/97/98/s1550], Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1550, Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1550
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

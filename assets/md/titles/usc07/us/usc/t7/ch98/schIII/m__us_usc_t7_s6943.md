@@ -27,7 +27,7 @@
 
         (2) Programs and activities that relate to rural community lending programs, including programs authorized by [section 2008d of this title][/us/usc/t7/s2008d].
 
-([Pub. L. 103–354, title II, § 233][/us/pl/103/354/s233], Oct. 13, 1994, [108 Stat. 3219][/us/stat/108/3219]; [Pub. L. 104–127, title VII][/us/pl/104/127], §§ 747(b)(3), 753(b)(2), Apr. 4, 1996, [110 Stat. 1128][/us/stat/110/1128], 1131.)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 233, Oct. 13, 1994, [108 Stat. 3219][/us/stat/108/3219]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], §§ 747(b)(3), 753(b)(2), Apr. 4, 1996, [110 Stat. 1128][/us/stat/110/1128], 1131.)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/usc/t7/s2008d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d
-[/us/pl/103/354/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs233
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3219
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1128
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

@@ -27,7 +27,7 @@
 
         The making of rental and benefit payments under this chapter, prior to August 24, 1935, as determined, prescribed, proclaimed and made effective by the proclamations of the Secretary of Agriculture or of the President or by regulations of the Secretary, and the initiation, if formally approved by the Secretary of Agriculture prior to such date of adjustment programs under [section 608(1) of this title][/us/usc/t7/s608/1], and the making of agreements with producers prior to such date, and the adoption of other voluntary methods prior to such date, by the Secretary of Agriculture under this chapter, and rental and benefit payments made pursuant thereto, are legalized and ratified, and the making of all such agreements and payments, the initiation of such programs, and the adoption of all such methods prior to such date are legalized, ratified, and confirmed as fully to all intents and purposes as if each such agreement, program, method, and payment had been specifically authorized and made effective and the rate and amount thereof fixed specifically by prior Act of Congress.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 21, as added [Aug. 24, 1935, ch. 641, § 30][/us/act/1935-08-24/ch641/s30], [49 Stat. 770][/us/stat/49/770]; amended [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], §§ 601(c), 901, [49 Stat. 1740][/us/stat/49/1740], 1747; [Pub. L. 95–598, title III, § 304][/us/pl/95/598/s304], Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 21, as added [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 30, [49 Stat. 770][/us/stat/49/770]; amended [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], §§ 601(c), 901, [49 Stat. 1740][/us/stat/49/1740], 1747; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 304, Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673].)
 
  __References in Text__ 
 
@@ -71,11 +71,11 @@
 [/us/usc/t7/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs619
 [/us/usc/t7/s608/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608%2F1
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1935-08-24/ch641/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs30
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F770
 [/us/act/1936-06-22/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690
 [/us/stat/49/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1740
-[/us/pl/95/598/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs304
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2673
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869

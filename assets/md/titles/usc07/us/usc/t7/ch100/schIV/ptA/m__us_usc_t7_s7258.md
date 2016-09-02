@@ -31,7 +31,7 @@
 
         This section shall apply only during the period beginning on July 1, 1997 and ending on September 30, 2000.
 
-([Pub. L. 104–127, title I, § 150][/us/pl/104/127/s150], Apr. 4, 1996, [110 Stat. 921][/us/stat/110/921].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 150, Apr. 4, 1996, [110 Stat. 921][/us/stat/110/921].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t15/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4001
-[/us/pl/104/127/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs150
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F921
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233

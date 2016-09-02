@@ -27,7 +27,7 @@
 
         The Secretary may not charge any fees or related costs for the collection of commodity assessments pursuant to this section.
 
-([Pub. L. 108–470, § 1][/us/pl/108/470/s1], Dec. 21, 2004, [118 Stat. 3894][/us/stat/118/3894]; [Pub. L. 110–234, title I, § 1616][/us/pl/110/234/s1616], May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1616, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1749.)
+([Pub. L. 108–470][/us/pl/108/470], § 1, Dec. 21, 2004, [118 Stat. 3894][/us/stat/118/3894]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1616, May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1616, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1749.)
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 1616(1)][/us/pl/110/246/s1616/1], substituted “shall” for “may”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 1616(1), substituted “shall” for “may”.
 
-    Subsec. (c). [Pub. L. 110–246, § 1616(2)][/us/pl/110/246/s1616/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 1616(2), added subsec. (c).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -52,18 +52,18 @@
 ----------
 ----------
 
-[/us/pl/108/470/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F470%2Fs1
+[/us/pl/108/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F470
 [/us/stat/118/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3894
-[/us/pl/110/234/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1616
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1021
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1616/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1616%2F1
-[/us/pl/110/246/s1616/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1616%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

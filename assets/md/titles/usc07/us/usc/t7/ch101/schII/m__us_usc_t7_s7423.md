@@ -17,7 +17,7 @@
 
     This subchapter shall not affect or preempt any other Federal or State law authorizing promotion or research relating to an agricultural commodity.
 
-([Pub. L. 104–127, title V, § 524][/us/pl/104/127/s524], Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 524, Apr. 4, 1996, [110 Stat. 1047][/us/stat/110/1047].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs524
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1047
 
 

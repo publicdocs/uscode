@@ -31,7 +31,7 @@
 
     Seventh. No State shall be entitled to the benefits of the provisions of this subchapter unless it shall express its acceptance thereof by its legislature within three years from July 23, 1866: Provided, That when any Territory shall become a State and be admitted into the Union, such new State shall be entitled to the benefits of the provisions of said sections, by expressing the acceptance therein required within three years from the date of its admission into the Union, and providing the college or colleges within five years after such acceptance, as heretofore prescribed in this chapter.
 
-([July 2, 1862, ch. 130, § 5][/us/act/1862-07-02/ch130/s5], [12 Stat. 504][/us/stat/12/504]; [July 23, 1866, ch. 209][/us/act/1866-07-23/ch209], [14 Stat. 208][/us/stat/14/208]; [Mar. 3, 1873, ch. 231, § 3][/us/act/1873-03-03/ch231/s3], [17 Stat. 559][/us/stat/17/559].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 5, [12 Stat. 504][/us/stat/12/504]; [July 23, 1866, ch. 209][/us/act/1866-07-23/ch209], [14 Stat. 208][/us/stat/14/208]; [Mar. 3, 1873, ch. 231][/us/act/1873-03-03/ch231], § 3, [17 Stat. 559][/us/stat/17/559].)
 
  __Repeals__ 
 
@@ -51,11 +51,11 @@ Subd. fourth was repealed in part by act March 3, 1873, which provided in part:
 [/us/usc/t7/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs304
 [/us/usc/t7/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs304
 [/us/usc/t7/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs304
-[/us/act/1862-07-02/ch130/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs5
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F504
 [/us/act/1866-07-23/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-23%2Fch209
 [/us/stat/14/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F208
-[/us/act/1873-03-03/ch231/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch231%2Fs3
+[/us/act/1873-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch231
 [/us/stat/17/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F559
 
 

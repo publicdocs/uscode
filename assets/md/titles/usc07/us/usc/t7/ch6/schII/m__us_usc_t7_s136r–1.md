@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture, in cooperation with the Administrator, shall implement research, demonstration, and education programs to support adoption of Integrated Pest Management. Integrated Pest Management is a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks. The Secretary of Agriculture and the Administrator shall make information on Integrated Pest Management widely available to pesticide users, including Federal agencies. Federal agencies shall use Integrated Pest Management techniques in carrying out pest management activities and shall promote Integrated Pest Management through procurement and regulatory policies, and other activities.
 
-([Pub. L. 104–170, title III, § 303][/us/pl/104/170/s303], Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512].)
+([Pub. L. 104–170, title III][/us/pl/104/170/tIII], § 303, Aug. 3, 1996, [110 Stat. 1512][/us/stat/110/1512].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/170/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs303
+[/us/pl/104/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIII
 [/us/stat/110/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1512
 
 

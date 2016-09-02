@@ -93,11 +93,11 @@
 
         The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying [section 2009f of this title][/us/usc/t7/s2009f].
 
-([Pub. L. 87–128, title III, § 381E][/us/pl/87/128/s381E], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140]; amended [Pub. L. 105–86, title III][/us/pl/105/86], Nov. 18, 1997, [111 Stat. 2094][/us/stat/111/2094]; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(b), 305(b), Nov. 9, 2000, [114 Stat. 2071][/us/stat/114/2071]; [Pub. L. 107–171, title VI, § 6026(a)][/us/pl/107/171/s6026/a], May 13, 2002, [116 Stat. 372][/us/stat/116/372]; [Pub. L. 110–234, title VI, § 6012(b)(4)][/us/pl/110/234/s6012/b/4], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 381E, as added [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 761, Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140]; amended [Pub. L. 105–86, title III][/us/pl/105/86/tIII], Nov. 18, 1997, [111 Stat. 2094][/us/stat/111/2094]; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], §§ 304(b), 305(b), Nov. 9, 2000, [114 Stat. 2071][/us/stat/114/2071]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6026(a), May 13, 2002, [116 Stat. 372][/us/stat/116/372]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6012(b)(4), May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6012(b)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927.)
 
  __References in Text__ 
 
-    [Section 1926(a)(11) of this title][/us/usc/t7/s1926/a/11], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 113–79, title VI, § 6012(b)][/us/pl/113/79/s6012/b], Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
+    [Section 1926(a)(11) of this title][/us/usc/t7/s1926/a/11], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6012(b), Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
 
  __Codification__ 
 
@@ -105,19 +105,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(3)(B). [Pub. L. 110–246, § 6012(b)(4)][/us/pl/110/246/s6012/b/4], substituted “1932(a)(2)(A)” for “1932(a)(1)”.
+    2008—Subsec. (d)(3)(B). [Pub. L. 110–246][/us/pl/110/246], § 6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
 
-    2002—Subsec. (b)(4), (5). [Pub. L. 107–171, § 6026(a)(1)][/us/pl/107/171/s6026/a/1], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
+    2002—Subsec. (b)(4), (5). [Pub. L. 107–171][/us/pl/107/171], § 6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
 
-    Subsec. (e). [Pub. L. 107–171, § 6026(a)(2)][/us/pl/107/171/s6026/a/2], (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 6026(a)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
 
-    Subsec. (f). [Pub. L. 107–171, § 6026(a)(3)][/us/pl/107/171/s6026/a/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 6026(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsecs. (g), (h). [Pub. L. 107–171, § 6026(a)(3)][/us/pl/107/171/s6026/a/3], (4), redesignated subsec. (h) as (g) and substituted “subsection (f)” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 107–171][/us/pl/107/171], § 6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted “subsection (f)” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
 
-    2000—Subsec. (d)(1)(B). [Pub. L. 106–472, § 305(b)][/us/pl/106/472/s305/b], substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
+    2000—Subsec. (d)(1)(B). [Pub. L. 106–472][/us/pl/106/472], § 305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
 
-    [Pub. L. 106–472, § 304(b)][/us/pl/106/472/s304/b], substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
+    [Pub. L. 106–472][/us/pl/106/472], § 304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
     1997—Subsec. (d)(3)(B). [Pub. L. 105–86][/us/pl/105/86] inserted “direct and” after “business and industry”.
 
@@ -127,7 +127,7 @@
 
  __Transfer of Account Balances__ 
 
-[Pub. L. 112–55, div. A, title VII, § 747][/us/pl/112/55/s747], Nov. 18, 2011, [125 Stat. 590][/us/stat/125/590], provided that: 
+[Pub. L. 112–55, div. A, title VII][/us/pl/112/55/dA/tVII], § 747, Nov. 18, 2011, [125 Stat. 590][/us/stat/125/590], provided that: 
 
 > “For 2012 and subsequent fiscal years—
 
@@ -155,40 +155,40 @@
 [/us/usc/t7/s1932/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa%2F2%2FA
 [/us/usc/t7/s1932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fc
 [/us/usc/t7/s2009f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009f
-[/us/pl/87/128/s381E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs381E
-[/us/pl/104/127/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs761
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1140
-[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
+[/us/pl/105/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtIII
 [/us/stat/111/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2094
-[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2071
-[/us/pl/107/171/s6026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F372
-[/us/pl/110/234/s6012/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6012%2Fb%2F4
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1165
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1926/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F11
-[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F845
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6012/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fb%2F4
-[/us/pl/107/171/s6026/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fa%2F1
-[/us/pl/107/171/s6026/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fa%2F2
-[/us/pl/107/171/s6026/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fa%2F3
-[/us/pl/107/171/s6026/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6026%2Fa%2F3
-[/us/pl/106/472/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs305%2Fb
-[/us/pl/106/472/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs304%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/112/55/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs747
+[/us/pl/112/55/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdA%2FtVII
 [/us/stat/125/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F590
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97

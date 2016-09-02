@@ -81,7 +81,7 @@
 
             The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subsection only in a manner that is consistent with those activities in regard to other loan commodities.
 
-([Pub. L. 113–79, title I, § 1201][/us/pl/113/79/s1201], Feb. 7, 2014, [128 Stat. 674][/us/stat/128/674].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1201, Feb. 7, 2014, [128 Stat. 674][/us/stat/128/674].)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s9035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9035
-[/us/pl/113/79/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1201
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F674
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

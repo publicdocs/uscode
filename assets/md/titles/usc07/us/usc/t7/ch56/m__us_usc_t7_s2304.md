@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall prevent handlers and producers from selecting their customers and suppliers for any reason other than a producer’s membership in or contract with an association of producers, nor require a handler to deal with an association of producers.
 
-([Pub. L. 90–288, § 5][/us/pl/90/288/s5], Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
+([Pub. L. 90–288][/us/pl/90/288], § 5, Apr. 16, 1968, [82 Stat. 95][/us/stat/82/95].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/288/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288%2Fs5
+[/us/pl/90/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F288
 [/us/stat/82/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F95
 
 

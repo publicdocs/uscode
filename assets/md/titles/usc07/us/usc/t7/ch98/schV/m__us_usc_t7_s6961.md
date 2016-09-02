@@ -37,7 +37,7 @@
 
         Any official who is serving as Assistant Secretary of Agriculture for Natural Resources and Environment on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
-([Pub. L. 103–354, title II, § 245][/us/pl/103/354/s245], Oct. 13, 1994, [108 Stat. 3223][/us/stat/108/3223].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 245, Oct. 13, 1994, [108 Stat. 3223][/us/stat/108/3223].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t7/s6932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6932
-[/us/pl/103/354/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs245
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3223
 [/us/pl/103/354/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs245
 [/us/pl/103/354/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs245

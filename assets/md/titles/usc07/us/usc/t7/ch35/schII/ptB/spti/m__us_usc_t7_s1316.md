@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1315.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_ch35_schII_ptB_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1316)
 
-## § 1316. Repealed. [Pub. L. 108–357, title VI, § 611(p)][/us/pl/108/357/s611/p], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523]
+## § 1316. Repealed. [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(p), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523]
 
-    Section, [Pub. L. 89–321, title VII, § 703][/us/pl/89/321/s703], Nov. 3, 1965, [79 Stat. 1210][/us/stat/79/1210]; [Pub. L. 91–284, § 6][/us/pl/91/284/s6], June 19, 1970, [84 Stat. 314][/us/stat/84/314]; [Pub. L. 97–218, title II, § 205(b)][/us/pl/97/218/s205/b], July 20, 1982, [96 Stat. 206][/us/stat/96/206], related to transfer of allotments subsequent to 1965.
+    Section, [Pub. L. 89–321, title VII][/us/pl/89/321/tVII], § 703, Nov. 3, 1965, [79 Stat. 1210][/us/stat/79/1210]; [Pub. L. 91–284][/us/pl/91/284], § 6, June 19, 1970, [84 Stat. 314][/us/stat/84/314]; [Pub. L. 97–218, title II][/us/pl/97/218/tII], § 205(b), July 20, 1982, [96 Stat. 206][/us/stat/96/206], related to transfer of allotments subsequent to 1965.
 
  __Effective Date of Repeal__ 
 
@@ -32,13 +32,13 @@
 ----------
 ----------
 
-[/us/pl/108/357/s611/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fp
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
-[/us/pl/89/321/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs703
+[/us/pl/89/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVII
 [/us/stat/79/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1210
-[/us/pl/91/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F284%2Fs6
+[/us/pl/91/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F284
 [/us/stat/84/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F314
-[/us/pl/97/218/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2Fs205%2Fb
+[/us/pl/97/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2FtII
 [/us/stat/96/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F206
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518

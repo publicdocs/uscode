@@ -25,19 +25,19 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–239, § 1][/us/pl/111/239/s1], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that: 
+[Pub. L. 111–239][/us/pl/111/239], § 1, Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that: 
 
 > “This Act \[enacting [section 1635k of this title][/us/usc/t7/s1635k], amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under [section 1635 of this title][/us/usc/t7/s1635]\] may be cited as the ‘Mandatory Price Reporting Act of 2010’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–532, § 1][/us/pl/106/532/s1], Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541], provided that: 
+[Pub. L. 106–532][/us/pl/106/532], § 1, Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Dairy Market Enhancement Act of 2000’.”
 
  __Short Title__ 
 
-[Act Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 201, [60 Stat. 1087][/us/stat/60/1087], provided that: 
+[Act Aug. 14, 1946, ch. 966, title II][/us/act/1946-08-14/ch966/tII], § 201, [60 Stat. 1087][/us/stat/60/1087], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Agricultural Marketing Act of 1946’.”
 
@@ -47,7 +47,7 @@
 
  __Specialty Crops Competitiveness__ 
 
-[Pub. L. 108–465][/us/pl/108/465], §§ 2, 3, title I, § 101, Dec. 21, 2004, [118 Stat. 3882][/us/stat/118/3882], 3883, as amended by [Pub. L. 110–234, title X, § 10109][/us/pl/110/234/s10109], May 22, 2008, [122 Stat. 1338][/us/stat/122/1338]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10109, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2100; [Pub. L. 113–79, title X, § 10010][/us/pl/113/79/s10010], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that:
+[Pub. L. 108–465][/us/pl/108/465], §§ 2, 3, title I, § 101, Dec. 21, 2004, [118 Stat. 3882][/us/stat/118/3882], 3883, as amended by [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10109, May 22, 2008, [122 Stat. 1338][/us/stat/122/1338]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10109, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2100; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10010, Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that:
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
@@ -212,23 +212,23 @@
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
-[/us/pl/111/239/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs1
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
 [/us/usc/t7/s1635k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635k
 [/us/usc/t7/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635
-[/us/pl/106/532/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532%2Fs1
+[/us/pl/106/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532
 [/us/stat/114/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2541
-[/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
+[/us/act/1946-08-14/ch966/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966%2FtII
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
 [/us/pl/108/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465
 [/us/stat/118/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3882
-[/us/pl/110/234/s10109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10109
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1338
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s10010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10010
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F949
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
 [/us/pl/88/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F354

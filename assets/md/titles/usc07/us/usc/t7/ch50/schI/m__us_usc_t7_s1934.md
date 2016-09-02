@@ -19,7 +19,7 @@
 
     (b) Each loan made or insured under this section shall be repayable in such installments as the Secretary determines will provide for reduced payments during the initial repayment period of the loan and larger payments during the remainder of the repayment period of the loan.
 
-([Pub. L. 87–128, title III, § 310D][/us/pl/87/128/s310D], as added [Pub. L. 95–334, title I, § 113][/us/pl/95/334/s113], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; amended [Pub. L. 101–624, title XVIII, § 1802(b)][/us/pl/101/624/s1802/b], Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818]; [Pub. L. 102–552, title V, § 516(e)(1)][/us/pl/102/552/s516/e/1], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 104–127, title VI, § 661(e)][/us/pl/104/127/s661/e], Apr. 4, 1996, [110 Stat. 1107][/us/stat/110/1107]; [Pub. L. 113–79, title V, § 5001(c)(2)][/us/pl/113/79/s5001/c/2], Feb. 7, 2014, [128 Stat. 833][/us/stat/128/833].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310D, as added [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 113, Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1802(b), Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(e)(1), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 661(e), Apr. 4, 1996, [110 Stat. 1107][/us/stat/110/1107]; [Pub. L. 113–79, title V][/us/pl/113/79/tV], § 5001(c)(2), Feb. 7, 2014, [128 Stat. 833][/us/stat/128/833].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–552, title V, § 516(e)(2)][/us/pl/102/552/s516/e/2], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], provided that: 
+[Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(e)(2), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 ([Public Law 102–237][/us/pl/102/237]; [105 Stat. 1865][/us/stat/105/1865]) \[amending [section 1924 of this title][/us/usc/t7/s1924]\] took effect.”
 
@@ -48,16 +48,16 @@
 [/us/usc/t7/s1924/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924%2Fa
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
-[/us/pl/87/128/s310D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310D
-[/us/pl/95/334/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs113
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F424
-[/us/pl/101/624/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1802%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3818
-[/us/pl/102/552/s516/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fe%2F1
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
-[/us/pl/104/127/s661/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fe
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1107
-[/us/pl/113/79/s5001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fc%2F2
+[/us/pl/113/79/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtV
 [/us/stat/128/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F833
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -71,7 +71,7 @@
 [/us/usc/t7/s1924/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1924%2Fd%2F1
 [/us/usc/t7/s1923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1923%2Fa
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
-[/us/pl/102/552/s516/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fe%2F2
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/stat/105/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1865

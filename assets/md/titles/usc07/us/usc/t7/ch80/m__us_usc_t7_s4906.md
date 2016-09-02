@@ -107,7 +107,7 @@
 
         The plan shall provide that the Board shall have the authority to establish rules for certifying whether a person meets the definition of a producer under [section 4902(5) of this title][/us/usc/t7/s4902/5].
 
-([Pub. L. 99–198, title XVI, § 1647][/us/pl/99/198/s1647], Dec. 23, 1985, [99 Stat. 1624][/us/stat/99/1624]; [Pub. L. 103–189][/us/pl/103/189], §§ 4–7, 8(d)–(f), (k)(4), 9(b), Dec. 14, 1993, [107 Stat. 2260–2262][/us/stat/107/2260-2262], 2264.)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1647, Dec. 23, 1985, [99 Stat. 1624][/us/stat/99/1624]; [Pub. L. 103–189][/us/pl/103/189], §§ 4–7, 8(d)–(f), (k)(4), 9(b), Dec. 14, 1993, [107 Stat. 2260–2262][/us/stat/107/2260-2262], 2264.)
 
  __Amendments__ 
 
@@ -115,21 +115,21 @@
 
     Subsec. (f). [Pub. L. 103–189][/us/pl/103/189], §§ 5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under [section 553 of title 5][/us/usc/t5/s553]. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
 
-    Subsec. (g). [Pub. L. 103–189, § 8(k)(4)(A)][/us/pl/103/189/s8/k/4/A], substituted “the following:” for “that—” in introductory provisions.
+    Subsec. (g). [Pub. L. 103–189][/us/pl/103/189], § 8(k)(4)(A), substituted “the following:” for “that—” in introductory provisions.
 
     Subsec. (g)(1). [Pub. L. 103–189][/us/pl/103/189], §§ 5(2), 8(k)(4)(B), substituted “Funds received” for “funds collected” and a period for semicolon at end.
 
-    Subsec. (g)(2). [Pub. L. 103–189, § 8(k)(4)(C)][/us/pl/103/189/s8/k/4/C], substituted “No” for “no” and a period for semicolon at end.
+    Subsec. (g)(2). [Pub. L. 103–189][/us/pl/103/189], § 8(k)(4)(C), substituted “No” for “no” and a period for semicolon at end.
 
     Subsec. (g)(3). [Pub. L. 103–189][/us/pl/103/189], §§ 5(2), 8(k)(4)(D), substituted “No” for “no”, “received” for “collected”, and a period for “; and” at end.
 
-    Subsec. (g)(4). [Pub. L. 103–189, § 8(e)(1)][/us/pl/103/189/s8/e/1], substituted “Assessments” for “assessments” and inserted “in the case of producers and handlers” after “such assessments”.
+    Subsec. (g)(4). [Pub. L. 103–189][/us/pl/103/189], § 8(e)(1), substituted “Assessments” for “assessments” and inserted “in the case of producers and handlers” after “such assessments”.
 
-    Subsec. (g)(5). [Pub. L. 103–189, § 8(e)(2)][/us/pl/103/189/s8/e/2], added par. (5).
+    Subsec. (g)(5). [Pub. L. 103–189][/us/pl/103/189], § 8(e)(2), added par. (5).
 
     Subsec. (h). [Pub. L. 103–189][/us/pl/103/189], §§ 7, 8(f), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, inserted “(or importer who is subject to the plan)” after “or handler” the first two places appearing, substituted “, handler, or importer paid the assessment” for “or handler paid the assessment”, and added pars. (2) and (3).
 
-    Subsec. (l). [Pub. L. 103–189, § 9(b)][/us/pl/103/189/s9/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 103–189][/us/pl/103/189], § 9(b), added subsec. (l).
 
 ----------
 
@@ -143,20 +143,20 @@
 [/us/usc/t7/s4914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4914%2Fb
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s4902/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4902%2F5
-[/us/pl/99/198/s1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1647
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1624
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2260-2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2260-2262
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/189/s8/k/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fk%2F4%2FA
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
-[/us/pl/103/189/s8/k/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fk%2F4%2FC
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
-[/us/pl/103/189/s8/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fe%2F1
-[/us/pl/103/189/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs8%2Fe%2F2
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
-[/us/pl/103/189/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189%2Fs9%2Fb
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
+[/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 
 

@@ -47,7 +47,7 @@
 
         Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce mushrooms.
 
-([Pub. L. 101–624, title XIX, § 1922][/us/pl/101/624/s1922], Nov. 28, 1990, [104 Stat. 3855][/us/stat/104/3855].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1922, Nov. 28, 1990, [104 Stat. 3855][/us/stat/104/3855].)
 
  __Constitutionality__ 
 
@@ -55,7 +55,7 @@ For information regarding constitutionality of subtitle B of title XIX of [Pub. 
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XIX, § 1921][/us/pl/101/624/s1921], Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1921, Nov. 28, 1990, [104 Stat. 3854][/us/stat/104/3854], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1921–1933) of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting this chapter\] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
 
@@ -66,10 +66,10 @@ For information regarding constitutionality of subtitle B of title XIX of [Pub. 
 ----------
 ----------
 
-[/us/pl/101/624/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1922
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3855
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1921
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3854
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

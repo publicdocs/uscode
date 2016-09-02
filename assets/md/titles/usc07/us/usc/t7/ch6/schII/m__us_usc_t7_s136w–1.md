@@ -33,7 +33,7 @@
 
         The Administrator shall have primary enforcement responsibility for those States that do not have primary enforcement responsibility under this subchapter. Notwithstanding the provisions of [section 136(e)(1) of this title][/us/usc/t7/s136/e/1], during any period when the Administrator has such enforcement responsibility, [section 136f(b) of this title][/us/usc/t7/s136f/b] shall apply to the books and records of commercial applicators and to any applicator who holds or applies pesticides, or uses dilutions of pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and [section 136g(a) of this title][/us/usc/t7/s136g/a] shall apply to the establishment or other place where pesticides or devices are held for application by such persons with respect to pesticides or devices held for such application.
 
-([June 25, 1947, ch. 125, § 26][/us/act/1947-06-25/ch125/s26], as added [Pub. L. 95–396, § 24(2)][/us/pl/95/396/s24/2], Sept. 30, 1978, [92 Stat. 836][/us/stat/92/836]; amended [Pub. L. 100–532, title VIII, § 801][/us/pl/100/532/s801](o), (q)(1)(D), Oct. 25, 1988, [102 Stat. 2683][/us/stat/102/2683]; [Pub. L. 102–237, title X, § 1006(a)(11)][/us/pl/102/237/s1006/a/11], Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 26, as added [Pub. L. 95–396][/us/pl/95/396], § 24(2), Sept. 30, 1978, [92 Stat. 836][/us/stat/92/836]; amended [Pub. L. 100–532, title VIII][/us/pl/100/532/tVIII], § 801(o), (q)(1)(D), Oct. 25, 1988, [102 Stat. 2683][/us/stat/102/2683]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1006(a)(11), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895].)
 
  __Prior Provisions__ 
 
@@ -43,11 +43,11 @@
 
     1991—Subsec. (c). [Pub. L. 102–237][/us/pl/102/237] substituted “uses” for “use”.
 
-    1988—Subsec. (a). [Pub. L. 100–532, § 801][/us/pl/100/532/s801](o)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; Provided, That the Administrator” in par. (1).
+    1988—Subsec. (a). [Pub. L. 100–532][/us/pl/100/532], § 801(o)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; Provided, That the Administrator” in par. (1).
 
-    Subsec. (b). [Pub. L. 100–532, § 801][/us/pl/100/532/s801](o)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
+    Subsec. (b). [Pub. L. 100–532][/us/pl/100/532], § 801(o)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
 
-    Subsec. (c). [Pub. L. 100–532, § 801][/us/pl/100/532/s801](o)(4), inserted heading.
+    Subsec. (c). [Pub. L. 100–532][/us/pl/100/532], § 801(o)(4), inserted heading.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -66,19 +66,19 @@
 [/us/usc/t7/s136/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136%2Fe%2F1
 [/us/usc/t7/s136f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136f%2Fb
 [/us/usc/t7/s136g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136g%2Fa
-[/us/act/1947-06-25/ch125/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs26
-[/us/pl/95/396/s24/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396%2Fs24%2F2
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F396
 [/us/stat/92/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F836
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
+[/us/pl/100/532/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2FtVIII
 [/us/stat/102/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2683
-[/us/pl/102/237/s1006/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1006%2Fa%2F11
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1895
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/usc/t7/s136x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136x
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
-[/us/pl/100/532/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs801
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
+[/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532
 [/us/pl/100/532/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F532%2Fs901
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136

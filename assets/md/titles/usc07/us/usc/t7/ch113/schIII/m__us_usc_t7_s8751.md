@@ -85,13 +85,13 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 110–234, title I, § 1301][/us/pl/110/234/s1301], May 22, 2008, [122 Stat. 966][/us/stat/122/966]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1695.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1301, May 22, 2008, [122 Stat. 966][/us/stat/122/966]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1695.)
 
  __References in Text__ 
 
-    [Section 8754 of this title][/us/usc/t7/s8754], referred to in pars. (2) and (4), was repealed by [Pub. L. 113–79, title I, § 1102(a)][/us/pl/113/79/s1102/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    [Section 8754 of this title][/us/usc/t7/s8754], referred to in pars. (2) and (4), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1102(a), Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
-    [Section 8753 of this title][/us/usc/t7/s8753], referred to in par. (3), was repealed by [Pub. L. 113–79, title I, § 1101][/us/pl/113/79/s1101], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+    [Section 8753 of this title][/us/usc/t7/s8753], referred to in par. (3), was repealed by [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1101, Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
  __Codification__ 
 
@@ -108,15 +108,15 @@
 [/us/usc/t7/s8752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8752
 [/us/usc/t7/s8711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711
 [/us/usc/t7/s7952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7952
-[/us/pl/110/234/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1301
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F966
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s8754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8754
-[/us/pl/113/79/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1102%2Fa
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/usc/t7/s8753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8753
-[/us/pl/113/79/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1101
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -39,7 +39,7 @@
 
             The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 204, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 85–128, § 1(1)][/us/pl/85/128/s1/1], Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931, § 5][/us/pl/85/931/s5], Sept. 6, 1958, [72 Stat. 1791][/us/stat/72/1791]; [Pub. L. 86–341, title I, § 1][/us/pl/86/341/s1], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–128, title II, § 202(2)][/us/pl/87/128/s202/2], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638, § 1(15)][/us/pl/88/638/s1/15], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–113, title XII, § 1203][/us/pl/95/113/s1203], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 97–98, title XII, § 1212][/us/pl/97/98/s1212], Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 99–198, title XI, § 1101][/us/pl/99/198/s1101], Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3639][/us/stat/104/3639]; [Pub. L. 104–127, title II, § 209][/us/pl/104/127/s209], Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III, § 3004][/us/pl/107/171/s3004], May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 108–199, div. A, title VII, § 758][/us/pl/108/199/s758], Jan. 23, 2004, [118 Stat. 38][/us/stat/118/38]; [Pub. L. 110–246, title III, § 3010][/us/pl/110/246/s3010], June 18, 2008, [122 Stat. 1824][/us/stat/122/1824]; [Pub. L. 113–79, title III, § 3004][/us/pl/113/79/s3004], Feb. 7, 2014, [128 Stat. 774][/us/stat/128/774].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 204, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 85–128][/us/pl/85/128], § 1(1), Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931][/us/pl/85/931], § 5, Sept. 6, 1958, [72 Stat. 1791][/us/stat/72/1791]; [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 1, Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–128, title II][/us/pl/87/128/tII], § 202(2), Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638][/us/pl/88/638], § 1(15), Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808][/us/pl/89/808], § 2(C), Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–113, title XII][/us/pl/95/113/tXII], § 1203, Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 97–98, title XII][/us/pl/97/98/tXII], § 1212, Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1101, Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3639][/us/stat/104/3639]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 209, Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3004, May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 758, Jan. 23, 2004, [118 Stat. 38][/us/stat/118/38]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3010, June 18, 2008, [122 Stat. 1824][/us/stat/122/1824]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3004, Feb. 7, 2014, [128 Stat. 774][/us/stat/128/774].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 
     2004—Subsec. (a)(3). [Pub. L. 108–199][/us/pl/108/199] substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–171, § 3004(1)][/us/pl/107/171/s3004/1], (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
+    2002—Subsec. (a)(1). [Pub. L. 107–171][/us/pl/107/171], § 3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
 
-    Subsec. (a)(2). [Pub. L. 107–171, § 3004(1)][/us/pl/107/171/s3004/1], (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
+    Subsec. (a)(2). [Pub. L. 107–171][/us/pl/107/171], § 3004(1), (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–127, § 209(1)(A)][/us/pl/104/127/s209/1/A], substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
+    1996—Subsec. (a)(1). [Pub. L. 104–127][/us/pl/104/127], § 209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
 
     “(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
 
@@ -65,7 +65,7 @@
 
     “(E) for fiscal year 1995, is not less than 2,025,000 metric tons.”
 
-    Subsec. (a)(2). [Pub. L. 104–127, § 209(1)(B)][/us/pl/104/127/s209/1/B], substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
+    Subsec. (a)(2). [Pub. L. 104–127][/us/pl/104/127], § 209(1)(B), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
 
     “(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
 
@@ -77,9 +77,9 @@
 
     “(E) for fiscal year 1995, is not less than 1,550,000 metric tons.”
 
-    Subsec. (a)(3). [Pub. L. 104–127, § 209(1)(C)][/us/pl/104/127/s209/1/C], inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
+    Subsec. (a)(3). [Pub. L. 104–127][/us/pl/104/127], § 209(1)(C), inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
 
-    Subsec. (b)(1). [Pub. L. 104–127, § 209(2)][/us/pl/104/127/s209/2], inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
+    Subsec. (b)(1). [Pub. L. 104–127][/us/pl/104/127], § 209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    [Pub. L. 99–198, title XI, § 1101][/us/pl/99/198/s1101], Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465], provided that the amendment made by that section is effective Oct. 1, 1985.
+    [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1101, Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465], provided that the amendment made by that section is effective Oct. 1, 1985.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -139,45 +139,45 @@
 [/us/usc/t7/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1722
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F458
-[/us/pl/85/128/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128%2Fs1%2F1
+[/us/pl/85/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F128
 [/us/stat/71/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F345
-[/us/pl/85/931/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F931%2Fs5
+[/us/pl/85/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F931
 [/us/stat/72/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1791
-[/us/pl/86/341/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs1
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F606
-[/us/pl/87/128/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs202%2F2
+[/us/pl/87/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtII
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
-[/us/pl/88/638/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638%2Fs1%2F15
+[/us/pl/88/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F638
 [/us/stat/78/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1037
-[/us/pl/89/808/s2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FC
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1535
-[/us/pl/95/113/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1203
+[/us/pl/95/113/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXII
 [/us/stat/91/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F956
-[/us/pl/97/98/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1212
+[/us/pl/97/98/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXII
 [/us/stat/95/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1281
-[/us/pl/99/198/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1101
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1465
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3639
-[/us/pl/104/127/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs209
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F954
-[/us/pl/107/171/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3004
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F282
-[/us/pl/108/199/s758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs758
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F38
-[/us/pl/110/246/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3010
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1824
-[/us/pl/113/79/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3004
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F774
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/107/171/s3004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3004%2F1
-[/us/pl/107/171/s3004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3004%2F1
-[/us/pl/104/127/s209/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs209%2F1%2FA
-[/us/pl/104/127/s209/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs209%2F1%2FB
-[/us/pl/104/127/s209/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs209%2F1%2FC
-[/us/pl/104/127/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs209%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
@@ -196,7 +196,7 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/99/198/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1101
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1465
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

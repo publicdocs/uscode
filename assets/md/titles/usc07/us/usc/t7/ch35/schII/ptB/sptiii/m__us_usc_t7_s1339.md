@@ -51,37 +51,37 @@
 
         The Commodity Credit Corporation is authorized to utilize its capital funds and other assets for the purpose of making the payments authorized in this section and to pay administrative expenses necessary in carrying out this section during the period ending June 30, 1965. There is authorized to be appropriated such amounts as may be necessary thereafter to pay such administrative expenses.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 339, as added [Pub. L. 87–703, title III, § 318][/us/pl/87/703/s318], Sept. 27, 1962, [76 Stat. 622][/us/stat/76/622]; amended [Pub. L. 88–297, title II, § 202(7)][/us/pl/88/297/s202/7]–(9), Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179]; [Pub. L. 89–321, title V][/us/pl/89/321], §§ 501(9), (10), 507, Nov. 3, 1965, [79 Stat. 1201][/us/stat/79/1201], 1204; [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 339, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 318, Sept. 27, 1962, [76 Stat. 622][/us/stat/76/622]; amended [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(7)–(9), Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179]; [Pub. L. 89–321, title V][/us/pl/89/321/tV], §§ 501(9), (10), 507, Nov. 3, 1965, [79 Stat. 1201][/us/stat/79/1201], 1204; [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
 
  __Prior Provisions__ 
 
-    A prior section 1339, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 339, [52 Stat. 55][/us/stat/52/55], related to penalties for marketing wheat in excess of quotas, prior to repeal by [act July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], §§ 2, 5, [67 Stat. 151][/us/stat/67/151], 152, effective with respect to the 1954 and subsequent crops of wheat. See [section 1340(2) of this title][/us/usc/t7/s1340/2].
+    A prior section 1339, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 339, [52 Stat. 55][/us/stat/52/55], related to penalties for marketing wheat in excess of quotas, prior to repeal by [act July 14, 1953, ch. 194][/us/act/1953-07-14/ch194], §§ 2, 5, [67 Stat. 151][/us/stat/67/151], 152, effective with respect to the 1954 and subsequent crops of wheat. See [section 1340(2) of this title][/us/usc/t7/s1340/2].
 
  __Amendments__ 
 
     1968—Subsec. (b). [Pub. L. 90–559][/us/pl/90/559] provided for a one year extension through 1970.
 
-    1965—Subsec. (a)(1). [Pub. L. 89–321, § 507][/us/pl/89/321/s507], inserted “(less an acreage equal to the increased acreage allotted for 1966 pursuant to [section 1335 of this title][/us/usc/t7/s1335])” after “national acreage allotment” wherever appearing.
+    1965—Subsec. (a)(1). [Pub. L. 89–321][/us/pl/89/321], § 507, inserted “(less an acreage equal to the increased acreage allotted for 1966 pursuant to [section 1335 of this title][/us/usc/t7/s1335])” after “national acreage allotment” wherever appearing.
 
-    Subsec. (b). [Pub. L. 89–321, § 501(9)][/us/pl/89/321/s501/9], substituted “crops of wheat planted for harvest in the calendar years 1964 through 1969” for “1964 and 1965 crops of wheat”, “50 per centum of the farm acreage allotment” for “20 per centum of the farm acreage allotment”, and “twenty-five acres” for “fifteen acres”.
+    Subsec. (b). [Pub. L. 89–321][/us/pl/89/321], § 501(9), substituted “crops of wheat planted for harvest in the calendar years 1964 through 1969” for “1964 and 1965 crops of wheat”, “50 per centum of the farm acreage allotment” for “20 per centum of the farm acreage allotment”, and “twenty-five acres” for “fifteen acres”.
 
-    Subsec. (e). [Pub. L. 89–321, § 501(10)][/us/pl/89/321/s501/10], authorized Secretary to permit all or part of diverted acreage to be devoted to mustardseed, crambe, and plantago ovato in addition to previously authorized guar, sesame, safflower, sunflower, castor beans, and flax, if he determines that such production of the commodity is needed, is not likely to increase cost of price-support program, and will not adversely affect farm income, and removed from proviso the prohibition against making available price supports for production of such crops on diverted acreage.
+    Subsec. (e). [Pub. L. 89–321][/us/pl/89/321], § 501(10), authorized Secretary to permit all or part of diverted acreage to be devoted to mustardseed, crambe, and plantago ovato in addition to previously authorized guar, sesame, safflower, sunflower, castor beans, and flax, if he determines that such production of the commodity is needed, is not likely to increase cost of price-support program, and will not adversely affect farm income, and removed from proviso the prohibition against making available price supports for production of such crops on diverted acreage.
 
-    1964—Subsec. (a)(1). [Pub. L. 88–297, § 202(7)][/us/pl/88/297/s202/7], temporarily suspended land-use penalties and made the diversion of land from the production of wheat only a condition of eligibility for receiving wheat marketing certificates. See Effective and Termination Dates of 1964 Amendment note below.
+    1964—Subsec. (a)(1). [Pub. L. 88–297][/us/pl/88/297], § 202(7), temporarily suspended land-use penalties and made the diversion of land from the production of wheat only a condition of eligibility for receiving wheat marketing certificates. See Effective and Termination Dates of 1964 Amendment note below.
 
-    Subsec. (b). [Pub. L. 88–297, § 202(8)][/us/pl/88/297/s202/8], inserted in first sentence “for wheat not accompanied by marketing certificates” after “basic county support rate” and inserted after first sentence “Any producer who complies with his 1964 farm acreage allotment for wheat and with the other requirements of the program shall be eligible to receive payments under the program for the 1964 crop of wheat.”
+    Subsec. (b). [Pub. L. 88–297][/us/pl/88/297], § 202(8), inserted in first sentence “for wheat not accompanied by marketing certificates” after “basic county support rate” and inserted after first sentence “Any producer who complies with his 1964 farm acreage allotment for wheat and with the other requirements of the program shall be eligible to receive payments under the program for the 1964 crop of wheat.”
 
-    Subsec. (h). [Pub. L. 88–297, § 202(9)][/us/pl/88/297/s202/9], substituted “June 30, 1965” for “June 30, 1963”.
+    Subsec. (h). [Pub. L. 88–297][/us/pl/88/297], § 202(9), substituted “June 30, 1965” for “June 30, 1963”.
 
  __Effective Date of 1965 Amendment__ 
 
     Amendment by [section 501 of Pub. L. 89–321][/us/pl/89/321/s501] effective beginning with crop planted for harvest in calendar year 1966, see [section 501 of Pub. L. 89–321][/us/pl/89/321/s501], set out as a note under [section 1332 of this title][/us/usc/t7/s1332].
 
-    [Pub. L. 89–321, title V, § 507][/us/pl/89/321/s507], Nov. 3, 1965, [79 Stat. 1204][/us/stat/79/1204], provided that the amendment made by that section is effective beginning with the crop planted for harvest in calendar year 1967.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 507, Nov. 3, 1965, [79 Stat. 1204][/us/stat/79/1204], provided that the amendment made by that section is effective beginning with the crop planted for harvest in calendar year 1967.
 
  __Effective and Termination Dates of 1964 Amendment__ 
 
-    [Pub. L. 88–297, title II, § 202(7)][/us/pl/88/297/s202/7], Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179], as amended by [Pub. L. 89–321, title V, § 505(1)][/us/pl/89/321/s505/1], Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by [section 202(7) of Pub. L. 88–297][/us/pl/88/297/s202/7] is effective only with respect to the crops planted for harvest in calendar years 1964 through 1970.
+    [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(7), Apr. 11, 1964, [78 Stat. 179][/us/stat/78/179], as amended by [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 505(1), Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by [section 202(7) of Pub. L. 88–297][/us/pl/88/297/s202/7] is effective only with respect to the crops planted for harvest in calendar years 1964 through 1970.
 
  __Effective Date__ 
 
@@ -105,7 +105,7 @@
 
     Section inapplicable to 1978 through 1981 crops of wheat, see [section 404 of Pub. L. 95–113][/us/pl/95/113/s404], set out as a note under [section 1331 of this title][/us/usc/t7/s1331].
 
-    [Pub. L. 91–524, title IV, § 404(1)][/us/pl/91/524/s404/1], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(1), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
  __Wheat Diversion Programs; Credits in Establishment of State, County and Farm Acreage Allotments for Wheat__ 
 
@@ -122,37 +122,37 @@
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs318
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F622
-[/us/pl/88/297/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F7
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F179
-[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1201
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
 [/us/stat/52/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F55
 [/us/act/1953-07-14/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-14%2Fch194
 [/us/stat/67/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F151
 [/us/usc/t7/s1340/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1340%2F2
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
-[/us/pl/89/321/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs507
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
-[/us/pl/89/321/s501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F9
-[/us/pl/89/321/s501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501%2F10
-[/us/pl/88/297/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F7
-[/us/pl/88/297/s202/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F8
-[/us/pl/88/297/s202/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F9
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
 [/us/pl/89/321/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501
 [/us/pl/89/321/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs501
 [/us/usc/t7/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1332
-[/us/pl/89/321/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs507
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1204
-[/us/pl/88/297/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F7
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F179
-[/us/pl/89/321/s505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs505%2F1
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1203
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/pl/88/297/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F7
 [/us/pl/87/703/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs323
@@ -169,9 +169,9 @@
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
 [/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/91/524/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F1
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/usc/t7/s1339b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339b
 

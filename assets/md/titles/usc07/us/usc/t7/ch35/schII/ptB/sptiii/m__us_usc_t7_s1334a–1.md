@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, for the 1971 through 1977 crops of wheat, feed grains and cotton, if in any year at least 55 per centum of the cropland acreage on an established summer fallow farm is devoted to a summer fallow use, no further acreage shall be required to be set aside under the wheat, feed grain and cotton programs for such year.
 
-([Pub. L. 91–524, title IV, § 410][/us/pl/91/524/s410], Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367]; [Pub. L. 93–86, § 1(17)][/us/pl/93/86/s1/17], Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230].)
+([Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 410, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367]; [Pub. L. 93–86][/us/pl/93/86], § 1(17), Aug. 10, 1973, [87 Stat. 230][/us/stat/87/230].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/524/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs410
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F17
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F230
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 

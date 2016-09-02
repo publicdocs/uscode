@@ -39,27 +39,27 @@
 
         (2) The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 
-([Pub. L. 95–113, title XIV, § 1415][/us/pl/95/113/s1415], Sept. 29, 1977, [91 Stat. 993][/us/stat/91/993]; [Pub. L. 97–98, title XIV, § 1417][/us/pl/97/98/s1417], Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV, § 1410][/us/pl/99/198/s1410], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547]; [Pub. L. 101–624, title XVI, § 1607(a)][/us/pl/101/624/s1607/a], (b), Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716]; [Pub. L. 113–79, title VII, § 7128(b)(1)(A)][/us/pl/113/79/s7128/b/1/A], Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1415, Sept. 29, 1977, [91 Stat. 993][/us/stat/91/993]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1417, Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1410, Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1607(a), (b), Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7128(b)(1)(A), Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878].)
 
  __Amendments__ 
 
     2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] struck out “This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding.” at end.
 
-    1990—[Pub. L. 101–624, § 1607(b)(1)][/us/pl/101/624/s1607/b/1], amended section catchline generally.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 1607(b)(1), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 101–624, § 1607(b)(1)][/us/pl/101/624/s1607/b/1], inserted heading.
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1607(b)(1), inserted heading.
 
-    [Pub. L. 101–624, § 1607(a)(1)][/us/pl/101/624/s1607/a/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned \[sic\] by the Secretary by regulations.”
+    [Pub. L. 101–624][/us/pl/101/624], § 1607(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned \[sic\] by the Secretary by regulations.”
 
-    Subsec. (b). [Pub. L. 101–624, § 1607(b)(2)][/us/pl/101/624/s1607/b/2], inserted heading.
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1607(b)(2), inserted heading.
 
-    Subsec. (b)(1). [Pub. L. 101–624, § 1607(a)(2)][/us/pl/101/624/s1607/a/2], struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
+    Subsec. (b)(1). [Pub. L. 101–624][/us/pl/101/624], § 1607(a)(2), struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
 
-    Subsec. (b)(2). [Pub. L. 101–624, § 1607(a)(3)][/us/pl/101/624/s1607/a/3], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
+    Subsec. (b)(2). [Pub. L. 101–624][/us/pl/101/624], § 1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
 
-    Subsec. (b)(3). [Pub. L. 101–624, § 1607(a)(3)][/us/pl/101/624/s1607/a/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 101–624][/us/pl/101/624], § 1607(a)(3), added par. (3).
 
-    Subsec. (c). [Pub. L. 101–624, § 1607(b)(3)][/us/pl/101/624/s1607/b/3], inserted heading.
+    Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1607(b)(3), inserted heading.
 
     1985—Subsec. (c)(1). [Pub. L. 99–198][/us/pl/99/198] substituted “Five” for “Four”.
 
@@ -80,25 +80,25 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1415
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F993
-[/us/pl/97/98/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1417
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1305
-[/us/pl/99/198/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1410
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1547
-[/us/pl/101/624/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3716
-[/us/pl/113/79/s7128/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F1%2FA
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F878
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/101/624/s1607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F1
-[/us/pl/101/624/s1607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F1
-[/us/pl/101/624/s1607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa%2F1
-[/us/pl/101/624/s1607/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F2
-[/us/pl/101/624/s1607/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa%2F2
-[/us/pl/101/624/s1607/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa%2F3
-[/us/pl/101/624/s1607/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa%2F3
-[/us/pl/101/624/s1607/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F3
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

@@ -17,7 +17,7 @@
 
     Transportation or delivery by a carrier in the ordinary course of its business as a carrier, or advertising by a person in the advertising business in the ordinary course of that business, shall not constitute an infringement of the protection provided under this chapter.
 
-([Pub. L. 91–577, title III, § 115][/us/pl/91/577/s115], Dec. 24, 1970, [84 Stat. 1555][/us/stat/84/1555].)
+([Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 115, Dec. 24, 1970, [84 Stat. 1555][/us/stat/84/1555].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs115
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1555
 
 

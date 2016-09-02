@@ -83,7 +83,7 @@
 
         The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 89–321, title VI, § 602][/us/pl/89/321/s602], Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]; [Pub. L. 90–210][/us/pl/90/210], Dec. 18, 1967, [81 Stat. 657][/us/stat/81/657]; [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], (7), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
+([Pub. L. 89–321, title VI][/us/pl/89/321/tVI], § 602, Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]; [Pub. L. 90–210][/us/pl/90/210], Dec. 18, 1967, [81 Stat. 657][/us/stat/81/657]; [Pub. L. 90–559][/us/pl/90/559], § 1(1), (7), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996].)
 
  __Codification__ 
 
@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1968—Subsec. (a). [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], provided for a one year extension through 1970.
+    1968—Subsec. (a). [Pub. L. 90–559][/us/pl/90/559], § 1(1), provided for a one year extension through 1970.
 
-    Subsec. (k). [Pub. L. 90–559, § 1(7)][/us/pl/90/559/s1/7], substituted “June 30, 1969” for “June 30, 1968” in two places and “December 31, 1970” for “December 31, 1969”.
+    Subsec. (k). [Pub. L. 90–559][/us/pl/90/559], § 1(7), substituted “June 30, 1969” for “June 30, 1968” in two places and “December 31, 1970” for “December 31, 1969”.
 
     1967—Subsec. (a). [Pub. L. 90–210][/us/pl/90/210] permitted a farm to be placed in the cropland adjustment program without regard to the length of past ownership if that farm was acquired in replacement of an eligible farm which was taken by any Federal, State, or other agency by means of eminent domain proceedings.
 
@@ -109,15 +109,15 @@
 ----------
 
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
-[/us/pl/89/321/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs602
+[/us/pl/89/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVI
 [/us/stat/79/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1206
 [/us/pl/90/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F210
 [/us/stat/81/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F657
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/pl/89/321/s602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs602%2Fg
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
-[/us/pl/90/559/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F7
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/pl/90/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F210
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

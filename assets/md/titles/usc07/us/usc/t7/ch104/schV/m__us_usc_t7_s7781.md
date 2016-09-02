@@ -39,7 +39,7 @@
 
         The term “Federal lands” means those lands owned and managed by the United States Forest Service or the Bureau of Land Management.
 
-([Pub. L. 106–224, title IV, § 452][/us/pl/106/224/s452], as added [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2320][/us/stat/118/2320].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 452, as added [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2320][/us/stat/118/2320].)
 
  __Short Title__ 
 
@@ -271,8 +271,8 @@
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/106/224/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs452
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2320
 [/us/pl/106/224/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs451
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701

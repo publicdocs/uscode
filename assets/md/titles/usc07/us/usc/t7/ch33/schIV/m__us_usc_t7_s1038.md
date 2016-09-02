@@ -17,7 +17,7 @@
 
     The Secretary may make such rules and regulations and such delegations of authority as he may deem necessary to carry out the provisions of sections 1033 to 1039 of this title.
 
-([Sept. 6, 1950, ch. 897, § 6][/us/act/1950-09-06/ch897/s6], [64 Stat. 770][/us/stat/64/770].)
+([Sept. 6, 1950, ch. 897][/us/act/1950-09-06/ch897], § 6, [64 Stat. 770][/us/stat/64/770].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-06/ch897/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897%2Fs6
+[/us/act/1950-09-06/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897
 [/us/stat/64/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F770
 
 

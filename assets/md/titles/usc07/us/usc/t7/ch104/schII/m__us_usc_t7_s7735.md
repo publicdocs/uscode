@@ -23,7 +23,7 @@
 
     (3) bring an action for the recovery of any unpaid civil penalty, funds under reimbursable agreements, late payment penalty, or interest assessed under this chapter.
 
-([Pub. L. 106–224, title IV, § 425][/us/pl/106/224/s425], June 20, 2000, [114 Stat. 451][/us/stat/114/451].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 425, June 20, 2000, [114 Stat. 451][/us/stat/114/451].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs425
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F451
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

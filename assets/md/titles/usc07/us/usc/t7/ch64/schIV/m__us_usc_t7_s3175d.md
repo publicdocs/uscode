@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under [section 3175c of this title][/us/usc/t7/s3175c].
 
-([Pub. L. 99–198, title XV, § 1587][/us/pl/99/198/s1587], Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596]; [Pub. L. 110–234, title VII, § 7511(c)(11)][/us/pl/110/234/s7511/c/11], May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(11), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029.)
+([Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1587, Dec. 23, 1985, [99 Stat. 1596][/us/stat/99/1596]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(11), May 22, 2008, [122 Stat. 1268][/us/stat/122/1268]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(11), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029.)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@ This subtitle, referred to in subsec. (a), is subtitle C (§§ 1581–1589) of
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(11)][/us/pl/110/246/s7511/c/11], substituted “National Institute of Food and Agriculture” for “Extension Service” in two places.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(11), substituted “National Institute of Food and Agriculture” for “Extension Service” in two places.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -54,11 +54,11 @@ This subtitle, referred to in subsec. (a), is subtitle C (§§ 1581–1589) of
 
 [/us/usc/t7/s3175c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175c
 [/us/usc/t7/s3175c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175c
-[/us/pl/99/198/s1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1587
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1596
-[/us/pl/110/234/s7511/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F11
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1268
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
@@ -67,7 +67,7 @@ This subtitle, referred to in subsec. (a), is subtitle C (§§ 1581–1589) of
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F11
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -31,13 +31,13 @@
 
     (g) The term “importer” means any person who imports tablestock, frozen, or processed potatoes for ultimate consumption by humans or seed potatoes into the United States.
 
-([Pub. L. 91–670, title III, § 303][/us/pl/91/670/s303], Jan. 11, 1971, [84 Stat. 2041][/us/stat/84/2041]; [Pub. L. 101–624, title XIX, § 1937][/us/pl/101/624/s1937], Nov. 28, 1990, [104 Stat. 3866][/us/stat/104/3866].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 303, Jan. 11, 1971, [84 Stat. 2041][/us/stat/84/2041]; [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1937, Nov. 28, 1990, [104 Stat. 3866][/us/stat/104/3866].)
 
  __Amendments__ 
 
-    1990—Subsec. (c). [Pub. L. 101–624, § 1937(1)][/us/pl/101/624/s1937/1], substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
+    1990—Subsec. (c). [Pub. L. 101–624][/us/pl/101/624], § 1937(1), substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
 
-    Subsec. (g). [Pub. L. 101–624, § 1937(2)][/us/pl/101/624/s1937/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1937(2), added subsec. (g).
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/91/670/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs303
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2041
-[/us/pl/101/624/s1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1937
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3866
-[/us/pl/101/624/s1937/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1937%2F1
-[/us/pl/101/624/s1937/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1937%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

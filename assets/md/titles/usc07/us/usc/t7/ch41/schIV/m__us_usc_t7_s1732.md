@@ -59,7 +59,7 @@
 
         The term “Secretary” means the Secretary of Agriculture, unless otherwise specified in this chapter.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 402, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(2)][/us/pl/87/703/s201/2], Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 92–42][/us/pl/92/42], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–113, title XII, § 1205][/us/pl/95/113/s1205], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–72, § 24][/us/pl/96/72/s24], Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536]; [Pub. L. 97–98, title XII, § 1213][/us/pl/97/98/s1213], Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 98–623, title IV, § 405(b)][/us/pl/98/623/s405/b], Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3645][/us/stat/104/3645]; [Pub. L. 104–127, title II, § 211(b)][/us/pl/104/127/s211/b], Apr. 4, 1996, [110 Stat. 955][/us/stat/110/955]; [Pub. L. 110–246, title III, § 3015][/us/pl/110/246/s3015], June 18, 2008, [122 Stat. 1826][/us/stat/122/1826].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 402, as added [Pub. L. 86–341, title I][/us/pl/86/341/tI], § 14, Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II][/us/pl/87/703/tII], § 201(2), Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 89–808][/us/pl/89/808], § 2(E), Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 92–42][/us/pl/92/42], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–113, title XII][/us/pl/95/113/tXII], § 1205, Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–72][/us/pl/96/72], § 24, Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536]; [Pub. L. 97–98, title XII][/us/pl/97/98/tXII], § 1213, Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 405(b), Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409]; [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3645][/us/stat/104/3645]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 211(b), Apr. 4, 1996, [110 Stat. 955][/us/stat/110/955]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3015, June 18, 2008, [122 Stat. 1826][/us/stat/122/1826].)
 
  __Amendments__ 
 
@@ -116,27 +116,27 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/86/341/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2Fs14
+[/us/pl/86/341/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F341%2FtI
 [/us/stat/73/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F610
-[/us/pl/87/703/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs201%2F2
+[/us/pl/87/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtII
 [/us/stat/76/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F611
-[/us/pl/89/808/s2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs2%2FE
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1536
 [/us/pl/92/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F42
 [/us/stat/85/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F99
-[/us/pl/95/113/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1205
+[/us/pl/95/113/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXII
 [/us/stat/91/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F956
-[/us/pl/96/72/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs24
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F536
-[/us/pl/97/98/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1213
+[/us/pl/97/98/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXII
 [/us/stat/95/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1281
-[/us/pl/98/623/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs405%2Fb
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3409
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3645
-[/us/pl/104/127/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs211%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F955
-[/us/pl/110/246/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3015
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1826
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

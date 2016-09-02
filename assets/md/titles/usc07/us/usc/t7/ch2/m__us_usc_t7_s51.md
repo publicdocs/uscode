@@ -17,11 +17,11 @@
 
     This chapter shall be known by the short title of “United States Cotton Standards Act.”
 
-([Mar. 4, 1923, ch. 288, § 1][/us/act/1923-03-04/ch288/s1], [42 Stat. 1517][/us/stat/42/1517].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 1, [42 Stat. 1517][/us/stat/42/1517].)
 
  __Effective Date__ 
 
-[Act Mar. 4, 1923, ch. 288, § 14][/us/act/1923-03-04/ch288/s14], [42 Stat. 1520][/us/stat/42/1520], provided: 
+[Act Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 14, [42 Stat. 1520][/us/stat/42/1520], provided: 
 
 > “That this Act \[enacting this chapter\] shall become effective on and after August 1, 1923.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs1
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1517
-[/us/act/1923-03-04/ch288/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs14
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1520
 
 

@@ -55,7 +55,7 @@
 
         The Secretary shall issue regulations providing guidelines for loan assessments conducted under this section.
 
-([Pub. L. 87–128, title III, § 360][/us/pl/87/128/s360], as added [Pub. L. 101–624, title XVIII, § 1819][/us/pl/101/624/s1819], Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; amended [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5317, 5318, May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 360, as added [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1819, Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; amended [Pub. L. 107–171, title V][/us/pl/107/171/tV], §§ 5317, 5318, May 13, 2002, [116 Stat. 348][/us/stat/116/348].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 5317][/us/pl/107/171/s5317], substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to [section 1982 of this title][/us/usc/t7/s1982], the Secretary”.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to [section 1982 of this title][/us/usc/t7/s1982], the Secretary”.
 
-    Subsec. (d)(1). [Pub. L. 107–171, § 5318][/us/pl/107/171/s5318], substituted “annual review” for “biannual review”.
+    Subsec. (d)(1). [Pub. L. 107–171][/us/pl/107/171], § 5318, substituted “annual review” for “biannual review”.
 
 ----------
 
@@ -76,14 +76,14 @@
 
 [/us/usc/t7/s2006a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2006a%2Fb
 [/us/usc/t7/s2006a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2006a%2Fb
-[/us/pl/87/128/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs360
-[/us/pl/101/624/s1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1819
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3830
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F348
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/107/171/s5317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5317
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1982
-[/us/pl/107/171/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5318
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 
 

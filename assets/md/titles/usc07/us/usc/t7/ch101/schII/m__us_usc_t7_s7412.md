@@ -121,7 +121,7 @@
 
         The term “United States” means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
-([Pub. L. 104–127, title V, § 513][/us/pl/104/127/s513], Apr. 4, 1996, [110 Stat. 1033][/us/stat/110/1033]; [Pub. L. 113–79, title X, § 10004(f)][/us/pl/113/79/s10004/f], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 513, Apr. 4, 1996, [110 Stat. 1033][/us/stat/110/1033]; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10004(f), Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
 
@@ -139,9 +139,9 @@
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/104/127/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs513
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1033
-[/us/pl/113/79/s10004/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Ff
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

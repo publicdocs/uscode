@@ -53,7 +53,7 @@
 
     (18) the term “United States” means the several States and the District of Columbia.
 
-([Pub. L. 94–294, § 3][/us/pl/94/294/s3], May 28, 1976, [90 Stat. 530][/us/stat/90/530]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1598][/us/stat/99/1598].)
+([Pub. L. 94–294][/us/pl/94/294], § 3, May 28, 1976, [90 Stat. 530][/us/stat/90/530]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1598][/us/stat/99/1598].)
 
  __Amendments__ 
 
@@ -73,9 +73,9 @@
 [/us/usc/t7/s2904/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904%2F1
 [/us/usc/t7/s2904/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904%2F5
 [/us/usc/t7/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2903
-[/us/pl/94/294/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs3
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F530
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1598
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

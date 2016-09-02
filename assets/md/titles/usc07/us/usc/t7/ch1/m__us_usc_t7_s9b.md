@@ -27,7 +27,7 @@
 
         If the Commission determines that an exception described in subparagraph (A) or (B) applies, the Commission shall publish in the Federal Register its determination with the reasons for it.
 
-([Sept. 21, 1922, ch. 369, § 6(f)][/us/act/1922-09-21/ch369/s6/f], as added [Pub. L. 103–297, § 3(e)(2)][/us/pl/103/297/s3/e/2], Aug. 16, 1994, [108 Stat. 1547][/us/stat/108/1547].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 6(f), as added [Pub. L. 103–297][/us/pl/103/297], § 3(e)(2), Aug. 16, 1994, [108 Stat. 1547][/us/stat/108/1547].)
 
  __Codification__ 
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t15/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102%2Fa
 [/us/usc/t15/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102%2Fa
-[/us/act/1922-09-21/ch369/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs6%2Ff
-[/us/pl/103/297/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs3%2Fe%2F2
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1547
 [/us/usc/t7/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9

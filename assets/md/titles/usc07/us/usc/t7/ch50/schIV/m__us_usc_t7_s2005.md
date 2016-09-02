@@ -47,7 +47,7 @@
 
             This subsection shall not be construed to limit the authority of the Secretary to enter into a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under [section 2001(e) of this title][/us/usc/t7/s2001/e].
 
-([Pub. L. 87–128, title III, § 357][/us/pl/87/128/s357], as added [Pub. L. 100–233, title VI, § 619][/us/pl/100/233/s619], Jan. 6, 1988, [101 Stat. 1683][/us/stat/101/1683]; amended [Pub. L. 101–624, title XXIII, § 2388(d)(2)][/us/pl/101/624/s2388/d/2], Nov. 28, 1990, [104 Stat. 4053][/us/stat/104/4053].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 357, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 619, Jan. 6, 1988, [101 Stat. 1683][/us/stat/101/1683]; amended [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2388(d)(2), Nov. 28, 1990, [104 Stat. 4053][/us/stat/104/4053].)
 
  __References in Text__ 
 
@@ -67,10 +67,10 @@
 [/us/usc/t7/s1981/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981%2Fb%2F4
 [/us/usc/t7/s1981/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981%2Fb%2F4
 [/us/usc/t7/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001%2Fe
-[/us/pl/87/128/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs357
-[/us/pl/100/233/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs619
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1683
-[/us/pl/101/624/s2388/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fd%2F2
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4053
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

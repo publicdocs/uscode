@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    The soil-bank provisions of this Act, referred to in subsec. (c), probably means those provisions of [act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], known as the Agricultural Act of 1956, which enacted the Soil Bank Act, and which were classified to subchapters I to III (§ 1801 et seq.) of chapter 45 of this title. The Soil Bank Act was repealed by [Pub. L. 89–321, title VI, § 601][/us/pl/89/321/s601], Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]. For complete classification of the Soil Bank Act to the Code prior to repeal, see Tables.
+    The soil-bank provisions of this Act, referred to in subsec. (c), probably means those provisions of [act May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], known as the Agricultural Act of 1956, which enacted the Soil Bank Act, and which were classified to subchapters I to III (§ 1801 et seq.) of chapter 45 of this title. The Soil Bank Act was repealed by [Pub. L. 89–321, title VI][/us/pl/89/321/tVI], § 601, Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206]. For complete classification of the Soil Bank Act to the Code prior to repeal, see Tables.
 
     Act of June 17, 1902, referred to in subsec. (d), is [act June 17, 1902, ch. 1093][/us/act/1902-06-17/ch1093], [32 Stat. 388][/us/stat/32/388], which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of Title 43][/us/usc/t43/s371] and Tables.
 
@@ -52,7 +52,7 @@
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
 [/us/stat/70/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F202
 [/us/act/1956-05-28/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-28%2Fch327
-[/us/pl/89/321/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs601
+[/us/pl/89/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVI
 [/us/stat/79/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1206
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388

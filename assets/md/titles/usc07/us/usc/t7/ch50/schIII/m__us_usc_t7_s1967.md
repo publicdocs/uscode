@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated to the Emergency Credit Revolving Fund such additional sums as the Congress shall from time to time determine to be necessary.
 
-([Pub. L. 87–128, title III, § 327][/us/pl/87/128/s327], Aug. 8, 1961, [75 Stat. 312][/us/stat/75/312].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 327, Aug. 8, 1961, [75 Stat. 312][/us/stat/75/312].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/87/128/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs327
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F312
 [/us/act/1949-04-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-06%2Fch49
 [/us/stat/63/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F43

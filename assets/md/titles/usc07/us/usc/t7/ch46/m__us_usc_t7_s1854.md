@@ -17,7 +17,7 @@
 
     The President may, whenever he determines such action appropriate, negotiate with representatives of foreign governments in an effort to obtain agreements limiting the export from such countries and the importation into the United States of any agricultural commodity or product manufactured therefrom or textiles or textile products, and the President is authorized to issue regulations governing the entry or withdrawal from warehouse of any such commodity, product, textiles, or textile products to carry out any such agreement. In addition, if a multilateral agreement, including but not limited to the Agreement on Textiles and Clothing referred to in [section 3511(d)(4) of title 19][/us/usc/t19/s3511/d/4], has been or is concluded under the authority of this section among countries accounting for a significant part of world trade in the articles with respect to which the agreement was concluded, the President may also issue, in order to carry out such agreement, regulations governing the entry or withdrawal from warehouse of the same articles which are the products of countries not parties to the agreement, or countries to which the United States does not apply the agreement. Nothing herein shall affect the authority provided under [section 624 of this title][/us/usc/t7/s624].
 
-([May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 204, [70 Stat. 200][/us/stat/70/200]; [Pub. L. 87–488][/us/pl/87/488], June 19, 1962, [76 Stat. 104][/us/stat/76/104]; [Pub. L. 103–465, title III, § 332][/us/pl/103/465/s332], Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947]; [Pub. L. 104–295, § 20(c)(8)][/us/pl/104/295/s20/c/8], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 204, [70 Stat. 200][/us/stat/70/200]; [Pub. L. 87–488][/us/pl/87/488], June 19, 1962, [76 Stat. 104][/us/stat/76/104]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 332, Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(8), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 
  __Amendments__ 
 
@@ -132,9 +132,9 @@ By virtue of the authority vested in me by section 204 of the Agricultural Act o
 [/us/stat/70/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F200
 [/us/pl/87/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F488
 [/us/stat/76/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F104
-[/us/pl/103/465/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs332
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4947
-[/us/pl/104/295/s20/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F8
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4

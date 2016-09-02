@@ -63,7 +63,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.
 
-([Pub. L. 110–234, title I, § 1621][/us/pl/110/234/s1621], May 22, 2008, [122 Stat. 1024][/us/stat/122/1024]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1621, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1752; [Pub. L. 113–79, title I, § 1606][/us/pl/113/79/s1606], Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1621, May 22, 2008, [122 Stat. 1024][/us/stat/122/1024]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1621, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1752; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1606, Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
 
  __Codification__ 
 
@@ -85,11 +85,11 @@
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/110/234/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1621
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1024
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1606
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F708
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -141,11 +141,11 @@
 
         The owner of a farm may reduce, at any time, the base acres for peanuts assigned to the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
 
-([Pub. L. 107–171, title I, § 1302][/us/pl/107/171/s1302], May 13, 2002, [116 Stat. 167][/us/stat/116/167].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1302, May 13, 2002, [116 Stat. 167][/us/stat/116/167].)
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
+    This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of [Pub. L. 107–171, title I][/us/pl/107/171/tI], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
 
     The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
@@ -159,9 +159,9 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3830
 [/us/usc/t7/s7911/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911%2Fg
-[/us/pl/107/171/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1302
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F167
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F166
 [/us/usc/t7/s7951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7951
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

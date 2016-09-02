@@ -59,7 +59,7 @@
 
         The pendency of a petition filed under subsection (a) or an action commenced under subsection (b) shall not operate as a stay of any action authorized by [section 7419 of this title][/us/usc/t7/s7419] to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.
 
-([Pub. L. 104–127, title V, § 519][/us/pl/104/127/s519], Apr. 4, 1996, [110 Stat. 1044][/us/stat/110/1044].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 519, Apr. 4, 1996, [110 Stat. 1044][/us/stat/110/1044].)
 
 ----------
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t7/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7419
-[/us/pl/104/127/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs519
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1044
 
 

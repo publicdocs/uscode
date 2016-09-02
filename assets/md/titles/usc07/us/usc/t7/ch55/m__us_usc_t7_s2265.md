@@ -17,7 +17,7 @@
 
     Any gift of money accepted pursuant to the authority granted in [section 2264 of this title][/us/usc/t7/s2264], or the net proceeds from the liquidation of any other property so accepted, or the proceeds of any insurance on any gift property not used for its restoration shall be deposited in the Treasury of the United States for credit to a separate account and shall be disbursed upon order of the Secretary of Agriculture.
 
-([Pub. L. 91–591, § 3][/us/pl/91/591/s3], Dec. 28, 1970, [84 Stat. 1588][/us/stat/84/1588].)
+([Pub. L. 91–591][/us/pl/91/591], § 3, Dec. 28, 1970, [84 Stat. 1588][/us/stat/84/1588].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2264
-[/us/pl/91/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F591%2Fs3
+[/us/pl/91/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F591
 [/us/stat/84/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1588
 
 

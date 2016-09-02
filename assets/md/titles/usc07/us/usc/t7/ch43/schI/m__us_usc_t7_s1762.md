@@ -43,7 +43,7 @@
 
         Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee’s grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: Provided, That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: Provided further, That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 602(a)–(d), formerly § 602(a)–(c), (e), [68 Stat. 908][/us/stat/68/908], 909; amended [June 28, 1955, ch. 189, § 12(c)(13)][/us/act/1955-06-28/ch189/s12/c/13], [69 Stat. 182][/us/stat/69/182]; [Pub. L. 89–106, § 4][/us/pl/89/106/s4], Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 94–449][/us/pl/94/449], Oct. 1, 1976, [90 Stat. 1500][/us/stat/90/1500]; renumbered § 602(a)–(d) and amended [Pub. L. 95–501, title III, § 301(4)][/us/pl/95/501/s301/4], (5), title IV, § 401(3), (5), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688], 1691.)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VI, § 602(a)–(d), formerly § 602(a)–(c), (e), [68 Stat. 908][/us/stat/68/908], 909; amended [June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 12(c)(13), [69 Stat. 182][/us/stat/69/182]; [Pub. L. 89–106][/us/pl/89/106], § 4, Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 94–449][/us/pl/94/449], Oct. 1, 1976, [90 Stat. 1500][/us/stat/90/1500]; renumbered § 602(a)–(d) and amended [Pub. L. 95–501, title III][/us/pl/95/501/tIII], § 301(4), (5), title IV, § 401(3), (5), Oct. 21, 1978, [92 Stat. 1688][/us/stat/92/1688], 1691.)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–501, § 301(4)][/us/pl/95/501/s301/4], substituted “this subchapter” for “this chapter”.
+    1978—Subsec. (a). [Pub. L. 95–501][/us/pl/95/501], § 301(4), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (b). [Pub. L. 95–501, § 301(5)][/us/pl/95/501/s301/5], inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
+    Subsec. (b). [Pub. L. 95–501][/us/pl/95/501], § 301(5), inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
 
     Subsecs. (d), (e). [Pub. L. 95–501][/us/pl/95/501], §§ 301(4), 401(5), redesignated subsec. (e) as (d) and substituted “this subchapter” for “this chapter”. Former subsec. (d), relating to Presidential regulations, was redesignated section 606B of act Aug. 28, 1954, by [section 401(3) of Pub. L. 95–501][/us/pl/95/501/s401/3], which is classified to [section 1766a of this title][/us/usc/t7/s1766a].
 
-    Subsec. (f). [Pub. L. 95–501, § 401(3)][/us/pl/95/501/s401/3], redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to [section 1766b of this title][/us/usc/t7/s1766b].
+    Subsec. (f). [Pub. L. 95–501][/us/pl/95/501], § 401(3), redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to [section 1766b of this title][/us/usc/t7/s1766b].
 
     1976—Subsec. (f). [Pub. L. 94–449][/us/pl/94/449] added subsec. (f).
 
@@ -100,23 +100,23 @@ Sec. 2. In addition to rules and regulations pertaining to allowances and benefi
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F908
-[/us/act/1955-06-28/ch189/s12/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs12%2Fc%2F13
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F182
-[/us/pl/89/106/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106%2Fs4
+[/us/pl/89/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106
 [/us/stat/79/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F431
 [/us/pl/94/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F449
 [/us/stat/90/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1500
-[/us/pl/95/501/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F4
+[/us/pl/95/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtIII
 [/us/stat/92/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1688
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F897
 [/us/usc/t7/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1741
-[/us/pl/95/501/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F4
-[/us/pl/95/501/s301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs301%2F5
+[/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
+[/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/pl/95/501/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F3
 [/us/usc/t7/s1766a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1766a
-[/us/pl/95/501/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs401%2F3
+[/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/usc/t7/s1766b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1766b
 [/us/pl/94/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F449
 [/us/pl/89/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F106

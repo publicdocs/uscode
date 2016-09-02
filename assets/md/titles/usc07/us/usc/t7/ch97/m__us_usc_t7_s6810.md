@@ -31,7 +31,7 @@
 
         Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-([Pub. L. 103–190, § 11][/us/pl/103/190/s11], Dec. 14, 1993, [107 Stat. 2288][/us/stat/107/2288].)
+([Pub. L. 103–190][/us/pl/103/190], § 11, Dec. 14, 1993, [107 Stat. 2288][/us/stat/107/2288].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t7/s6804/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fj%2F2
-[/us/pl/103/190/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs11
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2288
 
 

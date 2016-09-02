@@ -25,15 +25,15 @@
 
     (4) appeals of decisions made by the Soil Conservation Service (as in effect on the day before October 13, 1994).
 
-([Pub. L. 103–354, title II, § 273][/us/pl/103/354/s273], Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 273, Oct. 13, 1994, [108 Stat. 3230][/us/stat/108/3230].)
 
  __References in Text__ 
 
     The effective date of this subchapter, referred to in text, probably means the date of enactment of [Pub. L. 103–354][/us/pl/103/354], which was approved Oct. 13, 1994.
 
-    [Section 1433e of this title][/us/usc/t7/s1433e], referred to in par. (1), was repealed by [Pub. L. 103–354, title II, § 281(b)][/us/pl/103/354/s281/b], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
+    [Section 1433e of this title][/us/usc/t7/s1433e], referred to in par. (1), was repealed by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281(b), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
 
-    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in par. (2), was repealed by [Pub. L. 103–354, title II, § 281(c)][/us/pl/103/354/s281/c], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
+    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in par. (2), was repealed by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281(c), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
 
 ----------
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/103/354/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs273
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3230
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/usc/t7/s1433e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1433e
-[/us/pl/103/354/s281/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fb
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/103/354/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fc
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 
 

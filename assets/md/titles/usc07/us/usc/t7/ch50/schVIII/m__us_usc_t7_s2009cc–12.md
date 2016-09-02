@@ -45,7 +45,7 @@
 
             On the request of the Secretary, the court shall appoint the Secretary to act as a trustee or receiver of a rural business investment company unless the court considers the appointment inequitable or otherwise inappropriate by reason of any special circumstances involved.
 
-([Pub. L. 87–128, title III, § 384M][/us/pl/87/128/s384M], as added [Pub. L. 107–171, title VI, § 6029][/us/pl/107/171/s6029], May 13, 2002, [116 Stat. 399][/us/stat/116/399].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 384M, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6029, May 13, 2002, [116 Stat. 399][/us/stat/116/399].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s384M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs384M
-[/us/pl/107/171/s6029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6029
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F399
 
 

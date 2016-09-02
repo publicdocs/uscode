@@ -17,11 +17,11 @@
 
     The Secretary shall establish and implement a program that is similar to the program established under [section 2001 of this title][/us/usc/t7/s2001], except that the debt restructuring and loan servicing procedures shall apply to delinquent community facility program loans (rather than delinquent farmer program loans) made by the Farmers Home Administration to a hospital or health care facility under [section 1926(a) of this title][/us/usc/t7/s1926/a].
 
-([Pub. L. 87–128, title III, § 353A][/us/pl/87/128/s353A], as added [Pub. L. 101–624, title XXIII, § 2384(a)][/us/pl/101/624/s2384/a], Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 353A, as added [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2384(a), Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050].)
 
  __Regulations__ 
 
-[Pub. L. 101–624, title XXIII, § 2384(b)][/us/pl/101/624/s2384/b], Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050], provided that: 
+[Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2384(b), Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Nov. 28, 1990\], the Secretary shall promulgate regulations, modeled after those promulgated under such section 353 \[[7 U.S.C. 2001][/us/usc/t7/s2001]\], that implement the program established under section 353A of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 2001a][/us/usc/t7/s2001a]\].”
 
@@ -34,10 +34,10 @@
 
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/usc/t7/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa
-[/us/pl/87/128/s353A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs353A
-[/us/pl/101/624/s2384/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2384%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4050
-[/us/pl/101/624/s2384/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2384%2Fb
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4050
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/usc/t7/s2001a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001a

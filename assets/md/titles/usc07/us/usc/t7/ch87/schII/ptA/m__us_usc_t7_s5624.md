@@ -63,7 +63,7 @@
 
         (3) permit the resale or transshipment of eligible commodities to countries other than the intended recipient country.
 
-([Pub. L. 95–501, title II, § 204][/us/pl/95/501/s204], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3676][/us/stat/104/3676]; amended [Pub. L. 102–237, title III, § 320][/us/pl/102/237/s320], Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857].)
+([Pub. L. 95–501, title II][/us/pl/95/501/tII], § 204, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3676][/us/stat/104/3676]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 320, Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857].)
 
  __Amendments__ 
 
@@ -76,10 +76,10 @@
 ----------
 ----------
 
-[/us/pl/95/501/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs204
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtII
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3676
-[/us/pl/102/237/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs320
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1857
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

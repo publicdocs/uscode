@@ -19,7 +19,7 @@
 
     (b) Omitted
 
-([Pub. L. 95–113, title I, § 102][/us/pl/95/113/s102], Sept. 29, 1977, [91 Stat. 918][/us/stat/91/918]; [Pub. L. 97–98, title XVI, § 1608][/us/pl/97/98/s1608], Dec. 22, 1981, [95 Stat. 1347][/us/stat/95/1347]; [Pub. L. 99–198, title XIV, § 1441][/us/pl/99/198/s1441], Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560].)
+([Pub. L. 95–113, title I][/us/pl/95/113/tI], § 102, Sept. 29, 1977, [91 Stat. 918][/us/stat/91/918]; [Pub. L. 97–98, title XVI][/us/pl/97/98/tXVI], § 1608, Dec. 22, 1981, [95 Stat. 1347][/us/stat/95/1347]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1441, Dec. 23, 1985, [99 Stat. 1560][/us/stat/99/1560].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Study of Impact of Prohibitions on Payments to Certain Corporations Under Wheat, Feed Grains, Cotton, and Rice Programs; Report by__  __January 1, 1979__ 
 
-    [Pub. L. 95–113, title I, § 103][/us/pl/95/113/s103], Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that in furtherance of the policy stated in section 102 of this Act \[this section\], the Secretary of Agriculture was to conduct a study and report to Congress no later than January 1, 1979, on the impact on participation in the wheat, feed grain, cotton, and rice programs and the production of such commodities in carrying out a statutory provision such as that included in the Food and Agriculture Act of 1977, as passed by the Senate on May 24, 1977 \[see Short Title of 1977 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281]\], prohibiting the making of payments to certain corporations and other entities under such programs, which study was to assess the impact of extending the prohibition against making commodity program payments to tenants on land owned by such corporations and other entities which would be excluded from payments under such a provision, and was to utilize the information on commodity program payments compiled by the Agricultural Stabilization and Conservation Service in determining payment eligibility under section 101 of the Agricultural Act of 1970, as amended \[[section 1307 of this title][/us/usc/t7/s1307]\], and section 101 of this Act \[[section 1308 of this title][/us/usc/t7/s1308]\]. The Secretary was authorized to collect such other information as necessary to determine the impact of such a statutory provision and to identify the number and characteristics of producers that would be affected by such a provision.
+    [Pub. L. 95–113, title I][/us/pl/95/113/tI], § 103, Sept. 29, 1977, [91 Stat. 919][/us/stat/91/919], provided that in furtherance of the policy stated in section 102 of this Act \[this section\], the Secretary of Agriculture was to conduct a study and report to Congress no later than January 1, 1979, on the impact on participation in the wheat, feed grain, cotton, and rice programs and the production of such commodities in carrying out a statutory provision such as that included in the Food and Agriculture Act of 1977, as passed by the Senate on May 24, 1977 \[see Short Title of 1977 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281]\], prohibiting the making of payments to certain corporations and other entities under such programs, which study was to assess the impact of extending the prohibition against making commodity program payments to tenants on land owned by such corporations and other entities which would be excluded from payments under such a provision, and was to utilize the information on commodity program payments compiled by the Agricultural Stabilization and Conservation Service in determining payment eligibility under section 101 of the Agricultural Act of 1970, as amended \[[section 1307 of this title][/us/usc/t7/s1307]\], and section 101 of this Act \[[section 1308 of this title][/us/usc/t7/s1308]\]. The Secretary was authorized to collect such other information as necessary to determine the impact of such a statutory provision and to identify the number and characteristics of producers that would be affected by such a provision.
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/95/113/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs102
+[/us/pl/95/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtI
 [/us/stat/91/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F918
-[/us/pl/97/98/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1608
+[/us/pl/97/98/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVI
 [/us/stat/95/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1347
-[/us/pl/99/198/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1441
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1560
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -65,7 +65,7 @@
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/95/113/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs103
+[/us/pl/95/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtI
 [/us/stat/91/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F919
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307

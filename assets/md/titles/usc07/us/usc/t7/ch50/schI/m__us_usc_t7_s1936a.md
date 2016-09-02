@@ -23,7 +23,7 @@
 
     (3) satisfies such additional requirements as are established by the Secretary.
 
-([Pub. L. 87–128, title III, § 310G][/us/pl/87/128/s310G], as added [Pub. L. 107–171, title VI, § 6018][/us/pl/107/171/s6018], May 13, 2002, [116 Stat. 361][/us/stat/116/361].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310G, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6018, May 13, 2002, [116 Stat. 361][/us/stat/116/361].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t7/s2009d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fd
 [/us/usc/t7/s2009d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009d%2Fd
-[/us/pl/87/128/s310G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310G
-[/us/pl/107/171/s6018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6018
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F361
 
 

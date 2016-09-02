@@ -55,7 +55,7 @@
 
             Not later than April 30, 2002, the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 23, as added [Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 3\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–519.)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 23, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(8) \[§ 3\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–519.)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/usc/t7/s608d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608d
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/pl/106/113/s1000/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F8
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t12/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs781
 

@@ -17,11 +17,11 @@
 
     Any price support program in effect on cottonseed or any of its products shall be extended to the same seed and products of the cottons defined under [section 1347(a) of this title][/us/usc/t7/s1347/a].
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 420, as added [July 17, 1952, ch. 933, § 3(2)][/us/act/1952-07-17/ch933/s3/2], [66 Stat. 759][/us/stat/66/759].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 420, as added [July 17, 1952, ch. 933][/us/act/1952-07-17/ch933], § 3(2), [66 Stat. 759][/us/stat/66/759].)
 
  __References in Text__ 
 
-    [Section 1347 of this title][/us/usc/t7/s1347], referred to in text, was repealed by [Pub. L. 98–88, § 2][/us/pl/98/88/s2], Aug. 26, 1983, [97 Stat. 494][/us/stat/97/494].
+    [Section 1347 of this title][/us/usc/t7/s1347], referred to in text, was repealed by [Pub. L. 98–88][/us/pl/98/88], § 2, Aug. 26, 1983, [97 Stat. 494][/us/stat/97/494].
 
  __Inapplicability of Section__ 
 
@@ -42,10 +42,10 @@
 
 [/us/usc/t7/s1347/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347%2Fa
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/act/1952-07-17/ch933/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch933%2Fs3%2F2
+[/us/act/1952-07-17/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch933
 [/us/stat/66/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F759
 [/us/usc/t7/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1347
-[/us/pl/98/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs2
+[/us/pl/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88
 [/us/stat/97/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F494
 [/us/usc/t7/s9092/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F10
 [/us/usc/t7/s8782/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F10

@@ -17,7 +17,7 @@
 
     If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and the applicability of such provisions to other persons and circumstances shall not be affected thereby.
 
-([Mar. 3, 1927, ch. 309, § 4][/us/act/1927-03-03/ch309/s4], [44 Stat. 1356][/us/stat/44/1356].)
+([Mar. 3, 1927, ch. 309][/us/act/1927-03-03/ch309], § 4, [44 Stat. 1356][/us/stat/44/1356].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch309/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch309%2Fs4
+[/us/act/1927-03-03/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch309
 [/us/stat/44/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1356
 
 

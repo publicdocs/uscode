@@ -23,7 +23,7 @@
 
         The collected funds shall be available to the Agricultural Research Service, without further appropriation or fiscal-year limitation, to carry out its responsibilities under law (including international treaties) with respect to the Patent Culture Collection.
 
-([Pub. L. 105–185, title VI, § 601(c)][/us/pl/105/185/s601/c], June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 601(c), June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/185/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs601%2Fc
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
 
 

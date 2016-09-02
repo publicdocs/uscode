@@ -59,7 +59,7 @@
 
         Amounts made available for production flexibility contracts under [section 7213 of this title][/us/usc/t7/s7213] shall be reduced by an amount that is equal to the contract payments that producers forgo under subsection (b)(1) of this section.
 
-([Pub. L. 104–127, title III, § 385][/us/pl/104/127/s385], Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 385, Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/usc/t7/s7213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7213
-[/us/pl/104/127/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs385
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1016
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896

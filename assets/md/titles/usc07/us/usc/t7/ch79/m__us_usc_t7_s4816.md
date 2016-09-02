@@ -39,7 +39,7 @@
 
         (4) Process in such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
-([Pub. L. 99–198, title XVI, § 1627][/us/pl/99/198/s1627], Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1627, Dec. 23, 1985, [99 Stat. 1621][/us/stat/99/1621].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1627
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1621
 
 

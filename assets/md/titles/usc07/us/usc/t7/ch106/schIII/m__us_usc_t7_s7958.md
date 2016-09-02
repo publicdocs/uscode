@@ -113,7 +113,7 @@
 
         This section shall take effect with the 2002 crop of peanuts.
 
-([Pub. L. 107–171, title I, § 1308][/us/pl/107/171/s1308], May 13, 2002, [116 Stat. 178][/us/stat/116/178].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1308, May 13, 2002, [116 Stat. 178][/us/stat/116/178].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 ----------
 
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
-[/us/pl/107/171/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1308
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F178
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31

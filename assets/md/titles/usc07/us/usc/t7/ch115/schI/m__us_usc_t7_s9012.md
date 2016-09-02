@@ -163,7 +163,7 @@
 
                 The Secretary shall establish procedures to identify land described in subparagraph (A).
 
-([Pub. L. 113–79, title I, § 1112][/us/pl/113/79/s1112], Feb. 7, 2014, [128 Stat. 661][/us/stat/128/661].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1112, Feb. 7, 2014, [128 Stat. 661][/us/stat/128/661].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t7/s8711/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711%2Fa%2F1%2FD
 [/us/usc/t16/s3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3830
-[/us/pl/113/79/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1112
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F661
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354

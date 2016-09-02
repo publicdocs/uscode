@@ -31,7 +31,7 @@
 
     (7) establish a new program of education grants and fellowships to strengthen research, extension, and teaching programs in the food and agricultural sciences, to be awarded on the basis of competition.
 
-([Pub. L. 95–113, title XIV, § 1403][/us/pl/95/113/s1403], Sept. 29, 1977, [91 Stat. 983][/us/stat/91/983]; [Pub. L. 97–98, title XIV, § 1403][/us/pl/97/98/s1403], Dec. 22, 1981, [95 Stat. 1296][/us/stat/95/1296]; [Pub. L. 101–624, title XVI, § 1602(b)][/us/pl/101/624/s1602/b], Nov. 28, 1990, [104 Stat. 3705][/us/stat/104/3705].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1403, Sept. 29, 1977, [91 Stat. 983][/us/stat/91/983]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1403, Dec. 22, 1981, [95 Stat. 1296][/us/stat/95/1296]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1602(b), Nov. 28, 1990, [104 Stat. 3705][/us/stat/104/3705].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section catchline generally.
 
-    1981—Par. (2). [Pub. L. 97–98, § 1403(1)][/us/pl/97/98/s1403/1], inserted “extension, and teaching programs,” and substituted “these programs” for “such research, assure that high priority research is given adequate funding”.
+    1981—Par. (2). [Pub. L. 97–98][/us/pl/97/98], § 1403(1), inserted “extension, and teaching programs,” and substituted “these programs” for “such research, assure that high priority research is given adequate funding”.
 
-    Par. (4). [Pub. L. 97–98, § 1403(2)][/us/pl/97/98/s1403/2], substituted “programs through” for “programs, including the initiatives specified in [section 3101(8) of this title][/us/usc/t7/s3101/8], through”.
+    Par. (4). [Pub. L. 97–98][/us/pl/97/98], § 1403(2), substituted “programs through” for “programs, including the initiatives specified in [section 3101(8) of this title][/us/usc/t7/s3101/8], through”.
 
-    Par. (5). [Pub. L. 97–98, § 1403(3)][/us/pl/97/98/s1403/3], substituted “among research workers” for “among scientific research workers”.
+    Par. (5). [Pub. L. 97–98][/us/pl/97/98], § 1403(3), substituted “among research workers” for “among scientific research workers”.
 
-    Par. (7). [Pub. L. 97–98, § 1403(4)][/us/pl/97/98/s1403/4], substituted “research, extension, and teaching” for “training and research”.
+    Par. (7). [Pub. L. 97–98][/us/pl/97/98], § 1403(4), substituted “research, extension, and teaching” for “training and research”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1403
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F983
-[/us/pl/97/98/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1403
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1296
-[/us/pl/101/624/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1602%2Fb
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3705
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F981
@@ -76,11 +76,11 @@
 [/us/usc/t7/s390k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs390k
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/97/98/s1403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1403%2F1
-[/us/pl/97/98/s1403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1403%2F2
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t7/s3101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101%2F8
-[/us/pl/97/98/s1403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1403%2F3
-[/us/pl/97/98/s1403/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1403%2F4
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

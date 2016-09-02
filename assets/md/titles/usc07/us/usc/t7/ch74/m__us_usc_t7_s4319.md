@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Floraboard in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-([Pub. L. 97–98, title XVII, § 1720][/us/pl/97/98/s1720], Dec. 22, 1981, [95 Stat. 1358][/us/stat/95/1358].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1720, Dec. 22, 1981, [95 Stat. 1358][/us/stat/95/1358].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1720
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1358
 
 

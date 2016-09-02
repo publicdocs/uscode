@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-Section was from the Department of Agriculture Appropriation Act, 1946, [act July 5, 1945, ch. 271][/us/act/1945-07-05/ch271], title I, [59 Stat. 423][/us/stat/59/423], provided for the disposition of proceeds from the sale of guayule and other rubber-bearing plants, and was not repeated in subsequent appropriation acts. Similar provisions were contained in prior appropriation acts as follows:
+Section was from the Department of Agriculture Appropriation Act, 1946, [act July 5, 1945, ch. 271, title I][/us/act/1945-07-05/ch271/tI], [59 Stat. 423][/us/stat/59/423], provided for the disposition of proceeds from the sale of guayule and other rubber-bearing plants, and was not repeated in subsequent appropriation acts. Similar provisions were contained in prior appropriation acts as follows:
 
     [May 5, 1945, ch. 109][/us/act/1945-05-05/ch109], [59 Stat. 152][/us/stat/59/152].
 
@@ -36,7 +36,7 @@ Section was from the Department of Agriculture Appropriation Act, 1946, [act Jul
 ----------
 ----------
 
-[/us/act/1945-07-05/ch271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-05%2Fch271
+[/us/act/1945-07-05/ch271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-05%2Fch271%2FtI
 [/us/stat/59/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F423
 [/us/act/1945-05-05/ch109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-05%2Fch109
 [/us/stat/59/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F152

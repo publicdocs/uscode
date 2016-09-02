@@ -37,13 +37,13 @@
 
         The Commission shall exercise its authority to ensure that securities held in a portfolio margining account carried as a futures account are customer property and the owners of those accounts are customers for the purposes of subchapter IV of chapter 7 of title 11.
 
-([Sept. 21, 1922, ch. 369, § 20][/us/act/1922-09-21/ch369/s20], formerly § 19, as added [Pub. L. 95–598, title III, § 302][/us/pl/95/598/s302], Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; renumbered and amended [Pub. L. 97–222, § 20][/us/pl/97/222/s20], July 27, 1982, [96 Stat. 241][/us/stat/96/241]; [Pub. L. 111–203, title VII, § 713(c)][/us/pl/111/203/s713/c], July 21, 2010, [124 Stat. 1647][/us/stat/124/1647].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 20, formerly § 19, as added [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 302, Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; renumbered and amended [Pub. L. 97–222][/us/pl/97/222], § 20, July 27, 1982, [96 Stat. 241][/us/stat/96/241]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 713(c), July 21, 2010, [124 Stat. 1647][/us/stat/124/1647].)
 
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203] added subsec. (c).
 
-    1982—Subsec. (a)(3). [Pub. L. 97–222, § 20(b)][/us/pl/97/222/s20/b], inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
+    1982—Subsec. (a)(3). [Pub. L. 97–222][/us/pl/97/222], § 20(b), inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -61,15 +61,15 @@
 ----------
 
 [/us/usc/t11/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs766
-[/us/act/1922-09-21/ch369/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs20
-[/us/pl/95/598/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs302
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2673
-[/us/pl/97/222/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs20
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F241
-[/us/pl/111/203/s713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs713%2Fc
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1647
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/97/222/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs20%2Fb
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

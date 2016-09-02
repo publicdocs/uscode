@@ -21,7 +21,7 @@
 
     (2) the use of any means of conveyance or facility in connection with the movement in interstate commerce of any animal or article if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction or dissemination of any pest or disease of livestock.
 
-([Pub. L. 107–171, title X, § 10406][/us/pl/107/171/s10406], May 13, 2002, [116 Stat. 498][/us/stat/116/498].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10406, May 13, 2002, [116 Stat. 498][/us/stat/116/498].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10406
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F498
 
 

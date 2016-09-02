@@ -51,7 +51,7 @@
 
         (2) $3,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 105–185, title VI, § 614][/us/pl/105/185/s614], June 23, 1998, [112 Stat. 605][/us/stat/112/605]; [Pub. L. 107–171, title VII, § 7132][/us/pl/107/171/s7132], May 13, 2002, [116 Stat. 435][/us/stat/116/435]; [Pub. L. 110–234, title VII, § 7313][/us/pl/110/234/s7313], May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7313, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2006; [Pub. L. 113–79, title VII, § 7309][/us/pl/113/79/s7309], Feb. 7, 2014, [128 Stat. 891][/us/stat/128/891].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 614, June 23, 1998, [112 Stat. 605][/us/stat/112/605]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7132, May 13, 2002, [116 Stat. 435][/us/stat/116/435]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7313, May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7313, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2006; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7309, Feb. 7, 2014, [128 Stat. 891][/us/stat/128/891].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
     2014—Subsec. (f). [Pub. L. 113–79][/us/pl/113/79] struck out “such sums as are necessary” after “appropriated”, substituted “section—” for “section for each of fiscal years 1999 through 2012.”, and added pars. (1) and (2).
 
-    2008—Subsec. (f). [Pub. L. 110–246, § 7313][/us/pl/110/246/s7313], substituted “2012” for “2007”.
+    2008—Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 7313, substituted “2012” for “2007”.
 
     2002—Subsec. (f). [Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002”.
 
@@ -88,15 +88,15 @@
 [/us/stat/110/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1489
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/185/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs614
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F605
-[/us/pl/107/171/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7132
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F435
-[/us/pl/110/234/s7313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7313
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1245
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7309
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F891
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
 [/us/stat/110/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1489
@@ -113,7 +113,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7313
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

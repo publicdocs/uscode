@@ -107,7 +107,7 @@
 
             The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(l) of this title.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 505, [52 Stat. 72][/us/stat/52/72]; [Aug. 1, 1947, ch. 440, § 8][/us/act/1947-08-01/ch440/s8], [61 Stat. 719][/us/stat/61/719]; [Aug. 25, 1949, ch. 512, § 7][/us/act/1949-08-25/ch512/s7], [63 Stat. 665][/us/stat/63/665]; [Pub. L. 96–365, title I, § 102][/us/pl/96/365/s102], Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312]; [Pub. L. 103–354, title I][/us/pl/103/354], §§ 102(b)(3), (4), 103, 115(a), Oct. 13, 1994, [108 Stat. 3181][/us/stat/108/3181], 3204; [Pub. L. 106–224, title I, § 142(a)(1)][/us/pl/106/224/s142/a/1], (b), June 20, 2000, [114 Stat. 389][/us/stat/114/389], 390; [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 505, [52 Stat. 72][/us/stat/52/72]; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], § 8, [61 Stat. 719][/us/stat/61/719]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], § 7, [63 Stat. 665][/us/stat/63/665]; [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 102, Sept. 26, 1980, [94 Stat. 1312][/us/stat/94/1312]; [Pub. L. 103–354, title I][/us/pl/103/354/tI], §§ 102(b)(3), (4), 103, 115(a), Oct. 13, 1994, [108 Stat. 3181][/us/stat/108/3181], 3204; [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 142(a)(1), (b), June 20, 2000, [114 Stat. 389][/us/stat/114/389], 390; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12033(c)(2)(B), May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 
  __Codification__ 
 
@@ -115,31 +115,31 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e)(1), (4). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    2008—Subsec. (e)(1), (4). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    2000—[Pub. L. 106–224, § 142(a)(1)][/us/pl/106/224/s142/a/1], inserted section catchline.
+    2000—[Pub. L. 106–224][/us/pl/106/224], § 142(a)(1), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 106–224, § 142(a)(1)][/us/pl/106/224/s142/a/1], added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The management of the Corporation shall be vested in a Board subject to the general supervision of the Secretary. The Board shall consist of the manager of the Corporation, the Under Secretary of Agriculture responsible for the Federal crop insurance program, one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture), one person experienced in the crop insurance business who is not otherwise employed by the Federal Government, and three active farmers who are not otherwise employed by the Federal Government. The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board. The Secretary, in appointing the three active farmers who are not otherwise employed by the Federal Government, shall ensure that such members are policyholders and are from different geographic areas of the United States, in order that diverse agricultural interests in the United States are at all times represented on the Board.”
+    Subsec. (a). [Pub. L. 106–224][/us/pl/106/224], § 142(a)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The management of the Corporation shall be vested in a Board subject to the general supervision of the Secretary. The Board shall consist of the manager of the Corporation, the Under Secretary of Agriculture responsible for the Federal crop insurance program, one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture), one person experienced in the crop insurance business who is not otherwise employed by the Federal Government, and three active farmers who are not otherwise employed by the Federal Government. The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board. The Secretary, in appointing the three active farmers who are not otherwise employed by the Federal Government, shall ensure that such members are policyholders and are from different geographic areas of the United States, in order that diverse agricultural interests in the United States are at all times represented on the Board.”
 
-    Subsec. (e). [Pub. L. 106–224, § 142(b)][/us/pl/106/224/s142/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–224][/us/pl/106/224], § 142(b), added subsec. (e).
 
-    1994—Subsec. (a). [Pub. L. 103–354, § 102(b)(3)][/us/pl/103/354/s102/b/3], (4)(A), (C), in first sentence struck out “of Directors (hereinafter called the ‘Board’)” after “Board” and “of Agriculture” after “Secretary”.
+    1994—Subsec. (a). [Pub. L. 103–354][/us/pl/103/354], § 102(b)(3), (4)(A), (C), in first sentence struck out “of Directors (hereinafter called the ‘Board’)” after “Board” and “of Agriculture” after “Secretary”.
 
-    [Pub. L. 103–354, § 103][/us/pl/103/354/s103], in second sentence struck out “or Assistant Secretary” after “Corporation, the Under Secretary” and substituted “one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture)” for “the Under Secretary or Assistant Secretary of Agriculture responsible for the farm credit programs of the Department of Agriculture”.
+    [Pub. L. 103–354][/us/pl/103/354], § 103, in second sentence struck out “or Assistant Secretary” after “Corporation, the Under Secretary” and substituted “one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture)” for “the Under Secretary or Assistant Secretary of Agriculture responsible for the farm credit programs of the Department of Agriculture”.
 
-    [Pub. L. 103–354, § 115(a)(1)][/us/pl/103/354/s115/a/1], substituted “The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board.” for former third sentence which read as follows: “The Board shall be appointed by, and hold office at the pleasure of the Secretary, who shall not, himself, be a member of the Board.”
+    [Pub. L. 103–354][/us/pl/103/354], § 115(a)(1), substituted “The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board.” for former third sentence which read as follows: “The Board shall be appointed by, and hold office at the pleasure of the Secretary, who shall not, himself, be a member of the Board.”
 
-    [Pub. L. 103–354, § 102(b)(4)(C)][/us/pl/103/354/s102/b/4/C], in third sentence struck out “of Agriculture” before “, who shall not”.
+    [Pub. L. 103–354][/us/pl/103/354], § 102(b)(4)(C), in third sentence struck out “of Agriculture” before “, who shall not”.
 
-    Subsec. (c). [Pub. L. 103–354, § 102(b)(4)(B)][/us/pl/103/354/s102/b/4/B], (C), struck out “of Agriculture” after “Department” in first sentence and after “Secretary” in second sentence.
+    Subsec. (c). [Pub. L. 103–354][/us/pl/103/354], § 102(b)(4)(B), (C), struck out “of Agriculture” after “Department” in first sentence and after “Secretary” in second sentence.
 
     Subsec. (d). [Pub. L. 103–354][/us/pl/103/354], §§ 102(b)(4)(C), 115(a)(2), in first sentence struck out “upon him” before “by the Board”, and in second sentence substituted “The manager shall” for “He shall” and struck out “of Agriculture” after “Secretary”.
 
-    1980—Subsec. (a). [Pub. L. 96–365, § 102(a)][/us/pl/96/365/s102/a], increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons with insurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
+    1980—Subsec. (a). [Pub. L. 96–365][/us/pl/96/365], § 102(a), increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons with insurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
 
-    Subsec. (b). [Pub. L. 96–365, § 102(b)][/us/pl/96/365/s102/b], substituted “four” for “three” in two places.
+    Subsec. (b). [Pub. L. 96–365][/us/pl/96/365], § 102(b), substituted “four” for “three” in two places.
 
-    Subsec. (c). [Pub. L. 96–365, § 102(c)][/us/pl/96/365/s102/c], substituted as limitation on compensation of Directors of the Corporation not employed by the Federal Government the daily equivalent of rate prescribed for grade GS–18 under [section 5332 of title 5][/us/usc/t5/s5332] when actually employed, and actual necessary traveling and subsistence expenses, or the per diem allowance in lieu of subsistence expenses, as authorized by [section 5703 of title 5][/us/usc/t5/s5703] for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business for former limitation of $50 per day when actually employed and transportation expenses plus not to exceed $10 per diem in lieu of subsistence expenses when on business of the Corporation away from their homes or regular places of business.
+    Subsec. (c). [Pub. L. 96–365][/us/pl/96/365], § 102(c), substituted as limitation on compensation of Directors of the Corporation not employed by the Federal Government the daily equivalent of rate prescribed for grade GS–18 under [section 5332 of title 5][/us/usc/t5/s5332] when actually employed, and actual necessary traveling and subsistence expenses, or the per diem allowance in lieu of subsistence expenses, as authorized by [section 5703 of title 5][/us/usc/t5/s5703] for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business for former limitation of $50 per day when actually employed and transportation expenses plus not to exceed $10 per diem in lieu of subsistence expenses when on business of the Corporation away from their homes or regular places of business.
 
     1949—Subsec. (c). Act Aug. 25, 1949, reduced compensation of members of Board of Directors who are not Government employees from “not to exceed $100 per day” to “not to exceed $50 per day”, and changed from “subsistence expenses” to “transportation expenses and not to exceed $10 per diem”.
 
@@ -193,37 +193,37 @@ Pub. L. 106-224, title I, § 142(a)(2), (3), June 20, 2000, [114 Stat. 390][/u
 [/us/usc/t7/s1516/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fb%2F2%2FA%2Fii
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
-[/us/act/1947-08-01/ch440/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440%2Fs8
+[/us/act/1947-08-01/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440
 [/us/stat/61/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F719
-[/us/act/1949-08-25/ch512/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512%2Fs7
+[/us/act/1949-08-25/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-25%2Fch512
 [/us/stat/63/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F665
-[/us/pl/96/365/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs102
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1312
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3181
-[/us/pl/106/224/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs142%2Fa%2F1
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F389
-[/us/pl/110/234/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1405
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/106/224/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs142%2Fa%2F1
-[/us/pl/106/224/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs142%2Fa%2F1
-[/us/pl/106/224/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs142%2Fb
-[/us/pl/103/354/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F3
-[/us/pl/103/354/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs103
-[/us/pl/103/354/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs115%2Fa%2F1
-[/us/pl/103/354/s102/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F4%2FC
-[/us/pl/103/354/s102/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs102%2Fb%2F4%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/96/365/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs102%2Fa
-[/us/pl/96/365/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs102%2Fb
-[/us/pl/96/365/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs102%2Fc
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

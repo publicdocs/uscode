@@ -45,7 +45,7 @@
 
         Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.
 
-([Pub. L. 107–171, title I, § 1208][/us/pl/107/171/s1208], May 13, 2002, [116 Stat. 164][/us/stat/116/164].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1208, May 13, 2002, [116 Stat. 164][/us/stat/116/164].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1208
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F164
 
 

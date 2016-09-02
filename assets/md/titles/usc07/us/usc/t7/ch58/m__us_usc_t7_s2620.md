@@ -23,7 +23,7 @@
 
         The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling: Provided, That a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to him a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to [section 2621(a) of this title][/us/usc/t7/s2621/a].
 
-([Pub. L. 91–670, title III, § 311][/us/pl/91/670/s311], Jan. 11, 1971, [84 Stat. 2045][/us/stat/84/2045].)
+([Pub. L. 91–670, title III][/us/pl/91/670/tIII], § 311, Jan. 11, 1971, [84 Stat. 2045][/us/stat/84/2045].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s2621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2621%2Fa
-[/us/pl/91/670/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs311
+[/us/pl/91/670/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIII
 [/us/stat/84/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2045
 
 

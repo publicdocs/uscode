@@ -41,7 +41,7 @@
 
         (3) advise the Secretary on policies, regulations, processes, budget, and actions pertaining to homeland security.
 
-([Pub. L. 110–234, title XIV, § 14111][/us/pl/110/234/s14111], May 22, 2008, [122 Stat. 1454][/us/stat/122/1454]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2216.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14111, May 22, 2008, [122 Stat. 1454][/us/stat/122/1454]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2216.)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14111
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1454
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446e–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
+[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446f...1446h.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
 
-## § 1446i. Repealed. [Pub. L. 103–354, title I, § 119(a)(6)][/us/pl/103/354/s119/a/6], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]
+## § 1446i. Repealed. [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 119(a)(6), Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]
 
-    Section, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title II, § 208, as added Nov. 28, 1990, [Pub. L. 101–624, title XI, § 1126][/us/pl/101/624/s1126], [104 Stat. 3507][/us/stat/104/3507], related to disaster payments for 1991 through 1995 crops of peanuts, soybeans, sugar beets, and sugarcane.
+    Section, [act Oct. 31, 1949, ch. 792, title II][/us/act/1949-10-31/ch792/tII], § 208, as added Nov. 28, 1990, [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1126, [104 Stat. 3507][/us/stat/104/3507], related to disaster payments for 1991 through 1995 crops of peanuts, soybeans, sugar beets, and sugarcane.
 
  __Effective Date of Repeal__ 
 
@@ -23,15 +23,15 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446e–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
+[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446f...1446h.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
 
 ----------
 ----------
 
-[/us/pl/103/354/s119/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs119%2Fa%2F6
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3208
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/101/624/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1126
+[/us/act/1949-10-31/ch792/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792%2FtII
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3507
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/pl/103/354/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs120

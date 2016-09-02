@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture, in cooperation with the land grant colleges, commodity organizations, general farm organizations, and individual farmers, shall conduct a cost of production study of the wheat, feed grain, cotton, and dairy commodities under the various production practices and establish a current national weighted average cost of production. This study shall be updated annually and shall include all typical variable costs, including interest costs, a return on fixed costs, and a return for management.
 
-([Pub. L. 91–524, title VIII, § 808][/us/pl/91/524/s808], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; amended [Pub. L. 97–98, title XI, § 1117][/us/pl/97/98/s1117], Dec. 22, 1981, [95 Stat. 1271][/us/stat/95/1271].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 808, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 237][/us/stat/87/237]; amended [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1117, Dec. 22, 1981, [95 Stat. 1271][/us/stat/95/1271].)
 
  __Codification__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/91/524/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs808
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F237
-[/us/pl/97/98/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1117
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1271
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

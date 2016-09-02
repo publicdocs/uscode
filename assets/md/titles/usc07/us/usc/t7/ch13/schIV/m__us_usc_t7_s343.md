@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s342.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s342.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343a...343c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343)
 
 ## § 343. Appropriations; distribution; allotment and apportionment; Secretary of Agriculture; matching funds; cooperative extension activities
 
@@ -151,7 +151,7 @@
 
     [Section 361c(i) of this title][/us/usc/t7/s361c/i] shall apply to amounts made available to carry out this subchapter.
 
-([May 8, 1914, ch. 79, § 3][/us/act/1914-05-08/ch79/s3], [38 Stat. 373][/us/stat/38/373]; [June 26, 1953, ch. 157, § 1][/us/act/1953-06-26/ch157/s1], [67 Stat. 84][/us/stat/67/84]; [Pub. L. 87–749, § 1(b)][/us/pl/87/749/s1/b]–(e), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 92–318, title V, § 506(g)][/us/pl/92/318/s506/g], June 23, 1972, [86 Stat. 351][/us/stat/86/351]; [Pub. L. 95–113, title XIV, § 1465][/us/pl/95/113/s1465], Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018]; [Pub. L. 99–198, title XIV, § 1435(b)][/us/pl/99/198/s1435/b], Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557]; [Pub. L. 99–396, § 9(e)][/us/pl/99/396/s9/e], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840]; [Pub. L. 103–382, title V, § 534(b)][/us/pl/103/382/s534/b], Oct. 20, 1994, [108 Stat. 4050][/us/stat/108/4050]; [Pub. L. 104–127, title VIII, § 883(a)][/us/pl/104/127/s883/a], Apr. 4, 1996, [110 Stat. 1176][/us/stat/110/1176]; [Pub. L. 105–185, title I, § 105][/us/pl/105/185/s105], title II, §§ 201, 203(b), (c)(2), 204(b), June 23, 1998, [112 Stat. 529][/us/stat/112/529], 531, 534, 536; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(e)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7213(b), 7215, May 13, 2002, [116 Stat. 448][/us/stat/116/448]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(b), 7403(a), May 22, 2008, [122 Stat. 1226][/us/stat/122/1226], 1246; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(b), 7403(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1987, 2007.)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 3, [38 Stat. 373][/us/stat/38/373]; [June 26, 1953, ch. 157][/us/act/1953-06-26/ch157], § 1, [67 Stat. 84][/us/stat/67/84]; [Pub. L. 87–749][/us/pl/87/749], § 1(b)–(e), Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(g), June 23, 1972, [86 Stat. 351][/us/stat/86/351]; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1465, Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1435(b), Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557]; [Pub. L. 99–396][/us/pl/99/396], § 9(e), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840]; [Pub. L. 103–382, title V][/us/pl/103/382/tV], § 534(b), Oct. 20, 1994, [108 Stat. 4050][/us/stat/108/4050]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 883(a), Apr. 4, 1996, [110 Stat. 1176][/us/stat/110/1176]; [Pub. L. 105–185, title I][/us/pl/105/185/tI], § 105, title II, §§ 201, 203(b), (c)(2), 204(b), June 23, 1998, [112 Stat. 529][/us/stat/112/529], 531, 534, 536; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 753(e)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7213(b), 7215, May 13, 2002, [116 Stat. 448][/us/stat/116/448]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7129(b), 7403(a), May 22, 2008, [122 Stat. 1226][/us/stat/122/1226], 1246; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7129(b), 7403(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1987, 2007.)
 
  __References in Text__ 
 
@@ -165,49 +165,49 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(4). [Pub. L. 110–246, § 7129(b)(1)][/us/pl/110/246/s7129/b/1], added par. (4).
+    2008—Subsec. (b)(4). [Pub. L. 110–246][/us/pl/110/246], § 7129(b)(1), added par. (4).
 
-    Subsec. (d). [Pub. L. 110–246, § 7403(a)][/us/pl/110/246/s7403/a], substituted “compete for and receive funds directly from the Secretary of Agriculture.” for “apply for and receive directly from the Secretary of Agriculture—
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 7403(a), substituted “compete for and receive funds directly from the Secretary of Agriculture.” for “apply for and receive directly from the Secretary of Agriculture—
 
     “(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
 
     “(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.”
 
-    Subsec. (f). [Pub. L. 110–246, § 7129(b)(2)][/us/pl/110/246/s7129/b/2], in heading, inserted “and Hispanic-Serving Agricultural Colleges and Universities” after “1994 Institutions” and, in text, substituted “or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b)” for “pursuant to subsection (b)(3) of this section”.
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 7129(b)(2), in heading, inserted “and Hispanic-Serving Agricultural Colleges and Universities” after “1994 Institutions” and, in text, substituted “or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b)” for “pursuant to subsection (b)(3) of this section”.
 
-    2002—Subsec. (b)(3). [Pub. L. 107–171, § 7215][/us/pl/107/171/s7215], substituted “such sums as are necessary” for “$5,000,000” and inserted “The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation.” after “[section 342 of this title][/us/usc/t7/s342].”.
+    2002—Subsec. (b)(3). [Pub. L. 107–171][/us/pl/107/171], § 7215, substituted “such sums as are necessary” for “$5,000,000” and inserted “The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation.” after “[section 342 of this title][/us/usc/t7/s342].”.
 
-    Subsec. (e)(4). [Pub. L. 107–171, § 7213(b)][/us/pl/107/171/s7213/b], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under [section 3222d of this title][/us/usc/t7/s3222d].”
+    Subsec. (e)(4). [Pub. L. 107–171][/us/pl/107/171], § 7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under [section 3222d of this title][/us/usc/t7/s3222d].”
 
-    1998—Subsec. (b)(1). [Pub. L. 105–185, § 203(c)(2)(A)][/us/pl/105/185/s203/c/2/A], substituted “Secretary of Agriculture” for “Federal Extension Service”.
+    1998—Subsec. (b)(1). [Pub. L. 105–185][/us/pl/105/185], § 203(c)(2)(A), substituted “Secretary of Agriculture” for “Federal Extension Service”.
 
-    Subsec. (b)(3). [Pub. L. 105–185, § 201][/us/pl/105/185/s201], substituted “1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.” for “State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt.”
+    Subsec. (b)(3). [Pub. L. 105–185][/us/pl/105/185], § 201, substituted “1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.” for “State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt.”
 
-    Subsec. (c)(1). [Pub. L. 105–185, § 203(b)(1)(A)][/us/pl/105/185/s203/b/1/A], (c)(2)(A), redesignated par. 1 as (1) and substituted “Secretary of Agriculture” for “Federal Extension Service”.
+    Subsec. (c)(1). [Pub. L. 105–185][/us/pl/105/185], § 203(b)(1)(A), (c)(2)(A), redesignated par. 1 as (1) and substituted “Secretary of Agriculture” for “Federal Extension Service”.
 
-    Subsec. (c)(2). [Pub. L. 105–185, § 203(b)(1)][/us/pl/105/185/s203/b/1], redesignated par. 2 as (2) and substituted “census. Any” for “census: Provided, That payments out of the additional appropriations for further development of extension work authorized herein may be made subject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in this subchapter, as may be provided by the Congress at the time such additional appropriations are made: Provided further, That any”.
+    Subsec. (c)(2). [Pub. L. 105–185][/us/pl/105/185], § 203(b)(1), redesignated par. 2 as (2) and substituted “census. Any” for “census: Provided, That payments out of the additional appropriations for further development of extension work authorized herein may be made subject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in this subchapter, as may be provided by the Congress at the time such additional appropriations are made: Provided further, That any”.
 
-    Subsec. (d). [Pub. L. 105–185, § 203(c)(2)(A)][/us/pl/105/185/s203/c/2/A], substituted “Secretary of Agriculture” for “Federal Extension Service”.
+    Subsec. (d). [Pub. L. 105–185][/us/pl/105/185], § 203(c)(2)(A), substituted “Secretary of Agriculture” for “Federal Extension Service”.
 
-    Subsec. (e). [Pub. L. 105–185, § 203(b)(2)][/us/pl/105/185/s203/b/2], added subsec. (e) and struck out former subsec. (e) which read as follows: “Insofar as the provisions of subsections (b) and (c) of this section, which require or permit Congress to require matching of Federal funds, apply to the Virgin Islands of the United States and Guam, such provisions shall be deemed to have been satisfied, for the fiscal years ending September 30, 1978, and September 30, 1979, only, if the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in such years equal the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in the fiscal year ending September 30, 1977.”
+    Subsec. (e). [Pub. L. 105–185][/us/pl/105/185], § 203(b)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “Insofar as the provisions of subsections (b) and (c) of this section, which require or permit Congress to require matching of Federal funds, apply to the Virgin Islands of the United States and Guam, such provisions shall be deemed to have been satisfied, for the fiscal years ending September 30, 1978, and September 30, 1979, only, if the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in such years equal the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in the fiscal year ending September 30, 1977.”
 
-    Subsec. (e)(1). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(e)(1)\], inserted “paragraph (4) and” after “provided in”.
+    Subsec. (e)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VII, § 753(e)(1)\], inserted “paragraph (4) and” after “provided in”.
 
-    Subsec. (e)(4). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(e)(2)\], added par. (4).
+    Subsec. (e)(4). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VII, § 753(e)(2)\], added par. (4).
 
-    Subsec. (f). [Pub. L. 105–185, § 203(b)(2)][/us/pl/105/185/s203/b/2], added subsec. (f) and struck out former subsec. (f) which read as follows: “There shall be no matching requirement for funds made available pursuant to subsection (b)(3) of this section.”
+    Subsec. (f). [Pub. L. 105–185][/us/pl/105/185], § 203(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “There shall be no matching requirement for funds made available pursuant to subsection (b)(3) of this section.”
 
-    Subsec. (g)(1). [Pub. L. 105–185, § 203(c)(2)(B)][/us/pl/105/185/s203/c/2/B], struck out “through the Federal Extension Service” after “distribution programs”.
+    Subsec. (g)(1). [Pub. L. 105–185][/us/pl/105/185], § 203(c)(2)(B), struck out “through the Federal Extension Service” after “distribution programs”.
 
-    Subsecs. (h), (i). [Pub. L. 105–185, § 105][/us/pl/105/185/s105], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 105–185][/us/pl/105/185], § 105, added subsecs. (h) and (i).
 
-    Subsec. (j). [Pub. L. 105–185, § 204(b)][/us/pl/105/185/s204/b], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–185][/us/pl/105/185], § 204(b), added subsec. (j).
 
     1996—Subsec. (d). [Pub. L. 104–127][/us/pl/104/127] inserted at end “A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—” and added pars. (1) and (2).
 
-    1994—Subsec. (b)(3). [Pub. L. 103–382, § 534(b)(1)][/us/pl/103/382/s534/b/1], added par. (3).
+    1994—Subsec. (b)(3). [Pub. L. 103–382][/us/pl/103/382], § 534(b)(1), added par. (3).
 
-    Subsecs. (f), (g). [Pub. L. 103–382, § 534(2)][/us/pl/103/382/s534/2], (3), added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 103–382][/us/pl/103/382], § 534(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
     1986—Subsec. (b)(2). [Pub. L. 99–396][/us/pl/99/396] substituted “Guam, and the Northern Mariana Islands” for “and Guam” in provision authorizing an appropriation each fiscal year for the payment of $100,000 in addition to the sums appropriated for the States and Puerto Rico.
 
@@ -217,13 +217,13 @@
 
     1972—Subsec. (b). [Pub. L. 92–318][/us/pl/92/318] designated existing provisions as par. (1) and added par. (2).
 
-    1962—Subsec. (b). [Pub. L. 87–749, § 1(b)][/us/pl/87/749/s1/b], substituted “sums available” for “sums received”, and “1962” for “1953”, and struck out “, Alaska, Hawaii, Puerto Rico,” before “and the Federal Extension Service”, “such sums shall be” before “subject to the same requirement”, “, Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953” before “except that amounts heretofore”, and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
+    1962—Subsec. (b). [Pub. L. 87–749][/us/pl/87/749], § 1(b), substituted “sums available” for “sums received”, and “1962” for “1953”, and struck out “, Alaska, Hawaii, Puerto Rico,” before “and the Federal Extension Service”, “such sums shall be” before “subject to the same requirement”, “, Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953” before “except that amounts heretofore”, and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
 
-    Subsec. (c)1. [Pub. L. 87–749, § 1(c)][/us/pl/87/749/s1/c], provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
+    Subsec. (c)1. [Pub. L. 87–749][/us/pl/87/749], § 1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-    Subsec. (c)2. [Pub. L. 87–749, § 1(d)][/us/pl/87/749/s1/d], substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
+    Subsec. (c)2. [Pub. L. 87–749][/us/pl/87/749], § 1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
 
-    Subsec. (d). [Pub. L. 87–749, § 1(e)][/us/pl/87/749/s1/e], inserted “additional” after “receive such”.
+    Subsec. (d). [Pub. L. 87–749][/us/pl/87/749], § 1(e), inserted “additional” after “receive such”.
 
     1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
 
@@ -233,13 +233,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(f)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 753(f)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–33, provided that: 
 
 > “The amendments made by this section \[amending this section, sections 361c, 2204f, 4606, and 7621 of this title, and [section 1642 of Title 16][/us/usc/t16/s1642], Conservation\] shall take effect on the date of enactment of the Agricultural Research, Extension, and Education Reform Act of 1998 \[June 23, 1998\].”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XIV, § 1435(d)][/us/pl/99/198/s1435/d], Dec. 23, 1985, [99 Stat. 1558][/us/stat/99/1558], provided that: 
+[Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1435(d), Dec. 23, 1985, [99 Stat. 1558][/us/stat/99/1558], provided that: 
 
 > “This section and the amendments made by this section \[amending this section and [section 342 of this title][/us/usc/t7/s342]\] shall become effective on October 1, 1985.”
 
@@ -251,21 +251,9 @@
 
     Amendment by [Pub. L. 92–318][/us/pl/92/318] effective after June 30, 1970, see [section 506(n) of Pub. L. 92–318][/us/pl/92/318/s506/n], set out as an Effective Date note under [section 326a of this title][/us/usc/t7/s326a].
 
-§§ 343a to 343c–1. __Repealed.__  __[__  __June 26, 1953, ch. 157, § 2__  __][/us/act/1953-06-26/ch157/s2]__  __,__  __[__  __67 Stat. 85__  __][/us/stat/67/85]__  __, 86__ 
-
-    Section 343a, acts [May 22, 1928, ch. 687, § 1][/us/act/1928-05-22/ch687/s1], [45 Stat. 711][/us/stat/45/711]; [Mar. 10, 1930, ch. 73][/us/act/1930-03-10/ch73], [46 Stat. 83][/us/stat/46/83], authorized additional annual appropriations of $980,000, and $500,000, further to develop cooperative agricultural extension work under sections 341 to 343, 344 to 346, and 347a to 349 of this title, provided for the disposition of such sums, and extended the system to Hawaii.
-
-    Section 343b, [act May 22, 1928, ch. 687, § 2][/us/act/1928-05-22/ch687/s2], [45 Stat. 712][/us/stat/45/712], provided that the sums appropriated under said section 343a should be in addition to sums appropriated under [section 343 of this title][/us/usc/t7/s343], or sums otherwise annually appropriated for cooperative agricultural extension work.
-
-    Section 343c, acts [June 29, 1935, ch. 338][/us/act/1935-06-29/ch338], title II, § 21, [49 Stat. 438][/us/stat/49/438]; [June 6, 1945, ch. 175, § 2][/us/act/1945-06-06/ch175/s2], [59 Stat. 233][/us/stat/59/233], authorized further additional appropriations on an ascending scale until they amounted to $12,000,000 annually, further to develop the cooperative agricultural system inaugurated under sections 341 to 343, 344 to 346, 347a to 349 of this title, and provided for their disposition.
-
-    Section 343c–1, acts [Apr. 24, 1939, ch. 85][/us/act/1939-04-24/ch85], [53 Stat. 589][/us/stat/53/589]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title VII, § 707, [58 Stat. 742][/us/stat/58/742], authorized additional appropriations of $555,000 annually, for the purpose of paying the expenses of cooperative extension work in agriculture and home economics, and provided for their disposition.
-
-    The provisions that were contained in all of the above repealed sections are covered generally by sections 341 to 343, 344 to 346, and 347a to 349 of this title.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s342.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s342.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343a...343c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343)
 
 ----------
 ----------
@@ -278,33 +266,33 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s7613/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7613%2Fe
 [/us/usc/t7/s361c/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c%2Fi
-[/us/act/1914-05-08/ch79/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs3
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
 [/us/stat/38/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F373
-[/us/act/1953-06-26/ch157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157%2Fs1
+[/us/act/1953-06-26/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157
 [/us/stat/67/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F84
-[/us/pl/87/749/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fb
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/stat/76/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F745
-[/us/pl/92/318/s506/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fg
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F351
-[/us/pl/95/113/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1465
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1018
-[/us/pl/99/198/s1435/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1435%2Fb
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1557
-[/us/pl/99/396/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Fe
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
-[/us/pl/103/382/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs534%2Fb
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4050
-[/us/pl/104/127/s883/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs883%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1176
-[/us/pl/105/185/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs105
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F529
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F448
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1226
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
@@ -315,45 +303,45 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fb%2F1
-[/us/pl/110/246/s7403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7403%2Fa
-[/us/pl/110/246/s7129/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fb%2F2
-[/us/pl/107/171/s7215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7215
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs342
-[/us/pl/107/171/s7213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7213%2Fb
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s3222d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222d
-[/us/pl/105/185/s203/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fc%2F2%2FA
-[/us/pl/105/185/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs201
-[/us/pl/105/185/s203/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fb%2F1%2FA
-[/us/pl/105/185/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fb%2F1
-[/us/pl/105/185/s203/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fc%2F2%2FA
-[/us/pl/105/185/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fb%2F2
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/185/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fb%2F2
-[/us/pl/105/185/s203/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs203%2Fc%2F2%2FB
-[/us/pl/105/185/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs105
-[/us/pl/105/185/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs204%2Fb
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/103/382/s534/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs534%2Fb%2F1
-[/us/pl/103/382/s534/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs534%2F2
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
-[/us/pl/87/749/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fb
-[/us/pl/87/749/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fc
-[/us/pl/87/749/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fd
-[/us/pl/87/749/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749%2Fs1%2Fe
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
+[/us/pl/87/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F749
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/usc/t16/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642
-[/us/pl/99/198/s1435/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1435%2Fd
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1558
 [/us/usc/t7/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs342
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
@@ -362,22 +350,5 @@
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/92/318/s506/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fn
 [/us/usc/t7/s326a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs326a
-[/us/act/1953-06-26/ch157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157%2Fs2
-[/us/stat/67/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F85
-[/us/act/1928-05-22/ch687/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-22%2Fch687%2Fs1
-[/us/stat/45/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F711
-[/us/act/1930-03-10/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-03-10%2Fch73
-[/us/stat/46/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F83
-[/us/act/1928-05-22/ch687/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-22%2Fch687%2Fs2
-[/us/stat/45/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F712
-[/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
-[/us/act/1935-06-29/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-29%2Fch338
-[/us/stat/49/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F438
-[/us/act/1945-06-06/ch175/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-06%2Fch175%2Fs2
-[/us/stat/59/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F233
-[/us/act/1939-04-24/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-04-24%2Fch85
-[/us/stat/53/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F589
-[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
-[/us/stat/58/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F742
 
 

@@ -113,7 +113,7 @@
 
             There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
 
-([Pub. L. 87–128, title III, § 379A][/us/pl/87/128/s379A], as added [Pub. L. 107–171, title VI, § 6023][/us/pl/107/171/s6023], May 13, 2002, [116 Stat. 370][/us/stat/116/370]; amended [Pub. L. 110–234, title VI, § 6020][/us/pl/110/234/s6020], May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6020, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1934.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 379A, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6023, May 13, 2002, [116 Stat. 370][/us/stat/116/370]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6020, May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6020, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1934.)
 
  __Codification__ 
 
@@ -121,11 +121,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2)(A), (B). [Pub. L. 110–246, § 6020(a)(1)(A)][/us/pl/110/246/s6020/a/1/A], substituted “historic barns” for “a historic barn”.
+    2008—Subsec. (c)(2)(A), (B). [Pub. L. 110–246][/us/pl/110/246], § 6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
 
-    Subsec. (c)(2)(C). [Pub. L. 110–246, § 6020(a)(1)(B)][/us/pl/110/246/s6020/a/1/B], substituted “on historic barns (including surveys)” for “on a historic barn”.
+    Subsec. (c)(2)(C). [Pub. L. 110–246][/us/pl/110/246], § 6020(a)(1)(B), substituted “on historic barns (including surveys)” for “on a historic barn”.
 
-    Subsec. (c)(3) to (5). [Pub. L. 110–246, § 6020(a)(2)][/us/pl/110/246/s6020/a/2], (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted “2008 through 2012” for “2002 through 2007”.
+    Subsec. (c)(3) to (5). [Pub. L. 110–246][/us/pl/110/246], § 6020(a)(2), (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted “2008 through 2012” for “2002 through 2007”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -140,20 +140,20 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/87/128/s379A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs379A
-[/us/pl/107/171/s6023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6023
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F370
-[/us/pl/110/234/s6020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6020
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1172
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6020/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6020%2Fa%2F1%2FA
-[/us/pl/110/246/s6020/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6020%2Fa%2F1%2FB
-[/us/pl/110/246/s6020/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6020%2Fa%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

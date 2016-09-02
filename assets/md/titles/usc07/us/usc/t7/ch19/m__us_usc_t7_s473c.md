@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is further authorized to make such rules and regulations as he may deem necessary to effectuate the purposes of this chapter.
 
-([Mar. 3, 1927, ch. 337, § 3c][/us/act/1927-03-03/ch337/s3c], as added [Apr. 13, 1937, ch. 75][/us/act/1937-04-13/ch75], [50 Stat. 62][/us/stat/50/62].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3c, as added [Apr. 13, 1937, ch. 75][/us/act/1937-04-13/ch75], [50 Stat. 62][/us/stat/50/62].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s3c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3c
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/act/1937-04-13/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-13%2Fch75
 [/us/stat/50/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F62
 

@@ -23,7 +23,7 @@
 
     (3) the savings to the States as a result of having a mediation program.
 
-([Pub. L. 100–233, title V, § 505][/us/pl/100/233/s505], Jan. 6, 1988, [101 Stat. 1664][/us/stat/101/1664]; [Pub. L. 103–354, title II, § 282(d)][/us/pl/103/354/s282/d], (f)(1), Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
+([Pub. L. 100–233, title V][/us/pl/100/233/tV], § 505, Jan. 6, 1988, [101 Stat. 1664][/us/stat/101/1664]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 282(d), (f)(1), Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/100/233/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs505
+[/us/pl/100/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtV
 [/us/stat/101/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1664
-[/us/pl/103/354/s282/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fd
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3235
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 

@@ -17,7 +17,7 @@
 
     The provisions of [section 616 of this title][/us/usc/t7/s616], shall not apply to articles of machinery belting processed wholly or in chief value from cotton, if such processing was completed prior to January 1, 1930.
 
-([June 26, 1934, ch. 753, § 1][/us/act/1934-06-26/ch753/s1], [48 Stat. 1223][/us/stat/48/1223].)
+([June 26, 1934, ch. 753][/us/act/1934-06-26/ch753], § 1, [48 Stat. 1223][/us/stat/48/1223].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs616
-[/us/act/1934-06-26/ch753/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch753%2Fs1
+[/us/act/1934-06-26/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch753
 [/us/stat/48/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1223
 [/us/usc/t7/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs616
 

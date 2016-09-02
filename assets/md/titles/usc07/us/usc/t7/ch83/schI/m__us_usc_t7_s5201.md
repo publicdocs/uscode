@@ -67,7 +67,7 @@
 
         (B) establishes the infrastructure that is essential to the expansion of markets for United States agricultural commodities and products.
 
-([Pub. L. 100–418, title IV, § 4101][/us/pl/100/418/s4101], Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(J), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4101, Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(J), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
     The Commodity Credit Corporation Charter Act, referred to in pars. (8) and (9), is [act June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], [62 Stat. 1070][/us/stat/62/1070], as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15][/us/usc/t15/s714] and Tables.
 
-    Section 4 of the Food for Peace Act of 1966 ([7 U.S.C. 1707a][/us/usc/t7/s1707a]), referred to in par. (9), was repealed by [Pub. L. 101–624, title XV, § 1574][/us/pl/101/624/s1574], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See subchapter II (§ 5621 et seq.) of chapter 87 of this title.
+    Section 4 of the Food for Peace Act of 1966 ([7 U.S.C. 1707a][/us/usc/t7/s1707a]), referred to in par. (9), was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1574, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See subchapter II (§ 5621 et seq.) of chapter 87 of this title.
 
  __Amendments__ 
 
@@ -87,7 +87,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–418, title IV, § 4001][/us/pl/100/418/s4001], Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388], provided that: 
+[Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4001, Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388], provided that: 
 
 > “This title \[enacting this chapter, [section 2112 of Title 16][/us/usc/t16/s2112], Conservation, and sections 1401, 1402, and 1403 of Title 21, Food and Drugs, amending sections 608c, 608e–1, 626, 1704, 1707a, 1726, 1736o, 1736s, 1736t, 1736v, 1736x, 1736bb, and 1736bb–3 to 1736bb–6 of this title, [section 713a–14 of Title 15][/us/usc/t15/s713a–14], Commerce and Trade, and [section 620 of Title 21][/us/usc/t21/s620], and enacting provisions set out as notes under sections 624, 1431, 1446, 1691, and 1736t of this title and [section 1401 of Title 21][/us/usc/t21/s1401]\] may be cited as the ‘Agricultural Competitiveness and Trade Act of 1988’.”
 
@@ -105,9 +105,9 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
-[/us/pl/100/418/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4101
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1388
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
@@ -116,13 +116,13 @@
 [/us/stat/62/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1070
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
 [/us/usc/t7/s1707a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707a
-[/us/pl/101/624/s1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1574
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/100/418/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4001
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1388
 [/us/usc/t16/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2112
 [/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314

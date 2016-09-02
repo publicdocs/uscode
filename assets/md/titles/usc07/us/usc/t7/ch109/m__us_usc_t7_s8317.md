@@ -17,11 +17,11 @@
 
     A regulation issued under a provision of law repealed by subsection (a) shall remain in effect until the Secretary issues a regulation under section 8303(b) or 8315 of this title that supersedes the earlier regulation.
 
-([Pub. L. 107–171, title X, § 10418(c)][/us/pl/107/171/s10418/c], May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(c), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
  __References in Text__ 
 
-    Subsection (a), referred to in text, means [section 10418(a) of title X of Pub. L. 107–171][/us/pl/107/171/s10418/a], May 13, 2002, [116 Stat. 507][/us/stat/116/507], which repealed sections 429, 2260, and 2260a of this title, [section 1306 of Title 19][/us/usc/t19/s1306], Customs Duties, sections 102 to 105, 111, 112, 113, 114 to 114d–1, 114e to 114h, 115 to 131, 134 to 135b, and 612 to 614 of Title 21, Food and Drugs, sections 3901 and 3902 of Title 46, Shipping, and provisions set out as a note under [section 129a of Title 21][/us/usc/t21/s129a].
+    Subsection (a), referred to in text, means [section 10418(a) of title X of Pub. L. 107–171][/us/pl/107/171/tX/s10418/a], May 13, 2002, [116 Stat. 507][/us/stat/116/507], which repealed sections 429, 2260, and 2260a of this title, [section 1306 of Title 19][/us/usc/t19/s1306], Customs Duties, sections 102 to 105, 111, 112, 113, 114 to 114d–1, 114e to 114h, 115 to 131, 134 to 135b, and 612 to 614 of Title 21, Food and Drugs, sections 3901 and 3902 of Title 46, Shipping, and provisions set out as a note under [section 129a of Title 21][/us/usc/t21/s129a].
 
  __Transfer of Functions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10418/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fc
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
-[/us/pl/107/171/s10418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa
+[/us/pl/107/171/tX/s10418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX%2Fs10418%2Fa
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
 [/us/usc/t19/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1306
 [/us/usc/t21/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs129a

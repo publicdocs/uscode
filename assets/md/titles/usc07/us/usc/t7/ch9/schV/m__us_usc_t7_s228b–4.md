@@ -25,7 +25,7 @@
 
     shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 413, as added [Pub. L. 100–173, § 9(2)][/us/pl/100/173/s9/2], Nov. 23, 1987, [101 Stat. 922][/us/stat/101/922].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 413, as added [Pub. L. 100–173][/us/pl/100/173], § 9(2), Nov. 23, 1987, [101 Stat. 922][/us/stat/101/922].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t7/s228b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs228b%E2%80%932
 [/us/usc/t7/s228b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs228b%E2%80%933
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/100/173/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs9%2F2
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F922
 [/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12
 [/us/usc/t7/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs182

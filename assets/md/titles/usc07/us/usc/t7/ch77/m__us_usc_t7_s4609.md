@@ -51,7 +51,7 @@
 
         The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to [section 4610 of this title][/us/usc/t7/s4610].
 
-([Pub. L. 98–590, § 10][/us/pl/98/590/s10], Oct. 30, 1984, [98 Stat. 3121][/us/stat/98/3121]; [Pub. L. 105–185, title VI, § 605(i)][/us/pl/105/185/s605/i], June 23, 1998, [112 Stat. 599][/us/stat/112/599].)
+([Pub. L. 98–590][/us/pl/98/590], § 10, Oct. 30, 1984, [98 Stat. 3121][/us/stat/98/3121]; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 605(i), June 23, 1998, [112 Stat. 599][/us/stat/112/599].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t7/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4610
-[/us/pl/98/590/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs10
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
 [/us/stat/98/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3121
-[/us/pl/105/185/s605/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs605%2Fi
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F599
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

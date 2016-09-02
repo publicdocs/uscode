@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([June 10, 1933, ch. 59, § 8][/us/act/1933-06-10/ch59/s8], [48 Stat. 124][/us/stat/48/124].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 8, [48 Stat. 124][/us/stat/48/124].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs8
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
 [/us/stat/48/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F124
 
 

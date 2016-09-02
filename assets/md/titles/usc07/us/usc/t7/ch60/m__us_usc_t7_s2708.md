@@ -53,7 +53,7 @@
 
         The failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate such order.
 
-([Pub. L. 93–428, § 9][/us/pl/93/428/s9], Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176]; [Pub. L. 96–276, § 5][/us/pl/96/276/s5], June 17, 1980, [94 Stat. 541][/us/stat/94/541]; [Pub. L. 103–188, § 2(b)][/us/pl/103/188/s2/b], Dec. 14, 1993, [107 Stat. 2256][/us/stat/107/2256].)
+([Pub. L. 93–428][/us/pl/93/428], § 9, Oct. 1, 1974, [88 Stat. 1176][/us/stat/88/1176]; [Pub. L. 96–276][/us/pl/96/276], § 5, June 17, 1980, [94 Stat. 541][/us/stat/94/541]; [Pub. L. 103–188][/us/pl/103/188], § 2(b), Dec. 14, 1993, [107 Stat. 2256][/us/stat/107/2256].)
 
  __Amendments__ 
 
@@ -69,11 +69,11 @@
 ----------
 
 [/us/usc/t7/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2701
-[/us/pl/93/428/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs9
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1176
-[/us/pl/96/276/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs5
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/stat/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F541
-[/us/pl/103/188/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188%2Fs2%2Fb
+[/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/stat/107/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2256
 [/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276

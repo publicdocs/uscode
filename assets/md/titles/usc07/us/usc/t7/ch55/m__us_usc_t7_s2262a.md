@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, an award or denial of a claim by the Secretary of Agriculture under this section is final.
 
-([Pub. L. 104–127, title IX, § 920][/us/pl/104/127/s920], Apr. 4, 1996, [110 Stat. 1191][/us/stat/110/1191].)
+([Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 920, Apr. 4, 1996, [110 Stat. 1191][/us/stat/110/1191].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
-[/us/pl/104/127/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs920
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1191
 
 

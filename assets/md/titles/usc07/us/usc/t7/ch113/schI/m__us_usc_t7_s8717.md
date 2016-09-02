@@ -129,7 +129,7 @@
 
                 As soon as practicable after conducting an evaluation under subparagraph (A), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation.
 
-([Pub. L. 110–234, title I, § 1107][/us/pl/110/234/s1107], May 22, 2008, [122 Stat. 950][/us/stat/122/950]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1679.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1107, May 22, 2008, [122 Stat. 950][/us/stat/122/950]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1679.)
 
  __Codification__ 
 
@@ -142,9 +142,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1107
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F950
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

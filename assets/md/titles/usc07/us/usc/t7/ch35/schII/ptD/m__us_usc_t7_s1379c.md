@@ -35,25 +35,25 @@
 
         In any case in which the failure of a producer to comply fully with the term and conditions of the programs formulated under this chapter preclude the issuance of marketing certificates, the Secretary may, nevertheless, issue such certificates in such amounts as he determines to be equitable in relation to the seriousness of the default.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379c, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 627][/us/stat/76/627]; amended [Pub. L. 88–297, title II, § 202(12)][/us/pl/88/297/s202/12]–(14), Apr. 11, 1964, [78 Stat. 180][/us/stat/78/180], 181; [Pub. L. 89–112, § 3][/us/pl/89/112/s3], Aug. 6, 1965, [79 Stat. 447][/us/stat/79/447]; [Pub. L. 89–321, title V][/us/pl/89/321], §§ 508, 510(a), 513(b), (c), 515, 517, Nov. 3, 1965, [79 Stat. 1204–1206][/us/stat/79/1204-1206]; [Pub. L. 89–451, § 3][/us/pl/89/451/s3], June 17, 1966, [80 Stat. 202][/us/stat/80/202]; [Pub. L. 91–524, title IV, § 402(a)][/us/pl/91/524/s402/a], (b)(D), Nov. 30, 1970, [84 Stat. 1364][/us/stat/84/1364], as renumbered and amended [Pub. L. 93–86, § 1(9)][/us/pl/93/86/s1/9], Aug. 10, 1973, [87 Stat. 225][/us/stat/87/225].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379c, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 627][/us/stat/76/627]; amended [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(12)–(14), Apr. 11, 1964, [78 Stat. 180][/us/stat/78/180], 181; [Pub. L. 89–112][/us/pl/89/112], § 3, Aug. 6, 1965, [79 Stat. 447][/us/stat/79/447]; [Pub. L. 89–321, title V][/us/pl/89/321/tV], §§ 508, 510(a), 513(b), (c), 515, 517, Nov. 3, 1965, [79 Stat. 1204–1206][/us/stat/79/1204-1206]; [Pub. L. 89–451][/us/pl/89/451], § 3, June 17, 1966, [80 Stat. 202][/us/stat/80/202]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 402(a), (b)(D), Nov. 30, 1970, [84 Stat. 1364][/us/stat/84/1364], as renumbered and amended [Pub. L. 93–86][/us/pl/93/86], § 1(9), Aug. 10, 1973, [87 Stat. 225][/us/stat/87/225].)
 
  __Amendments__ 
 
-    1973—Subsec. (a)(1). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily substituted references to a farm acreage allotment for references to the farm domestic allotment wherever appearing, struck out provisions limiting the impact of the section to the 1972 and 1973 crops of wheat, substituted “estimated national average yield for the crop for which the determination is being made will produce the quantity (less imports) that he estimates will be utilized domestically and for export during the marketing year for such crop. If the Secretary determines that carryover stocks are excessive or an increase in stocks is needed to assure a desirable carryover, he may adjust the allotment by the amount he determines will accomplish the desired decrease or increase in carryover stocks” for “estimated national yield will result in marketing certificates being issued to producers participating in the program in an amount equal to the amount of wheat which he estimates will be used for food products for consumption in the United States during the marketing year for the crop (not less than 535 million bushels)” in the provisions covering the determination of the estimated national yield, and inserted “(1973 national domestic allotment in the case of apportionment of the 1974 national acreage allotment)” before “adjusted to the extent deemed necessary”. See Effective and Termination Dates of 1973 Amendment note below.
+    1973—Subsec. (a)(1). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily substituted references to a farm acreage allotment for references to the farm domestic allotment wherever appearing, struck out provisions limiting the impact of the section to the 1972 and 1973 crops of wheat, substituted “estimated national average yield for the crop for which the determination is being made will produce the quantity (less imports) that he estimates will be utilized domestically and for export during the marketing year for such crop. If the Secretary determines that carryover stocks are excessive or an increase in stocks is needed to assure a desirable carryover, he may adjust the allotment by the amount he determines will accomplish the desired decrease or increase in carryover stocks” for “estimated national yield will result in marketing certificates being issued to producers participating in the program in an amount equal to the amount of wheat which he estimates will be used for food products for consumption in the United States during the marketing year for the crop (not less than 535 million bushels)” in the provisions covering the determination of the estimated national yield, and inserted “(1973 national domestic allotment in the case of apportionment of the 1974 national acreage allotment)” before “adjusted to the extent deemed necessary”. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (a)(2). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “acreage allotment” and “wheat allotment”. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (a)(2). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “acreage allotment” and “wheat allotment”. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (a)(3). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” and “wheat allotment” wherever appearing and struck out provisions establishing special requirements to be met in determining the allotment for the 1971 crop of wheat. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (a)(3). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” and “wheat allotment” wherever appearing and struck out provisions establishing special requirements to be met in determining the allotment for the 1971 crop of wheat. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (a)(4), (5). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (a)(4), (5). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (a)(6). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily reenacted par. (6) without change. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (a)(6). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily reenacted par. (6) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (b)(1). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing and inserted “, guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate” after “feed grains for which there is a set-aside program in effect”. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing and inserted “, guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate” after “feed grains for which there is a set-aside program in effect”. See Effective and Termination Dates of 1973 Amendment note below.
 
-    Subsec. (b)(2). [Pub. L. 91–524, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing and substituted “payments” for “certificates” and “[section 1445a(c) of this title][/us/usc/t7/s1445a/c]” for “this chapter”. See Effective and Termination Dates of 1973 Amendment note below.
+    Subsec. (b)(2). [Pub. L. 91–524][/us/pl/91/524], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily struck out “domestic” before “allotment” wherever appearing and substituted “payments” for “certificates” and “[section 1445a(c) of this title][/us/usc/t7/s1445a/c]” for “this chapter”. See Effective and Termination Dates of 1973 Amendment note below.
 
-    1970—[Pub. L. 91–524, § 402(a)][/us/pl/91/524/s402/a], formerly § 402, temporarily substituted provisions for the apportionment of the farm domestic allotment for each crop of wheat among the States for provisions covering the marketing certificates program. See Effective and Termination Dates of 1970 Amendment note below.
+    1970—[Pub. L. 91–524][/us/pl/91/524], § 402(a), formerly § 402, temporarily substituted provisions for the apportionment of the farm domestic allotment for each crop of wheat among the States for provisions covering the marketing certificates program. See Effective and Termination Dates of 1970 Amendment note below.
 
     1966—Subsec. (a). [Pub. L. 89–451][/us/pl/89/451] substituted “any crop for which there are marketing quotas or voluntary adjustment programs in effect” for “any other income-producing crops during such year” in penultimate sentence.
 
@@ -63,35 +63,35 @@
 
     Subsec. (b). [Pub. L. 89–321][/us/pl/89/321], §§ 510(a), 517 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”, permitted delivery to the Secretary of the wheat produced on excess acreage as an additional means of disposing of excess wheat so as to allow a producer to be deemed not to have exceeded the farm acreage allotment for wheat for purposes of this section, and provided for the disposition of wheat delivered to the Secretary and the adjustment of certificates to a producer who has produced an undesirable variety of wheat following public announcement by the Secretary of its undesirable characteristics.
 
-    Subsec. (c). [Pub. L. 89–321, § 513(c)][/us/pl/89/321/s513/c], struck out provisions that the face value per bushel of export certificates shall be the amount by which the level of price support for wheat accompanied by export certificates exceeds the level of price support for noncertificate wheat.
+    Subsec. (c). [Pub. L. 89–321][/us/pl/89/321], § 513(c), struck out provisions that the face value per bushel of export certificates shall be the amount by which the level of price support for wheat accompanied by export certificates exceeds the level of price support for noncertificate wheat.
 
-    Subsec. (e). [Pub. L. 89–321, § 515][/us/pl/89/321/s515], added subsec. (e).
+    Subsec. (e). [Pub. L. 89–321][/us/pl/89/321], § 515, added subsec. (e).
 
-    1964—Subsec. (a). [Pub. L. 88–297, § 202(12)][/us/pl/88/297/s202/12], inserted “under subsection (b) of this section or” after “stored” in second sentence, added to such sentence provision for reduction of wheat marketing certificates from amount of export certificates, and inserted provision for issuance of domestic marketing certificates for wheat used for domestic consumption and export marketing certificates for wheat used for export.
+    1964—Subsec. (a). [Pub. L. 88–297][/us/pl/88/297], § 202(12), inserted “under subsection (b) of this section or” after “stored” in second sentence, added to such sentence provision for reduction of wheat marketing certificates from amount of export certificates, and inserted provision for issuance of domestic marketing certificates for wheat used for domestic consumption and export marketing certificates for wheat used for export.
 
-    Subsec. (b). [Pub. L. 88–297, § 202(13)][/us/pl/88/297/s202/13], temporarily authorized producers who exceeded their wheat allotments to store their excess wheat in accordance with regulations issued by the Secretary and be eligible for wheat marketing certificates, prohibited wheat stored under this provision from being removed from storage until a subsequent year when acreage allotment was underplanted or the production on the acreage allotment was less than normal, required the producer (for removal of the wheat contrary to these conditions) to pay an amount one and one-half times the value of the wheat marketing certificates issued with respect to the farm for the year in which the wheat on the acreage in excess of the allotment was produced, and made producers who exceeded their allotment and stored their excess wheat ineligible for diversion payments. See Effective and Termination Dates of 1964 Amendment note below.
+    Subsec. (b). [Pub. L. 88–297][/us/pl/88/297], § 202(13), temporarily authorized producers who exceeded their wheat allotments to store their excess wheat in accordance with regulations issued by the Secretary and be eligible for wheat marketing certificates, prohibited wheat stored under this provision from being removed from storage until a subsequent year when acreage allotment was underplanted or the production on the acreage allotment was less than normal, required the producer (for removal of the wheat contrary to these conditions) to pay an amount one and one-half times the value of the wheat marketing certificates issued with respect to the farm for the year in which the wheat on the acreage in excess of the allotment was produced, and made producers who exceeded their allotment and stored their excess wheat ineligible for diversion payments. See Effective and Termination Dates of 1964 Amendment note below.
 
-    Subsec. (c). [Pub. L. 88–297, § 202(14)][/us/pl/88/297/s202/14], struck out introductory phrase “Whenever a wheat marketing allocation program is in effect for any marketing year” from first sentence, substituted in such sentence “each marketing year” for “such marketing year”, inserted in such sentence “wheat” before “marketing certificates”, substituted in second sentence “domestic certificates shall be the amount” for “marketing certificates shall be equal to the amount” and “domestic certificates” for “certificates” before “exceeds”, and inserted to such sentence provision for face value per bushel of export certificates.
+    Subsec. (c). [Pub. L. 88–297][/us/pl/88/297], § 202(14), struck out introductory phrase “Whenever a wheat marketing allocation program is in effect for any marketing year” from first sentence, substituted in such sentence “each marketing year” for “such marketing year”, inserted in such sentence “wheat” before “marketing certificates”, substituted in second sentence “domestic certificates shall be the amount” for “marketing certificates shall be equal to the amount” and “domestic certificates” for “certificates” before “exceeds”, and inserted to such sentence provision for face value per bushel of export certificates.
 
  __Effective and Termination Dates of 1973 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 402(b)(D)][/us/pl/91/524/s402/b/D], as added by [Pub. L. 93–86, § 1(9)][/us/pl/93/86/s1/9], Aug. 10, 1973, [87 Stat. 227][/us/stat/87/227], provided that the amendment made by [section 402(b)(D) of Pub. L. 91–524][/us/pl/91/524/s402/b/D] is effective only with respect to the 1974 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 402(b)(D), as added by [Pub. L. 93–86][/us/pl/93/86], § 1(9), Aug. 10, 1973, [87 Stat. 227][/us/stat/87/227], provided that the amendment made by [section 402(b)(D) of Pub. L. 91–524][/us/pl/91/524/s402/b/D] is effective only with respect to the 1974 through 1977 crops of wheat.
 
  __Effective and Termination Dates of 1970 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 402(a)][/us/pl/91/524/s402/a], formerly § 402, Nov. 30, 1970, [84 Stat. 1362][/us/stat/84/1362], as renumbered by [Pub. L. 93–86, § 1(9)][/us/pl/93/86/s1/9], Aug. 10, 1973, [87 Stat. 225][/us/stat/87/225], provided that the amendment made by [section 402(a) of Pub. L. 91–524][/us/pl/91/524/s402/a] is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 402(a), formerly § 402, Nov. 30, 1970, [84 Stat. 1362][/us/stat/84/1362], as renumbered by [Pub. L. 93–86][/us/pl/93/86], § 1(9), Aug. 10, 1973, [87 Stat. 225][/us/stat/87/225], provided that the amendment made by [section 402(a) of Pub. L. 91–524][/us/pl/91/524/s402/a] is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
 
  __Effective Date of 1965 Amendment__ 
 
-    [Pub. L. 89–321, title V, § 508][/us/pl/89/321/s508], Nov. 3, 1965, [79 Stat. 1204][/us/stat/79/1204], provided that the amendment made by [section 508 of Pub. L. 89–321][/us/pl/89/321/s508] is effective beginning with the crop planted for harvest in calendar year 1966.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 508, Nov. 3, 1965, [79 Stat. 1204][/us/stat/79/1204], provided that the amendment made by [section 508 of Pub. L. 89–321][/us/pl/89/321/s508] is effective beginning with the crop planted for harvest in calendar year 1966.
 
-    [Pub. L. 89–321, title V, § 510(a)][/us/pl/89/321/s510/a], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by [section 510(a) of Pub. L. 89–321][/us/pl/89/321/s510/a] is effective beginning with the 1966 crop.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 510(a), Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by [section 510(a) of Pub. L. 89–321][/us/pl/89/321/s510/a] is effective beginning with the 1966 crop.
 
-    [Pub. L. 89–321, title V, § 515][/us/pl/89/321/s515], Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206], provided that the amendment made by [section 515 of Pub. L. 89–321][/us/pl/89/321/s515] is effective beginning with the crop planted for harvest in calendar year 1964.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 515, Nov. 3, 1965, [79 Stat. 1206][/us/stat/79/1206], provided that the amendment made by [section 515 of Pub. L. 89–321][/us/pl/89/321/s515] is effective beginning with the crop planted for harvest in calendar year 1964.
 
  __Effective and Termination Dates of 1964 Amendment__ 
 
-    [Pub. L. 88–297, title II, § 202(13)][/us/pl/88/297/s202/13], Apr. 11, 1964, [78 Stat. 180][/us/stat/78/180], as amended by [Pub. L. 89–321, title V, § 505(2)][/us/pl/89/321/s505/2], Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559, § 1(1)][/us/pl/90/559/s1/1], Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by [section 202(13) of Pub. L. 88–297][/us/pl/88/297/s202/13] is effective with respect to crops planted for harvest in calendar years 1965 through 1970.
+    [Pub. L. 88–297, title II][/us/pl/88/297/tII], § 202(13), Apr. 11, 1964, [78 Stat. 180][/us/stat/78/180], as amended by [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 505(2), Nov. 3, 1965, [79 Stat. 1203][/us/stat/79/1203]; [Pub. L. 90–559][/us/pl/90/559], § 1(1), Oct. 11, 1968, [82 Stat. 996][/us/stat/82/996], provided that the amendment made by [section 202(13) of Pub. L. 88–297][/us/pl/88/297/s202/13] is effective with respect to crops planted for harvest in calendar years 1965 through 1970.
 
  __Inapplicability of Section__ 
 
@@ -113,7 +113,7 @@
 
  __Reduction of Wheat Stored by Producers Prior to 1971 Crop__ 
 
-[Pub. L. 91–524, title IV, § 407][/us/pl/91/524/s407], Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86, § 1(14)][/us/pl/93/86/s1/14], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that: 
+[Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 407, Nov. 30, 1970, [84 Stat. 1367][/us/stat/84/1367], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(14), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that: 
 
 > “The amount of any wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended \[[7 U.S.C. 1379c(b)][/us/usc/t7/s1379c/b]\], prior to the 1971 crop of wheat may be reduced by the amount by which the actual total production of the 1971, 1972, or 1973 crop on the farm is less than the number of bushels determined by multiplying three times the domestic allotment for such crop on the farm by the yield established for the farm for the purpose of issuance of domestic marketing certificates. The provisions of such section shall continue to apply to the wheat so stored to the extent not inconsistent therewith. Notwithstanding the foregoing, the Secretary may authorize release of wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended, prior to the 1971 crop, whenever he determines such release will not significantly affect market prices for wheat. As a condition of release, the Secretary may require a refund of such portion of the value of certificates received in the crop year the excess wheat was produced as he deems appropriate considering the period of time the excess wheat has been in storage and the need to provide fair and equitable treatment among all wheat program participants.”
 
@@ -127,68 +127,68 @@
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
 [/us/usc/t7/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1335
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F627
-[/us/pl/88/297/s202/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F12
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F180
-[/us/pl/89/112/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F112%2Fs3
+[/us/pl/89/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F112
 [/us/stat/79/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F447
-[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1204-1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1204-1206
-[/us/pl/89/451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F451%2Fs3
+[/us/pl/89/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F451
 [/us/stat/80/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F202
-[/us/pl/91/524/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fa
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1364
-[/us/pl/93/86/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F9
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F225
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/usc/t7/s1445a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445a%2Fc
-[/us/pl/91/524/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fa
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/89/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F451
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/89/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F112
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
-[/us/pl/89/321/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs513%2Fc
-[/us/pl/89/321/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs515
-[/us/pl/88/297/s202/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F12
-[/us/pl/88/297/s202/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F13
-[/us/pl/88/297/s202/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F14
-[/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
-[/us/pl/93/86/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F9
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F227
 [/us/pl/91/524/s402/b/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fb%2FD
-[/us/pl/91/524/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fa
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1362
-[/us/pl/93/86/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F9
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F225
 [/us/pl/91/524/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs402%2Fa
-[/us/pl/89/321/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs508
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1204
 [/us/pl/89/321/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs508
-[/us/pl/89/321/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs510%2Fa
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
 [/us/pl/89/321/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs510%2Fa
-[/us/pl/89/321/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs515
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1206
 [/us/pl/89/321/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs515
-[/us/pl/88/297/s202/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F13
+[/us/pl/88/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2FtII
 [/us/stat/78/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F180
-[/us/pl/89/321/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs505%2F2
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1203
-[/us/pl/90/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559%2Fs1%2F1
+[/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/stat/82/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F996
 [/us/pl/88/297/s202/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F297%2Fs202%2F13
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3
@@ -203,9 +203,9 @@
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
 [/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/91/524/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs407
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1367
-[/us/pl/93/86/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F14
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/usc/t7/s1379c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379c%2Fb
 

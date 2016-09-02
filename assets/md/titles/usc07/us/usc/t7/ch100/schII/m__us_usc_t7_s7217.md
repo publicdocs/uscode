@@ -27,7 +27,7 @@
 
         If an owner or producer who is entitled to a contract payment dies, becomes incompetent, or is otherwise unable to receive the contract payment, the Secretary shall make the payment, in accordance with regulations prescribed by the Secretary.
 
-([Pub. L. 104–127, title I, § 117][/us/pl/104/127/s117], Apr. 4, 1996, [110 Stat. 904][/us/stat/110/904].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 117, Apr. 4, 1996, [110 Stat. 904][/us/stat/110/904].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs117
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F904
 
 

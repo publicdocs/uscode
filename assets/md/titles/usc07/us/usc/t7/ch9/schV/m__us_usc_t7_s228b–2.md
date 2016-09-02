@@ -31,7 +31,7 @@
 
         Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in [section 45 of title 15][/us/usc/t15/s45].
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 411, as added [Pub. L. 100–173, § 9(2)][/us/pl/100/173/s9/2], Nov. 23, 1987, [101 Stat. 920][/us/stat/101/920].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 411, as added [Pub. L. 100–173][/us/pl/100/173], § 9(2), Nov. 23, 1987, [101 Stat. 920][/us/stat/101/920].)
 
  __Prior Provisions__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t7/s228b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs228b%E2%80%933
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/100/173/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs9%2F2
+[/us/pl/100/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173
 [/us/stat/101/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F920
 [/us/usc/t7/s229c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs229c
 [/us/pl/100/173/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F173%2Fs12

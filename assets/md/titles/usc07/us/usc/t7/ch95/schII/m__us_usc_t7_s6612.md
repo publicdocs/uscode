@@ -31,7 +31,7 @@
 
     (4) The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 101–624, title XXIII, § 2374][/us/pl/101/624/s2374], Nov. 28, 1990, [104 Stat. 4046][/us/stat/104/4046]; [Pub. L. 103–115][/us/pl/103/115], Oct. 26, 1993, [107 Stat. 1117][/us/stat/107/1117]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 345(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–203.)
+([Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2374, Nov. 28, 1990, [104 Stat. 4046][/us/stat/104/4046]; [Pub. L. 103–115][/us/pl/103/115], Oct. 26, 1993, [107 Stat. 1117][/us/stat/107/1117]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 345(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–203.)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t7/s6613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6613%2Fb
-[/us/pl/101/624/s2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2374
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4046
 [/us/pl/103/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F115
 [/us/stat/107/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1117
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/103/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F115

@@ -27,7 +27,7 @@
 
         The Secretary may issue such regulations as are necessary to carry out this chapter, including regulations relating to the assessment of late payment charges.
 
-([Pub. L. 101–624, title XIX, § 1976][/us/pl/101/624/s1976], Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1976, Nov. 28, 1990, [104 Stat. 3904][/us/stat/104/3904].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1976
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3904
 
 

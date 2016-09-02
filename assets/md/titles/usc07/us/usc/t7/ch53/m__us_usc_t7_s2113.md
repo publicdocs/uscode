@@ -33,7 +33,7 @@
 
     Provided, however, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
 
-([Pub. L. 89–502, § 14][/us/pl/89/502/s14], July 13, 1966, [80 Stat. 284][/us/stat/80/284].)
+([Pub. L. 89–502][/us/pl/89/502], § 14, July 13, 1966, [80 Stat. 284][/us/stat/80/284].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t7/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2103
 [/us/usc/t7/s2106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2106%2Fb
-[/us/pl/89/502/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs14
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F284
 
 

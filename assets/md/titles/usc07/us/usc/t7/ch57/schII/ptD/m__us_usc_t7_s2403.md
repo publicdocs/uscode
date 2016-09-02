@@ -17,7 +17,7 @@
 
     Protection under this chapter may, by regulation, be limited to nationals of the United States, except where this limitation would violate a treaty and except that nationals of a foreign state in which they are domiciled shall be entitled to so much of the protection here afforded as is afforded by said foreign state to nationals of the United States for the same genus and species.
 
-([Pub. L. 91–577, title II, § 43][/us/pl/91/577/s43], Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 43, Dec. 24, 1970, [84 Stat. 1547][/us/stat/84/1547].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs43
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1547
 
 

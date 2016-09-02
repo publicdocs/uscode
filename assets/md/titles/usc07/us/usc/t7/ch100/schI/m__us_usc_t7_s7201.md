@@ -31,7 +31,7 @@
 
         (4) to establish a commission to undertake a comprehensive review of past and future production agriculture in the United States.
 
-([Pub. L. 104–127, title I, § 101][/us/pl/104/127/s101], Apr. 4, 1996, [110 Stat. 896][/us/stat/110/896].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 101, Apr. 4, 1996, [110 Stat. 896][/us/stat/110/896].)
 
  __References in Text__ 
 
@@ -39,19 +39,19 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–228, § 1][/us/pl/105/228/s1], Aug. 12, 1998, [112 Stat. 1516][/us/stat/112/1516], provided that: 
+[Pub. L. 105–228][/us/pl/105/228], § 1, Aug. 12, 1998, [112 Stat. 1516][/us/stat/112/1516], provided that: 
 
 > “This Act \[amending [section 7212 of this title][/us/usc/t7/s7212]\] may be cited as the ‘Emergency Farm Financial Relief Act’.”
 
  __Short Title__ 
 
-[Pub. L. 104–127, § 1(a)][/us/pl/104/127/s1/a], Apr. 4, 1996, [110 Stat. 888][/us/stat/110/888], provided that: 
+[Pub. L. 104–127][/us/pl/104/127], § 1(a), Apr. 4, 1996, [110 Stat. 888][/us/stat/110/888], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Federal Agriculture Improvement and Reform Act of 1996’.”
 
  __Severability__ 
 
-[Pub. L. 104–127, title IX, § 928][/us/pl/104/127/s928], Apr. 4, 1996, [110 Stat. 1197][/us/stat/110/1197], provided that: 
+[Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 928, Apr. 4, 1996, [110 Stat. 1197][/us/stat/110/1197], provided that: 
 
 > “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act that can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
 
@@ -62,18 +62,18 @@
 ----------
 ----------
 
-[/us/pl/104/127/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs101
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
 [/us/usc/t7/s6933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6933
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/105/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F228%2Fs1
+[/us/pl/105/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F228
 [/us/stat/112/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1516
 [/us/usc/t7/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7212
-[/us/pl/104/127/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs1%2Fa
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F888
-[/us/pl/104/127/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs928
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1197
 
 

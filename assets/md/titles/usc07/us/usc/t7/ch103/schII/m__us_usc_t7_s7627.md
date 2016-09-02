@@ -37,7 +37,7 @@
 
         The Secretary may use the funds, facilities, and technical expertise of the Agricultural Research Service and the National Institute of Food and Agriculture and other funds available to the Secretary (other than funds of the Commodity Credit Corporation) to carry out this section.
 
-([Pub. L. 105–185, title IV, § 407][/us/pl/105/185/s407], June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII, § 7207(c)][/us/pl/107/171/s7207/c], May 13, 2002, [116 Stat. 440][/us/stat/116/440]; [Pub. L. 110–234, title VII, § 7511(c)(31)][/us/pl/110/234/s7511/c/31], May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(31), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032.)
+([Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 407, June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7207(c), May 13, 2002, [116 Stat. 440][/us/stat/116/440]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(31), May 22, 2008, [122 Stat. 1270][/us/stat/122/1270]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(31), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032.)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 7511(c)(31)][/us/pl/110/246/s7511/c/31], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(31), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
     2002—Subsec. (b)(3). [Pub. L. 107–171][/us/pl/107/171] inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
 
@@ -62,19 +62,19 @@
 ----------
 ----------
 
-[/us/pl/105/185/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs407
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F573
-[/us/pl/107/171/s7207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7207%2Fc
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F440
-[/us/pl/110/234/s7511/c/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F31
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1270
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F31
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

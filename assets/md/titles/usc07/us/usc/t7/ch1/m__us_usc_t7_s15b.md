@@ -183,7 +183,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 94–455, title XIX, § 1952(a)][/us/pl/94/455/s1952/a]–(m), Oct. 4, 1976, [90 Stat. 1841–1846][/us/stat/90/1841-1846]; [Pub. L. 97–35, title I, § 156(c)][/us/pl/97/35/s156/c], Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374]; [Pub. L. 102–237, title I, § 123][/us/pl/102/237/s123], Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844]; [Pub. L. 106–472, title III, § 311][/us/pl/106/472/s311], Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076]; [Pub. L. 114–36, § 1(a)][/us/pl/114/36/s1/a], July 20, 2015, [129 Stat. 435][/us/stat/129/435].)
+([Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1952(a)–(m), Oct. 4, 1976, [90 Stat. 1841–1846][/us/stat/90/1841-1846]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 156(c), Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374]; [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 123, Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844]; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 311, Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076]; [Pub. L. 114–36][/us/pl/114/36], § 1(a), July 20, 2015, [129 Stat. 435][/us/stat/129/435].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 
     The United States Cotton Standards Act, referred to in subsec. (c)(5), is [act Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], [42 Stat. 1517][/us/stat/42/1517], which is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see [section 51 of this title][/us/usc/t7/s51] and Tables.
 
-    The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], and is classified to Title 26, Internal Revenue Code.
+    The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], and is classified to Title 26, Internal Revenue Code.
 
  __Codification__ 
 
@@ -199,7 +199,7 @@
 
     This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
 
-    In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -213,7 +213,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–36, § 1(b)][/us/pl/114/36/s1/b], July 20, 2015, [129 Stat. 435][/us/stat/129/435], provided that: 
+[Pub. L. 114–36][/us/pl/114/36], § 1(b), July 20, 2015, [129 Stat. 435][/us/stat/129/435], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act \[July 20, 2015\].”
 
@@ -223,7 +223,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XIX, § 1952][/us/pl/94/455/s1952](o), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], provided that: 
+[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1952(o), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], provided that: 
 
 > “The provisions of this section \[enacting this section, amending [section 6808 of Title 26][/us/usc/t26/s6808], Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
@@ -237,15 +237,15 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t7/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs51
 [/us/usc/t7/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs55
-[/us/pl/94/455/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1952%2Fa
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1841-1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1841-1846
-[/us/pl/97/35/s156/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs156%2Fc
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F374
-[/us/pl/102/237/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs123
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1844
-[/us/pl/106/472/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs311
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2076
-[/us/pl/114/36/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36%2Fs1%2Fa
+[/us/pl/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36
 [/us/stat/129/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F435
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -253,24 +253,24 @@
 [/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1517
 [/us/usc/t7/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs51
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t7/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs55
-[/us/pl/114/36/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36%2Fs1%2Fb
+[/us/pl/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36
 [/us/stat/129/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F435
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs156%2Fe
 [/us/usc/t7/s61a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs61a
-[/us/pl/94/455/s1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1952
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1846
 [/us/usc/t26/s6808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6808
 

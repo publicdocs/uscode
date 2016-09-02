@@ -63,7 +63,7 @@
 
             Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
-([Pub. L. 107–171, title I, § 1601][/us/pl/107/171/s1601], May 13, 2002, [116 Stat. 211][/us/stat/116/211]; [Pub. L. 110–234, title I, § 1601(e)][/us/pl/110/234/s1601/e], May 22, 2008, [122 Stat. 1001][/us/stat/122/1001]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1601(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1729.)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1601, May 13, 2002, [116 Stat. 211][/us/stat/116/211]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1601(e), May 22, 2008, [122 Stat. 1001][/us/stat/122/1001]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1601(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1729.)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(3). [Pub. L. 110–246, § 1601(e)][/us/pl/110/246/s1601/e], added par. (3).
+    2008—Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 1601(e), added par. (3).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -103,11 +103,11 @@
 [/us/usc/t7/s7960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7960
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
-[/us/pl/107/171/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1601
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F211
-[/us/pl/110/234/s1601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1601%2Fe
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1001
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -126,7 +126,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1601%2Fe
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

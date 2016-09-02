@@ -61,7 +61,7 @@
 
         Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with [section 7283 of this title][/us/usc/t7/s7283]).
 
-([Pub. L. 113–79, title I, § 1209][/us/pl/113/79/s1209], Feb. 7, 2014, [128 Stat. 685][/us/stat/128/685].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1209, Feb. 7, 2014, [128 Stat. 685][/us/stat/128/685].)
 
 ----------
 
@@ -74,7 +74,7 @@
 [/us/usc/t7/s9015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9015
 [/us/usc/t7/s9036/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9036%2Fb%2F1%2FB%2Fii
 [/us/usc/t7/s7283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7283
-[/us/pl/113/79/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1209
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F685
 
 

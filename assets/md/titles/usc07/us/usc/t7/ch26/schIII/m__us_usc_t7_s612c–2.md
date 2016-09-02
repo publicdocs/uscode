@@ -17,7 +17,7 @@
 
     The Department of Agriculture shall provide technical support to exporters and importers of United States agricultural products when so requested. Such support shall include, but not be limited to, a review of the feasibility of the export proposal, adequacy of sources of supply, compliance with trade regulations of the United States and the importing country and such other information or guidance as may be needed to expand and expedite United States agricultural exports by private trading interests.
 
-([Pub. L. 91–524, title VIII, § 811][/us/pl/91/524/s811], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 811, as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 238][/us/stat/87/238].)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/524/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs811
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F238
 
 

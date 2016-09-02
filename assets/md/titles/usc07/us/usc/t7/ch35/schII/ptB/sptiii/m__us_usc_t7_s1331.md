@@ -29,7 +29,7 @@
 
     The provisions of this subpart affording a cooperative plan to wheat producers are necessary in order to minimize recurring surpluses and shortages of wheat in interstate and foreign commerce, to provide for the maintenance of adequate reserve supplies thereof, to provide for an adequate and orderly flow of wheat and its products in interstate and foreign commerce at prices which are fair and reasonable to farmers and consumers, and to prevent acreage diverted from the production of wheat from adversely affecting other commodities in interstate and foreign commerce.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 331, [52 Stat. 52][/us/stat/52/52]; [Pub. L. 87–703, title III, § 310][/us/pl/87/703/s310], Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 331, [52 Stat. 52][/us/stat/52/52]; [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 310, Sept. 27, 1962, [76 Stat. 618][/us/stat/76/618].)
 
  __Amendments__ 
 
@@ -49,23 +49,23 @@
 
     Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(a)(1)(A) of this title][/us/usc/t7/s7301/a/1/A].
 
-[Pub. L. 101–624, title III, § 303][/us/pl/101/624/s303], Nov. 28, 1990, [104 Stat. 3400][/us/stat/104/3400], provided that: 
+[Pub. L. 101–624, title III][/us/pl/101/624/tIII], § 303, Nov. 28, 1990, [104 Stat. 3400][/us/stat/104/3400], provided that: 
 
 > “Sections 331 through 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 ([7 U.S.C. 1331][/us/usc/t7/s1331] through 1339, 1379b, and 1379c) shall not be applicable to the 1991 through 1995 crops of wheat.”
 
-[Pub. L. 99–198, title III, § 310(b)][/us/pl/99/198/s310/b], Dec. 23, 1985, [99 Stat. 1395][/us/stat/99/1395], provided that: 
+[Pub. L. 99–198, title III][/us/pl/99/198/tIII], § 310(b), Dec. 23, 1985, [99 Stat. 1395][/us/stat/99/1395], provided that: 
 
 > “Sections 331, 339, 379b, and 379c of such Act \[the Agricultural Adjustment Act of 1938\] ([7 U.S.C. 1331][/us/usc/t7/s1331], 1339, 1379b, and 1379c) shall not be applicable to the 1986 through 1990 crops of wheat.”
 
- [Pub. L. 97–98, title III, § 303][/us/pl/97/98/s303], Dec. 22, 1981, [95 Stat. 1227][/us/stat/95/1227], provided that: 
+ [Pub. L. 97–98, title III][/us/pl/97/98/tIII], § 303, Dec. 22, 1981, [95 Stat. 1227][/us/stat/95/1227], provided that: 
 
 > “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
-[Pub. L. 95–113, title IV, § 404][/us/pl/95/113/s404], Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that: 
+[Pub. L. 95–113, title IV][/us/pl/95/113/tIV], § 404, Sept. 29, 1977, [91 Stat. 927][/us/stat/91/927], provided that: 
 
 > “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938, as amended \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\], shall not be applicable to the 1978 through 1981 crops of wheat.”
 
-    [Pub. L. 91–524, title IV, § 404(1)][/us/pl/91/524/s404/1], Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86, § 1(11)][/us/pl/93/86/s1/11], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 404(1), Nov. 30, 1970, [84 Stat. 1366][/us/stat/84/1366], as amended by [Pub. L. 93–86][/us/pl/93/86], § 1(11), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 ----------
 
@@ -76,7 +76,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F52
-[/us/pl/87/703/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs310
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F618
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
@@ -86,19 +86,19 @@
 [/us/usc/t7/s8782/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fa%2F1
 [/us/usc/t7/s7992/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fa%2F1
 [/us/usc/t7/s7301/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fa%2F1%2FA
-[/us/pl/101/624/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs303
+[/us/pl/101/624/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIII
 [/us/stat/104/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3400
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/99/198/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs310%2Fb
+[/us/pl/99/198/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtIII
 [/us/stat/99/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1395
 [/us/usc/t7/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1331
-[/us/pl/97/98/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs303
+[/us/pl/97/98/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtIII
 [/us/stat/95/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1227
-[/us/pl/95/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs404
+[/us/pl/95/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtIV
 [/us/stat/91/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F927
-[/us/pl/91/524/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs404%2F1
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/stat/84/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1366
-[/us/pl/93/86/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F11
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 
 

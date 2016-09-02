@@ -35,17 +35,17 @@
 
         Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of [section 87f of this title][/us/usc/t7/s87f] for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 10, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 765][/us/stat/82/765]; [Pub. L. 94–582, § 12][/us/pl/94/582/s12], Oct. 21, 1976, [90 Stat. 2879][/us/stat/90/2879]; [Pub. L. 103–156, § 12(i)][/us/pl/103/156/s12/i], Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 10, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 765][/us/stat/82/765]; [Pub. L. 94–582][/us/pl/94/582], § 12, Oct. 21, 1976, [90 Stat. 2879][/us/stat/90/2879]; [Pub. L. 103–156][/us/pl/103/156], § 12(i), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
     1994—Subsecs. (a), (c) to (e). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1993—[Pub. L. 103–156, § 12(i)][/us/pl/103/156/s12/i], which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 103–156, § 12(i)(1)][/us/pl/103/156/s12/i/1], substituted “the Administrator” for “he” in two places.
+    Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 12(i)(1), substituted “the Administrator” for “he” in two places.
 
-    Subsec. (b). [Pub. L. 103–156, § 12(i)(2)][/us/pl/103/156/s12/i/2], substituted “the person” for “he”.
+    Subsec. (b). [Pub. L. 103–156][/us/pl/103/156], § 12(i)(2), substituted “the person” for “he”.
 
     1976—Subsec. (a). [Pub. L. 94–582][/us/pl/94/582] substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of [section 87b of this title][/us/usc/t7/s87b] or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of [section 87b of this title][/us/usc/t7/s87b], or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
 
@@ -79,18 +79,18 @@
 [/us/usc/t7/s87f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87f
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F485
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F765
-[/us/pl/94/582/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs12
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2879
-[/us/pl/103/156/s12/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fi
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fi
-[/us/pl/103/156/s12/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fi%2F1
-[/us/pl/103/156/s12/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fi%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s87b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87b
 [/us/usc/t7/s87b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87b

@@ -41,11 +41,11 @@
 
         Any funds in the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of an association established under sections 106A and 106B of the Agricultural Act of 1949 ([7 U.S.C. 1445–1][/us/usc/t7/s1445–1], 1445–2) that remain after the application of subsections (b) and (c) shall be transferred to the association for distribution to producers of quota tobacco in accordance with a plan approved by the Secretary.
 
-([Pub. L. 108–357, title VI, § 641][/us/pl/108/357/s641], Oct. 22, 2004, [118 Stat. 1534][/us/stat/118/1534].)
+([Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 641, Oct. 22, 2004, [118 Stat. 1534][/us/stat/118/1534].)
 
  __References in Text__ 
 
-    Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by [Pub. L. 108–357, title VI, § 612(a)][/us/pl/108/357/s612/a], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].
+    Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 612(a), Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523].
 
 ----------
 
@@ -59,9 +59,9 @@
 [/us/usc/t7/s518e/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518e%2Fb%2F1%2FB
 [/us/usc/t7/s1445–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%931
 [/us/usc/t7/s1445–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445%E2%80%931
-[/us/pl/108/357/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs641
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1534
-[/us/pl/108/357/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs612%2Fa
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1523
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services, in consultation with the Secretaries of Agriculture, Education, and Defense, and the Director of the National Science Foundation, shall submit, within one year after October 22, 1990, a report describing the appropriate Federal role in assuring that students enrolled in United States medical schools and physicians practicing in the United States have access to adequate training in the field of nutrition and its relationship to human health.
 
-([Pub. L. 101–445, title III, § 302][/us/pl/101/445/s302], Oct. 22, 1990, [104 Stat. 1044][/us/stat/104/1044].)
+([Pub. L. 101–445, title III][/us/pl/101/445/tIII], § 302, Oct. 22, 1990, [104 Stat. 1044][/us/stat/104/1044].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/445/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs302
+[/us/pl/101/445/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtIII
 [/us/stat/104/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1044
 
 

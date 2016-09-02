@@ -27,7 +27,7 @@
 
         If the Institute is dissolved for any reason, the moneys remaining in the Fund shall be disposed of as shall be agreed to by the board and the Secretary.
 
-([Pub. L. 98–180, title I, § 136][/us/pl/98/180/s136], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 136, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/98/180/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs136
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1371
 
 

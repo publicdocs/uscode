@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 3, [49 Stat. 1364][/us/stat/49/1364]; [June 21, 1938, ch. 554][/us/act/1938-06-21/ch554], title IV, § 401, [52 Stat. 818][/us/stat/52/818]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title V, §§ 501, 503, 504, [58 Stat. 739][/us/stat/58/739], 740; [July 30, 1947, ch. 356][/us/act/1947-07-30/ch356], title I, § 1, [61 Stat. 546][/us/stat/61/546]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], §§ 2, 4(a)–(d), [63 Stat. 948][/us/stat/63/948]; [June 15, 1955, ch. 139, § 1][/us/act/1955-06-15/ch139/s1], [69 Stat. 131][/us/stat/69/131]; [Pub. L. 92–12, § 3(a)][/us/pl/92/12/s3/a], May 7, 1971, [85 Stat. 37][/us/stat/85/37]; [Pub. L. 93–32, § 3][/us/pl/93/32/s3], May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 103–354, title II, § 235(a)(3)][/us/pl/103/354/s235/a/3], (13), Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220], 3221; [Pub. L. 104–127, title VII, § 772(a)][/us/pl/104/127/s772/a], Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 3, [49 Stat. 1364][/us/stat/49/1364]; [June 21, 1938, ch. 554][/us/act/1938-06-21/ch554], title IV, § 401, [52 Stat. 818][/us/stat/52/818]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title V, §§ 501, 503, 504, [58 Stat. 739][/us/stat/58/739], 740; [July 30, 1947, ch. 356][/us/act/1947-07-30/ch356], title I, § 1, [61 Stat. 546][/us/stat/61/546]; [Oct. 28, 1949, ch. 776][/us/act/1949-10-28/ch776], §§ 2, 4(a)–(d), [63 Stat. 948][/us/stat/63/948]; [June 15, 1955, ch. 139][/us/act/1955-06-15/ch139], § 1, [69 Stat. 131][/us/stat/69/131]; [Pub. L. 92–12][/us/pl/92/12], § 3(a), May 7, 1971, [85 Stat. 37][/us/stat/85/37]; [Pub. L. 93–32][/us/pl/93/32], § 3, May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(3), (13), Oct. 13, 1994, [108 Stat. 3220][/us/stat/108/3220], 3221; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 772(a), Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Restrictions on Borrower__ 
 
-[Act June 21, 1938, ch. 554][/us/act/1938-06-21/ch554], title IV, § 401, [52 Stat. 818][/us/stat/52/818], as amended by [Pub. L. 103–182, title III, § 381(d)][/us/pl/103/182/s381/d], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–354, title II, § 235(b)(3)][/us/pl/103/354/s235/b/3], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 103–465, title III, § 342(g)][/us/pl/103/465/s342/g], Dec. 8, 1994, [108 Stat. 4954][/us/stat/108/4954], in addition to amending subsecs. (a) and (e), provided in part as follows: 
+[Act June 21, 1938, ch. 554, title IV][/us/act/1938-06-21/ch554/tIV], § 401, [52 Stat. 818][/us/stat/52/818], as amended by [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 381(d), Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(3), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(g), Dec. 8, 1994, [108 Stat. 4954][/us/stat/108/4954], in addition to amending subsecs. (a) and (e), provided in part as follows: 
 
 > “In making loans pursuant to this title \[title IV of such act\] and pursuant to the Rural Electrification Act of 1936 \[this chapter\], the Secretary of Agriculture shall require that, to the extent practicable and the cost of which is not unreasonable, the borrower agree to use in connection with the expenditure of such funds only such unmanufactured articles, materials, and supplies, as have been mined or produced in the United States or in any eligible country, and only such manufactured articles, materials, and supplies as have been manufactured in the United States or in any eligible country substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States or in any eligible country. For purposes of this section, an ‘eligible country’ is any country that applies with respect to the United States an agreement ensuring reciprocal access for United States products and services and United States suppliers to the markets of that country, as determined by the United States Trade Representative.”
 
@@ -92,15 +92,15 @@
 [/us/stat/61/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F546
 [/us/act/1949-10-28/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch776
 [/us/stat/63/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F948
-[/us/act/1955-06-15/ch139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch139%2Fs1
+[/us/act/1955-06-15/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch139
 [/us/stat/69/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F131
-[/us/pl/92/12/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs3%2Fa
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F37
-[/us/pl/93/32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs3
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/103/354/s235/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F3
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3220
-[/us/pl/104/127/s772/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs772%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1149
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
@@ -112,13 +112,13 @@
 [/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/pl/92/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs7
 [/us/usc/t7/s921a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs921a
-[/us/act/1938-06-21/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch554
+[/us/act/1938-06-21/ch554/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch554%2FtIV
 [/us/stat/52/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F818
-[/us/pl/103/182/s381/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fd
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
-[/us/pl/103/354/s235/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F3
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
-[/us/pl/103/465/s342/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fg
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4954
 [/us/pl/103/465/s342/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fg
 [/us/pl/103/465/s344/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs344%2Fb

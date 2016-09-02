@@ -177,7 +177,7 @@
 
             Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
 
-([Pub. L. 107–171, title III, § 3107][/us/pl/107/171/s3107], May 13, 2002, [116 Stat. 295][/us/stat/116/295]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1833; [Pub. L. 113–79, title III, § 3204][/us/pl/113/79/s3204], Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
+([Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3107, May 13, 2002, [116 Stat. 295][/us/stat/116/295]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1833; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3204, Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
 
  __Codification__ 
 
@@ -185,29 +185,29 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–79, § 3204(b)][/us/pl/113/79/s3204/b], struck out “to” after “shall” in introductory provisions.
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 3204(b), struck out “to” after “shall” in introductory provisions.
 
-    Subsec. (l)(2). [Pub. L. 113–79, § 3204(a)][/us/pl/113/79/s3204/a], substituted “2018” for “2012”.
+    Subsec. (l)(2). [Pub. L. 113–79][/us/pl/113/79], § 3204(a), substituted “2018” for “2012”.
 
-    2008—Subsecs. (b), (c)(2)(B). [Pub. L. 110–246, § 3106(1)][/us/pl/110/246/s3106/1], substituted “Secretary” for “President” in introductory provisions.
+    2008—Subsecs. (b), (c)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 3106(1), substituted “Secretary” for “President” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 110–246, § 3106(2)][/us/pl/110/246/s3106/2], substituted “The Secretary shall” for “The President shall designate 1 or more Federal agencies” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 3106(2), substituted “The Secretary shall” for “The President shall designate 1 or more Federal agencies” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 110–246, § 3106(1)][/us/pl/110/246/s3106/1], substituted “Secretary” for “President” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 110–246][/us/pl/110/246], § 3106(1), substituted “Secretary” for “President” in introductory provisions.
 
-    Subsec. (f)(2). [Pub. L. 110–246, § 3106(3)][/us/pl/110/246/s3106/3], substituted “Secretary” for “implementing agency” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 110–246][/us/pl/110/246], § 3106(3), substituted “Secretary” for “implementing agency” in introductory provisions.
 
-    Subsecs. (h), (i). [Pub. L. 110–246, § 3106(1)][/us/pl/110/246/s3106/1], substituted “Secretary” for “President” wherever appearing.
+    Subsecs. (h), (i). [Pub. L. 110–246][/us/pl/110/246], § 3106(1), substituted “Secretary” for “President” wherever appearing.
 
-    Subsec. (k). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(G), made technical amendment to reference in original act which appears in text as reference to [section 1733(a) of this title][/us/usc/t7/s1733/a].
+    Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 3001(b)(1)(A), (2)(G), made technical amendment to reference in original act which appears in text as reference to [section 1733(a) of this title][/us/usc/t7/s1733/a].
 
-    Subsec. (l)(1). [Pub. L. 110–246, § 3106(4)(A)][/us/pl/110/246/s3106/4/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
+    Subsec. (l)(1). [Pub. L. 110–246][/us/pl/110/246], § 3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
 
-    [Pub. L. 110–246, § 3106(1)][/us/pl/110/246/s3106/1], substituted “Secretary” for “President”.
+    [Pub. L. 110–246][/us/pl/110/246], § 3106(1), substituted “Secretary” for “President”.
 
-    Subsec. (l)(2). [Pub. L. 110–246, § 3106(4)(B)][/us/pl/110/246/s3106/4/B], substituted “2008 through 2012” for “2004 through 2007”.
+    Subsec. (l)(2). [Pub. L. 110–246][/us/pl/110/246], § 3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
 
-    Subsec. (l)(3). [Pub. L. 110–246, § 3106(4)(C)][/us/pl/110/246/s3106/4/C], substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
+    Subsec. (l)(3). [Pub. L. 110–246][/us/pl/110/246], § 3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
 
  __Change of Name__ 
 
@@ -239,25 +239,25 @@
 ----------
 
 [/us/usc/t7/s1733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1733%2Fa
-[/us/pl/107/171/s3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3107
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F295
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/113/79/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
-[/us/pl/113/79/s3204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204%2Fb
-[/us/pl/113/79/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204%2Fa
-[/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1
-[/us/pl/110/246/s3106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F2
-[/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1
-[/us/pl/110/246/s3106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F3
-[/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1733%2Fa
-[/us/pl/110/246/s3106/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F4%2FA
-[/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1
-[/us/pl/110/246/s3106/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F4%2FB
-[/us/pl/110/246/s3106/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F4%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

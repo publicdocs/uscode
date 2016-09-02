@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch34/schV/m__us_usc_t7_s1171.md) | [Next](./../../../..//us/usc/t7/ch35/m__us_usc_t7_s1281.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35)
+[Previous](./../../../..//us/usc/t7/ch34/schV/m__us_usc_t7_s1172...1183.md) | [Next](./../../../..//us/usc/t7/ch35/m__us_usc_t7_s1281.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35)
 
 ## CHAPTER 35—AGRICULTURAL ADJUSTMENT ACT OF 1938
 
@@ -729,7 +729,7 @@ subpart vii—flexible marketing allotments for sugar  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1359" data-uslm-ref="/us/usc/t7/s1359">1359</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1359ll" data-uslm-ref="/us/usc/t7/s1359ll">1359ll.</a>  </td>
 
     <td> Period of effectiveness.  </td>
 
@@ -1149,7 +1149,7 @@ SUBCHAPTER III—COTTON POOL PARTICIPATION TRUST CERTIFICATES  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch34/schV/m__us_usc_t7_s1171.md) | [Next](./../../../..//us/usc/t7/ch35/m__us_usc_t7_s1281.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35)
+[Previous](./../../../..//us/usc/t7/ch34/schV/m__us_usc_t7_s1172...1183.md) | [Next](./../../../..//us/usc/t7/ch35/m__us_usc_t7_s1281.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35)
 
 ----------
 ----------

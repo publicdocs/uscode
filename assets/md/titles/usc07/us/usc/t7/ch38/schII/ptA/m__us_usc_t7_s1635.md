@@ -23,11 +23,11 @@
 
     (3) encourages competition in the marketplace for livestock and livestock products.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 211, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 211, as added [Pub. L. 106–78, title IX][/us/pl/106/78/tIX], § 911(2), Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188].)
 
  __Livestock Mandatory Reporting__ 
 
-[Pub. L. 106–78, title IX][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188], as amended by [Pub. L. 108–444, § 1][/us/pl/108/444/s1], Dec. 3, 2004, [118 Stat. 2635][/us/stat/118/2635]; [Pub. L. 109–296, § 1(b)][/us/pl/109/296/s1/b], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 111–239, § 2(a)(2)][/us/pl/111/239/s2/a/2], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501]; [Pub. L. 114–54, title I, § 101(b)][/us/pl/114/54/s101/b], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513], provided that:
+[Pub. L. 106–78, title IX][/us/pl/106/78/tIX], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188], as amended by [Pub. L. 108–444][/us/pl/108/444], § 1, Dec. 3, 2004, [118 Stat. 2635][/us/stat/118/2635]; [Pub. L. 109–296][/us/pl/109/296], § 1(b), Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 111–239][/us/pl/111/239], § 2(a)(2), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501]; [Pub. L. 114–54, title I][/us/pl/114/54/tI], § 101(b), Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513], provided that:
 
 > “SEC. 901. __SHORT TITLE.__ 
 
@@ -193,17 +193,17 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/78/s911/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs911%2F2
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1188
-[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtIX
 [/us/stat/113/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1188
-[/us/pl/108/444/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F444%2Fs1
+[/us/pl/108/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F444
 [/us/stat/118/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2635
-[/us/pl/109/296/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs1%2Fb
+[/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
 [/us/stat/120/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1464
-[/us/pl/111/239/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fa%2F2
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
-[/us/pl/114/54/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs101%2Fb
+[/us/pl/114/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtI
 [/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
 [/us/usc/t7/s229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs229a
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421

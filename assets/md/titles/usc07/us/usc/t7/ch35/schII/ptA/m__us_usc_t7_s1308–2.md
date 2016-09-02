@@ -45,7 +45,7 @@
 
         The Secretary may partially or fully release from liability any person or legal entity who cooperates with the Secretary in enforcing sections 1308, 1308–1, and 1308–3 of this title, and this section.
 
-([Pub. L. 99–198, title X, § 1001B][/us/pl/99/198/s1001B], as added [Pub. L. 100–203, title I, § 1304(b)][/us/pl/100/203/s1304/b], Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17]; amended [Pub. L. 107–171, title I, § 1603(c)(2)][/us/pl/107/171/s1603/c/2], May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I, § 1603(e)][/us/pl/110/234/s1603/e], May 22, 2008, [122 Stat. 1010][/us/stat/122/1010]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1738.)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001B, as added [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1304(b), Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17]; amended [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1603(c)(2), May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(e), May 22, 2008, [122 Stat. 1010][/us/stat/122/1010]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1738.)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 1603(e)][/us/pl/110/246/s1603/e], amended section generally. Prior to amendment, text read as follows: “If the Secretary of Agriculture determines that any person has adopted a scheme or device to evade, or that has the purpose of evading, section 1308, 1308–1, or 1308–3 of this title, such person shall be ineligible to receive farm program payments (as described in subsections (b), (c), and (d) of [section 1308 of this title][/us/usc/t7/s1308] as being subject to limitation) applicable to the crop year for which such scheme or device was adopted and the succeeding crop year.”
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 1603(e), amended section generally. Prior to amendment, text read as follows: “If the Secretary of Agriculture determines that any person has adopted a scheme or device to evade, or that has the purpose of evading, section 1308, 1308–1, or 1308–3 of this title, such person shall be ineligible to receive farm program payments (as described in subsections (b), (c), and (d) of [section 1308 of this title][/us/usc/t7/s1308] as being subject to limitation) applicable to the crop year for which such scheme or device was adopted and the succeeding crop year.”
 
     2002—[Pub. L. 107–171][/us/pl/107/171] substituted “as described in subsections (b), (c), and (d) of [section 1308 of this title][/us/usc/t7/s1308]” for “as described in paragraphs (1) and (2) of [section 1308 of this title][/us/usc/t7/s1308]”.
 
@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 100–203, title I, § 1304(b)][/us/pl/100/203/s1304/b], Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17], provided that this section is effective beginning with the 1989 crops.
+    [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1304(b), Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17], provided that this section is effective beginning with the 1989 crops.
 
  __Transition Provisions__ 
 
@@ -80,20 +80,20 @@
 
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931%2Fb
-[/us/pl/99/198/s1001B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001B
-[/us/pl/100/203/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1304%2Fb
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-17
-[/us/pl/107/171/s1603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fc%2F2
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
-[/us/pl/110/234/s1603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fe
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1010
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s1603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fe
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
@@ -103,7 +103,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/100/203/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1304%2Fb
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-17
 [/us/pl/110/246/s1603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fh
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308

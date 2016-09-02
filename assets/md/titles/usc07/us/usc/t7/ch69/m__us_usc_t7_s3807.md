@@ -27,7 +27,7 @@
 
         For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the provisions (including penalties) of sections 46 and 48 through 50 of title 15, are made applicable to the jurisdiction, powers, and duties of the Secretary in enforcing the provisions of this chapter and to any person subject to the provisions of this chapter, whether or not a corporation. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States.
 
-([Pub. L. 96–468, § 8][/us/pl/96/468/s8], Oct. 17, 1980, [94 Stat. 2232][/us/stat/94/2232].)
+([Pub. L. 96–468][/us/pl/96/468], § 8, Oct. 17, 1980, [94 Stat. 2232][/us/stat/94/2232].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/468/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468%2Fs8
+[/us/pl/96/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F468
 [/us/stat/94/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2232
 
 

@@ -61,7 +61,7 @@
 
             (B) remain available until expended, without fiscal year limitation.
 
-([Pub. L. 107–171, title X, § 10412][/us/pl/107/171/s10412], May 13, 2002, [116 Stat. 503][/us/stat/116/503].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10412, May 13, 2002, [116 Stat. 503][/us/stat/116/503].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
-[/us/pl/107/171/s10412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10412
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F503
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

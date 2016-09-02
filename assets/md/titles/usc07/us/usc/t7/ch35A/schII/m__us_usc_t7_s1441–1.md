@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 101A, as added Dec. 23, 1985, [Pub. L. 99–198, title VI, § 601][/us/pl/99/198/s601], [99 Stat. 1419][/us/stat/99/1419]; amended Mar. 20, 1986, [Pub. L. 99–260, § 2(d)][/us/pl/99/260/s2/d], [100 Stat. 47][/us/stat/100/47]; May 27, 1987, [Pub. L. 100–45, § 5][/us/pl/100/45/s5], [101 Stat. 320][/us/stat/101/320]; Dec. 22, 1987, [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1101(e), 1102(d), 1113(d), [101 Stat. 1330–2][/us/stat/101/1330-2], 1330–3, 1330–10, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
+    Section, [act Oct. 31, 1949, ch. 792, title I][/us/act/1949-10-31/ch792/tI], § 101A, as added Dec. 23, 1985, [Pub. L. 99–198, title VI][/us/pl/99/198/tVI], § 601, [99 Stat. 1419][/us/stat/99/1419]; amended Mar. 20, 1986, [Pub. L. 99–260][/us/pl/99/260], § 2(d), [100 Stat. 47][/us/stat/100/47]; May 27, 1987, [Pub. L. 100–45][/us/pl/100/45], § 5, [101 Stat. 320][/us/stat/101/320]; Dec. 22, 1987, [Pub. L. 100–203, title I][/us/pl/100/203/tI], §§ 1101(e), 1102(d), 1113(d), [101 Stat. 1330–2][/us/stat/101/1330-2], 1330–3, 1330–10, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
 
  __Effective and Termination Dates__ 
 
-    [Pub. L. 99–198, title VI, § 601][/us/pl/99/198/s601], Dec. 23, 1985, [99 Stat. 1419][/us/stat/99/1419], provided that this section is effective only for the 1986 through 1990 crops of rice.
+    [Pub. L. 99–198, title VI][/us/pl/99/198/tVI], § 601, Dec. 23, 1985, [99 Stat. 1419][/us/stat/99/1419], provided that this section is effective only for the 1986 through 1990 crops of rice.
 
 ----------
 
@@ -30,16 +30,16 @@
 ----------
 ----------
 
-[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/99/198/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs601
+[/us/act/1949-10-31/ch792/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792%2FtI
+[/us/pl/99/198/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVI
 [/us/stat/99/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1419
-[/us/pl/99/260/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260%2Fs2%2Fd
+[/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/stat/100/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F47
-[/us/pl/100/45/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45%2Fs5
+[/us/pl/100/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45
 [/us/stat/101/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F320
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-2
-[/us/pl/99/198/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs601
+[/us/pl/99/198/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtVI
 [/us/stat/99/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1419
 
 

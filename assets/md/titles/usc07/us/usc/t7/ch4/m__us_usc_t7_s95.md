@@ -25,7 +25,7 @@
 
     (d) The use in commerce of any false, misleading, or deceitful means or practice in the sale of naval stores or of anything offered as such.
 
-([Mar. 3, 1923, ch. 217, § 5][/us/act/1923-03-03/ch217/s5], [42 Stat. 1436][/us/stat/42/1436].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 5, [42 Stat. 1436][/us/stat/42/1436].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-03/ch217/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs5
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1436
 
 

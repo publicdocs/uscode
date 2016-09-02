@@ -73,7 +73,7 @@
 
             Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-([Pub. L. 107–171, title IX, § 9005][/us/pl/107/171/s9005], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1314][/us/stat/122/1314], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2075; amended [Pub. L. 112–240, title VII, § 701(f)(4)][/us/pl/112/240/s701/f/4], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9005][/us/pl/113/79/s9005], Feb. 7, 2014, [128 Stat. 930][/us/stat/128/930].)
+([Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9005, as added [Pub. L. 110–234, title IX][/us/pl/110/234/tIX], § 9001(a), May 22, 2008, [122 Stat. 1314][/us/stat/122/1314], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2075; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(f)(4), Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX][/us/pl/113/79/tIX], § 9005, Feb. 7, 2014, [128 Stat. 930][/us/stat/128/930].)
 
  __Codification__ 
 
@@ -81,13 +81,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 8105, [Pub. L. 107–171, title IX, § 9005][/us/pl/107/171/s9005], May 13, 2002, [116 Stat. 480][/us/stat/116/480], related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
+    A prior section 8105, [Pub. L. 107–171, title IX][/us/pl/107/171/tIX], § 9005, May 13, 2002, [116 Stat. 480][/us/stat/116/480], related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
 
  __Amendments__ 
 
-    2014—Subsec. (g)(1)(E). [Pub. L. 113–79, § 9005(1)][/us/pl/113/79/s9005/1], added subpar. (E).
+    2014—Subsec. (g)(1)(E). [Pub. L. 113–79][/us/pl/113/79], § 9005(1), added subpar. (E).
 
-    Subsec. (g)(2). [Pub. L. 113–79, § 9005(2)][/us/pl/113/79/s9005/2], substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
+    Subsec. (g)(2). [Pub. L. 113–79][/us/pl/113/79], § 9005(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
 
     2013—Subsec. (g)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
 
@@ -102,24 +102,24 @@
 ----------
 ----------
 
-[/us/pl/107/171/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9005
-[/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
+[/us/pl/110/234/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIX
 [/us/stat/122/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1314
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F4
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
-[/us/pl/113/79/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9005
+[/us/pl/113/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIX
 [/us/stat/128/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F930
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/107/171/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9005
+[/us/pl/107/171/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIX
 [/us/stat/116/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F480
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/113/79/s9005/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9005%2F1
-[/us/pl/113/79/s9005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9005%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

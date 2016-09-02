@@ -259,7 +259,7 @@
 
         (2) similar rules of national securities associations registered pursuant to section 78o–3(a) of title 15 involving security futures products.
 
-([Sept. 21, 1922, ch. 369, § 17][/us/act/1922-09-21/ch369/s17], as added [Pub. L. 93–463, title III, § 301][/us/pl/93/463/s301], Oct. 23, 1974, [88 Stat. 1406][/us/stat/88/1406]; amended [Pub. L. 95–405, § 22][/us/pl/95/405/s22], Sept. 30, 1978, [92 Stat. 876][/us/stat/92/876]; [Pub. L. 97–444, title II][/us/pl/97/444], §§ 217(b), 233, Jan. 11, 1983, [96 Stat. 2307][/us/stat/96/2307], 2320; [Pub. L. 99–641, title I][/us/pl/99/641], §§ 107, 108, 110(6), (7), Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558], 3559, 3561; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 204(a), 206(b), 209(b)(8), 222(c), 228, title IV, § 402(12), Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], 3602, 3607, 3616, 3619, 3625; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(24), title II, § 251(g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410, 2763A–444; [Pub. L. 110–234, title XIII, § 13105(f)][/us/pl/110/234/s13105/f], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII, § 749(g)][/us/pl/111/203/s749/g], July 21, 2010, [124 Stat. 1748][/us/stat/124/1748].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 17, as added [Pub. L. 93–463, title III][/us/pl/93/463/tIII], § 301, Oct. 23, 1974, [88 Stat. 1406][/us/stat/88/1406]; amended [Pub. L. 95–405][/us/pl/95/405], § 22, Sept. 30, 1978, [92 Stat. 876][/us/stat/92/876]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], §§ 217(b), 233, Jan. 11, 1983, [96 Stat. 2307][/us/stat/96/2307], 2320; [Pub. L. 99–641, title I][/us/pl/99/641/tI], §§ 107, 108, 110(6), (7), Nov. 10, 1986, [100 Stat. 3558][/us/stat/100/3558], 3559, 3561; [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 204(a), 206(b), 209(b)(8), 222(c), 228, title IV, § 402(12), Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], 3602, 3607, 3616, 3619, 3625; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(24), title II, § 251(g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410, 2763A–444; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13105(f), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 749(g), July 21, 2010, [124 Stat. 1748][/us/stat/124/1748].)
 
  __Codification__ 
 
@@ -269,41 +269,41 @@
 
     2010—Subsec. (r)(1). [Pub. L. 111–203][/us/pl/111/203] substituted “[section 6d(e) of this title][/us/usc/t7/s6d/e]” for “[section 6d(c) of this title][/us/usc/t7/s6d/c]”.
 
-    2008—Subsec. (r)(1). [Pub. L. 110–246, § 13105(f)][/us/pl/110/246/s13105/f], substituted “6d(c)” for “6d(3)”.
+    2008—Subsec. (r)(1). [Pub. L. 110–246][/us/pl/110/246], § 13105(f), substituted “6d(c)” for “6d(3)”.
 
-    2000—Subsecs. (b)(2), (3), (10), (o)(1), (q)(2). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(24)\], substituted “registered entity” for “contract market” wherever appearing.
+    2000—Subsecs. (b)(2), (3), (10), (o)(1), (q)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(24)\], substituted “registered entity” for “contract market” wherever appearing.
 
-    Subsec. (r). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(g)\], added subsec. (r).
+    Subsec. (r). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(g)\], added subsec. (r).
 
-    1992—Subsec. (a)(1), (2). [Pub. L. 102–546, § 402(12)(A)][/us/pl/102/546/s402/12/A], realigned margins.
+    1992—Subsec. (a)(1), (2). [Pub. L. 102–546][/us/pl/102/546], § 402(12)(A), realigned margins.
 
     Subsec. (b)(3). [Pub. L. 102–546][/us/pl/102/546], §§ 206(b)(1)(A), (B), 209(b)(8)(A)(i), struck out “or” at end of subpar. (A), in subpar. (B) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and struck out “or” at end, and in subpar. (D) substituted a semicolon for period at end.
 
     Subsec. (b)(4). [Pub. L. 102–546][/us/pl/102/546], §§ 206(b)(1)(B), (C), 209(b)(8)(A)(ii), substituted a semicolon for period at end of subpars. (A) to (D), in subpar. (E) substituted “; and” for period at end, and in subpar. (F) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and substituted a semicolon for period at end.
 
-    Subsec. (b)(5) to (9). [Pub. L. 102–546, § 206(b)(1)(B)][/us/pl/102/546/s206/b/1/B], (C), substituted a semicolon for period at end of pars. (5) to (9) and subpars. (A), (B), and (D) of par. (9) and in par. (9)(C) substituted “; and” for period at end.
+    Subsec. (b)(5) to (9). [Pub. L. 102–546][/us/pl/102/546], § 206(b)(1)(B), (C), substituted a semicolon for period at end of pars. (5) to (9) and subpars. (A), (B), and (D) of par. (9) and in par. (9)(C) substituted “; and” for period at end.
 
     Subsec. (b)(10). [Pub. L. 102–546][/us/pl/102/546], §§ 206(b)(1)(C), 222(c), substituted “(A)” for “(i)” and “voluntary, (B)” for “voluntary and (ii)”, inserted “, and” and subpar. (C) after “association”, and substituted “; and” for period at end.
 
-    Subsec. (b)(11) to (13). [Pub. L. 102–546, § 206(b)(1)(D)][/us/pl/102/546/s206/b/1/D], added pars. (11) to (13).
+    Subsec. (b)(11) to (13). [Pub. L. 102–546][/us/pl/102/546], § 206(b)(1)(D), added pars. (11) to (13).
 
-    Subsec. (i)(4). [Pub. L. 102–546, § 228][/us/pl/102/546/s228], which directed that “(other than a registered futures association).” be struck out, was executed by striking “(other than a registered futures association)” after “Any person” to reflect the probable intent of Congress.
+    Subsec. (i)(4). [Pub. L. 102–546][/us/pl/102/546], § 228, which directed that “(other than a registered futures association).” be struck out, was executed by striking “(other than a registered futures association)” after “Any person” to reflect the probable intent of Congress.
 
-    [Pub. L. 102–546, § 209(b)(8)(B)][/us/pl/102/546/s209/b/8/B], made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+    [Pub. L. 102–546][/us/pl/102/546], § 209(b)(8)(B), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-    Subsec. (l)(2)(B). [Pub. L. 102–546, § 402(12)(B)][/us/pl/102/546/s402/12/B], made technical amendment to reference to this chapter appearing after “violated any provision of” to reflect change in reference to corresponding provision of original act and substituted “; and” for period at end.
+    Subsec. (l)(2)(B). [Pub. L. 102–546][/us/pl/102/546], § 402(12)(B), made technical amendment to reference to this chapter appearing after “violated any provision of” to reflect change in reference to corresponding provision of original act and substituted “; and” for period at end.
 
-    Subsec. (o)(4). [Pub. L. 102–546, § 209(b)(8)(C)][/us/pl/102/546/s209/b/8/C], made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+    Subsec. (o)(4). [Pub. L. 102–546][/us/pl/102/546], § 209(b)(8)(C), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-    Subsec. (p)(4). [Pub. L. 102–546, § 204(a)][/us/pl/102/546/s204/a], added par. (4).
+    Subsec. (p)(4). [Pub. L. 102–546][/us/pl/102/546], § 204(a), added par. (4).
 
-    Subsec. (q). [Pub. L. 102–546, § 206(b)(2)][/us/pl/102/546/s206/b/2], added subsec. (q) relating to major disciplinary rules violations.
+    Subsec. (q). [Pub. L. 102–546][/us/pl/102/546], § 206(b)(2), added subsec. (q) relating to major disciplinary rules violations.
 
-    1986—Subsec. (b)(2). [Pub. L. 99–641, § 110(6)][/us/pl/99/641/s110/6], substituted “within” for “with in” before “the meaning”.
+    1986—Subsec. (b)(2). [Pub. L. 99–641][/us/pl/99/641], § 110(6), substituted “within” for “with in” before “the meaning”.
 
-    Subsec. (h). [Pub. L. 99–641, § 107][/us/pl/99/641/s107], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any registered futures association takes any disciplinary action against any member thereof or any person associated with such a member or denies admission to any person seeking membership therein, or bars any person from being associated with a member, such action shall be subject to review by the Commission, on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such action has been taken or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall operate as a stay of such action until an order is issued upon such review pursuant to subsection (i) of this section unless the Commission otherwise orders, after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of affidavits and oral arguments).”
+    Subsec. (h). [Pub. L. 99–641][/us/pl/99/641], § 107, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any registered futures association takes any disciplinary action against any member thereof or any person associated with such a member or denies admission to any person seeking membership therein, or bars any person from being associated with a member, such action shall be subject to review by the Commission, on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such action has been taken or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall operate as a stay of such action until an order is issued upon such review pursuant to subsection (i) of this section unless the Commission otherwise orders, after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of affidavits and oral arguments).”
 
-    Subsec. (i). [Pub. L. 99–641, § 107][/us/pl/99/641/s107], amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows:
+    Subsec. (i). [Pub. L. 99–641][/us/pl/99/641], § 107, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows:
 
     “(1) In a proceeding to review disciplinary action taken by a registered futures association against a member thereof or a person associated with a member, if the Commission, after appropriate notice and opportunity for hearing, upon consideration of the record before the association and such other evidence as it may deem relevant—
 
@@ -315,29 +315,29 @@
 
     “(3) In any proceeding to review the denial of membership in a registered futures association or the barring of any person from being associated with a member, if the Commission, after appropriate notice and hearing, and upon consideration of the record before the association and such other evidence as it may deem relevant, determines that the specific grounds on which such denial or bar is based exist in fact and are valid under this section, the Commission shall by order dismiss the proceeding; otherwise, the Commission shall by order set aside the action of the association and require it to admit the applicant to membership therein, or to permit such person to be associated with a member.”
 
-    Subsec. (j). [Pub. L. 99–641, § 108][/us/pl/99/641/s108], struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
+    Subsec. (j). [Pub. L. 99–641][/us/pl/99/641], § 108, struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
 
-    Subsec. (k)(1). [Pub. L. 99–641, § 110(7)][/us/pl/99/641/s110/7], substituted “section” for “title”.
+    Subsec. (k)(1). [Pub. L. 99–641][/us/pl/99/641], § 110(7), substituted “section” for “title”.
 
-    1983—Subsec. (b)(4)(E). [Pub. L. 97–444, § 233(1)][/us/pl/97/444/s233/1], inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
+    1983—Subsec. (b)(4)(E). [Pub. L. 97–444][/us/pl/97/444], § 233(1), inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
 
-    Subsec. (b)(10). [Pub. L. 97–444, § 217(b)][/us/pl/97/444/s217/b], required association rules to provide for “expeditious” procedure, redesignated cl. (iv) as (ii) and substituted “ ‘customer’ as used in this paragraph shall not include another member of the association” for “ ‘customer’ as used in this subsection shall not include a futures commission merchant or a floor broker”, and struck out clauses “(ii) the procedure shall not be applicable to any claim in excess of $15,000, (iii) the procedure shall not result in any compulsory payment except as agreed upon between the parties,”.
+    Subsec. (b)(10). [Pub. L. 97–444][/us/pl/97/444], § 217(b), required association rules to provide for “expeditious” procedure, redesignated cl. (iv) as (ii) and substituted “ ‘customer’ as used in this paragraph shall not include another member of the association” for “ ‘customer’ as used in this subsection shall not include a futures commission merchant or a floor broker”, and struck out clauses “(ii) the procedure shall not be applicable to any claim in excess of $15,000, (iii) the procedure shall not result in any compulsory payment except as agreed upon between the parties,”.
 
-    Subsec. (d). [Pub. L. 97–444, § 233(2)][/us/pl/97/444/s233/2], substituted “[section 12a(1) of this title][/us/usc/t7/s12a/1]” for “[section 12a(4) of this title][/us/usc/t7/s12a/4]”.
+    Subsec. (d). [Pub. L. 97–444][/us/pl/97/444], § 233(2), substituted “[section 12a(1) of this title][/us/usc/t7/s12a/1]” for “[section 12a(4) of this title][/us/usc/t7/s12a/4]”.
 
-    Subsec. (h). [Pub. L. 97–444, § 233(3)][/us/pl/97/444/s233/3], substituted “subsection (i) of this section” for “subsection (k) of this section”.
+    Subsec. (h). [Pub. L. 97–444][/us/pl/97/444], § 233(3), substituted “subsection (i) of this section” for “subsection (k) of this section”.
 
-    Subsec. (j). [Pub. L. 97–444, § 233(4)][/us/pl/97/444/s233/4], substituted “A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this section and not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection” for “Any change in or addition to the rules of a registered futures association shall be submitted to the Commission for approval and shall take effect upon the thirtieth day after such approval by the Commission, or upon such earlier date as the Commission may determine, unless the Commission shall enter an order disapproving such change or addition; and the Commission shall enter such an order unless such change or addition appears to the Commission to be consistent with the requirements of this section and the provisions of this chapter”.
+    Subsec. (j). [Pub. L. 97–444][/us/pl/97/444], § 233(4), substituted “A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this section and not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection” for “Any change in or addition to the rules of a registered futures association shall be submitted to the Commission for approval and shall take effect upon the thirtieth day after such approval by the Commission, or upon such earlier date as the Commission may determine, unless the Commission shall enter an order disapproving such change or addition; and the Commission shall enter such an order unless such change or addition appears to the Commission to be consistent with the requirements of this section and the provisions of this chapter”.
 
-    Subsecs. (o) to (q). [Pub. L. 97–444, § 233(5)][/us/pl/97/444/s233/5], added subsecs. (o), (p), and (q).
+    Subsecs. (o) to (q). [Pub. L. 97–444][/us/pl/97/444], § 233(5), added subsecs. (o), (p), and (q).
 
-    1978—Subsec. (b)(3)(B). [Pub. L. 95–405, § 22(1)][/us/pl/95/405/s22/1], struck out “([7 U.S.C. 9][/us/usc/t7/s9])” after “sections 9 and 15 of this title”.
+    1978—Subsec. (b)(3)(B). [Pub. L. 95–405][/us/pl/95/405], § 22(1), struck out “([7 U.S.C. 9][/us/usc/t7/s9])” after “sections 9 and 15 of this title”.
 
-    Subsec. (b)(10). [Pub. L. 95–405, § 22(2)][/us/pl/95/405/s22/2], substituted “$15,000” for “$5,000”.
+    Subsec. (b)(10). [Pub. L. 95–405][/us/pl/95/405], § 22(2), substituted “$15,000” for “$5,000”.
 
-    Subsec. (l)(1), (2)(A). [Pub. L. 95–405, § 22(3)][/us/pl/95/405/s22/3], substituted “chapter” for “section” wherever appearing.
+    Subsec. (l)(1), (2)(A). [Pub. L. 95–405][/us/pl/95/405], § 22(3), substituted “chapter” for “section” wherever appearing.
 
-    Subsecs. (m), (n). [Pub. L. 95–405, § 22(4)][/us/pl/95/405/s22/4], added subsec. (m) and redesignated former subsec. (m) as (n).
+    Subsecs. (m), (n). [Pub. L. 95–405][/us/pl/95/405], § 22(4), added subsec. (m) and redesignated former subsec. (m) as (n).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -361,13 +361,13 @@
 
  __Implementation__ 
 
-[Pub. L. 102–546, title II, § 204(b)][/us/pl/102/546/s204/b], Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], provided that: 
+[Pub. L. 102–546, title II][/us/pl/102/546/tII], § 204(b), Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], provided that: 
 
 > “The guidelines required under section 17(p)(4) of the Commodity Exchange Act \[[7 U.S.C. 21(p)(4)][/us/usc/t7/s21/p/4]\] (as added by subsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act \[Oct. 28, 1992\] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
 
  __Study on Computerized Futures Trading__ 
 
-[Pub. L. 102–546, title II, § 220(b)][/us/pl/102/546/s220/b], (c), Oct. 28, 1992, [106 Stat. 3614][/us/stat/106/3614], provided that:
+[Pub. L. 102–546, title II][/us/pl/102/546/tII], § 220(b), (c), Oct. 28, 1992, [106 Stat. 3614][/us/stat/106/3614], provided that:
 
 >     “(b)  __Study__  __.—__ 
 
@@ -400,24 +400,24 @@
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
 [/us/usc/t7/s6f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa
 [/us/usc/t7/s6d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fe
-[/us/act/1922-09-21/ch369/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs17
-[/us/pl/93/463/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs301
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtIII
 [/us/stat/88/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1406
-[/us/pl/95/405/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs22
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F876
-[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2307
-[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3558
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3600
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13105%2Ff
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s749/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fg
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1748
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -426,39 +426,39 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s6d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fe
 [/us/usc/t7/s6d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6d%2Fc
-[/us/pl/110/246/s13105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Ff
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/102/546/s402/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F12%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/102/546/s206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs206%2Fb%2F1%2FB
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/102/546/s206/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs206%2Fb%2F1%2FD
-[/us/pl/102/546/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs228
-[/us/pl/102/546/s209/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F8%2FB
-[/us/pl/102/546/s402/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F12%2FB
-[/us/pl/102/546/s209/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F8%2FC
-[/us/pl/102/546/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs204%2Fa
-[/us/pl/102/546/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs206%2Fb%2F2
-[/us/pl/99/641/s110/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs110%2F6
-[/us/pl/99/641/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs107
-[/us/pl/99/641/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs107
-[/us/pl/99/641/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs108
-[/us/pl/99/641/s110/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs110%2F7
-[/us/pl/97/444/s233/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs233%2F1
-[/us/pl/97/444/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs217%2Fb
-[/us/pl/97/444/s233/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs233%2F2
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s12a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a%2F1
 [/us/usc/t7/s12a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a%2F4
-[/us/pl/97/444/s233/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs233%2F3
-[/us/pl/97/444/s233/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs233%2F4
-[/us/pl/97/444/s233/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs233%2F5
-[/us/pl/95/405/s22/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs22%2F1
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9
-[/us/pl/95/405/s22/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs22%2F2
-[/us/pl/95/405/s22/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs22%2F3
-[/us/pl/95/405/s22/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs22%2F4
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754
@@ -476,10 +476,10 @@
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/pl/93/463/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs418
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
-[/us/pl/102/546/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs204%2Fb
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3600
 [/us/usc/t7/s21/p/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21%2Fp%2F4
-[/us/pl/102/546/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs220%2Fb
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3614
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 

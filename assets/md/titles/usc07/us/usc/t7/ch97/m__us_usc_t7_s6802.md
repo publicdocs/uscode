@@ -183,7 +183,7 @@
 
         The term “United States” means the States collectively.
 
-([Pub. L. 103–190, § 3][/us/pl/103/190/s3], Dec. 14, 1993, [107 Stat. 2268][/us/stat/107/2268].)
+([Pub. L. 103–190][/us/pl/103/190], § 3, Dec. 14, 1993, [107 Stat. 2268][/us/stat/107/2268].)
 
  __References in Text__ 
 
@@ -200,7 +200,7 @@
 [/us/usc/t7/s6804/b/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fb%2F2%2FB%2Fii%2FI
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s6804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6804%2Fb
-[/us/pl/103/190/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs3
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2268
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 

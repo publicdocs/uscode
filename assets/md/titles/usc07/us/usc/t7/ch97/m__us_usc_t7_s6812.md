@@ -31,7 +31,7 @@
 
         Nothing in this chapter may be construed to preempt or supersede any other program relating to cut flowers or cut greens promotion and consumer information organized and operated under the laws of the United States or a State.
 
-([Pub. L. 103–190, § 13][/us/pl/103/190/s13], Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
+([Pub. L. 103–190][/us/pl/103/190], § 13, Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/190/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190%2Fs13
+[/us/pl/103/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F190
 [/us/stat/107/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2289
 
 

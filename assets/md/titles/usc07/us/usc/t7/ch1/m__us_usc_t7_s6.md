@@ -205,13 +205,13 @@
 
             Nothing in this subsection shall be construed as implying or creating any presumption that a board of trade, exchange, or market is located outside the United States, or its territories or possessions, for purposes of subsection (a).
 
-([Sept. 21, 1922, ch. 369, § 4][/us/act/1922-09-21/ch369/s4], [42 Stat. 999][/us/stat/42/999]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 4, [49 Stat. 1491][/us/stat/49/1491], 1492; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (f), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 97–444, title II, § 204][/us/pl/97/444/s204], Jan. 11, 1983, [96 Stat. 2299][/us/stat/96/2299]; [Pub. L. 102–546, title V, § 502(a)][/us/pl/102/546/s502/a], Oct. 28, 1992, [106 Stat. 3629][/us/stat/106/3629]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–406; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(d), 722(f), 738(a), (b), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1674, 1726, 1728.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4, [42 Stat. 999][/us/stat/42/999]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 4, [49 Stat. 1491][/us/stat/49/1491], 1492; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (f), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 204, Jan. 11, 1983, [96 Stat. 2299][/us/stat/96/2299]; [Pub. L. 102–546, title V][/us/pl/102/546/tV], § 502(a), Oct. 28, 1992, [106 Stat. 3629][/us/stat/106/3629]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–406; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(d), 722(f), 738(a), (b), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1674, 1726, 1728.)
 
  __References in Text__ 
 
     Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c)(1)(A), is subtitle A (§§ 721–754) of title VII of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1641][/us/stat/124/1641]. For complete classification of subtitle A to the Code, see Tables.
 
-    [Section 12(e) of this title][/us/usc/t7/s12/e], referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section “8e” and has been translated as if the reference had been to section “8(e)” to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to [section 12e of this title][/us/usc/t7/s12e], was repealed by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410.
+    [Section 12(e) of this title][/us/usc/t7/s12/e], referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section “8e” and has been translated as if the reference had been to section “8(e)” to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to [section 12e of this title][/us/usc/t7/s12e], was repealed by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410.
 
     The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(A)(ii), is [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1376][/us/stat/124/1376]. Section 721(c) of the Act is classified to [section 8321(b) of Title 15][/us/usc/t15/s8321/b], Commerce and Trade. Section 742 of the Act amended [section 2 of this title][/us/usc/t7/s2] and provisions set out as a note under [section 78c of Title 15][/us/usc/t15/s78c]. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking, and Tables.
 
@@ -223,31 +223,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 738(b)(1)][/us/pl/111/203/s738/b/1], inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–203, § 738(a)(1)][/us/pl/111/203/s738/a/1]–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
 
-    Subsec. (b)(1). [Pub. L. 111–203, § 738(a)(4)][/us/pl/111/203/s738/a/4], added par. (1).
+    Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 738(a)(4), added par. (1).
 
-    Subsec. (c)(1). [Pub. L. 111–203, § 721(d)][/us/pl/111/203/s721/d], substituted “except that—” for “except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from [section 2(a)(1)(D) of this title][/us/usc/t7/s2/a/1/D]), if the Commission determines that the exemption would be consistent with the public interest.” and added subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 111–203][/us/pl/111/203], § 721(d), substituted “except that—” for “except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from [section 2(a)(1)(D) of this title][/us/usc/t7/s2/a/1/D]), if the Commission determines that the exemption would be consistent with the public interest.” and added subpars. (A) and (B).
 
-    Subsec. (c)(6). [Pub. L. 111–203, § 722(f)][/us/pl/111/203/s722/f], added par. (6).
+    Subsec. (c)(6). [Pub. L. 111–203][/us/pl/111/203], § 722(f), added par. (6).
 
-    Subsec. (e). [Pub. L. 111–203, § 738(b)(2)][/us/pl/111/203/s738/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 738(b)(2), added subsec. (e).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)(A)(i)\], substituted “designated or registered by the Commission as a contract market or derivatives transaction execution facility for” for “designated by the Commission as a ‘contract market’ for”.
+    2000—Subsec. (a)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)(A)(i)\], substituted “designated or registered by the Commission as a contract market or derivatives transaction execution facility for” for “designated by the Commission as a ‘contract market’ for”.
 
-    Subsec. (a)(2). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)(A)(ii)\], struck out “member of such” after “by or through a”.
+    Subsec. (a)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)(A)(ii)\], struck out “member of such” after “by or through a”.
 
-    Subsec. (a)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)(A)(iii)\], inserted “or derivatives transaction execution facility” after “contract market”.
+    Subsec. (a)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)(A)(iii)\], inserted “or derivatives transaction execution facility” after “contract market”.
 
-    Subsec. (c)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)(B)(i)\], substituted “designated or registered as a contract market or derivatives transaction execution facility” for “designated as a contract market” and “subparagraphs (C)(ii) and (D) of [section 2(a)(1) of this title][/us/usc/t7/s2/a/1], except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from [section 2(a)(1)(D) of this title][/us/usc/t7/s2/a/1/D]” for “[section 2a of this title][/us/usc/t7/s2a]”.
+    Subsec. (c)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)(B)(i)\], substituted “designated or registered as a contract market or derivatives transaction execution facility” for “designated as a contract market” and “subparagraphs (C)(ii) and (D) of [section 2(a)(1) of this title][/us/usc/t7/s2/a/1], except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from [section 2(a)(1)(D) of this title][/us/usc/t7/s2/a/1/D]” for “[section 2a of this title][/us/usc/t7/s2a]”.
 
-    Subsec. (c)(2)(B)(ii). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(3)(B)(ii)\], inserted “or derivatives transaction execution facility” after “contract market”.
+    Subsec. (c)(2)(B)(ii). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(3)(B)(ii)\], inserted “or derivatives transaction execution facility” after “contract market”.
 
-    1992—Subsec. (a). [Pub. L. 102–546, § 502(a)(1)][/us/pl/102/546/s502/a/1], substituted “Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful” for “It shall be unlawful”.
+    1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], § 502(a)(1), substituted “Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful” for “It shall be unlawful”.
 
-    Subsecs. (c), (d). [Pub. L. 102–546, § 502(a)(2)][/us/pl/102/546/s502/a/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 102–546][/us/pl/102/546], § 502(a)(2), added subsecs. (c) and (d).
 
     1983—[Pub. L. 97–444][/us/pl/97/444] amended section generally, combining into subsec. (a) existing provisions of this section together with provisions formerly contained in [section 6h(1) of this title][/us/usc/t7/s6h/1], relating to the conduct of offices or places of business anywhere in the United States or its territories that are used for dealing in commodities for future delivery unless such dealings are executed or consummated by or through a member of a contract market, and adding subsec. (b).
 
@@ -294,25 +294,25 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/usc/t16/s824/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824%2Ff
-[/us/act/1922-09-21/ch369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F999
 [/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/97/444/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs204
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2299
-[/us/pl/102/546/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs502%2Fa
+[/us/pl/102/546/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtV
 [/us/stat/106/3629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3629
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641
 [/us/usc/t7/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12%2Fe
 [/us/usc/t7/s12e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12e
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
@@ -329,23 +329,23 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s738/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs738%2Fb%2F1
-[/us/pl/111/203/s738/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs738%2Fa%2F1
-[/us/pl/111/203/s738/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs738%2Fa%2F4
-[/us/pl/111/203/s721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F1%2FD
-[/us/pl/111/203/s722/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Ff
-[/us/pl/111/203/s738/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs738%2Fb%2F2
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t7/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F1
 [/us/usc/t7/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F1%2FD
 [/us/usc/t7/s2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2a
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/102/546/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs502%2Fa%2F1
-[/us/pl/102/546/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs502%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/usc/t7/s6h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6h%2F1
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463

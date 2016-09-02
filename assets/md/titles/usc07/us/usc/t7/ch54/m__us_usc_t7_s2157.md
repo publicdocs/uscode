@@ -55,7 +55,7 @@
 
         Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b).
 
-([Pub. L. 89–544, § 27][/us/pl/89/544/s27], as added [Pub. L. 99–198, title XVII, § 1754][/us/pl/99/198/s1754], Dec. 23, 1985, [99 Stat. 1649][/us/stat/99/1649].)
+([Pub. L. 89–544][/us/pl/89/544], § 27, as added [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1754, Dec. 23, 1985, [99 Stat. 1649][/us/stat/99/1649].)
 
  __Effective Date__ 
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/pl/89/544/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs27
-[/us/pl/99/198/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1754
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1649
 [/us/pl/99/198/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1759
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131

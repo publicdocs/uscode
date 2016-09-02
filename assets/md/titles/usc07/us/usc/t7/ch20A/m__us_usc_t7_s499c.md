@@ -55,7 +55,7 @@
 
         A licensee may conduct business in more than one trade name or change the name under which business is conducted without requiring an additional or new license. The Secretary may disapprove the use of a trade name if, in his opinion, the use of the trade name by the licensee would be deceptive, misleading, or confusing to the trade, and the Secretary may, after notice and opportunity for a hearing, suspend for a period not to exceed ninety days the license of any licensee who continues to use a trade name which the Secretary has disapproved for use by such licensee. The Secretary may refuse to issue a license to an applicant if he finds that the trade name in which the applicant proposes to do business would be deceptive, misleading, or confusing to the trade if used by such applicant.
 
-([June 10, 1930, ch. 436, § 3][/us/act/1930-06-10/ch436/s3], [46 Stat. 533][/us/stat/46/533]; [Aug. 20, 1937, ch. 719, § 5][/us/act/1937-08-20/ch719/s5], [50 Stat. 726][/us/stat/50/726]; [June 15, 1950, ch. 254, § 1][/us/act/1950-06-15/ch254/s1], [64 Stat. 217][/us/stat/64/217]; [July 30, 1956, ch. 786, § 2(a)][/us/act/1956-07-30/ch786/s2/a], [70 Stat. 726][/us/stat/70/726]; [Pub. L. 87–725][/us/pl/87/725], §§ 3, 4, Oct. 1, 1962, [76 Stat. 673][/us/stat/76/673], 674; [Pub. L. 91–107, § 3][/us/pl/91/107/s3], Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 95–562, § 2][/us/pl/95/562/s2], Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381]; [Pub. L. 97–98, title XI, § 1115(b)][/us/pl/97/98/s1115/b], Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 100–414, § 1][/us/pl/100/414/s1], Aug. 22, 1988, [102 Stat. 1102][/us/stat/102/1102]; [Pub. L. 101–624, title XIII, § 1361][/us/pl/101/624/s1361], Nov. 28, 1990, [104 Stat. 3568][/us/stat/104/3568]; [Pub. L. 104–48][/us/pl/104/48], §§ 3–4(b), 5(a), Nov. 15, 1995, [109 Stat. 425–427][/us/stat/109/425-427].)
+([June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], § 3, [46 Stat. 533][/us/stat/46/533]; [Aug. 20, 1937, ch. 719][/us/act/1937-08-20/ch719], § 5, [50 Stat. 726][/us/stat/50/726]; [June 15, 1950, ch. 254][/us/act/1950-06-15/ch254], § 1, [64 Stat. 217][/us/stat/64/217]; [July 30, 1956, ch. 786][/us/act/1956-07-30/ch786], § 2(a), [70 Stat. 726][/us/stat/70/726]; [Pub. L. 87–725][/us/pl/87/725], §§ 3, 4, Oct. 1, 1962, [76 Stat. 673][/us/stat/76/673], 674; [Pub. L. 91–107][/us/pl/91/107], § 3, Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 95–562][/us/pl/95/562], § 2, Nov. 1, 1978, [92 Stat. 2381][/us/stat/92/2381]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1115(b), Dec. 22, 1981, [95 Stat. 1269][/us/stat/95/1269]; [Pub. L. 100–414][/us/pl/100/414], § 1, Aug. 22, 1988, [102 Stat. 1102][/us/stat/102/1102]; [Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1361, Nov. 28, 1990, [104 Stat. 3568][/us/stat/104/3568]; [Pub. L. 104–48][/us/pl/104/48], §§ 3–4(b), 5(a), Nov. 15, 1995, [109 Stat. 425–427][/us/stat/109/425-427].)
 
  __References in Text__ 
 
@@ -67,21 +67,21 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–48, § 3(b)(1)][/us/pl/104/48/s3/b/1], reenacted section catchline without change.
+    1995—[Pub. L. 104–48][/us/pl/104/48], § 3(b)(1), reenacted section catchline without change.
 
     Subsec. (a). [Pub. L. 104–48][/us/pl/104/48], §§ 3(b)(1), 5(a), inserted heading and substituted “$1,000” for “$500” in first paragraph and “$250” for “$25” in two places.
 
-    Subsec. (b). [Pub. L. 104–48, § 3(b)(2)][/us/pl/104/48/s3/b/2], inserted heading.
+    Subsec. (b). [Pub. L. 104–48][/us/pl/104/48], § 3(b)(2), inserted heading.
 
-    Subsec. (b)(1). [Pub. L. 104–48, § 3(a)(1)][/us/pl/104/48/s3/a/1], (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 ([7 U.S.C. 491–497][/us/usc/t7/s491–497]), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
+    Subsec. (b)(1). [Pub. L. 104–48][/us/pl/104/48], § 3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 ([7 U.S.C. 491–497][/us/usc/t7/s491–497]), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
 
-    Subsec. (b)(2). [Pub. L. 104–48, § 4(a)][/us/pl/104/48/s4/a], added par. (2).
+    Subsec. (b)(2). [Pub. L. 104–48][/us/pl/104/48], § 4(a), added par. (2).
 
-    Subsec. (b)(3), (4). [Pub. L. 104–48, § 3(a)(5)][/us/pl/104/48/s3/a/5], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 104–48][/us/pl/104/48], § 3(a)(5), added pars. (3) and (4).
 
     Subsec. (b)(5). [Pub. L. 104–48][/us/pl/104/48], §§ 3(a)(3), (4), 4(b), designated provisions of subsec. (b) relating to Perishable Agricultural Commodities Act Fund as par. (5), inserted heading, realigned margins, and struck out “The amount of money accumulated and on hand in the special fund at the end of any fiscal year shall not exceed 25 percent of the projected budget for the next following fiscal year.” after “fees deposited in such fund.” and “The Secretary shall give public notice of any increase to be made in the annual fee prescribed by him hereunder and shall allow a reasonable time prior to the effective date of such increase for interested persons to file their views on or objections to such increase.” after “budget as submitted to the Congress annually.”
 
-    Subsec. (c). [Pub. L. 104–48, § 3(b)(3)][/us/pl/104/48/s3/b/3], inserted heading.
+    Subsec. (c). [Pub. L. 104–48][/us/pl/104/48], § 3(b)(3), inserted heading.
 
     1990—Subsec. (b). [Pub. L. 101–624][/us/pl/101/624] substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: Provided, That the” and “. Financial” for “: Provided further, That financial”.
 
@@ -93,9 +93,9 @@
 
     1969—Subsec. (b). [Pub. L. 91–107][/us/pl/91/107] increased limitation on fees from $50 to $100.
 
-    1962—Subsec. (b). [Pub. L. 87–725, § 3][/us/pl/87/725/s3], increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
+    1962—Subsec. (b). [Pub. L. 87–725][/us/pl/87/725], § 3, increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
 
-    Subsec. (c). [Pub. L. 87–725, § 4][/us/pl/87/725/s4], added subsec. (c).
+    Subsec. (c). [Pub. L. 87–725][/us/pl/87/725], § 4, added subsec. (c).
 
     1956—Subsec. (b). Act July 30, 1956, increased fee from $15 annually to not more than $25 annually.
 
@@ -120,48 +120,48 @@
 
 [/us/usc/t7/s491–497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs491%E2%80%93497
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1930-06-10/ch436/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436%2Fs3
+[/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F533
-[/us/act/1937-08-20/ch719/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719%2Fs5
+[/us/act/1937-08-20/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch719
 [/us/stat/50/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F726
-[/us/act/1950-06-15/ch254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254%2Fs1
+[/us/act/1950-06-15/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-15%2Fch254
 [/us/stat/64/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F217
-[/us/act/1956-07-30/ch786/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786%2Fs2%2Fa
+[/us/act/1956-07-30/ch786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch786
 [/us/stat/70/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F726
 [/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/stat/76/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F673
-[/us/pl/91/107/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107%2Fs3
+[/us/pl/91/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107
 [/us/stat/83/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F182
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/95/562/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562%2Fs2
+[/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/stat/92/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2381
-[/us/pl/97/98/s1115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1115%2Fb
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1269
-[/us/pl/100/414/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F414%2Fs1
+[/us/pl/100/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F414
 [/us/stat/102/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1102
-[/us/pl/101/624/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1361
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3568
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/stat/109/425-427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F425-427
 [/us/act/1927-03-03/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch309
 [/us/stat/44/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1355
 [/us/usc/t7/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs553
-[/us/pl/104/48/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs3%2Fb%2F1
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
-[/us/pl/104/48/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs3%2Fb%2F2
-[/us/pl/104/48/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs3%2Fa%2F1
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/usc/t7/s491–497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs491%E2%80%93497
-[/us/pl/104/48/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs4%2Fa
-[/us/pl/104/48/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs3%2Fa%2F5
 [/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
-[/us/pl/104/48/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48%2Fs3%2Fb%2F3
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
+[/us/pl/104/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F48
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F414
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/95/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F562
 [/us/pl/91/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F107
-[/us/pl/87/725/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs3
-[/us/pl/87/725/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725%2Fs4
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
+[/us/pl/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F725
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

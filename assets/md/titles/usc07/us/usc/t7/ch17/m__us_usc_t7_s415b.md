@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated for expenditure by the Secretary of Agriculture, for the purposes stated in [section 415c of this title][/us/usc/t7/s415c], all funds prior to or on and after May 17, 1928, collected by suit, or otherwise, pursuant to appropriations for the completion of the work of the domestic wool section of the War Industries Board, and for enforcing Government regulations for handling the wool clip of 1918 as established by the wool division of said board, pursuant to the Executive order dated December 31, 1918, transferring such work to the Bureau of Markets, now a part of the Bureau of Agricultural Economics of the Department of Agriculture, and for continuing as far as practicable the distribution among the growers of the wool clip of 1918 of all sums prior to or on and after May 17, 1928, collected or recovered with or without suit by the Government from all persons, firms, or corporations which handled any part of the wool clip of 1918, which he finds it impracticable to distribute among said growers, provided that not to exceed $50,000 may be expended in any fiscal year.
 
-([May 17, 1928, ch. 602, § 1][/us/act/1928-05-17/ch602/s1], [45 Stat. 593][/us/stat/45/593].)
+([May 17, 1928, ch. 602][/us/act/1928-05-17/ch602], § 1, [45 Stat. 593][/us/stat/45/593].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s415c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs415c
-[/us/act/1928-05-17/ch602/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-17%2Fch602%2Fs1
+[/us/act/1928-05-17/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-17%2Fch602
 [/us/stat/45/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F593
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

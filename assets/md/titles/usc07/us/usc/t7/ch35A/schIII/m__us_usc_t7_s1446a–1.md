@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is hereby authorized to use funds of the Commodity Credit Corporation to purchase sufficient supplies of dairy products at market prices to meet the requirements of any programs for the schools (other than fluid milk in the case of schools), domestic relief distribution, community action, and such other programs as are authorized by law, when there are insufficient stocks of dairy products in the hands of Commodity Credit Corporation available for these purposes.
 
-([Pub. L. 89–321, title VII, § 709][/us/pl/89/321/s709], Nov. 3, 1965, [79 Stat. 1212][/us/stat/79/1212]; [Pub. L. 89–808, § 3(b)][/us/pl/89/808/s3/b], Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538].)
+([Pub. L. 89–321, title VII][/us/pl/89/321/tVII], § 709, Nov. 3, 1965, [79 Stat. 1212][/us/stat/79/1212]; [Pub. L. 89–808][/us/pl/89/808], § 3(b), Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-    [Pub. L. 89–808, § 3(b)][/us/pl/89/808/s3/b], Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538], provided that the amendment made by section 3(b) is effective Jan. 1, 1967.
+    [Pub. L. 89–808][/us/pl/89/808], § 3(b), Nov. 11, 1966, [80 Stat. 1538][/us/stat/80/1538], provided that the amendment made by section 3(b) is effective Jan. 1, 1967.
 
  __Commodity Distribution Program; Prohibition on Furnishing Commodities to Summer Camps__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/89/321/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs709
+[/us/pl/89/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVII
 [/us/stat/79/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1212
-[/us/pl/89/808/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs3%2Fb
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1538
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
-[/us/pl/89/808/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808%2Fs3%2Fb
+[/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
 [/us/stat/80/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1538
 [/us/pl/93/86/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs4%2Fb
 [/us/stat/87/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F249

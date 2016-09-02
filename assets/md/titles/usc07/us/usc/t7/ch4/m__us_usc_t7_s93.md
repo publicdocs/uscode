@@ -21,7 +21,7 @@
 
     The standards herein made and authorized to be made shall be known as the “Official Naval Stores Standards of the United States,” and may be referred to by the abbreviated expression “United States Standards”, and shall be the standards by which all naval stores in commerce shall be graded and described.
 
-([Mar. 3, 1923, ch. 217, § 3][/us/act/1923-03-03/ch217/s3], [42 Stat. 1435][/us/stat/42/1435].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 3, [42 Stat. 1435][/us/stat/42/1435].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs92
-[/us/act/1923-03-03/ch217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs3
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1435
 
 

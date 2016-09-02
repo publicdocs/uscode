@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t7/ch57/schIII/ptM/m__us_usc_t7_s2582.md) | [Next](./../../../../../..//us/usc/t7/ch58/m__us_usc_t7_ch58.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2583)
 
-## § 2583. Repealed. [Pub. L. 96–574, § 20][/us/pl/96/574/s20], Dec. 22, 1980, [94 Stat. 3352][/us/stat/94/3352]
+## § 2583. Repealed. [Pub. L. 96–574][/us/pl/96/574], § 20, Dec. 22, 1980, [94 Stat. 3352][/us/stat/94/3352]
 
-    Section, [Pub. L. 91–577, title III, § 144][/us/pl/91/577/s144], Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559], exempted certain plants from provisions of this chapter.
+    Section, [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 144, Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559], exempted certain plants from provisions of this chapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/96/574/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs20
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/stat/94/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3352
-[/us/pl/91/577/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs144
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1559
 
 

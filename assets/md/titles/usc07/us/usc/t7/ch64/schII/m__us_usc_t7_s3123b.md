@@ -49,13 +49,13 @@
 
         In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for a fiscal year, the Secretary shall include a report that describes the ways in which the Secretary addressed each recommendation of the renewable energy committee described in subsection (f).
 
-([Pub. L. 95–113, title XIV, § 1408B][/us/pl/95/113/s1408B], as added [Pub. L. 110–234, title VII, § 7104][/us/pl/110/234/s7104], May 22, 2008, [122 Stat. 1216][/us/stat/122/1216], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1977.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1408B, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7104, May 22, 2008, [122 Stat. 1216][/us/stat/122/1216], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1977.)
 
  __References in Text__ 
 
     The date of enactment of this section, referred to in subsec. (a), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
-    [Section 8605 of this title][/us/usc/t7/s8605], referred to in subsec. (e), was in the original “section 9008(d) of the Biomass Research and Development Act of 2000 ([7 U.S.C. 8605][/us/usc/t7/s8605])”, and was translated as meaning [section 306 of title III of Pub. L. 106–224][/us/pl/106/224/s306], to reflect the probable intent of Congress, because title III of [Pub. L. 106–224][/us/pl/106/224], known as the Biomass Research and Development Act of 2000, does not contain a section 9008 and section 306 of the Act related to the establishment of the Biomass Research and Development Technical Advisory Committee, prior to repeal by [Pub. L. 110–246, title IX, § 9001(b)][/us/pl/110/246/s9001/b], June 18, 2008, [122 Stat. 2095][/us/stat/122/2095].
+    [Section 8605 of this title][/us/usc/t7/s8605], referred to in subsec. (e), was in the original “section 9008(d) of the Biomass Research and Development Act of 2000 ([7 U.S.C. 8605][/us/usc/t7/s8605])”, and was translated as meaning [section 306 of title III of Pub. L. 106–224][/us/pl/106/224/tIII/s306], to reflect the probable intent of Congress, because title III of [Pub. L. 106–224][/us/pl/106/224], known as the Biomass Research and Development Act of 2000, does not contain a section 9008 and section 306 of the Act related to the establishment of the Biomass Research and Development Technical Advisory Committee, prior to repeal by [Pub. L. 110–246, title IX][/us/pl/110/246/tIX], § 9001(b), June 18, 2008, [122 Stat. 2095][/us/stat/122/2095].
 
  __Codification__ 
 
@@ -73,17 +73,17 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/95/113/s1408B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1408B
-[/us/pl/110/234/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7104
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1216
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s8605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8605
 [/us/usc/t7/s8605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8605
-[/us/pl/106/224/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs306
+[/us/pl/106/224/tIII/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIII%2Fs306
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
-[/us/pl/110/246/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs9001%2Fb
+[/us/pl/110/246/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIX
 [/us/stat/122/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2095
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

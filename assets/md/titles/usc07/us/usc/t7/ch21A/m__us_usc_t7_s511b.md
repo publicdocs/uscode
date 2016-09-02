@@ -17,7 +17,7 @@
 
     The Secretary is authorized to investigate the sorting, handling, conditioning, inspection, and marketing of tobacco from time to time, and to establish standards for tobacco by which its type, grade, size, condition, or other characteristics may be determined, which standards shall be the official standards of the United States, and shall become effective immediately or upon a date specified by the Secretary: Provided, That the Secretary may issue tentative standards for tobacco prior to the establishment of official standards therefor, and he may modify any standards established under authority of this chapter whenever, in his judgment, such action is advisable.
 
-([Aug. 23, 1935, ch. 623, § 3][/us/act/1935-08-23/ch623/s3], [49 Stat. 732][/us/stat/49/732].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 3, [49 Stat. 732][/us/stat/49/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs3
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F732
 
 

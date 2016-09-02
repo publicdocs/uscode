@@ -17,7 +17,7 @@
 
     The Secretary may refuse to renew, or may suspend or revoke, any license issued under this chapter whenever, after the licensee has been afforded an opportunity for a hearing, the Secretary shall determine that such licensee is incompetent, or has inspected or weighed or supervised the weighing of grain for purposes of this chapter, by any standard or criteria other than as provided for in this chapter, or has issued, or caused the issuance of, any false or incorrect official certificate or other official form, or has knowingly or carelessly inspected or weighed or supervised the weighing of grain improperly under this chapter, or has accepted any money or other consideration, directly or indirectly, for any neglect or improper performance of duty, or has used the license or allowed it to be used for any improper purpose, or has otherwise violated any provision of this chapter or of the regulations prescribed or instructions issued to the licensee by the Secretary under this chapter. The Secretary may, without first affording the licensee an opportunity for a hearing, suspend any license temporarily pending final determination whenever the Secretary deems such action to be in the best interests of the official inspection system under this chapter. The Secretary may summarily revoke any license whenever the licensee has been convicted of any offense prohibited by [section 87b of this title][/us/usc/t7/s87b] or convicted of any offense proscribed by title 18, with respect to performance of functions under this chapter.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 9, [39 Stat. 485][/us/stat/39/485]; [Aug. 1, 1956, ch. 812][/us/act/1956-08-01/ch812], [70 Stat. 780][/us/stat/70/780]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 765][/us/stat/82/765]; [Pub. L. 94–582, § 11][/us/pl/94/582/s11], Oct. 21, 1976, [90 Stat. 2879][/us/stat/90/2879]; [Pub. L. 103–156, § 12(h)][/us/pl/103/156/s12/h], Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 9, [39 Stat. 485][/us/stat/39/485]; [Aug. 1, 1956, ch. 812][/us/act/1956-08-01/ch812], [70 Stat. 780][/us/stat/70/780]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 765][/us/stat/82/765]; [Pub. L. 94–582][/us/pl/94/582], § 11, Oct. 21, 1976, [90 Stat. 2879][/us/stat/90/2879]; [Pub. L. 103–156][/us/pl/103/156], § 12(h), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 [/us/stat/39/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F485
 [/us/act/1956-08-01/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch812
 [/us/stat/70/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F780
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F765
-[/us/pl/94/582/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs11
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2879
-[/us/pl/103/156/s12/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fh
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156

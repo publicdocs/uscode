@@ -379,7 +379,7 @@
 
             The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).
 
-([Pub. L. 113–79, title VII, § 7601][/us/pl/113/79/s7601], Feb. 7, 2014, [128 Stat. 904][/us/stat/128/904].)
+([Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7601, Feb. 7, 2014, [128 Stat. 904][/us/stat/128/904].)
 
  __References in Text__ 
 
@@ -401,7 +401,7 @@
 [/us/usc/t7/s7614a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7614a
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t35/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs201
-[/us/pl/113/79/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7601
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F904
 [/us/pl/95/521/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs109
 

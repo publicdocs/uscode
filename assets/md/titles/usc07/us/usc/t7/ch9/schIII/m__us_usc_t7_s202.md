@@ -19,7 +19,7 @@
 
     (b) The Secretary shall from time to time ascertain, after such inquiry as he deems necessary, the stockyards which come within the foregoing definition, and shall give notice thereof to the stockyard owners concerned, and give public notice thereof by posting copies of such notice in the stockyard, and in such other manner as he may determine. After the giving of such notice to the stockyard owner and to the public, the stockyard shall remain subject to the provisions of this subchapter until like notice is given by the Secretary that such stockyard no longer comes within the foregoing definition.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 302, [42 Stat. 163][/us/stat/42/163]; [Pub. L. 85–909, § 2(2)][/us/pl/85/909/s2/2], Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750]; [Pub. L. 90–446, § 1(a)][/us/pl/90/446/s1/a], July 31, 1968, [82 Stat. 474][/us/stat/82/474].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 302, [42 Stat. 163][/us/stat/42/163]; [Pub. L. 85–909][/us/pl/85/909], § 2(2), Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750]; [Pub. L. 90–446][/us/pl/90/446], § 1(a), July 31, 1968, [82 Stat. 474][/us/stat/82/474].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Transportation of Livestock__ 
 
-[Pub. L. 85–909, § 2(2)][/us/pl/85/909/s2/2], Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750], provided in part: 
+[Pub. L. 85–909][/us/pl/85/909], § 2(2), Sept. 2, 1958, [72 Stat. 1750][/us/stat/72/1750], provided in part: 
 
 > “That nothing herein \[this section\] shall be deemed a definition of the term ‘public stockyards’ as used in section 15(5) of the Interstate Commerce Act \[former [49 U.S.C. 15(5)][/us/usc/t49/s15/5]\]”.
 
@@ -42,13 +42,13 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F163
-[/us/pl/85/909/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909%2Fs2%2F2
+[/us/pl/85/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909
 [/us/stat/72/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1750
-[/us/pl/90/446/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446%2Fs1%2Fa
+[/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 [/us/stat/82/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F474
 [/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 [/us/pl/85/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909
-[/us/pl/85/909/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909%2Fs2%2F2
+[/us/pl/85/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F909
 [/us/stat/72/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1750
 [/us/usc/t49/s15/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs15%2F5
 

@@ -27,7 +27,7 @@
 
         The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-([Pub. L. 95–113, title XVII, § 1712][/us/pl/95/113/s1712], Sept. 29, 1977, [91 Stat. 1038][/us/stat/91/1038].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1712, Sept. 29, 1977, [91 Stat. 1038][/us/stat/91/1038].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1712
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1038
 
 

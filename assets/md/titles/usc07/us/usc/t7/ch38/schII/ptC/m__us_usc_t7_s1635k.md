@@ -23,11 +23,11 @@
 
         The Secretary shall publish information reported under subsection (a) as the Secretary determines necessary and appropriate.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 233, as added [Pub. L. 111–239, § 2(b)(1)][/us/pl/111/239/s2/b/1], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 233, as added [Pub. L. 111–239][/us/pl/111/239], § 2(b)(1), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501].)
 
  __Negotiated Rulemaking Process__ 
 
-[Pub. L. 111–239, § 2(b)(2)][/us/pl/111/239/s2/b/2]–(4), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that:
+[Pub. L. 111–239][/us/pl/111/239], § 2(b)(2)–(4), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that:
 
 >     “(2)  __Negotiated rulemaking__  __.—__ 
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/111/239/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fb%2F1
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
-[/us/pl/111/239/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fb%2F2
+[/us/pl/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
 
 

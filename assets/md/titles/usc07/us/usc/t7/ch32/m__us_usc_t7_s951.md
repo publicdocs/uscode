@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized and directed to collect and publish statistics of raw peanuts, shelled, unshelled, and crushed, and peanut oil, in the United States, received, processed, shipped, and owned by or in the possession of warehousemen, brokers, cleaners, shellers, dealers, growers’ cooperative associations, crushers, salters, manufacturers of peanut products, and owners other than the original producers of peanuts: Provided, That the Secretary may, in his discretion, omit for any period of time to collect such statistics from any or all salters of peanuts or manufacturers of peanut products who used, during the calendar year preceding that for which statistics are being collected, less than thirty thousand pounds of shelled and unshelled peanuts. Such statistics shall show the quality of peanuts in such details as to kinds—Virginias, Runners, Spanish, and imported varieties—as the Secretary shall deem necessary for the purposes of this chapter. All reports shall be submitted monthly in each year, except as otherwise prescribed by the Secretary.
 
-([June 24, 1936, ch. 745, § 1][/us/act/1936-06-24/ch745/s1], [49 Stat. 1898][/us/stat/49/1898]; [May 12, 1938, ch. 199, § 1][/us/act/1938-05-12/ch199/s1], [52 Stat. 348][/us/stat/52/348]; [Pub. L. 85–105, § 1][/us/pl/85/105/s1], July 17, 1957, [71 Stat. 306][/us/stat/71/306].)
+([June 24, 1936, ch. 745][/us/act/1936-06-24/ch745], § 1, [49 Stat. 1898][/us/stat/49/1898]; [May 12, 1938, ch. 199][/us/act/1938-05-12/ch199], § 1, [52 Stat. 348][/us/stat/52/348]; [Pub. L. 85–105][/us/pl/85/105], § 1, July 17, 1957, [71 Stat. 306][/us/stat/71/306].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1936-06-24/ch745/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745%2Fs1
+[/us/act/1936-06-24/ch745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch745
 [/us/stat/49/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1898
-[/us/act/1938-05-12/ch199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-12%2Fch199%2Fs1
+[/us/act/1938-05-12/ch199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-12%2Fch199
 [/us/stat/52/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F348
-[/us/pl/85/105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F105%2Fs1
+[/us/pl/85/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F105
 [/us/stat/71/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F306
 [/us/pl/85/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F105
 

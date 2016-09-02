@@ -235,7 +235,7 @@
 
         The authority provided under this section shall terminate on September 30, 2018.
 
-([Pub. L. 87–128, title III, § 378][/us/pl/87/128/s378], as added [Pub. L. 107–171, title VI, § 6021][/us/pl/107/171/s6021], May 13, 2002, [116 Stat. 363][/us/stat/116/363]; amended [Pub. L. 110–234, title VI, § 6019][/us/pl/110/234/s6019], May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6019, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1933; [Pub. L. 113–79, title VI, § 6021][/us/pl/113/79/s6021], Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 378, as added [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6021, May 13, 2002, [116 Stat. 363][/us/stat/116/363]; amended [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6019, May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6019, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1933; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6021, Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
 
  __Codification__ 
 
@@ -245,13 +245,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (g)(1). [Pub. L. 113–79, § 6021(1)][/us/pl/113/79/s6021/1], substituted “2018” for “2012”.
+    2014—Subsec. (g)(1). [Pub. L. 113–79][/us/pl/113/79], § 6021(1), substituted “2018” for “2012”.
 
-    Subsec. (h). [Pub. L. 113–79, § 6021(2)][/us/pl/113/79/s6021/2], substituted “2018” for “2012”.
+    Subsec. (h). [Pub. L. 113–79][/us/pl/113/79], § 6021(2), substituted “2018” for “2012”.
 
-    2008—Subsec. (g)(1). [Pub. L. 110–246, § 6019(1)][/us/pl/110/246/s6019/1], substituted “2008 through 2012” for “2003 through 2007”.
+    2008—Subsec. (g)(1). [Pub. L. 110–246][/us/pl/110/246], § 6019(1), substituted “2008 through 2012” for “2003 through 2007”.
 
-    Subsec. (h). [Pub. L. 110–246, § 6019(2)][/us/pl/110/246/s6019/2], substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 6019(2), substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -265,14 +265,14 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/87/128/s378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs378
-[/us/pl/107/171/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6021
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
-[/us/pl/110/234/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6019
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1172
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F847
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -282,10 +282,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s6021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021%2F1
-[/us/pl/113/79/s6021/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021%2F2
-[/us/pl/110/246/s6019/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6019%2F1
-[/us/pl/110/246/s6019/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6019%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

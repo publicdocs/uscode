@@ -31,7 +31,7 @@
 
     (3) in the second and succeeding years, a five-year projection of national priorities with respect to agricultural research, extension, and teaching, taking into account both domestic and international needs.
 
-([Pub. L. 95–113, title XIV, § 1410][/us/pl/95/113/s1410], Sept. 29, 1977, [91 Stat. 989][/us/stat/91/989]; [Pub. L. 97–98, title XIV, § 1411][/us/pl/97/98/s1411], Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302]; [Pub. L. 99–198, title XIV, § 1408][/us/pl/99/198/s1408], Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XVI, § 1605(b)(4)][/us/pl/101/624/s1605/b/4], Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 802(b)(2), 852(b)(2), 853(b)(3), Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159], 1171, 1172.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1410, Sept. 29, 1977, [91 Stat. 989][/us/stat/91/989]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1411, Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1408, Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1605(b)(4), Nov. 28, 1990, [104 Stat. 3714][/us/stat/104/3714]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], §§ 802(b)(2), 852(b)(2), 853(b)(3), Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159], 1171, 1172.)
 
  __Amendments__ 
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1410
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F989
-[/us/pl/97/98/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1411
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1302
-[/us/pl/99/198/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1408
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1546
-[/us/pl/101/624/s1605/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F4
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3714
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1159
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s3122/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3122%2Ff

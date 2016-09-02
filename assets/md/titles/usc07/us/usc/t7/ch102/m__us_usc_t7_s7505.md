@@ -35,7 +35,7 @@
 
         (2) transfer such commodities to any such emergency feeding organization in the other State under such agreement.
 
-([Pub. L. 98–8, title II, § 203B][/us/pl/98/8/s203B], as added [Pub. L. 98–92, § 2(5)][/us/pl/98/92/s2/5], Sept. 2, 1983, [97 Stat. 610][/us/stat/97/610]; amended [Pub. L. 99–198, title XV, § 1568][/us/pl/99/198/s1568], Dec. 23, 1985, [99 Stat. 1592][/us/stat/99/1592]; [Pub. L. 100–435, title I, § 105(c)][/us/pl/100/435/s105/c], Sept. 19, 1988, [102 Stat. 1651][/us/stat/102/1651]; [Pub. L. 104–193, title VIII, § 871(e)(1)][/us/pl/104/193/s871/e/1], Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 203B, as added [Pub. L. 98–92][/us/pl/98/92], § 2(5), Sept. 2, 1983, [97 Stat. 610][/us/stat/97/610]; amended [Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1568, Dec. 23, 1985, [99 Stat. 1592][/us/stat/99/1592]; [Pub. L. 100–435, title I][/us/pl/100/435/tI], § 105(c), Sept. 19, 1988, [102 Stat. 1651][/us/stat/102/1651]; [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(e)(1), Aug. 22, 1996, [110 Stat. 2345][/us/stat/110/2345].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 
     1988—Subsec. (a). [Pub. L. 100–435][/us/pl/100/435] inserted at end “Notwithstanding any other provision of this chapter, in the distribution of commodities under this chapter, each State agency shall have the option to give priority to existing food bank networks and other organizations whose ongoing primary function is to facilitate the distribution of food to low-income households, including food from sources other than the Department of Agriculture.”
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1568(a)][/us/pl/99/198/s1568/a], inserted at end “Each State agency shall encourage distribution of such commodities in rural areas.”
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1568(a), inserted at end “Each State agency shall encourage distribution of such commodities in rural areas.”
 
-    Subsec. (d). [Pub. L. 99–198, § 1568(b)][/us/pl/99/198/s1568/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–198][/us/pl/99/198], § 1568(b), added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 98–92, § 2][/us/pl/98/92/s2], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that this section is effective Oct. 1, 1983.
+    [Pub. L. 98–92][/us/pl/98/92], § 2, Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608], provided in part that this section is effective Oct. 1, 1983.
 
 ----------
 
@@ -62,24 +62,24 @@
 ----------
 ----------
 
-[/us/pl/98/8/s203B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs203B
-[/us/pl/98/92/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2%2F5
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F610
-[/us/pl/99/198/s1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1568
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1592
-[/us/pl/100/435/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs105%2Fc
+[/us/pl/100/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2FtI
 [/us/stat/102/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1651
-[/us/pl/104/193/s871/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fe%2F1
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2345
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7504
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
-[/us/pl/99/198/s1568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1568%2Fa
-[/us/pl/99/198/s1568/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1568%2Fb
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/100/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435
 [/us/pl/100/435/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F435%2Fs701%2Fa
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/98/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs2
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
 
 

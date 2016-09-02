@@ -21,7 +21,7 @@
 
     (2) develop a program to manage such forests and lands so as to maximize their potential for biomass growth and sequestering carbon dioxide.
 
-([Pub. L. 101–624, title XXIV, § 2411][/us/pl/101/624/s2411], Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2411, Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2411
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4062
 
 

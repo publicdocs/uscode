@@ -29,11 +29,11 @@
 
     (6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to [section 946(a) of this title][/us/usc/t7/s946/a] and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 301, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 29][/us/stat/85/29]; amended [Pub. L. 93–32, § 2][/us/pl/93/32/s2], May 11, 1973, [87 Stat. 66][/us/stat/87/66]; [Pub. L. 94–570, § 2][/us/pl/94/570/s2], Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII, § 772(b)(1)][/us/pl/104/127/s772/b/1], Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 301, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 29][/us/stat/85/29]; amended [Pub. L. 93–32][/us/pl/93/32], § 2, May 11, 1973, [87 Stat. 66][/us/stat/87/66]; [Pub. L. 94–570][/us/pl/94/570], § 2, Oct. 20, 1976, [90 Stat. 2701][/us/stat/90/2701]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 772(b)(1), Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
 
  __References in Text__ 
 
-    [Section 905 of this title][/us/usc/t7/s905], referred to in pars. (1) and (2), was repealed by [Pub. L. 104–127, title VII, § 774(a)][/us/pl/104/127/s774/a], Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].
+    [Section 905 of this title][/us/usc/t7/s905], referred to in pars. (1) and (2), was repealed by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 774(a), Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].
 
  __Amendments__ 
 
@@ -67,18 +67,18 @@
 [/us/usc/t7/s934/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs934%2Fa
 [/us/usc/t7/s946/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs946%2Fa
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F29
-[/us/pl/93/32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs2
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F66
-[/us/pl/94/570/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570%2Fs2
+[/us/pl/94/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F570
 [/us/stat/90/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2701
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
-[/us/pl/104/127/s772/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs772%2Fb%2F1
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1149
 [/us/usc/t7/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs905
-[/us/pl/104/127/s774/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs774%2Fa
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1150
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs903%2Fa

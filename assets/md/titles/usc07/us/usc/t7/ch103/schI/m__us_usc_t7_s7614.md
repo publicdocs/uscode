@@ -45,7 +45,7 @@
 
         The terms “1862 Institution”, “1890 Institution”, and “1994 Institution” have the meanings given the terms in [section 7601 of this title][/us/usc/t7/s7601].
 
-([Pub. L. 110–234, title VII, § 7501][/us/pl/110/234/s7501], May 22, 2008, [122 Stat. 1256][/us/stat/122/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7501, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2018.)
+([Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7501, May 22, 2008, [122 Stat. 1256][/us/stat/122/1256]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7501, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2018.)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t7/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7601
-[/us/pl/110/234/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7501
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1256
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2018

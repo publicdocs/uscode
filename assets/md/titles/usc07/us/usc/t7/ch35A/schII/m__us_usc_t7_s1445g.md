@@ -31,7 +31,7 @@
 
         (5) The provisions of this subsection shall become effective October 1, 1978.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 112, as added [Pub. L. 95–279, title II, § 201][/us/pl/95/279/s201], May 15, 1978, [92 Stat. 241][/us/stat/92/241].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 112, as added [Pub. L. 95–279, title II][/us/pl/95/279/tII], § 201, May 15, 1978, [92 Stat. 241][/us/stat/92/241].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/95/279/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2Fs201
+[/us/pl/95/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F279%2FtII
 [/us/stat/92/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F241
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

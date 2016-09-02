@@ -17,7 +17,7 @@
 
     Where the government of the country to which the shipment is to be made has standards or requirements as to condition of apples, the Secretary may in addition to inspection and certification for compliance with the standards established or designated hereunder inspect and certify for determination as to compliance with the standards or requirements of such foreign government and may provide for special certificates in such cases.
 
-([June 10, 1933, ch. 59, § 3][/us/act/1933-06-10/ch59/s3], [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96, § 1(c)(2)][/us/pl/106/96/s1/c/2], Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321].)
+([June 10, 1933, ch. 59][/us/act/1933-06-10/ch59], § 3, [48 Stat. 124][/us/stat/48/124]; [Pub. L. 106–96][/us/pl/106/96], § 1(c)(2), Nov. 12, 1999, [113 Stat. 1321][/us/stat/113/1321].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1933-06-10/ch59/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59%2Fs3
+[/us/act/1933-06-10/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-10%2Fch59
 [/us/stat/48/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F124
-[/us/pl/106/96/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96%2Fs1%2Fc%2F2
+[/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 [/us/stat/113/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1321
 [/us/pl/106/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F96
 

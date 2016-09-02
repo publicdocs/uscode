@@ -19,7 +19,7 @@
 
     (b) Any person who shall violate the provisions of this section shall be deemed guilty of a misdemeanor and upon conviction thereof be fined not more than $5,000.
 
-([Pub. L. 85–839, § 1][/us/pl/85/839/s1], Aug. 28, 1958, [72 Stat. 1013][/us/stat/72/1013]; [Pub. L. 111–203, title VII, § 721(e)(10)][/us/pl/111/203/s721/e/10], July 21, 2010, [124 Stat. 1672][/us/stat/124/1672].)
+([Pub. L. 85–839][/us/pl/85/839], § 1, Aug. 28, 1958, [72 Stat. 1013][/us/stat/72/1013]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 721(e)(10), July 21, 2010, [124 Stat. 1672][/us/stat/124/1672].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 85–839, § 2][/us/pl/85/839/s2], Aug. 28, 1958, [72 Stat. 1013][/us/stat/72/1013], provided that: 
+[Pub. L. 85–839][/us/pl/85/839], § 2, Aug. 28, 1958, [72 Stat. 1013][/us/stat/72/1013], provided that: 
 
 > “This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\].”
 
@@ -46,16 +46,16 @@
 ----------
 ----------
 
-[/us/pl/85/839/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F839%2Fs1
+[/us/pl/85/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F839
 [/us/stat/72/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1013
-[/us/pl/111/203/s721/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F10
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1672
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
-[/us/pl/85/839/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F839%2Fs2
+[/us/pl/85/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F839
 [/us/stat/72/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1013
 
 

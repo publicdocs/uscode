@@ -17,7 +17,7 @@
 
     In construing and enforcing the provisions of this chapter;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a comma. </sup></sup>  the act;  <sup>\[1\]</sup>  omission, or failure of any agent, officer, or other person acting for or employed by an association, partnership, corporation, or firm, within the scope of his employment or office, shall be deemed to be the act, omission, or failure of the association, partnership, corporation, or firm, as well as that of the person.
 
-([Aug. 23, 1935, ch. 623, § 13][/us/act/1935-08-23/ch623/s13], [49 Stat. 734][/us/stat/49/734].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 13, [49 Stat. 734][/us/stat/49/734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs13
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F734
 
 

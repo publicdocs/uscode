@@ -137,7 +137,7 @@
 
             If the plan is approved pursuant to the referendum conducted under [section 6011(a) of this title][/us/usc/t7/s6011/a], all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this chapter.
 
-([Pub. L. 101–624, title XIX, § 1912][/us/pl/101/624/s1912], Nov. 28, 1990, [104 Stat. 3848][/us/stat/104/3848].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1912, Nov. 28, 1990, [104 Stat. 3848][/us/stat/104/3848].)
 
 ----------
 
@@ -153,7 +153,7 @@
 [/us/usc/t7/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6011%2Fa
 [/us/usc/t7/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6011%2Fa
 [/us/usc/t7/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6011%2Fa
-[/us/pl/101/624/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1912
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3848
 
 

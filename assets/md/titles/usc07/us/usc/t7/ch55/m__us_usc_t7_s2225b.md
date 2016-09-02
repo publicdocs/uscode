@@ -17,7 +17,7 @@
 
     On and after October 28, 1991, provisions of law prohibiting or restricting personal services contracts shall not apply to veterinarians employed by the Department to take animal blood samples, test and vaccinate animals, and perform branding and tagging activities on a fee-for-service basis.
 
-([Pub. L. 102–142, title VII, § 723][/us/pl/102/142/s723], Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
+([Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 723, Oct. 28, 1991, [105 Stat. 913][/us/stat/105/913].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/142/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs723
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F913
 
 

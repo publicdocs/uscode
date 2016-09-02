@@ -17,7 +17,7 @@
 
     The land officers shall receive the same fees for locating land scrip issued under the provisions of this subchapter as was on July 2, 1862, allowed for the location of military bounty land warrants under laws existing at that time: Provided, That their maximum compensation shall not be thereby increased.
 
-([July 2, 1862, ch. 130, § 7][/us/act/1862-07-02/ch130/s7], [12 Stat. 505][/us/stat/12/505].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 7, [12 Stat. 505][/us/stat/12/505].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1862-07-02/ch130/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs7
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F505
 
 

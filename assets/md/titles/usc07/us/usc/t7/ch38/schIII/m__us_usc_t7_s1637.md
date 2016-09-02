@@ -23,7 +23,7 @@
 
     (3) encourages competition in the marketplace for dairy products.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 271, as added [Pub. L. 106–532, § 2][/us/pl/106/532/s2], Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 271, as added [Pub. L. 106–532][/us/pl/106/532], § 2, Nov. 22, 2000, [114 Stat. 2541][/us/stat/114/2541].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
-[/us/pl/106/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532%2Fs2
+[/us/pl/106/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F532
 [/us/stat/114/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2541
 
 

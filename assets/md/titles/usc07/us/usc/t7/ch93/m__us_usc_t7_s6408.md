@@ -35,7 +35,7 @@
 
         The order may contain such other terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter as are necessary to effectuate the other provisions of the order.
 
-([Pub. L. 101–624, title XIX, § 1999I][/us/pl/101/624/s1999I], Nov. 28, 1990, [104 Stat. 3920][/us/stat/104/3920].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999I, Nov. 28, 1990, [104 Stat. 3920][/us/stat/104/3920].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999I
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3920
 
 

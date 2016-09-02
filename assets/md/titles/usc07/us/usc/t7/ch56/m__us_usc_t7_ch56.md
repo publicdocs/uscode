@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55A/m__us_usc_t7_s2286.md) | [Next](./../../../..//us/usc/t7/ch56/m__us_usc_t7_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch56)
+[Previous](./../../../..//us/usc/t7/ch55A/m__us_usc_t7_s2287...2289.md) | [Next](./../../../..//us/usc/t7/ch56/m__us_usc_t7_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch56)
 
 ## CHAPTER 56—UNFAIR TRADE PRACTICES AFFECTING PRODUCERS OF AGRICULTURAL PRODUCTS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55A/m__us_usc_t7_s2286.md) | [Next](./../../../..//us/usc/t7/ch56/m__us_usc_t7_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch56)
+[Previous](./../../../..//us/usc/t7/ch55A/m__us_usc_t7_s2287...2289.md) | [Next](./../../../..//us/usc/t7/ch56/m__us_usc_t7_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch56)
 
 ----------
 ----------

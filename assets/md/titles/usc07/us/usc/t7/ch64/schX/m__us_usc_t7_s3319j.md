@@ -91,7 +91,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
 
-([Pub. L. 95–113, title XIV, § 1473G][/us/pl/95/113/s1473G], as added [Pub. L. 110–234, title VII, § 7139][/us/pl/110/234/s7139], May 22, 2008, [122 Stat. 1231][/us/stat/122/1231], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7139, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1992.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473G, as added [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7139, May 22, 2008, [122 Stat. 1231][/us/stat/122/1231], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7139, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1992.)
 
  __Codification__ 
 
@@ -108,10 +108,10 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1473G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473G
-[/us/pl/110/234/s7139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7139
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1231
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

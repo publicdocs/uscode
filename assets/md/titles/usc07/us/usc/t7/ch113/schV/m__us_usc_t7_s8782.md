@@ -59,7 +59,7 @@
 
         The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 ([7 U.S.C. 1330][/us/usc/t7/s1330] and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2008 through 2012.
 
-([Pub. L. 110–234, title I, § 1602][/us/pl/110/234/s1602], May 22, 2008, [122 Stat. 1001][/us/stat/122/1001]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1729.)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1602, May 22, 2008, [122 Stat. 1001][/us/stat/122/1001]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1729.)
 
  __References in Text__ 
 
@@ -103,9 +103,9 @@
 [/us/usc/t7/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1461
 [/us/usc/t7/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471
 [/us/usc/t7/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1330
-[/us/pl/110/234/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1602
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1001
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31

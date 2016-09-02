@@ -79,7 +79,7 @@
 
             (C) minimizes adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems.
 
-([Pub. L. 106–224, title IV, § 455][/us/pl/106/224/s455], as added [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2322][/us/stat/118/2322].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 455, as added [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2322][/us/stat/118/2322].)
 
 ----------
 
@@ -88,8 +88,8 @@
 ----------
 ----------
 
-[/us/pl/106/224/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs455
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2322
 
 

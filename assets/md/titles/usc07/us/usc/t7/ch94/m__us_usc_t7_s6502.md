@@ -105,7 +105,7 @@
 
         The term “synthetic” means a substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
 
-([Pub. L. 101–624, title XXI, § 2103][/us/pl/101/624/s2103], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935].)
+([Pub. L. 101–624, title XXI][/us/pl/101/624/tXXI], § 2103, Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 [/us/usc/t7/s6517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6517
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t7/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6506
-[/us/pl/101/624/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2103
+[/us/pl/101/624/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXI
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516

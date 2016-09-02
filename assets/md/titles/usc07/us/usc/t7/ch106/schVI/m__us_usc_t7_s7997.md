@@ -17,7 +17,7 @@
 
     As soon as practicable after May 13, 2002, the Secretary shall establish procedures to track the benefits provided, directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
 
-([Pub. L. 107–171, title I, § 1614][/us/pl/107/171/s1614], May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1614, May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1614
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F222
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F143

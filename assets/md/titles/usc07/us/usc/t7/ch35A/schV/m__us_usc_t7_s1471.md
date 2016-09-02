@@ -61,7 +61,7 @@
 
     (5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) 2 of this title).
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 602, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 926][/us/stat/102/926]; amended [Pub. L. 108–447, div. A, title VII, § 785(b)(1)][/us/pl/108/447/s785/b/1], Dec. 8, 2004, [118 Stat. 2850][/us/stat/118/2850]; [Pub. L. 109–97, title VII, § 784(b)(1)][/us/pl/109/97/s784/b/1], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 602, as added [Pub. L. 100–387, title I][/us/pl/100/387/tI], § 101(a), Aug. 11, 1988, [102 Stat. 926][/us/stat/102/926]; amended [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 785(b)(1), Dec. 8, 2004, [118 Stat. 2850][/us/stat/118/2850]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 784(b)(1), Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
     Act of June 18, 1934, referred to in par. (1)(B)(ii), is [act June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], [48 Stat. 984][/us/stat/48/984], as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25][/us/usc/t25/s461] and Tables.
 
-    [Section 1985(e)(1)(D)(ii) of this title][/us/usc/t7/s1985/e/1/D/ii], referred to in par. (5), was redesignated [section 1985(e)(1)(A)(ii) of this title][/us/usc/t7/s1985/e/1/A/ii] by [Pub. L. 104–127, title VI, § 638(3)(A)(ii)][/us/pl/104/127/s638/3/A/ii], Apr. 4, 1996, [110 Stat. 1096][/us/stat/110/1096].
+    [Section 1985(e)(1)(D)(ii) of this title][/us/usc/t7/s1985/e/1/D/ii], referred to in par. (5), was redesignated [section 1985(e)(1)(A)(ii) of this title][/us/usc/t7/s1985/e/1/A/ii] by [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 638(3)(A)(ii), Apr. 4, 1996, [110 Stat. 1096][/us/stat/110/1096].
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–97, title VII, § 784(c)][/us/pl/109/97/s784/c], Nov. 10, 2005, [119 Stat. 2163][/us/stat/119/2163], provided that:
+[Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 784(c), Nov. 10, 2005, [119 Stat. 2163][/us/stat/119/2163], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -99,7 +99,7 @@
 
  __Inclusion of Horses and Deer Within Definition of “Livestock”__ 
 
-[Pub. L. 109–97, title VII, § 784(a)][/us/pl/109/97/s784/a], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162], provided that: 
+[Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 784(a), Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162], provided that: 
 
 > “In carrying out a livestock assistance, compensation, or feed program, the Secretary of Agriculture shall include horses and deer within the definition of ‘livestock’ covered by the program.”
 
@@ -126,11 +126,11 @@
 [/us/usc/t25/s450b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fc
 [/us/usc/t25/s1452/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fe
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/100/387/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fa
+[/us/pl/100/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtI
 [/us/stat/102/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F926
-[/us/pl/108/447/s785/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs785%2Fb%2F1
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2850
-[/us/pl/109/97/s784/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs784%2Fb%2F1
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2162
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
@@ -138,18 +138,18 @@
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t7/s1985/e/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985%2Fe%2F1%2FD%2Fii
 [/us/usc/t7/s1985/e/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985%2Fe%2F1%2FA%2Fii
-[/us/pl/104/127/s638/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fii
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1096
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/109/97/s784/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs784%2Fc
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2163
 [/us/usc/t7/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1472
 [/us/pl/100/387/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs101%2Fc%2F1
 [/us/usc/t7/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1427
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/109/97/s784/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs784%2Fa
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2162
 [/us/usc/t7/s9092/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F12
 [/us/usc/t7/s8782/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F12

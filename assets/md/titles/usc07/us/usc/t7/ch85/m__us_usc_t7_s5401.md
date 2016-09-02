@@ -23,7 +23,7 @@
 
         Membership of the Council shall consist of the Secretary, the Deputy Secretary, the Assistant Secretary for Natural Resources and Environment, the Assistant Secretary for Science and Education, other under and assistant secretaries as may be designated by the Secretary, and the Director of the Office of Agricultural Environmental Quality, established in [section 5402 of this title][/us/usc/t7/s5402], who shall serve as the Executive Director of the Council. The Secretary shall designate a member of the Council, other than the Executive Director, as chair of the Council.
 
-([Pub. L. 101–624, title XIV, § 1471][/us/pl/101/624/s1471], Nov. 28, 1990, [104 Stat. 3619][/us/stat/104/3619].)
+([Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1471, Nov. 28, 1990, [104 Stat. 3619][/us/stat/104/3619].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5402
-[/us/pl/101/624/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1471
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3619
 
 

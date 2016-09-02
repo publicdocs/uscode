@@ -17,7 +17,7 @@
 
     The Secretary is authorized to undertake, through the Forest Service’s Northeastern Area State and Private Forestry program, a study and pilot implementation project to demonstrate the benefits of retaining and integrating forests in urban development. The focus of such a study and implementation project should be to protect the environment and associated natural resource values, for current and future generations.
 
-([Pub. L. 101–624, title XXIV, § 2409][/us/pl/101/624/s2409], Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
+([Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2409, Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2409
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4061
 
 

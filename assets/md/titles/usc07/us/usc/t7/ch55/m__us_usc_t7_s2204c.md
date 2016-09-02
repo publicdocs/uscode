@@ -83,7 +83,7 @@
 
         Nothing in this section shall authorize the waiver of a cost-share requirement under a program established under any other provision of law.
 
-([Pub. L. 100–387, title IV, § 401][/us/pl/100/387/s401], Aug. 11, 1988, [102 Stat. 956][/us/stat/102/956].)
+([Pub. L. 100–387, title IV][/us/pl/100/387/tIV], § 401, Aug. 11, 1988, [102 Stat. 956][/us/stat/102/956].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/stat/26/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F419
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/100/387/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs401
+[/us/pl/100/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtIV
 [/us/stat/102/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F956
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503

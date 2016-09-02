@@ -139,51 +139,51 @@
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 97–439, § 2(a)][/us/pl/97/439/s2/a], struck out “, except as provided in paragraph (j) of this section for seed mixtures intended for lawn and turf purposes,” after “following information” in provisions preceding par. (1).
+    1983—Subsec. (a). [Pub. L. 97–439][/us/pl/97/439], § 2(a), struck out “, except as provided in paragraph (j) of this section for seed mixtures intended for lawn and turf purposes,” after “following information” in provisions preceding par. (1).
 
-    Subsec. (a)(1)(A). [Pub. L. 97–439, § 2(b)(1)][/us/pl/97/439/s2/b/1], inserted “(A), except with respect to seed mixtures intended for lawn and turf purposes,” after “Provided, That”.
+    Subsec. (a)(1)(A). [Pub. L. 97–439][/us/pl/97/439], § 2(b)(1), inserted “(A), except with respect to seed mixtures intended for lawn and turf purposes,” after “Provided, That”.
 
-    Subsec. (a)(1)(B). [Pub. L. 97–439, § 2(b)(2)][/us/pl/97/439/s2/b/2], substituted “, (B)” for “: And provided further, That”.
+    Subsec. (a)(1)(B). [Pub. L. 97–439][/us/pl/97/439], § 2(b)(2), substituted “, (B)” for “: And provided further, That”.
 
-    Subsec. (a)(1)(C). [Pub. L. 97–439, § 2(b)(3)][/us/pl/97/439/s2/b/3], added cl. (C).
+    Subsec. (a)(1)(C). [Pub. L. 97–439][/us/pl/97/439], § 2(b)(3), added cl. (C).
 
-    Subsec. (a)(8). [Pub. L. 97–439, § 3][/us/pl/97/439/s3], inserted exception relating to the case of a seed mixture.
+    Subsec. (a)(8). [Pub. L. 97–439][/us/pl/97/439], § 3, inserted exception relating to the case of a seed mixture.
 
-    Subsec. (c)(1). [Pub. L. 97–439, § 4(1)][/us/pl/97/439/s4/1], substituted “(1)” for “(a)”.
+    Subsec. (c)(1). [Pub. L. 97–439][/us/pl/97/439], § 4(1), substituted “(1)” for “(a)”.
 
-    Subsec. (c)(2). [Pub. L. 97–439, § 4(2)][/us/pl/97/439/s4/2], substituted “(2)” for “(b)”.
+    Subsec. (c)(2). [Pub. L. 97–439][/us/pl/97/439], § 4(2), substituted “(2)” for “(b)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 97–439, § 4(3)][/us/pl/97/439/s4/3], inserted “(A)” after “vegetable seed which”.
+    Subsec. (c)(2)(A). [Pub. L. 97–439][/us/pl/97/439], § 4(3), inserted “(A)” after “vegetable seed which”.
 
-    Subsec. (c)(2)(B). [Pub. L. 97–439, § 4(4)][/us/pl/97/439/s4/4], added cl. (B).
+    Subsec. (c)(2)(B). [Pub. L. 97–439][/us/pl/97/439], § 4(4), added cl. (B).
 
-    Subsec. (j). [Pub. L. 97–439, § 2(c)][/us/pl/97/439/s2/c], struck out subsec. (j) which directed that seed mixtures intended for lawn and turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
+    Subsec. (j). [Pub. L. 97–439][/us/pl/97/439], § 2(c), struck out subsec. (j) which directed that seed mixtures intended for lawn and turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
 
-    1966—Subsec. (a). [Pub. L. 89–686, § 4][/us/pl/89/686/s4], inserted in introductory text, “, except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,”.
+    1966—Subsec. (a). [Pub. L. 89–686][/us/pl/89/686], § 4, inserted in introductory text, “, except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,”.
 
-    Subsec. (a)(1). [Pub. L. 89–686, § 5][/us/pl/89/686/s5], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: Provided, That such components are expressed in accordance with the category designated under (A), (B), or (C);”.
+    Subsec. (a)(1). [Pub. L. 89–686][/us/pl/89/686], § 5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: Provided, That such components are expressed in accordance with the category designated under (A), (B), or (C);”.
 
-    Subsec. (a)(10). [Pub. L. 89–686, § 6][/us/pl/89/686/s6], added par. (10).
+    Subsec. (a)(10). [Pub. L. 89–686][/us/pl/89/686], § 6, added par. (10).
 
-    Subsec. (b). [Pub. L. 89–686, § 7][/us/pl/89/686/s7], substituted provisions respecting labeling requirements for containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture in par. (1), containers of one pound or less of seed that germinates less than the standard last established by the Secretary in par. (2), and containers of more than one pound of seed in par. (3), for former labeling requirements which prescribed in par. (1) name of each kind and variety of seed and if two or more kinds or varieties are present, the percentage of each, in par. (2) for each variety of vegetable seed which germinates less than the standard last established by the Secretary of Agriculture, as provided under [section 1593(c) of this title][/us/usc/t7/s1593/c], the percentage of germination, exclusive of hard seed; (ii) percentage of hard seed, if present; (iii) the calendar month and year the test was completed to determine such percentages; (iv) the words “Below Standard”; and in par. (3), name and address of—
+    Subsec. (b). [Pub. L. 89–686][/us/pl/89/686], § 7, substituted provisions respecting labeling requirements for containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture in par. (1), containers of one pound or less of seed that germinates less than the standard last established by the Secretary in par. (2), and containers of more than one pound of seed in par. (3), for former labeling requirements which prescribed in par. (1) name of each kind and variety of seed and if two or more kinds or varieties are present, the percentage of each, in par. (2) for each variety of vegetable seed which germinates less than the standard last established by the Secretary of Agriculture, as provided under [section 1593(c) of this title][/us/usc/t7/s1593/c], the percentage of germination, exclusive of hard seed; (ii) percentage of hard seed, if present; (iii) the calendar month and year the test was completed to determine such percentages; (iv) the words “Below Standard”; and in par. (3), name and address of—
 
     (A) the person who transports, or delivers for transportation, said seed in interstate commerce; or
 
     (B) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under [section 1592 of this title][/us/usc/t7/s1592], indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
-    Subsec. (c). [Pub. L. 89–686, § 8][/us/pl/89/686/s8], substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
+    Subsec. (c). [Pub. L. 89–686][/us/pl/89/686], § 8, substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
 
-    Subsec. (i)(4). [Pub. L. 89–686, § 9][/us/pl/89/686/s9], transposed “of any process used in such treatment” which followed “description” to end of sentence, inserting a comma preceding such phrase.
+    Subsec. (i)(4). [Pub. L. 89–686][/us/pl/89/686], § 9, transposed “of any process used in such treatment” which followed “description” to end of sentence, inserting a comma preceding such phrase.
 
-    Subsec. (j). [Pub. L. 89–686, § 10][/us/pl/89/686/s10], added subsec. (j).
+    Subsec. (j). [Pub. L. 89–686][/us/pl/89/686], § 10, added subsec. (j).
 
-    1958—Subsec. (a)(8). [Pub. L. 85–581, § 5][/us/pl/85/581/s5], inserted “and each kind or variety or type of agricultural seed shown in the labeling to be present in a proportion of 5 per centum or less of the whole”.
+    1958—Subsec. (a)(8). [Pub. L. 85–581][/us/pl/85/581], § 5, inserted “and each kind or variety or type of agricultural seed shown in the labeling to be present in a proportion of 5 per centum or less of the whole”.
 
-    Subsec. (b)(1). [Pub. L. 85–581, § 6][/us/pl/85/581/s6], required label on container to show percentage where two or more varieties of seed are present.
+    Subsec. (b)(1). [Pub. L. 85–581][/us/pl/85/581], § 6, required label on container to show percentage where two or more varieties of seed are present.
 
-    Subsec. (b)(2). [Pub. L. 85–581, § 7][/us/pl/85/581/s7], substituted “For each variety of vegetable seed” for “For seeds”.
+    Subsec. (b)(2). [Pub. L. 85–581][/us/pl/85/581], § 7, substituted “For each variety of vegetable seed” for “For seeds”.
 
-    Subsec. (i). [Pub. L. 85–581, § 8][/us/pl/85/581/s8], added subsec. (i).
+    Subsec. (i). [Pub. L. 85–581][/us/pl/85/581], § 8, added subsec. (i).
 
  __Effective Date__ 
 
@@ -215,29 +215,29 @@
 [/us/stat/80/975-977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F975-977
 [/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
 [/us/stat/96/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2287
-[/us/pl/97/439/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs2%2Fa
-[/us/pl/97/439/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs2%2Fb%2F1
-[/us/pl/97/439/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs2%2Fb%2F2
-[/us/pl/97/439/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs2%2Fb%2F3
-[/us/pl/97/439/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs3
-[/us/pl/97/439/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs4%2F1
-[/us/pl/97/439/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs4%2F2
-[/us/pl/97/439/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs4%2F3
-[/us/pl/97/439/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs4%2F4
-[/us/pl/97/439/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs2%2Fc
-[/us/pl/89/686/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs4
-[/us/pl/89/686/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs5
-[/us/pl/89/686/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs6
-[/us/pl/89/686/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs7
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/97/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
 [/us/usc/t7/s1593/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1593%2Fc
 [/us/usc/t7/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1592
-[/us/pl/89/686/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs8
-[/us/pl/89/686/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs9
-[/us/pl/89/686/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs10
-[/us/pl/85/581/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs5
-[/us/pl/85/581/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs6
-[/us/pl/85/581/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs7
-[/us/pl/85/581/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs8
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/89/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610
 
 

@@ -451,7 +451,7 @@ SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM  </td>
 
  __Codification__ 
 
-    The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as [Pub. L. 95–501][/us/pl/95/501], Oct. 21, 1978, [92 Stat. 1685][/us/stat/92/1685], which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and [section 2431 of Title 19][/us/usc/t19/s2431], Customs Duties. The Act is shown herein, however, as having been added by [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668], because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act’s provisions by [Pub. L. 101–624][/us/pl/101/624].
+    The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as [Pub. L. 95–501][/us/pl/95/501], Oct. 21, 1978, [92 Stat. 1685][/us/stat/92/1685], which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and [section 2431 of Title 19][/us/usc/t19/s2431], Customs Duties. The Act is shown herein, however, as having been added by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668], because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act’s provisions by [Pub. L. 101–624][/us/pl/101/624].
 
 ----------
 
@@ -464,7 +464,7 @@ SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM  </td>
 [/us/stat/92/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1685
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3668
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

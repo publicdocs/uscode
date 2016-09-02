@@ -37,7 +37,7 @@
 
         There is authorized to be appropriated to carry out this section, $190,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
 
-([Pub. L. 107–188, title III, § 335][/us/pl/107/188/s335], June 12, 2002, [116 Stat. 680][/us/stat/116/680].)
+([Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 335, June 12, 2002, [116 Stat. 680][/us/stat/116/680].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/188/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs335
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F680
 
 

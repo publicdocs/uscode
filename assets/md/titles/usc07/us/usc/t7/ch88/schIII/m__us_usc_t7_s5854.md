@@ -45,7 +45,7 @@
 
         (2) such other assurances and information as the Secretary may require by rule.
 
-([Pub. L. 101–624, title XVI, § 1640][/us/pl/101/624/s1640], Nov. 28, 1990, [104 Stat. 3749][/us/stat/104/3749]; [Pub. L. 107–171, title VII, § 7304(b)][/us/pl/107/171/s7304/b], May 13, 2002, [116 Stat. 455][/us/stat/116/455]; [Pub. L. 110–234, title VII, § 7511(c)(19)][/us/pl/110/234/s7511/c/19], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(19), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1640, Nov. 28, 1990, [104 Stat. 3749][/us/stat/104/3749]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7304(b), May 13, 2002, [116 Stat. 455][/us/stat/116/455]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(19), May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(19), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 7511(c)(19)][/us/pl/110/246/s7511/c/19], substituted “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service”.
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(19), substituted “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service”.
 
     2002—Subsec. (b). [Pub. L. 107–171][/us/pl/107/171] struck out “take into consideration the recommendation of the Advisory Board on Agricultural Weather and” before “consult with the Director”.
 
@@ -70,19 +70,19 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1640
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3749
-[/us/pl/107/171/s7304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7304%2Fb
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F455
-[/us/pl/110/234/s7511/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F19
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F19
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

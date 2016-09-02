@@ -75,7 +75,7 @@
 
         (2) if such person is an employee of the Department of Agriculture or the Board, removed from office.
 
-([Pub. L. 99–198, title XVI, § 1621][/us/pl/99/198/s1621], Dec. 23, 1985, [99 Stat. 1617][/us/stat/99/1617].)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1621, Dec. 23, 1985, [99 Stat. 1617][/us/stat/99/1617].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1621
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1617
 
 

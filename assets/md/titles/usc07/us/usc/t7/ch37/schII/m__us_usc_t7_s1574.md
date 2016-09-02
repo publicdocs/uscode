@@ -17,7 +17,7 @@
 
     The use of a disclaimer, limited warranty, or nonwarranty clause in any invoice, advertising, labeling, or written, printed, or graphic matter, pertaining to any seed shall not constitute a defense, or be used as a defense in any way, in any prosecution or other proceeding brought under the provisions of this chapter, or the rules and regulations made and promulgated thereunder. Nothing in this section is intended to preclude the use of a disclaimer, limited warranty, or nonwarranty clause as a defense in any proceeding not brought under this chapter.
 
-([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 204, [53 Stat. 1282][/us/stat/53/1282]; [July 9, 1956, ch. 520, § 2][/us/act/1956-07-09/ch520/s2], [70 Stat. 508][/us/stat/70/508]; [Pub. L. 85–581, § 11][/us/pl/85/581/s11], Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478].)
+([Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title II, § 204, [53 Stat. 1282][/us/stat/53/1282]; [July 9, 1956, ch. 520][/us/act/1956-07-09/ch520], § 2, [70 Stat. 508][/us/stat/70/508]; [Pub. L. 85–581][/us/pl/85/581], § 11, Aug. 1, 1958, [72 Stat. 478][/us/stat/72/478].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
 [/us/stat/53/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1282
-[/us/act/1956-07-09/ch520/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520%2Fs2
+[/us/act/1956-07-09/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch520
 [/us/stat/70/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F508
-[/us/pl/85/581/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581%2Fs11
+[/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/stat/72/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F478
 [/us/pl/85/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F581
 [/us/usc/t7/s1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1596

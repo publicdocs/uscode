@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s11.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s11.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1...12–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12)
 
 ## § 12. Public disclosure
 
@@ -73,13 +73,13 @@
 
         The Comptroller General of the United States shall conduct reviews and audits of the Commission and make reports thereon. For the purpose of conducting such reviews and audits, the Comptroller General shall be furnished such information regarding the powers, duties, organizations, transactions, operations, and activities of the Commission as the Comptroller General may require and the Comptroller General and the duly authorized representatives of the Comptroller General shall, for the purpose of securing such information, have access to and the right to examine any books, documents, papers, or records of the Commission, except that in reports the Comptroller General shall not include data and information that would separately disclose the business transactions of any person and trade secrets or names of customers, although such data shall be provided upon request by any committee of either House of Congress acting within the scope of its jurisdiction.
 
-([Sept. 21, 1922, ch. 369, § 8][/us/act/1922-09-21/ch369/s8], [42 Stat. 1003][/us/stat/42/1003]; [June 15, 1936, ch. 545, § 2][/us/act/1936-06-15/ch545/s2], [49 Stat. 1491][/us/stat/49/1491]; [Pub. L. 90–258, § 19(a)][/us/pl/90/258/s19/a], Feb. 19, 1968, [82 Stat. 32][/us/stat/82/32]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (e), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405, § 16][/us/pl/95/405/s16], Sept. 30, 1978, [92 Stat. 873][/us/stat/92/873]; [Pub. L. 97–444, title II, § 222][/us/pl/97/444/s222], Jan. 11, 1983, [96 Stat. 2309][/us/stat/96/2309]; [Pub. L. 102–546, title II, § 205][/us/pl/102/546/s205], title III, §§ 304, 305, title IV, § 402(7), Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], 3623, 3624; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(18), title II, § 253(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410, 2763A–449; [Pub. L. 110–234, title XIII, § 13105(g)][/us/pl/110/234/s13105/g], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13105(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII, § 725(f)][/us/pl/111/203/s725/f], July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 8, [42 Stat. 1003][/us/stat/42/1003]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 2, [49 Stat. 1491][/us/stat/49/1491]; [Pub. L. 90–258][/us/pl/90/258], § 19(a), Feb. 19, 1968, [82 Stat. 32][/us/stat/82/32]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (e), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 95–405][/us/pl/95/405], § 16, Sept. 30, 1978, [92 Stat. 873][/us/stat/92/873]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 222, Jan. 11, 1983, [96 Stat. 2309][/us/stat/96/2309]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 205, title III, §§ 304, 305, title IV, § 402(7), Oct. 28, 1992, [106 Stat. 3600][/us/stat/106/3600], 3623, 3624; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(18), title II, § 253(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–410, 2763A–449; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13105(g), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13105(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 725(f), July 21, 2010, [124 Stat. 1694][/us/stat/124/1694].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
-    Section is based on section 8 of Act Sept. 21, 1922, as amended generally by [Pub. L. 95–405, § 16][/us/pl/95/405/s16]. Prior to such general amendment, section was comprised of the first paragraph of section 8, and the second, third, and fourth pars. of section 8 were classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
+    Section is based on section 8 of Act Sept. 21, 1922, as amended generally by [Pub. L. 95–405][/us/pl/95/405], § 16. Prior to such general amendment, section was comprised of the first paragraph of section 8, and the second, third, and fourth pars. of section 8 were classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
 
     Subsection (h), which required the Commodity Futures Trading Commission to submit an annual report to Congress detailing the operations of the Commission, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 158 of House Document No. 103–7.
 
@@ -87,29 +87,29 @@
 
     2010—Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], in last sentence, inserted “, central bank and ministries,” after “department” wherever appearing and substituted “, is a party.” for “. is a party.”
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 13105(g)][/us/pl/110/246/s13105/g], in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 13105(g), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
 
-    2000—Subsec. (a)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 253(a)\], added par. (3).
+    2000—Subsec. (a)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 253(a)\], added par. (3).
 
-    Subsec. (c). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(18)\], in first sentence, substituted “registered entity” for “board of trade”.
+    Subsec. (c). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(18)\], in first sentence, substituted “registered entity” for “board of trade”.
 
     1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], §§ 205, 304(1), designated existing provisions as par. (1), inserted provisions at end relating to disclosure of information received from foreign futures authorities, and added par. (2).
 
-    Subsec. (b). [Pub. L. 102–546, § 304(2)][/us/pl/102/546/s304/2], inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 304(2), inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
 
-    Subsec. (e). [Pub. L. 102–546, § 305][/us/pl/102/546/s305], inserted references to foreign futures authority in fifth and last sentences.
+    Subsec. (e). [Pub. L. 102–546][/us/pl/102/546], § 305, inserted references to foreign futures authority in fifth and last sentences.
 
-    Subsec. (f). [Pub. L. 102–546, § 402(7)][/us/pl/102/546/s402/7], substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
+    Subsec. (f). [Pub. L. 102–546][/us/pl/102/546], § 402(7), substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
 
-    1983—Subsec. (a). [Pub. L. 97–444, § 222(1)][/us/pl/97/444/s222/1], inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
+    1983—Subsec. (a). [Pub. L. 97–444][/us/pl/97/444], § 222(1), inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
 
-    Subsec. (b). [Pub. L. 97–444, § 222(2)][/us/pl/97/444/s222/2], inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
+    Subsec. (b). [Pub. L. 97–444][/us/pl/97/444], § 222(2), inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
 
-    Subsec. (e). [Pub. L. 97–444, § 222(3)][/us/pl/97/444/s222/3], struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
+    Subsec. (e). [Pub. L. 97–444][/us/pl/97/444], § 222(3), struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
 
-    Subsecs. (f), (g). [Pub. L. 97–444, § 222(5)][/us/pl/97/444/s222/5], added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
+    Subsecs. (f), (g). [Pub. L. 97–444][/us/pl/97/444], § 222(5), added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
 
-    Subsecs. (h), (i). [Pub. L. 97–444, § 222(4)][/us/pl/97/444/s222/4], redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
+    Subsecs. (h), (i). [Pub. L. 97–444][/us/pl/97/444], § 222(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
     1978—[Pub. L. 95–405][/us/pl/95/405] consolidated under this section provisions formerly contained in this section and sections 12–1, 12–2, and 12–3 of this title, generally revised provisions thus consolidated to clarify and expand disclosure to public of traders and their positions on boards of trade, and divided provisions thus consolidated and revised into subsecs. (a) to (g).
 
@@ -147,21 +147,9 @@
 
     Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of act June 15, 1936, set out as a note under [section 1 of this title][/us/usc/t7/s1].
 
-§§ 12–1 to 12–3. __Omitted__ 
-
- __Codification__ 
-
-    Sections 12–1 to 12–3 comprised the second, third, and fourth pars., respectively, of section 8 of the Commodity Exchange Act, [Sept. 21, 1922, ch. 369, § 8][/us/act/1922-09-21/ch369/s8], [42 Stat. 1003][/us/stat/42/1003]. Such section 8 was amended generally by [Pub. L. 95–405, § 16][/us/pl/95/405/s16], Sept. 30, 1978, [92 Stat. 873][/us/stat/92/873], and is classified in its entirety to [section 12 of this title][/us/usc/t7/s12].
-
-    Section 12–1, as added [Dec. 19, 1947, ch. 523][/us/act/1947-12-19/ch523], [61 Stat. 941][/us/stat/61/941]; amended Feb. 19, 1968, [Pub. L. 90–258, § 19(b)][/us/pl/90/258/s19/b], [82 Stat. 32][/us/stat/82/32]; Oct. 23, 1974, [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (e), (f), [88 Stat. 1392][/us/stat/88/1392], related to disclosure of names of traders on commodity markets by Commission. See [section 12(e) of this title][/us/usc/t7/s12/e].
-
-    Section 12–2, as added Oct. 23, 1974, [Pub. L. 93–463, title I, § 105][/us/pl/93/463/s105], [88 Stat. 1392][/us/stat/88/1392], required an annual report to Congress. See Codification note under [section 12 of this title][/us/usc/t7/s12].
-
-    Section 12–3, as added Oct. 23, 1974, [Pub. L. 93–463, title I, § 105][/us/pl/93/463/s105], [88 Stat. 1392][/us/stat/88/1392], related to reviews and audits by Comptroller General. See [section 12(i) of this title][/us/usc/t7/s12/i].
-
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s11.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s11.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1...12–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12)
 
 ----------
 ----------
@@ -171,48 +159,48 @@
 [/us/usc/t7/s6f/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa%2F3
 [/us/usc/t7/s6k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6k%2F6
 [/us/usc/t7/s7b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7b%E2%80%931
-[/us/act/1922-09-21/ch369/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs8
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
-[/us/act/1936-06-15/ch545/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs2
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
-[/us/pl/90/258/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs19%2Fa
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F32
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/95/405/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs16
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F873
-[/us/pl/97/444/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2309
-[/us/pl/102/546/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs205
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3600
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13105%2Fg
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s725/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Ff
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1694
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/95/405/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs16
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/246/s13105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fg
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
-[/us/pl/102/546/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs304%2F2
-[/us/pl/102/546/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs305
-[/us/pl/102/546/s402/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F7
-[/us/pl/97/444/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222%2F1
-[/us/pl/97/444/s222/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222%2F2
-[/us/pl/97/444/s222/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222%2F3
-[/us/pl/97/444/s222/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222%2F5
-[/us/pl/97/444/s222/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs222%2F4
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
+[/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
@@ -238,23 +226,5 @@
 [/us/pl/90/258/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs28
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/act/1922-09-21/ch369/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs8
-[/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
-[/us/pl/95/405/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs16
-[/us/stat/92/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F873
-[/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/act/1947-12-19/ch523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-19%2Fch523
-[/us/stat/61/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F941
-[/us/pl/90/258/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs19%2Fb
-[/us/stat/82/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F32
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
-[/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/usc/t7/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12%2Fe
-[/us/pl/93/463/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs105
-[/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/pl/93/463/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs105
-[/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/usc/t7/s12/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12%2Fi
 
 

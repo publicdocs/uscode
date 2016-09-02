@@ -17,7 +17,7 @@
 
     The Secretary, in carrying out programs under [section 612c of this title][/us/usc/t7/s612c] and [section 1755 of title 42][/us/usc/t42/s1755], may utilize the services and facilities of the Commodity Credit Corporation (including but not limited to procurement by contract), and make advance payments to it.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 404, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 106–78, title VII, § 752(b)(2)][/us/pl/106/78/s752/b/2], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 404, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(2), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1054
-[/us/pl/106/78/s752/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F2
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755

@@ -39,7 +39,7 @@
 
         If more than one State organization is certified in a State (or in a unit referred to in [section 2904(1) of this title][/us/usc/t7/s2904/1]), such organizations may caucus to determine any of such State’s (or such unit’s) nominations under [section 2904(1) of this title][/us/usc/t7/s2904/1].
 
-([Pub. L. 94–294, § 6][/us/pl/94/294/s6], May 28, 1976, [90 Stat. 531][/us/stat/90/531]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1603][/us/stat/99/1603].)
+([Pub. L. 94–294][/us/pl/94/294], § 6, May 28, 1976, [90 Stat. 531][/us/stat/90/531]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1603][/us/stat/99/1603].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t7/s2904/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904%2F1
 [/us/usc/t7/s2904/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904%2F1
 [/us/usc/t7/s2904/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2904%2F1
-[/us/pl/94/294/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs6
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F531
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1603
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

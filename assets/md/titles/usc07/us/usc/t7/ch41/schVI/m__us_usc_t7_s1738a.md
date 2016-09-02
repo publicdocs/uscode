@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to encourage and support improvement in the lives of the people of Latin America and the Caribbean through market-oriented reforms and economic growth with inter-related actions to promote debt reduction, investment reforms, and community-based conservation and sustainable use of the environment. The Facility will support such objectives through the administration of debt reduction operations relating to those countries that meet investment reform and other policy conditions provided for in this subchapter.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 602, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 602, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3658
 
 

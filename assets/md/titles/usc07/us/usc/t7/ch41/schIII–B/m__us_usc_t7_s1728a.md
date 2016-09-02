@@ -31,7 +31,7 @@
 
         The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations in furtherance of the purposes and within the limitations of this subchapter.
 
-([Pub. L. 98–473, title III, § 303][/us/pl/98/473/s303], Oct. 12, 1984, [98 Stat. 2194][/us/stat/98/2194].)
+([Pub. L. 98–473, title III][/us/pl/98/473/tIII], § 303, Oct. 12, 1984, [98 Stat. 2194][/us/stat/98/2194].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs303
+[/us/pl/98/473/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtIII
 [/us/stat/98/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2194
 
 

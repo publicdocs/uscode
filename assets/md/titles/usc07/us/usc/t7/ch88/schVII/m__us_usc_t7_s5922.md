@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5921a.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5923.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5922)
 
-## § 5922. Repealed. [Pub. L. 107–171, title X, § 10705(b)][/us/pl/107/171/s10705/b], May 13, 2002, [116 Stat. 519][/us/stat/116/519]
+## § 5922. Repealed. [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10705(b), May 13, 2002, [116 Stat. 519][/us/stat/116/519]
 
-    Section, [Pub. L. 101–624, title XVI, § 1669][/us/pl/101/624/s1669], Nov. 28, 1990, [104 Stat. 3768][/us/stat/104/3768], related to Graduate School of Department of Agriculture.
+    Section, [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1669, Nov. 28, 1990, [104 Stat. 3768][/us/stat/104/3768], related to Graduate School of Department of Agriculture.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10705%2Fb
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F519
-[/us/pl/101/624/s1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1669
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3768
 [/us/pl/107/171/s10705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10705%2Fc
 [/us/usc/t7/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279b

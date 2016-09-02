@@ -49,7 +49,7 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title VI, § 603, as added [Pub. L. 113–79, title VI, § 6105][/us/pl/113/79/s6105], Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title VI, § 603, as added [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6105, Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/113/79/s6105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6105
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F856
 
 

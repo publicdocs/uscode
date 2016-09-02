@@ -17,15 +17,15 @@
 
     On and after November 10, 2005, agencies and offices of the Department of Agriculture may utilize any available discretionary funds to cover the costs of preparing, or contracting for the preparation of, final agency decisions regarding complaints of discrimination in employment or program activities arising within such agencies and offices.
 
-([Pub. L. 109–97, title VII, § 751][/us/pl/109/97/s751], Nov. 10, 2005, [119 Stat. 2156][/us/stat/119/2156].)
+([Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 751, Nov. 10, 2005, [119 Stat. 2156][/us/stat/119/2156].)
 
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. A, title VII, § 763][/us/pl/108/447/s763], Dec. 8, 2004, [118 Stat. 2847][/us/stat/118/2847].
+    [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 763, Dec. 8, 2004, [118 Stat. 2847][/us/stat/118/2847].
 
-    [Pub. L. 108–199, div. A, title VII, § 762][/us/pl/108/199/s762], Jan. 23, 2004, [118 Stat. 39][/us/stat/118/39].
+    [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 762, Jan. 23, 2004, [118 Stat. 39][/us/stat/118/39].
 
 ----------
 
@@ -34,11 +34,11 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/109/97/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs751
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2156
-[/us/pl/108/447/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs763
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2847
-[/us/pl/108/199/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs762
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F39
 
 

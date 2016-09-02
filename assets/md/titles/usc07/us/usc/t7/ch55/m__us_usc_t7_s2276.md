@@ -73,19 +73,19 @@
 
         This section shall not prohibit the release of information under [section 2204g(f)(2) of this title][/us/usc/t7/s2204g/f/2].
 
-([Pub. L. 99–198, title XVII, § 1770][/us/pl/99/198/s1770], Dec. 23, 1985, [99 Stat. 1657][/us/stat/99/1657]; [Pub. L. 105–113, § 4(a)(2)][/us/pl/105/113/s4/a/2], (b), Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 348\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–207; [Pub. L. 107–171, title II, § 2004(b)][/us/pl/107/171/s2004/b], May 13, 2002, [116 Stat. 236][/us/stat/116/236].)
+([Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1770, Dec. 23, 1985, [99 Stat. 1657][/us/stat/99/1657]; [Pub. L. 105–113][/us/pl/105/113], § 4(a)(2), (b), Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 348\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–207; [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2004(b), May 13, 2002, [116 Stat. 236][/us/stat/116/236].)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(3). [Pub. L. 107–171, § 2004(b)(1)][/us/pl/107/171/s2004/b/1], added par. (3).
+    2002—Subsec. (a)(3). [Pub. L. 107–171][/us/pl/107/171], § 2004(b)(1), added par. (3).
 
-    Subsec. (d)(12). [Pub. L. 107–171, § 2004(b)(2)][/us/pl/107/171/s2004/b/2], added par. (12).
+    Subsec. (d)(12). [Pub. L. 107–171][/us/pl/107/171], § 2004(b)(2), added par. (12).
 
     1999—Subsec. (d)(10), (11). [Pub. L. 106–113][/us/pl/106/113] added par. (10) and redesignated former par. (10) as (11).
 
-    1997—Subsec. (d)(10). [Pub. L. 105–113, § 4(a)(2)][/us/pl/105/113/s4/a/2], added par. (10).
+    1997—Subsec. (d)(10). [Pub. L. 105–113][/us/pl/105/113], § 4(a)(2), added par. (10).
 
-    Subsec. (e). [Pub. L. 105–113, § 4(b)][/us/pl/105/113/s4/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–113][/us/pl/105/113], § 4(b), added subsec. (e).
 
 ----------
 
@@ -107,18 +107,18 @@
 [/us/usc/t7/s2204g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g
 [/us/usc/t7/s1010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010a
 [/us/usc/t7/s2204g/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g%2Ff%2F2
-[/us/pl/99/198/s1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1770
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1657
-[/us/pl/105/113/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs4%2Fa%2F2
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2276
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/107/171/s2004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2004%2Fb
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F236
-[/us/pl/107/171/s2004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2004%2Fb%2F1
-[/us/pl/107/171/s2004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2004%2Fb%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/113/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs4%2Fa%2F2
-[/us/pl/105/113/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs4%2Fb
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 
 

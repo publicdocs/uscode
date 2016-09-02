@@ -49,15 +49,15 @@
 
         The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 101–624, title XIX, § 1974][/us/pl/101/624/s1974], Nov. 28, 1990, [104 Stat. 3903][/us/stat/104/3903]; [Pub. L. 102–237, title VIII, § 806(3)][/us/pl/102/237/s806/3], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1974, Nov. 28, 1990, [104 Stat. 3903][/us/stat/104/3903]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 806(3), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
-    1991—Subsec. (b). [Pub. L. 102–237, § 806(3)(B)][/us/pl/102/237/s806/3/B], redesignated second subsec. (b), relating to amendments to orders, as (c).
+    1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
 
-    Subsec. (b)(3). [Pub. L. 102–237, § 806(3)(A)][/us/pl/102/237/s806/3/A], substituted “section 6304(l)(4)” for “section 6304(k)(4)”.
+    Subsec. (b)(3). [Pub. L. 102–237][/us/pl/102/237], § 806(3)(A), substituted “section 6304(l)(4)” for “section 6304(k)(4)”.
 
-    Subsec. (c). [Pub. L. 102–237, § 806(3)(B)][/us/pl/102/237/s806/3/B], redesignated second subsec. (b), relating to amendments of orders, as (c).
+    Subsec. (c). [Pub. L. 102–237][/us/pl/102/237], § 806(3)(B), redesignated second subsec. (b), relating to amendments of orders, as (c).
 
 ----------
 
@@ -69,12 +69,12 @@
 [/us/usc/t7/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6303
 [/us/usc/t7/s6305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6305%2Fa
 [/us/usc/t7/s6305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6305%2Fa
-[/us/pl/101/624/s1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1974
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3903
-[/us/pl/102/237/s806/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F3
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
-[/us/pl/102/237/s806/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F3%2FB
-[/us/pl/102/237/s806/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F3%2FA
-[/us/pl/102/237/s806/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F3%2FB
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

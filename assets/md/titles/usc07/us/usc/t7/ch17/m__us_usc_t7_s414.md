@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s411b.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s412 _us_usc_t7_s413.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
 
-## § 414. Repealed. [Aug. 9, 1955, ch. 632, § 2][/us/act/1955-08-09/ch632/s2], [69 Stat. 553][/us/stat/69/553]
+## § 414. Repealed. [Aug. 9, 1955, ch. 632][/us/act/1955-08-09/ch632], § 2, [69 Stat. 553][/us/stat/69/553]
 
-Section, [act July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I, [67 Stat. 217][/us/stat/67/217], related to investigation and certification of any agricultural commodity or food product offered for interstate shipment. See [section 1622(h) of this title][/us/usc/t7/s1622/h]. Similar provisions were contained in the following prior appropriation acts:
+Section, [act July 28, 1953, ch. 251, title I][/us/act/1953-07-28/ch251/tI], [67 Stat. 217][/us/stat/67/217], related to investigation and certification of any agricultural commodity or food product offered for interstate shipment. See [section 1622(h) of this title][/us/usc/t7/s1622/h]. Similar provisions were contained in the following prior appropriation acts:
 
     [July 5, 1952, ch. 574][/us/act/1952-07-05/ch574], title I, [66 Stat. 348][/us/stat/66/348].
 
@@ -75,14 +75,14 @@ Section, [act July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I, [67 St
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s411b.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s412 _us_usc_t7_s413.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
 
 ----------
 ----------
 
-[/us/act/1955-08-09/ch632/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch632%2Fs2
+[/us/act/1955-08-09/ch632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch632
 [/us/stat/69/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F553
-[/us/act/1953-07-28/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch251
+[/us/act/1953-07-28/ch251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch251%2FtI
 [/us/stat/67/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F217
 [/us/usc/t7/s1622/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622%2Fh
 [/us/act/1952-07-05/ch574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch574

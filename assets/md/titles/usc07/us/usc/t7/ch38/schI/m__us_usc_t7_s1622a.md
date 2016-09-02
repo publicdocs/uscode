@@ -17,7 +17,7 @@
 
     The Secretary may provide technical assistance (including information on such financial assistance as may be available) to grain producers and elevator operators to assist such producers and operators in installing or improving grain cleaning, drying or storage equipment.
 
-([Pub. L. 101–624, title XX, § 2014][/us/pl/101/624/s2014], Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
+([Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2014, Nov. 28, 1990, [104 Stat. 3933][/us/stat/104/3933].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2014
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3933
 
 

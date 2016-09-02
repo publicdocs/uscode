@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 110–234, title VII, § 7525][/us/pl/110/234/s7525], May 22, 2008, [122 Stat. 1273][/us/stat/122/1273]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7525, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035; [Pub. L. 113–79, title VII, § 7515][/us/pl/113/79/s7515], Feb. 7, 2014, [128 Stat. 903][/us/stat/128/903].)
+([Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7525, May 22, 2008, [122 Stat. 1273][/us/stat/122/1273]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7525, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7515, Feb. 7, 2014, [128 Stat. 903][/us/stat/128/903].)
 
  __Codification__ 
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t7/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7613
-[/us/pl/110/234/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7525
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1273
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7515
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F903
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

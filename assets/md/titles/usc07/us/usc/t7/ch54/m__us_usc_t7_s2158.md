@@ -97,7 +97,7 @@
 
         Not later than 180 days after November 28, 1990, the Secretary shall promulgate regulations to carry out this section.
 
-([Pub. L. 89–544, § 28][/us/pl/89/544/s28], as added [Pub. L. 101–624, title XXV, § 2503(2)][/us/pl/101/624/s2503/2], Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066]; amended [Pub. L. 102–237, title X, § 1004][/us/pl/102/237/s1004], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
+([Pub. L. 89–544][/us/pl/89/544], § 28, as added [Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2503(2), Nov. 28, 1990, [104 Stat. 4066][/us/stat/104/4066]; amended [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1004, Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
 
  __Amendments__ 
 
@@ -111,10 +111,10 @@
 ----------
 
 [/us/usc/t7/s2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2149
-[/us/pl/89/544/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs28
-[/us/pl/101/624/s2503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2503%2F2
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4066
-[/us/pl/102/237/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1004
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1894
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

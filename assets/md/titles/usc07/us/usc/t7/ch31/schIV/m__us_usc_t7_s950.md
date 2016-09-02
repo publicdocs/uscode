@@ -33,7 +33,7 @@
 
         Congress reserves the right to review the continued operations of the telephone bank after all class A stock has been fully redeemed and retired.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 410, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 36][/us/stat/85/36]; amended [Pub. L. 94–273, § 2(2)][/us/pl/94/273/s2/2], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 101–624, title XXIII, § 2363(b)(2)][/us/pl/101/624/s2363/b/2], Nov. 28, 1990, [104 Stat. 4043][/us/stat/104/4043]; [Pub. L. 103–354, title II, § 235(a)(11)][/us/pl/103/354/s235/a/11], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 410, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 36][/us/stat/85/36]; amended [Pub. L. 94–273][/us/pl/94/273], § 2(2), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2363(b)(2), Nov. 28, 1990, [104 Stat. 4043][/us/stat/104/4043]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(11), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 [/us/usc/t7/s948/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948%2Fa%2F2
 [/us/usc/t7/s948/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948%2Fa%2F2
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F36
-[/us/pl/94/273/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/pl/101/624/s2363/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2363%2Fb%2F2
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4043
-[/us/pl/103/354/s235/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F11
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

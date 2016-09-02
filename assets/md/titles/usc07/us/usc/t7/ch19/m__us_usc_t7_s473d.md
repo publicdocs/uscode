@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to make analyses of fiber properties, spinning tests, and other tests of the quality of cotton samples submitted to him by cotton breeders and other persons, subject to such terms and conditions and to the payment by such cotton breeders and other persons of such fees as he may prescribe by regulations under this chapter. The fees to be assessed hereunder shall be reasonable, and, as nearly as may be, to cover the cost of the service rendered.
 
-([Mar. 3, 1927, ch. 337, § 3d][/us/act/1927-03-03/ch337/s3d], as added [Apr. 7, 1941, ch. 42][/us/act/1941-04-07/ch42], [55 Stat. 131][/us/stat/55/131].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3d, as added [Apr. 7, 1941, ch. 42][/us/act/1941-04-07/ch42], [55 Stat. 131][/us/stat/55/131].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s3d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3d
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/act/1941-04-07/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-07%2Fch42
 [/us/stat/55/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F131
 

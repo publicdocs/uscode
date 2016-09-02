@@ -17,11 +17,11 @@
 
     The Administrator of the Foreign Agricultural Service shall establish a program within the Service that directs attachés of the Service who are reassigned from abroad to the United States, and other personnel of the Service, to visit and consult with producers and exporters of agricultural commodities and products and State officials throughout the United States concerning various methods to increase exports of United States agricultural commodities and products.
 
-([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 109, as added [Pub. L. 101–624, title XV, § 1532][/us/pl/101/624/s1532], Nov. 28, 1990, [104 Stat. 3690][/us/stat/104/3690]; amended [Pub. L. 102–237, title III, § 316][/us/pl/102/237/s316], Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856].)
+([Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title I, § 109, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1532, Nov. 28, 1990, [104 Stat. 3690][/us/stat/104/3690]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 316, Dec. 13, 1991, [105 Stat. 1856][/us/stat/105/1856].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–237, § 316][/us/pl/102/237/s316], made technical amendment to directory language of [Pub. L. 101–624, § 1532][/us/pl/101/624/s1532], which enacted this section, resulting in no change in text.
+    1991—[Pub. L. 102–237][/us/pl/102/237], § 316, made technical amendment to directory language of [Pub. L. 101–624][/us/pl/101/624], § 1532, which enacted this section, resulting in no change in text.
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
-[/us/pl/101/624/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1532
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3690
-[/us/pl/102/237/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs316
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1856
-[/us/pl/102/237/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs316
-[/us/pl/101/624/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1532
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

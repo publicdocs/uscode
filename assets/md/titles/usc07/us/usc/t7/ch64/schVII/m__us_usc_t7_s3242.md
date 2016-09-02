@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 106–78, title VII, § 759][/us/pl/106/78/s759], Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172], which related to education grants to Alaska Native serving institutions and Native Hawaiian serving institutions, was renumbered [section 1419B of title XIV of Pub. L. 95–113][/us/pl/95/113/s1419B], and amended by [Pub. L. 110–234, title VII, § 7112][/us/pl/110/234/s7112], May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7112, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, and was transferred to [section 3156 of this title][/us/usc/t7/s3156].
+    Section, [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 759, Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172], which related to education grants to Alaska Native serving institutions and Native Hawaiian serving institutions, was renumbered [section 1419B of title XIV of Pub. L. 95–113][/us/pl/95/113/tXIV/s1419B], and amended by [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7112, May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7112, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, and was transferred to [section 3156 of this title][/us/usc/t7/s3156].
 
 ----------
 
@@ -26,12 +26,12 @@
 ----------
 ----------
 
-[/us/pl/106/78/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs759
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1172
-[/us/pl/95/113/s1419B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1419B
-[/us/pl/110/234/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7112
+[/us/pl/95/113/tXIV/s1419B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV%2Fs1419B
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1219
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3156
 

@@ -117,7 +117,7 @@
 
             If the plan is approved pursuant to the referendum conducted under [section 7446(a) of this title][/us/usc/t7/s7446/a], all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this subchapter.
 
-([Pub. L. 104–127, title V, § 536][/us/pl/104/127/s536], Apr. 4, 1996, [110 Stat. 1056][/us/stat/110/1056].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 536, Apr. 4, 1996, [110 Stat. 1056][/us/stat/110/1056].)
 
 ----------
 
@@ -136,7 +136,7 @@
 [/us/usc/t7/s7446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7446%2Fa
 [/us/usc/t7/s7446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7446%2Fa
 [/us/usc/t7/s7446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7446%2Fa
-[/us/pl/104/127/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs536
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1056
 
 

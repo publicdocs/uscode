@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title III, § 314, [68 Stat. 905][/us/stat/68/905], related to 1955 wheat acreage allotment in areas where a summer fallow crop rotation of wheat was a common practice.
+    Section, [act Aug. 28, 1954, ch. 1041, title III][/us/act/1954-08-28/ch1041/tIII], § 314, [68 Stat. 905][/us/stat/68/905], related to 1955 wheat acreage allotment in areas where a summer fallow crop rotation of wheat was a common practice.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
+[/us/act/1954-08-28/ch1041/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041%2FtIII
 [/us/stat/68/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F905
 
 

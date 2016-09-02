@@ -19,7 +19,7 @@
 
     (b) For the purpose of determining whether an applicant under this subchapter is not able to obtain sufficient credit elsewhere, the Secretary shall require at least one written indication of declination of credit, from a legally organized lending institution within reasonable proximity to the applicant, that specifies the reasons for the declination: Provided, That for loans in excess of $300,000, the Secretary shall require at least two such written declinations: Provided further, That for loans of $100,000 or less, the Secretary may waive the requirement of this subsection if the Secretary determines that it would impose an undue burden on the applicant.
 
-([Pub. L. 87–128, title III, § 322][/us/pl/87/128/s322], Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 94–68, § 4][/us/pl/94/68/s4], Aug. 5, 1975, [89 Stat. 381][/us/stat/89/381]; [Pub. L. 96–438, § 3(b)(1)][/us/pl/96/438/s3/b/1], Oct. 13, 1980, [94 Stat. 1873][/us/stat/94/1873]; [Pub. L. 104–127, title VI, § 622][/us/pl/104/127/s622], Apr. 4, 1996, [110 Stat. 1091][/us/stat/110/1091].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 322, Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 94–68][/us/pl/94/68], § 4, Aug. 5, 1975, [89 Stat. 381][/us/stat/89/381]; [Pub. L. 96–438][/us/pl/96/438], § 3(b)(1), Oct. 13, 1980, [94 Stat. 1873][/us/stat/94/1873]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 622, Apr. 4, 1996, [110 Stat. 1091][/us/stat/110/1091].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/87/128/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs322
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F311
-[/us/pl/94/68/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F68%2Fs4
+[/us/pl/94/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F68
 [/us/stat/89/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F381
-[/us/pl/96/438/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs3%2Fb%2F1
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1873
-[/us/pl/104/127/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs622
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1091
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438

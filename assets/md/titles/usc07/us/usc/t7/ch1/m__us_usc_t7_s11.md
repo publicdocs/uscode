@@ -17,7 +17,7 @@
 
     Any person that has been designated or registered a registered entity in the manner provided in this chapter may have such designation or registration vacated and set aside by giving notice in writing to the Commission requesting that its designation or registration as a registered entity be vacated, which notice shall be served at least ninety days prior to the date named therein as the date when the vacation of designation or registration shall take effect. Upon receipt of such notice the Commission shall forthwith order the vacation of the designation or registration of the registered entity, effective upon the day named in the notice, and shall forthwith send a copy of the notice and its order to all other registered entities. From and after the date upon which the vacation became effective the said person can thereafter be designated or registered again a registered entity by making application to the Commission in the manner in this chapter provided for an original application.
 
-([Sept. 21, 1922, ch. 369, § 7][/us/act/1922-09-21/ch369/s7], [42 Stat. 1002][/us/stat/42/1002]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (e), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(17)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 7, [42 Stat. 1002][/us/stat/42/1002]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (e), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(17)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409.)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs7
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1002
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463

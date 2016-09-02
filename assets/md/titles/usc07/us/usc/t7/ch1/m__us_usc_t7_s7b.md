@@ -17,7 +17,7 @@
 
     The failure of a registered entity to comply with any provision of this chapter, or any regulation or order of the Commission under this chapter, shall be cause for the suspension of the registered entity for a period not to exceed 180 days, or revocation of designation as a registered entity, in accordance with the procedures and subject to the judicial review provided in [section 8(b) of this title][/us/usc/t7/s8/b].
 
-([Sept. 21, 1922, ch. 369, § 5e][/us/act/1922-09-21/ch369/s5e], formerly § 5b, as added [June 15, 1936, ch. 545, § 7][/us/act/1936-06-15/ch545/s7], [49 Stat. 1498][/us/stat/49/1498]; amended [Pub. L. 90–258, § 13][/us/pl/90/258/s13], Feb. 19, 1968, [82 Stat. 30][/us/stat/82/30]; [Pub. L. 93–463, title I, § 103(a)][/us/pl/93/463/s103/a], (b), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 102–546, title II, § 209(b)(3)][/us/pl/102/546/s209/b/3], Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607]; renumbered § 5e and amended [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 110(1), 115\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384, 2763A–402; [Pub. L. 110–234, title XIII, § 13203][/us/pl/110/234/s13203](l), May 22, 2008, [122 Stat. 1441][/us/stat/122/1441]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13203(l), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2203; [Pub. L. 111–203, title VII, § 749(d)][/us/pl/111/203/s749/d], July 21, 2010, [124 Stat. 1747][/us/stat/124/1747].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 5e, formerly § 5b, as added [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 7, [49 Stat. 1498][/us/stat/49/1498]; amended [Pub. L. 90–258][/us/pl/90/258], § 13, Feb. 19, 1968, [82 Stat. 30][/us/stat/82/30]; [Pub. L. 93–463, title I][/us/pl/93/463/tI], § 103(a), (b), Oct. 23, 1974, [88 Stat. 1392][/us/stat/88/1392]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 209(b)(3), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607]; renumbered § 5e and amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, §§ 110(1), 115\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–384, 2763A–402; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13203(l), May 22, 2008, [122 Stat. 1441][/us/stat/122/1441]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13203(l), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2203; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 749(d), July 21, 2010, [124 Stat. 1747][/us/stat/124/1747].)
 
  __Codification__ 
 
@@ -27,13 +27,13 @@
 
     2010—[Pub. L. 111–203][/us/pl/111/203] struck out “or revocation of the right of an electronic trading facility to rely on the exemption set forth in [section 2(h)(3) of this title][/us/usc/t7/s2/h/3] with respect to a significant price discovery contract,” after “or revocation of designation as a registered entity,”.
 
-    2008—[Pub. L. 110–246, § 13203][/us/pl/110/246/s13203](l), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in [section 2(h)(3) of this title][/us/usc/t7/s2/h/3] with respect to a significant price discovery contract,” after “designation as a registered entity”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 13203(l), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in [section 2(h)(3) of this title][/us/usc/t7/s2/h/3] with respect to a significant price discovery contract,” after “designation as a registered entity”.
 
-    2000—[Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 115\], amended section generally. Prior to amendment, section read as follows: “The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a ‘contract market’ in accordance with the procedure and subject to the judicial review provided in [section 8(b) of this title][/us/usc/t7/s8/b].”
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 115\], amended section generally. Prior to amendment, section read as follows: “The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a ‘contract market’ in accordance with the procedure and subject to the judicial review provided in [section 8(b) of this title][/us/usc/t7/s8/b].”
 
     1992—[Pub. L. 102–546][/us/pl/102/546] substituted reference to [section 8(b) of this title][/us/usc/t7/s8/b] for reference to [section 8 of this title][/us/usc/t7/s8].
 
-    1974—[Pub. L. 93–463, § 103(a)][/us/pl/93/463/s103/a], provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+    1974—[Pub. L. 93–463][/us/pl/93/463], § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
     1968—[Pub. L. 90–258][/us/pl/90/258] substituted “rules, regulations, or orders of the Secretary of Agriculture or the commission” for “rules and regulations of the Secretary of Agriculture”.
 
@@ -67,22 +67,22 @@
 ----------
 
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
-[/us/act/1922-09-21/ch369/s5e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5e
-[/us/act/1936-06-15/ch545/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs7
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1498
-[/us/pl/90/258/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258%2Fs13
+[/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/stat/82/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F30
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtI
 [/us/stat/88/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1392
-[/us/pl/102/546/s209/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fb%2F3
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3607
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13203
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1441
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203/s749/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fd
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1747
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -90,14 +90,14 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s2/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F3
-[/us/pl/110/246/s13203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F3
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/usc/t7/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8%2Fb
 [/us/usc/t7/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8
-[/us/pl/93/463/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs103%2Fa
+[/us/pl/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463
 [/us/pl/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F258
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -67,7 +67,7 @@
 
         The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
-([Pub. L. 113–79, title I, § 1210][/us/pl/113/79/s1210], Feb. 7, 2014, [128 Stat. 686][/us/stat/128/686].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1210, Feb. 7, 2014, [128 Stat. 686][/us/stat/128/686].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1210
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F686
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F687

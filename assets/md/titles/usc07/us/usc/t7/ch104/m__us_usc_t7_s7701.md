@@ -35,7 +35,7 @@
 
     (9) all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
 
-([Pub. L. 106–224, title IV, § 402][/us/pl/106/224/s402], June 20, 2000, [114 Stat. 438][/us/stat/114/438].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 402, June 20, 2000, [114 Stat. 438][/us/stat/114/438].)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Short Title__ 
 
-[Pub. L. 106–224, title IV, § 401][/us/pl/106/224/s401], June 20, 2000, [114 Stat. 438][/us/stat/114/438], provided that: 
+[Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 401, June 20, 2000, [114 Stat. 438][/us/stat/114/438], provided that: 
 
 > “This title \[enacting this chapter, amending [section 7759 of this title][/us/usc/t7/s7759] and [section 129a of Title 21][/us/usc/t21/s129a], Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the ‘Plant Protection Act’.”
 
-[Pub. L. 106–224, title IV, § 451][/us/pl/106/224/s451], as added by [Pub. L. 108–412, § 1][/us/pl/108/412/s1], Oct. 30, 2004, [118 Stat. 2320][/us/stat/118/2320], provided that: 
+[Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 451, as added by [Pub. L. 108–412][/us/pl/108/412], § 1, Oct. 30, 2004, [118 Stat. 2320][/us/stat/118/2320], provided that: 
 
 > “This subtitle \[subtitle E (§§ 451–457) of title IV of [Pub. L. 106–224][/us/pl/106/224], enacting subchapter V of this chapter\] may be cited as the ‘Noxious Weed Control and Eradication Act of 2004’.”
 
@@ -57,7 +57,7 @@
 
  __Regulations To Improve Management and Oversight of Certain Regulated Articles__ 
 
-[Pub. L. 110–234, title X, § 10204][/us/pl/110/234/s10204], May 22, 2008, [122 Stat. 1343][/us/stat/122/1343], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105, provided that:
+[Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10204, May 22, 2008, [122 Stat. 1343][/us/stat/122/1343], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -130,22 +130,22 @@
 ----------
 ----------
 
-[/us/pl/106/224/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs402
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
-[/us/pl/106/224/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs401
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
 [/us/usc/t7/s7759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7759
 [/us/usc/t21/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs129a
-[/us/pl/106/224/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs451
-[/us/pl/108/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412%2Fs1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
+[/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2320
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/234/s10204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10204
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1343
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

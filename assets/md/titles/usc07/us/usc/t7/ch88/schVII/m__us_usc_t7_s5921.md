@@ -71,7 +71,7 @@
 
             Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c).
 
-([Pub. L. 101–624, title XVI, § 1668][/us/pl/101/624/s1668], Nov. 28, 1990, [104 Stat. 3767][/us/stat/104/3767]; [Pub. L. 102–237, title IV, § 407(9)][/us/pl/102/237/s407/9], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 107–171, title VII, § 7210][/us/pl/107/171/s7210], May 13, 2002, [116 Stat. 446][/us/stat/116/446]; [Pub. L. 110–234, title VII, § 7511(c)(21)][/us/pl/110/234/s7511/c/21], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(21), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
+([Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1668, Nov. 28, 1990, [104 Stat. 3767][/us/stat/104/3767]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 407(9), Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7210, May 13, 2002, [116 Stat. 446][/us/stat/116/446]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(21), May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(21), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 
  __Codification__ 
 
@@ -79,7 +79,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 7511(c)(21)][/us/pl/110/246/s7511/c/21], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(21), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), and (d) to (g), and substituting in subsec. (c), provisions relating to research priorities for provisions relating to types of research.
 
@@ -98,21 +98,21 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1668
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3767
-[/us/pl/102/237/s407/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F9
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1865
-[/us/pl/107/171/s7210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7210
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F446
-[/us/pl/110/234/s7511/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F21
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F21
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

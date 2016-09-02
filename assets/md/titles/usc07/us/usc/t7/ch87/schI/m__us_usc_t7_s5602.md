@@ -95,7 +95,7 @@
 
         The term “independent states of the former Soviet Union” means the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-([Pub. L. 95–501, title I, § 102][/us/pl/95/501/s102], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3669][/us/stat/104/3669]; amended [Pub. L. 102–511, title VII, § 702][/us/pl/102/511/s702], Oct. 24, 1992, [106 Stat. 3349][/us/stat/106/3349]; [Pub. L. 104–127, title II, § 243(c)][/us/pl/104/127/s243/c], Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967]; [Pub. L. 107–171, title III, § 3104(b)][/us/pl/107/171/s3104/b], May 13, 2002, [116 Stat. 290][/us/stat/116/290].)
+([Pub. L. 95–501, title I][/us/pl/95/501/tI], § 102, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3669][/us/stat/104/3669]; amended [Pub. L. 102–511, title VII][/us/pl/102/511/tVII], § 702, Oct. 24, 1992, [106 Stat. 3349][/us/stat/106/3349]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 243(c), Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3104(b), May 13, 2002, [116 Stat. 290][/us/stat/116/290].)
 
  __Amendments__ 
 
@@ -117,9 +117,9 @@
 
     “(III) there is no acceptable substitute for such component that is commercially produced in the United States.”
 
-    1992—Par. (1). [Pub. L. 102–511, § 702(a)][/us/pl/102/511/s702/a], substituted “feed, fiber, or livestock (including livestock as it is defined in [section 1471(2) of this title][/us/usc/t7/s1471/2] and insects)” for “feed, or fiber”.
+    1992—Par. (1). [Pub. L. 102–511][/us/pl/102/511], § 702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in [section 1471(2) of this title][/us/usc/t7/s1471/2] and insects)” for “feed, or fiber”.
 
-    Par. (8). [Pub. L. 102–511, § 702(b)][/us/pl/102/511/s702/b], added par. (8).
+    Par. (8). [Pub. L. 102–511][/us/pl/102/511], § 702(b), added par. (8).
 
 ----------
 
@@ -130,19 +130,19 @@
 
 [/us/usc/t7/s1471/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471%2F2
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/95/501/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs102
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/95/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtI
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3669
-[/us/pl/102/511/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs702
+[/us/pl/102/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVII
 [/us/stat/106/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3349
-[/us/pl/104/127/s243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs243%2Fc
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F967
-[/us/pl/107/171/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3104%2Fb
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F290
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/511/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs702%2Fa
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/usc/t7/s1471/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471%2F2
-[/us/pl/102/511/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs702%2Fb
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 
 

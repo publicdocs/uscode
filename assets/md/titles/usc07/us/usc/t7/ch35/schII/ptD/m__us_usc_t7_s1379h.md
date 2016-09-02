@@ -17,7 +17,7 @@
 
     This section shall apply to processors of wheat, warehousemen and exporters of wheat and food products, and all persons purchasing, selling, or otherwise dealing in wheat marketing certificates. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him to carry out the provisions of this part. Such information shall be reported and such records shall be kept in such manner as the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memorandums as he has reason to believe are relevant and are within the control of such person.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379h, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379h, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F629
 [/us/usc/t7/s1379a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379a
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3

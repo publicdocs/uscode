@@ -59,7 +59,7 @@
 
         (5) include an executive summary of the report most recently published by the scientific body, as provided for in subsection (a)(8).
 
-([Pub. L. 101–445, title I, § 102][/us/pl/101/445/s102], Oct. 22, 1990, [104 Stat. 1036][/us/stat/104/1036].)
+([Pub. L. 101–445, title I][/us/pl/101/445/tI], § 102, Oct. 22, 1990, [104 Stat. 1036][/us/stat/104/1036].)
 
  __Termination of Reporting Requirements__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t7/s5313/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313%2Fa%2F3
 [/us/usc/t7/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5313
 [/us/usc/t7/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5332
-[/us/pl/101/445/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs102
+[/us/pl/101/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2FtI
 [/us/stat/104/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1036
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

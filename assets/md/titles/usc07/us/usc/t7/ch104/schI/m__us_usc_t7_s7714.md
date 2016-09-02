@@ -55,7 +55,7 @@
 
         No plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
 
-([Pub. L. 106–224, title IV, § 414][/us/pl/106/224/s414], June 20, 2000, [114 Stat. 444][/us/stat/114/444]; [Pub. L. 107–171, title X, § 10418(b)(1)][/us/pl/107/171/s10418/b/1], May 13, 2002, [116 Stat. 508][/us/stat/116/508].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 414, June 20, 2000, [114 Stat. 444][/us/stat/114/444]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(b)(1), May 13, 2002, [116 Stat. 508][/us/stat/116/508].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1). [Pub. L. 107–171, § 10418(b)(1)(A)][/us/pl/107/171/s10418/b/1/A], struck out “, or the owner’s agent,” after “subsection (a)”.
+    2002—Subsec. (b)(1). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(1)(A), struck out “, or the owner’s agent,” after “subsection (a)”.
 
-    Subsec. (b)(2). [Pub. L. 107–171, § 10418(b)(1)(B)][/us/pl/107/171/s10418/b/1/B], struck out “or agent of the owner” after “the owner” in two places.
+    Subsec. (b)(2). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(1)(B), struck out “or agent of the owner” after “the owner” in two places.
 
  __Transfer of Functions__ 
 
@@ -78,15 +78,15 @@
 ----------
 ----------
 
-[/us/pl/106/224/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs414
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F444
-[/us/pl/107/171/s10418/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
-[/us/pl/107/171/s10418/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1%2FA
-[/us/pl/107/171/s10418/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1%2FB
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

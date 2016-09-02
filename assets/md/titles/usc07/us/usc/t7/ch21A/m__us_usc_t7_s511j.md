@@ -17,7 +17,7 @@
 
     The Secretary is authorized to publish the facts regarding any violation of this chapter.
 
-([Aug. 23, 1935, ch. 623, § 11][/us/act/1935-08-23/ch623/s11], [49 Stat. 734][/us/stat/49/734].)
+([Aug. 23, 1935, ch. 623][/us/act/1935-08-23/ch623], § 11, [49 Stat. 734][/us/stat/49/734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch623/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623%2Fs11
+[/us/act/1935-08-23/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch623
 [/us/stat/49/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F734
 
 

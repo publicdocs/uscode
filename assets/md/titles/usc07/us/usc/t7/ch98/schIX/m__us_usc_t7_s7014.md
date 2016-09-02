@@ -47,7 +47,7 @@
 
         (8) The authority of the Secretary to carry out amendments made to this chapter by the Agricultural Act of 2014.
 
-([Pub. L. 103–354, title II, § 296][/us/pl/103/354/s296], Oct. 13, 1994, [108 Stat. 3238][/us/stat/108/3238]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title X, § 1001(4)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–42; [Pub. L. 107–171, title X, § 10704(c)][/us/pl/107/171/s10704/c], May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title VII, § 7511(b)][/us/pl/110/234/s7511/b], title XIV, § 14013(b), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], 1453; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(b), title XIV, § 14013(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, 2215; [Pub. L. 113–79, title I, § 1610(b)][/us/pl/113/79/s1610/b], Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 296, Oct. 13, 1994, [108 Stat. 3238][/us/stat/108/3238]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title X, § 1001(4)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–42; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10704(c), May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(b), title XIV, § 14013(b), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], 1453; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(b), title XIV, § 14013(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, 2215; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1610(b), Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 1610(b)(2)][/us/pl/113/79/s1610/b/2]–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 1610(b)(2)–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
 
-    [Pub. L. 113–79, § 1610(b)(1)][/us/pl/113/79/s1610/b/1], substituted “affect:” for “affect—” in introductory provisions.
+    [Pub. L. 113–79][/us/pl/113/79], § 1610(b)(1), substituted “affect:” for “affect—” in introductory provisions.
 
-    Subsec. (b)(8). [Pub. L. 113–79, § 1610(b)(5)][/us/pl/113/79/s1610/b/5], added par. (8).
+    Subsec. (b)(8). [Pub. L. 113–79][/us/pl/113/79], § 1610(b)(5), added par. (8).
 
-    2008—Subsec. (b)(6). [Pub. L. 110–246, § 7511(b)][/us/pl/110/246/s7511/b], added par. (6).
+    2008—Subsec. (b)(6). [Pub. L. 110–246][/us/pl/110/246], § 7511(b), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 110–246, § 14013(b)][/us/pl/110/246/s14013/b], added par. (7).
+    Subsec. (b)(7). [Pub. L. 110–246][/us/pl/110/246], § 14013(b), added par. (7).
 
     2002—Subsec. (b)(5). [Pub. L. 107–171][/us/pl/107/171] added par. (5).
 
@@ -93,17 +93,17 @@
 [/us/usc/t7/s6918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6918
 [/us/usc/t7/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6971
 [/us/usc/t7/s6934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6934
-[/us/pl/103/354/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs296
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3238
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171/s10704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10704%2Fc
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F518
-[/us/pl/110/234/s7511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fb
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1267
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F710
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
@@ -117,11 +117,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s1610/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F2
-[/us/pl/113/79/s1610/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F1
-[/us/pl/113/79/s1610/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F5
-[/us/pl/110/246/s7511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fb
-[/us/pl/110/246/s14013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14013%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

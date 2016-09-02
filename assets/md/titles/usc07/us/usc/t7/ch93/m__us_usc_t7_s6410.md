@@ -51,7 +51,7 @@
 
             (B) to take such further proceedings as, in the opinion of the court, the law requires.
 
-([Pub. L. 101–624, title XIX, § 1999K][/us/pl/101/624/s1999K], Nov. 28, 1990, [104 Stat. 3921][/us/stat/104/3921].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999K, Nov. 28, 1990, [104 Stat. 3921][/us/stat/104/3921].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999K
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3921
 
 

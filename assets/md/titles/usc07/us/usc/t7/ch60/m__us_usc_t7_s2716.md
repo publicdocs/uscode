@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make regulations with force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-([Pub. L. 93–428, § 17][/us/pl/93/428/s17], Oct. 1, 1974, [88 Stat. 1178][/us/stat/88/1178].)
+([Pub. L. 93–428][/us/pl/93/428], § 17, Oct. 1, 1974, [88 Stat. 1178][/us/stat/88/1178].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/428/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs17
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1178
 
 

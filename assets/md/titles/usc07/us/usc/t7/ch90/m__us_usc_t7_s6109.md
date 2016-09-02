@@ -17,7 +17,7 @@
 
     Nothing in this chapter may be construed to preempt or supersede any other program relating to mushroom promotion, research, consumer information, or industry information organized and operated under the laws of the United States or any State.
 
-([Pub. L. 101–624, title XIX, § 1930][/us/pl/101/624/s1930], Nov. 28, 1990, [104 Stat. 3865][/us/stat/104/3865].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1930, Nov. 28, 1990, [104 Stat. 3865][/us/stat/104/3865].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1930
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3865
 
 

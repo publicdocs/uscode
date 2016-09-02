@@ -33,7 +33,7 @@
 
         The term “function” means an administrative, financial, or regulatory activity of an agency, office, officer, or employee of the Department.
 
-([Pub. L. 103–354, title II, § 203][/us/pl/103/354/s203], Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 203, Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t7/s6992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6992
-[/us/pl/103/354/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs203
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209

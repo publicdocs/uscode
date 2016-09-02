@@ -19,7 +19,7 @@
 
     (b) Effective only for the 1991 through 1995 crops of wheat, feed grains, cotton, and rice, the Secretary of Agriculture may provide for annual adjustments in the established prices for such program crops to reflect any change during the last calendar year ending before the beginning of each such crop year in the index of prices paid by farmers for production items, interest, taxes, and wage rates in such calendar year.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 402, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 101–624, title XI, § 1127][/us/pl/101/624/s1127], Nov. 28, 1990, [104 Stat. 3508][/us/stat/104/3508].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 402, [63 Stat. 1054][/us/stat/63/1054]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1127, Nov. 28, 1990, [104 Stat. 3508][/us/stat/104/3508].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1054
-[/us/pl/101/624/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1127
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3508
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

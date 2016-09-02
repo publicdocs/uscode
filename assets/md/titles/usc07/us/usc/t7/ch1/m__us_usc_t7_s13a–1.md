@@ -63,7 +63,7 @@
 
         The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to [section 6f(a)(2) of this title][/us/usc/t7/s6f/a/2], any floor broker or floor trader exempt from registration pursuant to [section 6f(a)(3) of this title][/us/usc/t7/s6f/a/3], any associated person exempt from registration pursuant to [section 6k(6) of this title][/us/usc/t7/s6k/6], or any board of trade designated as a contract market pursuant to [section 7b–1 of this title][/us/usc/t7/s7b–1].
 
-([Sept. 21, 1922, ch. 369, § 6c][/us/act/1922-09-21/ch369/s6c], as added [Pub. L. 93–463, title II, § 211][/us/pl/93/463/s211], Oct. 23, 1974, [88 Stat. 1402][/us/stat/88/1402]; amended [Pub. L. 97–444, title II, § 220][/us/pl/97/444/s220], Jan. 11, 1983, [96 Stat. 2308][/us/stat/96/2308]; [Pub. L. 99–641, title I, § 104][/us/pl/99/641/s104], Nov. 10, 1986, [100 Stat. 3557][/us/stat/100/3557]; [Pub. L. 102–546, title II, § 221][/us/pl/102/546/s221], Oct. 28, 1992, [106 Stat. 3614][/us/stat/106/3614]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(15), title II, § 253(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409, 2763A–449; [Pub. L. 110–234, title XIII, § 13103(c)][/us/pl/110/234/s13103/c], May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13103(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 741(b)(5), 744, July 21, 2010, [124 Stat. 1731][/us/stat/124/1731], 1735.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 6c, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 211, Oct. 23, 1974, [88 Stat. 1402][/us/stat/88/1402]; amended [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 220, Jan. 11, 1983, [96 Stat. 2308][/us/stat/96/2308]; [Pub. L. 99–641, title I][/us/pl/99/641/tI], § 104, Nov. 10, 1986, [100 Stat. 3557][/us/stat/100/3557]; [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 221, Oct. 28, 1992, [106 Stat. 3614][/us/stat/106/3614]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(15), title II, § 253(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409, 2763A–449; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], § 13103(c), May 22, 2008, [122 Stat. 1434][/us/stat/122/1434]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, § 13103(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2196; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 741(b)(5), 744, July 21, 2010, [124 Stat. 1731][/us/stat/124/1731], 1735.)
 
  __Codification__ 
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 741(b)(5)][/us/pl/111/203/s741/b/5], inserted “or any swap” after “commodity for future delivery”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 741(b)(5), inserted “or any swap” after “commodity for future delivery”.
 
-    Subsec. (d)(3). [Pub. L. 111–203, § 744][/us/pl/111/203/s744], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–203][/us/pl/111/203], § 744, added par. (3).
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 13103(c)][/us/pl/110/246/s13103/c], inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(15)\], substituted “registered entity” for “contract market”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(15)\], substituted “registered entity” for “contract market”.
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 253(c)\], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 253(c)\], added subsec. (h).
 
     1992—[Pub. L. 102–546][/us/pl/102/546] designated first, second, and third sentences as subsecs. (a) to (c), respectively, added subsec. (d), and designated fourth, fifth, and sixth sentences as subsecs. (e) to (g), respectively.
 
@@ -114,32 +114,32 @@
 [/us/usc/t7/s6f/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa%2F3
 [/us/usc/t7/s6k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6k%2F6
 [/us/usc/t7/s7b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7b%E2%80%931
-[/us/act/1922-09-21/ch369/s6c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs6c
-[/us/pl/93/463/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs211
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1402
-[/us/pl/97/444/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs220
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2308
-[/us/pl/99/641/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs104
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3557
-[/us/pl/102/546/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs221
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3614
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234/s13103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13103%2Fc
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1434
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1731
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s741/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F5
-[/us/pl/111/203/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs744
-[/us/pl/110/246/s13103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13103%2Fc
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444

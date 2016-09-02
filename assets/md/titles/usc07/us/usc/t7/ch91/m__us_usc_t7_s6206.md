@@ -55,7 +55,7 @@
 
             The pendency of proceedings instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to [section 6207 of this title][/us/usc/t7/s6207].
 
-([Pub. L. 101–624, title XIX, § 1957][/us/pl/101/624/s1957], Nov. 28, 1990, [104 Stat. 3876][/us/stat/104/3876].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1957, Nov. 28, 1990, [104 Stat. 3876][/us/stat/104/3876].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t7/s6207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6207
-[/us/pl/101/624/s1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1957
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3876
 
 

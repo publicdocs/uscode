@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Mar. 4, 1923, ch. 288, § 13][/us/act/1923-03-04/ch288/s13], [42 Stat. 1520][/us/stat/42/1520].)
+([Mar. 4, 1923, ch. 288][/us/act/1923-03-04/ch288], § 13, [42 Stat. 1520][/us/stat/42/1520].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch288/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288%2Fs13
+[/us/act/1923-03-04/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch288
 [/us/stat/42/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1520
 
 

@@ -39,7 +39,7 @@
 
     (5) Any swap dealer or major swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of [section 2(h) of this title][/us/usc/t7/s2/h] shall be liable for a civil money penalty in twice the amount otherwise available for a violation of [section 2(h) of this title][/us/usc/t7/s2/h].
 
-([Sept. 21, 1922, ch. 369, § 6(e)][/us/act/1922-09-21/ch369/s6/e], formerly § 6(d), as added [Pub. L. 93–463, title II, § 212(a)(3)][/us/pl/93/463/s212/a/3], Oct. 23, 1974, [88 Stat. 1403][/us/stat/88/1403]; renumbered § 6(e) and amended [Pub. L. 102–546, title II, § 209(a)(1)][/us/pl/102/546/s209/a/1], (5), Oct. 28, 1992, [106 Stat. 3606][/us/stat/106/3606]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(12)(E)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409; [Pub. L. 111–203, title VII, § 741(b)(11)][/us/pl/111/203/s741/b/11], July 21, 2010, [124 Stat. 1732][/us/stat/124/1732].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 6(e), formerly § 6(d), as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 212(a)(3), Oct. 23, 1974, [88 Stat. 1403][/us/stat/88/1403]; renumbered § 6(e) and amended [Pub. L. 102–546, title II][/us/pl/102/546/tII], § 209(a)(1), (5), Oct. 28, 1992, [106 Stat. 3606][/us/stat/106/3606]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(12)(E)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–409; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 741(b)(11), July 21, 2010, [124 Stat. 1732][/us/stat/124/1732].)
 
  __Codification__ 
 
@@ -76,14 +76,14 @@
 [/us/usc/t7/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh
 [/us/usc/t7/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh
 [/us/usc/t7/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh
-[/us/act/1922-09-21/ch369/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs6%2Fe
-[/us/pl/93/463/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs212%2Fa%2F3
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1403
-[/us/pl/102/546/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs209%2Fa%2F1
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3606
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s741/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fb%2F11
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1732
 [/us/usc/t7/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8
 [/us/usc/t7/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9

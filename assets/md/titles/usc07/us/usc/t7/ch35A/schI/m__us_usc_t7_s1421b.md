@@ -25,7 +25,7 @@
 
     (4) correct weaknesses in its various forecasting components.
 
-([Pub. L. 101–624, title XXV, § 2512][/us/pl/101/624/s2512], Nov. 28, 1990, [104 Stat. 4073][/us/stat/104/4073]; [Pub. L. 104–66, title I, § 1011(b)][/us/pl/104/66/s1011/b], Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709].)
+([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2512, Nov. 28, 1990, [104 Stat. 4073][/us/stat/104/4073]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(b), Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709].)
 
  __Codification__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/101/624/s2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2512
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4073
-[/us/pl/104/66/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F709
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

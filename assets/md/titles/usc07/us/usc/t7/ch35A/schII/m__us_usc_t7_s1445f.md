@@ -17,7 +17,7 @@
 
     The President is encouraged to enter into negotiations with other nations to develop an international system of food reserves to provide for humanitarian food relief needs and to establish and maintain a food reserve, as a contribution of the United States toward the development of such a system, to be made available in the event of food emergencies in foreign countries. The reserves shall be known as the International Emergency Food Reserve.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 111, as added [Pub. L. 95–113, title XI, § 1102][/us/pl/95/113/s1102], Sept. 29, 1977, [91 Stat. 953][/us/stat/91/953].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 111, as added [Pub. L. 95–113, title XI][/us/pl/95/113/tXI], § 1102, Sept. 29, 1977, [91 Stat. 953][/us/stat/91/953].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/95/113/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1102
+[/us/pl/95/113/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXI
 [/us/stat/91/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F953
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307

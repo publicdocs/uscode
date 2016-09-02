@@ -1393,7 +1393,7 @@
 
         Beginning with the 2015 crop year, a producer that produces an agricultural commodity on both dry land and irrigated land may elect a different coverage level for each production practice.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II, § 208(a)][/us/pl/100/387/s208/a], Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI, § 601(4)][/us/pl/102/237/s601/4], (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I, § 106][/us/pl/103/354/s106], Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII, § 780][/us/pl/109/97/s780], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957][/us/stat/128/954-957], 960, 961, 963, 966, 973, 977, 988; [Pub. L. 114–74, title II, § 201][/us/pl/114/74/s201], Nov. 2, 2015, [129 Stat. 587][/us/stat/129/587]; [Pub. L. 114–94, div. C, title XXXII, § 32205][/us/pl/114/94/s32205], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365/tI], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II][/us/pl/100/387/tII], § 208(a), Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624/tXXII], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI][/us/pl/102/237/tVI], § 601(4), (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV][/us/pl/103/66/tXIV], § 1403(b)(1), (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I][/us/pl/103/354/tI], § 106, Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185/tV], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224/tI], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171/tX], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 780, Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79/tXI], §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957][/us/stat/128/954-957], 960, 961, 963, 966, 973, 977, 988; [Pub. L. 114–74, title II][/us/pl/114/74/tII], § 201, Nov. 2, 2015, [129 Stat. 587][/us/stat/129/587]; [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32205, Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740].)
 
  __References in Text__ 
 
@@ -1405,7 +1405,7 @@
 
     The Organic Foods Production Act of 1990, referred to in subsec. (c)(6)(D)(i), is title XXI of [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title][/us/usc/t7/s6501] and Tables.
 
-    [Section 7759 of this title][/us/usc/t7/s7759], referred to in subsec. (g)(5)(A)(i), was amended by [Pub. L. 106–224, title IV, § 438(a)(3)][/us/pl/106/224/s438/a/3], June 20, 2000, [114 Stat. 454][/us/stat/114/454], and, as amended, no longer contains provisions defining the term “plant pest”. See [section 7702 of this title][/us/usc/t7/s7702].
+    [Section 7759 of this title][/us/usc/t7/s7759], referred to in subsec. (g)(5)(A)(i), was amended by [Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438(a)(3), June 20, 2000, [114 Stat. 454][/us/stat/114/454], and, as amended, no longer contains provisions defining the term “plant pest”. See [section 7702 of this title][/us/usc/t7/s7702].
 
     Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in subsec. (k)(5), is [section 118 of Pub. L. 103–354][/us/pl/103/354/s118], which is set out as a note under [section 1506 of this title][/us/usc/t7/s1506].
 
@@ -1421,9 +1421,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (k)(8). [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205], repealed [Pub. L. 114–74, § 201][/us/pl/114/74/s201], effective Nov. 2, 2105, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
+    2015—Subsec. (k)(8). [Pub. L. 114–94][/us/pl/114/94], § 32205, repealed [Pub. L. 114–74][/us/pl/114/74], § 201, effective Nov. 2, 2105, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
 
-    Subsec. (k)(8)(A). [Pub. L. 114–74, § 201(1)][/us/pl/114/74/s201/1], which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+    Subsec. (k)(8)(A). [Pub. L. 114–74][/us/pl/114/74], § 201(1), which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
 
     “(i) not later than December 31, 2016; and
 
@@ -1435,171 +1435,171 @@
 
     “(ii) once during each period of 5 reinsurance years thereafter.”,
 
-    was repealed by [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205]. See above.
+    was repealed by [Pub. L. 114–94][/us/pl/114/94], § 32205. See above.
 
-    Subsec. (k)(8)(E). [Pub. L. 114–74, § 201(2)][/us/pl/114/74/s201/2], which directed striking subpar. (E) and adding a new subpar. (E) to read “Cap on overall rate of return.—Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.”, was repealed by [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205]. See above.
+    Subsec. (k)(8)(E). [Pub. L. 114–74][/us/pl/114/74], § 201(2), which directed striking subpar. (E) and adding a new subpar. (E) to read “Cap on overall rate of return.—Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.”, was repealed by [Pub. L. 114–94][/us/pl/114/94], § 32205. See above.
 
-    2014—Subsec. (a)(9)(C). [Pub. L. 113–79, § 11002][/us/pl/113/79/s11002], added subpar. (C).
+    2014—Subsec. (a)(9)(C). [Pub. L. 113–79][/us/pl/113/79], § 11002, added subpar. (C).
 
-    Subsec. (b)(1). [Pub. L. 113–79, § 12305(b)][/us/pl/113/79/s12305/b], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.”
+    Subsec. (b)(1). [Pub. L. 113–79][/us/pl/113/79], § 12305(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.”
 
-    Subsec. (b)(5)(E). [Pub. L. 113–79, § 11016(b)(1)][/us/pl/113/79/s11016/b/1], inserted “and beginning farmers or ranchers” after “limited resource farmers”.
+    Subsec. (b)(5)(E). [Pub. L. 113–79][/us/pl/113/79], § 11016(b)(1), inserted “and beginning farmers or ranchers” after “limited resource farmers”.
 
-    Subsec. (b)(7) to (11). [Pub. L. 113–79, § 11028(a)(1)][/us/pl/113/79/s11028/a/1], redesignated pars. (8) to (11) as (7) to (10), respectively, and struck out former par. (7) which related to eligibility for Department programs.
+    Subsec. (b)(7) to (11). [Pub. L. 113–79][/us/pl/113/79], § 11028(a)(1), redesignated pars. (8) to (11) as (7) to (10), respectively, and struck out former par. (7) which related to eligibility for Department programs.
 
-    Subsec. (c)(3). [Pub. L. 113–79, § 11003(a)][/us/pl/113/79/s11003/a], added par. (3) and struck out former par. (3). Text read as follows: “A producer shall have the option of purchasing additional coverage based on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.”
+    Subsec. (c)(3). [Pub. L. 113–79][/us/pl/113/79], § 11003(a), added par. (3) and struck out former par. (3). Text read as follows: “A producer shall have the option of purchasing additional coverage based on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.”
 
-    Subsec. (c)(3)(C). [Pub. L. 113–79, § 11004][/us/pl/113/79/s11004], added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 113–79][/us/pl/113/79], § 11004, added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 113–79, § 11003(b)][/us/pl/113/79/s11003/b], added par. (4) and struck out former par. (4). Text read as follows: “The level of coverage shall be dollar denominated and may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).”
+    Subsec. (c)(4). [Pub. L. 113–79][/us/pl/113/79], § 11003(b), added par. (4) and struck out former par. (4). Text read as follows: “The level of coverage shall be dollar denominated and may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).”
 
-    Subsec. (c)(6)(D). [Pub. L. 113–79, § 11023(a)][/us/pl/113/79/s11023/a], added subpar. (D).
+    Subsec. (c)(6)(D). [Pub. L. 113–79][/us/pl/113/79], § 11023(a), added subpar. (D).
 
-    Subsec. (d)(2)(A). [Pub. L. 113–79, § 11005][/us/pl/113/79/s11005], added subpar. (A) and struck out former subpar. (A) which read as follows: “In the case of catastrophic risk protection, the amount of the premium shall be sufficient to cover anticipated losses and a reasonable reserve.”
+    Subsec. (d)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 11005, added subpar. (A) and struck out former subpar. (A) which read as follows: “In the case of catastrophic risk protection, the amount of the premium shall be sufficient to cover anticipated losses and a reasonable reserve.”
 
-    Subsec. (e)(2). [Pub. L. 113–79, § 11028(a)(2)][/us/pl/113/79/s11028/a/2], substituted “paragraphs (3), (6), and (7)” for “paragraph (3)” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 113–79][/us/pl/113/79], § 11028(a)(2), substituted “paragraphs (3), (6), and (7)” for “paragraph (3)” in introductory provisions.
 
-    Subsec. (e)(2)(H). [Pub. L. 113–79, § 11003(c)][/us/pl/113/79/s11003/c], added subpar. (H).
+    Subsec. (e)(2)(H). [Pub. L. 113–79][/us/pl/113/79], § 11003(c), added subpar. (H).
 
-    Subsec. (e)(5)(A). [Pub. L. 113–79, § 11006][/us/pl/113/79/s11006], added subpar. (A) and struck out former subpar. (A). Text read as follows: “The Corporation may carry out a pilot program under which the Corporation pays a portion of the premiums for plans or policies of insurance for which the insurable unit is defined on a whole farm or enterprise unit basis that is higher than would otherwise be paid in accordance with paragraph (2).”
+    Subsec. (e)(5)(A). [Pub. L. 113–79][/us/pl/113/79], § 11006, added subpar. (A) and struck out former subpar. (A). Text read as follows: “The Corporation may carry out a pilot program under which the Corporation pays a portion of the premiums for plans or policies of insurance for which the insurable unit is defined on a whole farm or enterprise unit basis that is higher than would otherwise be paid in accordance with paragraph (2).”
 
-    Subsec. (e)(5)(D). [Pub. L. 113–79, § 11007][/us/pl/113/79/s11007], added subpar. (D).
+    Subsec. (e)(5)(D). [Pub. L. 113–79][/us/pl/113/79], § 11007, added subpar. (D).
 
-    Subsec. (e)(8). [Pub. L. 113–79, § 11016(b)(2)][/us/pl/113/79/s11016/b/2], added par. (8).
+    Subsec. (e)(8). [Pub. L. 113–79][/us/pl/113/79], § 11016(b)(2), added par. (8).
 
-    Subsec. (g)(2)(A). [Pub. L. 113–79, § 11009(1)][/us/pl/113/79/s11009/1], inserted “and paragraph (4)(C)” after “subparagraph (B)”.
+    Subsec. (g)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 11009(1), inserted “and paragraph (4)(C)” after “subparagraph (B)”.
 
-    Subsec. (g)(2)(B)(iii). [Pub. L. 113–79, § 11016(b)(3)(A)][/us/pl/113/79/s11016/b/3/A], added cl. (iii).
+    Subsec. (g)(2)(B)(iii). [Pub. L. 113–79][/us/pl/113/79], § 11016(b)(3)(A), added cl. (iii).
 
-    Subsec. (g)(2)(E). [Pub. L. 113–79, § 11008][/us/pl/113/79/s11008], added subpar. (E).
+    Subsec. (g)(2)(E). [Pub. L. 113–79][/us/pl/113/79], § 11008, added subpar. (E).
 
-    Subsec. (g)(4)(B)(ii). [Pub. L. 113–79, § 11016(b)(3)(B)][/us/pl/113/79/s11016/b/3/B], designated existing provisions as subcl. (I) and added subcl. (II).
+    Subsec. (g)(4)(B)(ii). [Pub. L. 113–79][/us/pl/113/79], § 11016(b)(3)(B), designated existing provisions as subcl. (I) and added subcl. (II).
 
-    Subsec. (g)(4)(C), (D). [Pub. L. 113–79, § 11009(2)][/us/pl/113/79/s11009/2], added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) inserted “or (C)” after “subparagraph (B)”.
+    Subsec. (g)(4)(C), (D). [Pub. L. 113–79][/us/pl/113/79], § 11009(2), added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) inserted “or (C)” after “subparagraph (B)”.
 
-    Subsec. (h)(1). [Pub. L. 113–79, § 11010(a)(1)][/us/pl/113/79/s11010/a/1], designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+    Subsec. (h)(1). [Pub. L. 113–79][/us/pl/113/79], § 11010(a)(1), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (h)(3). [Pub. L. 113–79, § 11010(a)(2)][/us/pl/113/79/s11010/a/2], added par. (3) and struck out former par. (3). Text read as follows: “A policy or other material submitted to the Board under this subsection shall be reviewed by the Board and, if the Board finds that the interests of producers are adequately protected and that any premiums charged to the producers are actuarially appropriate, shall be approved by the Board for reinsurance and for sale by approved insurance providers to producers as an additional choice at actuarially appropriate rates and under appropriate terms and conditions. The Corporation may enter into more than 1 reinsurance agreement with the approved insurance provider simultaneously to facilitate the offering of the new policies.”
+    Subsec. (h)(3). [Pub. L. 113–79][/us/pl/113/79], § 11010(a)(2), added par. (3) and struck out former par. (3). Text read as follows: “A policy or other material submitted to the Board under this subsection shall be reviewed by the Board and, if the Board finds that the interests of producers are adequately protected and that any premiums charged to the producers are actuarially appropriate, shall be approved by the Board for reinsurance and for sale by approved insurance providers to producers as an additional choice at actuarially appropriate rates and under appropriate terms and conditions. The Corporation may enter into more than 1 reinsurance agreement with the approved insurance provider simultaneously to facilitate the offering of the new policies.”
 
-    Subsec. (h)(4)(E). [Pub. L. 113–79, § 11011][/us/pl/113/79/s11011], added subpar. (E).
+    Subsec. (h)(4)(E). [Pub. L. 113–79][/us/pl/113/79], § 11011, added subpar. (E).
 
-    Subsec. (k)(4)(F). [Pub. L. 113–79, § 11017(b)][/us/pl/113/79/s11017/b], inserted “or authorized under subsection (c)(4)(C) or [section 1508b of this title][/us/usc/t7/s1508b]” after “of this subparagraph”.
+    Subsec. (k)(4)(F). [Pub. L. 113–79][/us/pl/113/79], § 11017(b), inserted “or authorized under subsection (c)(4)(C) or [section 1508b of this title][/us/usc/t7/s1508b]” after “of this subparagraph”.
 
-    Subsec. (k)(8)(C). [Pub. L. 113–79, § 11028(a)(3)][/us/pl/113/79/s11028/a/3], substituted “subparagraph (A)(ii)” for “subparagraph (A)(iii)”.
+    Subsec. (k)(8)(C). [Pub. L. 113–79][/us/pl/113/79], § 11028(a)(3), substituted “subparagraph (A)(ii)” for “subparagraph (A)(iii)”.
 
-    Subsec. (k)(8)(F). [Pub. L. 113–79, § 11012][/us/pl/113/79/s11012], added subpar. (F).
+    Subsec. (k)(8)(F). [Pub. L. 113–79][/us/pl/113/79], § 11012, added subpar. (F).
 
-    Subsec. (m)(6). [Pub. L. 113–79, § 11013][/us/pl/113/79/s11013], added par. (6).
+    Subsec. (m)(6). [Pub. L. 113–79][/us/pl/113/79], § 11013, added par. (6).
 
-    Subsec. (o)(1)(B). [Pub. L. 113–79, § 11014(a)(1)][/us/pl/113/79/s11014/a/1], inserted “, or the producer cannot substantiate that the ground has ever been tilled,” after “never been tilled”.
+    Subsec. (o)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 11014(a)(1), inserted “, or the producer cannot substantiate that the ground has ever been tilled,” after “never been tilled”.
 
-    Subsec. (o)(2). [Pub. L. 113–79, § 11014(a)(2)(A)][/us/pl/113/79/s11014/a/2/A], substituted “Reduction in” for “Ineligibility for” in heading.
+    Subsec. (o)(2). [Pub. L. 113–79][/us/pl/113/79], § 11014(a)(2)(A), substituted “Reduction in” for “Ineligibility for” in heading.
 
-    Subsec. (o)(2)(A). [Pub. L. 113–79, § 11014(a)(2)(B)][/us/pl/113/79/s11014/a/2/B], added subpar. (A) and struck out former subpar. (A). Text read as follows: “Subject to subparagraph (B) and paragraph (3), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this subsection shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+    Subsec. (o)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 11014(a)(2)(B), added subpar. (A) and struck out former subpar. (A). Text read as follows: “Subject to subparagraph (B) and paragraph (3), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this subsection shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
     “(i) this subchapter; and
 
     “(ii) [section 7333 of this title][/us/usc/t7/s7333].”
 
-    Subsec. (o)(2)(C). [Pub. L. 113–79, § 11014(a)(2)(C)][/us/pl/113/79/s11014/a/2/C], added subpar. (C).
+    Subsec. (o)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 11014(a)(2)(C), added subpar. (C).
 
-    Subsec. (o)(3). [Pub. L. 113–79, § 11014(a)(3)][/us/pl/113/79/s11014/a/3], added par. (3) and struck out former par. (3). Text read as follows: “Paragraph (2) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.”
+    Subsec. (o)(3). [Pub. L. 113–79][/us/pl/113/79], § 11014(a)(3), added par. (3) and struck out former par. (3). Text read as follows: “Paragraph (2) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.”
 
-    Subsec. (p). [Pub. L. 113–79, § 11015][/us/pl/113/79/s11015], added subsec. (p).
+    Subsec. (p). [Pub. L. 113–79][/us/pl/113/79], § 11015, added subsec. (p).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
     Subsec. (a)(9), (10). [Pub. L. 110–246][/us/pl/110/246], §§ 12004, 12005, added pars. (9) and (10).
 
-    Subsec. (b)(5)(A). [Pub. L. 110–246, § 12006(a)(1)][/us/pl/110/246/s12006/a/1], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each producer shall pay an administrative fee for catastrophic risk protection in an amount equal to 10 percent of the premium for the catastrophic risk protection or $100 per crop per county, whichever is greater, as determined by the Corporation.”
+    Subsec. (b)(5)(A). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each producer shall pay an administrative fee for catastrophic risk protection in an amount equal to 10 percent of the premium for the catastrophic risk protection or $100 per crop per county, whichever is greater, as determined by the Corporation.”
 
-    Subsec. (b)(5)(B). [Pub. L. 110–246, § 12006(a)(2)(A)][/us/pl/110/246/s12006/a/2/A], substituted “Payment of catastrophic risk protection fee on behalf of producers” for “Payment on behalf of producers” in heading.
+    Subsec. (b)(5)(B). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(2)(A), substituted “Payment of catastrophic risk protection fee on behalf of producers” for “Payment on behalf of producers” in heading.
 
-    Subsec. (b)(5)(B)(i). [Pub. L. 110–246, § 12006(a)(2)(B)][/us/pl/110/246/s12006/a/2/B], struck out “or other payment” after “licensing fee” and substituted “through the payment of catastrophic risk protection administrative fees” for “with catastrophic risk protection or additional coverage”.
+    Subsec. (b)(5)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(2)(B), struck out “or other payment” after “licensing fee” and substituted “through the payment of catastrophic risk protection administrative fees” for “with catastrophic risk protection or additional coverage”.
 
-    Subsec. (b)(5)(B)(ii). [Pub. L. 110–246, § 12006(a)(2)(C)][/us/pl/110/246/s12006/a/2/C], (D), redesignated cl. (iii) as (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “A licensing fee or other payment made by an insurance provider to the cooperative association or trade association in connection with the issuance of catastrophic risk protection or additional coverage to members of the cooperative association or trade association shall be subject to the laws regarding rebates of the State in which the fee or other payment is made.”
+    Subsec. (b)(5)(B)(ii). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(2)(C), (D), redesignated cl. (iii) as (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “A licensing fee or other payment made by an insurance provider to the cooperative association or trade association in connection with the issuance of catastrophic risk protection or additional coverage to members of the cooperative association or trade association shall be subject to the laws regarding rebates of the State in which the fee or other payment is made.”
 
-    Subsec. (b)(5)(B)(iii) to (v). [Pub. L. 110–246, § 12006(a)(2)(D)][/us/pl/110/246/s12006/a/2/D]–(F), redesignated cls. (iv) and (v) as (iii) and (iv), respectively, in cl. (iii), substituted “Catastrophic risk protection coverage” for “A policy or plan of insurance”, and, in cl. (iv), struck out “or other arrangement under this subparagraph” after “licensing fee” and “additional” before “coverage”. Former cl. (iii) redesignated (ii).
+    Subsec. (b)(5)(B)(iii) to (v). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(2)(D)–(F), redesignated cls. (iv) and (v) as (iii) and (iv), respectively, in cl. (iii), substituted “Catastrophic risk protection coverage” for “A policy or plan of insurance”, and, in cl. (iv), struck out “or other arrangement under this subparagraph” after “licensing fee” and “additional” before “coverage”. Former cl. (iii) redesignated (ii).
 
-    Subsec. (b)(5)(B)(vi). [Pub. L. 110–246, § 12006(a)(2)(C)][/us/pl/110/246/s12006/a/2/C], struck out cl. (vi). Prior to amendment, text read as follows: “Not later than April 1, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates—
+    Subsec. (b)(5)(B)(vi). [Pub. L. 110–246][/us/pl/110/246], § 12006(a)(2)(C), struck out cl. (vi). Prior to amendment, text read as follows: “Not later than April 1, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates—
 
     “(I) the operation of this subparagraph; and
 
     “(II) the impact of this subparagraph on participation in the Federal crop insurance program, including the impact on levels of coverage purchased.”
 
-    Subsec. (b)(5)(C). [Pub. L. 110–246, § 12007(1)][/us/pl/110/246/s12007/1], substituted “the same date on which the premium” for “the date that premium”.
+    Subsec. (b)(5)(C). [Pub. L. 110–246][/us/pl/110/246], § 12007(1), substituted “the same date on which the premium” for “the date that premium”.
 
-    Subsec. (b)(9), (10). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsec. (b)(9), (10). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (b)(11). [Pub. L. 110–246, § 12008][/us/pl/110/246/s12008], substituted “6 percent” for “8 percent”.
+    Subsec. (b)(11). [Pub. L. 110–246][/us/pl/110/246], § 12008, substituted “6 percent” for “8 percent”.
 
-    Subsec. (c)(5)(A). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in two places.
+    Subsec. (c)(5)(A). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in two places.
 
-    Subsec. (c)(5)(D). [Pub. L. 110–246, § 12009][/us/pl/110/246/s12009], added subpar. (D).
+    Subsec. (c)(5)(D). [Pub. L. 110–246][/us/pl/110/246], § 12009, added subpar. (D).
 
-    Subsec. (c)(10)(C). [Pub. L. 110–246, § 12007(2)][/us/pl/110/246/s12007/2], added subpar. (C).
+    Subsec. (c)(10)(C). [Pub. L. 110–246][/us/pl/110/246], § 12007(2), added subpar. (C).
 
-    Subsec. (d)(1). [Pub. L. 110–246, § 12003(b)][/us/pl/110/246/s12003/b], substituted “not greater than—” for “not greater than 1.1 through September 30, 1998, and not greater than 1.075 after October 1, 1998.” and added subpars. (A) to (C).
+    Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 12003(b), substituted “not greater than—” for “not greater than 1.1 through September 30, 1998, and not greater than 1.075 after October 1, 1998.” and added subpars. (A) to (C).
 
-    Subsec. (d)(4). [Pub. L. 110–246, § 12007(3)][/us/pl/110/246/s12007/3], added par. (4).
+    Subsec. (d)(4). [Pub. L. 110–246][/us/pl/110/246], § 12007(3), added par. (4).
 
-    Subsec. (e)(2). [Pub. L. 110–246, § 12012(1)][/us/pl/110/246/s12012/1], which directed amendment of par. (2) by substituting “paragraphs (4), (6), and (7)” for “paragraph (4)” in introductory provisions, was not executed. See below.
+    Subsec. (e)(2). [Pub. L. 110–246][/us/pl/110/246], § 12012(1), which directed amendment of par. (2) by substituting “paragraphs (4), (6), and (7)” for “paragraph (4)” in introductory provisions, was not executed. See below.
 
-    [Pub. L. 110–246, § 12010(1)][/us/pl/110/246/s12010/1], substituted “paragraph (3)” for “paragraph (4)” in introductory provisions.
+    [Pub. L. 110–246][/us/pl/110/246], § 12010(1), substituted “paragraph (3)” for “paragraph (4)” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 110–246, § 12010(2)][/us/pl/110/246/s12010/2], (3), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “If an approved insurance provider determines that the provider may provide insurance more efficiently than the expense reimbursement amount established by the Corporation, the approved insurance provider may reduce, subject to the approval of the Corporation, the premium charged the insured by an amount corresponding to the efficiency. The approved insurance provider shall apply to the Corporation for authority to reduce the premium before making such a reduction, and the reduction shall be subject to the rules, limitations, and procedures established by the Corporation.”
+    Subsec. (e)(3). [Pub. L. 110–246][/us/pl/110/246], § 12010(2), (3), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “If an approved insurance provider determines that the provider may provide insurance more efficiently than the expense reimbursement amount established by the Corporation, the approved insurance provider may reduce, subject to the approval of the Corporation, the premium charged the insured by an amount corresponding to the efficiency. The approved insurance provider shall apply to the Corporation for authority to reduce the premium before making such a reduction, and the reduction shall be subject to the rules, limitations, and procedures established by the Corporation.”
 
-    Subsec. (e)(4). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (e)(4). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    [Pub. L. 110–246, § 12010(3)][/us/pl/110/246/s12010/3], redesignated par. (5) as (4). Former par. (4) redesignated (3).
+    [Pub. L. 110–246][/us/pl/110/246], § 12010(3), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (e)(5). [Pub. L. 110–246, § 12011][/us/pl/110/246/s12011], added par. (5).
+    Subsec. (e)(5). [Pub. L. 110–246][/us/pl/110/246], § 12011, added par. (5).
 
-    [Pub. L. 110–246, § 12010(3)][/us/pl/110/246/s12010/3], redesignated par. (5) as (4).
+    [Pub. L. 110–246][/us/pl/110/246], § 12010(3), redesignated par. (5) as (4).
 
-    Subsec. (e)(6), (7). [Pub. L. 110–246, § 12012(2)][/us/pl/110/246/s12012/2], added pars. (6) and (7).
+    Subsec. (e)(6), (7). [Pub. L. 110–246][/us/pl/110/246], § 12012(2), added pars. (6) and (7).
 
-    Subsecs. (f), (h), (i). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsecs. (f), (h), (i). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (j)(2)(A). [Pub. L. 110–246, § 12013][/us/pl/110/246/s12013], inserted “on behalf of the Corporation” after “approved provider”.
+    Subsec. (j)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 12013, inserted “on behalf of the Corporation” after “approved provider”.
 
-    Subsec. (j)(5). [Pub. L. 110–246, § 12014(a)][/us/pl/110/246/s12014/a], added par. (5).
+    Subsec. (j)(5). [Pub. L. 110–246][/us/pl/110/246], § 12014(a), added par. (5).
 
-    Subsec. (k)(1). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (k)(1). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (k)(4)(A). [Pub. L. 110–246, § 12016(1)][/us/pl/110/246/s12016/1], substituted “Except as otherwise provided in this paragraph” for “Except as provided in subparagraph (B)” in introductory provisions.
+    Subsec. (k)(4)(A). [Pub. L. 110–246][/us/pl/110/246], § 12016(1), substituted “Except as otherwise provided in this paragraph” for “Except as provided in subparagraph (B)” in introductory provisions.
 
-    Subsec. (k)(4)(D). [Pub. L. 110–246, § 12015][/us/pl/110/246/s12015], added subpar. (D).
+    Subsec. (k)(4)(D). [Pub. L. 110–246][/us/pl/110/246], § 12015, added subpar. (D).
 
-    Subsec. (k)(4)(E), (F). [Pub. L. 110–246, § 12016(2)][/us/pl/110/246/s12016/2], added subpars. (E) and (F).
+    Subsec. (k)(4)(E), (F). [Pub. L. 110–246][/us/pl/110/246], § 12016(2), added subpars. (E) and (F).
 
-    Subsec. (k)(8). [Pub. L. 110–246, § 12017][/us/pl/110/246/s12017], added par. (8).
+    Subsec. (k)(8). [Pub. L. 110–246][/us/pl/110/246], § 12017, added par. (8).
 
-    Subsec. (k)(9). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” in introductory provisions.
+    Subsec. (k)(9). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in introductory provisions.
 
-    [Pub. L. 110–246, § 12018][/us/pl/110/246/s12018], added par. (9).
+    [Pub. L. 110–246][/us/pl/110/246], § 12018, added par. (9).
 
-    Subsec. (m). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsec. (m). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (m)(5). [Pub. L. 110–246, § 12019][/us/pl/110/246/s12019], added par. (5).
+    Subsec. (m)(5). [Pub. L. 110–246][/us/pl/110/246], § 12019, added par. (5).
 
-    Subsec. (n)(1). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (n)(1). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (o). [Pub. L. 110–246, § 12020(a)][/us/pl/110/246/s12020/a], added subsec. (o).
+    Subsec. (o). [Pub. L. 110–246][/us/pl/110/246], § 12020(a), added subsec. (o).
 
-    Subsec. (o)(2)(A)(i). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter”.
+    Subsec. (o)(2)(A)(i). [Pub. L. 110–246][/us/pl/110/246], § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
     2005—Subsec. (a)(4)(B). [Pub. L. 109–97][/us/pl/109/97] inserted “or similar commodities” after “the commodity”.
 
-    2002—Subsec. (a)(2). [Pub. L. 107–171, § 10001][/us/pl/107/171/s10001], substituted “, potatoes, and sweet potatoes” for “and potatoes”.
+    2002—Subsec. (a)(2). [Pub. L. 107–171][/us/pl/107/171], § 10001, substituted “, potatoes, and sweet potatoes” for “and potatoes”.
 
-    Subsec. (e)(4). [Pub. L. 107–171, § 10002][/us/pl/107/171/s10002], substituted “Prohibition” for “Temporary prohibition” in heading and “and subsequent reinsurance years” for “through 2005 reinsurance years” in text.
+    Subsec. (e)(4). [Pub. L. 107–171][/us/pl/107/171], § 10002, substituted “Prohibition” for “Temporary prohibition” in heading and “and subsequent reinsurance years” for “through 2005 reinsurance years” in text.
 
-    Subsec. (m)(3). [Pub. L. 107–171, § 10003(1)][/us/pl/107/171/s10003/1], designated first sentence of par. (3) as subpar. (A) and inserted heading and designated second sentence of par. (3) as subpar. (B), inserted heading, and substituted “Effective beginning not later than the 2004 reinsurance year, based on” for “Based on” in text.
+    Subsec. (m)(3). [Pub. L. 107–171][/us/pl/107/171], § 10003(1), designated first sentence of par. (3) as subpar. (A) and inserted heading and designated second sentence of par. (3) as subpar. (B), inserted heading, and substituted “Effective beginning not later than the 2004 reinsurance year, based on” for “Based on” in text.
 
-    Subsec. (m)(4). [Pub. L. 107–171, § 10003(2)][/us/pl/107/171/s10003/2], added par. (4).
+    Subsec. (m)(4). [Pub. L. 107–171][/us/pl/107/171], § 10003(2), added par. (4).
 
-    2000—Subsec. (a)(3). [Pub. L. 106–224, § 123][/us/pl/106/224/s123], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Insurance provided under this subsection shall not cover losses due to—
+    2000—Subsec. (a)(3). [Pub. L. 106–224][/us/pl/106/224], § 123, added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Insurance provided under this subsection shall not cover losses due to—
 
     “(A) the neglect or malfeasance of the producer;
 
@@ -1607,89 +1607,89 @@
 
     “(C) the failure of the producer to follow good farming practices (as determined by the Secretary).”
 
-    Subsec. (a)(3)(C). [Pub. L. 106–224, § 161][/us/pl/106/224/s161], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 106–224][/us/pl/106/224], § 161, added subpar. (C).
 
-    Subsec. (a)(5). [Pub. L. 106–224, § 144][/us/pl/106/224/s144], designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and realigned their margins, and added subpar. (B).
+    Subsec. (a)(5). [Pub. L. 106–224][/us/pl/106/224], § 144, designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and realigned their margins, and added subpar. (B).
 
-    Subsec. (a)(7). [Pub. L. 106–224, § 145][/us/pl/106/224/s145], added par. (7).
+    Subsec. (a)(7). [Pub. L. 106–224][/us/pl/106/224], § 145, added par. (7).
 
-    Subsec. (a)(8). [Pub. L. 106–224, § 162][/us/pl/106/224/s162], added par. (8).
+    Subsec. (a)(8). [Pub. L. 106–224][/us/pl/106/224], § 162, added par. (8).
 
-    Subsec. (b)(3). [Pub. L. 106–224, § 103(a)][/us/pl/106/224/s103/a], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “A producer shall have the option of basing the catastrophic coverage of the producer on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.”
+    Subsec. (b)(3). [Pub. L. 106–224][/us/pl/106/224], § 103(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “A producer shall have the option of basing the catastrophic coverage of the producer on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.”
 
-    Subsec. (b)(5)(A). [Pub. L. 106–224, § 103(b)(1)(A)][/us/pl/106/224/s103/b/1/A], substituted “$100” for “$50”.
+    Subsec. (b)(5)(A). [Pub. L. 106–224][/us/pl/106/224], § 103(b)(1)(A), substituted “$100” for “$50”.
 
-    Subsec. (b)(5)(B). [Pub. L. 106–224, § 103(b)(1)(B)][/us/pl/106/224/s103/b/1/B], (c), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “In addition to the amount required under subparagraph (A), the producer shall pay a $10 fee for each amount determined under subparagraph (A).”
+    Subsec. (b)(5)(B). [Pub. L. 106–224][/us/pl/106/224], § 103(b)(1)(B), (c), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “In addition to the amount required under subparagraph (A), the producer shall pay a $10 fee for each amount determined under subparagraph (A).”
 
-    Subsec. (b)(5)(C). [Pub. L. 106–224, § 103(b)(1)(C)][/us/pl/106/224/s103/b/1/C], substituted “administrative fee required by this paragraph” for “amounts required under subparagraphs (A) and (B)”.
+    Subsec. (b)(5)(C). [Pub. L. 106–224][/us/pl/106/224], § 103(b)(1)(C), substituted “administrative fee required by this paragraph” for “amounts required under subparagraphs (A) and (B)”.
 
-    Subsec. (b)(11). [Pub. L. 106–224, § 103(d)][/us/pl/106/224/s103/d], substituted “8 percent” for “11 percent”.
+    Subsec. (b)(11). [Pub. L. 106–224][/us/pl/106/224], § 103(d), substituted “8 percent” for “11 percent”.
 
-    Subsec. (c)(5). [Pub. L. 106–224, § 101(a)][/us/pl/106/224/s101/a], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The Corporation shall establish a price level for each commodity on which insurance is offered that—
+    Subsec. (c)(5). [Pub. L. 106–224][/us/pl/106/224], § 101(a), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The Corporation shall establish a price level for each commodity on which insurance is offered that—
 
     “(A) shall not be less than the projected market price for the commodity (as determined by the Corporation); or
 
     “(B) at the discretion of the Corporation, may be based on the actual market price at the time of harvest (as determined by the Corporation).”
 
-    Subsec. (c)(10). [Pub. L. 106–224, § 104][/us/pl/106/224/s104], added par. (10) and struck out former par. (10), which required administrative fee where producer elected to purchase additional coverage for crop at level that was less than 65 percent of recorded or appraised average yield indemnified at 100 percent of expected market price, or equivalent coverage, and provided for exception to fee if producer elected to purchase additional coverage for crop equal to 65 percent or more of recorded or appraised average yield indemnified at 100 percent of expected market price, or equivalent coverage, additional fee if producer elected to purchase additional coverage for crop equal to or exceeding 65 percent of recorded or appraised average yield and 100 percent of expected market price or equivalent coverage, and for deposit of fees.
+    Subsec. (c)(10). [Pub. L. 106–224][/us/pl/106/224], § 104, added par. (10) and struck out former par. (10), which required administrative fee where producer elected to purchase additional coverage for crop at level that was less than 65 percent of recorded or appraised average yield indemnified at 100 percent of expected market price, or equivalent coverage, and provided for exception to fee if producer elected to purchase additional coverage for crop equal to 65 percent or more of recorded or appraised average yield indemnified at 100 percent of expected market price, or equivalent coverage, additional fee if producer elected to purchase additional coverage for crop equal to or exceeding 65 percent of recorded or appraised average yield and 100 percent of expected market price or equivalent coverage, and for deposit of fees.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 106–224, § 101(b)(1)][/us/pl/106/224/s101/b/1], added subpar. (B) and struck out former subpars. (B) and (C), which described premium amounts in the case of additional coverage below, equal to, or greater than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
+    Subsec. (d)(2)(B), (C). [Pub. L. 106–224][/us/pl/106/224], § 101(b)(1), added subpar. (B) and struck out former subpars. (B) and (C), which described premium amounts in the case of additional coverage below, equal to, or greater than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
 
-    Subsec. (d)(3). [Pub. L. 106–224, § 101(b)(2)][/us/pl/106/224/s101/b/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 106–224][/us/pl/106/224], § 101(b)(2), added par. (3).
 
-    Subsec. (e)(2). [Pub. L. 106–224, § 101(c)(1)][/us/pl/106/224/s101/c/1], substituted “Subject to paragraph (4), the amount” for “The amount” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 106–224][/us/pl/106/224], § 101(c)(1), substituted “Subject to paragraph (4), the amount” for “The amount” in introductory provisions.
 
-    Subsec. (e)(2)(B) to (G). [Pub. L. 106–224, § 101(c)(2)][/us/pl/106/224/s101/c/2], added subpars. (B) to (G) and struck out former subpars. (B) and (C), which set forth amount of premium to be paid by Corporation in the case of coverage below, equal to, or greater than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
+    Subsec. (e)(2)(B) to (G). [Pub. L. 106–224][/us/pl/106/224], § 101(c)(2), added subpars. (B) to (G) and struck out former subpars. (B) and (C), which set forth amount of premium to be paid by Corporation in the case of coverage below, equal to, or greater than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
 
-    Subsec. (e)(4). [Pub. L. 106–224, § 101(d)][/us/pl/106/224/s101/d], added par. (4) and struck out former par. (4), which authorized Corporation to allow approved providers to offer insurance plan to producers that would combine both individual and area yield coverage at a premium rate determined under certain conditions.
+    Subsec. (e)(4). [Pub. L. 106–224][/us/pl/106/224], § 101(d), added par. (4) and struck out former par. (4), which authorized Corporation to allow approved providers to offer insurance plan to producers that would combine both individual and area yield coverage at a premium rate determined under certain conditions.
 
-    Subsec. (e)(5). [Pub. L. 106–224, § 101(e)][/us/pl/106/224/s101/e], added par. (5).
+    Subsec. (e)(5). [Pub. L. 106–224][/us/pl/106/224], § 101(e), added par. (5).
 
-    Subsec. (f)(3)(A). [Pub. L. 106–224, § 124(a)][/us/pl/106/224/s124/a], added subpar. (A) and struck out former subpar. (A) which read as follows: “provide, to the extent required by the Corporation, records acceptable to the Corporation of historical acreage and production of the crops for which the insurance is sought or accept a yield determined by the Corporation; and”.
+    Subsec. (f)(3)(A). [Pub. L. 106–224][/us/pl/106/224], § 124(a), added subpar. (A) and struck out former subpar. (A) which read as follows: “provide, to the extent required by the Corporation, records acceptable to the Corporation of historical acreage and production of the crops for which the insurance is sought or accept a yield determined by the Corporation; and”.
 
-    Subsec. (g)(2)(B). [Pub. L. 106–224, § 105(a)][/us/pl/106/224/s105/a], designated existing provisions of subpar. (B) as cl. (i) and added cl. (ii).
+    Subsec. (g)(2)(B). [Pub. L. 106–224][/us/pl/106/224], § 105(a), designated existing provisions of subpar. (B) as cl. (i) and added cl. (ii).
 
-    Subsec. (g)(2)(D). [Pub. L. 106–224, § 101(f)][/us/pl/106/224/s101/f], struck out “(as provided in subsection (e)(4) of this section)” after “combined coverage”.
+    Subsec. (g)(2)(D). [Pub. L. 106–224][/us/pl/106/224], § 101(f), struck out “(as provided in subsection (e)(4) of this section)” after “combined coverage”.
 
-    Subsec. (g)(4), (5). [Pub. L. 106–224, § 105(b)][/us/pl/106/224/s105/b], added pars. (4) and (5).
+    Subsec. (g)(4), (5). [Pub. L. 106–224][/us/pl/106/224], § 105(b), added pars. (4) and (5).
 
-    Subsec. (h)(1). [Pub. L. 106–224, § 146(a)][/us/pl/106/224/s146/a], inserted “(including an approved insurance provider, a college or university, a cooperative or trade association, or any other person)” after “a person” in introductory provisions.
+    Subsec. (h)(1). [Pub. L. 106–224][/us/pl/106/224], § 146(a), inserted “(including an approved insurance provider, a college or university, a cooperative or trade association, or any other person)” after “a person” in introductory provisions.
 
-    Subsec. (h)(2). [Pub. L. 106–224, § 102(a)(1)][/us/pl/106/224/s102/a/1], struck out at end “In the case of such a policy, the payment by the Corporation of a portion of the premium of the policy may not exceed the amount that would otherwise be authorized under subsection (e) of this section.”
+    Subsec. (h)(2). [Pub. L. 106–224][/us/pl/106/224], § 102(a)(1), struck out at end “In the case of such a policy, the payment by the Corporation of a portion of the premium of the policy may not exceed the amount that would otherwise be authorized under subsection (e) of this section.”
 
-    Subsec. (h)(3). [Pub. L. 106–224, § 146(b)][/us/pl/106/224/s146/b], inserted “by approved insurance providers” after “for sale” in first sentence.
+    Subsec. (h)(3). [Pub. L. 106–224][/us/pl/106/224], § 146(b), inserted “by approved insurance providers” after “for sale” in first sentence.
 
-    Subsec. (h)(4)(A). [Pub. L. 106–224, § 146(c)(1)][/us/pl/106/224/s146/c/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “A proposal submitted to the Board under this subsection shall be considered as confidential commercial or financial information for purposes of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] until approved by the Board. A proposal disapproved by the Board shall remain confidential commercial or financial information.”
+    Subsec. (h)(4)(A). [Pub. L. 106–224][/us/pl/106/224], § 146(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “A proposal submitted to the Board under this subsection shall be considered as confidential commercial or financial information for purposes of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] until approved by the Board. A proposal disapproved by the Board shall remain confidential commercial or financial information.”
 
-    Subsec. (h)(4)(B). [Pub. L. 106–224, § 146(c)(2)][/us/pl/106/224/s146/c/2], inserted subpar. heading.
+    Subsec. (h)(4)(B). [Pub. L. 106–224][/us/pl/106/224], § 146(c)(2), inserted subpar. heading.
 
-    Subsec. (h)(4)(C), (D). [Pub. L. 106–224, § 146(c)(3)][/us/pl/106/224/s146/c/3], added subpars. (C) and (D) and struck out former subpars. (C) and (D), which required notice of intent to disapprove, provided that modification would be considered an original application, and directed that specific guidelines were to prescribe timely submission and consideration of proposals.
+    Subsec. (h)(4)(C), (D). [Pub. L. 106–224][/us/pl/106/224], § 146(c)(3), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which required notice of intent to disapprove, provided that modification would be considered an original application, and directed that specific guidelines were to prescribe timely submission and consideration of proposals.
 
-    Subsec. (h)(5). [Pub. L. 106–224, § 102(a)(2)][/us/pl/106/224/s102/a/2], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Any policy, provision of a policy, or rate approved under this subsection shall be published as a notice in the Federal Register and made available to all persons contracting with or reinsured by the Corporation under the terms and conditions of the contract between the Corporation and the person originally submitting the policy or other material.”
+    Subsec. (h)(5). [Pub. L. 106–224][/us/pl/106/224], § 102(a)(2), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Any policy, provision of a policy, or rate approved under this subsection shall be published as a notice in the Federal Register and made available to all persons contracting with or reinsured by the Corporation under the terms and conditions of the contract between the Corporation and the person originally submitting the policy or other material.”
 
-    Subsec. (h)(6) to (10). [Pub. L. 106–224, § 146(d)][/us/pl/106/224/s146/d], redesignated par. (7) as (6) and struck out former pars. (6) which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
+    Subsec. (h)(6) to (10). [Pub. L. 106–224][/us/pl/106/224], § 146(d), redesignated par. (7) as (6) and struck out former pars. (6) which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
 
-    Subsec. (i). [Pub. L. 106–224, § 106][/us/pl/106/224/s106], designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
+    Subsec. (i). [Pub. L. 106–224][/us/pl/106/224], § 106, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
-    Subsec. (k)(4)(C). [Pub. L. 106–224, § 102(b)][/us/pl/106/224/s102/b], added subpar. (C).
+    Subsec. (k)(4)(C). [Pub. L. 106–224][/us/pl/106/224], § 102(b), added subpar. (C).
 
-    Subsec. (m). [Pub. L. 106–224, § 107][/us/pl/106/224/s107], added subsec. (m) and struck out former subsec. (m), which authorized research, surveys, pilot programs, and investigations relating to crop insurance and agriculture-related risks and losses and required evaluation of pilot programs and submission of reports, including recommendations with respect to implementation of programs on a national basis.
+    Subsec. (m). [Pub. L. 106–224][/us/pl/106/224], § 107, added subsec. (m) and struck out former subsec. (m), which authorized research, surveys, pilot programs, and investigations relating to crop insurance and agriculture-related risks and losses and required evaluation of pilot programs and submission of reports, including recommendations with respect to implementation of programs on a national basis.
 
-    1999—Subsec. (f)(2). [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 206\], designated existing provisions as subpar. (A), inserted heading, struck out “Beginning with the 1995 crop year, the Corporation shall establish, for an insurance policy for each insurable crop that is planted in the spring, a sales closing date that is 30 days earlier than the corresponding sales closing date that was established for the 1994 crop year.” after “price and production adjustment programs of the Department.”, and added subpars. (B) and (C).
+    1999—Subsec. (f)(2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 206\], designated existing provisions as subpar. (A), inserted heading, struck out “Beginning with the 1995 crop year, the Corporation shall establish, for an insurance policy for each insurable crop that is planted in the spring, a sales closing date that is 30 days earlier than the corresponding sales closing date that was established for the 1994 crop year.” after “price and production adjustment programs of the Department.”, and added subpars. (B) and (C).
 
-    Subsec. (h)(9)(A). [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 205(a)\], substituted “1997 through 2001” for “1997, 1998, 1999, and 2000”.
+    Subsec. (h)(9)(A). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 205(a)\], substituted “1997 through 2001” for “1997, 1998, 1999, and 2000”.
 
-    1998—Subsec. (b)(5). [Pub. L. 105–185, § 532(a)][/us/pl/105/185/s532/a], added par. (5) and struck out heading and text of former par. (5) which, in subpar. (A) required payment of $50 fee per crop per county up to a maximum of $200 per producer per county and $600 per producer for all counties, in subpar. (B) directed crediting of fees up to $100 collected by USDA offices to appropriations account, retention of fees up to $100 collected by approved insurance providers, and deposit of fees in excess of $100 in crop insurance fund, and in subpar. (C) waived fee for limited resource farmers as defined by Corporation.
+    1998—Subsec. (b)(5). [Pub. L. 105–185][/us/pl/105/185], § 532(a), added par. (5) and struck out heading and text of former par. (5) which, in subpar. (A) required payment of $50 fee per crop per county up to a maximum of $200 per producer per county and $600 per producer for all counties, in subpar. (B) directed crediting of fees up to $100 collected by USDA offices to appropriations account, retention of fees up to $100 collected by approved insurance providers, and deposit of fees in excess of $100 in crop insurance fund, and in subpar. (C) waived fee for limited resource farmers as defined by Corporation.
 
-    Subsec. (b)(11). [Pub. L. 105–185, § 532(d)][/us/pl/105/185/s532/d], added par. (11).
+    Subsec. (b)(11). [Pub. L. 105–185][/us/pl/105/185], § 532(d), added par. (11).
 
-    Subsec. (c)(10)(A). [Pub. L. 105–185, § 532(b)(1)][/us/pl/105/185/s532/b/1], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as otherwise provided in this paragraph, if a producer elects to purchase additional coverage for a crop at a level that is less than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, the producer shall pay an administrative fee for the additional coverage. Subsection (b)(5) of this section shall apply in determining the amount and use of the administrative fee or in determining whether to waive the administrative fee.”
+    Subsec. (c)(10)(A). [Pub. L. 105–185][/us/pl/105/185], § 532(b)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as otherwise provided in this paragraph, if a producer elects to purchase additional coverage for a crop at a level that is less than 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, the producer shall pay an administrative fee for the additional coverage. Subsection (b)(5) of this section shall apply in determining the amount and use of the administrative fee or in determining whether to waive the administrative fee.”
 
-    Subsec. (c)(10)(C). [Pub. L. 105–185, § 532(b)(2)][/us/pl/105/185/s532/b/2], substituted “$20” for “$10” in first sentence.
+    Subsec. (c)(10)(C). [Pub. L. 105–185][/us/pl/105/185], § 532(b)(2), substituted “$20” for “$10” in first sentence.
 
-    Subsec. (h)(10). [Pub. L. 105–185, § 534][/us/pl/105/185/s534], added par. (10).
+    Subsec. (h)(10). [Pub. L. 105–185][/us/pl/105/185], § 534, added par. (10).
 
-    Subsec. (k)(4). [Pub. L. 105–185, § 532(c)][/us/pl/105/185/s532/c], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The rate established by the Board to reimburse approved insurance providers and agents for the administrative and operating costs of the providers and agents shall not exceed—
+    Subsec. (k)(4). [Pub. L. 105–185][/us/pl/105/185], § 532(c), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The rate established by the Board to reimburse approved insurance providers and agents for the administrative and operating costs of the providers and agents shall not exceed—
 
     “(A) for the 1997 reinsurance year, 29 percent of the premium used to define loss ratio;
 
@@ -1699,79 +1699,79 @@
 
     Subsec. (n). [Pub. L. 105–277][/us/pl/105/277] designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), if a producer” for “If a producer”, and added par. (2).
 
-    1996—Subsec. (a)(6)(D). [Pub. L. 104–127, § 193(c)][/us/pl/104/127/s193/c], added subpar. (D).
+    1996—Subsec. (a)(6)(D). [Pub. L. 104–127][/us/pl/104/127], § 193(c), added subpar. (D).
 
-    Subsec. (b)(4)(C). [Pub. L. 104–127, § 193(a)(1)][/us/pl/104/127/s193/a/1], added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 104–127][/us/pl/104/127], § 193(a)(1), added subpar. (C).
 
-    Subsec. (b)(7)(A). [Pub. L. 104–127, § 193(a)(2)][/us/pl/104/127/s193/a/2], added subpar. (A) and struck out heading and text of former subpar. (A). Prior to amendment, text read as follows: “To be eligible for any price support or production adjustment program, the conservation reserve program, or any benefit described in [section 2008f of this title][/us/usc/t7/s2008f], the producer must obtain at least the catastrophic level of insurance for each crop of economic significance grown on each farm in the county in which the producer has an interest, if insurance is available in the county for the crop.”
+    Subsec. (b)(7)(A). [Pub. L. 104–127][/us/pl/104/127], § 193(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Prior to amendment, text read as follows: “To be eligible for any price support or production adjustment program, the conservation reserve program, or any benefit described in [section 2008f of this title][/us/usc/t7/s2008f], the producer must obtain at least the catastrophic level of insurance for each crop of economic significance grown on each farm in the county in which the producer has an interest, if insurance is available in the county for the crop.”
 
-    Subsec. (h)(9). [Pub. L. 104–127, § 195][/us/pl/104/127/s195], added par. (9).
+    Subsec. (h)(9). [Pub. L. 104–127][/us/pl/104/127], § 195, added par. (9).
 
-    Subsec. (j)(4). [Pub. L. 104–127, § 193(d)][/us/pl/104/127/s193/d], added par. (4).
+    Subsec. (j)(4). [Pub. L. 104–127][/us/pl/104/127], § 193(d), added par. (4).
 
-    Subsec. (n). [Pub. L. 104–127, § 193(f)][/us/pl/104/127/s193/f], added subsec. (n).
+    Subsec. (n). [Pub. L. 104–127][/us/pl/104/127], § 193(f), added subsec. (n).
 
     1994—[Pub. L. 103–354][/us/pl/103/354] amended section generally, substituting present provisions for former provisions which related to: in subsec. (a), authority to offer insurance; in subsec. (b), submission of policies and materials to Board; in subsec. (c), actuarial soundness; in subsec. (d), adoption of rates and coverages; in subsec. (e), premiums; in subsec. (f), claims for losses; in subsec. (g), special rule for cotton; in subsec. (h), reinsurance; in subsec. (i), application to other areas; in subsec. (j), optional coverages; in subsec. (k), research; in subsec. (l), crop insurance for dry edible beans; in subsec. (m), information collection on crop insurance; and in subsec. (n), area yield plan.
 
-    1993—Subsec. (h). [Pub. L. 103–66, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], substituted fifth sentence for former fifth sentence which read as follows: “The Corporation shall also pay operating and administrative costs to insurers of policies on which the Corporation provides reinsurance to the same extent that such costs are covered by the Corporation on the Corporation’s policies of insurance.”
+    1993—Subsec. (h). [Pub. L. 103–66][/us/pl/103/66], § 1403(b)(1), substituted fifth sentence for former fifth sentence which read as follows: “The Corporation shall also pay operating and administrative costs to insurers of policies on which the Corporation provides reinsurance to the same extent that such costs are covered by the Corporation on the Corporation’s policies of insurance.”
 
-    Subsec. (n). [Pub. L. 103–66, § 1403(b)(2)][/us/pl/103/66/s1403/b/2], added subsec. (n).
+    Subsec. (n). [Pub. L. 103–66][/us/pl/103/66], § 1403(b)(2), added subsec. (n).
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 601(4)][/us/pl/102/237/s601/4], struck out par. (1) designation.
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 601(4), struck out par. (1) designation.
 
-    Subsecs. (k) to (n). [Pub. L. 102–237, § 601(5)][/us/pl/102/237/s601/5], redesignated subsecs. (l) to (n) as (k) to (m), respectively.
+    Subsecs. (k) to (n). [Pub. L. 102–237][/us/pl/102/237], § 601(5), redesignated subsecs. (l) to (n) as (k) to (m), respectively.
 
-    1990—[Pub. L. 101–624, § 2204(b)(1)][/us/pl/101/624/s2204/b/1], inserted section catchline and struck out “To carry out the purposes of this chapter the Corporation is authorized and empowered—” before subsec. (a).
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 2204(b)(1), inserted section catchline and struck out “To carry out the purposes of this chapter the Corporation is authorized and empowered—” before subsec. (a).
 
-    Subsec. (a). [Pub. L. 101–624, § 2205(1)][/us/pl/101/624/s2205/1], inserted heading, substituted “the Corporation may insure” for “to insure” in first sentence, and inserted provisions relating to amount of insurance to be provided in cases where Agricultural Stabilization and Conservation Service has established adjusted yields, and provisions relating to establishment of a price level for each commodity beginning with the 1992 crop year.
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 2205(1), inserted heading, substituted “the Corporation may insure” for “to insure” in first sentence, and inserted provisions relating to amount of insurance to be provided in cases where Agricultural Stabilization and Conservation Service has established adjusted yields, and provisions relating to establishment of a price level for each commodity beginning with the 1992 crop year.
 
-    Subsecs. (b) to (d). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (2), added subsecs. (b) to (d) and redesignated subsecs. (b) to (d) as (e) to (g), respectively.
+    Subsecs. (b) to (d). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (2), added subsecs. (b) to (d) and redesignated subsecs. (b) to (d) as (e) to (g), respectively.
 
-    Subsec. (e). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(2), redesignated subsec. (b) as (e), inserted heading, and substituted “The Corporation may fix” for “To fix” in par. (1). Former subsec. (e) redesignated (h).
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(2), redesignated subsec. (b) as (e), inserted heading, and substituted “The Corporation may fix” for “To fix” in par. (1). Former subsec. (e) redesignated (h).
 
-    Subsec. (f). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], redesignated subsec. (c) as (f). Former subsec. (f) redesignated (i).
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), redesignated subsec. (c) as (f). Former subsec. (f) redesignated (i).
 
-    [Pub. L. 101–624, § 2203(a)][/us/pl/101/624/s2203/a], inserted heading, substituted “The Corporation may adjust and pay claims for losses as provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
+    [Pub. L. 101–624][/us/pl/101/624], § 2203(a), inserted heading, substituted “The Corporation may adjust and pay claims for losses as provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
 
-    Subsec. (g). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(3), redesignated subsec. (d) as (g), inserted heading, and substituted “the Corporation may include” for “to include”. Former subsec. (g) redesignated (j).
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(3), redesignated subsec. (d) as (g), inserted heading, and substituted “the Corporation may include” for “to include”. Former subsec. (g) redesignated (j).
 
-    Subsec. (h). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], redesignated subsec. (e) as (h). Former subsec. (h) redesignated (k).
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (k).
 
-    [Pub. L. 101–624, § 2203(b)][/us/pl/101/624/s2203/b], inserted heading, substituted “The Corporation is directed” for “And directed”, and inserted sentence at end relating to revision of reinsurance agreements beginning with the 1992 reinsurance year.
+    [Pub. L. 101–624][/us/pl/101/624], § 2203(b), inserted heading, substituted “The Corporation is directed” for “And directed”, and inserted sentence at end relating to revision of reinsurance agreements beginning with the 1992 reinsurance year.
 
-    Subsec. (i). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(4), redesignated subsec. (f) as (i), inserted heading, and substituted “The Corporation may provide” for “To provide”. Former subsec. (i) redesignated (l).
+    Subsec. (i). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(4), redesignated subsec. (f) as (i), inserted heading, and substituted “The Corporation may provide” for “To provide”. Former subsec. (i) redesignated (l).
 
-    Subsec. (j). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(5), redesignated subsec. (g) as (j), inserted heading, and substituted “The Corporation may offer” for “To offer”. Former subsec. (j) redesignated (m).
+    Subsec. (j). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(5), redesignated subsec. (g) as (j), inserted heading, and substituted “The Corporation may offer” for “To offer”. Former subsec. (j) redesignated (m).
 
-    Subsec. (k). [Pub. L. 101–624, § 2205(2)][/us/pl/101/624/s2205/2], struck out subsec. (k) which set out a special rule for calculating premiums and indemnities, with respect to insuring timber and forest yields.
+    Subsec. (k). [Pub. L. 101–624][/us/pl/101/624], § 2205(2), struck out subsec. (k) which set out a special rule for calculating premiums and indemnities, with respect to insuring timber and forest yields.
 
-    [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(6), redesignated subsec. (h) as (k), inserted heading, and substituted “The Corporation may include” for “To include”.
+    [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(6), redesignated subsec. (h) as (k), inserted heading, and substituted “The Corporation may include” for “To include”.
 
-    Subsec. (l). [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], (b)(7), redesignated subsec. (i) as (l), inserted heading, substituted “The Corporation may conduct” for “To conduct”, and struck out second and third sentences which read as follows: “Beginning in the 1981 crop year and ending after the 1985 crop year, the Corporation shall also conduct a pilot program of individual risk underwriting of crop insurance in not less than twenty-five counties. Under this pilot program, to the extent that appropriate yield data are available, the Corporation shall make available to producers in such counties crop insurance under this chapter based on personalized rates and with guarantees determined from the producer’s actual yield history.”
+    Subsec. (l). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), (b)(7), redesignated subsec. (i) as (l), inserted heading, substituted “The Corporation may conduct” for “To conduct”, and struck out second and third sentences which read as follows: “Beginning in the 1981 crop year and ending after the 1985 crop year, the Corporation shall also conduct a pilot program of individual risk underwriting of crop insurance in not less than twenty-five counties. Under this pilot program, to the extent that appropriate yield data are available, the Corporation shall make available to producers in such counties crop insurance under this chapter based on personalized rates and with guarantees determined from the producer’s actual yield history.”
 
-    Subsec. (m). [Pub. L. 101–624, § 2204(b)(8)][/us/pl/101/624/s2204/b/8], added subsec. (m) and struck out former subsec. (m) which read as follows: “To accumulate, prior to the 1989 crop year, sufficient actuarial data to enable the Corporation to provide crop insurance that meets the differentiated needs of producers of different types of dry edible beans. Commencing with the 1989 crop year, the Corporation shall make such crop insurance available to producers.”
+    Subsec. (m). [Pub. L. 101–624][/us/pl/101/624], § 2204(b)(8), added subsec. (m) and struck out former subsec. (m) which read as follows: “To accumulate, prior to the 1989 crop year, sufficient actuarial data to enable the Corporation to provide crop insurance that meets the differentiated needs of producers of different types of dry edible beans. Commencing with the 1989 crop year, the Corporation shall make such crop insurance available to producers.”
 
-    [Pub. L. 101–624, § 2204(a)(1)][/us/pl/101/624/s2204/a/1], redesignated subsec. (j) as (m).
+    [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(1), redesignated subsec. (j) as (m).
 
-    Subsec. (n). [Pub. L. 101–624, § 2204(a)(3)][/us/pl/101/624/s2204/a/3], added subsec. (n).
+    Subsec. (n). [Pub. L. 101–624][/us/pl/101/624], § 2204(a)(3), added subsec. (n).
 
     1988—Subsec. (j). [Pub. L. 100–387][/us/pl/100/387] added subsec. (j).
 
-    1980—Subsec. (a). [Pub. L. 96–365, § 105][/us/pl/96/365/s105], authorized Corporation, if sufficient actuarial data is available, to insure producers of any agricultural commodity grown in the United States under any plan of insurance determined to be adapted to the commodity involved; defined “field” in the case of aquacultural species to mean the environment in which the commodity is produced; in revising percentage limitations for crop insurance coverage, prescribed 75 per centum protection for recorded or appraised average yield (previously protected up to such percentage), offered producers lesser levels of coverage including 50 per centum of recorded or appraised average yield as adjusted, barred protection exceeding 75 per centum, offered price election approximating (but not less than 90 per centum of) projected market price for commodity involved, and struck out requirement for downward adjustment of minimum percentage in yield which may be insured to reflect investment in crop; and struck out limitations on Federal crop insurance program which: limited crop insurance to not more than seven agricultural commodities in 1948 and to not more than three additional commodities yearly thereafter, beginning with 1954 crop authorized yearly expansion of crop insurance program to not more than 150 counties in addition to counties offered insurance the previous year, limited reinsurance for private insurance companies to 20 counties, and required counties selected by the Board for crop insurance to be representative of areas where the commodity involved normally was produced; and struck out general reinsurance provision, covered in subsec. (e) of this section.
+    1980—Subsec. (a). [Pub. L. 96–365][/us/pl/96/365], § 105, authorized Corporation, if sufficient actuarial data is available, to insure producers of any agricultural commodity grown in the United States under any plan of insurance determined to be adapted to the commodity involved; defined “field” in the case of aquacultural species to mean the environment in which the commodity is produced; in revising percentage limitations for crop insurance coverage, prescribed 75 per centum protection for recorded or appraised average yield (previously protected up to such percentage), offered producers lesser levels of coverage including 50 per centum of recorded or appraised average yield as adjusted, barred protection exceeding 75 per centum, offered price election approximating (but not less than 90 per centum of) projected market price for commodity involved, and struck out requirement for downward adjustment of minimum percentage in yield which may be insured to reflect investment in crop; and struck out limitations on Federal crop insurance program which: limited crop insurance to not more than seven agricultural commodities in 1948 and to not more than three additional commodities yearly thereafter, beginning with 1954 crop authorized yearly expansion of crop insurance program to not more than 150 counties in addition to counties offered insurance the previous year, limited reinsurance for private insurance companies to 20 counties, and required counties selected by the Board for crop insurance to be representative of areas where the commodity involved normally was produced; and struck out general reinsurance provision, covered in subsec. (e) of this section.
 
-    Subsec. (b). [Pub. L. 96–365, § 106(1)][/us/pl/96/365/s106/1], designated existing provisions as par. (1), struck out “in the agricultural commodity or in cash,” after “premiums for insurance” and proviso from first sentence authorizing establishment of premiums on the basis of the parity or comparable price for the commodity as determined and publish by Secretary of Agriculture, or on the basis of an average market price designated by the Board and second sentence providing for collection of premiums at such time or times, or for securing in such manner, as the Board may determine, which is covered in par. (4), required the rates to be actuarially sufficient, added pars. (2) and (3), incorporated existing provision in par. (4), and added pars. (5) and (6).
+    Subsec. (b). [Pub. L. 96–365][/us/pl/96/365], § 106(1), designated existing provisions as par. (1), struck out “in the agricultural commodity or in cash,” after “premiums for insurance” and proviso from first sentence authorizing establishment of premiums on the basis of the parity or comparable price for the commodity as determined and publish by Secretary of Agriculture, or on the basis of an average market price designated by the Board and second sentence providing for collection of premiums at such time or times, or for securing in such manner, as the Board may determine, which is covered in par. (4), required the rates to be actuarially sufficient, added pars. (2) and (3), incorporated existing provision in par. (4), and added pars. (5) and (6).
 
-    Subsec. (c). [Pub. L. 96–365, § 106(2)][/us/pl/96/365/s106/2], struck out “in the agricultural commodity or in cash,” after “claims for losses” and provisions respecting: determination of indemnities on same price basis as premiums were determined for the crop with respect to which the indemnities were paid; requirement that the Corporation post annually for each county at the county courthouse a list of indemnities paid for losses on farms in the county; action on claims in any court of the State having general jurisdiction, sitting in the county where the insured farm was located; and jurisdiction of district courts without regard to amount in controversy.
+    Subsec. (c). [Pub. L. 96–365][/us/pl/96/365], § 106(2), struck out “in the agricultural commodity or in cash,” after “claims for losses” and provisions respecting: determination of indemnities on same price basis as premiums were determined for the crop with respect to which the indemnities were paid; requirement that the Corporation post annually for each county at the county courthouse a list of indemnities paid for losses on farms in the county; action on claims in any court of the State having general jurisdiction, sitting in the county where the insured farm was located; and jurisdiction of district courts without regard to amount in controversy.
 
-    Subsec. (d). [Pub. L. 96–365, § 106(3)][/us/pl/96/365/s106/3], redesignated subsec. (e) as (d) and struck out prior subsec. (d) authorizing Corporation to purchase, handle, store, insure, provide storage facilities for, and sell agricultural commodities.
+    Subsec. (d). [Pub. L. 96–365][/us/pl/96/365], § 106(3), redesignated subsec. (e) as (d) and struck out prior subsec. (d) authorizing Corporation to purchase, handle, store, insure, provide storage facilities for, and sell agricultural commodities.
 
-    Subsec. (e). [Pub. L. 96–365, § 106(4)][/us/pl/96/365/s106/4], added subsec. (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 96–365][/us/pl/96/365], § 106(4), added subsec. (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 96–365, § 106(4)][/us/pl/96/365/s106/4], substituted provisions for insurance and reinsurance in the territories and possessions for prior provision for reinsurance in Puerto Rico when not available from recognized private sources.
+    Subsec. (f). [Pub. L. 96–365][/us/pl/96/365], § 106(4), substituted provisions for insurance and reinsurance in the territories and possessions for prior provision for reinsurance in Puerto Rico when not available from recognized private sources.
 
-    Subsecs. (g), (h). [Pub. L. 96–365, § 106(4)][/us/pl/96/365/s106/4], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 96–365][/us/pl/96/365], § 106(4), added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 96–365, § 107(b)][/us/pl/96/365/s107/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 96–365][/us/pl/96/365], § 107(b), added subsec. (i).
 
     1964—Subsec. (a). [Pub. L. 88–589][/us/pl/88/589] increased from 100 to 150 the number of counties into which the Federal crop insurance program may be extended.
 
@@ -1811,13 +1811,13 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. C, title XXXII, § 32205][/us/pl/114/94/s32205], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that: 
+[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32205, Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that: 
 
 > “Effective as of November 2, 2015, the date of the enactment of the Bipartisan Budget Act of 2015 ([Public Law 114–74][/us/pl/114/74]), section 201 of such Act \[amending this section\] and the amendments made by such section are repealed, and the provisions of law amended by such section are hereby restored to appear as if such section had not been enacted into law.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–79, title XI, § 11003(d)][/us/pl/113/79/s11003/d], Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
+[Pub. L. 113–79, title XI][/us/pl/113/79/tXI], § 11003(d), Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
 
 > “The Federal Crop Insurance Corporation shall begin to provide additional coverage based on an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis, as described in the amendments made by this section \[amending this section\], not later than for the 2015 crop year.”
 
@@ -1843,9 +1843,9 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–365, title I, § 105][/us/pl/96/365/s105], Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], provided that the amendment made by section 105 is effective with respect to the 1981 and subsequent crops.
+    [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 105, Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], provided that the amendment made by section 105 is effective with respect to the 1981 and subsequent crops.
 
-    [Pub. L. 96–365, title I, § 106][/us/pl/96/365/s106], Sept. 26, 1980, [94 Stat. 1315][/us/stat/94/1315], provided that the amendment made by section 106 is effective with respect to the 1981 and subsequent crops.
+    [Pub. L. 96–365, title I][/us/pl/96/365/tI], § 106, Sept. 26, 1980, [94 Stat. 1315][/us/stat/94/1315], provided that the amendment made by section 106 is effective with respect to the 1981 and subsequent crops.
 
     Amendment by [section 107(b) of Pub. L. 96–365][/us/pl/96/365/s107/b] effective Sept. 26, 1980, see [section 112 of Pub. L. 96–365][/us/pl/96/365/s112], set out as a note under [section 1504 of this title][/us/usc/t7/s1504].
 
@@ -1857,25 +1857,25 @@
 
  __Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years__ 
 
-[Pub. L. 113–235, div. A, title VII, § 733][/us/pl/113/235/s733], Dec. 16, 2014, [128 Stat. 2168][/us/stat/128/2168], provided that: 
+[Pub. L. 113–235, div. A, title VII][/us/pl/113/235/dA/tVII], § 733, Dec. 16, 2014, [128 Stat. 2168][/us/stat/128/2168], provided that: 
 
 > “For the 2014 fiscal year and each fiscal year thereafter, losses under [section 1501 of Public Law 113–79][/us/pl/113/79/s1501] \[enacting [section 9081 of this title][/us/usc/t7/s9081]\] shall not be considered the same loss for the purposes of [7 U.S.C. 7333(i)(3)][/us/usc/t7/s7333/i/3] and [7 U.S.C. 1508(n)][/us/usc/t7/s1508/n].”
 
  __Expansion of Crop Insurance Pilots__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 205(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 205(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294, provided that: 
 
 > “In the case of any pilot program offered under the Federal Crop Insurance Act \[[7 U.S.C. 1501][/us/usc/t7/s1501] et seq.\] that was approved by the Board of Directors of the Federal Crop Insurance Corporation on or before September 30, 1999, the pilot program may be offered on a regional, whole State, or national basis for the 2000 and 2001 crop years notwithstanding [section 553 of title 5][/us/usc/t5/s553], United States Code.”
 
  __Limitation on Fee for Catastrophic Risk Protection__ 
 
-    [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 748\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32, as amended by [Pub. L. 106–224, title I, § 103(b)(2)][/us/pl/106/224/s103/b/2], June 20, 2000, [114 Stat. 364][/us/stat/114/364], which directed that, for the 1999 reinsurance and subsequent reinsurance years, no producer was to pay more than $100 per crop per county as an administrative fee for catastrophic risk protection under former subsec. (b)(5)(A) of this section, was repealed by [Pub. L. 110–234, title XII, § 12006(b)][/us/pl/110/234/s12006/b], May 22, 2008, [122 Stat. 1374][/us/stat/122/1374], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12006(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2136.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 748\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32, as amended by [Pub. L. 106–224, title I][/us/pl/106/224/tI], § 103(b)(2), June 20, 2000, [114 Stat. 364][/us/stat/114/364], which directed that, for the 1999 reinsurance and subsequent reinsurance years, no producer was to pay more than $100 per crop per county as an administrative fee for catastrophic risk protection under former subsec. (b)(5)(A) of this section, was repealed by [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12006(b), May 22, 2008, [122 Stat. 1374][/us/stat/122/1374], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12006(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2136.
 
-    \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] repealed [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 748\], formerly set out above. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].\]
+    \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] repealed [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 748\], formerly set out above. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].\]
 
  __Special Rule for 1996 Crop Year Regarding Catastrophic Risk Protection Insurance__ 
 
-[Pub. L. 104–127, title I, § 193(a)(3)][/us/pl/104/127/s193/a/3], Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
+[Pub. L. 104–127, title I][/us/pl/104/127/tI], § 193(a)(3), Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
 
 >     “(A)  __Effective period__  __.—__ 
 
@@ -1899,7 +1899,7 @@
 
  __Crop Insurance Pilot Program__ 
 
-[Pub. L. 104–127, title I, § 193(b)][/us/pl/104/127/s193/b], Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
+[Pub. L. 104–127, title I][/us/pl/104/127/tI], § 193(b), Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
 
 >     “(1)  __Coverage__  __.—__ 
 
@@ -1915,7 +1915,7 @@
 
  __Prevented Planting__ 
 
-[Pub. L. 103–354, title I, § 116][/us/pl/103/354/s116], Oct. 13, 1994, [108 Stat. 3204][/us/stat/108/3204], provided that:
+[Pub. L. 103–354, title I][/us/pl/103/354/tI], § 116, Oct. 13, 1994, [108 Stat. 3204][/us/stat/108/3204], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1959,7 +1959,7 @@
 
  __Report on Improving Dissemination of Crop Insurance Information__ 
 
-[Pub. L. 103–354, title I, § 117][/us/pl/103/354/s117], Oct. 13, 1994, [108 Stat. 3205][/us/stat/108/3205], provided that: 
+[Pub. L. 103–354, title I][/us/pl/103/354/tI], § 117, Oct. 13, 1994, [108 Stat. 3205][/us/stat/108/3205], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Oct. 13, 1994\] and at the end of each of the 2 1-year periods thereafter, the Federal Crop Insurance Corporation shall submit a report to Congress containing a plan to implement a sound program for producer education regarding the crop insurance program and for the dissemination of crop insurance information to producers, as required by section 508(a)(5) of the Federal Crop Insurance Act \[[7 U.S.C. 1508(a)(5)][/us/usc/t7/s1508/a/5]\] (as amended by section 106).”
 
@@ -1969,7 +1969,7 @@
 
  __Loss Adjustment Obligations__ 
 
-[Pub. L. 100–203, title I, § 1507][/us/pl/100/203/s1507], Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1507, Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
 
 > “It is the sense of Congress that, in carrying out the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.), the Federal Crop Insurance Corporation—
 
@@ -1979,19 +1979,19 @@
 
  __Notice to Producers of Right To Elect Subsidized Crop Insurance or Disaster Payments on 1981 Crops__ 
 
-[Pub. L. 96–365, title II, § 202][/us/pl/96/365/s202], Sept. 26, 1980, [94 Stat. 1321][/us/stat/94/1321], provided that: 
+[Pub. L. 96–365, title II][/us/pl/96/365/tII], § 202, Sept. 26, 1980, [94 Stat. 1321][/us/stat/94/1321], provided that: 
 
 > “The Secretary of Agriculture, after consultation with the Board of Directors of the Federal Crop Insurance Corporation, shall, at least sixty days prior to the beginning of the planting of the 1981 crops of wheat, feed grains, upland cotton, and rice, or thirty days after the date of enactment of this Act \[Sept. 26, 1980\], whichever is the later, notify producers of those commodities of their right to elect, with respect to the 1981 crop, between (1) declaring the farm acreage of the respective commodity eligible for disaster payments under the Agricultural Act of 1949 \[[7 U.S.C. 1421][/us/usc/t7/s1421] et seq.\], or (2) covering such farm acreage with crop insurance, part of the premium for which is paid by the Federal Crop Insurance Corporation under the provisions of section 508(b)(3) or 508(e) of the Federal Crop Insurance Act \[subsec. (b)(3) or (e) of this section\]. Such notice shall include a statement of the percent of crop insurance premium that will be paid by the Corporation.”
 
  __Study of Alternative All-Risk, All-Crop Insurance Programs__ 
 
-[Pub. L. 95–181, § 2][/us/pl/95/181/s2], Nov. 15, 1977, [91 Stat. 1373][/us/stat/91/1373], provided that: 
+[Pub. L. 95–181][/us/pl/95/181], § 2, Nov. 15, 1977, [91 Stat. 1373][/us/stat/91/1373], provided that: 
 
 > “The Secretary of Agriculture shall undertake an immediate study of alternative programs which could be established for an all-risk, all-crop insurance to help provide protection to those suffering crop losses in floods, droughts, and other natural disasters, including alternative methods of administration, Federal assistance, reinsurance, rate setting and private insurance industry involvement, as well as variations on the existing crop insurance program, and such other matters as he determines are relevant, and shall report his findings and recommendations to the President for transmission to the Congress by March 1, 1978. The Secretary shall consult with the Secretary of Housing and Urban Development on behalf of the Federal Insurance Administration; the Secretary of Treasury and representatives of the private insurance industry in the course of the study and shall identify the views of each in forwarding his findings and recommendations to the President. Such sums, not exceeding $200,000, as are appropriated for fiscal year 1978 under section 504 of the Federal Crop Insurance Act, as amended \[[section 1504 of this title][/us/usc/t7/s1504]\], may be utilized to conduct such a study.”
 
  __Validity and Termination of Prior Insurance Contracts__ 
 
-[Act Aug. 1, 1947, ch. 440, § 5][/us/act/1947-08-01/ch440/s5], [61 Stat. 719][/us/stat/61/719], provided: 
+[Act Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], § 5, [61 Stat. 719][/us/stat/61/719], provided: 
 
 > “Nothing in this Act \[amending sections 1502, 1505 (a to d), 1506(d), 1507(d), and 1508 (a to c) of this title\] shall be construed to affect the validity of any insurance contract entered into prior to the enactment of this Act \[Aug. 1, 1947\] insofar as such contract covers the 1947 crop year. Any such contract which purports to cover a crop in the 1948 or any subsequent crop year in any county in which insurance on such crop will be discontinued pursuant to this Act is hereby terminated at the end of the 1947 crop year.”
 
@@ -2045,41 +2045,41 @@
 [/us/stat/73/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F278
 [/us/pl/88/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F589
 [/us/stat/78/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F933
-[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1314
-[/us/pl/100/387/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs208%2Fa
+[/us/pl/100/387/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtII
 [/us/stat/102/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F941
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXII
 [/us/stat/104/3955-3957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3955-3957
-[/us/pl/102/237/s601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F4
+[/us/pl/102/237/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVI
 [/us/stat/105/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1878
-[/us/pl/103/66/s1403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fb%2F1
+[/us/pl/103/66/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIV
 [/us/stat/107/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F333
-[/us/pl/103/354/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs106
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3183
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/943-946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F943-946
-[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtV
 [/us/stat/112/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F581
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/360-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F360-368
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F486
-[/us/pl/109/97/s780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs780
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2162
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1372-1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1372-1381
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/954-957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F954-957
-[/us/pl/114/74/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201
+[/us/pl/114/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtII
 [/us/stat/129/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F587
-[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
@@ -2088,7 +2088,7 @@
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/usc/t7/s7759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7759
-[/us/pl/106/224/s438/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F3
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/usc/t7/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7702
 [/us/pl/103/354/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs118
@@ -2104,178 +2104,178 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
-[/us/pl/114/74/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201
-[/us/pl/114/74/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201%2F1
-[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
-[/us/pl/114/74/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201%2F2
-[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
-[/us/pl/113/79/s11002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11002
-[/us/pl/113/79/s12305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fb
-[/us/pl/113/79/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F1
-[/us/pl/113/79/s11028/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F1
-[/us/pl/113/79/s11003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fa
-[/us/pl/113/79/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11004
-[/us/pl/113/79/s11003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fb
-[/us/pl/113/79/s11023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11023%2Fa
-[/us/pl/113/79/s11005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11005
-[/us/pl/113/79/s11028/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F2
-[/us/pl/113/79/s11003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fc
-[/us/pl/113/79/s11006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11006
-[/us/pl/113/79/s11007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11007
-[/us/pl/113/79/s11016/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F2
-[/us/pl/113/79/s11009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11009%2F1
-[/us/pl/113/79/s11016/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F3%2FA
-[/us/pl/113/79/s11008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11008
-[/us/pl/113/79/s11016/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F3%2FB
-[/us/pl/113/79/s11009/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11009%2F2
-[/us/pl/113/79/s11010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11010%2Fa%2F1
-[/us/pl/113/79/s11010/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11010%2Fa%2F2
-[/us/pl/113/79/s11011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11011
-[/us/pl/113/79/s11017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11017%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b
-[/us/pl/113/79/s11028/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F3
-[/us/pl/113/79/s11012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11012
-[/us/pl/113/79/s11013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11013
-[/us/pl/113/79/s11014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F1
-[/us/pl/113/79/s11014/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FA
-[/us/pl/113/79/s11014/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
-[/us/pl/113/79/s11014/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FC
-[/us/pl/113/79/s11014/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F3
-[/us/pl/113/79/s11015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11015
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/246/s12006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F1
-[/us/pl/110/246/s12006/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F2%2FA
-[/us/pl/110/246/s12006/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F2%2FB
-[/us/pl/110/246/s12006/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F2%2FC
-[/us/pl/110/246/s12006/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F2%2FD
-[/us/pl/110/246/s12006/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F2%2FC
-[/us/pl/110/246/s12007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12007%2F1
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12008
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12009
-[/us/pl/110/246/s12007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12007%2F2
-[/us/pl/110/246/s12003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12003%2Fb
-[/us/pl/110/246/s12007/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12007%2F3
-[/us/pl/110/246/s12012/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12012%2F1
-[/us/pl/110/246/s12010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F1
-[/us/pl/110/246/s12010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F2
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12010/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F3
-[/us/pl/110/246/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12011
-[/us/pl/110/246/s12010/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F3
-[/us/pl/110/246/s12012/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12012%2F2
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12013
-[/us/pl/110/246/s12014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12014%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12016/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12016%2F1
-[/us/pl/110/246/s12015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12015
-[/us/pl/110/246/s12016/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12016%2F2
-[/us/pl/110/246/s12017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12017
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12018
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12019
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
-[/us/pl/110/246/s12020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12020%2Fa
-[/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
-[/us/pl/107/171/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10001
-[/us/pl/107/171/s10002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10002
-[/us/pl/107/171/s10003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10003%2F1
-[/us/pl/107/171/s10003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10003%2F2
-[/us/pl/106/224/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs123
-[/us/pl/106/224/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs161
-[/us/pl/106/224/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs144
-[/us/pl/106/224/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs145
-[/us/pl/106/224/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs162
-[/us/pl/106/224/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fa
-[/us/pl/106/224/s103/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fb%2F1%2FA
-[/us/pl/106/224/s103/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fb%2F1%2FB
-[/us/pl/106/224/s103/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fb%2F1%2FC
-[/us/pl/106/224/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fd
-[/us/pl/106/224/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fa
-[/us/pl/106/224/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs104
-[/us/pl/106/224/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fb%2F1
-[/us/pl/106/224/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fb%2F2
-[/us/pl/106/224/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fc%2F1
-[/us/pl/106/224/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fc%2F2
-[/us/pl/106/224/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fd
-[/us/pl/106/224/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Fe
-[/us/pl/106/224/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs124%2Fa
-[/us/pl/106/224/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs105%2Fa
-[/us/pl/106/224/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs101%2Ff
-[/us/pl/106/224/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs105%2Fb
-[/us/pl/106/224/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fa
-[/us/pl/106/224/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs102%2Fa%2F1
-[/us/pl/106/224/s146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fb
-[/us/pl/106/224/s146/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fc%2F1
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/106/224/s146/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fc%2F2
-[/us/pl/106/224/s146/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fc%2F3
-[/us/pl/106/224/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs102%2Fa%2F2
-[/us/pl/106/224/s146/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs146%2Fd
-[/us/pl/106/224/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs106
-[/us/pl/106/224/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs102%2Fb
-[/us/pl/106/224/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs107
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/105/185/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs532%2Fa
-[/us/pl/105/185/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs532%2Fd
-[/us/pl/105/185/s532/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs532%2Fb%2F1
-[/us/pl/105/185/s532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs532%2Fb%2F2
-[/us/pl/105/185/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs534
-[/us/pl/105/185/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs532%2Fc
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/104/127/s193/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fc
-[/us/pl/104/127/s193/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fa%2F1
-[/us/pl/104/127/s193/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fa%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s2008f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008f
-[/us/pl/104/127/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs195
-[/us/pl/104/127/s193/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fd
-[/us/pl/104/127/s193/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Ff
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/66/s1403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fb%2F1
-[/us/pl/103/66/s1403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fb%2F2
-[/us/pl/102/237/s601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F4
-[/us/pl/102/237/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs601%2F5
-[/us/pl/101/624/s2204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fb%2F1
-[/us/pl/101/624/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2205%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2203%2Fa
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2203%2Fb
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2205%2F2
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fb%2F8
-[/us/pl/101/624/s2204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F1
-[/us/pl/101/624/s2204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2204%2Fa%2F3
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387
-[/us/pl/96/365/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs105
-[/us/pl/96/365/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F1
-[/us/pl/96/365/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F2
-[/us/pl/96/365/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F3
-[/us/pl/96/365/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F4
-[/us/pl/96/365/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F4
-[/us/pl/96/365/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106%2F4
-[/us/pl/96/365/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs107%2Fb
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
+[/us/pl/96/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365
 [/us/pl/88/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F589
 [/us/pl/86/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F131
 [/us/pl/85/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F111
-[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/113/79/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fd
+[/us/pl/113/79/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXI
 [/us/stat/128/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F956
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -2297,9 +2297,9 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s1403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1403%2Fc
 [/us/usc/t7/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506
-[/us/pl/96/365/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs105
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1314
-[/us/pl/96/365/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs106
+[/us/pl/96/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtI
 [/us/stat/94/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1315
 [/us/pl/96/365/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs107%2Fb
 [/us/pl/96/365/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs112
@@ -2307,53 +2307,53 @@
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
-[/us/pl/113/235/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs733
+[/us/pl/113/235/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdA%2FtVII
 [/us/stat/128/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2168
 [/us/pl/113/79/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1501
 [/us/usc/t7/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9081
 [/us/usc/t7/s7333/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333%2Fi%2F3
 [/us/usc/t7/s1508/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fn
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/224/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs103%2Fb%2F2
+[/us/pl/106/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtI
 [/us/stat/114/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F364
-[/us/pl/110/234/s12006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12006%2Fb
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1374
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/104/127/s193/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fa%2F3
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F944
 [/us/usc/t7/s1508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fb
-[/us/pl/104/127/s193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs193%2Fb
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F944
-[/us/pl/103/354/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs116
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3204
 [/us/usc/t7/s1445b–3a/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445b%E2%80%933a%2Fc%2F1%2FE
 [/us/usc/t7/s1446f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446f%2Fa
-[/us/pl/103/354/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs117
+[/us/pl/103/354/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtI
 [/us/stat/108/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3205
 [/us/usc/t7/s1508/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fa%2F5
 [/us/pl/100/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F546
 [/us/stat/102/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2730
-[/us/pl/100/203/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1507
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-29
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/96/365/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs202
+[/us/pl/96/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2FtII
 [/us/stat/94/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1321
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/95/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F181%2Fs2
+[/us/pl/95/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F181
 [/us/stat/91/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1373
 [/us/usc/t7/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1504
-[/us/act/1947-08-01/ch440/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440%2Fs5
+[/us/act/1947-08-01/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch440
 [/us/stat/61/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F719
 
 

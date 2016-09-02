@@ -59,19 +59,19 @@
 
         (2) The date the producers requested the payment.
 
-([Pub. L. 104–127, title I, § 135][/us/pl/104/127/s135], Apr. 4, 1996, [110 Stat. 909][/us/stat/110/909]; [Pub. L. 106–224, title II, § 206][/us/pl/106/224/s206], June 20, 2000, [114 Stat. 405][/us/stat/114/405]; [Pub. L. 107–171, title I, § 1205(f)(2)][/us/pl/107/171/s1205/f/2], May 13, 2002, [116 Stat. 159][/us/stat/116/159].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 135, Apr. 4, 1996, [110 Stat. 909][/us/stat/110/909]; [Pub. L. 106–224, title II][/us/pl/106/224/tII], § 206, June 20, 2000, [114 Stat. 405][/us/stat/114/405]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1205(f)(2), May 13, 2002, [116 Stat. 159][/us/stat/116/159].)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(2). [Pub. L. 107–171, § 1205(f)(2)(A)][/us/pl/107/171/s1205/f/2/A], substituted “2000 and 2001 crop years” for “2000 crop year”.
+    2002—Subsec. (a)(2). [Pub. L. 107–171][/us/pl/107/171], § 1205(f)(2)(A), substituted “2000 and 2001 crop years” for “2000 crop year”.
 
-    Subsec. (g). [Pub. L. 107–171, § 1205(f)(2)(B)][/us/pl/107/171/s1205/f/2/B], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–171][/us/pl/107/171], § 1205(f)(2)(B), added subsec. (g).
 
-    2000—Subsec. (a). [Pub. L. 106–224, § 206(a)][/us/pl/106/224/s206/a], designated existing provisions as par. (1) and added par. (2).
+    2000—Subsec. (a). [Pub. L. 106–224][/us/pl/106/224], § 206(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(2). [Pub. L. 106–224, § 206(b)][/us/pl/106/224/s206/b], substituted “produced by the eligible producers, excluding any quantity for which the producers obtain a loan under [section 7231 of this title][/us/usc/t7/s7231].” for “that the producers on a farm are eligible to place under loan but for which the producers forgo obtaining the loan in return for payments under this section.”
+    Subsec. (b)(2). [Pub. L. 106–224][/us/pl/106/224], § 206(b), substituted “produced by the eligible producers, excluding any quantity for which the producers obtain a loan under [section 7231 of this title][/us/usc/t7/s7231].” for “that the producers on a farm are eligible to place under loan but for which the producers forgo obtaining the loan in return for payments under this section.”
 
-    Subsecs. (e), (f). [Pub. L. 106–224, § 206(c)][/us/pl/106/224/s206/c], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 106–224][/us/pl/106/224], § 206(c), added subsecs. (e) and (f).
 
 ----------
 
@@ -85,17 +85,17 @@
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
 [/us/usc/t7/s7232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7232
 [/us/usc/t7/s7234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7234
-[/us/pl/104/127/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs135
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F909
-[/us/pl/106/224/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs206
+[/us/pl/106/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtII
 [/us/stat/114/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F405
-[/us/pl/107/171/s1205/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205%2Ff%2F2
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F159
-[/us/pl/107/171/s1205/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205%2Ff%2F2%2FA
-[/us/pl/107/171/s1205/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1205%2Ff%2F2%2FB
-[/us/pl/106/224/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs206%2Fa
-[/us/pl/106/224/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs206%2Fb
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/106/224/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs206%2Fc
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 
 

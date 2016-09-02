@@ -71,7 +71,7 @@
 
             No forward contract entered into under the program may extend beyond September 30, 2021.
 
-([Pub. L. 110–234, title I, § 1502][/us/pl/110/234/s1502], May 22, 2008, [122 Stat. 991][/us/stat/122/991]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1720; [Pub. L. 113–79, title I, § 1424][/us/pl/113/79/s1424], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
+([Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1502, May 22, 2008, [122 Stat. 991][/us/stat/122/991]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1720; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1424, Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __Codification__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1). [Pub. L. 113–79, § 1424(1)][/us/pl/113/79/s1424/1], substituted “2018” for “2012”.
+    2014—Subsec. (e)(1). [Pub. L. 113–79][/us/pl/113/79], § 1424(1), substituted “2018” for “2012”.
 
-    Subsec. (e)(2). [Pub. L. 113–79, § 1424(2)][/us/pl/113/79/s1424/2], substituted “2021” for “2015”.
+    Subsec. (e)(2). [Pub. L. 113–79][/us/pl/113/79], § 1424(2), substituted “2021” for “2015”.
 
 ----------
 
@@ -93,11 +93,11 @@
 ----------
 
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
-[/us/pl/110/234/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1502
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F991
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1424
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -107,7 +107,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s1424/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1424%2F1
-[/us/pl/113/79/s1424/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1424%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

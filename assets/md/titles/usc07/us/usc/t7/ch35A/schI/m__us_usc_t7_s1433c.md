@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this Act, the Secretary may make advance recourse loans available to producers of the commodities of the 1986 through 1990 crops for which nonrecourse loans are made available under this Act if the Secretary finds that such action is necessary to ensure that adequate operating credit is available to producers. Such recourse loans may be made available under such reasonable terms and conditions as the Secretary may prescribe, except that the Secretary shall require that a producer obtain crop insurance for the crop as a condition of eligibility for a loan.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 424, as added [Pub. L. 99–198, title X, § 1003][/us/pl/99/198/s1003], Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 424, as added [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1003, Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Effective and Termination Dates__ 
 
-    [Pub. L. 99–198, title X, § 1003][/us/pl/99/198/s1003], Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447], provided that this section is effective for the 1986 through 1990 crops.
+    [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1003, Dec. 23, 1985, [99 Stat. 1447][/us/stat/99/1447], provided that this section is effective for the 1986 through 1990 crops.
 
  __Inapplicability of Section__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/99/198/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1003
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1447
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/99/198/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1003
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1447
 [/us/usc/t7/s9092/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fb%2F10
 [/us/usc/t7/s8782/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fb%2F10

@@ -23,7 +23,7 @@
 
     (3) the term “advisory committee” means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof that is established or utilized by the Department of Agriculture in the interest of obtaining advice or recommendations for the President or the Department of Agriculture, except that such term excludes any committee which (A) is composed wholly of full-time officers or employees of the Federal Government, (B) is established by statute or reorganization plan, or (C) is established by the President.
 
-([Pub. L. 95–113, title XVIII, § 1802][/us/pl/95/113/s1802], Sept. 29, 1977, [91 Stat. 1041][/us/stat/91/1041]; [Pub. L. 97–98, title XI, § 1116(a)][/us/pl/97/98/s1116/a], Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270].)
+([Pub. L. 95–113, title XVIII][/us/pl/95/113/tXVIII], § 1802, Sept. 29, 1977, [91 Stat. 1041][/us/stat/91/1041]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1116(a), Dec. 22, 1981, [95 Stat. 1270][/us/stat/95/1270].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1802
+[/us/pl/95/113/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVIII
 [/us/stat/91/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1041
-[/us/pl/97/98/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1116%2Fa
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1270
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

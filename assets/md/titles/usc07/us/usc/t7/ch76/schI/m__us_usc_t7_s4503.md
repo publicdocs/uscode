@@ -31,7 +31,7 @@
 
         The Secretary, in consultation with the United States Trade Representative, shall ensure that the order is implemented in a manner consistent with the international trade obligations of the Federal Government.
 
-([Pub. L. 98–180, title I, § 112][/us/pl/98/180/s112], Nov. 29, 1983, [97 Stat. 1137][/us/stat/97/1137]; [Pub. L. 107–171, title I, § 1505(g)][/us/pl/107/171/s1505/g], May 13, 2002, [116 Stat. 209][/us/stat/116/209].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 112, Nov. 29, 1983, [97 Stat. 1137][/us/stat/97/1137]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1505(g), May 13, 2002, [116 Stat. 209][/us/stat/116/209].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t7/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4505
-[/us/pl/98/180/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs112
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1137
-[/us/pl/107/171/s1505/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1505%2Fg
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F209
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

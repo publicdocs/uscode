@@ -43,7 +43,7 @@
 
         The personnel reductions in headquarters offices and in the field structure should be accomplished concurrently in a manner determined by the Secretary.
 
-([Pub. L. 103–354, title II, § 213][/us/pl/103/354/s213], Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 213, Oct. 13, 1994, [108 Stat. 3211][/us/stat/108/3211].)
 
 ----------
 
@@ -56,7 +56,7 @@
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F115
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
-[/us/pl/103/354/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs213
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3211
 
 

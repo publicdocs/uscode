@@ -35,7 +35,7 @@
 
         This section shall not apply to investigations involving any security underlying a security futures product.
 
-([Sept. 21, 1922, ch. 369, § 16][/us/act/1922-09-21/ch369/s16], as added [Pub. L. 93–463, title IV, § 414][/us/pl/93/463/s414], Oct. 23, 1974, [88 Stat. 1414][/us/stat/88/1414]; amended [Pub. L. 97–444, title II, § 232][/us/pl/97/444/s232], Jan. 11, 1983, [96 Stat. 2320][/us/stat/96/2320]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–443.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 16, as added [Pub. L. 93–463, title IV][/us/pl/93/463/tIV], § 414, Oct. 23, 1974, [88 Stat. 1414][/us/stat/88/1414]; amended [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 232, Jan. 11, 1983, [96 Stat. 2320][/us/stat/96/2320]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–443.)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Study of Trading in Cattle Futures Contracts__ 
 
-[Pub. L. 99–641, title I, § 111][/us/pl/99/641/s111], Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561], provided that:
+[Pub. L. 99–641, title I][/us/pl/99/641/tI], § 111, Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Potato Futures Study; Submission of Report to Congress__ 
 
-    [Pub. L. 95–405, § 27][/us/pl/95/405/s27], Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877], required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
+    [Pub. L. 95–405][/us/pl/95/405], § 27, Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877], required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
 
 ----------
 
@@ -103,12 +103,12 @@
 ----------
 
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/act/1922-09-21/ch369/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs16
-[/us/pl/93/463/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs414
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtIV
 [/us/stat/88/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1414
-[/us/pl/97/444/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs232
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2320
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/97/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444
@@ -117,10 +117,10 @@
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/pl/93/463/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs418
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
-[/us/pl/99/641/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs111
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3561
 [/us/usc/t7/s1446/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446%2Fd%2F3
-[/us/pl/95/405/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs27
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F877
 
 

@@ -33,7 +33,7 @@
 
         (2) the progress of the Department in implementing the strategic goals through the global market strategy.
 
-([Pub. L. 107–171, title III, § 3206][/us/pl/107/171/s3206], May 13, 2002, [116 Stat. 301][/us/stat/116/301].)
+([Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3206, May 13, 2002, [116 Stat. 301][/us/stat/116/301].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3206
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F301
 
 

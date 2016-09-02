@@ -17,7 +17,7 @@
 
     The Plant Variety Protection Office shall have a seal with which documents and certificates evidencing plant variety protection shall be authenticated.
 
-([Pub. L. 91–577, title I, § 2][/us/pl/91/577/s2], Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
+([Pub. L. 91–577, title I][/us/pl/91/577/tI], § 2, Dec. 24, 1970, [84 Stat. 1542][/us/stat/84/1542].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs2
+[/us/pl/91/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtI
 [/us/stat/84/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1542
 
 

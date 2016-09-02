@@ -369,7 +369,7 @@
 
             The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-([Pub. L. 87–128, title III, § 335][/us/pl/87/128/s335], Aug. 8, 1961, [75 Stat. 315][/us/stat/75/315]; [Pub. L. 92–419, title I, § 127][/us/pl/92/419/s127], Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1314(a), 1315, 1318(b)(1), Dec. 23, 1985, [99 Stat. 1526][/us/stat/99/1526], 1528, 1531; [Pub. L. 100–233, title VI][/us/pl/100/233], §§ 610, 611, Jan. 6, 1988, [101 Stat. 1669][/us/stat/101/1669], 1673; [Pub. L. 101–624, title XVIII][/us/pl/101/624], §§ 1813(a)–(h)(1), 1816(e), title XXIII, §§ 2303(c), 2388(g), Nov. 28, 1990, [104 Stat. 3821–3823][/us/stat/104/3821-3823], 3827, 3981, 4053; [Pub. L. 102–237, title V, § 501(f)][/us/pl/102/237/s501/f], Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867]; [Pub. L. 102–552, title V, § 516(h)(1)][/us/pl/102/552/s516/h/1], Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138]; [Pub. L. 102–554][/us/pl/102/554], §§ 16, 17, Oct. 28, 1992, [106 Stat. 4154][/us/stat/106/4154]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 638, 639, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1097; [Pub. L. 107–171, title V, § 5308][/us/pl/107/171/s5308], May 13, 2002, [116 Stat. 345][/us/stat/116/345]; [Pub. L. 110–234, title V, § 5302(a)][/us/pl/110/234/s5302/a], May 22, 2008, [122 Stat. 1151][/us/stat/122/1151]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5302(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1913.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 335, Aug. 8, 1961, [75 Stat. 315][/us/stat/75/315]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], § 127, Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], §§ 1314(a), 1315, 1318(b)(1), Dec. 23, 1985, [99 Stat. 1526][/us/stat/99/1526], 1528, 1531; [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], §§ 610, 611, Jan. 6, 1988, [101 Stat. 1669][/us/stat/101/1669], 1673; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], §§ 1813(a)–(h)(1), 1816(e), title XXIII, §§ 2303(c), 2388(g), Nov. 28, 1990, [104 Stat. 3821–3823][/us/stat/104/3821-3823], 3827, 3981, 4053; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 501(f), Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(h)(1), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138]; [Pub. L. 102–554][/us/pl/102/554], §§ 16, 17, Oct. 28, 1992, [106 Stat. 4154][/us/stat/106/4154]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], §§ 638, 639, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1097; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5308, May 13, 2002, [116 Stat. 345][/us/stat/116/345]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5302(a), May 22, 2008, [122 Stat. 1151][/us/stat/122/1151]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5302(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1913.)
 
  __References in Text__ 
 
@@ -377,51 +377,51 @@
 
     This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 294][/us/stat/75/294], as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title][/us/usc/t7/s1911] and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of [Pub. L. 87–128][/us/pl/87/128], as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
-    Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by [Pub. L. 104–127, title VI, § 639(4)][/us/pl/104/127/s639/4], Apr. 4, 1996, [110 Stat. 1097][/us/stat/110/1097].
+    Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 639(4), Apr. 4, 1996, [110 Stat. 1097][/us/stat/110/1097].
 
  __Codification__ 
 
-    In subsec. (c)(4), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(4), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(B). [Pub. L. 110–246, § 5302(a)(1)(A)][/us/pl/110/246/s5302/a/1/A], in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
+    2008—Subsec. (c)(1)(B). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
 
-    Subsec. (c)(1)(C). [Pub. L. 110–246, § 5302(a)(1)(B)][/us/pl/110/246/s5302/a/1/B], inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+    Subsec. (c)(1)(C). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-    Subsec. (c)(5)(B)(i). [Pub. L. 110–246, § 5302(a)(2)(A)][/us/pl/110/246/s5302/a/2/A], in heading, inserted “; socially disadvantaged farmer or rancher” at end and, in text, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+    Subsec. (c)(5)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(2)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end and, in text, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
 
-    Subsec. (c)(5)(B)(ii). [Pub. L. 110–246, § 5302(a)(2)(B)][/us/pl/110/246/s5302/a/2/B], in introductory provisions, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and, in subcl. (II), inserted “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+    Subsec. (c)(5)(B)(ii). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(2)(B), in introductory provisions, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and, in subcl. (II), inserted “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
 
-    Subsec. (c)(6)(A). [Pub. L. 110–246, § 5302(a)(3)(A)][/us/pl/110/246/s5302/a/3/A], inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+    Subsec. (c)(6)(A). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-    Subsec. (c)(6)(C). [Pub. L. 110–246, § 5302(a)(3)(B)][/us/pl/110/246/s5302/a/3/B], in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
+    Subsec. (c)(6)(C). [Pub. L. 110–246][/us/pl/110/246], § 5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
 
-    2002—Subsec. (c)(1)(B)(i). [Pub. L. 107–171, § 5308(1)(A)(i)][/us/pl/107/171/s5308/1/A/i], substituted “135 days” for “75 days”.
+    2002—Subsec. (c)(1)(B)(i). [Pub. L. 107–171][/us/pl/107/171], § 5308(1)(A)(i), substituted “135 days” for “75 days”.
 
-    Subsec. (c)(1)(B)(iv). [Pub. L. 107–171, § 5308(1)(A)(ii)][/us/pl/107/171/s5308/1/A/ii], added cl. (iv).
+    Subsec. (c)(1)(B)(iv). [Pub. L. 107–171][/us/pl/107/171], § 5308(1)(A)(ii), added cl. (iv).
 
-    Subsec. (c)(1)(C). [Pub. L. 107–171, § 5308(1)(B)][/us/pl/107/171/s5308/1/B], substituted “135 days” for “75 days” and “135-day period” for “75-day period”.
+    Subsec. (c)(1)(C). [Pub. L. 107–171][/us/pl/107/171], § 5308(1)(B), substituted “135 days” for “75 days” and “135-day period” for “75-day period”.
 
-    Subsec. (c)(2). [Pub. L. 107–171, § 5308(2)][/us/pl/107/171/s5308/2], added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+    Subsec. (c)(2). [Pub. L. 107–171][/us/pl/107/171], § 5308(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
     “(A) Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
     “(B) Previously in inventory.—In the case of real property acquired prior to April 4, 1996, that the Secretary has not leased, not later than 60 days after April 4, 1996, the Secretary shall offer to sell the property in accordance with paragraph (1).”
 
-    1996—Subsec. (b). [Pub. L. 104–127, § 638(1)][/us/pl/104/127/s638/1], substituted “subsections (c) and (e)” for “subsection (e)”.
+    1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
 
-    Subsec. (c). [Pub. L. 104–127, § 638(2)][/us/pl/104/127/s638/2], added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
+    Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 638(2), added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
 
-    Subsec. (e)(1)(A). [Pub. L. 104–127, § 638(3)(A)(i)][/us/pl/104/127/s638/3/A/i]–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
+    Subsec. (e)(1)(A). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
 
-    Subsec. (e)(1)(B). [Pub. L. 104–127, § 638(3)(A)(i)][/us/pl/104/127/s638/3/A/i], (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary.”
+    Subsec. (e)(1)(B). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary.”
 
-    Subsec. (e)(1)(C). [Pub. L. 104–127, § 638(3)(A)(i)][/us/pl/104/127/s638/3/A/i], (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
+    Subsec. (e)(1)(C). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
 
-    Subsec. (e)(1)(D). [Pub. L. 104–127, § 638(3)(A)(ii)][/us/pl/104/127/s638/3/A/ii], (iv), redesignated subpar. (G) as (D), in cl. (i), substituted “(A)” for “(D)” in concluding provisions, in cl. (iii)(I), substituted “subparagraph (A)” for “subparagraphs (C)(i), (C)(ii), and (D)”, and added cl. (v) and struck out former cl. (v) which read as follows: “If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
+    Subsec. (e)(1)(D). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted “(A)” for “(D)” in concluding provisions, in cl. (iii)(I), substituted “subparagraph (A)” for “subparagraphs (C)(i), (C)(ii), and (D)”, and added cl. (v) and struck out former cl. (v) which read as follows: “If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
     “(I) the sale;
 
@@ -431,19 +431,19 @@
 
     Former subpar. (D) redesignated (A).
 
-    Subsec. (e)(1)(E) to (G). [Pub. L. 104–127, § 638(3)(A)(ii)][/us/pl/104/127/s638/3/A/ii], redesignated subpars. (E) to (G) as (B) to (D), respectively.
+    Subsec. (e)(1)(E) to (G). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(A)(ii), redesignated subpars. (E) to (G) as (B) to (D), respectively.
 
-    Subsec. (e)(3). [Pub. L. 104–127, § 638(3)(B)][/us/pl/104/127/s638/3/B], (C), (E), redesignated par. (4) as (3), struck out “(i)” before “The Secretary may sell”, redesignated cl. (ii) of subpar. (A) as subpar. (B) and substituted “subparagraph (A)” for “clause (i)”, struck out former subpar. (B) which read as follows: “If two or more qualified operators of not larger than family-size farms desire to purchase, or lease with an option to purchase, such land, the appropriate county committee shall randomly select the operator who may purchase such land, on such basis as the Secretary may prescribe by regulation, in accordance with subsection (c)(2)(B)(iii) of this section.”, and struck out former par. (3) which directed the Secretary to issue regulations providing for leasing of real property, or leasing such property with option to purchase, on fair and equitable basis.
+    Subsec. (e)(3). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(B), (C), (E), redesignated par. (4) as (3), struck out “(i)” before “The Secretary may sell”, redesignated cl. (ii) of subpar. (A) as subpar. (B) and substituted “subparagraph (A)” for “clause (i)”, struck out former subpar. (B) which read as follows: “If two or more qualified operators of not larger than family-size farms desire to purchase, or lease with an option to purchase, such land, the appropriate county committee shall randomly select the operator who may purchase such land, on such basis as the Secretary may prescribe by regulation, in accordance with subsection (c)(2)(B)(iii) of this section.”, and struck out former par. (3) which directed the Secretary to issue regulations providing for leasing of real property, or leasing such property with option to purchase, on fair and equitable basis.
 
-    Subsec. (e)(4). [Pub. L. 104–127, § 638(3)(E)][/us/pl/104/127/s638/3/E], redesignated par. (7) as (4). Former par. (4) redesignated (3).
+    Subsec. (e)(4). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(E), redesignated par. (7) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (e)(5). [Pub. L. 104–127, § 638(3)(D)][/us/pl/104/127/s638/3/D], (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
+    Subsec. (e)(5). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
     “(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under [section 1925 of this title][/us/usc/t7/s1925].
 
     “(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection.”
 
-    Subsec. (e)(6). [Pub. L. 104–127, § 638(3)(D)][/us/pl/104/127/s638/3/D], (E), redesignated par. (10) as (6) and struck out former par. (6) which read as follows: “If suitable farmland is available for disposition under this subsection, the Secretary shall—
+    Subsec. (e)(6). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(D), (E), redesignated par. (10) as (6) and struck out former par. (6) which read as follows: “If suitable farmland is available for disposition under this subsection, the Secretary shall—
 
     “(A) publish an announcement of the availability of such farmland in at least one newspaper that is widely circulated in the county in which the farmland is located;
 
@@ -451,19 +451,19 @@
 
     “(C) provide written notice reasonably calculated to inform the immediate previous owner or immediate previous family-size farm operator of such farmland, of the availability of such farmland.”
 
-    Subsec. (e)(7), (8). [Pub. L. 104–127, § 638(3)(E)][/us/pl/104/127/s638/3/E], redesignated pars. (7) and (8) as (4) and (5), respectively.
+    Subsec. (e)(7), (8). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(E), redesignated pars. (7) and (8) as (4) and (5), respectively.
 
-    Subsec. (e)(9). [Pub. L. 104–127, § 638(3)(D)][/us/pl/104/127/s638/3/D], struck out par. (9) which read as follows: “Denials of applications for or disputes over terms and conditions of a lease or purchase agreement under this section are appealable under [section 1983b of this title][/us/usc/t7/s1983b].”
+    Subsec. (e)(9). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(D), struck out par. (9) which read as follows: “Denials of applications for or disputes over terms and conditions of a lease or purchase agreement under this section are appealable under [section 1983b of this title][/us/usc/t7/s1983b].”
 
-    Subsec. (e)(10). [Pub. L. 104–127, § 638(3)(E)][/us/pl/104/127/s638/3/E], redesignated par. (10) as (6).
+    Subsec. (e)(10). [Pub. L. 104–127][/us/pl/104/127], § 638(3)(E), redesignated par. (10) as (6).
 
-    Subsec. (g). [Pub. L. 104–127, § 639(1)(A)][/us/pl/104/127/s639/1/A], inserted heading.
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 639(1)(A), inserted heading.
 
-    Subsec. (g)(1). [Pub. L. 104–127, § 639(1)][/us/pl/104/127/s639/1], inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 ([16 U.S.C. 3801][/us/usc/t16/s3801] et seq.)” after “inventoried property”.
+    Subsec. (g)(1). [Pub. L. 104–127][/us/pl/104/127], § 639(1), inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 ([16 U.S.C. 3801][/us/usc/t16/s3801] et seq.)” after “inventoried property”.
 
-    Subsec. (g)(2). [Pub. L. 104–127, § 639(2)][/us/pl/104/127/s639/2], added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
+    Subsec. (g)(2). [Pub. L. 104–127][/us/pl/104/127], § 639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
 
-    Subsec. (g)(3). [Pub. L. 104–127, § 639(3)][/us/pl/104/127/s639/3], (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
+    Subsec. (g)(3). [Pub. L. 104–127][/us/pl/104/127], § 639(3), (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
 
     “(A) not establish the wetland conservation easements with respect to wetlands that were converted prior to December 23, 1985, and that have been in cropland use, as determined by the Secretary, in excess of 10 percent of the existing cropland available for production of agricultural commodities on the particular parcel of inventoried property;
 
@@ -473,93 +473,93 @@
 
     “(D) ensure that access to other portions of the property for farming and other uses is provided.”
 
-    Subsec. (g)(4). [Pub. L. 104–127, § 639(3)][/us/pl/104/127/s639/3], (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
+    Subsec. (g)(4). [Pub. L. 104–127][/us/pl/104/127], § 639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
 
-    Subsec. (g)(5). [Pub. L. 104–127, § 639(3)][/us/pl/104/127/s639/3], struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
+    Subsec. (g)(5). [Pub. L. 104–127][/us/pl/104/127], § 639(3), struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
     “(A) establish wetland conservation easements on wetland that was converted prior to December 23, 1985, in a quantity that is less than 10 percent of the existing croplands available for production of agricultural commodities on the particular parcel; and
 
     “(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure that the particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
 
-    Subsec. (g)(6), (7). [Pub. L. 104–127, § 639(4)][/us/pl/104/127/s639/4], (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
+    Subsec. (g)(6), (7). [Pub. L. 104–127][/us/pl/104/127], § 639(4), (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
 
-    Subsec. (g)(8). [Pub. L. 104–127, § 639(3)][/us/pl/104/127/s639/3], struck out par. (8) which read as follows: “Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4).”
+    Subsec. (g)(8). [Pub. L. 104–127][/us/pl/104/127], § 639(3), struck out par. (8) which read as follows: “Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4).”
 
-    1992—Subsec. (c)(1). [Pub. L. 102–554, § 16][/us/pl/102/554/s16], in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
+    1992—Subsec. (c)(1). [Pub. L. 102–554][/us/pl/102/554], § 16, in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
 
-    Subsec. (e)(1)(A)(i). [Pub. L. 102–552][/us/pl/102/552], which, in amending directory language of [Pub. L. 102–237, § 501(f)(1)][/us/pl/102/237/s501/f/1], directed the substitution of “the borrower-owner (as defined in subparagraph (F))” for “borrower-owner (as defined in subparagraph (F))”, was executed by making the substitution in text which did not contain a closing parenthesis after “(F)”, to reflect the probable intent of Congress. See 1991 Amendment note below.
+    Subsec. (e)(1)(A)(i). [Pub. L. 102–552][/us/pl/102/552], which, in amending directory language of [Pub. L. 102–237][/us/pl/102/237], § 501(f)(1), directed the substitution of “the borrower-owner (as defined in subparagraph (F))” for “borrower-owner (as defined in subparagraph (F))”, was executed by making the substitution in text which did not contain a closing parenthesis after “(F)”, to reflect the probable intent of Congress. See 1991 Amendment note below.
 
-    Subsec. (e)(1)(D)(i). [Pub. L. 102–554, § 17(1)][/us/pl/102/554/s17/1], substituted “Except as provided in subparagraph (G), if” for “If”.
+    Subsec. (e)(1)(D)(i). [Pub. L. 102–554][/us/pl/102/554], § 17(1), substituted “Except as provided in subparagraph (G), if” for “If”.
 
-    Subsec. (e)(1)(G). [Pub. L. 102–554, § 17(2)][/us/pl/102/554/s17/2], added subpar. (G).
+    Subsec. (e)(1)(G). [Pub. L. 102–554][/us/pl/102/554], § 17(2), added subpar. (G).
 
-    1991—Subsec. (e)(1)(A)(i). [Pub. L. 102–237, § 501(f)(1)][/us/pl/102/237/s501/f/1], as amended by [Pub. L. 102–552][/us/pl/102/552], substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
+    1991—Subsec. (e)(1)(A)(i). [Pub. L. 102–237][/us/pl/102/237], § 501(f)(1), as amended by [Pub. L. 102–552][/us/pl/102/552], substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
 
-    Subsec. (e)(1)(F). [Pub. L. 102–237, § 501(f)(2)][/us/pl/102/237/s501/f/2], added subpar. (F).
+    Subsec. (e)(1)(F). [Pub. L. 102–237][/us/pl/102/237], § 501(f)(2), added subpar. (F).
 
     1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], §§ 1813(a), 2303(c)(1), inserted “or the Rural Development Administration” after “Farmers Home Administration” and substituted “12 months from the date first published under paragraph (2)(D)” for “three years from the date of acquisition”.
 
-    Subsec. (c)(1). [Pub. L. 101–624, § 2303(c)(2)][/us/pl/101/624/s2303/c/2], inserted “or the Rural Development Administration” after “Farmers Home Administration”.
+    Subsec. (c)(1). [Pub. L. 101–624][/us/pl/101/624], § 2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
-    Subsec. (c)(2)(A), (B). [Pub. L. 101–624, § 1813(e)(1)][/us/pl/101/624/s1813/e/1], added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
+    Subsec. (c)(2)(A), (B). [Pub. L. 101–624][/us/pl/101/624], § 1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
 
-    Subsec. (c)(2)(B)(ii). [Pub. L. 101–624, § 1813(g)(1)][/us/pl/101/624/s1813/g/1], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
+    Subsec. (c)(2)(B)(ii). [Pub. L. 101–624][/us/pl/101/624], § 1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-    Subsec. (c)(2)(B)(iii). [Pub. L. 101–624, § 1813(b)(1)][/us/pl/101/624/s1813/b/1], inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+    Subsec. (c)(2)(B)(iii). [Pub. L. 101–624][/us/pl/101/624], § 1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
-    Subsec. (c)(2)(B)(iv). [Pub. L. 101–624, § 2388(g)][/us/pl/101/624/s2388/g], substituted “cause” for “caused”.
+    Subsec. (c)(2)(B)(iv). [Pub. L. 101–624][/us/pl/101/624], § 2388(g), substituted “cause” for “caused”.
 
-    Subsec. (e)(1)(A)(i). [Pub. L. 101–624, § 1813(c)][/us/pl/101/624/s1813/c], substituted “real farm or ranch property (including the principal residence of the borrower)” for “real property”.
+    Subsec. (e)(1)(A)(i). [Pub. L. 101–624][/us/pl/101/624], § 1813(c), substituted “real farm or ranch property (including the principal residence of the borrower)” for “real property”.
 
-    [Pub. L. 101–624, § 1816(e)(1)][/us/pl/101/624/s1816/e/1], inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1816(e)(1), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
 
-    Subsec. (e)(1)(A)(iv). [Pub. L. 101–624, § 1813(d)][/us/pl/101/624/s1813/d], added cl. (iv).
+    Subsec. (e)(1)(A)(iv). [Pub. L. 101–624][/us/pl/101/624], § 1813(d), added cl. (iv).
 
-    Subsec. (e)(1)(C)(i). [Pub. L. 101–624, § 1816(e)(2)][/us/pl/101/624/s1816/e/2], inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with the loan of such borrower-owner for which such property served as security”.
+    Subsec. (e)(1)(C)(i). [Pub. L. 101–624][/us/pl/101/624], § 1816(e)(2), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with the loan of such borrower-owner for which such property served as security”.
 
-    Subsec. (e)(1)(C)(iv), (v). [Pub. L. 101–624, § 1813(e)(2)][/us/pl/101/624/s1813/e/2], added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (e)(1)(C)(iv), (v). [Pub. L. 101–624][/us/pl/101/624], § 1813(e)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (e)(1)(D)(x). [Pub. L. 101–624, § 1813(f)][/us/pl/101/624/s1813/f], added cl. (x).
+    Subsec. (e)(1)(D)(x). [Pub. L. 101–624][/us/pl/101/624], § 1813(f), added cl. (x).
 
-    Subsec. (e)(4)(B). [Pub. L. 101–624, § 1813(g)(2)][/us/pl/101/624/s1813/g/2], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall offer such land for sale to operators of not larger than family-size farms at a price that reflects the average annual income that may be reasonably anticipated to be generated from farming such land.”
+    Subsec. (e)(4)(B). [Pub. L. 101–624][/us/pl/101/624], § 1813(g)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall offer such land for sale to operators of not larger than family-size farms at a price that reflects the average annual income that may be reasonably anticipated to be generated from farming such land.”
 
-    Subsec. (e)(4)(C). [Pub. L. 101–624, § 1813(g)(2)][/us/pl/101/624/s1813/g/2], redesignated former subpar. (C) as (B).
+    Subsec. (e)(4)(C). [Pub. L. 101–624][/us/pl/101/624], § 1813(g)(2), redesignated former subpar. (C) as (B).
 
-    [Pub. L. 101–624, § 1813(b)(2)][/us/pl/101/624/s1813/b/2], substituted “shall randomly” for “shall, by majority vote,” and inserted “, in accordance with subsection (c)(2)(B)(iii) of this section”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1813(b)(2), substituted “shall randomly” for “shall, by majority vote,” and inserted “, in accordance with subsection (c)(2)(B)(iii) of this section”.
 
-    Subsec. (g). [Pub. L. 101–624, § 1813(h)(1)][/us/pl/101/624/s1813/h/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1813(h)(1), added subsec. (g).
 
-    1988—Subsec. (c). [Pub. L. 100–233, § 610(a)][/us/pl/100/233/s610/a], designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of [section 1923 of this title][/us/usc/t7/s1923], and added par. (2).
+    1988—Subsec. (c). [Pub. L. 100–233][/us/pl/100/233], § 610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of [section 1923 of this title][/us/usc/t7/s1923], and added par. (2).
 
-    Subsec. (e)(1). [Pub. L. 100–233, § 610(b)(1)][/us/pl/100/233/s610/b/1], added par. (1) and struck out former par. (1) which read as follows: “The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
+    Subsec. (e)(1). [Pub. L. 100–233][/us/pl/100/233], § 610(b)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 
     “(A) Sale of such farmland to operators (as of the time immediately before such sale) of not larger than family-size farms.
 
     “(B) Lease of such farmland to operators (as of the time immediately before such lease is entered into) of not larger than family-size farms.”
 
-    Subsec. (e)(3). [Pub. L. 100–233, § 610(b)(2)][/us/pl/100/233/s610/b/2], redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out former subpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
+    Subsec. (e)(3). [Pub. L. 100–233][/us/pl/100/233], § 610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out former subpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
 
-    Subsec. (e)(5)(A). [Pub. L. 100–233, § 610(b)(3)][/us/pl/100/233/s610/b/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator.”
+    Subsec. (e)(5)(A). [Pub. L. 100–233][/us/pl/100/233], § 610(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator.”
 
-    Subsec. (e)(6)(C). [Pub. L. 100–233, § 610(b)(4)][/us/pl/100/233/s610/b/4], added subpar. (C).
+    Subsec. (e)(6)(C). [Pub. L. 100–233][/us/pl/100/233], § 610(b)(4), added subpar. (C).
 
-    Subsec. (e)(9), (10). [Pub. L. 100–233, § 610(b)(5)][/us/pl/100/233/s610/b/5], added pars. (9) and (10).
+    Subsec. (e)(9), (10). [Pub. L. 100–233][/us/pl/100/233], § 610(b)(5), added pars. (9) and (10).
 
-    Subsec. (f). [Pub. L. 100–233, § 611][/us/pl/100/233/s611], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 100–233][/us/pl/100/233], § 611, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
     “(1) As used in this subsection, the term ‘normal income security’ has the same meaning given such term in section 1962.17(b) of title 7, Code of Federal Regulations (as of January 1, 1985).
 
     “(2) Until such time as the Secretary accelerates a loan made or insured under this chapter, the Secretary shall release from the normal income security provided for such loan an amount sufficient to pay the essential household and farm operating expenses of the borrower, as determined by the Secretary.”
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1314(a)(1)][/us/pl/99/198/s1314/a/1], substituted “Except as provided in subsection (e), real property” for “Real property”.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1314(a)(1), substituted “Except as provided in subsection (e), real property” for “Real property”.
 
-    Subsec. (c). [Pub. L. 99–198, § 1314(a)(2)][/us/pl/99/198/s1314/a/2], substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
+    Subsec. (c). [Pub. L. 99–198][/us/pl/99/198], § 1314(a)(2), substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
 
-    [Pub. L. 99–198, § 1318(b)(1)][/us/pl/99/198/s1318/b/1], which directed insertion of “, other than easements acquired under [section 1997 of this title][/us/usc/t7/s1997]” at end of last sentence, was executed to fifth sentence of subsec. (c), and not to sixth and last sentence as added by [section 1314(a)(2)(B) of Pub. L. 99–198][/us/pl/99/198/s1314/a/2/B], to reflect the probable intent of Congress.
+    [Pub. L. 99–198][/us/pl/99/198], § 1318(b)(1), which directed insertion of “, other than easements acquired under [section 1997 of this title][/us/usc/t7/s1997]” at end of last sentence, was executed to fifth sentence of subsec. (c), and not to sixth and last sentence as added by [section 1314(a)(2)(B) of Pub. L. 99–198][/us/pl/99/198/s1314/a/2/B], to reflect the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 99–198, § 1314(a)(3)][/us/pl/99/198/s1314/a/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–198][/us/pl/99/198], § 1314(a)(3), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 99–198, § 1315][/us/pl/99/198/s1315], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–198][/us/pl/99/198], § 1315, added subsec. (f).
 
     1972—Subsec. (c). [Pub. L. 92–419][/us/pl/92/419] substituted “the provisions of any law administered by the Farmers Home Administration” for “subchapter I of this chapter” in first sentence and “such provisions” for “the provisions of subchapter I of this chapter” in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
 
@@ -573,7 +573,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–552, title V, § 516(h)(2)][/us/pl/102/552/s516/h/2], Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
+[Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(h)(2), Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138], provided that: 
 
 > “The amendments made by paragraph (1) of this subsection \[amending [section 501(f) of Pub. L. 102–237][/us/pl/102/237/s501/f], see 1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[[Pub. L. 102–237][/us/pl/102/237]\]\] took effect.”
 
@@ -583,19 +583,19 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XIII, § 1314(b)][/us/pl/99/198/s1314/b], Dec. 23, 1985, [99 Stat. 1528][/us/stat/99/1528], provided that: 
+[Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1314(b), Dec. 23, 1985, [99 Stat. 1528][/us/stat/99/1528], provided that: 
 
 > “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] not later than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
 
  __Completion of Sales of Farmers Home Administration Inventory Farms__ 
 
-[Pub. L. 102–142, title VII, § 740][/us/pl/102/142/s740], Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915], provided that: 
+[Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 740, Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915], provided that: 
 
 > “Hereafter, the Secretary shall complete the sales of Farmers Home Administration inventory farms, in accordance with the law and regulations in effect before November 28, 1990, in situations in which a County Committee, acting pursuant to section 335 of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1985][/us/usc/t7/s1985]\], had made its initial selection of a buyer before November 28, 1990. Such sales shall be completed as soon as the selection decision is administratively final and all terms and conditions have been agreed to. In carrying out sales of inventory property, priority shall be given to the former owner and members of the immediate family.”
 
  __Farm Ownership Outreach Program to Socially Disadvantaged Individuals__ 
 
-[Pub. L. 100–233, title VI, § 623][/us/pl/100/233/s623], Jan. 6, 1988, [101 Stat. 1685][/us/stat/101/1685], as amended by [Pub. L. 101–624, title XVIII, § 1852][/us/pl/101/624/s1852], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 623, Jan. 6, 1988, [101 Stat. 1685][/us/stat/101/1685], as amended by [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1852, Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -628,29 +628,29 @@
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
-[/us/pl/87/128/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs335
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F315
-[/us/pl/92/419/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs127
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F666
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1526
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1669
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3821-3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3821-3823
-[/us/pl/102/237/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Ff
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1867
-[/us/pl/102/552/s516/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fh%2F1
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4138
 [/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/stat/106/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4154
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1093
-[/us/pl/107/171/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5308
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F345
-[/us/pl/110/234/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5302%2Fa
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1151
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
@@ -658,91 +658,91 @@
 [/us/usc/t7/s1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1911
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/104/127/s639/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F4
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1097
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5302/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F1%2FA
-[/us/pl/110/246/s5302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F1%2FB
-[/us/pl/110/246/s5302/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F2%2FA
-[/us/pl/110/246/s5302/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F2%2FB
-[/us/pl/110/246/s5302/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F3%2FA
-[/us/pl/110/246/s5302/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fa%2F3%2FB
-[/us/pl/107/171/s5308/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5308%2F1%2FA%2Fi
-[/us/pl/107/171/s5308/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5308%2F1%2FA%2Fii
-[/us/pl/107/171/s5308/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5308%2F1%2FB
-[/us/pl/107/171/s5308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5308%2F2
-[/us/pl/104/127/s638/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F1
-[/us/pl/104/127/s638/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F2
-[/us/pl/104/127/s638/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fi
-[/us/pl/104/127/s638/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fi
-[/us/pl/104/127/s638/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fi
-[/us/pl/104/127/s638/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fii
-[/us/pl/104/127/s638/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FA%2Fii
-[/us/pl/104/127/s638/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FB
-[/us/pl/104/127/s638/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FE
-[/us/pl/104/127/s638/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FD
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1925
-[/us/pl/104/127/s638/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FD
-[/us/pl/104/127/s638/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FE
-[/us/pl/104/127/s638/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FD
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/104/127/s638/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs638%2F3%2FE
-[/us/pl/104/127/s639/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F1%2FA
-[/us/pl/104/127/s639/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F1
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
-[/us/pl/104/127/s639/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F2
-[/us/pl/104/127/s639/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F3
-[/us/pl/104/127/s639/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F3
-[/us/pl/104/127/s639/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F3
-[/us/pl/104/127/s639/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F4
-[/us/pl/104/127/s639/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639%2F3
-[/us/pl/102/554/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs16
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
-[/us/pl/102/237/s501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Ff%2F1
-[/us/pl/102/554/s17/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs17%2F1
-[/us/pl/102/554/s17/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs17%2F2
-[/us/pl/102/237/s501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Ff%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
-[/us/pl/102/237/s501/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Ff%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s2303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2303%2Fc%2F2
-[/us/pl/101/624/s1813/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fe%2F1
-[/us/pl/101/624/s1813/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fg%2F1
-[/us/pl/101/624/s1813/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fb%2F1
-[/us/pl/101/624/s2388/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2388%2Fg
-[/us/pl/101/624/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fc
-[/us/pl/101/624/s1816/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fe%2F1
-[/us/pl/101/624/s1813/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fd
-[/us/pl/101/624/s1816/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fe%2F2
-[/us/pl/101/624/s1813/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fe%2F2
-[/us/pl/101/624/s1813/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Ff
-[/us/pl/101/624/s1813/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fg%2F2
-[/us/pl/101/624/s1813/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fg%2F2
-[/us/pl/101/624/s1813/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fb%2F2
-[/us/pl/101/624/s1813/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1813%2Fh%2F1
-[/us/pl/100/233/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fa
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t7/s1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1923
-[/us/pl/100/233/s610/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fb%2F1
-[/us/pl/100/233/s610/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fb%2F2
-[/us/pl/100/233/s610/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fb%2F3
-[/us/pl/100/233/s610/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fb%2F4
-[/us/pl/100/233/s610/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs610%2Fb%2F5
-[/us/pl/100/233/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs611
-[/us/pl/99/198/s1314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1314%2Fa%2F1
-[/us/pl/99/198/s1314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1314%2Fa%2F2
-[/us/pl/99/198/s1318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1318%2Fb%2F1
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1997
 [/us/pl/99/198/s1314/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1314%2Fa%2F2%2FB
-[/us/pl/99/198/s1314/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1314%2Fa%2F3
-[/us/pl/99/198/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1315
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -753,7 +753,7 @@
 [/us/pl/104/127/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs639
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
-[/us/pl/102/552/s516/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fh%2F2
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4138
 [/us/pl/102/237/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Ff
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
@@ -761,14 +761,14 @@
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 [/us/pl/101/624/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1861
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
-[/us/pl/99/198/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1314%2Fb
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1528
-[/us/pl/102/142/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2Fs740
+[/us/pl/102/142/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVII
 [/us/stat/105/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F915
 [/us/usc/t7/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985
-[/us/pl/100/233/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs623
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1685
-[/us/pl/101/624/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1852
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3837
 [/us/usc/t15/s637/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F5
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001

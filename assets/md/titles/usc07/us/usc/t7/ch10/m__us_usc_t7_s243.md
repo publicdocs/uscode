@@ -41,7 +41,7 @@
 
             The Secretary shall publish an annual report on the actions taken by the Secretary to comply with paragraph (1).
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 4, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2064][/us/stat/114/2064].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 4, as added [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2064][/us/stat/114/2064].)
 
  __Prior Provisions__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2064
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F486

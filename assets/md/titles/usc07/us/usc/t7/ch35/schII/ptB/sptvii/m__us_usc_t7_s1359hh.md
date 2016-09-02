@@ -41,11 +41,11 @@
 
         The remedies and penalties provided for in this subpart shall be in addition to, and not exclusive of, any remedies or penalties existing at law or in equity.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359h, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 202][/us/stat/116/202].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359h, as added [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1403, May 13, 2002, [116 Stat. 202][/us/stat/116/202].)
 
  __Prior Provisions__ 
 
-    A prior section 1359hh, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359h, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3486][/us/stat/104/3486]; amended [Pub. L. 102–237, title I, § 111(j)][/us/pl/102/237/s111/j], Dec. 13, 1991, [105 Stat. 1836][/us/stat/105/1836], related to regulations, violations, publication of Secretary’s determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 1359hh, [act Feb. 16, 1938, ch. 30, title III][/us/act/1938-02-16/ch30/tIII], § 359h, as added [Pub. L. 101–624, title IX][/us/pl/101/624/tIX], § 902, Nov. 28, 1990, [104 Stat. 3486][/us/stat/104/3486]; amended [Pub. L. 102–237, title I][/us/pl/102/237/tI], § 111(j), Dec. 13, 1991, [105 Stat. 1836][/us/stat/105/1836], related to regulations, violations, publication of Secretary’s determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
 ----------
 
@@ -55,12 +55,12 @@
 ----------
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/107/171/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1403
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F202
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/101/624/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs902
+[/us/act/1938-02-16/ch30/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtIII
+[/us/pl/101/624/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtIX
 [/us/stat/104/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3486
-[/us/pl/102/237/s111/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs111%2Fj
+[/us/pl/102/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtI
 [/us/stat/105/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1836
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

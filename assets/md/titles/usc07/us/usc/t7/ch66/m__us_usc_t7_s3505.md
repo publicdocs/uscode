@@ -17,7 +17,7 @@
 
     Not later than 30 days after the end of each 6-month period beginning after the effective date of [section 3501 of this title][/us/usc/t7/s3501], the Secretary shall transmit to each State department of agriculture, or such other appropriate State agency as the Secretary considers advisable, a copy of each report which was submitted to the Secretary under [section 3501 of this title][/us/usc/t7/s3501] during such 6-month period and which involved agricultural land located in such State.
 
-([Pub. L. 95–460, § 6][/us/pl/95/460/s6], Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
+([Pub. L. 95–460][/us/pl/95/460], § 6, Oct. 14, 1978, [92 Stat. 1266][/us/stat/92/1266].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
-[/us/pl/95/460/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs6
+[/us/pl/95/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460
 [/us/stat/92/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1266
 [/us/usc/t7/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3501
 [/us/pl/95/460/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F460%2Fs10%2Fb

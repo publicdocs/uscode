@@ -185,33 +185,33 @@
 
             Not more than 5 percent of the funds made available for a fiscal year under paragraph (1) may be used to pay administrative costs incurred in carrying out programs in sub-Saharan African and Caribbean Basin countries.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title V, § 501, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; amended [Pub. L. 102–237, title III, § 301][/us/pl/102/237/s301], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 224, 277(c)(1), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], 979; [Pub. L. 107–76, title VII, § 777][/us/pl/107/76/s777], Nov. 28, 2001, [115 Stat. 747][/us/stat/115/747]; [Pub. L. 107–171, title III, § 3014][/us/pl/107/171/s3014], May 13, 2002, [116 Stat. 285][/us/stat/116/285]; [Pub. L. 108–447, div. A, title VII, § 769][/us/pl/108/447/s769], Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848]; [Pub. L. 110–246, title III, § 3024][/us/pl/110/246/s3024], June 18, 2008, [122 Stat. 1830][/us/stat/122/1830]; [Pub. L. 113–79, title III, § 3014(a)][/us/pl/113/79/s3014/a], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title V, § 501, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; amended [Pub. L. 102–237, title III][/us/pl/102/237/tIII], § 301, Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], §§ 224, 277(c)(1), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], 979; [Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 777, Nov. 28, 2001, [115 Stat. 747][/us/stat/115/747]; [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3014, May 13, 2002, [116 Stat. 285][/us/stat/116/285]; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 769, Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3024, June 18, 2008, [122 Stat. 1830][/us/stat/122/1830]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3014(a), Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–79, § 3014(a)(1)][/us/pl/113/79/s3014/a/1], substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 3014(a)(1), substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 113–79, § 3014(a)(2)][/us/pl/113/79/s3014/a/2], substituted “2018” for “2012” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 113–79][/us/pl/113/79], § 3014(a)(2), substituted “2018” for “2012” in introductory provisions.
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 3024(a)][/us/pl/110/246/s3024/a], in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
 
-    Subsec. (e)(1). [Pub. L. 110–246, § 3024(b)][/us/pl/110/246/s3024/b], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
+    Subsec. (e)(1). [Pub. L. 110–246][/us/pl/110/246], § 3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
 
-    2004—[Pub. L. 108–447, § 769(2)][/us/pl/108/447/s769/2], inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
+    2004—[Pub. L. 108–447][/us/pl/108/447], § 769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
 
-    Subsec. (b)(1). [Pub. L. 108–447, § 769(1)][/us/pl/108/447/s769/1], inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 108–447][/us/pl/108/447], § 769(1), inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions relating to definitions for general provisions, in subsec. (b), provisions authorizing the President to administer the program for provisions relating to definitions, in subsec. (c), provisions relating to special emphasis on sub-Saharan African and Caribbean Basin countries for provisions relating to minimum funding, in subsec. (d), provisions relating to minimum funding for provisions relating to designation of program, and adding subsec. (e) relating to authorization of appropriations.
 
-    2001—[Pub. L. 107–76, § 777(1)][/us/pl/107/76/s777/1], inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
+    2001—[Pub. L. 107–76][/us/pl/107/76], § 777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
 
-    Subsec. (d). [Pub. L. 107–76, § 777(2)][/us/pl/107/76/s777/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–76][/us/pl/107/76], § 777(2), added subsec. (d).
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 277(c)(1)(A)][/us/pl/104/127/s277/c/1/A], substituted “emerging markets” for “emerging democracies” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
 
-    Subsec. (a)(6). [Pub. L. 104–127, § 224(1)][/us/pl/104/127/s224/1], added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
+    Subsec. (a)(6). [Pub. L. 104–127][/us/pl/104/127], § 224(1), added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
 
-    Subsec. (b)(1). [Pub. L. 104–127, § 277(c)(1)(B)][/us/pl/104/127/s277/c/1/B], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘emerging democracy’ means a country that is taking steps toward—
+    Subsec. (b)(1). [Pub. L. 104–127][/us/pl/104/127], § 277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘emerging democracy’ means a country that is taking steps toward—
 
     “(A) political pluralism, based on progress toward free and fair elections and a multiparty political system;
 
@@ -221,7 +221,7 @@
 
     “(D) a willingness to build a friendly relationship with the United States.”
 
-    Subsec. (c). [Pub. L. 104–127, § 224(2)][/us/pl/104/127/s224/2], substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
+    Subsec. (c). [Pub. L. 104–127][/us/pl/104/127], § 224(2), substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
 
     1991—Subsec. (a)(3). [Pub. L. 102–237][/us/pl/102/237] struck out comma after “public”.
 
@@ -247,35 +247,35 @@
 [/us/usc/t19/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702
 [/us/usc/t19/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3706
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3656
-[/us/pl/102/237/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs301
+[/us/pl/102/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIII
 [/us/stat/105/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1855
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F959
-[/us/pl/107/76/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs777
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F747
-[/us/pl/107/171/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3014
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F285
-[/us/pl/108/447/s769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs769
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2848
-[/us/pl/110/246/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1830
-[/us/pl/113/79/s3014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F778
-[/us/pl/113/79/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa%2F1
-[/us/pl/113/79/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa%2F2
-[/us/pl/110/246/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024%2Fa
-[/us/pl/110/246/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024%2Fb
-[/us/pl/108/447/s769/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs769%2F2
-[/us/pl/108/447/s769/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs769%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/107/76/s777/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs777%2F1
-[/us/pl/107/76/s777/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs777%2F2
-[/us/pl/104/127/s277/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fc%2F1%2FA
-[/us/pl/104/127/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs224%2F1
-[/us/pl/104/127/s277/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs277%2Fc%2F1%2FB
-[/us/pl/104/127/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs224%2F2
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

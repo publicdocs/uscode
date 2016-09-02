@@ -27,7 +27,7 @@
 
     The United States Warehouse Act, referred to in text, is part C of [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 486][/us/stat/39/486], as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title][/us/usc/t7/s241] and Tables.
 
-    The Standard Container Act, referred to in text, is [act Aug. 31, 1916, ch. 426][/us/act/1916-08-31/ch426], [39 Stat. 673][/us/stat/39/673], as amended, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by [Pub. L. 90–628, § 1(a)][/us/pl/90/628/s1/a], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320]. For complete classification of this Act to the Code prior to its repeal, see Tables.
+    The Standard Container Act, referred to in text, is [act Aug. 31, 1916, ch. 426][/us/act/1916-08-31/ch426], [39 Stat. 673][/us/stat/39/673], as amended, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by [Pub. L. 90–628][/us/pl/90/628], § 1(a), Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320]. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
  __Transfer of Functions__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
 [/us/act/1916-08-31/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-31%2Fch426
 [/us/stat/39/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F673
-[/us/pl/90/628/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628%2Fs1%2Fa
+[/us/pl/90/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201

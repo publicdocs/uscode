@@ -593,15 +593,15 @@
 
         The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l).
 
-([Pub. L. 101–624, title XIX, § 1969][/us/pl/101/624/s1969], Nov. 28, 1990, [104 Stat. 3884][/us/stat/104/3884]; [Pub. L. 102–237, title VIII, § 806(1)][/us/pl/102/237/s806/1], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1969, Nov. 28, 1990, [104 Stat. 3884][/us/stat/104/3884]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 806(1), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
-    1991—Subsec. (g)(2)(A)(ii). [Pub. L. 102–237, § 806(1)(A)][/us/pl/102/237/s806/1/A], substituted “Agricultural” for “Argicultural”.
+    1991—Subsec. (g)(2)(A)(ii). [Pub. L. 102–237][/us/pl/102/237], § 806(1)(A), substituted “Agricultural” for “Argicultural”.
 
-    Subsec. (l)(2)(F)(vii)(V). [Pub. L. 102–237, § 806(1)(B)][/us/pl/102/237/s806/1/B], substituted “that request” for “that requests”.
+    Subsec. (l)(2)(F)(vii)(V). [Pub. L. 102–237][/us/pl/102/237], § 806(1)(B), substituted “that request” for “that requests”.
 
-    Subsec. (q)(4). [Pub. L. 102–237, § 806(1)(C)][/us/pl/102/237/s806/1/C], inserted a comma after “and” and struck out semicolon after “Board”.
+    Subsec. (q)(4). [Pub. L. 102–237][/us/pl/102/237], § 806(1)(C), inserted a comma after “and” and struck out semicolon after “Board”.
 
 ----------
 
@@ -622,12 +622,12 @@
 [/us/usc/t7/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6305
 [/us/usc/t7/s6305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6305%2Fa
 [/us/usc/t7/s6305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6305%2Fa
-[/us/pl/101/624/s1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1969
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3884
-[/us/pl/102/237/s806/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
-[/us/pl/102/237/s806/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F1%2FA
-[/us/pl/102/237/s806/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F1%2FB
-[/us/pl/102/237/s806/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs806%2F1%2FC
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

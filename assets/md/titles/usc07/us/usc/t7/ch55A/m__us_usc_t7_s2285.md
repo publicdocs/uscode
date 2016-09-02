@@ -17,7 +17,7 @@
 
     No advisory committee may expend funds in excess of its estimated annual operating costs by more than 10 per centum or $500, whichever is greater, until it provides the Secretary with an explanation of the need for the additional expenditure and the Secretary approves such additional expenditure.
 
-([Pub. L. 95–113, title XVIII, § 1805][/us/pl/95/113/s1805], Sept. 29, 1977, [91 Stat. 1042][/us/stat/91/1042]; [Pub. L. 97–98, title XI, § 1116(a)][/us/pl/97/98/s1116/a], Dec. 22, 1981, [95 Stat. 1271][/us/stat/95/1271].)
+([Pub. L. 95–113, title XVIII][/us/pl/95/113/tXVIII], § 1805, Sept. 29, 1977, [91 Stat. 1042][/us/stat/91/1042]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1116(a), Dec. 22, 1981, [95 Stat. 1271][/us/stat/95/1271].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1805
+[/us/pl/95/113/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVIII
 [/us/stat/91/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1042
-[/us/pl/97/98/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1116%2Fa
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1271
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t7/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2283

@@ -43,7 +43,7 @@
 
         (2) the producers, producer-handlers, and importers comprising this majority produce and import more than 50 percent of the volume of limes produced and imported by those voting in the referendum.
 
-([Pub. L. 101–624, title XIX, § 1961][/us/pl/101/624/s1961], Nov. 28, 1990, [104 Stat. 3880][/us/stat/104/3880].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1961, Nov. 28, 1990, [104 Stat. 3880][/us/stat/104/3880].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t7/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6203%2Fa
 [/us/usc/t7/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6203%2Fa
-[/us/pl/101/624/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1961
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3880
 
 

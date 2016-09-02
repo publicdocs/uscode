@@ -45,25 +45,25 @@
 
         (2) to present and explore debt restructuring proposals advanced in the course of such mediation.
 
-([Pub. L. 100–233, title V, § 503][/us/pl/100/233/s503], Jan. 6, 1988, [101 Stat. 1663][/us/stat/101/1663]; [Pub. L. 100–399, title V, § 502][/us/pl/100/399/s502], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 103–354, title II, § 282(b)][/us/pl/103/354/s282/b], Oct. 13, 1994, [108 Stat. 3234][/us/stat/108/3234].)
+([Pub. L. 100–233, title V][/us/pl/100/233/tV], § 503, Jan. 6, 1988, [101 Stat. 1663][/us/stat/101/1663]; [Pub. L. 100–399, title V][/us/pl/100/399/tV], § 502, Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 282(b), Oct. 13, 1994, [108 Stat. 3234][/us/stat/108/3234].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–354, § 282(b)(2)][/us/pl/103/354/s282/b/2], in introductory provisions inserted “or agency” after “each program” and struck out “that makes, guarantees, or insures agricultural loans” after “of the Secretary”.
+    1994—Subsec. (a)(1). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(2), in introductory provisions inserted “or agency” after “each program” and struck out “that makes, guarantees, or insures agricultural loans” after “of the Secretary”.
 
-    Subsec. (a)(1)(A). [Pub. L. 103–354, § 282(b)(1)][/us/pl/103/354/s282/b/1], (3), inserted “or agency” after “such program”, struck out “agricultural loan” after “any State”, and inserted “certified under [section 5101 of this title][/us/usc/t7/s5101]” after “mediation program”.
+    Subsec. (a)(1)(A). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(1), (3), inserted “or agency” after “such program”, struck out “agricultural loan” after “any State”, and inserted “certified under [section 5101 of this title][/us/usc/t7/s5101]” after “mediation program”.
 
-    Subsec. (a)(1)(B). [Pub. L. 103–354, § 282(b)(1)][/us/pl/103/354/s282/b/1], (4), struck out “, effective beginning on January 6, 1988,” after “shall”, and “agricultural loan” after “participate in”, and inserted “certified under [section 5101 of this title][/us/usc/t7/s5101]” after “mediation programs”.
+    Subsec. (a)(1)(B). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(1), (4), struck out “, effective beginning on January 6, 1988,” after “shall”, and “agricultural loan” after “participate in”, and inserted “certified under [section 5101 of this title][/us/usc/t7/s5101]” after “mediation programs”.
 
-    Subsec. (a)(1)(C)(i). [Pub. L. 103–354, § 282(b)(1)][/us/pl/103/354/s282/b/1], (5)(A), struck out “agricultural loan” before “mediation program” and substituted “certified under” for “described in”.
+    Subsec. (a)(1)(C)(i). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(1), (5)(A), struck out “agricultural loan” before “mediation program” and substituted “certified under” for “described in”.
 
-    Subsec. (a)(1)(C)(ii). [Pub. L. 103–354, § 282(b)(5)(B)][/us/pl/103/354/s282/b/5/B], inserted “if applicable,” before “present”.
+    Subsec. (a)(1)(C)(ii). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(5)(B), inserted “if applicable,” before “present”.
 
-    Subsec. (b)(1). [Pub. L. 103–354, § 282(b)(1)][/us/pl/103/354/s282/b/1], struck out “agricultural loan” before “mediation program”.
+    Subsec. (b)(1). [Pub. L. 103–354][/us/pl/103/354], § 282(b)(1), struck out “agricultural loan” before “mediation program”.
 
-    1988—Subsec. (a)(1)(B). [Pub. L. 100–399, § 502(a)][/us/pl/100/399/s502/a], inserted “effective beginning” before “on”.
+    1988—Subsec. (a)(1)(B). [Pub. L. 100–399][/us/pl/100/399], § 502(a), inserted “effective beginning” before “on”.
 
-    Subsec. (a)(2). [Pub. L. 100–399, § 502(b)][/us/pl/100/399/s502/b], substituted “[section 5101 of this title][/us/usc/t7/s5101]” for “paragraph (1)”.
+    Subsec. (a)(2). [Pub. L. 100–399][/us/pl/100/399], § 502(b), substituted “[section 5101 of this title][/us/usc/t7/s5101]” for “paragraph (1)”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -81,22 +81,22 @@
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
-[/us/pl/100/233/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs503
+[/us/pl/100/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtV
 [/us/stat/101/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1663
-[/us/pl/100/399/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs502
+[/us/pl/100/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtV
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/103/354/s282/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3234
-[/us/pl/103/354/s282/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F2
-[/us/pl/103/354/s282/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F1
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
-[/us/pl/103/354/s282/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F1
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
-[/us/pl/103/354/s282/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F1
-[/us/pl/103/354/s282/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F5%2FB
-[/us/pl/103/354/s282/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fb%2F1
-[/us/pl/100/399/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs502%2Fa
-[/us/pl/100/399/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs502%2Fb
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t7/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5101
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233

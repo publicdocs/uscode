@@ -91,7 +91,7 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 107–171, title I, § 1001][/us/pl/107/171/s1001], May 13, 2002, [116 Stat. 143][/us/stat/116/143]; [Pub. L. 108–7, div. A, title VII, § 763(a)][/us/pl/108/7/s763/a], Feb. 20, 2003, [117 Stat. 46][/us/stat/117/46].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1001, May 13, 2002, [116 Stat. 143][/us/stat/116/143]; [Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 763(a), Feb. 20, 2003, [117 Stat. 46][/us/stat/117/46].)
 
  __References in Text__ 
 
@@ -107,19 +107,19 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. A, title VII, § 763(d)][/us/pl/108/7/s763/d], Feb. 20, 2003, [117 Stat. 47][/us/stat/117/47], provided that: 
+[Pub. L. 108–7, div. A, title VII][/us/pl/108/7/dA/tVII], § 763(d), Feb. 20, 2003, [117 Stat. 47][/us/stat/117/47], provided that: 
 
 > “This section \[amending this section and sections 7932 and 7934 of this title\] and the amendments made by this section apply beginning with the 2003 crop of other oilseeds (as defined in section 1001 of the Farm Security and Rural Investment Act of 2002 ([7 U.S.C. 7901][/us/usc/t7/s7901])), dry peas, lentils, and small chickpeas.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–171, title I, § 1001][/us/pl/109/171/s1001], Feb. 8, 2006, [120 Stat. 4][/us/stat/120/4], provided that: 
+[Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1001, Feb. 8, 2006, [120 Stat. 4][/us/stat/120/4], provided that: 
 
 > “This title \[amending sections 2009cc–18, 2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under [section 7937 of this title][/us/usc/t7/s7937]\] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
 
  __Short Title__ 
 
-[Pub. L. 107–171, § 1(a)][/us/pl/107/171/s1/a], May 13, 2002, [116 Stat. 134][/us/stat/116/134], provided that: 
+[Pub. L. 107–171][/us/pl/107/171], § 1(a), May 13, 2002, [116 Stat. 134][/us/stat/116/134], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”
 
@@ -139,9 +139,9 @@
 [/us/usc/t7/s7911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911
 [/us/usc/t7/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912
 [/us/usc/t7/s7912/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912%2Fe
-[/us/pl/107/171/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1001
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F143
-[/us/pl/108/7/s763/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fa
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F46
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F143
@@ -154,13 +154,13 @@
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/7/s763/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs763%2Fd
+[/us/pl/108/7/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdA%2FtVII
 [/us/stat/117/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F47
 [/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901
-[/us/pl/109/171/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1001
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F4
 [/us/usc/t7/s7937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7937
-[/us/pl/107/171/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1%2Fa
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F134
 
 

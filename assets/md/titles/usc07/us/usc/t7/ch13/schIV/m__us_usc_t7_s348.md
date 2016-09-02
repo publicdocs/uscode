@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to make such rules and regulations as may be necessary for carrying out the provisions of this subchapter.
 
-([May 8, 1914, ch. 79, § 9][/us/act/1914-05-08/ch79/s9], formerly § 8, [38 Stat. 374][/us/stat/38/374]; [June 26, 1953, ch. 157, § 1][/us/act/1953-06-26/ch157/s1], [67 Stat. 85][/us/stat/67/85]; renumbered § 9, [Aug. 11, 1955, ch. 798, § 1(b)][/us/act/1955-08-11/ch798/s1/b], [69 Stat. 684][/us/stat/69/684].)
+([May 8, 1914, ch. 79][/us/act/1914-05-08/ch79], § 9, formerly § 8, [38 Stat. 374][/us/stat/38/374]; [June 26, 1953, ch. 157][/us/act/1953-06-26/ch157], § 1, [67 Stat. 85][/us/stat/67/85]; renumbered § 9, [Aug. 11, 1955, ch. 798][/us/act/1955-08-11/ch798], § 1(b), [69 Stat. 684][/us/stat/69/684].)
 
  __Amendments__ 
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/act/1914-05-08/ch79/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79%2Fs9
+[/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
 [/us/stat/38/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F374
-[/us/act/1953-06-26/ch157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157%2Fs1
+[/us/act/1953-06-26/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-26%2Fch157
 [/us/stat/67/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F85
-[/us/act/1955-08-11/ch798/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch798%2Fs1%2Fb
+[/us/act/1955-08-11/ch798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch798
 [/us/stat/69/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F684
 
 

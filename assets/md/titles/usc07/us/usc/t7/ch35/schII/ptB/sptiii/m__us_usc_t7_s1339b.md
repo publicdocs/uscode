@@ -17,7 +17,7 @@
 
     In the establishment of State, county, and farm acreage allotments for wheat under this chapter, the acreage which is determined under regulations of the Secretary to have been diverted from the production of wheat under the special programs formulated pursuant to section 307 of this Act, [section 1339 of this title][/us/usc/t7/s1339], and section 124 of the Agricultural Act of 1961, shall be credited to the State, county, and farm as though such acreage had actually been devoted to the production of wheat.
 
-([Pub. L. 87–703, title III, § 327][/us/pl/87/703/s327], Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631].)
+([Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 327, Sept. 27, 1962, [76 Stat. 631][/us/stat/76/631].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1339
-[/us/pl/87/703/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs327
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F631
 [/us/usc/t7/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1334
 

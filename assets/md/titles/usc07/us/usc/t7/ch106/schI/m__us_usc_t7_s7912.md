@@ -83,7 +83,7 @@
 
             The owner of a farm may not elect the method described in paragraph (3)(A) for 1 covered commodity on the farm and the method described in paragraph (3)(B) for other covered commodities on the farm.
 
-([Pub. L. 107–171, title I, § 1102][/us/pl/107/171/s1102], May 13, 2002, [116 Stat. 147][/us/stat/116/147].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1102, May 13, 2002, [116 Stat. 147][/us/stat/116/147].)
 
  __References in Text__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t7/s1465/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1465%2Fb%2F2
 [/us/usc/t7/s7911/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911%2Fa%2F1%2FA
 [/us/usc/t7/s7911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911
-[/us/pl/107/171/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1102
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F147
 [/us/usc/t7/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1465
 

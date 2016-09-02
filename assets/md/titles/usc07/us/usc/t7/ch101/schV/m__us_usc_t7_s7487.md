@@ -27,7 +27,7 @@
 
         A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action.
 
-([Pub. L. 104–127, title V, § 578][/us/pl/104/127/s578], Apr. 4, 1996, [110 Stat. 1082][/us/stat/110/1082].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 578, Apr. 4, 1996, [110 Stat. 1082][/us/stat/110/1082].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs578
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1082
 
 

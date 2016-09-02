@@ -45,7 +45,7 @@
 
         that may be used by processors, refiners, operators of grain elevators and terminals, and others to accurately detect the level of aflatoxin contamination of corn in the United States.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 22, as added [Pub. L. 101–624, title XX, § 2009][/us/pl/101/624/s2009], Nov. 28, 1990, [104 Stat. 3931][/us/stat/104/3931]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 11, 13(b)(2), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528], 1529; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 22, as added [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2009, Nov. 28, 1990, [104 Stat. 3931][/us/stat/104/3931]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 11, 13(b)(2), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528], 1529; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(7), (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     1994—[Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator” wherever appearing and “Secretary” for “Service” in subsec. (c).
 
-    1993—Subsec. (a). [Pub. L. 103–156, § 11][/us/pl/103/156/s11], substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 11, substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 103–156, § 13(b)(2)][/us/pl/103/156/s13/b/2], substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+    Subsec. (c). [Pub. L. 103–156][/us/pl/103/156], § 13(b)(2), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
 
 ----------
 
@@ -67,14 +67,14 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/101/624/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2009
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3931
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F7
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs11
-[/us/pl/103/156/s13/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs13%2Fb%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 
 

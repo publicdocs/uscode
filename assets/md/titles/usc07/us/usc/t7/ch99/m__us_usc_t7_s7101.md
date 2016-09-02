@@ -47,23 +47,23 @@
 
         Nothing in this chapter provides for the control of production, or otherwise limits, the right of any person to produce sheep or sheep products.
 
-([Pub. L. 103–407, § 2][/us/pl/103/407/s2], Oct. 22, 1994, [108 Stat. 4210][/us/stat/108/4210].)
+([Pub. L. 103–407][/us/pl/103/407], § 2, Oct. 22, 1994, [108 Stat. 4210][/us/stat/108/4210].)
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–429, title IV, § 4001][/us/pl/108/429/s4001], Dec. 3, 2004, [118 Stat. 2600][/us/stat/118/2600], provided that: 
+[Pub. L. 108–429, title IV][/us/pl/108/429/tIV], § 4001, Dec. 3, 2004, [118 Stat. 2600][/us/stat/118/2600], provided that: 
 
 > “This title \[amending provisions set out as a note under this section\] may be cited as the ‘Wool Suit and Textile Trade Extension Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 103–407, § 1][/us/pl/103/407/s1], Oct. 22, 1994, [108 Stat. 4210][/us/stat/108/4210], provided that: 
+[Pub. L. 103–407][/us/pl/103/407], § 1, Oct. 22, 1994, [108 Stat. 4210][/us/stat/108/4210], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
 
  __Agriculture Wool Apparel Manufacturers Trust Fund__ 
 
-[Pub. L. 113–79, title XII, § 12315][/us/pl/113/79/s12315], Feb. 7, 2014, [128 Stat. 995][/us/stat/128/995], provided that:
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12315, Feb. 7, 2014, [128 Stat. 995][/us/stat/128/995], provided that:
 
 >     “(a)  __Establishment of Trust Fund__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Wool Research and Promotion__ 
 
-[Pub. L. 113–79, title XII, § 12316][/us/pl/113/79/s12316], Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that:
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12316, Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Wool Research, Development, and Promotion Trust Fund__ 
 
-[Pub. L. 106–200, title V, § 506][/us/pl/106/200/s506], May 18, 2000, [114 Stat. 303][/us/stat/114/303], as amended by [Pub. L. 107–210, div. E, title L, § 5102(c)(2)][/us/pl/107/210/s5102/c/2], Aug. 6, 2002, [116 Stat. 1047][/us/stat/116/1047]; [Pub. L. 108–429, title IV, § 4002(c)(5)][/us/pl/108/429/s4002/c/5], Dec. 3, 2004, [118 Stat. 2603][/us/stat/118/2603]; [Pub. L. 109–280, title XIV, § 1633(b)(2)][/us/pl/109/280/s1633/b/2], Aug. 17, 2006, [120 Stat. 1166][/us/stat/120/1166]; [Pub. L. 110–343, div. C, title III, § 325(b)(2)][/us/pl/110/343/s325/b/2], Oct. 3, 2008, [122 Stat. 3875][/us/stat/122/3875], provided that:
+[Pub. L. 106–200, title V][/us/pl/106/200/tV], § 506, May 18, 2000, [114 Stat. 303][/us/stat/114/303], as amended by [Pub. L. 107–210, div. E, title L][/us/pl/107/210/dE/tL], § 5102(c)(2), Aug. 6, 2002, [116 Stat. 1047][/us/stat/116/1047]; [Pub. L. 108–429, title IV][/us/pl/108/429/tIV], § 4002(c)(5), Dec. 3, 2004, [118 Stat. 2603][/us/stat/118/2603]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1633(b)(2), Aug. 17, 2006, [120 Stat. 1166][/us/stat/120/1166]; [Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 325(b)(2), Oct. 3, 2008, [122 Stat. 3875][/us/stat/122/3875], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -204,13 +204,13 @@
 ----------
 ----------
 
-[/us/pl/103/407/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs2
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4210
-[/us/pl/108/429/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs4001
+[/us/pl/108/429/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtIV
 [/us/stat/118/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2600
-[/us/pl/103/407/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs1
+[/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4210
-[/us/pl/113/79/s12315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12315
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F995
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/stat/118/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2600
@@ -220,20 +220,20 @@
 [/us/stat/122/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3875
 [/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
 [/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
-[/us/pl/113/79/s12316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12316
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
 [/us/pl/106/200/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs506%2Fd
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
-[/us/pl/106/200/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs506
+[/us/pl/106/200/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtV
 [/us/stat/114/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F303
-[/us/pl/107/210/s5102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs5102%2Fc%2F2
+[/us/pl/107/210/dE/tL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdE%2FtL
 [/us/stat/116/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1047
-[/us/pl/108/429/s4002/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs4002%2Fc%2F5
+[/us/pl/108/429/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtIV
 [/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
-[/us/pl/109/280/s1633/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1633%2Fb%2F2
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1166
-[/us/pl/110/343/s325/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs325%2Fb%2F2
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3875
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 

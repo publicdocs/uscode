@@ -53,25 +53,25 @@
 
         (4) regularly share a deck of orders.
 
-([Sept. 21, 1922, ch. 369, § 4j][/us/act/1922-09-21/ch369/s4j], as added [Pub. L. 93–463, title II, § 203][/us/pl/93/463/s203], Oct. 23, 1974, [88 Stat. 1396][/us/stat/88/1396]; amended [Pub. L. 94–16, § 2][/us/pl/94/16/s2], Apr. 16, 1975, [89 Stat. 77][/us/stat/89/77]; [Pub. L. 102–546, title I][/us/pl/102/546], §§ 101, 102(a), Oct. 28, 1992, [106 Stat. 3591][/us/stat/106/3591], 3594; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 251(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–442.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 4j, as added [Pub. L. 93–463, title II][/us/pl/93/463/tII], § 203, Oct. 23, 1974, [88 Stat. 1396][/us/stat/88/1396]; amended [Pub. L. 94–16][/us/pl/94/16], § 2, Apr. 16, 1975, [89 Stat. 77][/us/stat/89/77]; [Pub. L. 102–546, title I][/us/pl/102/546/tI], §§ 101, 102(a), Oct. 28, 1992, [106 Stat. 3591][/us/stat/106/3591], 3594; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 251(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–442.)
 
  __Amendments__ 
 
     2000—[Pub. L. 106–554][/us/pl/106/554] amended section generally. Prior to amendment, section required Commission to issue regulations to prohibit the privilege of dual trading on contract markets, allowed for certain exemptions, required Commission to make determinations relating to trading by floor brokers and futures commission merchants, and restricted trading among members of broker associations.
 
-    1992—Subsec. (a). [Pub. L. 102–546, § 101(a)(3)][/us/pl/102/546/s101/a/3], added subsec. (a).
+    1992—Subsec. (a). [Pub. L. 102–546][/us/pl/102/546], § 101(a)(3), added subsec. (a).
 
-    Subsec. (b). [Pub. L. 102–546, § 101(a)(1)][/us/pl/102/546/s101/a/1], (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
+    Subsec. (b). [Pub. L. 102–546][/us/pl/102/546], § 101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
 
-    Subsec. (c). [Pub. L. 102–546, § 101(a)(1)][/us/pl/102/546/s101/a/1], redesignated par. (2) as subsec. (c).
+    Subsec. (c). [Pub. L. 102–546][/us/pl/102/546], § 101(a)(1), redesignated par. (2) as subsec. (c).
 
-    Subsec. (d). [Pub. L. 102–546, § 102(a)][/us/pl/102/546/s102/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–546][/us/pl/102/546], § 102(a), added subsec. (d).
 
     1975—[Pub. L. 94–16][/us/pl/94/16] substituted “nine months” for “six months” in pars. (1) and (2).
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–546, title I, § 102(b)][/us/pl/102/546/s102/b], Oct. 28, 1992, [106 Stat. 3594][/us/stat/106/3594], provided that: 
+[Pub. L. 102–546, title I][/us/pl/102/546/tI], § 102(b), Oct. 28, 1992, [106 Stat. 3594][/us/stat/106/3594], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall become effective two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
@@ -86,22 +86,22 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s4j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4j
-[/us/pl/93/463/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs203
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtII
 [/us/stat/88/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1396
-[/us/pl/94/16/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16%2Fs2
+[/us/pl/94/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16
 [/us/stat/89/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F77
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtI
 [/us/stat/106/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3591
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/102/546/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs101%2Fa%2F3
-[/us/pl/102/546/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs101%2Fa%2F1
-[/us/pl/102/546/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs101%2Fa%2F1
-[/us/pl/102/546/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs102%2Fa
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/94/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F16
-[/us/pl/102/546/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs102%2Fb
+[/us/pl/102/546/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtI
 [/us/stat/106/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3594
 [/us/pl/93/463/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs418
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2

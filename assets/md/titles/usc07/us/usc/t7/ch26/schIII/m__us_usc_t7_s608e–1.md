@@ -61,7 +61,7 @@
 
         The Secretary may proceed with the proposed prohibition or regulation if the Secretary receives the advice and concurrence of the United States Trade Representative within 60 days of the notification under subsection (c)(1).
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8e, as added [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title IV, § 401(e), [68 Stat. 907][/us/stat/68/907]; amended [Aug. 31, 1954, ch. 1172, § 3(a)][/us/act/1954-08-31/ch1172/s3/a], [68 Stat. 1047][/us/stat/68/1047]; [Pub. L. 87–128, title I, § 141(5)][/us/pl/87/128/s141/5], Aug. 8, 1961, [75 Stat. 305][/us/stat/75/305]; [Pub. L. 91–670, title IV, § 401][/us/pl/91/670/s401], Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047]; [Pub. L. 95–113, title X, § 1006][/us/pl/95/113/s1006], Sept. 29, 1977, [91 Stat. 951][/us/stat/91/951]; [Pub. L. 97–312, § 2][/us/pl/97/312/s2], Oct. 14, 1982, [96 Stat. 1461][/us/stat/96/1461]; [Pub. L. 100–418, title IV, § 4603][/us/pl/100/418/s4603], Aug. 23, 1988, [102 Stat. 1407][/us/stat/102/1407]; [Pub. L. 101–624, title XIII][/us/pl/101/624], §§ 1307, 1308, Nov. 28, 1990, [104 Stat. 3561][/us/stat/104/3561]; [Pub. L. 107–171, title X, § 10601(b)][/us/pl/107/171/s10601/b], May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 110–234, title X, § 10102][/us/pl/110/234/s10102], May 22, 2008, [122 Stat. 1335][/us/stat/122/1335]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 8e, as added [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title IV, § 401(e), [68 Stat. 907][/us/stat/68/907]; amended [Aug. 31, 1954, ch. 1172][/us/act/1954-08-31/ch1172], § 3(a), [68 Stat. 1047][/us/stat/68/1047]; [Pub. L. 87–128, title I][/us/pl/87/128/tI], § 141(5), Aug. 8, 1961, [75 Stat. 305][/us/stat/75/305]; [Pub. L. 91–670, title IV][/us/pl/91/670/tIV], § 401, Jan. 11, 1971, [84 Stat. 2047][/us/stat/84/2047]; [Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1006, Sept. 29, 1977, [91 Stat. 951][/us/stat/91/951]; [Pub. L. 97–312][/us/pl/97/312], § 2, Oct. 14, 1982, [96 Stat. 1461][/us/stat/96/1461]; [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4603, Aug. 23, 1988, [102 Stat. 1407][/us/stat/102/1407]; [Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], §§ 1307, 1308, Nov. 28, 1990, [104 Stat. 3561][/us/stat/104/3561]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10601(b), May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10102, May 22, 2008, [122 Stat. 1335][/us/stat/122/1335]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
 
  __Codification__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 10102][/us/pl/110/246/s10102], inserted “clementines,” after “nectarines,” in first sentence.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 10102, inserted “clementines,” after “nectarines,” in first sentence.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] substituted “apples, or caneberries (including raspberries, blackberries, and loganberries)” for “or apples” in first sentence.
 
     1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], §§ 1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
 
-    Subsecs. (c), (d). [Pub. L. 101–624, § 1308(2)][/us/pl/101/624/s1308/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 101–624][/us/pl/101/624], § 1308(2), added subsecs. (c) and (d).
 
     1988—[Pub. L. 100–418][/us/pl/100/418] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 1954 Amendment__ 
 
-[Act Aug. 31, 1954, ch. 1172, § 3(b)][/us/act/1954-08-31/ch1172/s3/b], [68 Stat. 1047][/us/stat/68/1047], provided that: 
+[Act Aug. 31, 1954, ch. 1172][/us/act/1954-08-31/ch1172], § 3(b), [68 Stat. 1047][/us/stat/68/1047], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 31, 1954\] or upon the enactment of the Agricultural Act of 1954 \[Aug. 28, 1954\], whichever occurs later.”
 
@@ -116,34 +116,34 @@
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/act/1954-08-28/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1041
 [/us/stat/68/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F907
-[/us/act/1954-08-31/ch1172/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1172%2Fs3%2Fa
+[/us/act/1954-08-31/ch1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1172
 [/us/stat/68/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1047
-[/us/pl/87/128/s141/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs141%2F5
+[/us/pl/87/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtI
 [/us/stat/75/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F305
-[/us/pl/91/670/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2Fs401
+[/us/pl/91/670/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F670%2FtIV
 [/us/stat/84/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2047
-[/us/pl/95/113/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1006
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F951
-[/us/pl/97/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F312%2Fs2
+[/us/pl/97/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F312
 [/us/stat/96/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1461
-[/us/pl/100/418/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4603
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1407
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3561
-[/us/pl/107/171/s10601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10601%2Fb
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F511
-[/us/pl/110/234/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10102
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1335
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10102
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s1308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1308%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/97/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F312
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
@@ -157,7 +157,7 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/act/1954-08-31/ch1172/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1172%2Fs3%2Fb
+[/us/act/1954-08-31/ch1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1172
 [/us/stat/68/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1047
 
 

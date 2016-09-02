@@ -243,7 +243,7 @@
 
         The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
 
-([Pub. L. 101–624, title XIX, § 1925][/us/pl/101/624/s1925], Nov. 28, 1990, [104 Stat. 3857][/us/stat/104/3857]; [Pub. L. 102–237, title VIII, § 803(1)][/us/pl/102/237/s803/1], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882]; [Pub. L. 110–234, title X, § 10104][/us/pl/110/234/s10104], May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1925, Nov. 28, 1990, [104 Stat. 3857][/us/stat/104/3857]; [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 803(1), Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10104, May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
 
  __References in Text__ 
 
@@ -255,13 +255,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2)(B). [Pub. L. 110–246, § 10104(a)(1)][/us/pl/110/246/s10104/a/1], substituted “3 regions” for “4 regions”.
+    2008—Subsec. (b)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 10104(a)(1), substituted “3 regions” for “4 regions”.
 
-    Subsec. (b)(2)(D). [Pub. L. 110–246, § 10104(a)(2)][/us/pl/110/246/s10104/a/2], substituted “50,000,000 pounds” for “35,000,000 pounds”.
+    Subsec. (b)(2)(D). [Pub. L. 110–246][/us/pl/110/246], § 10104(a)(2), substituted “50,000,000 pounds” for “35,000,000 pounds”.
 
-    Subsec. (b)(2)(E). [Pub. L. 110–246, § 10104(a)(3)][/us/pl/110/246/s10104/a/3], added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.”
+    Subsec. (b)(2)(E). [Pub. L. 110–246][/us/pl/110/246], § 10104(a)(3), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.”
 
-    Subsec. (c)(6) to (9). [Pub. L. 110–246, § 10104(b)][/us/pl/110/246/s10104/b], added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+    Subsec. (c)(6) to (9). [Pub. L. 110–246][/us/pl/110/246], § 10104(b), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
     1991—Subsec. (h). [Pub. L. 102–237][/us/pl/102/237] substituted “governmental” for “government”.
 
@@ -278,13 +278,13 @@
 
 [/us/usc/t7/s6102/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6102%2F11
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
-[/us/pl/101/624/s1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1925
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3857
-[/us/pl/102/237/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs803%2F1
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
-[/us/pl/110/234/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10104
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1336
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
@@ -293,10 +293,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s10104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10104%2Fa%2F1
-[/us/pl/110/246/s10104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10104%2Fa%2F2
-[/us/pl/110/246/s10104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10104%2Fa%2F3
-[/us/pl/110/246/s10104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10104%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -17,7 +17,7 @@
 
     The information furnished by any individual establishment under the provisions of this chapter shall be considered as strictly confidential and shall be used only for the statistical purpose for which it is supplied. Any employee of the Department of Agriculture who, without the written authority of the Secretary of Agriculture, shall publish or communicate any information given into his possession by reason of his employment under the provisions of this chapter shall be guilty of a misdemeanor and shall, upon conviction thereof, be fined not less than $300 or more than $1,000, or imprisoned for a period of not exceeding one year, or both so fined and imprisoned, at the discretion of the court.
 
-([Mar. 3, 1927, ch. 337, § 2][/us/act/1927-03-03/ch337/s2], [44 Stat. 1373][/us/stat/44/1373].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 2, [44 Stat. 1373][/us/stat/44/1373].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs2
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/stat/44/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1373
 
 

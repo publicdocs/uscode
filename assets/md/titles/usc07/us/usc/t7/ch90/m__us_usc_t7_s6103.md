@@ -43,7 +43,7 @@
 
             The provisions of this chapter applicable to an order shall be applicable to amendments to the order.
 
-([Pub. L. 101–624, title XIX, § 1924][/us/pl/101/624/s1924], Nov. 28, 1990, [104 Stat. 3856][/us/stat/104/3856].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1924, Nov. 28, 1990, [104 Stat. 3856][/us/stat/104/3856].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t7/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6101%2Fb
 [/us/usc/t7/s6105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6105%2Fa
-[/us/pl/101/624/s1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1924
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3856
 
 

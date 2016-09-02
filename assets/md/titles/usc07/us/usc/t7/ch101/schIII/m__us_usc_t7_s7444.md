@@ -297,7 +297,7 @@
 
         The order shall contain such other terms and conditions, not inconsistent with this subchapter, as are determined necessary by the Secretary to effectuate this subchapter.
 
-([Pub. L. 104–127, title V, § 535][/us/pl/104/127/s535], Apr. 4, 1996, [110 Stat. 1051][/us/stat/110/1051].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 535, Apr. 4, 1996, [110 Stat. 1051][/us/stat/110/1051].)
 
 ----------
 
@@ -312,7 +312,7 @@
 [/us/usc/t7/s7445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7445
 [/us/usc/t7/s7445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7445
 [/us/usc/t7/s7445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7445
-[/us/pl/104/127/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs535
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1051
 
 

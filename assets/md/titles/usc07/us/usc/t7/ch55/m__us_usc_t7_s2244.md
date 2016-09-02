@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2243.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2245.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2244)
 
-## § 2244. Repealed. [Pub. L. 101–624, title XVI, § 1606(b)(3)][/us/pl/101/624/s1606/b/3], Nov. 28, 1990, [104 Stat. 3715][/us/stat/104/3715]
+## § 2244. Repealed. [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1606(b)(3), Nov. 28, 1990, [104 Stat. 3715][/us/stat/104/3715]
 
-    Section, [act Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title VII, § 708, [58 Stat. 742][/us/stat/58/742], provided for manufacture and sale of copies of bibliographies, photographic reproductions of books, and library supplies. See [section 3125a of this title][/us/usc/t7/s3125a].
+    Section, [act Sept. 21, 1944, ch. 412, title VII][/us/act/1944-09-21/ch412/tVII], § 708, [58 Stat. 742][/us/stat/58/742], provided for manufacture and sale of copies of bibliographies, photographic reproductions of books, and library supplies. See [section 3125a of this title][/us/usc/t7/s3125a].
 
 Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts:
 
@@ -32,9 +32,9 @@ Provisions similar to those in this section were contained in the following Depa
 ----------
 ----------
 
-[/us/pl/101/624/s1606/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1606%2Fb%2F3
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3715
-[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
+[/us/act/1944-09-21/ch412/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412%2FtVII
 [/us/stat/58/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F742
 [/us/usc/t7/s3125a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125a
 [/us/act/1944-06-28/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch296

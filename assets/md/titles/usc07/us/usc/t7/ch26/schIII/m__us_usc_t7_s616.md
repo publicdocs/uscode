@@ -47,7 +47,7 @@
 
     (f) The provisions of this section shall not be applicable with respect to rice.
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 16, [48 Stat. 40][/us/stat/48/40]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 10, 17, [48 Stat. 676][/us/stat/48/676], 678; [June 26, 1934, ch. 759, § 1][/us/act/1934-06-26/ch759/s1], [48 Stat. 1241][/us/stat/48/1241]; [Mar. 18, 1935, ch. 32, § 10][/us/act/1935-03-18/ch32/s10], [49 Stat. 48][/us/stat/49/48]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 20(b), 25–27, [49 Stat. 768][/us/stat/49/768], 769; [June 4, 1936, ch. 501][/us/act/1936-06-04/ch501], [49 Stat. 1464][/us/stat/49/1464]; [June 22, 1936, ch. 690, § 601(a)][/us/act/1936-06-22/ch690/s601/a], (c), (g), [49 Stat. 1739][/us/stat/49/1739], 1740.)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 16, [48 Stat. 40][/us/stat/48/40]; [May 9, 1934, ch. 263][/us/act/1934-05-09/ch263], §§ 10, 17, [48 Stat. 676][/us/stat/48/676], 678; [June 26, 1934, ch. 759][/us/act/1934-06-26/ch759], § 1, [48 Stat. 1241][/us/stat/48/1241]; [Mar. 18, 1935, ch. 32][/us/act/1935-03-18/ch32], § 10, [49 Stat. 48][/us/stat/49/48]; [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], §§ 20(b), 25–27, [49 Stat. 768][/us/stat/49/768], 769; [June 4, 1936, ch. 501][/us/act/1936-06-04/ch501], [49 Stat. 1464][/us/stat/49/1464]; [June 22, 1936, ch. 690][/us/act/1936-06-22/ch690], § 601(a), (c), (g), [49 Stat. 1739][/us/stat/49/1739], 1740.)
 
  __Constitutionality__ 
 
@@ -112,15 +112,15 @@
 [/us/stat/48/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F40
 [/us/act/1934-05-09/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-09%2Fch263
 [/us/stat/48/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F676
-[/us/act/1934-06-26/ch759/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759%2Fs1
+[/us/act/1934-06-26/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch759
 [/us/stat/48/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1241
-[/us/act/1935-03-18/ch32/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32%2Fs10
+[/us/act/1935-03-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-18%2Fch32
 [/us/stat/49/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F48
 [/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F768
 [/us/act/1936-06-04/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch501
 [/us/stat/49/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1464
-[/us/act/1936-06-22/ch690/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690%2Fs601%2Fa
+[/us/act/1936-06-22/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch690
 [/us/stat/49/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1739
 [/us/usc/t7/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs614
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

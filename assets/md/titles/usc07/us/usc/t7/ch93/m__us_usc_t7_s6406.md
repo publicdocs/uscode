@@ -17,7 +17,7 @@
 
     The Secretary may issue such regulations as may be necessary to carry out this chapter and the powers vested in the Secretary by this chapter.
 
-([Pub. L. 101–624, title XIX, § 1999G][/us/pl/101/624/s1999G], Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1999G, Nov. 28, 1990, [104 Stat. 3916][/us/stat/104/3916].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1999G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1999G
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3916
 
 

@@ -29,7 +29,7 @@
 
             A claim may not be allowed under this subsection unless the claim is presented in writing to the Secretary within 2 years after the date on which the claim accrues.
 
-([Pub. L. 106–224, title IV, § 432][/us/pl/106/224/s432], June 20, 2000, [114 Stat. 452][/us/stat/114/452].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 432, June 20, 2000, [114 Stat. 452][/us/stat/114/452].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
-[/us/pl/106/224/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs432
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F452
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

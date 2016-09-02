@@ -63,13 +63,13 @@
 
         The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980.
 
-([Pub. L. 96–494, title II, § 208][/us/pl/96/494/s208], Dec. 3, 1980, [94 Stat. 2573][/us/stat/94/2573]; [Pub. L. 97–98, title X, § 1004][/us/pl/97/98/s1004], Dec. 22, 1981, [95 Stat. 1260][/us/stat/95/1260]; [Pub. L. 104–127, title II, § 225(b)][/us/pl/104/127/s225/b], Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962]; [Pub. L. 105–385, title II, § 212(b)(4)][/us/pl/105/385/s212/b/4], Nov. 13, 1998, [112 Stat. 3467][/us/stat/112/3467].)
+([Pub. L. 96–494, title II][/us/pl/96/494/tII], § 208, Dec. 3, 1980, [94 Stat. 2573][/us/stat/94/2573]; [Pub. L. 97–98, title X][/us/pl/97/98/tX], § 1004, Dec. 22, 1981, [95 Stat. 1260][/us/stat/95/1260]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 225(b), Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962]; [Pub. L. 105–385, title II][/us/pl/105/385/tII], § 212(b)(4), Nov. 13, 1998, [112 Stat. 3467][/us/stat/112/3467].)
 
  __References in Text__ 
 
     The Export Administration Act of 1979, referred to in subsec. (a), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-    [Section 1445e of this title][/us/usc/t7/s1445e], referred to in subsec. (c)(2), was amended generally by [Pub. L. 101–624, title XI, § 1123][/us/pl/101/624/s1123], Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503], and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
+    [Section 1445e of this title][/us/usc/t7/s1445e], referred to in subsec. (c)(2), was amended generally by [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1123, Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503], and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 
     1996—Subsec. (d)(2). [Pub. L. 104–127][/us/pl/104/127] added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of [section 1736f–1 of this title][/us/usc/t7/s1736f–1] shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of [section 1736f–1 of this title][/us/usc/t7/s1736f–1]) the references to ‘wheat’ in such subsections of [section 1736f–1 of this title][/us/usc/t7/s1736f–1] shall be deemed to be references to ‘agricultural commodities’.”
 
-    1981—Subsec. (c)(2)(A). [Pub. L. 97–98, § 1004(1)][/us/pl/97/98/s1004/1], substituted “third sentence” for “second sentence”.
+    1981—Subsec. (c)(2)(A). [Pub. L. 97–98][/us/pl/97/98], § 1004(1), substituted “third sentence” for “second sentence”.
 
-    Subsec. (c)(2)(B)(i). [Pub. L. 97–98, § 1004(2)][/us/pl/97/98/s1004/2], substituted “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence” for “clause (6) of the second sentence”.
+    Subsec. (c)(2)(B)(i). [Pub. L. 97–98][/us/pl/97/98], § 1004(2), substituted “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence” for “clause (6) of the second sentence”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -87,17 +87,17 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–494, title II, § 213][/us/pl/96/494/s213], Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578], provided that: 
+[Pub. L. 96–494, title II][/us/pl/96/494/tII], § 213, Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578], provided that: 
 
 > “Except as otherwise provided herein, this title \[enacting this chapter and [section 1445h of this title][/us/usc/t7/s1445h], amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and [section 714c of Title 15][/us/usc/t15/s714c], Commerce and Trade\] shall become effective October 1, 1980, or the date of enactment \[Dec. 3, 1980\], whichever is later.”
 
  __Short Title__ 
 
-[Pub. L. 96–494, § 1][/us/pl/96/494/s1], Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570], provided: 
+[Pub. L. 96–494][/us/pl/96/494], § 1, Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570], provided: 
 
 > “That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and [section 714c of Title 15][/us/usc/t15/s714c], Commerce and Trade\] may be cited as the ‘Agricultural Act of 1980’.”
 
-[Pub. L. 96–494, title II, § 201][/us/pl/96/494/s201], Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570], provided that: 
+[Pub. L. 96–494, title II][/us/pl/96/494/tII], § 201, Dec. 3, 1980, [94 Stat. 2570][/us/stat/94/2570], provided that: 
 
 > “This title \[enacting this chapter and [section 1445h of this title][/us/usc/t7/s1445h], amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and [section 714c of Title 15][/us/usc/t15/s714c], Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
 
@@ -111,18 +111,18 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t7/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4005
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/96/494/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs208
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2573
-[/us/pl/97/98/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1004
+[/us/pl/97/98/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtX
 [/us/stat/95/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1260
-[/us/pl/104/127/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fb
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F962
-[/us/pl/105/385/s212/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs212%2Fb%2F4
+[/us/pl/105/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtII
 [/us/stat/112/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3467
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t7/s1445e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445e
-[/us/pl/101/624/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1123
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3503
 [/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
@@ -130,19 +130,19 @@
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
-[/us/pl/97/98/s1004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1004%2F1
-[/us/pl/97/98/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1004%2F2
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/96/494/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs213
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2578
 [/us/usc/t7/s1445h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445h
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c
-[/us/pl/96/494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs1
+[/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/stat/94/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2570
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c
-[/us/pl/96/494/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs201
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2570
 [/us/usc/t7/s1445h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445h
 [/us/usc/t15/s714c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c

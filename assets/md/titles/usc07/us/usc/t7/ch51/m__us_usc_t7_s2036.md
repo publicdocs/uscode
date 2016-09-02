@@ -63,7 +63,7 @@
 
         (3) preferences of recipients.
 
-([Pub. L. 88–525, § 27][/us/pl/88/525/s27], as added [Pub. L. 104–193, title VIII, § 871(g)][/us/pl/104/193/s871/g], Aug. 22, 1996, [110 Stat. 2346][/us/stat/110/2346]; amended [Pub. L. 107–171, title IV, § 4126(a)][/us/pl/107/171/s4126/a], May 13, 2002, [116 Stat. 328][/us/stat/116/328]; [Pub. L. 110–234, title IV, § 4201(a)][/us/pl/110/234/s4201/a], May 22, 2008, [122 Stat. 1120][/us/stat/122/1120]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1882; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4027(a), 4030(m), Feb. 7, 2014, [128 Stat. 812][/us/stat/128/812], 814.)
+([Pub. L. 88–525][/us/pl/88/525], § 27, as added [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 871(g), Aug. 22, 1996, [110 Stat. 2346][/us/stat/110/2346]; amended [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4126(a), May 13, 2002, [116 Stat. 328][/us/stat/116/328]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4201(a), May 22, 2008, [122 Stat. 1120][/us/stat/122/1120]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4201(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1882; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], §§ 4027(a), 4030(m), Feb. 7, 2014, [128 Stat. 812][/us/stat/128/812], 814.)
 
  __Codification__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–79, § 4030(m)][/us/pl/113/79/s4030/m], made technical amendment to reference in original act which appears in text as reference to [section 7515 of this title][/us/usc/t7/s7515].
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 4030(m), made technical amendment to reference in original act which appears in text as reference to [section 7515 of this title][/us/usc/t7/s7515].
 
-    [Pub. L. 113–79, § 4027(a)(1)][/us/pl/113/79/s4027/a/1], substituted “2014 through 2018” for “2008 through 2012”.
+    [Pub. L. 113–79][/us/pl/113/79], § 4027(a)(1), substituted “2014 through 2018” for “2008 through 2012”.
 
-    Subsec. (a)(2)(C). [Pub. L. 113–79, § 4027(a)(2)(B)(i)][/us/pl/113/79/s4027/a/2/B/i], substituted “2018” for “2012”.
+    Subsec. (a)(2)(C). [Pub. L. 113–79][/us/pl/113/79], § 4027(a)(2)(B)(i), substituted “2018” for “2012”.
 
-    Subsec. (a)(2)(D), (E). [Pub. L. 113–79, § 4027(a)(2)(A)][/us/pl/113/79/s4027/a/2/A], (B)(ii), (C), added subpars. (D) and (E).
+    Subsec. (a)(2)(D), (E). [Pub. L. 113–79][/us/pl/113/79], § 4027(a)(2)(A), (B)(ii), (C), added subpars. (D) and (E).
 
-    Subsec. (a)(3). [Pub. L. 113–79, § 4027(a)(3)][/us/pl/113/79/s4027/a/3], added par. (3).
+    Subsec. (a)(3). [Pub. L. 113–79][/us/pl/113/79], § 4027(a)(3), added par. (3).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 4201(a)][/us/pl/110/246/s4201/a], reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] substituted “2002 through 2007” for “1997 through 2002” and “$140,000,000” for “$100,000,000”.
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–171, title IV, § 4126(b)][/us/pl/107/171/s4126/b], May 13, 2002, [116 Stat. 328][/us/stat/116/328], provided that: 
+[Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4126(b), May 13, 2002, [116 Stat. 328][/us/stat/116/328], provided that: 
 
 > “The amendments made by this section amending this section\] take effect on October 1, 2001.”
 
@@ -108,28 +108,28 @@
 [/us/usc/t7/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515
 [/us/usc/t7/s2012/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fu%2F4
 [/us/usc/t7/s2012/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fu%2F4
-[/us/pl/88/525/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs27
-[/us/pl/104/193/s871/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs871%2Fg
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2346
-[/us/pl/107/171/s4126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4126%2Fa
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F328
-[/us/pl/110/234/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4201%2Fa
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1120
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F812
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4030/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fm
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7515
-[/us/pl/113/79/s4027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4027%2Fa%2F1
-[/us/pl/113/79/s4027/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4027%2Fa%2F2%2FB%2Fi
-[/us/pl/113/79/s4027/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4027%2Fa%2F2%2FA
-[/us/pl/113/79/s4027/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4027%2Fa%2F3
-[/us/pl/110/246/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4201%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -139,7 +139,7 @@
 [/us/pl/110/246/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4201%2Fa
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/107/171/s4126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4126%2Fb
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F328
 
 

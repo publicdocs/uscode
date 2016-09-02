@@ -61,7 +61,7 @@
 
         In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 105–185, title VI, § 604][/us/pl/105/185/s604], June 23, 1998, [112 Stat. 586][/us/stat/112/586]; [Pub. L. 110–234, title VII, § 7312][/us/pl/110/234/s7312], May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7312, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2006; [Pub. L. 113–79, title VII, § 7307][/us/pl/113/79/s7307], Feb. 7, 2014, [128 Stat. 891][/us/stat/128/891].)
+([Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 604, June 23, 1998, [112 Stat. 586][/us/stat/112/586]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7312, May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7312, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2006; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7307, Feb. 7, 2014, [128 Stat. 891][/us/stat/128/891].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
     2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—Subsec. (e). [Pub. L. 110–246, § 7312][/us/pl/110/246/s7312], added subsec. (e).
+    2008—Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 7312, added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -85,20 +85,20 @@
 ----------
 
 [/us/usc/t21/s360b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fa
-[/us/pl/105/185/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs604
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F586
-[/us/pl/110/234/s7312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7312
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1245
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7307
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F891
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s7312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7312
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

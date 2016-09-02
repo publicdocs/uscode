@@ -17,7 +17,7 @@
 
     As soon as possible after completing an investigation under [section 2270b of this title][/us/usc/t7/s2270b], the Inspector General of the Department of Agriculture shall submit to Congress and the Secretary of Agriculture a report containing the results of the investigation.
 
-([Pub. L. 107–203, § 2][/us/pl/107/203/s2], July 24, 2002, [116 Stat. 744][/us/stat/116/744].)
+([Pub. L. 107–203][/us/pl/107/203], § 2, July 24, 2002, [116 Stat. 744][/us/stat/116/744].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s2270b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2270b
-[/us/pl/107/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F203%2Fs2
+[/us/pl/107/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F203
 [/us/stat/116/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F744
 
 

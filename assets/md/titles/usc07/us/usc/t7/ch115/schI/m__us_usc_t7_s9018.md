@@ -77,7 +77,7 @@
 
         The Secretary shall provide for the sharing of payments made under this subchapter among the producers on a farm on a fair and equitable basis.
 
-([Pub. L. 113–79, title I, § 1118][/us/pl/113/79/s1118], Feb. 7, 2014, [128 Stat. 672][/us/stat/128/672].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1118, Feb. 7, 2014, [128 Stat. 672][/us/stat/128/672].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/113/79/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1118
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F672
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658

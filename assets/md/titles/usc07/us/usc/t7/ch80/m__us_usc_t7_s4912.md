@@ -19,7 +19,7 @@
 
     (b) A plan issued under this chapter shall not take effect unless the Secretary determines that the issuance of the plan is approved or favored by a majority of the producers and handlers (and importers who are subject to the plan) voting in the referendum.
 
-([Pub. L. 99–198, title XVI, § 1653][/us/pl/99/198/s1653], Dec. 23, 1985, [99 Stat. 1629][/us/stat/99/1629]; [Pub. L. 103–189][/us/pl/103/189], §§ 2, 8(i), Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], 2262.)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1653, Dec. 23, 1985, [99 Stat. 1629][/us/stat/99/1629]; [Pub. L. 103–189][/us/pl/103/189], §§ 2, 8(i), Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], 2262.)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s4908/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4908%2Fc
-[/us/pl/99/198/s1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1653
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1629
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2259

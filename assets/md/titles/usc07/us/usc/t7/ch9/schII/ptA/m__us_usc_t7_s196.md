@@ -27,7 +27,7 @@
 
         For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 206, as added [Pub. L. 94–410, § 8][/us/pl/94/410/s8], Sept. 13, 1976, [90 Stat. 1251][/us/stat/90/1251].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title II, § 206, as added [Pub. L. 94–410][/us/pl/94/410], § 8, Sept. 13, 1976, [90 Stat. 1251][/us/stat/90/1251].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t7/s228b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs228b
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
-[/us/pl/94/410/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410%2Fs8
+[/us/pl/94/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F410
 [/us/stat/90/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1251
 
 

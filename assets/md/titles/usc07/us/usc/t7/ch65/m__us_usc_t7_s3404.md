@@ -37,7 +37,7 @@
 
         terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-([Pub. L. 95–113, title XVII, § 1705][/us/pl/95/113/s1705], Sept. 29, 1977, [91 Stat. 1033][/us/stat/91/1033].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1705, Sept. 29, 1977, [91 Stat. 1033][/us/stat/91/1033].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t7/s3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3405
 [/us/usc/t7/s3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3405
-[/us/pl/95/113/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1705
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1033
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s87e.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s87f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87e%E2%80%931)
 
-## § 87e–1. Repealed. [Pub. L. 106–472, title I, § 110(b)][/us/pl/106/472/s110/b], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061]
+## § 87e–1. Repealed. [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 110(b), Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061]
 
-    Section, [Pub. L. 94–582, § 23][/us/pl/94/582/s23], Oct. 21, 1976, [90 Stat. 2888][/us/stat/90/2888], authorized purchase or lease of inspection equipment.
+    Section, [Pub. L. 94–582][/us/pl/94/582], § 23, Oct. 21, 1976, [90 Stat. 2888][/us/stat/90/2888], authorized purchase or lease of inspection equipment.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/106/472/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fb
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
-[/us/pl/94/582/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs23
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2888
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall conduct a program of basic research on cancer in animals and birds at appropriate facilities within the Department of Agriculture or by grants to other qualified research facilities.
 
-([Pub. L. 96–469, § 3][/us/pl/96/469/s3], Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
+([Pub. L. 96–469][/us/pl/96/469], § 3, Oct. 17, 1980, [94 Stat. 2235][/us/stat/94/2235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/469/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469%2Fs3
+[/us/pl/96/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F469
 [/us/stat/94/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2235
 
 

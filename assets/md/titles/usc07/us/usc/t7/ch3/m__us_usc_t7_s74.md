@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s71.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72 _us_usc_t7_s73.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
 
 ## § 74. Congressional findings and declaration of policy
 
@@ -41,7 +41,7 @@
 
             (F) accommodate scientific advances in testing and new knowledge concerning factors related to, or highly correlated with, the end use performance of grain.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 2, [39 Stat. 482][/us/stat/39/482]; [July 18, 1940, ch. 636][/us/act/1940-07-18/ch636], [54 Stat. 765][/us/stat/54/765]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 761][/us/stat/82/761]; [Pub. L. 94–582, § 2][/us/pl/94/582/s2], Oct. 21, 1976, [90 Stat. 2867][/us/stat/90/2867]; [Pub. L. 99–641, title III, § 302][/us/pl/99/641/s302], Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564]; [Pub. L. 101–624, title XX, § 2004][/us/pl/101/624/s2004], Nov. 28, 1990, [104 Stat. 3929][/us/stat/104/3929].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 2, [39 Stat. 482][/us/stat/39/482]; [July 18, 1940, ch. 636][/us/act/1940-07-18/ch636], [54 Stat. 765][/us/stat/54/765]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 761][/us/stat/82/761]; [Pub. L. 94–582][/us/pl/94/582], § 2, Oct. 21, 1976, [90 Stat. 2867][/us/stat/90/2867]; [Pub. L. 99–641, title III][/us/pl/99/641/tIII], § 302, Nov. 10, 1986, [100 Stat. 3564][/us/stat/100/3564]; [Pub. L. 101–624, title XX][/us/pl/101/624/tXX], § 2004, Nov. 28, 1990, [104 Stat. 3929][/us/stat/104/3929].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–582, § 27][/us/pl/94/582/s27], Oct. 21, 1976, [90 Stat. 2889][/us/stat/90/2889], as amended by [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1030, 1031; [Pub. L. 106–472, title I, § 110(c)][/us/pl/106/472/s110/c], Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
+[Pub. L. 94–582][/us/pl/94/582], § 27, Oct. 21, 1976, [90 Stat. 2889][/us/stat/90/2889], as amended by [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1030, 1031; [Pub. L. 106–472, title I][/us/pl/106/472/tI], § 110(c), Nov. 9, 2000, [114 Stat. 2061][/us/stat/114/2061], provided that: 
 
 > “This Act \[see Short Title of 1976 Amendment note set out under [section 71 of this title][/us/usc/t7/s71]\] shall become effective thirty days after enactment hereof \[Oct. 21, 1976\].
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s71.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72 _us_usc_t7_s73.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
 
 ----------
 ----------
@@ -76,23 +76,23 @@
 [/us/stat/39/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F482
 [/us/act/1940-07-18/ch636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-18%2Fch636
 [/us/stat/54/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F765
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F761
-[/us/pl/94/582/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs2
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2867
-[/us/pl/99/641/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs302
+[/us/pl/99/641/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIII
 [/us/stat/100/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3564
-[/us/pl/101/624/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2004
+[/us/pl/101/624/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXX
 [/us/stat/104/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3929
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
-[/us/pl/94/582/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs27
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2889
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1025
-[/us/pl/106/472/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs110%2Fc
+[/us/pl/106/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtI
 [/us/stat/114/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2061
 [/us/usc/t7/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487

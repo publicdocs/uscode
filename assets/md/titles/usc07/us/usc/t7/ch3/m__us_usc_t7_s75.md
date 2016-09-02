@@ -69,7 +69,7 @@
 
     (z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 3, [39 Stat. 483][/us/stat/39/483]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 761][/us/stat/82/761]; [Pub. L. 94–582, § 3][/us/pl/94/582/s3], Oct. 21, 1976, [90 Stat. 2867][/us/stat/90/2867]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(a), 1606(a), Sept. 29, 1977, [91 Stat. 1026][/us/stat/91/1026], 1030; [Pub. L. 96–437, § 1][/us/pl/96/437/s1], Oct. 13, 1980, [94 Stat. 1870][/us/stat/94/1870]; [Pub. L. 102–237, title X, § 1007(1)][/us/pl/102/237/s1007/1], Dec. 13, 1991, [105 Stat. 1897][/us/stat/105/1897]; [Pub. L. 103–156, § 12(a)][/us/pl/103/156/s12/a], Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II, § 293(a)(1)][/us/pl/103/354/s293/a/1], (7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 3, [39 Stat. 483][/us/stat/39/483]; [Pub. L. 90–487][/us/pl/90/487], § 1, Aug. 15, 1968, [82 Stat. 761][/us/stat/82/761]; [Pub. L. 94–582][/us/pl/94/582], § 3, Oct. 21, 1976, [90 Stat. 2867][/us/stat/90/2867]; [Pub. L. 95–113, title XVI][/us/pl/95/113/tXVI], §§ 1604(a), 1606(a), Sept. 29, 1977, [91 Stat. 1026][/us/stat/91/1026], 1030; [Pub. L. 96–437][/us/pl/96/437], § 1, Oct. 13, 1980, [94 Stat. 1870][/us/stat/94/1870]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1007(1), Dec. 13, 1991, [105 Stat. 1897][/us/stat/105/1897]; [Pub. L. 103–156][/us/pl/103/156], § 12(a), Nov. 24, 1993, [107 Stat. 1528][/us/stat/107/1528]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 293(a)(1), (7), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 
  __Amendments__ 
 
@@ -79,47 +79,47 @@
 
     “(aa) the term ‘Service’ means the Federal Grain Inspection Service; and”.
 
-    1993—[Pub. L. 103–156, § 12(a)][/us/pl/103/156/s12/a], which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–156][/us/pl/103/156], § 12(a), which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 103–156, § 12(a)(1)][/us/pl/103/156/s12/a/1], substituted “delegates of the Secretary” for “his delegates”.
+    Subsec. (a). [Pub. L. 103–156][/us/pl/103/156], § 12(a)(1), substituted “delegates of the Secretary” for “his delegates”.
 
-    Subsec. (z). [Pub. L. 103–156, § 12(a)(2)][/us/pl/103/156/s12/a/2], substituted “delegates of the Administrator” for “his delegates”.
+    Subsec. (z). [Pub. L. 103–156][/us/pl/103/156], § 12(a)(2), substituted “delegates of the Administrator” for “his delegates”.
 
     1991—Subsecs. (i) to (k), (u) to (x), (z), (aa). [Pub. L. 102–237][/us/pl/102/237] substituted “the” for “The” before “term”.
 
     1980—Subsec. (bb). [Pub. L. 96–437][/us/pl/96/437] added subsec. (bb).
 
-    1977—Subsec. (g). [Pub. L. 95–113, § 1604(a)(1)][/us/pl/95/113/s1604/a/1], substituted “sorghum” for “grain sorghum”.
+    1977—Subsec. (g). [Pub. L. 95–113][/us/pl/95/113], § 1604(a)(1), substituted “sorghum” for “grain sorghum”.
 
-    Subsec. (i). [Pub. L. 95–113, § 1606(a)][/us/pl/95/113/s1606/a], struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
+    Subsec. (i). [Pub. L. 95–113][/us/pl/95/113], § 1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-    Subsec. (m). [Pub. L. 95–113, § 1604(a)(2)][/us/pl/95/113/s1604/a/2], substituted “or subsection (c) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of supervision of weighing”.
+    Subsec. (m). [Pub. L. 95–113][/us/pl/95/113], § 1604(a)(2), substituted “or subsection (c) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of supervision of weighing”.
 
-    Subsec. (x). [Pub. L. 95–113, § 1604(a)(3)][/us/pl/95/113/s1604/a/3], substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
+    Subsec. (x). [Pub. L. 95–113][/us/pl/95/113], § 1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
-    Subsec. (y). [Pub. L. 95–113, § 1604(a)(4)][/us/pl/95/113/s1604/a/4], substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
+    Subsec. (y). [Pub. L. 95–113][/us/pl/95/113], § 1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
 
-    1976—Subsec. (i). [Pub. L. 94–582, § 3(a)][/us/pl/94/582/s3/a], substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
+    1976—Subsec. (i). [Pub. L. 94–582][/us/pl/94/582], § 3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
-    Subsec. (j). [Pub. L. 94–582, § 3(b)][/us/pl/94/582/s3/b], in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to [section 84 of this title][/us/usc/t7/s84] to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
+    Subsec. (j). [Pub. L. 94–582][/us/pl/94/582], § 3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to [section 84 of this title][/us/usc/t7/s84] to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
 
-    Subsec. (k). [Pub. L. 94–582, § 3(c)][/us/pl/94/582/s3/c], substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
+    Subsec. (k). [Pub. L. 94–582][/us/pl/94/582], § 3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
 
-    Subsec. (l). [Pub. L. 94–582, § 3(d)][/us/pl/94/582/s3/d], substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
+    Subsec. (l). [Pub. L. 94–582][/us/pl/94/582], § 3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
-    Subsec. (m). [Pub. L. 94–582, § 3(e)][/us/pl/94/582/s3/e], substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of [section 79 of this title][/us/usc/t7/s79] for the conduct of official inspection (other than appeal inspection), or subsection (b) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
+    Subsec. (m). [Pub. L. 94–582][/us/pl/94/582], § 3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of [section 79 of this title][/us/usc/t7/s79] for the conduct of official inspection (other than appeal inspection), or subsection (b) of [section 79a of this title][/us/usc/t7/s79a] for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
-    Subsec. (n). [Pub. L. 94–582, § 3(f)][/us/pl/94/582/s3/f], substituted “Administrator” for “Secretary”.
+    Subsec. (n). [Pub. L. 94–582][/us/pl/94/582], § 3(f), substituted “Administrator” for “Secretary”.
 
-    Subsec. (u). [Pub. L. 94–582, § 3(g)][/us/pl/94/582/s3/g], included within term defined and its definition the concept of “weighing” and substituted “Administrator” for “Secretary”.
+    Subsec. (u). [Pub. L. 94–582][/us/pl/94/582], § 3(g), included within term defined and its definition the concept of “weighing” and substituted “Administrator” for “Secretary”.
 
-    Subsecs. (v) to (aa). [Pub. L. 94–582, § 3(h)][/us/pl/94/582/s3/h], added subsecs. (v) to (aa).
+    Subsecs. (v) to (aa). [Pub. L. 94–582][/us/pl/94/582], § 3(h), added subsecs. (v) to (aa).
 
     1968—[Pub. L. 90–487][/us/pl/90/487] substituted provisions defining terms used in the chapter for provisions that the standards fixed and established by the Secretary of Agriculture be known as the official grain standards of the United States.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–156, § 16][/us/pl/103/156/s16], Nov. 24, 1993, [107 Stat. 1530][/us/stat/107/1530], provided that:
+[Pub. L. 103–156][/us/pl/103/156], § 16, Nov. 24, 1993, [107 Stat. 1530][/us/stat/107/1530], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -154,46 +154,46 @@
 [/us/usc/t7/s79a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79a
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F483
-[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/stat/82/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F761
-[/us/pl/94/582/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/stat/90/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2867
-[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVI
 [/us/stat/91/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1026
-[/us/pl/96/437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F437%2Fs1
+[/us/pl/96/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F437
 [/us/stat/94/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1870
-[/us/pl/102/237/s1007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1007%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1897
-[/us/pl/103/156/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fa
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1528
-[/us/pl/103/354/s293/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs293%2Fa%2F1
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/156/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fa
-[/us/pl/103/156/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fa%2F1
-[/us/pl/103/156/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fa%2F2
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/96/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F437
-[/us/pl/95/113/s1604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fa%2F1
-[/us/pl/95/113/s1606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1606%2Fa
-[/us/pl/95/113/s1604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fa%2F2
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s79a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79a
 [/us/usc/t7/s79a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79a
-[/us/pl/95/113/s1604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fa%2F3
-[/us/pl/95/113/s1604/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1604%2Fa%2F4
-[/us/pl/94/582/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fa
-[/us/pl/94/582/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fb
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84
-[/us/pl/94/582/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fc
-[/us/pl/94/582/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fd
-[/us/pl/94/582/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fe
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/usc/t7/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79
 [/us/usc/t7/s79a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79a
-[/us/pl/94/582/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Ff
-[/us/pl/94/582/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fg
-[/us/pl/94/582/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582%2Fs3%2Fh
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
+[/us/pl/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F582
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
-[/us/pl/103/156/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs16
+[/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156
 [/us/stat/107/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1530
 [/us/usc/t7/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79
 [/us/usc/t7/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs79

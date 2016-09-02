@@ -35,7 +35,7 @@
 
         For the purpose of administering and enforcing any regulations promulgated under subsection (b), the authorities provided under sections 10414 \[[7 U.S.C. 8313][/us/usc/t7/s8313]\] and 10415 \[[7 U.S.C. 8314][/us/usc/t7/s8314]\] shall apply to the regulations in a similar manner as those sections apply to the Animal Health Protection Act \[[7 U.S.C. 8301][/us/usc/t7/s8301] et seq.\]. Any person that violates regulations promulgated under subsection (b) shall be subject to penalties provided in section 10414.
 
-([Pub. L. 107–171, title X, § 10815][/us/pl/107/171/s10815], May 13, 2002, [116 Stat. 532][/us/stat/116/532].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10815, May 13, 2002, [116 Stat. 532][/us/stat/116/532].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t7/s8313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8313
 [/us/usc/t7/s8314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8314
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
-[/us/pl/107/171/s10815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10815
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F532
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494

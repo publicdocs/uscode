@@ -17,7 +17,7 @@
 
     Funds in an Environmental Fund shall be disbursed only pursuant to a framework agreement entered into pursuant to [section 1738f of this title][/us/usc/t7/s1738f].
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 609, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 609, as added [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1512, Nov. 28, 1990, [104 Stat. 3661][/us/stat/104/3661].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t7/s1738f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738f
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
-[/us/pl/101/624/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1512
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3661
 
 

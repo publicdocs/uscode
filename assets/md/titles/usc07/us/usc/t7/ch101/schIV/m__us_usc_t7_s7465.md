@@ -153,7 +153,7 @@
 
         Nothing in this subchapter authorizes the withholding of information from Congress.
 
-([Pub. L. 104–127, title V, § 556][/us/pl/104/127/s556], Apr. 4, 1996, [110 Stat. 1067][/us/stat/110/1067].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 556, Apr. 4, 1996, [110 Stat. 1067][/us/stat/110/1067].)
 
  __Transfer of Functions__ 
 
@@ -169,7 +169,7 @@
 [/us/usc/t7/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463
 [/us/usc/t7/s7466/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7466%2Fd
 [/us/usc/t7/s7463/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7463%2Fa
-[/us/pl/104/127/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs556
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1067
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

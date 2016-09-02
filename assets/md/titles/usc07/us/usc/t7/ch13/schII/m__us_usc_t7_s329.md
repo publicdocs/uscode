@@ -21,7 +21,7 @@
 
     (b) For the first fiscal year beginning after the date of enactment of this Act, and for each fiscal year thereafter, $4,380,000.    The sums appropriated in pursuance of paragraph (a) shall be paid annually to the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands in equal shares. The sums appropriated in pursuance of paragraph (b) shall be in addition to sums appropriated in pursuance of paragraph (a) and shall be allotted and paid annually to each of the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands in the proportion to which the total population of each State, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands bears to the total population of all the States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands as determined by the last preceding decennial census. Sums appropriated in pursuance of this section shall be in addition to sums appropriated or authorized under this subchapter and subchapter I of this title, and shall be applied only for the purposes of the colleges defined in such subchapters. The provisions of law applicable to the use and payment of sums under this subchapter shall apply to the use and payment of sums appropriated in pursuance of this section.
 
-([June 29, 1935, ch. 338][/us/act/1935-06-29/ch338], title II, § 22, [49 Stat. 439][/us/stat/49/439]; [June 12, 1952, ch. 419][/us/act/1952-06-12/ch419], §§ 1–4, [66 Stat. 135][/us/stat/66/135], 136; [Pub. L. 86–658][/us/pl/86/658], July 14, 1960, [74 Stat. 525][/us/stat/74/525]; [Pub. L. 89–791, title I, § 108(a)][/us/pl/89/791/s108/a], Nov. 7, 1966, as added [Pub. L. 90–354, § 1][/us/pl/90/354/s1], June 20, 1968, [82 Stat. 241][/us/stat/82/241]; [Pub. L. 92–318, title V, § 506(d)][/us/pl/92/318/s506/d], June 23, 1972, [86 Stat. 350][/us/stat/86/350]; [Pub. L. 99–396, § 9(d)][/us/pl/99/396/s9/d], Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840].)
+([June 29, 1935, ch. 338][/us/act/1935-06-29/ch338], title II, § 22, [49 Stat. 439][/us/stat/49/439]; [June 12, 1952, ch. 419][/us/act/1952-06-12/ch419], §§ 1–4, [66 Stat. 135][/us/stat/66/135], 136; [Pub. L. 86–658][/us/pl/86/658], July 14, 1960, [74 Stat. 525][/us/stat/74/525]; [Pub. L. 89–791, title I][/us/pl/89/791/tI], § 108(a), Nov. 7, 1966, as added [Pub. L. 90–354][/us/pl/90/354], § 1, June 20, 1968, [82 Stat. 241][/us/stat/82/241]; [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(d), June 23, 1972, [86 Stat. 350][/us/stat/86/350]; [Pub. L. 99–396][/us/pl/99/396], § 9(d), Aug. 27, 1986, [100 Stat. 840][/us/stat/100/840].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1952 Amendment__ 
 
-[Act June 12, 1952, ch. 419, § 5][/us/act/1952-06-12/ch419/s5], [66 Stat. 136][/us/stat/66/136], provided that: 
+[Act June 12, 1952, ch. 419][/us/act/1952-06-12/ch419], § 5, [66 Stat. 136][/us/stat/66/136], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the first day of the first fiscal year beginning on or after the date of enactment of this Act \[June 12, 1952\].”
 
@@ -72,12 +72,12 @@
 [/us/stat/66/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F135
 [/us/pl/86/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F658
 [/us/stat/74/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F525
-[/us/pl/89/791/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F791%2Fs108%2Fa
-[/us/pl/90/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F354%2Fs1
+[/us/pl/89/791/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F791%2FtI
+[/us/pl/90/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F354
 [/us/stat/82/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F241
-[/us/pl/92/318/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fd
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F350
-[/us/pl/99/396/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs9%2Fd
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F840
 [/us/pl/86/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F658
 [/us/usc/t7/s343d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343d
@@ -89,7 +89,7 @@
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/92/318/s506/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fn
 [/us/usc/t7/s326a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs326a
-[/us/act/1952-06-12/ch419/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-12%2Fch419%2Fs5
+[/us/act/1952-06-12/ch419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-12%2Fch419
 [/us/stat/66/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F136
 
 

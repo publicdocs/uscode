@@ -29,7 +29,7 @@
 
     (f) foster and participate in regional, national, and international conferences relating to the activities authorized by this subchapter.
 
-([Pub. L. 95–592, § 10][/us/pl/95/592/s10], Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284, § 10][/us/pl/98/284/s10], May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
+([Pub. L. 95–592][/us/pl/95/592], § 10, Nov. 4, 1978, [92 Stat. 2533][/us/stat/92/2533]; [Pub. L. 98–284][/us/pl/98/284], § 10, May 16, 1984, [98 Stat. 184][/us/stat/98/184].)
 
  __References in Text__ 
 
@@ -37,11 +37,11 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–284, § 10(1)][/us/pl/98/284/s10/1], (2), in provisions preceding cl. (a) substituted “this subchapter” for “this section” and struck out “, acting through the Regional Commissions or otherwise,” after “the Secretary of Commerce”.
+    1984—[Pub. L. 98–284][/us/pl/98/284], § 10(1), (2), in provisions preceding cl. (a) substituted “this subchapter” for “this section” and struck out “, acting through the Regional Commissions or otherwise,” after “the Secretary of Commerce”.
 
-    Cl. (b). [Pub. L. 98–284, § 10(3)][/us/pl/98/284/s10/3], inserted “having expertise in native agricultural crops which could supply critical agricultural materials”.
+    Cl. (b). [Pub. L. 98–284][/us/pl/98/284], § 10(3), inserted “having expertise in native agricultural crops which could supply critical agricultural materials”.
 
-    Cl. (f). [Pub. L. 98–284, § 10(4)][/us/pl/98/284/s10/4], substituted “the activities authorized by this subchapter” for “natural rubber manufacture”.
+    Cl. (f). [Pub. L. 98–284][/us/pl/98/284], § 10(4), substituted “the activities authorized by this subchapter” for “natural rubber manufacture”.
 
 ----------
 
@@ -52,17 +52,17 @@
 
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/95/592/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592%2Fs10
+[/us/pl/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F592
 [/us/stat/92/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2533
-[/us/pl/98/284/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs10
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 [/us/stat/98/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F184
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/98/284/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs10%2F1
-[/us/pl/98/284/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs10%2F3
-[/us/pl/98/284/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284%2Fs10%2F4
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
+[/us/pl/98/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F284
 
 

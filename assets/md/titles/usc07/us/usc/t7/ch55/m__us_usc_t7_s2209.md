@@ -17,11 +17,11 @@
 
     The Secretary of Agriculture shall furnish proper vouchers and accounts for the sums appropriated for the Department of Agriculture to the Government Accountability Office.
 
-([Mar. 3, 1885, ch. 338, § 2][/us/act/1885-03-03/ch338/s2], [23 Stat. 356][/us/stat/23/356]; [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 492][/us/stat/39/492]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18] § 301, [42 Stat. 23][/us/stat/42/23]; [May 29, 1928, ch. 901, § 1(88)][/us/act/1928-05-29/ch901/s1/88], [45 Stat. 992][/us/stat/45/992]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Mar. 3, 1885, ch. 338][/us/act/1885-03-03/ch338], § 2, [23 Stat. 356][/us/stat/23/356]; [Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 492][/us/stat/39/492]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18] § 301, [42 Stat. 23][/us/stat/42/23]; [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(88), [45 Stat. 992][/us/stat/45/992]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 558 of Title 5][/us/usc/t5/s558] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 558 of Title 5][/us/usc/t5/s558] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -42,18 +42,18 @@
 ----------
 ----------
 
-[/us/act/1885-03-03/ch338/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1885-03-03%2Fch338%2Fs2
+[/us/act/1885-03-03/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1885-03-03%2Fch338
 [/us/stat/23/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F356
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F492
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F23
-[/us/act/1928-05-29/ch901/s1/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F88
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F992
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs558
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702

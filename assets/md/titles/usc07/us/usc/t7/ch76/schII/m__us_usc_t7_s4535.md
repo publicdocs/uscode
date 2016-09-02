@@ -17,7 +17,7 @@
 
     The provisions of sections 4509, 4510, and 4511 of this title shall apply, except when inconsistent with this subchapter, to the Institute, the board, the persons subject to the order issued under [section 4533(b) of this title][/us/usc/t7/s4533/b], the jurisdiction of district courts of the United States, and the authority of the Secretary under this subchapter in the same manner as such sections apply with respect to subchapter I.
 
-([Pub. L. 98–180, title I, § 134][/us/pl/98/180/s134], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 134, as added [Pub. L. 99–198, title I][/us/pl/99/198/tI], § 121, Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t7/s4533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4533%2Fb
-[/us/pl/98/180/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs134
-[/us/pl/99/198/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs121
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
+[/us/pl/99/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtI
 [/us/stat/99/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1371
 
 

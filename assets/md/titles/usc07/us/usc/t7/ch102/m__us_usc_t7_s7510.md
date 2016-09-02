@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, commodities distributed under this chapter shall not be considered income or resources for any purposes under any Federal, State, or local law.
 
-([Pub. L. 98–8, title II, § 206][/us/pl/98/8/s206], Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36].)
+([Pub. L. 98–8, title II][/us/pl/98/8/tII], § 206, Mar. 24, 1983, [97 Stat. 36][/us/stat/97/36].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/8/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs206
+[/us/pl/98/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtII
 [/us/stat/97/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F36
 
 

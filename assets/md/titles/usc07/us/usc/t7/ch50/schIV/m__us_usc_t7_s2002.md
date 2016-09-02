@@ -43,7 +43,7 @@
 
         (3) the Governor and at least 1 elected county official of the State and county where the property is located are consulted prior to the transfer.
 
-([Pub. L. 87–128, title III, § 354][/us/pl/87/128/s354], as added [Pub. L. 100–233, title VI, § 616][/us/pl/100/233/s616], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; amended [Pub. L. 104–127, title VI, § 646][/us/pl/104/127/s646], Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 354, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 616, Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; amended [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], § 646, Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103].)
 
  __References in Text__ 
 
@@ -61,10 +61,10 @@
 ----------
 
 [/us/usc/t7/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985
-[/us/pl/87/128/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs354
-[/us/pl/100/233/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs616
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1682
-[/us/pl/104/127/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs646
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1103
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F294

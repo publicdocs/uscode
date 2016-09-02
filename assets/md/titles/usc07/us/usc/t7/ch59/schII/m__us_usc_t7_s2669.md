@@ -39,7 +39,7 @@
 
         The provisions of this section shall be carried out through the Commodity Credit Corporation.
 
-([Pub. L. 92–419, title V, § 508][/us/pl/92/419/s508], formerly § 509, as added [Pub. L. 95–113, title XIV, § 1420][/us/pl/95/113/s1420], Sept. 29, 1977, [91 Stat. 998][/us/stat/91/998]; renumbered [Pub. L. 97–98, title XIV, § 1444(b)][/us/pl/97/98/s1444/b], Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].)
+([Pub. L. 92–419, title V][/us/pl/92/419/tV], § 508, formerly § 509, as added [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1420, Sept. 29, 1977, [91 Stat. 998][/us/stat/91/998]; renumbered [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1444(b), Dec. 22, 1981, [95 Stat. 1326][/us/stat/95/1326].)
 
  __Effective Date__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/92/419/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs508
-[/us/pl/95/113/s1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1420
+[/us/pl/92/419/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtV
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F998
-[/us/pl/97/98/s1444/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1444%2Fb
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1326
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307

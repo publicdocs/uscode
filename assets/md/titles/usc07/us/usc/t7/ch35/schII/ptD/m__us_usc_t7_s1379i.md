@@ -31,7 +31,7 @@
 
         Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony and upon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379i, as added [Pub. L. 87–703, title III, § 324(2)][/us/pl/87/703/s324/2], Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629]; amended [Pub. L. 89–321, title V, § 510(b)][/us/pl/89/321/s510/b], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 379i, as added [Pub. L. 87–703, title III][/us/pl/87/703/tIII], § 324(2), Sept. 27, 1962, [76 Stat. 629][/us/stat/76/629]; amended [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 510(b), Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-    [Pub. L. 89–321, title V, § 510(b)][/us/pl/89/321/s510/b], Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by [Pub. L. 89–321][/us/pl/89/321] is effective as of the effective date of the original enactment of this section.
+    [Pub. L. 89–321, title V][/us/pl/89/321/tV], § 510(b), Nov. 3, 1965, [79 Stat. 1205][/us/stat/79/1205], provided that the amendment made by [Pub. L. 89–321][/us/pl/89/321] is effective as of the effective date of the original enactment of this section.
 
  __Inapplicability of Section__ 
 
@@ -76,13 +76,13 @@
 [/us/usc/t7/s1379h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379h
 [/us/usc/t7/s1379h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379h
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
-[/us/pl/87/703/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs324%2F2
+[/us/pl/87/703/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIII
 [/us/stat/76/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F629
-[/us/pl/89/321/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs510%2Fb
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
 [/us/usc/t7/s1379a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1379a
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
-[/us/pl/89/321/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs510%2Fb
+[/us/pl/89/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtV
 [/us/stat/79/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1205
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3

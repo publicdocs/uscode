@@ -31,13 +31,13 @@
 
         In formulating its recommendations to the Secretary, the Advisory Board may obtain the assistance of Department of Agriculture employees, and, to the maximum extent practicable, the assistance of employees of other Federal departments and agencies conducting related programs of agricultural research, extension, and teaching and of appropriate representatives of colleges and universities, including State agricultural experiment stations, cooperative extension services, and other non-Federal organizations conducting significant programs in the food and agricultural sciences.
 
-([Pub. L. 95–113, title XIV, § 1412][/us/pl/95/113/s1412], Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV, § 1413][/us/pl/97/98/s1413], Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302]; [Pub. L. 101–624, title XVI, § 1605(b)(1)][/us/pl/101/624/s1605/b/1], Nov. 28, 1990, [104 Stat. 3713][/us/stat/104/3713]; [Pub. L. 102–237, title IV, § 402(5)][/us/pl/102/237/s402/5], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 852(b)(3), 853(b)(4), Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171], 1172; [Pub. L. 105–185, title VI, § 606(c)(1)][/us/pl/105/185/s606/c/1], June 23, 1998, [112 Stat. 603][/us/stat/112/603].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1412, Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1413, Dec. 22, 1981, [95 Stat. 1302][/us/stat/95/1302]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1605(b)(1), Nov. 28, 1990, [104 Stat. 3713][/us/stat/104/3713]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 402(5), Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], §§ 852(b)(3), 853(b)(4), Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171], 1172; [Pub. L. 105–185, title VI][/us/pl/105/185/tVI], § 606(c)(1), June 23, 1998, [112 Stat. 603][/us/stat/112/603].)
 
  __Amendments__ 
 
-    1998—Subsecs. (a), (b). [Pub. L. 105–185, § 606(c)(1)(A)][/us/pl/105/185/s606/c/1/A], substituted “its duties” for “their duties”.
+    1998—Subsecs. (a), (b). [Pub. L. 105–185][/us/pl/105/185], § 606(c)(1)(A), substituted “its duties” for “their duties”.
 
-    Subsec. (c). [Pub. L. 105–185, § 606(c)(1)(B)][/us/pl/105/185/s606/c/1/B], substituted “its recommendations” for “their recommendations”.
+    Subsec. (c). [Pub. L. 105–185][/us/pl/105/185], § 606(c)(1)(B), substituted “its recommendations” for “their recommendations”.
 
     1996—[Pub. L. 104–127][/us/pl/104/127], §§ 852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
@@ -51,11 +51,11 @@
 
     1991—Subsecs. (b), (c). [Pub. L. 102–237][/us/pl/102/237] substituted “, Advisory Board, and Technology Board” for “and Advisory Board”.
 
-    1990—[Pub. L. 101–624, § 1605(b)(1)(A)][/us/pl/101/624/s1605/b/1/A], amended section catchline generally.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 1605(b)(1)(A), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 101–624, § 1605(b)(1)(B)][/us/pl/101/624/s1605/b/1/B], in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
+    Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
 
-    Subsecs. (b), (c). [Pub. L. 101–624, § 1605(b)(1)(C)][/us/pl/101/624/s1605/b/1/C], (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
+    Subsecs. (b), (c). [Pub. L. 101–624][/us/pl/101/624], § 1605(b)(1)(C), (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
 
     1981—Subsec. (a). [Pub. L. 97–98][/us/pl/97/98] inserted in provision preceding par. (1) provision requiring consultation with the cochairpersons of the Joint Council and the chairperson of the Advisory Board, redesignated former par. (2) as (1) and substituted provision that a full-time executive director perform such duties as the cochairpersons of the Joint Council and chairperson of the Advisory Board direct for provision that an executive director perform such duties as the chairman of the Joint Council and the chairman of the Advisory Board direct, and redesignated former par. (1) as (2) and inserted provision that one of the full-time staff serve as the executive secretary to the Joint Council and one serve as executive secretary to the Advisory Board.
 
@@ -75,29 +75,29 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/113/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1412
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F991
-[/us/pl/97/98/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1413
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1302
-[/us/pl/101/624/s1605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F1
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3713
-[/us/pl/102/237/s402/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs402%2F5
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1863
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1171
-[/us/pl/105/185/s606/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fc%2F1
+[/us/pl/105/185/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtVI
 [/us/stat/112/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F603
-[/us/pl/105/185/s606/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fc%2F1%2FA
-[/us/pl/105/185/s606/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fc%2F1%2FB
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1605/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F1%2FA
-[/us/pl/101/624/s1605/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F1%2FB
-[/us/pl/101/624/s1605/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1605%2Fb%2F1%2FC
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801

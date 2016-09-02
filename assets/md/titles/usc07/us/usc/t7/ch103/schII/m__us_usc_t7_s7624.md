@@ -91,7 +91,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
 
-([Pub. L. 105–185, title IV, § 404][/us/pl/105/185/s404], June 23, 1998, [112 Stat. 570][/us/stat/112/570]; [Pub. L. 107–171, title VI, § 6201(d)(4)][/us/pl/107/171/s6201/d/4], title VII, § 7124, May 13, 2002, [116 Stat. 419][/us/stat/116/419], 434; [Pub. L. 110–234, title VII, § 7304][/us/pl/110/234/s7304], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7304, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003; [Pub. L. 111–88, div. A, title IV, § 431][/us/pl/111/88/s431], Oct. 30, 2009, [123 Stat. 2964][/us/stat/123/2964].)
+([Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 404, June 23, 1998, [112 Stat. 570][/us/stat/112/570]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(d)(4), title VII, § 7124, May 13, 2002, [116 Stat. 419][/us/stat/116/419], 434; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7304, May 22, 2008, [122 Stat. 1242][/us/stat/122/1242]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7304, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003; [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 431, Oct. 30, 2009, [123 Stat. 2964][/us/stat/123/2964].)
 
  __References in Text__ 
 
@@ -103,19 +103,19 @@
 
  __Amendments__ 
 
-    2009—Subsec. (c)(1). [Pub. L. 111–88, § 431(1)][/us/pl/111/88/s431/1], substituted “Agricultural Research Service and the Forest Service” for “Agricultural Research Service”.
+    2009—Subsec. (c)(1). [Pub. L. 111–88][/us/pl/111/88], § 431(1), substituted “Agricultural Research Service and the Forest Service” for “Agricultural Research Service”.
 
-    Subsec. (c)(3). [Pub. L. 111–88, § 431(2)][/us/pl/111/88/s431/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–88][/us/pl/111/88], § 431(2), added par. (3).
 
-    2008—Subsec. (e)(2). [Pub. L. 110–246, § 7304(a)][/us/pl/110/246/s7304/a], substituted “2012” for “2007”.
+    2008—Subsec. (e)(2). [Pub. L. 110–246][/us/pl/110/246], § 7304(a), substituted “2012” for “2007”.
 
-    Subsec. (h). [Pub. L. 110–246, § 7304(b)][/us/pl/110/246/s7304/b], substituted “2012” for “2007”.
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 7304(b), substituted “2012” for “2007”.
 
-    2002—Subsec. (d)(2) to (4). [Pub. L. 107–171, § 6201(d)(4)][/us/pl/107/171/s6201/d/4], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under [section 5902 of this title][/us/usc/t7/s5902].”
+    2002—Subsec. (d)(2) to (4). [Pub. L. 107–171][/us/pl/107/171], § 6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under [section 5902 of this title][/us/usc/t7/s5902].”
 
-    Subsec. (e)(2). [Pub. L. 107–171, § 7124(a)][/us/pl/107/171/s7124/a], substituted “2007” for “2001”.
+    Subsec. (e)(2). [Pub. L. 107–171][/us/pl/107/171], § 7124(a), substituted “2007” for “2001”.
 
-    Subsec. (h). [Pub. L. 107–171, § 7124(b)][/us/pl/107/171/s7124/b], substituted “2007” for “2002”.
+    Subsec. (h). [Pub. L. 107–171][/us/pl/107/171], § 7124(b), substituted “2007” for “2002”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -131,15 +131,15 @@
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/105/185/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs404
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F570
-[/us/pl/107/171/s6201/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F4
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F419
-[/us/pl/110/234/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7304
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/88/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs431
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2964
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
@@ -148,14 +148,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/88/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs431%2F1
-[/us/pl/111/88/s431/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs431%2F2
-[/us/pl/110/246/s7304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7304%2Fa
-[/us/pl/110/246/s7304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7304%2Fb
-[/us/pl/107/171/s6201/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F4
+[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5902
-[/us/pl/107/171/s7124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7124%2Fa
-[/us/pl/107/171/s7124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7124%2Fb
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

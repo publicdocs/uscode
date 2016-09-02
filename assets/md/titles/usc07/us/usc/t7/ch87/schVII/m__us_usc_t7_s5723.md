@@ -39,7 +39,7 @@
 
             (B) proposals submitted for activities in markets other than emerging markets.
 
-([Pub. L. 95–501, title VII, § 703][/us/pl/95/501/s703], as added [Pub. L. 104–127, title II, § 252][/us/pl/104/127/s252], Apr. 4, 1996, [110 Stat. 972][/us/stat/110/972]; amended [Pub. L. 107–171, title III, § 3105(b)][/us/pl/107/171/s3105/b], May 13, 2002, [116 Stat. 291][/us/stat/116/291]; [Pub. L. 110–246, title III, § 3104(b)][/us/pl/110/246/s3104/b], June 18, 2008, [122 Stat. 1833][/us/stat/122/1833]; [Pub. L. 113–79, title III, § 3103][/us/pl/113/79/s3103], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
+([Pub. L. 95–501, title VII][/us/pl/95/501/tVII], § 703, as added [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 252, Apr. 4, 1996, [110 Stat. 972][/us/stat/110/972]; amended [Pub. L. 107–171, title III][/us/pl/107/171/tIII], § 3105(b), May 13, 2002, [116 Stat. 291][/us/stat/116/291]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3104(b), June 18, 2008, [122 Stat. 1833][/us/stat/122/1833]; [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3103, Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __Amendments__ 
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/95/501/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs703
-[/us/pl/104/127/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs252
+[/us/pl/95/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2FtVII
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F972
-[/us/pl/107/171/s3105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fb
+[/us/pl/107/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIII
 [/us/stat/116/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F291
-[/us/pl/110/246/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3104%2Fb
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1833
-[/us/pl/113/79/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3103
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

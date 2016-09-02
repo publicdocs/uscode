@@ -111,7 +111,7 @@
 
         (6) The Secretary may make grants aggregating not to exceed $30,000,000 in any fiscal year to public bodies or such other agencies as the Secretary may determine having authority to prepare comprehensive plans for the development of water or waste disposal systems in rural areas which do not have funds available for immediate undertaking of the preparation of such plan.
 
-        (7) Repealed. [Pub. L. 107–171, title VI, § 6020(b)(1)][/us/pl/107/171/s6020/b/1], May 13, 2002, [116 Stat. 363][/us/stat/116/363].
+        (7) Repealed. [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6020(b)(1), May 13, 2002, [116 Stat. 363][/us/stat/116/363].
 
         (8) In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
 
@@ -123,7 +123,7 @@
 
         No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
 
-        (11) Repealed. [Pub. L. 113–79, title VI, § 6012(b)][/us/pl/113/79/s6012/b], Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
+        (11) Repealed. [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6012(b), Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
 
         (12)
 
@@ -353,17 +353,17 @@
 
         The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 
-    (c) __Repealed.__  __[__  __Pub. L. 91–606, title III, § 302(2)__  __][/us/pl/91/606/s302/2]__  __,__  __Dec. 31, 1970__  __,__  __[__  __84 Stat. 1759__  __][/us/stat/84/1759]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 91–606, title III__  __][/us/pl/91/606/tIII]__  __, § 302(2),__  __Dec. 31, 1970__  __,__  __[__  __84 Stat. 1759__  __][/us/stat/84/1759]__ 
 
     (d) __Carryover of unused authorizations for appropriations__ 
 
         Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
-([Pub. L. 87–128, title III, § 306][/us/pl/87/128/s306], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–703, title IV, § 401(2)][/us/pl/87/703/s401/2], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240, § 1][/us/pl/89/240/s1], Oct. 7, 1965, [79 Stat. 931][/us/stat/79/931]; [Pub. L. 89–769, § 6(b)][/us/pl/89/769/s6/b], Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318]; [Pub. L. 90–488][/us/pl/90/488], §§ 3–5, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 91–524, title VIII, § 806(a)][/us/pl/91/524/s806/a], Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 91–606, title III, § 302(2)][/us/pl/91/606/s302/2], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–617, § 1(a)][/us/pl/91/617/s1/a], Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 104–112, Aug. 30, 1972, [86 Stat. 658][/us/stat/86/658], 659; [Pub. L. 91–524, title VIII, § 816(c)][/us/pl/91/524/s816/c], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240]; [Pub. L. 95–334, title I][/us/pl/95/334], §§ 104–107(a), Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], 422; [Pub. L. 96–355, § 7][/us/pl/96/355/s7], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174]; [Pub. L. 96–438, § 2(1)][/us/pl/96/438/s2/1], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–35, title I, § 121][/us/pl/97/35/s121], Aug. 13, 1981, [95 Stat. 368][/us/stat/95/368]; [Pub. L. 99–198, title XIII, § 1304(a)][/us/pl/99/198/s1304/a], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, [104 Stat. 4008][/us/stat/104/4008], 4010, 4017, 4026, 4027, 4057; [Pub. L. 102–237, title VII, § 701(a)][/us/pl/102/237/s701/a], (h)(1)(A), (B), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 103–129, § 3][/us/pl/103/129/s3], Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366]; [Pub. L. 103–354, title II, § 235(b)(5)][/us/pl/103/354/s235/b/5], Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222]; [Pub. L. 104–127, title VII][/us/pl/104/127], §§ 741(a), 758, 763, Apr. 4, 1996, [110 Stat. 1122][/us/stat/110/1122], 1132, 1148; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 773\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(a), 305(a), Nov. 9, 2000, [114 Stat. 2070][/us/stat/114/2070], 2071; [Pub. L. 107–76, title VII, § 762][/us/pl/107/76/s762], Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, [116 Stat. 352–355][/us/stat/116/352-355], 363; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, [122 Stat. 1161][/us/stat/122/1161], 1162, 1267; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1923, 1924, 2029; [Pub. L. 113–79, title VI][/us/pl/113/79], §§ 6001–6006, 6012(b), Feb. 7, 2014, [128 Stat. 841][/us/stat/128/841], 842, 845.)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 306, Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 401(2), Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240][/us/pl/89/240], § 1, Oct. 7, 1965, [79 Stat. 931][/us/stat/79/931]; [Pub. L. 89–769][/us/pl/89/769], § 6(b), Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318]; [Pub. L. 90–488][/us/pl/90/488], §§ 3–5, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 806(a), Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 91–606, title III][/us/pl/91/606/tIII], § 302(2), Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–617][/us/pl/91/617], § 1(a), Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855]; [Pub. L. 92–419, title I][/us/pl/92/419/tI], §§ 104–112, Aug. 30, 1972, [86 Stat. 658][/us/stat/86/658], 659; [Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 816(c), as added [Pub. L. 93–86][/us/pl/93/86], § 1(27)(B), Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240]; [Pub. L. 95–334, title I][/us/pl/95/334/tI], §§ 104–107(a), Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], 422; [Pub. L. 96–355][/us/pl/96/355], § 7, Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174]; [Pub. L. 96–438][/us/pl/96/438], § 2(1), Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–35, title I][/us/pl/97/35/tI], § 121, Aug. 13, 1981, [95 Stat. 368][/us/stat/95/368]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1304(a), Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, [104 Stat. 4008][/us/stat/104/4008], 4010, 4017, 4026, 4027, 4057; [Pub. L. 102–237, title VII][/us/pl/102/237/tVII], § 701(a), (h)(1)(A), (B), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 103–129][/us/pl/103/129], § 3, Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(b)(5), Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], §§ 741(a), 758, 763, Apr. 4, 1996, [110 Stat. 1122][/us/stat/110/1122], 1132, 1148; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 773\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], §§ 304(a), 305(a), Nov. 9, 2000, [114 Stat. 2070][/us/stat/114/2070], 2071; [Pub. L. 107–76, title VII][/us/pl/107/76/tVII], § 762, Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, [116 Stat. 352–355][/us/stat/116/352-355], 363; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, [122 Stat. 1161][/us/stat/122/1161], 1162, 1267; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1923, 1924, 2029; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], §§ 6001–6006, 6012(b), Feb. 7, 2014, [128 Stat. 841][/us/stat/128/841], 842, 845.)
 
  __References in Text__ 
 
-    Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a]\[title VII, § 766\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37, which is not classified to the Code.
+    Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a)\[title VII, § 766\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37, which is not classified to the Code.
 
     The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title][/us/usc/t7/s901] and Tables.
 
@@ -383,49 +383,49 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(B)(vii). [Pub. L. 113–79, § 6001][/us/pl/113/79/s6001], substituted “2018” for “2012”.
+    2014—Subsec. (a)(2)(B)(vii). [Pub. L. 113–79][/us/pl/113/79], § 6001, substituted “2018” for “2012”.
 
-    Subsec. (a)(11). [Pub. L. 113–79, § 6012(b)][/us/pl/113/79/s6012/b], struck out par. (11) which related to rural business opportunity grants.
+    Subsec. (a)(11). [Pub. L. 113–79][/us/pl/113/79], § 6012(b), struck out par. (11) which related to rural business opportunity grants.
 
-    Subsec. (a)(19)(C). [Pub. L. 113–79, § 6002][/us/pl/113/79/s6002], struck out subpar. (C) which related to reservation of funds for child day care facilities.
+    Subsec. (a)(19)(C). [Pub. L. 113–79][/us/pl/113/79], § 6002, struck out subpar. (C) which related to reservation of funds for child day care facilities.
 
-    Subsec. (a)(22). [Pub. L. 113–79, § 6003][/us/pl/113/79/s6003], added par. (22) and struck out former par. (22) which related to rural water and wastewater circuit rider program.
+    Subsec. (a)(22). [Pub. L. 113–79][/us/pl/113/79], § 6003, added par. (22) and struck out former par. (22) which related to rural water and wastewater circuit rider program.
 
-    Subsec. (a)(24)(C). [Pub. L. 113–79, § 6004][/us/pl/113/79/s6004], added subpar. (C).
+    Subsec. (a)(24)(C). [Pub. L. 113–79][/us/pl/113/79], § 6004, added subpar. (C).
 
-    Subsec. (a)(25)(C). [Pub. L. 113–79, § 6005][/us/pl/113/79/s6005], substituted “2018” for “2012”.
+    Subsec. (a)(25)(C). [Pub. L. 113–79][/us/pl/113/79], § 6005, substituted “2018” for “2012”.
 
-    Subsec. (a)(26). [Pub. L. 113–79, § 6006][/us/pl/113/79/s6006], added par. (26).
+    Subsec. (a)(26). [Pub. L. 113–79][/us/pl/113/79], § 6006, added par. (26).
 
-    2008—Subsec. (a)(2)(B)(vii). [Pub. L. 110–246, § 6001][/us/pl/110/246/s6001], substituted “2008 through 2012” for “2002 through 2007”.
+    2008—Subsec. (a)(2)(B)(vii). [Pub. L. 110–246][/us/pl/110/246], § 6001, substituted “2008 through 2012” for “2002 through 2007”.
 
-    Subsec. (a)(2)(C). [Pub. L. 110–246, § 6002(a)][/us/pl/110/246/s6002/a], added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 110–246][/us/pl/110/246], § 6002(a), added subpar. (C).
 
-    Subsec. (a)(11)(C). [Pub. L. 110–246, § 7511(c)(3)][/us/pl/110/246/s7511/c/3], substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+    Subsec. (a)(11)(C). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(3), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
-    Subsec. (a)(11)(D). [Pub. L. 110–246, § 6003][/us/pl/110/246/s6003], substituted “2008 through 2012” for “1996 through 2007”.
+    Subsec. (a)(11)(D). [Pub. L. 110–246][/us/pl/110/246], § 6003, substituted “2008 through 2012” for “1996 through 2007”.
 
-    Subsec. (a)(19)(C)(ii). [Pub. L. 110–246, § 6004][/us/pl/110/246/s6004], substituted “June” for “April”.
+    Subsec. (a)(19)(C)(ii). [Pub. L. 110–246][/us/pl/110/246], § 6004, substituted “June” for “April”.
 
-    Subsec. (a)(20)(E). [Pub. L. 110–246, § 6005][/us/pl/110/246/s6005], substituted “State” for “state” and struck out “dial-up Internet access or” before “broadband service”.
+    Subsec. (a)(20)(E). [Pub. L. 110–246][/us/pl/110/246], § 6005, substituted “State” for “state” and struck out “dial-up Internet access or” before “broadband service”.
 
-    Subsec. (a)(22)(C). [Pub. L. 110–246, § 6006][/us/pl/110/246/s6006], substituted “$25,000,000 for fiscal year 2008” for “$15,000,000 for fiscal year 2003”.
+    Subsec. (a)(22)(C). [Pub. L. 110–246][/us/pl/110/246], § 6006, substituted “$25,000,000 for fiscal year 2008” for “$15,000,000 for fiscal year 2003”.
 
-    Subsec. (a)(25)(A). [Pub. L. 110–246, § 6007(1)][/us/pl/110/246/s6007/1], substituted “grants to an entity that is a Tribal College or University” for “grants to tribal colleges and universities” and “specific Tribal College or University” for “specific tribal college or university”.
+    Subsec. (a)(25)(A). [Pub. L. 110–246][/us/pl/110/246], § 6007(1), substituted “grants to an entity that is a Tribal College or University” for “grants to tribal colleges and universities” and “specific Tribal College or University” for “specific tribal college or university”.
 
-    Subsec. (a)(25)(B). [Pub. L. 110–246, § 6007(2)][/us/pl/110/246/s6007/2], added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant was not to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
+    Subsec. (a)(25)(B). [Pub. L. 110–246][/us/pl/110/246], § 6007(2), added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant was not to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
 
-    Subsec. (a)(25)(C). [Pub. L. 110–246, § 6007(3)][/us/pl/110/246/s6007/3], substituted “2008 through 2012” for “2003 through 2007”.
+    Subsec. (a)(25)(C). [Pub. L. 110–246][/us/pl/110/246], § 6007(3), substituted “2008 through 2012” for “2003 through 2007”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–171, § 6001][/us/pl/107/171/s6001], inserted after first sentence “The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 ([Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681][/us/stat/112/2681], 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes.”
+    2002—Subsec. (a)(1). [Pub. L. 107–171][/us/pl/107/171], § 6001, inserted after first sentence “The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 ([Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681][/us/stat/112/2681], 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes.”
 
-    Subsec. (a)(2). [Pub. L. 107–171, § 6002][/us/pl/107/171/s6002], inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out “aggregating not to exceed $590,000,000 in any fiscal year” after “authorized to make grants”, designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted “subparagraph” for “paragraph”, designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
+    Subsec. (a)(2). [Pub. L. 107–171][/us/pl/107/171], § 6002, inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out “aggregating not to exceed $590,000,000 in any fiscal year” after “authorized to make grants”, designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted “subparagraph” for “paragraph”, designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
 
-    Subsec. (a)(7). [Pub. L. 107–171, § 6020(b)(1)][/us/pl/107/171/s6020/b/1], struck out heading and text of par. (7). Text read as follows: “For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms ‘rural’ and ‘rural area’ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.”
+    Subsec. (a)(7). [Pub. L. 107–171][/us/pl/107/171], § 6020(b)(1), struck out heading and text of par. (7). Text read as follows: “For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms ‘rural’ and ‘rural area’ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.”
 
-    Subsec. (a)(11)(D). [Pub. L. 107–171, § 6003][/us/pl/107/171/s6003], substituted “$15,000,000” for “$7,500,000” and “2007” for “2002”.
+    Subsec. (a)(11)(D). [Pub. L. 107–171][/us/pl/107/171], § 6003, substituted “$15,000,000” for “$7,500,000” and “2007” for “2002”.
 
-    Subsec. (a)(19)(C). [Pub. L. 107–171, § 6004][/us/pl/107/171/s6004], added subpar. (C).
+    Subsec. (a)(19)(C). [Pub. L. 107–171][/us/pl/107/171], § 6004, added subpar. (C).
 
     Subsec. (a)(22) to (25). [Pub. L. 107–171][/us/pl/107/171], §§ 6005–6007(a), 6008, added pars. (22) to (25).
 
@@ -433,65 +433,65 @@
 
     2000—Subsec. (a)(19)(A). [Pub. L. 106–387][/us/pl/106/387], which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under [section 450b(e) of title 25][/us/usc/t25/s450b/e]),” after “nonprofit corporations”, was executed to this section, which is section 306(a)(19)(A) of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
-    Subsec. (a)(20). [Pub. L. 106–472, § 304(a)][/us/pl/106/472/s304/a], added par. (20).
+    Subsec. (a)(20). [Pub. L. 106–472][/us/pl/106/472], § 304(a), added par. (20).
 
-    Subsec. (a)(21). [Pub. L. 106–472, § 305(a)][/us/pl/106/472/s305/a], added par. (21).
+    Subsec. (a)(21). [Pub. L. 106–472][/us/pl/106/472], § 305(a), added par. (21).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–127, § 741(a)(1)][/us/pl/104/127/s741/a/1], substituted “$590,000,000” for “$500,000,000”.
+    1996—Subsec. (a)(2). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(1), substituted “$590,000,000” for “$500,000,000”.
 
-    Subsec. (a)(5). [Pub. L. 104–127, § 758][/us/pl/104/127/s758], added par. (5).
+    Subsec. (a)(5). [Pub. L. 104–127][/us/pl/104/127], § 758, added par. (5).
 
-    Subsec. (a)(7). [Pub. L. 104–127, § 741(a)(2)][/us/pl/104/127/s741/a/2], added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: Provided, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
+    Subsec. (a)(7). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: Provided, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
 
-    Subsec. (a)(9), (10). [Pub. L. 104–127, § 741(a)(3)][/us/pl/104/127/s741/a/3], added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
+    Subsec. (a)(9), (10). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
 
     “(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
 
     “(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established.”
 
-    Subsec. (a)(11). [Pub. L. 104–127, § 741(a)(3)][/us/pl/104/127/s741/a/3], added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
+    Subsec. (a)(11). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
 
-    Subsec. (a)(14). [Pub. L. 104–127, § 741(a)(6)(A)][/us/pl/104/127/s741/a/6/A]–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
+    Subsec. (a)(14). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(6)(A)–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
 
-    [Pub. L. 104–127, § 741(a)(4)][/us/pl/104/127/s741/a/4], (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
+    [Pub. L. 104–127][/us/pl/104/127], § 741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
 
     “(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
 
     “(B) For the purposes of this subsection, the term ‘eligible volunteer fire department’ means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.”
 
-    Subsec. (a)(14)(C). [Pub. L. 104–127, § 741(a)(6)(D)(ii)][/us/pl/104/127/s741/a/6/D/ii], which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
+    Subsec. (a)(14)(C). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(15). [Pub. L. 104–127, § 741(a)(4)][/us/pl/104/127/s741/a/4], (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
+    Subsec. (a)(15). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
 
-    Subsec. (a)(16) to (18). [Pub. L. 104–127, § 741(a)(5)][/us/pl/104/127/s741/a/5], redesignated pars. (18) to (20) as (16) to (18), respectively. Former pars. (16) to (18) redesignated (14) to (16), respectively.
+    Subsec. (a)(16) to (18). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(5), redesignated pars. (18) to (20) as (16) to (18), respectively. Former pars. (16) to (18) redesignated (14) to (16), respectively.
 
-    Subsec. (a)(19). [Pub. L. 104–127, § 763][/us/pl/104/127/s763], added par. (19).
+    Subsec. (a)(19). [Pub. L. 104–127][/us/pl/104/127], § 763, added par. (19).
 
-    [Pub. L. 104–127, § 741(a)(5)][/us/pl/104/127/s741/a/5], redesignated par. (19) as (17).
+    [Pub. L. 104–127][/us/pl/104/127], § 741(a)(5), redesignated par. (19) as (17).
 
-    Subsec. (a)(20). [Pub. L. 104–127, § 741(a)(5)][/us/pl/104/127/s741/a/5], redesignated par. (20) as (18).
+    Subsec. (a)(20). [Pub. L. 104–127][/us/pl/104/127], § 741(a)(5), redesignated par. (20) as (18).
 
     1994—Subsec. (a)(15)(C), (D). [Pub. L. 103–354][/us/pl/103/354] redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Administrator of the Rural Electrification Administration shall administer loans made or insured under this paragraph.”
 
     1993—Subsec. (a)(1). [Pub. L. 103–129][/us/pl/103/129] inserted after first sentence “The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents.”
 
-    1991—Subsec. (a)(11)(B)(ii). [Pub. L. 102–237, § 701(a)(1)][/us/pl/102/237/s701/a/1], in subcl. (I) inserted “and” after semicolon and in subcl. (II) substituted a period for “; and”.
+    1991—Subsec. (a)(11)(B)(ii). [Pub. L. 102–237][/us/pl/102/237], § 701(a)(1), in subcl. (I) inserted “and” after semicolon and in subcl. (II) substituted a period for “; and”.
 
-    Subsec. (a)(12)(D), (20). [Pub. L. 102–237, § 701(h)(1)(A)][/us/pl/102/237/s701/h/1/A], (B), substituted “this chapter” for “this Act”.
+    Subsec. (a)(12)(D), (20). [Pub. L. 102–237][/us/pl/102/237], § 701(h)(1)(A), (B), substituted “this chapter” for “this Act”.
 
-    Subsec. (a)(21). [Pub. L. 102–237, § 701(a)(2)][/us/pl/102/237/s701/a/2], struck out par. (21) which was identical to par. (20).
+    Subsec. (a)(21). [Pub. L. 102–237][/us/pl/102/237], § 701(a)(2), struck out par. (21) which was identical to par. (20).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–624, § 2328][/us/pl/101/624/s2328], inserted “rural businesses,” after “farm laborers,”.
+    1990—Subsec. (a)(1). [Pub. L. 101–624][/us/pl/101/624], § 2328, inserted “rural businesses,” after “farm laborers,”.
 
-    Subsec. (a)(2). [Pub. L. 101–624, § 2321][/us/pl/101/624/s2321], struck out “: Provided, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year” after “in rural areas”.
+    Subsec. (a)(2). [Pub. L. 101–624][/us/pl/101/624], § 2321, struck out “: Provided, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year” after “in rural areas”.
 
-    Subsec. (a)(3). [Pub. L. 101–624, § 2316(b)][/us/pl/101/624/s2316/b], struck out “and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area” after “of the rural area”.
+    Subsec. (a)(3). [Pub. L. 101–624][/us/pl/101/624], § 2316(b), struck out “and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area” after “of the rural area”.
 
     Subsec. (a)(11). [Pub. L. 101–624][/us/pl/101/624], §§ 2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assist­ance, rural community leadership development, and community and areawide rural development planning.”
 
-    Subsec. (a)(20). [Pub. L. 101–624, § 2329][/us/pl/101/624/s2329], added par. (20).
+    Subsec. (a)(20). [Pub. L. 101–624][/us/pl/101/624], § 2329, added par. (20).
 
-    Subsec. (a)(21). [Pub. L. 101–624, § 2393][/us/pl/101/624/s2393], added par. (21).
+    Subsec. (a)(21). [Pub. L. 101–624][/us/pl/101/624], § 2393, added par. (21).
 
     1986—Subsec. (a)(1), (15)(B). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -505,33 +505,33 @@
 
     Subsec. (a)(11) to (15). [Pub. L. 96–355][/us/pl/96/355] in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
-    1978—Subsec. (a)(1). [Pub. L. 95–334, § 104][/us/pl/95/334/s104], inserted provisions respecting bond counsel requirements for loans under $500,000.
+    1978—Subsec. (a)(1). [Pub. L. 95–334][/us/pl/95/334], § 104, inserted provisions respecting bond counsel requirements for loans under $500,000.
 
-    Subsec. (a)(2). [Pub. L. 95–334, § 105][/us/pl/95/334/s105], substituted “$500,000,000” for “$300,000,000” and “75” for “50”.
+    Subsec. (a)(2). [Pub. L. 95–334][/us/pl/95/334], § 105, substituted “$500,000,000” for “$300,000,000” and “75” for “50”.
 
-    Subsec. (a)(7). [Pub. L. 95–334, § 106][/us/pl/95/334/s106], struck out references to the Commonwealth of Puerto Rico and the Virgin Islands.
+    Subsec. (a)(7). [Pub. L. 95–334][/us/pl/95/334], § 106, struck out references to the Commonwealth of Puerto Rico and the Virgin Islands.
 
-    Subsec. (a)(14). [Pub. L. 95–334, § 107(a)][/us/pl/95/334/s107/a], added par. (14).
+    Subsec. (a)(14). [Pub. L. 95–334][/us/pl/95/334], § 107(a), added par. (14).
 
-    1973—Subsec. (a)(13). [Pub. L. 91–524, title VIII, § 816(c)][/us/pl/91/524/s816/c], as added by [Pub. L. 93–86][/us/pl/93/86] added par. (13).
+    1973—Subsec. (a)(13). [Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 816(c), as added by [Pub. L. 93–86][/us/pl/93/86] added par. (13).
 
-    1972—Subsec. (a)(1). [Pub. L. 92–419, § 104(1)][/us/pl/92/419/s104/1], (2), authorized loans to Indian tribes on Federal and State reservations and other federally recognized Indian tribes and included as an allowable use provision for essential community facilities including necessary related equipment, respectively.
+    1972—Subsec. (a)(1). [Pub. L. 92–419][/us/pl/92/419], § 104(1), (2), authorized loans to Indian tribes on Federal and State reservations and other federally recognized Indian tribes and included as an allowable use provision for essential community facilities including necessary related equipment, respectively.
 
-    Subsec. (a)(2). [Pub. L. 92–419, § 105][/us/pl/92/419/s105], substituted “$300,000,000” for “$100,000,000”.
+    Subsec. (a)(2). [Pub. L. 92–419][/us/pl/92/419], § 105, substituted “$300,000,000” for “$100,000,000”.
 
     Subsec. (a)(3). [Pub. L. 92–419][/us/pl/92/419], §§ 106, 107, substituted “project” for “facility” where first appearing; in item (i), substituted “project” for “facility” and inserted in such text “, if such project is carried out,”; in item (ii), substituted “will or can be” for “will be or can be”; substituted “and (iii)” for “or (iii)” and in such item (iii), substituted “an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan” and “development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority” for “orderly community development consistent with a comprehensive community water or sewer development plan” and “development under State, county, or municipal plans approved as official plans by competent authority”, substituted “Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government” for “Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time”; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
 
-    Subsec. (a)(5). [Pub. L. 92–419, § 110][/us/pl/92/419/s110], struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
+    Subsec. (a)(5). [Pub. L. 92–419][/us/pl/92/419], § 110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
 
-    Subsec. (a)(6). [Pub. L. 92–419, § 108][/us/pl/92/419/s108], substituted “$30,000,000” for “$15,000,000”, struck out “official” before “comprehensive plans”, and substituted “waste disposal systems” for “sewer systems”.
+    Subsec. (a)(6). [Pub. L. 92–419][/us/pl/92/419], § 108, substituted “$30,000,000” for “$15,000,000”, struck out “official” before “comprehensive plans”, and substituted “waste disposal systems” for “sewer systems”.
 
-    Subsec. (a)(7). [Pub. L. 92–419, § 109][/us/pl/92/419/s109], substituted definition of “rural” and “rural area” as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
+    Subsec. (a)(7). [Pub. L. 92–419][/us/pl/92/419], § 109, substituted definition of “rural” and “rural area” as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
 
     Subsec. (a)(11), (12). [Pub. L. 92–419][/us/pl/92/419], §§ 111, 112, added pars. (11) and (12).
 
     1970—Subsec. (a)(1). [Pub. L. 91–617][/us/pl/91/617] required inclusion in gross income of the interest or other income paid to an insured holder when any loan made for a purpose specified in subsec. (a)(1) is sold out of the Agricultural Credit Insurance Fund as an insured loan.
 
-    Subsec. (c). [Pub. L. 91–606][/us/pl/91/606] repealed subsec. (c), added by [Pub. L. 89–769, § 6(b)][/us/pl/89/769/s6/b], Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318], which related to loans to associations in areas suffering major disasters. See section 4401 et seq. of Title 42, The Public Health and Welfare.
+    Subsec. (c). [Pub. L. 91–606][/us/pl/91/606] repealed subsec. (c), added by [Pub. L. 89–769][/us/pl/89/769], § 6(b), Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318], which related to loans to associations in areas suffering major disasters. See section 4401 et seq. of Title 42, The Public Health and Welfare.
 
     Subsec. (d). [Pub. L. 91–524][/us/pl/91/524] added subsec. (d).
 
@@ -559,11 +559,11 @@
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–334, title I, § 105][/us/pl/95/334/s105], Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], provided that the amendment made by that section is effective Oct. 1, 1978.
+    [Pub. L. 95–334, title I][/us/pl/95/334/tI], § 105, Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], provided that the amendment made by that section is effective Oct. 1, 1978.
 
  __Effective Date of 1970 Amendments__ 
 
-[Pub. L. 91–617, § 1(b)][/us/pl/91/617/s1/b], Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855], provided that: 
+[Pub. L. 91–617][/us/pl/91/617], § 1(b), Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\].”
 
@@ -579,7 +579,7 @@
 
  __Assistance in Rural Alaska__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 736\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–33, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 736\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–33, provided that: 
 
 > “Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
 
@@ -625,17 +625,17 @@
 
  __Rural Wastewater Treatment Circuit Rider Program__ 
 
-    [Pub. L. 101–624, title XXIII, § 2324][/us/pl/101/624/s2324], Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by [Pub. L. 104–127, title VII, § 703][/us/pl/104/127/s703], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
+    [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2324, Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 703, Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108].
 
  __Interest Rate Restructuring for Certain Borrowers__ 
 
-[Pub. L. 100–233, title VI, § 615(b)(2)][/us/pl/100/233/s615/b/2], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682], provided that: 
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 615(b)(2), Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682], provided that: 
 
 > “Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[[7 U.S.C. 1926][/us/usc/t7/s1926]\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
 
  __Lease of Certain Acquired Property__ 
 
-[Pub. L. 100–233, title VI, § 620][/us/pl/100/233/s620], Jan. 6, 1988, [101 Stat. 1684][/us/stat/101/1684], provided that: 
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 620, Jan. 6, 1988, [101 Stat. 1684][/us/stat/101/1684], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Agriculture may lease to public or private nonprofit organizations, for a nominal rent, any facilities acquired in connection with the disposition of a loan made by the Secretary under section 306 \[[7 U.S.C. 1926][/us/usc/t7/s1926]\]. Any such lease shall be for such reasonable period of time as the Secretary determines is appropriate.”
 
@@ -649,10 +649,10 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/107/171/s6020/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F1
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F845
 [/us/stat/12/503-505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503-505
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
@@ -668,66 +668,66 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t26/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs142%2Fa
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
-[/us/pl/91/606/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs302%2F2
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1759
-[/us/pl/87/128/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs306
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F308
-[/us/pl/87/703/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs401%2F2
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
-[/us/pl/89/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240%2Fs1
+[/us/pl/89/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F240
 [/us/stat/79/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F931
-[/us/pl/89/769/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs6%2Fb
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
 [/us/stat/80/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1318
 [/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
 [/us/stat/82/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F770
-[/us/pl/91/524/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs806%2Fa
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/stat/84/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1383
-[/us/pl/91/606/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs302%2F2
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1759
-[/us/pl/91/617/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F617%2Fs1%2Fa
+[/us/pl/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F617
 [/us/stat/84/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1855
-[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtI
 [/us/stat/86/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F658
-[/us/pl/91/524/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs816%2Fc
-[/us/pl/93/86/s1/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F27%2FB
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F240
-[/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F421
-[/us/pl/96/355/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs7
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1174
-[/us/pl/96/438/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438%2Fs2%2F1
+[/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/stat/94/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1871
-[/us/pl/97/35/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs121
+[/us/pl/97/35/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtI
 [/us/stat/95/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F368
-[/us/pl/99/198/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1304%2Fa
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1519
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4008
-[/us/pl/102/237/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fa
+[/us/pl/102/237/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVII
 [/us/stat/105/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1879
-[/us/pl/103/129/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs3
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1366
-[/us/pl/103/354/s235/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fb%2F5
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3222
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1122
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2070
-[/us/pl/107/76/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs762
+[/us/pl/107/76/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2FtVII
 [/us/stat/115/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F743
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/352-355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F352-355
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1161
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F841
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
@@ -751,83 +751,83 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6001
-[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
-[/us/pl/113/79/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6002
-[/us/pl/113/79/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6003
-[/us/pl/113/79/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6004
-[/us/pl/113/79/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6005
-[/us/pl/113/79/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6006
-[/us/pl/110/246/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6001
-[/us/pl/110/246/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6002%2Fa
-[/us/pl/110/246/s7511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F3
-[/us/pl/110/246/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6003
-[/us/pl/110/246/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6004
-[/us/pl/110/246/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6005
-[/us/pl/110/246/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6006
-[/us/pl/110/246/s6007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6007%2F1
-[/us/pl/110/246/s6007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6007%2F2
-[/us/pl/110/246/s6007/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6007%2F3
-[/us/pl/107/171/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6001
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/107/171/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6002
-[/us/pl/107/171/s6020/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F1
-[/us/pl/107/171/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6003
-[/us/pl/107/171/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6004
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/106/472/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs304%2Fa
-[/us/pl/106/472/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs305%2Fa
-[/us/pl/104/127/s741/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F1
-[/us/pl/104/127/s758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs758
-[/us/pl/104/127/s741/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F2
-[/us/pl/104/127/s741/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F3
-[/us/pl/104/127/s741/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F3
-[/us/pl/104/127/s741/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F6%2FA
-[/us/pl/104/127/s741/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F4
-[/us/pl/104/127/s741/a/6/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F6%2FD%2Fii
-[/us/pl/104/127/s741/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F4
-[/us/pl/104/127/s741/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F5
-[/us/pl/104/127/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs763
-[/us/pl/104/127/s741/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F5
-[/us/pl/104/127/s741/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs741%2Fa%2F5
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/102/237/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fa%2F1
-[/us/pl/102/237/s701/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fh%2F1%2FA
-[/us/pl/102/237/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs701%2Fa%2F2
-[/us/pl/101/624/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2328
-[/us/pl/101/624/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2321
-[/us/pl/101/624/s2316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2316%2Fb
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/624/s2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2329
-[/us/pl/101/624/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2393
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F438
 [/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
-[/us/pl/95/334/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs104
-[/us/pl/95/334/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs105
-[/us/pl/95/334/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs106
-[/us/pl/95/334/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs107%2Fa
-[/us/pl/91/524/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs816%2Fc
+[/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
+[/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
+[/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
+[/us/pl/95/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/92/419/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs104%2F1
-[/us/pl/92/419/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs105
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
-[/us/pl/92/419/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs110
-[/us/pl/92/419/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs108
-[/us/pl/92/419/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs109
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F617
 [/us/pl/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606
-[/us/pl/89/769/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs6%2Fb
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
 [/us/stat/80/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1318
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 [/us/pl/90/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488
@@ -850,9 +850,9 @@
 [/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/pl/96/355/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs10
 [/us/usc/t7/s2204b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204b
-[/us/pl/95/334/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs105
+[/us/pl/95/334/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtI
 [/us/stat/92/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F421
-[/us/pl/91/617/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F617%2Fs1%2Fb
+[/us/pl/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F617
 [/us/stat/84/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1855
 [/us/pl/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606
 [/us/pl/91/606/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs304
@@ -860,7 +860,7 @@
 [/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
 [/us/pl/89/769/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs14
 [/us/pl/101/624/s2302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2302%2Fb
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t7/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa
 [/us/usc/t7/s1932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa%2F1
@@ -869,14 +869,14 @@
 [/us/stat/108/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4373
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/101/624/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2324
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4013
-[/us/pl/104/127/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs703
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1108
-[/us/pl/100/233/s615/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs615%2Fb%2F2
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1682
 [/us/usc/t7/s1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926
-[/us/pl/100/233/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs620
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1684
 [/us/usc/t7/s1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926
 

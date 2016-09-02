@@ -17,7 +17,7 @@
 
     No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within a period of five business days after the acquisition of such animal or within such other period as may be specified by the Secretary: Provided, That operators of auction sales subject to [section 2142 of this title][/us/usc/t7/s2142] shall not be required to comply with the provisions of this section.
 
-([Pub. L. 89–544, § 5][/us/pl/89/544/s5], Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579, § 6][/us/pl/91/579/s6], Dec. 24, 1970, [84 Stat. 1561][/us/stat/84/1561].)
+([Pub. L. 89–544][/us/pl/89/544], § 5, Aug. 24, 1966, [80 Stat. 351][/us/stat/80/351]; [Pub. L. 91–579][/us/pl/91/579], § 6, Dec. 24, 1970, [84 Stat. 1561][/us/stat/84/1561].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142
-[/us/pl/89/544/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs5
+[/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F351
-[/us/pl/91/579/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579%2Fs6
+[/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/stat/84/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1561
 [/us/pl/91/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F579
 [/us/usc/t7/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2142

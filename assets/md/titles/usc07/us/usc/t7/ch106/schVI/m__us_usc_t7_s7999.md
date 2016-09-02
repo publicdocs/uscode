@@ -31,7 +31,7 @@
 
         To be eligible to obtain an incentive payment under subsection (a), a producer shall demonstrate to the satisfaction of the Secretary that buyers and end-users are available for the wheat to be covered by the incentive payment.
 
-([Pub. L. 107–171, title I, § 1616][/us/pl/107/171/s1616], May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1616, May 13, 2002, [116 Stat. 222][/us/stat/116/222].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1616
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F222
 
 

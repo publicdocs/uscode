@@ -17,7 +17,7 @@
 
     The Secretary shall, whenever the Secretary finds that an order or a provision of an order obstructs or does not tend to effectuate the declared policy of this subchapter, suspend or terminate the operation of the order or provision. The suspension or termination of an order shall not be considered an order within the meaning of this subchapter.
 
-([Pub. L. 104–127, title V, § 541][/us/pl/104/127/s541], Apr. 4, 1996, [110 Stat. 1063][/us/stat/110/1063].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 541, Apr. 4, 1996, [110 Stat. 1063][/us/stat/110/1063].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs541
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1063
 
 

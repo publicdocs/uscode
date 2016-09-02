@@ -17,7 +17,7 @@
 
     To effectuate the declared policy of this chapter, the Secretary shall, under the provisions of this chapter, issue, and from time to time may amend, orders (applicable to producers, handlers, and importers of watermelons) authorizing the collection of assessments on watermelons under this chapter and the use of such funds to cover the costs of research, development, advertising, and promotion with respect to watermelons under this chapter. Any plan shall be applicable to watermelons produced in the United States or imported into the United States.
 
-([Pub. L. 99–198, title XVI, § 1644][/us/pl/99/198/s1644], Dec. 23, 1985, [99 Stat. 1623][/us/stat/99/1623]; [Pub. L. 103–189][/us/pl/103/189], §§ 3(b), 8(b), Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], 2261.)
+([Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1644, Dec. 23, 1985, [99 Stat. 1623][/us/stat/99/1623]; [Pub. L. 103–189][/us/pl/103/189], §§ 3(b), 8(b), Dec. 14, 1993, [107 Stat. 2259][/us/stat/107/2259], 2261.)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1644
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1623
 [/us/pl/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F189
 [/us/stat/107/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2259

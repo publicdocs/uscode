@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_ch50_schX.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
+[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_s2009ee...2009ee–3.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
 
 ## CHAPTER 51—SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
 
@@ -267,7 +267,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_ch50_schX.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
+[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_s2009ee...2009ee–3.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
 
 ----------
 ----------

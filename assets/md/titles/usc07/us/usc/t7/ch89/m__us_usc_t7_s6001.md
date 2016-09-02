@@ -47,15 +47,15 @@
 
         Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce pecans.
 
-([Pub. L. 101–624, title XIX, § 1906][/us/pl/101/624/s1906], Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1906, Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838].)
 
  __Short Title__ 
 
-[Pub. L. 101–624, title XIX, § 1901][/us/pl/101/624/s1901], Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838], as amended by [Pub. L. 102–237, title VIII, § 801][/us/pl/102/237/s801], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1901, Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838], as amended by [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 801, Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882], provided that: 
 
 > “This title \[enacting this chapter and chapters 90 to 93 of this title and sections 2109, 2278, and 4610a of this title, amending sections 1787, 2101, 2106 to 2108, 2110, 2116, 2611 to 2614, 2617 to 2619, 2622 to 2624, 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as notes under sections 2101, 2611, 2625, 4601, and 4603 of this title\] may be cited as the ‘Agricultural Promotion Programs Act of 1990’.”
 
-[Pub. L. 101–624, title XIX, § 1905][/us/pl/101/624/s1905], Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838], provided that: 
+[Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1905, Nov. 28, 1990, [104 Stat. 3838][/us/stat/104/3838], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1905–1918) of title XIX of [Pub. L. 101–624][/us/pl/101/624], enacting this chapter\] may be cited as the ‘Pecan Promotion and Research Act of 1990’.”
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1906
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3838
-[/us/pl/101/624/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1901
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3838
-[/us/pl/102/237/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs801
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1882
-[/us/pl/101/624/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1905
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3838
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

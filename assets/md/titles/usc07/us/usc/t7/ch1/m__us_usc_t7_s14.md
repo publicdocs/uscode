@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s13c.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s15.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs14)
 
-## § 14. Repealed. [Pub. L. 99–641, title I, § 110(5)][/us/pl/99/641/s110/5], Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561]
+## § 14. Repealed. [Pub. L. 99–641, title I][/us/pl/99/641/tI], § 110(5), Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561]
 
-    Section, [act Sept. 21, 1922, ch. 369, § 11][/us/act/1922-09-21/ch369/s11], [42 Stat. 1003][/us/stat/42/1003], provided that violations of this chapter occurring before Nov. 1, 1922, should not be punishable.
+    Section, [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 11, [42 Stat. 1003][/us/stat/42/1003], provided that violations of this chapter occurring before Nov. 1, 1922, should not be punishable.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/99/641/s110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs110%2F5
+[/us/pl/99/641/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtI
 [/us/stat/100/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3561
-[/us/act/1922-09-21/ch369/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs11
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1003
 
 

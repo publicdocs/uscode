@@ -17,7 +17,7 @@
 
     In areas where the Secretary determines after consultation with the Department of the Interior and competent local authorities that there is no active mineral development or leasing, the mineral interests covered by a single application shall be sold for a consideration of $1. In other areas the mineral interests shall be sold at the fair market value thereof as determined by the Secretary after taking into consideration such appraisals as he deems necessary or appropriate. Area determinations made by the Secretary pursuant to this section may be revised from time to time and the consideration to be obtained for the mineral interests in connection with any particular tract of land shall be determined by the rule applicable to the area in which the tract is located at the time of the application therefor: Provided, That, in the event any mineral interests covered by sections 1033 to 1039 of this title are not sold as provided herein pursuant to application filed within seven years from September 6, 1950, or within seven years from the date of acquisition of the mineral interests of the United States, whichever date is later, the Secretary shall forthwith transfer title to such mineral interests, with the exception of those which were a part of or derived from the assets transferred pursuant to transfer agreements with State rural rehabilitation corporations, to the Secretary of the Interior to be administered under the mineral laws of the United States.
 
-([Sept. 6, 1950, ch. 897, § 3][/us/act/1950-09-06/ch897/s3], [64 Stat. 769][/us/stat/64/769].)
+([Sept. 6, 1950, ch. 897][/us/act/1950-09-06/ch897], § 3, [64 Stat. 769][/us/stat/64/769].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-06/ch897/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897%2Fs3
+[/us/act/1950-09-06/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch897
 [/us/stat/64/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F769
 
 

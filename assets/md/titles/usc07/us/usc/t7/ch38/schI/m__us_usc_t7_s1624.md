@@ -19,17 +19,17 @@
 
     (b) The Secretary of Agriculture shall promulgate such orders, rules, and regulations as he deems necessary to carry out the provisions of this chapter.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 205, [60 Stat. 1090][/us/stat/60/1090]; [Aug. 30, 1954, ch. 1076, § 1(7)][/us/act/1954-08-30/ch1076/s1/7], [68 Stat. 966][/us/stat/68/966].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 205, [60 Stat. 1090][/us/stat/60/1090]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(7), [68 Stat. 966][/us/stat/68/966].)
 
  __References in Text__ 
 
-    [Section 5 of the Act of June 20, 1874][/us/act/1874-06-20/s5], as amended (31 U.S.C. sec. 713), referred to in subsec. (a), was repealed by [act July 6, 1949, ch. 299, § 3][/us/act/1949-07-06/ch299/s3], [63 Stat. 407][/us/stat/63/407].
+    [Section 5 of the Act of June 20, 1874][/us/act/1874-06-20/s5], as amended (31 U.S.C. sec. 713), referred to in subsec. (a), was repealed by [act July 6, 1949, ch. 299][/us/act/1949-07-06/ch299], § 3, [63 Stat. 407][/us/stat/63/407].
 
  __Codification__ 
 
-    In subsec. (a), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 (31 U.S.C., sec. 529) of the Revised Statutes on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 (31 U.S.C., sec. 529) of the Revised Statutes on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 (41 U.S.C., sec. 5) of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 (41 U.S.C., sec. 5) of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Distribution of Surplus Commodities__ 
 
-[Pub. L. 97–253, title I, § 191][/us/pl/97/253/s191], Sept. 8, 1982, [96 Stat. 787][/us/stat/96/787], provided that:
+[Pub. L. 97–253, title I][/us/pl/97/253/tI], § 191, Sept. 8, 1982, [96 Stat. 787][/us/stat/96/787], provided that:
 
 >     “(a)
 
@@ -80,17 +80,17 @@
 [/us/act/1874-06-20/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fs5
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1090
-[/us/act/1954-08-30/ch1076/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F7
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F966
 [/us/act/1874-06-20/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fs5
-[/us/act/1949-07-06/ch299/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fch299%2Fs3
+[/us/act/1949-07-06/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fch299
 [/us/stat/63/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F407
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/97/253/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs191
+[/us/pl/97/253/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtI
 [/us/stat/96/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F787
 
 

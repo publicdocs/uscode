@@ -41,7 +41,7 @@
 
                 A State or political subdivision of a State may impose prohibitions or restrictions upon the movement in interstate commerce of articles, means of conveyance, plants, plant products, biological control organisms, plant pests, or noxious weeds that are in addition to the prohibitions or restrictions imposed by the Secretary, if the State or political subdivision of a State demonstrates to the Secretary and the Secretary finds that there is a special need for additional prohibitions or restrictions based on sound scientific data or a thorough risk assessment.
 
-([Pub. L. 106–224, title IV, § 436][/us/pl/106/224/s436], June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 436, June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
 
  __Transfer of Functions__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs436
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F453
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

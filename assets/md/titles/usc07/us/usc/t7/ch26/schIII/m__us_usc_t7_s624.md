@@ -27,7 +27,7 @@
 
     (f) No quantitative limitation or fee shall be imposed under this section with respect to any article that is the product of a WTO member (as defined in [section 3501(10) of title 19][/us/usc/t19/s3501/10]).
 
-([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 22, as added [Aug. 24, 1935, ch. 641, § 31][/us/act/1935-08-24/ch641/s31], [49 Stat. 773][/us/stat/49/773]; amended [Feb. 29, 1936, ch. 104, § 5][/us/act/1936-02-29/ch104/s5], [49 Stat. 1152][/us/stat/49/1152]; [June 3, 1937, ch. 296, § 1][/us/act/1937-06-03/ch296/s1], [50 Stat. 246][/us/stat/50/246]; [Jan. 25, 1940, ch. 13][/us/act/1940-01-25/ch13], [54 Stat. 17][/us/stat/54/17]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 3, [62 Stat. 1248][/us/stat/62/1248]; [June 28, 1950, ch. 381, § 3][/us/act/1950-06-28/ch381/s3], [64 Stat. 261][/us/stat/64/261]; [June 16, 1951, ch. 141, § 8(b)][/us/act/1951-06-16/ch141/s8/b], [65 Stat. 75][/us/stat/65/75]; [Aug. 7, 1953, ch. 348][/us/act/1953-08-07/ch348], title I, § 104, [67 Stat. 472][/us/stat/67/472]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009]; [Pub. L. 100–449, title III, § 301(c)][/us/pl/100/449/s301/c], Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868]; [Pub. L. 103–465, title IV, § 401(a)(1)][/us/pl/103/465/s401/a/1], Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957].)
+([May 12, 1933, ch. 25][/us/act/1933-05-12/ch25], title I, § 22, as added [Aug. 24, 1935, ch. 641][/us/act/1935-08-24/ch641], § 31, [49 Stat. 773][/us/stat/49/773]; amended [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 5, [49 Stat. 1152][/us/stat/49/1152]; [June 3, 1937, ch. 296][/us/act/1937-06-03/ch296], § 1, [50 Stat. 246][/us/stat/50/246]; [Jan. 25, 1940, ch. 13][/us/act/1940-01-25/ch13], [54 Stat. 17][/us/stat/54/17]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 3, [62 Stat. 1248][/us/stat/62/1248]; [June 28, 1950, ch. 381][/us/act/1950-06-28/ch381], § 3, [64 Stat. 261][/us/stat/64/261]; [June 16, 1951, ch. 141][/us/act/1951-06-16/ch141], § 8(b), [65 Stat. 75][/us/stat/65/75]; [Aug. 7, 1953, ch. 348][/us/act/1953-08-07/ch348], title I, § 104, [67 Stat. 472][/us/stat/67/472]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 301(c), Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 401(a)(1), Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957].)
 
  __Amendment of Section__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title IV, § 401(a)(2)][/us/pl/103/465/s401/a/2], Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957], provided that: 
+[Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 401(a)(2), Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1948 Amendment__ 
 
-[Act July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 6, [62 Stat. 1250][/us/stat/62/1250], provided that: 
+[Act July 3, 1948, ch. 827, title I][/us/act/1948-07-03/ch827/tI], § 6, [62 Stat. 1250][/us/stat/62/1250], provided that: 
 
 > “This title \[amending this section and [section 590h of Title 16][/us/usc/t16/s590h], Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under [section 713a–8 of Title 15][/us/usc/t15/s713a–8], Commerce and Trade\] shall take effect on January 1, 1949, except that sections 3 and 4 \[amending this section and [section 590h of Title 16][/us/usc/t16/s590h]\] shall take effect on the date of enactment of this Act \[July 3, 1948\].”
 
@@ -93,15 +93,15 @@
 
  __Report to Congress on Termination or Suspension of Quantitative Limitations or Fees__ 
 
-    [Pub. L. 101–624, title XV, § 1554][/us/pl/101/624/s1554], Nov. 28, 1990, [104 Stat. 3697][/us/stat/104/3697], directed Secretary of Agriculture to report to Congress before effective date of suspension or termination of any quantitative limitations or fees in effect under [7 U.S.C. 624][/us/usc/t7/s624] on consequences of lifting of limitations or fees, prior to repeal by [Pub. L. 104–127, title II, § 281(a)][/us/pl/104/127/s281/a], Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980].
+    [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1554, Nov. 28, 1990, [104 Stat. 3697][/us/stat/104/3697], directed Secretary of Agriculture to report to Congress before effective date of suspension or termination of any quantitative limitations or fees in effect under [7 U.S.C. 624][/us/usc/t7/s624] on consequences of lifting of limitations or fees, prior to repeal by [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 281(a), Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980].
 
  __Interference With Tobacco Price Support Program__ 
 
-    [Pub. L. 100–418, title IV, § 4609][/us/pl/100/418/s4609], Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commission would take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
+    [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4609, Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commission would take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
 
  __Dairy Import Study by Secretary of Agriculture; Report to Congress by__  __Jan. 1, 1975__ 
 
-    [Pub. L. 91–524, title II, § 205][/us/pl/91/524/s205], as added [Pub. L. 93–86, § 1(6)][/us/pl/93/86/s1/6], Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; amended [Pub. L. 93–125, § 1(a)(i)][/us/pl/93/125/s1/a/i], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450], authorized the Secretary of Agriculture to determine the effect upon domestic dairy producers, handlers, and processors and upon consumers of increases in the level of imports, if any, of dairy products and report his findings, together with any recommendations he may have with respect to import quotas or other matters, to the Congress of the United States no later than Jan. 1, 1975, defined dairy products as including (1) all forms of milk and dairy products, butterfat, milk solids-not-fat, and any combination or mixture thereof; (2) any article, compound, or mixture containing 5 per centum or more of butterfat, or milk solids-not-fat, or any combinations of the two; and (3) lactose, and other derivatives of milk, butterfat, or milk solids-not-fat, if imported commercially for any food use, and excluded from the definition of dairy products (1) casein, caseinates, industrial casein, industrial caseinates, or any other industrial products, not to be used in any form for any food use, or an ingredient of food; or (2) articles not normally considered to be dairy products, such as candy, bakery goods, and other similar articles.
+    [Pub. L. 91–524, title II][/us/pl/91/524/tII], § 205, as added [Pub. L. 93–86][/us/pl/93/86], § 1(6), Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; amended [Pub. L. 93–125][/us/pl/93/125], § 1(a)(i), Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450], authorized the Secretary of Agriculture to determine the effect upon domestic dairy producers, handlers, and processors and upon consumers of increases in the level of imports, if any, of dairy products and report his findings, together with any recommendations he may have with respect to import quotas or other matters, to the Congress of the United States no later than Jan. 1, 1975, defined dairy products as including (1) all forms of milk and dairy products, butterfat, milk solids-not-fat, and any combination or mixture thereof; (2) any article, compound, or mixture containing 5 per centum or more of butterfat, or milk solids-not-fat, or any combinations of the two; and (3) lactose, and other derivatives of milk, butterfat, or milk solids-not-fat, if imported commercially for any food use, and excluded from the definition of dairy products (1) casein, caseinates, industrial casein, industrial caseinates, or any other industrial products, not to be used in any form for any food use, or an ingredient of food; or (2) articles not normally considered to be dairy products, such as candy, bakery goods, and other similar articles.
 
  __Proc. No. 3178. Quota on Butter Substitutes__ 
 
@@ -172,27 +172,27 @@
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
-[/us/act/1935-08-24/ch641/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641%2Fs31
+[/us/act/1935-08-24/ch641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fch641
 [/us/stat/49/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F773
-[/us/act/1936-02-29/ch104/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs5
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1152
-[/us/act/1937-06-03/ch296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296%2Fs1
+[/us/act/1937-06-03/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-03%2Fch296
 [/us/stat/50/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F246
 [/us/act/1940-01-25/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-01-25%2Fch13
 [/us/stat/54/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F17
 [/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
 [/us/stat/62/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1248
-[/us/act/1950-06-28/ch381/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch381%2Fs3
+[/us/act/1950-06-28/ch381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch381
 [/us/stat/64/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F261
-[/us/act/1951-06-16/ch141/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-16%2Fch141%2Fs8%2Fb
+[/us/act/1951-06-16/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-16%2Fch141
 [/us/stat/65/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F75
 [/us/act/1953-08-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch348
 [/us/stat/67/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F472
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
-[/us/pl/100/449/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs301%2Fc
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1868
-[/us/pl/103/465/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs401%2Fa%2F1
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4957
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
@@ -206,28 +206,28 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
-[/us/pl/103/465/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs401%2Fa%2F2
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4957
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/act/1948-07-03/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827
+[/us/act/1948-07-03/ch827/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch827%2FtI
 [/us/stat/62/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1250
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
 [/us/usc/t15/s713a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%938
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
-[/us/pl/101/624/s1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1554
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3697
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
-[/us/pl/104/127/s281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs281%2Fa
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F980
-[/us/pl/100/418/s4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4609
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1411
-[/us/pl/91/524/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs205
-[/us/pl/93/86/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F6
+[/us/pl/91/524/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtII
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F223
-[/us/pl/93/125/s1/a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125%2Fs1%2Fa%2Fi
+[/us/pl/93/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F125
 [/us/stat/87/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F450
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624

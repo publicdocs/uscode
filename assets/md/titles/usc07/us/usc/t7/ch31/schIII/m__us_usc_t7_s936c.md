@@ -125,7 +125,7 @@
 
             The option provided under paragraph (1) shall not be available in the case of any loan or loan advance, or portion thereof, unless a written request to exercise such option is sent to the Secretary not later than 1 year after the effective date of regulations issued to carry out the Rural Electrification Loan Restructuring Act of 1993.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306C, as added [Pub. L. 103–66, title I, § 1201(a)][/us/pl/103/66/s1201/a], Aug. 10, 1993, [107 Stat. 327][/us/stat/107/327]; amended [Pub. L. 103–129, § 2(c)(10)][/us/pl/103/129/s2/c/10], Nov. 1, 1993, [107 Stat. 1365][/us/stat/107/1365]; [Pub. L. 103–354, title II, § 235(a)(13)][/us/pl/103/354/s235/a/13], Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 306C, as added [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1201(a), Aug. 10, 1993, [107 Stat. 327][/us/stat/107/327]; amended [Pub. L. 103–129][/us/pl/103/129], § 2(c)(10), Nov. 1, 1993, [107 Stat. 1365][/us/stat/107/1365]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221].)
 
  __References in Text__ 
 
@@ -135,13 +135,13 @@
 
     1994—Subsecs. (b)(3)(A)(ii), (d)(4). [Pub. L. 103–354][/us/pl/103/354] substituted “Secretary” for “Administrator”.
 
-    1993—Subsec. (c)(2). [Pub. L. 103–129, § 2(c)(10)(A)][/us/pl/103/129/s2/c/10/A], inserted before period at end “, except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section”.
+    1993—Subsec. (c)(2). [Pub. L. 103–129][/us/pl/103/129], § 2(c)(10)(A), inserted before period at end “, except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section”.
 
-    Subsec. (d). [Pub. L. 103–129, § 2(c)(10)(B)][/us/pl/103/129/s2/c/10/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–129][/us/pl/103/129], § 2(c)(10)(B), added subsec. (d).
 
  __Regulations__ 
 
-[Pub. L. 103–66, title I, § 1201(b)][/us/pl/103/66/s1201/b], Aug. 10, 1993, [107 Stat. 330][/us/stat/107/330], provided that: 
+[Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1201(b), Aug. 10, 1993, [107 Stat. 330][/us/stat/107/330], provided that: 
 
 > “Not later than 45 days after the date of enactment of this section \[Aug. 10, 1993\], the Administrator of the Rural Electrification Administration shall issue interim final regulations to carry out the amendment made by subsection (a) \[enacting this section\].”
 
@@ -155,11 +155,11 @@
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 [/us/usc/t7/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs936
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/103/66/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1201%2Fa
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F327
-[/us/pl/103/129/s2/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F10
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1365
-[/us/pl/103/354/s235/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F13
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1356
@@ -167,9 +167,9 @@
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/129/s2/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F10%2FA
-[/us/pl/103/129/s2/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F10%2FB
-[/us/pl/103/66/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1201%2Fb
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F330
 
 

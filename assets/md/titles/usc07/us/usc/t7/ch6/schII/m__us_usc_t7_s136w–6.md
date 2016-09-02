@@ -19,7 +19,7 @@
 
     (b) The Office of Pesticide Programs shall prepare a public report concerning the progress made on the registration of minor uses, including implementation of the exclusive use as an incentive for registering new minor uses, within 3 years of the passage of the Food Quality Protection Act of 1996.
 
-([June 25, 1947, ch. 125, § 31][/us/act/1947-06-25/ch125/s31], as added [Pub. L. 104–170, title II, § 210(i)][/us/pl/104/170/s210/i], Aug. 3, 1996, [110 Stat. 1500][/us/stat/110/1500].)
+([June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], § 31, as added [Pub. L. 104–170, title II][/us/pl/104/170/tII], § 210(i), Aug. 3, 1996, [110 Stat. 1500][/us/stat/110/1500].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1947-06-25/ch125/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125%2Fs31
-[/us/pl/104/170/s210/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs210%2Fi
+[/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
+[/us/pl/104/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtII
 [/us/stat/110/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1500
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125

@@ -55,11 +55,11 @@
 
         The term “person” as used in this section shall include the singular and the plural and any individual, partnership, corporation, association, or any other organized group of persons.
 
-([Oct. 27, 1949, ch. 772, § 3][/us/act/1949-10-27/ch772/s3], [63 Stat. 946][/us/stat/63/946]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(27), title XI, § 1106(a), [63 Stat. 956][/us/stat/63/956], 972.)
+([Oct. 27, 1949, ch. 772][/us/act/1949-10-27/ch772], § 3, [63 Stat. 946][/us/stat/63/946]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(27), title XI, § 1106(a), [63 Stat. 956][/us/stat/63/956], 972.)
 
  __References in Text__ 
 
-    Section 607(g) of the Federal Employees Pay Act of 1945, as amended, referred to in subsec. (h), was repealed by [act Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301 (85), [64 Stat. 843][/us/stat/64/843].
+    Section 607(g) of the Federal Employees Pay Act of 1945, as amended, referred to in subsec. (h), was repealed by [act Sept. 12, 1950, ch. 946, title III][/us/act/1950-09-12/ch946/tIII], § 301 (85), [64 Stat. 843][/us/stat/64/843].
 
     The Administrative Procedure Act, referred to in subsec. (i), is [act June 11, 1946, ch. 324][/us/act/1946-06-11/ch324], [60 Stat. 237][/us/stat/60/237], as amended, which was repealed and reenacted as subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378], which enacted Title 5. Sections 3 and 10 thereof are covered by section 552 and chapter 7, respectively, of Title 5.
 
@@ -67,7 +67,7 @@
 
     The words “and the District Court of the United States for the District of Columbia” in subsection (e) following “district courts of the United States” have been deleted as superfluous in view of section 132 (a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of said Title 28 which states that “The District of Columbia constitutes one judicial district”.
 
-    In subsec. (h), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (h), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -90,17 +90,17 @@
 
 [/us/usc/t5/s947/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs947%2Fg
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
-[/us/act/1949-10-27/ch772/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch772%2Fs3
+[/us/act/1949-10-27/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch772
 [/us/stat/63/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F946
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F956
-[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
+[/us/act/1950-09-12/ch946/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2FtIII
 [/us/stat/64/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F843
 [/us/act/1946-06-11/ch324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch324
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

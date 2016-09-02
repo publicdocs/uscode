@@ -51,7 +51,7 @@
 
         The Governor of the telephone bank may invest in obligations of the United States the amounts in the account in the Treasury of the United States numbered 12X8139 (known as the “RTB Equity Fund”).
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 406, as added [Pub. L. 92–12, § 2][/us/pl/92/12/s2], May 7, 1971, [85 Stat. 33][/us/stat/85/33]; amended [Pub. L. 93–32, § 5][/us/pl/93/32/s5], May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 94–273, § 2(2)][/us/pl/94/273/s2/2], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 97–98, title XVI, § 1607][/us/pl/97/98/s1607], Dec. 22, 1981, [95 Stat. 1347][/us/stat/95/1347]; [Pub. L. 100–203, title I, § 1413(a)][/us/pl/100/203/s1413/a], (c), Dec. 22, 1987, [101 Stat. 1330–26][/us/stat/101/1330-26]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2364, 2367(a), Nov. 28, 1990, [104 Stat. 4044][/us/stat/104/4044]; [Pub. L. 103–129, § 2(c)(9)][/us/pl/103/129/s2/c/9], Nov. 1, 1993, [107 Stat. 1365][/us/stat/107/1365]; [Pub. L. 103–354, title II, § 235(a)(11)][/us/pl/103/354/s235/a/11], (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII, § 772(b)(3)][/us/pl/104/127/s772/b/3], Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title IV, § 406, as added [Pub. L. 92–12][/us/pl/92/12], § 2, May 7, 1971, [85 Stat. 33][/us/stat/85/33]; amended [Pub. L. 93–32][/us/pl/93/32], § 5, May 11, 1973, [87 Stat. 70][/us/stat/87/70]; [Pub. L. 94–273][/us/pl/94/273], § 2(2), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 97–98, title XVI][/us/pl/97/98/tXVI], § 1607, Dec. 22, 1981, [95 Stat. 1347][/us/stat/95/1347]; [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1413(a), (c), Dec. 22, 1987, [101 Stat. 1330–26][/us/stat/101/1330-26]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], §§ 2364, 2367(a), Nov. 28, 1990, [104 Stat. 4044][/us/stat/104/4044]; [Pub. L. 103–129][/us/pl/103/129], § 2(c)(9), Nov. 1, 1993, [107 Stat. 1365][/us/stat/107/1365]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 235(a)(11), (13), Oct. 13, 1994, [108 Stat. 3221][/us/stat/108/3221]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 772(b)(3), Apr. 4, 1996, [110 Stat. 1149][/us/stat/110/1149].)
 
  __References in Text__ 
 
@@ -65,17 +65,17 @@
 
     1993—Subsec. (i). [Pub. L. 103–129][/us/pl/103/129] added subsec. (i).
 
-    1990—Subsec. (d). [Pub. L. 101–624, § 2364][/us/pl/101/624/s2364], inserted before period at end of second sentence “, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
+    1990—Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 2364, inserted before period at end of second sentence “, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
 
-    Subsec. (h). [Pub. L. 101–624, § 2367(a)][/us/pl/101/624/s2367/a], inserted after second sentence “All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies.” and substituted “Omnibus Budget Reconciliation” for “Rural Telephone Bank Borrowers Fairness”.
+    Subsec. (h). [Pub. L. 101–624][/us/pl/101/624], § 2367(a), inserted after second sentence “All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies.” and substituted “Omnibus Budget Reconciliation” for “Rural Telephone Bank Borrowers Fairness”.
 
-    1987—Subsec. (g). [Pub. L. 100–203, § 1413(c)][/us/pl/100/203/s1413/c], substituted “the reserve for loan losses” for “reserves for losses”, and inserted at end “The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.”
+    1987—Subsec. (g). [Pub. L. 100–203][/us/pl/100/203], § 1413(c), substituted “the reserve for loan losses” for “reserves for losses”, and inserted at end “The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.”
 
-    Subsec. (h). [Pub. L. 100–203, § 1413(a)][/us/pl/100/203/s1413/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 100–203][/us/pl/100/203], § 1413(a), added subsec. (h).
 
-    1981—Subsec (a). [Pub. L. 97–98, § 1607(1)][/us/pl/97/98/s1607/1], inserted “but not later than fiscal year 1991” after “thereafter,” and substituted “$600,000” for “$300,000”.
+    1981—Subsec (a). [Pub. L. 97–98][/us/pl/97/98], § 1607(1), inserted “but not later than fiscal year 1991” after “thereafter,” and substituted “$600,000” for “$300,000”.
 
-    Subsec. (c). [Pub. L. 97–98, § 1607(2)][/us/pl/97/98/s1607/2], substituted “September 30, 1995” for “September 30, 1985”, and struck out “and after the amount of class A and class B stock totals $400,000,000” after “said date”.
+    Subsec. (c). [Pub. L. 97–98][/us/pl/97/98], § 1607(2), substituted “September 30, 1995” for “September 30, 1985”, and struck out “and after the amount of class A and class B stock totals $400,000,000” after “said date”.
 
     1976—Subsec. (c). [Pub. L. 94–273][/us/pl/94/273] substituted “September” for “June”.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XXIII, § 2368][/us/pl/101/624/s2368], Nov. 28, 1990, [104 Stat. 4045][/us/stat/104/4045], provided that:
+[Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2368, Nov. 28, 1990, [104 Stat. 4045][/us/stat/104/4045], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -121,23 +121,23 @@
 [/us/usc/t7/s948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948
 [/us/usc/t7/s948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs948
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
-[/us/pl/92/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12%2Fs2
+[/us/pl/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F12
 [/us/stat/85/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F33
-[/us/pl/93/32/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32%2Fs5
+[/us/pl/93/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F32
 [/us/stat/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F70
-[/us/pl/94/273/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/pl/97/98/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1607
+[/us/pl/97/98/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVI
 [/us/stat/95/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1347
-[/us/pl/100/203/s1413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1413%2Fa
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-26
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4044
-[/us/pl/103/129/s2/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129%2Fs2%2Fc%2F9
+[/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
 [/us/stat/107/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1365
-[/us/pl/103/354/s235/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs235%2Fa%2F11
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3221
-[/us/pl/104/127/s772/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs772%2Fb%2F3
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1149
 [/us/pl/100/203/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1413%2Fb
 [/us/stat/101/1330-26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-26
@@ -145,17 +145,17 @@
 [/us/usc/t7/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs903%2Fa
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F129
-[/us/pl/101/624/s2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2364
-[/us/pl/101/624/s2367/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2367%2Fa
-[/us/pl/100/203/s1413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1413%2Fc
-[/us/pl/100/203/s1413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1413%2Fa
-[/us/pl/97/98/s1607/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1607%2F1
-[/us/pl/97/98/s1607/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1607%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/93/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F92
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/101/624/s2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2368
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4045
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901

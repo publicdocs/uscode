@@ -27,7 +27,7 @@
 
     (5) the development of techniques and equipment to assist consumers in the home or in institutions in selecting food that supplies a nutritionally adequate diet.
 
-([Pub. L. 95–113, title XIV, § 1422][/us/pl/95/113/s1422], Sept. 29, 1977, [91 Stat. 999][/us/stat/91/999].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1422, Sept. 29, 1977, [91 Stat. 999][/us/stat/91/999].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1422
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F999
 
 

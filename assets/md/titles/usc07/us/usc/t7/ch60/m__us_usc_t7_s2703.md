@@ -17,11 +17,11 @@
 
     To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to persons engaged in the hatching and/or sale of egg-type baby chicks and started pullets, persons engaged in the production of commercial eggs and persons who receive or otherwise acquire eggs from such persons and who process, prepare for market, or market such eggs, including eggs of their own production, and persons engaged in the purchase, sale or processing of spent fowl. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-([Pub. L. 93–428, § 4][/us/pl/93/428/s4], Oct. 1, 1974, [88 Stat. 1172][/us/stat/88/1172].)
+([Pub. L. 93–428][/us/pl/93/428], § 4, Oct. 1, 1974, [88 Stat. 1172][/us/stat/88/1172].)
 
  __Amendment of Egg Promotion and Research Order__ 
 
-[Pub. L. 103–188, § 5][/us/pl/103/188/s5], Dec. 14, 1993, [107 Stat. 2257][/us/stat/107/2257], provided that: 
+[Pub. L. 103–188][/us/pl/103/188], § 5, Dec. 14, 1993, [107 Stat. 2257][/us/stat/107/2257], provided that: 
 
 > “Notwithstanding any other provision of law:
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/93/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428%2Fs4
+[/us/pl/93/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F428
 [/us/stat/88/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1172
-[/us/pl/103/188/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188%2Fs5
+[/us/pl/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F188
 [/us/stat/107/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2257
 [/us/usc/t7/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2701
 [/us/usc/t7/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2701

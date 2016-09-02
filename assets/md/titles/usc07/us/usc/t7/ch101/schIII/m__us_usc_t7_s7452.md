@@ -23,7 +23,7 @@
 
         Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.
 
-([Pub. L. 104–127, title V, § 543][/us/pl/104/127/s543], Apr. 4, 1996, [110 Stat. 1063][/us/stat/110/1063].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 543, Apr. 4, 1996, [110 Stat. 1063][/us/stat/110/1063].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs543
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1063
 
 

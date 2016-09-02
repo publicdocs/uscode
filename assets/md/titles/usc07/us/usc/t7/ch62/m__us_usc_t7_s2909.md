@@ -17,7 +17,7 @@
 
     The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this chapter or to determine whether any person subject to this chapter has engaged or is about to engage in any act that constitutes or will constitute a violation of this chapter, the order, or any rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpoena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of the person and the production of records. The court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony regarding the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. Process in any such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
-([Pub. L. 94–294, § 10][/us/pl/94/294/s10], May 28, 1976, [90 Stat. 535][/us/stat/90/535]; [Pub. L. 99–198, title XVI, § 1601(b)][/us/pl/99/198/s1601/b], Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606].)
+([Pub. L. 94–294][/us/pl/94/294], § 10, May 28, 1976, [90 Stat. 535][/us/stat/90/535]; [Pub. L. 99–198, title XVI][/us/pl/99/198/tXVI], § 1601(b), Dec. 23, 1985, [99 Stat. 1606][/us/stat/99/1606].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/94/294/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294%2Fs10
+[/us/pl/94/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F294
 [/us/stat/90/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F535
-[/us/pl/99/198/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1601%2Fb
+[/us/pl/99/198/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVI
 [/us/stat/99/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1606
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198

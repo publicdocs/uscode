@@ -17,7 +17,7 @@
 
     Funds appropriated for the purpose of making direct real estate loans to farmers and ranchers under this subchapter shall remain available until expended.
 
-([Pub. L. 87–128, title III, § 310][/us/pl/87/128/s310], as added [Pub. L. 91–524, title VIII, § 806(b)][/us/pl/91/524/s806/b], Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 310, as added [Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 806(b), Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/128/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs310
-[/us/pl/91/524/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs806%2Fb
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/stat/84/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1383
 
 

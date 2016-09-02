@@ -17,7 +17,7 @@
 
     In addition to any other authority, the Secretary of Agriculture may make available to an organization excess or surplus computers or other technical equipment of the Department of Agriculture for the purposes of distribution to a city, town, or local government entity in a rural area (as defined in [section 1991(a)(13)(A) of this title][/us/usc/t7/s1991/a/13/A]).
 
-([Pub. L. 110–234, title XIV, § 14220][/us/pl/110/234/s14220], May 22, 2008, [122 Stat. 1483][/us/stat/122/1483]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14220, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14220, May 22, 2008, [122 Stat. 1483][/us/stat/122/1483]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14220, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245.)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t7/s1991/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fa%2F13%2FA
-[/us/pl/110/234/s14220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14220
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1483
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

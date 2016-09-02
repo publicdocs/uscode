@@ -41,15 +41,15 @@
 
         The Secretary shall carry out the special program through the Commodity Credit Corporation.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 109, as added [Pub. L. 95–113, title X, § 1004][/us/pl/95/113/s1004], Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950]; amended [Pub. L. 97–98, title XI, § 1110][/us/pl/97/98/s1110], Dec. 22, 1981, [95 Stat. 1267][/us/stat/95/1267]; [Pub. L. 99–198, title X, § 1015][/us/pl/99/198/s1015], Dec. 23, 1985, [99 Stat. 1457][/us/stat/99/1457].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 109, as added [Pub. L. 95–113, title X][/us/pl/95/113/tX], § 1004, Sept. 29, 1977, [91 Stat. 950][/us/stat/91/950]; amended [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1110, Dec. 22, 1981, [95 Stat. 1267][/us/stat/95/1267]; [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1015, Dec. 23, 1985, [99 Stat. 1457][/us/stat/99/1457].)
 
  __Amendments__ 
 
     1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198] substituted “1990” for “1985”.
 
-    1981—Subsec. (a). [Pub. L. 97–98, § 1110(1)][/us/pl/97/98/s1110/1], (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
+    1981—Subsec. (a). [Pub. L. 97–98][/us/pl/97/98], § 1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
 
-    Subsec. (d). [Pub. L. 97–98, § 1110(3)][/us/pl/97/98/s1110/3], inserted “, reduced acreage, or land diversion”.
+    Subsec. (d). [Pub. L. 97–98][/us/pl/97/98], § 1110(3), inserted “, reduced acreage, or land diversion”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/95/113/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1004
+[/us/pl/95/113/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtX
 [/us/stat/91/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F950
-[/us/pl/97/98/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1110
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1267
-[/us/pl/99/198/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1015
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1457
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/98/s1110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1110%2F1
-[/us/pl/97/98/s1110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1110%2F3
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301

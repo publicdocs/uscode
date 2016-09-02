@@ -23,7 +23,7 @@
 
         The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 10, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 10, as added [Pub. L. 106–472, title II][/us/pl/106/472/tII], § 201, Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
 
  __Prior Provisions__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
-[/us/pl/106/472/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs201
+[/us/pl/106/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtII
 [/us/stat/114/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2065
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F487

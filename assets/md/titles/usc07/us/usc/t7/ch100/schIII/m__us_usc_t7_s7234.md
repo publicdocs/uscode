@@ -81,7 +81,7 @@
 
             (B) the Northern Europe price.
 
-([Pub. L. 104–127, title I, § 134][/us/pl/104/127/s134], Apr. 4, 1996, [110 Stat. 908][/us/stat/110/908].)
+([Pub. L. 104–127, title I][/us/pl/104/127/tI], § 134, Apr. 4, 1996, [110 Stat. 908][/us/stat/110/908].)
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t7/s7232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7232
 [/us/usc/t7/s7236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7236
 [/us/usc/t7/s7232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7232
-[/us/pl/104/127/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs134
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F908
 
 

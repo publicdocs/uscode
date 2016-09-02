@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch52/m__us_usc_t7_ch52.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_s2101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch53)
+[Previous](./../../../..//us/usc/t7/ch52/m__us_usc_t7_s2041...2055.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_s2101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch53)
 
 ## CHAPTER 53—COTTON RESEARCH AND PROMOTION
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch52/m__us_usc_t7_ch52.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_s2101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch53)
+[Previous](./../../../..//us/usc/t7/ch52/m__us_usc_t7_s2041...2055.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_s2101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch53)
 
 ----------
 ----------

@@ -59,7 +59,7 @@
 
         (5) the term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 97–98, title XV, § 1540][/us/pl/97/98/s1540], Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1540, Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–98, title XV, § 1549][/us/pl/97/98/s1549], Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344], provided that: 
+[Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1549, Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344], provided that: 
 
 > “The provisions of this subtitle \[subtitle I (§§ 1539–1549) of title XV of [Pub. L. 97–98][/us/pl/97/98], enacting this chapter\] shall become effective six months after the date of enactment of this Act \[Dec. 22, 1981\].”
 
  __Short Title__ 
 
-[Pub. L. 97–98, title XV, § 1539][/us/pl/97/98/s1539], Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341], provided that: 
+[Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1539, Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341], provided that: 
 
 > “This subtitle \[subtitle I (§§ 1539–1549) of title XV of [Pub. L. 97–98][/us/pl/97/98], enacting this chapter\] may be cited as the ‘Farmland Protection Policy Act’.”
 
@@ -83,7 +83,7 @@
 
  __Farmland Protection__ 
 
-[Pub. L. 101–624, title XIV][/us/pl/101/624], ch. 2, §§ 1465–1470B, Nov. 28, 1990, [104 Stat. 3616–3619][/us/stat/104/3616-3619], as amended by [Pub. L. 102–237, title II][/us/pl/102/237], §§ 201(b), (c), 203, Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847], 1848, provided that:
+[Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], ch. 2, §§ 1465–1470B, Nov. 28, 1990, [104 Stat. 3616–3619][/us/stat/104/3616-3619], as amended by [Pub. L. 102–237, title II][/us/pl/102/237/tII], §§ 201(b), (c), 203, Dec. 13, 1991, [105 Stat. 1847][/us/stat/105/1847], 1848, provided that:
 
 > “SEC. 1465. __SHORT TITLE, PURPOSE, AND DEFINITION.__ 
 
@@ -339,7 +339,7 @@
 
     \[Amendment by section 201(b), (c) of [Pub. L. 102–237][/us/pl/102/237] to sections 1466 and 1470 of [Pub. L. 101–624][/us/pl/101/624], set out above, effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, [Pub. L. 101–624][/us/pl/101/624], to which the amendment relates, see [section 1101(b)(1) of Pub. L. 102–237][/us/pl/102/237/s1101/b/1], set out as an Effective Date of 1991 Amendment note under [section 1421 of this title][/us/usc/t7/s1421].\]
 
-[Pub. L. 102–341, title VII, § 730][/us/pl/102/341/s730], Aug. 14, 1992, [106 Stat. 909][/us/stat/106/909], provided that: 
+[Pub. L. 102–341, title VII][/us/pl/102/341/tVII], § 730, Aug. 14, 1992, [106 Stat. 909][/us/stat/106/909], provided that: 
 
 > “For loan guarantees authorized under sections 1465–1469 of [Public Law 101–624][/us/pl/101/624] \[set out above\] for the Agricultural Resource Conservation Demonstration Program, $10,000,000. For the cost, as defined in section 502 of the Congressional Budget Act of 1974 \[[2 U.S.C. 661a][/us/usc/t2/s661a]\], $3,644,000: Provided, That, hereafter, no other funds are available in this or any other Act to carry out this program, other than those provided for in advance in Appropriations Acts, except for the cost of administering the program: Provided further, That such limitation shall not apply with respect to the duties and obligations of the Secretary regarding any loan or note guarantees, interest assistance agreements, or other understandings entered into during fiscal year 1992, and the personnel of the Department shall carry out the duties and obligations of the Secretary, and any other requirements imposed on the Secretary regarding such Agricultural Resource Conservation Demonstration Loan Program with respect to the loan made and guaranteed in 1992.”
 
@@ -350,18 +350,18 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1540
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1341
-[/us/pl/97/98/s1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1549
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
-[/us/pl/97/98/s1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1539
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1341
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3616-3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3616-3619
-[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1847
 [/us/usc/t7/s1946/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1946%2Fa%2F2
 [/us/usc/t7/s1929/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1929%2Fc
@@ -371,7 +371,7 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/102/237/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fb%2F1
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/102/341/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2Fs730
+[/us/pl/102/341/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2FtVII
 [/us/stat/106/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F909
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a

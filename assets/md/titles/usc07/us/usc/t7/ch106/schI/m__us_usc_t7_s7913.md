@@ -69,7 +69,7 @@
 
             If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
 
-([Pub. L. 107–171, title I, § 1103][/us/pl/107/171/s1103], May 13, 2002, [116 Stat. 149][/us/stat/116/149]; [Pub. L. 109–171, title I, § 1102(a)][/us/pl/109/171/s1102/a], Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5].)
+([Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1103, May 13, 2002, [116 Stat. 149][/us/stat/116/149]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1102(a), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5].)
 
  __Amendments__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/107/171/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1103
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F149
-[/us/pl/109/171/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1102%2Fa
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F5
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 

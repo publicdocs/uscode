@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch40/m__us_usc_t7_ch40.md) | [Next](./../../../..//us/usc/t7/ch41/m__us_usc_t7_s1691.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41)
+[Previous](./../../../..//us/usc/t7/ch40/m__us_usc_t7_s1651...1656.md) | [Next](./../../../..//us/usc/t7/ch41/m__us_usc_t7_s1691.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41)
 
 ## CHAPTER 41—FOOD FOR PEACE
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—GENERAL AUTHORITIES AND REQUIREMENTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736" data-uslm-ref="/us/usc/t7/s1736">1736</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736l" data-uslm-ref="/us/usc/t7/s1736l">1736l.</a>  </td>
 
     <td> Consultation on grain marketing.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—GENERAL AUTHORITIES AND REQUIREMENTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736" data-uslm-ref="/us/usc/t7/s1736">1736</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736o" data-uslm-ref="/us/usc/t7/s1736o">1736o.</a>  </td>
 
     <td> Food for progress.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—GENERAL AUTHORITIES AND REQUIREMENTS  </td>
 
   <tr>
 
-    <td> § <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736" data-uslm-ref="/us/usc/t7/s1736">1736</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1736o" data-uslm-ref="/us/usc/t7/s1736o">1736o</a>–1.  </td>
 
     <td> McGovern-Dole International Food for Education and Child Nutrition Program.  </td>
 
@@ -689,7 +689,7 @@ SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1738" data-uslm-ref="/us/usc/t7/s1738">1738</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1738l" data-uslm-ref="/us/usc/t7/s1738l">1738l.</a>  </td>
 
     <td> Encouraging multilateral debt donations.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1738" data-uslm-ref="/us/usc/t7/s1738">1738</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1738o" data-uslm-ref="/us/usc/t7/s1738o">1738o.</a>  </td>
 
     <td> Sale of qualified debt to eligible countries.  </td>
 
@@ -747,7 +747,7 @@ SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch40/m__us_usc_t7_ch40.md) | [Next](./../../../..//us/usc/t7/ch41/m__us_usc_t7_s1691.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41)
+[Previous](./../../../..//us/usc/t7/ch40/m__us_usc_t7_s1651...1656.md) | [Next](./../../../..//us/usc/t7/ch41/m__us_usc_t7_s1691.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41)
 
 ----------
 ----------

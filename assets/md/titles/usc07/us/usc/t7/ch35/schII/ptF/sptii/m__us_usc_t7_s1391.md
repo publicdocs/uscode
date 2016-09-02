@@ -21,7 +21,7 @@
 
     (c) During each fiscal year, beginning with the fiscal year ending June 30, 1941, the Commodity Credit Corporation is authorized and directed to loan to the Secretary such sums, not to exceed $50,000,000, as he estimates will be required during such fiscal year, to make crop insurance premium advances and to make advances pursuant to the applicable provisions of sections 590h and 590l of title 16, in connection with programs applicable to crops harvested in the calendar year in which such fiscal year ends, and to pay the administrative expenses of county agricultural conservation associations for the calendar year in which such fiscal year ends. The sums so loaned during any fiscal year shall be transferred to the current appropriation available for carrying out sections 590g, 590h, 590i, and 590j to 590q of title 16 and shall be repaid, with interest at a rate to be determined by the Secretary but not less than the cost of money to the Commodity Credit Corporation for a comparable period, during the succeeding fiscal year from the appropriation available for that year or from any unobligated balance of the appropriation for any other year.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 391, [52 Stat. 69][/us/stat/52/69]; [July 2, 1940, ch. 521, § 8][/us/act/1940-07-02/ch521/s8], [54 Stat. 728][/us/stat/54/728].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 391, [52 Stat. 69][/us/stat/52/69]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], § 8, [54 Stat. 728][/us/stat/54/728].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F69
-[/us/act/1940-07-02/ch521/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs8
+[/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F728
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

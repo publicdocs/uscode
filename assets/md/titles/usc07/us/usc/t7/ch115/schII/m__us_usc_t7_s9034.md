@@ -143,7 +143,7 @@
 
             Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
 
-([Pub. L. 113–79, title I, § 1204][/us/pl/113/79/s1204], Feb. 7, 2014, [128 Stat. 676][/us/stat/128/676].)
+([Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1204, Feb. 7, 2014, [128 Stat. 676][/us/stat/128/676].)
 
 ----------
 
@@ -168,7 +168,7 @@
 [/us/usc/t7/s9032/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9032%2Fa%2F20
 [/us/usc/t7/s7283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7283
 [/us/usc/t7/s9031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9031
-[/us/pl/113/79/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1204
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F676
 
 

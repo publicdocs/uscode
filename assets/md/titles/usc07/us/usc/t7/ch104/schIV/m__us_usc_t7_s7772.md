@@ -27,7 +27,7 @@
 
         The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and making any payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-([Pub. L. 106–224, title IV, § 442][/us/pl/106/224/s442], June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–171, title VII, § 7504(b)][/us/pl/107/171/s7504/b], May 13, 2002, [116 Stat. 466][/us/stat/116/466]; [Pub. L. 110–234, title X, § 10203(b)][/us/pl/110/234/s10203/b], May 22, 2008, [122 Stat. 1342][/us/stat/122/1342]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10203(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 442, June 20, 2000, [114 Stat. 455][/us/stat/114/455]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7504(b), May 13, 2002, [116 Stat. 466][/us/stat/116/466]; [Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10203(b), May 22, 2008, [122 Stat. 1342][/us/stat/122/1342]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10203(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2104.)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
-    Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in [section 129 of Title 21][/us/usc/t21/s129], Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in [section 129a of Title 21][/us/usc/t21/s129a], prior to repeal by [Pub. L. 107–171, title X, § 10418(a)(1)][/us/pl/107/171/s10418/a/1], May 13, 2002, [116 Stat. 507][/us/stat/116/507].
+    Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in [section 129 of Title 21][/us/usc/t21/s129], Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in [section 129a of Title 21][/us/usc/t21/s129a], prior to repeal by [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(a)(1), May 13, 2002, [116 Stat. 507][/us/stat/116/507].
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–246, § 10203(b)][/us/pl/110/246/s10203/b], struck out “of longer than 60 days” after “review”.
+    2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 10203(b), struck out “of longer than 60 days” after “review”.
 
     2002—Subsec. (c). [Pub. L. 107–171][/us/pl/107/171] added subsec. (c).
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/106/224/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs442
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F455
-[/us/pl/107/171/s7504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7504%2Fb
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F466
-[/us/pl/110/234/s10203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10203%2Fb
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1342
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F358
@@ -82,9 +82,9 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t21/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs129
 [/us/usc/t21/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs129a
-[/us/pl/107/171/s10418/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa%2F1
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
-[/us/pl/110/246/s10203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10203%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

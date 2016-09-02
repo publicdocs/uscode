@@ -31,7 +31,7 @@
 
         The Secretary is authorized to cooperate with and assist cooperative associations of farmers making complaint to the Surface Transportation Board with respect to rates, charges, tariffs, and practices relating to the transportation of farm products.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title II, § 201, [52 Stat. 36][/us/stat/52/36]; [Pub. L. 104–88, title III, § 311][/us/pl/104/88/s311], Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title II, § 201, [52 Stat. 36][/us/stat/52/36]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 311, Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
 
  __Amendments__ 
 
@@ -50,7 +50,7 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F36
-[/us/pl/104/88/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs311
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

@@ -99,7 +99,7 @@
 
         (4) the mediation session.
 
-([Pub. L. 100–233, title V, § 501][/us/pl/100/233/s501], Jan. 6, 1988, [101 Stat. 1662][/us/stat/101/1662]; [Pub. L. 100–399, title V, § 501][/us/pl/100/399/s501], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 103–354, title II, § 282(a)][/us/pl/103/354/s282/a], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 106–472, title III, § 306(a)][/us/pl/106/472/s306/a], Nov. 9, 2000, [114 Stat. 2072][/us/stat/114/2072].)
+([Pub. L. 100–233, title V][/us/pl/100/233/tV], § 501, Jan. 6, 1988, [101 Stat. 1662][/us/stat/101/1662]; [Pub. L. 100–399, title V][/us/pl/100/399/tV], § 501, Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 282(a), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]; [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 306(a), Nov. 9, 2000, [114 Stat. 2072][/us/stat/114/2072].)
 
  __References in Text__ 
 
@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c)(1), (2). [Pub. L. 106–472, § 306(a)(1)][/us/pl/106/472/s306/a/1], added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
+    2000—Subsec. (c)(1), (2). [Pub. L. 106–472][/us/pl/106/472], § 306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
 
-    Subsec. (d). [Pub. L. 106–472, § 306(a)(2)][/us/pl/106/472/s306/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–472][/us/pl/106/472], § 306(a)(2), added subsec. (d).
 
-    1994—Subsec. (a). [Pub. L. 103–354, § 282(a)(1)][/us/pl/103/354/s282/a/1], substituted “a mediation program” for “an agricultural loan mediation program”.
+    1994—Subsec. (a). [Pub. L. 103–354][/us/pl/103/354], § 282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
 
-    Subsec. (b). [Pub. L. 103–354, § 282(a)(2)][/us/pl/103/354/s282/a/2], struck out “agricultural loan” before “mediation program”.
+    Subsec. (b). [Pub. L. 103–354][/us/pl/103/354], § 282(a)(2), struck out “agricultural loan” before “mediation program”.
 
-    Subsec. (c). [Pub. L. 103–354, § 282(a)(3)][/us/pl/103/354/s282/a/3], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
+    Subsec. (c). [Pub. L. 103–354][/us/pl/103/354], § 282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
 
     “(1) provides for mediation services to be provided to producers, and their creditors, that, if decisions are reached, result in mediated, mutually agreeable decisions between parties under an agricultural loan mediation program;
 
@@ -135,7 +135,7 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–233, § 1][/us/pl/111/233/s1], Aug. 16, 2010, [124 Stat. 2493][/us/stat/124/2493], provided that: 
+[Pub. L. 111–233][/us/pl/111/233], § 1, Aug. 16, 2010, [124 Stat. 2493][/us/stat/124/2493], provided that: 
 
 > “This Act \[amending [section 5106 of this title][/us/usc/t7/s5106]\] may be cited as the ‘Agricultural Credit Act of 2010’.”
 
@@ -147,27 +147,27 @@
 ----------
 
 [/us/usc/t7/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5103
-[/us/pl/100/233/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs501
+[/us/pl/100/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtV
 [/us/stat/101/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1662
-[/us/pl/100/399/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs501
+[/us/pl/100/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtV
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/103/354/s282/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fa
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
-[/us/pl/106/472/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs306%2Fa
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2072
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/stat/101/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1568
-[/us/pl/106/472/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs306%2Fa%2F1
-[/us/pl/106/472/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs306%2Fa%2F2
-[/us/pl/103/354/s282/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fa%2F1
-[/us/pl/103/354/s282/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fa%2F2
-[/us/pl/103/354/s282/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs282%2Fa%2F3
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
+[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/111/233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F233%2Fs1
+[/us/pl/111/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F233
 [/us/stat/124/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2493
 [/us/usc/t7/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5106
 

@@ -105,7 +105,7 @@
 
         The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: Provided, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
-([Sept. 21, 1922, ch. 369, § 22][/us/act/1922-09-21/ch369/s22], as added [Pub. L. 97–444, title II, § 235][/us/pl/97/444/s235], Jan. 11, 1983, [96 Stat. 2322][/us/stat/96/2322]; amended [Pub. L. 102–546, title II][/us/pl/102/546], §§ 211, 222(d), title IV, § 402(14), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3616, 3625; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 120, 123(a)(25)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404, 2763A–410; [Pub. L. 110–234, title XIII][/us/pl/110/234], §§ 13105(i), 13203(n), May 22, 2008, [122 Stat. 1435][/us/stat/122/1435], 1441; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, §§ 13105(i), 13203(n), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2197, 2203; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 738(c), 739, 749(h), 753(c), July 21, 2010, [124 Stat. 1728][/us/stat/124/1728], 1729, 1748, 1754.)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 22, as added [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 235, Jan. 11, 1983, [96 Stat. 2322][/us/stat/96/2322]; amended [Pub. L. 102–546, title II][/us/pl/102/546/tII], §§ 211, 222(d), title IV, § 402(14), Oct. 28, 1992, [106 Stat. 3607][/us/stat/106/3607], 3616, 3625; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, §§ 120, 123(a)(25)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–404, 2763A–410; [Pub. L. 110–234, title XIII][/us/pl/110/234/tXIII], §§ 13105(i), 13203(n), May 22, 2008, [122 Stat. 1435][/us/stat/122/1435], 1441; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIII, §§ 13105(i), 13203(n), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2197, 2203; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 738(c), 739, 749(h), 753(c), July 21, 2010, [124 Stat. 1728][/us/stat/124/1728], 1729, 1748, 1754.)
 
  __References in Text__ 
 
@@ -119,49 +119,49 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(B). [Pub. L. 111–203, § 749(h)(1)(B)][/us/pl/111/203/s749/h/1/B], which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
+    2010—Subsec. (a)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 749(h)(1)(B), which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 749(h)(1)(A)][/us/pl/111/203/s749/h/1/A], inserted “or any swap” after “commodity)”.
+    [Pub. L. 111–203][/us/pl/111/203], § 749(h)(1)(A), inserted “or any swap” after “commodity)”.
 
-    Subsec. (a)(1)(C)(iv). [Pub. L. 111–203, § 749(h)(2)][/us/pl/111/203/s749/h/2], added cl. (iv).
+    Subsec. (a)(1)(C)(iv). [Pub. L. 111–203][/us/pl/111/203], § 749(h)(2), added cl. (iv).
 
-    Subsec. (a)(1)(D). [Pub. L. 111–203, § 753(c)][/us/pl/111/203/s753/c], added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
+    Subsec. (a)(1)(D). [Pub. L. 111–203][/us/pl/111/203], § 753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
 
-    Subsec. (a)(4), (5). [Pub. L. 111–203, § 739][/us/pl/111/203/s739], added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
+    Subsec. (a)(4), (5). [Pub. L. 111–203][/us/pl/111/203], § 739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
 
-    Subsec. (a)(6). [Pub. L. 111–203, § 738(c)][/us/pl/111/203/s738/c], added par. (6).
+    Subsec. (a)(6). [Pub. L. 111–203][/us/pl/111/203], § 738(c), added par. (6).
 
-    Subsec. (b)(1)(A). [Pub. L. 111–203, § 749(h)(3)][/us/pl/111/203/s749/h/3], substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “[section 2(h)(7) of this title][/us/usc/t7/s2/h/7] or sections 7 through 7a–2 of this title”.
+    Subsec. (b)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 749(h)(3), substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “[section 2(h)(7) of this title][/us/usc/t7/s2/h/7] or sections 7 through 7a–2 of this title”.
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 13105(i)][/us/pl/110/246/s13105/i], substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
 
-    Subsec. (b)(1)(A). [Pub. L. 110–246, § 13203(n)][/us/pl/110/246/s13203/n], inserted “[section 2(h)(7) of this title][/us/usc/t7/s2/h/7] or” before “sections 7 through 7a–2”.
+    Subsec. (b)(1)(A). [Pub. L. 110–246][/us/pl/110/246], § 13203(n), inserted “[section 2(h)(7) of this title][/us/usc/t7/s2/h/7] or” before “sections 7 through 7a–2”.
 
-    2000—Subsec. (a)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(A)(i)(I)\], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
+    2000—Subsec. (a)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(A)(i)(I)\], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
 
-    Subsec. (a)(1)(C)(i). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(A)(i)(II)\], substituted “registered entity” for “contract market”.
+    Subsec. (a)(1)(C)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(A)(i)(II)\], substituted “registered entity” for “contract market”.
 
-    Subsec. (a)(2). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(A)(ii)\], substituted “sections 7(d)(13), 7a–1(b)(1)(E),” for “sections 7a(11),”.
+    Subsec. (a)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(A)(ii)\], substituted “sections 7(d)(13), 7a–1(b)(1)(E),” for “sections 7a(11),”.
 
-    Subsec. (a)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(A)(iii)\], substituted “registered entity” for “contract market” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(A)(iii)\], substituted “registered entity” for “contract market” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 120\], added par. (4).
+    Subsec. (a)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 120\], added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(B)(i)\], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and [section 7a(9) of this title][/us/usc/t7/s7a/9]”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
+    Subsec. (b)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(B)(i)\], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and [section 7a(9) of this title][/us/usc/t7/s7a/9]”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
 
-    Subsec. (b)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(B)(ii)\], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
+    Subsec. (b)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(B)(ii)\], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
 
-    Subsec. (b)(4). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(B)(iii)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+    Subsec. (b)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(B)(iii)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-    Subsec. (b)(5). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(a)(25)(B)(iv)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+    Subsec. (b)(5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(a)(25)(B)(iv)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–546, § 402(14)(A)][/us/pl/102/546/s402/14/A], substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
+    1992—Subsec. (a)(1). [Pub. L. 102–546][/us/pl/102/546], § 402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
 
-    Subsec. (a)(2). [Pub. L. 102–546, § 402(14)(B)][/us/pl/102/546/s402/14/B], made technical amendment to reference to [section 21(b)(10) of this title][/us/usc/t7/s21/b/10] to correct reference to corresponding section of original act.
+    Subsec. (a)(2). [Pub. L. 102–546][/us/pl/102/546], § 402(14)(B), made technical amendment to reference to [section 21(b)(10) of this title][/us/usc/t7/s21/b/10] to correct reference to corresponding section of original act.
 
-    Subsec. (a)(3). [Pub. L. 102–546, § 222(d)][/us/pl/102/546/s222/d], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–546][/us/pl/102/546], § 222(d), added par. (3).
 
-    Subsec. (c). [Pub. L. 102–546, § 211][/us/pl/102/546/s211], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued.”
+    Subsec. (c). [Pub. L. 102–546][/us/pl/102/546], § 211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -195,18 +195,18 @@
 [/us/usc/t7/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F1
 [/us/usc/t7/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fa
 [/us/usc/t7/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21
-[/us/act/1922-09-21/ch369/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs22
-[/us/pl/97/444/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs235
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2322
-[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3607
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIII
 [/us/stat/122/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1435
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1728
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641
@@ -218,32 +218,32 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/111/203/s749/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fh%2F1%2FB
-[/us/pl/111/203/s749/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fh%2F1%2FA
-[/us/pl/111/203/s749/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fh%2F2
-[/us/pl/111/203/s753/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs753%2Fc
-[/us/pl/111/203/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs739
-[/us/pl/111/203/s738/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs738%2Fc
-[/us/pl/111/203/s749/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs749%2Fh%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t7/s2/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7
-[/us/pl/110/246/s13105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13105%2Fi
-[/us/pl/110/246/s13203/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs13203%2Fn
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t7/s7a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7a%2F9
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/102/546/s402/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F14%2FA
-[/us/pl/102/546/s402/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs402%2F14%2FB
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/usc/t7/s21/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21%2Fb%2F10
-[/us/pl/102/546/s222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs222%2Fd
-[/us/pl/102/546/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs211
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
+[/us/pl/102/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

@@ -17,7 +17,7 @@
 
     The Secretary may gather and compile information and conduct any investigations the Secretary considers necessary for the administration and enforcement of this chapter.
 
-([Pub. L. 106–224, title IV, § 422][/us/pl/106/224/s422], June 20, 2000, [114 Stat. 449][/us/stat/114/449].)
+([Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 422, June 20, 2000, [114 Stat. 449][/us/stat/114/449].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/224/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs422
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F449
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438

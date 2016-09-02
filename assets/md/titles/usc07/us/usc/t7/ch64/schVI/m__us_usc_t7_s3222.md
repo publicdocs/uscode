@@ -121,7 +121,7 @@
 
         Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
 
-([Pub. L. 95–113, title XIV, § 1445][/us/pl/95/113/s1445], Sept. 29, 1977, [91 Stat. 1009][/us/stat/91/1009]; [Pub. L. 95–547][/us/pl/95/547], Oct. 28, 1978, [92 Stat. 2063][/us/stat/92/2063]; [Pub. L. 97–98, title XIV, § 1432(a)][/us/pl/97/98/s1432/a], Dec. 22, 1981, [95 Stat. 1311][/us/stat/95/1311]; [Pub. L. 99–198, title XIV, § 1417][/us/pl/99/198/s1417], Dec. 23, 1985, [99 Stat. 1550][/us/stat/99/1550]; [Pub. L. 105–185, title I, § 103(f)(3)(B)][/us/pl/105/185/s103/f/3/B], title II, §§ 225(b), 226(b), (c)(3), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 541, 543; [Pub. L. 105–362, title I, § 101(e)][/us/pl/105/362/s101/e], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7203(b), 7204, May 13, 2002, [116 Stat. 438][/us/stat/116/438]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7122, 7404(b)(2)(A)(ii), May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], 1247; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7122, 7404(b)(2)(A)(ii), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983, 2008.)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1445, Sept. 29, 1977, [91 Stat. 1009][/us/stat/91/1009]; [Pub. L. 95–547][/us/pl/95/547], Oct. 28, 1978, [92 Stat. 2063][/us/stat/92/2063]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1432(a), Dec. 22, 1981, [95 Stat. 1311][/us/stat/95/1311]; [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1417, Dec. 23, 1985, [99 Stat. 1550][/us/stat/99/1550]; [Pub. L. 105–185, title I][/us/pl/105/185/tI], § 103(f)(3)(B), title II, §§ 225(b), 226(b), (c)(3), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 541, 543; [Pub. L. 105–362, title I][/us/pl/105/362/tI], § 101(e), Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7203(b), 7204, May 13, 2002, [116 Stat. 438][/us/stat/116/438]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7122, 7404(b)(2)(A)(ii), May 22, 2008, [122 Stat. 1222][/us/stat/122/1222], 1247; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7122, 7404(b)(2)(A)(ii), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983, 2008.)
 
  __References in Text__ 
 
@@ -133,41 +133,41 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 7122][/us/pl/110/246/s7122], substituted “30 percent” for “25 percent”.
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 7122, substituted “30 percent” for “25 percent”.
 
-    Subsec. (e). [Pub. L. 110–246, § 7404(b)(2)(A)(ii)][/us/pl/110/246/s7404/b/2/A/ii], struck out “under penalty indicia: Provided, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 7404(b)(2)(A)(ii), struck out “under penalty indicia: Provided, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 7203(b)][/us/pl/107/171/s7203/b], inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under [section 361c of this title][/us/usc/t7/s361c].” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under [section 361c of this title][/us/usc/t7/s361c]: Provided, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 ([79 Stat. 431][/us/stat/79/431], [7 U.S.C. 450i][/us/usc/t7/s450i]).”
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under [section 361c of this title][/us/usc/t7/s361c].” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under [section 361c of this title][/us/usc/t7/s361c]: Provided, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 ([79 Stat. 431][/us/stat/79/431], [7 U.S.C. 450i][/us/usc/t7/s450i]).”
 
-    Subsec. (a)(5). [Pub. L. 107–171, § 7204][/us/pl/107/171/s7204], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
+    Subsec. (a)(5). [Pub. L. 107–171][/us/pl/107/171], § 7204, added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
 
-    1998—[Pub. L. 105–185, § 226(c)(3)(A)][/us/pl/105/185/s226/c/3/A], substituted “University” for “Institute” in section catchline.
+    1998—[Pub. L. 105–185][/us/pl/105/185], § 226(c)(3)(A), substituted “University” for “Institute” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–185, § 226(c)(3)(B)][/us/pl/105/185/s226/c/3/B], substituted “Tuskegee University” for “Tuskegee Institute” in first sentence.
+    Subsec. (a). [Pub. L. 105–185][/us/pl/105/185], § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–185, § 226(c)(3)(B)][/us/pl/105/185/s226/c/3/B], substituted “Tuskegee University” for “Tuskegee Institute”.
+    Subsec. (b)(2)(B). [Pub. L. 105–185][/us/pl/105/185], § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute”.
 
-    Subsec. (c). [Pub. L. 105–185, § 225(b)][/us/pl/105/185/s225/b], inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (5).
+    Subsec. (c). [Pub. L. 105–185][/us/pl/105/185], § 225(b), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (5).
 
-    Subsec. (g). [Pub. L. 105–362, § 101(e)(1)][/us/pl/105/362/s101/e/1], struck out “(1)” before “On or before”.
+    Subsec. (g). [Pub. L. 105–362][/us/pl/105/362], § 101(e)(1), struck out “(1)” before “On or before”.
 
-    Subsec. (g)(2). [Pub. L. 105–362, § 101(e)(2)][/us/pl/105/362/s101/e/2], struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
+    Subsec. (g)(2). [Pub. L. 105–362][/us/pl/105/362], § 101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
-    [Pub. L. 105–185, § 226(b)][/us/pl/105/185/s226/b] redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
+    [Pub. L. 105–185][/us/pl/105/185], § 226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 
-    Subsec. (g)(3). [Pub. L. 105–185, § 103(f)(3)(B)][/us/pl/105/185/s103/f/3/B], struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
+    Subsec. (g)(3). [Pub. L. 105–185][/us/pl/105/185], § 103(f)(3)(B), struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
-    Subsec. (g)(4). [Pub. L. 105–185, § 226(b)(2)][/us/pl/105/185/s226/b/2], redesignated par. (4) as (2).
+    Subsec. (g)(4). [Pub. L. 105–185][/us/pl/105/185], § 226(b)(2), redesignated par. (4) as (2).
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1417(a)][/us/pl/99/198/s1417/a], provided that not more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1417(a), provided that not more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.
 
-    Subsec. (g)(2). [Pub. L. 99–198, § 1417(b)][/us/pl/99/198/s1417/b], in amending par. (2) generally, substituted “If it appears” for “Whenever it shall appear” before “to the Secretary” and “that an amount in excess of 5 percent” for “that any portion” before “of the preceding annual appropriation” and inserted “in excess of 5 percent of the preceding annual appropriation allotted to that institution” before “shall be deducted”.
+    Subsec. (g)(2). [Pub. L. 99–198][/us/pl/99/198], § 1417(b), in amending par. (2) generally, substituted “If it appears” for “Whenever it shall appear” before “to the Secretary” and “that an amount in excess of 5 percent” for “that any portion” before “of the preceding annual appropriation” and inserted “in excess of 5 percent of the preceding annual appropriation allotted to that institution” before “shall be deducted”.
 
-    1981—Subsec. (b)(1). [Pub. L. 97–98, § 1432(a)(1)][/us/pl/97/98/s1432/a/1], inserted provision authorizing use of administrative funds for transportation of scientists to research meetings convened for purpose of assessing research opportunities or research planning.
+    1981—Subsec. (b)(1). [Pub. L. 97–98][/us/pl/97/98], § 1432(a)(1), inserted provision authorizing use of administrative funds for transportation of scientists to research meetings convened for purpose of assessing research opportunities or research planning.
 
-    Subsec. (b)(2)(B). [Pub. L. 97–98, § 1432(a)(2)][/us/pl/97/98/s1432/a/2], inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
+    Subsec. (b)(2)(B). [Pub. L. 97–98][/us/pl/97/98], § 1432(a)(2), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
 
-    Subsecs. (c), (d). [Pub. L. 97–98, § 1432(a)(3)][/us/pl/97/98/s1432/a/3], substituted “research director” for “chief administrative officer” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 97–98][/us/pl/97/98], § 1432(a)(3), substituted “research director” for “chief administrative officer” wherever appearing.
 
     1978—Subsec. (b). [Pub. L. 95–547][/us/pl/95/547] amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under [section 450i of this title][/us/usc/t7/s450i], for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
 
@@ -185,13 +185,13 @@
 
  __West Virginia State College, Institute, West Virginia__ 
 
-[Pub. L. 106–78, title I][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1140][/us/stat/113/1140], provided in part that West Virginia State College in Institute, West Virginia: 
+[Pub. L. 106–78, title I][/us/pl/106/78/tI], Oct. 22, 1999, [113 Stat. 1140][/us/stat/113/1140], provided in part that West Virginia State College in Institute, West Virginia: 
 
 > “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3222][/us/usc/t7/s3222])”.
 
  __Grant for Dairy Goat Research Program__ 
 
-    [Pub. L. 97–98, title XIV, § 1432(b)][/us/pl/97/98/s1432/b], Dec. 22, 1981, [95 Stat. 1311][/us/stat/95/1311], as amended by [Pub. L. 99–198, title XIV, § 1432][/us/pl/99/198/s1432], Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557]; [Pub. L. 101–624, title XVI, § 1601(c)][/us/pl/101/624/s1601/c], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII, § 887][/us/pl/104/127/s887], Apr. 4, 1996, [110 Stat. 1180][/us/stat/110/1180], authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by [Pub. L. 105–185, title III, § 302(b)][/us/pl/105/185/s302/b], June 23, 1998, [112 Stat. 563][/us/stat/112/563].
+    [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1432(b), Dec. 22, 1981, [95 Stat. 1311][/us/stat/95/1311], as amended by [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1432, Dec. 23, 1985, [99 Stat. 1557][/us/stat/99/1557]; [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(c), Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 887, Apr. 4, 1996, [110 Stat. 1180][/us/stat/110/1180], authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by [Pub. L. 105–185, title III][/us/pl/105/185/tIII], § 302(b), June 23, 1998, [112 Stat. 563][/us/stat/112/563].
 
 ----------
 
@@ -206,23 +206,23 @@
 [/us/usc/t7/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs331
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/pl/95/113/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1445
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1009
 [/us/pl/95/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F547
 [/us/stat/92/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2063
-[/us/pl/97/98/s1432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1432%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1311
-[/us/pl/99/198/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1417
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1550
-[/us/pl/105/185/s103/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F3%2FB
+[/us/pl/105/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtI
 [/us/stat/112/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F528
-[/us/pl/105/362/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fe
+[/us/pl/105/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtI
 [/us/stat/112/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3281
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F438
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1222
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
@@ -230,28 +230,28 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7122
-[/us/pl/110/246/s7404/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7404%2Fb%2F2%2FA%2Fii
-[/us/pl/107/171/s7203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7203%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s361c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c
 [/us/usc/t7/s361c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c
 [/us/stat/79/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F431
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/pl/107/171/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7204
-[/us/pl/105/185/s226/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fc%2F3%2FA
-[/us/pl/105/185/s226/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fc%2F3%2FB
-[/us/pl/105/185/s226/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fc%2F3%2FB
-[/us/pl/105/185/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs225%2Fb
-[/us/pl/105/362/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fe%2F1
-[/us/pl/105/362/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs101%2Fe%2F2
-[/us/pl/105/185/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fb
-[/us/pl/105/185/s103/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103%2Ff%2F3%2FB
-[/us/pl/105/185/s226/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs226%2Fb%2F2
-[/us/pl/99/198/s1417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1417%2Fa
-[/us/pl/99/198/s1417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1417%2Fb
-[/us/pl/97/98/s1432/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1432%2Fa%2F1
-[/us/pl/97/98/s1432/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1432%2Fa%2F2
-[/us/pl/97/98/s1432/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1432%2Fa%2F3
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/95/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F547
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -265,18 +265,18 @@
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1801
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
-[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtI
 [/us/stat/113/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1140
 [/us/usc/t7/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222
-[/us/pl/97/98/s1432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1432%2Fb
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1311
-[/us/pl/99/198/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1432
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1557
-[/us/pl/101/624/s1601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Fc
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3703
-[/us/pl/104/127/s887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs887
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1180
-[/us/pl/105/185/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs302%2Fb
+[/us/pl/105/185/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIII
 [/us/stat/112/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F563
 
 

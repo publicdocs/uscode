@@ -21,15 +21,15 @@
 
     (b) on or before March 1, 1959, and at such times thereafter as he deems advisable, to designate methods of slaughter and of handling in connection with slaughter which, with respect to each species of livestock, conform to the policy stated in this chapter. If he deems it more effective, the Secretary may make any such designation by designating methods which are not in conformity with such policy. Designations by the Secretary subsequent to March 1, 1959, shall become effective 180 days after their publication in the Federal Register.
 
-([Pub. L. 85–765, § 4][/us/pl/85/765/s4], Aug. 27, 1958, [72 Stat. 863][/us/stat/72/863]; [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b]–(e), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
+([Pub. L. 85–765][/us/pl/85/765], § 4, Aug. 27, 1958, [72 Stat. 863][/us/stat/72/863]; [Pub. L. 95–445][/us/pl/95/445], § 5(b)–(e), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
 
  __Amendments__ 
 
-    1978—Par. (a). [Pub. L. 95–445, § 5(d)][/us/pl/95/445/s5/d], inserted “and” after the semicolon at end.
+    1978—Par. (a). [Pub. L. 95–445][/us/pl/95/445], § 5(d), inserted “and” after the semicolon at end.
 
-    Par. (b). [Pub. L. 95–445, § 5(c)][/us/pl/95/445/s5/c], (e), struck out “for purposes of [section 1903 of this title][/us/usc/t7/s1903]” before “180 days”, and substituted a period for the semicolon at end.
+    Par. (b). [Pub. L. 95–445][/us/pl/95/445], § 5(c), (e), struck out “for purposes of [section 1903 of this title][/us/usc/t7/s1903]” before “180 days”, and substituted a period for the semicolon at end.
 
-    Par. (c). [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b], repealed par. (c).
+    Par. (c). [Pub. L. 95–445][/us/pl/95/445], § 5(b), repealed par. (c).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/85/765/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765%2Fs4
+[/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F863
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
-[/us/pl/95/445/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fd
-[/us/pl/95/445/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fc
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/usc/t7/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1903
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603

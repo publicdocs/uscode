@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this subchapter. Amounts made available under this section or otherwise made available to the Department, and amounts made available under any other marketing or promotion order, may not be used to pay any administrative expense of the Board.
 
-([Pub. L. 104–127, title V, § 582][/us/pl/104/127/s582], Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 582, Apr. 4, 1996, [110 Stat. 1083][/us/stat/110/1083].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs582
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1083
 
 

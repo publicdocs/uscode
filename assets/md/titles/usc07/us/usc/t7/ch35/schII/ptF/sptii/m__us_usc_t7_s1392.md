@@ -19,7 +19,7 @@
 
     (b) In the administration of this subchapter and sections 590g, 590h, 590i, and 590j to 590q of title 16, the aggregate amount expended in any fiscal year, beginning with the fiscal year ending June 30, 1942, for administrative expenses in the District of Columbia, including regional offices, and in the several States (not including the expenses of county and local committees) shall not exceed 3 per centum of the total amount available for such fiscal year for carrying out the purposes of this subchapter and chapter 3B of title 16, unless otherwise provided by appropriation or other law. In the administration of [section 612c of this title][/us/usc/t7/s612c], and sections 601, 602, 608a, 608b, 608c, 608d, 610, 612, 614, 624, and 671 to 673 of this title, the aggregate amount expended in any fiscal year beginning with the fiscal year ending June 30, 1942, for administrative expenses in the District of Columbia, including regional offices, and in the several States (not including the expenses of county and local committees) shall not exceed 4 per centum of the total amount available for such fiscal year for carrying out the purposes of said sections, unless otherwise provided by appropriation or other law. In the event any administrative expenses of any county or local committee are deducted in any fiscal year, beginning with the fiscal year ending June 30, 1939, from chapter 3B of title 16 payments, parity payments, or loans, each farmer receiving benefits under such provisions shall be apprised of the amount or percentage deducted from such benefit payment or loan on account of such administrative expenses. The names and addresses of the members and employees of any county or local committee, and the amount of such compensation received by each of them, shall be posted annually in a conspicuous place in the area within which they are employed.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 392, [52 Stat. 69][/us/stat/52/69]; [Jan. 31, 1942, ch. 32][/us/act/1942-01-31/ch32], [56 Stat. 41][/us/stat/56/41]; [Aug. 3, 1956, ch. 950, § 7][/us/act/1956-08-03/ch950/s7], [70 Stat. 1034][/us/stat/70/1034].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 392, [52 Stat. 69][/us/stat/52/69]; [Jan. 31, 1942, ch. 32][/us/act/1942-01-31/ch32], [56 Stat. 41][/us/stat/56/41]; [Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 7, [70 Stat. 1034][/us/stat/70/1034].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/stat/52/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F69
 [/us/act/1942-01-31/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-31%2Fch32
 [/us/stat/56/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F41
-[/us/act/1956-08-03/ch950/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs7
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1034
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610

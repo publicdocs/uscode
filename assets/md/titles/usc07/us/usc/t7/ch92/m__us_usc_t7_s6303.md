@@ -37,7 +37,7 @@
 
         The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-([Pub. L. 101–624, title XIX, § 1968][/us/pl/101/624/s1968], Nov. 28, 1990, [104 Stat. 3883][/us/stat/104/3883].)
+([Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1968, Nov. 28, 1990, [104 Stat. 3883][/us/stat/104/3883].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t7/s6301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6301%2Fb
-[/us/pl/101/624/s1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1968
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3883
 
 

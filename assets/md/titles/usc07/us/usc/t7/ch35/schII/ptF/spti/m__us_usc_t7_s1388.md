@@ -35,7 +35,7 @@
 
         (2) Such travel expenses shall be paid in the manner authorized under [section 5703 of title 5][/us/usc/t5/s5703] for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 388, [52 Stat. 68][/us/stat/52/68]; [Pub. L. 99–198, title XVII, § 1713(a)][/us/pl/99/198/s1713/a], (b), Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], 1637.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 388, [52 Stat. 68][/us/stat/52/68]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1713(a), (b), Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], 1637.)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVII, § 1713(c)][/us/pl/99/198/s1713/c], Dec. 23, 1985, [99 Stat. 1637][/us/stat/99/1637], provided that: 
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1713(c), Dec. 23, 1985, [99 Stat. 1637][/us/stat/99/1637], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on January 1, 1986.”
 
@@ -62,10 +62,10 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F68
-[/us/pl/99/198/s1713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1713%2Fa
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1636
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/198/s1713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1713%2Fc
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1637
 
 

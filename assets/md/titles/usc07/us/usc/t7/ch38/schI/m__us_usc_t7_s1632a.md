@@ -185,7 +185,7 @@
 
         (2) the purchase, rental, or installation of fixed equipment.
 
-([Pub. L. 106–224, title II, § 231][/us/pl/106/224/s231], June 20, 2000, [114 Stat. 409][/us/stat/114/409]; [Pub. L. 107–171, title VI, § 6401(a)][/us/pl/107/171/s6401/a], May 13, 2002, [116 Stat. 424][/us/stat/116/424]; [Pub. L. 110–234, title VI, § 6202][/us/pl/110/234/s6202], May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967; [Pub. L. 113–79, title VI, § 6203][/us/pl/113/79/s6203], Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
+([Pub. L. 106–224, title II][/us/pl/106/224/tII], § 231, June 20, 2000, [114 Stat. 409][/us/stat/114/409]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6401(a), May 13, 2002, [116 Stat. 424][/us/stat/116/424]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6202, May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967; [Pub. L. 113–79, title VI][/us/pl/113/79/tVI], § 6203, Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
 
  __Codification__ 
 
@@ -197,7 +197,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(6). [Pub. L. 113–79, § 6203(1)][/us/pl/113/79/s6203/1], added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+    2014—Subsec. (b)(6). [Pub. L. 113–79][/us/pl/113/79], § 6203(1), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
 
     “(A) beginning farmers or ranchers;
 
@@ -205,25 +205,25 @@
 
     “(C) operators of small- and medium-sized farms and ranches that are structured as a family farm.”
 
-    Subsec. (b)(7)(A). [Pub. L. 113–79, § 6203(2)(A)][/us/pl/113/79/s6203/2/A], substituted “On February 14, 2014,” for “On October 1, 2008,” and “$63,000,000” for “$15,000,000”.
+    Subsec. (b)(7)(A). [Pub. L. 113–79][/us/pl/113/79], § 6203(2)(A), substituted “On February 14, 2014,” for “On October 1, 2008,” and “$63,000,000” for “$15,000,000”.
 
-    Subsec. (b)(7)(B). [Pub. L. 113–79, § 6203(2)(B)][/us/pl/113/79/s6203/2/B], substituted “2018” for “2012”.
+    Subsec. (b)(7)(B). [Pub. L. 113–79][/us/pl/113/79], § 6203(2)(B), substituted “2018” for “2012”.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 6202(a)][/us/pl/110/246/s6202/a], added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
 
-    Subsec. (b)(1). [Pub. L. 110–246, § 6202(b)(1)][/us/pl/110/246/s6202/b/1], substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 110–246][/us/pl/110/246], § 6202(b)(1), substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
 
-    Subsec. (b)(4) to (7). [Pub. L. 110–246, § 6202(b)(2)][/us/pl/110/246/s6202/b/2], added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
+    Subsec. (b)(4) to (7). [Pub. L. 110–246][/us/pl/110/246], § 6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
 
-    2002—Subsecs. (a), (b). [Pub. L. 107–171, § 6401(a)(2)][/us/pl/107/171/s6401/a/2], added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
+    2002—Subsecs. (a), (b). [Pub. L. 107–171][/us/pl/107/171], § 6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 107–171, § 6401(a)(1)][/us/pl/107/171/s6401/a/1], (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 107–171][/us/pl/107/171], § 6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 107–171, § 6401(a)(4)][/us/pl/107/171/s6401/a/4], which directed amendment of subsec. (d) by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.
+    Subsec. (d). [Pub. L. 107–171][/us/pl/107/171], § 6401(a)(4), which directed amendment of subsec. (d) by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.
 
-    [Pub. L. 107–171, § 6401(a)(1)][/us/pl/107/171/s6401/a/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 107–171][/us/pl/107/171], § 6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 107–171, § 6401(a)(1)][/us/pl/107/171/s6401/a/1], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 6401(a)(1), redesignated subsec. (d) as (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -231,7 +231,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–171, title VI, § 6401(b)][/us/pl/107/171/s6401/b], May 13, 2002, [116 Stat. 426][/us/stat/116/426], provided that:
+[Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6401(b), May 13, 2002, [116 Stat. 426][/us/stat/116/426], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -251,38 +251,38 @@
 [/us/usc/t7/s1991/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fa
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
 [/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
-[/us/pl/106/224/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs231
+[/us/pl/106/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtII
 [/us/stat/114/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F409
-[/us/pl/107/171/s6401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F424
-[/us/pl/110/234/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6202
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1206
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203
+[/us/pl/113/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVI
 [/us/stat/128/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F857
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
-[/us/pl/113/79/s6203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F1
-[/us/pl/113/79/s6203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F2%2FA
-[/us/pl/113/79/s6203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F2%2FB
-[/us/pl/110/246/s6202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fa
-[/us/pl/110/246/s6202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fb%2F1
-[/us/pl/110/246/s6202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fb%2F2
-[/us/pl/107/171/s6401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa%2F2
-[/us/pl/107/171/s6401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa%2F1
-[/us/pl/107/171/s6401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa%2F4
-[/us/pl/107/171/s6401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa%2F1
-[/us/pl/107/171/s6401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s6401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fb
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F426
 [/us/usc/t7/s1632a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632a%2Fb%2F4
 

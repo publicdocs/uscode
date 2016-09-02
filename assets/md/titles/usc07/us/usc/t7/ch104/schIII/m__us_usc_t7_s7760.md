@@ -21,7 +21,7 @@
 
     The United States Postal Service is authorized and directed to make all needful rules and regulations for carrying out the purposes hereof.
 
-([Mar. 4, 1915, ch. 144][/us/act/1915-03-04/ch144], [38 Stat. 1113][/us/stat/38/1113]; [June 4, 1936, ch. 495][/us/act/1936-06-04/ch495], [49 Stat. 1461][/us/stat/49/1461]; [Pub. L. 91–375, § 4(a)][/us/pl/91/375/s4/a], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773].)
+([Mar. 4, 1915, ch. 144][/us/act/1915-03-04/ch144], [38 Stat. 1113][/us/stat/38/1113]; [June 4, 1936, ch. 495][/us/act/1936-06-04/ch495], [49 Stat. 1461][/us/stat/49/1461]; [Pub. L. 91–375][/us/pl/91/375], § 4(a), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Transfer of Functions__ 
 
-    In first and third pars., “United States Postal Service” substituted for “Postmaster General” pursuant to [Pub. L. 91–375, § 4(a)][/us/pl/91/375/s4/a], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+    In first and third pars., “United States Postal Service” substituted for “Postmaster General” pursuant to [Pub. L. 91–375][/us/pl/91/375], § 4(a), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
     Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, [67 Stat. 633][/us/stat/67/633], set out as a note under [section 2201 of this title][/us/usc/t7/s2201].
 
@@ -54,10 +54,10 @@
 [/us/stat/38/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1113
 [/us/act/1936-06-04/ch495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch495
 [/us/stat/49/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1461
-[/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/usc/t7/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs166
-[/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/usc/t39/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs201
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

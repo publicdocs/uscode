@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
 
-([Pub. L. 105–185, title IV, § 406][/us/pl/105/185/s406], June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7125, 7206, May 13, 2002, [116 Stat. 434][/us/stat/116/434], 439; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(4), 7306, May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(4), 7306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2004; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(3)(A), 7302, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 887.)
+([Pub. L. 105–185, title IV][/us/pl/105/185/tIV], § 406, June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], §§ 7125, 7206, May 13, 2002, [116 Stat. 434][/us/stat/116/434], 439; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], §§ 7129(c)(4), 7306, May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, §§ 7129(c)(4), 7306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2004; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], §§ 7128(b)(3)(A), 7302, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 887.)
 
  __Codification__ 
 
@@ -43,23 +43,23 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–79, § 7128(b)(3)(A)][/us/pl/113/79/s7128/b/3/A], redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to matching funds requirement.
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(3)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to matching funds requirement.
 
-    Subsec. (e). [Pub. L. 113–79, § 7302][/us/pl/113/79/s7302], substituted “2018” for “2012”.
+    Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 7302, substituted “2018” for “2012”.
 
-    [Pub. L. 113–79, § 7128(b)(3)(A)(ii)][/us/pl/113/79/s7128/b/3/A/ii], redesignated subsec. (f) as (e).
+    [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(3)(A)(ii), redesignated subsec. (f) as (e).
 
-    Subsec. (f). [Pub. L. 113–79, § 7128(b)(3)(A)(ii)][/us/pl/113/79/s7128/b/3/A/ii], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 113–79][/us/pl/113/79], § 7128(b)(3)(A)(ii), redesignated subsec. (f) as (e).
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 7129(c)(4)][/us/pl/110/246/s7129/c/4], substituted “, 1994 Institutions, and Hispanic-serving agricultural colleges and universities” for “and 1994 Institutions”.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 7129(c)(4), substituted “, 1994 Institutions, and Hispanic-serving agricultural colleges and universities” for “and 1994 Institutions”.
 
-    Subsec. (f). [Pub. L. 110–246, § 7306][/us/pl/110/246/s7306], substituted “2012” for “2007”.
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 7306, substituted “2012” for “2007”.
 
-    2002—Subsec. (b). [Pub. L. 107–171, § 7206][/us/pl/107/171/s7206], inserted “and 1994 Institutions” before “on a competitive basis”.
+    2002—Subsec. (b). [Pub. L. 107–171][/us/pl/107/171], § 7206, inserted “and 1994 Institutions” before “on a competitive basis”.
 
-    Subsec. (e). [Pub. L. 107–171, § 7125(1)][/us/pl/107/171/s7125/1], (2), added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 107–171][/us/pl/107/171], § 7125(1), (2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 107–171, § 7125(1)][/us/pl/107/171/s7125/1], (3), redesignated subsec. (e) as (f) and substituted “2007” for “2002”.
+    Subsec. (f). [Pub. L. 107–171][/us/pl/107/171], § 7125(1), (3), redesignated subsec. (e) as (f) and substituted “2007” for “2002”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -73,29 +73,29 @@
 ----------
 
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/105/185/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs406
+[/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/stat/112/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F573
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F434
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s7128/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA
-[/us/pl/113/79/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7302
-[/us/pl/113/79/s7128/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA%2Fii
-[/us/pl/113/79/s7128/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA%2Fii
-[/us/pl/110/246/s7129/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F4
-[/us/pl/110/246/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7306
-[/us/pl/107/171/s7206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7206
-[/us/pl/107/171/s7125/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7125%2F1
-[/us/pl/107/171/s7125/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7125%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

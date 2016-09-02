@@ -19,7 +19,7 @@
 
     (b) The Commission shall include in its annual reports to Congress plans and findings with respect to implementing this section.
 
-([Sept. 21, 1922, ch. 369, § 18][/us/act/1922-09-21/ch369/s18], as added [Pub. L. 93–463, title IV, § 416][/us/pl/93/463/s416], Oct. 23, 1974, [88 Stat. 1415][/us/stat/88/1415].)
+([Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], § 18, as added [Pub. L. 93–463, title IV][/us/pl/93/463/tIV], § 416, Oct. 23, 1974, [88 Stat. 1415][/us/stat/88/1415].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1922-09-21/ch369/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs18
-[/us/pl/93/463/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs416
+[/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
+[/us/pl/93/463/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2FtIV
 [/us/stat/88/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1415
 [/us/pl/93/463/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F463%2Fs418
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2

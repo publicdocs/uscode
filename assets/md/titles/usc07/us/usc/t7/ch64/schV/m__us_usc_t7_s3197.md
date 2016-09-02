@@ -17,7 +17,7 @@
 
     Funds available to carry out sections 3195(a) and 3196 of this title shall be paid to each State or eligible institution at such times and in such amounts as shall be determined by the Secretary. Funds shall remain available for payment of unliquidated obligations for one additional fiscal year following the year of appropriation.
 
-([Pub. L. 95–113, title XIV, § 1435][/us/pl/95/113/s1435], Sept. 29, 1977, [91 Stat. 1004][/us/stat/91/1004]; [Pub. L. 113–79, title VII, § 7111(b)(3)(B)][/us/pl/113/79/s7111/b/3/B], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1435, Sept. 29, 1977, [91 Stat. 1004][/us/stat/91/1004]; [Pub. L. 113–79, title VII][/us/pl/113/79/tVII], § 7111(b)(3)(B), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1435
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1004
-[/us/pl/113/79/s7111/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F3%2FB
+[/us/pl/113/79/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVII
 [/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

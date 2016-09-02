@@ -105,7 +105,7 @@
 
                 A variety may become publicly known and a matter of common knowledge by other means.
 
-([Pub. L. 91–577, title II, § 41][/us/pl/91/577/s41], Dec. 24, 1970, [84 Stat. 1546][/us/stat/84/1546]; [Pub. L. 103–349, § 2][/us/pl/103/349/s2], Oct. 6, 1994, [108 Stat. 3136][/us/stat/108/3136].)
+([Pub. L. 91–577, title II][/us/pl/91/577/tII], § 41, Dec. 24, 1970, [84 Stat. 1546][/us/stat/84/1546]; [Pub. L. 103–349][/us/pl/103/349], § 2, Oct. 6, 1994, [108 Stat. 3136][/us/stat/108/3136].)
 
  __Amendments__ 
 
@@ -113,13 +113,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–349, § 15][/us/pl/103/349/s15], Oct. 6, 1994, [108 Stat. 3145][/us/stat/108/3145], provided that: 
+[Pub. L. 103–349][/us/pl/103/349], § 15, Oct. 6, 1994, [108 Stat. 3145][/us/stat/108/3145], provided that: 
 
 > “This Act \[amending this section and sections 2327, 2330, 2353, 2354, 2357, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under this section and [section 2321 of this title][/us/usc/t7/s2321]\] and the amendments made by this Act shall become effective 180 days after the date of enactment of this Act \[Oct. 6, 1994\].”
 
  __Transitional Provisions for 1994 Amendment__ 
 
-[Pub. L. 103–349, § 14][/us/pl/103/349/s14], Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144], provided that:
+[Pub. L. 103–349][/us/pl/103/349], § 14, Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -156,15 +156,15 @@
 ----------
 ----------
 
-[/us/pl/91/577/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs41
+[/us/pl/91/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtII
 [/us/stat/84/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1546
-[/us/pl/103/349/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs2
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3136
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
-[/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3145
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
-[/us/pl/103/349/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs14
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/stat/108/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3144
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321

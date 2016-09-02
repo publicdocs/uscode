@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, in the determination of farm yields the Secretary may use projected yields in lieu of normal yields. In the determination of such yields the Secretary shall take into account the actual yield proved by the producer for the base period used in determining the projected yield, and the projected yield shall not be less than such actual yield proved by the producer.
 
-([Pub. L. 89–321, title VII, § 708][/us/pl/89/321/s708], Nov. 3, 1965, [79 Stat. 1211][/us/stat/79/1211]; [Pub. L. 91–524, title IV, § 405(b)][/us/pl/91/524/s405/b], as added [Pub. L. 93–86, § 1(12)(a)][/us/pl/93/86/s1/12/a], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229].)
+([Pub. L. 89–321, title VII][/us/pl/89/321/tVII], § 708, Nov. 3, 1965, [79 Stat. 1211][/us/stat/79/1211]; [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 405(b), as added [Pub. L. 93–86][/us/pl/93/86], § 1(12)(a), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229].)
 
  __Codification__ 
 
@@ -25,11 +25,11 @@
 
  __Amendments__ 
 
-    1973—[Pub. L. 91–524, § 405(b)][/us/pl/91/524/s405/b], as added by [Pub. L. 93–86][/us/pl/93/86], temporarily inserted “(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)” after “determining the projected yield”. See Effective and Termination Dates of 1973 Amendment note below.
+    1973—[Pub. L. 91–524][/us/pl/91/524], § 405(b), as added by [Pub. L. 93–86][/us/pl/93/86], temporarily inserted “(except that in the case of wheat, if the yield is abnormally low in any one of the calendar years of the base period because of drought, flood, or other natural disaster, the Secretary shall take into account the actual yield proved by the producer in the other four years of such base period)” after “determining the projected yield”. See Effective and Termination Dates of 1973 Amendment note below.
 
  __Effective and Termination Dates of 1973 Amendment__ 
 
-    [Pub. L. 91–524, title IV, § 405(b)][/us/pl/91/524/s405/b], as added by [Pub. L. 93–86, § 1(12)(a)][/us/pl/93/86/s1/12/a], Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that the amendment made by [Pub. L. 91–524][/us/pl/91/524] is effective with respect to the 1974 through 1977 crops.
+    [Pub. L. 91–524, title IV][/us/pl/91/524/tIV], § 405(b), as added by [Pub. L. 93–86][/us/pl/93/86], § 1(12)(a), Aug. 10, 1973, [87 Stat. 229][/us/stat/87/229], provided that the amendment made by [Pub. L. 91–524][/us/pl/91/524] is effective with respect to the 1974 through 1977 crops.
 
 ----------
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/pl/89/321/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2Fs708
+[/us/pl/89/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321%2FtVII
 [/us/stat/79/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1211
-[/us/pl/91/524/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs405%2Fb
-[/us/pl/93/86/s1/12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F12%2Fa
-[/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
-[/us/pl/91/524/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs405%2Fb
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
 [/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
-[/us/pl/91/524/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs405%2Fb
-[/us/pl/93/86/s1/12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs1%2F12%2Fa
+[/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
+[/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
+[/us/pl/91/524/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIV
+[/us/pl/93/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86
 [/us/stat/87/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F229
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
 

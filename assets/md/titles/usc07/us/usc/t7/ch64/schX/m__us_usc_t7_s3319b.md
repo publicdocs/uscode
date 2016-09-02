@@ -41,15 +41,15 @@
 
         Subject to [section 3129a of this title][/us/usc/t7/s3129a], the Secretary and a cooperating Federal agency may establish joint peer review panels for the purpose of evaluating grant proposals.
 
-([Pub. L. 95–113, title XIV, § 1473B][/us/pl/95/113/s1473B], as added [Pub. L. 107–171, title VII, § 7403(b)][/us/pl/107/171/s7403/b], May 13, 2002, [116 Stat. 456][/us/stat/116/456].)
+([Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473B, as added [Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7403(b), May 13, 2002, [116 Stat. 456][/us/stat/116/456].)
 
  __Prior Provisions__ 
 
-    A prior section 3319b, [Pub. L. 95–113, title XIV, § 1473B][/us/pl/95/113/s1473B], as added [Pub. L. 99–198, title XIV, § 1427][/us/pl/99/198/s1427], Dec. 23, 1985, [99 Stat. 1553][/us/stat/99/1553], provided for technology development for small- and medium-sized farming operations, prior to repeal by [Pub. L. 101–624, title XVI, § 1601(f)(1)(E)][/us/pl/101/624/s1601/f/1/E], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
+    A prior section 3319b, [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1473B, as added [Pub. L. 99–198, title XIV][/us/pl/99/198/tXIV], § 1427, Dec. 23, 1985, [99 Stat. 1553][/us/stat/99/1553], provided for technology development for small- and medium-sized farming operations, prior to repeal by [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(f)(1)(E), Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
 
  __Purposes__ 
 
-[Pub. L. 107–171, title VII, § 7403(a)][/us/pl/107/171/s7403/a], May 13, 2002, [116 Stat. 456][/us/stat/116/456], provided that:
+[Pub. L. 107–171, title VII][/us/pl/107/171/tVII], § 7403(a), May 13, 2002, [116 Stat. 456][/us/stat/116/456], provided that:
 
 >     “The purposes of this section \[enacting this section\] are—
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/usc/t7/s3129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3129a
-[/us/pl/95/113/s1473B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473B
-[/us/pl/107/171/s7403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7403%2Fb
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F456
-[/us/pl/95/113/s1473B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1473B
-[/us/pl/99/198/s1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1427
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
+[/us/pl/99/198/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIV
 [/us/stat/99/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1553
-[/us/pl/101/624/s1601/f/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FE
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
-[/us/pl/107/171/s7403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7403%2Fa
+[/us/pl/107/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVII
 [/us/stat/116/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F456
 
 

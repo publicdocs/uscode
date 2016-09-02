@@ -25,11 +25,11 @@
 
     (d) No penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown for experimental purposes only by any publicly owned agricultural experiment station. Effective with the 1978 crops, no penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown on State prison farms for consumption within such State prison system.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 372, [52 Stat. 65][/us/stat/52/65]; [Apr. 7, 1938, ch. 107, § 11][/us/act/1938-04-07/ch107/s11], [52 Stat. 204][/us/stat/52/204]; [July 2, 1940, ch. 521, § 6][/us/act/1940-07-02/ch521/s6], [54 Stat. 728][/us/stat/54/728]; [Pub. L. 96–113][/us/pl/96/113], Nov. 16, 1979, [93 Stat. 850][/us/stat/93/850]; [Pub. L. 99–272, title I, § 1106(b)][/us/pl/99/272/s1106/b], Apr. 7, 1986, [100 Stat. 91][/us/stat/100/91].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 372, [52 Stat. 65][/us/stat/52/65]; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], § 11, [52 Stat. 204][/us/stat/52/204]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], § 6, [54 Stat. 728][/us/stat/54/728]; [Pub. L. 96–113][/us/pl/96/113], Nov. 16, 1979, [93 Stat. 850][/us/stat/93/850]; [Pub. L. 99–272, title I][/us/pl/99/272/tI], § 1106(b), Apr. 7, 1986, [100 Stat. 91][/us/stat/100/91].)
 
  __References in Text__ 
 
-    [Section 1314h of this title][/us/usc/t7/s1314h], referred to in subsec. (b), was repealed by [Pub. L. 108–357, title VI, § 611(a)][/us/pl/108/357/s611/a], Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].
+    [Section 1314h of this title][/us/usc/t7/s1314h], referred to in subsec. (b), was repealed by [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 611(a), Oct. 22, 2004, [118 Stat. 1522][/us/stat/118/1522].
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    [Pub. L. 99–272, title I, § 1106(b)][/us/pl/99/272/s1106/b], Apr. 7, 1986, [100 Stat. 91][/us/stat/100/91], provided that the amendment made by that section is effective for the 1986 and subsequent crops of tobacco.
+    [Pub. L. 99–272, title I][/us/pl/99/272/tI], § 1106(b), Apr. 7, 1986, [100 Stat. 91][/us/stat/100/91], provided that the amendment made by that section is effective for the 1986 and subsequent crops of tobacco.
 
  __Rulemaking Procedures__ 
 
@@ -58,21 +58,21 @@
 
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F65
-[/us/act/1938-04-07/ch107/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107%2Fs11
+[/us/act/1938-04-07/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-07%2Fch107
 [/us/stat/52/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F204
-[/us/act/1940-07-02/ch521/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs6
+[/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F728
 [/us/pl/96/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F113
 [/us/stat/93/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F850
-[/us/pl/99/272/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1106%2Fb
+[/us/pl/99/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtI
 [/us/stat/100/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F91
 [/us/usc/t7/s1314h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314h
-[/us/pl/108/357/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs611%2Fa
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1522
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t7/s1314h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1314h
 [/us/pl/96/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F113
-[/us/pl/99/272/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs1106%2Fb
+[/us/pl/99/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtI
 [/us/stat/100/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F91
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

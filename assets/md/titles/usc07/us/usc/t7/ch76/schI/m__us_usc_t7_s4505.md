@@ -35,7 +35,7 @@
 
         The primary considerations in determining the eligibility of an organization shall be whether its membership consists primarily of milk producers who produce a substantial volume of milk and whether the primary or overriding interest of the organization is in the production or processing of fluid milk and dairy products and promotion of the nutritional attributes of fluid milk and dairy products.
 
-([Pub. L. 98–180, title I, § 114][/us/pl/98/180/s114], Nov. 29, 1983, [97 Stat. 1140][/us/stat/97/1140].)
+([Pub. L. 98–180, title I][/us/pl/98/180/tI], § 114, Nov. 29, 1983, [97 Stat. 1140][/us/stat/97/1140].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t7/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4504
-[/us/pl/98/180/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs114
+[/us/pl/98/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2FtI
 [/us/stat/97/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1140
 
 

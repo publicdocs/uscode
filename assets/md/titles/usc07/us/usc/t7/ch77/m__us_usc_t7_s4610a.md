@@ -49,7 +49,7 @@
 
         The site of any hearings held under section 4609 or 4610 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-([Pub. L. 98–590, § 11A][/us/pl/98/590/s11A], as added [Pub. L. 101–624, title XIX, § 1986][/us/pl/101/624/s1986], Nov. 28, 1990, [104 Stat. 3908][/us/stat/104/3908]; amended [Pub. L. 102–237, title VIII, § 807(2)][/us/pl/102/237/s807/2], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
+([Pub. L. 98–590][/us/pl/98/590], § 11A, as added [Pub. L. 101–624, title XIX][/us/pl/101/624/tXIX], § 1986, Nov. 28, 1990, [104 Stat. 3908][/us/stat/104/3908]; amended [Pub. L. 102–237, title VIII][/us/pl/102/237/tVIII], § 807(2), Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 
  __Amendments__ 
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/98/590/s11A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590%2Fs11A
-[/us/pl/101/624/s1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1986
+[/us/pl/98/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F590
+[/us/pl/101/624/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIX
 [/us/stat/104/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3908
-[/us/pl/102/237/s807/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs807%2F2
+[/us/pl/102/237/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtVIII
 [/us/stat/105/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1883
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 

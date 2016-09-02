@@ -41,7 +41,7 @@
 
         Nothing in this section shall limit the authority of the Commission to promulgate, after notice and opportunity for hearing, a schedule of appropriate fees to be charged for services rendered and activities and functions performed by the Commission in conjunction with its administration and enforcement of the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\]: Provided, That the fees for any specified service or activity or function shall not exceed the actual cost thereof to the Commission.
 
-([Pub. L. 95–405, § 26][/us/pl/95/405/s26], Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]; [Pub. L. 97–444, title II, § 237][/us/pl/97/444/s237], Jan. 11, 1983, [96 Stat. 2325][/us/stat/96/2325].)
+([Pub. L. 95–405][/us/pl/95/405], § 26, Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]; [Pub. L. 97–444, title II][/us/pl/97/444/tII], § 237, Jan. 11, 1983, [96 Stat. 2325][/us/stat/96/2325].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Study of Assessments on Transactions__ 
 
-[Pub. L. 102–546, title II, § 218][/us/pl/102/546/s218], Oct. 28, 1992, [106 Stat. 3612][/us/stat/106/3612], provided that:
+[Pub. L. 102–546, title II][/us/pl/102/546/tII], § 218, Oct. 28, 1992, [106 Stat. 3612][/us/stat/106/3612], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -94,9 +94,9 @@
 
 [/us/usc/t7/s21/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21%2Fp
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/95/405/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs26
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F877
-[/us/pl/97/444/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2Fs237
+[/us/pl/97/444/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F444%2FtII
 [/us/stat/96/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2325
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -107,7 +107,7 @@
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
 [/us/pl/95/405/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs28
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
-[/us/pl/102/546/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2Fs218
+[/us/pl/102/546/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F546%2FtII
 [/us/stat/106/3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3612
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1

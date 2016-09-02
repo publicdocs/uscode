@@ -17,7 +17,7 @@
 
     The Secretary may make such investigations as he deems necessary for the effective carrying out of his responsibilities under this chapter or to determine whether a handler or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter or of any order, or rule or regulation issued under this chapter. For the purpose of any such investigation, the Secretary is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a handler, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Secretary, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
 
-([Pub. L. 89–502, § 16][/us/pl/89/502/s16], July 13, 1966, [80 Stat. 285][/us/stat/80/285]; [Pub. L. 91–452, title II, § 206(a)][/us/pl/91/452/s206/a], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
+([Pub. L. 89–502][/us/pl/89/502], § 16, July 13, 1966, [80 Stat. 285][/us/stat/80/285]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 206(a), Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/502/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502%2Fs16
+[/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F285
-[/us/pl/91/452/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs206%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5933.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5935.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5934)
 
-## § 5934. Repealed. [Pub. L. 110–234, title VII, § 7211][/us/pl/110/234/s7211], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7211, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
+## § 5934. Repealed. [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7211, May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7211, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
 
-    Section, [Pub. L. 101–624, title XVI, § 1681][/us/pl/101/624/s1681], Nov. 28, 1990, [104 Stat. 3782][/us/stat/104/3782]; [Pub. L. 102–237, title IV, § 407(17)][/us/pl/102/237/s407/17], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865], related to research on honeybee diseases.
+    Section, [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1681, Nov. 28, 1990, [104 Stat. 3782][/us/stat/104/3782]; [Pub. L. 102–237, title IV][/us/pl/102/237/tIV], § 407(17), Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865], related to research on honeybee diseases.
 
  __Codification__ 
 
@@ -32,13 +32,13 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7211
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/101/624/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1681
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3782
-[/us/pl/102/237/s407/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F17
+[/us/pl/102/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtIV
 [/us/stat/105/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1865
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

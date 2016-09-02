@@ -19,7 +19,7 @@
 
     (b) It shall be the responsibility and right of every stockyard owner to manage and regulate his stockyard in a just, reasonable, and nondiscriminatory manner, to prescribe rules and regulations and to require those persons engaging in or attempting to engage in the purchase, sale, or solicitation of livestock at such stockyard to conduct their operations in a manner which will foster, preserve, or insure an efficient, competitive public market. Such rules and regulations shall not prevent a registered market agency or dealer from rendering service on other markets or in occasional and incidental off-market transactions.
 
-([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 307, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 90–446, § 1(d)][/us/pl/90/446/s1/d], July 31, 1968, [82 Stat. 475][/us/stat/82/475].)
+([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title III, § 307, [42 Stat. 165][/us/stat/42/165]; [Pub. L. 90–446][/us/pl/90/446], § 1(d), July 31, 1968, [82 Stat. 475][/us/stat/82/475].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F165
-[/us/pl/90/446/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446%2Fs1%2Fd
+[/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 [/us/stat/82/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F475
 [/us/pl/90/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F446
 

@@ -17,7 +17,7 @@
 
     To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and, from time to time, may amend orders applicable to persons engaged in production, sale, importation, or handling of flowers and plants. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-([Pub. L. 97–98, title XVII, § 1704][/us/pl/97/98/s1704], Dec. 22, 1981, [95 Stat. 1350][/us/stat/95/1350].)
+([Pub. L. 97–98, title XVII][/us/pl/97/98/tXVII], § 1704, Dec. 22, 1981, [95 Stat. 1350][/us/stat/95/1350].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1704
+[/us/pl/97/98/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXVII
 [/us/stat/95/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1350
 
 

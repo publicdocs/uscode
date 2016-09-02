@@ -37,7 +37,7 @@
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 101–624, title XIII, § 1321][/us/pl/101/624/s1321], Nov. 28, 1990, [104 Stat. 3562][/us/stat/104/3562].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1321, Nov. 28, 1990, [104 Stat. 3562][/us/stat/104/3562].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t7/s136/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136%2Fu
-[/us/pl/101/624/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1321
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3562
 
 

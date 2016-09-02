@@ -43,7 +43,7 @@
 
         Notwithstanding [section 305 of this title][/us/usc/t7/s305], the State of North Dakota shall manage the land granted under [section 301 of this title][/us/usc/t7/s301], including any proceeds from the land, in accordance with this section.
 
-([July 2, 1862, ch. 130, § 9][/us/act/1862-07-02/ch130/s9], as added [Pub. L. 111–11, title XIII, § 13001(b)][/us/pl/111/11/s13001/b], Mar. 30, 2009, [123 Stat. 1446][/us/stat/123/1446].)
+([July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], § 9, as added [Pub. L. 111–11, title XIII][/us/pl/111/11/tXIII], § 13001(b), Mar. 30, 2009, [123 Stat. 1446][/us/stat/123/1446].)
 
 ----------
 
@@ -58,8 +58,8 @@
 [/us/usc/t7/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs304
 [/us/usc/t7/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs305
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/act/1862-07-02/ch130/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130%2Fs9
-[/us/pl/111/11/s13001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs13001%2Fb
+[/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
+[/us/pl/111/11/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIII
 [/us/stat/123/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1446
 
 

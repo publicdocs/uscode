@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of this chapter, any end product manufacturer who has been subject to and has paid an assessment, but who has reserved the right, under subsection (a) of this section, to seek a refund, and who is not in favor of supporting the programs as provided for herein, shall have the right to demand and receive from the Council a refund of such assessment: Provided, That such demand shall be made by such end product manufacturer in accordance with regulations, and on a form and within a time period, prescribed by the Council and approved by the Secretary and upon submission of proof satisfactory to the Council that the end product manufacturer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand is received therefor.
 
-([Pub. L. 95–113, title XVII, § 1709][/us/pl/95/113/s1709], Sept. 29, 1977, [91 Stat. 1037][/us/stat/91/1037].)
+([Pub. L. 95–113, title XVII][/us/pl/95/113/tXVII], § 1709, Sept. 29, 1977, [91 Stat. 1037][/us/stat/91/1037].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/113/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1709
+[/us/pl/95/113/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXVII
 [/us/stat/91/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1037
 
 

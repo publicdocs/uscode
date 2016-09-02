@@ -33,7 +33,7 @@
 
         The final rule referred to in subsection (a) is the final rule issued by the Food and Drug Administration and published in the Federal Register on September 13, 1993 (58 Fed. Reg. 47962), in which the Administration stayed 1987 amendments to the selenium food additive regulations, and any modification of such rule issued after October 13, 1994.
 
-([Pub. L. 103–354, title II, § 262][/us/pl/103/354/s262], Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 262, Oct. 13, 1994, [108 Stat. 3227][/us/stat/108/3227].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs262
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3227
 
 

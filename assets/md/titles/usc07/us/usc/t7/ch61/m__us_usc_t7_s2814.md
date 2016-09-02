@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch61/m__us_usc_t7_ch61.md) | [Next](./../../../..//us/usc/t7/ch62/m__us_usc_t7_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2814)
+[Previous](./../../../..//us/usc/t7/ch61/m__us_usc_t7_s2801...2813.md) | [Next](./../../../..//us/usc/t7/ch62/m__us_usc_t7_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2814)
 
 ## § 2814. Management of undesirable plants on Federal lands
 
@@ -135,7 +135,7 @@
 
         There is authorized to be appropriated such sums as may be necessary in each of fiscal years 1991 through 1995 to carry out this section.
 
-([Pub. L. 93–629, § 15][/us/pl/93/629/s15], as added [Pub. L. 101–624, title XIV, § 1453][/us/pl/101/624/s1453], Nov. 28, 1990, [104 Stat. 3611][/us/stat/104/3611].)
+([Pub. L. 93–629][/us/pl/93/629], § 15, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1453, Nov. 28, 1990, [104 Stat. 3611][/us/stat/104/3611].)
 
  __References in Text__ 
 
@@ -145,15 +145,15 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch61/m__us_usc_t7_ch61.md) | [Next](./../../../..//us/usc/t7/ch62/m__us_usc_t7_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2814)
+[Previous](./../../../..//us/usc/t7/ch61/m__us_usc_t7_s2801...2813.md) | [Next](./../../../..//us/usc/t7/ch62/m__us_usc_t7_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2814)
 
 ----------
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/93/629/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F629%2Fs15
-[/us/pl/101/624/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1453
+[/us/pl/93/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F629
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3611
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

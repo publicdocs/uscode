@@ -21,7 +21,7 @@
 
     (2) the interchange of personnel and facilities in each such office to the extent necessary or desirable to achieve the most efficient utilization of such personnel and facilities and provide the most effective assistance in the development of rural areas in accordance with State rural development plans.
 
-([Pub. L. 92–419, title VI, § 603(c)][/us/pl/92/419/s603/c], Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 96–355, § 4(5)][/us/pl/96/355/s4/5], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174].)
+([Pub. L. 92–419, title VI][/us/pl/92/419/tVI], § 603(c), Aug. 30, 1972, [86 Stat. 675][/us/stat/86/675]; [Pub. L. 96–355][/us/pl/96/355], § 4(5), Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/92/419/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs603%2Fc
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
 [/us/stat/86/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F675
-[/us/pl/96/355/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs4%2F5
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1174
 [/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/usc/t7/s2204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204%2Fb

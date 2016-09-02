@@ -59,7 +59,7 @@
 
             The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 7448 of this title][/us/usc/t7/s7448].
 
-([Pub. L. 104–127, title V, § 538][/us/pl/104/127/s538], Apr. 4, 1996, [110 Stat. 1060][/us/stat/110/1060].)
+([Pub. L. 104–127, title V][/us/pl/104/127/tV], § 538, Apr. 4, 1996, [110 Stat. 1060][/us/stat/110/1060].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t7/s7448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7448
-[/us/pl/104/127/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs538
+[/us/pl/104/127/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtV
 [/us/stat/110/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1060
 
 

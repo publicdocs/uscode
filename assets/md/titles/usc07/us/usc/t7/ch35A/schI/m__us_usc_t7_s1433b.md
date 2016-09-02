@@ -23,7 +23,7 @@
 
         In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a), the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
 
-([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 423, as added [Pub. L. 97–358, § 2][/us/pl/97/358/s2], Oct. 21, 1982, [96 Stat. 1714][/us/stat/96/1714]; amended [Pub. L. 99–198, title X, § 1024][/us/pl/99/198/s1024], Dec. 23, 1985, [99 Stat. 1460][/us/stat/99/1460].)
+([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 423, as added [Pub. L. 97–358][/us/pl/97/358], § 2, Oct. 21, 1982, [96 Stat. 1714][/us/stat/96/1714]; amended [Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1024, Dec. 23, 1985, [99 Stat. 1460][/us/stat/99/1460].)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
-[/us/pl/97/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F358%2Fs2
+[/us/pl/97/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F358
 [/us/stat/96/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1714
-[/us/pl/99/198/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1024
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
 [/us/stat/99/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1460
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

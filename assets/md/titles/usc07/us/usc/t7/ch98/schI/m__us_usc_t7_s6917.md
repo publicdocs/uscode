@@ -27,7 +27,7 @@
 
         In consultation with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary shall determine which reports, if any, the Secretary will prepare and submit in accordance with subsection (b).
 
-([Pub. L. 103–354, title II, § 217][/us/pl/103/354/s217], Oct. 13, 1994, [108 Stat. 3212][/us/stat/108/3212].)
+([Pub. L. 103–354, title II][/us/pl/103/354/tII], § 217, Oct. 13, 1994, [108 Stat. 3212][/us/stat/108/3212].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/354/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs217
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3212
 
 

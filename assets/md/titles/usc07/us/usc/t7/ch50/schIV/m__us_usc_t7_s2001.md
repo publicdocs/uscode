@@ -293,13 +293,13 @@
 
         The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-([Pub. L. 87–128, title III, § 353][/us/pl/87/128/s353], as added [Pub. L. 100–233, title VI, § 615(a)][/us/pl/100/233/s615/a], Jan. 6, 1988, [101 Stat. 1678][/us/stat/101/1678]; amended [Pub. L. 101–624, title XVIII, § 1816(a)][/us/pl/101/624/s1816/a]–(d), (f)–(h), Nov. 28, 1990, [104 Stat. 3826–3828][/us/stat/104/3826-3828]; [Pub. L. 102–237, title V, § 501(h)][/us/pl/102/237/s501/h], Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 645, 661(j), Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103], 1107; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, §§ 807, 808\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–40; [Pub. L. 106–31, title III, § 3019(b)][/us/pl/106/31/s3019/b], May 21, 1999, [113 Stat. 99][/us/stat/113/99]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 818(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–58; [Pub. L. 107–171, title V, § 5314][/us/pl/107/171/s5314], May 13, 2002, [116 Stat. 347][/us/stat/116/347].)
+([Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 353, as added [Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 615(a), Jan. 6, 1988, [101 Stat. 1678][/us/stat/101/1678]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1816(a)–(d), (f)–(h), Nov. 28, 1990, [104 Stat. 3826–3828][/us/stat/104/3826-3828]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 501(h), Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868]; [Pub. L. 104–127, title VI][/us/pl/104/127/tVI], §§ 645, 661(j), Apr. 4, 1996, [110 Stat. 1103][/us/stat/110/1103], 1107; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VIII, §§ 807, 808\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–40; [Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3019(b), May 21, 1999, [113 Stat. 99][/us/stat/113/99]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 818(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–58; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5314, May 13, 2002, [116 Stat. 347][/us/stat/116/347].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (k), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
-    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in subsec. (h), was repealed by [Pub. L. 103–354, title II, § 281(c)][/us/pl/103/354/s281/c], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
+    [Section 1983b of this title][/us/usc/t7/s1983b], referred to in subsec. (h), was repealed by [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 281(c), Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233].
 
  __Amendments__ 
 
@@ -309,47 +309,47 @@
 
     1999—Subsec. (c)(3)(C). [Pub. L. 106–31][/us/pl/106/31] substituted “110 percent” for “100 percent”.
 
-    1998—Subsec. (c)(3)(C). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 808\], substituted “100 percent” for “110 percent”.
+    1998—Subsec. (c)(3)(C). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 808\], substituted “100 percent” for “110 percent”.
 
-    Subsec. (e)(6). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 807\], added par. (6).
+    Subsec. (e)(6). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VIII, § 807\], added par. (6).
 
-    1996—Subsec. (c)(3)(C). [Pub. L. 104–127, § 645(1)(A)][/us/pl/104/127/s645/1/A], added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
+    1996—Subsec. (c)(3)(C). [Pub. L. 104–127][/us/pl/104/127], § 645(1)(A), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
 
     “(i) Assumption.—For the purpose of assessing under subparagraph (A) the ability of a borrower to meet debt obligations and continue farming operations, the Secretary shall assume that the borrower needs up to 105 percent of the amount indicated for payment of debt obligations.
 
     “(ii) Available income.—If an amount up to 105 percent of the debt payments of the borrower has been earmarked for such payments, the Secretary shall consider the income of the borrower to be adequate to meet the debt obligations of the borrower.”
 
-    Subsec. (c)(6). [Pub. L. 104–127, § 645(1)(B)][/us/pl/104/127/s645/1/B], added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
+    Subsec. (c)(6). [Pub. L. 104–127][/us/pl/104/127], § 645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
-    Subsec. (k). [Pub. L. 104–127, § 645(2)][/us/pl/104/127/s645/2], (3), redesignated subsec. (l) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
+    Subsec. (k). [Pub. L. 104–127][/us/pl/104/127], § 645(2), (3), redesignated subsec. (l) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
 
-    Subsec. (l). [Pub. L. 104–127, § 661(j)][/us/pl/104/127/s661/j], struck out “and subparagraphs (A)(i) and (C)(i) of [section 1985(e)(1) of this title][/us/usc/t7/s1985/e/1],” before “if a borrower” in introductory provisions.
+    Subsec. (l). [Pub. L. 104–127][/us/pl/104/127], § 661(j), struck out “and subparagraphs (A)(i) and (C)(i) of [section 1985(e)(1) of this title][/us/usc/t7/s1985/e/1],” before “if a borrower” in introductory provisions.
 
-    [Pub. L. 104–127, § 645(3)][/us/pl/104/127/s645/3], redesignated subsec. (m) as (l).
+    [Pub. L. 104–127][/us/pl/104/127], § 645(3), redesignated subsec. (m) as (l).
 
-    Subsecs. (m) to (p). [Pub. L. 104–127, § 645(3)][/us/pl/104/127/s645/3], redesignated subsecs. (m) to (p) as (l) to (o), respectively.
+    Subsecs. (m) to (p). [Pub. L. 104–127][/us/pl/104/127], § 645(3), redesignated subsecs. (m) to (p) as (l) to (o), respectively.
 
-    1991—Subsec. (c)(6)(A)(ii). [Pub. L. 102–237, § 501(h)(1)][/us/pl/102/237/s501/h/1], substituted “November 28, 1990” for “the date of enactment of this paragraph”.
+    1991—Subsec. (c)(6)(A)(ii). [Pub. L. 102–237][/us/pl/102/237], § 501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
 
-    Subsec. (m). [Pub. L. 102–237, § 501(h)(2)][/us/pl/102/237/s501/h/2], substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
+    Subsec. (m). [Pub. L. 102–237][/us/pl/102/237], § 501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
 
-    1990—Subsec. (b)(1). [Pub. L. 101–624, § 1816(a)][/us/pl/101/624/s1816/a], inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)”.
+    1990—Subsec. (b)(1). [Pub. L. 101–624][/us/pl/101/624], § 1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 101–624, § 1816(b)(1)][/us/pl/101/624/s1816/b/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
+    Subsec. (c)(2)(A). [Pub. L. 101–624][/us/pl/101/624], § 1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
 
-    Subsec. (c)(2)(B)(iv). [Pub. L. 101–624, § 1816(b)(2)(A)][/us/pl/101/624/s1816/b/2/A], substituted “costs; plus” for “costs.”
+    Subsec. (c)(2)(B)(iv). [Pub. L. 101–624][/us/pl/101/624], § 1816(b)(2)(A), substituted “costs; plus” for “costs.”
 
-    Subsec. (c)(2)(C). [Pub. L. 101–624, § 1816(b)(2)(B)][/us/pl/101/624/s1816/b/2/B], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 101–624][/us/pl/101/624], § 1816(b)(2)(B), added subpar. (C).
 
-    Subsec. (c)(3)(C). [Pub. L. 101–624, § 1816(c)][/us/pl/101/624/s1816/c], added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 101–624][/us/pl/101/624], § 1816(c), added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 101–624, § 1816(d)][/us/pl/101/624/s1816/d], substituted “90” for “60” in introductory provisions.
+    Subsec. (c)(4). [Pub. L. 101–624][/us/pl/101/624], § 1816(d), substituted “90” for “60” in introductory provisions.
 
-    Subsec. (c)(6). [Pub. L. 101–624, § 1816(f)][/us/pl/101/624/s1816/f], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
+    Subsec. (c)(6). [Pub. L. 101–624][/us/pl/101/624], § 1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
 
-    Subsec. (c)(7). [Pub. L. 101–624, § 1816(g)][/us/pl/101/624/s1816/g], added par. (7).
+    Subsec. (c)(7). [Pub. L. 101–624][/us/pl/101/624], § 1816(g), added par. (7).
 
-    Subsecs. (l) to (p). [Pub. L. 101–624, § 1816(h)][/us/pl/101/624/s1816/h], added subsecs. (l) to (p).
+    Subsecs. (l) to (p). [Pub. L. 101–624][/us/pl/101/624], § 1816(h), added subsecs. (l) to (p).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -361,7 +361,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XVIII, § 1861][/us/pl/101/624/s1861], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
+[Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1861, Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -399,7 +399,7 @@
 
  __Suspension of Collection Activities During Transition Period__ 
 
-[Pub. L. 100–233, title VI, § 615(d)][/us/pl/100/233/s615/d], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682], provided that: 
+[Pub. L. 100–233, title VI][/us/pl/100/233/tVI], § 615(d), Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682], provided that: 
 
 > “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection with any delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section \[enacting [section 2001 of this title][/us/usc/t7/s2001] and amending sections 1927a and 1981 of this title\]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
 
@@ -413,50 +413,50 @@
 [/us/usc/t7/s1929b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1929b
 [/us/usc/t7/s1991/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fb%2F3
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/87/128/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs353
-[/us/pl/100/233/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs615%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1678
-[/us/pl/101/624/s1816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fa
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3826-3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3826-3828
-[/us/pl/102/237/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fh
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1868
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVI
 [/us/stat/110/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1103
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/31/s3019/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3019%2Fb
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F99
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/171/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5314
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F347
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1983b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983b
-[/us/pl/103/354/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fc
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/104/127/s645/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F1%2FA
-[/us/pl/104/127/s645/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F1%2FB
-[/us/pl/104/127/s645/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F2
-[/us/pl/104/127/s661/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fj
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1985/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1985%2Fe%2F1
-[/us/pl/104/127/s645/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F3
-[/us/pl/104/127/s645/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F3
-[/us/pl/102/237/s501/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fh%2F1
-[/us/pl/102/237/s501/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fh%2F2
-[/us/pl/101/624/s1816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fa
-[/us/pl/101/624/s1816/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fb%2F1
-[/us/pl/101/624/s1816/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fb%2F2%2FA
-[/us/pl/101/624/s1816/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fb%2F2%2FB
-[/us/pl/101/624/s1816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fc
-[/us/pl/101/624/s1816/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fd
-[/us/pl/101/624/s1816/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Ff
-[/us/pl/101/624/s1816/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fg
-[/us/pl/101/624/s1816/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1816%2Fh
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/104/127/s645/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs645%2F1
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -465,7 +465,7 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/102/237/s1101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fb%2F3
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/101/624/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1861
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3837
 [/us/usc/t12/s2076a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2076a
 [/us/usc/t25/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs494
@@ -492,7 +492,7 @@
 [/us/usc/t12/s2076a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2076a
 [/us/usc/t5/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/233/s615/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs615%2Fd
+[/us/pl/100/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVI
 [/us/stat/101/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1682
 [/us/usc/t7/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2001
 

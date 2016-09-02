@@ -27,7 +27,7 @@
 
         In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-([Pub. L. 110–234, title X, § 10107][/us/pl/110/234/s10107], May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099; [Pub. L. 113–79, title X, § 10001][/us/pl/113/79/s10001], Feb. 7, 2014, [128 Stat. 939][/us/stat/128/939].)
+([Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10107, May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099; [Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10001, Feb. 7, 2014, [128 Stat. 939][/us/stat/128/939].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
     “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title][/us/usc/t7/s8701].
 
-[Pub. L. 110–234, title X, § 10001][/us/pl/110/234/s10001], May 22, 2008, [122 Stat. 1335][/us/stat/122/1335], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2096, provided that: 
+[Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10001, May 22, 2008, [122 Stat. 1335][/us/stat/122/1335], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2096, provided that: 
 
 > “In this title \[enacting this section, former section 1622c, sections 7655a, 7721, and former [section 7761 of this title][/us/usc/t7/s7761], and [section 2104a of Title 16][/us/usc/t16/s2104a], Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title][/us/usc/t7/s1621]\]:
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/110/234/s10107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10107
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1337
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10001
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F939
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -90,9 +90,9 @@
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10001
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1335
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s7761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7761
 [/us/usc/t16/s2104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104a

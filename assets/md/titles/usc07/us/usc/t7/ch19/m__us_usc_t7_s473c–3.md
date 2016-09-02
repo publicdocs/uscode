@@ -17,7 +17,7 @@
 
     In construing and enforcing the provisions of this chapter, the act, omission, or failure of any agent, officer, or other person acting for or employed by an individual, association, partnership, corporation, or firm, within the scope of his employment or office, shall be deemed to be the act, omission, or failure of the individual, association, partnership, corporation, or firm, as well as that of the person.
 
-([Mar. 3, 1927, ch. 337, § 3c–3][/us/act/1927-03-03/ch337/s3c–3], as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 329][/us/stat/74/329].)
+([Mar. 3, 1927, ch. 337][/us/act/1927-03-03/ch337], § 3c–3, as added [Pub. L. 86–588][/us/pl/86/588], July 5, 1960, [74 Stat. 329][/us/stat/74/329].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch337/s3c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337%2Fs3c%E2%80%933
+[/us/act/1927-03-03/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch337
 [/us/pl/86/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F588
 [/us/stat/74/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F329
 

@@ -23,7 +23,7 @@
 
     (3) encourage research by public and private entities relating to effective standards, methodologies, and technologies for accurate assessment of the nutritional and dietary status of individuals.
 
-([Pub. L. 99–198, title XV, § 1589][/us/pl/99/198/s1589], Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597].)
+([Pub. L. 99–198, title XV][/us/pl/99/198/tXV], § 1589, Dec. 23, 1985, [99 Stat. 1597][/us/stat/99/1597].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1589
+[/us/pl/99/198/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXV
 [/us/stat/99/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1597
 
 

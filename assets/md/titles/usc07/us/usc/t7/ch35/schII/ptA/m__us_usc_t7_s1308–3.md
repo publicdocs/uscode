@@ -29,7 +29,7 @@
 
         No person shall become ineligible under this section for production adjustment payments, price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
 
-([Pub. L. 99–198, title X, § 1001C][/us/pl/99/198/s1001C], as added [Pub. L. 100–203, title I, § 1306][/us/pl/100/203/s1306], Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19]; amended [Pub. L. 101–624, title XI, § 1111(b)][/us/pl/101/624/s1111/b], Nov. 28, 1990, [104 Stat. 3498][/us/stat/104/3498]; [Pub. L. 103–66, title I, § 1101(b)(3)(B)][/us/pl/103/66/s1101/b/3/B], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(c)(2)][/us/pl/104/127/s115/c/2], Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903]; [Pub. L. 107–171, title I, § 1603(c)(3)][/us/pl/107/171/s1603/c/3], May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I, § 1603(b)(3)][/us/pl/113/79/s1603/b/3], Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706].)
+([Pub. L. 99–198, title X][/us/pl/99/198/tX], § 1001C, as added [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1306, Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19]; amended [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1111(b), Nov. 28, 1990, [104 Stat. 3498][/us/stat/104/3498]; [Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1101(b)(3)(B), Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 115(c)(2), Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1603(c)(3), May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(a), May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1603(b)(3), Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
     2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] inserted “title I of the Agricultural Act of 2014,” before “the Agricultural Market Transition Act”.
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 1603(a)][/us/pl/110/246/s1603/a], substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] inserted “title I of the Farm Security and Rural Investment Act of 2002,” after “made available under”.
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 100–203, title I, § 1306][/us/pl/100/203/s1306], Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19], provided that this section is effective beginning with the 1989 crops.
+    [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1306, Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19], provided that this section is effective beginning with the 1989 crops.
 
 ----------
 
@@ -96,22 +96,22 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/99/198/s1001C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001C
-[/us/pl/100/203/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1306
+[/us/pl/99/198/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtX
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-19
-[/us/pl/101/624/s1111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1111%2Fb
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3498
-[/us/pl/103/66/s1101/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1101%2Fb%2F3%2FB
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F314
-[/us/pl/104/127/s115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs115%2Fc%2F2
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F903
-[/us/pl/107/171/s1603/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fc%2F3
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F215
-[/us/pl/110/234/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fa
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1002
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F3
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F706
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -136,7 +136,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
@@ -154,7 +154,7 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/100/203/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1306
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-19
 
 

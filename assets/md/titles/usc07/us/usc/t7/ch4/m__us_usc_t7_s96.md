@@ -17,7 +17,7 @@
 
     Any person willfully violating any provision of [section 95 of this title][/us/usc/t7/s95] shall, on conviction, be punished for each offense by a fine not exceeding $5,000 or by imprisonment for not exceeding one year, or both.
 
-([Mar. 3, 1923, ch. 217, § 6][/us/act/1923-03-03/ch217/s6], [42 Stat. 1436][/us/stat/42/1436].)
+([Mar. 3, 1923, ch. 217][/us/act/1923-03-03/ch217], § 6, [42 Stat. 1436][/us/stat/42/1436].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t7/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs95
-[/us/act/1923-03-03/ch217/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217%2Fs6
+[/us/act/1923-03-03/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-03%2Fch217
 [/us/stat/42/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1436
 
 

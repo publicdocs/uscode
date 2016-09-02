@@ -29,7 +29,7 @@
 
     (2) acquire from, exchange with, or dispose of personal property to other Federal departments and agencies without monetary compensation in furtherance of the purposes of this section.
 
-([Pub. L. 104–127, title IX, § 923][/us/pl/104/127/s923], Apr. 4, 1996, [110 Stat. 1195][/us/stat/110/1195]; [Pub. L. 110–234, title XIV, § 14223][/us/pl/110/234/s14223], May 22, 2008, [122 Stat. 1484][/us/stat/122/1484]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14223, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2246.)
+([Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 923, Apr. 4, 1996, [110 Stat. 1195][/us/stat/110/1195]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14223, May 22, 2008, [122 Stat. 1484][/us/stat/122/1484]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14223, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2246.)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2008—Par. (1)(B). [Pub. L. 110–246, § 14223][/us/pl/110/246/s14223], substituted “[section 1101a(a)(5) of title 20][/us/usc/t20/s1101a/a/5]” for “[section 1059c(b) of title 20][/us/usc/t20/s1059c/b]”.
+    2008—Par. (1)(B). [Pub. L. 110–246][/us/pl/110/246], § 14223, substituted “[section 1101a(a)(5) of title 20][/us/usc/t20/s1101a/a/5]” for “[section 1059c(b) of title 20][/us/usc/t20/s1059c/b]”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -58,11 +58,11 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/104/127/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs923
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1195
-[/us/pl/110/234/s14223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14223
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1484
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
@@ -72,7 +72,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s14223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14223
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
 [/us/usc/t20/s1059c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

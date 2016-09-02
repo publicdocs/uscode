@@ -17,7 +17,7 @@
 
     The results of the evaluations of laboratories conducted by the Secretary under this chapter shall be made available to the Secretary of Health and Human Services and to the public on request.
 
-([Pub. L. 101–624, title XIII, § 1328][/us/pl/101/624/s1328], Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
+([Pub. L. 101–624, title XIII][/us/pl/101/624/tXIII], § 1328, Nov. 28, 1990, [104 Stat. 3565][/us/stat/104/3565].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/624/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1328
+[/us/pl/101/624/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIII
 [/us/stat/104/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3565
 
 
