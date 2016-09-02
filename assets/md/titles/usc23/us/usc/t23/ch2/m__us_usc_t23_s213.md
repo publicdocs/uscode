@@ -15,9 +15,9 @@
 
 ## § 213. Transportation alternatives
 
-    (a)  __Reservation of Funds__  __.—__ 
+    (a) __Reservation of Funds.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         On October 1 of each of fiscal years 2013 and 2014, the Secretary shall proportionally reserve from the funds apportioned to a State under section 104(b) to carry out the requirements of this section an amount equal to the amount obtained by multiplying the amount determined under paragraph (2) by the ratio that—
 
@@ -25,11 +25,11 @@
 
             (B) the total amount of funds apportioned to all States for that fiscal year for the transportation enhancements program for fiscal year 2009.
 
-        (2)  __Calculation of national amount__  __.—__ 
+        (2) __Calculation of national amount.—__ 
 
         The Secretary shall determine an amount for each fiscal year that is equal to 2 percent of the amounts authorized to be appropriated for such fiscal year from the Highway Trust Fund (other than the Mass Transit Account) to carry out chapters 1, 2, 5, and 6 of this title.
 
-    (b)  __Eligible Projects__  __.—__ 
+    (b) __Eligible Projects.—__ 
 
     A State may obligate the funds reserved under this section for any of the following projects or activities:
 
@@ -41,9 +41,9 @@
 
         (4) Planning, designing, or constructing boulevards and other roadways largely in the right-of-way of former Interstate System routes or other divided highways.
 
-    (c)  __Allocations of Funds__  __.—__ 
+    (c) __Allocations of Funds.—__ 
 
-        (1)  __Calculation__  __.—__ 
+        (1) __Calculation.—__ 
 
         Of the funds reserved in a State under this section—
 
@@ -59,27 +59,27 @@
 
             (B) 50 percent shall be obligated in any area of the State.
 
-        (2)  __Metropolitan areas__  __.—__ 
+        (2) __Metropolitan areas.—__ 
 
         Funds attributed to an urbanized area under paragraph (1)(A)(i) may be obligated in the metropolitan area established under section 134 that encompasses the urbanized area.
 
-        (3)  __Distribution among urbanized areas of over 200,000 population__  __.—__ 
+        (3) __Distribution among urbanized areas of over 200,000 population.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in paragraph (1)(B), the amount of funds that a State is required to obligate under paragraph (1)(A)(i) shall be obligated in urbanized areas described in paragraph (1)(A)(i) based on the relative population of the areas.
 
-            (B)  __Other factors__  __.—__ 
+            (B) __Other factors.—__ 
 
             A State may obligate the funds described in subparagraph (A) based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to base the obligation on other factors and the Secretary grants the request.
 
-        (4)  __Access to funds__  __.—__ 
+        (4) __Access to funds.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Each State or metropolitan planning organization required to obligate funds in accordance with paragraph (1) shall develop a competitive process to allow eligible entities to submit projects for funding that achieve the objectives of this subsection.
 
-            (B)  __Definition of eligible entity__  __.—__ 
+            (B) __Definition of eligible entity.—__ 
 
             In this paragraph, the term “eligible entity” means—
 
@@ -97,11 +97,11 @@
 
                 (vii) any other local or regional governmental entity with responsibility for or oversight of transportation or recreational trails (other than a metropolitan planning organization or a State agency) that the State determines to be eligible, consistent with the goals of this subsection.
 
-        (5)  __Selection of projects__  __.—__ 
+        (5) __Selection of projects.—__ 
 
         For funds reserved in a State under this section and suballocated to a metropolitan planning area under paragraph (1)(A)(i), each such metropolitan planning organization shall select projects carried out within the boundaries of the applicable metropolitan planning area, in consultation with the relevant State.
 
-    (d)  __Flexibility of Excess Reserved Funding__  __.—__ 
+    (d) __Flexibility of Excess Reserved Funding.—__ 
 
     Beginning in the second fiscal year after the date of enactment of the MAP-21, if on August 1 of that fiscal year the unobligated balance of available funds reserved by a State under this section exceeds 100 percent of such reserved amount in such fiscal year, the State may thereafter obligate the amount of excess funds for any activity—
 
@@ -109,11 +109,11 @@
 
         (2) for which the Secretary has approved the obligation of funds for any State under section 149.
 
-    (e)  __Treatment of Projects__  __.—__ 
+    (e) __Treatment of Projects.—__ 
 
     Notwithstanding any other provision of law, projects funded under this section (excluding those carried out under subsection (f)) shall be treated as projects on a Federal-aid highway under this chapter.
 
-    (f)  __Continuation of Certain Recreational Trails Projects__  __.—__ 
+    (f) __Continuation of Certain Recreational Trails Projects.—__ 
 
     Each State shall—
 
@@ -123,7 +123,7 @@
 
         (3) comply with the provisions of the administration of the recreational trails program under section 206, including the use of apportioned funds described under subsection (d)(3)(A) of that section.
 
-    (g)  __State Flexibility__  __.—__ 
+    (g) __State Flexibility.—__ 
 
     A State may opt out of the recreational trails program under subsection (f) if the Governor of the State notifies the Secretary not later than 30 days prior to apportionments being made for any fiscal year.
 

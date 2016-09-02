@@ -15,7 +15,7 @@
 
 ## § 109. Standards
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Secretary shall ensure that the plans and specifications for each proposed highway project under this chapter provide for a facility that will—
 
@@ -27,7 +27,7 @@
 
     (c) __Design Criteria for National Highway System.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) may take into account, in addition to the criteria described in subsection (a)—
 
@@ -37,7 +37,7 @@
 
             (C) access for other modes of transportation.
 
-        (2)  __Development of criteria__  __.—__ 
+        (2) __Development of criteria.—__ 
 
         The Secretary, in cooperation with State transportation departments, may develop criteria to implement paragraph (1). In developing criteria under this paragraph, the Secretary shall consider—
 
@@ -53,11 +53,11 @@
 
     (e) __Installation of Safety Devices.—__ 
 
-        (1)  __Highway and railroad grade crossings and drawbridges__  __.—__ 
+        (1) __Highway and railroad grade crossings and drawbridges.—__ 
 
         No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2 of this title, unless proper safety protective devices complying with safety standards determined by the Secretary at that time as being adequate shall be installed or be in operation at any highway and railroad grade crossing or drawbridge on that portion of the highway with respect to which such expenditures are to be made.
 
-        (2)  __Temporary traffic control devices__  __.—__ 
+        (2) __Temporary traffic control devices.—__ 
 
         No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2, unless proper temporary traffic control devices to improve safety in work zones will be installed and maintained during construction, utility, and maintenance operations on that portion of the highway with respect to which such expenditures are to be made. Installation and maintenance of the devices shall be in accordance with the Manual on Uniform Traffic Control Devices.
 
@@ -113,17 +113,17 @@
 
             (B) the term “right-of-way” means any real property, or interest therein, acquired, dedicated, or reserved for the construction, operation, and maintenance of a highway.
 
-    (m)  __Protection of Nonmotorized Transportation Traffic__  __.—__ 
+    (m) __Protection of Nonmotorized Transportation Traffic.—__ 
 
     The Secretary shall not approve any project or take any regulatory action under this title that will result in the severance of an existing major route or have significant adverse impact on the safety for nonmotorized transportation traffic and light motorcycles, unless such project or regulatory action provides for a reasonable alternate route or such a route exists.
 
     (n) It is the intent of Congress that any project for resurfacing, restoring, or rehabilitating any highway, other than a highway access to which is fully controlled, in which Federal funds participate shall be constructed in accordance with standards to preserve and extend the service life of highways and enhance highway safety.
 
-    (o)  __Compliance With State Laws for Non-NHS Projects__  __.—__ 
+    (o) __Compliance With State Laws for Non-NHS Projects.—__ 
 
     Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
 
-    (p)  __Scenic and Historic Values__  __.—__ 
+    (p) __Scenic and Historic Values.—__ 
 
     Notwithstanding subsections (b) and (c), the Secretary may approve a project for the National Highway System if the project is designed to—
 
@@ -133,11 +133,11 @@
 
         (3) comply with subsection (a).
 
-    (q)  __Phase Construction__  __.—__ 
+    (q) __Phase Construction.—__ 
 
     Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with a statewide transportation improvement program approved by the Secretary.
 
-    (r)  __Pavement Markings__  __.—__ 
+    (r) __Pavement Markings.—__ 
 
     The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
 
@@ -227,7 +227,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1315][/us/pl/112/141/s1315], July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], for the repair or reconstruction of any road, highway, or bridge that is in operation or under construction when damaged by an emergency declared by the Governor of the State and concurred in by the Secretary \[of Transportation\], or for a disaster or emergency declared by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), the Secretary shall publish a notice of proposed rulemaking to treat any such repair or reconstruction activity as a class of action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act) if such repair or reconstruction activity is—
 
@@ -237,11 +237,11 @@
 
 >     “(b) __Rulemaking.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary \[of Transportation\] shall ensure that the rulemaking helps to conserve Federal resources and protects public safety and health by providing for periodic evaluations to determine if reasonable alternatives exist to roads, highways, or bridges that repeatedly require repair and reconstruction activities.
 
->         “(2)  __Reasonable alternatives__  __.—__ 
+>         “(2) __Reasonable alternatives.—__ 
 
 >         The reasonable alternatives described in paragraph (1) include actions that could reduce the need for Federal funds to be expended on such repair and reconstruction activities, better protect public safety and health and the environment, and meet transportation needs as described in relevant and applicable Federal, State, local and tribal plans.”
 
@@ -249,7 +249,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1316][/us/pl/112/141/s1316], July 6, 2012, [126 Stat. 549][/us/stat/126/549], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Secretary \[of Transportation\] shall—
 
@@ -257,7 +257,7 @@
 
 >         “(2) not later than 150 days after the date of enactment of this Act, promulgate regulations to carry out paragraph (1).
 
->     “(b)  __Definition of an Operational Right-of-way__  __.—__ 
+>     “(b) __Definition of an Operational Right-of-way.—__ 
 
 >     In this section, the term ‘operational right-of-way’ means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in [section 101(a) of title 23][/us/usc/t23/s101/a], United States Code), including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway.”
 
@@ -281,7 +281,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1318][/us/pl/112/141/s1318], July 6, 2012, [126 Stat. 550][/us/stat/126/550], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary \[of Transportation\] shall—
 
@@ -297,11 +297,11 @@
 
 >         “(3) solicit requests from State departments of transportation, transit authorities, metropolitan planning organizations, or other government agencies for new categorical exclusions.
 
->     “(b)  __New Categorical Exclusions__  __.—__ 
+>     “(b) __New Categorical Exclusions.—__ 
 
 >     Not later than 120 days after the date of enactment of this Act, the Secretary shall publish a notice of proposed rulemaking to propose new categorical exclusions received by the Secretary under subsection (a), to the extent that the categorical exclusions meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(a) of title 23, Code of Federal Regulations (as those regulations are in effect on the date of the notice).
 
->     “(c)  __Additional Actions__  __.—__ 
+>     “(c) __Additional Actions.—__ 
 
 >     The Secretary shall issue a proposed rulemaking to move the following types of actions from subsection (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act), to subsection (c) of that section, to the extent that such movement complies with the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act):
 
@@ -313,15 +313,15 @@
 
 >     “(d) __Programmatic Agreements.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary shall seek opportunities to enter into programmatic agreements with the States that establish efficient administrative procedures for carrying out environmental and other required project reviews.
 
->         “(2)  __Inclusions__  __.—__ 
+>         “(2) __Inclusions.—__ 
 
 >         Programmatic agreements authorized under paragraph (1) may include agreements that allow a State to determine on behalf of the Federal Highway Administration whether a project is categorically excluded from the preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
->         “(3)  __Determinations__  __.—__ 
+>         “(3) __Determinations.—__ 
 
 >         An agreement described in paragraph (2) may include determinations by the Secretary \[of Transportation\] of the types of projects categorically excluded (consistent with section 1508.4 of title 40, Code of Federal Regulations) in the State in addition to the types listed in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act).”
 
@@ -335,11 +335,11 @@
 
 [Pub. L. 108–29, § 3][/us/pl/108/29/s3], May 29, 2003, [117 Stat. 772][/us/stat/117/772], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Notwithstanding the terms of any agreement entered into by the Secretary of Transportation and a State under section 109(d) or 402(a) of title 23, United States Code, a veterans cemetery shall be treated as a site for which a supplemental guide sign may be placed on any Federal-aid highway.
 
->     “(b)  __Applicability__  __.—__ 
+>     “(b) __Applicability.—__ 
 
 >     Subsection (a) shall apply to an agreement entered into before, on, or after the date of the enactment of this Act \[May 29, 2003\].”
 
@@ -347,15 +347,15 @@
 
 [Pub. L. 105–178, title I, § 1213(b)][/us/pl/105/178/s1213/b], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on the international roughness index that is used as an indicator of pavement quality on the Federal-aid highway system.
 
->     “(2)  __Required elements__  __.—__ 
+>     “(2) __Required elements.—__ 
 
 >     The study shall specify the extent of usage of the index and the extent to which the international roughness index measurement is reliable across different manufacturers and types of pavement.
 
->     “(3)  __Report to congress__  __.—__ 
+>     “(3) __Report to congress.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall submit to Congress a report on the results of the study.”
 
@@ -369,21 +369,21 @@
 
 >     “(a) __Crash Cushions.—__ 
 
->         “(1)  __Guidance__  __.—__ 
+>         “(1) __Guidance.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall issue guidance regarding the benefits and safety performance of redirective and nonredirective crash cushions in different road applications, taking into consideration roadway conditions, operating speed limits, the location of the crash cushion in the right-of-way, and any other relevant factors. The guidance shall include recommendations on the most appropriate circumstances for utilization of redirective and nonredirective crash cushions.
 
->         “(2)  __Use of guidance__  __.—__ 
+>         “(2) __Use of guidance.—__ 
 
 >         States shall use the guidance issued under this subsection in evaluating the safety and cost-effectiveness of utilizing different crash cushion designs and determining whether redirective or nonredirective crash cushions or other safety appurtenances should be installed at specific highway locations.
 
 >     “(b) __Traffic Flow and Safety Applications of Road Barriers.—__ 
 
->         “(1)  __Study__  __.—__ 
+>         “(1) __Study.—__ 
 
 >         The Secretary shall conduct a study on the technologies and methods to enhance safety, streamline construction, and improve capacity by providing positive separation at all times between traffic, equipment, and workers on highway construction projects. The study shall also address how such technologies can be used to improve capacity and safety at those specific highway, bridge, and other appropriate locations where reversible lane, contraflow, and high occupancy vehicle lane operations are implemented during peak traffic periods.
 
->         “(2)  __Uses to consider__  __.—__ 
+>         “(2) __Uses to consider.—__ 
 
 >         In conducting the study, the Secretary shall consider, at a minimum, uses of positive separation technologies related to—
 
@@ -403,7 +403,7 @@
 
 >             “(E) permanent use of positive separation technologies to create contraflow or reversible lanes to increase the capacity of congested highways, bridges, and tunnels.
 
->         “(3)  __Report__  __.—__ 
+>         “(3) __Report.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the results of the study. The report shall include findings and recommendations for the use of the technologies referred to in paragraph (2) to provide positive separation on appropriate projects.”
 
@@ -411,23 +411,23 @@
 
 [Pub. L. 104–59, title II, § 205(c)][/us/pl/104/59/s205/c], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], as amended by [Pub. L. 105–178, title I, § 1211(d)][/us/pl/105/178/s1211/d], June 9, 1998, [112 Stat. 188][/us/stat/112/188], provided that:
 
->     “(1)  __Placement and modification of signs__  __.—__ 
+>     “(1) __Placement and modification of signs.—__ 
 
 >     The Secretary shall not require the States to expend any Federal or State funds to construct, erect, or otherwise place or to modify any sign relating to a speed limit, distance, or other measurement on a highway for the purpose of having such sign establish such speed limit, distance, or other measurement using the metric system.
 
->     “(2)  __Other actions__  __.—__ 
+>     “(2) __Other actions.—__ 
 
 >     The Secretary shall not require that any State use or plan to use the metric system with respect to designing or advertising, or preparing plans, specifications, estimates, or other documents, for a Federal-aid highway project eligible for assistance under title 23, United States Code.
 
->     “(3)  __Definitions__  __.—__ 
+>     “(3) __Definitions.—__ 
 
 >     In this subsection, the following definitions apply:
 
->         “(A)  __Highway__  __.—__ 
+>         “(A) __Highway.—__ 
 
 >         The term ‘highway’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.
 
->         “(B)  __Metric system__  __.—__ 
+>         “(B) __Metric system.—__ 
 
 >         The term ‘metric system’ has the meaning the term ‘metric system of measurement’ has under section 4 of the Metric Conversion Act of 1975 ([15 U.S.C. 205c][/us/usc/t15/s205c]).”
 
@@ -435,11 +435,11 @@
 
 [Pub. L. 104–59, title III, § 339(b)][/us/pl/104/59/s339/b], Nov. 28, 1995, [109 Stat. 605][/us/stat/109/605], provided that:
 
->     “(1)  __General rule__  __.—__ 
+>     “(1) __General rule.—__ 
 
 >     No funds made available out of the Highway Trust Fund may be used to construct Type II noise barriers (as defined by section 772.5(i) of title 23, Code of Federal Regulations) pursuant to subsections (h) and (i) of [section 109 of title 23][/us/usc/t23/s109], United States Code, if such barriers were not part of a project approved by the Secretary before the date of the enactment of this Act \[Nov. 28, 1995\].
 
->     “(2)  __Exceptions__  __.—__ 
+>     “(2) __Exceptions.—__ 
 
 >     Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway.”
 
@@ -447,11 +447,11 @@
 
 [Pub. L. 104–59, title III, § 359(b)][/us/pl/104/59/s359/b], Nov. 28, 1995, [109 Stat. 626][/us/stat/109/626], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing a highway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than March 1, 1997, the Secretary shall transmit to Congress a report on the results of the study.”
 
@@ -459,13 +459,13 @@
 
 [Pub. L. 102–240, title I, § 1038][/us/pl/102/240/s1038], Dec. 18, 1991, [105 Stat. 1987][/us/stat/105/1987], as amended by [Pub. L. 104–59, title II, § 205(b)][/us/pl/104/59/s205/b], title III, § 327, Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577], 592, provided that:
 
->     “(a)  __Asphalt Pavement Containing Recycled Rubber Demonstration Program__  __.—__ 
+>     “(a) __Asphalt Pavement Containing Recycled Rubber Demonstration Program.—__ 
 
 >     Notwithstanding any other provision of title 23, United States Code, or regulation or policy of the Department of Transportation, the Secretary (or a State acting as the Department’s agent) may not disapprove a highway project under chapter 1 of title 23, United States Code, on the ground that the project includes the use of asphalt pavement containing recycled rubber. Under this subsection, a patented application process for recycled rubber shall be eligible for approval under the same conditions that an unpatented process is eligible for approval.
 
 >     “(b) __Studies.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary and the Administrator of the Environmental Protection Agency shall coordinate and conduct, in cooperation with the States, a study to determine—
 
@@ -475,45 +475,45 @@
 
 >             “(C) the performance of the asphalt pavement containing recycled rubber under various climate and use conditions.
 
->         “(2)  __Division of responsibilities__  __.—__ 
+>         “(2) __Division of responsibilities.—__ 
 
 >         The Administrator shall conduct the part of the study relating to paragraph (1)(A) and the Secretary shall conduct the part of the study relating to paragraph (1)(C). The Administrator and the Secretary shall jointly conduct the study relating to paragraph (1)(B).
 
->         “(3)  __Additional study__  __.—__ 
+>         “(3) __Additional study.—__ 
 
 >         The Secretary and the Administrator, in cooperation with the States, shall jointly conduct a study to determine the economic savings, technical performance qualities, threats to human health and the environment, and environmental benefits of using recycled materials in highway devices and appurtenances and highway projects, including asphalt containing over 80 percent reclaimed asphalt, asphalt containing recycled glass, and asphalt containing recycled plastic.
 
->         “(4)  __Additional elements__  __.—__ 
+>         “(4) __Additional elements.—__ 
 
 >         In conducting the study under paragraph (3), the Secretary and the Administrator shall examine utilization of various technologies by States and shall examine the current practices of all States relating to the reuse and disposal of materials used in federally assisted highway projects.
 
->         “(5)  __Report__  __.—__ 
+>         “(5) __Report.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary and the Administrator shall transmit to Congress a report on the results of the studies conducted under this subsection, including a detailed analysis of the economic savings and technical performance qualities of using such recycled materials in federally assisted highway projects and the environmental benefits of using such recycled materials in such highway projects in terms of reducing air emissions, conserving natural resources, and reducing disposal of the materials in landfills.
 
 >     “(c) __DOT Guidance.—__ 
 
->         “(1)  __Information gathering and distribution__  __.—__ 
+>         “(1) __Information gathering and distribution.—__ 
 
 >         The Secretary shall gather information and recommendations concerning the use of asphalt containing recycled rubber in highway projects from those States that have extensively evaluated and experimented with the use of such asphalt and implemented such projects and shall make available such information and recommendations on the use of such asphalt to those States which indicate an interest in the use of such asphalt.
 
->         “(2)  __Encouragement of use__  __.—__ 
+>         “(2) __Encouragement of use.—__ 
 
 >         The Secretary should encourage the use of recycled materials determined to be appropriate by the studies pursuant to subsection (b) in federally assisted highway projects. Procuring agencies shall comply with all applicable guidelines or regulations issued by the Administrator of the Environmental Protection Agency.
 
 >     “(d) __Asphalt Pavement Containing Recycled Rubber.—__ 
 
->         “(1)  __Crumb rubber modifier research__  __.—__ 
+>         “(1) __Crumb rubber modifier research.—__ 
 
 >         Not later than 180 days after the date of the enactment of the National Highway System Designation Act of 1995 \[Nov. 28, 1995\], the Secretary shall develop testing procedures and conduct research to develop performance grade classifications, in accordance with the strategic highway research program carried out under [section 307(d) of title 23][/us/usc/t23/s307/d], United States Code, for crumb rubber modifier binders. The testing procedures and performance grade classifications should be developed in consultation with representatives of the crumb rubber modifier industry and other interested parties (including the asphalt paving industry) with experience in the development of the procedures and classifications.
 
 >         “(2) __Crumb rubber modifier program development.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             The Secretary may make grants to States to develop programs to use crumb rubber from scrap tires to modify asphalt pavements.
 
->             “(B)  __Use of grant funds__  __.—__ 
+>             “(B) __Use of grant funds.—__ 
 
 >             Grant funds made available to States under this paragraph shall be used—
 
@@ -523,7 +523,7 @@
 
 >                 “(iii) for the expansion of State crumb rubber modifier programs in existence on the date the grant is made available.
 
->     “(e)  __Definitions__  __.—__ 
+>     “(e) __Definitions.—__ 
 
 >     For purpose of this section—
 
@@ -539,15 +539,15 @@
 
 [Pub. L. 102–240, title I, § 1057][/us/pl/102/240/s1057], Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002], provided that:
 
->     “(a)  __Development__  __.—__ 
+>     “(a) __Development.—__ 
 
 >     The Secretary shall develop erosion control guidelines for States to follow in carrying out construction projects funded in whole or in part under this title \[see Tables for classification\].
 
->     “(b)  __More Stringent State Requirements__  __.—__ 
+>     “(b) __More Stringent State Requirements.—__ 
 
 >     Guidelines developed under subsection (a) shall not preempt any requirement made by or under State law if such requirement is more stringent than the guidelines.
 
->     “(c)  __Consistency With Other Programs__  __.—__ 
+>     “(c) __Consistency With Other Programs.—__ 
 
 >     Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[[33 U.S.C. 1329][/us/usc/t33/s1329]\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[[16 U.S.C. 1455b(g)][/us/usc/t16/s1455b/g]\].”
 
@@ -555,15 +555,15 @@
 
 [Pub. L. 102–240, title I, § 1058][/us/pl/102/240/s1058], Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], as amended by [Pub. L. 104–59, title III, § 328][/us/pl/104/59/s328], Nov. 28, 1995, [109 Stat. 593][/us/stat/109/593], provided that:
 
->     “(a)  __Requirement for Innovative Barriers__  __.—__ 
+>     “(a) __Requirement for Innovative Barriers.—__ 
 
 >     Not less than 2½ percent of the mileage of new or replacement permanent or temporary crashworthy barriers included in awarded contracts along Federal-aid highways within the boundaries of a State in each calendar year shall be innovative crashworthy safety barriers.
 
->     “(b)  __Certification__  __.—__ 
+>     “(b) __Certification.—__ 
 
 >     Each State shall annually certify to the Secretary its compliance with the requirements of this section.
 
->     “(c)  __Definition of Innovative Crashworthy Safety Barrier__  __.—__ 
+>     “(c) __Definition of Innovative Crashworthy Safety Barrier.—__ 
 
 >     For purposes of this section, the term ‘innovative crashworthy safety barrier’ means a barrier, other than a guardrail or guiderail, classified by the Federal Highway Administration as ‘experimental’ or that was classified as ‘operational’ after January 1, 1985, and that meets or surpasses the requirements of the National Cooperative Highway Research Program 350 for longitudinal barriers.”
 
@@ -571,11 +571,11 @@
 
 [Pub. L. 102–240, title I, § 1073][/us/pl/102/240/s1073], Dec. 18, 1991, [105 Stat. 2012][/us/stat/105/2012], provided that:
 
->     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
+>     “(a) __Initiation of Rulemaking Proceeding.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall initiate a rulemaking proceeding to revise the guidelines and establish standards for installation of roadside barriers and other safety appurtenances, including longitudinal barriers, end terminals, and crash cushions. Such rulemaking shall reflect state-of-the-art designs, testing, and evaluation criteria contained in the National Cooperative Highway Research Program Report 230, relating to approval standards which provide an enhanced level of crashworthy performance to accommodate vans, mini-vans, pickup trucks, and 4-wheel drive vehicles.
 
->     “(b)  __Final Rule__  __.—__ 
+>     “(b) __Final Rule.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall complete the rulemaking proceeding initiated under subsection (a), and issue a final rule regarding the implementation of revised guidelines and standards for acceptable roadside barriers and other safety appurtenances, including longitudinal barriers, end terminals, and crash cushions. Such revised guidelines and standards shall accommodate vans, mini-vans, pickup trucks, and 4-wheel drive vehicles and shall be applicable to the refurbishment and replacement of existing roadside barriers and safety appurtenances as well as to the installation of new roadside barriers and safety appurtenances.”
 

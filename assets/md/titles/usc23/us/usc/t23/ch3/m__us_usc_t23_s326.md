@@ -17,39 +17,39 @@
 
     (a) __Categorical Exclusion Determinations.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary may assign, and a State may assume, responsibility for determining whether certain designated activities are included within classes of action identified in regulation by the Secretary that are categorically excluded from requirements for environmental assessments or environmental impact statements pursuant to regulations promulgated by the Council on Environmental Quality under part 1500 of title 40, Code of Federal Regulations (as in effect on October 1, 2003).
 
-        (2)  __Scope of authority__  __.—__ 
+        (2) __Scope of authority.—__ 
 
         A determination described in paragraph (1) shall be made by a State in accordance with criteria established by the Secretary and only for types of activities specifically designated by the Secretary.
 
-        (3)  __Criteria__  __.—__ 
+        (3) __Criteria.—__ 
 
         The criteria under paragraph (2) shall include provisions for public availability of information consistent with [section 552 of title 5][/us/usc/t5/s552] and the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-        (4)  __Preservation of flexibility__  __.—__ 
+        (4) __Preservation of flexibility.—__ 
 
         The Secretary shall not require a State, as a condition of assuming responsibility under this section, to forego project delivery methods that are otherwise permissible for highway projects.
 
     (b) __Other Applicable Federal Laws.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         If a State assumes responsibility under subsection (a), the Secretary may also assign and the State may assume all or part of the responsibilities of the Secretary for environmental review, consultation, or other related actions required under any Federal law applicable to activities that are classified by the Secretary as categorical exclusions, with the exception of government-to-government consultation with Indian tribes, subject to the same procedural and substantive requirements as would be required if that responsibility were carried out by the Secretary.
 
-        (2)  __Sole responsibility__  __.—__ 
+        (2) __Sole responsibility.—__ 
 
         A State that assumes responsibility under paragraph (1) with respect to a Federal law shall be solely responsible and solely liable for complying with and carrying out that law, and the Secretary shall have no such responsibility or liability.
 
     (c) __Memoranda of Understanding.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary and the State, after providing public notice and opportunity for comment, shall enter into a memorandum of understanding setting forth the responsibilities to be assigned under this section and the terms and conditions under which the assignments are made, including establishment of the circumstances under which the Secretary would reassume responsibility for categorical exclusion determinations.
 
-        (2)  __Term__  __.—__ 
+        (2) __Term.—__ 
 
         A memorandum of understanding—
 
@@ -57,11 +57,11 @@
 
             (B) shall be renewable.
 
-        (3)  __Acceptance of jurisdiction__  __.—__ 
+        (3) __Acceptance of jurisdiction.—__ 
 
         In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
-        (4)  __Monitoring__  __.—__ 
+        (4) __Monitoring.—__ 
 
         The Secretary shall—
 
@@ -69,21 +69,21 @@
 
             (B) take into account the performance by the State when considering renewal of the memorandum of understanding.
 
-    (d)  __Termination__  __.—__ 
+    (d) __Termination.—__ 
 
-        (1)  __Termination by the secretary__  __.—__ 
+        (1) __Termination by the secretary.—__ 
 
         The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
 
-        (2)  __Termination by the state__  __.—__ 
+        (2) __Termination by the state.—__ 
 
         The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
-    (e)  __State Agency Deemed to Be Federal Agency__  __.—__ 
+    (e) __State Agency Deemed to Be Federal Agency.—__ 
 
     A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agency for the purposes of the Federal law under which the responsibility is exercised.
 
-    (f)  __Legal Fees__  __.—__ 
+    (f) __Legal Fees.—__ 
 
     A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.
 

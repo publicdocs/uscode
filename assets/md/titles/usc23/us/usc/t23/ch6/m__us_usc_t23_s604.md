@@ -15,35 +15,35 @@
 
 ## § 604. Lines of credit
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
-        (1)  __Agreements__  __.—__ 
+        (1) __Agreements.—__ 
 
         Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
 
-        (2)  __Use of proceeds__  __.—__ 
+        (2) __Use of proceeds.—__ 
 
         The proceeds of a line of credit made available under this section shall be available to pay debt service on project obligations issued to finance eligible project costs, extraordinary repair and replacement costs, operation and maintenance expenses, and costs associated with unexpected Federal or State environmental restrictions.
 
-        (3)  __Risk assessment__  __.—__ 
+        (3) __Risk assessment.—__ 
 
         Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 602(b)(3), shall determine an appropriate capital reserve subsidy amount for each line of credit, taking into account the rating opinion letter.
 
-        (4)  __Investment-grade rating requirement__  __.—__ 
+        (4) __Investment-grade rating requirement.—__ 
 
         The funding of a line of credit under this section shall be contingent on the senior obligations of the project receiving an investment-grade rating from 2 rating agencies.
 
-    (b)  __Terms and Limitations__  __.—__ 
+    (b) __Terms and Limitations.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         A line of credit under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
 
-        (2)  __Maximum amounts__  __.—__ 
+        (2) __Maximum amounts.—__ 
 
         The total amount of a line of credit under this section shall not exceed 33 percent of the reasonably anticipated eligible project costs.
 
-        (3)  __Draws__  __.—__ 
+        (3) __Draws.—__ 
 
         Any draw on a line of credit under this section shall—
 
@@ -51,11 +51,11 @@
 
             (B) be made only if net revenues from the project (including capitalized interest, but not including reasonably required financing reserves) are insufficient to pay the costs specified in subsection (a)(2).
 
-        (4)  __Interest rate__  __.—__ 
+        (4) __Interest rate.—__ 
 
         Except as provided in subparagraphs (B) and (C) of section 603(b)(4), the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
 
-        (5)  __Security__  __.—__ 
+        (5) __Security.—__ 
 
         A line of credit issued under this section—
 
@@ -79,17 +79,17 @@
 
             (B) may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.
 
-        (6)  __Period of availability__  __.—__ 
+        (6) __Period of availability.—__ 
 
         The full amount of a line of credit under this section, to the extent not drawn upon, shall be available during the 10-year period beginning on the date of substantial completion of the project.
 
-        (7)  __Rights of third-party creditors__  __.—__ 
+        (7) __Rights of third-party creditors.—__ 
 
-            (A)  __Against federal government__  __.—__ 
+            (A) __Against federal government.—__ 
 
             A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on a line of credit under this section.
 
-            (B)  __Assignment__  __.—__ 
+            (B) __Assignment.—__ 
 
             An obligor may assign a line of credit under this section to—
 
@@ -97,15 +97,15 @@
 
                 (ii) a trustee on the behalf of such a lender.
 
-        (8)  __Nonsubordination__  __.—__ 
+        (8) __Nonsubordination.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraph (B), a direct loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
 
-            (B)  __Pre-existing indenture__  __.—__ 
+            (B) __Pre-existing indenture.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The Secretary shall waive the requirement of subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—
 
@@ -115,7 +115,7 @@
 
                     (III) the TIFIA program share of eligible project costs is 33 percent or less.
 
-                (ii)  __Limitation__  __.—__ 
+                (ii) __Limitation.—__ 
 
                 If the Secretary waives the nonsubordination requirement under this subparagraph—
 
@@ -123,17 +123,17 @@
 
                     (II) the obligor shall be responsible for paying the remainder of the subsidy cost.
 
-        (9)  __Fees__  __.—__ 
+        (9) __Fees.—__ 
 
         The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of providing a line of credit under this section.
 
-        (10)  __Relationship to other credit instruments__  __.—__ 
+        (10) __Relationship to other credit instruments.—__ 
 
         A project that receives a line of credit under this section also shall not receive a secured loan or loan guarantee under section 603 in an amount that, combined with the amount of the line of credit, exceeds 49 percent of eligible project costs.
 
-    (c)  __Repayment__  __.—__ 
+    (c) __Repayment.—__ 
 
-        (1)  __Terms and conditions__  __.—__ 
+        (1) __Terms and conditions.—__ 
 
         The Secretary shall establish repayment terms and conditions for each direct loan under this section based on—
 
@@ -141,7 +141,7 @@
 
             (B) the useful life of the asset being financed.
 
-        (2)  __Timing__  __.—__ 
+        (2) __Timing.—__ 
 
         All repayments of principal or interest on a direct loan under this section shall be scheduled—
 

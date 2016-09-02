@@ -15,7 +15,7 @@
 
 ## § 127. Vehicle weight limitations—Interstate System
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
         (1) The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
 
@@ -53,15 +53,15 @@
 
         (12) __Heavy duty vehicles.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Subject to subparagraphs (B) and (C), in order to promote reduction of fuel use and emissions because of engine idling, the maximum gross vehicle weight limit and the axle weight limit for any heavy-duty vehicle equipped with an idle reduction technology shall be increased by a quantity necessary to compensate for the additional weight of the idle reduction system.
 
-            (B)  __Maximum weight increase__  __.—__ 
+            (B) __Maximum weight increase.—__ 
 
             The weight increase under subparagraph (A) shall be not greater than 550 pounds.
 
-            (C)  __Proof__  __.—__ 
+            (C) __Proof.—__ 
 
             On request by a regulatory agency or law enforcement agency, the vehicle operator shall provide proof (through demonstration or certification) that—
 
@@ -69,11 +69,11 @@
 
                 (ii) the 550-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
 
-    (b)  __Reasonable Access__  __.—__ 
+    (b) __Reasonable Access.—__ 
 
     No State may enact or enforce any law denying reasonable access to motor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
 
-    (c)  __Ocean Transport Container Defined__  __.—__ 
+    (c) __Ocean Transport Container Defined.—__ 
 
     For purposes of this section, the term “ocean transport container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3rd Edition (reference number IS0668–1979(E)) as in effect on the date of the enactment of this subsection.
 
@@ -81,95 +81,95 @@
 
         (1) __Prohibition.—__ 
 
-            (A)  __General continuation rule__  __.—__ 
+            (A) __General continuation rule.—__ 
 
             A longer combination vehicle may continue to operate only if the longer combination vehicle configuration type was authorized by State officials pursuant to State statute or regulation conforming to this section and in actual lawful operation on a regular or periodic basis (including seasonal operations) on or before June 1, 1991, or pursuant to section 335 of the Department of Transportation and Related Agencies Appropriations Act, 1991 ([104 Stat. 2186][/us/stat/104/2186]).
 
-            (B)  __Applicability of state laws and regulations__  __.—__ 
+            (B) __Applicability of state laws and regulations.—__ 
 
             All such operations shall continue to be subject to, at the minimum, all State statutes, regulations, limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, in force on June 1, 1991; except that subject to such regulations as may be issued by the Secretary pursuant to paragraph (5) of this subsection, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
-            (C)  __Wyoming__  __.—__ 
+            (C) __Wyoming.—__ 
 
             In addition to those vehicles allowed under subparagraph (A), the State of Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if such vehicle configurations comply with the single axle, tandem axle, and bridge formula limits set forth in subsection (a) and do not exceed 117,000 pounds gross vehicle weight.
 
-            (D)  __Ohio__  __.—__ 
+            (D) __Ohio.—__ 
 
             In addition to vehicles which the State of Ohio may continue to allow to be operated under subparagraph (A), such State may allow longer combination vehicles with 3 cargo carrying units of 28½ feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated within its boundaries on the 1-mile segment of Ohio State Route 7 which begins at and is south of exit 16 of the Ohio Turnpike.
 
-            (E)  __Alaska__  __.—__ 
+            (E) __Alaska.—__ 
 
             In addition to vehicles which the State of Alaska may continue to allow to be operated under subparagraph (A), such State may allow the operation of longer combination vehicles which were not in actual operation on June 1, 1991, but which were in actual operation prior to July 5, 1991.
 
-            (F)  __Iowa__  __.—__ 
+            (F) __Iowa.—__ 
 
             In addition to vehicles that the State of Iowa may continue to allow to be operated under subparagraph (A), the State may allow longer combination vehicles that were not in actual operation on June 1, 1991, to be operated on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska.
 
         (2) __Additional state restrictions.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Nothing in this subsection shall prevent any State from further restricting in any manner or prohibiting the operation of longer combination vehicles otherwise authorized under this subsection; except that such restrictions or prohibitions shall be consistent with the requirements of sections 31111–31114 of title 49.
 
-            (B)  __Minor adjustments__  __.—__ 
+            (B) __Minor adjustments.—__ 
 
             Any State further restricting or prohibiting the operations of longer combination vehicles or making minor adjustments of a temporary and emergency nature as may be allowed pursuant to regulations issued by the Secretary pursuant to paragraph (5) of this subsection, shall, within 30 days, advise the Secretary of such action, and the Secretary shall publish a notice of such action in the Federal Register.
 
         (3) __Publication of list.—__ 
 
-            (A)  __Submission to secretary__  __.—__ 
+            (A) __Submission to secretary.—__ 
 
             Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
 
-            (B)  __Interim list__  __.—__ 
+            (B) __Interim list.—__ 
 
             Not later than 90 days after the date of the enactment of this subsection, the Secretary shall publish an interim list in the Federal Register, consisting of all information submitted pursuant to subparagraph (A). The Secretary shall review for accuracy all information submitted by the States pursuant to subparagraph (A) and shall solicit and consider public comment on the accuracy of all such information.
 
-            (C)  __Limitation__  __.—__ 
+            (C) __Limitation.—__ 
 
             No statute or regulation shall be included on the list submitted by a State or published by the Secretary merely on the grounds that it authorized, or could have authorized, by permit or otherwise, the operation of longer combination vehicles, not in actual operation on a regular or periodic basis on or before June 1, 1991.
 
-            (D)  __Final list__  __.—__ 
+            (D) __Final list.—__ 
 
             Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 days after the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
 
-            (E)  __Review and correction procedure__  __.—__ 
+            (E) __Review and correction procedure.—__ 
 
             The Secretary, on his or her own motion or upon a request by any person (including a State), shall review the list issued by the Secretary pursuant to subparagraph (D). If the Secretary determines there is cause to believe that a mistake was made in the accuracy of the final list, the Secretary shall commence a proceeding to determine whether the list published pursuant to subparagraph (D) should be corrected. If the Secretary determines that there is a mistake in the accuracy of the list the Secretary shall correct the publication under subparagraph (D) to reflect the determination of the Secretary.
 
-        (4)  __Longer combination vehicle defined__  __.—__ 
+        (4) __Longer combination vehicle defined.—__ 
 
         For purposes of this section, the term “longer combination vehicle” means any combination of a truck tractor and 2 or more trailers or semitrailers which operates on the Interstate System at a gross vehicle weight greater than 80,000 pounds.
 
-        (5)  __Regulations regarding minor adjustments__  __.—__ 
+        (5) __Regulations regarding minor adjustments.—__ 
 
         Not later than 180 days after the date of the enactment of this subsection, the Secretary shall issue regulations establishing criteria for the States to follow in making minor adjustments under paragraph (1)(B).
 
-    (e)  __Operation of Certain Specialized Hauling Vehicles on Interstate Route__  __68.—__ 
+    (e) __Operation of Certain Specialized Hauling Vehicles on Interstate Route 68.—__ 
 
     The single axle, tandem axle, and bridge formula limits set forth in subsection (a) shall not apply to the operation on Interstate Route 68 in Garrett and Allegany Counties, Maryland, of any specialized vehicle equipped with a steering axle and a tridem axle and used for hauling coal, logs, and pulpwood if such vehicle is of a type of vehicle as was operating in such counties on United States Route 40 or 48 for such purpose on August 1, 1991.
 
-    (f)  __Operation of Certain Specialized Hauling Vehicles on Certain Wisconsin Highways__  __.—__ 
+    (f) __Operation of Certain Specialized Hauling Vehicles on Certain Wisconsin Highways.—__ 
 
     If the 104-mile portion of Wisconsin State Route 78 and United States Route 51 between Interstate Route 94 near Portage, Wisconsin, and Wisconsin State Route 29 south of Wausau, Wisconsin, is designated as part of the Interstate System under section 103(c)(4)(A), the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in subsection (a) shall not apply to the 104-mile portion with respect to the operation of any vehicle that could legally operate on the 104-mile portion before the date of the enactment of this subsection.
 
-    (g)  __Operation of Certain Specialized Hauling Vehicles on Certain Pennsylvania Highways__  __.—__ 
+    (g) __Operation of Certain Specialized Hauling Vehicles on Certain Pennsylvania Highways.—__ 
 
     If the segment of United States Route 220 between Bedford and Bald Eagle, Pennsylvania, is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in subsection (a) shall not apply to that segment with respect to the operation of any vehicle which could have legally operated on that segment before the date of the enactment of this subsection.
 
     (h) __Waiver for a Route in State of Maine During Periods of National Emergency.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Notwithstanding any other provision of this section, the Secretary, in consultation with the Secretary of Defense, may waive or limit the application of any vehicle weight limit established under this section with respect to the portion of Interstate Route 95 in the State of Maine between Augusta and Bangor for the purpose of making bulk shipments of jet fuel to the Air National Guard Base at Bangor International Airport during a period of national emergency in order to respond to the effects of the national emergency.
 
-        (2)  __Applicability__  __.—__ 
+        (2) __Applicability.—__ 
 
         Emergency limits established under paragraph (1) shall preempt any inconsistent State vehicle weight limits.
 
     (i) __Special Permits During Periods of National Emergency.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Notwithstanding any other provision of this section, a State may issue special permits during an emergency to overweight vehicles and loads that can easily be dismantled or divided if—
 
@@ -179,7 +179,7 @@
 
             (C) the permits are issued exclusively to vehicles and loads that are delivering relief supplies.
 
-        (2)  __Expiration__  __.—__ 
+        (2) __Expiration.—__ 
 
         A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
 
@@ -313,11 +313,11 @@
 
 [Pub. L. 105–178, title I, § 1213(f)][/us/pl/105/178/s1213/f], June 9, 1998, [112 Stat. 201][/us/stat/112/201], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Secretary shall conduct a study to examine the impact of the truck weight standards on specialized hauling vehicles. The study shall include, at a minimum, an analysis of the economic, safety, and infrastructure impacts of the standards.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any recommendations the Secretary determines appropriate as a result of the study.”
 
@@ -325,15 +325,15 @@
 
 [Pub. L. 105–178, title I, § 1213(h)][/us/pl/105/178/s1213/h], June 9, 1998, [112 Stat. 202][/us/stat/112/202], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Secretary shall conduct a study of State laws (including regulations) relating to penalties for violation of State commercial motor vehicle weight laws.
 
->     “(2)  __Purpose__  __.—__ 
+>     “(2) __Purpose.—__ 
 
 >     The purpose of the study shall be to determine the effectiveness of State penalties as a deterrent to illegally overweight trucking operations. The study shall evaluate fine structures, innovative roadside enforcement techniques, and a State’s ability to penalize shippers and carriers as well as drivers and shall examine the effectiveness of administrative and judicial procedures utilized to enforce vehicle weight laws.
 
->     “(3)  __Report__  __.—__ 
+>     “(3) __Report.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary.”
 
@@ -341,31 +341,31 @@
 
 [Pub. L. 105–178, title I, § 1213(i)][/us/pl/105/178/s1213/i], June 9, 1998, [112 Stat. 202][/us/stat/112/202], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Secretary shall request the Transportation Research Board of the National Academy of Sciences to conduct a study regarding the regulation of weights, lengths, and widths of commercial motor vehicles operating on Federal-aid highways to which Federal regulations apply on the date of enactment of this Act \[June 9, 1998\]. In conducting the study, the Board shall review law, regulations, studies (including Transportation Research Board Special Report 225), and practices and develop recommendations regarding any revisions to law and regulations that the Board determines appropriate.
 
->     “(2)  __Factors to consider and evaluate__  __.—__ 
+>     “(2) __Factors to consider and evaluate.—__ 
 
 >     In developing recommendations under paragraph (1), the Board shall consider and evaluate the impact of the recommendations described in paragraph (1) on the economy, the environment, safety, and service to communities.
 
->     “(3)  __Consultation__  __.—__ 
+>     “(3) __Consultation.—__ 
 
 >     In carrying out the study, the Board shall consult with the Department of Transportation, States, the motor carrier industry, freight shippers, highway safety groups, air quality and natural resource management groups, commercial motor vehicle driver representatives, and other appropriate entities.
 
->     “(4)  __Report__  __.—__ 
+>     “(4) __Report.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Board shall transmit to Congress and the Secretary a report on the results of the study conducted under this subsection.
 
->     “(5)  __Recommendations__  __.—__ 
+>     “(5) __Recommendations.—__ 
 
 >     Not later than 180 days after the date of receipt of the report under paragraph (4), the Secretary may transmit to Congress a report containing comments or recommendations of the Secretary regarding the Board’s report.
 
->     “(6)  __Funding__  __.—__ 
+>     “(6) __Funding.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $250,000 for each of fiscal years 1999 and 2000 to carry out this subsection.
 
->     “(7)  __Applicability of title 23__  __.—__ 
+>     “(7) __Applicability of title 23.—__ 
 
 >     Funds made available to carry out this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the study under this subsection shall be 100 percent and such funds shall remain available until expended.”
 
@@ -373,7 +373,7 @@
 
 [Pub. L. 102–240, title I, § 1023(h)][/us/pl/102/240/s1023/h], as added by [Pub. L. 102–388, title III, § 341][/us/pl/102/388/s341], Oct. 6, 1992, [106 Stat. 1552][/us/stat/106/1552]; amended by [Pub. L. 104–59, title III, § 326][/us/pl/104/59/s326], Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592]; [Pub. L. 105–178, title I, § 1212(c)][/us/pl/105/178/s1212/c], June 9, 1998, [112 Stat. 194][/us/stat/112/194]; [Pub. L. 108–7, div. I, title III, § 347][/us/pl/108/7/s347], Feb. 20, 2003, [117 Stat. 419][/us/stat/117/419]; [Pub. L. 108–447, div. H, title V, § 530][/us/pl/108/447/s530], Dec. 8, 2004, [118 Stat. 3271][/us/stat/118/3271]; [Pub. L. 109–59, title I, § 1309][/us/pl/109/59/s1309], Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219]; [Pub. L. 109–115, div. A, title I, § 115][/us/pl/109/115/s115], Nov. 30, 2005, [119 Stat. 2408][/us/stat/119/2408]; [Pub. L. 112–141, div. A, title I, § 1522][/us/pl/112/141/s1522], July 6, 2012, [126 Stat. 579][/us/stat/126/579], provided that:
 
->     “(1)  __Exemption__  __.—__ 
+>     “(1) __Exemption.—__ 
 
 >     The second sentence of [section 127 of title 23][/us/usc/t23/s127], United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply to—
 
@@ -385,11 +385,11 @@
 
 >     “(2) __State action.—__ 
 
->         “(A)  __Weight limitations__  __.—__ 
+>         “(A) __Weight limitations.—__ 
 
 >         A covered State, including any political subdivision of such State, may not enforce a single axle weight limitation of less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.
 
->         “(B)  __Covered state defined__  __.—__ 
+>         “(B) __Covered state defined.—__ 
 
 >         In this paragraph, the term ‘covered State’ means a State that has enforced, in the period beginning on October 6, 1992, and ending on the date of enactment of this subparagraph \[Nov. 30, 2005\], a single axle weight limitation of 20,000 pounds or greater but less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.”
 
@@ -397,11 +397,11 @@
 
 [Pub. L. 102–240, title I, § 1023(e)][/us/pl/102/240/s1023/e], Dec. 18, 1991, [105 Stat. 1954][/us/stat/105/1954], provided that:
 
->     “(1)  __Temporary exemption__  __.—__ 
+>     “(1) __Temporary exemption.—__ 
 
 >     The second sentence of [section 127 of title 23][/us/usc/t23/s127], United States Code, relating to axle weight limitations and the bridge formula for vehicles using the National System of Interstate and Defense Highways, shall not apply, in the 2-year period beginning on the date of the enactment of this Act \[Dec. 18, 1991\], to any existing vehicle which is used for the purpose of protecting persons and property from fires and other disasters that threaten public safety and which is in actual operation before such date of enactment and to any new vehicle to be used for such purpose while such vehicle is being delivered to a firefighting agency. The Secretary may extend such 2-year period for an additional year.
 
->     “(2)  __Study__  __.—__ 
+>     “(2) __Study.—__ 
 
 >     The Secretary shall conduct a study—
 
@@ -409,11 +409,11 @@
 
 >         “(B) of the issuance of permits by States which exempt such vehicles from the requirements of the second sentence of [section 127 of title 23][/us/usc/t23/s127], United States Code.
 
->     “(3)  __Purposes__  __.—__ 
+>     “(3) __Purposes.—__ 
 
 >     The purposes of the study under this subsection are to determine whether or not such State laws and such section 127 need to be modified with regard to such vehicles and whether or not a permanent exemption should be made for such vehicles from the requirements of such laws and section 127 or whether or not the bridge formula set forth in such section should be modified as it applies to such vehicles.
 
->     “(4)  __Report__  __.—__ 
+>     “(4) __Report.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall submit to the Congress a report on the results of the study conducted under paragraph (2), together with recommendations.”
 

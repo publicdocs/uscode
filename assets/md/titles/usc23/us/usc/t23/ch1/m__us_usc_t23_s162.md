@@ -17,7 +17,7 @@
 
     (a) __Designation of Roads.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall carry out a national scenic byways program that recognizes roads having outstanding scenic, historic, cultural, natural, recreational, and archaeological qualities by designating the roads as—
 
@@ -27,17 +27,17 @@
 
             (C) America’s Byways.
 
-        (2)  __Criteria__  __.—__ 
+        (2) __Criteria.—__ 
 
         The Secretary shall designate roads to be recognized under the national scenic byways program in accordance with criteria developed by the Secretary.
 
         (3) __Nomination.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             To be considered for a designation, a road must be nominated by a State, an Indian tribe, or a Federal land management agency and must first be designated as a State scenic byway, an Indian tribe scenic byway, or, in the case of a road on Federal land, as a Federal land management agency byway.
 
-            (B)  __Nomination by indian tribes__  __.—__ 
+            (B) __Nomination by indian tribes.—__ 
 
             An Indian tribe may nominate a road as a National Scenic Byway, an All-American Road, or one of America’s Byways under paragraph (1) only if a Federal land management agency (other than the Bureau of Indian Affairs), a State, or a political subdivision of a State does not have—
 
@@ -45,11 +45,11 @@
 
                 (ii) responsibility for managing the road.
 
-            (C)  __Safety__  __.—__ 
+            (C) __Safety.—__ 
 
             An Indian tribe shall maintain the safety and quality of roads nominated by the Indian tribe under subparagraph (A).
 
-        (4)  __Reciprocal notification__  __.—__ 
+        (4) __Reciprocal notification.—__ 
 
         States, Indian tribes, and Federal land management agencies shall notify each other regarding nominations made under this subsection for roads that—
 
@@ -59,7 +59,7 @@
 
     (b) __Grants and Technical Assistance.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall make grants and provide technical assistance to States and Indian tribes to—
 
@@ -79,7 +79,7 @@
 
             (B) plan, design, and develop a State or Indian tribe scenic byway program.
 
-        (2)  __Priorities__  __.—__ 
+        (2) __Priorities.—__ 
 
         In making grants, the Secretary shall give priority to—
 
@@ -97,7 +97,7 @@
 
             (C) each eligible project that is associated with the development of a State or Indian tribe scenic byway program.
 
-    (c)  __Eligible Projects__  __.—__ 
+    (c) __Eligible Projects.—__ 
 
     The following are projects that are eligible for Federal assistance under this section:
 
@@ -117,15 +117,15 @@
 
         (8) Development and implementation of a scenic byway marketing program.
 
-    (d)  __Limitation__  __.—__ 
+    (d) __Limitation.—__ 
 
     The Secretary shall not make a grant under this section for any project that would not protect the scenic, historical, recreational, cultural, natural, and archaeological integrity of a highway and adjacent areas.
 
-    (e)  __Savings Clause__  __.—__ 
+    (e) __Savings Clause.—__ 
 
     The Secretary shall not withhold any grant or impose any requirement on a State or Indian tribe as a condition of providing a grant or technical assistance for any scenic byway unless the requirement is consistent with the authority provided in this chapter.
 
-    (f)  __Federal Share__  __.—__ 
+    (f) __Federal Share.—__ 
 
     The Federal share of the cost of carrying out a project under this section shall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
 

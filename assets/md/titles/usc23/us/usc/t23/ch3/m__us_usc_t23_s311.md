@@ -23,11 +23,11 @@
 
 [Pub. L. 102–240, title I, § 1006(h)][/us/pl/102/240/s1006/h], Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927], provided that:
 
->     “(1)  __Reconstruction projects__  __.—__ 
+>     “(1) __Reconstruction projects.—__ 
 
 >     If the Secretary determines, after consultation with the Secretary of Defense, that a highway, or portion of a highway, located outside the United States is important to the national defense, the Secretary may carry out a project for the reconstruction of such highway or portion of highway.
 
->     “(2)  __Funding__  __.—__ 
+>     “(2) __Funding.—__ 
 
 >     The Secretary may make available, from funds appropriated to construct the National System of Interstate and Defense Highways, not to exceed $20,000,000 per fiscal year for each of fiscal years 1993, 1994, 1995, and 1996 to carry out this subsection. Such sums shall remain available until expended.”
 

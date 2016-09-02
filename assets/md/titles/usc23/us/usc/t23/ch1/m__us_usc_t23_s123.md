@@ -37,7 +37,7 @@
 
 [Pub. L. 105–178, title I, § 1213(e)][/us/pl/105/178/s1213/e], June 9, 1998, [112 Stat. 201][/us/stat/112/201], provided that:
 
->     “(1)  __Study__  __.—__ 
+>     “(1) __Study.—__ 
 
 >     The Comptroller General shall conduct a study to assess the impact that a utility company’s failure to relocate its facilities in a timely manner has on the delivery and cost of Federal-aid highway and bridge projects. The study shall also assess the following:
 
@@ -49,7 +49,7 @@
 
 >         “(D) Whether individual States compensate transportation contractors for business costs incurred by the contractors when Federal-aid highway and bridge projects under contract to them are delayed by utility-company-caused delays in utility relocations and any methods used by States in making any such compensation.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall transmit to Congress a report on the results of the study with any recommendations the Comptroller General determines appropriate as a result of the study.”
 

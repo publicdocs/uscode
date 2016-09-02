@@ -15,7 +15,7 @@
 
 ## § 515. General authorities and requirements
 
-    (a)  __Scope__  __.—__ 
+    (a) __Scope.—__ 
 
     Subject to the provisions of this chapter, the Secretary shall conduct an ongoing intelligent transportation system program—
 
@@ -23,29 +23,29 @@
 
         (2) to provide technical assistance in the nationwide application of those systems as a component of the surface transportation systems of the United States.
 
-    (b)  __Policy__  __.—__ 
+    (b) __Policy.—__ 
 
     Intelligent transportation system research projects and operational tests funded pursuant to this chapter shall encourage and not displace public-private partnerships or private sector investment in those tests and projects.
 
-    (c)  __Cooperation With Governmental, Private, and Educational Entities__  __.—__ 
+    (c) __Cooperation With Governmental, Private, and Educational Entities.—__ 
 
     The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
 
-    (d)  __Consultation With Federal Officials__  __.—__ 
+    (d) __Consultation With Federal Officials.—__ 
 
     In carrying out the intelligent transportation system program, the Secretary shall consult with the heads of other Federal agencies, as appropriate.
 
-    (e)  __Technical Assistance, Training, and Information__  __.—__ 
+    (e) __Technical Assistance, Training, and Information.—__ 
 
     The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
 
-    (f)  __Transportation Planning__  __.—__ 
+    (f) __Transportation Planning.—__ 
 
     The Secretary may provide funding to support adequate consideration of transportation systems management and operations, including intelligent transportation systems, within metropolitan and statewide transportation planning processes.
 
-    (g)  __Information Clearinghouse__  __.—__ 
+    (g) __Information Clearinghouse.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall—
 
@@ -53,27 +53,27 @@
 
             (B) make, on request, that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost.
 
-        (2)  __Agreement__  __.—__ 
+        (2) __Agreement.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary may enter into an agreement with a third party for the maintenance of the repository for technical and safety data under paragraph (1)(A).
 
-            (B)  __Federal financial assistance__  __.—__ 
+            (B) __Federal financial assistance.—__ 
 
             If the Secretary enters into an agreement with an entity for the maintenance of the repository, the entity shall be eligible for Federal financial assistance under this section.
 
-        (3)  __Availability of information__  __.—__ 
+        (3) __Availability of information.—__ 
 
         Information in the repository shall not be subject to sections 552 and 555 of title 5, United States Code.
 
-    (h)  __Advisory Committee__  __.—__ 
+    (h) __Advisory Committee.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out this chapter.
 
-        (2)  __Membership__  __.—__ 
+        (2) __Membership.—__ 
 
         The Advisory Committee shall have no more than 20 members, be balanced between metropolitan and rural interests, and include, at a minimum—
 
@@ -101,7 +101,7 @@
 
             (L) members with expertise in planning, safety, telecommunications, utilities, and operations.
 
-        (3)  __Duties__  __.—__ 
+        (3) __Duties.—__ 
 
         The Advisory Committee shall, at a minimum, perform the following duties:
 
@@ -117,7 +117,7 @@
 
                 (iii) the appropriate roles for government and the private sector in investing in the research and technologies being considered.
 
-        (4)  __Report__  __.—__ 
+        (4) __Report.—__ 
 
         Not later than February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary shall submit to Congress a report that includes—
 
@@ -127,27 +127,27 @@
 
             (C) for recommendations not implemented, the reasons for rejecting the recommendations.
 
-        (5)  __Applicability of federal advisory committee act__  __.—__ 
+        (5) __Applicability of federal advisory committee act.—__ 
 
         The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-    (i)  __Reporting__  __.—__ 
+    (i) __Reporting.—__ 
 
-        (1)  __Guidelines and requirements__  __.—__ 
+        (1) __Guidelines and requirements.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall issue guidelines and requirements for the reporting and evaluation of operational tests and deployment projects carried out under this chapter.
 
-            (B)  __Objectivity and independence__  __.—__ 
+            (B) __Objectivity and independence.—__ 
 
             The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this chapter.
 
-            (C)  __Funding__  __.—__ 
+            (C) __Funding.—__ 
 
             The guidelines and requirements issued under subparagraph (A) shall establish reporting funding levels based on the size and scope of each test or project that ensure adequate reporting of the results of the test or project.
 
-        (2)  __Special rule__  __.—__ 
+        (2) __Special rule.—__ 
 
         Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under this chapter shall not be subject to chapter 35 of title 44, United States Code.
 
@@ -155,7 +155,7 @@
 
  __References in Text__ 
 
-    The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (h)(4), is the date of enactment of div. E of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
+    The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (h)(4), is the date of enactment of div. E of [Pub. L. 121–141][/us/pl/121/141], which was approved July 6, 2012.
 
     The Federal Advisory Committee Act, referred to in subsec. (h)(5), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -172,7 +172,7 @@
 
 [/us/pl/112/141/s53003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs53003%2Fa
 [/us/stat/126/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F899
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/121/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F121%2F141
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

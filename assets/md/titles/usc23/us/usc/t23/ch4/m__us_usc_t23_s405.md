@@ -15,67 +15,67 @@
 
 ## § 405. National priority safety programs
 
-    (a)  __General Authority__  __.—__ 
+    (a) __General Authority.—__ 
 
     Subject to the requirements of this section, the Secretary of Transportation shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the priorities set forth in paragraphs (1) and (2).
 
-        (1)  __Grants to states__  __.—__ 
+        (1) __Grants to states.—__ 
 
-            (A)  __Occupant protection__  __.—__ 
+            (A) __Occupant protection.—__ 
 
             16 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles (as described in subsection (b)).
 
-            (B)  __State traffic safety information system improvements__  __.—__ 
+            (B) __State traffic safety information system improvements.—__ 
 
             14.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that meet the requirements of the State traffic safety information system improvements (as described in subsection (c)).
 
-            (C)  __Impaired driving countermeasures__  __.—__ 
+            (C) __Impaired driving countermeasures.—__ 
 
             52.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that meet the requirements of the impaired driving countermeasures (as described in subsection (d)).
 
-            (D)  __Distracted driving__  __.—__ 
+            (D) __Distracted driving.—__ 
 
             8.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement effective laws to reduce distracted driving (as described in subsection (e)).
 
-            (E)  __Motorcyclist safety__  __.—__ 
+            (E) __Motorcyclist safety.—__ 
 
             1.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that implement motorcyclist safety programs (as described in subsection (f)).
 
-            (F)  __State graduated driver licensing laws__  __.—__ 
+            (F) __State graduated driver licensing laws.—__ 
 
             5 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).
 
-            (G)  __Transfers__  __.—__ 
+            (G) __Transfers.—__ 
 
             Notwithstanding subparagraphs (A) through (F), the Secretary may reallocate, before the last day of any fiscal year, any amounts remaining available to carry out any of the activities described in subsections (b) through (g) to increase the amount made available to carry out any of the other activities described in such subsections, or the amount made available under section 402, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
 
-            (H)  __Maintenance of effort__  __.—__ 
+            (H) __Maintenance of effort.—__ 
 
-                (i)  __Requirements__  __.—__ 
+                (i) __Requirements.—__ 
 
                 No grant may be made to a State in any fiscal year under subsection (b), (c), or (d) unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all State and local sources for programs described in those sections at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012.
 
-                (ii)  __Waiver__  __.—__ 
+                (ii) __Waiver.—__ 
 
                 Upon the request of a State, the Secretary may waive or modify the requirements under clause (i) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.
 
-        (2)  __Other priority programs__  __.—__ 
+        (2) __Other priority programs.—__ 
 
         Funds provided under this section in each fiscal year may be used for research into technology to prevent alcohol-impaired driving (as described in subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  403(h)).
 
-    (b)  __Occupant Protection Grants__  __.—__ 
+    (b) __Occupant Protection Grants.—__ 
 
-        (1)  __General authority__  __.—__ 
+        (1) __General authority.—__ 
 
         Subject to the requirements under this subsection, the Secretary of Transportation shall award grants to States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles.
 
-        (2)  __Federal share__  __.—__ 
+        (2) __Federal share.—__ 
 
         The Federal share of the costs of activities funded using amounts from grants awarded under this subsection may not exceed 80 percent for each fiscal year for which a State receives a grant.
 
-        (3)  __Eligibility__  __.—__ 
+        (3) __Eligibility.—__ 
 
-            (A)  __High seat belt use rate__  __.—__ 
+            (A) __High seat belt use rate.—__ 
 
             A State with an observed seat belt use rate of 90 percent or higher, based on the most recent data from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if the State—
 
@@ -87,7 +87,7 @@
 
                 (iv) has a plan to recruit, train, and maintain a sufficient number of child passenger safety technicians.
 
-            (B)  __Lower seat belt use rate__  __.—__ 
+            (B) __Lower seat belt use rate.—__ 
 
             A State with an observed seat belt use rate below 90 percent, based on the most recent data from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if—
 
@@ -125,9 +125,9 @@
 
                         (bb) will conduct such an assessment during the first year of the grant.
 
-        (4)  __Use of grant amounts__  __.—__ 
+        (4) __Use of grant amounts.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Grant funds received pursuant to this subsection may be used to—
 
@@ -143,19 +143,19 @@
 
                 (vi) establish and maintain information systems containing data concerning occupant protection, including the collection and administration of child passenger safety and occupant protection surveys.
 
-            (B)  __High seat belt use rate__  __.—__ 
+            (B) __High seat belt use rate.—__ 
 
             A State that is eligible for funds under paragraph (3)(A) may use up to 75 percent of such funds for any project or activity eligible for funding under section 402.
 
-        (5)  __Grant amount__  __.—__ 
+        (5) __Grant amount.—__ 
 
         The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
 
-        (6)  __Definitions__  __.—__ 
+        (6) __Definitions.—__ 
 
         In this subsection:
 
-            (A)  __Child restraint__  __.—__ 
+            (A) __Child restraint.—__ 
 
             The term “child restraint” means any device (including child safety seat, booster seat, harness, and excepting seat belts) that is—
 
@@ -163,7 +163,7 @@
 
                 (ii) certified to the Federal motor vehicle safety standard prescribed by the National Highway Traffic Safety Administration for child restraints.
 
-            (B)  __Seat belt__  __.—__ 
+            (B) __Seat belt.—__ 
 
             The term “seat belt” means—
 
@@ -171,9 +171,9 @@
 
                 (ii) with respect to other motor vehicles, an occupant restraint system consisting of integrated lap and shoulder belts.
 
-    (c)  __State Traffic Safety Information System Improvements__  __.—__ 
+    (c) __State Traffic Safety Information System Improvements.—__ 
 
-        (1)  __General authority__  __.—__ 
+        (1) __General authority.—__ 
 
         Subject to the requirements under this subsection, the Secretary of Transportation shall award grants to States to support the development and implementation of effective State programs that—
 
@@ -187,11 +187,11 @@
 
             (E) enhance the ability of the Secretary to observe and analyze national trends in crash occurrences, rates, outcomes, and circumstances.
 
-        (2)  __Federal share__  __.—__ 
+        (2) __Federal share.—__ 
 
         The Federal share of the cost of adopting and implementing in a fiscal year a State program described in this subsection may not exceed 80 percent.
 
-        (3)  __Eligibility__  __.—__ 
+        (3) __Eligibility.—__ 
 
         A State is not eligible for a grant under this subsection in a fiscal year unless the State demonstrates, to the satisfaction of the Secretary, that the State—
 
@@ -219,17 +219,17 @@
 
             (E) has certified to the Secretary that an assessment of the State’s highway safety data and traffic records system was conducted or updated during the preceding 5 years.
 
-        (4)  __Use of grant amounts__  __.—__ 
+        (4) __Use of grant amounts.—__ 
 
         Grant funds received by a State under this subsection shall be used for making data program improvements to core highway safety databases related to quantifiable, measurable progress in any of the 6 significant data program attributes set forth in paragraph (3)(D).
 
-        (5)  __Grant amount__  __.—__ 
+        (5) __Grant amount.—__ 
 
         The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
 
-    (d)  __Impaired Driving Countermeasures__  __.—__ 
+    (d) __Impaired Driving Countermeasures.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Subject to the requirements under this subsection, the Secretary of Transportation shall award grants to States that adopt and implement—
 
@@ -237,17 +237,17 @@
 
             (B) alcohol-ignition interlock laws.
 
-        (2)  __Federal share__  __.—__ 
+        (2) __Federal share.—__ 
 
         The Federal share of the costs of activities funded using amounts from grants under this subsection may not exceed 80 percent in any fiscal year in which the State receives a grant.
 
-        (3)  __Eligibility__  __.—__ 
+        (3) __Eligibility.—__ 
 
-            (A)  __Low-range states__  __.—__ 
+            (A) __Low-range states.—__ 
 
             Low-range States shall be eligible for a grant under this subsection.
 
-            (B)  __Mid-range states__  __.—__ 
+            (B) __Mid-range states.—__ 
 
             A mid-range State shall be eligible for a grant under this subsection if—
 
@@ -255,7 +255,7 @@
 
                 (ii) the State will convene a statewide impaired driving task force to develop such a plan during the first year of the grant.
 
-            (C)  __High-range states__  __.—__ 
+            (C) __High-range states.—__ 
 
             A high-range State shall be eligible for a grant under this subsection if the State—
 
@@ -283,9 +283,9 @@
 
                     (III) submits each updated statewide plan for the agency’s review and comment.
 
-        (4)  __Use of grant amounts__  __.—__ 
+        (4) __Use of grant amounts.—__ 
 
-            (A)  __Required programs__  __.—__ 
+            (A) __Required programs.—__ 
 
             High-range States shall use grant funds for—
 
@@ -299,7 +299,7 @@
 
                     (II) the Secretary approves the use of funding for such activity.
 
-            (B)  __Authorized programs__  __.—__ 
+            (B) __Authorized programs.—__ 
 
             Medium-range and low-range States may use grant funds for—
 
@@ -321,37 +321,37 @@
 
                 (ix) costs associated with a 24-7 sobriety program.
 
-            (C)  __Other programs__  __.—__ 
+            (C) __Other programs.—__ 
 
             Low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification. Medium and high-range States may use funds for such expenditures upon approval by the Secretary.
 
-        (5)  __Grant amount__  __.—__ 
+        (5) __Grant amount.—__ 
 
         Subject to paragraph (6), the allocation of grant funds to a State under this section for a fiscal year shall be in proportion to the State’s apportionment under section 402(c) for fiscal year 2009.
 
-        (6)  __Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws__  __.—__ 
+        (6) __Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.
 
-            (B)  __Use of funds__  __.—__ 
+            (B) __Use of funds.—__ 
 
             Grants authorized under subparagraph (A) may be used by recipient States for any eligible activities under this subsection or section 402.
 
-            (C)  __Allocation__  __.—__ 
+            (C) __Allocation.—__ 
 
             Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) on the basis of the apportionment formula set forth in section 402(c).
 
-            (D)  __Funding__  __.—__ 
+            (D) __Funding.—__ 
 
             Not more than 15 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under this paragraph.
 
-        (7)  __Definitions__  __.—__ 
+        (7) __Definitions.—__ 
 
         In this subsection:
 
-            (A)  __24-7 sobriety program__  __.—__ 
+            (A) __24-7 sobriety program.—__ 
 
             The term “24-7 sobriety program” means a State law or program that authorizes a State court or a State agency, as a condition of sentence, probation, parole, or work permit, to—
 
@@ -367,29 +367,29 @@
 
                     (III) by an alternate method with the concurrence of the Secretary.
 
-            (B)  __Average impaired driving fatality rate__  __.—__ 
+            (B) __Average impaired driving fatality rate.—__ 
 
             The term “average impaired driving fatality rate” means the number of fatalities in motor vehicle crashes involving a driver with a blood alcohol concentration of at least 0.08 percent for every 100,000,000 vehicle miles traveled, based on the most recently reported 3 calendar years of final data from the Fatality Analysis Reporting System, as calculated in accordance with regulations prescribed by the Administrator of the National Highway Traffic Safety Administration.
 
-            (C)  __High-range state__  __.—__ 
+            (C) __High-range state.—__ 
 
             The term “high-range State” means a State that has an average impaired driving fatality rate of 0.60 or higher.
 
-            (D)  __Low-range state__  __.—__ 
+            (D) __Low-range state.—__ 
 
             The term “low-range State” means a State that has an average impaired driving fatality rate of 0.30 or lower.. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
-            (E)  __Mid-range state__  __.—__ 
+            (E) __Mid-range state.—__ 
 
             The term “mid-range State” means a State that has an average impaired driving fatality rate that is higher than 0.30 and lower than 0.60.
 
-    (e)  __Distracted Driving Grants__  __.—__ 
+    (e) __Distracted Driving Grants.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall award a grant under this subsection to any State that enacts and enforces a statute that meets the requirements set forth in paragraphs (2) and (3).
 
-        (2)  __Prohibition on texting while driving__  __.—__ 
+        (2) __Prohibition on texting while driving.—__ 
 
         A State statute meets the requirements set forth in this paragraph if the statute—
 
@@ -405,7 +405,7 @@
 
                 (ii) increased fines for repeat violations.
 
-        (3)  __Prohibition on youth cell phone use while driving__  __.—__ 
+        (3) __Prohibition on youth cell phone use while driving.—__ 
 
         A State statute meets the requirements set forth in this paragraph if the statute—
 
@@ -423,7 +423,7 @@
 
                 (ii) increased fines for repeat violations.
 
-        (4)  __Permitted exceptions__  __.—__ 
+        (4) __Permitted exceptions.—__ 
 
         A statute that meets the requirements set forth in paragraphs (2) and (3) may provide exceptions for—
 
@@ -439,7 +439,7 @@
 
             (C) an individual employed as a commercial motor vehicle driver or a school bus driver who uses a personal wireless communications device within the scope of such individual’s employment if such use is permitted under the regulations promulgated pursuant to [section 31152 of title 49][/us/usc/t49/s31152].
 
-        (5)  __Use of grant funds__  __.—__ 
+        (5) __Use of grant funds.—__ 
 
         Of the amounts received by a State under this subsection—
 
@@ -455,7 +455,7 @@
 
             (B) up to 50 percent may be used for any eligible project or activity under section 402.
 
-        (6)  __Additional grants__  __.—__ 
+        (6) __Additional grants.—__ 
 
         In the first fiscal year that grants are awarded under this subsection, the Secretary may use up to 25 percent of the amounts available for grants under this subsection to award grants to States that—
 
@@ -463,17 +463,17 @@
 
             (B) are otherwise ineligible for a grant under this subsection.
 
-        (7)  __Allocation to support state distracted driving laws__  __.—__ 
+        (7) __Allocation to support state distracted driving laws.—__ 
 
         Of the amounts available under this subsection in a fiscal year for distracted driving grants, the Secretary may expend up to $5,000,000 for the development and placement of broadcast media to support the enforcement of State distracted driving laws.
 
-        (8)  __Distracted driving study__  __.—__ 
+        (8) __Distracted driving study.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall conduct a study of all forms of distracted driving.
 
-            (B)  __Components__  __.—__ 
+            (B) __Components.—__ 
 
             The study conducted under subparagraph (A) shall—
 
@@ -485,7 +485,7 @@
 
                 (iv) identify the most effective method of reducing deaths and injuries caused by all forms of distracted driving.
 
-            (C)  __Report__  __.—__ 
+            (C) __Report.—__ 
 
             Not later than 1 year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, the Secretary shall submit a report containing the results of the study conducted under this paragraph to—
 
@@ -493,11 +493,11 @@
 
                 (ii) the Committee on Transportation and Infrastructure of the House of Representatives.
 
-        (9)  __Definitions__  __.—__ 
+        (9) __Definitions.—__ 
 
         In this subsection:
 
-            (A)  __Driving__  __.—__ 
+            (A) __Driving.—__ 
 
             The term “driving”—
 
@@ -505,7 +505,7 @@
 
                 (ii) does not include operating a motor vehicle when the vehicle has pulled over to the side of, or off, an active roadway and has stopped in a location where it can safely remain stationary.
 
-            (B)  __Personal wireless communications device__  __.—__ 
+            (B) __Personal wireless communications device.—__ 
 
             The term “personal wireless communications device”—
 
@@ -513,33 +513,33 @@
 
                 (ii) does not include a global navigation satellite system receiver used for positioning, emergency notification, or navigation purposes.
 
-            (C)  __Primary offense__  __.—__ 
+            (C) __Primary offense.—__ 
 
             The term “primary offense” means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
 
-            (D)  __Public road__  __.—__ 
+            (D) __Public road.—__ 
 
             The term “public road” has the meaning given such term in section 402(c).
 
-            (E)  __Texting__  __.—__ 
+            (E) __Texting.—__ 
 
             The term “texting” means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, e-mailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.
 
-    (f)  __Motorcyclist Safety__  __.—__ 
+    (f) __Motorcyclist Safety.—__ 
 
-        (1)  __Grants authorized__  __.—__ 
+        (1) __Grants authorized.—__ 
 
         Subject to the requirements under this subsection, the Secretary shall award grants to States that adopt and implement effective programs to reduce the number of single- and multi-vehicle crashes involving motorcyclists.
 
-        (2)  __Allocation__  __.—__ 
+        (2) __Allocation.—__ 
 
         The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.
 
-        (3)  __Grant eligibility__  __.—__ 
+        (3) __Grant eligibility.—__ 
 
         A State becomes eligible for a grant under this subsection by adopting or demonstrating to the satisfaction of the Secretary, at least 2 of the following criteria:
 
-            (A)  __Motorcycle rider training courses__  __.—__ 
+            (A) __Motorcycle rider training courses.—__ 
 
             An effective motorcycle rider training course that is offered throughout the State, which—
 
@@ -547,29 +547,29 @@
 
                 (ii) may include innovative training opportunities to meet unique regional needs.
 
-            (B)  __Motorcyclists awareness program__  __.—__ 
+            (B) __Motorcyclists awareness program.—__ 
 
             An effective statewide program to enhance motorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
 
-            (C)  __Reduction of fatalities and crashes involving motorcycles__  __.—__ 
+            (C) __Reduction of fatalities and crashes involving motorcycles.—__ 
 
             A reduction for the preceding calendar year in the number of motorcycle fatalities and the rate of motor vehicle crashes involving motorcycles in the State (expressed as a function of 10,000 motorcycle registrations).
 
-            (D)  __Impaired driving program__  __.—__ 
+            (D) __Impaired driving program.—__ 
 
             Implementation of a statewide program to reduce impaired driving, including specific measures to reduce impaired motorcycle operation.
 
-            (E)  __Reduction of fatalities and accidents involving impaired motorcyclists__  __.—__ 
+            (E) __Reduction of fatalities and accidents involving impaired motorcyclists.—__ 
 
             A reduction for the preceding calendar year in the number of fatalities and the rate of reported crashes involving alcohol- or drug-impaired motorcycle operators (expressed as a function of 10,000 motorcycle registrations).
 
-            (F)  __Fees collected from motorcyclists__  __.—__ 
+            (F) __Fees collected from motorcyclists.—__ 
 
             All fees collected by the State from motorcyclists for the purposes of funding motorcycle training and safety programs will be used for motorcycle training and safety purposes.
 
-        (4)  __Eligible uses__  __.—__ 
+        (4) __Eligible uses.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             A State may use funds from a grant under this subsection only for motorcyclist safety training and motorcyclist awareness programs, including—
 
@@ -591,15 +591,15 @@
 
                 (iv) public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, such as the “share-the-road” safety messages developed under subsection (g).
 
-            (B)  __Suballocations of funds__  __.—__ 
+            (B) __Suballocations of funds.—__ 
 
             An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
 
-        (5)  __Definitions__  __.—__ 
+        (5) __Definitions.—__ 
 
         In this subsection:
 
-            (A)  __Motorcyclist awareness__  __.—__ 
+            (A) __Motorcyclist awareness.—__ 
 
             The term “motorcyclist awareness” means individual or collective awareness of—
 
@@ -607,31 +607,31 @@
 
                 (ii) safe driving practices that avoid injury to motorcyclists.
 
-            (B)  __Motorcyclist awareness program__  __.—__ 
+            (B) __Motorcyclist awareness program.—__ 
 
             The term “motorcyclist awareness program” means an informational or public awareness program designed to enhance motorcyclist awareness that is developed by or in coordination with the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
 
-            (C)  __Motorcyclist safety training__  __.—__ 
+            (C) __Motorcyclist safety training.—__ 
 
             The term “motorcyclist safety training” means a formal program of instruction that is approved for use in a State by the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
 
-            (D)  __State__  __.—__ 
+            (D) __State.—__ 
 
             The term “State” has the meaning given such term in [section 101(a) of title 23][/us/usc/t23/s101/a], United States Code.
 
-    (g)  __State Graduated Driver Licensing Incentive Grant__  __.—__ 
+    (g) __State Graduated Driver Licensing Incentive Grant.—__ 
 
-        (1)  __Grants authorized__  __.—__ 
+        (1) __Grants authorized.—__ 
 
         Subject to the requirements under this subsection, the Secretary shall award grants to States that adopt and implement graduated driver licensing laws in accordance with the requirements set forth in paragraph (2).
 
-        (2)  __Minimum requirements__  __.—__ 
+        (2) __Minimum requirements.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             A State meets the requirements set forth in this paragraph if the State has a graduated driver licensing law that requires novice drivers younger than 21 years of age to comply with the 2-stage licensing process described in subparagraph (B) before receiving an unrestricted driver’s license.
 
-            (B)  __Licensing process__  __.—__ 
+            (B) __Licensing process.—__ 
 
             A State is in compliance with the 2-stage licensing process described in this subparagraph if the State’s driver’s license laws include—
 
@@ -697,13 +697,13 @@
 
                         (ff) any other driving-related offense, as determined by the Secretary.
 
-        (3)  __Rulemaking__  __.—__ 
+        (3) __Rulemaking.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall promulgate regulations necessary to implement the requirements set forth in paragraph (2), in accordance with the notice and comment provisions under [section 553 of title 5][/us/usc/t5/s553].
 
-            (B)  __Exception__  __.—__ 
+            (B) __Exception.—__ 
 
             A State that otherwise meets the minimum requirements set forth in paragraph (2) shall be deemed by the Secretary to be in compliance with the requirement set forth in paragraph (2) if the State enacted a law before January 1, 2011, establishing a class of license that permits licensees or applicants younger than 18 years of age to drive a motor vehicle—
 
@@ -711,11 +711,11 @@
 
                 (ii) if demonstrable hardship would result from the denial of a license to the licensees or applicants.
 
-        (4)  __Allocation__  __.—__ 
+        (4) __Allocation.—__ 
 
         Grant funds allocated to a State under this subsection for a fiscal year shall be in proportion to a State’s apportionment under section 402 for such fiscal year.
 
-        (5)  __Use of funds__  __.—__ 
+        (5) __Use of funds.—__ 
 
         Of the grant funds received by a State under this subsection—
 

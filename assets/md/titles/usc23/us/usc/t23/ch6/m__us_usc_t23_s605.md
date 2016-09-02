@@ -15,11 +15,11 @@
 
 ## § 605. Program administration
 
-    (a)  __Requirement__  __.—__ 
+    (a) __Requirement.—__ 
 
     The Secretary shall establish a uniform system to service the Federal credit instruments made available under this chapter.
 
-    (b)  __Fees__  __.—__ 
+    (b) __Fees.—__ 
 
     The Secretary may collect and spend fees, contingent on authority being provided in appropriations Acts, at a level that is sufficient to cover—
 
@@ -27,25 +27,25 @@
 
         (2) all or a portion of the costs to the Federal Government of servicing the Federal credit instruments.
 
-    (c)  __Servicer__  __.—__ 
+    (c) __Servicer.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary may appoint a financial entity to assist the Secretary in servicing the Federal credit instruments.
 
-        (2)  __Duties__  __.—__ 
+        (2) __Duties.—__ 
 
         A servicer appointed under paragraph (1) shall act as the agent for the Secretary.
 
-        (3)  __Fee__  __.—__ 
+        (3) __Fee.—__ 
 
         A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary.
 
-    (d)  __Assistance From Expert Firms__  __.—__ 
+    (d) __Assistance From Expert Firms.—__ 
 
     The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
 
-    (e)  __Expedited Processing__  __.—__ 
+    (e) __Expedited Processing.—__ 
 
     The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under this chapter.
 

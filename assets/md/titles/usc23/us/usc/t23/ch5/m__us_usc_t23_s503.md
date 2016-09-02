@@ -15,7 +15,7 @@
 
 ## § 503. Research and technology development and deployment
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Secretary shall—
 
@@ -23,9 +23,9 @@
 
         (2) ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508.
 
-    (b)  __Highway Research and Development Program__  __.—__ 
+    (b) __Highway Research and Development Program.—__ 
 
-        (1)  __Objectives__  __.—__ 
+        (1) __Objectives.—__ 
 
         In carrying out the highway research and development program, the Secretary, to address current and emerging highway transportation needs, shall—
 
@@ -37,13 +37,13 @@
 
             (D) provide technology transfer and technical assistance.
 
-        (2)  __Improving highway safety__  __.—__ 
+        (2) __Improving highway safety.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall carry out research and development activities from an integrated perspective to establish and implement systematic measures to improve highway safety.
 
-            (B)  __Objectives__  __.—__ 
+            (B) __Objectives.—__ 
 
             In carrying out this paragraph, the Secretary shall carry out research and development activities—
 
@@ -59,7 +59,7 @@
 
                 (vi) to expand technology transfer to partners and stakeholders.
 
-            (C)  __Contents__  __.—__ 
+            (C) __Contents.—__ 
 
             Research and technology activities carried out under this paragraph may include—
 
@@ -93,9 +93,9 @@
 
                 (xv) tools and methods to enhance safety performance, including achievement of statewide safety performance targets.
 
-        (3)  __Improving infrastructure integrity__  __.—__ 
+        (3) __Improving infrastructure integrity.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall carry out and facilitate highway and bridge infrastructure research and development activities—
 
@@ -105,7 +105,7 @@
 
                 (iii) to link Federal transportation investments to improvements in system performance.
 
-            (B)  __Objectives__  __.—__ 
+            (B) __Objectives.—__ 
 
             In carrying out this paragraph, the Secretary shall carry out research and development activities—
 
@@ -125,7 +125,7 @@
 
                 (viii) to study vulnerabilities of the transportation system to seismic activities and extreme events and methods to reduce those vulnerabilities.
 
-            (C)  __Contents__  __.—__ 
+            (C) __Contents.—__ 
 
             Research and technology activities carried out under this paragraph may include—
 
@@ -167,17 +167,17 @@
 
                 (xix) technology transfer and adoption of permeable, pervious, or porous paving materials, practices, and systems that are designed to minimize environmental impacts, stormwater runoff, and flooding and to treat or remove pollutants by allowing stormwater to infiltrate through the pavement in a manner similar to predevelopment hydrologic conditions.
 
-            (D)  __Lifecycle costs analysis study__  __.—__ 
+            (D) __Lifecycle costs analysis study.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 In this subparagraph, the term “lifecycle costs analysis” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
 
-                (ii)  __Study__  __.—__ 
+                (ii) __Study.—__ 
 
                 The Comptroller General shall conduct a study of the best practices for calculating lifecycle costs and benefits for federally funded highway projects, which shall include, at a minimum, a thorough literature review and a survey of current lifecycle cost practices of State departments of transportation.
 
-                (iii)  __Consultation__  __.—__ 
+                (iii) __Consultation.—__ 
 
                 In carrying out the study, the Comptroller shall consult with, at a minimum—
 
@@ -187,7 +187,7 @@
 
                     (III) appropriate industry experts and research centers.
 
-            (E)  __Report__  __.—__ 
+            (E) __Report.—__ 
 
             Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Comptroller General shall submit to the Committee on Environment and Public Works of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives a report on the results of the study which shall include—
 
@@ -207,7 +207,7 @@
 
         (4) __Strengthening transportation planning and environmental decisionmaking.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary may carry out research—
 
@@ -217,7 +217,7 @@
 
                 (iii) to minimize the potential impact of surface transportation on the environment.
 
-            (B)  __Objectives__  __.—__ 
+            (B) __Objectives.—__ 
 
             In carrying out this paragraph the Secretary may carry out research and development activities—
 
@@ -237,7 +237,7 @@
 
                 (viii) to improve transportation planning decisionmaking and coordination.
 
-            (C)  __Contents__  __.—__ 
+            (C) __Contents.—__ 
 
             Research and technology activities carried out under this paragraph may include—
 
@@ -253,7 +253,7 @@
 
         (5) __Reducing congestion, improving highway operations, and enhancing freight productivity.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall carry out research under this paragraph with the goals of—
 
@@ -267,7 +267,7 @@
 
                 (v) improving the economic competitiveness of the United States.
 
-            (B)  __Objectives__  __.—__ 
+            (B) __Objectives.—__ 
 
             In carrying out this paragraph, the Secretary shall carry out research and development activities to identify, develop, and assess innovations that have the potential—
 
@@ -277,7 +277,7 @@
 
                 (iii) to reduce freight-related congestion throughout the transportation network.
 
-            (C)  __Contents__  __.—__ 
+            (C) __Contents.—__ 
 
             Research and technology activities carried out under this paragraph may include—
 
@@ -331,7 +331,7 @@
 
                 (xxv) other research areas to identify and address emerging needs related to freight transportation by all modes.
 
-        (6)  __Exploratory advanced research__  __.—__ 
+        (6) __Exploratory advanced research.—__ 
 
         The Secretary shall carry out research and development activities relating to exploratory advanced research—
 
@@ -339,13 +339,13 @@
 
             (B) to develop potentially transformational solutions to improve the durability, efficiency, environmental impact, productivity, and safety aspects of highway and intermodal transportation systems.
 
-        (7)  __Turner-fairbank highway research center__  __.—__ 
+        (7) __Turner-fairbank highway research center.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall continue to operate in the Federal Highway Administration a Turner-Fairbank Highway Research Center.
 
-            (B)  __Uses of the center__  __.—__ 
+            (B) __Uses of the center.—__ 
 
             The Turner-Fairbank Highway Research Center shall support—
 
@@ -357,17 +357,17 @@
 
                 (iv) the conduct of long-term, high-risk research to improve the materials used in highway infrastructure.
 
-        (8)  __Infrastructure investment needs report__  __.—__ 
+        (8) __Infrastructure investment needs report.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Not later than July 31, 2013, and July 31 of every second year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes estimates of the future highway and bridge needs of the United States and the backlog of current highway and bridge needs.
 
-            (B)  __Comparisons__  __.—__ 
+            (B) __Comparisons.—__ 
 
             Each report under subparagraph (A) shall include all information necessary to relate and compare the conditions and service measures used in the previous biennial reports to conditions and service measures used in the current report.
 
-            (C)  __Inclusions__  __.—__ 
+            (C) __Inclusions.—__ 
 
             Each report under subparagraph (A) shall provide recommendations to Congress on changes to the highway performance monitoring system that address—
 
@@ -375,9 +375,9 @@
 
                 (ii) changes to the reporting requirements authorized under section 315, to reflect recommendations under this paragraph for collection, storage, analysis, reporting, and display of data for Federal-aid highways and, to the maximum extent practical, all public roads.
 
-    (c)  __Technology and Innovation Deployment Program__  __.—__ 
+    (c) __Technology and Innovation Deployment Program.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
 
@@ -391,13 +391,13 @@
 
             (E) developing and deploying new tools, techniques, and practices to accelerate the adoption of innovation in all aspects of highway transportation.
 
-        (2)  __Implementation__  __.—__ 
+        (2) __Implementation.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall promote, facilitate, and carry out the program established under paragraph (1) to distribute the products, technologies, tools, methods, or other findings that result from highway research and development activities, including research and development activities carried out under this chapter.
 
-            (B)  __Accelerated innovation deployment__  __.—__ 
+            (B) __Accelerated innovation deployment.—__ 
 
             In carrying out the program established under paragraph (1), the Secretary shall—
 
@@ -407,27 +407,27 @@
 
                 (iii) develop improved tools and methods to accelerate the adoption of proven innovative practices and technologies as standard practices.
 
-            (C)  __Implementation of future strategic highway research program findings and results__  __.—__ 
+            (C) __Implementation of future strategic highway research program findings and results.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The Secretary, in consultation with the American Association of State Highway and Transportation Officials and the Transportation Research Board of the National Academy of Sciences, shall promote research results and products developed under the future strategic highway research program administered by the Transportation Research Board of the National Academy of Sciences.
 
-                (ii)  __Basis for findings__  __.—__ 
+                (ii) __Basis for findings.—__ 
 
                 The activities carried out under this subparagraph shall be based on the report submitted to Congress by the Transportation Research Board of the National Academy of Sciences under section 510(e).
 
-                (iii)  __Personnel__  __.—__ 
+                (iii) __Personnel.—__ 
 
                 The Secretary may use funds made available to carry out this subsection for administrative costs under this subparagraph.
 
-        (3)  __Accelerated implementation and deployment of pavement technologies__  __.—__ 
+        (3) __Accelerated implementation and deployment of pavement technologies.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary shall establish and implement a program under the technology and innovation deployment program to promote, implement, deploy, demonstrate, showcase, support, and document the application of innovative pavement technologies, practices, performance, and benefits.
 
-            (B)  __Goals__  __.—__ 
+            (B) __Goals.—__ 
 
             The goals of the accelerated implementation and deployment of pavement technologies program shall include—
 
@@ -443,7 +443,7 @@
 
                 (vi) effective technology transfer and information dissemination to accelerate implementation of new technologies and to improve life, performance, cost effectiveness, safety, and user satisfaction.
 
-            (C)  __Funding__  __.—__ 
+            (C) __Funding.—__ 
 
             The Secretary shall obligate for each of fiscal years 2013 through 2014 from funds made available to carry out this subsection $12,000,000 to accelerate the deployment and implementation of pavement technology.
 
@@ -509,11 +509,11 @@
 
 [Pub. L. 109–59, title V, § 5202(c)][/us/pl/109/59/s5202/c], Aug. 10, 2005, [119 Stat. 1786][/us/stat/119/1786], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Secretary \[of Transportation\] shall carry out a program to demonstrate the application of high-performing steel in the construction and rehabilitation of bridges.
 
->     “(2)  __Funding__  __.—__ 
+>     “(2) __Funding.—__ 
 
 >     Of the amounts made available by section 5101(a)(1) of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], $4,100,000 for each of fiscal years 2006 through 2009 shall be available to carry out this subsection.”
 
@@ -521,15 +521,15 @@
 
 [Pub. L. 109–59, title V, § 5202(d)][/us/pl/109/59/s5202/d], Aug. 10, 2005, [119 Stat. 1787][/us/stat/119/1787], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Secretary \[of Transportation\] shall carry out a program to test steel bridges using a nondestructive technology that is able to detect growing cracks, including subsurface flaws as small as 0.010 inches in length or depth, in the bridges.
 
->     “(2)  __Funding__  __.—__ 
+>     “(2) __Funding.—__ 
 
 >     Of the amounts made available by section 5101(a)(1) of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], $1,250,000 for each of fiscal years 2006 through 2009 shall be available to carry out this subsection.
 
->     “(3)  __Federal share__  __.—__ 
+>     “(3) __Federal share.—__ 
 
 >     The Federal share of the cost of activities carried out in accordance with this subsection shall be 80 percent.”
 

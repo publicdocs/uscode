@@ -17,15 +17,15 @@
 
     In this chapter, the following definitions apply:
 
-    (1)  __Federal laboratory__  __.—__ 
+    (1) __Federal laboratory.—__ 
 
     The term “Federal laboratory” includes a Government-owned, Government-operated laboratory and a Government-owned, contractor-operated laboratory.
 
-    (2)  __Incident__  __.—__ 
+    (2) __Incident.—__ 
 
     The term “incident” means a crash, natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
 
-    (3)  __Innovation lifecycle__  __.—__ 
+    (3) __Innovation lifecycle.—__ 
 
     The term “innovation lifecycle” means the process of innovating through—
 
@@ -39,15 +39,15 @@
 
         (E) carrying out an evaluation of the costs and benefits of the resulting technology or innovation.
 
-    (4)  __Intelligent transportation infrastructure__  __.—__ 
+    (4) __Intelligent transportation infrastructure.—__ 
 
     The term “intelligent transportation infrastructure” means fully integrated public sector intelligent transportation system components, as defined by the Secretary.
 
-    (5)  __Intelligent transportation system__  __.—__ 
+    (5) __Intelligent transportation system.—__ 
 
     The terms “intelligent transportation system” and “ITS” mean electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.
 
-    (6)  __National architecture__  __.—__ 
+    (6) __National architecture.—__ 
 
     For purposes of this chapter, the term “national architecture” means the common framework for interoperability that defines—
 
@@ -59,15 +59,15 @@
 
         (D) the communications requirements associated with the information flows.
 
-    (7)  __Project__  __.—__ 
+    (7) __Project.—__ 
 
     The term “project” means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible for assistance under this chapter.
 
-    (8)  __Safety__  __.—__ 
+    (8) __Safety.—__ 
 
     The term “safety” includes highway and traffic safety systems, research, and development relating to vehicle, highway, driver, passenger, bicyclist, and pedestrian characteristics, accident investigations, communications, emergency medical care, and transportation of the injured.
 
-    (9)  __Standard__  __.—__ 
+    (9) __Standard.—__ 
 
     The term “standard” means a document that—
 

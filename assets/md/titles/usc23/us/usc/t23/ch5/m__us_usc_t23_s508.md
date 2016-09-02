@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1)  __Development__  __.—__ 
+        (1) __Development.—__ 
 
         Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary shall develop a 5-year transportation research and development strategic plan to guide Federal transportation research and development activities. This plan shall be consistent with [section 306 of title 5][/us/usc/t5/s306], sections 1115 and 1116 of title 31, and any other research and development plan within the Department of Transportation.
 
-        (2)  __Contents__  __.—__ 
+        (2) __Contents.—__ 
 
         The strategic plan developed under paragraph (1) shall—
 
@@ -51,7 +51,7 @@
 
                 (ii) the additional information the Department expects to gain at the end of the period covered by the strategic plan as a result of the research and development in that topic area.
 
-        (3)  __Considerations__  __.—__ 
+        (3) __Considerations.—__ 
 
         In developing the strategic plan, the Secretary shall ensure that the plan—
 
@@ -61,7 +61,7 @@
 
             (C) takes into account how research and development by other Federal, State, private sector, and nonprofit institutions contributes to the achievement of the purposes identified under paragraph (2)(A), and avoids unnecessary duplication with these efforts.
 
-        (4)  __Performance plans and reports__  __.—__ 
+        (4) __Performance plans and reports.—__ 
 
         In reports submitted under sections 1115 and 1116 of title 31, the Secretary shall include—
 
@@ -73,11 +73,11 @@
 
             (D) any amendments to the strategic plan.
 
-    (b)  __Annual Report__  __.—__ 
+    (b) __Annual Report.—__ 
 
     The Secretary shall submit to appropriate committees of Congress an annual report, in conjunction with the President’s annual budget request as set forth in [section 1105 of title 31][/us/usc/t31/s1105], describing the amount spent in the last completed fiscal year on transportation research and development and the amount proposed in the current budget for transportation research and development.
 
-    (c)  __National Research Council Review__  __.—__ 
+    (c) __National Research Council Review.—__ 
 
     The Secretary shall enter into an agreement for the review by the National Research Council of the details of each—
 
@@ -125,7 +125,7 @@
 
 [Pub. L. 102–240, title VI, § 6009][/us/pl/102/240/s6009], Dec. 18, 1991, [105 Stat. 2175][/us/stat/105/2175], as amended by [Pub. L. 104–59, title III, § 338(c)(1)][/us/pl/104/59/s338/c/1], Nov. 28, 1995, [109 Stat. 604][/us/stat/109/604], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     Congress finds that—
 
@@ -159,15 +159,15 @@
 
 >     “(b) __Surface Transportation Research and Development Plan.—__ 
 
->         “(1)  __Development__  __.—__ 
+>         “(1) __Development.—__ 
 
 >         The Secretary shall develop an integrated national surface transportation research and development plan (hereinafter in this subsection referred to as the ‘plan’).
 
->         “(2)  __Focus__  __.—__ 
+>         “(2) __Focus.—__ 
 
 >         The plan shall focus on surface transportation systems needed for urban, suburban, and rural areas in the next decade.
 
->         “(3)  __Contents__  __.—__ 
+>         “(3) __Contents.—__ 
 
 >         The plan shall include the following:
 
@@ -177,7 +177,7 @@
 
 >             “(C) Recommendations on changes needed to assure that Federal, State, and local contracting procedures encourage the adoption of advanced technologies developed as a consequence of the research programs in this Act \[[Pub. L. 102–240][/us/pl/102/240], see Tables for classification\].
 
->         “(4)  __Objectives__  __.—__ 
+>         “(4) __Objectives.—__ 
 
 >         The plan shall provide for the following:
 
@@ -185,23 +185,23 @@
 
 >             “(B) Maintenance of a long-term advanced research and development program to provide for next generation surface transportation systems.
 
->         “(5)  __Cooperation with industry__  __.—__ 
+>         “(5) __Cooperation with industry.—__ 
 
 >         A primary component of the plan shall be cooperation with industry in carrying out this part \[part A (§§ 6001–6024) of title VI of [Pub. L. 102–240][/us/pl/102/240], enacting sections 325 and 326 of this title, sections 3711b and 3711c of Title 15, Commerce and Trade, [section 111 of Title 49][/us/usc/t49/s111], Transportation, and section 1625 of former Title 49, Transportation, amending sections 204, 307, and 321 of this title, [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, sections 3708 and 3712 to 3715 of Title 15, sections 101 and 301 of Title 49, and sections 1607c and 1608 of former Title 49, enacting provisions set out as notes under sections 101, 112, and 307 of this title and sections 111 and 301 of Title 49, and amending provisions set out as notes under section 1608 of former Title 49\] and strengthening the manufacturing capabilities of United States firms in order to produce products for surface transportation systems.
 
->         “(6)  __Conformance with plan__  __.—__ 
+>         “(6) __Conformance with plan.—__ 
 
 >         All surface transportation research and development within the Department of Transportation shall be included in the plan and shall be evaluated in accordance with the plan.
 
->         “(7)  __Coordination__  __.—__ 
+>         “(7) __Coordination.—__ 
 
 >         In developing the plan and carrying out this part, the Secretary shall consult with and, where appropriate, use the expertise of other Federal agencies and their laboratories.
 
->         “(8)  __Transmittal__  __.—__ 
+>         “(8) __Transmittal.—__ 
 
 >         On or before January 15, 1993, and annually thereafter, the Secretary shall transmit the plan to Congress, together with the Secretary’s comments and recommendations. The Secretary shall review and update the plan before each transmittal under this paragraph.
 
->         “(9)  __Recommendations for alternatives__  __.—__ 
+>         “(9) __Recommendations for alternatives.—__ 
 
 >         In the event a different technology or alternative program can be identified that would accomplish the same or better results than those described in this part, the Secretary may make recommendations for an alternative, and shall promptly report such alternative recommendations to Congress.”
 

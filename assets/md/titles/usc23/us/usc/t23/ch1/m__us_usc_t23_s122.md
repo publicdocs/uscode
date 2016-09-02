@@ -15,11 +15,11 @@
 
 ## § 122. Payments to States for bond and other debt instrument financing
 
-    (a)  __Definition of Eligible Debt Financing Instrument__  __.—__ 
+    (a) __Definition of Eligible Debt Financing Instrument.—__ 
 
     In this section, the term “eligible debt financing instrument” means a bond or other debt financing instrument, including a note, certificate, mortgage, or lease agreement, issued by a State or political subdivision of a State or a public authority, the proceeds of which are used for an eligible project under this title.
 
-    (b)  __Federal Reimbursement__  __.—__ 
+    (b) __Federal Reimbursement.—__ 
 
     Subject to subsections (c) and (d), the Secretary may reimburse a State for expenses and costs incurred by the State or a political subdivision of the State and reimburse a public authority for expenses and costs incurred by the public authority for—
 
@@ -33,15 +33,15 @@
 
         (5) any other cost incidental to the sale of an eligible debt financing instrument (as determined by the Secretary).
 
-    (c)  __Conditions on Payment__  __.—__ 
+    (c) __Conditions on Payment.—__ 
 
     The Secretary may reimburse a State or public authority under subsection (b) with respect to a project funded by an eligible debt financing instrument after the State or public authority has complied with this title with respect to the project to the extent and in the manner that would be required if payment were to be made under section 121.
 
-    (d)  __Federal Share__  __.—__ 
+    (d) __Federal Share.—__ 
 
     The Federal share of the cost of a project payable under this section shall not exceed the Federal share of the cost of the project as determined under section 120.
 
-    (e)  __Statutory Construction__  __.—__ 
+    (e) __Statutory Construction.—__ 
 
     Notwithstanding any other provision of law, the eligibility of an eligible debt financing instrument for reimbursement under subsection (b) shall not—
 

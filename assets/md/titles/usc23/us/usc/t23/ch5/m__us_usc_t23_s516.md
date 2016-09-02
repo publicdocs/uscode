@@ -15,11 +15,11 @@
 
 ## § 516. Research and development
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Secretary shall carry out a comprehensive program of intelligent transportation system research and development, and operational tests of intelligent vehicles, intelligent infrastructure systems, and other similar activities that are necessary to carry out this chapter.
 
-    (b)  __Priority Areas__  __.—__ 
+    (b) __Priority Areas.—__ 
 
     Under the program, the Secretary shall give higher priority to funding projects that—
 
@@ -37,7 +37,7 @@
 
         (7) facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
 
-    (c)  __Federal Share__  __.—__ 
+    (c) __Federal Share.—__ 
 
     The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
 

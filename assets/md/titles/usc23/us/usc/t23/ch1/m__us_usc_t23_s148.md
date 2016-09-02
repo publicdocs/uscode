@@ -15,25 +15,25 @@
 
 ## § 148. Highway safety improvement program
 
-    (a)  __Definitions__  __.—__ 
+    (a) __Definitions.—__ 
 
     In this section, the following definitions apply:
 
-        (1)  __High risk rural road__  __.—__ 
+        (1) __High risk rural road.—__ 
 
         The term “high risk rural road” means any roadway functionally classified as a rural major or minor collector or a rural local road with significant safety risks, as defined by a State in accordance with an updated State strategic highway safety plan.
 
-        (2)  __Highway basemap__  __.—__ 
+        (2) __Highway basemap.—__ 
 
         The term “highway basemap” means a representation of all public roads that can be used to geolocate attribute data on a roadway.
 
-        (3)  __Highway safety improvement program__  __.—__ 
+        (3) __Highway safety improvement program.—__ 
 
         The term “highway safety improvement program” means projects, activities, plans, and reports carried out under this section.
 
         (4) __Highway safety improvement project.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The term “highway safety improvement project” means strategies, activities, and projects on a public road that are consistent with a State strategic highway safety plan and—
 
@@ -41,7 +41,7 @@
 
                 (ii) address a highway safety problem.
 
-            (B)  __Inclusions__  __.—__ 
+            (B) __Inclusions.—__ 
 
             The term “highway safety improvement project” includes, but is not limited to, a project for 1 or more of the following:
 
@@ -93,39 +93,39 @@
 
                 (xxiv) Systemic safety improvements.
 
-        (5)  __Model inventory of roadway elements__  __.—__ 
+        (5) __Model inventory of roadway elements.—__ 
 
         The term “model inventory of roadway elements” means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
 
-        (6)  __Project to maintain minimum levels of retroreflectivity__  __.—__ 
+        (6) __Project to maintain minimum levels of retroreflectivity.—__ 
 
         The term “project to maintain minimum levels of retroreflectivity” means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
 
-        (7)  __Road safety audit__  __.—__ 
+        (7) __Road safety audit.—__ 
 
         The term “road safety audit” means a formal safety performance examination of an existing or future road or intersection by an independent multidisciplinary audit team.
 
-        (8)  __Road users__  __.—__ 
+        (8) __Road users.—__ 
 
         The term “road user” means a motorist, passenger, public transportation operator or user, truck driver, bicyclist, motorcyclist, or pedestrian, including a person with disabilities.
 
         (9) __Safety data.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The term “safety data” means crash, roadway, and traffic data on a public road.
 
-            (B)  __Inclusion__  __.—__ 
+            (B) __Inclusion.—__ 
 
             The term “safety data” includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
 
         (10) __Safety project under any other section.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The term “safety project under any other section” means a project carried out for the purpose of safety under any other section of this title.
 
-            (B)  __Inclusion__  __.—__ 
+            (B) __Inclusion.—__ 
 
             The term “safety project under any other section” includes—
 
@@ -135,11 +135,11 @@
 
                 (iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services.
 
-        (11)  __State highway safety improvement program__  __.—__ 
+        (11) __State highway safety improvement program.—__ 
 
         The term “State highway safety improvement program” means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
 
-        (12)  __State strategic highway safety plan__  __.—__ 
+        (12) __State strategic highway safety plan.—__ 
 
         The term “State strategic highway safety plan” means a comprehensive plan, based on safety data, developed by a State transportation department that—
 
@@ -183,23 +183,23 @@
 
             (I) is updated and submitted to the Secretary for approval as required under subsection (d)(2).
 
-        (13)  __Systemic safety improvement__  __.—__ 
+        (13) __Systemic safety improvement.—__ 
 
         The term “systemic safety improvement” means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 
     (b) __Program.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretary shall carry out a highway safety improvement program.
 
-        (2)  __Purpose__  __.—__ 
+        (2) __Purpose.—__ 
 
         The purpose of the highway safety improvement program shall be to achieve a significant reduction in traffic fatalities and serious injuries on all public roads, including non-State-owned public roads and roads on tribal land.
 
     (c) __Eligibility.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         To obligate funds apportioned under section 104(b)(3) to carry out this section, a State shall have in effect a State highway safety improvement program under which the State—
 
@@ -209,7 +209,7 @@
 
             (C) evaluates the strategic highway safety plan on a regularly recurring basis in accordance with subsection (d)(1) to ensure the accuracy of the data and priority of proposed strategies.
 
-        (2)  __Identification and analysis of highway safety problems and opportunities__  __.—__ 
+        (2) __Identification and analysis of highway safety problems and opportunities.—__ 
 
         As part of the State highway safety improvement program, a State shall—
 
@@ -285,11 +285,11 @@
 
         (1) __Establishment of requirements.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Not later than 1 year after the date of enactment of the MAP–21, the Secretary shall establish requirements for regularly recurring State updates of strategic highway safety plans.
 
-            (B)  __Contents of updated strategic highway safety plans__  __.—__ 
+            (B) __Contents of updated strategic highway safety plans.—__ 
 
             In establishing requirements under this subsection, the Secretary shall ensure that States take into consideration, with respect to updated strategic highway safety plans—
 
@@ -311,7 +311,7 @@
 
         (2) __Approval of updated strategic highway safety plans.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Each State shall—
 
@@ -319,7 +319,7 @@
 
                 (ii) submit the updated plans to the Secretary, along with a detailed description of the process used to update the plan.
 
-            (B)  __Requirements for approval__  __.—__ 
+            (B) __Requirements for approval.—__ 
 
             The Secretary shall not approve the process for an updated strategic highway safety plan unless—
 
@@ -327,13 +327,13 @@
 
                 (ii) the process used is consistent with the requirements of this subsection.
 
-        (3)  __Penalty for failure to have an approved updated strategic highway safety plan__  __.—__ 
+        (3) __Penalty for failure to have an approved updated strategic highway safety plan.—__ 
 
         If a State does not have an updated strategic highway safety plan with a process approved by the Secretary by August 1 of the fiscal year beginning after the date of establishment of the requirements under paragraph (1), the State shall not be eligible to receive any additional limitation pursuant to the redistribution of the limitation on obligations for Federal-aid highway and highway safety construction programs that occurs after August 1 for each succeeding fiscal year until the fiscal year during which the plan is approved.
 
     (e) __Eligible Projects.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funds apportioned to the State under section 104(b)(3) may be obligated to carry out—
 
@@ -345,25 +345,25 @@
 
         (2) __Use of other funding for safety.—__ 
 
-            (A)  __Effect of section__  __.—__ 
+            (A) __Effect of section.—__ 
 
             Nothing in this section prohibits the use of funds made available under other provisions of this title for highway safety improvement projects.
 
-            (B)  __Use of other funds__  __.—__ 
+            (B) __Use of other funds.—__ 
 
             States are encouraged to address the full scope of the safety needs and opportunities of the States by using funds made available under other provisions of this title (except a provision that specifically prohibits that use).
 
     (f) __Data Improvement.—__ 
 
-        (1)  __Definition of data improvement activities__  __.—__ 
+        (1) __Definition of data improvement activities.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The term “data improvement activities” means a project or activity to further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
 
-            (B)  __Inclusions__  __.—__ 
+            (B) __Inclusions.—__ 
 
             The term “data improvement activities” includes a project or activity—
 
@@ -379,7 +379,7 @@
 
                 (vi) to support the collection, maintenance, and sharing of safety data on all public roads and related systems associated with the analytical usage of that data.
 
-        (2)  __Model inventory of roadway elements__  __.—__ 
+        (2) __Model inventory of roadway elements.—__ 
 
         The Secretary shall—
 
@@ -389,17 +389,17 @@
 
     (g) __Special Rules.—__ 
 
-        (1)  __High-risk rural road safety__  __.—__ 
+        (1) __High-risk rural road safety.—__ 
 
         If the fatality rate on rural roads in a State increases over the most recent 2-year period for which data are available, that State shall be required to obligate in the next fiscal year for projects on high risk rural roads an amount equal to at least 200 percent of the amount of funds the State received for fiscal year 2009 for high risk rural roads under subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21.
 
-        (2)  __Older drivers__  __.—__ 
+        (2) __Older drivers.—__ 
 
         If traffic fatalities and serious injuries per capita for drivers and pedestrians over the age of 65 in a State increases during the most recent 2-year period for which data are available, that State shall be required to include, in the subsequent Strategic Highway Safety Plan of the State, strategies to address the increases in those rates, taking into account the recommendations included in the publication of the Federal Highway Administration entitled “Highway Design Handbook for Older Drivers and Pedestrians” (FHWA–RD–01–103), and dated May 2001, or as subsequently revised and updated.
 
     (h) __Reports.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         A State shall submit to the Secretary a report that—
 
@@ -417,11 +417,11 @@
 
                 (iii) the occurrences of fatalities and serious injuries at railway-highway crossings.
 
-        (2)  __Contents; schedule__  __.—__ 
+        (2) __Contents; schedule.—__ 
 
         The Secretary shall establish the content and schedule for the submission of the report under paragraph (1).
 
-        (3)  __Transparency__  __.—__ 
+        (3) __Transparency.—__ 
 
         The Secretary shall make strategic highway safety plans submitted under subsection (d) and reports submitted under this subsection available to the public through—
 
@@ -429,11 +429,11 @@
 
             (B) such other means as the Secretary determines to be appropriate.
 
-        (4)  __Discovery and admission into evidence of certain reports, surveys, and information__  __.—__ 
+        (4) __Discovery and admission into evidence of certain reports, surveys, and information.—__ 
 
         Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for any purpose relating to this section, shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location identified or addressed in the reports, surveys, schedules, lists, or other data.
 
-    (i)  __State Performance Targets__  __.—__ 
+    (i) __State Performance Targets.—__ 
 
     If the Secretary determines that a State has not met or made significant progress toward meeting the performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets, the State shall—
 
@@ -453,7 +453,7 @@
 
             (E) describes the actions the State will undertake to meet the performance targets of the State.
 
-    (j)  __Federal Share of Highway Safety Improvement Projects__  __.—__ 
+    (j) __Federal Share of Highway Safety Improvement Projects.—__ 
 
     Except as provided in sections 120 and 130, the Federal share of the cost of a highway safety improvement project carried out with funds apportioned to a State under section 104(b)(3) shall be 90 percent.
 
@@ -491,11 +491,11 @@
 
 >     “(1) __Study.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         The Secretary \[of Transportation\] shall conduct a study of the best practices for implementing cost-effective roadway safety infrastructure improvements on high-risk rural roads.
 
->         “(B)  __Methodology__  __.—__ 
+>         “(B) __Methodology.—__ 
 
 >         In carrying out the study, the Secretary shall—
 
@@ -505,7 +505,7 @@
 
 >             “(iii) survey current practices of local units of government, as appropriate.
 
->         “(C)  __Consultation__  __.—__ 
+>         “(C) __Consultation.—__ 
 
 >         In carrying out the study, the Secretary shall consult with—
 
@@ -519,11 +519,11 @@
 
 >     “(2) __Report.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study.
 
->         “(B)  __Contents__  __.—__ 
+>         “(B) __Contents.—__ 
 
 >         The report shall include—
 
@@ -535,19 +535,19 @@
 
 >     “(3) __Manual.—__ 
 
->         “(A)  __Development__  __.—__ 
+>         “(A) __Development.—__ 
 
 >         Based on the results of the study under paragraph (2), the Secretary, in consultation with the individuals and entities described in paragraph (1)(C), shall develop a best practices manual to support Federal, State, and local efforts to reduce fatalities and serious bodily injury crashes on high-risk rural roads through the use of cost-effective roadway safety infrastructure improvements.
 
->         “(B)  __Availability__  __.—__ 
+>         “(B) __Availability.—__ 
 
 >         The manual shall be made available to State and local governments not later than 180 days after the date of submission of the report under paragraph (2).
 
->         “(C)  __Contents__  __.—__ 
+>         “(C) __Contents.—__ 
 
 >         The manual shall include, at a minimum, a list of cost-effective roadway safety infrastructure improvements and best practices on the installation of cost-effective roadway safety infrastructure improvements on high-risk rural roads.
 
->         “(D)  __Use of manual__  __.—__ 
+>         “(D) __Use of manual.—__ 
 
 >         Use of the manual shall be voluntary and the manual shall not establish any binding standards or legal duties on State or local governments, or any other person.”
 

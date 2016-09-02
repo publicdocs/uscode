@@ -15,9 +15,9 @@
 
 ## § 204. Federal lands access program
 
-    (a)  __Use of Funds__  __.—__ 
+    (a) __Use of Funds.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funds made available under the Federal lands access program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the cost of—
 
@@ -41,7 +41,7 @@
 
             (C) any transportation project eligible for assistance under this title that is within or adjacent to, or that provides access to, Federal land.
 
-        (2)  __Contract__  __.—__ 
+        (2) __Contract.—__ 
 
         In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
 
@@ -49,33 +49,33 @@
 
             (B) an Indian tribe.
 
-        (3)  __Administration__  __.—__ 
+        (3) __Administration.—__ 
 
         All appropriations for the construction and improvement of Federal lands access transportation facilities shall be administered in conformity with regulations and agreements approved by the Secretary.
 
-        (4)  __Cooperation__  __.—__ 
+        (4) __Cooperation.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The cooperation of States, counties, or other local subdivisions may be accepted in construction and improvement.
 
-            (B)  __Funds received__  __.—__ 
+            (B) __Funds received.—__ 
 
             Any funds received from a State, county, or local subdivision for a Federal lands access transportation facility project shall be credited to appropriations available under the Federal lands access program.
 
-        (5)  __Competitive bidding__  __.—__ 
+        (5) __Competitive bidding.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
 
-            (B)  __Exception__  __.—__ 
+            (B) __Exception.—__ 
 
             Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
 
-    (b)  __Program Distributions__  __.—__ 
+    (b) __Program Distributions.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funding made available to carry out the Federal lands access program shall be allocated among those States that have Federal land, in accordance with the following formula:
 
@@ -151,7 +151,7 @@
 
                     (II) the number of Federal public bridges in all such States.
 
-        (2)  __Data source__  __.—__ 
+        (2) __Data source.—__ 
 
         Data necessary to distribute funding under paragraph (1) shall be provided by the following Federal land management agencies:
 
@@ -165,9 +165,9 @@
 
             (E) The Corps of Engineers.
 
-    (c)  __Programming Decisions Committee__  __.—__ 
+    (c) __Programming Decisions Committee.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Programming decisions shall be made within each State by a committee comprised of—
 
@@ -177,11 +177,11 @@
 
             (C) a representative of any appropriate political subdivision of the State.
 
-        (2)  __Consultation requirement__  __.—__ 
+        (2) __Consultation requirement.—__ 
 
         The committee described in paragraph (1) shall cooperate with each applicable Federal agency in each State before any joint discussion or final programming decision.
 
-        (3)  __Project preference__  __.—__ 
+        (3) __Project preference.—__ 
 
         In making a programming decision under paragraph (1), the committee shall give preference to projects that provide access to, are adjacent to, or are located within high-use Federal recreation sites or Federal economic generators, as identified by the Secretaries of the appropriate Federal land management agencies.
 

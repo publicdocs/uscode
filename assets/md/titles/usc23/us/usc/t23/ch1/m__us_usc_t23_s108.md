@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1)  __Availability of funds__  __.—__ 
+        (1) __Availability of funds.—__ 
 
         For the purpose of facilitating the timely and economical acquisition of real property interests for a transportation improvement eligible for funding under this title, the Secretary, upon the request of a State, may make available, for the acquisition of real property interests, such funds apportioned to the State as may be expended on the transportation improvement, under such rules and regulations as the Secretary may issue.
 
-        (2)  __Construction__  __.—__ 
+        (2) __Construction.—__ 
 
         The agreement between the Secretary and the State for the reimbursement of the cost of the real property interests shall provide for the actual construction of the transportation improvement within a period not to exceed 20 years following the fiscal year for which the request is made, unless the Secretary determines that a longer period is reasonable.
 
@@ -29,11 +29,11 @@
 
     (c) __State-funded Early Acquisition of Real Property Interests.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) without affecting subsequent approvals required for the project by the State or any Federal agency.
 
-        (2)  __Eligibility for reimbursement__  __.—__ 
+        (2) __Eligibility for reimbursement.—__ 
 
         Subject to paragraph (3), funds apportioned to a State under this title may be used to participate in the payment of—
 
@@ -41,7 +41,7 @@
 
             (B) costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
 
-        (3)  __Terms and conditions__  __.—__ 
+        (3) __Terms and conditions.—__ 
 
         The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
 
@@ -61,7 +61,7 @@
 
     (d) __Federally Funded Early Acquisition of Real Property Interests.—__ 
 
-        (1)  __Definition of acquisition of a real property interest__  __.—__ 
+        (1) __Definition of acquisition of a real property interest.—__ 
 
         In this subsection, the term “acquisition of a real property interest” includes the acquisition of—
 
@@ -71,11 +71,11 @@
 
             (C) any other similar action to acquire or preserve rights-of-way for a transportation facility.
 
-        (2)  __Authorization__  __.—__ 
+        (2) __Authorization.—__ 
 
         The Secretary may authorize the use of funds apportioned to a State under this title for the acquisition of a real property interest by a State.
 
-        (3)  __State certification__  __.—__ 
+        (3) __State certification.—__ 
 
         A State requesting Federal funding for an acquisition of a real property interest shall certify in writing, with concurrence by the Secretary, that—
 
@@ -103,11 +103,11 @@
 
         (4) __Environmental compliance.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Before authorizing Federal funding for an acquisition of a real property interest, the Secretary shall complete the review process under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) with respect to the acquisition of the real property interest.
 
-            (B)  __Independent utility__  __.—__ 
+            (B) __Independent utility.—__ 
 
             The acquisition of a real property interest—
 
@@ -117,29 +117,29 @@
 
         (5) __Programming.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The acquisition of a real property interest for which Federal funding is requested shall be included as a project in an applicable transportation improvement program under sections 134 and 135 and sections 5303 and 5304 of title 49.
 
-            (B)  __Acquisition project__  __.—__ 
+            (B) __Acquisition project.—__ 
 
             The acquisition project may consist of the acquisition of a specific parcel, a portion of a transportation corridor, or an entire transportation corridor.
 
-        (6)  __Development__  __.—__ 
+        (6) __Development.—__ 
 
         Real property interests acquired under this subsection may not be developed in anticipation of a project until all required environmental reviews for the project have been completed.
 
-        (7)  __Reimbursement__  __.—__ 
+        (7) __Reimbursement.—__ 
 
         If Federal-aid reimbursement is made for real property interests acquired early under this section and the real property interests are not subsequently incorporated into a project eligible for surface transportation funds within the time allowed by subsection (a)(2), the Secretary shall offset the amount reimbursed against funds apportioned to the State.
 
         (8) __Other requirements and conditions.—__ 
 
-            (A)  __Applicable law__  __.—__ 
+            (A) __Applicable law.—__ 
 
             The acquisition of a real property interest shall be carried out in compliance with all requirements applicable to the acquisition of real property interests for federally funded transportation projects.
 
-            (B)  __Additional conditions__  __.—__ 
+            (B) __Additional conditions.—__ 
 
             The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
 
@@ -227,11 +227,11 @@
 
 [Pub. L. 105–178, title I, § 1211(e)(2)][/us/pl/105/178/s1211/e/2], June 9, 1998, [112 Stat. 188][/us/stat/112/188], provided that:
 
->     “(A)  __In general__  __.—__ 
+>     “(A) __In general.—__ 
 
 >     Funds advanced to a State by the Secretary from the right-of-way revolving fund established by [section 108(c) of title 23][/us/usc/t23/s108/c], United States Code, prior to the date of enactment of this Act \[June 9, 1998\] shall remain available to the State for use on the projects for which the funds were advanced for a period of 20 years from the date on which the funds were advanced.
 
->     “(B)  __Credit to highway trust fund__  __.—__ 
+>     “(B) __Credit to highway trust fund.—__ 
 
 >     With respect to a project for which funds have been advanced from the right-of-way revolving fund, upon the termination of the 20-year period referred to in subparagraph (A), when actual construction is commenced, or upon approval by the Secretary of the plans, specifications, and estimates for the actual construction of the project on the right-of-way, whichever occurs first—
 

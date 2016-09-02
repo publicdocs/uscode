@@ -15,17 +15,17 @@
 
 ## § 412. Agency accountability
 
-    (a)  __Triennial State Management Reviews__  __.—__ 
+    (a) __Triennial State Management Reviews.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Except as provided under paragraph (2), the Secretary shall conduct a review of each State highway safety program at least once every 3 years.
 
-        (2)  __Exceptions__  __.—__ 
+        (2) __Exceptions.—__ 
 
         The Secretary may conduct reviews of the highway safety programs of the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands as often as the Secretary determines to be appropriate.
 
-        (3)  __Components__  __.—__ 
+        (3) __Components.—__ 
 
         Reviews under this subsection shall include—
 
@@ -43,11 +43,11 @@
 
                 (ii) provide a management and oversight plan for such grant programs.
 
-    (b)  __Recommendations Before Submission__  __.—__ 
+    (b) __Recommendations Before Submission.—__ 
 
     In order to provide guidance to State highway safety agencies on matters that should be addressed in the goals and initiatives of the State highway safety program before the program is submitted for review, the Secretary shall provide data-based recommendations to each State at least 90 days before the date on which the program is to be submitted for approval.
 
-    (c)  __State Program Review__  __.—__ 
+    (c) __State Program Review.—__ 
 
     The Secretary shall—
 
@@ -55,17 +55,17 @@
 
         (2) provide technical assistance and safety program requirements to be incorporated in the State highway safety program for any goal not achieved.
 
-    (d)  __Regional Harmonization__  __.—__ 
+    (d) __Regional Harmonization.—__ 
 
     The Secretary and the Inspector General of the Department of Transportation shall undertake an administrative review of the practices and procedures of the management reviews and program reviews of State highway safety programs under this chapter conducted by the regional offices of the National Highway Traffic Safety Administration and prepare a written report of best practices and procedures for use by the regional offices in conducting such reviews. The report shall be completed within 180 days after the date of enactment of this section.
 
     (e) __Best Practices Guidelines.—__ 
 
-        (1)  __Uniform guidelines__  __.—__ 
+        (1) __Uniform guidelines.—__ 
 
         The Secretary shall issue uniform management review guidelines and program review guidelines based on the report under subsection (d). Each regional office shall use the guidelines in executing its State administrative review duties under this section.
 
-        (2)  __Publication__  __.—__ 
+        (2) __Publication.—__ 
 
         The Secretary shall make publicly available on the Web site (or successor electronic facility) of the Administration the following documents upon their completion:
 
@@ -77,7 +77,7 @@
 
             (D) The Administration’s Summary Report of findings from Management Reviews and Improvement Plans.
 
-        (3)  __Reports to state highway safety agencies__  __.—__ 
+        (3) __Reports to state highway safety agencies.—__ 
 
         The Secretary may not make publicly available a program, report, or review under paragraph (2) that is directed to a State highway safety agency until after the date on which the program, report, or review is submitted to that agency under this chapter.
 

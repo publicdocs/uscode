@@ -15,21 +15,21 @@
 
 ## § 118. Availability of funds
 
-    (a)  __Date Available for Obligation__  __.—__ 
+    (a) __Date Available for Obligation.—__ 
 
     Except as otherwise specifically provided, authorizations from the Highway Trust Fund (other than the Mass Transit Account) to carry out this title shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
-    (b)  __Period of Availability__  __.—__ 
+    (b) __Period of Availability.—__ 
 
     Except as otherwise specifically provided, funds apportioned or allocated pursuant to this title in a State shall remain available for obligation in that State for a period of 3 years after the last day of the fiscal year for which the funds are authorized. Any amounts so apportioned or allocated that remain unobligated at the end of that period shall lapse.
 
     (c) __Obligation and Release of Funds.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funds apportioned or allocated to a State for a purpose for any fiscal year shall be considered to be obligated if a sum equal to the total of the funds apportioned or allocated to the State for that purpose for that fiscal year and previous fiscal years is obligated.
 
-        (2)  __Released funds__  __.—__ 
+        (2) __Released funds.—__ 
 
         Any funds released by the final payment for a project, or by modifying the project agreement for a project, shall be—
 
@@ -37,7 +37,7 @@
 
             (B) immediately available for obligation.
 
-        (3)  __Net obligations__  __.—__ 
+        (3) __Net obligations.—__ 
 
         Notwithstanding any other provision of law (including a regulation), obligations recorded against funds made available under this subsection shall be recorded and reported as net obligations.
 
@@ -131,13 +131,13 @@
 
 [Pub. L. 109–59, title I, § 1603][/us/pl/109/59/s1603], Aug. 10, 2005, [119 Stat. 1248][/us/stat/119/1248], provided that:
 
->     “(a)  __Definitions__  __.—__ 
+>     “(a) __Definitions.—__ 
 
 >     In this section, the following definitions apply:
 
 >         “(1) __Eligible funds.—__ 
 
->             “(A)  __In general__  __.—__ 
+>             “(A) __In general.—__ 
 
 >             The term ‘eligible funds’ means excess funds or inactive funds for a specific transportation project or activity that were—
 
@@ -145,11 +145,11 @@
 
 >                 “(ii) designated in a public law, or a report accompanying a public law, for allocation for the specific surface transportation project or activity.
 
->             “(B)  __Inclusion__  __.—__ 
+>             “(B) __Inclusion.—__ 
 
 >             The term ‘eligible funds’ includes funds described in subparagraph (A) that were allocated and designated for a demonstration project.
 
->         “(2)  __Excess funds__  __.—__ 
+>         “(2) __Excess funds.—__ 
 
 >         The term ‘excess funds’ means—
 
@@ -157,7 +157,7 @@
 
 >             “(B) an unobligated balance of funds allocated for a transportation project or activity that the State in which the project or activity was to be carried out certifies are no longer needed for the project or activity.
 
->         “(3)  __Inactive funds__  __.—__ 
+>         “(3) __Inactive funds.—__ 
 
 >         The term ‘inactive funds’ means—
 
@@ -165,7 +165,7 @@
 
 >             “(B) funds that are available to carry out a transportation project or activity in a State, but, as certified by the State, are unlikely to be advanced for the project or activity during the 1-year period beginning on the date of certification.
 
->     “(b)  __Availability for STP Purposes__  __.—__ 
+>     “(b) __Availability for STP Purposes.—__ 
 
 >     Eligible funds shall be—
 
@@ -175,15 +175,15 @@
 
 >     “(c) __Retention for Original Purpose.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary \[of Transportation\] may determine that eligible funds identified as inactive funds shall remain available for the purpose for which the funds were initially made available if the applicable State certifies that the funds are necessary for that initial purpose.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         A certification provided by a State under paragraph (1) shall include a report on the status of, and an estimated completion date for, the project that is the subject of the certification.
 
->     “(d)  __Authority to Obligate__  __.—__ 
+>     “(d) __Authority to Obligate.—__ 
 
 >     Notwithstanding the original source or period of availability of eligible funds, the Secretary \[of Transportation\] may, on the request by a State—
 
@@ -197,11 +197,11 @@
 
 >     “(e) __Applicability.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Subject to paragraph (2), this section applies only to eligible funds.
 
->         “(2)  __Discretionary allocations; section 125 projects__  __.—__ 
+>         “(2) __Discretionary allocations; section 125 projects.—__ 
 
 >         This section does not apply to funds that are—
 
@@ -209,9 +209,9 @@
 
 >             “(B) made available to carry out projects under [section 125 of title 23][/us/usc/t23/s125], United States Code.
 
->     “(f)  __Period of Availability; Title__  __23 Requirements.—__ 
+>     “(f) __Period of Availability; Title 23 Requirements.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Notwithstanding the original source or period of availability of eligible funds obligated, or deobligated and reobligated, under subsection (d), the eligible funds—
 
@@ -219,7 +219,7 @@
 
 >             “(B) except as provided in paragraph (2), shall be subject to the requirements of title 23, United States Code, that apply to section 133 of that title, including provisions relating to Federal share.
 
->         “(2)  __Exception__  __.—__ 
+>         “(2) __Exception.—__ 
 
 >         With respect to eligible funds described in paragraph (1)—
 
@@ -227,11 +227,11 @@
 
 >             “(B) the period of availability of the eligible funds shall be determined in accordance with this section.
 
->     “(g)  __Report__  __.—__ 
+>     “(g) __Report.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], and annually thereafter, the Secretary \[of Transportation\] shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing any action taken by the Secretary under this section.
 
->     “(h)  __Sense of Congress Regarding Use of Eligible Funds__  __.—__ 
+>     “(h) __Sense of Congress Regarding Use of Eligible Funds.—__ 
 
 >     It is the sense of Congress that eligible funds made available under this Act \[see Tables for classification\] or title 23, United States Code, should be available for obligation for transportation projects and activities in the same geographic region for which the eligible funds were initially made available.”
 

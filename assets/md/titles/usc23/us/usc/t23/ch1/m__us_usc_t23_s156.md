@@ -15,15 +15,15 @@
 
 ## § 156. Proceeds from the sale or lease of real property
 
-    (a)  __Minimum Charge__  __.—__ 
+    (a) __Minimum Charge.—__ 
 
     Subject to section 142(f), a State shall charge, at a minimum, fair market value for the sale, use, lease, or lease renewal (other than for utility use and occupancy or for a transportation project eligible for assistance under this title) of real property acquired with Federal assistance made available from the Highway Trust Fund (other than the Mass Transit Account).
 
-    (b)  __Exceptions__  __.—__ 
+    (b) __Exceptions.—__ 
 
     The Secretary may grant an exception to the requirement of subsection (a) for a social, environmental, or economic purpose.
 
-    (c)  __Use of Federal Share of Income__  __.—__ 
+    (c) __Use of Federal Share of Income.—__ 
 
     The Federal share of net income from the revenues obtained by a State under subsection (a) shall be used by the State for projects eligible under this title.
 

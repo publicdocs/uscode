@@ -15,11 +15,11 @@
 
 ## § 149. Congestion mitigation and air quality improvement program
 
-    (a)  __Establishment__  __.—__ 
+    (a) __Establishment.—__ 
 
     The Secretary shall establish and implement a congestion mitigation and air quality improvement program in accordance with this section.
 
-    (b)  __Eligible Projects__  __.—__ 
+    (b) __Eligible Projects.—__ 
 
     Except as provided in subsection (d), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act ([42 U.S.C. 7511(a)][/us/usc/t42/s7511/a], 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997, or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) and—
 
@@ -73,21 +73,21 @@
 
     (c) __Special Rules.—__ 
 
-        (1)  __Projects for pm–10 nonattainment areas__  __.—__ 
+        (1) __Projects for pm–10 nonattainment areas.—__ 
 
         A State may obligate funds apportioned to the State under section 104(b)(4) for a project or program for an area that is nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.
 
-        (2)  __Electric vehicle and natural gas vehicle infrastructure__  __.—__ 
+        (2) __Electric vehicle and natural gas vehicle infrastructure.—__ 
 
         A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by [section 111 of title 23][/us/usc/t23/s111], United States Code.
 
-        (3)  __HOV facilities__  __.—__ 
+        (3) __HOV facilities.—__ 
 
         No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times.
 
     (d) __States Flexibility.—__ 
 
-        (1)  __States without a nonattainment area__  __.—__ 
+        (1) __States without a nonattainment area.—__ 
 
         If a State does not have, and never has had, a nonattainment area designated under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), the State may use funds apportioned to the State under section 104(b)(4) for any project in the State that—
 
@@ -97,7 +97,7 @@
 
         (2) __States with a nonattainment area.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             If a State has a nonattainment area or maintenance area and received funds in fiscal year 2009 under section 104(b)(2)(D), as in effect on the day before the date of enactment of the MAP–21, above the amount of funds that the State would have received based on the nonattainment and maintenance area population of the State under subparagraphs (B) and (C) of section 104(b)(2), as in effect on the day before the date of enactment of the MAP–21, the State may use for any project that is eligible under the surface transportation program under section 133 an amount of funds apportioned to such State under section 104(b)(4) that is equal to the product obtained by multiplying—
 
@@ -105,7 +105,7 @@
 
                 (ii) the ratio calculated under subparagraph (B).
 
-            (B)  __Ratio__  __.—__ 
+            (B) __Ratio.—__ 
 
             For purposes of this paragraph, the ratio shall be calculated as the proportion that—
 
@@ -113,21 +113,21 @@
 
                 (ii) the total apportionment to such State for fiscal year 2009 under section 104(b)(2), as in effect on the day before the date of enactment of the MAP–21.
 
-        (3)  __Changes in designation__  __.—__ 
+        (3) __Changes in designation.—__ 
 
         If a new nonattainment area is designated or a previously designated nonattainment area is redesignated as an attainment area in a State under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), the Secretary shall modify the amount such State is permitted to obligate in any area of the State for projects eligible under section 133.
 
-    (e)  __Applicability of Planning Requirements__  __.—__ 
+    (e) __Applicability of Planning Requirements.—__ 
 
     Programming and expenditure of funds for projects under this section shall be consistent with the requirements of sections 134 and 135 of this title.
 
     (f) __Partnerships With Nongovernmental Entities.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Notwithstanding any other provision of this title and in accordance with this subsection, a metropolitan planning organization, State transportation department, or other project sponsor may enter into an agreement with any public, private, or nonprofit entity to cooperatively implement any project carried out under this section.
 
-        (2)  __Forms of participation by entities__  __.—__ 
+        (2) __Forms of participation by entities.—__ 
 
         Participation by an entity under paragraph (1) may consist of—
 
@@ -139,11 +139,11 @@
 
             (D) any other form of participation approved by the Secretary.
 
-        (3)  __Allocation to entities__  __.—__ 
+        (3) __Allocation to entities.—__ 
 
         A State may allocate funds apportioned under section 104(b)(4) to an entity described in paragraph (1).
 
-        (4)  __Alternative fuel projects__  __.—__ 
+        (4) __Alternative fuel projects.—__ 
 
         In the case of a project that will provide for the use of alternative fuels by privately owned vehicles or vehicle fleets, activities eligible for funding under this subsection—
 
@@ -153,25 +153,25 @@
 
             (C) shall apply other governmental financial purchase contributions in the calculation of net incremental cost.
 
-        (5)  __Prohibition on federal participation with respect to required activities__  __.—__ 
+        (5) __Prohibition on federal participation with respect to required activities.—__ 
 
         A Federal participation payment under this subsection may not be made to an entity to fund an obligation imposed under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) or any other Federal law.
 
     (g) __Cost-Effective Emission Reduction Guidance.—__ 
 
-        (1)  __Definitions__  __.—__ 
+        (1) __Definitions.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A)  __Administrator__  __.—__ 
+            (A) __Administrator.—__ 
 
             The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-            (B)  __Diesel retrofit__  __.—__ 
+            (B) __Diesel retrofit.—__ 
 
             The term “diesel retrofit” means a replacement, repowering, rebuilding, after treatment, or other technology, as determined by the Administrator.
 
-        (2)  __Emission reduction guidance__  __.—__ 
+        (2) __Emission reduction guidance.—__ 
 
         The Administrator, in consultation with the Secretary, shall publish a list of diesel retrofit technologies and supporting technical information for—
 
@@ -181,15 +181,15 @@
 
             (C) available information regarding the emission reduction effectiveness and cost effectiveness of technologies identified in this paragraph, taking into consideration air quality and health effects.
 
-        (3)  __Priority consideration__  __.—__ 
+        (3) __Priority consideration.—__ 
 
         States and metropolitan planning organizations shall give priority in areas designated as nonattainment or maintenance for PM2.5 under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) in distributing funds received for congestion mitigation and air quality projects and programs from apportionments under section 104(b)(4) to projects that are proven to reduce PM2.5, including diesel retrofits.
 
-        (4)  __No effect on authority or restrictions__  __.—__ 
+        (4) __No effect on authority or restrictions.—__ 
 
         Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
 
-    (h)  __Interagency Consultation__  __.—__ 
+    (h) __Interagency Consultation.—__ 
 
     The Secretary shall encourage States and metropolitan planning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
 
@@ -197,51 +197,51 @@
 
         (1) __Database.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Using appropriate assessments of projects funded under the congestion mitigation and air quality program and results from other research, the Secretary shall maintain and disseminate a cumulative database describing the impacts of the projects, including specific information about each project, such as the project name, location, sponsor, cost, and, to the extent already measured by the project sponsor, cost-effectiveness, based on reductions in congestion and emissions.
 
-            (B)  __Availability__  __.—__ 
+            (B) __Availability.—__ 
 
             The database shall be published or otherwise made readily available by the Secretary in electronically accessible format and means, such as the Internet, for public review.
 
         (2) __Cost effectiveness.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall evaluate projects on a periodic basis and develop a table or other similar medium that illustrates the cost-effectiveness of a range of project types eligible for funding under this section as to how the projects mitigate congestion and improve air quality.
 
-            (B)  __Contents__  __.—__ 
+            (B) __Contents.—__ 
 
             The table described in subparagraph (A) shall show measures of cost-effectiveness, such as dollars per ton of emissions reduced, and assess those measures over a variety of timeframes to capture impacts on the planning timeframes outlined in section 134.
 
-            (C)  __Use of table__  __.—__ 
+            (C) __Use of table.—__ 
 
             States and metropolitan planning organizations shall consider the information in the table when selecting projects or developing performance plans under subsection (l).
 
     (j) __Optional Programmatic Eligibility.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or other means to demonstrate the emissions reduction projection required under this section.
 
-        (2)  __Applicability__  __.—__ 
+        (2) __Applicability.—__ 
 
         If an assessment described in paragraph (1) successfully demonstrates an emissions reduction, all projects included in such assessment shall be eligible for obligation under this section without further demonstration of emissions reduction of individual projects included in such assessment.
 
-    (k)  __Priority for Use of Funds in PM__  __2.5 Areas.—__ 
+    (k) __Priority for Use of Funds in PM2.5 Areas.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         For any State that has a nonattainment or maintenance area for fine particulate matter, an amount equal to 25 percent of the funds apportioned to each State under section 104(b)(4) for a nonattainment or maintenance area that are based all or in part on the weighted population of such area in fine particulate matter nonattainment shall be obligated to projects that reduce such fine particulate matter emissions in such area, including diesel retrofits.
 
-        (2)  __Construction equipment and vehicles__  __.—__ 
+        (2) __Construction equipment and vehicles.—__ 
 
         In order to meet the requirements of paragraph (1), a State or metropolitan planning organization may elect to obligate funds to install diesel emission control technology on nonroad diesel equipment or on-road diesel equipment that is operated on a highway construction project within a PM2.5 nonattainment or maintenance area.
 
     (l) __Performance Plan.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Each metropolitan planning organization serving a transportation management area (as defined in section 134) with a population over 1,000,000 people representing a nonattainment or maintenance area shall develop a performance plan that—
 
@@ -251,15 +251,15 @@
 
             (C) includes a description of projects identified for funding under this section and how such projects will contribute to achieving emission and traffic congestion reduction targets.
 
-        (2)  __Updated plans__  __.—__ 
+        (2) __Updated plans.—__ 
 
         Performance plans shall be updated biennially and include a separate report that assesses the progress of the program of projects under the previous plan in achieving the air quality and traffic congestion targets of the previous plan.
 
-    (m)  __Operating Assistance__  __.—__ 
+    (m) __Operating Assistance.—__ 
 
-    A State may obligate funds apportioned under section 104(b)(2) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation.
+    A State may obligate funds apportioned under section 104(b)(2) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system that was previously eligible under this section.
 
-(Added [Pub. L. 93–87, title I, § 142(a)][/us/pl/93/87/s142/a], Aug. 13, 1973, [87 Stat. 272][/us/stat/87/272]; amended [Pub. L. 102–240, title I, § 1008(a)][/us/pl/102/240/s1008/a], Dec. 18, 1991, [105 Stat. 1932][/us/stat/105/1932]; [Pub. L. 102–388, title III, § 380][/us/pl/102/388/s380], Oct. 6, 1992, [106 Stat. 1562][/us/stat/106/1562]; [Pub. L. 104–59, title III, § 319(a)(1)][/us/pl/104/59/s319/a/1], (b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 589; [Pub. L. 104–88, title IV, § 405(a)(2)][/us/pl/104/88/s405/a/2], (b), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], 957; [Pub. L. 105–178, title I, § 1110(a)][/us/pl/105/178/s1110/a]–(d)(1), June 9, 1998, [112 Stat. 142][/us/stat/112/142], 143; [Pub. L. 109–59, title I, § 1808(a)][/us/pl/109/59/s1808/a]–(f), Aug. 10, 2005, [119 Stat. 1461–1463][/us/stat/119/1461-1463]; [Pub. L. 112–141, div. A, title I, § 1113(a)][/us/pl/112/141/s1113/a], (b), July 6, 2012, [126 Stat. 460][/us/stat/126/460]; [Pub. L. 113–76, div. L, title I, § 125][/us/pl/113/76/s125], Jan. 17, 2014, [128 Stat. 587][/us/stat/128/587].)
+(Added [Pub. L. 93–87, title I, § 142(a)][/us/pl/93/87/s142/a], Aug. 13, 1973, [87 Stat. 272][/us/stat/87/272]; amended [Pub. L. 102–240, title I, § 1008(a)][/us/pl/102/240/s1008/a], Dec. 18, 1991, [105 Stat. 1932][/us/stat/105/1932]; [Pub. L. 102–388, title III, § 380][/us/pl/102/388/s380], Oct. 6, 1992, [106 Stat. 1562][/us/stat/106/1562]; [Pub. L. 104–59, title III, § 319(a)(1)][/us/pl/104/59/s319/a/1], (b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 589; [Pub. L. 104–88, title IV, § 405(a)(2)][/us/pl/104/88/s405/a/2], (b), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], 957; [Pub. L. 105–178, title I, § 1110(a)][/us/pl/105/178/s1110/a]–(d)(1), June 9, 1998, [112 Stat. 142][/us/stat/112/142], 143; [Pub. L. 109–59, title I, § 1808(a)][/us/pl/109/59/s1808/a]–(f), Aug. 10, 2005, [119 Stat. 1461–1463][/us/stat/119/1461-1463]; [Pub. L. 112–141, div. A, title I, § 1113(a)][/us/pl/112/141/s1113/a], (b), July 6, 2012, [126 Stat. 460][/us/stat/126/460].)
 
  __References in Text__ 
 
@@ -272,8 +272,6 @@
     The date of enactment of this subsection, referred to in subsec. (g)(2)(B), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
  __Amendments__ 
-
-    2014—Subsec. (m). [Pub. L. 113–76][/us/pl/113/76] substituted “for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation” for “that was previously eligible under this section”.
 
     2012—Subsec. (b). [Pub. L. 112–141, § 1113(a)(1)][/us/pl/112/141/s1113/a/1], (5), in introductory provisions, substituted “in subsection (d)” for “in subsection (c)” and “section 104(b)(4)” for “section 104(b)(2)” and struck out concluding provisions which read as follows: “No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
 
@@ -385,7 +383,7 @@
 
 [Pub. L. 105–178, title I, § 1110(e)][/us/pl/105/178/s1110/e], June 9, 1998, [112 Stat. 144][/us/stat/112/144], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air quality improvement program under [section 149 of title 23][/us/usc/t23/s149], United States Code. The study shall, at a minimum—
 
@@ -413,11 +411,11 @@
 
 >         “(I) include recommendations on expanding the scope of the program to address traffic-related pollutants that, as of the date of the study, are not addressed by the program.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     Not later than January 1, 2000, the National Academy of Sciences shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Commerce of the House of Representatives, and the Committee on Environment and Public Works of the Senate a report on the results of the study with recommendations for modifications to the congestion mitigation and air quality improvement program in light of the results of the study.
 
->     “(3)  __Funding__  __.—__ 
+>     “(3) __Funding.—__ 
 
 >     Before making the apportionment of funds under \[former\] [section 104(b)(2) of title 23][/us/usc/t23/s104/b/2], United States Code, for each of fiscal years 1999 and 2000, the Secretary shall deduct from the amount to be apportioned under such section for such fiscal year, and make available, $500,000 for such fiscal year to carry out this subsection.”
 
@@ -439,17 +437,17 @@
 
 >     “(5) The Secretary shall monitor the effect of such programs for a period of at least 10 years, and shall report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives every 2 years on the effects such programs are having on driver behavior, traffic volume, transit ridership, air quality, and availability of funds for transportation programs.
 
->     “(6)  __HOV passenger requirements__  __.—__ 
+>     “(6) __HOV passenger requirements.—__ 
 
 >     Notwithstanding [section 102(a) of title 23][/us/usc/t23/s102/a], United States Code, a State may permit vehicles with fewer than 2 occupants to operate in high occupancy vehicle lanes if the vehicles are part of a value pricing pilot program under this subsection.
 
->     “(7)  __Financial effects on low-income drivers__  __.—__ 
+>     “(7) __Financial effects on low-income drivers.—__ 
 
 >     Any value pricing pilot program under this subsection shall include, if appropriate, an analysis of the potential effects of the pilot program on low-income drivers and may include mitigation measures to deal with any potential adverse financial effects on low-income drivers.
 
 >     “(8) __Funding.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         There are authorized to be appropriated to the Secretary from the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection—
 
@@ -457,15 +455,15 @@
 
 >             “(ii) for each of fiscal years 2006 through 2009, $12,000,000.
 
->         “(B)  __Set-aside for projects not involving highway tolls__  __.—__ 
+>         “(B) __Set-aside for projects not involving highway tolls.—__ 
 
 >         Of the amounts made available to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2009 shall be available only for congestion pricing pilot projects that do not involve highway tolls.
 
->         “(C)  __Availability__  __.—__ 
+>         “(C) __Availability.—__ 
 
 >         Funds allocated by the Secretary to a State under this subsection shall remain available for obligation by the State for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
 
->         “(D)  __Use of unallocated funds__  __.—__ 
+>         “(D) __Use of unallocated funds.—__ 
 
 >         If the total amount of funds made available from the Highway Trust Fund to carry out this subsection for fiscal year 1998 and fiscal years thereafter but not allocated exceeds $8,000,000 as of September 30 of any year, the excess amount—
 
@@ -475,7 +473,7 @@
 
 >             “(iii) shall be available for any purpose eligible for funding under section 133 of such title.
 
->         “(C) __\[probably should be (E)\]__  __Contract authority__  __.—__ 
+>         “(C) __\[probably should be (E)\] Contract authority.—__ 
 
 >         Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection.”
 
@@ -515,8 +513,6 @@
 [/us/stat/119/1461-1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1461-1463
 [/us/pl/112/141/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa
 [/us/stat/126/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F460
-[/us/pl/113/76/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs125
-[/us/stat/128/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F587
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7408/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408%2Ff%2F1%2FA
@@ -528,7 +524,6 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/141/s1113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F1
 [/us/pl/112/141/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F2
 [/us/pl/112/141/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1113%2Fa%2F3

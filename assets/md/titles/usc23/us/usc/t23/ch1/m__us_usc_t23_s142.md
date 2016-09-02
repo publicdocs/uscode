@@ -23,11 +23,11 @@
 
     (b) Sums apportioned in accordance with section 104(b)(1) shall be available to finance the Federal share of projects for exclusive or preferential high occupancy vehicle, truck, and emergency vehicle routes or lanes. Routes constructed under this subsection shall not be subject to the third sentence of [section 109(b) of this title][/us/usc/t23/s109/b].
 
-    (c)  __Accommodation of Other Modes of Transportation__  __.—__ 
+    (c) __Accommodation of Other Modes of Transportation.—__ 
 
-    The Secretary may approve as a project on any Federal-aid highway for payment from sums apportioned under section 104(b) modifications to existing highways eligible under the program that is the source of the funds on such highway necessary to accommodate other modes of transportation if such modifications will not adversely affect automotive safety.
+    The Secretary may approve as a project on any Federal-aid highwayfor payment from sums apportioned under section 104(b) modifications to existing highways eligible under the program that is the source of the funds on such highway necessary to accommodate other modes of transportation if such modifications will not adversely affect automotive safety.
 
-    (d)  __Metropolitan Planning__  __.—__ 
+    (d) __Metropolitan Planning.—__ 
 
     Any project carried out under this section in an urbanized area shall be subject to the metropolitan planning requirements of section 134.
 
@@ -39,7 +39,7 @@
 
         (3) The Federal share payable on account of projects authorized by subsection (a) of this section shall be that provided in [section 120 of this title][/us/usc/t23/s120].
 
-    (f)  __Availability of Rights-of-Way__  __.—__ 
+    (f) __Availability of Rights-of-Way.—__ 
 
     In any case where sufficient land or air space exists within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highway and nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
 

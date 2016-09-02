@@ -15,9 +15,9 @@
 
 ## § 602. Determination of eligibility and project selection
 
-    (a)  __Eligibility__  __.—__ 
+    (a) __Eligibility.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         A project shall be eligible to receive credit assistance under this chapter if—
 
@@ -25,9 +25,9 @@
 
             (B) the project meets the criteria described in this subsection.
 
-        (2)  __Creditworthiness__  __.—__ 
+        (2) __Creditworthiness.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
 
@@ -39,21 +39,21 @@
 
                 (iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
-            (B)  __Senior debt__  __.—__ 
+            (B) __Senior debt.—__ 
 
             Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is the senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the credit instrument is for an amount less than $75,000,000, in which case 1 rating agency opinion shall be sufficient.
 
-        (3)  __Inclusion in transportation plans and programs__  __.—__ 
+        (3) __Inclusion in transportation plans and programs.—__ 
 
         A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
 
-        (4)  __Application__  __.—__ 
+        (4) __Application.—__ 
 
         A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
 
-        (5)  __Eligible project costs__  __.—__ 
+        (5) __Eligible project costs.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
@@ -65,11 +65,11 @@
 
                 (ii) 33⅓ percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
-            (B)  __Intelligent transportation system projects__  __.—__ 
+            (B) __Intelligent transportation system projects.—__ 
 
             In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
 
-        (6)  __Dedicated revenue sources__  __.—__ 
+        (6) __Dedicated revenue sources.—__ 
 
         The applicable Federal credit instrument shall be repayable, in whole or in part, from—
 
@@ -81,11 +81,11 @@
 
             (D) other dedicated revenue sources that also secure or fund the project obligations.
 
-        (7)  __Public sponsorship of private entities__  __.—__ 
+        (7) __Public sponsorship of private entities.—__ 
 
         In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraph (3).
 
-        (8)  __Applications where obligor will be identified later__  __.—__ 
+        (8) __Applications where obligor will be identified later.—__ 
 
         A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
 
@@ -93,7 +93,7 @@
 
             (B) identified later through completion of a procurement and selection of the private party.
 
-        (9)  __Beneficial effects__  __.—__ 
+        (9) __Beneficial effects.—__ 
 
         The Secretary shall determine that financial assistance for the project under this chapter will—
 
@@ -103,17 +103,17 @@
 
             (C) reduce the contribution of Federal grant assistance for the project.
 
-        (10)  __Project readiness__  __.—__ 
+        (10) __Project readiness.—__ 
 
         To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
 
-    (b)  __Selection Among Eligible Projects__  __.—__ 
+    (b) __Selection Among Eligible Projects.—__ 
 
-        (1)  __Establishment__  __.—__ 
+        (1) __Establishment.—__ 
 
         The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
-        (2)  __Adequate funding not available__  __.—__ 
+        (2) __Adequate funding not available.—__ 
 
         If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
 
@@ -121,7 +121,7 @@
 
             (B) the fiscal year during which additional funds are available to receive credit assistance.
 
-        (3)  __Preliminary rating opinion letter__  __.—__ 
+        (3) __Preliminary rating opinion letter.—__ 
 
         The Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency—
 
@@ -129,9 +129,9 @@
 
             (B) including a preliminary rating opinion on the Federal credit instrument.
 
-    (c)  __Federal Requirements__  __.—__ 
+    (c) __Federal Requirements.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of [section 5333(a) of title 49][/us/usc/t49/s5333/a] for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
 
@@ -141,13 +141,13 @@
 
             (C) The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601][/us/usc/t42/s4601] et seq.).
 
-        (2)  __NEPA__  __.—__ 
+        (2) __NEPA.—__ 
 
         No funding shall be obligated for a project that has not received an environmental categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-    (d)  __Application Processing Procedures__  __.—__ 
+    (d) __Application Processing Procedures.—__ 
 
-        (1)  __Notice of complete application__  __.—__ 
+        (1) __Notice of complete application.—__ 
 
         Not later than 30 days after the date of receipt of an application under this section, the Secretary shall provide to the applicant a written notice to inform the applicant whether—
 
@@ -155,11 +155,11 @@
 
             (B) additional information or materials are needed to complete the application.
 
-        (2)  __Approval or denial of application__  __.—__ 
+        (2) __Approval or denial of application.—__ 
 
         Not later than 60 days after the date of issuance of the written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
 
-    (e)  __Development Phase Activities__  __.—__ 
+    (e) __Development Phase Activities.—__ 
 
     Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
 

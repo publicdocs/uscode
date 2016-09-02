@@ -15,7 +15,7 @@
 
 ## § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
 
@@ -23,7 +23,7 @@
 
         (2) Management of plants which impair or impede the establishment, maintenance, or safe use of a transportation system.
 
-    (b)  __Included Activities__  __.—__ 
+    (b) __Included Activities.—__ 
 
     The establishment and management under subsection (a)(1) and (a)(2) may include—
 
@@ -39,11 +39,11 @@
 
     (c) __Contributions.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Subject to paragraph (2), an activity described in subsection (a) may be carried out concurrently with, in advance of, or following the construction of a project funded under this title.
 
-        (2)  __Condition for activities conducted in advance of project construction__  __.—__ 
+        (2) __Condition for activities conducted in advance of project construction.—__ 
 
         An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.
 

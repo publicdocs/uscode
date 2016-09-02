@@ -15,13 +15,13 @@
 
 ## § 103. National Highway System
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     For the purposes of this title, the Federal-aid system is the National Highway System, which includes the Interstate System.
 
     (b) __National Highway System.—__ 
 
-        (1)  __Description__  __.—__ 
+        (1) __Description.—__ 
 
         The National Highway System consists of the highway routes and connections to transportation facilities that shall—
 
@@ -31,11 +31,11 @@
 
             (C) serve interstate and interregional travel and commerce.
 
-        (2)  __Components__  __.—__ 
+        (2) __Components.—__ 
 
         The National Highway System described in paragraph (1) consists of the following:
 
-            (A) The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled “Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals” and dated May 24, 1996, and modifications approved by the Secretary before the date of enactment of the MAP–21.
+            (A) The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled ‘Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals’ and dated May 24, 1996, and modifications approved by the Secretary before the date of enactment of the MAP–21.
 
             (B) Other urban and rural principal arterial routes, and border crossings on those routes, that were not included on the National Highway System before the date of enactment of the MAP–21.
 
@@ -59,9 +59,9 @@
 
                 (ii) shall be designated by the Secretary, in consultation with appropriate Federal agencies and the States.
 
-        (3)  __Modifications to nhs__  __.—__ 
+        (3) __Modifications to nhs.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Secretary may make any modification, including any modification consisting of a connector to a major intermodal terminal, to the National Highway System that is proposed by a State if the Secretary determines that the modification—
 
@@ -69,13 +69,13 @@
 
                 (ii) enhances the national transportation characteristics of the National Highway System.
 
-            (B)  __Cooperation__  __.—__ 
+            (B) __Cooperation.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 In proposing a modification under this paragraph, a State shall cooperate with local and regional officials.
 
-                (ii)  __Urbanized areas__  __.—__ 
+                (ii) __Urbanized areas.—__ 
 
                 In an urbanized area, the local officials shall act through the metropolitan planning organization designated for the area under section 134.
 
@@ -83,21 +83,21 @@
 
         (1) __Description.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Dwight D. Eisenhower National System of Interstate and Defense Highways within the United States (including the District of Columbia and Puerto Rico) consists of highways designed, located, and selected in accordance with this paragraph.
 
             (B) __Design.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Except as provided in clause (ii), highways on the Interstate System shall be designed in accordance with the standards of section 109(b).
 
-                (ii)  __Exception__  __.—__ 
+                (ii) __Exception.—__ 
 
                 Highways on the Interstate System in Alaska and Puerto Rico shall be designed in accordance with such geometric and construction standards as are adequate for current and probable future traffic demands and the needs of the locality of the highway.
 
-            (C)  __Location__  __.—__ 
+            (C) __Location.—__ 
 
             Highways on the Interstate System shall be located so as—
 
@@ -107,47 +107,47 @@
 
                 (iii) to the maximum extent practicable, to connect at suitable border points with routes of continental importance in Canada and Mexico.
 
-            (D)  __Selection of routes__  __.—__ 
+            (D) __Selection of routes.—__ 
 
             To the maximum extent practicable, each route of the Interstate System shall be selected by joint action of the State transportation departments of the State in which the route is located and the adjoining States, in cooperation with local and regional officials, and subject to the approval of the Secretary.
 
-        (2)  __Maximum mileage__  __.—__ 
+        (2) __Maximum mileage.—__ 
 
         The mileage of highways on the Interstate System shall not exceed 43,000 miles, exclusive of designations under paragraph (4).
 
-        (3)  __Modifications__  __.—__ 
+        (3) __Modifications.—__ 
 
         The Secretary may approve or require modifications to the Interstate System in a manner consistent with the policies and procedures established under this subsection.
 
         (4) __Interstate system designations.—__ 
 
-            (A)  __Additions__  __.—__ 
+            (A) __Additions.—__ 
 
             If the Secretary determines that a highway on the National Highway System meets all standards of a highway on the Interstate System and that the highway is a logical addition or connection to the Interstate System, the Secretary may, upon the affirmative recommendation of the State or States in which the highway is located, designate the highway as a route on the Interstate System.
 
             (B) __Designations as future interstate system routes.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 Subject to clauses (ii) through (vi), if the Secretary determines that a highway on the National Highway System would be a logical addition or connection to the Interstate System and would qualify for designation as a route on the Interstate System under subparagraph (A) if the highway met all standards of a highway on the Interstate System, the Secretary may, upon the affirmative recommendation of the State or States in which the highway is located, designate the highway as a future Interstate System route.
 
-                (ii)  __Written agreement__  __.—__ 
+                (ii) __Written agreement.—__ 
 
                 A designation under clause (i) shall be made only upon the written agreement of each State described in that clause that the highway will be constructed to meet all standards of a highway on the Interstate System by not later than the date that is 25 years after the date of the agreement.
 
-                (iii)  __Failure to complete construction__  __.—__ 
+                (iii) __Failure to complete construction.—__ 
 
                 If a State described in clause (i) has not substantially completed the construction of a highway designated under this subparagraph by the date specified in clause (ii), the Secretary shall remove the designation of the highway as a future Interstate System route.
 
-                (iv)  __Effect of removal__  __.—__ 
+                (iv) __Effect of removal.—__ 
 
                 Removal of the designation of a highway under clause (iii) shall not preclude the Secretary from designating the highway as a route on the Interstate System under subparagraph (A) or under any other provision of law providing for addition to the Interstate System.
 
-                (v)  __Retroactive effect__  __.—__ 
+                (v) __Retroactive effect.—__ 
 
                 An agreement described in clause (ii) that is entered into before August 10, 2005, shall be deemed to include the 25-year time limitation described in that clause, regardless of any earlier construction completion date in the agreement.
 
-                (vi)  __References__  __.—__ 
+                (vi) __References.—__ 
 
                 No law, rule, regulation, map, document, or other record of the United States, or of any State or political subdivision of a State, shall refer to any highway designated as a future Interstate System route under this subparagraph, and no such highway shall be signed or marked, as a highway on the Interstate System, until such time as the highway—
 
@@ -155,17 +155,17 @@
 
                     (II) has been designated as a route on the Interstate System.
 
-            (C)  __Financial responsibility__  __.—__ 
+            (C) __Financial responsibility.—__ 
 
             Except as provided in this title, the designation of a highway under this paragraph shall create no additional Federal financial responsibility with respect to the highway.
 
         (5) __Exemption of interstate system.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraph (B), the Interstate System shall not be considered to be a historic site under [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], regardless of whether the Interstate System or portions or elements of the Interstate System are listed on, or eligible for listing on, the National Register of Historic Places.
 
-            (B)  __Individual elements__  __.—__ 
+            (B) __Individual elements.—__ 
 
             Subject to subparagraph (C)—
 
@@ -173,7 +173,7 @@
 
                 (ii) those elements shall be considered to be historic sites under [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable.
 
-            (C)  __Construction, maintenance, restoration, and rehabilitation activities__  __.—__ 
+            (C) __Construction, maintenance, restoration, and rehabilitation activities.—__ 
 
             Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable, and section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]).
 
@@ -393,11 +393,11 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary \[of Transportation\] shall establish a real-time system management information program to provide, in all States, the capability to monitor, in real-time, the traffic and travel conditions of the major highways of the United States and to share that information to improve the security of the surface transportation system, to address congestion problems, to support improved response to weather events and surface transportation incidents, and to facilitate national and regional highway traveler information.
 
->         “(2)  __Purposes__  __.—__ 
+>         “(2) __Purposes.—__ 
 
 >         The purposes of the real-time system management information program are to—
 
@@ -407,29 +407,29 @@
 
 >             “(C) provide the capability and means to share that data with State and local governments and the traveling public.
 
->     “(b)  __Data Exchange Formats__  __.—__ 
+>     “(b) __Data Exchange Formats.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall establish data exchange formats to ensure that the data provided by highway and transit monitoring systems, including statewide incident reporting systems, can readily be exchanged across jurisdictional boundaries, facilitating nationwide availability of information.
 
 >     “(c) __Regional Intelligent Transportation System Architecture.—__ 
 
->         “(1)  __Addressing information needs__  __.—__ 
+>         “(1) __Addressing information needs.—__ 
 
 >         As State and local governments develop or update regional intelligent transportation system architectures, described in section 940.9 of title 23, Code of Federal Regulations, such governments shall explicitly address real-time highway and transit information needs and the systems needed to meet such needs, including addressing coverage, monitoring systems, data fusion and archiving, and methods of exchanging or sharing highway and transit information.
 
->         “(2)  __Data exchange__  __.—__ 
+>         “(2) __Data exchange.—__ 
 
 >         States shall incorporate the data exchange formats established by the Secretary \[of Transportation\] under subsection (b) to ensure that the data provided by highway and transit monitoring systems may readily be exchanged with State and local governments and may be made available to the traveling public.
 
->     “(d)  __Eligibility__  __.—__ 
+>     “(d) __Eligibility.—__ 
 
 >     Subject to project approval by the Secretary \[of Transportation\], a State may obligate funds apportioned to the State under \[former\] sections 104(b)(1), 104(b)(2), and 104(b)(3) of title 23, United States Code, for activities relating to the planning and deployment of real-time monitoring elements that advance the goals and purposes described in subsection (a).
 
->     “(e)  __Limitation on Statutory Construction__  __.—__ 
+>     “(e) __Limitation on Statutory Construction.—__ 
 
 >     Nothing in this section shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program, the location of the project, and the Federal-share payable on account of the project), to amounts apportioned to a State for a program under section 104(b) that are obligated by the State for activities and projects under this section.
 
->     “(f)  __Statewide Incident Reporting System Defined__  __.—__ 
+>     “(f) __Statewide Incident Reporting System Defined.—__ 
 
 >     In this section, the term ‘statewide incident reporting system’ means a statewide system for facilitating the real-time electronic reporting of surface transportation incidents to a central location for use in monitoring the event, providing accurate traveler information, and responding to the incident as appropriate.”
 
@@ -457,15 +457,15 @@
 
 [Pub. L. 102–240, title I, § 1006(c)][/us/pl/102/240/s1006/c], Dec. 18, 1991, [105 Stat. 1925][/us/stat/105/1925], provided that:
 
->     “(1)  __State action__  __.—__ 
+>     “(1) __State action.—__ 
 
 >     Each State shall functionally reclassify the roads and streets in such State in accordance with such guidelines and time schedule as the Secretary may establish in order to carry out the objectives of this section \[amending this section and sections 101, 104 and 113 of this title and enacting provisions set out as a note under [section 311 of this title][/us/usc/t23/s311]\], including the amendments made by this section.
 
->     “(2)  __Approval and submission to congress__  __.—__ 
+>     “(2) __Approval and submission to congress.—__ 
 
 >     Not later than September 30, 1993, the Secretary shall approve the functional reclassification of roads and streets made by the States pursuant to this subsection and shall submit a report to Congress containing such reclassification.
 
->     “(3)  __State defined__  __.—__ 
+>     “(3) __State defined.—__ 
 
 >     In this subsection, the term ‘State’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code, and shall include the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Marianas.”
 

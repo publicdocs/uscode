@@ -15,7 +15,7 @@
 
 ## § 514. Goals and purposes
 
-    (a)  __Goals__  __.—__ 
+    (a) __Goals.—__ 
 
     The goals of the intelligent transportation system program include—
 
@@ -29,7 +29,7 @@
 
         (5) enhancement of national defense mobility and improvement of the ability of the United States to respond to security-related or other manmade emergencies and natural disasters.
 
-    (b)  __Purposes__  __.—__ 
+    (b) __Purposes.—__ 
 
     The Secretary shall implement activities under the intelligent transportation system program, at a minimum—
 

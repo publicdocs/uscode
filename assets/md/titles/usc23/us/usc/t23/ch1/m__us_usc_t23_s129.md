@@ -17,7 +17,7 @@
 
     (a) __Basic Program.—__ 
 
-        (1)  __Authorization for federal participation__  __.—__ 
+        (1) __Authorization for federal participation.—__ 
 
         Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner as construction of toll-free highways is permitted under this chapter in the—
 
@@ -39,7 +39,7 @@
 
             (I) preliminary studies to determine the feasibility of a toll facility for which Federal participation is authorized under this paragraph.
 
-        (2)  __Ownership__  __.—__ 
+        (2) __Ownership.—__ 
 
         Each highway, bridge, tunnel, or approach to the highway, bridge, or tunnel constructed under this subsection shall—
 
@@ -49,7 +49,7 @@
 
         (3) __Limitations on use of revenues.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             A public authority with jurisdiction over a toll facility shall use all toll revenues received from operation of the toll facility only for—
 
@@ -65,21 +65,21 @@
 
             (B) __Annual audit.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A), and report the results of the audits to the Secretary.
 
-                (ii)  __Records__  __.—__ 
+                (ii) __Records.—__ 
 
                 On reasonable notice, the public authority shall make all records of the public authority pertaining to the toll facility available for audit by the Secretary.
 
-            (C)  __Noncompliance__  __.—__ 
+            (C) __Noncompliance.—__ 
 
             If the Secretary concludes that a public authority has not complied with the limitations on the use of revenues described in subparagraph (A), the Secretary may require the public authority to discontinue collecting tolls until an agreement with the Secretary is reached to achieve compliance with the limitation on the use of revenues described in subparagraph (A).
 
         (4) __Limitations on conversion of high occupancy vehicle facilities on interstate system.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             A public authority with jurisdiction over a high occupancy vehicle facility on the Interstate System may undertake reconstruction, restoration, or rehabilitation under paragraph (1)(G) on the facility, and may levy tolls on vehicles, excluding high occupancy vehicles, using the reconstructed, restored, or rehabilitated facility, if the public authority—
 
@@ -95,25 +95,25 @@
 
                     (II) to enforce sanctions for violations of use of the facility.
 
-            (B)  __Exemption from tolls__  __.—__ 
+            (B) __Exemption from tolls.—__ 
 
             In levying tolls on a facility under subparagraph (A), a public authority may designate classes of vehicles that are exempt from the tolls or charge different toll rates for different classes of vehicles.
 
         (5) __Special rule for funding.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             In the case of a toll facility under the jurisdiction of a public authority of a State (other than the State transportation department), on request of the State transportation department and subject to such terms and conditions as the department and public authority may agree, the Secretary, working through the State department of transportation, shall reimburse the public authority for the Federal share of the costs of construction of the project carried out on the toll facility under this subsection in the same manner and to the same extent as the department would be reimbursed if the project was being carried out by the department.
 
-            (B)  __Source__  __.—__ 
+            (B) __Source.—__ 
 
             The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid system in the State on which the project is being carried out.
 
-        (6)  __Limitation on federal share__  __.—__ 
+        (6) __Limitation on federal share.—__ 
 
         The Federal share payable for a project described in paragraph (1) shall be a percentage determined by the State, but not to exceed 80 percent.
 
-        (7)  __Modifications__  __.—__ 
+        (7) __Modifications.—__ 
 
         If a public authority (including a State transportation department) with jurisdiction over a toll facility subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991 ([105 Stat. 1915][/us/stat/105/1915]), requests modification of the agreement, the Secretary shall modify the agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
 
@@ -121,39 +121,39 @@
 
             (A) __In general.—__ 
 
-                (i)  __Loans__  __.—__ 
+                (i) __Loans.—__ 
 
                 Using amounts made available under this title, a State may loan to a public or private entity constructing or proposing to construct under this section a toll facility or non-toll facility with a dedicated revenue source an amount equal to all or part of the Federal share of the cost of the project if the project has a revenue source specifically dedicated to the project.
 
-                (ii)  __Dedicated revenue sources__  __.—__ 
+                (ii) __Dedicated revenue sources.—__ 
 
                 Dedicated revenue sources for non-toll facilities include excise taxes, sales taxes, motor vehicle use fees, tax on real property, tax increment financing, and such other dedicated revenue sources as the Secretary determines appropriate.
 
-            (B)  __Compliance with federal laws__  __.—__ 
+            (B) __Compliance with federal laws.—__ 
 
             As a condition of receiving a loan under this paragraph, the public or private entity that receives the loan shall ensure that the project will be carried out in accordance with this title and any other applicable Federal law, including any applicable provision of a Federal environmental law.
 
-            (C)  __Subordination of debt__  __.—__ 
+            (C) __Subordination of debt.—__ 
 
             The amount of any loan received for a project under this paragraph may be subordinated to any other debt financing for the project.
 
-            (D)  __Obligation of funds loaned__  __.—__ 
+            (D) __Obligation of funds loaned.—__ 
 
             Funds loaned under this paragraph may only be obligated for projects under this paragraph.
 
-            (E)  __Repayment__  __.—__ 
+            (E) __Repayment.—__ 
 
             The repayment of a loan made under this paragraph shall commence not later than 5 years after date on which the facility that is the subject of the loan is open to traffic.
 
-            (F)  __Term of loan__  __.—__ 
+            (F) __Term of loan.—__ 
 
             The term of a loan made under this paragraph shall not exceed 30 years from the date on which the loan funds are obligated.
 
-            (G)  __Interest__  __.—__ 
+            (G) __Interest.—__ 
 
             A loan made under this paragraph shall bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible.
 
-            (H)  __Reuse of funds__  __.—__ 
+            (H) __Reuse of funds.—__ 
 
             Amounts repaid to a State from a loan made under this paragraph may be obligated—
 
@@ -161,37 +161,37 @@
 
                 (ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access or to lower interest rates for projects eligible for assistance under this title.
 
-            (I)  __Guidelines__  __.—__ 
+            (I) __Guidelines.—__ 
 
             The Secretary shall establish procedures and guidelines for making loans under this paragraph.
 
-        (9)  __State law permitting tolling__  __.—__ 
+        (9) __State law permitting tolling.—__ 
 
         If a State does not have a highway, bridge, or tunnel toll facility as of the date of enactment of the MAP–21, before commencing any activity authorized under this section, the State shall have in effect a law that permits tolling on a highway, bridge, or tunnel.
 
-        (10)  __Definitions__  __.—__ 
+        (10) __Definitions.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A)  __High occupancy vehicle; hov__  __.—__ 
+            (A) __High occupancy vehicle; hov.—__ 
 
             The term “high occupancy vehicle” or “HOV” means a vehicle with not fewer than 2 occupants.
 
             (B) __Initial construction.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The term “initial construction” means the construction of a highway, bridge, tunnel, or other facility at any time before it is open to traffic.
 
-                (ii)  __Exclusions__  __.—__ 
+                (ii) __Exclusions.—__ 
 
                 The term “initial construction” does not include any improvement to a highway, bridge, tunnel, or other facility after it is open to traffic.
 
-            (C)  __Public authority__  __.—__ 
+            (C) __Public authority.—__ 
 
             The term “public authority” means a State, interstate compact of States, or public entity designated by a State.
 
-            (D)  __Toll facility__  __.—__ 
+            (D) __Toll facility.—__ 
 
             The term “toll facility” means a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel constructed under this subsection.
 
@@ -337,11 +337,11 @@
 
 [Pub. L. 109–59, title I, § 1604(b)][/us/pl/109/59/s1604/b], Aug. 10, 2005, [119 Stat. 1250][/us/stat/119/1250], provided that:
 
->     “(1)  __Definitions__  __.—__ 
+>     “(1) __Definitions.—__ 
 
 >     In this subsection, the following definitions apply:
 
->         “(A)  __Eligible toll facility__  __.—__ 
+>         “(A) __Eligible toll facility.—__ 
 
 >         The term ‘eligible toll facility’ includes—
 
@@ -353,11 +353,11 @@
 
 >             “(iv) in the case of a new lane added to a previously non-tolled facility, only the new lane.
 
->         “(B)  __Nonattainment area__  __.—__ 
+>         “(B) __Nonattainment area.—__ 
 
 >         The term ‘nonattainment area’ has the meaning given that term in section 171 of the Clean Air Act ([42 U.S.C. 7501][/us/usc/t42/s7501]).
 
->     “(2)  __Demonstration program__  __.—__ 
+>     “(2) __Demonstration program.—__ 
 
 >     Notwithstanding sections 129 and 301 of title 23, United States Code, the Secretary \[of Transportation\] shall carry out 15 demonstration projects during the period of fiscal years 2005 through 2009 to permit States, public authorities, or a \[sic\] public or private entities designated by States, to collect a toll from motor vehicles at an eligible toll facility for any highway, bridge, or tunnel, including facilities on the Interstate System—
 
@@ -371,7 +371,7 @@
 
 >         “(A) __Use.—__ 
 
->             “(i)  __In general__  __.—__ 
+>             “(i) __In general.—__ 
 
 >             Toll revenues received under paragraph (2) shall be used by a State, public authority, or private entity designated by a State, for—
 
@@ -385,37 +385,37 @@
 
 >         “(B) __Requirements.—__ 
 
->             “(i)  __Variable price requirement__  __.—__ 
+>             “(i) __Variable price requirement.—__ 
 
 >             A facility that charges tolls under this subsection may establish a toll that varies in price according to time of day or level of traffic, as appropriate to manage congestion or improve air quality.
 
->             “(ii) __HOV__  __variable pricing requirement__  __.—__ 
+>             “(ii) __HOV variable pricing requirement.—__ 
 
 >             The Secretary \[of Transportation\] shall require, for each high occupancy vehicle facility that charges tolls under this subsection, that the tolls vary in price according to time of day or level of traffic, as appropriate to manage congestion or improve air quality.
 
->             “(iii) __HOV__  __passenger requirements__  __.—__ 
+>             “(iii) __HOV passenger requirements.—__ 
 
 >             Pursuant to [section 166 of title 23][/us/usc/t23/s166], United States Code, a State may permit motor vehicles with fewer than two occupants to operate in high occupancy vehicle lanes as part of a variable toll pricing program established under this subsection.
 
 >         “(C) __Agreement.—__ 
 
->             “(i)  __In general__  __.—__ 
+>             “(i) __In general.—__ 
 
 >             Before the Secretary may permit a facility to charge tolls under this subsection, the Secretary and the applicable State, public authority, or private entity designated by a State shall enter into an agreement for each facility incorporating the conditions described in subparagraphs (A) and (B).
 
->             “(ii)  __Termination__  __.—__ 
+>             “(ii) __Termination.—__ 
 
 >             An agreement under clause (i) shall terminate with respect to a facility upon the decision of the State, public authority, or private entity designated by a State to discontinue the variable tolling program under this subsection for the facility.
 
->             “(iii)  __Debt__  __.—__ 
+>             “(iii) __Debt.—__ 
 
 >             If there is any debt outstanding on a facility at the time at which the decision is made to discontinue the program under this subsection with respect to the facility, the facility may continue to charge tolls in accordance with the terms of the agreement until such time as the debt is retired.
 
->         “(D)  __Limitation on federal share__  __.—__ 
+>         “(D) __Limitation on federal share.—__ 
 
 >         The Federal share of the cost of a project on a facility tolled under this subsection, including a project to install the toll collection facility shall be a percentage, not to exceed 80 percent, determined by the applicable State.
 
->     “(4)  __Eligibility__  __.—__ 
+>     “(4) __Eligibility.—__ 
 
 >     To be eligible to participate in the program under this subsection, a State, public authority, or private entity designated by a State shall provide to the Secretary \[of Transportation\]—
 
@@ -431,17 +431,17 @@
 
 >         “(C) such other information as the Secretary may require.
 
->     “(5)  __Automation__  __.—__ 
+>     “(5) __Automation.—__ 
 
 >     Fees collected from motorists using an express lane shall be collected only through the use of noncash electronic technology that optimizes the free flow of traffic on the tolled facility.
 
 >     “(6) __Interoperability.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall promulgate a final rule specifying requirements, standards, or performance specifications for automated toll collection systems implemented under this section \[enacting provisions set out as a note under this section and amending provisions set out as a note under [section 149 of this title][/us/usc/t23/s149]\].
 
->         “(B)  __Development__  __.—__ 
+>         “(B) __Development.—__ 
 
 >         In developing that rule, which shall be designed to maximize the interoperability of electronic collection systems, the Secretary shall, to the maximum extent practicable—
 
@@ -453,7 +453,7 @@
 
 >     “(7) __Reporting.—__ 
 
->         “(A)  __In general__  __.—__ 
+>         “(A) __In general.—__ 
 
 >         The Secretary \[of Transportation\], in cooperation with State and local agencies and other program participants and with opportunity for public comment, shall—
 
@@ -471,7 +471,7 @@
 
 >                 “(IV) use of revenues to meet transportation or impact mitigation needs.
 
->         “(B)  __Reports to congress__  __.—__ 
+>         “(B) __Reports to congress.—__ 
 
 >         The Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
@@ -483,15 +483,15 @@
 
 [Pub. L. 109–59, title I, § 1604(c)][/us/pl/109/59/s1604/c], Aug. 10, 2005, [119 Stat. 1253][/us/stat/119/1253], provided that:
 
->     “(1)  __Establishment__  __.—__ 
+>     “(1) __Establishment.—__ 
 
 >     The Secretary \[of Transportation\] shall establish and implement an Interstate System construction toll pilot program under which the Secretary, notwithstanding sections 129 and 301 of title 23, United States Code, may permit a State or an interstate compact of States to collect tolls on a highway, bridge, or tunnel on the Interstate System for the purpose of constructing Interstate highways.
 
->     “(2)  __Limitation on number of facilities__  __.—__ 
+>     “(2) __Limitation on number of facilities.—__ 
 
 >     The Secretary \[of Transportation\] may permit the collection of tolls under this section on three facilities on the Interstate System.
 
->     “(3)  __Eligibility__  __.—__ 
+>     “(3) __Eligibility.—__ 
 
 >     To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that contains, at a minimum, the following:
 
@@ -515,7 +515,7 @@
 
 >             “(v) such other information as the Secretary may require.
 
->     “(4)  __Selection criteria__  __.—__ 
+>     “(4) __Selection criteria.—__ 
 
 >     The Secretary \[of Transportation\] may approve the application of a State under paragraph (3) only if the Secretary determines that—
 
@@ -529,7 +529,7 @@
 
 >         “(E) the State has given preference to the use of a public toll agency with demonstrated capability to build, operate, and maintain a toll expressway system meeting criteria for the Interstate System.
 
->     “(5)  __Prohibition on noncompete agreements__  __.—__ 
+>     “(5) __Prohibition on noncompete agreements.—__ 
 
 >     Before the Secretary \[of Transportation\] may permit a State to participate in the pilot program, the State must enter into an agreement with the Secretary that provides that the State will not enter into an agreement with a private person under which the State is prevented from improving or expanding the capacity of public roads adjacent to the toll facility to address conditions resulting from traffic diverted to such roads from the toll facility, including—
 
@@ -539,7 +539,7 @@
 
 >         “(C) an increased incidence of traffic accidents, injuries, or fatalities.
 
->     “(6)  __Limitations on use of revenues; audits__  __.—__ 
+>     “(6) __Limitations on use of revenues; audits.—__ 
 
 >     Before the Secretary \[of Transportation\] may permit a State to participate in the pilot program, the State must enter into an agreement with the Secretary that provides that—
 
@@ -555,15 +555,15 @@
 
 >         “(B) regular audits will be conducted to ensure compliance with subparagraph (A) and the results of such audits will be transmitted to the Secretary.
 
->     “(7)  __Limitation on use of interstate maintenance funds__  __.—__ 
+>     “(7) __Limitation on use of interstate maintenance funds.—__ 
 
 >     During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] [section 104(b)(4) of title 23][/us/usc/t23/s104/b/4], United States Code, may not be used on a facility for which tolls are being collected under the program.
 
->     “(8)  __Program term__  __.—__ 
+>     “(8) __Program term.—__ 
 
 >     The Secretary \[of Transportation\] may approve an application of a State for permission to collect a toll under this section only if the application is received by the Secretary before the last day of the 10-year period beginning on the date of enactment of this Act \[Aug. 10, 2005\].
 
->     “(9)  __Interstate system defined__  __.—__ 
+>     “(9) __Interstate system defined.—__ 
 
 >     In this section, the term ‘Interstate System’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 
@@ -571,19 +571,19 @@
 
 [Pub. L. 109–59, title I, § 1801(e)][/us/pl/109/59/s1801/e], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456], as amended by [Pub. L. 112–141, div. A, title I, § 1121(b)][/us/pl/112/141/s1121/b], July 6, 2012, [126 Stat. 494][/us/stat/126/494], provided that:
 
->     “(1)  __Establishment__  __.—__ 
+>     “(1) __Establishment.—__ 
 
 >     The Secretary \[of Transportation\], acting through the Bureau of Transportation Statistics, shall establish and maintain a national ferry database.
 
->     “(2)  __Contents__  __.—__ 
+>     “(2) __Contents.—__ 
 
 >     The database shall contain current information regarding ferry systems, including information regarding routes, vessels, passengers and vehicles carried, funding sources, including any Federal, State, and local government funding sources, and such other information as the Secretary considers useful.
 
->     “(3)  __Update report__  __.—__ 
+>     “(3) __Update report.—__ 
 
 >     Using information collected through the database, the Secretary shall periodically modify as appropriate the report submitted under section 1207(c) of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([23 U.S.C. 129][/us/usc/t23/s129] note; [112 Stat. 185–186][/us/stat/112/185-186]).
 
->     “(4)  __Requirements__  __.—__ 
+>     “(4) __Requirements.—__ 
 
 >     The Secretary shall—
 
@@ -599,7 +599,7 @@
 
 [Pub. L. 105–178, title I, § 1207(c)][/us/pl/105/178/s1207/c], June 9, 1998, [112 Stat. 185][/us/stat/112/185], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Secretary shall conduct a study of ferry transportation in the United States and its possessions—
 
@@ -615,7 +615,7 @@
 
 >         “(C) to identify the potential for use of high-speed ferry services and alternative-fueled ferry services.
 
->     “(2)  __Report__  __.—__ 
+>     “(2) __Report.—__ 
 
 >     The Secretary shall submit a report on the results of the study to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
@@ -623,15 +623,15 @@
 
 [Pub. L. 105–178, title I, § 1216(b)][/us/pl/105/178/s1216/b], June 9, 1998, [112 Stat. 212][/us/stat/112/212], provided that:
 
->     “(1)  __Establishment__  __.—__ 
+>     “(1) __Establishment.—__ 
 
 >     The Secretary shall establish and implement an Interstate System reconstruction and rehabilitation pilot program under which the Secretary, notwithstanding sections 129 and 301 of title 23, United States Code, may permit a State to collect tolls on a highway, bridge, or tunnel on the Interstate System for the purpose of reconstructing and rehabilitating Interstate highway corridors that could not otherwise be adequately maintained or functionally improved without the collection of tolls.
 
->     “(2)  __Limitation on number of facilities__  __.—__ 
+>     “(2) __Limitation on number of facilities.—__ 
 
 >     The Secretary may permit the collection of tolls under this subsection on 3 facilities on the Interstate System. Each of such facilities shall be located in a different State.
 
->     “(3)  __Eligibility__  __.—__ 
+>     “(3) __Eligibility.—__ 
 
 >     To be eligible to participate in the pilot program, a State shall submit to the Secretary an application that contains, at a minimum, the following:
 
@@ -655,7 +655,7 @@
 
 >             “(v) such other information as the Secretary may require.
 
->     “(4)  __Selection criteria__  __.—__ 
+>     “(4) __Selection criteria.—__ 
 
 >     The Secretary may approve the application of a State under paragraph (3) only if the Secretary determines that—
 
@@ -669,7 +669,7 @@
 
 >         “(E) the State has given preference to the use of a public toll agency with demonstrated capability to build, operate, and maintain a toll expressway system meeting criteria for the Interstate System.
 
->     “(5)  __Limitations on use of revenues; audits__  __.—__ 
+>     “(5) __Limitations on use of revenues; audits.—__ 
 
 >     Before the Secretary may permit a State to participate in the pilot program, the State must enter into an agreement with the Secretary that provides that—
 
@@ -685,15 +685,15 @@
 
 >         “(B) regular audits will be conducted to ensure compliance with subparagraph (A) and the results of such audits will be transmitted to the Secretary.
 
->     “(6)  __Limitation on use of interstate maintenance funds__  __.—__ 
+>     “(6) __Limitation on use of interstate maintenance funds.—__ 
 
 >     During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] [section 104(b)(4) of title 23][/us/usc/t23/s104/b/4], United States Code, may not be used on a facility for which tolls are being collected under the program.
 
->     “(7)  __Program term__  __.—__ 
+>     “(7) __Program term.—__ 
 
 >     The Secretary shall conduct the pilot program under this subsection for a term to be determined by the Secretary, but not less than 10 years.
 
->     “(8)  __Interstate system defined__  __.—__ 
+>     “(8) __Interstate system defined.—__ 
 
 >     In this subsection, the term ‘Interstate System’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 

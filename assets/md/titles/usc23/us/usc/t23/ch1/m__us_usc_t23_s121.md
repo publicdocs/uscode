@@ -15,7 +15,7 @@
 
 ## § 121. Payment to States for construction
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Secretary, from time to time as the work progresses, may make payments to a State for costs of construction incurred by the State on a project. Such payments may also be made for the value of the materials—
 
@@ -23,7 +23,7 @@
 
         (2) that are not in the vicinity of the construction if the Secretary determines that because of required fabrication at an off-site location the material cannot be stockpiled in such vicinity.
 
-    (b)  __Project Agreement__  __.—__ 
+    (b) __Project Agreement.—__ 
 
     No payment shall be made under this chapter except for a project covered by a project agreement. After completion of the project in accordance with the project agreement, a State shall be entitled to payment out of the appropriate sums apportioned or allocated to the State of the unpaid balance of the Federal share payable for such project.
 

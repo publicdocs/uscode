@@ -15,33 +15,33 @@
 
 ## § 608. Funding
 
-    (a)  __Funding__  __.—__ 
+    (a) __Funding.—__ 
 
-        (1)  __Spending and borrowing authority__  __.—__ 
+        (1) __Spending and borrowing authority.—__ 
 
         Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
 
-        (2)  __Reestimates__  __.—__ 
+        (2) __Reestimates.—__ 
 
         If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) the Congressional Budget Act of 1974 ([2 U.S.C. 661c(f)][/us/usc/t2/s661c/f]).
 
-        (3)  __Rural set-aside__  __.—__ 
+        (3) __Rural set-aside.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Of the total amount of funds made available to carry out this chapter for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects.
 
-            (B)  __Reobligation__  __.—__ 
+            (B) __Reobligation.—__ 
 
             Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects.
 
-        (4)  __Redistribution of authorized funding__  __.—__ 
+        (4) __Redistribution of authorized funding.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Beginning in fiscal year 2014, on April 1 of each fiscal year, if the cumulative unobligated and uncommitted balance of funding available exceeds 75 percent of the amount made available to carry out this chapter for that fiscal year, the Secretary shall distribute to the States the amount of funds and associated obligation authority in excess of that amount.
 
-            (B)  __Distribution__  __.—__ 
+            (B) __Distribution.—__ 
 
             The amounts and obligation authority distributed under this paragraph shall be distributed, in the same manner as obligation authority is distributed to the States for the fiscal year, based on the proportion that—
 
@@ -49,25 +49,25 @@
 
                 (ii) the total amount of obligation authority distributed to all States for the fiscal year.
 
-            (C)  __Purpose__  __.—__ 
+            (C) __Purpose.—__ 
 
             Funds distributed under subparagraph (B) shall be available for any purpose described in section 133(b).
 
-        (5)  __Availability__  __.—__ 
+        (5) __Availability.—__ 
 
         Amounts made available to carry out this chapter shall remain available until expended.
 
-        (6)  __Administrative costs__  __.—__ 
+        (6) __Administrative costs.—__ 
 
         Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.
 
-    (b)  __Contract Authority__  __.—__ 
+    (b) __Contract Authority.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under this chapter shall impose on the United States a contractual obligation to fund the Federal credit investment.
 
-        (2)  __Availability__  __.—__ 
+        (2) __Availability.—__ 
 
         Amounts made available to carry out this chapter for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 

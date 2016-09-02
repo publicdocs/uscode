@@ -17,15 +17,15 @@
 
     (a) __Withholding of Apportionments for Noncompliance.—__ 
 
-        (1)  __Prior to fiscal year 2012__  __.—__ 
+        (1) __Prior to fiscal year 2012.—__ 
 
         The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  on October 1, 1999, and on October 1 of each fiscal year thereafter through fiscal year 2011, if the State does not meet the requirement of paragraph (3) on that date.
 
-        (2)  __Fiscal year 2012 and thereafter__  __.—__ 
+        (2) __Fiscal year 2012 and thereafter.—__ 
 
         The Secretary shall withhold an amount equal to 8 percent of the amount required to be apportioned to any State under each of paragraphs (1) and (2) of section 104(b) on October 1, 2011, and on October 1 of each fiscal year thereafter, if the State does not meet the requirement of paragraph (3) on that date.
 
-        (3)  __Requirement__  __.—__ 
+        (3) __Requirement.—__ 
 
         A State meets the requirement of this paragraph if the State has enacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
 
@@ -33,23 +33,23 @@
 
         (1) __Period of availability of withheld funds.—__ 
 
-            (A)  __Funds withheld on or before __  __september 30, 2000__  __.—__ 
+            (A) __Funds withheld on or before__  __september 30, 2000__  __.—__ 
 
             Any funds withheld under subsection (a) from apportionment to any State on or before September 30, 2000, shall remain available until the end of the third fiscal year following the fiscal year for which the funds are authorized to be appropriated.
 
-            (B)  __Funds withheld after __  __september 30, 2000__  __.—__ 
+            (B) __Funds withheld after__  __september 30, 2000__  __.—__ 
 
             No funds withheld under this section from apportionment to any State after September 30, 2000, shall be available for apportionment to the State.
 
-        (2)  __Apportionment of withheld funds after compliance__  __.—__ 
+        (2) __Apportionment of withheld funds after compliance.—__ 
 
         If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirement of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirement, apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
 
-        (3)  __Period of availability of subsequently apportioned funds__  __.—__ 
+        (3) __Period of availability of subsequently apportioned funds.—__ 
 
         Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure until the end of the third fiscal year following the fiscal year in which the funds are so apportioned. Sums not obligated at the end of that period shall lapse.
 
-        (4)  __Effect of noncompliance__  __.—__ 
+        (4) __Effect of noncompliance.—__ 
 
         If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirement of subsection (a)(3), the funds shall lapse.
 

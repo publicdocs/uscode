@@ -15,29 +15,29 @@
 
 ## § 169. Development of programmatic mitigation plans
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     As part of the statewide or metropolitan transportation planning process, a State or metropolitan planning organization may develop 1 or more programmatic mitigation plans to address the potential environmental impacts of future transportation projects.
 
-    (b)  __Scope__  __.—__ 
+    (b) __Scope.—__ 
 
-        (1)  __Scale__  __.—__ 
+        (1) __Scale.—__ 
 
         A programmatic mitigation plan may be developed on a regional, ecosystem, watershed, or statewide scale.
 
-        (2)  __Resources__  __.—__ 
+        (2) __Resources.—__ 
 
         The plan may encompass multiple environmental resources within a defined geographic area or may focus on a specific resource, such as aquatic resources, parkland, or wildlife habitat.
 
-        (3)  __Project impacts__  __.—__ 
+        (3) __Project impacts.—__ 
 
         The plan may address impacts from all projects in a defined geographic area or may focus on a specific type of project.
 
-        (4)  __Consultation__  __.—__ 
+        (4) __Consultation.—__ 
 
         The scope of the plan shall be determined by the State or metropolitan planning organization, as appropriate, in consultation with the agency or agencies with jurisdiction over the resources being addressed in the mitigation plan.
 
-    (c)  __Contents__  __.—__ 
+    (c) __Contents.—__ 
 
     A programmatic mitigation plan may include—
 
@@ -53,7 +53,7 @@
 
         (6) acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources.
 
-    (d)  __Process__  __.—__ 
+    (d) __Process.—__ 
 
     Before adopting a programmatic mitigation plan, a State or metropolitan planning organization shall—
 
@@ -65,15 +65,15 @@
 
         (4) address such comments in the final plan.
 
-    (e)  __Integration With Other Plans__  __.—__ 
+    (e) __Integration With Other Plans.—__ 
 
     A programmatic mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
 
-    (f)  __Consideration in Project Development and Permitting__  __.—__ 
+    (f) __Consideration in Project Development and Permitting.—__ 
 
     If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project may use the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-    (g)  __Preservation of Existing Authorities__  __.—__ 
+    (g) __Preservation of Existing Authorities.—__ 
 
     Nothing in this section limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 

@@ -15,17 +15,17 @@
 
 ## § 510. Future strategic highway research program
 
-    (a)  __Establishment__  __.—__ 
+    (a) __Establishment.—__ 
 
     The Secretary, in consultation with the American Association of State Highway and Transportation Officials, shall establish and carry out, acting through the National Research Council of the National Academy of Sciences, the future strategic highway research program.
 
-    (b)  __Cooperative Agreements__  __.—__ 
+    (b) __Cooperative Agreements.—__ 
 
     The Secretary may make grants to, and enter into cooperative agreements with, the American Association of State Highway and Transportation Officials and the National Academy of Sciences to carry out such activities under this section as the Secretary determines are appropriate.
 
     (c) __Program Priorities.—__ 
 
-        (1)  __Program elements__  __.—__ 
+        (1) __Program elements.—__ 
 
         The program established under this section shall be based on the National Research Council Special Report 260, entitled “Strategic Highway Research: Saving Lives, Reducing Congestion, Improving Quality of Life” and the results of the detailed planning work subsequently carried out in 2002 and 2003 to identify the research areas through National Cooperative Research Program Project 20–58. The research program shall include an analysis of the following:
 
@@ -37,11 +37,11 @@
 
             (D) Planning and designing new road capacity to meet mobility, economic, environmental, and community needs.
 
-        (2)  __Dissemination of results__  __.—__ 
+        (2) __Dissemination of results.—__ 
 
         The research results of the program, expressed in terms of technologies, methodologies, and other appropriate categorizations, shall be disseminated to practicing engineers for their use, as soon as practicable.
 
-    (d)  __Program Administration__  __.—__ 
+    (d) __Program Administration.—__ 
 
     In carrying out the program under this section, the National Research Council shall ensure, to the maximum extent practicable, that—
 
@@ -55,11 +55,11 @@
 
     (e) __Report on Implementation of Results.—__ 
 
-        (1)  __Report__  __.—__ 
+        (1) __Report.—__ 
 
         The Transportation Research Board of the National Research Council shall complete a report on the strategies and administrative structure to be used for implementation of the results of the future strategic highway research program.
 
-        (2)  __Components__  __.—__ 
+        (2) __Components.—__ 
 
         The report under paragraph (1) shall include with respect to the program—
 
@@ -71,7 +71,7 @@
 
             (D) recommendations on methods by which implementation of those results should be conducted, coordinated, and supported in future years, including a discussion of the administrative structure and organization best suited to carry out those recommendations.
 
-        (3)  __Consultation__  __.—__ 
+        (3) __Consultation.—__ 
 
         In developing the report, the Transportation Research Board shall consult with a wide variety of stakeholders, including—
 
@@ -81,39 +81,39 @@
 
             (C) the American Association of State Highway and Transportation Officials.
 
-        (4)  __Submission__  __.—__ 
+        (4) __Submission.—__ 
 
         Not later than February 1, 2009, the report shall be submitted to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
     (f) __Funding.—__ 
 
-        (1)  __Federal share__  __.—__ 
+        (1) __Federal share.—__ 
 
         The Federal share of the cost of an activity carried out using amounts made available under a grant or cooperative agreement under this section shall be 100 percent, and such funds shall remain available until expended.
 
-        (2)  __Advance payments__  __.—__ 
+        (2) __Advance payments.—__ 
 
         The Secretary may make advance payments as necessary to carry out the program under this section.
 
     (g) __Limitation of Remedies.—__ 
 
-        (1)  __Same remedy as if united states__  __.—__ 
+        (1) __Same remedy as if united states.—__ 
 
         The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission by employees and individuals described in paragraph (3) arising from activities conducted under or in connection with this section. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of title 28.
 
-        (2)  __Exclusiveness of remedy__  __.—__ 
+        (2) __Exclusiveness of remedy.—__ 
 
         The remedy referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining liability arising from any such act or omission without regard to when the act or omission occurred.
 
-        (3)  __Treatment__  __.—__ 
+        (3) __Treatment.—__ 
 
         Employees of the National Academy of Sciences and other individuals appointed by the president of the National Academy of Sciences and acting on its behalf in connection with activities carried out under this section shall be treated as if they are employees of the Federal Government under [section 2671 of title 28][/us/usc/t28/s2671] for purposes of a civil action or proceeding with respect to a claim described in paragraph (1). The civil action or proceeding shall proceed in the same manner as any proceeding under chapter 171 of title 28 or action against the United States filed pursuant to [section 1346(b) of title 28][/us/usc/t28/s1346/b] and shall be subject to the limitations and exceptions applicable to such a proceeding or action.
 
-        (4)  __Sources of payments__  __.—__ 
+        (4) __Sources of payments.—__ 
 
         Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in paragraph (1) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this section, and then from sums made available under [section 1304 of title 31][/us/usc/t31/s1304]. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28. The Secretary may establish a reserve of funds to carry out this section for making payments under this paragraph.
 
-    (h)  __Implementation__  __.—__ 
+    (h) __Implementation.—__ 
 
     Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
 

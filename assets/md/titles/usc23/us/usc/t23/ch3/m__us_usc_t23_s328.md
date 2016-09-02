@@ -15,11 +15,11 @@
 
 ## § 328. Eligibility for environmental restoration and pollution abatement
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     Subject to subsection (b), environmental restoration and pollution abatement to minimize or mitigate the impacts of any transportation project funded under this title (including retrofitting and construction of stormwater treatment systems to meet Federal and State requirements under sections 401 and 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1341][/us/usc/t33/s1341]; 1342)) may be carried out to address water pollution or environmental degradation caused wholly or partially by a transportation facility.
 
-    (b)  __Maximum Expenditure__  __.—__ 
+    (b) __Maximum Expenditure.—__ 
 
     In a case in which a transportation facility is undergoing reconstruction, rehabilitation, resurfacing, or restoration, the expenditure of funds under this section for environmental restoration or pollution abatement described in subsection (a) shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration of the facility.
 

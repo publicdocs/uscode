@@ -15,9 +15,9 @@
 
 ## § 203. Federal lands transportation program
 
-    (a)  __Use of Funds__  __.—__ 
+    (a) __Use of Funds.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funds made available under the Federal lands transportation program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the costs of—
 
@@ -51,7 +51,7 @@
 
             (D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv).
 
-        (2)  __Contract__  __.—__ 
+        (2) __Contract.—__ 
 
         In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
 
@@ -59,33 +59,33 @@
 
             (B) an Indian tribe.
 
-        (3)  __Administration__  __.—__ 
+        (3) __Administration.—__ 
 
         All appropriations for the construction and improvement of Federal lands transportation facilities shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
 
-        (4)  __Cooperation__  __.—__ 
+        (4) __Cooperation.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The cooperation of States, counties, or other local subdivisions may be accepted in construction and improvement.
 
-            (B)  __Funds received__  __.—__ 
+            (B) __Funds received.—__ 
 
             Any funds received from a State, county, or local subdivision shall be credited to appropriations available for the class of Federal lands transportation facilities to which the funds were contributed.
 
-        (5)  __Competitive bidding__  __.—__ 
+        (5) __Competitive bidding.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
 
-            (B)  __Exception__  __.—__ 
+            (B) __Exception.—__ 
 
             Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
 
     (b) __Agency Program Distributions.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         On October 1, 2011, and on October 1 of each fiscal year thereafter, the Secretary shall allocate the sums authorized to be appropriated for the fiscal year for the Federal lands transportation program on the basis of applications of need, as determined by the Secretary—
 
@@ -105,13 +105,13 @@
 
                 (v) the Bureau of Land Management.
 
-        (2)  __Applications__  __.—__ 
+        (2) __Applications.—__ 
 
-            (A)  __Requirements__  __.—__ 
+            (A) __Requirements.—__ 
 
             Each application submitted by a Federal land management agency shall include proposed programs at various potential funding levels, as defined by the Secretary following collaborative discussions with applicable Federal land management agencies.
 
-            (B)  __Consideration by secretary__  __.—__ 
+            (B) __Consideration by secretary.—__ 
 
             In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support—
 
@@ -129,17 +129,17 @@
 
                 (iii) the resource and asset management goals of the Secretary of the respective Federal land management agency.
 
-            (C)  __Permissive contents__  __.—__ 
+            (C) __Permissive contents.—__ 
 
             Applications may include proposed programs the duration of which extend over a multiple-year period to support long-term transportation planning and resource management initiatives.
 
-    (c)  __National Federal Lands Transportation Facility Inventory__  __.—__ 
+    (c) __National Federal Lands Transportation Facility Inventory.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Secretaries of the appropriate Federal land management agencies, in cooperation with the Secretary, shall maintain a comprehensive national inventory of public Federal lands transportation facilities.
 
-        (2)  __Transportation facilities included in the inventories__  __.—__ 
+        (2) __Transportation facilities included in the inventories.—__ 
 
         To identify the Federal lands transportation system and determine the relative transportation needs among Federal land management agencies, the inventories shall include, at a minimum, facilities that—
 
@@ -159,19 +159,19 @@
 
                 (v) The Corps of Engineers.
 
-        (3)  __Availability__  __.—__ 
+        (3) __Availability.—__ 
 
         The inventories shall be made available to the Secretary.
 
-        (4)  __Updates__  __.—__ 
+        (4) __Updates.—__ 
 
         The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriate Federal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
 
-        (5)  __Review__  __.—__ 
+        (5) __Review.—__ 
 
         A decision to add or remove a facility from the inventory shall not be considered a Federal action for purposes of review under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-    (d)  __Bicycle Safety__  __.—__ 
+    (d) __Bicycle Safety.—__ 
 
     The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 

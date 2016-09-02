@@ -15,7 +15,7 @@
 
 ## § 609. Reports to Congress
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     On June 1, 2012, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under this chapter (other than section 610), including a recommendation as to whether the objectives of this chapter (other than section 610) are best served by—
 
@@ -25,15 +25,15 @@
 
         (3) phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter (other than section 610) without Federal participation.
 
-    (b)  __Application Process Report__  __.—__ 
+    (b) __Application Process Report.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Not later than December 1, 2012, and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under this chapter (other than section 610) during the preceding fiscal year.
 
-        (2)  __Inclusions__  __.—__ 
+        (2) __Inclusions.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Each report under paragraph (1) shall include, at a minimum, a description of, with respect to each letter of interest and application included in the report—
 
@@ -47,7 +47,7 @@
 
                 (v) if the project was not approved, the reason for the disapproval.
 
-            (B)  __Correspondence__  __.—__ 
+            (B) __Correspondence.—__ 
 
             Each report under paragraph (1) shall include copies of any correspondence provided to the project sponsor in accordance with section 602(d).
 

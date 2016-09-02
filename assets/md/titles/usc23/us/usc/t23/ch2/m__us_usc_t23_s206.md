@@ -15,15 +15,15 @@
 
 ## § 206. Recreational trails program
 
-    (a)  __Definitions__  __.—__ 
+    (a) __Definitions.—__ 
 
     In this section, the following definitions apply:
 
-        (1)  __Motorized recreation__  __.—__ 
+        (1) __Motorized recreation.—__ 
 
         The term “motorized recreation” means off-road recreation using any motor-powered vehicle, except for a motorized wheelchair.
 
-        (2)  __Recreational trail__  __.—__ 
+        (2) __Recreational trail.—__ 
 
         The term “recreational trail” means a thoroughfare or track across land or snow, used for recreational purposes such as—
 
@@ -41,11 +41,11 @@
 
             (G) motorized vehicular activities, including all-terrain vehicle riding, motorcycling, snowmobiling, use of off-road light trucks, or use of other off-road motorized vehicles.
 
-    (b)  __Program__  __.—__ 
+    (b) __Program.—__ 
 
     In accordance with this section, the Secretary, in consultation with the Secretary of the Interior and the Secretary of Agriculture, shall carry out a program to provide and maintain recreational trails.
 
-    (c)  __State Responsibilities__  __.—__ 
+    (c) __State Responsibilities.—__ 
 
     To be eligible for apportionments under this section—
 
@@ -55,7 +55,7 @@
 
     (d) __Use of Apportioned Funds.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Funds apportioned to a State to carry out this section shall be obligated for recreational trails and related projects that—
 
@@ -63,7 +63,7 @@
 
             (B) are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.), that is in effect.
 
-        (2)  __Permissible uses__  __.—__ 
+        (2) __Permissible uses.—__ 
 
         Permissible uses of funds apportioned to a State for a fiscal year to carry out this section include—
 
@@ -95,7 +95,7 @@
 
         (3) __Use of apportionments.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraphs (B) and (C), of the apportionments made to a State for a fiscal year to carry out this section—
 
@@ -105,35 +105,35 @@
 
                 (iii) 30 percent shall be used for uses relating to nonmotorized recreation.
 
-            (B)  __Small state exclusion__  __.—__ 
+            (B) __Small state exclusion.—__ 
 
             Any State with a total land area of less than 3,500,000 acres shall be exempt from the requirements of clauses (ii) and (iii) of subparagraph (A).
 
-            (C)  __State administrative costs__  __.—__ 
+            (C) __State administrative costs.—__ 
 
             State administrative costs eligible for funding under paragraph (2)(H) shall be exempt from the requirements of subparagraph (A).
 
         (4) __Grants.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             A State may use funds apportioned to the State to carry out this section to make grants to private organizations, municipal, county, State, and Federal Government entities, and other government entities as approved by the State after considering guidance from the State recreational trail advisory committee established under subsection (c)(2), for uses consistent with this section.
 
-            (B)  __Compliance__  __.—__ 
+            (B) __Compliance.—__ 
 
             A State that makes grants under subparagraph (A) shall establish measures to verify that recipients of the grants comply with the conditions of the program for the use of grant funds.
 
-    (e)  __Environmental Benefit or Mitigation__  __.—__ 
+    (e) __Environmental Benefit or Mitigation.—__ 
 
     To the extent practicable and consistent with the other requirements of this section, a State should give consideration to project proposals that provide for the redesign, reconstruction, nonroutine maintenance, or relocation of recreational trails to benefit the natural environment or to mitigate and minimize the impact to the natural environment.
 
     (f) __Federal Share.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Subject to the other provisions of this subsection, the Federal share of the cost of a project and the Federal share of the administrative costs of a State under this section shall be determined in accordance with section 120(b).
 
-        (2)  __Federal agency project sponsor__  __.—__ 
+        (2) __Federal agency project sponsor.—__ 
 
         Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federal funds toward the cost of a project, except that—
 
@@ -141,7 +141,7 @@
 
             (B) the share attributable to the Secretary and the Federal agency sponsoring the project may not exceed 95 percent of the cost of a project under this section.
 
-        (3)  __Use of funds from federal programs to provide non-federal share__  __.—__ 
+        (3) __Use of funds from federal programs to provide non-federal share.—__ 
 
         Notwithstanding any other provision of law, the non-Federal share of the cost of the project may include amounts made available by the Federal Government under any Federal program that are—
 
@@ -149,7 +149,7 @@
 
             (B) expended on a project that is eligible for assistance under this section.
 
-        (4)  __Use of recreational trails program funds to match other federal program funds__  __.—__ 
+        (4) __Use of recreational trails program funds to match other federal program funds.—__ 
 
         Notwithstanding any other provision of law, funds made available under this section may be used toward the non-Federal matching share for other Federal program funds that are—
 
@@ -157,11 +157,11 @@
 
             (B) expended on a project that is eligible for assistance under this section.
 
-        (5)  __Programmatic non-federal share__  __.—__ 
+        (5) __Programmatic non-federal share.—__ 
 
         A State may allow adjustments to the non-Federal share of an individual project for a fiscal year under this section if the Federal share of the cost of all projects carried out by the State under the program (excluding projects funded under paragraph (2) or (3)) using funds apportioned to the State for the fiscal year does not exceed the Federal share as determined in accordance with section 120(b).
 
-    (g)  __Uses Not Permitted__  __.—__ 
+    (g) __Uses Not Permitted.—__ 
 
     A State may not obligate funds apportioned to carry out this section for—
 
@@ -189,37 +189,37 @@
 
         (1) __Credit for donations of funds, materials, services, or new right-of-way.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Nothing in this title or other law shall prevent a project sponsor from offering to donate funds, materials, services, or a new right-of-way for the purposes of a project eligible for assistance under this section. Any funds, or the fair market value of any materials, services, or new right-of-way, may be donated by any project sponsor and shall be credited to the non-Federal share in accordance with subsection (f).
 
-            (B)  __Federal project sponsors__  __.—__ 
+            (B) __Federal project sponsors.—__ 
 
             Any funds or the fair market value of any materials or services may be provided by a Federal project sponsor and shall be credited to the Federal agency’s share in accordance with subsection (f).
 
-            (C)  __Planning and environmental assessment costs incurred prior to project approval__  __.—__ 
+            (C) __Planning and environmental assessment costs incurred prior to project approval.—__ 
 
             The Secretary may allow preapproval planning and environmental compliance costs to be credited toward the non-Federal share of the cost of a project described in subsection (d)(2) (other than subparagraph (H)) in accordance with subsection (f), limited to costs incurred less than 18 months prior to project approval.
 
-        (2)  __Recreational purpose__  __.—__ 
+        (2) __Recreational purpose.—__ 
 
         A project funded under this section is intended to enhance recreational opportunity and is not subject to [section 138 of this title][/us/usc/t23/s138] or [section 303 of title 49][/us/usc/t49/s303].
 
-        (3)  __Continuing recreational use__  __.—__ 
+        (3) __Continuing recreational use.—__ 
 
         At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–8(f)(3)).
 
         (4) __Cooperation by private persons.—__ 
 
-            (A)  __Written assurances__  __.—__ 
+            (A) __Written assurances.—__ 
 
             As a condition of making available apportionments for work on recreational trails that would affect privately owned land, a State shall obtain written assurances that the owner of the land will cooperate with the State and participate as necessary in the activities to be conducted.
 
-            (B)  __Public access__  __.—__ 
+            (B) __Public access.—__ 
 
             Any use of the apportionments to a State to carry out this section on privately owned land must be accompanied by an easement or other legally binding agreement that ensures public access to the recreational trail improvements funded by the apportionments.
 
-    (i)  __Contract Authority__  __.—__ 
+    (i) __Contract Authority.—__ 
 
     Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
@@ -261,11 +261,11 @@
 
 [Pub. L. 112–141, div. A, title I, § 1524][/us/pl/112/141/s1524], July 6, 2012, [126 Stat. 580][/us/stat/126/580], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of [Public Law 101–610][/us/pl/101/610] ([42 U.S.C. 12572(a)(2)][/us/usc/t42/s12572/a/2]) and 106(c)(3) of [Public Law 103–82][/us/pl/103/82] ([42 U.S.C. 12656(c)(3)][/us/usc/t42/s12656/c/3]) to perform appropriate projects eligible under sections 162, 206, 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU ([119 Stat. 1228][/us/stat/119/1228]).
 
->     “(b)  __Requirements__  __.—__ 
+>     “(b) __Requirements.—__ 
 
 >     Under any contract or cooperative agreement entered into with a qualified youth service or conservation corps under this section, the Secretary shall—
 
