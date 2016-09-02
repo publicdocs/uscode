@@ -39,7 +39,7 @@
 
             (B) __Compromise or other action by secretary__ 
 
-                The Secretary shall have the same authority as provided in [section 1858(e) of this title][/us/usc/t16/s1858/e] with respect to a violation of this chapter.
+                The Secretary shall have the same authority as provided in [section 1858(e) of this title][/us/usc/t16/s1858/e] with respect to a violation of this chapter. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2) __In rem jurisdiction__ 
 
@@ -61,7 +61,7 @@
 
         (3) __Presumption__ 
 
-            For the purposes of this section there is a rebuttable presumption that all fish, or components thereof, found on board a vessel that is used or seized in connection with a violation of this chapter (including any regulation promulgated under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) were taken, obtained, or retained as a result of IUU fishing or fishing-related activities in support of IUU fishing.
+            For the purposes of this section there is a rebuttable presumption that all fish, or components thereof, found on board a vessel that is used or seized in connection with a violation of this chapter (including any regulation promulgated under this chapter 1) were taken, obtained, or retained as a result of IUU fishing or fishing-related activities in support of IUU fishing.
 
     (d) __Criminal enforcement__ 
 
@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    This chapter, the second place referred to in subsec. (c)(3), was in the original “this Act” and was translated as meaning “this title” to reflect the probable intent of Congress.
+    This chapter, in subsec. (b)(1)(B) and the second place referred to in subsec. (c)(3), was in the original “this Act” and was translated as meaning “this title” to reflect the probable intent of Congress.
 
 ----------
 

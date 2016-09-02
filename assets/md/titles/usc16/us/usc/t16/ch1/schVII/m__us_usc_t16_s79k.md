@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, means [Pub. L. 95–250][/us/pl/95/250], Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163], as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out as a note under [section 79k of this title][/us/usc/t16/s79k]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, means [Pub. L. 95–250][/us/pl/95/250], Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163], as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
     Sections 79b and 79c of this title, referred to in subsec. (a), was in the original “the first section of this Act”, meaning [section 101 of Pub. L. 95–250][/us/pl/95/250/s101]. Provisions of section 101 relating to the addition of property to Redwood National Park are classified to sections 79b and 79c of this title.
 
@@ -52,7 +52,6 @@
 [/us/stat/92/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F166
 [/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163
-[/us/usc/t16/s79k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79k
 [/us/pl/95/250/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101
 [/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F931

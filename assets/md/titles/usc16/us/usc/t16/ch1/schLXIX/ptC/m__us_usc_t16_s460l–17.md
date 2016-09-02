@@ -37,7 +37,7 @@
 
         As used in this part, the term “nonreimbursable” shall not be construed to prohibit the imposition of entrance, admission, and other recreation user fees or charges.
 
-    (g) __Nonapplication of__  __[__  __section 200306(a) of title 54__  __][/us/usc/t54/s200306/a]__  __to nonreimbursable costs of the United States__ 
+    (g) __Nonapplication of__  __[__  __section 200306(a)(3) of title 54__  __][/us/usc/t54/s200306/a/3]__  __to nonreimbursable costs of the United States__ 
 
         section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  200306(a)(3) of title 54 shall not apply to costs allocated to recreation and fish and wildlife enhancement which are borne by the United States as a nonreimbursable project cost pursuant to section 460l–13(a) or section 460l–14(b)(1) of this title.
 
@@ -80,7 +80,7 @@
 [/us/usc/t54/s200305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Fd
 [/us/usc/t43/s422a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs422a
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
-[/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa
+[/us/usc/t54/s200306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F3
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F216
 [/us/pl/94/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F576

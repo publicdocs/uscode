@@ -49,7 +49,7 @@
 
  __Termination of Valles Caldera Trust__ 
 
-    Valles Caldera Trust to terminate 180 days after Dec. 19, 2014, unless the Secretary of the Interior determines that the date be extended to facilitate the transitional management of the Valles Caldera National Preserve, see [section 698v–11(c)(4)(A) of this title][/us/usc/t16/s698v–11/c/4/A].
+    Valles Caldera Trust to terminate 180 days after Dec. 19, 2014, unless the Secretary of the Interior determines that the date should be extended to facilitate the transitional management of the Valles Caldera National Preserve, see [section 698v–11(c)(4)(A) of this title][/us/usc/t16/s698v–11/c/4/A].
 
 ----------
 

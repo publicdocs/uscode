@@ -91,7 +91,7 @@
 
         (3)
 
-            (A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “this section”. </sup></sup> 
+            (A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (B) A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -111,7 +111,7 @@
 
     (e) __Additional prohibitions and enforcement__ 
 
-        For additional prohibitions relating to this section and enforcement of this section, see [section 1826g of this title][/us/usc/t16/s1826g].
+        For additional prohibitions relating to this section 1 and enforcement of this section,1 see [section 1826g of this title][/us/usc/t16/s1826g].
 
     (f) __Regulations__ 
 
@@ -154,6 +154,10 @@
             (C) after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
 ([Pub. L. 101–627, title IX][/us/pl/101/627/tIX], § 901, Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465]; [Pub. L. 105–42][/us/pl/105/42], § 5, Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 109, Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
+
+ __References in Text__ 
+
+    This section, referred to in subsecs. (d)(3)(A) and (e), was in the original “this Act”, and was translated as referring to the Dolphin Protection Consumer Information Act, which is classified to this section, to reflect the probable intent of Congress.
 
  __Codification__ 
 

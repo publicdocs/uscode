@@ -19,7 +19,7 @@
 
     For purposes of this section:
 
-        (1) __Bulk-power system; electric reliability organization; regional entity__ 
+        (1) __Bulk-power system; Electric Reliability Organization; regional entity__ 
 
             The terms “bulk-power system”, “Electric Reliability Organization”, and “regional entity” have the meanings given such terms in paragraphs (1), (2), and (7) of section 824o(a) of this title, respectively.
 
@@ -213,7 +213,7 @@
 
         (4) __Rule of construction__ 
 
-            Nothing in this subsection shall be construed to require dismissal of a cause of action against an entity that, in the course of complying with an order for emergency measures issued under subsection (b)(1) by taking an action or omission for which they would be liable but for paragraph (1) or (2 ), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(2),”. </sup></sup>  takes such action or omission in a grossly negligent manner.
+            Nothing in this subsection shall be construed to require dismissal of a cause of action against an entity that, in the course of complying with an order for emergency measures issued under subsection (b)(1) by taking an action or omission for which they would be liable but for paragraph (1) or (2), takes such action or omission in a grossly negligent manner.
 
 ([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 215A, as added [Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61003(a), Dec. 4, 2015, [129 Stat. 1773][/us/stat/129/1773].)
 

@@ -119,11 +119,11 @@
 
     Subsec. (b)(1)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(4), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-     Subsec. (b)(1)(B), (2). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+    Subsec. (b)(1)(B), (2). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-     Subsec. (b)(3)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(6), inserted “or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)(A)”.
+    Subsec. (b)(3)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(6), inserted “or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)(A)”.
 
-     Subsec. (b)(4)(A). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(7), inserted “or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
+    Subsec. (b)(4)(A). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(7), inserted “or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)” in introductory provisions.
 
     Subsec. (b)(4)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
 

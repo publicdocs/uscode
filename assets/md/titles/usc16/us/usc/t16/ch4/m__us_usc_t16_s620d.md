@@ -115,7 +115,7 @@
 
                         (cc) on condition of there being no further violation under this paragraph for a prescribed period, suspend imposition of the penalty.
 
-                (ii)  __Contractural __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “Contractual”.__  __ </sup></sup> __  __ remedies__  __.—__ 
+                (ii)  __Contractural__   __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “Contractual”.__  __ </sup></sup> __   __remedies__  __.—__ 
 
                 In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
 

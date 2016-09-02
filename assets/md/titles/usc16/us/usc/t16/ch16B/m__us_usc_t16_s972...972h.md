@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-    [Pub. L. 98–445][/us/pl/98/445], § 1, Oct. 4, 1984, [98 Stat. 1715][/us/stat/98/1715], which provided that this Act \[enacting this chapter\] could be cited as the “Eastern Pacific Tuna Licensing Act of 1984”, was repealed by [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 210, Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].
+    [Pub. L. 98–445][/us/pl/98/445], § 1, Oct. 4, 1984, [98 Stat. 1715][/us/stat/98/1715], which provided that [Pub. L. 98–445][/us/pl/98/445] could be cited as the “Eastern Pacific Tuna Licensing Act of 1984”, was repealed by [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 210, Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].
 
 ----------
 
@@ -70,6 +70,7 @@
 [/us/stat/98/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1719
 [/us/pl/98/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445
 [/us/stat/98/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1715
+[/us/pl/98/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445
 [/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F664
 

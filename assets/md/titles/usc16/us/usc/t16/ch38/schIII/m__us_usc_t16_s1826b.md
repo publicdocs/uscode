@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–81][/us/pl/114/81] struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) or 1826j(c) of this title” before period at the end.
+    2015—[Pub. L. 114–81][/us/pl/114/81] struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) or 1826j(c) of this title” before period at end.
 
     2007—[Pub. L. 109–479][/us/pl/109/479] inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 

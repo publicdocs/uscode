@@ -19,7 +19,7 @@
 
         It shall be unlawful for any master or other person in charge of a fishing vessel of the United States to engage in fishing in violation of any regulation adopted pursuant to [section 955 of this title][/us/usc/t16/s955] or for any person knowingly to ship, transport, purchase, sell, offer for sale, import, export, or have in custody, possession, or control any fish taken or retained in violation of such regulations.
 
-    (b) __Failures to keep required records; refusals to stop upon being hailed__ 
+    (b) __Failures to keep required records; failures to stop upon being hailed; refusals to permit inspections__ 
 
         It shall be unlawful for the master or any person in charge of any fishing vessel of the United States or any person on board such vessel to fail to make, keep, or furnish any catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished; or to fail to stop upon being hailed by a duly authorized official of the United States; or to refuse to permit the duly authorized officials of the United States or authorized officials of the commissions to board such vessel or inspect its catch, equipment, books, documents, records, or other articles or question the persons on board in accordance with the provisions of this chapter, or the convention, as the case may be.
 
@@ -46,8 +46,6 @@
     (h) __Application of related laws__ 
 
         All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
-
-    \[See main edition for text of (d) to (h)\]
 
     (i) __Additional prohibitions and enforcement__ 
 

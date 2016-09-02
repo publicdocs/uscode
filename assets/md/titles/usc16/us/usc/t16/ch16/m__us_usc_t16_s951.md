@@ -17,7 +17,7 @@
 
     In this chapter:
 
-    (1) __Antigua convention__ 
+    (1) __Antigua Convention__ 
 
         The term “Antigua Convention” means the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention Between the United States of America and the Republic of Costa Rica, signed at Washington, November 14, 2003.
 
@@ -39,13 +39,13 @@
 
         The term “person” means an individual, partnership, corporation, or association subject to the jurisdiction of the United States.
 
-    (5) __United states__ 
+    (5) __United States__ 
 
         The term “United States” includes all areas under the sovereignty of the United States.
 
-    (6) __United states commissioners__ 
+    (6) __United States Commissioners__ 
 
-        The term “United States commissioners” means the individuals appointed in accordance with [section 952(a) of this title][/us/usc/t16/s952/a].
+        The term “United States commissioners”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  means the individuals appointed in accordance with [section 952(a) of this title][/us/usc/t16/s952/a].
 
 ([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 2, [64 Stat. 777][/us/stat/64/777]; [Pub. L. 87–814][/us/pl/87/814], § 1, Oct. 15, 1962, [76 Stat. 923][/us/stat/76/923]; [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 203, Nov. 5, 2015, [129 Stat. 660][/us/stat/129/660].)
 

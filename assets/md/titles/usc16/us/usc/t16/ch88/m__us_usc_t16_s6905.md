@@ -41,7 +41,7 @@
 
         The Secretary shall ensure the consistency, to the extent practicable, of fishery management programs administered under this Act, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.), the Tuna Conventions Act ([16 U.S.C. 951][/us/usc/t16/s951] et seq.), the South Pacific Tuna Act ([16 U.S.C. 973][/us/usc/t16/s973] et seq.), [section 401 of Public Law 108–219][/us/pl/108/219/s401] ([16 U.S.C. 1821][/us/usc/t16/s1821] note) (relating to Pacific albacore tuna), and the Atlantic Tunas Convention Act ([16 U.S.C. 971][/us/usc/t16/s971] \[et seq.\]).
 
-    (c) __Additional Prohibitions and enforcement__ 
+    (c) __Additional prohibitions and enforcement__ 
 
         For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title][/us/usc/t16/s1826g].
 

@@ -27,7 +27,7 @@
 
     (5) The term “person” has the same meaning as that term has in section 3 of the Magnuson-Stevens Act ([16 U.S.C. 1802][/us/usc/t16/s1802]).
 
-    (6) The terms “RFMO” and “regional fisheries management organization” mean a regional fisheries management organization (as that term is defined by the United Nation’s Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) that is recognized by the United States.
+    (6) The terms “RFMO” and “regional fisheries management organization” mean a regional fisheries management organization (as that term is defined by the United Nation’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) that is recognized by the United States.
 
     (7) The term “Secretary” means the Secretary of Commerce or his or her designee.
 

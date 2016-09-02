@@ -63,7 +63,7 @@
 
     [Act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], § 3, [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of [act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], [49 Stat. 1555][/us/stat/49/1555].
 
- __Elimination of Barriers to Improve at-Risk Bridges__ 
+ __Elimination of Barriers To Improve At-Risk Bridges__ 
 
 [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1439, Dec. 4, 2015, [129 Stat. 1433][/us/stat/129/1433], provided that:
 
@@ -103,7 +103,7 @@
 
 >         “(2)  __Termination__  __.—__ 
 
->         On the effective date of a final rule under this subsection by the Secretary of the Interior, subsection (a) shall have no force or effect.
+>         On the effective date of a final rule \[promulgated\] under this subsection by the Secretary of the Interior, subsection (a) shall have no force or effect.
 
 >     “(c)  __Suspension or Withdrawal of Take Authorization__  __.—__ 
 

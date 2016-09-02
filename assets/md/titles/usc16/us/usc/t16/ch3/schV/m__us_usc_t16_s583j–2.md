@@ -29,7 +29,7 @@
 
     (b) __Notice and service of process__ 
 
-        The serving of notice to, or service of process upon, the agent required by subsection (a)(4) or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+        The serving of notice to, or service of process upon, the agent required by subsection (a)(4), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
     (c) __Seal__ 
 

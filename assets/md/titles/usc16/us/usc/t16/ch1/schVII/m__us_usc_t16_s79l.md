@@ -91,7 +91,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means [Pub. L. 95–250][/us/pl/95/250], Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163], as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out as a note under [section 79k of this title][/us/usc/t16/s79k]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means [Pub. L. 95–250][/us/pl/95/250], Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163], as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title][/us/usc/t16/s79k]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 

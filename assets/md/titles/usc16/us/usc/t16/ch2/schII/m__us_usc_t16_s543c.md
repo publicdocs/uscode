@@ -113,7 +113,7 @@
 
  __References in Text__ 
 
-    The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is [Pub. L. 91–581][/us/pl/91/581], Dec. 24, 1970, [84 Stat. 1566][/us/stat/84/1566], which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30][/us/usc/t30/s1001] and Tables.
+    The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is [Pub. L. 91–581][/us/pl/91/581], Dec. 24, 1970, [84 Stat. 1566][/us/stat/84/1566], which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30][/us/usc/t30/s1001] and Tables.
 
     The Act entitled “An Act authorizing and directing the Secretary of the Interior to sell to the city of Los Angeles, California, certain public lands in California; and granting rights-of-way over public lands and reserved lands to the city of Los Angeles in Mono County in the State of California”, referred to in subsec. (i)(1), is [act June 23, 1936, ch. 733][/us/act/1936-06-23/ch733], [49 Stat. 1892][/us/stat/49/1892], which was not classified to the Code.
 
