@@ -295,6 +295,10 @@
 
  __Continued Applicability of Subsection (f)(1)(B)(ix)__ 
 
+[Pub. L. 114–113, div. H, title III, § 306][/us/pl/114/113/s306], Dec. 18, 2015, [129 Stat. 2637][/us/stat/129/2637], provided that: 
+
+> “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2016’ for ‘2009’.”
+
 [Pub. L. 113–235, div. G, title III, § 306][/us/pl/113/235/s306], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2015’ for ‘2009’.”
@@ -398,6 +402,9 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/229/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fb
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
+[/us/pl/114/113/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306
+[/us/stat/129/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2637
+[/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
 [/us/pl/113/235/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs306
 [/us/stat/128/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2504
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix

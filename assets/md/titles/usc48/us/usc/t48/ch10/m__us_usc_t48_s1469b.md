@@ -17,7 +17,7 @@
 
     All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
 
-([Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2412][/us/stat/128/2412].)
+([Pub. L. 114–113, div. G, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2542][/us/stat/129/2542].)
 
  __References in Text__ 
 
@@ -30,6 +30,8 @@
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+    [Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2412][/us/stat/128/2412].
 
     [Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 304][/us/stat/128/304].
 
@@ -104,6 +106,8 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2542
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2412
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
