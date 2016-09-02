@@ -15,7 +15,7 @@
 
 ## § 7509. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Advisory Panel__ 
 

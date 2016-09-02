@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_s1321 to 1323.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
+[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_ch35.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
 
 ## CHAPTER 36—CIGARETTE LABELING AND ADVERTISING
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1331" data-uslm-ref="/us/usc/t15/s1331">1331.</a>  </td>
 
     <td> Congressional declaration of policy and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1332" data-uslm-ref="/us/usc/t15/s1332">1332.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1333" data-uslm-ref="/us/usc/t15/s1333">1333.</a>  </td>
 
     <td> Labeling.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1334" data-uslm-ref="/us/usc/t15/s1334">1334.</a>  </td>
 
     <td> Preemption.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1335" data-uslm-ref="/us/usc/t15/s1335">1335.</a>  </td>
 
     <td> Unlawful advertisements on medium of electronic communication.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1335a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1335a" data-uslm-ref="/us/usc/t15/s1335a">1335a.</a>  </td>
 
     <td> List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1336" data-uslm-ref="/us/usc/t15/s1336">1336.</a>  </td>
 
     <td> Authority of Federal Trade Commission; unfair or deceptive acts or practices.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1337" data-uslm-ref="/us/usc/t15/s1337">1337.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1338" data-uslm-ref="/us/usc/t15/s1338">1338.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1339" data-uslm-ref="/us/usc/t15/s1339">1339.</a>  </td>
 
     <td> Injunction proceedings.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1340" data-uslm-ref="/us/usc/t15/s1340">1340.</a>  </td>
 
     <td> Cigarettes for export.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1341" data-uslm-ref="/us/usc/t15/s1341">1341.</a>  </td>
 
     <td> Smoking, research, education and information.  </td>
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_s1321 to 1323.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
+[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_ch35.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
 
 ----------
 ----------

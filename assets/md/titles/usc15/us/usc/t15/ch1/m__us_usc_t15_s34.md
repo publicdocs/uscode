@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s32, 33.md) | [Next](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34)
+[Previous](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s31.md) | [Next](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34)
 
 ## § 34. Definitions applicable to sections 34 to 36
 
-For purposes of sections 34 to 36 of this title—
+    For purposes of sections 34 to 36 of this title—
 
     (1)
 
@@ -39,7 +39,7 @@ For purposes of sections 34 to 36 of this title—
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s32, 33.md) | [Next](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34)
+[Previous](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s31.md) | [Next](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34)
 
 ----------
 ----------

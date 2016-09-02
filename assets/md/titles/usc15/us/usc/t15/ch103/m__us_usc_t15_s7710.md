@@ -15,7 +15,7 @@
 
 ## § 7710. Improving enforcement by providing rewards for information about violations; labeling
 
-The Commission shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce—
+    The Commission shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce—
 
     (1)
 

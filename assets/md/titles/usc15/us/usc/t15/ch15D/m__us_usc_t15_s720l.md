@@ -15,7 +15,7 @@
 
 ## § 720l. Sense of Congress concerning natural gas demand
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) North American demand for natural gas will increase dramatically over the course of the next several decades;
 

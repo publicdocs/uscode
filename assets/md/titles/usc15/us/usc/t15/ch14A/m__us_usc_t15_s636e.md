@@ -15,7 +15,7 @@
 
 ## § 636e. Definitions
 
-In this subtitle—  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+    In this subtitle—  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (1) the terms “Administration” and “Administrator” mean the Small Business Administration and the Administrator thereof, respectively;
 

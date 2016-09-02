@@ -15,7 +15,7 @@
 
 ## § 80a–4. Classification of investment companies
 
-For the purposes of this subchapter, investment companies are divided into three principal classes, defined as follows:
+    For the purposes of this subchapter, investment companies are divided into three principal classes, defined as follows:
 
     (1) “Face-amount certificate company” means an investment company which is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or which has been engaged in such business and has any such certificate outstanding.
 

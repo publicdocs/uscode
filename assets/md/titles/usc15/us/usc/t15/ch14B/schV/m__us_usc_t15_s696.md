@@ -15,7 +15,7 @@
 
 ## § 696. Loans for plant acquisition, construction, conversion and expansion
 
-The Administration may, in addition to its authority under [section 695 of this title][/us/usc/t15/s695], make loans for plant acquisition, construction, conversion or expansion, including the acquisition of land, to State and local development companies, and such loans may be made or effected either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis: Provided, however, That the foregoing powers shall be subject to the following restrictions and limitations:
+    The Administration may, in addition to its authority under [section 695 of this title][/us/usc/t15/s695], make loans for plant acquisition, construction, conversion or expansion, including the acquisition of land, to State and local development companies, and such loans may be made or effected either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis: Provided, however, That the foregoing powers shall be subject to the following restrictions and limitations:
 
     (1) __Use of proceeds.—__ 
 

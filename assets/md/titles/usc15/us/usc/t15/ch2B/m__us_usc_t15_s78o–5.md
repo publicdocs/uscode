@@ -443,7 +443,7 @@
 
 >     “(3) to require appropriate financial responsibility, recordkeeping, reporting, and related regulatory requirements;
 
->         in order to protect investors and to insure the maintenance of fair, honest, and liquid markets in such securities.”
+>     in order to protect investors and to insure the maintenance of fair, honest, and liquid markets in such securities.”
 
  __Study of Regulatory System for Government Securities__ 
 

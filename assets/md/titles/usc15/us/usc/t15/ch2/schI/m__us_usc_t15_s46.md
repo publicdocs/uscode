@@ -15,7 +15,7 @@
 
 ## § 46. Additional powers of Commission
 
-The Commission shall also have power—
+    The Commission shall also have power—
 
     (a) __Investigation of persons, partnerships, or corporations__ 
 
@@ -137,7 +137,7 @@ The Commission shall also have power—
 
  __Amendment of Section__ 
 
-For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
+    For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
 
  __References in Text__ 
 

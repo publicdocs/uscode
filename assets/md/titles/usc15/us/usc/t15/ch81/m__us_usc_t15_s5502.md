@@ -15,7 +15,7 @@
 
 ## § 5502. Purposes
 
-The purposes of this chapter are to help ensure the continued leadership of the United States in high-performance computing and its applications by—
+    The purposes of this chapter are to help ensure the continued leadership of the United States in high-performance computing and its applications by—
 
     (1)
 

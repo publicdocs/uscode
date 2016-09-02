@@ -15,7 +15,7 @@
 
 ## § 6006. “Approved bicycle helmet” defined
 
-In this chapter, the term “approved bicycle helmet” means a bicycle helmet that meets—
+    In this chapter, the term “approved bicycle helmet” means a bicycle helmet that meets—
 
     (1) any interim standard described in [section 6004(b) of this title][/us/usc/t15/s6004/b], pending establishment of a final standard under [section 6004(c) of this title][/us/usc/t15/s6004/c]; and
 

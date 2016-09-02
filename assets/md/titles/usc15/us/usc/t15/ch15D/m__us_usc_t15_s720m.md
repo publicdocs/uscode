@@ -15,7 +15,7 @@
 
 ## § 720m. Sense of Congress concerning Alaskan ownership
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) Alaska Native Regional Corporations, companies owned and operated by Alaskans, and individual Alaskans should have the opportunity to own shares of the Alaska natural gas pipeline in a way that promotes economic development for the State; and
 

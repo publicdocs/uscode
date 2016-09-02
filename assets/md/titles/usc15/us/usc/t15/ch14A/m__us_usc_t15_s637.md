@@ -539,21 +539,25 @@
 
                 “The contractor shall presume that socially and economically disadvantaged individuals include Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and other minorities, or any other individual found to be disadvantaged by the Administration pursuant to section 8(a) of the Small Business Act.
 
-                “(D) The term ‘small business concern owned and controlled by women’ shall mean a small business concern—
+            “(D)
 
-        “(i) which is at least 51 per centum owned by one or more women; or, in the case of any publicly owned business, at least 51 per centum of the stock of which is owned by one or more women; and
+             The term ‘small business concern owned and controlled by women’ shall mean a small business concern—
 
-        “(ii) whose management and daily business operations are controlled by one or more women.
+                “(i) which is at least 51 per centum owned by one or more women; or, in the case of any publicly owned business, at least 51 per centum of the stock of which is owned by one or more women; and
 
-        “(E) The term ‘small business concern owned and controlled by veterans’ shall mean a small business concern—
+                “(ii) whose management and daily business operations are controlled by one or more women.
 
-        “(i) which is at least 51 per centum owned by one or more eligible veterans; or, in the case of any publicly owned business, at least 51 per centum of the stock of which is owned by one or more veterans; and
+            “(E)
 
-        “(ii) whose management and daily business operations are controlled by such veterans. The contractor shall treat as veterans all individuals who are veterans within the meaning of the term under section 3(q) of the Small Business Act.
+             The term ‘small business concern owned and controlled by veterans’ shall mean a small business concern—
 
-        “(F) Contractors acting in good faith may rely on written representations by their subcontractors regarding their status as either a small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by socially and economically disadvantaged individuals, or a small business concern owned and controlled by women.
+                “(i) which is at least 51 per centum owned by one or more eligible veterans; or, in the case of any publicly owned business, at least 51 per centum of the stock of which is owned by one or more veterans; and
 
-        “(G) In this contract, the term ‘qualified HUBZone small business concern’ has the meaning given that term in section 3(p) of the Small Business Act.”
+                “(ii) whose management and daily business operations are controlled by such veterans. The contractor shall treat as veterans all individuals who are veterans within the meaning of the term under section 3(q) of the Small Business Act.
+
+            “(F) Contractors acting in good faith may rely on written representations by their subcontractors regarding their status as either a small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by socially and economically disadvantaged individuals, or a small business concern owned and controlled by women.
+
+            “(G) In this contract, the term ‘qualified HUBZone small business concern’ has the meaning given that term in section 3(p) of the Small Business Act.”
 
         (4)
 

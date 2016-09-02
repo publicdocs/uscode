@@ -15,7 +15,7 @@
 
 ## § 2234. Encouraging adoption of standards for firefighter health and safety
 
-The Administrator shall promote adoption by fire services of national voluntary consensus standards for firefighter health and safety, including such standards for firefighter operations, training, staffing, and fitness, by—
+    The Administrator shall promote adoption by fire services of national voluntary consensus standards for firefighter health and safety, including such standards for firefighter operations, training, staffing, and fitness, by—
 
     (1) educating fire services about such standards;
 

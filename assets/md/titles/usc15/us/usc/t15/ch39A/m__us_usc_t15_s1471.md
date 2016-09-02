@@ -15,7 +15,7 @@
 
 ## § 1471. Definitions
 
-For the purpose of this Act—
+    For the purpose of this Act—
 
     (1) The term “Commission” means the Consumer Product Safety Commission.
 

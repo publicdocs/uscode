@@ -59,9 +59,9 @@
 
  __Amendment of Section__ 
 
-For termination of subsection (c)(1)(B) of this section, see [section 8551(a) of Title 22][/us/usc/t22/s8551/a], Foreign Relations and Intercourse.
+    For termination of subsection (c)(1)(B) of this section, see [section 8551(a) of Title 22][/us/usc/t22/s8551/a], Foreign Relations and Intercourse.
 
-For termination of amendment by [section 12 of Pub. L. 110–174][/us/pl/110/174/s12], see Termination Date of 2007 Amendment note below.
+    For termination of amendment by [section 12 of Pub. L. 110–174][/us/pl/110/174/s12], see Termination Date of 2007 Amendment note below.
 
  __References in Text__ 
 

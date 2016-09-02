@@ -15,7 +15,7 @@
 
 ## § 2201. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) The National Commission on Fire Prevention and Control, established pursuant to [Public Law 90–259][/us/pl/90/259], has made an exhaustive and comprehensive examination of the Nation’s fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
 

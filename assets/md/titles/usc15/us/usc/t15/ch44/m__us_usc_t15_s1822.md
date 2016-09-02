@@ -15,7 +15,7 @@
 
 ## § 1822. Congressional statement of findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the soring of horses is cruel and inhumane;
 

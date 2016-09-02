@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s703 to 712.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s701.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a)
 
 ## § 712a. Limitation of obligations for administrative expenses of certain agencies; limitation on life of certain agencies
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s703 to 712.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s701.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a)
 
 ----------
 ----------

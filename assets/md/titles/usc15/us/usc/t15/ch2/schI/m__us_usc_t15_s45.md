@@ -133,9 +133,7 @@
 
             (B)
 
-             If the Commission determines in a proceeding under subsection (b) of this section that any act or practice is unfair or deceptive, and issues a final cease and desist order, other than a consent order, with respect to such act or practice, then the Commission may commence a civil action to obtain a civil penalty in a district court of the United States against any person, partnership, or corporation which engages in such act or practice—
-
-                (1) after such cease and desist order becomes final (whether or not such person, partnership, or corporation was subject to such cease and desist order), and
+             If the Commission determines in a proceeding under subsection (b) of this section that any act or practice is unfair or deceptive, and issues a final cease and desist order, other than a consent order, with respect to such act or practice, then the Commission may commence a civil action to obtain a civil penalty in a district court of the United States against any person, partnership, or corporation which engages in such act or practice—    (1) after such cease and desist order becomes final (whether or not such person, partnership, or corporation was subject to such cease and desist order), and
 
                 (2) with actual knowledge that such act or practice is unfair or deceptive and is unlawful under subsection (a)(1) of this section.
 
@@ -155,7 +153,7 @@
 
  __Amendment of Section__ 
 
-For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
+    For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
 
  __References in Text__ 
 

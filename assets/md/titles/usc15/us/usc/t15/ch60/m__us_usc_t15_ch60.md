@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3301" data-uslm-ref="/us/usc/t15/s3301">3301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,9 @@ SUBCHAPTER I—WELLHEAD PRICING  </td>
 
   <tr>
 
-    <td> 3311 to 3320, 3331 to 3333. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3311" data-uslm-ref="/us/usc/t15/s3311">3311</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3320" data-uslm-ref="/us/usc/t15/s3320">3320</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3331" data-uslm-ref="/us/usc/t15/s3331">3331</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3333" data-uslm-ref="/us/usc/t15/s3333">3333.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -55,7 +57,9 @@ SUBCHAPTER II—INCREMENTAL PRICING  </td>
 
   <tr>
 
-    <td> 3341 to 3348. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3341" data-uslm-ref="/us/usc/t15/s3341">3341</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3348" data-uslm-ref="/us/usc/t15/s3348">3348.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -77,7 +81,7 @@ Part A—Emergency Authority  </td>
 
   <tr>
 
-    <td> 3361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3361" data-uslm-ref="/us/usc/t15/s3361">3361.</a>  </td>
 
     <td> Declaration of emergency.  </td>
 
@@ -85,7 +89,7 @@ Part A—Emergency Authority  </td>
 
   <tr>
 
-    <td> 3362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3362" data-uslm-ref="/us/usc/t15/s3362">3362.</a>  </td>
 
     <td> Emergency purchase authority.  </td>
 
@@ -93,7 +97,7 @@ Part A—Emergency Authority  </td>
 
   <tr>
 
-    <td> 3363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3363" data-uslm-ref="/us/usc/t15/s3363">3363.</a>  </td>
 
     <td> Emergency allocation authority.  </td>
 
@@ -101,7 +105,7 @@ Part A—Emergency Authority  </td>
 
   <tr>
 
-    <td> 3364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3364" data-uslm-ref="/us/usc/t15/s3364">3364.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -117,7 +121,7 @@ Part B—Other Authorities and Requirements  </td>
 
   <tr>
 
-    <td> 3371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3371" data-uslm-ref="/us/usc/t15/s3371">3371.</a>  </td>
 
     <td> Authorization of certain sales and transportation.  </td>
 
@@ -125,7 +129,7 @@ Part B—Other Authorities and Requirements  </td>
 
   <tr>
 
-    <td> 3372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3372" data-uslm-ref="/us/usc/t15/s3372">3372.</a>  </td>
 
     <td> Assignment of contractual rights to receive surplus natural gas.  </td>
 
@@ -133,7 +137,7 @@ Part B—Other Authorities and Requirements  </td>
 
   <tr>
 
-    <td> 3373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3373" data-uslm-ref="/us/usc/t15/s3373">3373.</a>  </td>
 
     <td> Effect of certain natural gas prices on indefinite price escalator clauses.  </td>
 
@@ -141,7 +145,7 @@ Part B—Other Authorities and Requirements  </td>
 
   <tr>
 
-    <td> 3374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3374" data-uslm-ref="/us/usc/t15/s3374">3374.</a>  </td>
 
     <td> Clauses prohibiting certain sales, transportation, and commingling.  </td>
 
@@ -149,7 +153,7 @@ Part B—Other Authorities and Requirements  </td>
 
   <tr>
 
-    <td> 3375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3375" data-uslm-ref="/us/usc/t15/s3375">3375.</a>  </td>
 
     <td> Filing of contracts and agreements.  </td>
 
@@ -165,7 +169,7 @@ SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES  </td>
 
   <tr>
 
-    <td> 3391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3391" data-uslm-ref="/us/usc/t15/s3391">3391.</a>  </td>
 
     <td> Natural gas for essential agricultural uses.  </td>
 
@@ -173,7 +177,7 @@ SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES  </td>
 
   <tr>
 
-    <td> 3391a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3391a" data-uslm-ref="/us/usc/t15/s3391a">3391a.</a>  </td>
 
     <td> “Essential agricultural use” defined.  </td>
 
@@ -181,7 +185,7 @@ SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES  </td>
 
   <tr>
 
-    <td> 3392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3392" data-uslm-ref="/us/usc/t15/s3392">3392.</a>  </td>
 
     <td> Natural gas for essential industrial process and feedstock uses.  </td>
 
@@ -189,7 +193,7 @@ SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES  </td>
 
   <tr>
 
-    <td> 3393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3393" data-uslm-ref="/us/usc/t15/s3393">3393.</a>  </td>
 
     <td> Establishment and implementation of priorities.  </td>
 
@@ -197,7 +201,7 @@ SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES  </td>
 
   <tr>
 
-    <td> 3394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3394" data-uslm-ref="/us/usc/t15/s3394">3394.</a>  </td>
 
     <td> Limitation on revoking or amending certain pre-1969 certificates of public convenience and necessity.  </td>
 
@@ -213,7 +217,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3411" data-uslm-ref="/us/usc/t15/s3411">3411.</a>  </td>
 
     <td> General rulemaking authority.  </td>
 
@@ -221,7 +225,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3412" data-uslm-ref="/us/usc/t15/s3412">3412.</a>  </td>
 
     <td> Administrative procedure.  </td>
 
@@ -229,7 +233,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3413" data-uslm-ref="/us/usc/t15/s3413">3413.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -237,7 +241,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3414" data-uslm-ref="/us/usc/t15/s3414">3414.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -245,7 +249,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3415" data-uslm-ref="/us/usc/t15/s3415">3415.</a>  </td>
 
     <td> Intervention.  </td>
 
@@ -253,7 +257,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3416" data-uslm-ref="/us/usc/t15/s3416">3416.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -261,7 +265,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3417" data-uslm-ref="/us/usc/t15/s3417">3417.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -269,7 +273,7 @@ SUBCHAPTER V—ADMINISTRATION, ENFORCEMENT, AND REVIEW  </td>
 
   <tr>
 
-    <td> 3418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3418" data-uslm-ref="/us/usc/t15/s3418">3418.</a>  </td>
 
     <td> Applicability of other Federal statutory provisions relating to information-gathering.  </td>
 
@@ -285,7 +289,7 @@ SUBCHAPTER VI—COORDINATION WITH NATURAL GAS ACT; MISCELLANEOUS PROVISIONS  </t
 
   <tr>
 
-    <td> 3431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3431" data-uslm-ref="/us/usc/t15/s3431">3431.</a>  </td>
 
     <td> Coordination with the Natural Gas Act.  </td>
 
@@ -293,7 +297,7 @@ SUBCHAPTER VI—COORDINATION WITH NATURAL GAS ACT; MISCELLANEOUS PROVISIONS  </t
 
   <tr>
 
-    <td> 3432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3432" data-uslm-ref="/us/usc/t15/s3432">3432.</a>  </td>
 
     <td> Effect on State laws.  </td>
 

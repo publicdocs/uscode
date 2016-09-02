@@ -15,7 +15,7 @@
 
 ## § 3391a. “Essential agricultural use” defined
 
-For the purposes of [section 3391 of this title][/us/usc/t15/s3391], the term “essential agricultural use” shall—
+    For the purposes of [section 3391 of this title][/us/usc/t15/s3391], the term “essential agricultural use” shall—
 
     (1) include use of natural gas in sugar refining for production of alcohol;
 

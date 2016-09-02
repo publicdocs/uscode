@@ -15,7 +15,7 @@
 
 ## § 694a. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) The term “bid bond” means a bond conditioned upon the bidder on a contract entering into the contract, if he receives the award thereof, and furnishing the prescribed payment bond and performance bond.
 

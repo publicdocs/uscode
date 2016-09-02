@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1171" data-uslm-ref="/us/usc/t15/s1171">1171.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1172" data-uslm-ref="/us/usc/t15/s1172">1172.</a>  </td>
 
     <td> Transportation of gambling devices as unlawful; exceptions; authority of Federal Trade Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1173" data-uslm-ref="/us/usc/t15/s1173">1173.</a>  </td>
 
     <td> Registration of manufacturers and dealers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1174" data-uslm-ref="/us/usc/t15/s1174">1174.</a>  </td>
 
     <td> Labeling and marking of shipping packages.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1175" data-uslm-ref="/us/usc/t15/s1175">1175.</a>  </td>
 
     <td> Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1176" data-uslm-ref="/us/usc/t15/s1176">1176.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1177" data-uslm-ref="/us/usc/t15/s1177">1177.</a>  </td>
 
     <td> Confiscation of gambling devices and means of transportation; laws governing.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1178" data-uslm-ref="/us/usc/t15/s1178">1178.</a>  </td>
 
     <td> Nonapplicability of chapter to certain machines and devices.  </td>
 

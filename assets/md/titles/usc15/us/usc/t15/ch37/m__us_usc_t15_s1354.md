@@ -15,7 +15,7 @@
 
 ## § 1354. Five-year plan; annual technical services program
 
-The designated agency shall prepare and submit to the Secretary in accordance with such regulations as he may publish—
+    The designated agency shall prepare and submit to the Secretary in accordance with such regulations as he may publish—
 
     (a) A five-year plan which may be revised annually and which shall: (1) outline the technological and economic conditions of the State, taking into account its region, business, commerce, and its industrial potential and identify the major regional and industrial problems; (2) identify the general approaches and methods to be used in the solution of these problems and outline the means for measuring the impact of such assistance on the State or regional economy; and (3) explain the methods to be used in administering and coordinating the technical services program.
 

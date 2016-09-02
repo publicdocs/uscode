@@ -15,7 +15,7 @@
 
 ## § 3301. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) __Natural gas__ 
 

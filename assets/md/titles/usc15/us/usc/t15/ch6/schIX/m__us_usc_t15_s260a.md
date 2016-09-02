@@ -87,7 +87,7 @@
 
 >     “(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone,
 
->         shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act \[see [15 U.S.C. 260a(a)][/us/usc/t15/s260a/a]\] unless that State, by law, provides that such exemption shall not apply.”
+>     shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act \[see [15 U.S.C. 260a(a)][/us/usc/t15/s260a/a]\] unless that State, by law, provides that such exemption shall not apply.”
 
  __Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations__ 
 

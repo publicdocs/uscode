@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s280, 281.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s282.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs281a)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s279.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s282.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs281a)
 
 ## § 281a. Structural failures
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s280, 281.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s282.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs281a)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s279.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s282.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs281a)
 
 ----------
 ----------

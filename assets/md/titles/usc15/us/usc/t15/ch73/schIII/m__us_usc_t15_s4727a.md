@@ -15,7 +15,7 @@
 
 ## § 4727a. Implementation of primary objectives of TPCC
 
-The Trade Promotion Coordinating Committee shall—
+    The Trade Promotion Coordinating Committee shall—
 
     (1) report on the actions taken or efforts currently underway to eliminate the areas of overlap and duplication identified among Federal export promotion activities;
 

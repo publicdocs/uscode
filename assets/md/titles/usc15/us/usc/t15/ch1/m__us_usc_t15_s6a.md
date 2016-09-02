@@ -15,7 +15,7 @@
 
 ## § 6a. Conduct involving trade or commerce with foreign nations
 
-Sections 1 to 7 of this title shall not apply to conduct involving trade or commerce (other than import trade or import commerce) with foreign nations unless—
+    Sections 1 to 7 of this title shall not apply to conduct involving trade or commerce (other than import trade or import commerce) with foreign nations unless—
 
     (1)
 
@@ -27,7 +27,7 @@ Sections 1 to 7 of this title shall not apply to conduct involving trade or comm
 
     (2) such effect gives rise to a claim under the provisions of sections 1 to 7 of this title, other than this section.
 
-        If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
+    If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
 
 ([July 2, 1890, ch. 647, § 7][/us/act/1890-07-02/ch647/s7], as added [Pub. L. 97–290, title IV, § 402][/us/pl/97/290/s402], Oct. 8, 1982, [96 Stat. 1246][/us/stat/96/1246].)
 

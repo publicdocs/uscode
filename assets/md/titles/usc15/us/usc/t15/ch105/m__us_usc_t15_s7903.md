@@ -15,7 +15,7 @@
 
 ## § 7903. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Engaged in the business__ 
 

@@ -15,7 +15,7 @@
 
 ## § 278j. Studies by National Research Council
 
-The Director may periodically contract with the National Research Council for advice and studies to assist the Institute to serve United States industry and science. The subjects of such advice and studies may include—
+    The Director may periodically contract with the National Research Council for advice and studies to assist the Institute to serve United States industry and science. The subjects of such advice and studies may include—
 
     (1) the competitive position of the United States in key areas of manufacturing and emerging technologies and research activities which would enhance that competitiveness;
 

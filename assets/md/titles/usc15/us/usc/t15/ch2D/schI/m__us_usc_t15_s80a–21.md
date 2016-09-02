@@ -15,7 +15,7 @@
 
 ## § 80a–21. Loans by management companies
 
-It shall be unlawful for any registered management company to lend money or property to any person, directly or indirectly, if—
+    It shall be unlawful for any registered management company to lend money or property to any person, directly or indirectly, if—
 
     (a) the investment policies of such registered company, as recited in its registration statement and reports filed under this subchapter, do not permit such a loan; or
 

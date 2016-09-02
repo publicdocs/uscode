@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1151" data-uslm-ref="/us/usc/t15/s1151">1151.</a>  </td>
 
     <td> Purpose of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1152" data-uslm-ref="/us/usc/t15/s1152">1152.</a>  </td>
 
     <td> Clearinghouse for technical information; removal of security classification.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1153" data-uslm-ref="/us/usc/t15/s1153">1153.</a>  </td>
 
     <td> Rules, regulations, and fees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1153a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1153a" data-uslm-ref="/us/usc/t15/s1153a">1153a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1154" data-uslm-ref="/us/usc/t15/s1154">1154.</a>  </td>
 
     <td> Reference of data to armed services and other Government agencies.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1155" data-uslm-ref="/us/usc/t15/s1155">1155.</a>  </td>
 
     <td> General standards and limitations; preservation of security classification.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1156" data-uslm-ref="/us/usc/t15/s1156">1156.</a>  </td>
 
     <td> Use of existing facilities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1157" data-uslm-ref="/us/usc/t15/s1157">1157.</a>  </td>
 
     <td> Relation to other provisions.  </td>
 

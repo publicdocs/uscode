@@ -15,7 +15,7 @@
 
 ## § 4907. Operation of Data Bank
 
-The Secretary shall manage the Data Bank to provide the most appropriate data retrieval system or systems possible. Such system or systems shall—
+    The Secretary shall manage the Data Bank to provide the most appropriate data retrieval system or systems possible. Such system or systems shall—
 
     (1) be designed to utilize data processing and retrieval technology in monitoring, organizing, analyzing, and disseminating the data and information contained in the Data Bank;
 

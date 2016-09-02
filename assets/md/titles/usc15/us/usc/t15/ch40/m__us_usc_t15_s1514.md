@@ -15,7 +15,7 @@
 
 ## § 1514. Basic authority for performance of certain functions and activities of Department
 
-Appropriations are authorized for the following activities of the Department of Commerce:
+    Appropriations are authorized for the following activities of the Department of Commerce:
 
     (a) furnishing to employees of the Department of Commerce and other Federal agencies (including Army, Navy, and Air Force personnel where Army, Navy, or Air Force facilities or supplies are not available and upon request of the service concerned), and their dependents, in Alaska and other points outside the continental United States, free emergency medical services by contract or otherwise and free emergency medical supplies, where in the judgment of the Secretary furnishing of such supplies and services is necessary;
 

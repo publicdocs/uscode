@@ -15,7 +15,7 @@
 
 ## § 1352. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (a)
 

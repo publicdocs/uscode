@@ -15,7 +15,7 @@
 
 ## § 7801. Definitions
 
-As used in this chapter, the following definitions apply:
+    As used in this chapter, the following definitions apply:
 
     (1) __Agency contract__ 
 

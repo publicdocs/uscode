@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1" data-uslm-ref="/us/usc/t15/s1">1.</a>  </td>
 
     <td> Trusts, etc., in restraint of trade illegal; penalty.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2" data-uslm-ref="/us/usc/t15/s2">2.</a>  </td>
 
     <td> Monopolizing trade a felony; penalty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3" data-uslm-ref="/us/usc/t15/s3">3.</a>  </td>
 
     <td> Trusts in Territories or District of Columbia illegal; combination a felony.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4" data-uslm-ref="/us/usc/t15/s4">4.</a>  </td>
 
     <td> Jurisdiction of courts; duty of United States attorneys; procedure.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5" data-uslm-ref="/us/usc/t15/s5">5.</a>  </td>
 
     <td> Bringing in additional parties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6" data-uslm-ref="/us/usc/t15/s6">6.</a>  </td>
 
     <td> Forfeiture of property in transit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6a" data-uslm-ref="/us/usc/t15/s6a">6a.</a>  </td>
 
     <td> Conduct involving trade or commerce with foreign nations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7" data-uslm-ref="/us/usc/t15/s7">7.</a>  </td>
 
     <td> “Person” or “persons” defined.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8" data-uslm-ref="/us/usc/t15/s8">8.</a>  </td>
 
     <td> Trusts in restraint of import trade illegal; penalty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs9" data-uslm-ref="/us/usc/t15/s9">9.</a>  </td>
 
     <td> Jurisdiction of courts; duty of United States attorneys; procedure.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs10" data-uslm-ref="/us/usc/t15/s10">10.</a>  </td>
 
     <td> Bringing in additional parties.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs11" data-uslm-ref="/us/usc/t15/s11">11.</a>  </td>
 
     <td> Forfeiture of property in transit.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs12" data-uslm-ref="/us/usc/t15/s12">12.</a>  </td>
 
     <td> Definitions; short title.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs13" data-uslm-ref="/us/usc/t15/s13">13.</a>  </td>
 
     <td> Discrimination in price, services, or facilities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 13a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs13a" data-uslm-ref="/us/usc/t15/s13a">13a.</a>  </td>
 
     <td> Discrimination in rebates, discounts, or advertising service charges; underselling in particular localities; penalties.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 13b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs13b" data-uslm-ref="/us/usc/t15/s13b">13b.</a>  </td>
 
     <td> Cooperative association; return of net earnings or surplus.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 13c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs13c" data-uslm-ref="/us/usc/t15/s13c">13c.</a>  </td>
 
     <td> Exemption of non-profit institutions from price discrimination provisions.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs14" data-uslm-ref="/us/usc/t15/s14">14.</a>  </td>
 
     <td> Sale, etc., on agreement not to use goods of competitor.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15" data-uslm-ref="/us/usc/t15/s15">15.</a>  </td>
 
     <td> Suits by persons injured.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 15a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15a" data-uslm-ref="/us/usc/t15/s15a">15a.</a>  </td>
 
     <td> Suits by United States; amount of recovery; prejudgment interest.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 15b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15b" data-uslm-ref="/us/usc/t15/s15b">15b.</a>  </td>
 
     <td> Limitation of actions.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 15c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15c" data-uslm-ref="/us/usc/t15/s15c">15c.</a>  </td>
 
     <td> Actions by State attorneys general.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 15d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15d" data-uslm-ref="/us/usc/t15/s15d">15d.</a>  </td>
 
     <td> Measurement of damages.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 15e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15e" data-uslm-ref="/us/usc/t15/s15e">15e.</a>  </td>
 
     <td> Distribution of damages.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 15f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15f" data-uslm-ref="/us/usc/t15/s15f">15f.</a>  </td>
 
     <td> Actions by Attorney General.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 15g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15g" data-uslm-ref="/us/usc/t15/s15g">15g.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 15h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs15h" data-uslm-ref="/us/usc/t15/s15h">15h.</a>  </td>
 
     <td> Applicability of parens patriae actions.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs16" data-uslm-ref="/us/usc/t15/s16">16.</a>  </td>
 
     <td> Judgments.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs17" data-uslm-ref="/us/usc/t15/s17">17.</a>  </td>
 
     <td> Antitrust laws not applicable to labor organizations.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs18" data-uslm-ref="/us/usc/t15/s18">18.</a>  </td>
 
     <td> Acquisition by one corporation of stock of another.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 18a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs18a" data-uslm-ref="/us/usc/t15/s18a">18a.</a>  </td>
 
     <td> Premerger notification and waiting period.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs19" data-uslm-ref="/us/usc/t15/s19">19.</a>  </td>
 
     <td> Interlocking directorates and officers.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 19a, 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs19a" data-uslm-ref="/us/usc/t15/s19a">19a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs20" data-uslm-ref="/us/usc/t15/s20">20.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs21" data-uslm-ref="/us/usc/t15/s21">21.</a>  </td>
 
     <td> Enforcement provisions.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 21a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs21a" data-uslm-ref="/us/usc/t15/s21a">21a.</a>  </td>
 
     <td> Actions and proceedings pending prior to June 19, 1936; additional and continuing violations.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs22" data-uslm-ref="/us/usc/t15/s22">22.</a>  </td>
 
     <td> District in which to sue corporation.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs23" data-uslm-ref="/us/usc/t15/s23">23.</a>  </td>
 
     <td> Suits by United States; subpoenas for witnesses.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs24" data-uslm-ref="/us/usc/t15/s24">24.</a>  </td>
 
     <td> Liability of directors and agents of corporation.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs25" data-uslm-ref="/us/usc/t15/s25">25.</a>  </td>
 
     <td> Restraining violations; procedure.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs26" data-uslm-ref="/us/usc/t15/s26">26.</a>  </td>
 
     <td> Injunctive relief for private parties; exception; costs.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 26a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs26a" data-uslm-ref="/us/usc/t15/s26a">26a.</a>  </td>
 
     <td> Restrictions on the purchase of gasohol and synthetic motor fuel.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 26b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs26b" data-uslm-ref="/us/usc/t15/s26b">26b.</a>  </td>
 
     <td> Application of antitrust laws to professional major league baseball.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs27" data-uslm-ref="/us/usc/t15/s27">27.</a>  </td>
 
     <td> Effect of partial invalidity.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 27a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs27a" data-uslm-ref="/us/usc/t15/s27a">27a.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs28" data-uslm-ref="/us/usc/t15/s28">28.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs29" data-uslm-ref="/us/usc/t15/s29">29.</a>  </td>
 
     <td> Appeals.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 30 to 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs30" data-uslm-ref="/us/usc/t15/s30">30</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs33" data-uslm-ref="/us/usc/t15/s33">33.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs34" data-uslm-ref="/us/usc/t15/s34">34.</a>  </td>
 
     <td> Definitions applicable to sections 34 to 36.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs35" data-uslm-ref="/us/usc/t15/s35">35.</a>  </td>
 
     <td> Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs36" data-uslm-ref="/us/usc/t15/s36">36.</a>  </td>
 
     <td> Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs37" data-uslm-ref="/us/usc/t15/s37">37.</a>  </td>
 
     <td> Immunity from antitrust laws.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 37a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs37a" data-uslm-ref="/us/usc/t15/s37a">37a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 37b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs37b" data-uslm-ref="/us/usc/t15/s37b">37b.</a>  </td>
 
     <td> Confirmation of antitrust status of graduate medical resident matching programs.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs38" data-uslm-ref="/us/usc/t15/s38">38.</a>  </td>
 
     <td> Association of marine insurance companies; application of antitrust laws.  </td>
 

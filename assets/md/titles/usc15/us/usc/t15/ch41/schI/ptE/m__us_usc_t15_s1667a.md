@@ -15,7 +15,7 @@
 
 ## § 1667a. Consumer lease disclosures
 
-Each lessor shall give a lessee prior to the consummation of the lease a dated written statement on which the lessor and lessee are identified setting out accurately and in a clear and conspicuous manner the following information with respect to that lease, as applicable:
+    Each lessor shall give a lessee prior to the consummation of the lease a dated written statement on which the lessor and lessee are identified setting out accurately and in a clear and conspicuous manner the following information with respect to that lease, as applicable:
 
     (1) A brief description or identification of the leased property;
 
@@ -39,7 +39,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
     (11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
 
-        The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
+    The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
 ([Pub. L. 90–321, title I, § 182][/us/pl/90/321/s182], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 258][/us/stat/90/258]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (10)(B), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
 

@@ -15,7 +15,7 @@
 
 ## § 5102. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Secretary” means the Secretary of Energy;
 

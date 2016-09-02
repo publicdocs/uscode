@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2501" data-uslm-ref="/us/usc/t15/s2501">2501.</a>  </td>
 
     <td> Congressional findings and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2502" data-uslm-ref="/us/usc/t15/s2502">2502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2503" data-uslm-ref="/us/usc/t15/s2503">2503.</a>  </td>
 
     <td> Duties of Secretary of Energy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2504" data-uslm-ref="/us/usc/t15/s2504">2504.</a>  </td>
 
     <td> Coordination between Secretary of Energy and other agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2505" data-uslm-ref="/us/usc/t15/s2505">2505.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2506" data-uslm-ref="/us/usc/t15/s2506">2506.</a>  </td>
 
     <td> Demonstrations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2507" data-uslm-ref="/us/usc/t15/s2507">2507.</a>  </td>
 
     <td> Contracts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2508" data-uslm-ref="/us/usc/t15/s2508">2508.</a>  </td>
 
     <td> Encouragement and protection of small business.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2509" data-uslm-ref="/us/usc/t15/s2509">2509.</a>  </td>
 
     <td> Loan guarantees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2510" data-uslm-ref="/us/usc/t15/s2510">2510.</a>  </td>
 
     <td> Use of electric and hybrid vehicles by Federal agencies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2511" data-uslm-ref="/us/usc/t15/s2511">2511.</a>  </td>
 
     <td> Patents.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2512" data-uslm-ref="/us/usc/t15/s2512">2512.</a>  </td>
 
     <td> Studies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2513" data-uslm-ref="/us/usc/t15/s2513">2513.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2514" data-uslm-ref="/us/usc/t15/s2514">2514.</a>  </td>
 
     <td> Authorization for appropriations.  </td>
 

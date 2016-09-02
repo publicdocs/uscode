@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schI–A/m__us_usc_t15_s4705 to 4705c.md) | [Next](./../../../../..//us/usc/t15/ch73/schII/m__us_usc_t15_s4711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch73%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch73/schI–A/m__us_usc_t15_ch73_schI–A.md) | [Next](./../../../../..//us/usc/t15/ch73/schII/m__us_usc_t15_s4711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch73%2FschII)
 
 ### SUBCHAPTER II—GENERAL PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch73/schI–A/m__us_usc_t15_s4705 to 4705c.md) | [Next](./../../../../..//us/usc/t15/ch73/schII/m__us_usc_t15_s4711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch73%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch73/schI–A/m__us_usc_t15_ch73_schI–A.md) | [Next](./../../../../..//us/usc/t15/ch73/schII/m__us_usc_t15_s4711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch73%2FschII)
 
 ----------
 ----------

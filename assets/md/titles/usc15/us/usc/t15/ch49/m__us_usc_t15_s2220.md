@@ -15,7 +15,7 @@
 
 ## § 2220. Arson prevention, detection, and control
 
-The Administrator shall—
+    The Administrator shall—
 
     (1) develop arson detection techniques to assist Federal agencies and States and local jurisdictions in improving arson prevention, detection, and control;
 

@@ -15,7 +15,7 @@
 
 ## § 5401. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the United States fastener industry is a significant contributor to the global economy, employing thousands of workers in hundreds of communities;
 

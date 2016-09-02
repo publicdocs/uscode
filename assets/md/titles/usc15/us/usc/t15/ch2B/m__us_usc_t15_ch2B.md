@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 78a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78a" data-uslm-ref="/us/usc/t15/s78a">78a.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 78b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78b" data-uslm-ref="/us/usc/t15/s78b">78b.</a>  </td>
 
     <td> Necessity for regulation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 78c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c" data-uslm-ref="/us/usc/t15/s78c">78c.</a>  </td>
 
     <td> Definitions and application.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 78c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%931" data-uslm-ref="/us/usc/t15/s78c–1">78c–1.</a>  </td>
 
     <td> Swap agreements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 78c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%932" data-uslm-ref="/us/usc/t15/s78c–2">78c–2.</a>  </td>
 
     <td> Securities-related derivatives.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 78c–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933" data-uslm-ref="/us/usc/t15/s78c–3">78c–3.</a>  </td>
 
     <td> Clearing for security-based swaps.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 78c–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%934" data-uslm-ref="/us/usc/t15/s78c–4">78c–4.</a>  </td>
 
     <td> Security-based swap execution facilities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 78c–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%935" data-uslm-ref="/us/usc/t15/s78c–5">78c–5.</a>  </td>
 
     <td> Segregation of assets held as collateral in security-based swap transactions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 78d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d" data-uslm-ref="/us/usc/t15/s78d">78d.</a>  </td>
 
     <td> Securities and Exchange Commission.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 78d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%931" data-uslm-ref="/us/usc/t15/s78d–1">78d–1.</a>  </td>
 
     <td> Delegation of functions by Commission.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 78d–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%932" data-uslm-ref="/us/usc/t15/s78d–2">78d–2.</a>  </td>
 
     <td> Transfer of functions with respect to assignment of personnel to chairman.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 78d–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%933" data-uslm-ref="/us/usc/t15/s78d–3">78d–3.</a>  </td>
 
     <td> Appearance and practice before the Commission.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 78d–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%934" data-uslm-ref="/us/usc/t15/s78d–4">78d–4.</a>  </td>
 
     <td> Additional duties of Inspector General.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 78d–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%935" data-uslm-ref="/us/usc/t15/s78d–5">78d–5.</a>  </td>
 
     <td> Deadline for completing enforcement investigations and compliance examinations and inspections.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 78d–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%936" data-uslm-ref="/us/usc/t15/s78d–6">78d–6.</a>  </td>
 
     <td> Report and certification of internal supervisory controls.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 78d–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%937" data-uslm-ref="/us/usc/t15/s78d–7">78d–7.</a>  </td>
 
     <td> Triennial report on personnel management.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 78d–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%938" data-uslm-ref="/us/usc/t15/s78d–8">78d–8.</a>  </td>
 
     <td> Annual financial controls audit.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 78d–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78d%E2%80%939" data-uslm-ref="/us/usc/t15/s78d–9">78d–9.</a>  </td>
 
     <td> Report on oversight of national securities associations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 78e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78e" data-uslm-ref="/us/usc/t15/s78e">78e.</a>  </td>
 
     <td> Transactions on unregistered exchanges.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 78f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78f" data-uslm-ref="/us/usc/t15/s78f">78f.</a>  </td>
 
     <td> National securities exchanges.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 78g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78g" data-uslm-ref="/us/usc/t15/s78g">78g.</a>  </td>
 
     <td> Margin requirements.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 78h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78h" data-uslm-ref="/us/usc/t15/s78h">78h.</a>  </td>
 
     <td> Restrictions on borrowing and lending by members, brokers, and dealers.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 78i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78i" data-uslm-ref="/us/usc/t15/s78i">78i.</a>  </td>
 
     <td> Manipulation of security prices.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 78j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78j" data-uslm-ref="/us/usc/t15/s78j">78j.</a>  </td>
 
     <td> Manipulative and deceptive devices.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 78j–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931" data-uslm-ref="/us/usc/t15/s78j–1">78j–1.</a>  </td>
 
     <td> Audit requirements.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 78j–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%932" data-uslm-ref="/us/usc/t15/s78j–2">78j–2.</a>  </td>
 
     <td> Position limits and position accountability for security-based swaps and large trader reporting.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 78j–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%933" data-uslm-ref="/us/usc/t15/s78j–3">78j–3.</a>  </td>
 
     <td> Compensation committees.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 78j–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%934" data-uslm-ref="/us/usc/t15/s78j–4">78j–4.</a>  </td>
 
     <td> Recovery of erroneously awarded compensation policy.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 78k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78k" data-uslm-ref="/us/usc/t15/s78k">78k.</a>  </td>
 
     <td> Trading by members of exchanges, brokers, and dealers.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 78k–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78k%E2%80%931" data-uslm-ref="/us/usc/t15/s78k–1">78k–1.</a>  </td>
 
     <td> National market system for securities; securities information processors.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 78l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>l.  </td>
 
     <td> Registration requirements for securities.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 78l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>l–1.  </td>
 
     <td> Applications for unlisted trading privileges deemed filed under section 78l of this title.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 78m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78m" data-uslm-ref="/us/usc/t15/s78m">78m.</a>  </td>
 
     <td> Periodical and other reports.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 78m–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78m%E2%80%931" data-uslm-ref="/us/usc/t15/s78m–1">78m–1.</a>  </td>
 
     <td> Reporting and recordkeeping for certain security-based swaps.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 78m–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78m%E2%80%932" data-uslm-ref="/us/usc/t15/s78m–2">78m–2.</a>  </td>
 
     <td> Reporting requirements regarding coal or other mine safety.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 78n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78n" data-uslm-ref="/us/usc/t15/s78n">78n.</a>  </td>
 
     <td> Proxies.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 78n–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78n%E2%80%931" data-uslm-ref="/us/usc/t15/s78n–1">78n–1.</a>  </td>
 
     <td> Shareholder approval of executive compensation.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 78n–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78n%E2%80%932" data-uslm-ref="/us/usc/t15/s78n–2">78n–2.</a>  </td>
 
     <td> Corporate governance.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 78o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o.  </td>
 
     <td> Registration and regulation of brokers and dealers.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 78o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–1.  </td>
 
     <td> Brokers deemed to be registered.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 78o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–2.  </td>
 
     <td> Liabilities arising prior to amendment unaffected.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 78o–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–3.  </td>
 
     <td> Registered securities associations.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 78o–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–4.  </td>
 
     <td> Municipal securities.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 78o–4a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–4a.  </td>
 
     <td> Commission Office of Municipal Securities.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 78o–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–5.  </td>
 
     <td> Government securities brokers and dealers.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 78o–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–6.  </td>
 
     <td> Securities analysts and research reports.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 78o–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–7.  </td>
 
     <td> Registration of nationally recognized statistical rating organizations.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 78o–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–8.  </td>
 
     <td> Universal ratings symbols.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 78o–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–9.  </td>
 
     <td> Study and rulemaking on assigned credit ratings.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 78o–10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–10.  </td>
 
     <td> Registration and regulation of security-based swap dealers and major security-based swap participants.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 78o–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–11.  </td>
 
     <td> Credit risk retention.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 78p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78p" data-uslm-ref="/us/usc/t15/s78p">78p.</a>  </td>
 
     <td> Directors, officers, and principal stockholders.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 78q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78q" data-uslm-ref="/us/usc/t15/s78q">78q.</a>  </td>
 
     <td> Records and reports.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 78q–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78q%E2%80%931" data-uslm-ref="/us/usc/t15/s78q–1">78q–1.</a>  </td>
 
     <td> National system for clearance and settlement of securities transactions.  </td>
 
@@ -457,7 +457,7 @@
 
   <tr>
 
-    <td> 78q–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78q%E2%80%932" data-uslm-ref="/us/usc/t15/s78q–2">78q–2.</a>  </td>
 
     <td> Automated quotation systems for penny stocks.  </td>
 
@@ -465,7 +465,7 @@
 
   <tr>
 
-    <td> 78r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78r" data-uslm-ref="/us/usc/t15/s78r">78r.</a>  </td>
 
     <td> Liability for misleading statements.  </td>
 
@@ -473,7 +473,7 @@
 
   <tr>
 
-    <td> 78s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78s" data-uslm-ref="/us/usc/t15/s78s">78s.</a>  </td>
 
     <td> Registration, responsibilities, and oversight of self-regulatory organizations.  </td>
 
@@ -481,7 +481,7 @@
 
   <tr>
 
-    <td> 78t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78t" data-uslm-ref="/us/usc/t15/s78t">78t.</a>  </td>
 
     <td> Liability of controlling persons and persons who aid and abet violations.  </td>
 
@@ -489,7 +489,7 @@
 
   <tr>
 
-    <td> 78t–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78t%E2%80%931" data-uslm-ref="/us/usc/t15/s78t–1">78t–1.</a>  </td>
 
     <td> Liability to contemporaneous traders for insider trading.  </td>
 
@@ -497,7 +497,7 @@
 
   <tr>
 
-    <td> 78u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u" data-uslm-ref="/us/usc/t15/s78u">78u.</a>  </td>
 
     <td> Investigations and actions.  </td>
 
@@ -505,7 +505,7 @@
 
   <tr>
 
-    <td> 78u–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%931" data-uslm-ref="/us/usc/t15/s78u–1">78u–1.</a>  </td>
 
     <td> Civil penalties for insider trading.  </td>
 
@@ -513,7 +513,7 @@
 
   <tr>
 
-    <td> 78u–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%932" data-uslm-ref="/us/usc/t15/s78u–2">78u–2.</a>  </td>
 
     <td> Civil remedies in administrative proceedings.  </td>
 
@@ -521,7 +521,7 @@
 
   <tr>
 
-    <td> 78u–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%933" data-uslm-ref="/us/usc/t15/s78u–3">78u–3.</a>  </td>
 
     <td> Cease-and-desist proceedings.  </td>
 
@@ -529,7 +529,7 @@
 
   <tr>
 
-    <td> 78u–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%934" data-uslm-ref="/us/usc/t15/s78u–4">78u–4.</a>  </td>
 
     <td> Private securities litigation.  </td>
 
@@ -537,7 +537,7 @@
 
   <tr>
 
-    <td> 78u–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%935" data-uslm-ref="/us/usc/t15/s78u–5">78u–5.</a>  </td>
 
     <td> Application of safe harbor for forward-looking statements.  </td>
 
@@ -545,7 +545,7 @@
 
   <tr>
 
-    <td> 78u–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936" data-uslm-ref="/us/usc/t15/s78u–6">78u–6.</a>  </td>
 
     <td> Securities whistleblower incentives and protection.  </td>
 
@@ -553,7 +553,7 @@
 
   <tr>
 
-    <td> 78u–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%937" data-uslm-ref="/us/usc/t15/s78u–7">78u–7.</a>  </td>
 
     <td> Implementation and transition provisions for whistleblower protection.  </td>
 
@@ -561,7 +561,7 @@
 
   <tr>
 
-    <td> 78v.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78v" data-uslm-ref="/us/usc/t15/s78v">78v.</a>  </td>
 
     <td> Hearings by Commission.  </td>
 
@@ -569,7 +569,7 @@
 
   <tr>
 
-    <td> 78w.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78w" data-uslm-ref="/us/usc/t15/s78w">78w.</a>  </td>
 
     <td> Rules, regulations, and orders; annual reports.  </td>
 
@@ -577,7 +577,7 @@
 
   <tr>
 
-    <td> 78x.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78x" data-uslm-ref="/us/usc/t15/s78x">78x.</a>  </td>
 
     <td> Public availability of information.  </td>
 
@@ -585,7 +585,7 @@
 
   <tr>
 
-    <td> 78y.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78y" data-uslm-ref="/us/usc/t15/s78y">78y.</a>  </td>
 
     <td> Court review of orders and rules.  </td>
 
@@ -593,7 +593,7 @@
 
   <tr>
 
-    <td> 78z.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78z" data-uslm-ref="/us/usc/t15/s78z">78z.</a>  </td>
 
     <td> Unlawful representations.  </td>
 
@@ -601,7 +601,7 @@
 
   <tr>
 
-    <td> 78aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78aa" data-uslm-ref="/us/usc/t15/s78aa">78aa.</a>  </td>
 
     <td> Jurisdiction of offenses and suits.  </td>
 
@@ -609,7 +609,7 @@
 
   <tr>
 
-    <td> 78aa–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78aa%E2%80%931" data-uslm-ref="/us/usc/t15/s78aa–1">78aa–1.</a>  </td>
 
     <td> Special provision relating to statute of limitations on private causes of action.  </td>
 
@@ -617,7 +617,7 @@
 
   <tr>
 
-    <td> 78bb.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78bb" data-uslm-ref="/us/usc/t15/s78bb">78bb.</a>  </td>
 
     <td> Effect on existing law.  </td>
 
@@ -625,7 +625,7 @@
 
   <tr>
 
-    <td> 78cc.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78cc" data-uslm-ref="/us/usc/t15/s78cc">78cc.</a>  </td>
 
     <td> Validity of contracts.  </td>
 
@@ -633,7 +633,7 @@
 
   <tr>
 
-    <td> 78dd.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78dd" data-uslm-ref="/us/usc/t15/s78dd">78dd.</a>  </td>
 
     <td> Foreign securities exchanges.  </td>
 
@@ -641,7 +641,7 @@
 
   <tr>
 
-    <td> 78dd–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931" data-uslm-ref="/us/usc/t15/s78dd–1">78dd–1.</a>  </td>
 
     <td> Prohibited foreign trade practices by issuers.  </td>
 
@@ -649,7 +649,7 @@
 
   <tr>
 
-    <td> 78dd–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932" data-uslm-ref="/us/usc/t15/s78dd–2">78dd–2.</a>  </td>
 
     <td> Prohibited foreign trade practices by domestic concerns.  </td>
 
@@ -657,7 +657,7 @@
 
   <tr>
 
-    <td> 78dd–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%933" data-uslm-ref="/us/usc/t15/s78dd–3">78dd–3.</a>  </td>
 
     <td> Prohibited foreign trade practices by persons other than issuers or domestic concerns.  </td>
 
@@ -665,7 +665,7 @@
 
   <tr>
 
-    <td> 78ee.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78ee" data-uslm-ref="/us/usc/t15/s78ee">78ee.</a>  </td>
 
     <td> Transaction fees.  </td>
 
@@ -673,7 +673,7 @@
 
   <tr>
 
-    <td> 78ff.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78ff" data-uslm-ref="/us/usc/t15/s78ff">78ff.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -681,7 +681,7 @@
 
   <tr>
 
-    <td> 78gg.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78gg" data-uslm-ref="/us/usc/t15/s78gg">78gg.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -689,7 +689,7 @@
 
   <tr>
 
-    <td> 78hh.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78hh" data-uslm-ref="/us/usc/t15/s78hh">78hh.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -697,7 +697,7 @@
 
   <tr>
 
-    <td> 78hh–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78hh%E2%80%931" data-uslm-ref="/us/usc/t15/s78hh–1">78hh–1.</a>  </td>
 
     <td> Effective date of certain sections.  </td>
 
@@ -705,7 +705,7 @@
 
   <tr>
 
-    <td> 78ii, 78jj.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78ii" data-uslm-ref="/us/usc/t15/s78ii">78ii</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78jj" data-uslm-ref="/us/usc/t15/s78jj">78jj.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -713,7 +713,7 @@
 
   <tr>
 
-    <td> 78kk.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78kk" data-uslm-ref="/us/usc/t15/s78kk">78kk.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -721,7 +721,7 @@
 
   <tr>
 
-    <td> 78ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>ll.  </td>
 
     <td> Requirements for the EDGAR system.  </td>
 
@@ -729,7 +729,7 @@
 
   <tr>
 
-    <td> 78mm.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78mm" data-uslm-ref="/us/usc/t15/s78mm">78mm.</a>  </td>
 
     <td> General exemptive authority.  </td>
 
@@ -737,7 +737,7 @@
 
   <tr>
 
-    <td> 78nn.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78nn" data-uslm-ref="/us/usc/t15/s78nn">78nn.</a>  </td>
 
     <td> Tennessee Valley Authority.  </td>
 
@@ -745,7 +745,7 @@
 
   <tr>
 
-    <td> 78oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>oo.  </td>
 
     <td> Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Home Loan Banks.  </td>
 
@@ -753,7 +753,7 @@
 
   <tr>
 
-    <td> 78pp.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78pp" data-uslm-ref="/us/usc/t15/s78pp">78pp.</a>  </td>
 
     <td> Investor Advisory Committee.  </td>
 

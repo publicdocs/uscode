@@ -33,7 +33,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7001" data-uslm-ref="/us/usc/t15/s7001">7001.</a>  </td>
 
     <td> General rule of validity.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7002" data-uslm-ref="/us/usc/t15/s7002">7002.</a>  </td>
 
     <td> Exemption to preemption.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7003" data-uslm-ref="/us/usc/t15/s7003">7003.</a>  </td>
 
     <td> Specific exceptions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7004" data-uslm-ref="/us/usc/t15/s7004">7004.</a>  </td>
 
     <td> Applicability to Federal and State governments.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7005" data-uslm-ref="/us/usc/t15/s7005">7005.</a>  </td>
 
     <td> Studies.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE  </td>
 
   <tr>
 
-    <td> 7006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7006" data-uslm-ref="/us/usc/t15/s7006">7006.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—TRANSFERABLE RECORDS  </td>
 
   <tr>
 
-    <td> 7021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7021" data-uslm-ref="/us/usc/t15/s7021">7021.</a>  </td>
 
     <td> Transferable records.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—PROMOTION OF INTERNATIONAL ELECTRONIC COMMERCE  </td>
 
   <tr>
 
-    <td> 7031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7031" data-uslm-ref="/us/usc/t15/s7031">7031.</a>  </td>
 
     <td> Principles governing the use of electronic signatures in international transactions.  </td>
 

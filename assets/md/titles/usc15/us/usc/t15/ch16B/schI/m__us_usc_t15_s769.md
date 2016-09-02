@@ -15,7 +15,7 @@
 
 ## § 769. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) any reference to “function” or “functions” shall be deemed to include references to duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and
 

@@ -15,7 +15,7 @@
 
 ## § 80a–62. Distribution and repurchase of securities
 
-Notwithstanding the exemption set forth in [section 80a–6(f) of this title][/us/usc/t15/s80a–6/f], [section 80a–23 of this title][/us/usc/t15/s80a–23] shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except as follows:
+    Notwithstanding the exemption set forth in [section 80a–6(f) of this title][/us/usc/t15/s80a–6/f], [section 80a–23 of this title][/us/usc/t15/s80a–23] shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except as follows:
 
     (1) The prohibitions of [section 80a–23(a)(2) of this title][/us/usc/t15/s80a–23/a/2] shall not apply to any company which (A) is a wholly-owned subsidiary of, or directly or indirectly controlled by, a business development company, and (B) immediately after the issuance of any of its securities for property other than cash or securities, will not be an investment company within the meaning of [section 80a–3(a) of this title][/us/usc/t15/s80a–3/a].
 

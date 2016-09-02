@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch60/schII/m__us_usc_t15_s3341 to 3348.md) | [Next](./../../../../..//us/usc/t15/ch60/schIII/ptA/m__us_usc_t15_ch60_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch60%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch60/schII/m__us_usc_t15_ch60_schII.md) | [Next](./../../../../..//us/usc/t15/ch60/schIII/ptA/m__us_usc_t15_ch60_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch60%2FschIII)
 
 ### SUBCHAPTER III—ADDITIONAL AUTHORITIES AND REQUIREMENTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch60/schII/m__us_usc_t15_s3341 to 3348.md) | [Next](./../../../../..//us/usc/t15/ch60/schIII/ptA/m__us_usc_t15_ch60_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch60%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch60/schII/m__us_usc_t15_ch60_schII.md) | [Next](./../../../../..//us/usc/t15/ch60/schIII/ptA/m__us_usc_t15_ch60_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch60%2FschIII)
 
 ----------
 ----------

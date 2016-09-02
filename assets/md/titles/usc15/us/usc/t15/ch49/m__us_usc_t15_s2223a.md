@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2222, 2223.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223a)
+[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2221.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223a)
 
 ## § 2223a. Review
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2222, 2223.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223a)
+[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2221.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223a)
 
 ----------
 ----------

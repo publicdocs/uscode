@@ -15,7 +15,7 @@
 
 ## § 1241. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “interstate commerce” means commerce between any State, Territory, possession of the United States, or the District of Columbia, and any place outside thereof.
 

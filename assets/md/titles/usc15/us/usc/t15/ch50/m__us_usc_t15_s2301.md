@@ -15,7 +15,7 @@
 
 ## § 2301. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “consumer product” means any tangible personal property which is distributed in commerce and which is normally used for personal, family, or household purposes (including any such property intended to be attached to or installed in any real property without regard to whether it is so attached or installed).
 

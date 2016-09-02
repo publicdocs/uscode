@@ -15,7 +15,7 @@
 
 ## § 720i. Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) an Alaska natural gas transportation project would provide significant economic benefits to the United States and Canada; and
 

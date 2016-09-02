@@ -59,7 +59,7 @@
 
 >     “(2) otherwise to any person for use by such person as a fuel in a self-propelled vehicle,
 
->         shall not be considered to be a transportation or sale of natural gas within the meaning of any State law, regulation, or order in effect before January 1, 1989. This subsection shall not apply to any provision of any State law, regulation, or order to the extent that such provision has as its primary purpose the protection of public safety.”
+>     shall not be considered to be a transportation or sale of natural gas within the meaning of any State law, regulation, or order in effect before January 1, 1989. This subsection shall not apply to any provision of any State law, regulation, or order to the extent that such provision has as its primary purpose the protection of public safety.”
 
  __Emergency Natural Gas Act of 1977__ 
 

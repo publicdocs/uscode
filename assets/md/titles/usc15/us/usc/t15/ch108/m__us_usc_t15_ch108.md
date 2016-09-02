@@ -33,7 +33,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8201" data-uslm-ref="/us/usc/t15/s8201">8201.</a>  </td>
 
     <td> Reporting, payment, and allocation of premium taxes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8202" data-uslm-ref="/us/usc/t15/s8202">8202.</a>  </td>
 
     <td> Regulation of nonadmitted insurance by insured’s home State.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8203" data-uslm-ref="/us/usc/t15/s8203">8203.</a>  </td>
 
     <td> Participation in national producer database.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8204" data-uslm-ref="/us/usc/t15/s8204">8204.</a>  </td>
 
     <td> Uniform standards for surplus lines eligibility.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8205" data-uslm-ref="/us/usc/t15/s8205">8205.</a>  </td>
 
     <td> Streamlined application for commercial purchasers.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NONADMITTED INSURANCE  </td>
 
   <tr>
 
-    <td> 8206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8206" data-uslm-ref="/us/usc/t15/s8206">8206.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—REINSURANCE  </td>
 
   <tr>
 
-    <td> 8221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8221" data-uslm-ref="/us/usc/t15/s8221">8221.</a>  </td>
 
     <td> Regulation of credit for reinsurance and reinsurance agreements.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—REINSURANCE  </td>
 
   <tr>
 
-    <td> 8222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8222" data-uslm-ref="/us/usc/t15/s8222">8222.</a>  </td>
 
     <td> Regulation of reinsurer solvency.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—REINSURANCE  </td>
 
   <tr>
 
-    <td> 8223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8223" data-uslm-ref="/us/usc/t15/s8223">8223.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—RULE OF CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 8231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8231" data-uslm-ref="/us/usc/t15/s8231">8231.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—RULE OF CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 8232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8232" data-uslm-ref="/us/usc/t15/s8232">8232.</a>  </td>
 
     <td> Severability.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 146. General powers of corporation
 
-In addition to the powers granted elsewhere in this chapter, a China Trade Act corporation—
+    In addition to the powers granted elsewhere in this chapter, a China Trade Act corporation—
 
     (a) Shall have the right of succession during the existence of the corporation;
 

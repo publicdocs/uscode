@@ -15,7 +15,7 @@
 
 ## § 78lll. Definitions
 
-For purposes of this chapter, including the application of the Bankruptcy Act to a liquidation proceeding:
+    For purposes of this chapter, including the application of the Bankruptcy Act to a liquidation proceeding:
 
     (1) __Commission__ 
 

@@ -15,7 +15,7 @@
 
 ## § 278n–2. Green manufacturing and construction
 
-The Director shall carry out a green manufacturing and construction initiative—
+    The Director shall carry out a green manufacturing and construction initiative—
 
     (1) to develop accurate sustainability metrics and practices for use in manufacturing;
 

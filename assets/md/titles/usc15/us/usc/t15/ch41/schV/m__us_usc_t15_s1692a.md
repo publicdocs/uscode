@@ -15,7 +15,7 @@
 
 ## § 1692a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “Bureau” means the Bureau of Consumer Financial Protection.
 

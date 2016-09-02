@@ -15,7 +15,7 @@
 
 ## § 431. Definitions
 
-When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
+    When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
 
     (b) The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\].
 

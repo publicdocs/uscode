@@ -191,7 +191,11 @@
 
 >              is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
 
->                 “(I) bars the person from—         “(aa) association with an entity regulated by such commission, authority, agency, or officer;
+>                 “(I)
+
+>                  bars the person from—
+
+>                          “(aa) association with an entity regulated by such commission, authority, agency, or officer;
 
 >                          “(bb) engaging in the business of securities, insurance, or banking; or
 
@@ -217,7 +221,11 @@
 
 >          is subject to a final order of a State securities commission (or an agency or officer of a State performing like functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing like functions), an appropriate Federal banking agency, or the National Credit Union Administration, that—
 
->             “(i) bars the person from—         “(I) association with an entity regulated by such commission, authority, agency, or officer;
+>             “(i)
+
+>              bars the person from—
+
+>                      “(I) association with an entity regulated by such commission, authority, agency, or officer;
 
 >                      “(II) engaging in the business of securities, insurance, or banking; or
 

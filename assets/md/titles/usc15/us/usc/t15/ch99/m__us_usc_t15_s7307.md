@@ -15,7 +15,7 @@
 
 ## § 7307. National Construction Safety Team report
 
-Not later than 90 days after completing an investigation, a Team shall issue a public report which includes—
+    Not later than 90 days after completing an investigation, a Team shall issue a public report which includes—
 
     (1) an analysis of the likely technical cause or causes of the building failure investigated;
 

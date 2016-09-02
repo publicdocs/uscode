@@ -15,7 +15,7 @@
 
 ## § 2217. Public access to information
 
-Copies of any document, report, statement, or information received or sent by the Administrator of FEMA or the Administrator shall be made available to the public pursuant to the provisions of [section 552 of title 5][/us/usc/t5/s552]: Provided, That, notwithstanding the provisions of subsection (b) of such section and of [section 1905 of title 18][/us/usc/t18/s1905], the Administrator of FEMA may disclose information which concerns or relates to a trade secret—
+    Copies of any document, report, statement, or information received or sent by the Administrator of FEMA or the Administrator shall be made available to the public pursuant to the provisions of [section 552 of title 5][/us/usc/t5/s552]: Provided, That, notwithstanding the provisions of subsection (b) of such section and of [section 1905 of title 18][/us/usc/t18/s1905], the Administrator of FEMA may disclose information which concerns or relates to a trade secret—
 
     (1) upon request, to other Federal Government departments and agencies for official use;
 

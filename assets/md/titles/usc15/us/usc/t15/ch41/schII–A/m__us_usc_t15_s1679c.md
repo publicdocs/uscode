@@ -19,7 +19,7 @@
 
         Any credit repair organization shall provide any consumer with the following written statement before any contract or agreement between the consumer and the credit repair organization is executed:
 
-        “Consumer Credit File Rights Under State and Federal Law
+    “Consumer Credit File Rights Under State and Federal Law
 
         “You have a right to dispute inaccurate information in your credit report by contacting the credit bureau directly. However, neither you nor any ‘credit repair’ company or credit repair organization has the right to have accurate, current, and verifiable information removed from your credit report. The credit bureau must remove accurate, negative information from your report only if it is over 7 years old. Bankruptcy information can be reported for 10 years.
 
@@ -37,11 +37,11 @@
 
         “The Federal Trade Commission regulates credit bureaus and credit repair organizations. For more information contact:
 
-        “The Public Reference Branch
+    “The Public Reference Branch
 
-        “Federal Trade Commission
+    “Federal Trade Commission
 
-        “Washington, D.C. 20580”.
+    “Washington, D.C. 20580”.
 
     (b) __Separate statement requirement__ 
 

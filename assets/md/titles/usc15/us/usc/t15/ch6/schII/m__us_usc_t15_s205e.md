@@ -15,7 +15,7 @@
 
 ## § 205e. Functions and powers of Board
 
-It shall be the function of the Board to devise and carry out a broad program of planning, coordination, and public education, consistent with other national policy and interests, with the aim of implementing the policy set forth in this subchapter. In carrying out this program, the Board shall—
+    It shall be the function of the Board to devise and carry out a broad program of planning, coordination, and public education, consistent with other national policy and interests, with the aim of implementing the policy set forth in this subchapter. In carrying out this program, the Board shall—
 
     (1) consult with and take into account the interests, views, and conversion costs of United States commerce and industry, including small business; science; engineering; labor; education; consumers; government agencies at the Federal, State, and local level; nationally recognized standards developing and coordinating organizations; metric conversion planning and coordinating groups; and such other individuals or groups as are considered appropriate by the Board to the carrying out of the purposes of this subchapter. The Board shall take into account activities underway in the private and public sectors, so as not to duplicate unnecessarily such activities;
 

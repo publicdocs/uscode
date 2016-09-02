@@ -15,7 +15,7 @@
 
 ## § 1221. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “automobile manufacturer” shall mean any person, partnership, corporation, association, or other form of business enterprise engaged in the manufacturing or assembling of passenger cars, trucks, or station wagons, including any person, partnership, or corporation which acts for and is under the control of such manufacturer or assembler in connection with the distribution of said automotive vehicles.
 

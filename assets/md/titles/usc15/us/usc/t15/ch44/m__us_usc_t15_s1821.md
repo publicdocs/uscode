@@ -15,7 +15,7 @@
 
 ## § 1821. Definitions
 
-As used in this chapter unless the context otherwise requires:
+    As used in this chapter unless the context otherwise requires:
 
     (1) The term “management” means any person who organizes, exercises control over, or administers or who is responsible for organizing, directing, or administering.
 

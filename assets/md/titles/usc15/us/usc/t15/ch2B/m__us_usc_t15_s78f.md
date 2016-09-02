@@ -135,9 +135,7 @@
 
             (E)
 
-             In addition to the bases specified in [section 78y(a) of this title][/us/usc/t15/s78y/a], a reviewing Court may set aside an order of the Commission under [section 78s(b) of this title][/us/usc/t15/s78s/b] approving an exchange rule imposing a schedule or fixing rates of commissions, allowances, discounts, or other fees, if the Court finds—
-
-                (1) a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
+             In addition to the bases specified in [section 78y(a) of this title][/us/usc/t15/s78y/a], a reviewing Court may set aside an order of the Commission under [section 78s(b) of this title][/us/usc/t15/s78s/b] approving an exchange rule imposing a schedule or fixing rates of commissions, allowances, discounts, or other fees, if the Court finds—    (1) a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
 
                 (2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner’s cross-examination or rebuttal submissions,
 
@@ -351,7 +349,7 @@
 
  __Amendment of Section__ 
 
-Unless otherwise provided, amendments by subtitle A (§§ 711–754) and subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
+    Unless otherwise provided, amendments by subtitle A (§§ 711–754) and subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 

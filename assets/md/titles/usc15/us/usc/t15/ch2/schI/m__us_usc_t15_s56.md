@@ -53,9 +53,7 @@
 
                 (ii)
 
-                 the Attorney General, within the 60-day period which begins on the date of the entry of such judgment—
-
-                    (a) refuses to appeal or file a petition for writ of certiorari with respect to such civil action, in which case he shall give written notification to the Commission of the reasons for such refusal within such 60-day period; or
+                 the Attorney General, within the 60-day period which begins on the date of the entry of such judgment—    (a) refuses to appeal or file a petition for writ of certiorari with respect to such civil action, in which case he shall give written notification to the Commission of the reasons for such refusal within such 60-day period; or
 
                     (b) the Attorney General fails to take any action with respect to the Commission’s request.
 
@@ -93,7 +91,7 @@
 
  __Amendment of Section__ 
 
-For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
+    For repeal of amendment by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
 
  __Amendments__ 
 

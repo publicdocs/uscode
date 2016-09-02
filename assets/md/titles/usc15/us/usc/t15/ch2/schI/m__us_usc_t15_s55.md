@@ -15,7 +15,7 @@
 
 ## § 55. Additional definitions
 
-For the purposes of sections 52 to 54 of this title—
+    For the purposes of sections 52 to 54 of this title—
 
     (a) __False advertisement__ 
 

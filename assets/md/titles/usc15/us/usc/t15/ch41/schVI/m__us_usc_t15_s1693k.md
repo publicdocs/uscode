@@ -15,7 +15,7 @@
 
 ## § 1693k. Compulsory use of electronic fund transfers
 
-No person may—
+    No person may—
 
     (1) condition the extension of credit to a consumer on such consumer’s repayment by means of preauthorized electronic fund transfers; or
 

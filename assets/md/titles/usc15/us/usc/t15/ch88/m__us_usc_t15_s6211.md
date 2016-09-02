@@ -15,7 +15,7 @@
 
 ## § 6211. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “antitrust evidence” means information, testimony, statements, documents, or other things that are obtained in anticipation of, or during the course of, an investigation or proceeding under any of the Federal antitrust laws or any of the foreign antitrust laws.
 

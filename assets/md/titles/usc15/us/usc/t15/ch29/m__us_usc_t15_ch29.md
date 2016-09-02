@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1241" data-uslm-ref="/us/usc/t15/s1241">1241.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1242" data-uslm-ref="/us/usc/t15/s1242">1242.</a>  </td>
 
     <td> Introduction, manufacture for introduction, transportation or distribution in interstate commerce; penalty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1243" data-uslm-ref="/us/usc/t15/s1243">1243.</a>  </td>
 
     <td> Manufacture, sale, or possession within specific jurisdictions; penalty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1244" data-uslm-ref="/us/usc/t15/s1244">1244.</a>  </td>
 
     <td> Exceptions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1245" data-uslm-ref="/us/usc/t15/s1245">1245.</a>  </td>
 
     <td> Ballistic knives.  </td>
 

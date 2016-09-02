@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7801" data-uslm-ref="/us/usc/t15/s7801">7801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7802" data-uslm-ref="/us/usc/t15/s7802">7802.</a>  </td>
 
     <td> Regulation of unfair and deceptive acts and practices in connection with the contact between an athlete agent and a student athlete.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7803" data-uslm-ref="/us/usc/t15/s7803">7803.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7804" data-uslm-ref="/us/usc/t15/s7804">7804.</a>  </td>
 
     <td> Actions by States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7805" data-uslm-ref="/us/usc/t15/s7805">7805.</a>  </td>
 
     <td> Protection of educational institution.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7806" data-uslm-ref="/us/usc/t15/s7806">7806.</a>  </td>
 
     <td> Limitation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7807" data-uslm-ref="/us/usc/t15/s7807">7807.</a>  </td>
 
     <td> Sense of Congress.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 8303. Abusive swaps
 
-The Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, individually may, by rule or order—
+    The Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, individually may, by rule or order—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 3703. Definitions
 
-As used in this chapter, unless the context otherwise requires, the term—
+    As used in this chapter, unless the context otherwise requires, the term—
 
     (1) “Secretary” means the Secretary of Commerce.
 

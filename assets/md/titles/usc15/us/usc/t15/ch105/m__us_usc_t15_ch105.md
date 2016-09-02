@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7901" data-uslm-ref="/us/usc/t15/s7901">7901.</a>  </td>
 
     <td> Findings; purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7902" data-uslm-ref="/us/usc/t15/s7902">7902.</a>  </td>
 
     <td> Prohibition on bringing of qualified civil liability actions in Federal or State court.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7903" data-uslm-ref="/us/usc/t15/s7903">7903.</a>  </td>
 
     <td> Definitions.  </td>
 

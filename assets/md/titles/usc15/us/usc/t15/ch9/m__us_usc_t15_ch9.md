@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs311" data-uslm-ref="/us/usc/t15/s311">311.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs312" data-uslm-ref="/us/usc/t15/s312">312.</a>  </td>
 
     <td> Employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs313" data-uslm-ref="/us/usc/t15/s313">313.</a>  </td>
 
     <td> Duties of Secretary of Commerce.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 313a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs313a" data-uslm-ref="/us/usc/t15/s313a">313a.</a>  </td>
 
     <td> Establishment of meteorological observation stations in the Arctic region.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 313b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs313b" data-uslm-ref="/us/usc/t15/s313b">313b.</a>  </td>
 
     <td> Institute for Aviation Weather Prediction.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 313c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs313c" data-uslm-ref="/us/usc/t15/s313c">313c.</a>  </td>
 
     <td> Authorized activities of the National Oceanic and Atmospheric Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 313d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs313d" data-uslm-ref="/us/usc/t15/s313d">313d.</a>  </td>
 
     <td> NIDIS program.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs314" data-uslm-ref="/us/usc/t15/s314">314.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs315" data-uslm-ref="/us/usc/t15/s315">315.</a>  </td>
 
     <td> Changes or assignment to duty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs316" data-uslm-ref="/us/usc/t15/s316">316.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs317" data-uslm-ref="/us/usc/t15/s317">317.</a>  </td>
 
     <td> Appropriations and estimates.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs318" data-uslm-ref="/us/usc/t15/s318">318.</a>  </td>
 
     <td> Weather signals on mail cars.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 319 to 321.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs319" data-uslm-ref="/us/usc/t15/s319">319</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs321" data-uslm-ref="/us/usc/t15/s321">321.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs322" data-uslm-ref="/us/usc/t15/s322">322.</a>  </td>
 
     <td> Odd jobs for part-time employees.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 323, 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs323" data-uslm-ref="/us/usc/t15/s323">323</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs324" data-uslm-ref="/us/usc/t15/s324">324.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs325" data-uslm-ref="/us/usc/t15/s325">325.</a>  </td>
 
     <td> Authority for certain functions and activities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs326" data-uslm-ref="/us/usc/t15/s326">326.</a>  </td>
 
     <td> Maintenance of printing office in Washington, D.C.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs327" data-uslm-ref="/us/usc/t15/s327">327.</a>  </td>
 
     <td> Employees for conduct of meteorological investigations in Arctic region; appointment and compensation; extra compensation to other Government employees for taking observations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs328" data-uslm-ref="/us/usc/t15/s328">328.</a>  </td>
 
     <td> Transfer from other Government Departments of surplus equipment and supplies for Arctic stations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs329" data-uslm-ref="/us/usc/t15/s329">329.</a>  </td>
 
     <td> Omitted.  </td>
 

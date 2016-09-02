@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s173, 174.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s176.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs175)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s172.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s176.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs175)
 
 ## § 175. Additional duties of Bureau
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s173, 174.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s176.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs175)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s172.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s176.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs175)
 
 ----------
 ----------

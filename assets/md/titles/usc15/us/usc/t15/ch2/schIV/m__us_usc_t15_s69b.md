@@ -15,7 +15,7 @@
 
 ## § 69b. Misbranded fur products
 
-For the purposes of this subchapter, a fur product shall be considered to be misbranded—
+    For the purposes of this subchapter, a fur product shall be considered to be misbranded—
 
     (1) if it is falsely or deceptively labeled or otherwise falsely or deceptively identified, or if the label contains any form of misrepresentation or deception, directly or by implication, with respect to such fur product;
 

@@ -15,7 +15,7 @@
 
 ## § 1263. Prohibited acts
 
-The following acts and the causing thereof are prohibited:
+    The following acts and the causing thereof are prohibited:
 
     (a) The introduction or delivery for introduction into interstate commerce of any misbranded hazardous substance or banned hazardous substance.
 

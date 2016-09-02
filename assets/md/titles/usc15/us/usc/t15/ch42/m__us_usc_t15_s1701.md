@@ -15,7 +15,7 @@
 
 ## § 1701. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Director” means the Director of the Bureau of Consumer Financial Protection;
 

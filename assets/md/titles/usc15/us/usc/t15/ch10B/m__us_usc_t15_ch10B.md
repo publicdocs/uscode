@@ -33,7 +33,7 @@ SUBCHAPTER I—NET INCOME TAXES  </td>
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs381" data-uslm-ref="/us/usc/t15/s381">381.</a>  </td>
 
     <td> Imposition of net income tax.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NET INCOME TAXES  </td>
 
   <tr>
 
-    <td> 382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs382" data-uslm-ref="/us/usc/t15/s382">382.</a>  </td>
 
     <td> Assessment of net income taxes.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NET INCOME TAXES  </td>
 
   <tr>
 
-    <td> 383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs383" data-uslm-ref="/us/usc/t15/s383">383.</a>  </td>
 
     <td> “Net income tax” defined.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NET INCOME TAXES  </td>
 
   <tr>
 
-    <td> 384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs384" data-uslm-ref="/us/usc/t15/s384">384.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—DISCRIMINATORY TAXES  </td>
 
   <tr>
 
-    <td> 391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs391" data-uslm-ref="/us/usc/t15/s391">391.</a>  </td>
 
     <td> Tax on or with respect to generation or transmission of electricity.  </td>
 

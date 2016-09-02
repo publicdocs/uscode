@@ -15,7 +15,7 @@
 
 ## § 4901. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Committee” means the Interagency Trade Data Advisory Committee;
 

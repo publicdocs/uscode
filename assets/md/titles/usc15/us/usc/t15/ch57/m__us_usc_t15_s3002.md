@@ -15,7 +15,7 @@
 
 ## § 3002. Definitions
 
-For the purposes of this chapter the term—
+    For the purposes of this chapter the term—
 
     (1) “person” means any individual, association, partnership, joint venture, corporation, State or political subdivision thereof, department, agency, or instrumentality of a State or political subdivision thereof, or any other organization or entity;
 

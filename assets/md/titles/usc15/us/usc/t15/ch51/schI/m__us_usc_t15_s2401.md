@@ -15,7 +15,7 @@
 
 ## § 2401. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the rate of productivity growth in the United States has declined during four of the past six years;
 

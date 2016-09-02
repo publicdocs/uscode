@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7601" data-uslm-ref="/us/usc/t15/s7601">7601.</a>  </td>
 
     <td> Availability of contact lens prescriptions to patients.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7602" data-uslm-ref="/us/usc/t15/s7602">7602.</a>  </td>
 
     <td> Immediate payment of fees in limited circumstances.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7603" data-uslm-ref="/us/usc/t15/s7603">7603.</a>  </td>
 
     <td> Prescriber verification.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7604" data-uslm-ref="/us/usc/t15/s7604">7604.</a>  </td>
 
     <td> Expiration of contact lens prescriptions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7605" data-uslm-ref="/us/usc/t15/s7605">7605.</a>  </td>
 
     <td> Content of advertisements and other representations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7606" data-uslm-ref="/us/usc/t15/s7606">7606.</a>  </td>
 
     <td> Prohibition of certain waivers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7607" data-uslm-ref="/us/usc/t15/s7607">7607.</a>  </td>
 
     <td> Rulemaking by Federal Trade Commission.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7608" data-uslm-ref="/us/usc/t15/s7608">7608.</a>  </td>
 
     <td> Violations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7609" data-uslm-ref="/us/usc/t15/s7609">7609.</a>  </td>
 
     <td> Study and report.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7610" data-uslm-ref="/us/usc/t15/s7610">7610.</a>  </td>
 
     <td> Definitions.  </td>
 

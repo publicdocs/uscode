@@ -15,7 +15,7 @@
 
 ## § 3005. Liability and damages
 
-Any person accepting any interstate off-track wager in violation of this chapter shall be civilly liable for damages to the host State, the host racing association and the horsemen’s group. Damages for each violation shall be based on the total of off-track wagers as follows:
+    Any person accepting any interstate off-track wager in violation of this chapter shall be civilly liable for damages to the host State, the host racing association and the horsemen’s group. Damages for each violation shall be based on the total of off-track wagers as follows:
 
     (1) If the interstate off-track wager was of a type accepted at the host racing association, damages shall be in an amount equal to that portion of the takeout which would have been distributed to the host State, host racing association and the horsemen’s group, as if each such interstate off-track wager had been placed at the host racing association.
 

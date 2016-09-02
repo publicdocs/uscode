@@ -15,7 +15,7 @@
 
 ## § 2402. Congressional statement of purpose
 
-It is the purpose of this chapter—
+    It is the purpose of this chapter—
 
     (1) to establish a national policy which will encourage productivity growth consistent with needs of the economy, the natural environment, and the needs, rights, and best interests of management, the work force, and consumers; and
 

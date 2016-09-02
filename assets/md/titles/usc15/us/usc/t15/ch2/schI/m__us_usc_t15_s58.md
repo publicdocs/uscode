@@ -21,7 +21,7 @@
 
  __Amendment of Section__ 
 
-For repeal of amendment renumbering this section by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
+    For repeal of amendment renumbering this section by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Termination Date of 2006 Amendment note below.
 
  __Termination Date of 2006 Amendment__ 
 

@@ -15,7 +15,7 @@
 
 ## § 1052. Trademarks registrable on principal register; concurrent registration
 
-No trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration on the principal register on account of its nature unless it—
+    No trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration on the principal register on account of its nature unless it—
 
     (a) Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute; or a geographical indication which, when used on or in connection with wines or spirits, identifies a place other than the origin of the goods and is first used on or in connection with wines or spirits by the applicant on or after one year after the date on which the WTO Agreement (as defined in [section 3501(9) of title 19][/us/usc/t19/s3501/9]) enters into force with respect to the United States.
 

@@ -113,9 +113,9 @@
 
 >         “(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[[15 U.S.C. 2064(j)][/us/usc/t15/s2064/j]\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)][/us/usc/t15/s2066/a]) or other import provisions enforced by the Commission.
 
->     “(c) __Cooperation With U.S. Customs and Border Protection.—__ 
+>     “(c) __Cooperation With U.__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:
+>     S. Customs and Border Protection.—Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:
 
 >         “(1) The number of full-time equivalent personnel employed by the Commission that should be stationed at U.S. ports of entry for the purpose of identifying shipments of consumer products that are in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)][/us/usc/t15/s2066/a]) or other import provisions enforced by the Commission.
 

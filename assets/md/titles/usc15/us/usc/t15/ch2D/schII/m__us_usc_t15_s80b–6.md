@@ -15,7 +15,7 @@
 
 ## § 80b–6. Prohibited transactions by investment advisers
 
-It shall be unlawful for any investment adviser by use of the mails or any means or instrumentality of interstate commerce, directly or indirectly—
+    It shall be unlawful for any investment adviser by use of the mails or any means or instrumentality of interstate commerce, directly or indirectly—
 
     (1) to employ any device, scheme, or artifice to defraud any client or prospective client;
 

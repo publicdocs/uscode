@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1231" data-uslm-ref="/us/usc/t15/s1231">1231.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1232" data-uslm-ref="/us/usc/t15/s1232">1232.</a>  </td>
 
     <td> Label and entry requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1232a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1232a" data-uslm-ref="/us/usc/t15/s1232a">1232a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1233" data-uslm-ref="/us/usc/t15/s1233">1233.</a>  </td>
 
     <td> Violations and penalties.  </td>
 

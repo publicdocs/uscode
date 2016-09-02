@@ -15,7 +15,7 @@
 
 ## § 3202. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “gas consumer” means any person, State agency, or Federal agency, to which natural gas is sold other than for purposes of resale.
 

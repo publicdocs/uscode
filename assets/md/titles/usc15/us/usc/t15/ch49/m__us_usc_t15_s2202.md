@@ -15,7 +15,7 @@
 
 ## § 2202. Declaration of purpose
 
-It is declared to be the purpose of Congress in this chapter to—
+    It is declared to be the purpose of Congress in this chapter to—
 
     (1) reduce the Nation’s losses caused by fire through better fire prevention and control;
 

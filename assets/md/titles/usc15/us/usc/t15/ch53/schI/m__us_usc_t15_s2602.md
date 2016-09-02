@@ -15,7 +15,7 @@
 
 ## § 2602. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  term “Administrator” means the Administrator of the Environmental Protection Agency.
 

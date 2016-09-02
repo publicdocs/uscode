@@ -15,7 +15,7 @@
 
 ## § 2414. Functions of the Center
 
-The Center shall—
+    The Center shall—
 
     (1) develop and establish, in consultation with the appropriate committees of the Congress and with the appropriate departments and agencies of the executive branch, a national policy for productivity growth in the public and private sectors of the United States consistent with the purposes of this chapter;
 

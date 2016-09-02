@@ -15,7 +15,7 @@
 
 ## § 2223b. Working group
 
-For the purpose of carrying out [section 2223a of this title][/us/usc/t15/s2223a], the Administrator shall establish a working group which shall, at a minimum, consist of—
+    For the purpose of carrying out [section 2223a of this title][/us/usc/t15/s2223a], the Administrator shall establish a working group which shall, at a minimum, consist of—
 
     (1)
 

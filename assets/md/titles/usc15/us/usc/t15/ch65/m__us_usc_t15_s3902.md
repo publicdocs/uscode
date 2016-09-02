@@ -51,11 +51,9 @@
 
             (H) comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance commissioner alleging that the group is in hazardous financial condition or is financially impaired; and
 
-            (I) provide the following notice, in 10-point type, in any insurance policy issued by such group:
+            (I) provide the following notice, in 10-point type, in any insurance policy issued by such group:“notice
 
-        “notice
-
-        “This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
+                “This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
 
         (2) require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
 

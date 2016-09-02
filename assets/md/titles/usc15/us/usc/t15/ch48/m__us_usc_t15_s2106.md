@@ -15,7 +15,7 @@
 
 ## § 2106. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “original political item” means any political button, poster, literature, sticker, or any advertisement produced for use in any political cause.
 

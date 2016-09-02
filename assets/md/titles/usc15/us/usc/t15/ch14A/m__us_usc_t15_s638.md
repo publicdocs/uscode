@@ -1549,15 +1549,15 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5141(b)(3)][/us/pl/112/81/s5141/b/3], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854], as amended by [Pub. L. 112–239, div. A, title XVI, § 1615(b)][/us/pl/112/239/s1615/b], Jan. 2, 2013, [126 Stat. 2066][/us/stat/126/2066], provided that, effective on the first day of the fourth full fiscal year following Dec. 31, 2011, this section is amended as follows:
+    [Pub. L. 112–81, div. E, title LI, § 5141(b)(3)][/us/pl/112/81/s5141/b/3], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854], as amended by [Pub. L. 112–239, div. A, title XVI, § 1615(b)][/us/pl/112/239/s1615/b], Jan. 2, 2013, [126 Stat. 2066][/us/stat/126/2066], provided that, effective on the first day of the fourth full fiscal year following Dec. 31, 2011, this section is amended as follows:
 
-(1) in subsection (f)(2), by striking “shall not make available for the purpose” and inserting the following: “shall not—
+    (1) in subsection (f)(2), by striking “shall not make available for the purpose” and inserting the following: “shall not—
 
     “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
     “(B) make available for the purpose”; and
 
-(2) in subsection (y), by amending paragraph (4) to read as follows:
+    (2) in subsection (y), by amending paragraph (4) to read as follows:
 
     “(4) Funding
 
@@ -2055,11 +2055,19 @@
 
 >             The regulations issued under this subsection shall permit the participation of applicants majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms in the SBIR program in accordance with section 9(dd) of the Small Business Act \[[15 U.S.C. 638(dd)][/us/usc/t15/s638/dd]\], as added by this section, unless the Administrator determines—
 
->                 “(i) in accordance with the size standards established under subparagraph (B), that the applicant is—         “(I) a large business or large entity; or
+>                 “(i)
+
+>                  in accordance with the size standards established under subparagraph (B), that the applicant is—
+
+>                          “(I) a large business or large entity; or
 
 >                          “(II) majority-owned or controlled by a large business or large entity; or
 
->                 “(ii) in accordance with the criteria established under subparagraph (C), that the applicant—         “(I) is a foreign-owned business or a foreign entity or is not a citizen of the United States or alien lawfully admitted for permanent residence; or
+>                 “(ii)
+
+>                  in accordance with the criteria established under subparagraph (C), that the applicant—
+
+>                          “(I) is a foreign-owned business or a foreign entity or is not a citizen of the United States or alien lawfully admitted for permanent residence; or
 
 >                          “(II) is majority-owned or controlled by a foreign-owned business, foreign entity, or person who is not a citizen of the United States or alien lawfully admitted for permanent residence.
 
@@ -2075,7 +2083,11 @@
 
 >                 “(ii) whether the applicant is domiciled in the United States; and
 
->                 “(iii) whether the applicant is a direct or indirect subsidiary of a foreign-owned firm, including whether the criteria should include that an applicant is a direct or indirect subsidiary of a foreign-owned entity if—         “(I) any venture capital operating company, hedge fund, or private equity firm that owns more than 20 percent of the applicant is a direct or indirect subsidiary of a foreign-owned entity; or
+>                 “(iii)
+
+>                  whether the applicant is a direct or indirect subsidiary of a foreign-owned firm, including whether the criteria should include that an applicant is a direct or indirect subsidiary of a foreign-owned entity if—
+
+>                          “(I) any venture capital operating company, hedge fund, or private equity firm that owns more than 20 percent of the applicant is a direct or indirect subsidiary of a foreign-owned entity; or
 
 >                          “(II) in the aggregate, entities that are direct or indirect subsidiaries of foreign-owned entities own more than 49 percent of the applicant.
 
@@ -2083,7 +2095,11 @@
 
 >             The Administrator shall establish criteria, in accordance with paragraph (1), for determining whether an applicant is affiliated with a venture capital operating company, hedge fund, private equity firm, or any other business that the venture capital operating company, hedge fund, or private equity firm has financed and, in establishing the criteria, shall specify that—
 
->                 “(i) if a venture capital operating company, hedge fund, or private equity firm that is determined to be affiliated with an applicant is a minority investor in the applicant, the portfolio companies of the venture capital operating company, hedge fund, or private equity firm shall not be determined to be affiliated with the applicant, unless—         “(I) the venture capital operating company, hedge fund, or private equity firm owns a majority of the portfolio company; or
+>                 “(i)
+
+>                  if a venture capital operating company, hedge fund, or private equity firm that is determined to be affiliated with an applicant is a minority investor in the applicant, the portfolio companies of the venture capital operating company, hedge fund, or private equity firm shall not be determined to be affiliated with the applicant, unless—
+
+>                          “(I) the venture capital operating company, hedge fund, or private equity firm owns a majority of the portfolio company; or
 
 >                          “(II) the venture capital operating company, hedge fund, or private equity firm holds a majority of the seats on the board of directors of the portfolio company;
 

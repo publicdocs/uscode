@@ -15,7 +15,7 @@
 
 ## § 2451. Authority of Executive Director
 
-The Executive Director is authorized to—
+    The Executive Director is authorized to—
 
     (1) prescribe such regulations as are deemed necessary to carry out the purposes of this chapter;
 

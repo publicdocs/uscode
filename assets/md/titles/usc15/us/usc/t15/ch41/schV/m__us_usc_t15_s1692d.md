@@ -15,7 +15,7 @@
 
 ## § 1692d. Harassment or abuse
 
-A debt collector may not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of a debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
+    A debt collector may not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of a debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
 
     (1) The use or threat of use of violence or other criminal means to harm the physical person, reputation, or property of any person.
 

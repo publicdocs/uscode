@@ -15,7 +15,7 @@
 
 ## § 1693a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “accepted card or other means of access” means a card, code, or other means of access to a consumer’s account for the purpose of initiating electronic fund transfers when the person to whom such card or other means of access was issued has requested and received or has signed or has used, or authorized another to use, such card or other means of access for the purpose of transferring money between accounts or obtaining money, property, labor, or services;
 

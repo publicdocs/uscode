@@ -15,7 +15,7 @@
 
 ## § 6002. Purposes for grants
 
-A grant made under [section 6001 of this title][/us/usc/t15/s6001] may be used by a grantee to—
+    A grant made under [section 6001 of this title][/us/usc/t15/s6001] may be used by a grantee to—
 
     (1) enforce a law that requires individuals under the age of 16 to wear approved bicycle helmets on their heads while riding on bicycles;
 
@@ -25,7 +25,7 @@ A grant made under [section 6001 of this title][/us/usc/t15/s6001] may be used b
 
     (4) carry out any combination of the activities described in paragraphs (1), (2), and (3).
 
-        The Administrator shall review grant applications for compliance with this section prior to awarding grants.
+    The Administrator shall review grant applications for compliance with this section prior to awarding grants.
 
 ([Pub. L. 103–267, title II, § 203][/us/pl/103/267/s203], June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
 

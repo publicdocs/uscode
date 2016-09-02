@@ -15,7 +15,7 @@
 
 ## § 6610. Damages limitation by contract
 
-In any Y2K action for breach or repudiation of contract, no party may claim, or be awarded, any category of damages unless such damages are allowed—
+    In any Y2K action for breach or repudiation of contract, no party may claim, or be awarded, any category of damages unless such damages are allowed—
 
     (1) by the express terms of the contract; or
 

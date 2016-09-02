@@ -15,7 +15,7 @@
 
 ## § 5904. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “armored car crew member” means an individual who provides protection for goods transported by an armored car company.
 

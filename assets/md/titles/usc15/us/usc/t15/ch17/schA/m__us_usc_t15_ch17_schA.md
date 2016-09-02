@@ -11,16 +11,24 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch17/m__us_usc_t15_ch17.md) | [Next](./../../../../..//us/usc/t15/ch17/schA/m__us_usc_t15_s801 to 827.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch17%2FschA)
+[Previous](./../../../../..//us/usc/t15/ch17/m__us_usc_t15_ch17.md) | [Next](./../../../../..//us/usc/t15/ch17/schB/m__us_usc_t15_ch17_schB.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch17%2FschA)
 
 ### SUBCHAPTER A—BITUMINOUS COAL CONSERVATION ACT OF 1935
 
+§§ 801 to 827. __Repealed.__  __[__  __Apr. 26, 1937, ch. 127, § 20(a)__  __][/us/act/1937-04-26/ch127/s20/a]__  __,__  __[__  __50 Stat. 90__  __][/us/stat/50/90]__ 
+
+    Sections, [act Aug. 30, 1935, ch. 824][/us/act/1935-08-30/ch824], §§ 1–23, [49 Stat. 991][/us/stat/49/991], comprised the Bituminous Coal Conservation Act of 1935.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch17/m__us_usc_t15_ch17.md) | [Next](./../../../../..//us/usc/t15/ch17/schA/m__us_usc_t15_s801 to 827.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch17%2FschA)
+[Previous](./../../../../..//us/usc/t15/ch17/m__us_usc_t15_ch17.md) | [Next](./../../../../..//us/usc/t15/ch17/schB/m__us_usc_t15_ch17_schB.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch17%2FschA)
 
 ----------
 ----------
 
+[/us/act/1937-04-26/ch127/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-26%2Fch127%2Fs20%2Fa
+[/us/stat/50/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F90
+[/us/act/1935-08-30/ch824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch824
+[/us/stat/49/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F991
 
 

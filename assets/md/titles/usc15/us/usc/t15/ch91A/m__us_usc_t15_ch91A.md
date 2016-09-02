@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6551" data-uslm-ref="/us/usc/t15/s6551">6551.</a>  </td>
 
     <td> Internet safety.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6552" data-uslm-ref="/us/usc/t15/s6552">6552.</a>  </td>
 
     <td> Public awareness campaign.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6553" data-uslm-ref="/us/usc/t15/s6553">6553.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6554" data-uslm-ref="/us/usc/t15/s6554">6554.</a>  </td>
 
     <td> Online Safety and Technology working group.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6555" data-uslm-ref="/us/usc/t15/s6555">6555.</a>  </td>
 
     <td> Definitions.  </td>
 

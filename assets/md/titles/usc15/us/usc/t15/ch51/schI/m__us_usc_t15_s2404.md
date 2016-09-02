@@ -15,7 +15,7 @@
 
 ## § 2404. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “Center” means the National Center for Productivity and Quality of Working Life;
 

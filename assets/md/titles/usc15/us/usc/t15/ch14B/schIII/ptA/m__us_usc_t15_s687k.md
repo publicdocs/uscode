@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i, 687j.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687h.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
 
 ## § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank
 
-Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire after September 30, 1985—
+    Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire after September 30, 1985—
 
     (1) any obligation the payment of principal or interest on which has at any time been guaranteed in whole or in part under this subchapter,
 
@@ -31,7 +31,7 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i, 687j.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687h.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
 
 ----------
 ----------

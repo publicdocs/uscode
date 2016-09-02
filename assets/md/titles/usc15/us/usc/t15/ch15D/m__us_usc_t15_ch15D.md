@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720" data-uslm-ref="/us/usc/t15/s720">720.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 720a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720a" data-uslm-ref="/us/usc/t15/s720a">720a.</a>  </td>
 
     <td> Issuance of certificate of public convenience and necessity.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 720b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720b" data-uslm-ref="/us/usc/t15/s720b">720b.</a>  </td>
 
     <td> Environmental reviews.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 720c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720c" data-uslm-ref="/us/usc/t15/s720c">720c.</a>  </td>
 
     <td> Pipeline expansion.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 720d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720d" data-uslm-ref="/us/usc/t15/s720d">720d.</a>  </td>
 
     <td> Federal Coordinator.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 720e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720e" data-uslm-ref="/us/usc/t15/s720e">720e.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 720f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720f" data-uslm-ref="/us/usc/t15/s720f">720f.</a>  </td>
 
     <td> State jurisdiction over in-State delivery of natural gas.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 720g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720g" data-uslm-ref="/us/usc/t15/s720g">720g.</a>  </td>
 
     <td> Study of alternative means of construction.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 720h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720h" data-uslm-ref="/us/usc/t15/s720h">720h.</a>  </td>
 
     <td> Clarification of ANGTA status and authorities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 720i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720i" data-uslm-ref="/us/usc/t15/s720i">720i.</a>  </td>
 
     <td> Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 720j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720j" data-uslm-ref="/us/usc/t15/s720j">720j.</a>  </td>
 
     <td> Sense of Congress concerning participation by small business concerns.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 720k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720k" data-uslm-ref="/us/usc/t15/s720k">720k.</a>  </td>
 
     <td> Alaska pipeline construction training program.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 720l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720" data-uslm-ref="/us/usc/t15/s720">720</a>l.  </td>
 
     <td> Sense of Congress concerning natural gas demand.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 720m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720m" data-uslm-ref="/us/usc/t15/s720m">720m.</a>  </td>
 
     <td> Sense of Congress concerning Alaskan ownership.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 720n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720n" data-uslm-ref="/us/usc/t15/s720n">720n.</a>  </td>
 
     <td> Loan guarantees.  </td>
 

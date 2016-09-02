@@ -59,13 +59,11 @@
 
         (1) Hedging and other similar risk mitigating activities directly related to the insured depository institution’s activities.
 
-        (2)
+        (2) Acting as a swaps entity for swaps or security-based swaps involving rates or reference assets that are permissible for investment by a national bank under the paragraph designated as “Seventh.” of [section 24 of title 12][/us/usc/t12/s24], other than as described in paragraph (3).
 
-         Acting as a swaps entity for swaps or security-based swaps involving rates or reference assets that are permissible for investment by a national bank under the paragraph designated as “Seventh.” of [section 24 of title 12][/us/usc/t12/s24], other than as described in paragraph (3).
+        (3) __Limitation on credit default swaps__ 
 
-            (3) __Limitation on credit default swaps__ 
-
-                Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(77)][/us/usc/t15/s78c/a/77]) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act ([15 U.S.C. 78c][/us/usc/t15/s78c])) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.
+            Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(77)][/us/usc/t15/s78c/a/77]) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act ([15 U.S.C. 78c][/us/usc/t15/s78c])) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.
 
     (e) __Existing swaps and security-based swaps__ 
 

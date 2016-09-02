@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2921" data-uslm-ref="/us/usc/t15/s2921">2921.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2931" data-uslm-ref="/us/usc/t15/s2931">2931.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2932" data-uslm-ref="/us/usc/t15/s2932">2932.</a>  </td>
 
     <td> Committee on Earth and Environmental Sciences.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2933" data-uslm-ref="/us/usc/t15/s2933">2933.</a>  </td>
 
     <td> United States Global Change Research Program.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2934" data-uslm-ref="/us/usc/t15/s2934">2934.</a>  </td>
 
     <td> National Global Change Research Plan.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2935" data-uslm-ref="/us/usc/t15/s2935">2935.</a>  </td>
 
     <td> Budget coordination.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2936" data-uslm-ref="/us/usc/t15/s2936">2936.</a>  </td>
 
     <td> Scientific assessment.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2937" data-uslm-ref="/us/usc/t15/s2937">2937.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM  </td>
 
   <tr>
 
-    <td> 2938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2938" data-uslm-ref="/us/usc/t15/s2938">2938.</a>  </td>
 
     <td> Relation to other authorities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—INTERNATIONAL COOPERATION IN GLOBAL CHANGE RESEARCH  </td>
 
   <tr>
 
-    <td> 2951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2951" data-uslm-ref="/us/usc/t15/s2951">2951.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—INTERNATIONAL COOPERATION IN GLOBAL CHANGE RESEARCH  </td>
 
   <tr>
 
-    <td> 2952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2952" data-uslm-ref="/us/usc/t15/s2952">2952.</a>  </td>
 
     <td> International discussions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—INTERNATIONAL COOPERATION IN GLOBAL CHANGE RESEARCH  </td>
 
   <tr>
 
-    <td> 2953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2953" data-uslm-ref="/us/usc/t15/s2953">2953.</a>  </td>
 
     <td> Global Change Research Information Office.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—GROWTH DECISION AID  </td>
 
   <tr>
 
-    <td> 2961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2961" data-uslm-ref="/us/usc/t15/s2961">2961.</a>  </td>
 
     <td> Study and decision aid.  </td>
 

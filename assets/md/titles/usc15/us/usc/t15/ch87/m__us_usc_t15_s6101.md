@@ -15,7 +15,7 @@
 
 ## § 6101. Findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) Telemarketing differs from other sales activities in that it can be carried out by sellers across State lines without direct contact with the consumer. Telemarketers also can be very mobile, easily moving from State to State.
 

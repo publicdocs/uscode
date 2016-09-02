@@ -15,7 +15,7 @@
 
 ## § 78ll. Requirements for the EDGAR system
 
-The Commission, by rule or regulation—
+    The Commission, by rule or regulation—
 
     (1)
 

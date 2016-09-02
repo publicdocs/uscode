@@ -15,7 +15,7 @@
 
 ## § 4306. Application of section 4303 protections to production of products, processes, and services
 
-Notwithstanding sections 4303 and 4305 of this title, the protections of [section 4303 of this title][/us/usc/t15/s4303] shall not apply with respect to a joint venture’s production of a product, process, or service, as referred to in [section 4301(a)(6)(D) of this title][/us/usc/t15/s4301/a/6/D], unless—
+    Notwithstanding sections 4303 and 4305 of this title, the protections of [section 4303 of this title][/us/usc/t15/s4303] shall not apply with respect to a joint venture’s production of a product, process, or service, as referred to in [section 4301(a)(6)(D) of this title][/us/usc/t15/s4301/a/6/D], unless—
 
     (1) the principal facilities for such production are located in the United States or its territories, and
 

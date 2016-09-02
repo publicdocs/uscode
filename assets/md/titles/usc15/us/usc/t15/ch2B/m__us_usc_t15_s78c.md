@@ -191,13 +191,13 @@
 
                 (iii) in any other similar capacity.
 
-            (E) __Exception for entities subject to section 78__  __o__ 
+            (E) __Exception for entities subject to section 78__  __o__  __(e).__  __1__  __—__ 
 
-                (e).1 —The term “broker” does not include a bank that—
+            The term “broker” does not include a bank that—
 
-            (i) was, on the day before November 12, 1999, subject to section 78o(e) 1 of this title; and
+                (i) was, on the day before November 12, 1999, subject to section 78o(e) 1 of this title; and
 
-            (ii) is subject to such restrictions and requirements as the Commission considers appropriate.
+                (ii) is subject to such restrictions and requirements as the Commission considers appropriate.
 
             (F) __Joint rulemaking required.—__ 
 
@@ -1039,7 +1039,7 @@
 
  __Amendment of Section__ 
 
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
+    Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -1471,13 +1471,13 @@ Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title V
 
 >     A final single set of rules or regulations jointly adopted in accordance with this section shall supersede any other proposed or final rule issued by the Commission on or after the date of enactment of section 201 of the Gramm-Leach-Bliley Act \[Nov. 12, 1999\] with regard to the exceptions to the definition of a broker under section 3(a)(4)(B) of the Securities Exchange Act of 1934. No such other rule, whether or not issued in final form, shall have any force or effect on or after that date of enactment.
 
->     “(b) __Consultation.—__ 
+>         “(b) __Consultation.—__ 
 
->     Prior to jointly adopting the single set of final rules or regulations required by this section, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rulemaking in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(4)(B)][/us/usc/t15/s78c/a/4/B]\], as amended by this section and section 201 of the Gramm-Leach-Bliley Act \[[Pub. L. 106–102][/us/pl/106/102]\].
+>         Prior to jointly adopting the single set of final rules or regulations required by this section, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rulemaking in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(4)(B)][/us/usc/t15/s78c/a/4/B]\], as amended by this section and section 201 of the Gramm-Leach-Bliley Act \[[Pub. L. 106–102][/us/pl/106/102]\].
 
->     “(c) __Definition.—__ 
+>         “(c) __Definition.—__ 
 
->     For purposes of this section, the term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation.”
+>         For purposes of this section, the term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation.”
 
  __Construction of 1993 Amendment__ 
 

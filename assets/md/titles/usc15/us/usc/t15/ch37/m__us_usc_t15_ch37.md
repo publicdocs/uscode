@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1351" data-uslm-ref="/us/usc/t15/s1351">1351.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1352" data-uslm-ref="/us/usc/t15/s1352">1352.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1353" data-uslm-ref="/us/usc/t15/s1353">1353.</a>  </td>
 
     <td> Selection of designated agency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1354" data-uslm-ref="/us/usc/t15/s1354">1354.</a>  </td>
 
     <td> Five-year plan; annual technical services program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1355" data-uslm-ref="/us/usc/t15/s1355">1355.</a>  </td>
 
     <td> Conditions precedent to acceptance of plans and programs for review and approval by Secretary.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1356" data-uslm-ref="/us/usc/t15/s1356">1356.</a>  </td>
 
     <td> Review and approval of plans and programs by Secretary.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1357" data-uslm-ref="/us/usc/t15/s1357">1357.</a>  </td>
 
     <td> Interstate cooperation in administration and coordination of plans and programs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1358" data-uslm-ref="/us/usc/t15/s1358">1358.</a>  </td>
 
     <td> Consent of Congress for interstate compacts; reservation of right to alter, amend, or repeal.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1359" data-uslm-ref="/us/usc/t15/s1359">1359.</a>  </td>
 
     <td> Advisory councils for technical services; appointment; functions; compensation and expenses.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1360" data-uslm-ref="/us/usc/t15/s1360">1360.</a>  </td>
 
     <td> Appropriations and payments.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1361" data-uslm-ref="/us/usc/t15/s1361">1361.</a>  </td>
 
     <td> Reference services to assist designated agencies to obtain information outside State.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1362" data-uslm-ref="/us/usc/t15/s1362">1362.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1363" data-uslm-ref="/us/usc/t15/s1363">1363.</a>  </td>
 
     <td> Prohibition against control over educational institutions; functions or responsibilities of other departments not affected.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1364" data-uslm-ref="/us/usc/t15/s1364">1364.</a>  </td>
 
     <td> Annual report by designated agencies to Secretary; reports by Secretary to President and Congress.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1365" data-uslm-ref="/us/usc/t15/s1365">1365.</a>  </td>
 
     <td> Public committee; appointment; functions; report.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1366" data-uslm-ref="/us/usc/t15/s1366">1366.</a>  </td>
 
     <td> Termination of payments for noncompliance with law or diversion of funds.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1367" data-uslm-ref="/us/usc/t15/s1367">1367.</a>  </td>
 
     <td> Repayments.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1368" data-uslm-ref="/us/usc/t15/s1368">1368.</a>  </td>
 
     <td> Records.  </td>
 

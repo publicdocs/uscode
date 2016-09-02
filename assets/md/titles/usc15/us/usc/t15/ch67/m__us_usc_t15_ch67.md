@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4101" data-uslm-ref="/us/usc/t15/s4101">4101.</a>  </td>
 
     <td> Congressional findings and declaration of purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4102" data-uslm-ref="/us/usc/t15/s4102">4102.</a>  </td>
 
     <td> Arctic Research Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4103" data-uslm-ref="/us/usc/t15/s4103">4103.</a>  </td>
 
     <td> Duties of Commission; publication of guidelines; report to Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4104" data-uslm-ref="/us/usc/t15/s4104">4104.</a>  </td>
 
     <td> Cooperation with Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4105" data-uslm-ref="/us/usc/t15/s4105">4105.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4106" data-uslm-ref="/us/usc/t15/s4106">4106.</a>  </td>
 
     <td> Implementation of Arctic research policy.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4107" data-uslm-ref="/us/usc/t15/s4107">4107.</a>  </td>
 
     <td> Duties of Interagency Committee; report to Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4108" data-uslm-ref="/us/usc/t15/s4108">4108.</a>  </td>
 
     <td> Arctic research plan.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4109" data-uslm-ref="/us/usc/t15/s4109">4109.</a>  </td>
 
     <td> Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4110" data-uslm-ref="/us/usc/t15/s4110">4110.</a>  </td>
 
     <td> Authorization of appropriations; new spending authority.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4111" data-uslm-ref="/us/usc/t15/s4111">4111.</a>  </td>
 
     <td> “Arctic” defined.  </td>
 

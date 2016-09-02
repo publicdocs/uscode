@@ -15,7 +15,7 @@
 
 ## § 3802. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) the term “methane” means either natural gas (as defined in [section 3301(1) of this title][/us/usc/t15/s3301/1]), gas derived from coal, liquefied natural gas, or any gaseous transportation fuel produced from biomass, waste products, and other renewable resources;
 

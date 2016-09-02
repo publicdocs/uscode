@@ -15,7 +15,7 @@
 
 ## § 78b. Necessity for regulation
 
-For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are effected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports, to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
+    For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are effected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports, to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
 
     (1) Such transactions (a) are carried on in large volume by the public generally and in large part originate outside the States in which the exchanges and over-the-counter markets are located and/or are effected by means of the mails and instrumentalities of interstate commerce; (b) constitute an important part of the current of interstate commerce; (c) involve in large part the securities of issuers engaged in interstate commerce; (d) involve the use of credit, directly affect the financing of trade, industry, and transportation in interstate commerce, and directly affect and influence the volume of interstate commerce; and affect the national credit.
 
@@ -145,7 +145,7 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 >     “(4) such other issues and concerns relating to the soundness, stability, and integrity of domestic and international capital markets as may be appropriate.
 
->         The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies.”
+>     The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies.”
 
  __Securities Laws Study__ 
 

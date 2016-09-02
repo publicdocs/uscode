@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1502, 1503.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1503a)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1501.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1503a)
 
 ## § 1503a. Under Secretary of Commerce for Economic Affairs
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1502, 1503.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1503a)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1501.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1503a)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 149. Bylaws
 
-The bylaws may provide—
+    The bylaws may provide—
 
     (a) The time, place, manner of calling, giving notice, and conduct of, and determination of a quorum for, the meetings, annual or special, of the stockholders or directors;
 

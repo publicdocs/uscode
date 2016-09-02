@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3001" data-uslm-ref="/us/usc/t15/s3001">3001.</a>  </td>
 
     <td> Congressional findings and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3002" data-uslm-ref="/us/usc/t15/s3002">3002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3003" data-uslm-ref="/us/usc/t15/s3003">3003.</a>  </td>
 
     <td> Acceptance of interstate off-track wager.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3004" data-uslm-ref="/us/usc/t15/s3004">3004.</a>  </td>
 
     <td> Regulation of interstate off-track wagering.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3005" data-uslm-ref="/us/usc/t15/s3005">3005.</a>  </td>
 
     <td> Liability and damages.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3006" data-uslm-ref="/us/usc/t15/s3006">3006.</a>  </td>
 
     <td> Civil action.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3007" data-uslm-ref="/us/usc/t15/s3007">3007.</a>  </td>
 
     <td> Jurisdiction and venue.  </td>
 

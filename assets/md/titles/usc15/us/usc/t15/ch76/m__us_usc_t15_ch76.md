@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5001" data-uslm-ref="/us/usc/t15/s5001">5001.</a>  </td>
 
     <td> Penalties for entering into commerce of imitation firearms.  </td>
 

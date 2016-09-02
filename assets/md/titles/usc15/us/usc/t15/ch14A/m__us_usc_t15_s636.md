@@ -155,11 +155,11 @@
 
         (12)
 
-            (A)
+            (A) The Administration may provide loans under this subsection to assist any small business concern, including start up, to enable such concern to design architecturally or engineer, manufacture, distribute, market, install, or service energy measures: Provided, however, That such loan proceeds shall not be used primarily for research and development.
 
-             The Administration may provide loans under this subsection to assist any small business concern, including start up, to enable such concern to design architecturally or engineer, manufacture, distribute, market, install, or service energy measures: Provided, however, That such loan proceeds shall not be used primarily for research and development.
+    (b)
 
-                (b)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “(B)”. </sup></sup>  The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 \[[15 U.S.C. 694–1][/us/usc/t15/s694–1]\]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
+  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “(B)”. </sup></sup>  The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 \[[15 U.S.C. 694–1][/us/usc/t15/s694–1]\]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
 
         (13)  The  Administration  may  provide  fi­nancings under this subsection to State and local development companies for the purposes of, and subject to the restrictions in, title V of the Small Business Investment Act of 1958 \[[15 U.S.C. 695][/us/usc/t15/s695] et seq.\].
 
@@ -1689,43 +1689,45 @@
 
     (m) __Microloan Program__ 
 
-        (1) __(A) Purposes__ 
+        (1)
 
-        The purposes of the Microloan Program are—
+            (A) __Purposes__ 
 
-            (i) to assist women, low-income, veteran (within the meaning of such term under [section 632(q) of this title][/us/usc/t15/s632/q]), and minority entrepreneurs and business owners and other such individuals possessing the capability to operate successful business concerns;
+            The purposes of the Microloan Program are—
 
-            (ii) to assist small business concerns in those areas suffering from a lack of credit due to economic downturns;
+                (i) to assist women, low-income, veteran (within the meaning of such term under [section 632(q) of this title][/us/usc/t15/s632/q]), and minority entrepreneurs and business owners and other such individuals possessing the capability to operate successful business concerns;
 
-            (iii)
+                (ii) to assist small business concerns in those areas suffering from a lack of credit due to economic downturns;
 
-             to establish a microloan program to be administered by the Small Business Administration—
+                (iii)
 
-                (I) to make loans to eligible intermediaries to enable such intermediaries to provide small-scale loans, particularly loans in amounts averaging not more than $10,000, to startup, newly established, or growing small business concerns for working capital or the acquisition of materials, supplies, or equipment;
+                 to establish a microloan program to be administered by the Small Business Administration—
 
-                (II) to make grants to eligible intermediaries that, together with non-Federal matching funds, will enable such intermediaries to provide intensive marketing, management, and technical assistance to microloan borrowers;
+                    (I) to make loans to eligible intermediaries to enable such intermediaries to provide small-scale loans, particularly loans in amounts averaging not more than $10,000, to startup, newly established, or growing small business concerns for working capital or the acquisition of materials, supplies, or equipment;
 
-                (III) to make grants to eligible nonprofit entities that, together with non-Federal matching funds, will enable such entities to provide intensive marketing, management, and technical assistance to assist low-income entrepreneurs and other low-income individuals obtain private sector financing for their businesses, with or without loan guarantees; and
+                    (II) to make grants to eligible intermediaries that, together with non-Federal matching funds, will enable such intermediaries to provide intensive marketing, management, and technical assistance to microloan borrowers;
 
-                (IV) to report to the Committees on Small Business of the Senate and the House of Representatives on the effectiveness of the microloan program and the advisability and feasibility of implementing such a program nationwide; and
+                    (III) to make grants to eligible nonprofit entities that, together with non-Federal matching funds, will enable such entities to provide intensive marketing, management, and technical assistance to assist low-income entrepreneurs and other low-income individuals obtain private sector financing for their businesses, with or without loan guarantees; and
 
-            (iv)
+                    (IV) to report to the Committees on Small Business of the Senate and the House of Representatives on the effectiveness of the microloan program and the advisability and feasibility of implementing such a program nationwide; and
 
-             to establish a welfare-to-work microloan initiative, which shall be administered by the Administration, in order to test the feasibility of supplementing the technical assistance grants provided under clauses (ii) and (iii) of subparagraph (B) to individuals who are receiving assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), or under any comparable State funded means tested program of assistance for low-income individuals, in order to adequately assist those individuals in—
+                (iv)
 
-                (I) establishing small businesses; and
+                 to establish a welfare-to-work microloan initiative, which shall be administered by the Administration, in order to test the feasibility of supplementing the technical assistance grants provided under clauses (ii) and (iii) of subparagraph (B) to individuals who are receiving assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), or under any comparable State funded means tested program of assistance for low-income individuals, in order to adequately assist those individuals in—
 
-                (II) eliminating their dependence on that assistance.
+                    (I) establishing small businesses; and
 
-        (B) __Establishment__ 
+                    (II) eliminating their dependence on that assistance.
 
-        There is established a microloan program, under which the Administration may—
+            (B) __Establishment__ 
 
-            (i) make direct loans to eligible intermediaries, as provided under paragraph (3), for the purpose of making short-term, fixed interest rate microloans to startup, newly established, and growing small business concerns under paragraph (6);
+            There is established a microloan program, under which the Administration may—
 
-            (ii) in conjunction with such loans and subject to the requirements of paragraph (4), make grants to such intermediaries for the purpose of providing intensive marketing, management, and technical assistance to small business concerns that are borrowers under this subsection; and
+                (i) make direct loans to eligible intermediaries, as provided under paragraph (3), for the purpose of making short-term, fixed interest rate microloans to startup, newly established, and growing small business concerns under paragraph (6);
 
-            (iii) subject to the requirements of paragraph (5), make grants to nonprofit entities for the purpose of providing marketing, management, and technical assistance to low-income individuals seeking to start or enlarge their own businesses, if such assistance includes working with the grant recipient to secure loans in amounts not to exceed $50,000 from private sector lending institutions, with or without a loan guarantee from the nonprofit entity.
+                (ii) in conjunction with such loans and subject to the requirements of paragraph (4), make grants to such intermediaries for the purpose of providing intensive marketing, management, and technical assistance to small business concerns that are borrowers under this subsection; and
+
+                (iii) subject to the requirements of paragraph (5), make grants to nonprofit entities for the purpose of providing marketing, management, and technical assistance to low-income individuals seeking to start or enlarge their own businesses, if such assistance includes working with the grant recipient to secure loans in amounts not to exceed $50,000 from private sector lending institutions, with or without a loan guarantee from the nonprofit entity.
 
         (2) __Eligibility for participation__ 
 
@@ -1771,9 +1773,11 @@
 
                 Notwithstanding subsection (a)(3) of this section, no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
 
-            (D) __(i) In general__ 
+            (D)
 
-            The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
+                (i) __In general__ 
+
+                    The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
 
                 (ii) __Level of loan loss reserve fund__ 
 
@@ -2131,7 +2135,7 @@
 
  __Amendment of Subsection (a)__ 
 
-[Pub. L. 111–240, title I, § 1133(b)][/us/pl/111/240/s1133/b], Sept. 27, 2010, [124 Stat. 2515][/us/stat/124/2515], provided that, effective Sept. 30, 2013, subsection (a) of this section is amended by striking paragraph (34) and redesignating paragraph (35), as added by [section 1206 of Pub. L. 111–240][/us/pl/111/240/s1206], as paragraph (34). See 2010 Amendment notes below.
+    [Pub. L. 111–240, title I, § 1133(b)][/us/pl/111/240/s1133/b], Sept. 27, 2010, [124 Stat. 2515][/us/stat/124/2515], provided that, effective Sept. 30, 2013, subsection (a) of this section is amended by striking paragraph (34) and redesignating paragraph (35), as added by [section 1206 of Pub. L. 111–240][/us/pl/111/240/s1206], as paragraph (34). See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -3239,7 +3243,11 @@
 
 >             Each report submitted under subparagraph (A) shall include—
 
->                 “(i) for the 6-month period ending on the date of that report—         “(I) the number of loans approved under section 7(b)(3) of the Small Business Act ([15 U.S.C. 636(b)(3)][/us/usc/t15/s636/b/3]);
+>                 “(i)
+
+>                  for the 6-month period ending on the date of that report—
+
+>                          “(I) the number of loans approved under section 7(b)(3) of the Small Business Act ([15 U.S.C. 636(b)(3)][/us/usc/t15/s636/b/3]);
 
 >                          “(II) the number of loans disbursed under that section; and
 

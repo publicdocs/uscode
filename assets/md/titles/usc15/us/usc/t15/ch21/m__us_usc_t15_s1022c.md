@@ -15,7 +15,7 @@
 
 ## § 1022c. Inclusion of priority policies and programs in President’s Budget
 
-To contribute to the achievement of the goals under the Full Employment and Balanced Growth Act of 1978 \[[15 U.S.C. 3101][/us/usc/t15/s3101] et seq.\], the President’s Budget for each fiscal year beginning after October 27, 1978, shall include priority policies and programs, which shall include, to the extent deemed appropriate by the President, consideration of the following—
+    To contribute to the achievement of the goals under the Full Employment and Balanced Growth Act of 1978 \[[15 U.S.C. 3101][/us/usc/t15/s3101] et seq.\], the President’s Budget for each fiscal year beginning after October 27, 1978, shall include priority policies and programs, which shall include, to the extent deemed appropriate by the President, consideration of the following—
 
     (A) development of energy sources and supplies, transportation, and environmental improvement;
 

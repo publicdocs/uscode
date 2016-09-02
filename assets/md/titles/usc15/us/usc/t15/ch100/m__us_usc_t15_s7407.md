@@ -15,7 +15,7 @@
 
 ## § 7407. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology—
+    There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology—
 
     (1)
 

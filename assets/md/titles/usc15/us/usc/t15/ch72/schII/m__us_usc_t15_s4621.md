@@ -15,7 +15,7 @@
 
 ## § 4621. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) Semiconductors and related microelectronic devices are key components in computers, telecommunications equipment, advanced defense systems, and other equipment.
 

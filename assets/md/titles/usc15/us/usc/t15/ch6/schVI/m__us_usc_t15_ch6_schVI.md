@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_s223, 224.md) | [Next](./../../../../..//us/usc/t15/ch6/schVI/m__us_usc_t15_s231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschVI)
+[Previous](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_ch6_schV.md) | [Next](./../../../../..//us/usc/t15/ch6/schVI/m__us_usc_t15_s231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschVI)
 
 ### SUBCHAPTER VI—STANDARD BARRELS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_s223, 224.md) | [Next](./../../../../..//us/usc/t15/ch6/schVI/m__us_usc_t15_s231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschVI)
+[Previous](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_ch6_schV.md) | [Next](./../../../../..//us/usc/t15/ch6/schVI/m__us_usc_t15_s231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschVI)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 80a–61. Loans
 
-Notwithstanding the exemption set forth in [section 80a–6(f) of this title][/us/usc/t15/s80a–6/f], [section 80a–21 of this title][/us/usc/t15/s80a–21] shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that nothing in that section shall be deemed to prohibit—
+    Notwithstanding the exemption set forth in [section 80a–6(f) of this title][/us/usc/t15/s80a–6/f], [section 80a–21 of this title][/us/usc/t15/s80a–21] shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that nothing in that section shall be deemed to prohibit—
 
     (1) any loan to a director, officer, or employee of, or general partner in, a business development company for the purpose of purchasing securities of such company as part of an executive compensation plan, if such loan meets the requirements of [section 80a–56(j) of this title][/us/usc/t15/s80a–56/j]; or
 

@@ -15,7 +15,7 @@
 
 ## § 7201. Definitions
 
-Except as otherwise specifically provided in this Act, in this Act, the following definitions shall apply:
+    Except as otherwise specifically provided in this Act, in this Act, the following definitions shall apply:
 
     (1) __Appropriate State regulatory authority__ 
 

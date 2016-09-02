@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6301" data-uslm-ref="/us/usc/t15/s6301">6301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6302" data-uslm-ref="/us/usc/t15/s6302">6302.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6303" data-uslm-ref="/us/usc/t15/s6303">6303.</a>  </td>
 
     <td> Boxing matches in States without boxing commissions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6304" data-uslm-ref="/us/usc/t15/s6304">6304.</a>  </td>
 
     <td> Safety standards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6305" data-uslm-ref="/us/usc/t15/s6305">6305.</a>  </td>
 
     <td> Registration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6306" data-uslm-ref="/us/usc/t15/s6306">6306.</a>  </td>
 
     <td> Review.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307" data-uslm-ref="/us/usc/t15/s6307">6307.</a>  </td>
 
     <td> Reporting.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6307a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307a" data-uslm-ref="/us/usc/t15/s6307a">6307a.</a>  </td>
 
     <td> Contract requirements.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6307b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307b" data-uslm-ref="/us/usc/t15/s6307b">6307b.</a>  </td>
 
     <td> Protection from coercive contracts.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6307c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307c" data-uslm-ref="/us/usc/t15/s6307c">6307c.</a>  </td>
 
     <td> Sanctioning organizations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6307d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307d" data-uslm-ref="/us/usc/t15/s6307d">6307d.</a>  </td>
 
     <td> Required disclosures to State boxing commissions by sanctioning organizations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6307e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307e" data-uslm-ref="/us/usc/t15/s6307e">6307e.</a>  </td>
 
     <td> Required disclosures for promoters.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6307f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307f" data-uslm-ref="/us/usc/t15/s6307f">6307f.</a>  </td>
 
     <td> Required disclosures for judges and referees.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6307g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307g" data-uslm-ref="/us/usc/t15/s6307g">6307g.</a>  </td>
 
     <td> Confidentiality.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6307h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6307h" data-uslm-ref="/us/usc/t15/s6307h">6307h.</a>  </td>
 
     <td> Judges and referees.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6308" data-uslm-ref="/us/usc/t15/s6308">6308.</a>  </td>
 
     <td> Conflicts of interest.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6309" data-uslm-ref="/us/usc/t15/s6309">6309.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6310" data-uslm-ref="/us/usc/t15/s6310">6310.</a>  </td>
 
     <td> Notification of supervising boxing commission.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6311" data-uslm-ref="/us/usc/t15/s6311">6311.</a>  </td>
 
     <td> Studies.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6312" data-uslm-ref="/us/usc/t15/s6312">6312.</a>  </td>
 
     <td> Professional boxing matches conducted on Indian reservations.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6313" data-uslm-ref="/us/usc/t15/s6313">6313.</a>  </td>
 
     <td> Relationship with State law.  </td>
 

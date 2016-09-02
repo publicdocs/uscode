@@ -103,7 +103,11 @@
 
 >              the efficacy of increasing the number of points of identifying information that a credit reporting agency is required to match to ensure that a consumer is the correct individual to whom a consumer report relates before releasing a consumer report to a user, including—
 
->                 “(i) the extent to which requiring additional points of such identifying information to match would—         “(I) enhance the accuracy of credit reports; and
+>                 “(i)
+
+>                  the extent to which requiring additional points of such identifying information to match would—
+
+>                          “(I) enhance the accuracy of credit reports; and
 
 >                          “(II) combat the provision of incorrect consumer reports to users;
 

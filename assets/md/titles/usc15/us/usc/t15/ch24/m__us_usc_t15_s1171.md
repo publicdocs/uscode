@@ -15,7 +15,7 @@
 
 ## § 1171. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a)
 

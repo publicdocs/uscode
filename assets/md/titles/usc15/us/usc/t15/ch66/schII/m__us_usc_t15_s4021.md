@@ -15,7 +15,7 @@
 
 ## § 4021. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “export trade” means trade or commerce in goods, wares, merchandise, or services exported, or in the course of being exported, from the United States or any territory thereof to any foreign nation,
 

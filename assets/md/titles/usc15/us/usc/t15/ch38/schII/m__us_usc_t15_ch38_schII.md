@@ -11,16 +11,50 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch38/schI/ptB/m__us_usc_t15_s1411 to 1420.md) | [Next](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_s1421 to 1426.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch38/schI/ptB/m__us_usc_t15_ch38_schI_ptB.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_ch38_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschII)
 
 ### SUBCHAPTER II—TIRE SAFETY
 
+§§ 1421 to 1426. __Repealed.__  __[__  __Pub. L. 103–272, § 7(b)__  __][/us/pl/103/272/s7/b]__  __,__  __July 5, 1994__  __,__  __[__  __108 Stat. 1379__  __][/us/stat/108/1379]__ 
+
+    Section 1421, [Pub. L. 89–563, title II, § 201][/us/pl/89/563/s201], Sept. 9, 1966, [80 Stat. 728][/us/stat/80/728], related to labeling for pneumatic tires and required contents of label.
+
+    Section 1422, [Pub. L. 89–563, title II, § 202][/us/pl/89/563/s202], Sept. 9, 1966, [80 Stat. 729][/us/stat/80/729], related to maximum permissible load standards for original equipment tires. See [section 30123 of Title 49][/us/usc/t49/s30123], Transportation.
+
+    Section 1423, [Pub. L. 89–563, title II, § 203][/us/pl/89/563/s203], Sept. 9, 1966, [80 Stat. 729][/us/stat/80/729], related to uniform quality grading system for motor vehicle tires and elimination of deceptive and confusing tire nomenclature. See [section 30123 of Title 49][/us/usc/t49/s30123].
+
+    Section 1424, [Pub. L. 89–563, title II, § 204][/us/pl/89/563/s204], Sept. 9, 1966, [80 Stat. 729][/us/stat/80/729]; [Pub. L. 93–492, title I, § 110(c)][/us/pl/93/492/s110/c], Oct. 27, 1974, [88 Stat. 1484][/us/stat/88/1484], related to regrooved tires. See sections 30123, 30163, and 30165 of Title 49.
+
+    Section 1425, [Pub. L. 89–563, title II, § 205][/us/pl/89/563/s205], Sept. 9, 1966, [80 Stat. 729][/us/stat/80/729], provided that, in event of conflict, orders and regulations issued by Secretary under this subchapter and subchapter I of this chapter applicable to motor vehicle tires were to prevail over orders and interpretations issued by Federal Trade Commission. See [section 30123 of Title 49][/us/usc/t49/s30123].
+
+    Section 1426, [Pub. L. 89–563, title II, § 206][/us/pl/89/563/s206], as added [Pub. L. 91–265, § 6][/us/pl/91/265/s6], May 22, 1970, [84 Stat. 263][/us/stat/84/263], related to safety standards for retreaded tires.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch38/schI/ptB/m__us_usc_t15_s1411 to 1420.md) | [Next](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_s1421 to 1426.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch38/schI/ptB/m__us_usc_t15_ch38_schI_ptB.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_ch38_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschII)
 
 ----------
 ----------
 
+[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
+[/us/pl/89/563/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs201
+[/us/stat/80/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F728
+[/us/pl/89/563/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs202
+[/us/stat/80/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F729
+[/us/usc/t49/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123
+[/us/pl/89/563/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs203
+[/us/stat/80/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F729
+[/us/usc/t49/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123
+[/us/pl/89/563/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs204
+[/us/stat/80/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F729
+[/us/pl/93/492/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F492%2Fs110%2Fc
+[/us/stat/88/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1484
+[/us/pl/89/563/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs205
+[/us/stat/80/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F729
+[/us/usc/t49/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123
+[/us/pl/89/563/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs206
+[/us/pl/91/265/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F265%2Fs6
+[/us/stat/84/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F263
 
 

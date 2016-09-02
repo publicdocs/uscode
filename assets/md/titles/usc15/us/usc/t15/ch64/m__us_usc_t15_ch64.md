@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3801" data-uslm-ref="/us/usc/t15/s3801">3801.</a>  </td>
 
     <td> Congressional statement of findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3802" data-uslm-ref="/us/usc/t15/s3802">3802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3803" data-uslm-ref="/us/usc/t15/s3803">3803.</a>  </td>
 
     <td> Duties of Secretary of Energy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3804" data-uslm-ref="/us/usc/t15/s3804">3804.</a>  </td>
 
     <td> Coordination with other Federal departments and agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3805" data-uslm-ref="/us/usc/t15/s3805">3805.</a>  </td>
 
     <td> Research and development activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3806" data-uslm-ref="/us/usc/t15/s3806">3806.</a>  </td>
 
     <td> Demonstrations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3807" data-uslm-ref="/us/usc/t15/s3807">3807.</a>  </td>
 
     <td> Use of methane-fueled vehicles by Federal agencies and departments.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3808" data-uslm-ref="/us/usc/t15/s3808">3808.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3809" data-uslm-ref="/us/usc/t15/s3809">3809.</a>  </td>
 
     <td> Authorization of appropriations; required funding.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3810" data-uslm-ref="/us/usc/t15/s3810">3810.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 

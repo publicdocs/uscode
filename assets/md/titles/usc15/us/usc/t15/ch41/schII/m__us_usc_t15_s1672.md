@@ -15,7 +15,7 @@
 
 ## § 1672. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (a) The term “earnings” means compensation paid or payable for personal services, whether denominated as wages, salary, commission, bonus, or otherwise, and includes periodic payments pursuant to a pension or retirement program.
 

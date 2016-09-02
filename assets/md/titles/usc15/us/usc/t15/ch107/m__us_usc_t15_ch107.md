@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8101" data-uslm-ref="/us/usc/t15/s8101">8101.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8111" data-uslm-ref="/us/usc/t15/s8111">8111.</a>  </td>
 
     <td> Intellectual Property Enforcement Coordinator.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8112" data-uslm-ref="/us/usc/t15/s8112">8112.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8113" data-uslm-ref="/us/usc/t15/s8113">8113.</a>  </td>
 
     <td> Joint Strategic Plan.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8114" data-uslm-ref="/us/usc/t15/s8114">8114.</a>  </td>
 
     <td> Reporting.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8115" data-uslm-ref="/us/usc/t15/s8115">8115.</a>  </td>
 
     <td> Savings and repeals.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COU
 
   <tr>
 
-    <td> 8116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8116" data-uslm-ref="/us/usc/t15/s8116">8116.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CYBERSQUATTING PROTECTION  </td>
 
   <tr>
 
-    <td> 8131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8131" data-uslm-ref="/us/usc/t15/s8131">8131.</a>  </td>
 
     <td> Cyberpiracy protections for individuals.  </td>
 

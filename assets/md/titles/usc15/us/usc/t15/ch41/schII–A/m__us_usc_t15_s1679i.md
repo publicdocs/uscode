@@ -15,7 +15,7 @@
 
 ## § 1679i. Statute of limitations
 
-Any action to enforce any liability under this subchapter may be brought before the later of—
+    Any action to enforce any liability under this subchapter may be brought before the later of—
 
     (1) the end of the 5-year period beginning on the date of the occurrence of the violation involved; or
 

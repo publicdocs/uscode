@@ -15,7 +15,7 @@
 
 ## § 4809. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Council” means the Competitiveness Policy Council established under [section 4802 of this title][/us/usc/t15/s4802];
 

@@ -15,7 +15,7 @@
 
 ## § 1679a. Definitions
 
-For purposes of this subchapter, the following definitions apply:
+    For purposes of this subchapter, the following definitions apply:
 
     (1) __Consumer__ 
 

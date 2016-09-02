@@ -15,7 +15,7 @@
 
 ## § 1178. Nonapplicability of chapter to certain machines and devices
 
-None of the provisions of this chapter shall be construed to apply—
+    None of the provisions of this chapter shall be construed to apply—
 
     (1) to any machine or mechanical device designed and manufactured primarily for use at a racetrack in connection with parimutuel betting,
 

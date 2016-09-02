@@ -15,7 +15,7 @@
 
 ## § 717a. Definitions
 
-When used in this chapter, unless the context otherwise requires—
+    When used in this chapter, unless the context otherwise requires—
 
     (1) “Person” includes an individual or a corporation.
 

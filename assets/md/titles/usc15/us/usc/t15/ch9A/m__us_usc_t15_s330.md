@@ -15,7 +15,7 @@
 
 ## § 330. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “Secretary” means the Secretary of Commerce.
 
@@ -35,7 +35,7 @@ As used in this chapter—
 
 [Pub. L. 94–490][/us/pl/94/490], §§ 1–6(a), Oct. 13, 1976, [90 Stat. 2359–2361][/us/stat/90/2359-2361], provided:
 
->     “\[Section 1\]. That this Act may be cited as the National Weather Modification Policy Act of 1976.
+> “\[Section 1\]. That this Act may be cited as the National Weather Modification Policy Act of 1976.
 
 > “Sec. 2. __Declaration of Policy.__ 
 

@@ -15,7 +15,7 @@
 
 ## § 5714. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “pay-per-call services” has the meaning provided in [section 228(i) of title 47][/us/usc/t47/s228/i], except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of [section 228(i)(1) of title 47][/us/usc/t47/s228/i/1], extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to [section 5711(a) of this title][/us/usc/t15/s5711/a].
 

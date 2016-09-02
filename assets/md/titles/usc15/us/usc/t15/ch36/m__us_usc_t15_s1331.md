@@ -15,7 +15,7 @@
 
 ## § 1331. Congressional declaration of policy and purpose
 
-It is the policy of the Congress, and the purpose of this chapter, to establish a comprehensive Federal Program to deal with cigarette labeling and advertising with respect to any relationship between smoking and health, whereby—
+    It is the policy of the Congress, and the purpose of this chapter, to establish a comprehensive Federal Program to deal with cigarette labeling and advertising with respect to any relationship between smoking and health, whereby—
 
     (1) the public may be adequately informed about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement of cigarettes; and
 

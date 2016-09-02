@@ -15,7 +15,7 @@
 
 ## § 6210. Report to Congress
 
-In the 30-day period beginning 3 years after November 2, 1994, and with the concurrence of the Commission, the Attorney General shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report—
+    In the 30-day period beginning 3 years after November 2, 1994, and with the concurrence of the Commission, the Attorney General shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report—
 
     (1) describing how the operation of this chapter has affected the enforcement of the Federal antitrust laws,
 

@@ -15,7 +15,7 @@
 
 ## § 77ccc. Definitions
 
-When used in this subchapter, unless the context otherwise requires—
+    When used in this subchapter, unless the context otherwise requires—
 
     (1) Any term defined in section 2 of the Securities Act of 1933 \[[15 U.S.C. 77b][/us/usc/t15/s77b]\], and not otherwise defined in this section shall have the meaning assigned to such term in such section 2 \[[15 U.S.C. 77b][/us/usc/t15/s77b]\].
 

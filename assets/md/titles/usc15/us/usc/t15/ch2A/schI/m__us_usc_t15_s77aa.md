@@ -81,7 +81,7 @@ schedule a
 
     (32) a copy of the underlying agreements or indentures affecting any stock, bonds, or debentures offered or to be offered.    In case of certificates of deposit, voting trust certificates, collateral trust certificates, certificates of interest or shares in unincorporated investment trusts, equipment trust certificates, interim or other receipts for certificates, and like securities, the Commission shall establish rules and regulations requiring the submission of information of a like character applicable to such cases, together with such other information as it may deem appropriate and necessary regarding the character, financial or otherwise, of the actual issuer of the securities and/or the person performing the acts and assuming the duties of depositor or manager.
 
-        schedule b
+schedule b
 
     (1) Name of borrowing government or subdivision thereof;
 

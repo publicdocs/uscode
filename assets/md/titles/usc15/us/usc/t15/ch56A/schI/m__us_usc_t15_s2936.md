@@ -15,7 +15,7 @@
 
 ## § 2936. Scientific assessment
 
-On a periodic basis (not less frequently than every 4 years), the Council, through the Committee, shall prepare and submit to the President and the Congress an assessment which—
+    On a periodic basis (not less frequently than every 4 years), the Council, through the Committee, shall prepare and submit to the President and the Congress an assessment which—
 
     (1) integrates, evaluates, and interprets the findings of the Program and discusses the scientific uncertainties associated with such findings;
 

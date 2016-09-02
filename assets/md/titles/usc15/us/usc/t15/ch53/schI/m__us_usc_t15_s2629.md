@@ -15,7 +15,7 @@
 
 ## § 2629. Annual report
 
-The Administrator shall prepare and submit to the President and the Congress on or before January 1, 1978, and on or before January 1 of each succeeding year a comprehensive report on the administration of this chapter during the preceding fiscal year. Such reports shall include—
+    The Administrator shall prepare and submit to the President and the Congress on or before January 1, 1978, and on or before January 1 of each succeeding year a comprehensive report on the administration of this chapter during the preceding fiscal year. Such reports shall include—
 
     (1) a list of the testing required under [section 2603 of this title][/us/usc/t15/s2603] during the year for which the report is made and an estimate of the costs incurred during such year by the persons required to perform such tests;
 

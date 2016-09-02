@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs521" data-uslm-ref="/us/usc/t15/s521">521.</a>  </td>
 
     <td> Fishing industry; associations authorized; “aquatic products” defined; marketing agencies; requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs522" data-uslm-ref="/us/usc/t15/s522">522.</a>  </td>
 
     <td> Monopolies or restraints of trade; service of complaint by Secretary of Commerce; hearing; order to cease and desist; jurisdiction of district court.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 715a. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “contraband oil” means petroleum which, or any constituent part of which, was produced, transported, or withdrawn from storage in excess of the amounts permitted to be produced, transported, or withdrawn from storage under the laws of a State or under any regulation or order prescribed thereunder by any board, commission, officer, or other duly authorized agency of such State, or any of the products of such petroleum, except petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
 

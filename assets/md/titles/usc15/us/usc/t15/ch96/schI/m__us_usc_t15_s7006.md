@@ -15,7 +15,7 @@
 
 ## § 7006. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) __Consumer__ 
 

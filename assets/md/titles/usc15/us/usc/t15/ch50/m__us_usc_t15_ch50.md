@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2301" data-uslm-ref="/us/usc/t15/s2301">2301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2302" data-uslm-ref="/us/usc/t15/s2302">2302.</a>  </td>
 
     <td> Rules governing contents of warranties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2303" data-uslm-ref="/us/usc/t15/s2303">2303.</a>  </td>
 
     <td> Designation of written warranties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2304" data-uslm-ref="/us/usc/t15/s2304">2304.</a>  </td>
 
     <td> Federal minimum standards for warranties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2305" data-uslm-ref="/us/usc/t15/s2305">2305.</a>  </td>
 
     <td> Full and limited warranting of a consumer product.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2306" data-uslm-ref="/us/usc/t15/s2306">2306.</a>  </td>
 
     <td> Service contracts; rules for full, clear and conspicuous disclosure of terms and conditions; addition to or in lieu of written warranty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2307" data-uslm-ref="/us/usc/t15/s2307">2307.</a>  </td>
 
     <td> Designation of representatives by warrantor to perform duties under written or implied warranty.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2308" data-uslm-ref="/us/usc/t15/s2308">2308.</a>  </td>
 
     <td> Implied warranties.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2309" data-uslm-ref="/us/usc/t15/s2309">2309.</a>  </td>
 
     <td> Procedures applicable to promulgation of rules by Commission.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2310" data-uslm-ref="/us/usc/t15/s2310">2310.</a>  </td>
 
     <td> Remedies in consumer disputes.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2311" data-uslm-ref="/us/usc/t15/s2311">2311.</a>  </td>
 
     <td> Applicability to other laws.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2312" data-uslm-ref="/us/usc/t15/s2312">2312.</a>  </td>
 
     <td> Effective dates.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 6555. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Commission__ 
 

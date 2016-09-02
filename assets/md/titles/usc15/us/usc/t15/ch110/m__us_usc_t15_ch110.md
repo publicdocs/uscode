@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8401" data-uslm-ref="/us/usc/t15/s8401">8401.</a>  </td>
 
     <td> Findings; declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8402" data-uslm-ref="/us/usc/t15/s8402">8402.</a>  </td>
 
     <td> Prohibitions against certain unfair and deceptive Internet sales practices.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8403" data-uslm-ref="/us/usc/t15/s8403">8403.</a>  </td>
 
     <td> Negative option marketing on the Internet.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8404" data-uslm-ref="/us/usc/t15/s8404">8404.</a>  </td>
 
     <td> Enforcement by Federal Trade Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8405" data-uslm-ref="/us/usc/t15/s8405">8405.</a>  </td>
 
     <td> Enforcement by State attorneys general.  </td>
 

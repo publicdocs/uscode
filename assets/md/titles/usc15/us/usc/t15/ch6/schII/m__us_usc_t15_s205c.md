@@ -15,7 +15,7 @@
 
 ## § 205c. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Board” means the United States Metric Board, established under [section 205d of this title][/us/usc/t15/s205d];
 

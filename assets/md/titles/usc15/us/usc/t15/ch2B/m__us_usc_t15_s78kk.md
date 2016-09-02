@@ -15,7 +15,7 @@
 
 ## § 78kk. Authorization of appropriations
 
-In addition to any other funds authorized to be appropriated to the Commission, there are authorized to be appropriated to carry out the functions, powers, and duties of the Commission—
+    In addition to any other funds authorized to be appropriated to the Commission, there are authorized to be appropriated to carry out the functions, powers, and duties of the Commission—
 
     (1) for fiscal year 2011, $1,300,000,000;
 

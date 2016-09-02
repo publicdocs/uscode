@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6151" data-uslm-ref="/us/usc/t15/s6151">6151.</a>  </td>
 
     <td> National do-not-call registry.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6152" data-uslm-ref="/us/usc/t15/s6152">6152.</a>  </td>
 
     <td> Telemarketing Sales Rule; do-not-call registry fees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6153" data-uslm-ref="/us/usc/t15/s6153">6153.</a>  </td>
 
     <td> Federal Communications Commission do-not-call regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6154" data-uslm-ref="/us/usc/t15/s6154">6154.</a>  </td>
 
     <td> Reporting requirements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6155" data-uslm-ref="/us/usc/t15/s6155">6155.</a>  </td>
 
     <td> Prohibition of expiration date.  </td>
 

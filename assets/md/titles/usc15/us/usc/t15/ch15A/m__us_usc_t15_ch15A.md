@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715" data-uslm-ref="/us/usc/t15/s715">715.</a>  </td>
 
     <td> Purpose of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 715a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715a" data-uslm-ref="/us/usc/t15/s715a">715a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 715b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715b" data-uslm-ref="/us/usc/t15/s715b">715b.</a>  </td>
 
     <td> Interstate transportation of contraband oil forbidden.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 715c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715c" data-uslm-ref="/us/usc/t15/s715c">715c.</a>  </td>
 
     <td> Suspension of operation of <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715b" data-uslm-ref="/us/usc/t15/s715b">section 715b of this title</a>.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 715d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715d" data-uslm-ref="/us/usc/t15/s715d">715d.</a>  </td>
 
     <td> Enforcement of chapter.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 715e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715e" data-uslm-ref="/us/usc/t15/s715e">715e.</a>  </td>
 
     <td> Penalties for violation of chapter.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 715f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715f" data-uslm-ref="/us/usc/t15/s715f">715f.</a>  </td>
 
     <td> Forfeiture of contraband oil shipped in violation of law; procedure.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 715g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715g" data-uslm-ref="/us/usc/t15/s715g">715g.</a>  </td>
 
     <td> Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 715h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715h" data-uslm-ref="/us/usc/t15/s715h">715h.</a>  </td>
 
     <td> Hearings and investigation by boards; appointment of board and employees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 715i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715i" data-uslm-ref="/us/usc/t15/s715i">715i.</a>  </td>
 
     <td> Restraining violations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 715j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715j" data-uslm-ref="/us/usc/t15/s715j">715j.</a>  </td>
 
     <td> “President” as including agencies, officers and employees.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 715k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715k" data-uslm-ref="/us/usc/t15/s715k">715k.</a>  </td>
 
     <td> Saving clause.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 715l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715" data-uslm-ref="/us/usc/t15/s715">715</a>l.  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 715m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs715m" data-uslm-ref="/us/usc/t15/s715m">715m.</a>  </td>
 
     <td> Cooperation between Secretary of the Interior and Federal and State authorities.  </td>
 

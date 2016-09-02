@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1211" data-uslm-ref="/us/usc/t15/s1211">1211.</a>  </td>
 
     <td> Prohibition against transportation of refrigerators without safety devices.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1212" data-uslm-ref="/us/usc/t15/s1212">1212.</a>  </td>
 
     <td> Violations; misdemeanor; penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1213" data-uslm-ref="/us/usc/t15/s1213">1213.</a>  </td>
 
     <td> Publication of safety standards in Federal Register.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1214" data-uslm-ref="/us/usc/t15/s1214">1214.</a>  </td>
 
     <td> “Interstate commerce” defined.  </td>
 

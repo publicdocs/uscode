@@ -15,7 +15,7 @@
 
 ## § 1231. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) The term “manufacturer” shall mean any person engaged in the manufacturing or assembling of new automobiles, including any person importing new automobiles for resale and any person who acts for and is under the control of such manufacturer, assembler, or importer in connection with the distribution of new automobiles.
 

@@ -15,7 +15,7 @@
 
 ## § 3603. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) “affiliate of a developer” means any person who controls, is controlled by, or is under common control with a developer. A person “controls” a developer if the person (A) is a general partner, officer, director, or employer of the developer, (B) directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more then 20 per centum of the voting interests of the developer, (C) controls in any manner the election of a majority of the directors of the developer, or (D) has contributed more than 20 per centum of the capital of the developer. A person “is controlled by” a developer if the developer (i) is a general partner, officer, director or employer of the person, (ii) directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more than 20 per centum of the voting interests of the person, (iii) controls in any manner the election of a majority of the directors, or (iv) has contributed more than 20 per centum of the capital of the person;
 

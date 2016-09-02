@@ -145,7 +145,7 @@
 
 >     “(2) upon the entry into force of the Trademark Law Treaty with respect to the United States \[Aug. 12, 2000\],
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
 [Pub. L. 105–330, title II, § 201(b)][/us/pl/105/330/s201/b], Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070], provided that: 
 

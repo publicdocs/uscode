@@ -15,7 +15,7 @@
 
 ## § 637c. Definitions
 
-For purposes of this Act—
+    For purposes of this Act—
 
     (1) the term “Administrator” means the Administrator of the Small Business Administration;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1451" data-uslm-ref="/us/usc/t15/s1451">1451.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1452" data-uslm-ref="/us/usc/t15/s1452">1452.</a>  </td>
 
     <td> Unfair and deceptive packaging and labeling; scope of prohibition.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1453" data-uslm-ref="/us/usc/t15/s1453">1453.</a>  </td>
 
     <td> Requirements of labeling; placement, form, and contents of statement of quantity; supplemental statement of quantity.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1454" data-uslm-ref="/us/usc/t15/s1454">1454.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1455" data-uslm-ref="/us/usc/t15/s1455">1455.</a>  </td>
 
     <td> Procedure for promulgation of regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1456" data-uslm-ref="/us/usc/t15/s1456">1456.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1457" data-uslm-ref="/us/usc/t15/s1457">1457.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1458" data-uslm-ref="/us/usc/t15/s1458">1458.</a>  </td>
 
     <td> Cooperation with State authorities; transmittal of regulations to States; noninterference with existing programs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1459" data-uslm-ref="/us/usc/t15/s1459">1459.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1460" data-uslm-ref="/us/usc/t15/s1460">1460.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1461" data-uslm-ref="/us/usc/t15/s1461">1461.</a>  </td>
 
     <td> Effect upon State law.  </td>
 

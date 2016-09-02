@@ -15,7 +15,7 @@
 
 ## § 7220. Definitions
 
-For the purposes of this subchapter, the following definitions shall apply:
+    For the purposes of this subchapter, the following definitions shall apply:
 
     (1) __Audit__ 
 

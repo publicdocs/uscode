@@ -15,7 +15,7 @@
 
 ## § 2921. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Committee” means the Committee on Earth and Environmental Sciences established under [section 2932 of this title][/us/usc/t15/s2932];
 

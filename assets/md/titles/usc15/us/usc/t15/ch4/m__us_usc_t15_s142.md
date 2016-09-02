@@ -15,7 +15,7 @@
 
 ## § 142. Definitions
 
-When used in this chapter, unless the context otherwise indicates—
+    When used in this chapter, unless the context otherwise indicates—
 
     (a) The term “person” includes individual, partnership, corporation, and association;
 

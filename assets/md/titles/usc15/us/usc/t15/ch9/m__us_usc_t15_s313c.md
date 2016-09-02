@@ -15,7 +15,7 @@
 
 ## § 313c. Authorized activities of the National Oceanic and Atmospheric Administration
 
-The National Oceanic and Atmospheric Administration, through the United States Weather Research Program, shall—
+    The National Oceanic and Atmospheric Administration, through the United States Weather Research Program, shall—
 
     (1) improve the capability to accurately forecast inland flooding (including inland flooding influenced by coastal and ocean storms) through research and modeling;
 

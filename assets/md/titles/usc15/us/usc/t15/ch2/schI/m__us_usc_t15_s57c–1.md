@@ -35,7 +35,7 @@
 
  __Repeal of Section__ 
 
-For repeal of section by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Effective Date of Repeal note below.
+    For repeal of section by [section 13 of Pub. L. 109–455][/us/pl/109/455/s13], see Effective Date of Repeal note below.
 
  __Effective Date of Repeal__ 
 

@@ -15,7 +15,7 @@
 
 ## § 6204. Limitations on authority
 
-Sections 6201, 6202, and 6203 of this title shall not apply with respect to the following antitrust evidence:
+    Sections 6201, 6202, and 6203 of this title shall not apply with respect to the following antitrust evidence:
 
     (1) Antitrust evidence that is received by the Attorney General or the Commission under [section 18a of this title][/us/usc/t15/s18a]. Nothing in this paragraph shall affect the ability of the Attorney General or the Commission to disclose to a foreign antitrust authority antitrust evidence that is obtained otherwise than under [section 18a of this title][/us/usc/t15/s18a].
 

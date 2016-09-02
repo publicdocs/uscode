@@ -15,7 +15,7 @@
 
 ## § 2653. EPA study of asbestos-containing material in public buildings
 
-Within 360 days after October 22, 1986, the Administrator shall conduct and submit to the Congress the results of a study which shall—
+    Within 360 days after October 22, 1986, the Administrator shall conduct and submit to the Congress the results of a study which shall—
 
     (1) assess the extent to which asbestos-containing materials are present in public and commercial buildings;
 

@@ -15,7 +15,7 @@
 
 ## § 205f. Duties of Board
 
-In carrying out its duties under this subchapter, the Board may—
+    In carrying out its duties under this subchapter, the Board may—
 
     (1) establish an Executive Committee, and such other committees as it deems desirable;
 

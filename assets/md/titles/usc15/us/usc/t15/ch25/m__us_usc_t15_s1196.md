@@ -15,7 +15,7 @@
 
 ## § 1196. Penalties
 
-Violation of section 1192 or 1197(b) of this title, or failure to comply with [section 1202(c) of this title][/us/usc/t15/s1202/c], is punishable by—
+    Violation of section 1192 or 1197(b) of this title, or failure to comply with [section 1202(c) of this title][/us/usc/t15/s1202/c], is punishable by—
 
     (1) imprisonment for not more than 5 years for a knowing and willful violation of that section;
 

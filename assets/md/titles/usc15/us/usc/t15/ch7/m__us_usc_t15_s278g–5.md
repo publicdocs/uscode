@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278g–4.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%935)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278g–4.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%935)
 
 ## § 278g–5. Enterprise integration initiative
 
@@ -63,7 +63,7 @@
 
 [Pub. L. 107–277][/us/pl/107/277], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936], provided that:
 
->     “SECTION. 1. SHORT TITLE.
+> “SECTION. 1. __SHORT TITLE.__ 
 
 >     “This Act \[enacting this section and this note\] may be cited as the ‘Enterprise Integration Act of 2002’.
 
@@ -87,35 +87,9 @@
 
 >     \[Enacted this section.\]
 
-> “SEC. 4. __DEFINITIONS.__ 
-
-> “For purposes of this Act—
-
->     “(1) the term ‘automotive’ means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles;
-
->     “(2) the term ‘Director’ means the Director of the National Institute of Standards and Technology;
-
->     “(3) the term ‘enterprise integration’ means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards;
-
->     “(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and
-
->     “(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry’s goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols.
-
-> “SEC. 5. __AUTHORIZATION OF APPROPRIATIONS.__ 
-
-> “There are authorized to be appropriated to the Director to carry out functions under this Act—
-
->     “(1) $2,000,000 for fiscal year 2002;
-
->     “(2) $10,000,000 for fiscal year 2003;
-
->     “(3) $15,000,000 for fiscal year 2004; and
-
->     “(4) $20,000,000 for fiscal year 2005.”
-
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278g–4.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%935)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278g–4.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%935)
 
 ----------
 ----------

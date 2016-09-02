@@ -15,7 +15,7 @@
 
 ## § 719b. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) the term “Alaska natural gas” means natural gas derived from the area of the State of Alaska generally known as the North Slope of Alaska, including the Continental Shelf thereof;
 

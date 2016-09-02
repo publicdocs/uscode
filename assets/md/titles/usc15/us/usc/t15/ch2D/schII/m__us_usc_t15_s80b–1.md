@@ -15,7 +15,7 @@
 
 ## § 80b–1. Findings
 
-Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 79z–4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and facts otherwise disclosed and ascertained, it is found that investment advisers are of national concern, in that, among other things—
+    Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 79z–4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and facts otherwise disclosed and ascertained, it is found that investment advisers are of national concern, in that, among other things—
 
     (1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and means and instrumentalities of interstate commerce;
 

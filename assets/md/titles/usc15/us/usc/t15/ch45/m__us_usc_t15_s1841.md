@@ -29,235 +29,341 @@
 
 [Pub. L. 106–51][/us/pl/106/51], Aug. 17, 1999, [113 Stat. 252][/us/stat/113/252], as amended by [Pub. L. 106–102, title VII, § 734][/us/pl/106/102/s734], Nov. 12, 1999, [113 Stat. 1478][/us/stat/113/1478]; [Pub. L. 107–63, title III, § 336(a)][/us/pl/107/63/s336/a], Nov. 5, 2001, [115 Stat. 472][/us/stat/115/472]; [Pub. L. 108–199, div. B, title II, § 211(a)][/us/pl/108/199/s211/a], Jan. 23, 2004, [118 Stat. 75][/us/stat/118/75]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–108, title II, § 205][/us/pl/109/108/s205], Nov. 22, 2005, [119 Stat. 2315][/us/stat/119/2315]; [Pub. L. 110–161, div. B, title I, § 105][/us/pl/110/161/s105], Dec. 26, 2007, [121 Stat. 1892][/us/stat/121/1892]; [Pub. L. 111–117, div. B, title I, § 108][/us/pl/111/117/s108], Dec. 16, 2009, [123 Stat. 3122][/us/stat/123/3122], provided that:
 
- __“CHAPTER 1__ 
+> “CHAPTER 1
 
-    “Sec. 101. Emergency Steel Loan Guarantee Program. (a) Short Title.—This chapter may be cited as the ‘Emergency Steel Loan Guarantee Act of 1999’.
+> “Sec. 101. __Emergency Steel Loan Guarantee Program.__ 
 
-    “(b) Congressional Findings.—Congress finds that—
+>     (a) __Short Title.—__ 
 
-    “(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
+>     This chapter may be cited as the ‘Emergency Steel Loan Guarantee Act of 1999’.
 
-    “(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
+>     “(b) __Congressional Findings.—__ 
 
-    “(3) the crisis also forced almost all United States steel companies into—
+>     Congress finds that—
 
-    “(A) reduced volume, lower prices, and financial losses; and
+>         “(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
-    “(B) an inability to obtain credit for continued operations and reinvestment in facilities;
+>         “(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
-    “(4) the crisis also has affected the willingness of private banks and investment institutions to make loans to the United States steel industry for continued operation and reinvestment in facilities;
+>         “(3)
 
-    “(5) these steel bankruptcies, job losses, and financial losses are also having serious negative effects on the tax base of cities, counties, and States, and on the essential health, education, and municipal services that these government entities provide to their citizens; and
+>          the crisis also forced almost all United States steel companies into—
 
-    “(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
+>             “(A) reduced volume, lower prices, and financial losses; and
 
-    “(c) Definitions.—For purposes of this section:
+>             “(B) an inability to obtain credit for continued operations and reinvestment in facilities;
 
-    “(1) Board.—The term ‘Board’ means the Loan Guarantee Board established under subsection (e).
+>         “(4) the crisis also has affected the willingness of private banks and investment institutions to make loans to the United States steel industry for continued operation and reinvestment in facilities;
 
-    “(2) Program.—The term ‘Program’ means the Emergency Steel Guarantee Loan Program established under subsection (d).
+>         “(5) these steel bankruptcies, job losses, and financial losses are also having serious negative effects on the tax base of cities, counties, and States, and on the essential health, education, and municipal services that these government entities provide to their citizens; and
 
-    “(3) Qualified steel company.—The term ‘qualified steel company’ means any company that—
+>         “(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
 
-    “(A) is incorporated under the laws of any State;
+>     “(c) __Definitions.—__ 
 
-    “(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
+>     For purposes of this section:
 
-    “(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
+>         “(1) __Board.—__ 
 
-    “(d) Establishment of Emergency Steel Guarantee Loan Program.—There is established the Emergency Steel Guarantee Loan Program, to be administered by the Board, the purpose of which is to provide loan guarantees to qualified steel companies in accordance with this section.
+>         The term ‘Board’ means the Loan Guarantee Board established under subsection (e).
 
-    “(e) Loan Guarantee Board Membership.—There is established a Loan Guarantee Board, which shall be composed of—
+>         “(2) __Program.—__ 
 
-    “(1) the Secretary of Commerce;
+>         The term ‘Program’ means the Emergency Steel Guarantee Loan Program established under subsection (d).
 
-    “(2) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
+>         “(3) __Qualified steel company.—__ 
 
-    “(3) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
+>         The term ‘qualified steel company’ means any company that—
 
-    “(f) Loan Guarantee Program.—
+>             “(A) is incorporated under the laws of any State;
 
-    “(1) Authority.—The Program may guarantee loans provided to qualified steel companies by private banking and investment institutions in accordance with the procedures, rules, and regulations established by the Board.
+>             “(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
 
-    “(2) Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at any one time under this section may not exceed $1,000,000,000.
+>             “(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
 
-    “(3) Individual guarantee limit.—The aggregate amount of loans guaranteed under this section with respect to a single qualified steel company may not exceed $250,000,000.
+>     “(d) __Establishment of Emergency Steel Guarantee Loan Program.—__ 
 
-    “(4) Timelines.—The Board shall approve or deny each application for a guarantee under this section as soon as possible after receipt of such application.
+>     There is established the Emergency Steel Guarantee Loan Program, to be administered by the Board, the purpose of which is to provide loan guarantees to qualified steel companies in accordance with this section.
 
-    “(5) Additional costs.—For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $140,000,000 to remain available until expended.
+>     “(e) __Loan Guarantee Board Membership.—__ 
 
-    “(g) Requirements for Loan Guarantees.—A loan guarantee may be issued under this section upon application to the Board by a qualified steel company pursuant to an agreement to provide a loan to that qualified steel company by a private bank or investment company, if the Board determines that—
+>     There is established a Loan Guarantee Board, which shall be composed of—
 
-    “(1) credit is not otherwise available to that company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of that company;
+>         “(1) the Secretary of Commerce;
 
-    “(2) the prospective earning power of that company, together with the character and value of the security pledged, furnish reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+>         “(2) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
 
-    “(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of such loan;
+>         “(3) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
 
-    “(4) the company has agreed to an audit by the Government Accountability Office prior to the issuance of the loan guarantee and annually thereafter while any such guaranteed loan is outstanding; and
+>     “(f) __Loan Guarantee Program.—__ 
 
-    “(5) in the case of a purchaser of substantial assets of a qualified steel company, the qualified steel company establishes that it is unable to reorganize itself.
+>         “(1) __Authority.—__ 
 
-    “(h) Terms and Conditions of Loan Guarantees.—
+>         The Program may guarantee loans provided to qualified steel companies by private banking and investment institutions in accordance with the procedures, rules, and regulations established by the Board.
 
-    “(1) Loan duration.—All loans guaranteed under this section shall be payable in full not later than December 31, 2015, and the terms and conditions of each such loan shall provide that the loan may not be amended, or any provision thereof waived, without the consent of the Board.
+>         “(2) __Total guarantee limit.—__ 
 
-    “(2) Loan security.—Any commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions that the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
+>         The aggregate amount of loans guaranteed and outstanding at any one time under this section may not exceed $1,000,000,000.
 
-    “(3) Fees.—A qualified steel company receiving a guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
+>         “(3) __Individual guarantee limit.—__ 
 
-    “(4) Guarantee level.—
+>         The aggregate amount of loans guaranteed under this section with respect to a single qualified steel company may not exceed $250,000,000.
 
-    “(A) In general.—Except as provided in subparagraphs (B) and (C), any loan guarantee provided under this section shall not exceed 85 percent of the amount of principal of the loan.
+>         “(4) __Timelines.—__ 
 
-    “(B) Increased level one.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
+>         The Board shall approve or deny each application for a guarantee under this section as soon as possible after receipt of such application.
 
-    “(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+>         “(5) __Additional costs.—__ 
 
-    “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
+>         For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $140,000,000 to remain available until expended.
 
-    “(C) Increased level two.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
+>     “(g) __Requirements for Loan Guarantees.—__ 
 
-    “(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+>     A loan guarantee may be issued under this section upon application to the Board by a qualified steel company pursuant to an agreement to provide a loan to that qualified steel company by a private bank or investment company, if the Board determines that—
 
-    “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
+>         “(1) credit is not otherwise available to that company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of that company;
 
-    “(i) Reports to Congress.—The Secretary of Commerce shall submit to Congress a full report of the activities of the Board under this section during each of fiscal years 1999 and 2000, and annually thereafter, during such period as any loan guaranteed under this section is outstanding.
+>         “(2) the prospective earning power of that company, together with the character and value of the security pledged, furnish reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
 
-    “(j) Salaries and Administrative Expenses.—For necessary expenses to administer the Program, $5,000,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
+>         “(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of such loan;
 
-    “(k) Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2011.
+>         “(4) the company has agreed to an audit by the Government Accountability Office prior to the issuance of the loan guarantee and annually thereafter while any such guaranteed loan is outstanding; and
 
-    “(l) Regulatory Action.—The Board shall issue such final procedures, rules, and regulations as may be necessary to carry out this section not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\].
+>         “(5) in the case of a purchaser of substantial assets of a qualified steel company, the qualified steel company establishes that it is unable to reorganize itself.
 
-    “(m) Iron Ore Companies.—
+>     “(h) __Terms and Conditions of Loan Guarantees.—__ 
 
-    “(1) In general.—Subject to the requirements of this subsection, an iron ore company incorporated under the laws of any State shall be treated as a qualified steel company for purposes of the Program.
+>         “(1) __Loan duration.—__ 
 
-    “(2) Total guarantee limit for iron ore company.—Of the aggregate amount of loans authorized to be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
+>         All loans guaranteed under this section shall be payable in full not later than December 31, 2015, and the terms and conditions of each such loan shall provide that the loan may not be amended, or any provision thereof waived, without the consent of the Board.
 
- __“federal administrative and travel expenses__ 
+>         “(2) __Loan security.—__ 
 
- __“(rescissions)__ 
+>         Any commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions that the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
 
-    “Sec. 102. (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $145,000,000 are hereby rescinded: Provided, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: Provided further, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
+>         “(3) __Fees.—__ 
 
-    “(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+>         A qualified steel company receiving a guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
 
-    “SEC. 103. SALARIES AND ADMINISTRATIVE EXPENSES.
+>         “(4) __Guarantee level.—__ 
 
-    “(a) In addition to funds made available under section 101(j) of the Emergency Steel Loan Guarantee Act of 1999 ([15 U.S.C. 1841][/us/usc/t15/s1841] note), up to $1,000,000 in funds made available under section 101(f) of such Act may be used for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program.
+>             “(A) __In general.—__ 
 
-    “(b) Funds made available for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program shall remain available until expended.
+>             Except as provided in subparagraphs (B) and (C), any loan guarantee provided under this section shall not exceed 85 percent of the amount of principal of the loan.
 
- __“CHAPTER 2__ 
+>             “(B) __Increased level one.—__ 
 
-    “Sec. 201. Petroleum Development Management. (a) Short Title.—This chapter may be cited as the ‘Emergency Oil and Gas Guaranteed Loan Program Act’.
+>             A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
 
-    “(b) Findings.—Congress finds that—
+>                 “(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
 
-    “(1) consumption of foreign oil in the United States is estimated to equal 56 percent of all oil consumed, and that percentage could reach 68 percent by 2010 if current prices prevail;
+>                 “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
-    “(2) the number of oil and gas rigs operating in the United States is at its lowest since 1944, when records of this tally began;
+>             “(C) __Increased level two.—__ 
 
-    “(3) if prices do not increase soon, the United States could lose at least half its marginal wells, which in aggregate produce as much oil as the United States imports from Saudi Arabia;
+>             A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
 
-    “(4) oil and gas prices are unlikely to increase for at least several years;
+>                 “(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
 
-    “(5) declining production, well abandonment, and greatly reduced exploration and development are shrinking the domestic oil and gas industry;
+>                 “(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
-    “(6) the world’s richest oil producing regions in the Middle East are experiencing increasingly greater political instability;
+>     “(i) __Reports to Congress.—__ 
 
-    “(7) United Nations policy may make Iraq the swing oil producing nation, thereby granting Saddam Hussein tremendous power;
+>     The Secretary of Commerce shall submit to Congress a full report of the activities of the Board under this section during each of fiscal years 1999 and 2000, and annually thereafter, during such period as any loan guaranteed under this section is outstanding.
 
-    “(8) reliance on foreign oil for more than 60 percent of our daily oil and gas consumption is a national security threat;
+>     “(j) __Salaries and Administrative Expenses.—__ 
 
-    “(9) the level of United States oil security is directly related to the level of domestic production of oil, natural gas liquids, and natural gas; and
+>     For necessary expenses to administer the Program, $5,000,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
 
-    “(10) a national security policy should be developed that ensures that adequate supplies of oil are available at all times free of the threat of embargo or other foreign hostile acts.
+>     “(k) __Termination of Guarantee Authority.—__ 
 
-    “(c) Definitions.—In this section:
+>     The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2011.
 
-    “(1) Board.—The term ‘Board’ means the Loan Guarantee Board established by subsection (e).
+>     “(l) __Regulatory Action.—__ 
 
-    “(2) Program.—The term ‘Program’ means the Emergency Oil and Gas Guaranteed Loan Program established by subsection (d).
+>     The Board shall issue such final procedures, rules, and regulations as may be necessary to carry out this section not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\].
 
-    “(3) Qualified oil and gas company.—The term ‘qualified oil and gas company’ means a company that—
+>     “(m) __Iron Ore Companies.—__ 
 
-    “(A) is—
+>         “(1) __In general.—__ 
 
-    “(i) an independent oil and gas company (within the meaning of section 57(a)(2)(B)(i) of the Internal Revenue Code of 1986 \[[26 U.S.C. 57(a)(2)(B)(i)][/us/usc/t26/s57/a/2/B/i]\]); or
+>         Subject to the requirements of this subsection, an iron ore company incorporated under the laws of any State shall be treated as a qualified steel company for purposes of the Program.
 
-    “(ii) a small business concern under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
+>         “(2) __Total guarantee limit for iron ore company.—__ 
 
-    “(B) has experienced layoffs, production losses, or financial losses since the beginning of the oil import crisis, after January 1, 1997.
+>         Of the aggregate amount of loans authorized to be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
 
-    “(d) Emergency Oil and Gas Guaranteed Loan Program.—
+>  __“federal administrative and travel expenses__ 
 
-    “(1) In general.—There is established the Emergency Oil and Gas Guaranteed Loan Program, the purpose of which shall be to provide loan guarantees to qualified oil and gas companies in accordance with this section.
+>  __“(rescissions)__ 
 
-    “(2) Loan guarantee board.—There is established to administer the Program a Loan Guarantee Board, to be composed of—
+> “Sec. 102.
 
-    “(A) the Secretary of Commerce;
+>      (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $145,000,000 are hereby rescinded: Provided, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: Provided further, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
 
-    “(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
+>     “(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
 
-    “(C) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
+> “SEC. 103. __SALARIES AND ADMINISTRATIVE EXPENSES.__ 
 
-    “(e) Authority.—
+>     “(a) In addition to funds made available under section 101(j) of the Emergency Steel Loan Guarantee Act of 1999 ([15 U.S.C. 1841][/us/usc/t15/s1841] note), up to $1,000,000 in funds made available under section 101(f) of such Act may be used for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program.
 
-    “(1) In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+>     “(b) Funds made available for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program shall remain available until expended.
 
-    “(2) Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at any one time under this section shall not exceed $500,000,000.
+> “CHAPTER 2
 
-    “(3) Individual guarantee limit.—The aggregate amount of loans guaranteed under this section with respect to a single qualified oil and gas company shall not exceed $10,000,000.
+> “Sec. 201. __Petroleum Development Management.__ 
 
-    “(4) Expeditious action on applications.—The Board shall approve or deny an application for a guarantee under this section as soon as practicable after receipt of an application.
+>     (a) __Short Title.—__ 
 
-    “(5) Additional costs.—For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $122,500,000 to remain available until expended.
+>     This chapter may be cited as the ‘Emergency Oil and Gas Guaranteed Loan Program Act’.
 
-    “(f) Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+>     “(b) __Findings.—__ 
 
-    “(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
+>     Congress finds that—
 
-    “(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+>         “(1) consumption of foreign oil in the United States is estimated to equal 56 percent of all oil consumed, and that percentage could reach 68 percent by 2010 if current prices prevail;
 
-    “(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
+>         “(2) the number of oil and gas rigs operating in the United States is at its lowest since 1944, when records of this tally began;
 
-    “(4) the company has agreed to an audit by the Government Accountability Office before issuance of the loan guarantee and annually while the guaranteed loan is outstanding.
+>         “(3) if prices do not increase soon, the United States could lose at least half its marginal wells, which in aggregate produce as much oil as the United States imports from Saudi Arabia;
 
-    “(g) Terms and Conditions of Loan Guarantees.—
+>         “(4) oil and gas prices are unlikely to increase for at least several years;
 
-    “(1) Loan duration.—All loans guaranteed under this section shall be repayable in full not later than December 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
+>         “(5) declining production, well abandonment, and greatly reduced exploration and development are shrinking the domestic oil and gas industry;
 
-    “(2) Loan security.—A commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions as the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
+>         “(6) the world’s richest oil producing regions in the Middle East are experiencing increasingly greater political instability;
 
-    “(3) Fees.—A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
+>         “(7) United Nations policy may make Iraq the swing oil producing nation, thereby granting Saddam Hussein tremendous power;
 
-    “(4) Guarantee level.—No loan guarantee may be provided under this section if the guarantee exceeds 85 percent of the amount of principal of the loan.
+>         “(8) reliance on foreign oil for more than 60 percent of our daily oil and gas consumption is a national security threat;
 
-    “(h) Reports.—During fiscal year 1999 and each fiscal year thereafter until each guaranteed loan has been repaid in full, the Secretary of Commerce shall submit to Congress a report on the activities of the Board.
+>         “(9) the level of United States oil security is directly related to the level of domestic production of oil, natural gas liquids, and natural gas; and
 
-    “(i) Salaries and Administrative Expenses.—For necessary expenses to administer the Program, $2,500,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
+>         “(10) a national security policy should be developed that ensures that adequate supplies of oil are available at all times free of the threat of embargo or other foreign hostile acts.
 
-    “(j) Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2001.
+>     “(c) __Definitions.—__ 
 
-    “(k) Regulatory Action.—Not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Board shall issue such final procedures, rules, and regulations as are necessary to carry out this section.
+>     In this section:
 
- __“federal administrative and travel expenses__ 
+>         “(1) __Board.—__ 
 
- __“(rescissions)__ 
+>         The term ‘Board’ means the Loan Guarantee Board established by subsection (e).
 
-    “Sec. 202. (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $125,000,000 are hereby rescinded: Provided, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: Provided further, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
+>         “(2) __Program.—__ 
 
-    “(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+>         The term ‘Program’ means the Emergency Oil and Gas Guaranteed Loan Program established by subsection (d).
 
- __“CHAPTER 3__  __“GENERAL PROVISIONS__ 
+>         “(3) __Qualified oil and gas company.—__ 
 
-    “Sec. 301. No part of any appropriation contained in the Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.
+>         The term ‘qualified oil and gas company’ means a company that—
 
-    “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
+>             “(A)
+
+>              is—
+
+>                 “(i) an independent oil and gas company (within the meaning of section 57(a)(2)(B)(i) of the Internal Revenue Code of 1986 \[[26 U.S.C. 57(a)(2)(B)(i)][/us/usc/t26/s57/a/2/B/i]\]); or
+
+>                 “(ii) a small business concern under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
+
+>             “(B) has experienced layoffs, production losses, or financial losses since the beginning of the oil import crisis, after January 1, 1997.
+
+>     “(d) __Emergency Oil and Gas Guaranteed Loan Program.—__ 
+
+>         “(1) __In general.—__ 
+
+>         There is established the Emergency Oil and Gas Guaranteed Loan Program, the purpose of which shall be to provide loan guarantees to qualified oil and gas companies in accordance with this section.
+
+>         “(2) __Loan guarantee board.—__ 
+
+>         There is established to administer the Program a Loan Guarantee Board, to be composed of—
+
+>             “(A) the Secretary of Commerce;
+
+>             “(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
+
+>             “(C) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
+
+>     “(e) __Authority.—__ 
+
+>         “(1) __In general.—__ 
+
+>         The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+
+>         “(2) __Total guarantee limit.—__ 
+
+>         The aggregate amount of loans guaranteed and outstanding at any one time under this section shall not exceed $500,000,000.
+
+>         “(3) __Individual guarantee limit.—__ 
+
+>         The aggregate amount of loans guaranteed under this section with respect to a single qualified oil and gas company shall not exceed $10,000,000.
+
+>         “(4) __Expeditious action on applications.—__ 
+
+>         The Board shall approve or deny an application for a guarantee under this section as soon as practicable after receipt of an application.
+
+>         “(5) __Additional costs.—__ 
+
+>         For the additional cost of the loans guaranteed under this subsection, including the costs of modifying the loans as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]), there is appropriated $122,500,000 to remain available until expended.
+
+>     “(f) __Requirements for Loan Guarantees.—__ 
+
+>     The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+
+>         “(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
+
+>         “(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+
+>         “(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
+
+>         “(4) the company has agreed to an audit by the Government Accountability Office before issuance of the loan guarantee and annually while the guaranteed loan is outstanding.
+
+>     “(g) __Terms and Conditions of Loan Guarantees.—__ 
+
+>         “(1) __Loan duration.—__ 
+
+>         All loans guaranteed under this section shall be repayable in full not later than December 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
+
+>         “(2) __Loan security.—__ 
+
+>         A commitment to issue a loan guarantee under this section shall contain such affirmative and negative covenants and other protective provisions as the Board determines are appropriate. The Board shall require security for the loans to be guaranteed under this section at the time at which the commitment is made.
+
+>         “(3) __Fees.—__ 
+
+>         A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
+
+>         “(4) __Guarantee level.—__ 
+
+>         No loan guarantee may be provided under this section if the guarantee exceeds 85 percent of the amount of principal of the loan.
+
+>     “(h) __Reports.—__ 
+
+>     During fiscal year 1999 and each fiscal year thereafter until each guaranteed loan has been repaid in full, the Secretary of Commerce shall submit to Congress a report on the activities of the Board.
+
+>     “(i) __Salaries and Administrative Expenses.—__ 
+
+>     For necessary expenses to administer the Program, $2,500,000 is appropriated to the Department of Commerce, to remain available until expended, which may be transferred to the Office of the Assistant Secretary for Trade Development of the International Trade Administration.
+
+>     “(j) __Termination of Guarantee Authority.—__ 
+
+>     The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2001.
+
+>     “(k) __Regulatory Action.—__ 
+
+>     Not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Board shall issue such final procedures, rules, and regulations as are necessary to carry out this section.
+
+>  __“federal administrative and travel expenses__ 
+
+>  __“(rescissions)__ 
+
+> “Sec. 202.
+
+>      (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $125,000,000 are hereby rescinded: Provided, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: Provided further, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
+
+>     “(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+
+> “CHAPTER 3 __“GENERAL PROVISIONS__ 
+
+> “Sec. 301. No part of any appropriation contained in the Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.    “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
 
     \[[Pub. L. 110–161, div. B, title I, § 105(c)][/us/pl/110/161/s105/c], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893], which directed amendment of [section 101(c)(3)(C) of Pub. L. 106–51][/us/pl/106/51/s101/c/3/C], set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.\]
 

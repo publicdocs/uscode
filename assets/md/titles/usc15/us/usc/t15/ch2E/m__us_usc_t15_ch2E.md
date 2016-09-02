@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 80c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs80c" data-uslm-ref="/us/usc/t15/s80c">80c.</a>  </td>
 
     <td> Liaison between Securities Exchange Commission and Small Business Administration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 80c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs80c%E2%80%931" data-uslm-ref="/us/usc/t15/s80c–1">80c–1.</a>  </td>
 
     <td> Annual government-business forum on capital formation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 80c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs80c%E2%80%932" data-uslm-ref="/us/usc/t15/s80c–2">80c–2.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 80c–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs80c%E2%80%933" data-uslm-ref="/us/usc/t15/s80c–3">80c–3.</a>  </td>
 
     <td> Reduction of costs of small securities issues.  </td>
 

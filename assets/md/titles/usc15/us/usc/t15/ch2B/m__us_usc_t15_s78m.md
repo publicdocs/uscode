@@ -777,7 +777,7 @@
 
  __Amendment of Section__ 
 
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
+    Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -945,7 +945,11 @@ Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title V
 
 >             The strategy required by subparagraph (A) shall include the following:
 
->                 “(i) A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to—         “(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and
+>                 “(i)
+
+>                  A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to—
+
+>                          “(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and
 
 >                          “(II) develop stronger governance and economic institutions that can facilitate and improve transparency in the cross-border trade involving the natural resources of the Democratic Republic of the Congo to reduce exploitation by armed groups and promote local and regional development.
 
@@ -959,7 +963,11 @@ Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title V
 
 >             Not later than 180 days after the date of the enactment of this Act \[July 21, 2010\], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—
 
->                 “(i) produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including—         “(I) the United Nations Group of Experts on the Democratic Republic of the Congo;
+>                 “(i)
+
+>                  produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including—
+
+>                          “(I) the United Nations Group of Experts on the Democratic Republic of the Congo;
 
 >                          “(II) the Government of the Democratic Republic of the Congo, the governments of adjoining countries, and the governments of other Member States of the United Nations; and
 

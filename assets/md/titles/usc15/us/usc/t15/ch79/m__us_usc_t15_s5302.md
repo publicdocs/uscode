@@ -15,7 +15,7 @@
 
 ## § 5302. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1)
 

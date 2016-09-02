@@ -15,7 +15,7 @@
 
 ## § 6903. Uses of assistance
 
-A qualified organization shall use grants made under this chapter—
+    A qualified organization shall use grants made under this chapter—
 
     (1) to provide training and technical assistance to disadvantaged entrepreneurs;
 

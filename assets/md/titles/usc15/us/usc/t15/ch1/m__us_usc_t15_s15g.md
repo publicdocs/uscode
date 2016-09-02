@@ -15,7 +15,7 @@
 
 ## § 15g. Definitions
 
-For the purposes of sections 15c, 15d, 15e, and 15f of this title:
+    For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
     (1)
 

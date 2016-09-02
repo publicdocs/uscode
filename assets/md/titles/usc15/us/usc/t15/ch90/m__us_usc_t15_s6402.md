@@ -15,7 +15,7 @@
 
 ## § 6402. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “Council” means a Propane Education and Research Council created pursuant to [section 6403 of this title][/us/usc/t15/s6403];
 

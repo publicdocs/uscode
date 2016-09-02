@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs501" data-uslm-ref="/us/usc/t15/s501">501.</a>  </td>
 
     <td> Creation of body corporate; directors; principal office; agencies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs502" data-uslm-ref="/us/usc/t15/s502">502.</a>  </td>
 
     <td> Board of directors of Textile Foundation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs503" data-uslm-ref="/us/usc/t15/s503">503.</a>  </td>
 
     <td> Purpose of Foundation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs504" data-uslm-ref="/us/usc/t15/s504">504.</a>  </td>
 
     <td> Powers of Foundation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs505" data-uslm-ref="/us/usc/t15/s505">505.</a>  </td>
 
     <td> Report to Congress.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs506" data-uslm-ref="/us/usc/t15/s506">506.</a>  </td>
 
     <td> Amendment and repeal of chapter.  </td>
 

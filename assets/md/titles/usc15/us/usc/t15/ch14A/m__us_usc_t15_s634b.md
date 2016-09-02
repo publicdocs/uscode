@@ -15,7 +15,7 @@
 
 ## § 634b. Primary functions of Office of Advocacy
 
-The primary functions of the Office of Advocacy shall be to—
+    The primary functions of the Office of Advocacy shall be to—
 
     (1) examine the role of small business in the American economy and the contribution which small business can make in improving competition, encouraging economic and social mobility for all citizens, restraining inflation, spurring production, expanding employment opportunities, increasing productivity, promoting exports, stimulating innovation and entrepreneurship, and providing an avenue through which new and untested products and services can be brought to the marketplace;
 

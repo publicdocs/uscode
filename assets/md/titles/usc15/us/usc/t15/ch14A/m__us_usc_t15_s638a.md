@@ -15,7 +15,7 @@
 
 ## § 638a. GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement
 
-Not later than 3 years after December 31, 2011, and every 3 years thereafter, the Comptroller General of the United States shall—
+    Not later than 3 years after December 31, 2011, and every 3 years thereafter, the Comptroller General of the United States shall—
 
     (1) conduct a study of the impact of requirements relating to venture capital operating company, hedge fund, and private equity firm involvement under [section 638 of this title][/us/usc/t15/s638]; and
 

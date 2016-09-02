@@ -15,7 +15,7 @@
 
 ## § 787. Project Independence Evaluation System documentation; access to model by Congress and public
 
-The Administrator of the Federal Energy Administration shall—
+    The Administrator of the Federal Energy Administration shall—
 
     (1) submit to the Congress, not later than September 1, 1976, full and complete structural and parametric documentation, and not later than January 1, 1977, operating documentation, of the Project Independence Evaluation System computer model;
 

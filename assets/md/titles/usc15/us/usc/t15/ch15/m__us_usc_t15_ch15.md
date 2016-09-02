@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 701 to 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs701" data-uslm-ref="/us/usc/t15/s701">701</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs712" data-uslm-ref="/us/usc/t15/s712">712.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 712a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs712a" data-uslm-ref="/us/usc/t15/s712a">712a.</a>  </td>
 
     <td> Limitation of obligations for administrative expenses of certain agencies; limitation on life of certain agencies.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713 to 713a–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713" data-uslm-ref="/us/usc/t15/s713">713</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%933" data-uslm-ref="/us/usc/t15/s713a–3">713a–3.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%934" data-uslm-ref="/us/usc/t15/s713a–4">713a–4.</a>  </td>
 
     <td> Obligations of Commodity Credit Corporation; issuance; sale; purchase; redemption; etc.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%935" data-uslm-ref="/us/usc/t15/s713a–5">713a–5.</a>  </td>
 
     <td> Exemption of Commodity Credit Corporation and its obligations from taxation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%936" data-uslm-ref="/us/usc/t15/s713a–6">713a–6.</a>  </td>
 
     <td> Sale of surplus agricultural commodities to foreign governments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%937" data-uslm-ref="/us/usc/t15/s713a–7">713a–7.</a>  </td>
 
     <td> Exchange of surplus agricultural commodities for reserve stocks of strategic materials.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%938" data-uslm-ref="/us/usc/t15/s713a–8">713a–8.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%939" data-uslm-ref="/us/usc/t15/s713a–9">713a–9.</a>  </td>
 
     <td> Reimbursement of corporation from funds of Government agencies for services, losses, operating costs, or commodities purchased.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9310" data-uslm-ref="/us/usc/t15/s713a–10">713a–10.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9311" data-uslm-ref="/us/usc/t15/s713a–11">713a–11.</a>  </td>
 
     <td> Annual appropriations to reimburse Commodity Credit Corporation for net realized loss.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–11a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9311a" data-uslm-ref="/us/usc/t15/s713a–11a">713a–11a.</a>  </td>
 
     <td> Interest prohibited when reimbursing Corporation for net realized losses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9312" data-uslm-ref="/us/usc/t15/s713a–12">713a–12.</a>  </td>
 
     <td> Deposit of net realized gain of Commodity Credit Corporation in Treasury.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9313" data-uslm-ref="/us/usc/t15/s713a–13">713a–13.</a>  </td>
 
     <td> Policies and procedures for minimum acquisition of stocks by Commodity Credit Corporation, encouragement of marketing through private trade channels and procurement of maximum returns in marketplace for producers and Corporation.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713a–14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314" data-uslm-ref="/us/usc/t15/s713a–14">713a–14.</a>  </td>
 
     <td> Dairy export incentive program.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713b" data-uslm-ref="/us/usc/t15/s713b">713b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713c" data-uslm-ref="/us/usc/t15/s713c">713c.</a>  </td>
 
     <td> Federal Surplus Commodities Corporation; continuance of existence; purchase and distribution of surplus agricultural commodities.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%931" data-uslm-ref="/us/usc/t15/s713c–1">713c–1.</a>  </td>
 
     <td> Annual report to Congress by Federal Surplus Commodities Corporation.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%932" data-uslm-ref="/us/usc/t15/s713c–2">713c–2.</a>  </td>
 
     <td> Purchase and distribution of surplus fishery products.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 713c–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933" data-uslm-ref="/us/usc/t15/s713c–3">713c–3.</a>  </td>
 
     <td> Promotion of the free flow of domestically produced fishery products.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714" data-uslm-ref="/us/usc/t15/s714">714.</a>  </td>
 
     <td> Creation and purpose of Corporation.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714a" data-uslm-ref="/us/usc/t15/s714a">714a.</a>  </td>
 
     <td> Location of offices.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714b" data-uslm-ref="/us/usc/t15/s714b">714b.</a>  </td>
 
     <td> General powers of Corporation.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714c" data-uslm-ref="/us/usc/t15/s714c">714c.</a>  </td>
 
     <td> Specific powers of Corporation.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714d" data-uslm-ref="/us/usc/t15/s714d">714d.</a>  </td>
 
     <td> Laws applicable to Corporation.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714e" data-uslm-ref="/us/usc/t15/s714e">714e.</a>  </td>
 
     <td> Capital stock; amount; interest.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714f" data-uslm-ref="/us/usc/t15/s714f">714f.</a>  </td>
 
     <td> Use of funds.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714g" data-uslm-ref="/us/usc/t15/s714g">714g.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714h" data-uslm-ref="/us/usc/t15/s714h">714h.</a>  </td>
 
     <td> Officers and employees; appointment; duties.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714i" data-uslm-ref="/us/usc/t15/s714i">714i.</a>  </td>
 
     <td> Cooperation with other governmental agencies.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714j" data-uslm-ref="/us/usc/t15/s714j">714j.</a>  </td>
 
     <td> Utilization of associations and trade facilities.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714k" data-uslm-ref="/us/usc/t15/s714k">714k.</a>  </td>
 
     <td> Records; annual report.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714" data-uslm-ref="/us/usc/t15/s714">714</a>l.  </td>
 
     <td> Interest of Members of Congress.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714m" data-uslm-ref="/us/usc/t15/s714m">714m.</a>  </td>
 
     <td> Crimes and offenses.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714n" data-uslm-ref="/us/usc/t15/s714n">714n.</a>  </td>
 
     <td> Transfer of assets of Commodity Credit Corporation, a Delaware corporation.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714" data-uslm-ref="/us/usc/t15/s714">714</a>o.  </td>
 
     <td> Dissolution of Delaware corporation.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> 714p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714p" data-uslm-ref="/us/usc/t15/s714p">714p.</a>  </td>
 
     <td> Release of innocent purchasers of converted goods.  </td>
 

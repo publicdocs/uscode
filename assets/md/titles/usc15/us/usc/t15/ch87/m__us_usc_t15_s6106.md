@@ -15,7 +15,7 @@
 
 ## § 6106. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “attorney general” means the chief legal officer of a State.
 

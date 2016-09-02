@@ -15,7 +15,7 @@
 
 ## § 2614. Prohibited acts
 
-It shall be unlawful for any person to—
+    It shall be unlawful for any person to—
 
     (1) fail or refuse to comply with (A) any rule promulgated or order issued under [section 2603 of this title][/us/usc/t15/s2603], (B) any requirement prescribed by section 2604 or 2605 of this title, (C) any rule promulgated or order issued under section 2604 or 2605 of this title, or (D) any requirement of subchapter II of this chapter or any rule promulgated or order issued under subchapter II of this chapter;
 

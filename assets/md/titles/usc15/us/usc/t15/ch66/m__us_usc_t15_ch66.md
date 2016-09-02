@@ -33,7 +33,7 @@ SUBCHAPTER I—EXPORT TRADING COMPANIES AND TRADE ASSOCIATIONS  </td>
 
   <tr>
 
-    <td> 4001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4001" data-uslm-ref="/us/usc/t15/s4001">4001.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EXPORT TRADING COMPANIES AND TRADE ASSOCIATIONS  </td>
 
   <tr>
 
-    <td> 4002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4002" data-uslm-ref="/us/usc/t15/s4002">4002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EXPORT TRADING COMPANIES AND TRADE ASSOCIATIONS  </td>
 
   <tr>
 
-    <td> 4003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4003" data-uslm-ref="/us/usc/t15/s4003">4003.</a>  </td>
 
     <td> Office of Export Trade in Department of Commerce.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4011" data-uslm-ref="/us/usc/t15/s4011">4011.</a>  </td>
 
     <td> Export trade promotion duties of Secretary of Commerce.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4012" data-uslm-ref="/us/usc/t15/s4012">4012.</a>  </td>
 
     <td> Application for issuance of certificate of review.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4013" data-uslm-ref="/us/usc/t15/s4013">4013.</a>  </td>
 
     <td> Issuance of certificate.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4014" data-uslm-ref="/us/usc/t15/s4014">4014.</a>  </td>
 
     <td> Reporting requirement; amendment of certificate; revocation.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4015" data-uslm-ref="/us/usc/t15/s4015">4015.</a>  </td>
 
     <td> Judicial review; admissibility.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4016" data-uslm-ref="/us/usc/t15/s4016">4016.</a>  </td>
 
     <td> Protection conferred by certificate of review.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4017" data-uslm-ref="/us/usc/t15/s4017">4017.</a>  </td>
 
     <td> Guidelines.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4018" data-uslm-ref="/us/usc/t15/s4018">4018.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4019" data-uslm-ref="/us/usc/t15/s4019">4019.</a>  </td>
 
     <td> Disclosure of information.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4020" data-uslm-ref="/us/usc/t15/s4020">4020.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW  </td>
 
   <tr>
 
-    <td> 4021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4021" data-uslm-ref="/us/usc/t15/s4021">4021.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—EXPORT PROMOTION PROGRAMS  </td>
 
   <tr>
 
-    <td> 4051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4051" data-uslm-ref="/us/usc/t15/s4051">4051.</a>  </td>
 
     <td> Requirement of prior authorization.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—EXPORT PROMOTION PROGRAMS  </td>
 
   <tr>
 
-    <td> 4052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4052" data-uslm-ref="/us/usc/t15/s4052">4052.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—EXPORT PROMOTION PROGRAMS  </td>
 
   <tr>
 
-    <td> 4053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4053" data-uslm-ref="/us/usc/t15/s4053">4053.</a>  </td>
 
     <td> Barter arrangements.  </td>
 

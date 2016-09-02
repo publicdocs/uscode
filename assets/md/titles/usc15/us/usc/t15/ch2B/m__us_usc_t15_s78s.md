@@ -329,7 +329,7 @@
 
  __Amendment of Section__ 
 
-Unless otherwise provided, amendment by subtitle A (§§ 711–754) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
+    Unless otherwise provided, amendment by subtitle A (§§ 711–754) of title VII of [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 

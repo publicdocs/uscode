@@ -15,7 +15,7 @@
 
 ## § 8205. Streamlined application for commercial purchasers
 
-A surplus lines broker seeking to procure or place nonadmitted insurance in a State for an exempt commercial purchaser shall not be required to satisfy any State requirement to make a due diligence search to determine whether the full amount or type of insurance sought by such exempt commercial purchaser can be obtained from admitted insurers if—
+    A surplus lines broker seeking to procure or place nonadmitted insurance in a State for an exempt commercial purchaser shall not be required to satisfy any State requirement to make a due diligence search to determine whether the full amount or type of insurance sought by such exempt commercial purchaser can be obtained from admitted insurers if—
 
     (1) the broker procuring or placing the surplus lines insurance has disclosed to the exempt commercial purchaser that such insurance may or may not be available from the admitted market that may provide greater protection with more regulatory oversight; and
 

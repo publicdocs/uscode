@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_s331 to 374.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
+[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_ch10.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
 
 ## CHAPTER 10A—COLLECTION OF STATE CIGARETTE TAXES
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs375" data-uslm-ref="/us/usc/t15/s375">375.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs376" data-uslm-ref="/us/usc/t15/s376">376.</a>  </td>
 
     <td> Reports to State tobacco tax administrator.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 376a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs376a" data-uslm-ref="/us/usc/t15/s376a">376a.</a>  </td>
 
     <td> Delivery sales.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs377" data-uslm-ref="/us/usc/t15/s377">377.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs378" data-uslm-ref="/us/usc/t15/s378">378.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_s331 to 374.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
+[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_ch10.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
 
 ----------
 ----------

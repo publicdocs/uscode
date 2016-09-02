@@ -15,7 +15,7 @@
 
 ## § 7308. National Institute of Standards and Technology actions
 
-After the issuance of a public report under [section 7307 of this title][/us/usc/t15/s7307], the National Institute of Standards and Technology shall comprehensively review the report and, working with the United States Fire Administration and other appropriate Federal and non-Federal agencies and organizations—
+    After the issuance of a public report under [section 7307 of this title][/us/usc/t15/s7307], the National Institute of Standards and Technology shall comprehensively review the report and, working with the United States Fire Administration and other appropriate Federal and non-Federal agencies and organizations—
 
     (1) conduct, or enable or encourage the conducting of, appropriate research recommended by the Team; and
 

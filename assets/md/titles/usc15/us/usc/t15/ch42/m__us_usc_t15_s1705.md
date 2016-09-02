@@ -15,7 +15,7 @@
 
 ## § 1705. Information required in statement of record
 
-The statement of record shall contain the information and be accompanied by the documents specified hereinafter in this section—
+    The statement of record shall contain the information and be accompanied by the documents specified hereinafter in this section—
 
     (1) the name and address of each person having an interest in the lots in the subdivision to be covered by the statement of record and the extent of such interest;
 

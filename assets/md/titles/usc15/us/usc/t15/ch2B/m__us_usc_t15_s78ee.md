@@ -125,7 +125,7 @@
 
  __Adjustment of Fee Amount__ 
 
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Annual Adjustment of Transaction Fee Rate note below.
+    For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Annual Adjustment of Transaction Fee Rate note below.
 
  __Amendments__ 
 

@@ -15,7 +15,7 @@
 
 ## § 2821. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “octane rating” means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under [section 2823(c)(3) of this title][/us/usc/t15/s2823/c/3], in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
 

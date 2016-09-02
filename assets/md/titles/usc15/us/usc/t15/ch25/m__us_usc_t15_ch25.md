@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1191" data-uslm-ref="/us/usc/t15/s1191">1191.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1192" data-uslm-ref="/us/usc/t15/s1192">1192.</a>  </td>
 
     <td> Prohibited transactions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1193" data-uslm-ref="/us/usc/t15/s1193">1193.</a>  </td>
 
     <td> Flammability standards or regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1194" data-uslm-ref="/us/usc/t15/s1194">1194.</a>  </td>
 
     <td> Administration and enforcement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1195" data-uslm-ref="/us/usc/t15/s1195">1195.</a>  </td>
 
     <td> Injunction and condemnation proceedings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1196" data-uslm-ref="/us/usc/t15/s1196">1196.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1197" data-uslm-ref="/us/usc/t15/s1197">1197.</a>  </td>
 
     <td> Guaranties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1198.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1198" data-uslm-ref="/us/usc/t15/s1198">1198.</a>  </td>
 
     <td> Shipments from foreign countries; demand for redelivery; claim for liquidated damages.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1199" data-uslm-ref="/us/usc/t15/s1199">1199.</a>  </td>
 
     <td> Chapter as additional legislation.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1200.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1200" data-uslm-ref="/us/usc/t15/s1200">1200.</a>  </td>
 
     <td> Persons excluded from operation of chapter.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1201" data-uslm-ref="/us/usc/t15/s1201">1201.</a>  </td>
 
     <td> Study and investigation; research, development and training.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1202" data-uslm-ref="/us/usc/t15/s1202">1202.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1203" data-uslm-ref="/us/usc/t15/s1203">1203.</a>  </td>
 
     <td> Preemption of Federal standards.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1204" data-uslm-ref="/us/usc/t15/s1204">1204.</a>  </td>
 
     <td> Congressional veto of flammability regulations.  </td>
 

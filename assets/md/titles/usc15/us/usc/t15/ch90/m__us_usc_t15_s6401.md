@@ -15,7 +15,7 @@
 
 ## § 6401. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) propane gas, or liquefied petroleum gas, is an essential energy commodity providing heat, hot water, cooking fuel, and motor fuel among its many uses to millions of Americans;
 

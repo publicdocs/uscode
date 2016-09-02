@@ -15,7 +15,7 @@
 
 ## § 1244. Exceptions
 
-Sections 1242 and 1243 of this title shall not apply to—
+    Sections 1242 and 1243 of this title shall not apply to—
 
     (1) any common carrier or contract carrier, with respect to any switchblade knife shipped, transported, or delivered for shipment in interstate commerce in the ordinary course of business;
 

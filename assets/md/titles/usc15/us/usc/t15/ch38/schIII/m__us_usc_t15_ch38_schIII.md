@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_s1421 to 1426.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_s1431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_ch38_schII.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_s1431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschIII)
 
 ### SUBCHAPTER III—RESEARCH AND TEST FACILITIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_s1421 to 1426.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_s1431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch38/schII/m__us_usc_t15_ch38_schII.md) | [Next](./../../../../..//us/usc/t15/ch38/schIII/m__us_usc_t15_s1431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch38%2FschIII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1603. Exempted transactions
 
-This subchapter does not apply to the following:
+    This subchapter does not apply to the following:
 
     (1) Credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, or to government or governmental agencies or instrumentalities, or to organizations.
 
@@ -35,7 +35,7 @@ This subchapter does not apply to the following:
 
  __Adjustments for Inflation__ 
 
-For requirement of inflation adjustment of dollar amounts in par. (3) of this section, see [section 1100E(b) of Pub. L. 111–203][/us/pl/111/203/s1100E/b], set out as a note below.
+    For requirement of inflation adjustment of dollar amounts in par. (3) of this section, see [section 1100E(b) of Pub. L. 111–203][/us/pl/111/203/s1100E/b], set out as a note below.
 
  __References in Text__ 
 

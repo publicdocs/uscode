@@ -15,7 +15,7 @@
 
 ## § 634c. Additional duties of Office of Advocacy
 
-The Office of Advocacy shall also perform the following duties on a continuing basis:
+    The Office of Advocacy shall also perform the following duties on a continuing basis:
 
     (1) serve as a focal point for the receipt of complaints, criticisms, and suggestions concerning the policies and activities of the Administration and any other Federal agency which affects small businesses;
 

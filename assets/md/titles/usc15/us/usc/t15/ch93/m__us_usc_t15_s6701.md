@@ -293,13 +293,21 @@
 
 >             “(i) to be an act of terrorism;
 
->             “(ii) to be a violent act or an act that is dangerous to—         “(I) human life;
+>             “(ii)
+
+>              to be a violent act or an act that is dangerous to—
+
+>                      “(I) human life;
 
 >                      “(II) property; or
 
 >                      “(III) infrastructure;
 
->             “(iii) to have resulted in damage within the United States, or outside of the United States in the case of—         “(I) an air carrier or vessel described in paragraph (5)(B); or
+>             “(iii)
+
+>              to have resulted in damage within the United States, or outside of the United States in the case of—
+
+>                      “(I) an air carrier or vessel described in paragraph (5)(B); or
 
 >                      “(II) the premises of a United States mission; and
 
@@ -669,7 +677,11 @@
 
 >                 “(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
 
->                 “(ii) the aggregate amount, for all insurers, of insured losses during such period that are not compensated by the Federal Government because such losses—         “(I) are within the insurer deductible for the insurer subject to the losses; or
+>                 “(ii)
+
+>                  the aggregate amount, for all insurers, of insured losses during such period that are not compensated by the Federal Government because such losses—
+
+>                          “(I) are within the insurer deductible for the insurer subject to the losses; or
 
 >                          “(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
 
@@ -697,7 +709,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—         “(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
+>                 If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
+
+>                          “(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
 
 >                          “(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
 
@@ -735,7 +749,9 @@
 
 >                 “(i) __Adjustments.—__ 
 
->                 In determining the method and manner of imposing terrorism loss risk-spreading premiums, including the amount of such premiums, the Secretary shall take into consideration—         “(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
+>                 In determining the method and manner of imposing terrorism loss risk-spreading premiums, including the amount of such premiums, the Secretary shall take into consideration—
+
+>                          “(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
 
 >                          “(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
 

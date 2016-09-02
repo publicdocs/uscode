@@ -15,7 +15,7 @@
 
 ## § 783. Hydroelectric generating facilities; lists, transmittal to Congress; construction schedule and cost estimates for expedited construction program; prospective accomplishments from expedited completion of facilities; statement of appropriated but not obligated funds
 
-Within ninety days of the effective date of this chapter, the Administrator of the Federal Energy Administration, in consultation with the Secretary of the Interior and the Secretary of the Army, shall—
+    Within ninety days of the effective date of this chapter, the Administrator of the Federal Energy Administration, in consultation with the Secretary of the Interior and the Secretary of the Army, shall—
 
     (1)
 

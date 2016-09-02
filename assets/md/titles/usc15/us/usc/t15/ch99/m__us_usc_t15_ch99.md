@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7301" data-uslm-ref="/us/usc/t15/s7301">7301.</a>  </td>
 
     <td> National Construction Safety Teams.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7302" data-uslm-ref="/us/usc/t15/s7302">7302.</a>  </td>
 
     <td> Composition of Teams.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7303" data-uslm-ref="/us/usc/t15/s7303">7303.</a>  </td>
 
     <td> Authorities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7304" data-uslm-ref="/us/usc/t15/s7304">7304.</a>  </td>
 
     <td> Briefings, hearings, witnesses, and subpoenas.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7305" data-uslm-ref="/us/usc/t15/s7305">7305.</a>  </td>
 
     <td> Additional powers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7306" data-uslm-ref="/us/usc/t15/s7306">7306.</a>  </td>
 
     <td> Disclosure of information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7307" data-uslm-ref="/us/usc/t15/s7307">7307.</a>  </td>
 
     <td> National Construction Safety Team report.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7308" data-uslm-ref="/us/usc/t15/s7308">7308.</a>  </td>
 
     <td> National Institute of Standards and Technology actions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7309" data-uslm-ref="/us/usc/t15/s7309">7309.</a>  </td>
 
     <td> National Institute of Standards and Technology annual report.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7310" data-uslm-ref="/us/usc/t15/s7310">7310.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7311" data-uslm-ref="/us/usc/t15/s7311">7311.</a>  </td>
 
     <td> Additional applicability.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7312" data-uslm-ref="/us/usc/t15/s7312">7312.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7313" data-uslm-ref="/us/usc/t15/s7313">7313.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

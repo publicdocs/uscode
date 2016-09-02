@@ -15,7 +15,7 @@
 
 ## § 8401. Findings; declaration of policy
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The Internet has become an important channel of commerce in the United States, accounting for billions of dollars in retail sales every year. Over half of all American adults have now either made an online purchase or an online travel reservation.
 

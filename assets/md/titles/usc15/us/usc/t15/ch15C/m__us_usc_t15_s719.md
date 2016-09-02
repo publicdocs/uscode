@@ -15,7 +15,7 @@
 
 ## § 719. Congressional findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) a natural gas supply shortage exists in the contiguous States of the United States;
 

@@ -15,7 +15,7 @@
 
 ## § 2903. Definitions
 
-As used in this chapter, unless the context otherwise requires:
+    As used in this chapter, unless the context otherwise requires:
 
     (1) The term “Board” means the Climate Program Policy Board.
 

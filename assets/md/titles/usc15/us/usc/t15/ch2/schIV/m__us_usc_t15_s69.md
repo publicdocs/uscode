@@ -15,7 +15,7 @@
 
 ## § 69. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “person” means an individual, partnership, corporation, association, business trust, or any organized group of any of the foregoing.
 

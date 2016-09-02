@@ -15,7 +15,7 @@
 
 ## § 6715. Certain State affiliation laws preempted for insurance companies and affiliates
 
-Except as provided in [section 6701(c)(2) of this title][/us/usc/t15/s6701/c/2], no State may, by law, regulation, order, interpretation, or otherwise—
+    Except as provided in [section 6701(c)(2) of this title][/us/usc/t15/s6701/c/2], no State may, by law, regulation, order, interpretation, or otherwise—
 
     (1) prevent or significantly interfere with the ability of any insurer, or any affiliate of an insurer (whether such affiliate is organized as a stock company, mutual holding company, or otherwise), to become a financial holding company or to acquire control of a depository institution;
 

@@ -15,7 +15,7 @@
 
 ## § 1824. Unlawful acts
 
-The following conduct is prohibited:
+    The following conduct is prohibited:
 
     (1) The shipping, transporting, moving, delivering, or receiving of any horse which is sore with reason to believe that such horse while it is sore may be shown, exhibited, entered for the purpose of being shown or exhibited, sold, auctioned, or offered for sale, in any horse show, horse exhibition, or horse sale or auction; except that this paragraph does not apply to the shipping, transporting, moving, delivering, or receiving of any horse by a common or contract carrier or an employee thereof in the usual course of the carrier’s business or employee’s employment unless the carrier or employee has reason to believe that such horse is sore.
 

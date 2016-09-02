@@ -15,7 +15,7 @@
 
 ## § 1511. Bureaus in Department
 
-The following named bureaus, administrations, services, offices, and programs of the public service, and all that pertains thereto, shall be under the jurisdiction and subject to the control of the Secretary of Commerce:
+    The following named bureaus, administrations, services, offices, and programs of the public service, and all that pertains thereto, shall be under the jurisdiction and subject to the control of the Secretary of Commerce:
 
     (1) National Oceanic and Atmospheric Administration;
 
@@ -199,7 +199,7 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     (b) Such provisions as may be necessary with respect to terminating any outstanding affairs shall be made by the Secretary of Commerce in the case of the Environmental Science Services Administration and by the Secretary of the Interior in the case of the Bureau of Commercial Fisheries.
 
-    Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees. </sup></sup> 
+Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees. </sup></sup> 
 
     To the Congress of the United States:
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4801" data-uslm-ref="/us/usc/t15/s4801">4801.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4802" data-uslm-ref="/us/usc/t15/s4802">4802.</a>  </td>
 
     <td> Council established.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4803" data-uslm-ref="/us/usc/t15/s4803">4803.</a>  </td>
 
     <td> Duties of Council.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4804" data-uslm-ref="/us/usc/t15/s4804">4804.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4805" data-uslm-ref="/us/usc/t15/s4805">4805.</a>  </td>
 
     <td> Executive Director and staff.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4806" data-uslm-ref="/us/usc/t15/s4806">4806.</a>  </td>
 
     <td> Powers of Council.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4807" data-uslm-ref="/us/usc/t15/s4807">4807.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4808" data-uslm-ref="/us/usc/t15/s4808">4808.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4809" data-uslm-ref="/us/usc/t15/s4809">4809.</a>  </td>
 
     <td> Definitions.  </td>
 

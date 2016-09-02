@@ -15,7 +15,7 @@
 
 ## § 37a. Definitions
 
-For purposes of this section and [section 37 of this title][/us/usc/t15/s37]:
+    For purposes of this section and [section 37 of this title][/us/usc/t15/s37]:
 
     (1) __Antitrust laws__ 
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—FINDINGS, PURPOSE, AND POLICY; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2401" data-uslm-ref="/us/usc/t15/s2401">2401.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FINDINGS, PURPOSE, AND POLICY; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2402" data-uslm-ref="/us/usc/t15/s2402">2402.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FINDINGS, PURPOSE, AND POLICY; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2403" data-uslm-ref="/us/usc/t15/s2403">2403.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FINDINGS, PURPOSE, AND POLICY; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2404" data-uslm-ref="/us/usc/t15/s2404">2404.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2411" data-uslm-ref="/us/usc/t15/s2411">2411.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2412" data-uslm-ref="/us/usc/t15/s2412">2412.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2413" data-uslm-ref="/us/usc/t15/s2413">2413.</a>  </td>
 
     <td> Executive Director and Deputy Director.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2414" data-uslm-ref="/us/usc/t15/s2414">2414.</a>  </td>
 
     <td> Functions of the Center.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2415" data-uslm-ref="/us/usc/t15/s2415">2415.</a>  </td>
 
     <td> Powers of the Center.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2416" data-uslm-ref="/us/usc/t15/s2416">2416.</a>  </td>
 
     <td> Contracts and other funding arrangements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2417" data-uslm-ref="/us/usc/t15/s2417">2417.</a>  </td>
 
     <td> Criteria for participating parties.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE  </
 
   <tr>
 
-    <td> 2418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2418" data-uslm-ref="/us/usc/t15/s2418">2418.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER  </td>
 
   <tr>
 
-    <td> 2431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2431" data-uslm-ref="/us/usc/t15/s2431">2431.</a>  </td>
 
     <td> Liaison with Center.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER  </td>
 
   <tr>
 
-    <td> 2432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2432" data-uslm-ref="/us/usc/t15/s2432">2432.</a>  </td>
 
     <td> Internal review.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER  </td>
 
   <tr>
 
-    <td> 2433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2433" data-uslm-ref="/us/usc/t15/s2433">2433.</a>  </td>
 
     <td> Support of external activities.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER  </td>
 
   <tr>
 
-    <td> 2434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2434" data-uslm-ref="/us/usc/t15/s2434">2434.</a>  </td>
 
     <td> Internal productivity.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER  </td>
 
   <tr>
 
-    <td> 2435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2435" data-uslm-ref="/us/usc/t15/s2435">2435.</a>  </td>
 
     <td> Other statutory obligations  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2451" data-uslm-ref="/us/usc/t15/s2451">2451.</a>  </td>
 
     <td> Authority of Executive Director.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—EVALUATION BY COMPTROLLER GENERAL  </td>
 
   <tr>
 
-    <td> 2461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2461" data-uslm-ref="/us/usc/t15/s2461">2461.</a>  </td>
 
     <td> Audit, review, and evaluation.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 2471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2471" data-uslm-ref="/us/usc/t15/s2471">2471.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs41" data-uslm-ref="/us/usc/t15/s41">41.</a>  </td>
 
     <td> Federal Trade Commission established; membership; vacancies; seal.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs42" data-uslm-ref="/us/usc/t15/s42">42.</a>  </td>
 
     <td> Employees; expenses.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs43" data-uslm-ref="/us/usc/t15/s43">43.</a>  </td>
 
     <td> Office and place of meeting.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs44" data-uslm-ref="/us/usc/t15/s44">44.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs45" data-uslm-ref="/us/usc/t15/s45">45.</a>  </td>
 
     <td> Unfair methods of competition unlawful; prevention by Commission.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 45a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs45a" data-uslm-ref="/us/usc/t15/s45a">45a.</a>  </td>
 
     <td> Labels on products.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs46" data-uslm-ref="/us/usc/t15/s46">46.</a>  </td>
 
     <td> Additional powers of Commission.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 46a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs46a" data-uslm-ref="/us/usc/t15/s46a">46a.</a>  </td>
 
     <td> Concurrent resolution essential to authorize investigations  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs47" data-uslm-ref="/us/usc/t15/s47">47.</a>  </td>
 
     <td> Reference of suits under antitrust statutes to Commission.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs48" data-uslm-ref="/us/usc/t15/s48">48.</a>  </td>
 
     <td> Information and assistance from departments.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs49" data-uslm-ref="/us/usc/t15/s49">49.</a>  </td>
 
     <td> Documentary evidence; depositions; witnesses.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs50" data-uslm-ref="/us/usc/t15/s50">50.</a>  </td>
 
     <td> Offenses and penalties.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs51" data-uslm-ref="/us/usc/t15/s51">51.</a>  </td>
 
     <td> Effect on other statutory provisions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs52" data-uslm-ref="/us/usc/t15/s52">52.</a>  </td>
 
     <td> Dissemination of false advertisements.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs53" data-uslm-ref="/us/usc/t15/s53">53.</a>  </td>
 
     <td> False advertisements; injunctions and restraining orders.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs54" data-uslm-ref="/us/usc/t15/s54">54.</a>  </td>
 
     <td> False advertisements; penalties.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs55" data-uslm-ref="/us/usc/t15/s55">55.</a>  </td>
 
     <td> Additional definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs56" data-uslm-ref="/us/usc/t15/s56">56.</a>  </td>
 
     <td> Commencement, defense, intervention and supervision of litigation and appeal by Commission or Attorney General.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57" data-uslm-ref="/us/usc/t15/s57">57.</a>  </td>
 
     <td> Separability clause.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57a" data-uslm-ref="/us/usc/t15/s57a">57a.</a>  </td>
 
     <td> Unfair or deceptive acts or practices rulemaking proceedings.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57a%E2%80%931" data-uslm-ref="/us/usc/t15/s57a–1">57a–1.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b" data-uslm-ref="/us/usc/t15/s57b">57b.</a>  </td>
 
     <td> Civil actions for violations of rules and cease and desist orders respecting unfair or deceptive acts or practices.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%931" data-uslm-ref="/us/usc/t15/s57b–1">57b–1.</a>  </td>
 
     <td> Civil investigative demands.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%932" data-uslm-ref="/us/usc/t15/s57b–2">57b–2.</a>  </td>
 
     <td> Confidentiality.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–2a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%932a" data-uslm-ref="/us/usc/t15/s57b–2a">57b–2a.</a>  </td>
 
     <td> Confidentiality and delayed notice of compulsory process for certain third parties.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–2b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%932b" data-uslm-ref="/us/usc/t15/s57b–2b">57b–2b.</a>  </td>
 
     <td> Protection for voluntary provision of information.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%933" data-uslm-ref="/us/usc/t15/s57b–3">57b–3.</a>  </td>
 
     <td> Rulemaking process.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%934" data-uslm-ref="/us/usc/t15/s57b–4">57b–4.</a>  </td>
 
     <td> Good faith reliance on actions of Board of Governors.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57b–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%935" data-uslm-ref="/us/usc/t15/s57b–5">57b–5.</a>  </td>
 
     <td> Agricultural cooperatives.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57c" data-uslm-ref="/us/usc/t15/s57c">57c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57c%E2%80%931" data-uslm-ref="/us/usc/t15/s57c–1">57c–1.</a>  </td>
 
     <td> Staff exchanges.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 57c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs57c%E2%80%932" data-uslm-ref="/us/usc/t15/s57c–2">57c–2.</a>  </td>
 
     <td> Reimbursement of expenses.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—FEDERAL TRADE COMMISSION  </td>
 
   <tr>
 
-    <td> 58.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs58" data-uslm-ref="/us/usc/t15/s58">58.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs61" data-uslm-ref="/us/usc/t15/s61">61.</a>  </td>
 
     <td> Export trade; definitions.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs62" data-uslm-ref="/us/usc/t15/s62">62.</a>  </td>
 
     <td> Export trade and antitrust legislation.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs63" data-uslm-ref="/us/usc/t15/s63">63.</a>  </td>
 
     <td> Acquisition of stock of export trade corporation.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs64" data-uslm-ref="/us/usc/t15/s64">64.</a>  </td>
 
     <td> Unfair methods of competition in export trade.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs65" data-uslm-ref="/us/usc/t15/s65">65.</a>  </td>
 
     <td> Information required from export trade corporation; powers of Federal Trade Commission.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—PROMOTION OF EXPORT TRADE  </td>
 
   <tr>
 
-    <td> 66.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs66" data-uslm-ref="/us/usc/t15/s66">66.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68" data-uslm-ref="/us/usc/t15/s68">68.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68a" data-uslm-ref="/us/usc/t15/s68a">68a.</a>  </td>
 
     <td> Misbranding declared unlawful.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68b" data-uslm-ref="/us/usc/t15/s68b">68b.</a>  </td>
 
     <td> Misbranded wool products.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68c" data-uslm-ref="/us/usc/t15/s68c">68c.</a>  </td>
 
     <td> Stamp, tag, label, or other identification.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68d" data-uslm-ref="/us/usc/t15/s68d">68d.</a>  </td>
 
     <td> Enforcement of subchapter.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68e" data-uslm-ref="/us/usc/t15/s68e">68e.</a>  </td>
 
     <td> Condemnation and injunction proceedings.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68f" data-uslm-ref="/us/usc/t15/s68f">68f.</a>  </td>
 
     <td> Exclusion of misbranded wool products.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68g" data-uslm-ref="/us/usc/t15/s68g">68g.</a>  </td>
 
     <td> Guaranty.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68h" data-uslm-ref="/us/usc/t15/s68h">68h.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68i" data-uslm-ref="/us/usc/t15/s68i">68i.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—LABELING OF WOOL PRODUCTS  </td>
 
   <tr>
 
-    <td> 68j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs68j" data-uslm-ref="/us/usc/t15/s68j">68j.</a>  </td>
 
     <td> Exceptions from subchapter.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69" data-uslm-ref="/us/usc/t15/s69">69.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69a" data-uslm-ref="/us/usc/t15/s69a">69a.</a>  </td>
 
     <td> Violations of Federal Trade Commission Act.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69b" data-uslm-ref="/us/usc/t15/s69b">69b.</a>  </td>
 
     <td> Misbranded fur products.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69c" data-uslm-ref="/us/usc/t15/s69c">69c.</a>  </td>
 
     <td> False advertising and invoicing.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69d" data-uslm-ref="/us/usc/t15/s69d">69d.</a>  </td>
 
     <td> Fur products imported into United States.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69e" data-uslm-ref="/us/usc/t15/s69e">69e.</a>  </td>
 
     <td> Name guide for fur products.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69f" data-uslm-ref="/us/usc/t15/s69f">69f.</a>  </td>
 
     <td> Enforcement of subchapter.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69g" data-uslm-ref="/us/usc/t15/s69g">69g.</a>  </td>
 
     <td> Condemnation and injunction proceedings.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69h" data-uslm-ref="/us/usc/t15/s69h">69h.</a>  </td>
 
     <td> Guaranty.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69i" data-uslm-ref="/us/usc/t15/s69i">69i.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER IV—LABELING OF FUR PRODUCTS  </td>
 
   <tr>
 
-    <td> 69j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs69j" data-uslm-ref="/us/usc/t15/s69j">69j.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70" data-uslm-ref="/us/usc/t15/s70">70.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70a" data-uslm-ref="/us/usc/t15/s70a">70a.</a>  </td>
 
     <td> Violations of Federal Trade Commission Act.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70b" data-uslm-ref="/us/usc/t15/s70b">70b.</a>  </td>
 
     <td> Misbranded and falsely advertised textile fiber products.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70c" data-uslm-ref="/us/usc/t15/s70c">70c.</a>  </td>
 
     <td> Removal of stamp, tag, label, or other identification.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70d" data-uslm-ref="/us/usc/t15/s70d">70d.</a>  </td>
 
     <td> Records.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70e" data-uslm-ref="/us/usc/t15/s70e">70e.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70f" data-uslm-ref="/us/usc/t15/s70f">70f.</a>  </td>
 
     <td> Injunction proceedings.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70g" data-uslm-ref="/us/usc/t15/s70g">70g.</a>  </td>
 
     <td> Exclusion of misbranded textile fiber products.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70h" data-uslm-ref="/us/usc/t15/s70h">70h.</a>  </td>
 
     <td> Guaranty.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70i" data-uslm-ref="/us/usc/t15/s70i">70i.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70j" data-uslm-ref="/us/usc/t15/s70j">70j.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION  </td>
 
   <tr>
 
-    <td> 70k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs70k" data-uslm-ref="/us/usc/t15/s70k">70k.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs71" data-uslm-ref="/us/usc/t15/s71">71.</a>  </td>
 
     <td> “Person” defined.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs72" data-uslm-ref="/us/usc/t15/s72">72.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs73" data-uslm-ref="/us/usc/t15/s73">73.</a>  </td>
 
     <td> Agreements involving restrictions in favor of imported goods.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs74" data-uslm-ref="/us/usc/t15/s74">74.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -689,7 +689,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs75" data-uslm-ref="/us/usc/t15/s75">75.</a>  </td>
 
     <td> Retaliation against country prohibiting importations.  </td>
 
@@ -697,7 +697,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 76.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs76" data-uslm-ref="/us/usc/t15/s76">76.</a>  </td>
 
     <td> Retaliation against restriction of importations in time of war.  </td>
 
@@ -705,7 +705,7 @@ SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION  </td>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77.</a>  </td>
 
     <td> Discrimination against neutral Americans in time of war.  </td>
 

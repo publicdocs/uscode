@@ -15,7 +15,7 @@
 
 ## § 8341. Authority to further define terms
 
-The Securities and Exchange Commission may, by rule, further define—
+    The Securities and Exchange Commission may, by rule, further define—
 
     (1) the term “commercial risk”;
 

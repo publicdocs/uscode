@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1021" data-uslm-ref="/us/usc/t15/s1021">1021.</a>  </td>
 
     <td> Congressional declarations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022" data-uslm-ref="/us/usc/t15/s1022">1022.</a>  </td>
 
     <td> Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1022a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022a" data-uslm-ref="/us/usc/t15/s1022a">1022a.</a>  </td>
 
     <td> Medium-term economic goals and policies respecting full employment and balanced growth.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1022b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022b" data-uslm-ref="/us/usc/t15/s1022b">1022b.</a>  </td>
 
     <td> Presentation of analysis respecting short-term and medium-term goals in Economic Report of President; mutually reinforcing means.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1022c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022c" data-uslm-ref="/us/usc/t15/s1022c">1022c.</a>  </td>
 
     <td> Inclusion of priority policies and programs in President’s Budget.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1022d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022d" data-uslm-ref="/us/usc/t15/s1022d">1022d.</a>  </td>
 
     <td> President’s Budget.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1022e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022e" data-uslm-ref="/us/usc/t15/s1022e">1022e.</a>  </td>
 
     <td> Inflation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1022f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1022f" data-uslm-ref="/us/usc/t15/s1022f">1022f.</a>  </td>
 
     <td> Advisory board or boards.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1023" data-uslm-ref="/us/usc/t15/s1023">1023.</a>  </td>
 
     <td> Council of Economic Advisers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1024" data-uslm-ref="/us/usc/t15/s1024">1024.</a>  </td>
 
     <td> Joint Economic Committee.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1025" data-uslm-ref="/us/usc/t15/s1025">1025.</a>  </td>
 
     <td> Printing of monthly publication by Joint Economic Committee entitled “Economic Indicators”; distribution.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1026" data-uslm-ref="/us/usc/t15/s1026">1026.</a>  </td>
 
     <td> Repealed.  </td>
 

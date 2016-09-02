@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2701" data-uslm-ref="/us/usc/t15/s2701">2701.</a>  </td>
 
     <td> Congressional findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2702" data-uslm-ref="/us/usc/t15/s2702">2702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2703" data-uslm-ref="/us/usc/t15/s2703">2703.</a>  </td>
 
     <td> Advanced systems program implementation by Secretary of Energy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2704" data-uslm-ref="/us/usc/t15/s2704">2704.</a>  </td>
 
     <td> Evaluation by Secretary of Transportation on utilization of advanced technology by automobile industry.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2705" data-uslm-ref="/us/usc/t15/s2705">2705.</a>  </td>
 
     <td> Coordinating and consulting requirements and authorities of Secretary of Energy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2706" data-uslm-ref="/us/usc/t15/s2706">2706.</a>  </td>
 
     <td> Informational and testing functions of Secretary of Energy.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2707" data-uslm-ref="/us/usc/t15/s2707">2707.</a>  </td>
 
     <td> Patents and inventions; statutory provisions applicable; contracts or grants covered.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2708" data-uslm-ref="/us/usc/t15/s2708">2708.</a>  </td>
 
     <td> Comptroller General audit and examination of books, etc.; statutory provisions applicable; contracts or grants covered.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2709" data-uslm-ref="/us/usc/t15/s2709">2709.</a>  </td>
 
     <td> Reports to Congress by Secretary of Energy.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2710" data-uslm-ref="/us/usc/t15/s2710">2710.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

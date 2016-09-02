@@ -15,7 +15,7 @@
 
 ## § 1663. Advertising of open end credit plans
 
-No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan unless it also clearly and conspicuously sets forth all of the following items:
+    No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan unless it also clearly and conspicuously sets forth all of the following items:
 
     (1) Any minimum or fixed amount which could be imposed.
 

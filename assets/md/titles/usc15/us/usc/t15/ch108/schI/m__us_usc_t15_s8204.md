@@ -15,7 +15,7 @@
 
 ## § 8204. Uniform standards for surplus lines eligibility
 
-A State may not—
+    A State may not—
 
     (1) impose eligibility requirements on, or otherwise establish eligibility criteria for, nonadmitted insurers domiciled in a United States jurisdiction, except in conformance with such requirements and criteria in sections 5A(2) and 5C(2)(a) of the Non-Admitted Insurance Model Act, unless the State has adopted nationwide uniform requirements, forms, and procedures developed in accordance with [section 8201(b) of this title][/us/usc/t15/s8201/b] that include alternative nationwide uniform eligibility requirements; or
 

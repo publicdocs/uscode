@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3501" data-uslm-ref="/us/usc/t15/s3501">3501.</a>  </td>
 
     <td> Exclusive territorial licenses to manufacture, distribute, and sell trademarked soft drink products; ultimate resale to consumers; substantial and effective competition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3502" data-uslm-ref="/us/usc/t15/s3502">3502.</a>  </td>
 
     <td> Price fixing agreements, horizontal restraints of trade, or group boycotts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs3503" data-uslm-ref="/us/usc/t15/s3503">3503.</a>  </td>
 
     <td> “Antitrust law” defined.  </td>
 

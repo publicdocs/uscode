@@ -15,7 +15,7 @@
 
 ## § 689a. Purposes
 
-The purposes of the New Markets Venture Capital Program established under this part are—
+    The purposes of the New Markets Venture Capital Program established under this part are—
 
     (1) to promote economic development and the creation of wealth and job opportunities in low-income geographic areas and among individuals living in such areas by encouraging developmental venture capital investments in smaller enterprises primarily located in such areas; and
 

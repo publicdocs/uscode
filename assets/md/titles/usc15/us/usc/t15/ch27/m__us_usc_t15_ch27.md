@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1221" data-uslm-ref="/us/usc/t15/s1221">1221.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1222" data-uslm-ref="/us/usc/t15/s1222">1222.</a>  </td>
 
     <td> Authorization of suits against manufacturers; amount of recovery; defenses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1223" data-uslm-ref="/us/usc/t15/s1223">1223.</a>  </td>
 
     <td> Limitations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1224" data-uslm-ref="/us/usc/t15/s1224">1224.</a>  </td>
 
     <td> Antitrust laws as affected.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1225" data-uslm-ref="/us/usc/t15/s1225">1225.</a>  </td>
 
     <td> State laws as affected.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1226" data-uslm-ref="/us/usc/t15/s1226">1226.</a>  </td>
 
     <td> Motor vehicle franchise contract dispute resolution process.  </td>
 

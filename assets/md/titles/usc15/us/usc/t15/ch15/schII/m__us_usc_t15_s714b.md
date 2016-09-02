@@ -15,7 +15,7 @@
 
 ## § 714b. General powers of Corporation
 
-The Corporation—
+    The Corporation—
 
     (a) Shall have succession in its corporate name.
 

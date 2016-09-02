@@ -15,7 +15,7 @@
 
 ## § 1532. Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary
 
-The Secretary of Commerce is authorized to—
+    The Secretary of Commerce is authorized to—
 
     (1) conduct research on all of the telecommunications sciences, including wave propagation and reception, the conditions which affect electromagnetic wave propagation and reception, electromagnetic noise and interference, radio system characteristics, operating techniques affecting the use of the electromagnetic spectrum, and methods for improving the use of the electromagnetic spectrum for telecommunications purposes;
 

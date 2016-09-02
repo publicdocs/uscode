@@ -15,7 +15,7 @@
 
 ## § 8001. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) Of injury-related deaths, drowning is the second leading cause of death in children aged 1 to 14 in the United States.
 

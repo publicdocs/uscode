@@ -449,13 +449,21 @@
 
 >                 “(i) examine the needs analysis methodologies used by participating institutions;
 
->                 “(ii) identify trends in undergraduate costs of attendance and institutional undergraduate grant aid among participating institutions, including—         “(I) the percentage of first-year students receiving institutional grant aid;
+>                 “(ii)
+
+>                  identify trends in undergraduate costs of attendance and institutional undergraduate grant aid among participating institutions, including—
+
+>                          “(I) the percentage of first-year students receiving institutional grant aid;
 
 >                          “(II) the mean and median grant eligibility and institutional grant aid to first-year students; and
 
 >                          “(III) the mean and median parental and student contributions to undergraduate costs of attendance for first year students receiving institutional grant aid;
 
->                 “(iii) to the extent useful in determining the effect of the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note), examine—         “(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note); and
+>                 “(iii)
+
+>                  to the extent useful in determining the effect of the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note), examine—
+
+>                          “(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note); and
 
 >                          “(II) other baseline trend data from national benchmarks; and
 
@@ -469,7 +477,9 @@
 
 >                 “(ii) __Changes over time.—__ 
 
->                 The assessment under clause (i) shall consider any changes in institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance over time for institutions of higher education, including consideration of—         “(I) the time period prior to adoption of the consensus methodologies at participating institutions; and
+>                 The assessment under clause (i) shall consider any changes in institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance over time for institutions of higher education, including consideration of—
+
+>                          “(I) the time period prior to adoption of the consensus methodologies at participating institutions; and
 
 >                          “(II) the data examined pursuant to subparagraph (A)(iii).
 

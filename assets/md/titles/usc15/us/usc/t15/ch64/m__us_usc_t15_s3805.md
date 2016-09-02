@@ -15,7 +15,7 @@
 
 ## § 3805. Research and development activities
 
-The Secretary, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas relating to methane-fueled vehicles, including but not limited to—
+    The Secretary, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas relating to methane-fueled vehicles, including but not limited to—
 
     (1) flammability and combustibility of methane under conditions likely to develop in storage or during vehicular use;
 

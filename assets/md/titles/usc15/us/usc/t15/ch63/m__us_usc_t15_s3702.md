@@ -15,7 +15,7 @@
 
 ## § 3702. Purpose
 
-It is the purpose of this chapter to improve the economic, environmental, and social well-being of the United States by—
+    It is the purpose of this chapter to improve the economic, environmental, and social well-being of the United States by—
 
     (1) establishing organizations in the executive branch to study and stimulate technology;
 

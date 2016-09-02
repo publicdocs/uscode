@@ -15,7 +15,7 @@
 
 ## § 205b. Declaration of policy
 
-It is therefore the declared policy of the United States—
+    It is therefore the declared policy of the United States—
 
     (1) to designate the metric system of measurement as the preferred system of weights and measures for United States trade and commerce;
 

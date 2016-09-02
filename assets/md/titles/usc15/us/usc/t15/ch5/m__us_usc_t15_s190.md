@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s189, 189a.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs190)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s188.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs190)
 
 ## § 190. Discussions in commercial reports of partisan questions
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s189, 189a.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs190)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s188.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs190)
 
 ----------
 ----------

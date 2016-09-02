@@ -15,7 +15,7 @@
 
 ## § 8101. Definition
 
-In this Act, the term “United States person” means—
+    In this Act, the term “United States person” means—
 
     (1) any United States resident or national,
 
@@ -23,7 +23,7 @@ In this Act, the term “United States person” means—
 
     (3) any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern that is controlled in fact by such domestic concern,
 
-        except that such term does not include an individual who resides outside the United States and is employed by an individual or entity other than an individual or entity described in paragraph (1), (2), or (3).
+    except that such term does not include an individual who resides outside the United States and is employed by an individual or entity other than an individual or entity described in paragraph (1), (2), or (3).
 
 ([Pub. L. 110–403, § 3][/us/pl/110/403/s3], Oct. 13, 2008, [122 Stat. 4257][/us/stat/122/4257].)
 

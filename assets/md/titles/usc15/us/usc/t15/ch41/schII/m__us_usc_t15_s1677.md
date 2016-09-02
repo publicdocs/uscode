@@ -15,7 +15,7 @@
 
 ## § 1677. Effect on State laws
 
-This subchapter does not annul, alter, or affect, or exempt any person from complying with, the laws of any State
+    This subchapter does not annul, alter, or affect, or exempt any person from complying with, the laws of any State
 
     (1) prohibiting garnishments or providing for more limited garnishment than are allowed under this subchapter, or
 

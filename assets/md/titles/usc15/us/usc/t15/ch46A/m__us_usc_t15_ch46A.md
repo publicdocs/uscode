@@ -11,16 +11,39 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch46/schVI/m__us_usc_t15_s2021 to 2034.md) | [Next](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_s2041 to 2044.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46A)
+[Previous](./../../../..//us/usc/t15/ch46/schVI/m__us_usc_t15_ch46_schVI.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_ch47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46A)
 
 ## CHAPTER 46A—AUTOMOBILE TITLE FRAUD
 
+§§ 2041 to 2044. __Repealed.__  __[__  __Pub. L. 103–272, § 7(b)__  __][/us/pl/103/272/s7/b]__  __,__  __July 5, 1994__  __,__  __[__  __108 Stat. 1379__  __][/us/stat/108/1379]__ 
+
+    Section 2041, [Pub. L. 102–519, title II, § 201][/us/pl/102/519/s201], Oct. 25, 1992, [106 Stat. 3389][/us/stat/106/3389], defined terms for purposes of this chapter. See [section 30501 of Title 49][/us/usc/t49/s30501], Transportation.
+
+    Section 2042, [Pub. L. 102–519, title II, § 202][/us/pl/102/519/s202], Oct. 25, 1992, [106 Stat. 3390][/us/stat/106/3390], related to National Motor Vehicle Title Information System. See [section 30502 of Title 49][/us/usc/t49/s30502].
+
+    Section 2043, [Pub. L. 102–519, title II, § 203][/us/pl/102/519/s203], Oct. 25, 1992, [106 Stat. 3391][/us/stat/106/3391], related to State participation in National Motor Vehicle Title Information System. See [section 30503 of Title 49][/us/usc/t49/s30503].
+
+    Section 2044, [Pub. L. 102–519, title II, § 204][/us/pl/102/519/s204], Oct. 25, 1992, [106 Stat. 3392][/us/stat/106/3392], related to reporting requirements for operators of junk and salvage yards and insurance carriers. See sections 30504 and 30505 of Title 49.
+
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch46/schVI/m__us_usc_t15_s2021 to 2034.md) | [Next](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_s2041 to 2044.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46A)
+[Previous](./../../../..//us/usc/t15/ch46/schVI/m__us_usc_t15_ch46_schVI.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_ch47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46A)
 
 ----------
 ----------
 
+[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
+[/us/pl/102/519/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs201
+[/us/stat/106/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3389
+[/us/usc/t49/s30501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30501
+[/us/pl/102/519/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs202
+[/us/stat/106/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3390
+[/us/usc/t49/s30502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30502
+[/us/pl/102/519/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs203
+[/us/stat/106/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3391
+[/us/usc/t49/s30503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30503
+[/us/pl/102/519/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs204
+[/us/stat/106/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3392
 
 

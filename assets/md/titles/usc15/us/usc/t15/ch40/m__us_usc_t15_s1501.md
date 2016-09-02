@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_ch40.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1502, 1503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1501)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_ch40.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1501)
 
 ## § 1501. Establishment of Department; Secretary; seal
 
@@ -217,9 +217,25 @@
 
     Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
+§§ 1502, 1503. __Omitted__ 
+
+ __Codification__ 
+
+    Section 1502, [act June 5, 1939, ch. 180, § 1][/us/act/1939-06-05/ch180/s1], [53 Stat. 808][/us/stat/53/808], established position of Under Secretary of Commerce. Position abolished by section 2(b)(2) of Reorg. Plan No. 3 of 1979, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381], set out in the Appendix to Title 5, Government Organization and Employees.
+
+    Section 1503, [act June 5, 1939, ch. 180, § 2][/us/act/1939-06-05/ch180/s2], [53 Stat. 808][/us/stat/53/808], provided for performance by Under Secretary of Commerce of Secretary’s duties on latter’s death, absence, etc.
+
+ __Under Secretary for International Trade__ 
+
+    The additional office of Under Secretary for International Trade, in the Department of Commerce, was provided for by section 2(c) of Reorg. Plan No. 3 of 1979, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381], set out in the Appendix to Title 5, Government Organization and Employees, to be appointed by the President, by and with the advice and consent of the Senate, to receive compensation at the rate payable for Level III of the Executive Schedule, and to perform such duties and exercise such powers as the Secretary of Commerce may from time to time prescribe.
+
+ __Under Secretary for Transportation__ 
+
+    The additional office of “Under Secretary of Commerce for Transportation”, in the Department of Commerce, was provided for by section 301 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1273][/us/stat/64/1273], set out in the Appendix to Title 5, Government Organization and Employees, to be appointed by the President, by and with the advice and consent of the Senate, to receive compensation at the rate prescribed by law for Under Secretaries of Executive departments, and to perform such duties as the Secretary of Commerce shall prescribe.
+
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_ch40.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1502, 1503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1501)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_ch40.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1503a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1501)
 
 ----------
 ----------
@@ -262,5 +278,12 @@
 [/us/stat/68/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F430
 [/us/stat/64/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1273
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570
+[/us/act/1939-06-05/ch180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-05%2Fch180%2Fs1
+[/us/stat/53/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F808
+[/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
+[/us/act/1939-06-05/ch180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-05%2Fch180%2Fs2
+[/us/stat/53/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F808
+[/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
+[/us/stat/64/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1273
 
 

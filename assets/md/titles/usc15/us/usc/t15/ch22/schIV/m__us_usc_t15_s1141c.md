@@ -15,7 +15,7 @@
 
 ## § 1141c. Restriction, abandonment, cancellation, or expiration of a basic application or basic registration
 
-With respect to an international application transmitted to the International Bureau under [section 1141b of this title][/us/usc/t15/s1141b], the Director shall notify the International Bureau whenever the basic application or basic registration which is the basis for the international application has been restricted, abandoned, or canceled, or has expired, with respect to some or all of the goods and services listed in the international registration—
+    With respect to an international application transmitted to the International Bureau under [section 1141b of this title][/us/usc/t15/s1141b], the Director shall notify the International Bureau whenever the basic application or basic registration which is the basis for the international application has been restricted, abandoned, or canceled, or has expired, with respect to some or all of the goods and services listed in the international registration—
 
     (1) within 5 years after the international registration date; or
 

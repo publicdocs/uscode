@@ -15,7 +15,7 @@
 
 ## § 1261. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (a) The term “territory” means any territory or possession of the United States, including the District of Columbia and the Commonwealth of Puerto Rico but excluding the Canal Zone.
 
@@ -269,7 +269,7 @@ For the purposes of this chapter—
 
 >     “(2) with a diameter of 1.75 inches or less,
 
->         shall be considered a banned hazardous substance under section 2(q) of the Federal Hazardous Substances Act ([15 U.S.C. 1261(q)][/us/usc/t15/s1261/q]).”
+>     shall be considered a banned hazardous substance under section 2(q) of the Federal Hazardous Substances Act ([15 U.S.C. 1261(q)][/us/usc/t15/s1261/q]).”
 
     \[[Section 101(b) of Pub. L. 103–267][/us/pl/103/267/s101/b], set out above, effective Jan. 1, 1995, see [section 101(d) of Pub. L. 103–267][/us/pl/103/267/s101/d], set out as an Effective Date note under [section 1278 of this title][/us/usc/t15/s1278].\]
 

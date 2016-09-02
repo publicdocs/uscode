@@ -15,7 +15,7 @@
 
 ## § 5543. Authorization of appropriations
 
-In addition to amounts otherwise made available for high-end computing, there are authorized to be appropriated to the Secretary to carry out this subchapter—
+    In addition to amounts otherwise made available for high-end computing, there are authorized to be appropriated to the Secretary to carry out this subchapter—
 
     (1) $50,000,000 for fiscal year 2005;
 

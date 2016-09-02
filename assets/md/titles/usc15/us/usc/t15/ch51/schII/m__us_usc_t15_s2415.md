@@ -15,7 +15,7 @@
 
 ## § 2415. Powers of the Center
 
-In carrying out its functions, the Center is authorized—
+    In carrying out its functions, the Center is authorized—
 
     (1) to enter into contracts or other funding arrangements, or modifications thereof, in order to carry out the provisions of this chapter;
 

@@ -15,7 +15,7 @@
 
 ## § 8403. Negative option marketing on the Internet
 
-It shall be unlawful for any person to charge or attempt to charge any consumer for any goods or services sold in a transaction effected on the Internet through a negative option feature (as defined in the Federal Trade Commission’s Telemarketing Sales Rule in part 310 of title 16, Code of Federal Regulations), unless the person—
+    It shall be unlawful for any person to charge or attempt to charge any consumer for any goods or services sold in a transaction effected on the Internet through a negative option feature (as defined in the Federal Trade Commission’s Telemarketing Sales Rule in part 310 of title 16, Code of Federal Regulations), unless the person—
 
     (1) provides text that clearly and conspicuously discloses all material terms of the transaction before obtaining the consumer’s billing information;
 

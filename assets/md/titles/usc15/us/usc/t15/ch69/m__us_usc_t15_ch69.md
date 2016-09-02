@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_s4291, 4292.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
+[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
 
 ## CHAPTER 69—COOPERATIVE RESEARCH
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4301" data-uslm-ref="/us/usc/t15/s4301">4301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4302" data-uslm-ref="/us/usc/t15/s4302">4302.</a>  </td>
 
     <td> Rule of reason standard.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4303" data-uslm-ref="/us/usc/t15/s4303">4303.</a>  </td>
 
     <td> Limitation on recovery.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4304" data-uslm-ref="/us/usc/t15/s4304">4304.</a>  </td>
 
     <td> Award of costs, including attorney’s fees, to substantially prevailing party; offset.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4305" data-uslm-ref="/us/usc/t15/s4305">4305.</a>  </td>
 
     <td> Disclosure of joint venture.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs4306" data-uslm-ref="/us/usc/t15/s4306">4306.</a>  </td>
 
     <td> Application of section 4303 protections to production of products, processes, and services.  </td>
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_s4291, 4292.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
+[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs291" data-uslm-ref="/us/usc/t15/s291">291.</a>  </td>
 
     <td> Stamping with words “United States assay”, etc., unlawful.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs292" data-uslm-ref="/us/usc/t15/s292">292.</a>  </td>
 
     <td> Forfeiture.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs293" data-uslm-ref="/us/usc/t15/s293">293.</a>  </td>
 
     <td> Penalty for infraction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs294" data-uslm-ref="/us/usc/t15/s294">294.</a>  </td>
 
     <td> Importation or transportation of falsely marked gold or silver ware prohibited.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs295" data-uslm-ref="/us/usc/t15/s295">295.</a>  </td>
 
     <td> Standard of fineness of gold articles; deviation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs296" data-uslm-ref="/us/usc/t15/s296">296.</a>  </td>
 
     <td> Standard of fineness of silver articles; deviation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs297" data-uslm-ref="/us/usc/t15/s297">297.</a>  </td>
 
     <td> Stamping plated articles.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs298" data-uslm-ref="/us/usc/t15/s298">298.</a>  </td>
 
     <td> Violations of law.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs299" data-uslm-ref="/us/usc/t15/s299">299.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs300" data-uslm-ref="/us/usc/t15/s300">300.</a>  </td>
 
     <td> Application of State laws.  </td>
 

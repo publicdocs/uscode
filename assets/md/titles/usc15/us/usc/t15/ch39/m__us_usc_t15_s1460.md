@@ -15,7 +15,7 @@
 
 ## § 1460. Savings provisions
 
-Nothing contained in this chapter shall be construed to repeal, invalidate, or supersede—
+    Nothing contained in this chapter shall be construed to repeal, invalidate, or supersede—
 
     (a) the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] or any statute defined therein as an antitrust Act;
 

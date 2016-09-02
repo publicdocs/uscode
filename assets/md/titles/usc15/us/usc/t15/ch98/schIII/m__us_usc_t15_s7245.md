@@ -15,7 +15,7 @@
 
 ## § 7245. Rules of professional responsibility for attorneys
 
-Not later than 180 days after July 30, 2002, the Commission shall issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers, including a rule—
+    Not later than 180 days after July 30, 2002, the Commission shall issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers, including a rule—
 
     (1) requiring an attorney to report evidence of a material violation of securities law or breach of fiduciary duty or similar violation by the company or any agent thereof, to the chief legal counsel or the chief executive officer of the company (or the equivalent thereof); and
 

@@ -15,7 +15,7 @@
 
 ## § 720. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Alaska natural gas__ 
 

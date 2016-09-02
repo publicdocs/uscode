@@ -15,7 +15,7 @@
 
 ## § 6904. Qualified organizations
 
-For purposes of eligibility for assistance under this chapter, a qualified organization shall be—
+    For purposes of eligibility for assistance under this chapter, a qualified organization shall be—
 
     (1) a nonprofit microenterprise development organization or program (or a group or collaborative thereof) that has a demonstrated record of delivering microenterprise services to disadvantaged entrepreneurs;
 

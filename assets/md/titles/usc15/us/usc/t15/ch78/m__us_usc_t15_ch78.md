@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5201" data-uslm-ref="/us/usc/t15/s5201">5201.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5202" data-uslm-ref="/us/usc/t15/s5202">5202.</a>  </td>
 
     <td> National Action Plan on Advanced Superconductivity Research and Development.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5203" data-uslm-ref="/us/usc/t15/s5203">5203.</a>  </td>
 
     <td> Department of Energy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5204" data-uslm-ref="/us/usc/t15/s5204">5204.</a>  </td>
 
     <td> National Institute of Standards and Technology.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5205" data-uslm-ref="/us/usc/t15/s5205">5205.</a>  </td>
 
     <td> National Science Foundation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5206" data-uslm-ref="/us/usc/t15/s5206">5206.</a>  </td>
 
     <td> National Aeronautics and Space Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5207" data-uslm-ref="/us/usc/t15/s5207">5207.</a>  </td>
 
     <td> Department of Defense.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5208" data-uslm-ref="/us/usc/t15/s5208">5208.</a>  </td>
 
     <td> International cooperation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5209" data-uslm-ref="/us/usc/t15/s5209">5209.</a>  </td>
 
     <td> Technology transfer.  </td>
 

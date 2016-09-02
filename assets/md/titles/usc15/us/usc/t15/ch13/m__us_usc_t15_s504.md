@@ -15,7 +15,7 @@
 
 ## § 504. Powers of Foundation
 
-The corporation—
+    The corporation—
 
     (a) Shall have perpetual succession;
 

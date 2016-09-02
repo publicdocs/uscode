@@ -15,7 +15,7 @@
 
 ## § 714c. Specific powers of Corporation
 
-In the fulfillment of its purposes and in carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
+    In the fulfillment of its purposes and in carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
 
     (a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
@@ -105,7 +105,7 @@ In the fulfillment of its purposes and in carrying out its annual budget program
 
 >     “(2) cannot be exported under such contracts due to the imposition, on January 4, 1980, of restrictions on the export of agricultural products to the Union of Soviet Socialist Republics,
 
->         in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions.”
+>     in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions.”
 
 ----------
 

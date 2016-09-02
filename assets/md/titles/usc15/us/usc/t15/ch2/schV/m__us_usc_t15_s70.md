@@ -15,7 +15,7 @@
 
 ## § 70. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “person” means an individual, partnership, corporation, association or any other form of business enterprise.
 

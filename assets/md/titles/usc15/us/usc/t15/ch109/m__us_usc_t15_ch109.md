@@ -41,7 +41,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8301" data-uslm-ref="/us/usc/t15/s8301">8301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8302" data-uslm-ref="/us/usc/t15/s8302">8302.</a>  </td>
 
     <td> Review of regulatory authority.  </td>
 
@@ -57,7 +57,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8303" data-uslm-ref="/us/usc/t15/s8303">8303.</a>  </td>
 
     <td> Abusive swaps.  </td>
 
@@ -65,7 +65,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8304" data-uslm-ref="/us/usc/t15/s8304">8304.</a>  </td>
 
     <td> Authority to prohibit participation in swap activities.  </td>
 
@@ -73,7 +73,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8305" data-uslm-ref="/us/usc/t15/s8305">8305.</a>  </td>
 
     <td> Prohibition against Federal Government bailouts of swaps entities.  </td>
 
@@ -81,7 +81,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8306" data-uslm-ref="/us/usc/t15/s8306">8306.</a>  </td>
 
     <td> Determining status of novel derivative products.  </td>
 
@@ -89,7 +89,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8307" data-uslm-ref="/us/usc/t15/s8307">8307.</a>  </td>
 
     <td> Studies.  </td>
 
@@ -97,7 +97,7 @@ Part A—Regulatory Authority  </td>
 
   <tr>
 
-    <td> 8308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8308" data-uslm-ref="/us/usc/t15/s8308">8308.</a>  </td>
 
     <td> Memorandum.  </td>
 
@@ -113,7 +113,7 @@ Part B—Regulation of Swap Markets  </td>
 
   <tr>
 
-    <td> 8321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8321" data-uslm-ref="/us/usc/t15/s8321">8321.</a>  </td>
 
     <td> Authority to define terms.  </td>
 
@@ -121,7 +121,7 @@ Part B—Regulation of Swap Markets  </td>
 
   <tr>
 
-    <td> 8322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8322" data-uslm-ref="/us/usc/t15/s8322">8322.</a>  </td>
 
     <td> Authority of FERC.  </td>
 
@@ -129,7 +129,7 @@ Part B—Regulation of Swap Markets  </td>
 
   <tr>
 
-    <td> 8323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8323" data-uslm-ref="/us/usc/t15/s8323">8323.</a>  </td>
 
     <td> Rulemaking on conflict of interest.  </td>
 
@@ -137,7 +137,7 @@ Part B—Regulation of Swap Markets  </td>
 
   <tr>
 
-    <td> 8324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8324" data-uslm-ref="/us/usc/t15/s8324">8324.</a>  </td>
 
     <td> Savings clause.  </td>
 
@@ -145,7 +145,7 @@ Part B—Regulation of Swap Markets  </td>
 
   <tr>
 
-    <td> 8325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8325" data-uslm-ref="/us/usc/t15/s8325">8325.</a>  </td>
 
     <td> International harmonization.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—REGULATION OF SECURITY-BASED SWAP MARKETS  </td>
 
   <tr>
 
-    <td> 8341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8341" data-uslm-ref="/us/usc/t15/s8341">8341.</a>  </td>
 
     <td> Authority to further define terms.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—REGULATION OF SECURITY-BASED SWAP MARKETS  </td>
 
   <tr>
 
-    <td> 8342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8342" data-uslm-ref="/us/usc/t15/s8342">8342.</a>  </td>
 
     <td> Savings clause.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—REGULATION OF SECURITY-BASED SWAP MARKETS  </td>
 
   <tr>
 
-    <td> 8343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8343" data-uslm-ref="/us/usc/t15/s8343">8343.</a>  </td>
 
     <td> Rulemaking on conflict of interest.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—REGULATION OF SECURITY-BASED SWAP MARKETS  </td>
 
   <tr>
 
-    <td> 8344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs8344" data-uslm-ref="/us/usc/t15/s8344">8344.</a>  </td>
 
     <td> Other authority.  </td>
 

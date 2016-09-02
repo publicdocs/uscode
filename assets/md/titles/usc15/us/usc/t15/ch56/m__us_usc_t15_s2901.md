@@ -15,7 +15,7 @@
 
 ## § 2901. Findings
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) Weather and climate change affect food production, energy use, land use, water resources and other factors vital to national security and human welfare.
 

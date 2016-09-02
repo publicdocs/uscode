@@ -15,7 +15,7 @@
 
 ## § 1802. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “antitrust law” means the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] and each statute defined by section 4 thereof \[[15 U.S.C. 44][/us/usc/t15/s44]\] as “Antitrust Acts” and all amendments to such Act and such statutes and any other Acts in pari materia.
 

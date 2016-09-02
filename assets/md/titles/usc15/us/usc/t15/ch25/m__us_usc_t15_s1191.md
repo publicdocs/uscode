@@ -15,7 +15,7 @@
 
 ## § 1191. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “person” means an individual, partnership, corporation, association, or any other form of business enterprise.
 

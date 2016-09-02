@@ -15,7 +15,7 @@
 
 ## § 6827. Definitions
 
-For purposes of this subchapter, the following definitions shall apply:
+    For purposes of this subchapter, the following definitions shall apply:
 
     (1) __Customer__ 
 

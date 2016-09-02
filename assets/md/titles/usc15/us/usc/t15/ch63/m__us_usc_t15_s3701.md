@@ -15,7 +15,7 @@
 
 ## § 3701. Findings
 
-The Congress finds and declares that:
+    The Congress finds and declares that:
 
     (1) Technology and industrial innovation are central to the economic, environmental, and social well-being of citizens of the United States.
 
@@ -127,7 +127,11 @@ The Congress finds and declares that:
 
 >                 “(iii) The business climate of the United States and those of other countries that compete economically with the United States.
 
->                 “(iv) Regional issues that influence the economic competitiveness and innovation capacity of the United States, including—         “(I) the roles of State and local governments and institutions of higher education; and
+>                 “(iv)
+
+>                  Regional issues that influence the economic competitiveness and innovation capacity of the United States, including—
+
+>                          “(I) the roles of State and local governments and institutions of higher education; and
 
 >                          “(II) regional factors that contribute positively to innovation.
 
@@ -177,7 +181,9 @@ The Congress finds and declares that:
 
 >                 “(ii) __Composition.—__ 
 
->                 The Advisory Board established under clause (i) shall be comprised of 15 members, appointed by the Secretary—         “(I) who shall represent all major industry sectors;
+>                 The Advisory Board established under clause (i) shall be comprised of 15 members, appointed by the Secretary—
+
+>                          “(I) who shall represent all major industry sectors;
 
 >                          “(II) a majority of whom should be from private industry, including large and small firms, representing advanced technology sectors and more traditional sectors that use technology; and
 

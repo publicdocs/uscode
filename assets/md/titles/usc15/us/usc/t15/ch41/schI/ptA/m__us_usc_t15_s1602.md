@@ -115,17 +115,17 @@
 
                 (ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act ([12 U.S.C. 1709(c)(2)(A)][/us/usc/t12/s1709/c/2/A]), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
 
-                (iii)
+                (iii) any premium paid by the consumer after closing.
 
-                 any premium paid by the consumer after closing.
+        (2)
 
-                    (2)
+            (A)
 
-                        (i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
+             After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
-                        (ii) warranted by the need for credit.
+                (i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 
-                (A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+                (ii) warranted by the need for credit.
 
             (B)
 
@@ -135,13 +135,13 @@
 
                 (ii) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(II) being less than 8 percentage points or greater than 12 percentage points.
 
-            (C)
+            (C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
-             In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
+        (3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
 
-                (3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
+        (4)
 
-                (4) For purposes of paragraph (1)(B), points and fees shall include—
+         For purposes of paragraph (1)(B), points and fees shall include—
 
             (A) all items included in the finance charge, except interest or the time-price differential;
 
@@ -163,15 +163,13 @@
 
             (F) all prepayment fees or penalties that are incurred by the consumer if the loan refinances a previous loan made or currently held by the same creditor or an affiliate of the creditor; and
 
-            (G)
+            (G) such other charges as the Bureau determines to be appropriate.
 
-             such other charges as the Bureau determines to be appropriate.
+        (5) __Calculation of points and fees for open-end consumer credit plans.—__ 
 
-                (5) __Calculation of points and fees for open-end consumer credit plans.—__ 
+        In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and [section 1639 of this title][/us/usc/t15/s1639], by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
 
-                In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and [section 1639 of this title][/us/usc/t15/s1639], by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
-
-                (6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
+        (6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 
     (cc)
 

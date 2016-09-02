@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330" data-uslm-ref="/us/usc/t15/s330">330.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 330a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330a" data-uslm-ref="/us/usc/t15/s330a">330a.</a>  </td>
 
     <td> Report requirement; form; information; time of submission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 330b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330b" data-uslm-ref="/us/usc/t15/s330b">330b.</a>  </td>
 
     <td> Duties of Secretary.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 330c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330c" data-uslm-ref="/us/usc/t15/s330c">330c.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 330d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330d" data-uslm-ref="/us/usc/t15/s330d">330d.</a>  </td>
 
     <td> Violation; penalty.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 330e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs330e" data-uslm-ref="/us/usc/t15/s330e">330e.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

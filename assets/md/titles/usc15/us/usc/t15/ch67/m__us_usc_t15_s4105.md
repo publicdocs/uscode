@@ -15,7 +15,7 @@
 
 ## § 4105. Administration
 
-The Commission may—
+    The Commission may—
 
     (1) in accordance with the civil service laws and subchapter III of chapter 53 of title 5, appoint and fix the compensation of an Executive Director and necessary additional staff personnel, but not to exceed a total of seven compensated personnel;
 

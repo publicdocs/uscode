@@ -355,55 +355,55 @@
 
                 A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
 
-        “notice to the home loan applicant
+            “notice to the home loan applicant
 
-        “In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores.
+                “In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores.
 
-        “The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change.
+                “The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change.
 
-        “Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
+                “Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
 
-        “If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
+                “If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
 
-        “If you have questions concerning the terms of the loan, contact the lender.”.
+                “If you have questions concerning the terms of the loan, contact the lender.”.
 
-        (E) __Actions not required under this subsection__ 
+            (E) __Actions not required under this subsection__ 
 
-        This subsection shall not require any person to—
+            This subsection shall not require any person to—
 
-            (i) explain the information provided pursuant to subsection (f) of this section;
+                (i) explain the information provided pursuant to subsection (f) of this section;
 
-            (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+                (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
 
-            (iii) disclose any credit score or related information obtained by the user after a loan has closed;
+                (iii) disclose any credit score or related information obtained by the user after a loan has closed;
 
-            (iv) provide more than 1 disclosure per loan transaction; or
+                (iv) provide more than 1 disclosure per loan transaction; or
 
-            (v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
+                (v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
 
-        (F) __No obligation for content__ 
+            (F) __No obligation for content__ 
 
-            (i) __In general__ 
+                (i) __In general__ 
 
-                The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
+                    The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
 
-            (ii) __Limit on liability__ 
+                (ii) __Limit on liability__ 
 
-                No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
+                    No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
 
-        (G) __Person defined as excluding enterprise__ 
+            (G) __Person defined as excluding enterprise__ 
 
-            As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of [section 4502 of title 12][/us/usc/t12/s4502]).
+                As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of [section 4502 of title 12][/us/usc/t12/s4502]).
 
-    (2) __Prohibition on disclosure clauses null and void__ 
+        (2) __Prohibition on disclosure clauses null and void__ 
 
-        (A) __In general__ 
+            (A) __In general__ 
 
-            Any provision in a contract that prohibits the disclosure of a credit score by a person who makes or arranges loans or a consumer reporting agency is void.
+                Any provision in a contract that prohibits the disclosure of a credit score by a person who makes or arranges loans or a consumer reporting agency is void.
 
-        (B) __No liability for disclosure under this subsection__ 
+            (B) __No liability for disclosure under this subsection__ 
 
-            A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
+                A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
 
 ([Pub. L. 90–321, title VI, § 609][/us/pl/90/321/s609], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1131][/us/stat/84/1131]; amended [Pub. L. 103–325, title III, § 339][/us/pl/103/325/s339], Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 104–208, div. A, title II, § 2408(a)][/us/pl/104/208/s2408/a]–(d)(1), (e)(5)(A), Sept. 30, 1996, [110 Stat. 3009–436][/us/stat/110/3009-436], 3009–437, 3009–439; [Pub. L. 105–347, § 4(a)][/us/pl/105/347/s4/a], Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210]; [Pub. L. 108–159, title I][/us/pl/108/159], §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, [117 Stat. 1961][/us/stat/117/1961], 1970, 1973–1975, 2011; [Pub. L. 111–203, title X, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 

@@ -15,7 +15,7 @@
 
 ## § 1666d. Treatment of credit balances
 
-Whenever a credit balance in excess of $1 is created in connection with a consumer credit transaction through (1) transmittal of funds to a creditor in excess of the total balance due on an account, (2) rebates of unearned finance charges or insurance premiums, or (3) amounts otherwise owed to or held for the benefit of an obligor, the creditor shall—
+    Whenever a credit balance in excess of $1 is created in connection with a consumer credit transaction through (1) transmittal of funds to a creditor in excess of the total balance due on an account, (2) rebates of unearned finance charges or insurance premiums, or (3) amounts otherwise owed to or held for the benefit of an obligor, the creditor shall—
 
     (A) credit the amount of the credit balance to the consumer’s account;
 

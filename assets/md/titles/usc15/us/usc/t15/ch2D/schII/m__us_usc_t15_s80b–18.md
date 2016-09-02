@@ -15,7 +15,7 @@
 
 ## § 80b–18. Hiring and leasing authority of Commission
 
-The provisions of [section 78d(b) of this title][/us/usc/t15/s78d/b] shall be applicable with respect to the power of the Commission—
+    The provisions of [section 78d(b) of this title][/us/usc/t15/s78d/b] shall be applicable with respect to the power of the Commission—
 
     (1) to appoint and fix the compensation of such other employees as may be necessary for carrying out its functions under this subchapter, and
 

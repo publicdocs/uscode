@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5301" data-uslm-ref="/us/usc/t15/s5301">5301.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5302" data-uslm-ref="/us/usc/t15/s5302">5302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5303" data-uslm-ref="/us/usc/t15/s5303">5303.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5304" data-uslm-ref="/us/usc/t15/s5304">5304.</a>  </td>
 
     <td> Operation of program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5305" data-uslm-ref="/us/usc/t15/s5305">5305.</a>  </td>
 
     <td> Review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5306" data-uslm-ref="/us/usc/t15/s5306">5306.</a>  </td>
 
     <td> Industrial Advisory Board.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5307" data-uslm-ref="/us/usc/t15/s5307">5307.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5308" data-uslm-ref="/us/usc/t15/s5308">5308.</a>  </td>
 
     <td> Protection of proprietary rights.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs5309" data-uslm-ref="/us/usc/t15/s5309">5309.</a>  </td>
 
     <td> Omitted.  </td>
 

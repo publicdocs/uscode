@@ -15,7 +15,7 @@
 
 ## § 3604. Exemptions
 
-The provisions of this chapter shall not apply to—
+    The provisions of this chapter shall not apply to—
 
     (1) a cooperative or condominium unit sold or offered for sale by the Federal Government, by any State or local government, by any corporate instrumentality of the United States, or by any agency thereof;
 

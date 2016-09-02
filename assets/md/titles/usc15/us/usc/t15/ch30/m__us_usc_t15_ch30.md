@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1261" data-uslm-ref="/us/usc/t15/s1261">1261.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1262" data-uslm-ref="/us/usc/t15/s1262">1262.</a>  </td>
 
     <td> Declaration of hazardous substances.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1263" data-uslm-ref="/us/usc/t15/s1263">1263.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1264" data-uslm-ref="/us/usc/t15/s1264">1264.</a>  </td>
 
     <td> Penalties; exceptions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1265" data-uslm-ref="/us/usc/t15/s1265">1265.</a>  </td>
 
     <td> Seizures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1266" data-uslm-ref="/us/usc/t15/s1266">1266.</a>  </td>
 
     <td> Hearing before report of criminal violation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1267" data-uslm-ref="/us/usc/t15/s1267">1267.</a>  </td>
 
     <td> Injunctions; criminal contempt; trial by court or jury.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1268.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1268" data-uslm-ref="/us/usc/t15/s1268">1268.</a>  </td>
 
     <td> Proceedings in name of United States; subpenas.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1269.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1269" data-uslm-ref="/us/usc/t15/s1269">1269.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1270.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1270" data-uslm-ref="/us/usc/t15/s1270">1270.</a>  </td>
 
     <td> Examinations and investigations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1271" data-uslm-ref="/us/usc/t15/s1271">1271.</a>  </td>
 
     <td> Records of interstate shipment.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1272" data-uslm-ref="/us/usc/t15/s1272">1272.</a>  </td>
 
     <td> Publicity; reports; dissemination of information.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1273" data-uslm-ref="/us/usc/t15/s1273">1273.</a>  </td>
 
     <td> Imports.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1274" data-uslm-ref="/us/usc/t15/s1274">1274.</a>  </td>
 
     <td> Remedies respecting banned hazardous substances.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1275" data-uslm-ref="/us/usc/t15/s1275">1275.</a>  </td>
 
     <td> Toxicological Advisory Board.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1276" data-uslm-ref="/us/usc/t15/s1276">1276.</a>  </td>
 
     <td> Congressional veto of hazardous substances regulations.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1277" data-uslm-ref="/us/usc/t15/s1277">1277.</a>  </td>
 
     <td> Labeling of art materials.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1278" data-uslm-ref="/us/usc/t15/s1278">1278.</a>  </td>
 
     <td> Requirements for labeling certain toys and games.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1278a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1278a" data-uslm-ref="/us/usc/t15/s1278a">1278a.</a>  </td>
 
     <td> Children’s products containing lead; lead paint rule.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 662. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Administration” means the Small Business Administration;
 

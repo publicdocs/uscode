@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s285, 286.md) | [Next](./../../../..//us/usc/t15/ch7A/m__us_usc_t15_s290.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch7A)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s284.md) | [Next](./../../../..//us/usc/t15/ch7A/m__us_usc_t15_s290.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch7A)
 
 ## CHAPTER 7A—STANDARD REFERENCE DATA PROGRAM
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290" data-uslm-ref="/us/usc/t15/s290">290.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 290a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290a" data-uslm-ref="/us/usc/t15/s290a">290a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 290b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290b" data-uslm-ref="/us/usc/t15/s290b">290b.</a>  </td>
 
     <td> Collection, compilation, critical evaluation, publication and dissemination of standard reference data.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 290c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290c" data-uslm-ref="/us/usc/t15/s290c">290c.</a>  </td>
 
     <td> Standards, criteria, and procedures for preparation and publication of standard reference data; publication in Federal Register.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 290d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290d" data-uslm-ref="/us/usc/t15/s290d">290d.</a>  </td>
 
     <td> Sale of standard reference data; cost recovery; proceeds subject to National Institute of Standards and Technology.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 290e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290e" data-uslm-ref="/us/usc/t15/s290e">290e.</a>  </td>
 
     <td> United States copyright and renewal rights.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 290f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs290f" data-uslm-ref="/us/usc/t15/s290f">290f.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s285, 286.md) | [Next](./../../../..//us/usc/t15/ch7A/m__us_usc_t15_s290.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch7A)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s284.md) | [Next](./../../../..//us/usc/t15/ch7A/m__us_usc_t15_s290.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch7A)
 
 ----------
 ----------

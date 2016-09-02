@@ -15,7 +15,7 @@
 
 ## § 1611. Criminal liability for willful and knowing violation
 
-Whoever willfully and knowingly
+    Whoever willfully and knowingly
 
     (1) gives false or inaccurate information or fails to provide information which he is required to disclose under the provisions of this subchapter or any regulation issued thereunder,
 
@@ -23,7 +23,7 @@ Whoever willfully and knowingly
 
     (3) otherwise fails to comply with any requirement imposed under this subchapter,
 
-        shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+    shall be fined not more than $5,000 or imprisoned not more than one year, or both.
 
 ([Pub. L. 90–321, title I, § 112][/us/pl/90/321/s112], May 29, 1968, [82 Stat. 151][/us/stat/82/151]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 

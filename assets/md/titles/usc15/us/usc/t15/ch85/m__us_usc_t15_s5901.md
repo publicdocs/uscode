@@ -15,7 +15,7 @@
 
 ## § 5901. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the distribution of goods and services to consumers in the United States requires the free flow of currency, bullion, securities, supplemental nutrition assistance program benefits, and other items of unusual value in interstate commerce;
 

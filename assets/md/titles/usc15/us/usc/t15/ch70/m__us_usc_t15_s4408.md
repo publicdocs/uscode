@@ -15,7 +15,7 @@
 
 ## § 4408. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “smokeless tobacco” has the meaning given such term by [section 387(18) of title 21][/us/usc/t21/s387/18].
 

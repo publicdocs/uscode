@@ -15,7 +15,7 @@
 
 ## § 6302. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to improve and expand the system of safety precautions that protects the welfare of professional boxers; and
 

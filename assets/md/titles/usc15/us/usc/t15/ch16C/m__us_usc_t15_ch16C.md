@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs791" data-uslm-ref="/us/usc/t15/s791">791.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs792" data-uslm-ref="/us/usc/t15/s792">792.</a>  </td>
 
     <td> Coal conversion and allocation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs793" data-uslm-ref="/us/usc/t15/s793">793.</a>  </td>
 
     <td> Protection of public health and environment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs794" data-uslm-ref="/us/usc/t15/s794">794.</a>  </td>
 
     <td> Energy conservation study.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs795" data-uslm-ref="/us/usc/t15/s795">795.</a>  </td>
 
     <td> Report to Congress by January 31, 1975.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs796" data-uslm-ref="/us/usc/t15/s796">796.</a>  </td>
 
     <td> Reporting of energy information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 797.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs797" data-uslm-ref="/us/usc/t15/s797">797.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 798.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs798" data-uslm-ref="/us/usc/t15/s798">798.</a>  </td>
 
     <td> Definitions.  </td>
 

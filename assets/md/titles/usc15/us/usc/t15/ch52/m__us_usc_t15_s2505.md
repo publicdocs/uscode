@@ -15,7 +15,7 @@
 
 ## § 2505. Research and development
 
-The Secretary of Energy, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas related to electric and hybrid vehicles, including—
+    The Secretary of Energy, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas related to electric and hybrid vehicles, including—
 
     (1) energy storage technology, including batteries and their potential for convenient recharging;
 

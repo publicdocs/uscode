@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1471" data-uslm-ref="/us/usc/t15/s1471">1471.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1472" data-uslm-ref="/us/usc/t15/s1472">1472.</a>  </td>
 
     <td> Special packaging standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1473" data-uslm-ref="/us/usc/t15/s1473">1473.</a>  </td>
 
     <td> Conventional packages, marketing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1474" data-uslm-ref="/us/usc/t15/s1474">1474.</a>  </td>
 
     <td> Regulations for special packaging standards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1475" data-uslm-ref="/us/usc/t15/s1475">1475.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1476" data-uslm-ref="/us/usc/t15/s1476">1476.</a>  </td>
 
     <td> Preemption of Federal standards.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1477" data-uslm-ref="/us/usc/t15/s1477">1477.</a>  </td>
 
     <td> Enforcement by State Attorneys General.  </td>
 

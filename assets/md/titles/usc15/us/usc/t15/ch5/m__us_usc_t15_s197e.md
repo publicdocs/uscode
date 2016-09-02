@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197 to 197d.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs197e)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s196.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs197e)
 
 ## § 197e. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197 to 197d.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs197e)
+[Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s196.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s197f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs197e)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2101" data-uslm-ref="/us/usc/t15/s2101">2101.</a>  </td>
 
     <td> Marking requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2102" data-uslm-ref="/us/usc/t15/s2102">2102.</a>  </td>
 
     <td> Private enforcement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2103" data-uslm-ref="/us/usc/t15/s2103">2103.</a>  </td>
 
     <td> Enforcement by Federal Trade Commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2104" data-uslm-ref="/us/usc/t15/s2104">2104.</a>  </td>
 
     <td> Imports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2105" data-uslm-ref="/us/usc/t15/s2105">2105.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2106" data-uslm-ref="/us/usc/t15/s2106">2106.</a>  </td>
 
     <td> Definitions.  </td>
 

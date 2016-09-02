@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1801" data-uslm-ref="/us/usc/t15/s1801">1801.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1802" data-uslm-ref="/us/usc/t15/s1802">1802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1803" data-uslm-ref="/us/usc/t15/s1803">1803.</a>  </td>
 
     <td> Antitrust exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1804" data-uslm-ref="/us/usc/t15/s1804">1804.</a>  </td>
 
     <td> Reinstatement of joint operating arrangements previously adjudged unlawful under antitrust laws.  </td>
 

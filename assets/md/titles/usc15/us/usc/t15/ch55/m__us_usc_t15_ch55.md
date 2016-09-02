@@ -33,7 +33,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2801" data-uslm-ref="/us/usc/t15/s2801">2801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2802" data-uslm-ref="/us/usc/t15/s2802">2802.</a>  </td>
 
     <td> Franchise relationship.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2803" data-uslm-ref="/us/usc/t15/s2803">2803.</a>  </td>
 
     <td> Trial and interim franchises.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2804" data-uslm-ref="/us/usc/t15/s2804">2804.</a>  </td>
 
     <td> Notification of termination or nonrenewal of franchise relationship.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2805" data-uslm-ref="/us/usc/t15/s2805">2805.</a>  </td>
 
     <td> Enforcement provisions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2806" data-uslm-ref="/us/usc/t15/s2806">2806.</a>  </td>
 
     <td> Relationship of statutory provisions to State and local laws.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FRANCHISE PROTECTION  </td>
 
   <tr>
 
-    <td> 2807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2807" data-uslm-ref="/us/usc/t15/s2807">2807.</a>  </td>
 
     <td> Prohibition on restriction of installation of renewable fuel pumps.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—OCTANE DISCLOSURE  </td>
 
   <tr>
 
-    <td> 2821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2821" data-uslm-ref="/us/usc/t15/s2821">2821.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—OCTANE DISCLOSURE  </td>
 
   <tr>
 
-    <td> 2822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2822" data-uslm-ref="/us/usc/t15/s2822">2822.</a>  </td>
 
     <td> Automotive fuel rating testing and disclosure requirements.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—OCTANE DISCLOSURE  </td>
 
   <tr>
 
-    <td> 2823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2823" data-uslm-ref="/us/usc/t15/s2823">2823.</a>  </td>
 
     <td> Administration and enforcement provisions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—OCTANE DISCLOSURE  </td>
 
   <tr>
 
-    <td> 2824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2824" data-uslm-ref="/us/usc/t15/s2824">2824.</a>  </td>
 
     <td> Relationship of statutory provisions to State and local laws.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—SUBSIDIZATION OF MOTOR FUEL MARKETING  </td>
 
   <tr>
 
-    <td> 2841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2841" data-uslm-ref="/us/usc/t15/s2841">2841.</a>  </td>
 
     <td> Study by Secretary of Energy.  </td>
 

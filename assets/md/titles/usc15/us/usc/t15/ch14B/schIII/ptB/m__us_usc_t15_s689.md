@@ -15,7 +15,7 @@
 
 ## § 689. Definitions
 
-In this part, the following definitions apply:
+    In this part, the following definitions apply:
 
     (1) __Developmental venture capital__ 
 

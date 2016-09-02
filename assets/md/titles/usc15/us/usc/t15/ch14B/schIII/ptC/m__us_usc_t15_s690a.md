@@ -15,7 +15,7 @@
 
 ## § 690a. Purposes
 
-The purposes of the Renewable Fuel Capital Investment Program established under this part are—
+    The purposes of the Renewable Fuel Capital Investment Program established under this part are—
 
     (1) to promote the research, development, manufacture, production, and bringing to market of goods, products, or services that generate or support the production of renewable energy by encouraging venture capital investments in smaller enterprises primarily engaged  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “in”. </sup></sup>  such activities; and
 
