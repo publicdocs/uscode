@@ -15,11 +15,13 @@
 
 ## § 11319. Termination
 
-    The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2015  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
+    The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2016  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 100–77, title II, § 209][/us/pl/100/77/s209], July 22, 1987, [101 Stat. 489][/us/stat/101/489]; [Pub. L. 100–628, title II, § 205][/us/pl/100/628/s205], Nov. 7, 1988, [102 Stat. 3228][/us/stat/102/3228]; [Pub. L. 101–402, § 2][/us/pl/101/402/s2], Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–645, title I, § 103][/us/pl/101/645/s103], Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675]; [Pub. L. 102–550, title XIV, § 1422][/us/pl/102/550/s1422], Oct. 28, 1992, [106 Stat. 4043][/us/stat/106/4043]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 231(2)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; [Pub. L. 109–115, div. A, title VI][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2490][/us/stat/119/2490]; [Pub. L. 110–161, div. K, title III][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2443][/us/stat/121/2443]; [Pub. L. 111–8, div. I, title III][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 985][/us/stat/123/985]; [Pub. L. 112–10, div. B, title XII, § 2255][/us/pl/112/10/s2255], Apr. 15, 2011, [125 Stat. 197][/us/stat/125/197]; [Pub. L. 112–55, div. C, title III][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 707][/us/stat/125/707].)
+([Pub. L. 100–77, title II, § 209][/us/pl/100/77/s209], July 22, 1987, [101 Stat. 489][/us/stat/101/489]; [Pub. L. 100–628, title II, § 205][/us/pl/100/628/s205], Nov. 7, 1988, [102 Stat. 3228][/us/stat/102/3228]; [Pub. L. 101–402, § 2][/us/pl/101/402/s2], Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–645, title I, § 103][/us/pl/101/645/s103], Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675]; [Pub. L. 102–550, title XIV, § 1422][/us/pl/102/550/s1422], Oct. 28, 1992, [106 Stat. 4043][/us/stat/106/4043]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 231(2)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; [Pub. L. 109–115, div. A, title VI][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2490][/us/stat/119/2490]; [Pub. L. 110–161, div. K, title III][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2443][/us/stat/121/2443]; [Pub. L. 111–8, div. I, title III][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 985][/us/stat/123/985]; [Pub. L. 112–10, div. B, title XII, § 2255][/us/pl/112/10/s2255], Apr. 15, 2011, [125 Stat. 197][/us/stat/125/197]; [Pub. L. 112–55, div. C, title III][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 707][/us/stat/125/707]; [Pub. L. 113–76, div. L, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 640][/us/stat/128/640].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–76][/us/pl/113/76] substituted “October 1, 2016” for “October 1, 2015”.
 
     2011—[Pub. L. 112–55][/us/pl/112/55] substituted “October 1, 2015” for “October 1, 2013.”
 
@@ -92,6 +94,9 @@
 [/us/stat/125/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F197
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/stat/125/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F707
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F640
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8

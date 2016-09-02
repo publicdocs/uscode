@@ -199,6 +199,8 @@
 
  __Social Security Contribution and Benefit Base__ 
 
+    2014—By notice of the Commissioner of Social Security, Oct. 31, 2013, 78 F.R. 66413, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2014 is $117,000.
+
     2013—By notice of the Commissioner of Social Security, Oct. 23, 2012, 77 F.R. 65754, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2013 is $113,700.
 
     2012—By notice of the Commissioner of Social Security, Oct. 24, 2011, 76 F.R. 66111, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2012 is $110,100.

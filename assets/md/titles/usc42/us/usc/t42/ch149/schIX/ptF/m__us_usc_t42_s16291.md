@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_ch149_schIX_ptF.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16292.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16291)
+[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_ch149_schIX_ptF.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16291)
 
 ## § 16291. Fossil energy
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_ch149_schIX_ptF.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16292.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16291)
+[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_ch149_schIX_ptF.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16291)
 
 ----------
 ----------

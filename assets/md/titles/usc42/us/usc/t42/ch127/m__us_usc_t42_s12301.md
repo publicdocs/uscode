@@ -65,6 +65,136 @@
 
 > “This subtitle \[subtitle B (§§ 981–988) of title IX of [Pub. L. 101–501][/us/pl/101/501], enacting subchapter II of this chapter\] may be cited as the ‘1993 White House Conference on Children, Youth, and Families’.”
 
+ __Performance Partnership Pilots__ 
+
+[Pub. L. 113–76, div. H, title V, § 526][/us/pl/113/76/s526], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     In this section,
+
+>         “(1)
+
+>          ‘Performance Partnership Pilot’ (or ‘Pilot’) is a project that seeks to identify, through a demonstration, cost-effective strategies for providing services at the State, regional, or local level that—
+
+>             “(A)
+
+>              involve two or more Federal programs (administered by one or more Federal agencies)—
+
+>                 “(i) which have related policy goals, and
+
+>                 “(ii) at least one of which is administered (in whole or in part) by a State, local, or tribal government; and
+
+>             “(B) achieve better results for regions, communities, or specific at-risk populations through making better use of the budgetary resources that are available for supporting such programs.
+
+>         “(2) ‘To improve outcomes for disconnected youth’ means to increase the rate at which individuals between the ages of 14 and 24 (who are low-income and either homeless, in foster care, involved in the juvenile justice system, unemployed, or not enrolled in or at risk of dropping out of an educational institution) achieve success in meeting educational, employment, or other key goals.
+
+>         “(3) The ‘lead Federal administering agency’ is the Federal agency, to be designated by the Director of the Office of Management and Budget (from among the participating Federal agencies that have statutory responsibility for the Federal discretionary funds that will be used in a Performance Partnership Pilot), that will enter into and administer the particular Performance Partnership Agreement on behalf of that agency and the other participating Federal agencies.
+
+>     “(b)  __Use of Discretionary Funds in Fiscal Year__  __2014.—__ 
+
+>     Federal agencies may use Federal discretionary funds that are made available in this Act \[div. H of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] to carry out up to 10 Performance Partnership Pilots. Such Pilots shall:
+
+>         “(1) be designed to improve outcomes for disconnected youth, and
+
+>         “(2) involve Federal programs targeted on disconnected youth, or designed to prevent youth from disconnecting from school or work, that provide education, training, employment, and other related social services.
+
+>     “(c)  __Performance Partnership Agreements__  __.—__ 
+
+>     Federal agencies may use Federal discretionary funds, as authorized in subsection (b), to participate in a Performance Partnership Pilot only in accordance with the terms of a Performance Partnership Agreement that—
+
+>         “(1)
+
+>          is entered into between—
+
+>             “(A) the head of the lead Federal administering agency, on behalf of all of the participating Federal agencies (subject to the head of the lead Federal administering agency having received from the heads of each of the other participating agencies their written concurrence for entering into the Agreement), and
+
+>             “(B) the respective representatives of all of the State, local, or tribal governments that are participating in the Agreement; and
+
+>         “(2)
+
+>          specifies, at a minimum, the following information:
+
+>             “(A) the length of the Agreement (which shall not extend beyond September 30, 2018);
+
+>             “(B) the Federal programs and federally funded services that are involved in the Pilot;
+
+>             “(C) the Federal discretionary funds that are being used in the Pilot (by the respective Federal account identifier, and the total amount from such account that is being used in the Pilot), and the period (or periods) of availability for obligation (by the Federal Government) of such funds;
+
+>             “(D) the non-Federal funds that are involved in the Pilot, by source (which may include private funds as well as governmental funds) and by amount;
+
+>             “(E) the State, local, or tribal programs that are involved in the Pilot;
+
+>             “(F) the populations to be served by the Pilot;
+
+>             “(G) the cost-effective Federal oversight procedures that will be used for the purpose of maintaining the necessary level of accountability for the use of the Federal discretionary funds;
+
+>             “(H) the cost-effective State, local, or tribal oversight procedures that will be used for the purpose of maintaining the necessary level of accountability for the use of the Federal discretionary funds;
+
+>             “(I) the outcome (or outcomes) that the Pilot is designed to achieve;
+
+>             “(J) the appropriate, reliable, and objective outcome-measurement methodology that the Federal Government and the participating State, local, or tribal governments will use, in carrying out the Pilot, to determine whether the Pilot is achieving, and has achieved, the specified outcomes that the Pilot is designed to achieve;
+
+>             “(K) the statutory, regulatory, or administrative requirements related to Federal mandatory programs that are barriers to achieving improved outcomes of the Pilot; and
+
+>             “(L)
+
+>              in cases where, during the course of the Pilot, it is determined that the Pilot is not achieving the specified outcomes that it is designed to achieve,
+
+>                 “(i) the consequences that will result from such deficiencies with respect to the Federal discretionary funds that are being used in the Pilot, and
+
+>                 “(ii) the corrective actions that will be taken in order to increase the likelihood that the Pilot, upon completion, will have achieved such specified outcomes.
+
+>     “(d)  __Agency Head Determinations__  __.—__ 
+
+>     A Federal agency may participate in a Performance Partnership Pilot (including by providing Federal discretionary funds that have been appropriated to such agency) only upon the written determination by the head of such agency that the agency’s participation in such Pilot—
+
+>         “(1) will not result in denying or restricting the eligibility of any individual for any of the services that (in whole or in part) are funded by the agency’s programs and Federal discretionary funds that are involved in the Pilot, and
+
+>         “(2) based on the best available information, will not otherwise adversely affect vulnerable populations that are the recipients of such services.
+
+>         In making this determination, the head of the agency may take into consideration the other Federal discretionary funds that will be used in the Pilot as well as any non-Federal funds (including from private sources as well as governmental sources) that will be used in the Pilot.
+
+>     “(e)  __Transfer Authority__  __.—__ 
+
+>     For the purpose of carrying out the Pilot in accordance with the Performance Partnership Agreement, and subject to the written approval of the Director of the Office of Management and Budget, the head of each participating Federal agency may transfer Federal discretionary funds that are being used in the Pilot to an account of the lead Federal administering agency that includes Federal discretionary funds that are being used in the Pilot. Subject to the waiver authority under subsection (f), such transferred funds shall remain available for the same purposes for which such funds were originally appropriated: Provided, That such transferred funds shall remain available for obligation by the Federal Government until the expiration of the period of availability for those Federal discretionary funds (which are being used in the Pilot) that have the longest period of availability, except that any such transferred funds shall not remain available beyond September 30, 2018.
+
+>     “(f)  __Waiver Authority__  __.—__ 
+
+>     In connection with a Federal agency’s participation in a Performance Partnership Pilot, and subject to the other provisions of this section (including subsection (e)), the head of the Federal agency to which the Federal discretionary funds were appropriated may waive (in whole or in part) the application, solely to such discretionary funds that are being used in the Pilot, of any statutory, regulatory, or administrative requirement that such agency head—
+
+>         “(1) is otherwise authorized to waive (in accordance with the terms and conditions of such other authority), and
+
+>         “(2)
+
+>          is not otherwise authorized to waive, provided that in such case the agency head shall—
+
+>             “(A) not waive any requirement related to nondiscrimination, wage and labor standards, or allocation of funds to State and substate levels;
+
+>             “(B)
+
+>              issue a written determination, prior to granting the waiver, with respect to such discretionary funds that the granting of such waiver for purposes of the Pilot—
+
+>                 “(i)
+
+>                  is consistent with both—
+
+>                          “(I) the statutory purposes of the Federal program for which such discretionary funds were appropriated, and
+
+>                          “(II) the other provisions of this section, including the written determination by the agency head issued under subsection (d);
+
+>                 “(ii) is necessary to achieve the outcomes of the Pilot as specified in the Performance Partnership Agreement, and is no broader in scope than is necessary to achieve such outcomes; and
+
+>                 “(iii)
+
+>                  will result in either—
+
+>                          “(I) realizing efficiencies by simplifying reporting burdens or reducing administrative barriers with respect to such discretionary funds, or
+
+>                          “(II) increasing the ability of individuals to obtain access to services that are provided by such discretionary funds; and
+
+>             “(C) provide at least 60 days advance written notice to the Committees on Appropriations and other committees of jurisdiction in the House of Representatives and the Senate.”
+
  __Commission on Child and Family Welfare__ 
 
     [Pub. L. 102–521, § 5][/us/pl/102/521/s5], Oct. 25, 1992, [106 Stat. 3406][/us/stat/106/3406], provided for establishment, membership, etc., of a Commission on Child and Family Welfare, specified that among other duties the Commission compile information and data on the issues that affect the best interests of children, including domestic issues such as abuse, family relations, services and agencies for children and families, family courts, and juvenile courts, directed Commission to submit to President and Congress an interim report no later than Jan. 1, 1994, and a final report no later than Jan. 1, 1995, containing a detailed statement of the findings and conclusions of the Commission, together with recommendations for such legislation and administrative actions as considered appropriate, and directed that the Commission terminate 90 days after the date it submitted its final report.
@@ -166,6 +296,9 @@
 [/us/pl/101/501/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs981
 [/us/stat/104/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1280
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/113/76/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs526
+[/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/102/521/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs5
 [/us/stat/106/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3406
 

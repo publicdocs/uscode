@@ -153,6 +153,34 @@
 
 > “This Act \[amending this section\] shall apply to proposed agreements for cooperation and to proposed amendments to agreements for cooperation hereafter \[Oct. 26, 1974\] submitted to the Congress.”
 
+ __Support for United States-Republic of Korea Civil Nuclear Cooperation__ 
+
+[Pub. L. 113–81][/us/pl/113/81], Feb. 12, 2014, [128 Stat. 1007][/us/stat/128/1007], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Support for United States-Republic of Korea Civil Nuclear Cooperation Act’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress makes the following findings:
+
+>     “(1) In the 60th year of the alliance, the relationship between the United States and the Republic of Korea could not be stronger. It is based on mutual sacrifice, mutual respect, shared interests, and shared responsibility to promote peace and security in the Asia-Pacific region and throughout the world.
+
+>     “(2) North Korea’s nuclear weapons programs, including uranium enrichment and plutonium reprocessing technologies, undermine security on the Korean Peninsula. The United States and the Republic of Korea have a shared interest in preventing further proliferation, including through the implementation of the 2005 Joint Statement of the Six-Party Talks.
+
+>     “(3) Both the United States and Republic of Korea have a shared objective in strengthening the Treaty on the Non-Proliferation of Nuclear Weapons, done at London, Moscow, and Washington July 1, 1968, and a political and a commercial interest in working collaboratively to address challenges to their respective peaceful civil nuclear programs.
+
+>     “(4) The nuclear energy agreement referred to in section 3 is scheduled to expire on March 19, 2014. In order to maintain healthy and uninterrupted cooperation in this area between the two countries while a new agreement is being negotiated, Congress should authorize the President to extend the duration of the current agreement until March 19, 2016.
+
+> “SEC. 3. __EXTENSION OF NUCLEAR ENERGY AGREEMENT WITH THE REPUBLIC OF KOREA.__ 
+
+>     “Notwithstanding section 123 of the Atomic Energy Act of 1954 ([42 U.S.C. 2153][/us/usc/t42/s2153]), the President is authorized to take such actions as may be required to extend the term of the Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Atomic Energy, done at Washington November 24, 1972 (24 UST 775; TIAS 7583), and amended on May 15, 1974 (25 UST 1102; TIAS 7842), to a date that is not later than March 19, 2016.
+
+> “SEC. 4. __REPORT TO CONGRESS ON PROGRESS OF NEGOTIATIONS BETWEEN THE UNITED STATES AND REPUBLIC OF KOREA.__ 
+
+>     “Not later than 180 days after the date of the enactment of this Act \[Feb. 12, 2014\], and every 180 days thereafter until a new Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Nuclear Energy is submitted to Congress, the President shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the progress of negotiations on a new civil nuclear cooperation agreement.”
+
  __Applicability of Notice and Wait Provisions__ 
 
 [Pub. L. 103–337, div. C, title XXXI, § 3155(b)][/us/pl/103/337/s3155/b], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], as amended by [Pub. L. 104–201, div. C, title XXXI, § 3160][/us/pl/104/201/s3160], Sept. 23, 1996, [110 Stat. 2843][/us/stat/110/2843]; [Pub. L. 107–314, div. D, title XLV, § 4501(b)][/us/pl/107/314/s4501/b], formerly [Pub. L. 104–106, div. C, title XXXI, § 3154(b)][/us/pl/104/106/s3154/b], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624], renumbered [§ 4501(b) of Pub. L. 107–314][/us/pl/107/314/s4501/b] by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(2)(A)][/us/pl/108/136/s3141/h/2/A]–(C), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771], provided that: 
@@ -302,6 +330,9 @@ Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby desi
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/pl/93/485/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485%2Fs2
 [/us/stat/88/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1460
+[/us/pl/113/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F81
+[/us/stat/128/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1007
+[/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/pl/103/337/s3155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fb
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
 [/us/pl/104/201/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3160

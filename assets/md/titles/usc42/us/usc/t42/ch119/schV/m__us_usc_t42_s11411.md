@@ -47,7 +47,7 @@
 
             (A)
 
-             All properties identified by the Secretary under subsection (a) of this section shall be available for application—
+  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subpar. (B) has been enacted. </sup></sup>  All properties identified by the Secretary under subsection (a) of this section shall be available for application—
 
                 (i) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
 

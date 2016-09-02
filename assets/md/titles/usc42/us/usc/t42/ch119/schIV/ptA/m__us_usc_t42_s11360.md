@@ -325,6 +325,10 @@
 
     Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see [section 1503 of Pub. L. 111–22][/us/pl/111/22/s1503], set out as an Effective Date of 2009 Amendment note under [section 11302 of this title][/us/usc/t42/s11302].
 
+ __Termination of Trust Territory of the Pacific Islands__ 
+
+    For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
+
  __HEARTH Act Technical Corrections__ 
 
 [Pub. L. 112–141, div. F, title II, § 100261][/us/pl/112/141/s100261], July 6, 2012, [126 Stat. 978][/us/stat/126/978], provided that: 
@@ -370,6 +374,7 @@
 [/us/usc/t42/s11361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11361
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
+[/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/112/141/s100261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100261
 [/us/stat/126/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F978
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360

@@ -21,11 +21,13 @@
 
     (b) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a).
+        There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2015 through 2019 for the maintenance of the nationwide toll free phone number under subsection (a).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1271, as added [Pub. L. 108–194, § 3][/us/pl/108/194/s3], Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377, § 3][/us/pl/110/377/s3], Oct. 8, 2008, [122 Stat. 4064][/us/stat/122/4064].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1271, as added [Pub. L. 108–194, § 3][/us/pl/108/194/s3], Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377, § 3][/us/pl/110/377/s3], Oct. 8, 2008, [122 Stat. 4064][/us/stat/122/4064]; [Pub. L. 113–77, § 2][/us/pl/113/77/s2], Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–77][/us/pl/113/77] added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a).”
 
     2008—[Pub. L. 110–377][/us/pl/110/377] amended section generally. Prior to amendment, section required the Secretary to coordinate and assist in establishment of nationwide poison control center toll-free phone number, allowed for establishment and continued operation of privately funded nationwide toll-free numbers, and authorized appropriations for fiscal years 2000 through 2009.
 
@@ -79,6 +81,9 @@
 [/us/stat/117/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2889
 [/us/pl/110/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs3
 [/us/stat/122/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4064
+[/us/pl/113/77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs2
+[/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
 [/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
 [/us/pl/110/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs2
 [/us/stat/122/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4063

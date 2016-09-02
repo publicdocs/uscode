@@ -243,9 +243,13 @@
 
  __Working Capital Fund__ 
 
-[Pub. L. 113–6, div. F, title V, § 1507][/us/pl/113/6/s1507], Mar. 26, 2013, [127 Stat. 423][/us/stat/127/423], provided that: 
+[Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 368][/us/stat/128/368], provided in part: 
 
-> “To facilitate the implementation of the permanent Working Capital Fund (‘WCF’) authorized in [Public Law 112–74][/us/pl/112/74], on or after October 1, 2013, unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: Provided, That on or after October 1, 2013, the CDC shall transfer other amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: Provided further, That assets purchased with funds appropriated for or reimbursed to business services in this or any other Act may be transferred to the WCF and customers billed for depreciation of those assets: Provided further, That CDC shall, consistent with the authorities provided in [42 U.S.C. 231][/us/usc/t42/s231], ensure that the WCF is used only for administrative support services and not for programmatic activity funding: Provided further, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfer made under the authority provided in this section.”
+> “That to facilitate the implementation of the permanent Working Capital Fund (‘WCF’) authorized under this heading \[cdc-wide activities and program support\] in division F of [Public Law 112–74][/us/pl/112/74], on or after enactment of this Act \[Jan. 17, 2014\], unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: Provided further, That on or after enactment of this Act, CDC shall transfer amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: Provided further, That once the WCF is implemented in fiscal year 2014, assets purchased in any prior fiscal year with funds appropriated for or reimbursed to business services may be transferred to the WCF and customers billed for depreciation of those assets: Provided further, That CDC shall, consistent with the authorities provided in [42 U.S.C. 231][/us/usc/t42/s231], ensure that the WCF is used only for administrative support services and not for programmatic activities: Provided further, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfers made with funds provided under this heading.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. F, title V, § 1507][/us/pl/113/6/s1507], Mar. 26, 2013, [127 Stat. 423][/us/stat/127/423].
 
 [Pub. L. 112–74, div. F, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1070][/us/stat/125/1070], provided in part: 
 
@@ -290,10 +294,12 @@
 [/us/usc/t42/s247d–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%932%2Fa
 [/us/pl/109/417/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs202%2F2
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/113/6/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1507
-[/us/stat/127/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F423
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F368
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t42/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs231
+[/us/pl/113/6/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1507
+[/us/stat/127/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F423
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1070
 [/us/usc/t42/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs231

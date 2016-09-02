@@ -55,11 +55,19 @@
 
             (iii) in the case of a holder, the loan was purchased by the holder.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 719, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2009][/us/stat/106/2009]; amended [Pub. L. 105–392, title I, § 141(c)(2)][/us/pl/105/392/s141/c/2], Nov. 13, 1998, [112 Stat. 3579][/us/stat/112/3579].)
+    (6) The term “Secretary” means the Secretary of Education.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 719, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2009][/us/stat/106/2009]; amended [Pub. L. 105–392, title I, § 141(c)(2)][/us/pl/105/392/s141/c/2], Nov. 13, 1998, [112 Stat. 3579][/us/stat/112/3579]; [Pub. L. 113–76, div. H, title V, § 525(e)][/us/pl/113/76/s525/e], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413].)
 
  __Amendments__ 
 
+    2014—Par. (6). [Pub. L. 113–76][/us/pl/113/76] added par. (6).
+
     1998—Par. (1). [Pub. L. 105–392][/us/pl/105/392] substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    [Pub. L. 113–76, div. H, title V, § 525(e)][/us/pl/113/76/s525/e], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided in part that the amendment made by section 525(e) is effective as of the date on which the transfer of the HEAL program under subsection (a) \[subsec. (a) of [section 525 of Pub. L. 113–76][/us/pl/113/76/s525], set out as a note under [section 292 of this title][/us/usc/t42/s292]\] takes effect \[no later than the end of the first fiscal quarter that begins after Jan. 17, 2014\].
 
 ----------
 
@@ -78,6 +86,13 @@
 [/us/stat/106/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2009
 [/us/pl/105/392/s141/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs141%2Fc%2F2
 [/us/stat/112/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3579
+[/us/pl/113/76/s525/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525%2Fe
+[/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/113/76/s525/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525%2Fe
+[/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
+[/us/pl/113/76/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525
+[/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 
 

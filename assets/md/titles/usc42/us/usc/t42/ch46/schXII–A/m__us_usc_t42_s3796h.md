@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 1301 of Pub. L. 90–351][/us/pl/90/351/s1301] was renumbered section 2501 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
+    A prior [section 1301 of Pub. L. 90–351][/us/pl/90/351/s1301] was renumbered section 2601 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
 
     For other prior sections 1301 of [Pub. L. 90–351][/us/pl/90/351] and prior [section 3796h of this title][/us/usc/t42/s3796h], see note set out preceding this section.
 

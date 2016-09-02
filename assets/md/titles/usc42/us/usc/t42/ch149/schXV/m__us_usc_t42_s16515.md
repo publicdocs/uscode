@@ -27,13 +27,13 @@
 
         (3) any other policies, procedures, or information necessary to implement title XVII of the Energy Policy Act of 2005.
 
-    (c) The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 \[[42 U.S.C. 16501][/us/usc/t42/s16501] et seq.\]. In addition to the independent audit, the Comptroller General shall conduct an annual review of the Department’s execution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General’s review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
+    (c) The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 \[[42 U.S.C. 16501][/us/usc/t42/s16501] et seq.\]. In addition to the independent audit, the Comptroller General shall conduct a review every three years of the Department’s execution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General’s review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
 
     (d) The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 \[[42 U.S.C. 16501][/us/usc/t42/s16501] et seq.\] within 6 months of February 15, 2007.
 
     (e) Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 \[[42 U.S.C. 16501][/us/usc/t42/s16501] et seq.\], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under this subchapter, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
 
-([Pub. L. 109–289, div. B, title II, § 20320][/us/pl/109/289/s20320], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21].)
+([Pub. L. 109–289, div. B, title II, § 20320][/us/pl/109/289/s20320], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21]; amended [Pub. L. 113–76, div. D, title III, § 307][/us/pl/113/76/s307], Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175].)
 
  __References in Text__ 
 
@@ -46,6 +46,10 @@
  __Codification__ 
 
     Section was enacted as part of the Continuing Appropriations Resolution, 2007, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–76][/us/pl/113/76] substituted “a review every three years” for “an annual review”.
 
 ----------
 
@@ -66,6 +70,8 @@
 [/us/pl/109/289/s20320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20320
 [/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
 [/us/stat/121/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F21
+[/us/pl/113/76/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307
+[/us/stat/128/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F175
 [/us/pl/109/289/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs101
 [/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
 [/us/stat/121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F8
@@ -77,5 +83,6 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 

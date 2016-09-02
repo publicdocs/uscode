@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286j.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_ch23_dA_schXVIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286k)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286j.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286k)
 
 ## § 2286k. Inspector General
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286j.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_ch23_dA_schXVIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286k)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286j.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286k)
 
 ----------
 ----------

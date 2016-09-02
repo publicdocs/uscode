@@ -125,6 +125,12 @@
 
     Amendment by [Pub. L. 110–140][/us/pl/110/140] effective on the date that is 1 day after Dec. 19, 2007, see [section 1601 of Pub. L. 110–140][/us/pl/110/140/s1601], set out as an Effective Date note under [section 1824 of Title 2][/us/usc/t2/s1824], The Congress.
 
+ __Use of Appropriations__ 
+
+[Pub. L. 113–76, div. D, title III, § 308][/us/pl/113/76/s308], Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175], provided that: 
+
+> “None of the funds made available by this \[Act\] \[div D. of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any subsequent Act for fiscal year 2014 or any fiscal year hereafter may be used to pay the salaries of Department of Energy employees to carry out the amendments made by section 407 of division A of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5], amending this section and sections 6865 and 6866 of this title\].”
+
  __Community Services Administration__ 
 
     Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended ([42 U.S.C. 2941][/us/usc/t42/s2941]), terminated when Economic Opportunity Act of 1964, [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by [section 683(a) of Pub. L. 97–35][/us/pl/97/35/s683/a], title VI, Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519], which is classified to [42 U.S.C. 9912(a)][/us/usc/t42/s9912/a]. An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by [section 676 of Pub. L. 97–35][/us/pl/97/35/s676], which is classified to [42 U.S.C. 9905][/us/usc/t42/s9905].
@@ -204,6 +210,10 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
+[/us/pl/113/76/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs308
+[/us/stat/128/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F175
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t42/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2941
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508

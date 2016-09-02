@@ -915,7 +915,7 @@ Part A—Management Improvements  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs17283" data-uslm-ref="/us/usc/t42/s17283">17283.</a>  </td>
 
-    <td> Coordination of planned refinery outages.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

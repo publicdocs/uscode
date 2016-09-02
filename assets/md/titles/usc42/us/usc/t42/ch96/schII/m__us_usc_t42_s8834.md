@@ -23,7 +23,7 @@
 
             (A)
 
-             In the case of any support loan under this section for an existing municipal waste energy project—
+  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subpar. (B) has been enacted. </sup></sup>  In the case of any support loan under this section for an existing municipal waste energy project—
 
                 (i) disbursements under such loan may not be made for more than 5 consecutive 12-month periods;
 

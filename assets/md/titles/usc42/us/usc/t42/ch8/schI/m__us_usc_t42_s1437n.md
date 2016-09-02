@@ -25,7 +25,7 @@
 
             (A)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __   __Targeting__  __.—__ 
 
-            Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+            Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by extremely low-income families.
 
         (3) __Prohibition of concentration of low-income families__ 
 
@@ -87,7 +87,7 @@
 
         (1) __In general__ 
 
-            Of the families initially provided tenant-based assistance under [section 1437f of this title][/us/usc/t42/s1437f] by a public housing agency in any fiscal year, not less than 75 percent shall be families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+            Of the families initially provided tenant-based assistance under [section 1437f of this title][/us/usc/t42/s1437f] by a public housing agency in any fiscal year, not less than 75 percent shall be extremely low-income families.
 
         (2) __Jurisdictions served by multiple PHAs__ 
 
@@ -105,7 +105,7 @@
 
         (3) __Targeting__ 
 
-            For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+            For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by extremely low-income families.
 
         (4) __Prohibition of skipping__ 
 
@@ -147,7 +147,7 @@
 
         (2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under [section 1437f of this title][/us/usc/t42/s1437f] for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III, § 323][/us/pl/97/35/s323], Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X, § 1001(a)][/us/pl/100/628/s1001/a], Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I, § 105][/us/pl/102/550/s105], Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV, § 402(d)(6)(A)(v)][/us/pl/104/99/s402/d/6/A/v], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120, § 9(d)][/us/pl/104/120/s9/d], Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V, § 501(b)(7)][/us/pl/104/330/s501/b/7], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV, § 428][/us/pl/105/276/s428], title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A, § 123][/us/pl/105/277/s123], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II, § 205][/us/pl/106/74/s205], Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III, § 323][/us/pl/97/35/s323], Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X, § 1001(a)][/us/pl/100/628/s1001/a], Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I, § 105][/us/pl/102/550/s105], Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV, § 402(d)(6)(A)(v)][/us/pl/104/99/s402/d/6/A/v], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120, § 9(d)][/us/pl/104/120/s9/d], Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V, § 501(b)(7)][/us/pl/104/330/s501/b/7], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV, § 428][/us/pl/105/276/s428], title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A, § 123][/us/pl/105/277/s123], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II, § 205][/us/pl/106/74/s205], Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069]; [Pub. L. 113–76, div. L, title II, § 238(b)][/us/pl/113/76/s238/b], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
 
  __References in Text__ 
 
@@ -164,6 +164,12 @@
     October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date”, meaning the effective date of subtitle A of title III of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 384][/us/stat/95/384], which was generally effective Oct. 1, 1981. See Effective Date note below.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–76, § 238(b)(1)][/us/pl/113/76/s238/b/1], substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+
+    Subsec. (b)(1). [Pub. L. 113–76, § 238(b)(2)][/us/pl/113/76/s238/b/2], substituted “extremely low-income families” for “families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+
+    Subsec. (c)(3). [Pub. L. 113–76, § 238(b)(3)][/us/pl/113/76/s238/b/3], substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
     1999—Subsecs. (a)(2)(A), (c)(3). [Pub. L. 106–74, § 205(1)][/us/pl/106/74/s205/1], inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
@@ -283,6 +289,8 @@
 [/us/stat/112/2681-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-546
 [/us/pl/106/74/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs205
 [/us/stat/113/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1069
+[/us/pl/113/76/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb
+[/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
 [/us/usc/t42/s1437d/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fs
 [/us/usc/t42/s1437d/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fr
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
@@ -303,6 +311,9 @@
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384
+[/us/pl/113/76/s238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F1
+[/us/pl/113/76/s238/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F2
+[/us/pl/113/76/s238/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F3
 [/us/pl/106/74/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs205%2F1
 [/us/pl/105/276/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs513%2Fa
 [/us/pl/105/277/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs123

@@ -39,7 +39,7 @@
 
  __References in Text__ 
 
-    Sections 14137 to 14137c of this title, referred to in text, was in the original “this Act”, meaning [Pub. L. 112–253][/us/pl/112/253], Jan. 10, 2013, [126 Stat. 2407][/us/stat/126/2407], known as the Katie Sepich Enhanced DNA Collection Act of 2012, which enacted sections 14137 to 14137c of this title and amended [section 14135 of this title][/us/usc/t42/s14135]. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under 13701 of this title and Tables.
+    Sections 14137 to 14137c of this title, referred to in text, was in the original “this Act”, meaning [Pub. L. 112–253][/us/pl/112/253], Jan. 10, 2013, [126 Stat. 2407][/us/stat/126/2407], known as the Katie Sepich Enhanced DNA Collection Act of 2012, which enacted sections 14137 to 14137c of this title and amended [section 14135 of this title][/us/usc/t42/s14135]. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 13701 of this title][/us/usc/t42/s13701] and Tables.
 
  __Codification__ 
 
@@ -58,5 +58,6 @@
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2407
 [/us/usc/t42/s14135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135
+[/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 
 

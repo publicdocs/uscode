@@ -151,6 +151,12 @@
 
     Amendment by [Pub. L. 86–70][/us/pl/86/70] effective Jan. 3, 1959, see [section 47(d) of Pub. L. 86–70][/us/pl/86/70/s47/d].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–77, § 1][/us/pl/113/77/s1], Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644], provided that: 
+
+> “This Act \[amending sections 300d–71 to 300d–73 of this title and enacting provisions set out as a note under [section 300d–73 of this title][/us/usc/t42/s300d–73]\] may be cited as the ‘Poison Center Network Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–64, § 1][/us/pl/113/64/s1], Dec. 20, 2013, [127 Stat. 668][/us/stat/127/668], provided that: 
@@ -1513,6 +1519,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/77/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs1
+[/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
+[/us/usc/t42/s300d–73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9373
 [/us/pl/113/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F64%2Fs1
 [/us/stat/127/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F668
 [/us/usc/t42/s300g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936

@@ -43,13 +43,13 @@
 
                 (i)  __Flat rents__  __.—__ 
 
-                Except as otherwise provided under this clause, each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
+                Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall—
 
                     (I) be based on the rental value of the unit, as determined by the public housing agency; and
 
                     (II) be designed in accordance with subparagraph (D) so that the rent structures do not create a disincentive for continued residency in public housing by families who are attempting to become economically self-sufficient through employment or who have attained a level of self-sufficiency through their own efforts.
 
-                    The rental amount for a dwelling unit shall be considered to comply with the requirements of this clause if such amount does not exceed the actual monthly costs to the public housing agency attributable to providing and operating the dwelling unit. The preceding sentence may not be construed to require establishment of rental amounts equal to or based on operating costs or to prevent public housing agencies from developing flat rents required under this clause in any other manner that may comply with this clause.
+                    Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if a new flat rental amount for a dwelling unit will increase a family’s existing rental payment by more than 35 percent, the new flat rental amount shall be phased in as necessary to ensure that the family’s existing rental payment does not increase by more than 35 percent annually. The preceding sentence shall not be construed to require establishment of rental amounts equal to 80 percent of the fair market rental in years when the fair market rental falls from the prior year.
 
                 (ii) __Income-based rents.—__ 
 
@@ -147,7 +147,21 @@
 
         (1) The term “low-income housing” means decent, safe, and sanitary dwellings assisted under this chapter. The term “public housing” means low-income housing, and all necessary appurtenances thereto, assisted under this chapter other than under [section 1437f of this title][/us/usc/t42/s1437f]. The term “public housing” includes dwelling units in a mixed finance project that are assisted by a public housing agency with capital or operating assistance. When used in reference to public housing, the term “low-income housing project” or “project” means (A) housing developed, acquired, or assisted by a public housing agency under this chapter, and (B) the improvement of any such housing.
 
-        (2) The term “low-income families” means those families whose incomes do not exceed 80 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes. The term “very low-income families” means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes. Such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in [section 1490 of this title][/us/usc/t42/s1490], taking into account the subsidy characteristics and types of programs to which such ceilings apply. In determining median incomes (of persons, families, or households) for an area or establishing any ceilings or limits based on income under this chapter, the Secretary shall determine or establish area median incomes and income ceilings and limits for Westchester and Rockland Counties, in the State of New York, as if each such county were an area not contained within the metropolitan statistical area in which it is located. In determining such area median incomes or establishing such income ceilings or limits for the portion of such metropolitan statistical area that does not include Westchester or Rockland Counties, the Secretary shall determine or establish area median incomes and income ceilings and limits as if such portion included Westchester and Rockland Counties. In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area.
+        (2)
+
+            (A) The term “low-income families” means those families whose incomes do not exceed 80 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+
+            (B) The term “very low-income families” means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+
+            (C)
+
+             The term extremely low-income families  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “extremely low-income families”. </sup></sup>  means very low-income families whose incomes do not exceed the higher of—
+
+                (i) the poverty guidelines updated periodically by the Department of Health and Human Services under the authority of [section 9902(2) of this title][/us/usc/t42/s9902/2] applicable to a family of the size involved (except that this clause shall not apply in the case of public housing agencies or projects located in Puerto Rico or any other territory or possession of the United States); or
+
+                (ii) 30 percent of the median family income for the area, as determined by the Secretary, with adjustments for smaller and larger families (except that the Secretary may establish income ceilings higher or lower than 30 percent of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes).
+
+            (D) Such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in [section 1490 of this title][/us/usc/t42/s1490], taking into account the subsidy characteristics and types of programs to which such ceilings apply. In determining median incomes (of persons, families, or households) for an area or establishing any ceilings or limits based on income under this chapter, the Secretary shall determine or establish area median incomes and income ceilings and limits for Westchester and Rockland Counties, in the State of New York, as if each such county were an area not contained within the metropolitan statistical area in which it is located. In determining such area median incomes or establishing such income ceilings or limits for the portion of such metropolitan statistical area that does not include Westchester or Rockland Counties, the Secretary shall determine or establish area median incomes and income ceilings and limits as if such portion included Westchester and Rockland Counties. In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area.
 
         (3) __Persons and families.—__ 
 
@@ -247,7 +261,7 @@
 
                 An amount of any earned income of the family, established at the discretion of the public housing agency, which may be based on—
 
-                    (I) all earned income of the family, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be a semicolon. </sup></sup> 
+                    (I) all earned income of the family, <sup>\[4\]</sup>  <sup><sup> 4 So in original. The comma probably should be a semicolon. </sup></sup> 
 
                     (II) the amount earned by particular members of the family;
 
@@ -263,7 +277,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Except as provided in subparagraph (B), the term “public housing agency” means any State, county, municipality, or other governmental entity or public body (or agency or instrumentality thereof) which is authorized to engage in or assist in the development or operation of public housing.
+            Except as provided in subparagraph (B), the term “public housing agency” means any State, county, municipality, or other governmental entity or public body (or agency or instrumentality thereof) which is authorized to engage in or assist in the development or operation of public housing, or a consortium of such entities or bodies as approved by the Secretary.
 
             (B)  __Section __  __1437f__  __program__  __.—__ 
 
@@ -275,7 +289,7 @@
 
                 (iii)
 
-                 with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “assistance under”. </sup></sup>  [section 1437f of this title][/us/usc/t42/s1437f], or is not performing effectively—
+                 with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “assistance under”. </sup></sup>  [section 1437f of this title][/us/usc/t42/s1437f], or is not performing effectively—
 
                     (I) the Secretary or another public or private nonprofit entity that by contract agrees to receive assistance amounts under [section 1437f of this title][/us/usc/t42/s1437f] and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under [section 1437f of this title][/us/usc/t42/s1437f]; or
 
@@ -351,7 +365,7 @@
 
         (4) __Applicability__ 
 
-            This subsection and subsection (e) of this section shall apply beginning upon October 1, 1999, except that this subsection and subsection (e) of this section shall apply with respect to any family described in paragraph 3(A)(ii)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be paragraph “(3)(A)(ii)”. </sup></sup>  only to the extent provided in advance in appropriations Acts.
+            This subsection and subsection (e) of this section shall apply beginning upon October 1, 1999, except that this subsection and subsection (e) of this section shall apply with respect to any family described in paragraph 3(A)(ii)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be paragraph “(3)(A)(ii)”. </sup></sup>  only to the extent provided in advance in appropriations Acts.
 
     (e) __Individual savings accounts__ 
 
@@ -387,11 +401,11 @@
 
             (A) that is a public housing dwelling unit;
 
-            (B) for which tenant-based assistance is provided under [section 1437f of this title][/us/usc/t42/s1437f], <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma probably should be a semicolon. </sup></sup>  or
+            (B) for which tenant-based assistance is provided under [section 1437f of this title][/us/usc/t42/s1437f], <sup>\[7\]</sup>  <sup><sup> 7 So in original. The comma probably should be a semicolon. </sup></sup>  or
 
-            (C) for which project-based assistance is provided under [section 1437f of this title][/us/usc/t42/s1437f], section 1437bb  <sup>\[7\]</sup>  <sup><sup> 7 See References in Text notes below. </sup></sup>  of this title, or section 811. <sup>\[7\]</sup> 
+            (C) for which project-based assistance is provided under [section 1437f of this title][/us/usc/t42/s1437f], section 1437bb  <sup>\[8\]</sup>  <sup><sup> 8 See References in Text notes below. </sup></sup>  of this title, or section 811.7
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 3, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 654][/us/stat/88/654]; amended [Pub. L. 94–375, § 2(f)][/us/pl/94/375/s2/f], Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–557, title II, § 206(c)][/us/pl/95/557/s206/c], Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091]; [Pub. L. 96–153, title II, § 202(a)][/us/pl/96/153/s202/a], Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106]; [Pub. L. 97–35, title III, § 322(a)][/us/pl/97/35/s322/a], Aug. 13, 1981, [95 Stat. 400][/us/stat/95/400]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 202, 206(a)–(c)\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1179; [Pub. L. 98–479, title I, § 102(b)(1)][/us/pl/98/479/s102/b/1]–(3), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 102(a), 111, 170(c), Feb. 5, 1988, [101 Stat. 1821][/us/stat/101/1821], 1823, 1867; renumbered title I and amended [Pub. L. 100–358][/us/pl/100/358], §§ 4, 5, June 29, 1988, [102 Stat. 680][/us/stat/102/680], 681; [Pub. L. 101–235, title III, § 302][/us/pl/101/235/s302], Dec. 15, 1989, [103 Stat. 2043][/us/stat/103/2043]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, [104 Stat. 4199][/us/stat/104/4199], 4236–4238; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 102–103(a)(2), 185(c)(4), title VI, §§ 621, 622(c), 625(a)(1), Oct. 28, 1992, [106 Stat. 3683][/us/stat/106/3683], 3748, 3812, 3817, 3820; [Pub. L. 103–233, title III, § 301][/us/pl/103/233/s301], Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369]; [Pub. L. 104–99, title IV, § 402(b)(1)][/us/pl/104/99/s402/b/1], (c), Jan. 26, 1996, [110 Stat. 40][/us/stat/110/40], 41; [Pub. L. 104–330, title V, § 501(b)(1)][/us/pl/104/330/s501/b/1], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, [112 Stat. 2523–2529][/us/stat/112/2523-2529], 2562, 2565–2567, 2604; [Pub. L. 106–74, title II, § 214(a)][/us/pl/106/74/s214/a], Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074]; [Pub. L. 106–402, title IV, § 401(b)(7)][/us/pl/106/402/s401/b/7], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 110–289, div. B, title VI, § 2608][/us/pl/110/289/s2608], July 30, 2008, [122 Stat. 2862][/us/stat/122/2862].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 3, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 654][/us/stat/88/654]; amended [Pub. L. 94–375, § 2(f)][/us/pl/94/375/s2/f], Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–557, title II, § 206(c)][/us/pl/95/557/s206/c], Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091]; [Pub. L. 96–153, title II, § 202(a)][/us/pl/96/153/s202/a], Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106]; [Pub. L. 97–35, title III, § 322(a)][/us/pl/97/35/s322/a], Aug. 13, 1981, [95 Stat. 400][/us/stat/95/400]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 202, 206(a)–(c)\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1179; [Pub. L. 98–479, title I, § 102(b)(1)][/us/pl/98/479/s102/b/1]–(3), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 102(a), 111, 170(c), Feb. 5, 1988, [101 Stat. 1821][/us/stat/101/1821], 1823, 1867; renumbered title I and amended [Pub. L. 100–358][/us/pl/100/358], §§ 4, 5, June 29, 1988, [102 Stat. 680][/us/stat/102/680], 681; [Pub. L. 101–235, title III, § 302][/us/pl/101/235/s302], Dec. 15, 1989, [103 Stat. 2043][/us/stat/103/2043]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, [104 Stat. 4199][/us/stat/104/4199], 4236–4238; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 102–103(a)(2), 185(c)(4), title VI, §§ 621, 622(c), 625(a)(1), Oct. 28, 1992, [106 Stat. 3683][/us/stat/106/3683], 3748, 3812, 3817, 3820; [Pub. L. 103–233, title III, § 301][/us/pl/103/233/s301], Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369]; [Pub. L. 104–99, title IV, § 402(b)(1)][/us/pl/104/99/s402/b/1], (c), Jan. 26, 1996, [110 Stat. 40][/us/stat/110/40], 41; [Pub. L. 104–330, title V, § 501(b)(1)][/us/pl/104/330/s501/b/1], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, [112 Stat. 2523–2529][/us/stat/112/2523-2529], 2562, 2565–2567, 2604; [Pub. L. 106–74, title II, § 214(a)][/us/pl/106/74/s214/a], Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074]; [Pub. L. 106–402, title IV, § 401(b)(7)][/us/pl/106/402/s401/b/7], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 110–289, div. B, title VI, § 2608][/us/pl/110/289/s2608], July 30, 2008, [122 Stat. 2862][/us/stat/122/2862]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 210, 212, 238(a), Jan. 17, 2014, [128 Stat. 625][/us/stat/128/625], 626, 635.)
 
  __References in Text__ 
 
@@ -422,6 +436,14 @@
     Prior similar provisions were contained in section 2 of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], [50 Stat. 888][/us/stat/50/888], which was classified to [section 1402 of this title][/us/usc/t42/s1402] prior to the general revision of this chapter by [Pub. L. 93–383][/us/pl/93/383].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(B)(i). [Pub. L. 113–76, § 210(2)][/us/pl/113/76/s210/2], inserted concluding provisions and struck out former concluding provisions, which read as follows: “The rental amount for a dwelling unit shall be considered to comply with the requirements of this clause if such amount does not exceed the actual monthly costs to the public housing agency attributable to providing and operating the dwelling unit. The preceding sentence may not be construed to require establishment of rental amounts equal to or based on operating costs or to prevent public housing agencies from developing flat rents required under this clause in any other manner that may comply with this clause.”
+
+    [Pub. L. 113–76, § 210(1)][/us/pl/113/76/s210/1], substtituted “Each” for “Except as otherwise provided under this clause, each” and inserted “not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall” after “which shall”.
+
+    Subsec. (b)(2). [Pub. L. 113–76, § 238(a)][/us/pl/113/76/s238/a], designated first sentence as subpar. (A), second sentence as subpar. (B), and remaining sentences as subpar. (D), and added subpar. (C).
+
+    Subsec. (b)(6)(A). [Pub. L. 113–76, § 212][/us/pl/113/76/s212], inserted “, or a consortium of such entities or bodies as approved by the Secretary” before period at end.
 
     2008—Subsec. (b)(4). [Pub. L. 110–289][/us/pl/110/289] inserted “or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts” before “may not be considered”.
 
@@ -687,6 +709,10 @@
 
  __Regulations__ 
 
+[Pub. L. 113–76, div. L, title II, § 243][/us/pl/113/76/s243], Jan. 17, 2014, [128 Stat. 637][/us/stat/128/637], provided that: 
+
+> “The Secretary shall establish by notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under [section 1437f of this title][/us/usc/t42/s1437f]\] under this title and the notice shall take effect upon issuance:  Provided, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment.”
+
 [Pub. L. 104–99, title IV, § 402(b)(2)][/us/pl/104/99/s402/b/2], Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], provided that:
 
 >     “(A)  __In general__  __.—__ 
@@ -870,12 +896,14 @@
 ----------
 ----------
 
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1601
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
@@ -935,6 +963,8 @@
 [/us/stat/114/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1738
 [/us/pl/110/289/s2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2608
 [/us/stat/122/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2862
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F625
 [/us/usc/t42/s1437f/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc%2F3%2FB
 [/us/pl/105/276/s550/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FA%2Fii
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
@@ -963,6 +993,11 @@
 [/us/stat/50/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F888
 [/us/usc/t42/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1402
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/113/76/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs210%2F2
+[/us/pl/113/76/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs210%2F1
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
+[/us/pl/113/76/s238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fa
+[/us/pl/113/76/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs212
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
@@ -1090,6 +1125,9 @@
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
 [/us/pl/93/383/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fb
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
+[/us/pl/113/76/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs243
+[/us/stat/128/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F637
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/104/99/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fb%2F2
 [/us/stat/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F41
 [/us/usc/t42/s1437a/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F2%2FA

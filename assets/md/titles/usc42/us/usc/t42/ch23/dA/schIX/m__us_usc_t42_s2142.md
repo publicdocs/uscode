@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66][/us/pl/113/66] inserted enumerator and section catchline.
+    2013—[Pub. L. 113–66][/us/pl/113/66] inserted section designation and catchline.
 
 ----------
 

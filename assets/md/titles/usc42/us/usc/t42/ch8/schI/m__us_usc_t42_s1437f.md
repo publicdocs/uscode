@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437e.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f)
+[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437e.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437f–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f)
 
 ## § 1437f. Low-income housing assistance
 
@@ -210,6 +210,16 @@
             (C) __Families receiving project-based assistance__ 
 
                 For a family receiving project-based assistance, the rent that the family is required to pay shall be determined in accordance with [section 1437a(a)(1) of this title][/us/usc/t42/s1437a/a/1], and the amount of the housing assistance payment shall be determined in accordance with subsection (c)(3) of this section.
+
+            (D) __Utility allowance__ 
+
+                (i) __General__ 
+
+                    In determining the monthly assistance payment for a family under subparagraphs (A) and (B), the amount allowed for tenant-paid utilities shall not exceed the appropriate utility allowance for the family unit size as determined by the public housing agency regardless of the size of the dwelling unit leased by the family.
+
+                (ii) __Exception for families in including persons with disabilities__ 
+
+                    Notwithstanding subparagraph (A), upon request by a family that includes a person with disabilities, the public housing agency shall approve a utility allowance that is higher than the applicable amount on the utility allowance schedule if a higher utility allowance is needed as a reasonable accommodation to make the program accessible to and usable by the family member with a disability.
 
         (3) __40 percent limit__ 
 
@@ -897,11 +907,55 @@
 
         Subject to amounts provided in appropriation Acts, starting in fiscal year 1999, the Secretary shall renew all expiring tenant-based annual contribution contracts under this section by applying an inflation factor based on local or regional factors to an allocation baseline. The allocation baseline shall be calculated by including, at a minimum, amounts sufficient to ensure continued assistance for the actual number of families assisted as of October 1, 1997, with appropriate upward adjustments for incremental assistance and additional families authorized subsequent to that date.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375, § 2(d)][/us/pl/94/375/s2/d], (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I, § 101(c)][/us/pl/95/24/s101/c], Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II, § 201(c)][/us/pl/95/128/s201/c]–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II, § 206(d)(1)][/us/pl/95/557/s206/d/1], (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II, § 203][/us/pl/96/399/s203], title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)][/us/pl/98/479/s102/b/6]–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127][/us/pl/101/235/s127], title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)][/us/pl/103/233/s101/c/2], (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I, § 1003][/us/pl/104/19/s1003], July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX, § 903(a)(2)][/us/pl/104/193/s903/a/2], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II, § 201(g)][/us/pl/104/204/s201/g], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II, § 10002][/us/pl/105/18/s10002], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)][/us/pl/105/276/s209/a], title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223][/us/pl/106/74/s223], title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801][/us/pl/106/246/s2801], July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)][/us/pl/106/569/s301/a], title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95, § 12][/us/pl/107/95/s12], Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI, § 632][/us/pl/107/116/s632], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI, § 606][/us/pl/109/162/s606], Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271, § 5(d)][/us/pl/109/271/s5/d], (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII, § 710][/us/pl/109/461/s710], Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)][/us/pl/110/289/s2835/a], July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III, § 302][/us/pl/111/372/s302], Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI, § 601(b)(2)][/us/pl/113/4/s601/b/2], Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375, § 2(d)][/us/pl/94/375/s2/d], (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I, § 101(c)][/us/pl/95/24/s101/c], Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II, § 201(c)][/us/pl/95/128/s201/c]–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II, § 206(d)(1)][/us/pl/95/557/s206/d/1], (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II, § 203][/us/pl/96/399/s203], title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)][/us/pl/98/479/s102/b/6]–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127][/us/pl/101/235/s127], title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)][/us/pl/103/233/s101/c/2], (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I, § 1003][/us/pl/104/19/s1003], July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX, § 903(a)(2)][/us/pl/104/193/s903/a/2], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II, § 201(g)][/us/pl/104/204/s201/g], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II, § 10002][/us/pl/105/18/s10002], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)][/us/pl/105/276/s209/a], title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223][/us/pl/106/74/s223], title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801][/us/pl/106/246/s2801], July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)][/us/pl/106/569/s301/a], title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95, § 12][/us/pl/107/95/s12], Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI, § 632][/us/pl/107/116/s632], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI, § 606][/us/pl/109/162/s606], Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271, § 5(d)][/us/pl/109/271/s5/d], (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII, § 710][/us/pl/109/461/s710], Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)][/us/pl/110/289/s2835/a], July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III, § 302][/us/pl/111/372/s302], Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI, § 601(b)(2)][/us/pl/113/4/s601/b/2], Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636.)
 
  __Amendment of Section__ 
 
     For termination of amendment by [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], see Termination Date of 2009 Amendment note below.
+
+ __Amendment of Subsection (o)(8)__ 
+
+    [Pub. L. 113–76, div. L, title II, § 220][/us/pl/113/76/s220], Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], provided that, effective upon such date as the Secretary determines, in the Secretary’s sole discretion, through the Secretary’s publication of such date in the Federal Register, as part of regulations promulgated, or a notice issued, by the Secretary to implement such amendments, subsection (o)(8) of this section is amended:
+
+    (1) by redesignating subparagraph (E) as subparagraph (G); and
+
+    (2) by striking subparagraph (D) and inserting the following new subparagraphs:
+
+    (D) Biennial inspections
+
+    (i) Requirement
+
+    Each public housing agency providing assistance under this subsection (or other entity, as provided in paragraph (11)) shall, for each assisted dwelling unit, make inspections not less often than biennially during the term of the housing assistance payments contract for the unit to determine whether the unit is maintained in accordance with the requirements under subparagraph (A).
+
+    (ii) Use of alternative inspection method
+
+    The requirements under clause (i) may be complied with by use of inspections that qualify as an alternative inspection method pursuant to subparagraph (E).
+
+    (iii) Records
+
+    The public housing agency (or other entity) shall retain the records of the inspection for a reasonable time, as determined by the Secretary, and shall make the records available upon request to the Secretary, the Inspector General for the Department of Housing and Urban Development, and any auditor conducting an audit under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].
+
+    (iv) Mixed-finance properties
+
+    The Secretary may adjust the frequency of inspections for mixed-finance properties assisted with vouchers under paragraph (13) to facilitate the use of the alternative inspections in subparagraph (E).
+
+    (E) Alternative inspection method
+
+    An inspection of a property shall qualify as an alternative inspection method for purposes of this subparagraph if—
+
+    (i) the inspection was conducted pursuant to requirements under a Federal, State, or local housing program (including the Home investment partnership program under title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] and the low-income housing tax credit program under [section 42 of title 26][/us/usc/t26/s42]); and
+
+    (ii) pursuant to such inspection, the property was determined to meet the standards or requirements regarding housing quality or safety applicable to properties assisted under such program, and, if a non-Federal standard or requirement was used, the public housing agency has certified to the Secretary that such standard or requirement provides the same (or greater) protection to occupants of dwelling units meeting such standard or requirement as would the housing quality standards under subparagraph (B).
+
+    (F) Interim inspections
+
+    Upon notification to the public housing agency, by a family (on whose behalf tenant-based rental assistance is provided under this subsection) or by a government official, that the dwelling unit for which such assistance is provided does not comply with the housing quality standards under subparagraph (B), the public housing agency shall inspect the dwelling unit—
+
+    (i) in the case of any condition that is life-threatening, within 24 hours after the agency’s receipt of such notification, unless waived by the Secretary in extraordinary circumstances; and
+
+    (ii) in the case of any condition that is not life-threatening, within a reasonable time frame, as determined by the Secretary.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -944,6 +998,10 @@
     A prior section 8 of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], [50 Stat. 891][/us/stat/50/891], as amended, authorized promulgation of rules and regulations by the Authority and was classified to [section 1408 of this title][/us/usc/t42/s1408], prior to the general revision of this chapter by [Pub. L. 93–383][/us/pl/93/383].
 
  __Amendments__ 
+
+    2014—Subsec. (o)(2)(D). [Pub. L. 113–76, § 242][/us/pl/113/76/s242], added subpar. (D).
+
+    Subsec. (o)(8)(D)–(G). [Pub. L. 113–76, § 220(a)][/us/pl/113/76/s220/a], added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D), which required every public housing agency providing assistance under this subsection to make an annual inspection of each assisted dwelling unit.
 
     2013—Subsec. (c)(9). [Pub. L. 113–4, § 601(b)(2)(A)][/us/pl/113/4/s601/b/2/A], struck out par. (9) which related to prohibitions against the denial of program assistance or admission to victims of domestic violence, dating violence, or stalking and the termination of assistance, tenancy, or occupancy rights of such victims.
 
@@ -1562,6 +1620,12 @@
     Subsec. (e)(1). [Pub. L. 94–375, § 2(g)][/us/pl/94/375/s2/g], inserted “or the Farmers’ Home Administration” after “State or local agency”.
 
     Subsec. (f)(6). [Pub. L. 94–375, § 2(e)][/us/pl/94/375/s2/e], added par. (6).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–76, div. L, title II, § 220(b)][/us/pl/113/76/s220/b], Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631], provided that: 
+
+> “The amendments in subsection (a) \[amending this section\] shall take effect upon such date as the Secretary determines, in the Secretary’s sole discretion, through the Secretary’s publication of such date in the Federal Register, as part of regulations promulgated, or a notice issued, by the Secretary to implement such amendments.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -3913,7 +3977,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437e.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f)
+[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437e.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437f–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f)
 
 ----------
 ----------
@@ -4073,7 +4137,14 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/stat/124/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4084
 [/us/pl/113/4/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2
 [/us/stat/127/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F107
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
 [/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/pl/113/76/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220
+[/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
+[/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
+[/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
+[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
@@ -4117,6 +4188,8 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/stat/50/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F891
 [/us/usc/t42/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1408
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/113/76/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs242
+[/us/pl/113/76/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220%2Fa
 [/us/pl/113/4/s601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FA
 [/us/pl/113/4/s601/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FB%2Fi
 [/us/pl/113/4/s601/b/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FB%2Fii%2FI
@@ -4429,6 +4502,8 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
 [/us/pl/94/375/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fg
 [/us/pl/94/375/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fe
+[/us/pl/113/76/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220%2Fb
+[/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

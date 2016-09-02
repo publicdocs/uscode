@@ -31,11 +31,11 @@
 
         (2) evaluate the percentage of disposable income spent on energy by minorities relative to other population categories; and
 
-        (3) determines how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
+        (3) determines  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “determine”. </sup></sup>  how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
 
     (d) __Management and technical assistance to minority educational institutions and business enterprises to foster participation in research, development, demonstration, and contract activities of Department__ 
 
-    The Director may provide the management any  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “and”. </sup></sup>  technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with [section 7256 of this title][/us/usc/t42/s7256] and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
+    The Director may provide the management any  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “and”. </sup></sup>  technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with [section 7256 of this title][/us/usc/t42/s7256] and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
 
         (1) a national information clearinghouse which will develop and disseminate information on the aspects of energy programs to minority business enterprises, minority educational institutions and other appropriate minority organizations;
 

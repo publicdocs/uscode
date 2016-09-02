@@ -1777,6 +1777,14 @@ SUBCHAPTER XVII–A—DEFENSE NUCLEAR FACILITIES SAFETY BOARD  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2286l" data-uslm-ref="/us/usc/t42/s2286l">2286l.</a>  </td>
+
+    <td> Authority of Inspector General.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER XVIII—EURATOM COOPERATION  </td>

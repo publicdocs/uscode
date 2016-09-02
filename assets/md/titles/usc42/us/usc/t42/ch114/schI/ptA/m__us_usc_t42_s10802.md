@@ -65,7 +65,7 @@
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
-    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], as amended, which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. Provisions similar to former part C of the Act are contained in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000, [Pub. L. 106–402][/us/pl/106/402], which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title.
 
  __Amendments__ 
 
@@ -119,6 +119,7 @@
 [/us/stat/98/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2662
 [/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
+[/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/pl/106/310/s3206/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb%2F1%2FA
 [/us/usc/t42/s10804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10804%2Fd

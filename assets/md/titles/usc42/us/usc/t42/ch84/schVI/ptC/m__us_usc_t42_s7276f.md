@@ -27,6 +27,12 @@
 
     Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
+ __Purchase power and wheeling expenses__ 
+
+[Pub. L. 113–76, div. D, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 171][/us/stat/128/171], provided: 
+
+> “That for purposes of this appropriation in this \[Act\] \[div. D of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] and subsequent Acts, purchase power and wheeling expenses includes the cost of voluntary purchases of power allowances in compliance with state greenhouse gas programs existing at the time of enactment of this Act \[Jan. 17, 2014\].”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7276e.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7276g.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7276f)
@@ -40,5 +46,8 @@
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
 [/us/stat/123/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2870
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F171
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 

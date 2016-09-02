@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16292)
+[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291a.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16292)
 
 ## § 16292. Coal and related technologies program
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16292)
+[Previous](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16291a.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIX/ptF/m__us_usc_t42_s16293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16292)
 
 ----------
 ----------

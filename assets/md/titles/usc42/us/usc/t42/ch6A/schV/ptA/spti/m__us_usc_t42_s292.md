@@ -33,6 +33,30 @@
 
 > “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[[42 U.S.C. 292g][/us/usc/t42/s292g]\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former [42 U.S.C. 294e(c)][/us/usc/t42/s294e/c]\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
 
+ __Transfer of Health Education Assistance Loan Program__ 
+
+[Pub. L. 113–76, div. H, title V, § 525][/us/pl/113/76/s525], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Health Education Assistance Loan (‘HEAL’) program under title VII, part A, subpart I of the PHS \[Public Health Service\] Act \[[42 U.S.C. 292][/us/usc/t42/s292] et seq.\], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act \[Jan. 17, 2014\].
+
+>     “(b)  __Transfer of Functions, Assets, and Liabilities__  __.—__ 
+
+>     The functions, assets, and liabilities of the Secretary of Health and Human Services relating to such program shall be transferred to the Secretary of Education.
+
+>     “(c)  __Interdepartmental Coordination of Transfer__  __.—__ 
+
+>     The Secretary of Health and Human Services and the Secretary of Education shall carry out the transfer of the HEAL program described in subsection (a), including the transfer of the functions, assets, and liabilities specified in subsection (b), in the manner that they determine is most appropriate.
+
+>     “(d)  __Use of Authorities Under HEA of 1965__  __.—__ 
+
+>     In servicing, collecting, and enforcing the loans described in subsection (a), the Secretary of Education shall have available any and all authorities available to such Secretary in servicing, collecting, or enforcing a loan made, insured, or guaranteed under part B of title IV of the HEA \[Higher Education Act\] of 1965 \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\].
+
+>     “(e)  __Conforming Amendments__  __.—__ 
+
+>     \[Amended section 292o of this title.\]
+
  __Study on Effectiveness of Health Professions Programs__ 
 
     [Pub. L. 102–408, title III, § 309][/us/pl/102/408/s309], Oct. 13, 1992, [106 Stat. 2089][/us/stat/106/2089], directed the Comptroller General to conduct a study of the programs carried out under this subchapter and subchapter VI of this chapter for the purpose of determining the effectiveness of such programs in increasing the number of primary care providers (physicians, physician assistants, nurse midwives, nurse practitioners and general dentists), nurses and allied health personnel, improving the geographic distribution of health professionals in medically underserved and rural areas, and recruiting and retaining as students in health professions schools individuals who are members of a minority group, and report to the Congress not later than Jan. 1, 1994, on findings and recommendations made as a result of the study relevant to the reauthorization of such programs.
@@ -65,6 +89,10 @@
 [/us/stat/106/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2069
 [/us/usc/t42/s292g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292g
 [/us/usc/t42/s294e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294e%2Fc
+[/us/pl/113/76/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525
+[/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
+[/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
+[/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 [/us/pl/102/408/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs309
 [/us/stat/106/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2089
 

@@ -217,7 +217,7 @@
 
         (1) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2012.
+            There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2014.
 
         (2) __Technical assistance and program oversight__ 
 
@@ -321,9 +321,9 @@
 
     (o) __Sunset__ 
 
-        No assistance may be provided under this section after September 30, 2012.
+        No assistance may be provided under this section after September 30, 2014.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 24, as added [Pub. L. 102–550, title I, § 120][/us/pl/102/550/s120], Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; amended [Pub. L. 104–99, title IV, § 402(d)(6)(A)(vi)][/us/pl/104/99/s402/d/6/A/vi], Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43]; [Pub. L. 104–330, title V, § 501(b)(9)][/us/pl/104/330/s501/b/9], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 535(a)][/us/pl/105/276/s535/a], Oct. 21, 1998, [112 Stat. 2581][/us/stat/112/2581]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 214(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–27; [Pub. L. 108–7, div. K, title II, § 215][/us/pl/108/7/s215], Feb. 20, 2003, [117 Stat. 504][/us/stat/117/504]; [Pub. L. 108–186, title IV][/us/pl/108/186], §§ 402(a), (b), (d), (e), 403, Dec. 16, 2003, [117 Stat. 2693][/us/stat/117/2693], 2694; [Pub. L. 109–289, div. B, title II, § 21045][/us/pl/109/289/s21045], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 54][/us/stat/121/54]; [Pub. L. 110–161, div. K, title II, § 224][/us/pl/110/161/s224], Dec. 26, 2007, [121 Stat. 2437][/us/stat/121/2437]; [Pub. L. 111–8, div. I, title II, § 223][/us/pl/111/8/s223], Mar. 11, 2009, [123 Stat. 976][/us/stat/123/976]; [Pub. L. 111–117, div. A, title II, § 222][/us/pl/111/117/s222], Dec. 16, 2009, [123 Stat. 3101][/us/stat/123/3101]; [Pub. L. 112–55, div. C, title II, § 222][/us/pl/112/55/s222], Nov. 18, 2011, [125 Stat. 699][/us/stat/125/699].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 24, as added [Pub. L. 102–550, title I, § 120][/us/pl/102/550/s120], Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; amended [Pub. L. 104–99, title IV, § 402(d)(6)(A)(vi)][/us/pl/104/99/s402/d/6/A/vi], Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43]; [Pub. L. 104–330, title V, § 501(b)(9)][/us/pl/104/330/s501/b/9], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 535(a)][/us/pl/105/276/s535/a], Oct. 21, 1998, [112 Stat. 2581][/us/stat/112/2581]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 214(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–27; [Pub. L. 108–7, div. K, title II, § 215][/us/pl/108/7/s215], Feb. 20, 2003, [117 Stat. 504][/us/stat/117/504]; [Pub. L. 108–186, title IV][/us/pl/108/186], §§ 402(a), (b), (d), (e), 403, Dec. 16, 2003, [117 Stat. 2693][/us/stat/117/2693], 2694; [Pub. L. 109–289, div. B, title II, § 21045][/us/pl/109/289/s21045], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 54][/us/stat/121/54]; [Pub. L. 110–161, div. K, title II, § 224][/us/pl/110/161/s224], Dec. 26, 2007, [121 Stat. 2437][/us/stat/121/2437]; [Pub. L. 111–8, div. I, title II, § 223][/us/pl/111/8/s223], Mar. 11, 2009, [123 Stat. 976][/us/stat/123/976]; [Pub. L. 111–117, div. A, title II, § 222][/us/pl/111/117/s222], Dec. 16, 2009, [123 Stat. 3101][/us/stat/123/3101]; [Pub. L. 112–55, div. C, title II, § 222][/us/pl/112/55/s222], Nov. 18, 2011, [125 Stat. 699][/us/stat/125/699]; [Pub. L. 113–76, div. L, title II, § 234][/us/pl/113/76/s234], Jan. 17, 2014, [128 Stat. 634][/us/stat/128/634].)
 
  __References in Text__ 
 
@@ -332,6 +332,10 @@
     Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is [section 503(a) of Pub. L. 105–276][/us/pl/105/276/s503/a], which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437].
 
  __Amendments__ 
+
+    2014—Subsec. (m)(1). [Pub. L. 113–76, § 234(1)][/us/pl/113/76/s234/1], substituted “fiscal year 2014.” for “fiscal year 2012.”
+
+    Subsec. (o). [Pub. L. 113–76, § 234(2)][/us/pl/113/76/s234/2], substituted “September 30, 2014.” for “September 30, 2012.”
 
     2011—Subsec. (m)(1). [Pub. L. 112–55, § 222(1)][/us/pl/112/55/s222/1], substituted “fiscal year 2012.” for “fiscal year 2010.”
 
@@ -459,10 +463,14 @@
 [/us/stat/123/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3101
 [/us/pl/112/55/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs222
 [/us/stat/125/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F699
+[/us/pl/113/76/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs234
+[/us/stat/128/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F634
 [/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
+[/us/pl/113/76/s234/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs234%2F1
+[/us/pl/113/76/s234/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs234%2F2
 [/us/pl/112/55/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs222%2F1
 [/us/pl/112/55/s222/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs222%2F2
 [/us/pl/111/117/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs222%2F1

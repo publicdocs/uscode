@@ -91,7 +91,11 @@
 
  __References in Text__ 
 
-    The effective date of the amendments made by the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, César E. Chávez, Barbara C. Jordan, William C. Velásquez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006, referred to in subsec. (a)(7), (8), is the date of enactment of [Pub. L. 109–246][/us/pl/109/246], which was approved July 27, 2006. See [section 1973q of this title][/us/usc/t42/s1973q].
+    The effective date of the amendments made by the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, César E. Chávez, Barbara C. Jordan, William C. Velásquez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006, referred to in subsec. (a)(7), (8), is the date of enactment of [Pub. L. 109–246][/us/pl/109/246], which was approved July 27, 2006. See 2008 Amendment note below and [section 1973q of this title][/us/usc/t42/s1973q].
+
+ __Constitutionality__ 
+
+For information regarding constitutionality of certain provisions of [section 4 of Pub. L. 89–110][/us/pl/89/110/s4], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
 
@@ -162,6 +166,7 @@
 [/us/stat/122/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2428
 [/us/pl/109/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246
 [/us/usc/t42/s1973q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973q
+[/us/pl/89/110/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110%2Fs4
 [/us/pl/110/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F258
 [/us/pl/109/246/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246%2Fs3%2Fd%2F2
 [/us/pl/109/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F246%2Fs4

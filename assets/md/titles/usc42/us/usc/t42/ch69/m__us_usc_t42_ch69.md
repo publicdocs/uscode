@@ -129,6 +129,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5313a" data-uslm-ref="/us/usc/t42/s5313a">5313a.</a>  </td>
+
+    <td> Duplication of benefits.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5314" data-uslm-ref="/us/usc/t42/s5314">5314.</a>  </td>
 
     <td> Consultation by Secretary with other Federal departments, etc.  </td>

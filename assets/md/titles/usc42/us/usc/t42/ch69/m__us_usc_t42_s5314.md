@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5313.md) | [Next](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5315.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5314)
+[Previous](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5313a.md) | [Next](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5315.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5314)
 
 ## § 5314. Consultation by Secretary with other Federal departments, etc.
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5313.md) | [Next](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5315.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5314)
+[Previous](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5313a.md) | [Next](./../../../..//us/usc/t42/ch69/m__us_usc_t42_s5315.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5314)
 
 ----------
 ----------

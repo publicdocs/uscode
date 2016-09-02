@@ -63,7 +63,7 @@
 
         Group IV
 
-        carbon tetrachloride1
+        carbon tetrachloride
 
         Group V
 

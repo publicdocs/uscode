@@ -87,7 +87,7 @@
 
             (A) the Corporation shall use 50 percent of such funds to award grants, on a competitive basis, to State Commissions and nonprofit organizations for such fiscal year; and
 
-            (B) the Corporation shall use 50 percent of such funds make an allotment to the State Commissions of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico based on the formula described in subsections (e) and (f) of [section 12581 of this title][/us/usc/t42/s12581], subject to paragraph (2).
+            (B) the Corporation shall use 50 percent of such funds make  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “to”. </sup></sup>  an allotment to the State Commissions of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico based on the formula described in subsections (e) and (f) of [section 12581 of this title][/us/usc/t42/s12581], subject to paragraph (2).
 
         (2) __Minimum grant amount__ 
 

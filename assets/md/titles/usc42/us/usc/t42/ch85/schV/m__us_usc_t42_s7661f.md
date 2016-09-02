@@ -57,7 +57,7 @@
 
          Except as provided in paragraphs (2) and (3), for purposes of this section, the term “small business stationary source” means a stationary source that—
 
-            (A) is owned or operated by a person that employs 100 or fewer individuals,
+            (A) is owned or operated by a person that employs 100 or fewer individuals, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup> 
 
             (B) is a small business concern as defined in the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\];
 
@@ -67,7 +67,7 @@
 
             (E) emits less than 75 tons per year of all regulated pollutants.
 
-        (2) Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph”. </sup></sup>  (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
+        (2) Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subparagraph”. </sup></sup>  (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
 
         (3)
 
@@ -81,7 +81,7 @@
 
         (1) render advisory opinions on the overall effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program, difficulties encountered, and degree and severity of enforcement;
 
-        (2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  the Regulatory Flexibility Act \[[5 U.S.C. 601][/us/usc/t5/s601] et seq.\], and the Equal Access to Justice Act;
+        (2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  the Regulatory Flexibility Act \[[5 U.S.C. 601][/us/usc/t5/s601] et seq.\], and the Equal Access to Justice Act;
 
         (3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
 
@@ -95,7 +95,7 @@
 
             (A) render advisory opinions concerning the effectiveness of the small business stationary source technical and environmental compliance assistance program, difficulties encountered, and degree and severity of enforcement;
 
-            (B) make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,2 the Regulatory Flexibility Act \[[5 U.S.C. 601][/us/usc/t5/s601] et seq.\], and the Equal Access to Justice Act;
+            (B) make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,3 the Regulatory Flexibility Act \[[5 U.S.C. 601][/us/usc/t5/s601] et seq.\], and the Equal Access to Justice Act;
 
             (C) review information for small business stationary sources to assure such information is understandable by the layperson; and
 

@@ -23,7 +23,7 @@
 
     (b) __Implementation steps__ 
 
-    In carrying subsection (a) of this section, the Postmaster General shall—
+    In carrying  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by the word “out”. </sup></sup>  subsection (a) of this section, the Postmaster General shall—
 
         (1)
 

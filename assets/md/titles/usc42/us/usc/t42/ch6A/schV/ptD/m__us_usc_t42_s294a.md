@@ -183,6 +183,12 @@
 
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
 
+ __Waiver of Requirements__ 
+
+[Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 363][/us/stat/128/363], provided in part: 
+
+> “That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[[42 U.S.C. 294a][/us/usc/t42/s294a]\] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a)
@@ -246,5 +252,8 @@
 [/us/usc/t42/s294t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294t
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F363
+[/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 
 

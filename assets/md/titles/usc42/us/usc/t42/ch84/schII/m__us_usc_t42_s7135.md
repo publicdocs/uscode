@@ -113,7 +113,7 @@
 
         (1)
 
-         The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
+         The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every four years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
 
             (A) quantity of fuels consumed;
 
@@ -143,7 +143,7 @@
 
     Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 ([15 U.S.C. 790a(a)][/us/usc/t15/s790a/a]), the Administrator shall—
 
-        (1) conduct surveys of residential and commercial energy use at least once every 3 years, and make such information available to the public;
+        (1) conduct surveys of residential and commercial energy use at least once every four years, and make such information available to the public;
 
         (2) when surveying electric utilities, collect information on demand-side management programs conducted by such utilities, including information regarding the types of demand-side management programs being operated, the quantity of measures installed, expenditures on demand-side management programs, estimates of energy savings resulting from such programs, and whether the savings estimates were verified; and
 
@@ -181,7 +181,7 @@
 
         (3) This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 ([15 U.S.C. 790a][/us/usc/t15/s790a]).
 
-([Pub. L. 95–91, title II, § 205][/us/pl/95/91/s205], Aug. 4, 1977, [91 Stat. 572][/us/stat/91/572]; [Pub. L. 99–509, title III, § 3101(a)][/us/pl/99/509/s3101/a], Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888]; [Pub. L. 102–486, title I, § 171][/us/pl/102/486/s171], Oct. 24, 1992, [106 Stat. 2864][/us/stat/106/2864]; [Pub. L. 109–58, title XV, § 1508][/us/pl/109/58/s1508], Aug. 8, 2005, [119 Stat. 1083][/us/stat/119/1083].)
+([Pub. L. 95–91, title II, § 205][/us/pl/95/91/s205], Aug. 4, 1977, [91 Stat. 572][/us/stat/91/572]; [Pub. L. 99–509, title III, § 3101(a)][/us/pl/99/509/s3101/a], Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888]; [Pub. L. 102–486, title I, § 171][/us/pl/102/486/s171], Oct. 24, 1992, [106 Stat. 2864][/us/stat/106/2864]; [Pub. L. 109–58, title XV, § 1508][/us/pl/109/58/s1508], Aug. 8, 2005, [119 Stat. 1083][/us/stat/119/1083]; [Pub. L. 113–76, div. D, title III, § 315][/us/pl/113/76/s315], Jan. 17, 2014, [128 Stat. 177][/us/stat/128/177].)
 
  __References in Text__ 
 
@@ -194,6 +194,10 @@
     The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (i)(1). [Pub. L. 113–76, § 315(1)][/us/pl/113/76/s315/1], substituted “once every four years” for “once every two years” in introductory provisions.
+
+    Subsec. (k)(1). [Pub. L. 113–76, § 315(2)][/us/pl/113/76/s315/2], which directed amendment of par. (1) by substituting “once every four years” for “once every three years” was executed by making the substitution for “once every 3 years” to reflect the probable intent of Congress.
 
     2005—Subsec. (m). [Pub. L. 109–58][/us/pl/109/58] added subsec. (m).
 
@@ -241,6 +245,8 @@
 [/us/stat/106/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2864
 [/us/pl/109/58/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1508
 [/us/stat/119/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1083
+[/us/pl/113/76/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315
+[/us/stat/128/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F177
 [/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F96
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
@@ -253,6 +259,8 @@
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
+[/us/pl/113/76/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315%2F1
+[/us/pl/113/76/s315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315%2F2
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486/s171/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171%2Fa%2F1
 [/us/pl/102/486/s171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171%2Fa%2F2

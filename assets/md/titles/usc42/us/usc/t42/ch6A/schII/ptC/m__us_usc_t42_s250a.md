@@ -17,7 +17,7 @@
 
     The Attorney General may transfer to the Health Resources and Services Administration such amounts as may be necessary for direct expenditures by that Administration for medical relief for inmates of Federal penal and correctional institutions.
 
-([Pub. L. 113–6, div. B, title II][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 248][/us/stat/127/248].)
+([Pub. L. 113–76, div. B, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 57][/us/stat/128/57].)
 
  __Codification__ 
 
@@ -28,6 +28,8 @@
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. B, title II][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 248][/us/stat/127/248].
 
     [Pub. L. 112–55, div. B, title II][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 610][/us/stat/125/610].
 
@@ -146,11 +148,13 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
-[/us/stat/127/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F248
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F57
 [/us/usc/t5/s341h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs341h
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/stat/127/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F248
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/stat/125/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F610
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

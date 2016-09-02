@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286k.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_s2291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXVIII)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286l.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_s2291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXVIII)
 
 #### SUBCHAPTER XVIII—EURATOM COOPERATION
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286k.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_s2291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXVIII)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVII–A/m__us_usc_t42_s2286l.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVIII/m__us_usc_t42_s2291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXVIII)
 
 ----------
 ----------
