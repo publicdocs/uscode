@@ -1193,11 +1193,11 @@
 
             (A) __In general__ 
 
-            Except as provided in subparagraph (B), notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 1506][/us/usc/t7/s1506] note; [Public Law 105–185][/us/pl/105/185]) and section 148 of the Agricultural Risk Protection Act of 2000 ([7 U.S.C. 1506][/us/usc/t7/s1506] note; [Public Law 106–224][/us/pl/106/224]), the Corporation shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+            Except as provided in subparagraph (B), notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 1506][/us/usc/t7/s1506] note; [Public Law 105–185][/us/pl/105/185]) and section 148 of the Agricultural Risk Protection Act of 2000 ([7 U.S.C. 1506][/us/usc/t7/s1506] note; [Public Law 106–224][/us/pl/106/224]), the Corporation may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
 
-                (i) not later than December 31, 2016; and
+                (i) to be effective for the 2011 reinsurance year beginning July 1, 2010; and
 
-                (ii) not less than once during each period of 5 reinsurance years thereafter.
+                (ii) once during each period of 5 reinsurance years thereafter.
 
             (B) __Exceptions__ 
 
@@ -1217,9 +1217,27 @@
 
                 The approved insurance providers may confer with each other and collectively with the Corporation during any renegotiation under subparagraph (A).
 
-            (E) __Cap on overall rate of return__ 
+            (E) __2011 reinsurance year__ 
 
-                Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.
+                (i) __In general__ 
+
+                    As part of the Standard Reinsurance Agreement renegotiation authorized under subparagraph (A)(i), the Corporation shall consider alternative methods to determine reimbursement rates for administrative and operating costs.
+
+                (ii) __Alternative methods__ 
+
+                Alternatives considered under clause (i) shall include—
+
+                    (I)
+
+                     methods that—
+
+                        (aa) are graduated and base reimbursement rates in a State on changes in premiums in that State;
+
+                        (bb) are graduated and base reimbursement rates in a State on the loss ratio for crop insurance for that State; and
+
+                        (cc) are graduated and base reimbursement rates on individual policies on the level of total premium for each policy; and
+
+                    (II) any other method that takes into account current financial conditions of the program and ensures continued availability of the program to producers on a nationwide basis.
 
             (F) __Budget__ 
 
@@ -1375,7 +1393,7 @@
 
         Beginning with the 2015 crop year, a producer that produces an agricultural commodity on both dry land and irrigated land may elect a different coverage level for each production practice.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II, § 208(a)][/us/pl/100/387/s208/a], Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI, § 601(4)][/us/pl/102/237/s601/4], (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I, § 106][/us/pl/103/354/s106], Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII, § 780][/us/pl/109/97/s780], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957][/us/stat/128/954-957], 960, 961, 963, 966, 973, 977, 988; [Pub. L. 114–74, title II, § 201][/us/pl/114/74/s201], Nov. 2, 2015, [129 Stat. 587][/us/stat/129/587].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II, § 208(a)][/us/pl/100/387/s208/a], Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI, § 601(4)][/us/pl/102/237/s601/4], (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I, § 106][/us/pl/103/354/s106], Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII, § 780][/us/pl/109/97/s780], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957][/us/stat/128/954-957], 960, 961, 963, 966, 973, 977, 988; [Pub. L. 114–74, title II, § 201][/us/pl/114/74/s201], Nov. 2, 2015, [129 Stat. 587][/us/stat/129/587]; [Pub. L. 114–94, div. C, title XXXII, § 32205][/us/pl/114/94/s32205], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740].)
 
  __References in Text__ 
 
@@ -1403,13 +1421,23 @@
 
  __Amendments__ 
 
-    2015—Subsec. (k)(8)(A). [Pub. L. 114–74, § 201(1)][/us/pl/114/74/s201/1], substituted “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—” and cls. (i) and (ii) for “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+    2015—Subsec. (k)(8). [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205], repealed [Pub. L. 114–74, § 201][/us/pl/114/74/s201], effective Nov. 2, 2105, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
+
+    Subsec. (k)(8)(A). [Pub. L. 114–74, § 201(1)][/us/pl/114/74/s201/1], which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+
+    “(i) not later than December 31, 2016; and
+
+    “(ii) not less than once during each period of 5 reinsurance years thereafter.”
+
+    for “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
 
     “(i) to be effective for the 2011 reinsurance year beginning July 1, 2010; and
 
-    “(ii) once during each period of 5 reinsurance years thereafter.”
+    “(ii) once during each period of 5 reinsurance years thereafter.”,
 
-    Subsec. (k)(8)(E). [Pub. L. 114–74, § 201(2)][/us/pl/114/74/s201/2], added subpar. (E) and struck out former subpar. (E) which related to the 2011 reinsurance year.
+    was repealed by [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205]. See above.
+
+    Subsec. (k)(8)(E). [Pub. L. 114–74, § 201(2)][/us/pl/114/74/s201/2], which directed striking subpar. (E) and adding a new subpar. (E) to read “Cap on overall rate of return.—Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.”, was repealed by [Pub. L. 114–94, § 32205][/us/pl/114/94/s32205]. See above.
 
     2014—Subsec. (a)(9)(C). [Pub. L. 113–79, § 11002][/us/pl/113/79/s11002], added subpar. (C).
 
@@ -1781,6 +1809,12 @@
 
     1938—Subsec. (a). Act June 22, 1938, inserted second proviso in first sentence.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. C, title XXXII, § 32205][/us/pl/114/94/s32205], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that: 
+
+> “Effective as of November 2, 2015, the date of the enactment of the Bipartisan Budget Act of 2015 ([Public Law 114–74][/us/pl/114/74]), section 201 of such Act \[amending this section\] and the amendments made by such section are repealed, and the provisions of law amended by such section are hereby restored to appear as if such section had not been enacted into law.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–79, title XI, § 11003(d)][/us/pl/113/79/s11003/d], Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
@@ -2045,6 +2079,8 @@
 [/us/stat/128/954-957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F954-957
 [/us/pl/114/74/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201
 [/us/stat/129/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F587
+[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
+[/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -2068,8 +2104,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
+[/us/pl/114/74/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201
 [/us/pl/114/74/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201%2F1
+[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
 [/us/pl/114/74/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs201%2F2
+[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
 [/us/pl/113/79/s11002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11002
 [/us/pl/113/79/s12305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fb
 [/us/pl/113/79/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F1
@@ -2232,6 +2272,9 @@
 [/us/pl/88/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F589
 [/us/pl/86/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F131
 [/us/pl/85/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F111
+[/us/pl/114/94/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32205
+[/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/113/79/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fd
 [/us/stat/128/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F956
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

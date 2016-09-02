@@ -467,19 +467,15 @@
 
                 (iii) foreign ministries.
 
-        (5) __Confidentiality and indemnification agreement__ 
+        (5) __Confidentiality agreement__ 
 
-        Before the Commission may share information with any entity described in paragraph (4)—
-
-            (A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title][/us/usc/t7/s12] relating to the information on swap transactions that is provided; and
-
-            (B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title][/us/usc/t7/s12].
+            Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title][/us/usc/t7/s12] relating to the information on swap transactions that is provided.
 
         (6) __Public information__ 
 
             Each derivatives clearing organization that clears swaps shall provide to the Commission (including any designee of the Commission) information under paragraph (2) in such form and at such frequency as is required by the Commission to comply with the public reporting requirements contained in [section 2(a)(13) of this title][/us/usc/t7/s2/a/13].
 
-([Sept. 21, 1922, ch. 369, § 5b][/us/act/1922-09-21/ch369/s5b], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396; amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1685–1687, 1693, 1695.)
+([Sept. 21, 1922, ch. 369, § 5b][/us/act/1922-09-21/ch369/s5b], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396; amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1685–1687, 1693, 1695; [Pub. L. 114–94, div. G, title LXXXVI, § 86001(a)][/us/pl/114/94/s86001/a], Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797].)
 
  __References in Text__ 
 
@@ -490,6 +486,12 @@
     A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is classified to [section 7b of this title][/us/usc/t7/s7b].
 
  __Amendments__ 
+
+    2015—Subsec. (k)(5). [Pub. L. 114–94][/us/pl/114/94] amended par. (5) generally. Prior to amendment, text read as follows: “Before the Commission may share information with any entity described in paragraph (4)—
+
+    “(A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title][/us/usc/t7/s12] relating to the information on swap transactions that is provided; and
+
+    “(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title][/us/usc/t7/s12].”
 
     2010—Subsec. (a). [Pub. L. 111–203, § 725(a)][/us/pl/111/203/s725/a], added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
@@ -504,6 +506,12 @@
     Subsecs. (g) to (i). [Pub. L. 111–203, § 725(b)][/us/pl/111/203/s725/b], added subsecs. (g) to (i).
 
     Subsec. (k). [Pub. L. 111–203, § 725(e)][/us/pl/111/203/s725/e], added subsec. (k).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. G, title LXXXVI, § 86001(d)][/us/pl/114/94/s86001/d], Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798], provided that: 
+
+> “The amendments made by this section \[amending this section, [section 24a of this title][/us/usc/t7/s24a], and [section 78m of Title 15][/us/usc/t15/s78m], Commerce and Trade\] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([Public Law 111–203][/us/pl/111/203]).”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -533,17 +541,21 @@
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
-[/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t7/s2/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fa%2F13
 [/us/act/1922-09-21/ch369/s5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs5b
 [/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
+[/us/pl/114/94/s86001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fa
+[/us/stat/129/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1797
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t7/s7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7b
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
+[/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/pl/111/203/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fa
 [/us/pl/111/203/s721/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F6
 [/us/pl/111/203/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fa
@@ -551,6 +563,11 @@
 [/us/pl/111/203/s725/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fh
 [/us/pl/111/203/s725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fb
 [/us/pl/111/203/s725/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs725%2Fe
+[/us/pl/114/94/s86001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fd
+[/us/stat/129/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1798
+[/us/usc/t7/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs24a
+[/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754
