@@ -21,15 +21,17 @@
 
     (b) __Eligibility__ 
 
-        Grants from the SGP shall only be made to eligible entities as described in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
+        Awards from the SGP shall only be made to eligible entities as described in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
 
     (c) __Proposals__ 
 
-    Grants made pursuant to the authority of this section shall be provided through—
+    Awards made pursuant to the authority of this section shall be provided through—
 
-        (1) unsolicited applications received and evaluated pursuant to USAID policy regarding such proposals; or
+        (1) unsolicited applications received and evaluated pursuant to USAID policy regarding such proposals;
 
-        (2) an open and competitive process.
+        (2) an open and competitive process; or
+
+        (3) as otherwise allowable under Federal Acquisition Regulations and USAID procurement policies.
 
     (d) __Funding__ 
 
@@ -45,13 +47,13 @@
 
         (2) Upon selection of a mission pursuant to the procedures required by paragraph (1), such selected mission may be allocated the full estimated cost of the multi-year program: Provided, That such allocations shall be subject to the regular notification procedures of the Committees on Appropriations.
 
-        (3) In addition to funds otherwise available for such purposes, up to 12 percent of the funds made available to carry out this section may be used by USAID for administrative and oversight expenses associated with managing relationships with entities under the SGP.
+        (3) In addition to funds otherwise available for such purposes, up to 20 percent of the funds made available to carry out this section may be used by USAID for administrative expenses, and other necessary support associated with managing and strengthening relationships with entities under the SGP.
 
     (f) __Report__ 
 
         Not later than 120 days after December 16, 2014, and after consultation with the appropriate congressional committees, the Administrator shall submit a report to such committees describing the guidance to implement the SGP.
 
-([Pub. L. 113–235, div. J, title VII, § 7080][/us/pl/113/235/s7080], Dec. 16, 2014, [128 Stat. 2682][/us/stat/128/2682].)
+([Pub. L. 113–235, div. J, title VII, § 7080][/us/pl/113/235/s7080], Dec. 16, 2014, [128 Stat. 2682][/us/stat/128/2682]; [Pub. L. 114–113, div. K, title VII, § 7034(q)(3)][/us/pl/114/113/s7034/q/3], Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768].)
 
  __References in Text__ 
 
@@ -67,7 +69,19 @@
 
     Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
- __“Appropriate Congressional Committees” Defined__ 
+ __Amendments__ 
+
+    2015—Subsecs. (b), (c). [Pub. L. 114–113, § 7034(q)(3)(A)][/us/pl/114/113/s7034/q/3/A], substituted “Awards” for “Grants”.
+
+    Subsec. (c)(3). [Pub. L. 114–113, § 7034(q)(3)(B)][/us/pl/114/113/s7034/q/3/B]–(D), added par. (3).
+
+    Subsec. (e)(3). [Pub. L. 114–113, § 7034(q)(3)(E)][/us/pl/114/113/s7034/q/3/E], substituted “20” for “12” and “administrative expenses, and other necessary support associated with managing and strengthening” for “administrative and oversight expenses associated with managing”.
+
+ __Definitions__ 
+
+[Pub. L. 114–113, div. K, title VII, § 7034(q)(4)][/us/pl/114/113/s7034/q/4], Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768], provided that: 
+
+> “For the purposes of [section 7080 of Public Law 113–235][/us/pl/113/235/s7080] \[this section\], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
 
 [Pub. L. 113–235, div. J, title VII, § 7034(t)(1)][/us/pl/113/235/s7034/t/1], Dec. 16, 2014, [128 Stat. 2627][/us/stat/128/2627], provided that: 
 
@@ -87,6 +101,8 @@
 [/us/usc/t22/s2413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2413%2Fa
 [/us/pl/113/235/s7080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7080
 [/us/stat/128/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2682
+[/us/pl/114/113/s7034/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3
+[/us/stat/129/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2768
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
@@ -97,6 +113,12 @@
 [/us/stat/128/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2132
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573
+[/us/pl/114/113/s7034/q/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FA
+[/us/pl/114/113/s7034/q/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FB
+[/us/pl/114/113/s7034/q/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FE
+[/us/pl/114/113/s7034/q/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F4
+[/us/stat/129/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2768
+[/us/pl/113/235/s7080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7080
 [/us/pl/113/235/s7034/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Ft%2F1
 [/us/stat/128/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2627
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235

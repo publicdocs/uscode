@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286uu.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_ch7_schXVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286vv)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286uu.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286ww.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286vv)
 
 ## § 286vv. Capital stock increases
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286uu.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_ch7_schXVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286vv)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286uu.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286ww.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286vv)
 
 ----------
 ----------

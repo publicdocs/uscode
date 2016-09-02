@@ -27,31 +27,33 @@
 
  __USAID Overseas Program__ 
 
-[Pub. L. 113–235, div. J, title VII, § 7057(a)][/us/pl/113/235/s7057/a]–(e), Dec. 16, 2014, [128 Stat. 2664][/us/stat/128/2664], 2665, provided that:
+[Pub. L. 114–113, div. K, title VII, § 7057(a)][/us/pl/114/113/s7057/a]–(e), Dec. 18, 2015, [129 Stat. 2803][/us/stat/129/2803], 2804, provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
->     Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2584][/us/stat/128/2584]\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3948][/us/usc/t22/s3948], 3949\].
+>     Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. K of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2716][/us/stat/129/2716]\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3948][/us/usc/t22/s3948], 3949\].
 
 >     “(b) __Restrictions.—__ 
 
 >         “(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175.
 
->         “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2016.
+>         “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2017.
 
 >     “(c)  __Conditions__  __.—__ 
 
->     The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], are eliminated.
+>     The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated.
 
 >     “(d)  __Program Account Charged__  __.—__ 
 
->     The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual’s responsibilities primarily relate:  Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2583][/us/stat/128/2583]\] under the heading ‘Operating Expenses’.
+>     The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. K of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2715][/us/stat/129/2715]\]under the heading ‘Operating Expenses’.
 
 >     “(e)  __Foreign Service Limited Extensions__  __.—__ 
 
->     Individuals hired and employed by USAID, with funds made available in this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2573][/us/stat/128/2573]\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3949][/us/usc/t22/s3949]\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+>     Individuals hired and employed by USAID, with funds made available in this Act \[div. K of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2705][/us/stat/129/2705]\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3949][/us/usc/t22/s3949]\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. J, title VII, § 7057(a)][/us/pl/113/235/s7057/a]–(e), Dec. 16, 2014, [128 Stat. 2664][/us/stat/128/2664], 2665.
 
     [Pub. L. 113–76, div. K, title VII, § 7057(a)][/us/pl/113/76/s7057/a]–(e), Jan. 17, 2014, [128 Stat. 549][/us/stat/128/549].
 
@@ -81,18 +83,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t22/s3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3946
 [/us/pl/96/465/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs308
 [/us/stat/94/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2086
-[/us/pl/113/235/s7057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7057%2Fa
-[/us/stat/128/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2664
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/stat/128/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2584
+[/us/pl/114/113/s7057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7057%2Fa
+[/us/stat/129/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2803
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2716
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3948
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/stat/128/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2583
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2715
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2705
 [/us/usc/t22/s3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3949
+[/us/pl/113/235/s7057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7057%2Fa
+[/us/stat/128/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2664
 [/us/pl/113/76/s7057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7057%2Fa
 [/us/stat/128/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F549
 [/us/pl/112/74/s7057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7057%2Fa

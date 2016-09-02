@@ -47,11 +47,13 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(5), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625], provided that: 
+[Pub. L. 114–113, div. K, title VII, § 7034(k)(5)][/us/pl/114/113/s7034/k/5], Dec. 18, 2015, [129 Stat. 2765][/us/stat/129/2765], provided that: 
 
-> “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)][/us/usc/t22/s2733/a]) shall be applied by substituting ‘September 30, 2015’ for ‘October 1, 2010’ in paragraph (2).”
+> “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)][/us/usc/t22/s2733/a]) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2010’ in paragraph (2).”
 
 Prior extensions were contained in the following prior acts:
+
+    [Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(5), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625].
 
     [Pub. L. 113–76, div. K, title VII, § 7034(m)(5)][/us/pl/113/76/s7034/m/5], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
 
@@ -73,9 +75,11 @@ Prior extensions were contained in the following prior acts:
 [/us/stat/120/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F441
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/114/113/s7034/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fk%2F5
+[/us/stat/129/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2765
+[/us/usc/t22/s2733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2733%2Fa
 [/us/pl/113/235/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034
 [/us/stat/128/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2625
-[/us/usc/t22/s2733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2733%2Fa
 [/us/pl/113/76/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F5
 [/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
 [/us/pl/112/74/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F5

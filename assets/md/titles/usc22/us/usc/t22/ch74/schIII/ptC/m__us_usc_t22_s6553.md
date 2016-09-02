@@ -55,6 +55,12 @@
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 \[[Pub. L. 105–277, div. G][/us/pl/105/277], see Short Title note set out under [section 6501 of this title][/us/usc/t22/s6501]\].”
 
+ __Continuation of United States Advisory Commission on Public Diplomacy__ 
+
+[Pub. L. 114–113, div. K, title VII, § 7034(k)(12)][/us/pl/114/113/s7034/k/12], Dec. 18, 2015, [129 Stat. 2766][/us/stat/129/2766], provided that: 
+
+> “Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 ([22 U.S.C. 6553][/us/usc/t22/s6553]) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2015’.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t22/ch74/schIII/ptC/m__us_usc_t22_s6552.md) | [Next](./../../../../../..//us/usc/t22/ch74/schIV/m__us_usc_t22_ch74_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6553)
@@ -93,5 +99,8 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6501
+[/us/pl/114/113/s7034/k/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fk%2F12
+[/us/stat/129/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2766
+[/us/usc/t22/s6553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6553
 
 

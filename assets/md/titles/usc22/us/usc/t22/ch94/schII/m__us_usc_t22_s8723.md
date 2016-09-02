@@ -55,6 +55,24 @@
 
     This Act, referred to in subsec. (b), is [Pub. L. 112–158][/us/pl/112/158], Aug. 10, 2012, [126 Stat. 1214][/us/stat/126/1214], known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t22/s8701] and Tables.
 
+ __Delegation of Certain Functions and Authorities Under Section 213(b)(1) of the Iran Threat Reduction and Syria Human Rights Act of 2012__ 
+
+    Memorandum of President of the United States, Oct. 18, 2015, 80 F.R. 66781, provided:
+
+    Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Commerce\[,\] the United States Trade Representative\[,\] the Secretary of Homeland Security\[, and\] the Chairman of the Board of Governors of the Federal Reserve System
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby order as follows:
+
+I hereby delegate the functions and authorities vested in the President by section 213(b)(1) of the Iran Threat Reduction and Syria Human Rights Act of 2012 (TRA) to the Secretary of State, in consultation with: the Secretaries of the Treasury and Commerce and the United States Trade Representative; and with the Secretary of Homeland Security, the Chairman of the Board of Governors of the Federal Reserve System, and other agencies as appropriate.
+
+    The delegation of authorities under section 213(b)(1) of the TRA to the Secretary of the Treasury contained in the Presidential Memorandum of October 9, 2012, entitled “Delegation of Certain Functions and Authorities Under the Iran Threat Reduction and Syria Human Rights Act of 2012” is hereby rescinded. The other provisions of that Presidential Memorandum remain in effect.
+
+    Any reference herein to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provisions of law that are the same or substantially the same as such provisions.
+
+    The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch94/schII/m__us_usc_t22_s8722.md) | [Next](./../../../../..//us/usc/t22/ch94/schII/m__us_usc_t22_s8724.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8723)
@@ -73,5 +91,6 @@
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214
 [/us/usc/t22/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8701
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 
 

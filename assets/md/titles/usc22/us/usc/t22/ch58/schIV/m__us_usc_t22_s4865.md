@@ -157,6 +157,34 @@
 
                               William J. Clinton.
 
+ __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba__ 
+
+[Pub. L. 114–113, div. M, title V, § 513][/us/pl/114/113/s513], Dec. 18, 2015, [129 Stat. 2926][/us/stat/129/2926], provided that:
+
+>     “(a)  __Restricted Access Space Requirement__  __.—__ 
+
+>     Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act \[Dec. 18, 2015\], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility.
+
+>     “(b)  __National Security Waiver__  __.—__ 
+
+>     The Secretary of State may waive the requirement under subsection (a) if the Secretary—
+
+>         “(1) determines that such waiver is in the national security interest of the United States; and
+
+>         “(2) submits a written justification for such waiver to the appropriate congressional committees not later than 90 days before exercising such waiver.
+
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the congressional intelligence committees;
+
+>         “(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+
+>         “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
+
+    \[For definition of “congressional intelligence committees” as used in [section 513 of div. M of Pub. L. 114–113][/us/pl/114/113/s513], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of Title 50][/us/usc/t50/s3003], War and National Defense.\]
+
  __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries__ 
 
 [Pub. L. 113–293, title III, § 314][/us/pl/113/293/s314], Dec. 19, 2014, [128 Stat. 4002][/us/stat/128/4002], provided that:
@@ -318,6 +346,11 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
+[/us/pl/114/113/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs513
+[/us/stat/129/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2926
+[/us/pl/114/113/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs513
+[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/113/293/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs314
 [/us/stat/128/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4002
 [/us/pl/109/364/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs357

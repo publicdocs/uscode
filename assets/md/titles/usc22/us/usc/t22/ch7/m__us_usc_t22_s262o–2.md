@@ -111,6 +111,20 @@
 
     2004—Subsec. (a)(15). [Pub. L. 108–458][/us/pl/108/458] added par. (15).
 
+ __Annual Report on Lending, Surveillance, or Technical Assistance Policies of the International Monetary Fund__ 
+
+[Pub. L. 114–113, div. K, title IX, § 9006][/us/pl/114/113/s9006], Dec. 18, 2015, [129 Stat. 2832][/us/stat/129/2832], provided that: 
+
+> “Not later than one year after the date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
+
+>     “(1) a description of any changes in the policies of the International Monetary Fund (the Fund) with respect to lending, surveillance, or technical assistance;
+
+>     “(2) an analysis of whether those changes, if any, increase or decrease the risk to United States financial commitments to the Fund;
+
+>     “(3) an analysis of any new or ongoing exceptional access loans of the Fund in place during the year preceding the submission of the report; and
+
+>     “(4) a description of any changes to the exceptional access policies of the Fund.”
+
  __Additional Provisions Relating to International Monetary Fund__ 
 
 [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–317, as amended by [Pub. L. 110–161, div. H, title I, § 1502(a)][/us/pl/110/161/s1502/a], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
@@ -154,6 +168,8 @@
 [/us/pl/108/458/s7703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7703%2Fa
 [/us/stat/118/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3860
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/114/113/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9006
+[/us/stat/129/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2832
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/110/161/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fa

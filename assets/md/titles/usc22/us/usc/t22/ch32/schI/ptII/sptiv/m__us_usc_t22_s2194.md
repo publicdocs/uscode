@@ -201,11 +201,13 @@
 
  __Extension of OPIC Authority__ 
 
-[Pub. L. 113–235, div. J, title VII, § 7073(b)][/us/pl/113/235/s7073/b], Dec. 16, 2014, [128 Stat. 2679][/us/stat/128/2679], provided that: 
+[Pub. L. 114–113, div. K, title VII, § 7061(b)][/us/pl/114/113/s7061/b], Dec. 18, 2015, [129 Stat. 2810][/us/stat/129/2810], provided that: 
 
-> “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2195(a)(2)][/us/usc/t22/s2195/a/2]\], the authority of subsections (a) through (c) of section 234 of such Act \[[22 U.S.C. 2194(a)][/us/usc/t22/s2194/a]–(c)\] shall remain in effect until September 30, 2015.”
+> “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2195(a)(2)][/us/usc/t22/s2195/a/2]\], the authority of subsections (a) through (c) of section 234 of such Act \[[22 U.S.C. 2194(a)][/us/usc/t22/s2194/a]–(c)\] shall remain in effect until September 30, 2016.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+    [Pub. L. 113–235, div. J, title VII, § 7073(b)][/us/pl/113/235/s7073/b], Dec. 16, 2014, [128 Stat. 2679][/us/stat/128/2679].
 
     [Pub. L. 113–76, div. K, title VII, § 7064(b)][/us/pl/113/76/s7064/b], Jan. 17, 2014, [128 Stat. 557][/us/stat/128/557].
 
@@ -314,10 +316,12 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/stat/113/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F112
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/113/235/s7073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7073%2Fb
-[/us/stat/128/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2679
+[/us/pl/114/113/s7061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7061%2Fb
+[/us/stat/129/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2810
 [/us/usc/t22/s2195/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Fa%2F2
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
+[/us/pl/113/235/s7073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7073%2Fb
+[/us/stat/128/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2679
 [/us/pl/113/76/s7064/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7064%2Fb
 [/us/stat/128/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F557
 [/us/pl/112/74/s7065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7065%2Fb

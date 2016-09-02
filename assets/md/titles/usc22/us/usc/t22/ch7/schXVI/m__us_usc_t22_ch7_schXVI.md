@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286vv.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXVI)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286xx.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXVI)
 
 ### SUBCHAPTER XVI—UNITED NATIONS ORGANIZATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286vv.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXVI)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286xx.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXVI)
 
 ----------
 ----------

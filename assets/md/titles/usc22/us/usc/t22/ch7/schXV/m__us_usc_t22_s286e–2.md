@@ -37,11 +37,13 @@
 
         (4) Not later than 15 days before submitting the certification under paragraph (3), the Secretary of the Treasury shall consult with the appropriate congressional committees regarding such certification.
 
+        (5) The authority to make loans under this section shall expire on December 16, 2022.
+
     (b) __Authorization of appropriations; repayments available for loans to Fund__ 
 
-        (1) For the purpose of making loans to the International Monetary Fund pursuant to subsection (a)(1) of this section, there is authorized to be appropriated 6,712,000,000 Special Drawing Rights, except that prior to activation, the Secretary of the Treasury shall certify whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the Fund has fully explored other means of funding, to remain available until expended to meet calls by the International Monetary Fund. Any payments made to the United States by the International Monetary Fund as a repayment on account of the principal of a loan made under this section shall continue to be available for loans to the International Monetary Fund.
+        (1) For the purpose of making loans to the International Monetary Fund pursuant to subsection (a)(1) of this section, there is authorized to be appropriated 6,712,000,000 Special Drawing Rights, except that prior to activation, the Secretary of the Treasury shall certify whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the Fund has fully explored other means of funding, to remain available until expended to meet calls by the International Monetary Fund. Any payments made to the United States by the International Monetary Fund as a repayment on account of the principal of a loan made under this section shall continue to be available for loans to the International Monetary Fund, only to the extent that amounts available for such loans are not rescinded by an Act of Congress.
 
-        (2) For the purpose of making loans to the International Monetary Fund pursuant to subsection (a)(2) of this section, there is hereby authorized to be appropriated not to exceed the dollar equivalent of 75,000,000,000 Special Drawing Rights, in addition to any amounts previously authorized under this section, except that prior to activation, the Secretary of the Treasury shall report to Congress on whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and whether the Fund has fully explored other means of funding, to remain available until expended to meet calls by the Fund. Any payments made to the United States by the Fund as a repayment on account of the principal of a loan made under this section shall continue to be available for loans to the Fund.
+        (2) For the purpose of making loans to the International Monetary Fund pursuant to subsection (a)(2) of this section, there is hereby authorized to be appropriated not to exceed the dollar equivalent of 75,000,000,000 Special Drawing Rights, in addition to any amounts previously authorized under this section, except that prior to activation, the Secretary of the Treasury shall report to Congress on whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and whether the Fund has fully explored other means of funding, to remain available until expended to meet calls by the Fund. Any payments made to the United States by the Fund as a repayment on account of the principal of a loan made under this section shall continue to be available for loans to the Fund, only to the extent that amounts available for such loans are not rescinded by an Act of Congress.
 
     (c) __Interest and charges covered into Treasury; additional authorization of appropriations for payment of charges for purchase of currencies or gold from Fund__ 
 
@@ -51,9 +53,33 @@
 
         Unless the Congress by law so authorizes, neither the President, the Secretary of the Treasury, nor any other person acting on behalf of the United States, may instruct the United States Executive Director to the Fund to consent to any amendment to the Decision of February 24, 1983, or the Decision of January 27, 1997, of the Executive Directors of the Fund, if the adoption of such amendment would significantly alter the amount, terms, or conditions of participation by the United States in the General Arrangements to Borrow or the New Arrangements to Borrow, as applicable.
 
-([July 31, 1945, ch. 339, § 17][/us/act/1945-07-31/ch339/s17], as added [Pub. L. 87–490, § 1][/us/pl/87/490/s1], June 19, 1962, [76 Stat. 105][/us/stat/76/105]; amended [Pub. L. 94–564, § 4][/us/pl/94/564/s4], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 802(a)(1)–(3)\], Nov. 30, 1983, [97 Stat. 1268][/us/stat/97/1268]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; [Pub. L. 111–32, title XIV, § 1401][/us/pl/111/32/s1401], June 24, 2009, [123 Stat. 1916][/us/stat/123/1916]; [Pub. L. 111–117, div. F, title VII, § 7090(b)][/us/pl/111/117/s7090/b], (c), Dec. 16, 2009, [123 Stat. 3406][/us/stat/123/3406].)
+    (e) __New requirement for activation of the new arrangements to borrow__ 
+
+        (1)
+
+         The Secretary of the Treasury shall include in the certification and report required by paragraphs (a)(1), (a)(2), (b)(1), and (b)(2) of this section prior to activation an additional certification and report that—
+
+            (A) the one-year forward commitment capacity of the IMF (excluding borrowed resources) is expected to fall below 100,000,000,000 Special Drawing Rights during the period of the NAB activation; and
+
+            (B) activation of the NAB is in the United States strategic economic interest with the reasons and analysis for that determination.
+
+        (2) Prior to submitting any certification and report required by paragraphs (a)(1), (a)(2), (b)(1), and (b)(2) of this section, the Secretary of the Treasury shall consult with the appropriate congressional committees.
+
+    (f) __Appropriate congressional committees, defined__ 
+
+        In this section, the term “appropriate congressional committees” means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives.
+
+([July 31, 1945, ch. 339, § 17][/us/act/1945-07-31/ch339/s17], as added [Pub. L. 87–490, § 1][/us/pl/87/490/s1], June 19, 1962, [76 Stat. 105][/us/stat/76/105]; amended [Pub. L. 94–564, § 4][/us/pl/94/564/s4], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 802(a)(1)–(3)\], Nov. 30, 1983, [97 Stat. 1268][/us/stat/97/1268]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; [Pub. L. 111–32, title XIV, § 1401][/us/pl/111/32/s1401], June 24, 2009, [123 Stat. 1916][/us/stat/123/1916]; [Pub. L. 111–117, div. F, title VII, § 7090(b)][/us/pl/111/117/s7090/b], (c), Dec. 16, 2009, [123 Stat. 3406][/us/stat/123/3406]; [Pub. L. 114–113, div. K, title IX, § 9001][/us/pl/114/113/s9001], Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(5). [Pub. L. 114–113, § 9001(1)][/us/pl/114/113/s9001/1], added par. (5).
+
+    Subsec. (b). [Pub. L. 114–113, § 9001(2)][/us/pl/114/113/s9001/2], inserted before period at end of pars. (1) and (2) “, only to the extent that amounts available for such loans are not rescinded by an Act of Congress”.
+
+    Subsec. (e). [Pub. L. 114–113, § 9001(3)][/us/pl/114/113/s9001/3], added subsec. (e).
+
+    Subsec. (f). [Pub. L. 114–113, § 9001(4)][/us/pl/114/113/s9001/4], added subsec. (f).
 
     2009—Subsec. (a). [Pub. L. 111–32, § 1401(1)][/us/pl/111/32/s1401/1], designated existing provisions as par. (1) and added par. (2).
 
@@ -76,6 +102,10 @@
     Subsec. (d). [Pub. L. 98–181, § 802(a)(3)][/us/pl/98/181/s802/a/3], added subsec. (d).
 
     1976—Subsec. (a). [Pub. L. 94–564][/us/pl/94/564] substituted “section 1(i)” for “section 2(i)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–113, div. K, title IX, § 9001(3)][/us/pl/114/113/s9001/3], Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829], provided in part that subsection (e) of this section is “effective from the first day of the next period of renewal of the NAB \[New Arrangements to Borrow\] decision after enactment of this Act \[Dec. 18, 2015\]”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -101,6 +131,12 @@
 [/us/stat/123/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1916
 [/us/pl/111/117/s7090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fb
 [/us/stat/123/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3406
+[/us/pl/114/113/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001
+[/us/stat/129/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2829
+[/us/pl/114/113/s9001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F1
+[/us/pl/114/113/s9001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F2
+[/us/pl/114/113/s9001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F3
+[/us/pl/114/113/s9001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F4
 [/us/pl/111/32/s1401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1401%2F1
 [/us/pl/111/117/s7090/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fc
 [/us/pl/111/117/s7090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fb
@@ -112,6 +148,8 @@
 [/us/pl/98/181/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs802%2Fa%2F2
 [/us/pl/98/181/s802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs802%2Fa%2F3
 [/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
+[/us/pl/114/113/s9001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F3
+[/us/stat/129/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2829
 [/us/pl/94/564/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs9
 [/us/usc/t22/s286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286a
 

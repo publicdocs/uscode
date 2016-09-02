@@ -75,13 +75,13 @@
 
  __Separate Accounts for Local Currencies and Cash Transfers__ 
 
-[Pub. L. 113–235, div. J, title VII, § 7026][/us/pl/113/235/s7026], Dec. 16, 2014, [128 Stat. 2614][/us/stat/128/2614], provided that:
+[Pub. L. 114–113, div. K, title VII, § 7026][/us/pl/114/113/s7026], Dec. 18, 2015, [129 Stat. 2748][/us/stat/129/2748], provided that:
 
 >     “(a) __Separate Accounts for Local Currencies.—__ 
 
->         “(1)
+>         “(1)  __Agreements__  __.—__ 
 
->          If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] or chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development (USAID) shall—
+>         If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] or chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development (USAID) shall—
 
 >             “(A) require that local currencies be deposited in a separate account established by that government;
 
@@ -125,7 +125,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] or chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
+>         If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] or chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle \[them\] with any other funds.
 
 >         “(2)  __Applicability of other provisions of law__  __.—__ 
 
@@ -137,9 +137,11 @@
 
 >         “(4)  __Exemption__  __.—__ 
 
->         Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the regular notification procedures of the Committees on Appropriations.”
+>         Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. J, title VII, § 7026][/us/pl/113/235/s7026], Dec. 16, 2014, [128 Stat. 2614][/us/stat/128/2614].
 
     [Pub. L. 113–76, div. K, title VII, § 7026][/us/pl/113/76/s7026], Jan. 17, 2014, [128 Stat. 505][/us/stat/128/505].
 
@@ -264,12 +266,14 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/114/113/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7026
+[/us/stat/129/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2748
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/113/235/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7026
 [/us/stat/128/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2614
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/113/76/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7026
 [/us/stat/128/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F505
 [/us/pl/112/74/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7026
