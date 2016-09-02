@@ -17,11 +17,11 @@
 
     (a) __Authority__ 
 
-    Until September 30, 2015, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+    Until September 30, 2015, and subject to subsection (d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
         (1) __In general__ 
 
-            When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under [section 2371 of title 10][/us/usc/t10/s2371] (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
+            When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under [section 2371 of title 10][/us/usc/t10/s2371] (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) 1 of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
 
         (2) __Prototype projects__ 
 
@@ -56,6 +56,10 @@
 ([Pub. L. 107–296, title VIII, § 831][/us/pl/107/296/s831], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224]; [Pub. L. 110–161, div. E, title V, § 572][/us/pl/110/161/s572], Dec. 26, 2007, [121 Stat. 2093][/us/stat/121/2093]; [Pub. L. 110–329, div. D, title V, § 537][/us/pl/110/329/s537], Sept. 30, 2008, [122 Stat. 3687][/us/stat/122/3687]; [Pub. L. 111–83, title V, § 531][/us/pl/111/83/s531], Oct. 28, 2009, [123 Stat. 2174][/us/stat/123/2174]; [Pub. L. 112–10, div. B, title VI, § 1651][/us/pl/112/10/s1651], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 527][/us/pl/112/74/s527], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]; [Pub. L. 113–6, div. D, title V, § 525][/us/pl/113/6/s525], Mar. 26, 2013, [127 Stat. 371][/us/stat/127/371]; [Pub. L. 113–76, div. F, title V, § 525][/us/pl/113/76/s525], Jan. 17, 2014, [128 Stat. 273][/us/stat/128/273]; [Pub. L. 114–4, title V, § 523][/us/pl/114/4/s523], Mar. 4, 2015, [129 Stat. 65][/us/stat/129/65].)
 
  __References in Text__ 
+
+    Subsection (d), referred to in subsec. (a), was redesignated subsec. (c) of this section by [Pub. L. 112–74, div. D, title V, § 527(3)][/us/pl/112/74/s527/3], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974].
+
+    Subsection (b) of this section, referred to in subsec. (a)(1), probably means the former subsec. (b) of this section which related to annual reports by the Comptroller General and which was struck out by [Pub. L. 112–74, div. D, title V, § 527(2)][/us/pl/112/74/s527/2], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]. See 2011 Amendment note for subsec. (b) below.
 
     Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which is set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces.
 
@@ -101,12 +105,6 @@
 
     2007—Subsec. (a). [Pub. L. 110–161][/us/pl/110/161] substituted “Until September 30, 2008” for “During the 5-year period following the effective date of this chapter” in introductory provisions.
 
- __Change of Name__ 
-
-    Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-    Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_ch1_schVIII_ptD.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s392.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs391)
@@ -137,6 +135,10 @@
 [/us/stat/128/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F273
 [/us/pl/114/4/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523
 [/us/stat/129/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F65
+[/us/pl/112/74/s527/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs527%2F3
+[/us/stat/125/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F974
+[/us/pl/112/74/s527/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs527%2F2
+[/us/stat/125/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F974
 [/us/pl/103/160/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs845
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/pl/114/4/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523%2F1

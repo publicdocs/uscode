@@ -45,6 +45,88 @@
 
     Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title][/us/usc/t6/s542].
 
+ __Border Jobs for Veterans__ 
+
+[Pub. L. 114–68][/us/pl/114/68], Oct. 16, 2015, [129 Stat. 555][/us/stat/129/555], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Border Jobs for Veterans Act of 2015’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress finds the following:
+
+>     “(1) Customs and Border Protection officers at United States ports of entry carry out critical law enforcement duties associated with screening foreign visitors, returning United States citizens, and imported cargo entering the United States.
+
+>     “(2) It is in the national interest for United States ports of entry to be adequately staffed with Customs and Border Protection officers in a timely fashion, including meeting the congressionally funded staffing target of 23,775 officers for fiscal year 2015.
+
+>     “(3) An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
+
+>     “(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
+
+> “SEC. 3. __EXPEDITED HIRING OF APPROPRIATE SEPARATING SERVICE MEMBERS.__ 
+
+>     “The Secretary of Homeland Security shall consider the expedited hiring of qualified candidates who have the ability to perform the essential functions of the position of a Customs and Border Protection officer and who are eligible for a veterans recruitment appointment authorized under [section 4214 of title 38][/us/usc/t38/s4214], United States Code.
+
+> “SEC. 4. __ENHANCEMENTS TO EXISTING PROGRAMS TO RECRUIT SERVICE MEMBERS SEPARATING FROM MILITARY SERVICE FOR CUSTOMS AND BORDER PROTECTION OFFICER VACANCIES.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Homeland Security, in consultation with the Secretary of Defense, and acting through existing programs, authorities, and agreements, where applicable, shall enhance the efforts of the Department of Homeland Security to recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection officers.
+
+>     “(b)  __Elements__  __.—__ 
+
+>     The enhanced recruiting efforts under subsection (a) shall—
+
+>         “(1) include Customs and Border Protection officer opportunities in relevant job assistance efforts under the Transition Assistance Program;
+
+>         “(2) place U.S. Customs and Border Protection officials or other relevant Department of Homeland Security officials at recruiting events and jobs fairs involving members of the Armed Forces who are separating from military service;
+
+>         “(3) provide opportunities for local U.S. Customs and Border Protection field offices to partner with military bases in the region;
+
+>         “(4) include outreach efforts to educate members of the Armed Forces with Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection officers of available hiring opportunities to become Customs and Border Protection officers;
+
+>         “(5) identify shared activities and opportunities for reciprocity related to steps in hiring Customs and Border Protection officers with the goal of minimizing the time required to hire qualified applicants;
+
+>         “(6) ensure the streamlined interagency transfer of relevant background investigations and security clearances; and
+
+>         “(7) include such other elements as may be necessary to ensure that members of the Armed Forces who are separating from military service are aware of opportunities to fill vacant Customs and Border Protection officer positions.
+
+> “SEC. 5. __REPORT TO CONGRESS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2015\], and by December 31 of each of the next 3 years thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on Homeland Security and the Committee on Armed Services of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate that includes a description and assessment of the efforts of the Department of Homeland Security to hire members of the Armed Forces who are separating from military service as Customs and Border Protection officers under section 4.
+
+>     “(b)  __Content__  __.—__ 
+
+>     The report required under subsection (a) shall include—
+
+>         “(1)
+
+>          a detailed description of the efforts to implement section 4, including—
+
+>             “(A) elements of the enhanced recruiting efforts and the goals associated with such elements; and
+
+>             “(B) a description of how the elements and goals referred to in subparagraph (A) will assist in meeting statutorily mandated staffing levels and agency hiring benchmarks;
+
+>         “(2) a detailed description of the efforts that have been undertaken under section 4;
+
+>         “(3) the estimated number of separating service members made aware of Customs and Border Protection officer vacancies;
+
+>         “(4) the number of Customs and Border Protection officer vacancies filled with separating service members; and
+
+>         “(5) the number of Customs and Border Protection officer vacancies filled with separating service members under Veterans Recruitment Appointment authorized under [section 4214 of title 38][/us/usc/t38/s4214], United States Code.
+
+> “SEC. 6. __RULES OF CONSTRUCTION.__ 
+
+> “Nothing in this Act may be construed—
+
+>     “(1) as superseding, altering, or amending existing Federal veterans’ hiring preferences or Federal hiring authorities; or
+
+>     “(2) to authorize the appropriation of additional amounts to carry out this Act.”
+
  __Port of Entry Partnership Pilot Program__ 
 
 [Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V, § 552(a)][/us/pl/114/4/s552/a], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], provided that:
@@ -301,6 +383,10 @@
 [/us/pl/107/296/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs411
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F68
+[/us/stat/129/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F555
+[/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
+[/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
 [/us/pl/113/76/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs559
 [/us/stat/128/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F279
 [/us/pl/114/4/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa
