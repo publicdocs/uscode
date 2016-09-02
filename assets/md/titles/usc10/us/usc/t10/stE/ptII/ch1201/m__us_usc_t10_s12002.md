@@ -21,33 +21,61 @@
 
       <tr>
 
-        <td>   Army National Guard and the Army National Guard of the United States  </td>
+        <td> 
 
-        <td> 600,000    </td>
+   </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   Army Reserve  </td>
-
-        <td> 980,000    </td>
+   </td>
 
   </tr>
 
       <tr>
 
-        <td>   Air National Guard and the Air National Guard of the United States  </td>
+        <td> 
 
-        <td> 150,000    </td>
+    Army National Guard and the Army National Guard of the United States  </td>
+
+        <td> 
+
+    600,000  </td>
 
   </tr>
 
       <tr>
 
-        <td>   Air Force Reserve  </td>
+        <td> 
 
-        <td> 500,000.  </td>
+    Army Reserve  </td>
+
+        <td> 
+
+    980,000  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Air National Guard and the Air National Guard of the United States  </td>
+
+        <td> 
+
+    150,000  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Air Force Reserve  </td>
+
+        <td> 
+
+    500,000.  </td>
 
   </tr>
 

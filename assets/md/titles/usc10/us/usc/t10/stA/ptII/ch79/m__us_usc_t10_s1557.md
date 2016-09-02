@@ -23,73 +23,73 @@
 
       <tr>
 
-        <td>    </td>
+        <td> 
 
-        <td> The percentage on which final   </td>
+    For applications received during—  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>  For applications  </td>
-
-        <td> Correction Board action     </td>
+    The percentage on which final Correction Board action must be completed within 10 months of receipt is—  </td>
 
   </tr>
 
       <tr>
 
-        <td>  received during—  </td>
+        <td> 
 
-        <td> must be completed within    </td>
+    the period of fiscal years 2001 and 2002  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>    </td>
-
-        <td> 10 months of receipt is—     </td>
+    50  </td>
 
   </tr>
 
       <tr>
 
-        <td>   the  period  of  fiscal  years  2001  and  2002  </td>
+        <td> 
 
-        <td> 50    </td>
+    the period of fiscal years 2003 and 2004  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   the  period  of  fiscal  years  2003  and  2004  </td>
-
-        <td> 60    </td>
+    60  </td>
 
   </tr>
 
       <tr>
 
-        <td>   the period of fiscal years 2005, 2006, and     2007  </td>
+        <td> 
 
-        <td> 70    </td>
+    the period of fiscal years 2005, 2006, and 2007  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   the period of fiscal years 2008, 2009, and     2010  </td>
-
-        <td> 80    </td>
+    70  </td>
 
   </tr>
 
       <tr>
 
-        <td>   the period of any fiscal year after fiscal     year 2010  </td>
+        <td> 
 
-        <td> 90.  </td>
+    the period of fiscal years 2008, 2009, and 2010  </td>
+
+        <td> 
+
+    80  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    the period of any fiscal year after fiscal year 2010  </td>
+
+        <td> 
+
+    90.  </td>
 
   </tr>
 

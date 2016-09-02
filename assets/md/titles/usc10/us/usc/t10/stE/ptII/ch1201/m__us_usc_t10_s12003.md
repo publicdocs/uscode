@@ -21,33 +21,61 @@
 
       <tr>
 
-        <td> Army  </td>
+        <td> 
 
-        <td> 275,000    </td>
+   </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td> Air Force  </td>
-
-        <td> 200,000    </td>
+   </td>
 
   </tr>
 
       <tr>
 
-        <td> Navy  </td>
+        <td> 
 
-        <td> 150,000    </td>
+    Army  </td>
+
+        <td> 
+
+    275,000  </td>
 
   </tr>
 
       <tr>
 
-        <td> Marine Corps  </td>
+        <td> 
 
-        <td> 24,500.  </td>
+    Air Force  </td>
+
+        <td> 
+
+    200,000  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Navy  </td>
+
+        <td> 
+
+    150,000  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Marine Corps  </td>
+
+        <td> 
+
+    24,500.  </td>
 
   </tr>
 

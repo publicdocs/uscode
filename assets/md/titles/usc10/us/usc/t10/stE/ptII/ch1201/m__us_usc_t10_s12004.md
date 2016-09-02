@@ -21,33 +21,55 @@
 
       <tr>
 
-        <td> Army  </td>
-
-        <td> 207    </td>
+        <td>   </td>
 
   </tr>
 
       <tr>
 
-        <td> Air Force  </td>
+        <td> 
 
-        <td> 157    </td>
+    Army  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td> Navy  </td>
-
-        <td> 48    </td>
+    207  </td>
 
   </tr>
 
       <tr>
 
-        <td> Marine Corps  </td>
+        <td> 
 
-        <td> 10.  </td>
+    Air Force  </td>
+
+        <td> 
+
+    157  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Navy  </td>
+
+        <td> 
+
+    48  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    Marine Corps  </td>
+
+        <td> 
+
+    10.  </td>
 
   </tr>
 

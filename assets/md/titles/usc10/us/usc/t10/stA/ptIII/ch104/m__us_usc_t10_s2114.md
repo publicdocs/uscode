@@ -29,41 +29,49 @@
 
       <tr>
 
-        <td> Period of Service  </td>
+        <td> 
 
-        <td> Ready Reserve  </td>
+    Period of Service on Active Duty  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>  on Active Duty  </td>
-
-        <td> Obligation  </td>
+    Ready    Reserve    Obligation  </td>
 
   </tr>
 
       <tr>
 
-        <td>   Less than 8 years  </td>
+        <td> 
 
-        <td> 6 years  </td>
+    Less than 8 years  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   8 years or more, but less than 9  </td>
-
-        <td> 4 years  </td>
+    6 years  </td>
 
   </tr>
 
       <tr>
 
-        <td>   9 years or more, but less than 10  </td>
+        <td> 
 
-        <td> 2 years  </td>
+     8 years or more, but less than 9  </td>
+
+        <td> 
+
+    4 years  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    9 years or more, but less than 10  </td>
+
+        <td> 
+
+    2 years  </td>
 
   </tr>
 

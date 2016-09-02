@@ -1085,7 +1085,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Wounded Warrior Health Care Improvements__ 
 
-[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903], provided that:
 
 > “SEC. 1602. __GENERAL DEFINITIONS.__ 
 
@@ -2085,7 +2085,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than January 1, 2009, and each year thereafter through 2014, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
+>         Not later than January 1, 2009, and each year thereafter through 2015, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
 
 >             “(A) A detailed description of the activities of the Office, including a detailed description of the amounts expended and the purposes for which expended.
 
@@ -3135,6 +3135,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
+[/us/pl/113/175/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs105
+[/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
 [/us/usc/t37/s481h/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F3%2FB
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
