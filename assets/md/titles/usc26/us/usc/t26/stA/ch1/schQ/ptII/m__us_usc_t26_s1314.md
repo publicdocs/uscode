@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2014—Subsecs. (d), (e). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows “No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.”.
+    2014—Subsecs. (d), (e). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.”
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 

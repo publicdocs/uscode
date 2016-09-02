@@ -33,11 +33,11 @@
 
         Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-            (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014),
+            (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015),
 
-            (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014), and
+            (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015), and
 
-            (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014).
+            (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2015).
 
             Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
@@ -57,13 +57,13 @@
 
         (2) __Exception for prior obligations__ 
 
-            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
+            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before August 1, 2015, in accordance with the provisions of this section.
 
     (e) __Cross reference__ 
 
         For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).
 
-(Added [Pub. L. 98–369, div. A, title X, § 1016(a)][/us/pl/98/369/s1016/a], July 18, 1984, [98 Stat. 1019][/us/stat/98/1019]; amended [Pub. L. 100–418, title I, § 1214(p)(2)][/us/pl/100/418/s1214/p/2], Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 100–448, § 6(a)(2)][/us/pl/100/448/s6/a/2], (c)(3), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839], 1841; [Pub. L. 101–508, title XI, § 11211(i)(2)][/us/pl/101/508/s11211/i/2], (3), Nov. 5, 1990, [104 Stat. 1388–428][/us/stat/104/1388-428]; [Pub. L. 102–240, title VIII, § 8002(d)(2)(C)][/us/pl/102/240/s8002/d/2/C], (i), Dec. 18, 1991, [105 Stat. 2204][/us/stat/105/2204], 2205; [Pub. L. 105–130, § 9(b)][/us/pl/105/130/s9/b], Dec. 1, 1997, [111 Stat. 2561][/us/stat/111/2561]; [Pub. L. 105–178, title IX, § 9005(b)][/us/pl/105/178/s9005/b]–(d), (f), June 9, 1998, [112 Stat. 505][/us/stat/112/505]; [Pub. L. 105–206, title IX, § 9015(b)][/us/pl/105/206/s9015/b], July 22, 1998, [112 Stat. 867][/us/stat/112/867]; [Pub. L. 106–408, title I, § 126][/us/pl/106/408/s126], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775]; [Pub. L. 108–88, § 12(b)][/us/pl/108/88/s12/b], Sept. 30, 2003, [117 Stat. 1129][/us/stat/117/1129]; [Pub. L. 108–202, § 12(b)][/us/pl/108/202/s12/b], Feb. 29, 2004, [118 Stat. 491][/us/stat/118/491]; [Pub. L. 108–224, § 10(b)][/us/pl/108/224/s10/b], Apr. 30, 2004, [118 Stat. 639][/us/stat/118/639]; [Pub. L. 108–263, § 10(b)][/us/pl/108/263/s10/b], June 30, 2004, [118 Stat. 710][/us/stat/118/710]; [Pub. L. 108–280, § 10(b)][/us/pl/108/280/s10/b], July 30, 2004, [118 Stat. 888][/us/stat/118/888]; [Pub. L. 108–310, § 13(b)][/us/pl/108/310/s13/b], Sept. 30, 2004, [118 Stat. 1163][/us/stat/118/1163]; [Pub. L. 109–14, § 9(b)][/us/pl/109/14/s9/b], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 9(b)][/us/pl/109/20/s9/b], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 9(b)][/us/pl/109/35/s9/b], July 20, 2005, [119 Stat. 391][/us/stat/119/391]; [Pub. L. 109–37, § 9(b)][/us/pl/109/37/s9/b], July 22, 2005, [119 Stat. 406][/us/stat/119/406]; [Pub. L. 109–40, § 9(b)][/us/pl/109/40/s9/b], July 28, 2005, [119 Stat. 422][/us/stat/119/422]; [Pub. L. 109–42, § 7(b)][/us/pl/109/42/s7/b], (d)(2), (3), July 30, 2005, [119 Stat. 437][/us/stat/119/437], 438; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, [119 Stat. 1945][/us/stat/119/1945], 1949, 1950, 1968, 1969; [Pub. L. 109–74, title III, § 301(a)][/us/pl/109/74/s301/a], Sept. 29, 2005, [119 Stat. 2032][/us/stat/119/2032]; [Pub. L. 109–304, § 16(c)(2)][/us/pl/109/304/s16/c/2], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706]; [Pub. L. 110–181, div. C, title XXXV, § 3529(c)(1)][/us/pl/110/181/s3529/c/1], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 111–68, div. B, § 161(a)][/us/pl/111/68/s161/a], Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–88, div. B, § 103][/us/pl/111/88/s103], Oct. 30, 2009, [123 Stat. 2972][/us/stat/123/2972]; [Pub. L. 111–147, title IV][/us/pl/111/147], §§ 444(b)(5)–(7), 445(b), Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94], 95; [Pub. L. 111–322, title II, § 2401(b)][/us/pl/111/322/s2401/b], Dec. 22, 2010, [124 Stat. 3531][/us/stat/124/3531]; [Pub. L. 112–5, title IV, § 401(b)][/us/pl/112/5/s401/b], Mar. 4, 2011, [125 Stat. 22][/us/stat/125/22]; [Pub. L. 112–30, title I, § 141(b)][/us/pl/112/30/s141/b], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(b)][/us/pl/112/102/s401/b], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(b)][/us/pl/112/140/s401/b], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(b)][/us/pl/112/141/s40101/b], July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 113–159, title II, § 2001(b)][/us/pl/113/159/s2001/b], Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848].)
+(Added [Pub. L. 98–369, div. A, title X, § 1016(a)][/us/pl/98/369/s1016/a], July 18, 1984, [98 Stat. 1019][/us/stat/98/1019]; amended [Pub. L. 100–418, title I, § 1214(p)(2)][/us/pl/100/418/s1214/p/2], Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 100–448, § 6(a)(2)][/us/pl/100/448/s6/a/2], (c)(3), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839], 1841; [Pub. L. 101–508, title XI, § 11211(i)(2)][/us/pl/101/508/s11211/i/2], (3), Nov. 5, 1990, [104 Stat. 1388–428][/us/stat/104/1388-428]; [Pub. L. 102–240, title VIII, § 8002(d)(2)(C)][/us/pl/102/240/s8002/d/2/C], (i), Dec. 18, 1991, [105 Stat. 2204][/us/stat/105/2204], 2205; [Pub. L. 105–130, § 9(b)][/us/pl/105/130/s9/b], Dec. 1, 1997, [111 Stat. 2561][/us/stat/111/2561]; [Pub. L. 105–178, title IX, § 9005(b)][/us/pl/105/178/s9005/b]–(d), (f), June 9, 1998, [112 Stat. 505][/us/stat/112/505]; [Pub. L. 105–206, title IX, § 9015(b)][/us/pl/105/206/s9015/b], July 22, 1998, [112 Stat. 867][/us/stat/112/867]; [Pub. L. 106–408, title I, § 126][/us/pl/106/408/s126], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775]; [Pub. L. 108–88, § 12(b)][/us/pl/108/88/s12/b], Sept. 30, 2003, [117 Stat. 1129][/us/stat/117/1129]; [Pub. L. 108–202, § 12(b)][/us/pl/108/202/s12/b], Feb. 29, 2004, [118 Stat. 491][/us/stat/118/491]; [Pub. L. 108–224, § 10(b)][/us/pl/108/224/s10/b], Apr. 30, 2004, [118 Stat. 639][/us/stat/118/639]; [Pub. L. 108–263, § 10(b)][/us/pl/108/263/s10/b], June 30, 2004, [118 Stat. 710][/us/stat/118/710]; [Pub. L. 108–280, § 10(b)][/us/pl/108/280/s10/b], July 30, 2004, [118 Stat. 888][/us/stat/118/888]; [Pub. L. 108–310, § 13(b)][/us/pl/108/310/s13/b], Sept. 30, 2004, [118 Stat. 1163][/us/stat/118/1163]; [Pub. L. 109–14, § 9(b)][/us/pl/109/14/s9/b], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 9(b)][/us/pl/109/20/s9/b], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 9(b)][/us/pl/109/35/s9/b], July 20, 2005, [119 Stat. 391][/us/stat/119/391]; [Pub. L. 109–37, § 9(b)][/us/pl/109/37/s9/b], July 22, 2005, [119 Stat. 406][/us/stat/119/406]; [Pub. L. 109–40, § 9(b)][/us/pl/109/40/s9/b], July 28, 2005, [119 Stat. 422][/us/stat/119/422]; [Pub. L. 109–42, § 7(b)][/us/pl/109/42/s7/b], (d)(2), (3), July 30, 2005, [119 Stat. 437][/us/stat/119/437], 438; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, [119 Stat. 1945][/us/stat/119/1945], 1949, 1950, 1968, 1969; [Pub. L. 109–74, title III, § 301(a)][/us/pl/109/74/s301/a], Sept. 29, 2005, [119 Stat. 2032][/us/stat/119/2032]; [Pub. L. 109–304, § 16(c)(2)][/us/pl/109/304/s16/c/2], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706]; [Pub. L. 110–181, div. C, title XXXV, § 3529(c)(1)][/us/pl/110/181/s3529/c/1], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 111–68, div. B, § 161(a)][/us/pl/111/68/s161/a], Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–88, div. B, § 103][/us/pl/111/88/s103], Oct. 30, 2009, [123 Stat. 2972][/us/stat/123/2972]; [Pub. L. 111–147, title IV][/us/pl/111/147], §§ 444(b)(5)–(7), 445(b), Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94], 95; [Pub. L. 111–322, title II, § 2401(b)][/us/pl/111/322/s2401/b], Dec. 22, 2010, [124 Stat. 3531][/us/stat/124/3531]; [Pub. L. 112–5, title IV, § 401(b)][/us/pl/112/5/s401/b], Mar. 4, 2011, [125 Stat. 22][/us/stat/125/22]; [Pub. L. 112–30, title I, § 141(b)][/us/pl/112/30/s141/b], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(b)][/us/pl/112/102/s401/b], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(b)][/us/pl/112/140/s401/b], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(b)][/us/pl/112/141/s40101/b], July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 113–159, title II, § 2001(b)][/us/pl/113/159/s2001/b], Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 114–21, title II, § 2001(b)][/us/pl/114/21/s2001/b], May 29, 2015, [129 Stat. 226][/us/stat/129/226].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
     The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], [64 Stat. 430][/us/stat/64/430], also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to [section 777n of Title 16][/us/usc/t16/s777n]. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of Title 16][/us/usc/t16/s777] and Tables.
 
-    The date of the enactment of the Highway and Transportation Funding Act of 2014, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of [Pub. L. 113–159][/us/pl/113/159], which was approved Aug. 8, 2014.
+    The date of the enactment of the Highway and Transportation Funding Act of 2015, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of [Pub. L. 114–21][/us/pl/114/21], which was approved May 29, 2015.
 
     Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to [section 777g–1(d) of Title 16][/us/usc/t16/s777g–1/d], Conservation.
 
@@ -80,6 +80,10 @@
 The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(A) to (C). [Pub. L. 114–21, § 2001(b)(1)][/us/pl/114/21/s2001/b/1], substituted “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+
+    Subsec. (d)(2). [Pub. L. 114–21, § 2001(b)(2)][/us/pl/114/21/s2001/b/2], substituted “August 1, 2015” for “June 1, 2015”.
 
     2014—Subsec. (b)(2)(A) to (C). [Pub. L. 113–159, § 2001(b)(1)][/us/pl/113/159/s2001/b/1], substituted “Highway and Transportation Funding Act of 2014” for “MAP–21”.
 
@@ -433,17 +437,21 @@ The date of the enactment of the Safe, Accountable, Flexible, Efficient Transpor
 [/us/stat/126/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F844
 [/us/pl/113/159/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2001%2Fb
 [/us/stat/128/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1848
+[/us/pl/114/21/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fb
+[/us/stat/129/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F226
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
 [/us/usc/t16/s777n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777n
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/usc/t16/s777g–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%E2%80%931%2Fd
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4778
 [/us/usc/t16/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3951
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/21/s2001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fb%2F1
+[/us/pl/114/21/s2001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fb%2F2
 [/us/pl/113/159/s2001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2001%2Fb%2F1
 [/us/pl/113/159/s2001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2001%2Fb%2F2
 [/us/pl/112/141/s40101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40101%2Fb%2F1

@@ -317,7 +317,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(3). [Pub. L. 113–295][/us/pl/113/295] struck out “whichever of the following dates is later: (A)” after “before” and “; or (B) the due date of the return (including any extension thereof) for his second taxable year ending after 1967” after “or (c)(5)”.
+    2014—Subsec. (e)(3). [Pub. L. 113–295][/us/pl/113/295] struck out “whichever of the following dates is later: (A)” after “before” and “; or (B) the due date of the return (including any extension thereof) for his second taxable year ending after 1967” after “or (c)(5)”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
     2010—Subsec. (a)(12)(B). [Pub. L. 111–148][/us/pl/111/148] inserted “(determined without regard to the rate imposed under paragraph (2) of section 1401(b))” after “for such year”.
 

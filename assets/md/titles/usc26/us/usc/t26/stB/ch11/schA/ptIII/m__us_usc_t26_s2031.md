@@ -147,7 +147,7 @@
 
  __References in Text__ 
 
-     Section 2057, referred to in subsec. (c)(10), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(97)(A)][/us/pl/113/295/s221/a/97/A], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], effective Dec. 19, 2014.
+    Section 2057, referred to in subsec. (c)(10), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(97)(A)][/us/pl/113/295/s221/a/97/A], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], effective Dec. 19, 2014.
 
  __Amendments__ 
 

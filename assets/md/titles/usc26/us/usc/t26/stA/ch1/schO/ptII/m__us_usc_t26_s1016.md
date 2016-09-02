@@ -205,11 +205,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(12). [Pub. L. 113–295, § 221(a)(75)][/us/pl/113/295/s221/a/75], struck out par. (12). Prior to amendment, text read as follows: “to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder’s consent made under section 28 of such code;”.
+    2014—Subsec. (a)(12). [Pub. L. 113–295, § 221(a)(75)][/us/pl/113/295/s221/a/75], struck out par. (12) which read as follows: “to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder’s consent made under section 28 of such code;”.
 
-    Subsec. (a)(24). [Pub. L. 113–295, § 221(a)(34)(G)][/us/pl/113/295/s221/a/34/G], struck out par. (24). Prior to amendment, text read as follows: “to the extent provided in section 179A(e)(6)(A),”.
+    Subsec. (a)(24). [Pub. L. 113–295, § 221(a)(34)(G)][/us/pl/113/295/s221/a/34/G], struck out par. (24) which read as follows: “to the extent provided in section 179A(e)(6)(A),”.
 
-    Subsec. (a)(25). [Pub. L. 113–295, § 221(a)(2)(D)][/us/pl/113/295/s221/a/2/D], struck out par. (25). Prior to amendment, text read as follows: “to the extent provided in section 30(e)(1),”.
+    Subsec. (a)(25). [Pub. L. 113–295, § 221(a)(2)(D)][/us/pl/113/295/s221/a/2/D], struck out par. (25) which read as follows: “to the extent provided in section 30(e)(1),”.
 
     Subsec. (a)(37). [Pub. L. 113–295, § 209(j)(2)][/us/pl/113/295/s209/j/2], substituted “section 30D(f)(1)” for “section 30D(e)(4)”.
 

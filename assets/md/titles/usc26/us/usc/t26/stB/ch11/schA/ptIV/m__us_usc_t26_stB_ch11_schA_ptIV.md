@@ -83,7 +83,7 @@
 
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2057" data-uslm-ref="/us/usc/t26/s2057">2057.</a>  </td>
 
-    <td> Repealed].  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 

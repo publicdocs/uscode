@@ -1113,7 +1113,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 219(c) of Pub. L. 113–295][/us/pl/113/295/s219/c] effective as if included in the provision of the American Jobs Creation Act of 2004, [Pub. L. 108–357][/us/pl/108/357] to which such amendment relates, see [section 219(d) of Pub. L. 113–295][/us/pl/113/295/s219/d], set out as a note under [section 199 of this title][/us/usc/t26/s199].
+    Amendment by [section 219(c) of Pub. L. 113–295][/us/pl/113/295/s219/c] effective as if included in the provision of the American Jobs Creation Act of 2004, [Pub. L. 108–357][/us/pl/108/357], to which such amendment relates, see [section 219(d) of Pub. L. 113–295][/us/pl/113/295/s219/d], set out as a note under [section 199 of this title][/us/usc/t26/s199].
 
     Amendment by [section 221(a)(72) of Pub. L. 113–295][/us/pl/113/295/s221/a/72] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 

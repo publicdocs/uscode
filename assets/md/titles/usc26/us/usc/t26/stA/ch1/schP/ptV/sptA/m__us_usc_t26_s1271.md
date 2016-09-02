@@ -147,7 +147,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before January 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before Jan. 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
 
     1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section shall not apply to—
 

@@ -299,7 +299,7 @@
 
 >     “(1)  __In general__  __.—__ 
 
->     The amendments made by this section \[enacting subchapter A of this chapter, redesignating former subchapters A and B of this chapter as subchapters B and C, respectively, and amending this section and sections 4222 and 4293 of this title\] shall take effect on January 1, 1991.
+>     The amendments made by this section \[enacting subchapter A of chapter 31 of this title, redesignating former subchapters A and B of chapter 31 as subchapters B and C, respectively, and amending this section and sections 4222 and 4293 of this title\] shall take effect on January 1, 1991.
 
 >     “(2)  __Exception for binding contracts__  __.—__ 
 

@@ -43,8 +43,6 @@
 
             Under regulations prescribed by the Secretary, appropriate adjustments shall be made in the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).
 
-        \[(4) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(102)__  __][/us/pl/113/295/s221/a/102]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4052__  __][/us/stat/128/4052]__  __\]__ 
-
     (c) __Domestic service employment taxes__ 
 
     For purposes of this section, the term “domestic service employment taxes” means—
@@ -89,7 +87,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(4). [Pub. L. 113–295][/us/pl/113/295] struck out heading and text of par. (4). Text read as follows: “In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.”
+    2014—Subsec. (b)(4). [Pub. L. 113–295][/us/pl/113/295] struck out par. (4). Text read as follows: “In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -114,8 +112,6 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F102
-[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
 [/us/pl/103/387/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs2%2Fb%2F1
 [/us/stat/108/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4073
 [/us/pl/113/295/s221/a/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F102

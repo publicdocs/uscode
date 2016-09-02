@@ -145,7 +145,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(85)(A)][/us/pl/113/295/s221/a/85/A], struck out “after December 31, 1969” after “beginning”.
+    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(85)(A)][/us/pl/113/295/s221/a/85/A], struck out “after December 31, 1969” after “beginning” in introductory provisions.
 
     Subsec. (a)(1)(A). [Pub. L. 113–295, § 221(a)(85)(B)][/us/pl/113/295/s221/a/85/B], struck out “after December 31, 1969,” after “taxpayer”.
 

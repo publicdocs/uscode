@@ -281,7 +281,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(2). [Pub. L. 113–295, § 213(c)(2)][/us/pl/113/295/s213/c/2], struck out “subparagraph (A) or (B) of” after “event described in”.
+    2014—Subsec. (e)(2). [Pub. L. 113–295][/us/pl/113/295] struck out “subparagraph (A) or (B) of” after “event described in”.
 
     2008—Subsec. (e)(1). [Pub. L. 110–245, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
 
@@ -479,7 +479,7 @@
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/usc/t26/s878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs878
-[/us/pl/113/295/s213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fc%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/245/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fc%2F2%2FA
 [/us/pl/110/245/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fd
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135

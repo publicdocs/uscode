@@ -71,7 +71,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
+    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
     2010—Subsecs. (c), (d). [Pub. L. 111–147][/us/pl/111/147] added subsec. (c) and redesignated former subsec. (c) as (d).
 

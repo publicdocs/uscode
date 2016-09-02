@@ -257,7 +257,7 @@
 
     Subsec. (h)(3). [Pub. L. 113–295, § 221(a)(27)(D)][/us/pl/113/295/s221/a/27/D], substituted “section 165(i)(5)” for “section 165(h)(3)(C)”.
 
-    Subsecs. (j) to (l). [Pub. L. 113–295, § 221(a)(77)][/us/pl/113/295/s221/a/77], redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j), which related to sales or exchanges to implement microwave relocation policy.
+    Subsecs. (j) to (l). [Pub. L. 113–295, § 221(a)(77)][/us/pl/113/295/s221/a/77], redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to sales or exchanges to implement microwave relocation policy.
 
     2008—Subsec. (h). [Pub. L. 110–343, § 706(a)(2)(D)(i)][/us/pl/110/343/s706/a/2/D/i], amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
 

@@ -235,7 +235,7 @@
 
 [Pub. L. 113–295, div. A, title I, § 139(c)][/us/pl/113/295/s139/c], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
 
-> “The amendment made by this section \[amending this section \] shall apply to periods after December 31, 2013.”
+> “The amendment made by this section \[amending this section\] shall apply to periods after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 

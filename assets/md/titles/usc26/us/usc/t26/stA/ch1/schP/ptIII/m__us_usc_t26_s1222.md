@@ -93,7 +93,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-    Amendment by [Pub. L. 111–325][/us/pl/111/325] applicable to net capital losses for taxable years beginning after Dec. 22, 2010, see [section 101(c)(1) of Pub. L. 111–325][/us/pl/111/325/s101/c/1], set out as a note under [section 1212 of this title][/us/usc/t26/s1212].
+    Except as otherwise provided, amendment by [Pub. L. 111–325][/us/pl/111/325] applicable to net capital losses for taxable years beginning after Dec. 22, 2010, see [section 101(c) of Pub. L. 111–325][/us/pl/111/325/s101/c], set out as a note under [section 1212 of this title][/us/usc/t26/s1212].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -151,7 +151,7 @@
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
-[/us/pl/111/325/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fc%2F1
+[/us/pl/111/325/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fc
 [/us/usc/t26/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1212
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s1001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fe

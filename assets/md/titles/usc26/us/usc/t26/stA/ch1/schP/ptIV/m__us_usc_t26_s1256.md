@@ -117,11 +117,11 @@
 
             (B) __Syndicate defined__ 
 
-                For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ).
+                For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (C) __Holdings attributable to active management__ 
 
-            For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))—
+            For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))— 1
 
                 (i) for any period if during such period such interest is held by an individual who actively participates at all times during such period in the management of such entity,
 

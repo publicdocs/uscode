@@ -263,9 +263,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (f)(4). [Pub. L. 113–295, § 221(a)(101)(A)][/us/pl/113/295/s221/a/101/A], substituted “subsection, the” for “subsection—” and all that followed through “(A) In general.—The”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B), which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
+    2014—Subsec. (f)(4). [Pub. L. 113–295, § 221(a)(101)(A)][/us/pl/113/295/s221/a/101/A], substituted “subsection, the” for “subsection—”, subpar. (A) designation and heading “In general”, and “The”; redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins; and struck out former subpar. (B) which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
 
-    Subsec. (f)(5)(D), (E). [Pub. L. 113–295, § 221(a)(101)(B)][/us/pl/113/295/s221/a/101/B], redesignated subpar. (E) as (D) and struck out former subpar. (D), which related to special rules for years before 1985.
+    Subsec. (f)(5)(D), (E). [Pub. L. 113–295, § 221(a)(101)(B)][/us/pl/113/295/s221/a/101/B], redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for years before 1985.
 
     Subsec. (h). [Pub. L. 113–295, § 206(c)(1)][/us/pl/113/295/s206/c/1], added subsec. (h).
 
@@ -403,7 +403,7 @@
 
 [Pub. L. 113–295, div. B, title II, § 206(h)][/us/pl/113/295/s206/h], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], provided that: 
 
-> “Nothing contained in this section \[see Effective Date of 2014 Amendment note above\] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
+> “Nothing contained in this section \[enacting sections 3511 and 7705 of this title, amending this section and sections 3303, 6053, 6652, and 7528 of this title, and enacting provisions set out as notes under this section and [section 7705 of this title][/us/usc/t26/s7705]\] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
 
 >     “(1) for Federal tax purposes (other than the purposes set forth in the amendments made by this section), or
 
@@ -642,6 +642,7 @@
 [/us/stat/75/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F683
 [/us/pl/113/295/s206/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fh
 [/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
+[/us/usc/t26/s7705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7705
 [/us/pl/102/318/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs304
 [/us/stat/106/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F298
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

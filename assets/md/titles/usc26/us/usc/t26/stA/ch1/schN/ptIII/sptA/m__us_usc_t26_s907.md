@@ -217,7 +217,7 @@
 
  __References in Text__ 
 
-    The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv), (f)(4)(A), is the date of enactment of div. B of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
+    The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv) and (f)(4)(A), is the date of enactment of div. B of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
 
     Section 172(h), referred to in subsec. (c)(4)(D)(iii)(I), was repealed by [Pub. L. 101–508, title XI, § 11811(b)(1)][/us/pl/101/508/s11811/b/1], Nov. 5, 1990, [104 Stat. 1388–532][/us/stat/104/1388-532].
 

@@ -65,7 +65,7 @@
 
         (4) __State death taxes__ 
 
-            The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in 2058(a). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceeded by “section”. </sup></sup> 
+            The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in 2058(a). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup> 
 
     (b) __Condition of allowance of deductions__ 
 
@@ -89,7 +89,7 @@
 
     1983—Subsec. (a)(2)(F). [Pub. L. 97–473][/us/pl/97/473] substituted “(i)” and “(ii)” for “(1)” and “(2)”, respectively, and added cl. (iii).
 
-    1976—Subsec. (a)(2)(A)(i). [Pub. L. 94–455, § 1902][/us/pl/94/455/s1902] (a)(12)(A), struck out “Territory” after “any State”.
+    1976—Subsec. (a)(2)(A)(i). [Pub. L. 94–455, § 1902(a)(12)(A)][/us/pl/94/455/s1902/a/12/A], struck out “Territory” after “any State”.
 
     Subsec. (a)(2)(A)(ii). [Pub. L. 94–455, § 1307(d)(1)(B)(iii)][/us/pl/94/455/s1307/d/1/B/iii], substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
 
@@ -205,7 +205,7 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473
-[/us/pl/94/455/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902
+[/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
 [/us/pl/94/455/s1307/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F1%2FB%2Fiii
 [/us/pl/94/455/s1307/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F1%2FC
 [/us/pl/94/455/s1902/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F5%2FA

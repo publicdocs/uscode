@@ -25,8 +25,6 @@
 
         (3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax.
 
-        \[(4) Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(12)(H)(i)][/us/pl/113/295/s221/a/12/H/i], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038]\]
-
         The amounts specified in paragraph (1) and the amount specified in paragraph (3) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
     (b) __Certain short taxable years__ 
@@ -162,8 +160,6 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/12/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FH%2Fi
-[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/88/272/s235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fa
 [/us/stat/78/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F116
 [/us/pl/91/172/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fa%2F1

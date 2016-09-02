@@ -111,7 +111,7 @@
 
             (C) __Limited partners and limited entrepreneurs__ 
 
-            In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), subparagraph (A) shall not apply if—
+            In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  subparagraph (A) shall not apply if—
 
                 (i) substantially all of the limited partner’s (or limited entrepreneur’s) expected return from the entity is attributable to the time value of the partner’s (or entrepreneur’s) net investment in such entity,
 
