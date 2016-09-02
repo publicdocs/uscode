@@ -15,7 +15,7 @@
 
 ### SUBCHAPTER V—ADMINISTRATION
 
-§§ 2931 to 2945 __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
+§§ 2931 to 2945. __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
 
     Section 2931, [Pub. L. 105–220, title I, § 181][/us/pl/105/220/s181], Aug. 7, 1998, [112 Stat. 1038][/us/stat/112/1038], related to requirements and restrictions. See [section 3241 of this title][/us/usc/t29/s3241].
 

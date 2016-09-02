@@ -91,7 +91,7 @@
 
 >     Except as otherwise provided in title IV of this Act, title IV \[see Tables for classification\], and the amendments made by title IV, shall take effect on the date of enactment of this Act.”
 
-    \[The first full program year after the date of enactment of [Pub. L. 113–128][/us/pl/113/128], referred to in [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out above, probably begins on July 1, 2015, based on [section 189(g)(1)(A) of Pub. L. 113–128][/us/pl/113/128/s189/g/1/A], which is classified to [section 3249(g)(1)(A) of this title][/us/usc/t29/s3249/g/1/A].\]
+    \[The first full program year after the date of enactment of [Pub. L. 113–128][/us/pl/113/128], referred to in [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out above, begins on July 1, 2015, based on [section 189(g)(1)(A) of Pub. L. 113–128][/us/pl/113/128/s189/g/1/A], which is classified to [section 3249(g)(1)(A) of this title][/us/usc/t29/s3249/g/1/A].\]
 
  __Short Title of 2015 Amendment__ 
 

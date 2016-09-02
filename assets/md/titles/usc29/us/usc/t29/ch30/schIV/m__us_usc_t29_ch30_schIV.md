@@ -15,7 +15,7 @@
 
 ### SUBCHAPTER IV—NATIONAL PROGRAMS
 
-§§ 2911 to 2916 __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
+§§ 2911 to 2916. __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
 
     Section 2911, [Pub. L. 105–220, title I, § 166][/us/pl/105/220/s166], Aug. 7, 1998, [112 Stat. 1021][/us/stat/112/1021]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411; [Pub. L. 107–110, title VII, § 702(g)][/us/pl/107/110/s702/g], Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947], related to Native American programs. See [section 3221 of this title][/us/usc/t29/s3221].
 

@@ -397,7 +397,7 @@
 
  __Effective Date__ 
 
-    Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
+    Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Transfer of Functions and Savings Provisions__ 
 
