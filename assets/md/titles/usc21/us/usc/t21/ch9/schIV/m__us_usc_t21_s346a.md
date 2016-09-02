@@ -785,6 +785,12 @@
 
     Amendment by [Pub. L. 92–516][/us/pl/92/516] effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of [Pub. L. 92–516][/us/pl/92/516] and regulations thereunder, see [section 4 of Pub. L. 92–516][/us/pl/92/516/s4], set out as an Effective Date note under [section 136 of Title 7][/us/usc/t7/s136].
 
+ __Regulation of Sulfuryl Fluoride__ 
+
+[Pub. L. 113–79, title X, § 10015][/us/pl/113/79/s10015], Feb. 7, 2014, [128 Stat. 952][/us/stat/128/952], provided that: 
+
+> “Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a][/us/usc/t21/s346a]) when assessing tolerances associated with residues from the pesticide.”
+
  __Tolerance Fees__ 
 
 [Pub. L. 108–199, div. G, title V, § 501(d)(2)][/us/pl/108/199/s501/d/2], Jan. 23, 2004, [118 Stat. 422][/us/stat/118/422], provided that: 
@@ -922,6 +928,9 @@
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
+[/us/pl/113/79/s10015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10015
+[/us/stat/128/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F952
+[/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
 [/us/pl/108/199/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fd%2F2
 [/us/stat/118/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F422
 [/us/usc/t21/s346a/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a%2Fm%2F1

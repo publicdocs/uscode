@@ -19,11 +19,11 @@
 
         For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as “Inspected and passed” all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as “Inspected and condemned” all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: Provided, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (b) __Catfish__ 
+    (b) __Certain fish__ 
 
-        In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.
+        In the case of an examination and inspection under subsection (a) of a meat food product derived from any fish described in [section 601(w)(2) of this title][/us/usc/t21/s601/w/2], the Secretary shall take into account the conditions under which the fish is raised and transported to a processing establishment.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 6, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(B)][/us/pl/110/234/s11016/b/1/B], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131.)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 6, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(B)][/us/pl/110/234/s11016/b/1/B], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131; [Pub. L. 113–79, title XII, § 12106(a)(2)][/us/pl/113/79/s12106/a/2], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].)
 
  __References in Text__ 
 
@@ -39,11 +39,17 @@ A prior section 606, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], t
 
 > “For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as ‘Inspected and passed’ all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as ‘Inspected and condemned’ all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: Provided, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.”
 
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] added subsec. (b) and struck out former subsec. (b). Text read as follows: “In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–79][/us/pl/113/79] effective as if enacted as part of [section 11016(b) of Pub. L. 110–246][/us/pl/110/246/s11016/b], see [section 12106(c) of Pub. L. 113–79][/us/pl/113/79/s12106/c], set out as a note under [section 601 of this title][/us/usc/t21/s601].
+
  __Effective Date__ 
 
     Enactment of this section and repeal of former section 6 of act Mar. 4, 1907, and [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
-
-    Section and repeal of former section 6 of act Mar. 4, 1907, inapplicable until date on which the Secretary of Agriculture issues final regulations to carry out amendments by [Pub. L. 110–246, § 11016(b)(1)][/us/pl/110/246/s11016/b/1], see [section 11016(b)(2)(A) of Pub. L. 110–246][/us/pl/110/246/s11016/b/2/A], set out as an Effective Date of 2008 Amendment note under [section 601 of this title][/us/usc/t21/s601].
 
 ----------
 
@@ -52,11 +58,14 @@ A prior section 606, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], t
 ----------
 ----------
 
+[/us/usc/t21/s601/w/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fw%2F2
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/110/234/s11016/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F1%2FB
 [/us/stat/122/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1369
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fa%2F2
+[/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
@@ -75,13 +84,15 @@ A prior section 606, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], t
 [/us/stat/122/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1369
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246/s11016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb
+[/us/pl/113/79/s12106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fc
+[/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/246/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F1
-[/us/pl/110/246/s11016/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F2%2FA
-[/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 
 

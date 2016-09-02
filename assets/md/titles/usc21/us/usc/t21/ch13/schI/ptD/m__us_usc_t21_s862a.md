@@ -21,7 +21,7 @@
 
         (1) assistance under any State program funded under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], or
 
-        (2) benefits under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 \[[7 U.S.C. 2012][/us/usc/t7/s2012](l)\]) or any State program carried out under the Food Stamp Act of 1977 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\].
+        (2) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])) or any State program carried out under that Act \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\].
 
     (b) __Effects on assistance and benefits for others__ 
 
@@ -29,9 +29,9 @@
 
             The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
-        (2) __Benefits under the Food Stamp Act of 1977__ 
+        (2) __Benefits under the Food and Nutrition Act of 2008__ 
 
-            The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 \[[7 U.S.C. 2012][/us/usc/t7/s2012](l)\]), or any State program carried out under the Food Stamp Act of 1977 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+            The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])), or any State program carried out under that Act \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
     (c) __Enforcement__ 
 
@@ -59,7 +59,7 @@
 
         (1) in section 419(5) of the Social Security Act \[[42 U.S.C. 619(5)][/us/usc/t42/s619/5]\], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], and
 
-        (2) in section 3(s) of the Food Stamp Act of 1977 \[[7 U.S.C. 2012(s)][/us/usc/t7/s2012/s]\], when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 \[[7 U.S.C. 2012][/us/usc/t7/s2012](l)\]) or any State program carried out under the Food Stamp Act of 1977 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\].
+        (2) in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012]), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\].
 
     (f) __Rule of interpretation__ 
 
@@ -81,13 +81,13 @@
 
         (6) Drug treatment programs.
 
-([Pub. L. 104–193, title I, § 115][/us/pl/104/193/s115], Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title V, § 5516(a)][/us/pl/105/33/s5516/a], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV, § 4115(c)(2)(C)][/us/pl/110/234/s4115/c/2/C], May 22, 2008, [122 Stat. 1109][/us/stat/122/1109]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4115(c)(2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1871.)
+([Pub. L. 104–193, title I, § 115][/us/pl/104/193/s115], Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title V, § 5516(a)][/us/pl/105/33/s5516/a], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV, § 4115(c)(2)(C)][/us/pl/110/234/s4115/c/2/C], May 22, 2008, [122 Stat. 1109][/us/stat/122/1109]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4115(c)(2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1871; [Pub. L. 113–79, title IV, § 4030(n)][/us/pl/113/79/s4030/n], Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), subsequently renamed the Food and Nutrition Act of 2008, is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
+    The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
  __Codification__ 
 
@@ -96,6 +96,12 @@
     Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–79, § 4030(n)(1)][/us/pl/113/79/s4030/n/1], substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 4030(n)(2)][/us/pl/113/79/s4030/n/2], substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
+
+    Subsec. (e)(2). [Pub. L. 113–79, § 4030(n)(3)][/us/pl/113/79/s4030/n/3], substituted “section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012]), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
     2008—Subsecs. (a)(2), (b)(2). [Pub. L. 110–246, § 4115(c)(2)(C)(i)][/us/pl/110/246/s4115/c/2/C/i], substituted “section 3(l)” for “section 3(h)”.
 
@@ -139,7 +145,6 @@
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s619/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs619%2F5
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t7/s2012/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fs
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -151,6 +156,8 @@
 [/us/stat/122/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1109
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4030/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn
+[/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -161,6 +168,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F1
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/pl/113/79/s4030/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F2
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/pl/113/79/s4030/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F3
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/110/246/s4115/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FC%2Fi
 [/us/pl/110/246/s4115/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FC
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
