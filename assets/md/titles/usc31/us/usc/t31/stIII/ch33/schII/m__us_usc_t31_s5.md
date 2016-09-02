@@ -27,7 +27,7 @@
 
 >         At a minimum and before issuing any payment and award, each agency shall review as appropriate the following databases to verify eligibility of the payment and award:
 
->             “(A) The Death Master File of the Social Security Administration.
+>             “(A) The death records maintained by the Commissioner of Social Security.
 
 >             “(B) The General Services Administration’s Excluded Parties List System.
 
@@ -57,9 +57,19 @@
 
 >             “(B) provide public notice and an opportunity for comment before designating a database under paragraph (1)(B).
 
->         “(3)  __Access and review by agencies__  __.—__ 
+>         “(3)  __Access and review__  __.—__ 
 
->         For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+>             “(A)  __In general__  __.—__ 
+
+>             For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+
+>             “(B)  __Other entities__  __.—__ 
+
+>             States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of [section 202(e) of title 18][/us/usc/t18/s202/e], United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 ([31 U.S.C. 3321][/us/usc/t31/s3321] note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.
+
+>             “(C)  __Consistency with privacy act of 1974__  __.—__ 
+
+>             To ensure consistency with the principles of [section 552a of title 5][/us/usc/t5/s552a], United States Code (commonly known as the ‘Privacy Act of 1974’), the Director of the Office of Management and Budget may issue guidance that establishes privacy and other requirements that shall be incorporated into Do Not Pay Initiative access agreements with States, including any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States.
 
 >         “(4)  __Payment otherwise required__  __.—__ 
 
@@ -95,9 +105,11 @@
 
 >             “(A) may be located within an appropriate agency;
 
->             “(B) shall include not less than 3 agencies as users of the system; and
+>             “(B) shall include not less than 3 agencies as users of the system;
 
->             “(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access.
+>             “(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access; and
+
+>             “(D) may include States and their quasi-government entities, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of [section 202(e) of title 18][/us/usc/t18/s202/e], United States Code) as users of the system in accordance with subsection (b)(3).
 
 >         “(3)  __Application to all agencies__  __.—__ 
 
@@ -205,6 +217,24 @@
 
 >         Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall submit a report to Congress on the plan established under this subsection, including recommended legislation.
 
+>     “(h)  __Report on Improper Payments Data Analysis__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of the Federal Improper Payments Coordination Act of 2015 \[Dec. 18, 2015\], the Secretary of the Treasury shall submit to Congress a report which shall include a description of—
+
+>         “(1)
+
+>          data analytics performed as part of the Do Not Pay Business Center operated by the Department of the Treasury for the purpose of detecting, preventing, and recovering improper payments through preaward, postaward prepayment, and postpayment analysis, which shall include a description of any analysis or investigations incorporating—
+
+>             “(A) review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
+
+>             “(B) review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
+
+>             “(C) review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple Federal agencies or programs;
+
+>         “(2) the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improper awards; and
+
+>         “(3) the target dates for implementing the data analytics operations performed as part of the Do Not Pay Business Center\[.\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3321.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5)
@@ -213,6 +243,10 @@
 ----------
 
 [/us/usc/t42/s402/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx
+[/us/usc/t18/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fe
+[/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t18/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fe
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fu
 [/us/usc/t5/s552a/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fu

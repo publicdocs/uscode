@@ -27,7 +27,7 @@
 
              Notwithstanding any other provision of law, for purposes of this paragraph—
 
-                (i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+                (i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of not less than 90 percent silver; and
 
                 (ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -47,7 +47,7 @@
 
     (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 97–452, § 1(21)][/us/pl/97/452/s1/21], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 98–151, § 123][/us/pl/98/151/s123], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979]; [Pub. L. 98–216, § 1(7)][/us/pl/98/216/s1/7], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–61, title II, § 204][/us/pl/99/61/s204], July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185, § 2(e)][/us/pl/99/185/s2/e], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274][/us/pl/100/274], §§ 1, 2(c)(3), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 101–585, § 2][/us/pl/101/585/s2], Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], 1628, 1629; [Pub. L. 106–445, § 2(a)][/us/pl/106/445/s2/a], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 97–452, § 1(21)][/us/pl/97/452/s1/21], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 98–151, § 123][/us/pl/98/151/s123], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979]; [Pub. L. 98–216, § 1(7)][/us/pl/98/216/s1/7], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–61, title II, § 204][/us/pl/99/61/s204], July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185, § 2(e)][/us/pl/99/185/s2/e], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274][/us/pl/100/274], §§ 1, 2(c)(3), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 101–585, § 2][/us/pl/101/585/s2], Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], 1628, 1629; [Pub. L. 106–445, § 2(a)][/us/pl/106/445/s2/a], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 114–94, div. G, title LXXIII, § 73001(2)][/us/pl/114/94/s73001/2], Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
 
 <table>
 
@@ -227,6 +227,8 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
  __Amendments__ 
 
+    2015—Subsec. (a)(2)(B)(i). [Pub. L. 114–94][/us/pl/114/94] substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+
     2000—Subsec. (a)(2)(B)(i). [Pub. L. 106–445][/us/pl/106/445] substituted “paragraphs (2)” for “paragraphs (1)”.
 
     1992—Subsec. (a)(1). [Pub. L. 102–390, § 225(b)(3)][/us/pl/102/390/s225/b/3], substituted “United States Mint” for “Bureau of the Mint” in two places.
@@ -304,6 +306,8 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 [/us/stat/106/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1624
 [/us/pl/106/445/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs2%2Fa
 [/us/stat/114/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1931
+[/us/pl/114/94/s73001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F2
+[/us/stat/129/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1786
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F432
 [/us/act/1982-09-13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1982-09-13%2Fs1
@@ -313,6 +317,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 [/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/pl/102/390/s225/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F3
 [/us/pl/102/390/s221/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F1%2FA

@@ -571,15 +571,7 @@
 
                 (ii) bear such other inscriptions as the Secretary determines to be appropriate.
 
-        (3)  __Subsequent designs__  __.—__ 
-
-        After the 1-year period described to in paragraph (2), the Secretary may—
-
-            (A) after consulting with the Commission of Fine Arts, and subject to the review of the Citizens Coinage Advisory Committee, change the design on the obverse or reverse of gold bullion coins struck under this subsection; and
-
-            (B) change the maximum number of coins issued in any year.
-
-        (4) __Source of gold bullion.—__ 
+        (3) __Source of gold bullion.—__ 
 
             (A)  __In general__  __.—__ 
 
@@ -589,7 +581,7 @@
 
             The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
 
-        (5)  __Sale of coins__  __.—__ 
+        (4)  __Sale of coins__  __.—__ 
 
         Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
@@ -597,23 +589,13 @@
 
             (B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
 
-        (6)  __Legal tender__  __.—__ 
+        (5)  __Legal tender__  __.—__ 
 
         The coins minted under this title shall be legal tender, as provided in section 5103.
 
-        (7)  __Treatment as numismatic items__  __.—__ 
+        (6)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-
-        (8) __Protective covering.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
-
-            (B)  __Design__  __.—__ 
-
-            The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
 
     (r)  __Redesign and Issuance of Circulating__  __$1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—__ 
 
@@ -897,7 +879,7 @@
 
             (B)  __Silver coins__  __.—__ 
 
-            Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+            Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of not less than 90 percent silver.
 
         (7) __Period of issuance.—__ 
 
@@ -975,13 +957,13 @@
 
         (1)  __In general__  __.—__ 
 
-        Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
+        The Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
 
         (2) __Source of bullion.—__ 
 
             (A)  __In general__  __.—__ 
 
-            The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
+            To the greatest extent possible, the Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
 
             (B)  __Price of bullion__  __.—__ 
 
@@ -1001,7 +983,7 @@
 
         (5)  __Quality__  __.—__ 
 
-        The Secretary may issue the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
+        The Secretary may issue collectible versions of the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
 
         (6)  __Design__  __.—__ 
 
@@ -1017,11 +999,7 @@
 
         Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
-        (8)  __Marketing study defined__  __.—__ 
-
-        The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
-
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 981][/us/stat/96/981]; [Pub. L. 97–452, § 1(20)][/us/pl/97/452/s1/20], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 99–61, title II, § 202][/us/pl/99/61/s202], July 9, 1985, [99 Stat. 115][/us/stat/99/115]; [Pub. L. 99–185, § 2(a)][/us/pl/99/185/s2/a], (b), Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177]; [Pub. L. 100–274][/us/pl/100/274], §§ 4(a), 6, Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 226(a), 227, 228, Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–272, § 4(f)(1)(R)][/us/pl/103/272/s4/f/1/R], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, §§ 523, 524, 529(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347 to 3009–349; [Pub. L. 105–124][/us/pl/105/124], §§ 3, 4(b)–(d), Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], 2536; [Pub. L. 105–176][/us/pl/105/176], May 29, 1998, [112 Stat. 104][/us/stat/112/104]; [Pub. L. 106–445, § 2(b)][/us/pl/106/445/s2/b], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I][/us/pl/108/15], §§ 102, 103(d)(1), Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], 619; [Pub. L. 109–145, title I][/us/pl/109/145], §§ 102–104, title II, § 201, Dec. 22, 2005, [119 Stat. 2665–2669][/us/stat/119/2665-2669], 2672; [Pub. L. 110–82][/us/pl/110/82], §§ 2, 3, Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], 779; [Pub. L. 110–147][/us/pl/110/147], Dec. 21, 2007, [121 Stat. 1817][/us/stat/121/1817]; [Pub. L. 110–161, div. D, title VI][/us/pl/110/161], §§ 622–623(b), Dec. 26, 2007, [121 Stat. 2016][/us/stat/121/2016], 2018; [Pub. L. 110–456, title I, § 102][/us/pl/110/456/s102], title II, § 201, Dec. 23, 2008, [122 Stat. 5039][/us/stat/122/5039], 5042; [Pub. L. 111–8, div. D, title VI, § 616][/us/pl/111/8/s616], Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677]; [Pub. L. 111–302][/us/pl/111/302], §§ 4, 5, Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273]; [Pub. L. 111–303, § 2][/us/pl/111/303/s2], Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 981][/us/stat/96/981]; [Pub. L. 97–452, § 1(20)][/us/pl/97/452/s1/20], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 99–61, title II, § 202][/us/pl/99/61/s202], July 9, 1985, [99 Stat. 115][/us/stat/99/115]; [Pub. L. 99–185, § 2(a)][/us/pl/99/185/s2/a], (b), Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177]; [Pub. L. 100–274][/us/pl/100/274], §§ 4(a), 6, Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 226(a), 227, 228, Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–272, § 4(f)(1)(R)][/us/pl/103/272/s4/f/1/R], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, §§ 523, 524, 529(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347 to 3009–349; [Pub. L. 105–124][/us/pl/105/124], §§ 3, 4(b)–(d), Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], 2536; [Pub. L. 105–176][/us/pl/105/176], May 29, 1998, [112 Stat. 104][/us/stat/112/104]; [Pub. L. 106–445, § 2(b)][/us/pl/106/445/s2/b], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I][/us/pl/108/15], §§ 102, 103(d)(1), Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], 619; [Pub. L. 109–145, title I][/us/pl/109/145], §§ 102–104, title II, § 201, Dec. 22, 2005, [119 Stat. 2665–2669][/us/stat/119/2665-2669], 2672; [Pub. L. 110–82][/us/pl/110/82], §§ 2, 3, Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], 779; [Pub. L. 110–147][/us/pl/110/147], Dec. 21, 2007, [121 Stat. 1817][/us/stat/121/1817]; [Pub. L. 110–161, div. D, title VI][/us/pl/110/161], §§ 622–623(b), Dec. 26, 2007, [121 Stat. 2016][/us/stat/121/2016], 2018; [Pub. L. 110–456, title I, § 102][/us/pl/110/456/s102], title II, § 201, Dec. 23, 2008, [122 Stat. 5039][/us/stat/122/5039], 5042; [Pub. L. 111–8, div. D, title VI, § 616][/us/pl/111/8/s616], Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677]; [Pub. L. 111–302][/us/pl/111/302], §§ 4, 5, Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273]; [Pub. L. 111–303, § 2][/us/pl/111/303/s2], Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275]; [Pub. L. 114–94, div. G, title LXXIII, § 73001(1)][/us/pl/114/94/s73001/1], Dec. 4, 2015, [129 Stat. 1785][/us/stat/129/1785].)
 
 <table>
 
@@ -1348,6 +1326,18 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
     The date of the enactment of the America’s Beautiful National Parks Quarter Dollar Coin Act of 2008, referred to in subsec. (t)(3)(A)(ii), is the date of enactment of [Pub. L. 110–456][/us/pl/110/456], which was approved Dec. 23, 2008.
 
  __Amendments__ 
+
+    2015—Subsec. (q)(3) to (8). [Pub. L. 114–94, § 73001(1)(A)][/us/pl/114/94/s73001/1/A], redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
+
+    Subsec. (t)(6)(B). [Pub. L. 114–94, § 73001(1)(B)][/us/pl/114/94/s73001/1/B], substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+
+    Subsec. (v)(1). [Pub. L. 114–94, § 73001(1)(C)(i)][/us/pl/114/94/s73001/1/C/i], substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
+
+    Subsec. (v)(2)(A). [Pub. L. 114–94, § 73001(1)(C)(ii)][/us/pl/114/94/s73001/1/C/ii], substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
+
+    Subsec. (v)(5). [Pub. L. 114–94, § 73001(1)(C)(iii)][/us/pl/114/94/s73001/1/C/iii], inserted “collectible versions of” after “may issue”.
+
+    Subsec. (v)(8). [Pub. L. 114–94, § 73001(1)(C)(iv)][/us/pl/114/94/s73001/1/C/iv], struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
 
     2010—Subsec. (a)(12). [Pub. L. 111–303, § 2(1)][/us/pl/111/303/s2/1], added par. (12).
 
@@ -2112,6 +2102,8 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/124/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3273
 [/us/pl/111/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs2
 [/us/stat/124/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3275
+[/us/pl/114/94/s73001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1
+[/us/stat/129/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1785
 [/us/usc/t31/s391/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs391%2Fc
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t31/s5111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5111%2Fa%2F1
@@ -2128,6 +2120,12 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/110/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456
+[/us/pl/114/94/s73001/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FA
+[/us/pl/114/94/s73001/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FB
+[/us/pl/114/94/s73001/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fi
+[/us/pl/114/94/s73001/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fii
+[/us/pl/114/94/s73001/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fiii
+[/us/pl/114/94/s73001/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fiv
 [/us/pl/111/303/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs2%2F1
 [/us/pl/111/302/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs4
 [/us/pl/111/302/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs4
