@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s70 to 73.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs74)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_ch4.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs74)
 
 ## § 74. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s70 to 73.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs74)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_ch4.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs74)
 
 ----------
 ----------

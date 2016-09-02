@@ -15,7 +15,7 @@
 
 ## § 2002. Statement of purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 157. Application for withdrawal, reservation, or restriction; specifications
 
-Any application filed on and after February 28, 1958 for a withdrawal, reservation, or restriction, the approval of which will, under [section 156 of this title][/us/usc/t43/s156], require an Act of Congress, shall specify—
+    Any application filed on and after February 28, 1958 for a withdrawal, reservation, or restriction, the approval of which will, under [section 156 of this title][/us/usc/t43/s156], require an Act of Congress, shall specify—
 
     (1) the name of the requesting agency and intended using agency;
 

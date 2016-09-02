@@ -15,7 +15,7 @@
 
 ## § 1844. Burden of proof
 
-With respect to any claim for damages filed under this subchapter, there shall be a presumption that such damages were due to activities related to oil and gas exploration, development, or production if the claimant establishes that—
+    With respect to any claim for damages filed under this subchapter, there shall be a presumption that such damages were due to activities related to oil and gas exploration, development, or production if the claimant establishes that—
 
     (1) the commercial fishing vessel was being used for fishing and was located in an area affected by Outer Continental Shelf activities;
 

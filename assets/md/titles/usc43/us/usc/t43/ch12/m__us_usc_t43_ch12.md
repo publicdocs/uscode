@@ -3225,7 +3225,9 @@ SUBCHAPTER XXVI—SAN ANGELO PROJECT, TEXAS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>o to 615r. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>o to 615r.  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -3319,7 +3321,9 @@ SUBCHAPTER XXXII—BRANTLEY PROJECT, PECOS RIVER BASIN, NEW MEXICO  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615jjj" data-uslm-ref="/us/usc/t43/s615jjj">615jjj</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>ooo. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615jjj" data-uslm-ref="/us/usc/t43/s615jjj">615jjj</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>ooo.  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -3397,7 +3401,9 @@ SUBCHAPTER XXXVII—POLLOCK-HERREID UNIT, PICK-SLOAN MISSOURI BASIN PROGRAM, SOU
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>llll to 615llll–6. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs615" data-uslm-ref="/us/usc/t43/s615">615</a>llll to 615llll–6.  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -3635,7 +3641,9 @@ SUBCHAPTER LII—PALMETTO BEND PROJECT, TEXAS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs616gggg" data-uslm-ref="/us/usc/t43/s616gggg">616gggg</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs616" data-uslm-ref="/us/usc/t43/s616">616</a>llll. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs616gggg" data-uslm-ref="/us/usc/t43/s616gggg">616gggg</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs616" data-uslm-ref="/us/usc/t43/s616">616</a>llll.  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 

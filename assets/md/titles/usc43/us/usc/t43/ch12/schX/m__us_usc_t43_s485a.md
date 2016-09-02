@@ -15,7 +15,7 @@
 
 ## § 485a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “Federal reclamation laws” shall mean the Act of June 17, 1902 ([32 Stat. 388][/us/stat/32/388]), and all Acts amendatory thereof or supplementary thereto.
 

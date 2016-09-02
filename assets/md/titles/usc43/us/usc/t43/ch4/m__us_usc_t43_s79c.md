@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75a to 79b.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs79c)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs79c)
 
 ## § 79c. Payment of fees, commissions, etc.; deposit in Treasury
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75a to 79b.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs79c)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s75.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs79c)
 
 ----------
 ----------

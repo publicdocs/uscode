@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch27/schIII/m__us_usc_t43_s1131 to 1134.md) | [Next](./../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28)
+[Previous](./../../../..//us/usc/t43/ch27/schIII/m__us_usc_t43_ch27_schIII.md) | [Next](./../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28)
 
 ## CHAPTER 28—MISCELLANEOUS PROVISIONS RELATING TO PUBLIC LANDS
 
@@ -507,7 +507,7 @@ SUBCHAPTER XIII—STATE CONTROL OF NOXIOUS PLANTS ON GOVERNMENT LANDS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch27/schIII/m__us_usc_t43_s1131 to 1134.md) | [Next](./../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28)
+[Previous](./../../../..//us/usc/t43/ch27/schIII/m__us_usc_t43_ch27_schIII.md) | [Next](./../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28)
 
 ----------
 ----------

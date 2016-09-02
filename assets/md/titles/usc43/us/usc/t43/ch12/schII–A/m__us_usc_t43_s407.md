@@ -91,9 +91,13 @@
 
                     (II) __Maximum amount__ 
 
-                        (aa) In general    Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $500,000,000 for the period of fiscal years 2020 through 2029.
+                        (aa) __In general__ 
 
-                        (bb) Exception    The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (ii) through (iv).
+                            Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $500,000,000 for the period of fiscal years 2020 through 2029.
+
+                        (bb) __Exception__ 
+
+                            The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (ii) through (iv).
 
                 (ii) __Other New Mexico settlements__ 
 
@@ -113,11 +117,17 @@
 
                     (II) __Maximum amount__ 
 
-                        (aa) In general    Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $350,000,000 for the period of fiscal years 2020 through 2029.
+                        (aa) __In general__ 
 
-                        (bb) Exception    The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clause (i), (ii), and (iv).
+                            Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $350,000,000 for the period of fiscal years 2020 through 2029.
 
-                        (cc) Other funding    The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+                        (bb) __Exception__ 
+
+                            The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clause (i), (ii), and (iv).
+
+                        (cc) __Other funding__ 
+
+                            The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
 
                 (iv) __Arizona settlement__ 
 
@@ -127,11 +137,17 @@
 
                     (II) __Maximum amount__ 
 
-                        (aa) In general    Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $100,000,000 for the period of fiscal years 2020 through 2029.
+                        (aa) __In general__ 
 
-                        (bb) Exception    The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (i) through (iii).
+                            Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $100,000,000 for the period of fiscal years 2020 through 2029.
 
-                        (cc) Other funding    The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+                        (bb) __Exception__ 
+
+                            The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (i) through (iii).
+
+                        (cc) __Other funding__ 
+
+                            The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
 
             (C) __Reversion__ 
 

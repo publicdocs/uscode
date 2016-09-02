@@ -15,7 +15,7 @@
 
 ## § 390yy. Leasing requirements
 
-Notwithstanding any other provision of Federal reclamation law, including this subchapter, lands which receive irrigation water may be leased only if the lease instrument is—
+    Notwithstanding any other provision of Federal reclamation law, including this subchapter, lands which receive irrigation water may be leased only if the lease instrument is—
 
     (1) written; and
 

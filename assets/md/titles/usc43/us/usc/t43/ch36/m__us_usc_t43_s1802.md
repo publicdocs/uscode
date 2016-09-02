@@ -15,7 +15,7 @@
 
 ## § 1802. Congressional declaration of purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) establish policies and procedures for managing the oil and natural gas resources of the Outer Continental Shelf which are intended to result in expedited exploration and development of the Outer Continental Shelf in order to achieve national economic and energy policy goals, assure national security, reduce dependence on foreign sources, and maintain a favorable balance of payments in world trade;
 

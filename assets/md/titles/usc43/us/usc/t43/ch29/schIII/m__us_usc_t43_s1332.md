@@ -15,7 +15,7 @@
 
 ## § 1332. Congressional declaration of policy
 
-It is hereby declared to be the policy of the United States that—
+    It is hereby declared to be the policy of the United States that—
 
     (1) the subsoil and seabed of the outer Continental Shelf appertain to the United States and are subject to its jurisdiction, control, and power of disposition as provided in this subchapter;
 

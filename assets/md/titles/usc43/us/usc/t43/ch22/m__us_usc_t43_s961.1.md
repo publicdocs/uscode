@@ -1,7 +1,7 @@
 ---
 ---
 
-# 43 U.S.C., USLM ref /us/usc/t43/s961
+# 43 U.S.C., USLM ref /us/usc/t43/s961.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s959.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s959.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961.1)
 
 ## § 961. <sup>\[1\]</sup>  <sup><sup> 1 There is no section 960 in this title. </sup></sup>  Rights-of-way through public lands, Indian, and other reservations for power and communications facilities
 
@@ -23,7 +23,7 @@
 
  __Repeal of Section__ 
 
-Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __Codification__ 
 
@@ -39,7 +39,7 @@ Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579], § 706(a), Oct
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s959.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s959.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961.1)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1801. Congressional findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the demand for energy in the United States is increasing and will continue to increase for the foreseeable future;
 

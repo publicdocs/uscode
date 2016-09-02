@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1076 to 1081.md) | [Next](./../../../..//us/usc/t43/ch27/schI/m__us_usc_t43_ch27_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch27)
+[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Next](./../../../..//us/usc/t43/ch27/schI/m__us_usc_t43_ch27_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch27)
 
 ## CHAPTER 27—PUBLIC LANDS IN OKLAHOMA
 
@@ -107,7 +107,7 @@ SUBCHAPTER III—LANDS IN GREER COUNTY  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1076 to 1081.md) | [Next](./../../../..//us/usc/t43/ch27/schI/m__us_usc_t43_ch27_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch27)
+[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Next](./../../../..//us/usc/t43/ch27/schI/m__us_usc_t43_ch27_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch27)
 
 ----------
 ----------

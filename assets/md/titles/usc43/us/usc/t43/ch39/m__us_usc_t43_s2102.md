@@ -15,7 +15,7 @@
 
 ## § 2102. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) the term “embedded” means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottom sediments to gain access to the shipwreck, its cargo, and any part thereof;
 

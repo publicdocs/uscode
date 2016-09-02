@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s842 to 844.md) | [Next](./../../../..//us/usc/t43/ch20/m__us_usc_t43_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch20)
+[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s841.md) | [Next](./../../../..//us/usc/t43/ch20/m__us_usc_t43_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch20)
 
 ## CHAPTER 20—RESERVATIONS AND GRANTS TO STATES FOR PUBLIC PURPOSES
 
@@ -275,7 +275,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s842 to 844.md) | [Next](./../../../..//us/usc/t43/ch20/m__us_usc_t43_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch20)
+[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s841.md) | [Next](./../../../..//us/usc/t43/ch20/m__us_usc_t43_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch20)
 
 ----------
 ----------

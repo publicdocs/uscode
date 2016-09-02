@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch24/m__us_usc_t43_s1041 to 1048.md) | [Next](./../../../..//us/usc/t43/ch25/m__us_usc_t43_s1061.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch25)
+[Previous](./../../../..//us/usc/t43/ch24/m__us_usc_t43_ch24.md) | [Next](./../../../..//us/usc/t43/ch25/m__us_usc_t43_s1061.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch25)
 
 ## CHAPTER 25—UNLAWFUL INCLOSURES OR OCCUPANCY; OBSTRUCTING SETTLEMENT OR TRANSIT
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch24/m__us_usc_t43_s1041 to 1048.md) | [Next](./../../../..//us/usc/t43/ch25/m__us_usc_t43_s1061.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch25)
+[Previous](./../../../..//us/usc/t43/ch24/m__us_usc_t43_ch24.md) | [Next](./../../../..//us/usc/t43/ch25/m__us_usc_t43_s1061.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch25)
 
 ----------
 ----------

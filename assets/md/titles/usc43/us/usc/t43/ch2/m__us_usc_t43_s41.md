@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s39, 40.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s42.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs41)
+[Previous](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s38.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s42.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs41)
 
 ## § 41. Publications and reports; preparation and sale
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s39, 40.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s42.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs41)
+[Previous](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s38.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s42.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs41)
 
 ----------
 ----------

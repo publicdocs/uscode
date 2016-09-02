@@ -15,7 +15,7 @@
 
 ## § 1331. Definitions
 
-When used in this subchapter—
+    When used in this subchapter—
 
     (a) The term “outer Continental Shelf” means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in [section 1301 of this title][/us/usc/t43/s1301], and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control;
 
@@ -209,11 +209,19 @@ When used in this subchapter—
 
 >         The term ‘qualified outer Continental Shelf revenues’ means—
 
->             “(i) in the case of each of fiscal years 2007 through 2016, all rentals, royalties, bonus bids, and other sums due and payable to the United States from leases entered into on or after the date of enactment of this Act \[Dec. 20, 2006\] for—         “(I) areas in the 181 Area located in the Eastern Planning Area; and
+>             “(i)
+
+>              in the case of each of fiscal years 2007 through 2016, all rentals, royalties, bonus bids, and other sums due and payable to the United States from leases entered into on or after the date of enactment of this Act \[Dec. 20, 2006\] for—
+
+>                      “(I) areas in the 181 Area located in the Eastern Planning Area; and
 
 >                      “(II) the 181 South Area; and
 
->             “(ii) in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to the United States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—         “(I) the 181 Area;
+>             “(ii)
+
+>              in the case of fiscal year 2017 and each fiscal year thereafter, all rentals, royalties, bonus bids, and other sums due and payable to the United States received on or after October 1, 2016, from leases entered into on or after the date of enactment of this Act for—
+
+>                      “(I) the 181 Area;
 
 >                      “(II) the 181 South Area; and
 

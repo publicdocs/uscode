@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s179, 180.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschII)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s178.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschII)
 
 ### SUBCHAPTER II—RIGHT OF PARTICULAR PERSONS TO MAKE ENTRY
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s179, 180.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschII)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s178.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschII)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336a, 336b.md) | [Next](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs336c)
+[Previous](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336.md) | [Next](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs336c)
 
 ## § 336c. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336a, 336b.md) | [Next](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs336c)
+[Previous](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336.md) | [Next](./../../../..//us/usc/t43/ch9/m__us_usc_t43_s336d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs336c)
 
 ----------
 ----------

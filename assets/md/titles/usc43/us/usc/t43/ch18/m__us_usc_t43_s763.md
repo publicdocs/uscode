@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s762.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s764, 765.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs763)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s762.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s766.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs763)
 
 ## § 763. Deposits in Louisiana applicable to resurveys
 
@@ -25,9 +25,15 @@
 
     “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title][/us/usc/t43/s1].
 
+§§ 764, 765. __Repealed.__  __[__  __Dec. 16, 1930, ch. 14, § 1__  __][/us/act/1930-12-16/ch14/s1]__  __,__  __[__  __46 Stat. 1029__  __][/us/stat/46/1029]__ 
+
+    Section 764, R.S. § 2404, related to augmented rates for surveys of forest lands in Oregon.
+
+    Section 765, R.S. § 2405, related to augmented rates for surveys of forest lands in California and Washington.
+
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s762.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s764, 765.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs763)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s762.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s766.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs763)
 
 ----------
 ----------
@@ -38,5 +44,7 @@
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t43/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1451
 [/us/usc/t43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1
+[/us/act/1930-12-16/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-12-16%2Fch14%2Fs1
+[/us/stat/46/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1029
 
 

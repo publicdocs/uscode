@@ -15,7 +15,7 @@
 
 ## § 390bb. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “contract” means any repayment or water service contract between the United States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
 

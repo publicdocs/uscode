@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s95 to 98a.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs99)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s94.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs99)
 
 ## § 99. Repayment of moneys deposited and covered into Treasury
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s95 to 98a.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs99)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s94.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs99)
 
 ----------
 ----------

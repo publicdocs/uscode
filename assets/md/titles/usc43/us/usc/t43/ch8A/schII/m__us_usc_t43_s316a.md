@@ -15,7 +15,7 @@
 
 ## § 316a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “person” means individual, partnership, corporation, or association.
 

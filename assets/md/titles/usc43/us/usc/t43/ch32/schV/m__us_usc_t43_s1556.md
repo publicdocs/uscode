@@ -15,7 +15,7 @@
 
 ## § 1556. Definitions
 
-As used in this chapter, (a) all terms which are defined in the Colorado River Compact shall have the meanings therein defined;
+    As used in this chapter, (a) all terms which are defined in the Colorado River Compact shall have the meanings therein defined;
 
     (b) “Main stream” means the main stream of the Colorado River downstream from Lee Ferry within the United States, including the reservoirs thereon;
 

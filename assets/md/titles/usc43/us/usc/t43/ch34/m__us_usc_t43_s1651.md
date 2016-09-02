@@ -15,7 +15,7 @@
 
 ## § 1651. Congressional findings and declaration
 
-The Congress finds and declares that:
+    The Congress finds and declares that:
 
     (a) The early development and delivery of oil and gas from Alaska’s North Slope to domestic markets is in the national interest because of growing domestic shortages and increasing dependence upon insecure foreign sources.
 

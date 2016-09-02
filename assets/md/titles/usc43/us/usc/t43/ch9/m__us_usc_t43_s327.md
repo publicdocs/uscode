@@ -21,7 +21,7 @@
 
  __Existing Claims; Repeals__ 
 
-    [Act Mar. 3, 1877, ch. 107, § 6][/us/act/1877-03-03/ch107/s6], as added by [act Mar. 3, 1891, ch. 561, § 2][/us/act/1891-03-03/ch561/s2], 26 stat. 1097, provided that existing claims should not be affected by act Mar. 3, 1891, but might be perfected under sections 321 to 323 of this title, or under sections 325 and 327 to 329 of this title, at the option of the claimant, and also repealed all acts and parts of acts in conflict with act Mar. 3, 1891.
+    [Act Mar. 3, 1877, ch. 107, § 6][/us/act/1877-03-03/ch107/s6], as added by [act Mar. 3, 1891, ch. 561, § 2][/us/act/1891-03-03/ch561/s2], [26 stat. 1097][/us/stat/26/1097], provided that existing claims should not be affected by act Mar. 3, 1891, but might be perfected under sections 321 to 323 of this title, or under sections 325 and 327 to 329 of this title, at the option of the claimant, and also repealed all acts and parts of acts in conflict with act Mar. 3, 1891.
 
  __Section as Unaffected by Submerged Lands Act__ 
 
@@ -40,6 +40,7 @@
 [/us/stat/26/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1096
 [/us/act/1877-03-03/ch107/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch107%2Fs6
 [/us/act/1891-03-03/ch561/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs2
+[/us/stat/26/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1097
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s19 to 21.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s23.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs22)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s18.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s23.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs22)
 
 ## § 22. Repealed. [July 30, 1947, ch. 354, § 2][/us/act/1947-07-30/ch354/s2], [61 Stat. 522][/us/stat/61/522]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s19 to 21.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s23.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs22)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s18.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s23.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs22)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 373c. Definitions
 
-In this section and [section 373b of this title][/us/usc/t43/s373b]:
+    In this section and [section 373b of this title][/us/usc/t43/s373b]:
 
     (1) __Law enforcement personnel__ 
 

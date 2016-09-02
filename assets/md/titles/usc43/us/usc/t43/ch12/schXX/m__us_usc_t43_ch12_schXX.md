@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXIX/m__us_usc_t43_s600g to 600g–4.md) | [Next](./../../../../..//us/usc/t43/ch12/schXX/m__us_usc_t43_s601.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXX)
+[Previous](./../../../../..//us/usc/t43/ch12/schXIX/m__us_usc_t43_ch12_schXIX.md) | [Next](./../../../../..//us/usc/t43/ch12/schXX/m__us_usc_t43_s601.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXX)
 
 ### SUBCHAPTER XX—KLAMATH PROJECT, OREGON-CALIFORNIA
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXIX/m__us_usc_t43_s600g to 600g–4.md) | [Next](./../../../../..//us/usc/t43/ch12/schXX/m__us_usc_t43_s601.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXX)
+[Previous](./../../../../..//us/usc/t43/ch12/schXIX/m__us_usc_t43_ch12_schXIX.md) | [Next](./../../../../..//us/usc/t43/ch12/schXX/m__us_usc_t43_s601.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXX)
 
 ----------
 ----------

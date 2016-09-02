@@ -15,7 +15,7 @@
 
 ## § 371. Definitions
 
-When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500, 501, and 526 of this title—
+    When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500, 501, and 526 of this title—
 
     (a) The word “Secretary” means the Secretary of the Interior.
 

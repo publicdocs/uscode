@@ -15,7 +15,7 @@
 
 ## § 316c. Alteration of grazing districts
 
-After any district is established the area embraced therein may be altered in any of the following ways:
+    After any district is established the area embraced therein may be altered in any of the following ways:
 
     (1) The Secretary may add to such districts any public lands which, in his opinion, should be made a part of the district.
 

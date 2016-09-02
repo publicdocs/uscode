@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s291 to 298.md) | [Next](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s300.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs299)
+[Previous](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_ch7_schX.md) | [Next](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s300.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs299)
 
 ## § 299. Reservation of coal and mineral rights
 
@@ -239,7 +239,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s291 to 298.md) | [Next](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s300.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs299)
+[Previous](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_ch7_schX.md) | [Next](./../../../../..//us/usc/t43/ch7/schX/m__us_usc_t43_s300.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs299)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1579. Fish and wildlife habitat; mitigation of losses
 
-Effective October 1, 1979, and to such extent and in such amounts as are provided in advance in appropriate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “appropriation”. </sup></sup>  Acts, in order to provide measures determined by the Secretary of the Interior to be appropriated to mitigate loss of fish and wildlife habitat associated with other measures taken under this subchapter:
+    Effective October 1, 1979, and to such extent and in such amounts as are provided in advance in appropriate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “appropriation”. </sup></sup>  Acts, in order to provide measures determined by the Secretary of the Interior to be appropriated to mitigate loss of fish and wildlife habitat associated with other measures taken under this subchapter:
 
     (a) __Appropriation of funds; acquisition and disposal of lands; facilities undertakings; funds restriction for non-Federal facilities__ 
 

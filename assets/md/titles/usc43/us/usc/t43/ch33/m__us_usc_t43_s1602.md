@@ -15,7 +15,7 @@
 
 ## § 1602. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (a) “Secretary” means the Secretary of the Interior;
 

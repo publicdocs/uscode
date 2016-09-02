@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s444, 445.md) | [Next](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs446)
+[Previous](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s443.md) | [Next](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs446)
 
 ## § 446. Right to make entry on relinquishment of former entry under land laws
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s444, 445.md) | [Next](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs446)
+[Previous](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s443.md) | [Next](./../../../../..//us/usc/t43/ch12/schVI/m__us_usc_t43_s447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs446)
 
 ----------
 ----------

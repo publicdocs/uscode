@@ -15,7 +15,7 @@
 
 ## § 31g. Biennial report
 
-Not later than 3 years after March 30, 2009, and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
+    Not later than 3 years after March 30, 2009, and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
 
     (1) describes the status of the national geologic mapping program;
 

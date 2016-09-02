@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_s1151 to 1156.md) | [Next](./../../../../..//us/usc/t43/ch28/schII/m__us_usc_t43_s1161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschII)
+[Previous](./../../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Next](./../../../../..//us/usc/t43/ch28/schII/m__us_usc_t43_s1161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschII)
 
 ### SUBCHAPTER II—DISPOSITION OF SUSPENDED ENTRIES AND CLAIMS; IN­VALID AND DEFECTIVE CLAIMS AND PATENTS THEREFOR
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_s1151 to 1156.md) | [Next](./../../../../..//us/usc/t43/ch28/schII/m__us_usc_t43_s1161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschII)
+[Previous](./../../../../..//us/usc/t43/ch28/schI/m__us_usc_t43_ch28_schI.md) | [Next](./../../../../..//us/usc/t43/ch28/schII/m__us_usc_t43_s1161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschII)
 
 ----------
 ----------

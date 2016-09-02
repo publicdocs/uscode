@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s471.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s473, 474.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs472)
+[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s471.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s475.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs472)
 
 ## § 472. Installments on entries or applications made after August 13, 1914, and prior to December 5, 1924
 
@@ -29,9 +29,15 @@
 
     Section comprises part of section 1 of act Aug. 13, 1914. Remainder of section 1 is set out as [section 471 of this title][/us/usc/t43/s471].
 
+§§ 473, 474. __Repealed.__  __[__  __May 25, 1926, ch. 383, § 47__  __][/us/act/1926-05-25/ch383/s47]__  __,__  __[__  __44 Stat. 650__  __][/us/stat/44/650]__ 
+
+    Section 473, [act Dec. 5, 1924, ch. 4, § 4][/us/act/1924-12-05/ch4/s4], subsec. F, [43 Stat. 702][/us/stat/43/702], related to payment of project construction charges in installments after Dec. 5, 1924.
+
+    Section 474, [act Dec. 5, 1924, ch. 4, § 4][/us/act/1924-12-05/ch4/s4], subsec. F, [43 Stat. 702][/us/stat/43/702], related to modification of contracts existing prior to Dec. 5, 1924, in respect to payment of construction charges.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s471.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s473, 474.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs472)
+[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s471.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s475.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs472)
 
 ----------
 ----------
@@ -46,5 +52,11 @@
 [/us/act/1926-05-25/ch383/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch383%2Fs47
 [/us/stat/44/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F650
 [/us/usc/t43/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs471
+[/us/act/1926-05-25/ch383/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch383%2Fs47
+[/us/stat/44/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F650
+[/us/act/1924-12-05/ch4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-05%2Fch4%2Fs4
+[/us/stat/43/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F702
+[/us/act/1924-12-05/ch4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-05%2Fch4%2Fs4
+[/us/stat/43/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F702
 
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schVII/m__us_usc_t43_s1191 to 1193.md) | [Next](./../../../../..//us/usc/t43/ch28/schVIII/m__us_usc_t43_s1195.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschVIII)
+[Previous](./../../../../..//us/usc/t43/ch28/schVII/m__us_usc_t43_ch28_schVII.md) | [Next](./../../../../..//us/usc/t43/ch28/schVIII/m__us_usc_t43_s1195.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschVIII)
 
 ### SUBCHAPTER VIII—INDIAN LANDS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schVII/m__us_usc_t43_s1191 to 1193.md) | [Next](./../../../../..//us/usc/t43/ch28/schVIII/m__us_usc_t43_s1195.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschVIII)
+[Previous](./../../../../..//us/usc/t43/ch28/schVII/m__us_usc_t43_ch28_schVII.md) | [Next](./../../../../..//us/usc/t43/ch28/schVIII/m__us_usc_t43_s1195.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschVIII)
 
 ----------
 ----------

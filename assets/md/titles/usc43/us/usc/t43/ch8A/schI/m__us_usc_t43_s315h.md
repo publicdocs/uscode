@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315g, 315g–1.md) | [Next](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315h)
+[Previous](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315f.md) | [Next](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315h)
 
 ## § 315h. Cooperation with associations, land officials, and agencies engaged in conservation or propagation of wildlife; local hearings on appeals; acceptance and use of contributions
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315g, 315g–1.md) | [Next](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315h)
+[Previous](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315f.md) | [Next](./../../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_s315i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315h)
 
 ----------
 ----------

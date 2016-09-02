@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s380a, 380b.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s382.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs381)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s380.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s382.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs381)
 
 ## § 381. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 639][/us/stat/80/639]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s380a, 380b.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s382.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs381)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s380.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s382.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs381)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 31b. Definitions
 
-In sections 31a to 31h of this title:
+    In sections 31a to 31h of this title:
 
     (1) __Advisory committee__ 
 

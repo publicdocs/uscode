@@ -15,7 +15,7 @@
 
 ## § 422e. Contract requirements
 
-Upon approval of any project proposal by the Secretary under the provisions of [section 422d of this title][/us/usc/t43/s422d], he may negotiate a contract which shall set out, among other things—
+    Upon approval of any project proposal by the Secretary under the provisions of [section 422d of this title][/us/usc/t43/s422d], he may negotiate a contract which shall set out, among other things—
 
     (a) the maximum amount of any loan to be made to the organization and the time and method of making the same available to the organization. Said loan shall not exceed the lesser of (1) two-thirds of the maximum allowable estimated total project cost as determined by [section 422b(f) of this title][/us/usc/t43/s422b/f], or (2) the estimated total cost of the project minus the contribution of the local organization as provided in [section 422d(b) of this title][/us/usc/t43/s422d/b] and the amount of the grant approved;
 

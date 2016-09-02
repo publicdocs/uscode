@@ -15,7 +15,7 @@
 
 ## § 1601. Congressional findings and declaration of policy
 
-Congress finds and declares that—
+    Congress finds and declares that—
 
     (a) there is an immediate need for a fair and just settlement of all claims by Natives and Native groups of Alaska, based on aboriginal land claims;
 

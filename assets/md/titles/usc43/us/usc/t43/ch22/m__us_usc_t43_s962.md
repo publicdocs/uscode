@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s961.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs962)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s961.1.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs962)
 
 ## § 962. Right of way in Colorado and Wyoming to pipeline companies
 
@@ -21,7 +21,7 @@
 
  __Repeal of Section__ 
 
-Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __Short Title__ 
 
@@ -33,7 +33,7 @@ Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s70
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s961.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs962)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s961.1.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs962)
 
 ----------
 ----------

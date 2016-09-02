@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s975c to 975g.md) | [Next](./../../../..//us/usc/t43/ch23/m__us_usc_t43_s981.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch23)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s975b.md) | [Next](./../../../..//us/usc/t43/ch23/m__us_usc_t43_s981.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch23)
 
 ## CHAPTER 23—GRANTS OF SWAMP AND OVERFLOWED LANDS
 
@@ -139,7 +139,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s975c to 975g.md) | [Next](./../../../..//us/usc/t43/ch23/m__us_usc_t43_s981.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch23)
+[Previous](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s975b.md) | [Next](./../../../..//us/usc/t43/ch23/m__us_usc_t43_s981.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch23)
 
 ----------
 ----------

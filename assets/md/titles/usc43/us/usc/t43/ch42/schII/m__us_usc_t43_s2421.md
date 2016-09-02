@@ -15,7 +15,7 @@
 
 ## § 2421. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Indian tribe__ 
 

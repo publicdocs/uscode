@@ -15,7 +15,7 @@
 
 ## § 485h–1. Administration of repayment contracts and long-term contracts to furnish water; renewal and conversion; credit for payments; right to available water supply; rates; construction component
 
-In administering subsections (d) and (e) of [section 485h of this title][/us/usc/t43/s485h], the Secretary of the Interior shall—
+    In administering subsections (d) and (e) of [section 485h of this title][/us/usc/t43/s485h], the Secretary of the Interior shall—
 
     (1) include in any long-term contract hereafter entered into under subsection (e) of [section 485h of this title][/us/usc/t43/s485h] provision, if the other contracting party so requests, for renewal thereof under stated terms and conditions mutually agreeable to the parties. Such terms and conditions shall provide for an increase or decrease in the charges set forth in the contract to reflect, among other things, increases or decreases in construction, operation, and maintenance costs and improvement or deterioration in the party’s repayment capacity. Any right of renewal shall be exercised within such reasonable time prior to the expiration of the contract as the parties shall have agreed upon and set forth therein;
 

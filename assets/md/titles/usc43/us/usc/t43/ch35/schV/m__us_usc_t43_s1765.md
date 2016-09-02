@@ -15,7 +15,7 @@
 
 ## § 1765. Terms and conditions
 
-Each right-of-way shall contain—
+    Each right-of-way shall contain—
 
     (a) terms and conditions which will (i) carry out the purposes of this Act and rules and regulations issued thereunder; (ii) minimize damage to scenic and esthetic values and fish and wildlife habitat and otherwise protect the environment; (iii) require compliance with applicable air and water quality standards established by or pursuant to applicable Federal or State law; and (iv) require compliance with State standards for public health and safety, environmental protection, and siting, construction, operation, and maintenance of or for rights-of-way for similar purposes if those standards are more stringent than applicable Federal standards; and
 

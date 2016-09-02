@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch21A/m__us_usc_t43_s921 to 929.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch22)
+[Previous](./../../../..//us/usc/t43/ch21A/m__us_usc_t43_ch21A.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch22)
 
 ## CHAPTER 22—RIGHTS-OF-WAY AND OTHER EASEMENTS IN PUBLIC LANDS
 
@@ -507,7 +507,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch21A/m__us_usc_t43_s921 to 929.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch22)
+[Previous](./../../../..//us/usc/t43/ch21A/m__us_usc_t43_ch21A.md) | [Next](./../../../..//us/usc/t43/ch22/m__us_usc_t43_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch22)
 
 ----------
 ----------

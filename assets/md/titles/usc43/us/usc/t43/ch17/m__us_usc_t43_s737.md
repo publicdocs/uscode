@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s730 to 736.md) | [Next](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s738.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs737)
+[Previous](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s729.md) | [Next](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s738.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs737)
 
 ## § 737. Unrestricted deeds for townsite lands held by Alaska natives
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s730 to 736.md) | [Next](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s738.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs737)
+[Previous](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s729.md) | [Next](./../../../..//us/usc/t43/ch17/m__us_usc_t43_s738.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs737)
 
 ----------
 ----------

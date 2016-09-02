@@ -43,9 +43,7 @@
 
             (I)
 
-             lands selected or claimed, but not conveyed, under a public land law, including but not limited to the following:
-
-                (1) Lands within a recorded mining claim.
+             lands selected or claimed, but not conveyed, under a public land law, including but not limited to the following:    (1) Lands within a recorded mining claim.
 
                 (2) Home sites.
 

@@ -15,7 +15,7 @@
 
 ## § 1442. Terms of lease; public lands for public airports
 
-Any lease under [section 1441 of this title][/us/usc/t43/s1441] shall be for a period not to exceed twenty years, subject to renewal for like periods upon agreement of the Secretary of the Interior and the lessee. Any such lease shall be subject to the following conditions:
+    Any lease under [section 1441 of this title][/us/usc/t43/s1441] shall be for a period not to exceed twenty years, subject to renewal for like periods upon agreement of the Secretary of the Interior and the lessee. Any such lease shall be subject to the following conditions:
 
     (a) That an annual rental of such sum as the Secretary of the Interior may fix for the use of the lands shall be paid to the United States.
 

@@ -21,7 +21,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], see Termination Date of 2009 Amendment note below.
+    For termination of amendment by [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], see Termination Date of 2009 Amendment note below.
 
  __Codification__ 
 
@@ -275,7 +275,11 @@ For termination of amendment by [section 10701(e)(2) of Pub. L. 111–11][/us/pl
 
 >                 “(i) the date that is 180 days after the date on which the subcontract is submitted to the Secretary; and
 
->                 “(ii) the date that is 60 days after the date on which a subcontractor complies with—         “(I) section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]); and
+>                 “(ii)
+
+>                  the date that is 60 days after the date on which a subcontractor complies with—
+
+>                          “(I) section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]); and
 
 >                          “(II) any other requirement of Federal law.
 
@@ -437,7 +441,11 @@ For termination of amendment by [section 10701(e)(2) of Pub. L. 111–11][/us/pl
 
 >                 “(i) A lack of right to divert at the capacities of conjunctive use wells constructed or rehabilitated under section 10606 \[[123 Stat. 1392][/us/stat/123/1392]\].
 
->                 “(ii) A failure—         “(I) to determine or resolve an accounting of the use of water under this subtitle in the State of Arizona;
+>                 “(ii)
+
+>                  A failure—
+
+>                          “(I) to determine or resolve an accounting of the use of water under this subtitle in the State of Arizona;
 
 >                          “(II) to obtain a necessary water right for the consumptive use of water in Arizona;
 

@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t43/ch1/m__us_usc_t43_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43)
 
-# 
+# Title 43—PUBLIC LANDS
 
-Title 43—PUBLIC LANDS
+Current through 113–44
 
 <table>
 

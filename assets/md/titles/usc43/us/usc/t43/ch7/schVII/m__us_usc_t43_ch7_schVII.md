@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schVI/m__us_usc_t43_s251 to 256b.md) | [Next](./../../../../..//us/usc/t43/ch7/schVII/m__us_usc_t43_s261.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschVII)
+[Previous](./../../../../..//us/usc/t43/ch7/schVI/m__us_usc_t43_ch7_schVI.md) | [Next](./../../../../..//us/usc/t43/ch7/schVII/m__us_usc_t43_s261.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschVII)
 
 ### SUBCHAPTER VII—PAYMENTS AND REFUNDS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schVI/m__us_usc_t43_s251 to 256b.md) | [Next](./../../../../..//us/usc/t43/ch7/schVII/m__us_usc_t43_s261.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschVII)
+[Previous](./../../../../..//us/usc/t43/ch7/schVI/m__us_usc_t43_ch7_schVI.md) | [Next](./../../../../..//us/usc/t43/ch7/schVII/m__us_usc_t43_s261.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch7%2FschVII)
 
 ----------
 ----------

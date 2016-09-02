@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s166 to 175.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs176)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s165.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs176)
 
 ## § 176. Repealed. [Pub. L. 94–579, title VII, § 705(a)][/us/pl/94/579/s705/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s166 to 175.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs176)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s165.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs176)
 
 ----------
 ----------

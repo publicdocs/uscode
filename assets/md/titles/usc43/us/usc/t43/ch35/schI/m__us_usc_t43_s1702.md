@@ -15,7 +15,7 @@
 
 ## § 1702. Definitions
 
-Without altering in any way the meaning of the following terms as used in any other statute, whether or not such statute is referred to in, or amended by, this Act, as used in this Act—
+    Without altering in any way the meaning of the following terms as used in any other statute, whether or not such statute is referred to in, or amended by, this Act, as used in this Act—
 
     (a) The term “areas of critical environmental concern” means areas within the public lands where special management attention is required (when such areas are developed or used or where no development is required) to protect and prevent irreparable damage to important historic, cultural, or scenic values, fish and wildlife resources or other natural systems or processes, or to protect life and safety from natural hazards.
 

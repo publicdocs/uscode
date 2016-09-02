@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s473, 474.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s476.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs475)
+[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s472.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s476.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs475)
 
 ## § 475. Annual installments on entries and contracts prior to August 13, 1914
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s473, 474.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s476.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs475)
+[Previous](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s472.md) | [Next](./../../../../..//us/usc/t43/ch12/schIX/m__us_usc_t43_s476.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs475)
 
 ----------
 ----------

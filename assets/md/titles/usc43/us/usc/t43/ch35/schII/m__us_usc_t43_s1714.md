@@ -31,9 +31,7 @@
 
         (2)
 
-         With the notices required by subsection (c)(1) of this section and within three months after filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—
-
-            (1) a clear explanation of the proposed use of the land involved which led to the withdrawal;
+         With the notices required by subsection (c)(1) of this section and within three months after filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—    (1) a clear explanation of the proposed use of the land involved which led to the withdrawal;
 
             (2) an inventory and evaluation of the current natural resource uses and values of the site and adjacent public and nonpublic land and how it appears they will be affected by the proposed use, including particularly aspects of use that might cause degradation of the environment, and also the economic impact of the change in use on individuals, local communities, and the Nation;
 

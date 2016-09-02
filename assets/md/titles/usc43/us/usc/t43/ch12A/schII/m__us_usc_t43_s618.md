@@ -15,7 +15,7 @@
 
 ## § 618. Promulgation of charges for electrical energy
 
-The Secretary of the Interior is authorized and directed to, and he shall, promulgate charges, or the basis of computation thereof, for electrical energy generated at Hoover Dam beginning June 1, 1937, computed to be sufficient, together with other net revenues from the project, to accomplish the following purposes:
+    The Secretary of the Interior is authorized and directed to, and he shall, promulgate charges, or the basis of computation thereof, for electrical energy generated at Hoover Dam beginning June 1, 1937, computed to be sufficient, together with other net revenues from the project, to accomplish the following purposes:
 
     (a) To meet the cost of operation and maintenance, and to provide for replacements, of the project beginning June 1, 1937;
 

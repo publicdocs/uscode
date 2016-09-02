@@ -23,7 +23,7 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], provided that effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System this section is amended to read as follows:
+    [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], provided that effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System this section is amended to read as follows:
 
     Whenever, by priority of possession, rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and the decisions of courts, the possessors and owners of such vested rights shall be maintained and protected in the same.
 

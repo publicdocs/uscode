@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s25 to 25b.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch2)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s24.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch2)
 
 ## CHAPTER 2—UNITED STATES GEOLOGICAL SURVEY
 
@@ -323,7 +323,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s25 to 25b.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch2)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s24.md) | [Next](./../../../..//us/usc/t43/ch2/m__us_usc_t43_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch2)
 
 ----------
 ----------

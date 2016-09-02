@@ -15,7 +15,7 @@
 
 ## § 2003. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “northern tier States” means the States of Washington, Oregon, Idaho, Montana, North Dakota, Minnesota, Michigan, Wisconsin, Illinois, Indiana, and Ohio.
 

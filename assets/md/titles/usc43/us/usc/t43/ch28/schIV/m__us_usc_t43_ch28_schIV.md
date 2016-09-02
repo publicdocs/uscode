@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schIII/m__us_usc_t43_s1175 to 1177.md) | [Next](./../../../../..//us/usc/t43/ch28/schIV/m__us_usc_t43_s1181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschIV)
+[Previous](./../../../../..//us/usc/t43/ch28/schIII/m__us_usc_t43_s1174.md) | [Next](./../../../../..//us/usc/t43/ch28/schIV/m__us_usc_t43_s1181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschIV)
 
 ### SUBCHAPTER IV—TIMBER CULTURE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch28/schIII/m__us_usc_t43_s1175 to 1177.md) | [Next](./../../../../..//us/usc/t43/ch28/schIV/m__us_usc_t43_s1181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschIV)
+[Previous](./../../../../..//us/usc/t43/ch28/schIII/m__us_usc_t43_s1174.md) | [Next](./../../../../..//us/usc/t43/ch28/schIV/m__us_usc_t43_s1181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch28%2FschIV)
 
 ----------
 ----------

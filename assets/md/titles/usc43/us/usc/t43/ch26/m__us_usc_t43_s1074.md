@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1071 to 1073.md) | [Next](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1074)
+[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_ch26.md) | [Next](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1074)
 
 ## § 1074. Repealed. [Pub. L. 94–579, title VII, § 703(a)][/us/pl/94/579/s703/a], Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1071 to 1073.md) | [Next](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1074)
+[Previous](./../../../..//us/usc/t43/ch26/m__us_usc_t43_ch26.md) | [Next](./../../../..//us/usc/t43/ch26/m__us_usc_t43_s1075.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1074)
 
 ----------
 ----------

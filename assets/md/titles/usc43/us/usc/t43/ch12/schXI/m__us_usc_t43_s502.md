@@ -39,59 +39,67 @@
 
 [Pub. L. 100–387, title IV][/us/pl/100/387], subtitle B, Aug. 11, 1988, [102 Stat. 957][/us/stat/102/957], provided that:
 
- __“part 1—reclamation states drought assistance__ 
+> “part 1— __reclamation states drought assistance__ 
 
-    “SEC. 411. SHORT TITLE.
+> “SEC. 411. __SHORT TITLE.__ 
 
-    “This part may be cited as the ‘Reclamation States Drought Assistance Act of 1988’.
+>     “This part may be cited as the ‘Reclamation States Drought Assistance Act of 1988’.
 
-    “SEC. 412. ASSISTANCE DURING DROUGHT.
+> “SEC. 412. __ASSISTANCE DURING DROUGHT.__ 
 
-    “The Secretary of the Interior, acting under the authorities of the Federal reclamation laws (the Act of June 17, 1902 ([32 Stat. 388][/us/stat/32/388]) \[see Short Title note under [section 371 of this title][/us/usc/t43/s371]\], and Acts supplementary thereto and amendatory thereof) and other appropriate authorities of the Secretary shall—
+> “The Secretary of the Interior, acting under the authorities of the Federal reclamation laws (the Act of June 17, 1902 ([32 Stat. 388][/us/stat/32/388]) \[see Short Title note under [section 371 of this title][/us/usc/t43/s371]\], and Acts supplementary thereto and amendatory thereof) and other appropriate authorities of the Secretary shall—
 
-    “(1)(A) perform studies to identify opportunities to augment, make use of, or conserve water supplies available to Federal reclamation projects and Indian water resource developments, which studies shall be completed no later than March 1, 1990; and
+>     “(1)
 
-    “(B) consistent with existing contractual arrangements and State law, and without further authorization, undertake construction, management, and conservation activities that will mitigate or can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, or 1989, which construction shall be completed by December 31, 1989; and
+>         (A) perform studies to identify opportunities to augment, make use of, or conserve water supplies available to Federal reclamation projects and Indian water resource developments, which studies shall be completed no later than March 1, 1990; and
 
-    “(2) assist willing buyers in their purchase of available water supplies from willing sellers and redistribute such water based upon priorities to be determined by the Secretary consistent with State law, with the objective of minimizing losses and damages resulting from drought conditions in 1987, 1988, and 1989.
+>         “(B) consistent with existing contractual arrangements and State law, and without further authorization, undertake construction, management, and conservation activities that will mitigate or can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, or 1989, which construction shall be completed by December 31, 1989; and
 
-    “SEC. 413. AVAILABILITY OF WATER ON A TEMPORARY BASIS.
+>     “(2) assist willing buyers in their purchase of available water supplies from willing sellers and redistribute such water based upon priorities to be determined by the Secretary consistent with State law, with the objective of minimizing losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
-    “(a) General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
+> “SEC. 413. __AVAILABILITY OF WATER ON A TEMPORARY BASIS.__ 
 
-    “(b) Contracts.—Any contract signed under this section shall provide that—
+>     “(a) __General Authority.—__ 
 
-    “(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in [section 202(3)(A) of Public Law 97–293][/us/pl/97/293/s202/3/A], [43 U.S.C. 390bb][/us/usc/t43/s390bb]) for those acres in excess of 960 acres or 320 acres, as appropriate;
+>     The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
-    “(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
+>     “(b) __Contracts.—__ 
 
-    “(3) the lands that are subject to the ownership limitations of Federal reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies; and
+>     Any contract signed under this section shall provide that—
 
-    “(4) the contract shall terminate no later than December 31, 1989.
+>         “(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in [section 202(3)(A) of Public Law 97–293][/us/pl/97/293/s202/3/A], [43 U.S.C. 390bb][/us/usc/t43/s390bb]) for those acres in excess of 960 acres or 320 acres, as appropriate;
 
-    “(c) Fish and Wildlife.—The Secretary may make available water for the purposes of protecting fish and wildlife resources, including mitigating losses that occur as a result of drought conditions.
+>         “(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
 
-    “SEC. 414. EMERGENCY LOAN PROGRAM.
+>         “(3) the lands that are subject to the ownership limitations of Federal reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies; and
 
-    “The Secretary of the Interior may make loans to water users for the purposes of undertaking management, conservation activities, or the acquisition and transportation of water consistent with State law, that can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, and 1989. Such loans shall be made available under such terms and conditions as the Secretary deems appropriate. Section 203(a) of the Reclamation Reform Act of 1982 ([Public Law 97–293][/us/pl/97/293]; [43 U.S.C. 390cc][/us/usc/t43/s390cc]) shall not apply to any contract to repay such loan.
+>         “(4) the contract shall terminate no later than December 31, 1989.
 
-    “SEC. 415. INTERAGENCY COORDINATION.
+>     “(c) __Fish and Wildlife.—__ 
 
-    “The program established by this part, to the extent practicable, shall be coordinated with emergency and disaster relief operations conducted by other Federal and State agencies under other provisions of law. The Secretary of the Interior shall consult such other Federal and State agencies as he deems necessary. Other Federal agencies performing relief functions under other Federal authorities shall provide the Secretary with information and records that the Secretary deems necessary for the administration of this part.
+>     The Secretary may make available water for the purposes of protecting fish and wildlife resources, including mitigating losses that occur as a result of drought conditions.
 
-    “SEC. 416. REPORT.
+> “SEC. 414. __EMERGENCY LOAN PROGRAM.__ 
 
-    “Not later than March 1, 1990, the Secretary of the Interior shall submit a report and recommendations to the President and Congress on—
+>     “The Secretary of the Interior may make loans to water users for the purposes of undertaking management, conservation activities, or the acquisition and transportation of water consistent with State law, that can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, and 1989. Such loans shall be made available under such terms and conditions as the Secretary deems appropriate. Section 203(a) of the Reclamation Reform Act of 1982 ([Public Law 97–293][/us/pl/97/293]; [43 U.S.C. 390cc][/us/usc/t43/s390cc]) shall not apply to any contract to repay such loan.
 
-    “(1) expenditures and accomplishments under this part;
+> “SEC. 415. __INTERAGENCY COORDINATION.__ 
 
-    “(2) legislative and administrative recommendations for responding to droughts and drought related problems in the Reclamation States; and
+>     “The program established by this part, to the extent practicable, shall be coordinated with emergency and disaster relief operations conducted by other Federal and State agencies under other provisions of law. The Secretary of the Interior shall consult such other Federal and State agencies as he deems necessary. Other Federal agencies performing relief functions under other Federal authorities shall provide the Secretary with information and records that the Secretary deems necessary for the administration of this part.
 
-    “(3) structural and non-structural measures to mitigate the effects of droughts.
+> “SEC. 416. __REPORT.__ 
 
-    “SEC. 417. CARRYOVER STORAGE AND WATER, NEW MELONES UNIT, CENTRAL VALLEY PROJECT, CALIFORNIA.
+> “Not later than March 1, 1990, the Secretary of the Interior shall submit a report and recommendations to the President and Congress on—
 
-“The first undesignated paragraph under the heading ‘San Joaquin River Basin’ in section 203 of the Flood Control Act of 1962 ([Public Law 87–874][/us/pl/87/874], [76 Stat. 1191][/us/stat/76/1191]) is amended by inserting before the last period the following: ‘: And provided further, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year’.
+>     “(1) expenditures and accomplishments under this part;
+
+>     “(2) legislative and administrative recommendations for responding to droughts and drought related problems in the Reclamation States; and
+
+>     “(3) structural and non-structural measures to mitigate the effects of droughts.
+
+> “SEC. 417. __CARRYOVER STORAGE AND WATER, NEW MELONES UNIT, CENTRAL VALLEY PROJECT, CALIFORNIA.__ 
+
+>     “The first undesignated paragraph under the heading ‘San Joaquin River Basin’ in section 203 of the Flood Control Act of 1962 ([Public Law 87–874][/us/pl/87/874], [76 Stat. 1191][/us/stat/76/1191]) is amended by inserting before the last period the following: ‘: And provided further, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year’.
 
 > “SEC. 418. __INITIATION AND DEADLINE OF EMERGENCY DROUGHT PROGRAM.__ 
 
@@ -107,33 +115,33 @@
 
 >     The programs and authorities established under this part shall terminate on December 31, 1989, unless otherwise specifically stated.
 
- __“part 2—water project__ 
+> “part 2— __water project__ 
 
-    “SEC. 421. CENTRAL VALLEY PROJECT WATER RELEASES.
+> “SEC. 421. __CENTRAL VALLEY PROJECT WATER RELEASES.__ 
 
-    “The Secretary of the Interior is authorized to install a temperature control curtain as a demonstration project at Shasta Dam, Central Valley project, California, at a cost not to exceed $5,500,000. The purpose of the demonstration project is to determine the effectiveness of the temperature control curtain in controlling the temperature of water releases from Shasta Dam, so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary\[.\]
+>     “The Secretary of the Interior is authorized to install a temperature control curtain as a demonstration project at Shasta Dam, Central Valley project, California, at a cost not to exceed $5,500,000. The purpose of the demonstration project is to determine the effectiveness of the temperature control curtain in controlling the temperature of water releases from Shasta Dam, so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary\[.\]
 
- __“part 3—authorization and savings clause__ 
+> “part 3— __authorization and savings clause__ 
 
-    “SEC. 431. AUTHORIZATION OF APPROPRIATIONS.
+> “SEC. 431. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
-    “(a) There are authorized to be appropriated a total amount not to exceed $25,000,000 for section 412(1)(B) and section 414 of this subtitle.
+>     “(a) There are authorized to be appropriated a total amount not to exceed $25,000,000 for section 412(1)(B) and section 414 of this subtitle.
 
-    “(b) Unless otherwise specified, there are authorized to be appropriated such sums as may be necessary to carry out the remaining provisions of this subtitle.
+>     “(b) Unless otherwise specified, there are authorized to be appropriated such sums as may be necessary to carry out the remaining provisions of this subtitle.
 
-    “SEC. 432. SAVINGS CLAUSE.
+> “SEC. 432. __SAVINGS CLAUSE.__ 
 
-    “Nothing in this subtitle shall be construed as limiting or restricting the power and authority of the United States or—
+> “Nothing in this subtitle shall be construed as limiting or restricting the power and authority of the United States or—
 
-    “(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on public lands;
+>     “(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on public lands;
 
-    “(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control;
+>     “(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control;
 
-    “(3) as displacing, superseding, limiting, or modifying any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States or of two States and the Federal Government;
+>     “(3) as displacing, superseding, limiting, or modifying any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States or of two States and the Federal Government;
 
-    “(4) as superseding, modifying, or repealing, except as specifically set forth in this subtitle, existing law applicable to the various Federal agencies; or
+>     “(4) as superseding, modifying, or repealing, except as specifically set forth in this subtitle, existing law applicable to the various Federal agencies; or
 
-    “(5) as modifying the terms of any interstate compact.”
+>     “(5) as modifying the terms of any interstate compact.”
 
  __Use of Western Area Power Administration Continuing Fund To Pay for Purchase Power and Wheeling Expenses To Meet Contractual Obligations During Periods of Below-Average Hydropower Generation__ 
 

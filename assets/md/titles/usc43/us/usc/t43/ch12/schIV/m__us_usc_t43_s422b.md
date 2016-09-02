@@ -15,7 +15,7 @@
 
 ## § 422b. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “construction” shall include rehabilitation and betterment.
 

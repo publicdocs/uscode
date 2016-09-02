@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s201 to 208.md) | [Next](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs209)
+[Previous](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_ch7_schIII.md) | [Next](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs209)
 
 ## § 209. Extension of public-land laws to certain lands in Oklahoma
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s201 to 208.md) | [Next](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs209)
+[Previous](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_ch7_schIII.md) | [Next](./../../../../..//us/usc/t43/ch7/schIII/m__us_usc_t43_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs209)
 
 ----------
 ----------

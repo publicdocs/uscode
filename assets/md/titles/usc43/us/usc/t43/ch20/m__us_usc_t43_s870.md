@@ -15,7 +15,7 @@
 
 ## § 870. Grants of land in aid of common or public schools; extension to those mineral in character; effect of leases
 
-Subject to the provisions of subsections (a), (b), and (c) of this section, the several grants to the States of numbered sections in place for the support or in aid of common or public schools be, and they are, extended to embrace numbered school sections mineral in character, unless land has been granted to and/or selected by and certified or approved, to any such State or States as indemnity or in lieu of any land so granted by numbered sections.
+    Subject to the provisions of subsections (a), (b), and (c) of this section, the several grants to the States of numbered sections in place for the support or in aid of common or public schools be, and they are, extended to embrace numbered school sections mineral in character, unless land has been granted to and/or selected by and certified or approved, to any such State or States as indemnity or in lieu of any land so granted by numbered sections.
 
     (a) The grant of numbered mineral sections under this section shall be of the same effect as prior grants for the numbered nonmineral sections, and titles to such numbered mineral sections shall vest in the States at the time and in the manner and be subject to all the rights of adverse parties recognized by existing law in the grants of numbered nonmineral sections.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch8/m__us_usc_t43_s311 to 313.md) | [Next](./../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_ch8A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch8A)
+[Previous](./../../../..//us/usc/t43/ch8/m__us_usc_t43_ch8.md) | [Next](./../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_ch8A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch8A)
 
 ## CHAPTER 8A—GRAZING LANDS
 
@@ -371,7 +371,7 @@ SUBCHAPTER II—ALASKA  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch8/m__us_usc_t43_s311 to 313.md) | [Next](./../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_ch8A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch8A)
+[Previous](./../../../..//us/usc/t43/ch8/m__us_usc_t43_ch8.md) | [Next](./../../../..//us/usc/t43/ch8A/schI/m__us_usc_t43_ch8A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch8A)
 
 ----------
 ----------

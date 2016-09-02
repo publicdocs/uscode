@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687a–5 to 687b–4.md) | [Next](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs687b%E2%80%935)
+[Previous](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687a–4.md) | [Next](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs687b%E2%80%935)
 
 ## § 687b–5. Repealed. [Pub. L. 94–579, title VII, § 703(a)][/us/pl/94/579/s703/a], Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687a–5 to 687b–4.md) | [Next](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs687b%E2%80%935)
+[Previous](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687a–4.md) | [Next](./../../../..//us/usc/t43/ch16/m__us_usc_t43_s687c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs687b%E2%80%935)
 
 ----------
 ----------

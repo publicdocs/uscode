@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXVI/m__us_usc_t43_s581 to 586.md) | [Next](./../../../../..//us/usc/t43/ch12/schXVII/m__us_usc_t43_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXVII)
+[Previous](./../../../../..//us/usc/t43/ch12/schXVI/m__us_usc_t43_ch12_schXVI.md) | [Next](./../../../../..//us/usc/t43/ch12/schXVII/m__us_usc_t43_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXVII)
 
 ### SUBCHAPTER XVII—LEGISLATION APPLICABLE TO PARTICULAR PROJECTS GENERALLY
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXVI/m__us_usc_t43_s581 to 586.md) | [Next](./../../../../..//us/usc/t43/ch12/schXVII/m__us_usc_t43_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXVII)
+[Previous](./../../../../..//us/usc/t43/ch12/schXVI/m__us_usc_t43_ch12_schXVI.md) | [Next](./../../../../..//us/usc/t43/ch12/schXVII/m__us_usc_t43_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch12%2FschXVII)
 
 ----------
 ----------

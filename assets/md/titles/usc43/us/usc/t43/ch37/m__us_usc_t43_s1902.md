@@ -15,7 +15,7 @@
 
 ## § 1902. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The terms “rangelands” or “public rangelands” means lands administered by the Secretary of the Interior through the Bureau of Land Management or the Secretary of Agriculture through the Forest Service in the sixteen contiguous Western States on which there is domestic livestock grazing or which the Secretary concerned determines may be suitable for domestic livestock grazing.
 

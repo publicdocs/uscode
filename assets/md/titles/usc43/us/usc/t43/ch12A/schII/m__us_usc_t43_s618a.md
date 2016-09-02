@@ -15,7 +15,7 @@
 
 ## § 618a. Receipts from project; disposition
 
-All receipts from the project shall be paid into the Colorado River Dam Fund and shall be available, without further appropriation, for:
+    All receipts from the project shall be paid into the Colorado River Dam Fund and shall be available, without further appropriation, for:
 
     (a) __Defraying operating expenses__ 
 
@@ -29,7 +29,7 @@ All receipts from the project shall be paid into the Colorado River Dam Fund and
 
     Payment subject to the provisions of [section 618b of this title][/us/usc/t43/s618b], in commutation of the payments now provided for the States of Arizona and Nevada in section 4(b) of the Project Act \[[43 U.S.C. 617c(b)][/us/usc/t43/s617c/b]\] to each of said States of the sum of $300,000 for each year of operation, beginning with the year of operation ending May 31, 1938, and continuing annually thereafter until and including the year of operation ending May 31, 1987, and such payments for any year of operation which shall have expired at the time when this subdivision shall become effective shall be due immediately, and be paid, without interest, as expeditiously as administration of this subchapter will permit, and each such payment for subsequent years of operation shall be made on or before July 31, following the close of the year of operation for which it is made. All such payments shall be made from revenues received on and after July 19, 1940 in the Colorado River Dam Fund.
 
-    Notwithstanding the foregoing provisions of this subsection, in the event that there are levied and collected by or under authority of Arizona or Nevada or by any lawful taxing political subdivision thereof, taxes upon—
+        Notwithstanding the foregoing provisions of this subsection, in the event that there are levied and collected by or under authority of Arizona or Nevada or by any lawful taxing political subdivision thereof, taxes upon—
 
         (i) the project as herein defined;
 

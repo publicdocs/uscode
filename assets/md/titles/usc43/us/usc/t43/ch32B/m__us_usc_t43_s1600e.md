@@ -15,7 +15,7 @@
 
 ## § 1600e. Exceptions
 
-Notwithstanding [section 1600d of this title][/us/usc/t43/s1600d], the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures or financial assistance available within the Colorado River Floodway for—
+    Notwithstanding [section 1600d of this title][/us/usc/t43/s1600d], the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures or financial assistance available within the Colorado River Floodway for—
 
     (a) any dam, channel or levee construction, operation or maintenance for the purpose of flood control, water conservation, power or water quality;
 

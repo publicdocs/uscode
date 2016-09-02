@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s754 to 756.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s758.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs757)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s753.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s758.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs757)
 
 ## § 757. Cost of survey of private land claims to be reported and paid
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s754 to 756.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s758.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs757)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s753.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s758.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs757)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 2001. Findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) a serious crude oil supply shortage may soon exist in portions of the United States;
 

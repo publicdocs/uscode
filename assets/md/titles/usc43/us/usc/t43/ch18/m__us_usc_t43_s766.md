@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s764, 765.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs766)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s763.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs766)
 
 ## § 766. Geological surveys, extension of public surveys, expenses of subdividing
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s764, 765.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs766)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s763.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs766)
 
 ----------
 ----------

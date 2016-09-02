@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s782, 783.md) | [Next](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s785.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs784)
+[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s781.md) | [Next](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s785.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs784)
 
 ## § 784. Repealed. [Pub. L. 85–56, title XXII, § 2202(1)][/us/pl/85/56/s2202/1], June 17, 1957, [71 Stat. 162][/us/stat/71/162]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s782, 783.md) | [Next](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s785.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs784)
+[Previous](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s781.md) | [Next](./../../../..//us/usc/t43/ch19/m__us_usc_t43_s785.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs784)
 
 ----------
 ----------

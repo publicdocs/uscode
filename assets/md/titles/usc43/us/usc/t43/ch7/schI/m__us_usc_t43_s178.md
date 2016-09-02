@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s179, 180.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs178)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs178)
 
 ## § 178. Patents for lands in New Mexico; lands contiguous to Spanish or Mexican land grants
 
@@ -19,14 +19,39 @@
 
 ([Feb. 23, 1932, ch. 52][/us/act/1932-02-23/ch52], [47 Stat. 53][/us/stat/47/53].)
 
+§§ 179, 180. __Repealed.__  __[__  __Pub. L. 94–579, title VII, § 702__  __][/us/pl/94/579/s702]__  __,__  __Oct. 21, 1976__  __,__  __[__  __90 Stat. 2787__  __][/us/stat/90/2787]__ 
+
+    Section 179, [act May 17, 1900, ch. 479, § 1][/us/act/1900-05-17/ch479/s1], [31 Stat. 179][/us/stat/31/179], related to free homesteads to settlers, commutation rights, and payment to Indians.
+
+    Section 180, [act Jan. 26, 1901, ch. 180][/us/act/1901-01-26/ch180], [31 Stat. 740][/us/stat/31/740], related to extension of right of settlers to commute entry.
+
+ __Effective Date of Repeal__ 
+
+    [Pub. L. 94–579, title VII, § 702][/us/pl/94/579/s702], Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787], provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
+
+ __Savings Provision__ 
+
+    Repeal by [Pub. L. 94–579][/us/pl/94/579] not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see [section 701 of Pub. L. 94–579][/us/pl/94/579/s701], set out as a note under [section 1701 of this title][/us/usc/t43/s1701].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Next](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s179, 180.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs178)
+[Previous](./../../../../..//us/usc/t43/ch7/schI/m__us_usc_t43_s177.md) | [Next](./../../../../..//us/usc/t43/ch7/schII/m__us_usc_t43_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs178)
 
 ----------
 ----------
 
 [/us/act/1932-02-23/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-23%2Fch52
 [/us/stat/47/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F53
+[/us/pl/94/579/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs702
+[/us/stat/90/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2787
+[/us/act/1900-05-17/ch479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-05-17%2Fch479%2Fs1
+[/us/stat/31/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F179
+[/us/act/1901-01-26/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-01-26%2Fch180
+[/us/stat/31/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F740
+[/us/pl/94/579/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs702
+[/us/stat/90/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2787
+[/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
+[/us/pl/94/579/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs701
+[/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 
 

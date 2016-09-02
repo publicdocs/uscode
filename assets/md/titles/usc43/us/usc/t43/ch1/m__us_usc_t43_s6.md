@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s4, 5.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs6)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s3a.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs6)
 
 ## § 6. Duties of employees to certify, record, etc., patents
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s4, 5.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs6)
+[Previous](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s3a.md) | [Next](./../../../..//us/usc/t43/ch1/m__us_usc_t43_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs6)
 
 ----------
 ----------

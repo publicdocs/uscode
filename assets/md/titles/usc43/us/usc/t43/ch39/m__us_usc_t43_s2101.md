@@ -15,7 +15,7 @@
 
 ## § 2101. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (a) States have the responsibility for management of a broad range of living and nonliving resources in State waters and submerged lands; and
 

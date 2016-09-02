@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s768, 769.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs770)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs770)
 
 ## § 770. Rectangular mode of survey; departure from
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s768, 769.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs770)
+[Previous](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s767.md) | [Next](./../../../..//us/usc/t43/ch18/m__us_usc_t43_s771.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs770)
 
 ----------
 ----------

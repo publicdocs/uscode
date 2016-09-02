@@ -15,7 +15,7 @@
 
 ## § 1199. Provisions to be included in contracts for condemnation of Sioux lands for dam purposes
 
-The contract with each tribe negotiated pursuant to [section 1198 of this title][/us/usc/t43/s1198] shall—
+    The contract with each tribe negotiated pursuant to [section 1198 of this title][/us/usc/t43/s1198] shall—
 
     (a) convey to the United States title to all tribal, allotted, assigned, and inherited lands or interests therein belonging to the Indians of the tribe, and title to all undivided interests in such allotted or inherited lands owned by non-Indians or by Indian nonmembers of the tribe, required by the United States for the reservoir to be created by the construction of the dams across the Missouri River in South Dakota, to be known as Fort Randall Dam, including such lands along the margins as may be required by the Chief of Engineers, Department of the Army, for the protection, development, and use of said reservoir: Provided, That the contract may provide for retention by the owners of any oil and gas rights in such lands that are not needed by the United States for the protection of such dam and reservoir;
 

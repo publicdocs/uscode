@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch10/m__us_usc_t43_s357 to 360.md) | [Next](./../../../..//us/usc/t43/ch11/m__us_usc_t43_s361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch11)
+[Previous](./../../../..//us/usc/t43/ch10/m__us_usc_t43_s356.md) | [Next](./../../../..//us/usc/t43/ch11/m__us_usc_t43_s361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch11)
 
 ## CHAPTER 11—DISCOVERY, DEVELOPMENT, AND MARKING OF WATER HOLES, ETC., BY GOVERNMENT
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch10/m__us_usc_t43_s357 to 360.md) | [Next](./../../../..//us/usc/t43/ch11/m__us_usc_t43_s361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch11)
+[Previous](./../../../..//us/usc/t43/ch10/m__us_usc_t43_s356.md) | [Next](./../../../..//us/usc/t43/ch11/m__us_usc_t43_s361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch11)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1599. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) all terms that are defined in the Colorado River Compact shall have the meanings therein defined;
 

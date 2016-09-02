@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s80, 80a.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s82.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs81)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s82.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs81)
 
 ## § 81. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], 645, 646
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s80, 80a.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s82.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs81)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s79d.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s82.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs81)
 
 ----------
 ----------

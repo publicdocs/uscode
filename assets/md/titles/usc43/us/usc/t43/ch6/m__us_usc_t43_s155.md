@@ -15,7 +15,7 @@
 
 ## § 155. Withdrawal, reservation, or restriction of public lands for defense purposes; “public lands” defined; exception
 
-Notwithstanding any other provisions of law, except in time of war or national emergency hereafter declared by the President or the Congress, on and after February 28, 1958 the provisions hereof shall apply to the withdrawal and reservation for, restriction of, and utilization by, the Department of Defense for defense purposes of the public lands of the United States, including public lands in the Territories of Alaska and Hawaii: Provided, That—
+    Notwithstanding any other provisions of law, except in time of war or national emergency hereafter declared by the President or the Congress, on and after February 28, 1958 the provisions hereof shall apply to the withdrawal and reservation for, restriction of, and utilization by, the Department of Defense for defense purposes of the public lands of the United States, including public lands in the Territories of Alaska and Hawaii: Provided, That—
 
     (1) for the purposes of this Act, the term “public lands” shall be deemed to include, without limiting the meaning thereof, Federal lands and waters of the Outer Continental Shelf, as defined in [section 1331 of this title][/us/usc/t43/s1331], and Federal lands and waters off the coast of the Territories of Alaska and Hawaii;
 

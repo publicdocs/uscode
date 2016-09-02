@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s87, 88.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s90.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs89)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s86.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s90.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs89)
 
 ## § 89. Monthly returns of district land offices
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s87, 88.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s90.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs89)
+[Previous](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s86.md) | [Next](./../../../..//us/usc/t43/ch4/m__us_usc_t43_s90.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs89)
 
 ----------
 ----------

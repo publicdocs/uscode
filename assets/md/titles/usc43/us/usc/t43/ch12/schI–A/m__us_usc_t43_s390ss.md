@@ -15,7 +15,7 @@
 
 ## § 390ss. Religious or charitable organizations
 
-An individual religious or charitable entity or organization (including but not limited to a congregation, parish, school, ward, or chapter) which is exempt from taxation under section 501 of the Internal Revenue Code of 1986, as amended ([26 U.S.C. 501][/us/usc/t26/s501]), and which owns, operates, or leases any lands within a district shall be treated as an individual under the provisions of this subchapter regardless of such entity or organization’s affiliation with a central organization or its subjugation to a hierarchical authority of the same faith and regardless of whether or not the individual entity is the owner of record if—
+    An individual religious or charitable entity or organization (including but not limited to a congregation, parish, school, ward, or chapter) which is exempt from taxation under section 501 of the Internal Revenue Code of 1986, as amended ([26 U.S.C. 501][/us/usc/t26/s501]), and which owns, operates, or leases any lands within a district shall be treated as an individual under the provisions of this subchapter regardless of such entity or organization’s affiliation with a central organization or its subjugation to a hierarchical authority of the same faith and regardless of whether or not the individual entity is the owner of record if—
 
     (1) the agricultural produce and the proceeds of sales of such produce are directly used only for charitable purposes;
 

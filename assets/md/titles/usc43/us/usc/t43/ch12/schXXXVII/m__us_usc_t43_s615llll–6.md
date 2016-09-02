@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXXXVII/m__us_usc_t43_s615llll to 615llll–5.md) | [Next](./../../../../..//us/usc/t43/ch12/schXXXVIII/m__us_usc_t43_ch12_schXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615llll%E2%80%936)
+[Previous](./../../../../..//us/usc/t43/ch12/schXXXVII/m__us_usc_t43_ch12_schXXXVII.md) | [Next](./../../../../..//us/usc/t43/ch12/schXXXVIII/m__us_usc_t43_ch12_schXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615llll%E2%80%936)
 
 ## § 615llll–6. Repealed. [Pub. L. 100–516, § 12(a)][/us/pl/100/516/s12/a], Oct. 24, 1988, [102 Stat. 2572][/us/stat/102/2572]
 
@@ -21,7 +21,7 @@ Section, [Pub. L. 94–228, title IV, § 407][/us/pl/94/228/s407], Mar. 11, 19
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXXXVII/m__us_usc_t43_s615llll to 615llll–5.md) | [Next](./../../../../..//us/usc/t43/ch12/schXXXVIII/m__us_usc_t43_ch12_schXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615llll%E2%80%936)
+[Previous](./../../../../..//us/usc/t43/ch12/schXXXVII/m__us_usc_t43_ch12_schXXXVII.md) | [Next](./../../../../..//us/usc/t43/ch12/schXXXVIII/m__us_usc_t43_ch12_schXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615llll%E2%80%936)
 
 ----------
 ----------

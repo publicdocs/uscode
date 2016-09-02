@@ -39,417 +39,419 @@
 
     (b) __List of Native villages subject to chapter; review; eligibility for benefits; expiration of withdrawals for villages; alternative eligibility; eligibility of unlisted villages__ 
 
-        (1) The Native villages subject to this chapter are as follows:    NAME OF PLACE AND REGION
+        (1) The Native villages subject to this chapter are as follows:
 
-            Afognak, Afognak Island.
+    NAME OF PLACE AND REGION
 
-            Akhiok, Kodiak.
+        Afognak, Afognak Island.
 
-            Akiachak, Southwest Coastal Lowland.
+        Akhiok, Kodiak.
 
-            Akiak, Southwest Coastal Lowland.
+        Akiachak, Southwest Coastal Lowland.
 
-            Akutan, Aleutian.
+        Akiak, Southwest Coastal Lowland.
 
-            Alakanuk, Southwest Coastal Lowland.
+        Akutan, Aleutian.
 
-            Alatna, Koyukuk-Lower Yukon.
+        Alakanuk, Southwest Coastal Lowland.
 
-            Aleknagik, Bristol Bay.
+        Alatna, Koyukuk-Lower Yukon.
 
-            Allakaket, Koyukuk-Lower Yukon.
+        Aleknagik, Bristol Bay.
 
-            Ambler, Bering Strait.
+        Allakaket, Koyukuk-Lower Yukon.
 
-            Anaktuvuk, Pass, Arctic Slope.
+        Ambler, Bering Strait.
 
-            Andreafsey, Southwest Coastal Lowland.
+        Anaktuvuk, Pass, Arctic Slope.
 
-            Aniak, Southwest Coastal Lowland.
+        Andreafsey, Southwest Coastal Lowland.
 
-            Anvik, Koyukuk-Lower Yukon.
+        Aniak, Southwest Coastal Lowland.
 
-            Arctic Village, Upper Yukon-Porcupine.
+        Anvik, Koyukuk-Lower Yukon.
 
-            Atka, Aleutian.
+        Arctic Village, Upper Yukon-Porcupine.
 
-            Atkassok, Arctic Slope.
+        Atka, Aleutian.
 
-            Atmautlauk, Southwest Coastal Lowland.
+        Atkassok, Arctic Slope.
 
-            Barrow, Arctic Slope.
+        Atmautlauk, Southwest Coastal Lowland.
 
-            Beaver, Upper Yukon-Porcupine.
+        Barrow, Arctic Slope.
 
-            Belkofsky, Aleutian.
+        Beaver, Upper Yukon-Porcupine.
 
-            Bethel, Southwest Coastal Lowland.
+        Belkofsky, Aleutian.
 
-            Bill Moore’s, Southwest Coastal Lowland.
+        Bethel, Southwest Coastal Lowland.
 
-            Biorka, Aleutian.
+        Bill Moore’s, Southwest Coastal Lowland.
 
-            Birch Creek, Upper Yukon-Porcupine.
+        Biorka, Aleutian.
 
-            Brevig Mission, Bering Strait.
+        Birch Creek, Upper Yukon-Porcupine.
 
-            Buckland, Bering Strait.
+        Brevig Mission, Bering Strait.
 
-            Candle, Bering Strait.
+        Buckland, Bering Strait.
 
-            Cantwell, Tanana.
+        Candle, Bering Strait.
 
-            Canyon Village, Upper Yukon-Porcupine.
+        Cantwell, Tanana.
 
-            Chalkyitsik, Upper Yukon-Porcupine.
+        Canyon Village, Upper Yukon-Porcupine.
 
-            Chanilut, Southwest Coastal Lowland.
+        Chalkyitsik, Upper Yukon-Porcupine.
 
-            Cherfornak, Southwest Coastal Lowland.
+        Chanilut, Southwest Coastal Lowland.
 
-            Chevak, Southwest Coastal Lowland.
+        Cherfornak, Southwest Coastal Lowland.
 
-            Chignik, Kodiak.
+        Chevak, Southwest Coastal Lowland.
 
-            Chignik Lagoon, Kodiak.
+        Chignik, Kodiak.
 
-            Chignik Lake, Kodiak.
+        Chignik Lagoon, Kodiak.
 
-            Chistochina, Copper River.
+        Chignik Lake, Kodiak.
 
-            Chitina, Copper River.
+        Chistochina, Copper River.
 
-            Chukwuktoligamute, Southwest Coastal Lowland.
+        Chitina, Copper River.
 
-            Circle, Upper Yukon-Porcupine.
+        Chukwuktoligamute, Southwest Coastal Lowland.
 
-            Clark’s Point, Bristol Bay.
+        Circle, Upper Yukon-Porcupine.
 
-            Copper Center, Copper River.
+        Clark’s Point, Bristol Bay.
 
-            Crooked Creek, Upper Kuskokwim.
+        Copper Center, Copper River.
 
-            Deering, Bering Strait.
+        Crooked Creek, Upper Kuskokwim.
 
-            Dillingham, Bristol Bay.
+        Deering, Bering Strait.
 
-            Dot Lake, Tanana.
+        Dillingham, Bristol Bay.
 
-            Eagle, Upper Yukon-Porcupine.
+        Dot Lake, Tanana.
 
-            Eek, Southwest Coastal Lowland.
+        Eagle, Upper Yukon-Porcupine.
 
-            Egegik, Bristol Bay.
+        Eek, Southwest Coastal Lowland.
 
-            Eklutna, Cook Inlet.
+        Egegik, Bristol Bay.
 
-            Ekuk, Bristol Bay.
+        Eklutna, Cook Inlet.
 
-            Ekwok, Bristol Bay.
+        Ekuk, Bristol Bay.
 
-            Elim, Bering Strait.
+        Ekwok, Bristol Bay.
 
-            Emmonak, Southwest Coastal Lowland.
+        Elim, Bering Strait.
 
-            English Bay, Cook Inlet.
+        Emmonak, Southwest Coastal Lowland.
 
-            False Pass, Aleutian.
+        English Bay, Cook Inlet.
 
-            Fort Yukon, Upper Yukon-Porcupine.
+        False Pass, Aleutian.
 
-            Gakona, Copper River.
+        Fort Yukon, Upper Yukon-Porcupine.
 
-            Galena, Koyukuk-Lower Yukon.
+        Gakona, Copper River.
 
-            Gambell, Bering Sea.
+        Galena, Koyukuk-Lower Yukon.
 
-            Georgetown, Upper Kuskokwim.
+        Gambell, Bering Sea.
 
-            Golovin, Bering Strait.
+        Georgetown, Upper Kuskokwim.
 
-            Goodnews Bay, Southwest Coastal Lowland.
+        Golovin, Bering Strait.
 
-            Grayling, Koyukuk-Lower Yukon.
+        Goodnews Bay, Southwest Coastal Lowland.
 
-            Gulkana, Copper River.
+        Grayling, Koyukuk-Lower Yukon.
 
-            Hamilton, Southwest Coastal Lowland.
+        Gulkana, Copper River.
 
-            Holy Cross, Koyukuk-Lower Yukon.
+        Hamilton, Southwest Coastal Lowland.
 
-            Hooper Bay, Southwest Coastal Lowland.
+        Holy Cross, Koyukuk-Lower Yukon.
 
-            Hughes, Koyukuk-Lower Yukon.
+        Hooper Bay, Southwest Coastal Lowland.
 
-            Huslia, Koyukuk-Lower Yukon.
+        Hughes, Koyukuk-Lower Yukon.
 
-            Igiugig, Bristol Bay.
+        Huslia, Koyukuk-Lower Yukon.
 
-            Iliamna, Cook Inlet.
+        Igiugig, Bristol Bay.
 
-            Inalik, Bering Strait.
+        Iliamna, Cook Inlet.
 
-            Ivanof Bay, Aleutian.
+        Inalik, Bering Strait.
 
-            Kaguyak, Kodiak.
+        Ivanof Bay, Aleutian.
 
-            Katovik, Arctic Slope.
+        Kaguyak, Kodiak.
 
-            Kalskag, Southwest Coastal Lowland.
+        Katovik, Arctic Slope.
 
-            Kaltag, Koyukuk-Lower Yukon.
+        Kalskag, Southwest Coastal Lowland.
 
-            Karluk, Kodiak.
+        Kaltag, Koyukuk-Lower Yukon.
 
-            Kasigluk, Southwest Coastal Lowland.
+        Karluk, Kodiak.
 
-            Kiana, Bering Strait.
+        Kasigluk, Southwest Coastal Lowland.
 
-            King Cove, Aleutian.
+        Kiana, Bering Strait.
 
-            Kipnuk, Southeast Coastal Lowland.
+        King Cove, Aleutian.
 
-            Kivalina, Bering Strait.
+        Kipnuk, Southeast Coastal Lowland.
 
-            Kobuk, Bering Strait.
+        Kivalina, Bering Strait.
 
-            Kokhanok, Bristol Bay.
+        Kobuk, Bering Strait.
 
-            Koliganek, Bristol Bay.
+        Kokhanok, Bristol Bay.
 
-            Kongiganak, Southwest Coastal Lowland.
+        Koliganek, Bristol Bay.
 
-            Kotlik, Southwest Coastal Lowland.
+        Kongiganak, Southwest Coastal Lowland.
 
-            Kotzebue, Bering Strait.
+        Kotlik, Southwest Coastal Lowland.
 
-            Koyuk, Bering Strait.
+        Kotzebue, Bering Strait.
 
-            Koyukuk, Koyukuk-Lower Yukon.
+        Koyuk, Bering Strait.
 
-            Kwethluk, Southwest Coastal Lowland.
+        Koyukuk, Koyukuk-Lower Yukon.
 
-            Kwigillingok, Southwest Coastal Lowland.
+        Kwethluk, Southwest Coastal Lowland.
 
-            Larsen Bay, Kodiak.
+        Kwigillingok, Southwest Coastal Lowland.
 
-            Levelock, Bristol Bay.
+        Larsen Bay, Kodiak.
 
-            Lime Village, Upper Kuskokwim.
+        Levelock, Bristol Bay.
 
-            Lower Kalskag, Southwest Coastal Lowland.
+        Lime Village, Upper Kuskokwim.
 
-            McGrath, Upper Kuskokwim.
+        Lower Kalskag, Southwest Coastal Lowland.
 
-            Makok, Koyukuk-Lower Yukon.
+        McGrath, Upper Kuskokwim.
 
-            Manley Hot Springs, Tanana.
+        Makok, Koyukuk-Lower Yukon.
 
-            Manokotak, Bristol Bay.
+        Manley Hot Springs, Tanana.
 
-            Marshall, Southwest Coastal Lowland.
+        Manokotak, Bristol Bay.
 
-            Mary’s Igloo, Bering Strait.
+        Marshall, Southwest Coastal Lowland.
 
-            Medfra, Upper Kuskokwim.
+        Mary’s Igloo, Bering Strait.
 
-            Mekoryuk, Southwest Coastal Lowland.
+        Medfra, Upper Kuskokwim.
 
-            Mentasta Lake, Copper River.
+        Mekoryuk, Southwest Coastal Lowland.
 
-            Minchumina Lake, Upper Kuskokwim.
+        Mentasta Lake, Copper River.
 
-            Minto, Tanana.
+        Minchumina Lake, Upper Kuskokwim.
 
-            Mountain Village, Southwest Coastal Lowland.
+        Minto, Tanana.
 
-            Nabesna Village, Tranana.
+        Mountain Village, Southwest Coastal Lowland.
 
-            Naknek, Bristol Bay.
+        Nabesna Village, Tranana.
 
-            Napaimute, Upper Kuskokwim.
+        Naknek, Bristol Bay.
 
-            Napakiak, Southwest Coastal Lowland.
+        Napaimute, Upper Kuskokwim.
 
-            Napaskiak, Southwest Coastal Lowland.
+        Napakiak, Southwest Coastal Lowland.
 
-            Nelson Lagoon, Aleutian.
+        Napaskiak, Southwest Coastal Lowland.
 
-            Nenana, Tanana.
+        Nelson Lagoon, Aleutian.
 
-            Newhalen, Cook Inlet.
+        Nenana, Tanana.
 
-            New Stuyahok, Bristol Bay.
+        Newhalen, Cook Inlet.
 
-            Newtok, Southwest Coastal Lowland.
+        New Stuyahok, Bristol Bay.
 
-            Nightmute, Southwest Coastal Lowland.
+        Newtok, Southwest Coastal Lowland.
 
-            Nikolai, Upper Kuskokwim.
+        Nightmute, Southwest Coastal Lowland.
 
-            Nikolski, Aleutian.
+        Nikolai, Upper Kuskokwim.
 
-            Ninilchik, Cook Inlet.
+        Nikolski, Aleutian.
 
-            Noatak, Bering Strait.
+        Ninilchik, Cook Inlet.
 
-            Nome, Bering Strait.
+        Noatak, Bering Strait.
 
-            Nondalton, Cook Inlet.
+        Nome, Bering Strait.
 
-            Nooiksut, Arctic Slope.
+        Nondalton, Cook Inlet.
 
-            Noorvik, Bering Strait.
+        Nooiksut, Arctic Slope.
 
-            Northeast Cape, Bering Sea.
+        Noorvik, Bering Strait.
 
-            Northway, Tanana.
+        Northeast Cape, Bering Sea.
 
-            Nulato, Koyukuk-Lower Yukon.
+        Northway, Tanana.
 
-            Nunapitchuk, Southwest Coastal Lowland.
+        Nulato, Koyukuk-Lower Yukon.
 
-            Ohogamiut, Southwest Coastal Lowland.
+        Nunapitchuk, Southwest Coastal Lowland.
 
-            Old Harbor, Kodiak.
+        Ohogamiut, Southwest Coastal Lowland.
 
-            Oscarville, Southwest Coastal Lowland.
+        Old Harbor, Kodiak.
 
-            Ouzinkie, Kodiak.
+        Oscarville, Southwest Coastal Lowland.
 
-            Paradise, Koyukuk-Lower Yukon.
+        Ouzinkie, Kodiak.
 
-            Pauloff Harbor, Aleutian.
+        Paradise, Koyukuk-Lower Yukon.
 
-            Pedro Bay, Cook Inlet.
+        Pauloff Harbor, Aleutian.
 
-            Perryville, Kodiak.
+        Pedro Bay, Cook Inlet.
 
-            Pilot Point, Bristol Bay.
+        Perryville, Kodiak.
 
-            Pilot Station, Southwest Coastal Lowland.
+        Pilot Point, Bristol Bay.
 
-            Pitkas Point, Southwest Coastal Lowland.
+        Pilot Station, Southwest Coastal Lowland.
 
-            Platinum, Southwest Coastal Lowland.
+        Pitkas Point, Southwest Coastal Lowland.
 
-            Point Hope, Arctic Slope.
+        Platinum, Southwest Coastal Lowland.
 
-            Point Lay, Arctic Slope.
+        Point Hope, Arctic Slope.
 
-            Portage Creek (Ohgsenakale), Bristol Bay.
+        Point Lay, Arctic Slope.
 
-            Port Graham, Cook Inlet.
+        Portage Creek (Ohgsenakale), Bristol Bay.
 
-            Port Heiden (Meshick), Aleutian.
+        Port Graham, Cook Inlet.
 
-            Port Lions, Kodiak.
+        Port Heiden (Meshick), Aleutian.
 
-            Quinhagak, Southwest Coastal Lowland.
+        Port Lions, Kodiak.
 
-            Rampart, Upper Yukon-Porcupine.
+        Quinhagak, Southwest Coastal Lowland.
 
-            Red Devil, Upper Kuskokwim.
+        Rampart, Upper Yukon-Porcupine.
 
-            Ruby, Koyukuk-Lower Yukon.
+        Red Devil, Upper Kuskokwim.
 
-            Russian Mission or Chauthalue (Kuskokwim), Upper Kuskokwim.
+        Ruby, Koyukuk-Lower Yukon.
 
-            Russian Mission (Yukon), Southwest Coastal Lowland.
+        Russian Mission or Chauthalue (Kuskokwim), Upper Kuskokwim.
 
-            St. George, Aleutian.
+        Russian Mission (Yukon), Southwest Coastal Lowland.
 
-            St. Mary’s, Southwest Coastal Lowland.
+        St. George, Aleutian.
 
-            St. Michael, Bering Strait.
+        St. Mary’s, Southwest Coastal Lowland.
 
-            St. Paul, Aleutian.
+        St. Michael, Bering Strait.
 
-            Salamatof, Cook Inlet.
+        St. Paul, Aleutian.
 
-            Sand Point, Aleutian.
+        Salamatof, Cook Inlet.
 
-            Savonoski, Bristol Bay.
+        Sand Point, Aleutian.
 
-            Savoonga, Bering Sea.
+        Savonoski, Bristol Bay.
 
-            Scammon Bay, Southwest Coastal Lowland.
+        Savoonga, Bering Sea.
 
-            Selawik, Bering Strait.
+        Scammon Bay, Southwest Coastal Lowland.
 
-            Seldovia, Cook Inlet.
+        Selawik, Bering Strait.
 
-            Shageluk, Koyukuk-Lower Yukon.
+        Seldovia, Cook Inlet.
 
-            Shaktoolik, Bering Strait.
+        Shageluk, Koyukuk-Lower Yukon.
 
-            Sheldon’s Point, Southwest Coastal Lowland.
+        Shaktoolik, Bering Strait.
 
-            Shishmaref, Bering Strait.
+        Sheldon’s Point, Southwest Coastal Lowland.
 
-            Shungnak, Bering Strait.
+        Shishmaref, Bering Strait.
 
-            Slana, Copper River.
+        Shungnak, Bering Strait.
 
-            Sleetmute, Upper Kuskokwim.
+        Slana, Copper River.
 
-            South Naknek, Bristol Bay.
+        Sleetmute, Upper Kuskokwim.
 
-            Squaw Harbor, Aleutian.
+        South Naknek, Bristol Bay.
 
-            Stebbins, Bering Strait.
+        Squaw Harbor, Aleutian.
 
-            Stevens Village, Upper Yukon-Porcupine.
+        Stebbins, Bering Strait.
 
-            Stony River, Upper Kuskokwim.
+        Stevens Village, Upper Yukon-Porcupine.
 
-            Takotna, Upper Kuskokwim.
+        Stony River, Upper Kuskokwim.
 
-            Tanacross, Tanana.
+        Takotna, Upper Kuskokwim.
 
-            Tanana, Koyukuk-Lower Yukon.
+        Tanacross, Tanana.
 
-            Tatilek, Chugach.
+        Tanana, Koyukuk-Lower Yukon.
 
-            Tazlina, Copper River.
+        Tatilek, Chugach.
 
-            Telida, Upper Kuskokwim.
+        Tazlina, Copper River.
 
-            Teller, Bering Strait.
+        Telida, Upper Kuskokwim.
 
-            Tetlin, Tanana.
+        Teller, Bering Strait.
 
-            Togiak, Bristol Bay.
+        Tetlin, Tanana.
 
-            Toksook Bay, Southwest Coastal Lowland.
+        Togiak, Bristol Bay.
 
-            Tulusak, Southwest Coastal Lowland.
+        Toksook Bay, Southwest Coastal Lowland.
 
-            Tuntutuliak, Southwest Coastal Lowland.
+        Tulusak, Southwest Coastal Lowland.
 
-            Tununak, Southwest Coastal Lowland.
+        Tuntutuliak, Southwest Coastal Lowland.
 
-            Twin Hills, Bristol Bay.
+        Tununak, Southwest Coastal Lowland.
 
-            Tyonek, Cook Inlet.
+        Twin Hills, Bristol Bay.
 
-            Ugashik, Bristol Bay.
+        Tyonek, Cook Inlet.
 
-            Unalakleet, Bering Strait.
+        Ugashik, Bristol Bay.
 
-            Unalaska, Aleutian.
+        Unalakleet, Bering Strait.
 
-            Unga, Aleutian.
+        Unalaska, Aleutian.
 
-            Uyak, Kodiak.
+        Unga, Aleutian.
 
-            Venetie, Upper Yukon-Porcupine.
+        Uyak, Kodiak.
 
-            Wainwright, Arctic Slope.
+        Venetie, Upper Yukon-Porcupine.
 
-            Wales, Bering Strait.
+        Wainwright, Arctic Slope.
 
-            White Mountain, Bering Strait.
+        Wales, Bering Strait.
+
+        White Mountain, Bering Strait.
 
         (2)
 
