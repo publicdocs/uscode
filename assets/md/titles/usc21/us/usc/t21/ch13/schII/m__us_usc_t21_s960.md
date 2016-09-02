@@ -19,7 +19,7 @@
 
     Any person who—
 
-        (1) contrary to section 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
+        (1) contrary to section 825, 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
 
         (2) contrary to [section 955 of this title][/us/usc/t21/s955], knowingly or intentionally brings or possesses on board a vessel, aircraft, or vehicle a controlled substance, or
 
@@ -125,7 +125,7 @@
 
         shall be fined in accordance with title 18, imprisoned not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical, or both.
 
-([Pub. L. 91–513, title III, § 1010][/us/pl/91/513/s1010], Oct. 27, 1970, [84 Stat. 1290][/us/stat/84/1290]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 225, formerly § 225(a), 504, Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030], 2070; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–15, 3207–55; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6053(c), 6475, Nov. 18, 1988, [102 Stat. 4315][/us/stat/102/4315], 4380; [Pub. L. 101–647, title XII, § 1204][/us/pl/101/647/s1204], title XXXV, § 3599J, Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830], 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 4(b), 5(b), Dec. 17, 1993, [107 Stat. 2338][/us/stat/107/2338], 2339; [Pub. L. 103–322, title IX, § 90105(a)][/us/pl/103/322/s90105/a], title XXXIII, § 330024(d)(2), Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987], 2151; [Pub. L. 104–237, title I, § 102(c)][/us/pl/104/237/s102/c], title III, § 302(b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], 3105; [Pub. L. 104–305, § 2(b)(2)(B)][/us/pl/104/305/s2/b/2/B], (C), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807]; [Pub. L. 105–277, div. E, § 2(b)][/us/pl/105/277/s2/b], Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759]; [Pub. L. 106–172, § 3(b)(2)][/us/pl/106/172/s3/b/2], Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9]; [Pub. L. 107–273, div. B, title III, § 3005(b)][/us/pl/107/273/s3005/b], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 716(b)(1)(A), 717, Mar. 9, 2006, [120 Stat. 267][/us/stat/120/267]; [Pub. L. 110–425, § 3(i)][/us/pl/110/425/s3/i], Oct. 15, 2008, [122 Stat. 4832][/us/stat/122/4832]; [Pub. L. 111–220][/us/pl/111/220], §§ 2(b), 4(b), Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372].)
+([Pub. L. 91–513, title III, § 1010][/us/pl/91/513/s1010], Oct. 27, 1970, [84 Stat. 1290][/us/stat/84/1290]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 225, formerly § 225(a), 504, Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030], 2070; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–15, 3207–55; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6053(c), 6475, Nov. 18, 1988, [102 Stat. 4315][/us/stat/102/4315], 4380; [Pub. L. 101–647, title XII, § 1204][/us/pl/101/647/s1204], title XXXV, § 3599J, Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830], 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 4(b), 5(b), Dec. 17, 1993, [107 Stat. 2338][/us/stat/107/2338], 2339; [Pub. L. 103–322, title IX, § 90105(a)][/us/pl/103/322/s90105/a], title XXXIII, § 330024(d)(2), Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987], 2151; [Pub. L. 104–237, title I, § 102(c)][/us/pl/104/237/s102/c], title III, § 302(b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], 3105; [Pub. L. 104–305, § 2(b)(2)(B)][/us/pl/104/305/s2/b/2/B], (C), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807]; [Pub. L. 105–277, div. E, § 2(b)][/us/pl/105/277/s2/b], Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759]; [Pub. L. 106–172, § 3(b)(2)][/us/pl/106/172/s3/b/2], Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9]; [Pub. L. 107–273, div. B, title III, § 3005(b)][/us/pl/107/273/s3005/b], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 716(b)(1)(A), 717, Mar. 9, 2006, [120 Stat. 267][/us/stat/120/267]; [Pub. L. 110–425, § 3(i)][/us/pl/110/425/s3/i], Oct. 15, 2008, [122 Stat. 4832][/us/stat/122/4832]; [Pub. L. 111–220][/us/pl/111/220], §§ 2(b), 4(b), Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372]; [Pub. L. 113–260, § 3(b)][/us/pl/113/260/s3/b], Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
 
  __References in Text__ 
 
@@ -134,6 +134,8 @@
     Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibition Act of 2000, referred to in subsec. (b)(3), is [section 3(a)(1)(B) of Pub. L. 106–172][/us/pl/106/172/s3/a/1/B], which is set out in a note under [section 812 of this title][/us/usc/t21/s812].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–260][/us/pl/113/260] inserted “825,” before “952”.
 
     2010—Subsec. (b)(1). [Pub. L. 111–220, § 4(b)(1)][/us/pl/111/220/s4/b/1], in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
@@ -324,9 +326,12 @@
 [/us/stat/122/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4832
 [/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
 [/us/stat/124/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2372
+[/us/pl/113/260/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fb
+[/us/stat/128/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2931
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/106/172/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs3%2Fa%2F1%2FB
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/111/220/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs4%2Fb%2F1
 [/us/pl/111/220/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs2%2Fb%2F1
 [/us/pl/111/220/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs4%2Fb%2F2

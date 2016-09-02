@@ -51,9 +51,11 @@
 
         (13) who is a regulated seller to knowingly or recklessly sell at retail a scheduled listed chemical product in violation of subsection (e) of such section;
 
-        (14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of [section 830(e)(1) of this title][/us/usc/t21/s830/e/1], information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities; or
+        (14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of [section 830(e)(1) of this title][/us/usc/t21/s830/e/1], information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities;
 
-        (15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title][/us/usc/t21/s830/b/3/B], unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v].
+        (15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title][/us/usc/t21/s830/b/3/B], unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v]; or
+
+        (16) to violate subsection (e) of [section 825 of this title][/us/usc/t21/s825]. <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
         As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v], the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v].
 
@@ -69,9 +71,13 @@
 
         (1)
 
-            (A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with [section 1355 of title 28][/us/usc/t28/s1355] to enforce this paragraph.
+            (A) Except as provided in subparagraph (B), (C), or (D) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with [section 1355 of title 28][/us/usc/t28/s1355] to enforce this paragraph.
 
             (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
+
+            (C) In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
+
+            (D) In the case of a distribution, dispensing, or possession with intent to distribute or dispense in violation of paragraph (16) of subsection (a) of this section at the retail level, up to $1000 per violation. For purposes of this paragraph, the term “at the retail level” refers to products sold, or held for sale, directly to the consumer for personal use. Each package, container or other separate unit containing an anabolic steroid that is distributed, dispensed, or possessed with intent to distribute or dispense at the retail level in violation of such paragraph (16) of subsection (a) shall be considered a separate violation.
 
         (2)
 
@@ -89,13 +95,21 @@
 
             (B) An order under subparagraph (A) may be imposed only through the same procedures as apply under [section 824(c) of this title][/us/usc/t21/s824/c] for an order to show cause.
 
-([Pub. L. 91–513, title II, § 402][/us/pl/91/513/s402], Oct. 27, 1970, [84 Stat. 1262][/us/stat/84/1262]; [Pub. L. 95–633, title II, § 202(b)(1)][/us/pl/95/633/s202/b/1], (2), Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776]; [Pub. L. 100–690, title VI, § 6056][/us/pl/100/690/s6056], Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318]; [Pub. L. 104–237, title II, § 205][/us/pl/104/237/s205], Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 107–273, div. B, title IV, § 4002(b)(16)][/us/pl/107/273/s4002/b/16], (d)(2)(B), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, [120 Stat. 262–264][/us/stat/120/262-264]; [Pub. L. 111–268][/us/pl/111/268], §§ 4, 5, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], 2848.)
+([Pub. L. 91–513, title II, § 402][/us/pl/91/513/s402], Oct. 27, 1970, [84 Stat. 1262][/us/stat/84/1262]; [Pub. L. 95–633, title II, § 202(b)(1)][/us/pl/95/633/s202/b/1], (2), Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776]; [Pub. L. 100–690, title VI, § 6056][/us/pl/100/690/s6056], Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318]; [Pub. L. 104–237, title II, § 205][/us/pl/104/237/s205], Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 107–273, div. B, title IV, § 4002(b)(16)][/us/pl/107/273/s4002/b/16], (d)(2)(B), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, [120 Stat. 262–264][/us/stat/120/262-264]; [Pub. L. 111–268][/us/pl/111/268], §§ 4, 5, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], 2848; [Pub. L. 113–260, § 3(c)][/us/pl/113/260/s3/c], Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
 
  __References in Text__ 
+
+    [Section 825 of this title][/us/usc/t21/s825], referred to in subsec. (a)(16), was so in the original, but probably should have been a reference to [section 305 of Pub. L. 91–513][/us/pl/91/513/s305], which is classified to [section 825 of this title][/us/usc/t21/s825].
 
     Schedules I and II, referred to in subsec. (b), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(16). [Pub. L. 113–260, § 3(c)(1)][/us/pl/113/260/s3/c/1], added par. (16).
+
+    Subsec. (c)(1)(A). [Pub. L. 113–260, § 3(c)(2)(A)][/us/pl/113/260/s3/c/2/A], inserted “, (C), or (D)” after “subparagraph (B)”.
+
+    Subsec. (c)(1)(C), (D). [Pub. L. 113–260, § 3(c)(2)(B)][/us/pl/113/260/s3/c/2/B], added subpars. (C) and (D).
 
     2010—Subsec. (a). [Pub. L. 111–268, § 4(4)][/us/pl/111/268/s4/4], inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v], the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v].” at end of concluding provisions.
 
@@ -171,6 +185,7 @@
 [/us/usc/t21/s830/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1
 [/us/usc/t21/s830/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fb%2F3%2FB
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
+[/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
@@ -194,7 +209,15 @@
 [/us/stat/120/262-264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F262-264
 [/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2847
+[/us/pl/113/260/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc
+[/us/stat/128/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2931
+[/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
+[/us/pl/91/513/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs305
+[/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
+[/us/pl/113/260/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F1
+[/us/pl/113/260/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F2%2FA
+[/us/pl/113/260/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F2%2FB
 [/us/pl/111/268/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs4%2F4
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv

@@ -147,7 +147,27 @@
 
         (6) An order issued under paragraph (1) is not subject to judicial review.
 
-([Pub. L. 91–513, title II, § 201][/us/pl/91/513/s201], Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I, § 102(a)][/us/pl/95/633/s102/a], Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358, § 2(b)][/us/pl/108/358/s2/b], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI, § 1153][/us/pl/112/144/s1153], July 9, 2012, [126 Stat. 1132][/us/stat/126/1132].)
+    (i) __Temporary and permanent scheduling of recently emerged anabolic steroids__ 
+
+        (1)
+
+         The Attorney General may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Attorney General finds that—
+
+            (A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under [section 802(41) of this title][/us/usc/t21/s802/41] but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
+
+            (B) adding such drug or other substance to the definition of anabolic steroids will assist in preventing abuse or misuse of the drug or other substance.
+
+        (2) An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (6), extend the temporary scheduling order for up to 6 months.
+
+        (3) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
+
+        (4) A temporary scheduling order issued under paragraph (1) shall be vacated upon the issuance of a permanent scheduling order under paragraph (6).
+
+        (5) An order issued under paragraph (1) is not subject to judicial review.
+
+        (6) The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the definition of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under [section 802(41) of this title][/us/usc/t21/s802/41]. Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
+
+([Pub. L. 91–513, title II, § 201][/us/pl/91/513/s201], Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I, § 102(a)][/us/pl/95/633/s102/a], Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358, § 2(b)][/us/pl/108/358/s2/b], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI, § 1153][/us/pl/112/144/s1153], July 9, 2012, [126 Stat. 1132][/us/stat/126/1132]; [Pub. L. 113–260, § 2(b)][/us/pl/113/260/s2/b], Dec. 18, 2014, [128 Stat. 2930][/us/stat/128/2930].)
 
  __References in Text__ 
 
@@ -162,6 +182,8 @@
     This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–260][/us/pl/113/260] added subsec. (i).
 
     2012—Subsec. (h)(2). [Pub. L. 112–144][/us/pl/112/144] substituted “2 years” for “one year” and “1 year” for “six months”.
 
@@ -204,6 +226,8 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
+[/us/usc/t21/s802/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F41
+[/us/usc/t21/s802/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F41
 [/us/pl/91/513/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs201
 [/us/stat/84/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1245
 [/us/pl/95/633/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fa
@@ -216,6 +240,8 @@
 [/us/stat/118/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1663
 [/us/pl/112/144/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1153
 [/us/stat/126/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1132
+[/us/pl/113/260/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fb
+[/us/stat/128/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2930
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
@@ -231,6 +257,7 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/108/358/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb%2F1
 [/us/pl/108/358/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb%2F2

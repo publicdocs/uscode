@@ -411,7 +411,59 @@
 
             (xlviii) tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
 
-            (xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and    (xlx)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(l)”. </sup></sup>  any salt, ester, or ether of a drug or substance described in this paragraph.
+            (xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+
+            (l) 5α-Androstan-3,6,17-trione;
+
+            (li) 6-bromo-androstan-3,17-dione;
+
+            (lii) 6-bromo-androsta-1,4-diene-3,17-dione;
+
+            (liii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+            (liv) 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+
+            (lv) 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+
+            (lvi) 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+
+            (lvii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+            (lviii) 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+
+            (lix) 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+
+            (lx) 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+
+            (lxi) \[3,2-c\]-furazan-5α-androstan-17β-ol;
+
+            (lxii) 3β-hydroxy-estra-4,9,11-trien-17-one;
+
+            (lxiii) 17α-methyl-androst-2-ene-3,17β-diol;
+
+            (lxiv) 17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+            (lxv) Estra-4,9,11-triene-3,17-dione;
+
+            (lxvi) 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+
+            (lxvii) 6α-Methyl-androst-4-ene-3,17-dione;
+
+            (lxviii) 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+
+            (lxix) 17α-Methyl-5α-androstan-17β-ol;
+
+            (lxx) 17β-Hydroxy-androstano\[2,3-d\]isoxazole;
+
+            (lxxi) 17β-Hydroxy-androstano\[3,2-c\]isoxazole;
+
+            (lxxii) 4-Hydroxy-androst-4-ene-3,17-dione\[3,2-c\]pyrazole-5α-androstan-17β-ol;
+
+            (lxxiii) \[3,2-c\]pyrazole-androst-4-en-17β-ol;
+
+            (lxxiv) \[3,2-c\]pyrazole-5α-androstan-17β-ol; and
+
+            (lxxv) any salt, ester, or ether of a drug or substance described in this paragraph.
 
             The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of [section 811 of this title][/us/usc/t21/s811].
 
@@ -420,6 +472,42 @@
             (i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
 
             (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+
+        (C)
+
+            (i)
+
+             Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+
+                (I)
+
+                 the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+
+                    (aa) promotes muscle growth; or
+
+                    (bb) otherwise causes a pharmacological effect similar to that of testosterone; or
+
+                (II) the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+
+            (ii)
+
+             A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
+
+                (I)
+
+                 is—
+
+                    (aa) an herb or other botanical;
+
+                    (bb) a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
+
+                    (cc) a combination of 2 or more substances described in item (aa) or (bb);
+
+                (II) is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.); and
+
+                (III) is not anabolic or androgenic.
+
+            (iii) In accordance with [section 885(a) of this title][/us/usc/t21/s885/a], any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
 
     (42) The term “international transaction” means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
 
@@ -627,7 +715,7 @@
 
         (C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-([Pub. L. 91–513, title II, § 102][/us/pl/91/513/s102], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242]; [Pub. L. 93–281, § 2][/us/pl/93/281/s2], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 102(b)][/us/pl/95/633/s102/b], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–132, § 16(a)][/us/pl/96/132/s16/a], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 98–473, title II, § 507(a)][/us/pl/98/473/s507/a], (b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071]; [Pub. L. 98–509, title III, § 301(a)][/us/pl/98/509/s301/a], Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1003(b), 1203, 1870, Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–13, 3207–56; [Pub. L. 99–646, § 83][/us/pl/99/646/s83], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VI, § 6054][/us/pl/100/690/s6054], Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316]; [Pub. L. 101–647, title XIX, § 1902(b)][/us/pl/101/647/s1902/b], title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], 4858, 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 2(a), 7–9(a), Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], 2340; [Pub. L. 103–322, title IX, § 90105(d)][/us/pl/103/322/s90105/d], title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988], 2150; [Pub. L. 104–237, title II][/us/pl/104/237], §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], 3104, 3106, 3107; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 604(b)(4), 607(j), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], 3512; [Pub. L. 105–115, title I, § 126(c)(3)][/us/pl/105/115/s126/c/3], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(c), 5(a), Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10; [Pub. L. 106–310, div. B, title XXXVI, § 3622(a)][/us/pl/106/310/s3622/a], Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–358, § 2(a)][/us/pl/108/358/s2/a], Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661]; [Pub. L. 109–162, title XI, § 1180][/us/pl/109/162/s1180], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], 257, 263; [Pub. L. 110–425, § 3(a)][/us/pl/110/425/s3/a], Oct. 15, 2008, [122 Stat. 4821][/us/stat/122/4821].)
+([Pub. L. 91–513, title II, § 102][/us/pl/91/513/s102], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242]; [Pub. L. 93–281, § 2][/us/pl/93/281/s2], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 102(b)][/us/pl/95/633/s102/b], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–132, § 16(a)][/us/pl/96/132/s16/a], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 98–473, title II, § 507(a)][/us/pl/98/473/s507/a], (b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071]; [Pub. L. 98–509, title III, § 301(a)][/us/pl/98/509/s301/a], Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1003(b), 1203, 1870, Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–13, 3207–56; [Pub. L. 99–646, § 83][/us/pl/99/646/s83], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VI, § 6054][/us/pl/100/690/s6054], Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316]; [Pub. L. 101–647, title XIX, § 1902(b)][/us/pl/101/647/s1902/b], title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], 4858, 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 2(a), 7–9(a), Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], 2340; [Pub. L. 103–322, title IX, § 90105(d)][/us/pl/103/322/s90105/d], title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988], 2150; [Pub. L. 104–237, title II][/us/pl/104/237], §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], 3104, 3106, 3107; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 604(b)(4), 607(j), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], 3512; [Pub. L. 105–115, title I, § 126(c)(3)][/us/pl/105/115/s126/c/3], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(c), 5(a), Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10; [Pub. L. 106–310, div. B, title XXXVI, § 3622(a)][/us/pl/106/310/s3622/a], Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–358, § 2(a)][/us/pl/108/358/s2/a], Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661]; [Pub. L. 109–162, title XI, § 1180][/us/pl/109/162/s1180], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], 257, 263; [Pub. L. 110–425, § 3(a)][/us/pl/110/425/s3/a], Oct. 15, 2008, [122 Stat. 4821][/us/stat/122/4821]; [Pub. L. 113–260, § 2(a)][/us/pl/113/260/s2/a], Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929].)
 
  __References in Text__ 
 
@@ -637,11 +725,17 @@
 
     Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-    The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
+    The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
+
+    This chapter, referred to in par. (41)(C)(i), was in the original “this Act”, meaning [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236]. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
     The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
  __Amendments__ 
+
+    2014—Par. (41)(A)(l) to (lxxv). [Pub. L. 113–260, § 2(a)(1)][/us/pl/113/260/s2/a/1], added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
+
+    Par. (41)(C). [Pub. L. 113–260, § 2(a)(2)][/us/pl/113/260/s2/a/2], added subpar. (C).
 
     2008—Pars. (50) to (56). [Pub. L. 110–425][/us/pl/110/425] added pars. (50) to (56).
 
@@ -974,6 +1068,8 @@
 [/us/usc/t21/s830/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fb%2F3
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/usc/t21/s885/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs885%2Fa
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fa
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
@@ -1049,6 +1145,8 @@
 [/us/stat/120/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F256
 [/us/pl/110/425/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fa
 [/us/stat/122/4821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4821
+[/us/pl/113/260/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa
+[/us/stat/128/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2929
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
@@ -1058,9 +1156,14 @@
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/pl/113/260/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa%2F1
+[/us/pl/113/260/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa%2F2
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/109/177/s712/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F1%2FA%2Fi
 [/us/pl/109/177/s712/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F1%2FA%2Fii

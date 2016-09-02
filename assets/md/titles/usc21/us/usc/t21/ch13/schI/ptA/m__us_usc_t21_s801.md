@@ -57,6 +57,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–260, § 1][/us/pl/113/260/s1], Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929], provided that: 
+
+> “This Act \[amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under [section 825 of this title][/us/usc/t21/s825]\] may be cited as the ‘Designer Anabolic Steroid Control Act of 2014’.”
+
 [Pub. L. 113–143, § 1][/us/pl/113/143/s1], Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750], provided that: 
 
 > “This Act \[amending [section 822 of this title][/us/usc/t21/s822]\] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
@@ -759,6 +763,9 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
+[/us/pl/113/260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs1
+[/us/stat/128/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2929
+[/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/pl/113/143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143%2Fs1
 [/us/stat/128/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1750
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
