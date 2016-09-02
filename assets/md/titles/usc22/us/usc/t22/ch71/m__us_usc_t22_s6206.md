@@ -71,6 +71,12 @@
 
 >     The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 
+\[[Pub. L. 113–235, div. J, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2580][/us/stat/128/2580], provided in part: 
+
+> “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 ([Public Law 107–228][/us/pl/107/228]; [22 U.S.C. 6206][/us/usc/t22/s6206] note) shall remain in effect through September 30, 2015”
+
+.\]
+
 \[[Pub. L. 113–76, div. K, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 471][/us/stat/128/471], provided in part: 
 
 > “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 ([Public Law 107–228][/us/pl/107/228]; [22 U.S.C. 6206][/us/usc/t22/s6206] note) shall remain in effect through September 30, 2014”
@@ -121,6 +127,10 @@
 [/us/stat/121/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2330
 [/us/pl/110/321/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321%2Fs5
 [/us/stat/122/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3536
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2580
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/usc/t22/s6206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6206
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F471
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228

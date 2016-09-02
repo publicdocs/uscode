@@ -189,7 +189,7 @@ Sec. 8. Waivers. (a) It is hereby determined that the performance by any departm
 
     (9) Sections 302–305 of the Federal Property and Administrative Services Act of 1949 (June 30, 1949, c. 288, [63 Stat. 393][/us/stat/63/393] et seq.), as amended ([41 U.S.C. 252–255][/us/usc/t41/s252–255]) (competitive bids; negotiated contracts; advances).
 
-    (10) [Section 87 of the Act of January 12, 1895][/us/act/1895-01-12/s87], c. 23, [28 Stat. 622][/us/stat/28/622], and the second proviso of [Section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11], c. 86, [40 Stat. 1270][/us/stat/40/1270], as amended ([44 U.S.C. 111][/us/usc/t44/s111]) \[[section 501 of Title 44][/us/usc/t44/s501], Public Printing and Documents\] to the extent that they pertain to printing by the Government Printing Office.
+    (10) [Section 87 of the Act of January 12, 1895][/us/act/1895-01-12/s87], c. 23, [28 Stat. 622][/us/stat/28/622], and the second proviso of [Section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11], c. 86, [40 Stat. 1270][/us/stat/40/1270], as amended ([44 U.S.C. 111][/us/usc/t44/s111]) \[[section 501 of Title 44][/us/usc/t44/s501], Public Printing and Documents\] to the extent that they pertain to printing by the Government Printing Office \[now Government Publishing Office\].
 
     (11) [Section 1 of the Act of June 20, 1978][/us/act/1978-06-20/s1], c. 359, [20 Stat. 216][/us/stat/20/216], as amended ([44 U.S.C. 322][/us/usc/t44/s322]) \[[section 3703 of Title 44][/us/usc/t44/s3703]\] (advertising).
 

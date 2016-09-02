@@ -157,6 +157,28 @@
 
                               William J. Clinton.
 
+ __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries__ 
+
+[Pub. L. 113–293, title III, § 314][/us/pl/113/293/s314], Dec. 19, 2014, [128 Stat. 4002][/us/stat/128/4002], provided that:
+
+>     “(a)  __Sensitive Compartmented Information Facility Requirement__  __.—__ 
+
+>     Each United States diplomatic facility that, after the date of the enactment of this Act \[Dec. 19, 2014\], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member of the Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility.
+
+>     “(b)  __National Security Waiver__  __.—__ 
+
+>     The Secretary of State may waive the requirement under subsection (a) if the Secretary determines that such waiver is in the national security interest of the United States and submits a written justification to the appropriate congressional committees not later than 180 days before exercising such waiver.
+
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\];
+
+>         “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+>         “(3) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
+
  __Capital Security Cost Sharing__ 
 
 [Pub. L. 109–364, div. A, title III, § 357][/us/pl/109/364/s357], Oct. 17, 2006, [120 Stat. 2163][/us/stat/120/2163], provided that:
@@ -296,6 +318,8 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
+[/us/pl/113/293/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs314
+[/us/stat/128/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4002
 [/us/pl/109/364/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs357
 [/us/stat/120/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2163
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

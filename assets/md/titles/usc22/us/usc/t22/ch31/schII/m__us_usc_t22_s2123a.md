@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated to the Secretary of Commerce for fiscal years 2010 through 2014 such sums as may be necessary to carry out this section.
 
-([Pub. L. 87–63, title II, § 203][/us/pl/87/63/s203], as added [Pub. L. 111–145, § 9(h)][/us/pl/111/145/s9/h], Mar. 4, 2010, [124 Stat. 64][/us/stat/124/64].)
+([Pub. L. 87–63, title II, § 203][/us/pl/87/63/s203], as added [Pub. L. 111–145, § 9(j)][/us/pl/111/145/s9/j], formerly § 9(h), Mar. 4, 2010, [124 Stat. 64][/us/stat/124/64]; renumbered 9(j), [Pub. L. 113–235, div. B, title VI, § 606(1)][/us/pl/113/235/s606/1], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219].)
 
  __Prior Provisions__ 
 
@@ -61,8 +61,10 @@
 [/us/usc/t22/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2131
 [/us/usc/t22/s2123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2123%2Fd
 [/us/pl/87/63/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs203
-[/us/pl/111/145/s9/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fh
+[/us/pl/111/145/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fj
 [/us/stat/124/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F64
+[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
+[/us/stat/128/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2219
 [/us/pl/87/63/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs203
 [/us/pl/102/372/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs8%2Fa
 [/us/stat/106/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1177

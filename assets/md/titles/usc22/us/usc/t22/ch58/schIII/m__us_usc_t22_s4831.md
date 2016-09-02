@@ -87,11 +87,13 @@
 
  __Continuation of Review Boards for Facilities in Afghanistan and Iraq__ 
 
-[Pub. L. 113–76, div. K, title VII, § 7034(m)(2)][/us/pl/113/76/s7034/m/2], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515], provided that: 
+[Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(2), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625], provided that: 
 
-> “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)][/us/usc/t22/s4831/a/3]) shall remain in effect for facilities in Afghanistan through September 30, 2014, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+> “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)][/us/usc/t22/s4831/a/3]) shall remain in effect for facilities in Afghanistan through September 30, 2015, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
 Prior continuations were contained in the following prior acts:
+
+    [Pub. L. 113–76, div. K, title VII, § 7034(m)(2)][/us/pl/113/76/s7034/m/2], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
 
     [Pub. L. 112–74, div. I, title VII, § 7034(m)(2)][/us/pl/112/74/s7034/m/2], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
@@ -121,9 +123,11 @@ Prior continuations were contained in the following prior acts:
 [/us/pl/109/140/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs3%2F2
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/113/235/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034
+[/us/stat/128/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2625
+[/us/usc/t22/s4831/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4831%2Fa%2F3
 [/us/pl/113/76/s7034/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F2
 [/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
-[/us/usc/t22/s4831/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4831%2Fa%2F3
 [/us/pl/112/74/s7034/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F2
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
 [/us/pl/111/117/s7034/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7034%2Fr

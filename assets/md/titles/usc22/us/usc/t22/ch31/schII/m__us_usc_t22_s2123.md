@@ -57,7 +57,7 @@
 
         Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Foreign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office’s work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
 
-([Pub. L. 87–63, title II, § 202][/us/pl/87/63/s202], as added [Pub. L. 111–145, § 9(g)][/us/pl/111/145/s9/g], Mar. 4, 2010, [124 Stat. 63][/us/stat/124/63].)
+([Pub. L. 87–63, title II, § 202][/us/pl/87/63/s202], as added [Pub. L. 111–145, § 9(i)][/us/pl/111/145/s9/i], formerly § 9(g), Mar. 4, 2010, [124 Stat. 63][/us/stat/124/63]; renumbered 9(i), [Pub. L. 113–235, div. B, title VI, § 606(1)][/us/pl/113/235/s606/1], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219].)
 
  __References in Text__ 
 
@@ -75,8 +75,10 @@
 ----------
 
 [/us/pl/87/63/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs202
-[/us/pl/111/145/s9/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fg
+[/us/pl/111/145/s9/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fi
 [/us/stat/124/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F63
+[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
+[/us/stat/128/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2219
 [/us/usc/t22/s2131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2131%2Fb
 [/us/pl/87/63/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs202
 [/us/stat/75/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F130

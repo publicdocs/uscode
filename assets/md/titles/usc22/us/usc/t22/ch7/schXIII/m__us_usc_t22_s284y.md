@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284x.md) | [Next](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_ch7_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs284y)
+[Previous](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284x.md) | [Next](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284z.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs284y)
 
 ## § 284y. Multilateral debt relief
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284x.md) | [Next](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_ch7_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs284y)
+[Previous](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284x.md) | [Next](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284z.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs284y)
 
 ----------
 ----------

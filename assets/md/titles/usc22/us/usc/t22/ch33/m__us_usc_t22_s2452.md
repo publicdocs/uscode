@@ -137,7 +137,7 @@
 
     [Pub. L. 110–83][/us/pl/110/83], Sept. 20, 2007, [121 Stat. 781][/us/stat/121/781], authorized establishment of a United States-Poland parliamentary youth exchange program.
 
-    [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–254, as amended by [Pub. L. 107–228, div. A, title II, § 227][/us/pl/107/228/s227], Sept. 30, 2002, [116 Stat. 1369][/us/stat/116/1369], known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
+    [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–254, as amended by [Pub. L. 107–228, div. A, title II, § 227][/us/pl/107/228/s227], Sept. 30, 2002, [116 Stat. 1369][/us/stat/116/1369]; [Pub. L. 113–235, div. J, title VII, § 7085][/us/pl/113/235/s7085], Dec. 16, 2014, [128 Stat. 2685][/us/stat/128/2685], known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
     [Pub. L. 104–319, title I, § 103][/us/pl/104/319/s103], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865], as amended by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIV, § 2415, Oct. 21, 1998, [112 Stat. 2681–834][/us/stat/112/2681-834]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 401\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–445; [Pub. L. 107–228, div. A, title II, § 222][/us/pl/107/228/s222], Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
@@ -236,6 +236,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/228/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs227
 [/us/stat/116/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1369
+[/us/pl/113/235/s7085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7085
+[/us/stat/128/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2685
 [/us/pl/104/319/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2Fs103
 [/us/stat/110/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3865
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

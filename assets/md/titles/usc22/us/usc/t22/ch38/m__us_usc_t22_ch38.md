@@ -195,7 +195,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2660" data-uslm-ref="/us/usc/t22/s2660">2660.</a>  </td>
 
-    <td> Copies of treaties furnished to Public Printer.  </td>
+    <td> Copies of treaties furnished to Director of the Government Publishing Office.  </td>
 
   </tr>
 

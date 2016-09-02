@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptII/m__us_usc_t22_ch32_schI_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h)
 
 ## § 2152h. Assistance to provide safe water, sanitation, and hygiene
 
@@ -527,7 +527,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptII/m__us_usc_t22_ch32_schI_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h)
 
 ----------
 ----------

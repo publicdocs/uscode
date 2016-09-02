@@ -85,6 +85,12 @@
 
 > “The amendments made by this Act \[see Short Title of 1981 Amendment note below\] shall take effect October 1, 1981.”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. B, title VI, § 601][/us/pl/113/235/s601], Dec. 16, 2014, [128 Stat. 2218][/us/stat/128/2218], provided that: 
+
+> “This title \[amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality\] may be cited as the “Travel Promotion, Enhancement, and Modernization Act of 2014”.
+
  __Short Title of 1996 Amendment__ 
 
 [Pub. L. 104–288, § 1][/us/pl/104/288/s1], Oct. 11, 1996, [110 Stat. 3402][/us/stat/110/3402], provided that: 
@@ -283,6 +289,9 @@
 [/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/pl/97/63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs6
 [/us/stat/95/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1018
+[/us/pl/113/235/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs601
+[/us/stat/128/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2218
+[/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
 [/us/pl/104/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs1
 [/us/stat/110/3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3402
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727

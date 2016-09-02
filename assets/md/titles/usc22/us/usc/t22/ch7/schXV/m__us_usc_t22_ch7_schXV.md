@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_s285ee.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXV)
+[Previous](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_s285ff.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXV)
 
 ### SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVELOPMENT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_s285ee.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXV)
+[Previous](./../../../../..//us/usc/t22/ch7/schXIV/m__us_usc_t22_s285ff.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXV)
 
 ----------
 ----------

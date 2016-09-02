@@ -15,9 +15,13 @@
 
 ## § 6919. Printing and binding costs
 
-    For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Printing Office, the Commission shall be deemed to be a committee of the Congress.
+    For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Publishing Office, the Commission shall be deemed to be a committee of the Congress.
 
-([Pub. L. 106–286, div. B, title III, § 309][/us/pl/106/286/s309], Oct. 10, 2000, [114 Stat. 900][/us/stat/114/900].)
+([Pub. L. 106–286, div. B, title III, § 309][/us/pl/106/286/s309], Oct. 10, 2000, [114 Stat. 900][/us/stat/114/900]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in text on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
 ----------
 
@@ -28,5 +32,9 @@
 
 [/us/pl/106/286/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs309
 [/us/stat/114/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F900
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8605.md) | [Next](./../../../..//us/usc/t22/ch94/m__us_usc_t22_s8701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch94)
+[Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8606.md) | [Next](./../../../..//us/usc/t22/ch94/m__us_usc_t22_s8701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch94)
 
 ## CHAPTER 94—IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS
 
@@ -339,7 +339,7 @@ SUBCHAPTER VII—SANCTIONS WITH RESPECT TO HUMAN RIGHTS ABUSES IN SYRIA  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8605.md) | [Next](./../../../..//us/usc/t22/ch94/m__us_usc_t22_s8701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch94)
+[Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8606.md) | [Next](./../../../..//us/usc/t22/ch94/m__us_usc_t22_s8701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch94)
 
 ----------
 ----------

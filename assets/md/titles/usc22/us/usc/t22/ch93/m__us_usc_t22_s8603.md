@@ -37,6 +37,32 @@
 
 ([Pub. L. 112–150, § 4][/us/pl/112/150/s4], July 27, 2012, [126 Stat. 1147][/us/stat/126/1147].)
 
+ __Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements__ 
+
+[Pub. L. 113–296, § 6][/us/pl/113/296/s6], Dec. 19, 2014, [128 Stat. 4076][/us/stat/128/4076], provided that:
+
+>     “(a)  __Findings__  __.—__ 
+
+>     Congress finds that Israel—
+
+>         “(1) has adopted high standards in the field of export controls;
+
+>         “(2) has declared its unilateral adherence to the Missile Technology Control Regime, the Australia Group, and the Nuclear Suppliers Group; and
+
+>         “(3)
+
+>          is a party to—
+
+>             “(A) the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be Deemed to be Excessively Injurious or to Have Indiscriminate Effects, signed at Geneva October 10, 1980;
+
+>             “(B) the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare, signed at Geneva June 17, 1925; and
+
+>             “(C) the Convention on the Physical Protection of Nuclear Material, adopted at Vienna on October 26, 1979.
+
+>     “(b)  __Eligibility for Strategic Trade Authorization Exception__  __.—__ 
+
+>     The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8602.md) | [Next](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8604.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8603)
@@ -46,5 +72,7 @@
 
 [/us/pl/112/150/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs4
 [/us/stat/126/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1147
+[/us/pl/113/296/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs6
+[/us/stat/128/4076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4076
 
 

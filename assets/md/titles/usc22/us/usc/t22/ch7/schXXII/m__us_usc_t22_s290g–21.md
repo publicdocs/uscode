@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–20.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_ch7_schXXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9321)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–20.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–22.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9321)
 
 ## § 290g–21. Multilateral debt relief
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–20.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_ch7_schXXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9321)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–20.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–22.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9321)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2322.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2344.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptIII)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2323.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2344.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptIII)
 
 #### Part III—Foreign Military Sales
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2322.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2344.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptIII)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2323.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2344.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32%2FschII%2FptIII)
 
 ----------
 ----------

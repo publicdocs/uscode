@@ -57,7 +57,7 @@
 
 ([Pub. L. 113–272, § 5][/us/pl/113/272/s5], Dec. 18, 2014, [128 Stat. 2958][/us/stat/128/2958].)
 
- __Termnination of Section__ 
+ __Termination of Section__ 
 
     For termination of section, see subsection (f) of this section.
 

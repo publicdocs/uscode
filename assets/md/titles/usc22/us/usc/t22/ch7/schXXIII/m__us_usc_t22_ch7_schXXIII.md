@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–21.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_s290h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXXIII)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–23.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_s290h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXXIII)
 
 ### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–21.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_s290h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXXIII)
+[Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–23.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXIII/m__us_usc_t22_s290h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschXXIII)
 
 ----------
 ----------

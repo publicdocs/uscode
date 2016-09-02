@@ -63,6 +63,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8606" data-uslm-ref="/us/usc/t22/s8606">8606.</a>  </td>
+
+    <td> United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies.  </td>
+
+  </tr>
+
 </table>
 
 ----------

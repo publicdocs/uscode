@@ -255,7 +255,25 @@
 
             Any certification relating to a proposed sale or export of defense articles or defense services under this section to any country in the Middle East other than Israel shall include a determination that the sale or export of the defense articles or defense services will not adversely affect Israel’s qualitative military edge over military threats to Israel.
 
-        (2) __Qualitative military edge defined__ 
+        (2) __Requirements with respect to determination for major defense equipment__ 
+
+        A determination under paragraph (1) relating to the sale or export of major defense equipment shall include—
+
+            (A) a detailed explanation of Israel’s capacity to address the improved capabilities provided by such sale or export;
+
+            (B)
+
+             a detailed evaluation of—
+
+                (i) how such sale or export alters the strategic and tactical balance in the region, including relative capabilities; and
+
+                (ii) Israel’s capacity to respond to the improved regional capabilities provided by such sale or export;
+
+            (C) an identification of any specific new capacity, capabilities, or training that Israel may require to address the regional or country-specific capabilities provided by such sale or export; and
+
+            (D) a description of any additional United States security assurances to Israel made, or requested to be made, in connection with, or as a result of, such sale or export.
+
+        (3) __Qualitative military edge defined__ 
 
             In this subsection, the term “qualitative military edge” means the ability to counter and defeat any credible conventional military threat from any individual state or possible coalition of states or from non-state actors, while sustaining minimal damages and casualties, through the use of superior military means, possessed in sufficient quantity, including weapons, command, control, communication, intelligence, surveillance, and reconnaissance capabilities that in their technical characteristics are superior in capability to those of such other individual or possible coalition of states or non-state actors.
 
@@ -263,7 +281,7 @@
 
         At least 30 days prior to a shipment of defense articles subject to the requirements of subsection (b) at the joint request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall provide notification of such pending shipment, in unclassified form, with a classified annex as necessary, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 36, Oct. 22, 1968, [82 Stat. 1326][/us/stat/82/1326]; [Pub. L. 93–189, § 25(10)][/us/pl/93/189/s25/10], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; [Pub. L. 93–559, § 45(a)(5)][/us/pl/93/559/s45/a/5], Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814]; [Pub. L. 94–329, title II, § 211(a)][/us/pl/94/329/s211/a], title VI, § 604(a), June 30, 1976, [90 Stat. 740][/us/stat/90/740], 766; [Pub. L. 95–384, § 21][/us/pl/95/384/s21], Sept. 26, 1978, [92 Stat. 741][/us/stat/92/741]; [Pub. L. 96–92][/us/pl/96/92], §§ 16(b), 19(a), (c), 20(b), Oct. 29, 1979, [93 Stat. 708–710][/us/stat/93/708-710]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 105(c), (d), 107(b), 109(f), Dec. 16, 1980, [94 Stat. 3134][/us/stat/94/3134], 3136, 3138; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, [95 Stat. 1520][/us/stat/95/1520], 1526; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 117, 118, title XII, § 1209(c), Aug. 8, 1985, [99 Stat. 202][/us/stat/99/202], 203, 279; [Pub. L. 99–247, § 1(b)][/us/pl/99/247/s1/b], (c), Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 101–222][/us/pl/101/222], §§ 3(b), 7, Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896], 1899; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 732, 735(a), (b), Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503], 505, 506; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 141(c), (d), 155, July 21, 1996, [110 Stat. 1431][/us/stat/110/1431], 1432, 1440; [Pub. L. 104–201, div. A, title X, § 1045(a)][/us/pl/104/201/s1045/a], Sept. 23, 1996, [110 Stat. 2644][/us/stat/110/2644]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(1), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, §§ 1224, 1245, title XIII, §§ 1301, 1302(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498, 1501A–502, 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(c)(1)][/us/pl/106/280/s102/c/1], Oct. 6, 2000, [114 Stat. 849][/us/stat/114/849]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228], §§ 1205(a), 1262(c), title XIV, § 1405(a)(2), Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427], 1434, 1457; [Pub. L. 110–429, title II][/us/pl/110/429], §§ 201(d), 203(b)(1), Oct. 15, 2008, [122 Stat. 4843][/us/stat/122/4843], 4845; [Pub. L. 111–266, title I, § 104(d)][/us/pl/111/266/s104/d], title III, § 301(1), Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799], 2804; [Pub. L. 113–276, title II][/us/pl/113/276], §§ 201, 208(a)(1), Dec. 18, 2014, [128 Stat. 2990][/us/stat/128/2990], 2992.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 36, Oct. 22, 1968, [82 Stat. 1326][/us/stat/82/1326]; [Pub. L. 93–189, § 25(10)][/us/pl/93/189/s25/10], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; [Pub. L. 93–559, § 45(a)(5)][/us/pl/93/559/s45/a/5], Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814]; [Pub. L. 94–329, title II, § 211(a)][/us/pl/94/329/s211/a], title VI, § 604(a), June 30, 1976, [90 Stat. 740][/us/stat/90/740], 766; [Pub. L. 95–384, § 21][/us/pl/95/384/s21], Sept. 26, 1978, [92 Stat. 741][/us/stat/92/741]; [Pub. L. 96–92][/us/pl/96/92], §§ 16(b), 19(a), (c), 20(b), Oct. 29, 1979, [93 Stat. 708–710][/us/stat/93/708-710]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 105(c), (d), 107(b), 109(f), Dec. 16, 1980, [94 Stat. 3134][/us/stat/94/3134], 3136, 3138; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, [95 Stat. 1520][/us/stat/95/1520], 1526; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 117, 118, title XII, § 1209(c), Aug. 8, 1985, [99 Stat. 202][/us/stat/99/202], 203, 279; [Pub. L. 99–247, § 1(b)][/us/pl/99/247/s1/b], (c), Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 101–222][/us/pl/101/222], §§ 3(b), 7, Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896], 1899; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 732, 735(a), (b), Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503], 505, 506; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 141(c), (d), 155, July 21, 1996, [110 Stat. 1431][/us/stat/110/1431], 1432, 1440; [Pub. L. 104–201, div. A, title X, § 1045(a)][/us/pl/104/201/s1045/a], Sept. 23, 1996, [110 Stat. 2644][/us/stat/110/2644]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(1), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, §§ 1224, 1245, title XIII, §§ 1301, 1302(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498, 1501A–502, 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(c)(1)][/us/pl/106/280/s102/c/1], Oct. 6, 2000, [114 Stat. 849][/us/stat/114/849]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228], §§ 1205(a), 1262(c), title XIV, § 1405(a)(2), Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427], 1434, 1457; [Pub. L. 110–429, title II][/us/pl/110/429], §§ 201(d), 203(b)(1), Oct. 15, 2008, [122 Stat. 4843][/us/stat/122/4843], 4845; [Pub. L. 111–266, title I, § 104(d)][/us/pl/111/266/s104/d], title III, § 301(1), Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799], 2804; [Pub. L. 113–276, title II][/us/pl/113/276], §§ 201, 208(a)(1), Dec. 18, 2014, [128 Stat. 2990][/us/stat/128/2990], 2992; [Pub. L. 113–296, § 11(b)][/us/pl/113/296/s11/b], Dec. 19, 2014, [128 Stat. 4078][/us/stat/128/4078].)
 
  __References in Text__ 
 
@@ -280,6 +298,8 @@
  __Amendments__ 
 
     2014—Subsecs. (a), (b)(1), (5)(C), (c)(1), (f). [Pub. L. 113–276, § 208(a)(1)][/us/pl/113/276/s208/a/1], substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
+
+    Subsec. (h)(2), (3). [Pub. L. 113–296][/us/pl/113/296] added par. (2) and redesignated former par. (2) as (3).
 
     Subsec. (i). [Pub. L. 113–276, § 201][/us/pl/113/276/s201], added subsec. (i).
 
@@ -475,7 +495,7 @@
 
  __Assessment of Israel’s Qualitative Military Edge Over Military Threats__ 
 
-[Pub. L. 110–429, title II, § 201][/us/pl/110/429/s201], Oct. 15, 2008, [122 Stat. 4843][/us/stat/122/4843], provided that:
+[Pub. L. 110–429, title II, § 201][/us/pl/110/429/s201], Oct. 15, 2008, [122 Stat. 4843][/us/stat/122/4843], as amended by [Pub. L. 113–296, § 11(a)][/us/pl/113/296/s11/a], Dec. 19, 2014, [128 Stat. 4078][/us/stat/128/4078], provided that:
 
 >     “(a)  __Assessment Required__  __.—__ 
 
@@ -494,6 +514,14 @@
 >         “(2)  __Quadrennial report__  __.—__ 
 
 >         Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter, the President shall transmit to the appropriate congressional committees a report on the most recent assessment required under subsection (a).
+
+>         “(3)  __Biennial updates__  __.—__ 
+
+>         Two years after the date on which each quadrennial report is transmitted to Congress, the President shall—
+
+>             “(A) reevaluate the assessment required under subsection (a); and
+
+>             “(B) inform and consult with the appropriate congressional committees on the results of the reevaluation conducted pursuant to subparagraph (A).
 
 >     “(d)  __Certification__  __.—__ 
 
@@ -586,6 +614,8 @@
 [/us/stat/124/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2799
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/stat/128/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2990
+[/us/pl/113/296/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs11%2Fb
+[/us/stat/128/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4078
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -599,6 +629,7 @@
 [/us/pl/104/106/s1064/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fa
 [/us/stat/110/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F445
 [/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/pl/113/276/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs201
 [/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
 [/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
@@ -701,6 +732,8 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/110/429/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs201
 [/us/stat/122/4843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4843
+[/us/pl/113/296/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs11%2Fa
+[/us/stat/128/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4078
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2776/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fh
 [/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429

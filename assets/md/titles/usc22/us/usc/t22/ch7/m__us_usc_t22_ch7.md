@@ -2657,6 +2657,22 @@ SUBCHAPTER XIII—INTERNATIONAL DEVELOPMENT ASSOCIATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284z" data-uslm-ref="/us/usc/t22/s284z">284z.</a>  </td>
+
+    <td> Seventeenth replenishment.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284aa" data-uslm-ref="/us/usc/t22/s284aa">284aa.</a>  </td>
+
+    <td> Multilateral debt relief.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK  </td>
@@ -2916,6 +2932,14 @@ SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285ee" data-uslm-ref="/us/usc/t22/s285ee">285ee.</a>  </td>
 
     <td> Fifth capital increase.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285ff" data-uslm-ref="/us/usc/t22/s285ff">285ff.</a>  </td>
+
+    <td> Tenth replenishment.  </td>
 
   </tr>
 
@@ -4258,6 +4282,22 @@ SUBCHAPTER XXII—AFRICAN DEVELOPMENT FUND  </td>
   <tr>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9321" data-uslm-ref="/us/usc/t22/s290g–21">290g–21.</a>  </td>
+
+    <td> Multilateral debt relief.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9322" data-uslm-ref="/us/usc/t22/s290g–22">290g–22.</a>  </td>
+
+    <td> Thirteenth replenishment.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%9323" data-uslm-ref="/us/usc/t22/s290g–23">290g–23.</a>  </td>
 
     <td> Multilateral debt relief.  </td>
 

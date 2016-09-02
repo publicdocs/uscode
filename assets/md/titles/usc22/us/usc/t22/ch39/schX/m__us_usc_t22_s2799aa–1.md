@@ -165,7 +165,7 @@
 
  __Waiver of Certain Sanctions Against North Korea__ 
 
-[Pub. L. 110–252, title I, § 1405][/us/pl/110/252/s1405], June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], as amended by [Pub. L. 113–188, title VIII, § 801][/us/pl/113/188/s801], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
+[Pub. L. 110–252, title I, § 1405][/us/pl/110/252/s1405], June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], as amended by [Pub. L. 113–188, title VIII, § 801][/us/pl/113/188/s801], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020]; [Pub. L. 113–235, div. J, title VII, § 7034(i)][/us/pl/113/235/s7034/i], Dec. 16, 2014, [128 Stat. 2624][/us/stat/128/2624], provided that:
 
 >     “(a) __Waiver Authority.—__ 
 
@@ -214,6 +214,8 @@
     “(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
     “(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.”
+
+    \[Amendment of [section 1405 of Pub. L. 110–252][/us/pl/110/252/s1405], set out above, by [section 7034(i) of div. J of Pub. L. 113–235][/us/pl/113/235/s7034/i], which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by [section 801 of Pub. L. 113–188][/us/pl/113/188/s801], which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
  __Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs__ 
 
@@ -343,11 +345,16 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/stat/122/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2337
 [/us/pl/113/188/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs801
 [/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
+[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/stat/128/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2624
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
 [/us/usc/t22/s2799aa–1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F1%2FA
 [/us/usc/t22/s2799aa–1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F1%2FA
 [/us/usc/t22/s2799aa–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F2
+[/us/pl/110/252/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1405
+[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/pl/113/188/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs801
 [/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
 [/us/stat/115/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F421
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291

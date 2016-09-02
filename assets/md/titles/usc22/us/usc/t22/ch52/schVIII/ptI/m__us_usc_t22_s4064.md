@@ -153,11 +153,13 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 113–76, div. K, title VII, § 7034(m)(4)][/us/pl/113/76/s7034/m/4], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515], provided that: 
+[Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(4), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625], provided that: 
 
-> “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)][/us/usc/t22/s4064/g]) shall be applied by substituting ‘September 30, 2014’ for ‘October 1, 2010’ in paragraph (2).”
+> “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)][/us/usc/t22/s4064/g]) shall be applied by substituting ‘September 30, 2015’ for ‘October 1, 2010’ in paragraph (2).”
 
 Prior extensions were contained in the following prior acts:
+
+    [Pub. L. 113–76, div. K, title VII, § 7034(m)(4)][/us/pl/113/76/s7034/m/4], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
 
     [Pub. L. 112–74, div. I, title VII, § 7034(m)(4)][/us/pl/112/74/s7034/m/4], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
@@ -217,9 +219,11 @@ Prior extensions were contained in the following prior acts:
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
+[/us/pl/113/235/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034
+[/us/stat/128/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2625
+[/us/usc/t22/s4064/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4064%2Fg
 [/us/pl/113/76/s7034/m/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F4
 [/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
-[/us/usc/t22/s4064/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4064%2Fg
 [/us/pl/112/74/s7034/m/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F4
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
 

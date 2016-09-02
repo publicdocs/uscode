@@ -417,6 +417,14 @@ Part I—Declaration of Policy; Development Assistance Authorizations  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2152i" data-uslm-ref="/us/usc/t22/s2152i">2152i.</a>  </td>
+
+    <td> Small Grants Program.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part II—Other Programs  </td>
@@ -1692,6 +1700,14 @@ Part II—Military Assistance  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2321" data-uslm-ref="/us/usc/t22/s2321">2321</a>l to 2322.  </td>
 
     <td> Repealed or Transferred.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2323" data-uslm-ref="/us/usc/t22/s2323">2323.</a>  </td>
+
+    <td> Transfer of defense articles or services.  </td>
 
   </tr>
 

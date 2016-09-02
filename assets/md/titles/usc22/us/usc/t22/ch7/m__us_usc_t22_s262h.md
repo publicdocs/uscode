@@ -25,11 +25,13 @@
 
  __Similar Provisions__ 
 
-[Pub. L. 113–76, div. K, title VII, § 7025(c)][/us/pl/113/76/s7025/c], Jan. 17, 2014, [128 Stat. 504][/us/stat/128/504], provided that: 
+[Pub. L. 113–235, div. J, title VII, § 7025(c)][/us/pl/113/235/s7025/c], Dec. 16, 2014, [128 Stat. 2614][/us/stat/128/2614], provided that: 
 
-> “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7029(g) of this Act \[set out as a note below\], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act \[div. K of [Pub. L. 113–76][/us/pl/113/76], [128 Stat. 465][/us/stat/128/465], see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+> “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7029(h) of this Act \[set out as a note below\], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2573][/us/stat/128/2573], see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. K, title VII, § 7025(c)][/us/pl/113/76/s7025/c], Jan. 17, 2014, [128 Stat. 504][/us/stat/128/504].
 
     [Pub. L. 112–74, div. I, title VII, § 7025(c)][/us/pl/112/74/s7025/c], Dec. 23, 2011, [125 Stat. 1206][/us/stat/125/1206].
 
@@ -93,9 +95,13 @@ Similar provisions were contained in the following appropriation acts:
 
     [Pub. L. 95–481, title VI, § 609][/us/pl/95/481/s609], Oct. 18, 1978, [92 Stat. 1601][/us/stat/92/1601].
 
+[Pub. L. 113–235, div. J, title VII, § 7029(h)][/us/pl/113/235/s7029/h], Dec. 16, 2014, [128 Stat. 2618][/us/stat/128/2618], provided that: 
+
+> “For the purposes of this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2573][/us/stat/128/2573], see Tables for classification\] ‘international financial institutions’ shall mean the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
+
 [Pub. L. 113–76, div. K, title VII, § 7029(g)][/us/pl/113/76/s7029/g], Jan. 17, 2014, [128 Stat. 508][/us/stat/128/508], provided that: 
 
-> “For the purposes of this Act ‘international financial institutions’ shall mean the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund.”
+> “For the purposes of this Act \[div. K of [Pub. L. 113–76][/us/pl/113/76], [128 Stat. 465][/us/stat/128/465], see Tables for classification\] ‘international financial institutions’ shall mean the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund.”
 
 ----------
 
@@ -106,10 +112,12 @@ Similar provisions were contained in the following appropriation acts:
 
 [/us/pl/99/472/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs22
 [/us/stat/100/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1210
+[/us/pl/113/235/s7025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7025%2Fc
+[/us/stat/128/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2614
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573
 [/us/pl/113/76/s7025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7025%2Fc
 [/us/stat/128/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F504
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F465
 [/us/pl/112/74/s7025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7025%2Fc
 [/us/stat/125/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1206
 [/us/pl/111/117/s7026/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7026%2Fc
@@ -177,7 +185,13 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/93/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F923
 [/us/pl/95/481/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2Fs609
 [/us/stat/92/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1601
+[/us/pl/113/235/s7029/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7029%2Fh
+[/us/stat/128/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2618
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573
 [/us/pl/113/76/s7029/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7029%2Fg
 [/us/stat/128/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F508
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F465
 
 
