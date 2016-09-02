@@ -81,7 +81,7 @@ June 29, 1936, ch. 858, title IX, § 901c, as added Pub. L. 99–198, title XI
 
     2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141] substituted “specified in section 55314(b)” for “subject to section 55314”.
 
-§§ 55316, 55317. __Repealed.__  __[__  __Pub. L. 113–67, div. A, title VI, § 602(a)__  __][/us/pl/113/67/s602/a]__  __,__  __Dec. 26, 2013__  __,__  __[__  __127 Stat. 1188__  __][/us/stat/127/1188]__ 
+\[§§ 55316, 55317. __Repealed.__  __[__  __Pub. L. 113–67, div. A, title VI, § 602(a)__  __][/us/pl/113/67/s602/a]__  __,__  __Dec. 26, 2013__  __,__  __[__  __127 Stat. 1188__  __][/us/stat/127/1188]__  __\]__ 
 
     Section 55316, [Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1647][/us/stat/120/1647]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Y), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 112–141, div. F, title I, § 100124(b)][/us/pl/112/141/s100124/b], (c)(2), July 6, 2012, [126 Stat. 915][/us/stat/126/915], related to financing the transportation of agricultural commodities.
 
