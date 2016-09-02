@@ -17,11 +17,11 @@
 
     (a) __Report required__ 
 
-        Not later than 12 months after November 25, 2002, the President shall submit to the congressional committees specified in subsection (b) of this section a report on the implementation of [section 482 of this title][/us/usc/t6/s482]. The report shall include any recommendations for additional measures or appropriation requests, beyond the requirements of [section 482 of this title][/us/usc/t6/s482], to increase the effectiveness of sharing of information between and among Federal, State, and local entities.
+        Not later than 12 months after November 25, 2002, the President shall submit to the congressional committees specified in subsection (b) a report on the implementation of [section 482 of this title][/us/usc/t6/s482]. The report shall include any recommendations for additional measures or appropriation requests, beyond the requirements of [section 482 of this title][/us/usc/t6/s482], to increase the effectiveness of sharing of information between and among Federal, State, and local entities.
 
     (b) __Specified congressional committees__ 
 
-    The congressional committees referred to in subsection (a) of this section are the following committees:
+    The congressional committees referred to in subsection (a) are the following committees:
 
         (1) The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives.
 

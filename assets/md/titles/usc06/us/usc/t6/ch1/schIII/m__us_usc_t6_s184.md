@@ -21,7 +21,7 @@
 
     (b) __Evaluation of progress__ 
 
-        In carrying out subsection (a) of this section, the Secretary of Health and Human Services shall collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving the priorities and goals described in such subsection.
+        In carrying out subsection (a), the Secretary of Health and Human Services shall collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving the priorities and goals described in such subsection.
 
 ([Pub. L. 107–296, title III, § 304][/us/pl/107/296/s304], Nov. 25, 2002, [116 Stat. 2165][/us/stat/116/2165].)
 

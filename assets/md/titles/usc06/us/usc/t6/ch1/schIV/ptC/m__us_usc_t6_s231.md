@@ -17,11 +17,11 @@
 
     (a) __Transfer of agricultural import and entry inspection functions__ 
 
-        There shall be transferred to the Secretary the functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under the laws specified in subsection (b) of this section.
+        There shall be transferred to the Secretary the functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under the laws specified in subsection (b).
 
     (b) __Covered animal and plant protection laws__ 
 
-    The laws referred to in subsection (a) of this section are the following:
+    The laws referred to in subsection (a) are the following:
 
         (1) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading “Bureau of Animal Industry” in the Act of March 4, 1913; [21 U.S.C. 151][/us/usc/t21/s151] et seq.).
 
@@ -39,21 +39,21 @@
 
     (c) __Exclusion of quarantine activities__ 
 
-        For purposes of this section, the term “functions” does not include any quarantine activities carried out under the laws specified in subsection (b) of this section.
+        For purposes of this section, the term “functions” does not include any quarantine activities carried out under the laws specified in subsection (b).
 
     (d) __Effect of transfer__ 
 
         (1) __Compliance with Department of Agriculture regulations__ 
 
-            The authority transferred pursuant to subsection (a) of this section shall be exercised by the Secretary in accordance with the regulations, policies, and procedures issued by the Secretary of Agriculture regarding the administration of the laws specified in subsection (b) of this section.
+            The authority transferred pursuant to subsection (a) shall be exercised by the Secretary in accordance with the regulations, policies, and procedures issued by the Secretary of Agriculture regarding the administration of the laws specified in subsection (b).
 
         (2) __Rulemaking coordination__ 
 
-            The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering the functions transferred under subsection (a) of this section under a law specified in subsection (b) of this section.
+            The Secretary of Agriculture shall coordinate with the Secretary whenever the Secretary of Agriculture prescribes regulations, policies, or procedures for administering the functions transferred under subsection (a) under a law specified in subsection (b).
 
         (3) __Effective administration__ 
 
-            The Secretary, in consultation with the Secretary of Agriculture, may issue such directives and guidelines as are necessary to ensure the effective use of personnel of the Department of Homeland Security to carry out the functions transferred pursuant to subsection (a) of this section.
+            The Secretary, in consultation with the Secretary of Agriculture, may issue such directives and guidelines as are necessary to ensure the effective use of personnel of the Department of Homeland Security to carry out the functions transferred pursuant to subsection (a).
 
     (e) __Transfer agreement__ 
 
@@ -65,15 +65,15 @@
 
         The agreement required by this subsection shall specifically address the following:
 
-            (A) The supervision by the Secretary of Agriculture of the training of employees of the Secretary to carry out the functions transferred pursuant to subsection (a) of this section.
+            (A) The supervision by the Secretary of Agriculture of the training of employees of the Secretary to carry out the functions transferred pursuant to subsection (a).
 
-            (B) The transfer of funds to the Secretary under subsection (f) of this section.
+            (B) The transfer of funds to the Secretary under subsection (f).
 
         (3) __Cooperation and reciprocity__ 
 
         The Secretary of Agriculture and the Secretary may include as part of the agreement the following:
 
-            (A) Authority for the Secretary to perform functions delegated to the Animal and Plant Health Inspection Service of the Department of Agriculture regarding the protection of domestic livestock and plants, but not transferred to the Secretary pursuant to subsection (a) of this section.
+            (A) Authority for the Secretary to perform functions delegated to the Animal and Plant Health Inspection Service of the Department of Agriculture regarding the protection of domestic livestock and plants, but not transferred to the Secretary pursuant to subsection (a).
 
             (B) Authority for the Secretary of Agriculture to use employees of the Department of Homeland Security to carry out authorities delegated to the Animal and Plant Health Inspection Service regarding the protection of domestic livestock and plants.
 
@@ -81,7 +81,7 @@
 
         (1) __Transfer of funds__ 
 
-            Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e) of this section, to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
+            Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e), to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
 
         (2) __Limitation__ 
 

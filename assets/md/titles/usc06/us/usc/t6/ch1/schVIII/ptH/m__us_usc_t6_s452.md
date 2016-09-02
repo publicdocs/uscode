@@ -27,11 +27,11 @@
 
         (1) __In general__ 
 
-            Authority under subsection (a)(1) of this section does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
+            Authority under subsection (a)(1) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
 
         (2) __Abolitions__ 
 
-            Authority under subsection (a)(2) of this section does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
+            Authority under subsection (a)(2) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
 
 ([Pub. L. 107–296, title VIII, § 872][/us/pl/107/296/s872], Nov. 25, 2002, [116 Stat. 2243][/us/stat/116/2243].)
 

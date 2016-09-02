@@ -67,7 +67,7 @@
 
     (b) __Transfer of functions from Commissioner__ 
 
-    In accordance with subchapter XII of this chapter (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: 1
+    In accordance with subchapter XII (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: 1
 
         (1) Adjudications of immigrant visa petitions.
 

@@ -21,7 +21,7 @@
 
     (b) __Responsibilities__ 
 
-    The Office established under subsection (a) of this section shall—
+    The Office established under subsection (a) shall—
 
         (1) coordinate the activities of the Department relating to State and local government;
 

@@ -31,7 +31,7 @@
 
     (b) __Responsibilities__ 
 
-    The Office established under subsection (a)(1) of this section shall—
+    The Office established under subsection (a)(1) shall—
 
         (1) coordinate the activities of the Department relating to the National Capital Region, including cooperation with the Office for State and Local Government Coordination;
 
@@ -49,7 +49,7 @@
 
     (c) __Annual report__ 
 
-    The Office established under subsection (a) of this section shall submit an annual report to Congress that includes—
+    The Office established under subsection (a) shall submit an annual report to Congress that includes—
 
         (1) the identification of the resources required to fully implement homeland security efforts in the National Capital Region;
 

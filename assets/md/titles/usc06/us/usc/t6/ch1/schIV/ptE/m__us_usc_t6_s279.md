@@ -17,13 +17,13 @@
 
     (a) __Transfer of functions__ 
 
-        There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
+        There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d).
 
     (b) __Functions__ 
 
         (1) __In general__ 
 
-        Pursuant to the transfer made by subsection (a) of this section, the Director of the Office of Refugee Resettlement shall be responsible for—
+        Pursuant to the transfer made by subsection (a), the Director of the Office of Refugee Resettlement shall be responsible for—
 
             (A) coordinating and implementing the care and placement of unaccompanied alien children who are in Federal custody by reason of their immigration status, including developing a plan to be submitted to Congress on how to ensure that qualified and independent legal counsel is timely appointed to represent the interests of each such child, consistent with the law regarding appointment of counsel that is in effect on November 25, 2002;
 
@@ -105,7 +105,7 @@
 
         (1) __Exercise of authorities__ 
 
-            Except as otherwise provided by law, a Federal official to whom a function is transferred by this section may, for purposes of performing the function, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in subsection (d) of this section.
+            Except as otherwise provided by law, a Federal official to whom a function is transferred by this section may, for purposes of performing the function, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in subsection (d).
 
         (2) __Savings provisions__ 
 

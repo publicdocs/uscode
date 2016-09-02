@@ -25,7 +25,7 @@
 
     (c) __Fees__ 
 
-        Fees imposed for a particular service, application, or benefit shall be deposited into the account established under subsection (a) of this section that is for the bureau with jurisdiction over the function to which the fee relates.
+        Fees imposed for a particular service, application, or benefit shall be deposited into the account established under subsection (a) that is for the bureau with jurisdiction over the function to which the fee relates.
 
     (d) __Fees not transferable__ 
 

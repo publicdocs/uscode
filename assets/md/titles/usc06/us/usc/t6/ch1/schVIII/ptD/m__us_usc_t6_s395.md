@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b) of this section, or any subsidiary of such an entity.
+        The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b), or any subsidiary of such an entity.
 
     (b) __Inverted domestic corporation__ 
 
@@ -39,19 +39,19 @@
 
         (1) __Rules for application of subsection (b)__ 
 
-        In applying subsection (b) of this section for purposes of subsection (a) of this section, the following rules shall apply:
+        In applying subsection (b) for purposes of subsection (a), the following rules shall apply:
 
             (A) __Certain stock disregarded__ 
 
-            There shall not be taken into account in determining ownership for purposes of subsection (b)(2) of this section—
+            There shall not be taken into account in determining ownership for purposes of subsection (b)(2)—
 
                 (i) stock held by members of the expanded affiliated group which includes the foreign incorporated entity; or
 
-                (ii) stock of such entity which is sold in a public offering related to the acquisition described in subsection (b)(1) of this section.
+                (ii) stock of such entity which is sold in a public offering related to the acquisition described in subsection (b)(1).
 
             (B) __Plan deemed in certain cases__ 
 
-                If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of subsection (b)(2) of this section are met, such actions shall be treated as pursuant to a plan.
+                If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of subsection (b)(2) are met, such actions shall be treated as pursuant to a plan.
 
             (C) __Certain transfers disregarded__ 
 
@@ -59,7 +59,7 @@
 
             (D) __Special rule for related partnerships__ 
 
-                For purposes of applying subsection (b) of this section to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaning of [section 482 of title 26][/us/usc/t26/s482]) shall be treated as I  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  partnership.
+                For purposes of applying subsection (b) to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaning of [section 482 of title 26][/us/usc/t26/s482]) shall be treated as I  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  partnership.
 
             (E) __Treatment of certain rights__ 
 
@@ -75,7 +75,7 @@
 
         (3) __Foreign incorporated entity__ 
 
-            The term “foreign incorporated entity” means any entity which is, or but for subsection (b) of this section would be, treated as a foreign corporation for purposes of title 26.
+            The term “foreign incorporated entity” means any entity which is, or but for subsection (b) would be, treated as a foreign corporation for purposes of title 26.
 
         (4) __Other definitions__ 
 
@@ -83,7 +83,7 @@
 
     (d) __Waivers__ 
 
-        The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
+        The Secretary shall waive subsection (a) with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
 
 ([Pub. L. 107–296, title VIII, § 835][/us/pl/107/296/s835], Nov. 25, 2002, [116 Stat. 2227][/us/stat/116/2227]; [Pub. L. 108–7, div. L, § 101(2)][/us/pl/108/7/s101/2], Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528]; [Pub. L. 108–334, title V, § 523][/us/pl/108/334/s523], Oct. 18, 2004, [118 Stat. 1320][/us/stat/118/1320].)
 

@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding subsection (b) of this section, the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
+            Notwithstanding subsection (b), the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
 
         (2) __Construction regarding authority__ 
 

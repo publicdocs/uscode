@@ -33,9 +33,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1402" data-uslm-ref="/us/usc/t6/s1402">1402.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1402" data-uslm-ref="/us/usc/t6/s1402">1402</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1403" data-uslm-ref="/us/usc/t6/s1403">1403.</a>  </td>
 
-    <td> Port of Entry Infrastructure Assessment Study.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

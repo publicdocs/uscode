@@ -37,7 +37,7 @@
 
         (1) __In general__ 
 
-            The Secretary may designate certain employees of the Department to make procurements described in subsection (a) of this section for which in the administration of [section 1902 of title 41][/us/usc/t41/s1902] the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
+            The Secretary may designate certain employees of the Department to make procurements described in subsection (a) for which in the administration of [section 1902 of title 41][/us/usc/t41/s1902] the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
 
         (2) __Number of employees__ 
 
@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-        With respect to a procurement described in subsection (a) of this section, the Secretary may deem the simplified acquisition threshold referred to in [section 134 of title 41][/us/usc/t41/s134] to be—
+        With respect to a procurement described in subsection (a), the Secretary may deem the simplified acquisition threshold referred to in [section 134 of title 41][/us/usc/t41/s134] to be—
 
             (A) in the case of a contract to be awarded and performed, or purchase to be made, within the United States, $200,000; and
 
@@ -69,7 +69,7 @@
 
         (1) __In general__ 
 
-            With respect to a procurement described in subsection (a) of this section, the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
+            With respect to a procurement described in subsection (a), the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
 
         (2) __Limitation__ 
 
@@ -77,7 +77,7 @@
 
         (3) __Certain authority__ 
 
-            Authority under a provision of law referred to in paragraph (2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) shall, notwithstanding such section, continue to apply for a procurement described in subsection (a) of this section.
+            Authority under a provision of law referred to in paragraph (2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) shall, notwithstanding such section, continue to apply for a procurement described in subsection (a).
 
     (e) __Report__ 
 
@@ -87,9 +87,9 @@
 
         (2) An assessment of the extent to which prices for property and services acquired using authorities provided under this section reflected the best value.
 
-        (3) The number of employees designated by each executive agency under subsection (b)(1) of this section.
+        (3) The number of employees designated by each executive agency under subsection (b)(1).
 
-        (4) An assessment of the extent to which the Department has implemented subsections (b)(2) and (b)(3) of this section to monitor the use of procurement authority by employees designated under subsection (b)(1) of this section.
+        (4) An assessment of the extent to which the Department has implemented subsections (b)(2) and (b)(3) to monitor the use of procurement authority by employees designated under subsection (b)(1).
 
         (5) Any recommendations of the Comptroller General for improving the effectiveness of the implementation of the provisions of this section.
 

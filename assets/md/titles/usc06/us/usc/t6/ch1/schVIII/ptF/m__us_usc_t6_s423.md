@@ -35,7 +35,7 @@
 
     (c) __Small business reserve__ 
 
-        For a procurement carried out pursuant to subsection (a) of this section, [section 644(j) of title 15][/us/usc/t15/s644/j] shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a) of this section.
+        For a procurement carried out pursuant to subsection (a), [section 644(j) of title 15][/us/usc/t15/s644/j] shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a).
 
 ([Pub. L. 107–296, title VIII, § 853][/us/pl/107/296/s853], Nov. 25, 2002, [116 Stat. 2235][/us/stat/116/2235].)
 

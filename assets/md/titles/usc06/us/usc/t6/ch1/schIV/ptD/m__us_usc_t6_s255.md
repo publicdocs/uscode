@@ -21,7 +21,7 @@
 
     (b) __Consultation__ 
 
-        In carrying out subsection (a) of this section, the Secretary of Homeland Security shall consult with the Attorney General, the Secretary of State, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, the Secretary of Labor, the Commissioner of Social Security, the Director of the Executive Office for Immigration Review, and the heads of State and local law enforcement agencies to determine how to most effectively conduct enforcement operations.
+        In carrying out subsection (a), the Secretary of Homeland Security shall consult with the Attorney General, the Secretary of State, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, the Secretary of Labor, the Commissioner of Social Security, the Director of the Executive Office for Immigration Review, and the heads of State and local law enforcement agencies to determine how to most effectively conduct enforcement operations.
 
 ([Pub. L. 107–296, title IV, § 445][/us/pl/107/296/s445], Nov. 25, 2002, [116 Stat. 2194][/us/stat/116/2194].)
 

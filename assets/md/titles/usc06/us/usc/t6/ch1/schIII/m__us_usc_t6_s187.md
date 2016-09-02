@@ -21,7 +21,7 @@
 
         (1) __Fund__ 
 
-            The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c) of this section.
+            The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c).
 
         (2) __Homeland security research__ 
 
@@ -29,7 +29,7 @@
 
         (3) __HSARPA__ 
 
-            The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b) of this section.
+            The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b).
 
         (4) __Under Secretary__ 
 

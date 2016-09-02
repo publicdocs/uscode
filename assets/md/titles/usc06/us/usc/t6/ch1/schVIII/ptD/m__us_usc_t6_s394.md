@@ -21,7 +21,7 @@
 
     (b) __Content of regulations__ 
 
-    The regulations prescribed under subsection (a) of this section shall require that before initiating a comprehensive evaluation, an agency contact point shall consider, among other factors, that the proposal—
+    The regulations prescribed under subsection (a) shall require that before initiating a comprehensive evaluation, an agency contact point shall consider, among other factors, that the proposal—
 
         (1) is not submitted in response to a previously published agency requirement; and
 

@@ -21,7 +21,7 @@
 
     (b) __Prohibition__ 
 
-    In the case of any alien with respect to whom a visa has been denied under subsection (a) of this section—
+    In the case of any alien with respect to whom a visa has been denied under subsection (a)—
 
         (1) no subsequent visa may be issued to the alien unless the consular officer considering the alien’s visa application has reviewed the information concerning the alien placed in the interoperable electronic data system, has indicated on the alien’s application that the information has been reviewed, and has stated for the record why the visa is being issued or a waiver of visa ineligibility recommended in spite of that information; and
 

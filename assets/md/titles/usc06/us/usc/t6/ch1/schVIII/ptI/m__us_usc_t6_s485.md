@@ -25,7 +25,7 @@
 
         (2) __Information Sharing Council__ 
 
-            The term “Information Sharing Council” means the Information Systems Council established by Executive Order 13356, or any successor body designated by the President, and referred to under subsection (g) of this section.
+            The term “Information Sharing Council” means the Information Systems Council established by Executive Order 13356, or any successor body designated by the President, and referred to under subsection (g).
 
         (3) __Information sharing environment__ 
 
@@ -33,7 +33,7 @@
 
         (4) __Program manager__ 
 
-            The term “program manager” means the program manager designated under subsection (f) of this section.
+            The term “program manager” means the program manager designated under subsection (f).
 
         (5) __Terrorism information__ 
 
@@ -147,7 +147,7 @@
 
         (4) A project plan for designing, testing, integrating, deploying, and operating the ISE.
 
-        (5) The policies and directives referred to in subsection (b)(1)(C) of this section, as well as the metrics and enforcement mechanisms that will be utilized.
+        (5) The policies and directives referred to in subsection (b)(1)(C), as well as the metrics and enforcement mechanisms that will be utilized.
 
         (6) Objective, systemwide performance measures to enable the assessment of progress toward achieving the full implementation of the ISE.
 
@@ -283,7 +283,7 @@
 
     The head of each department or agency that possesses or uses intelligence or terrorism information, operates a system in the ISE, or otherwise participates (or expects to participate) in the ISE shall—
 
-        (1) ensure full department or agency compliance with information sharing policies, procedures, guidelines, rules, and standards established under subsections (b) and (f) of this section;
+        (1) ensure full department or agency compliance with information sharing policies, procedures, guidelines, rules, and standards established under subsections (b) and (f);
 
         (2) ensure the provision of adequate resources for systems and activities supporting operation of and participation in the ISE;
 

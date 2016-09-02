@@ -25,7 +25,7 @@
 
     (b) __Content of report__ 
 
-    The report under subsection (a)(2) of this section shall include the following matters:
+    The report under subsection (a)(2) shall include the following matters:
 
         (1) __Assessment__ 
 
@@ -41,7 +41,7 @@
 
     (c) __Consultation__ 
 
-        In preparing for the review under subsection (a)(1) of this section, the Comptroller shall consult with the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives on the specific issues and topics to be reviewed. The extent of coverage needed in areas such as technology integration, employee training, and human capital management, as well as the data requirements of the study, shall be included as part of the consultation.
+        In preparing for the review under subsection (a)(1), the Comptroller shall consult with the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives on the specific issues and topics to be reviewed. The extent of coverage needed in areas such as technology integration, employee training, and human capital management, as well as the data requirements of the study, shall be included as part of the consultation.
 
 ([Pub. L. 107–296, title VIII, § 857][/us/pl/107/296/s857], Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
 

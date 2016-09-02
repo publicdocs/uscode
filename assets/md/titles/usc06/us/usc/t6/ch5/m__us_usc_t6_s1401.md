@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_ch5.md) | [Next](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1402.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1401)
+[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_ch5.md) | [Next](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1401)
 
 ## § 1401. Definitions
 
@@ -45,9 +45,15 @@
 
 > “This title \[enacting this chapter\] may be cited as the ‘Border Infrastructure and Technology Modernization Act of 2007’.”
 
+§§ 1402, 1403. __Repealed.__  __[__  __Pub. L. 113–188, title X, § 1001(b)__  __][/us/pl/113/188/s1001/b]__  __,__  __Nov. 26, 2014__  __,__  __[__  __128 Stat. 2022__  __][/us/stat/128/2022]__ 
+
+    Section 1402, [Pub. L. 110–161, div. E, title VI, § 603][/us/pl/110/161/s603], Dec. 26, 2007, [121 Stat. 2094][/us/stat/121/2094], related to the Port of Entry Infrastructure Assessment Study.
+
+    Section 1403, [Pub. L. 110–161, div. E, title VI, § 604][/us/pl/110/161/s604], Dec. 26, 2007, [121 Stat. 2095][/us/stat/121/2095], related to the National Land Border Security Plan.
+
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_ch5.md) | [Next](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1402.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1401)
+[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_ch5.md) | [Next](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1401)
 
 ----------
 ----------
@@ -56,5 +62,11 @@
 [/us/stat/121/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2094
 [/us/pl/110/161/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs601
 [/us/stat/121/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2094
+[/us/pl/113/188/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fb
+[/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
+[/us/pl/110/161/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs603
+[/us/stat/121/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2094
+[/us/pl/110/161/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs604
+[/us/stat/121/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2095
 
 

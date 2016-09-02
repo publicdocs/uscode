@@ -45,7 +45,7 @@
 
     (d) __Consultation on Institute activities__ 
 
-        In carrying out the duties described in subsection (c) of this section, the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
+        In carrying out the duties described in subsection (c), the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
 
     (e) __Use of centers__ 
 

@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            The $5,000,000 limitation provided in [section 1901(a)(2) of title 41][/us/usc/t41/s1901/a/2], [section 2304(g)(1)(B) of title 10][/us/usc/t10/s2304/g/1/B], and [section 3305(a)(2) of title 41][/us/usc/t41/s3305/a/2] shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) of this section are applied under the authority of this section.
+            The $5,000,000 limitation provided in [section 1901(a)(2) of title 41][/us/usc/t41/s1901/a/2], [section 2304(g)(1)(B) of title 10][/us/usc/t10/s2304/g/1/B], and [section 3305(a)(2) of title 41][/us/usc/t41/s3305/a/2] shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
 
         (2) __OMB guidance__ 
 
@@ -43,7 +43,7 @@
 
     (c) __Continuation of authority for simplified purchase procedures__ 
 
-        Authority under a provision of law referred to in subsection (a)(2) of this section that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b) of this section.
+        Authority under a provision of law referred to in subsection (a)(2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b).
 
 ([Pub. L. 107–296, title VIII, § 855][/us/pl/107/296/s855], Nov. 25, 2002, [116 Stat. 2236][/us/stat/116/2236].)
 

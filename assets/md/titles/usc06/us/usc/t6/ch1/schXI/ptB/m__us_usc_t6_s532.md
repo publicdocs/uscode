@@ -21,7 +21,7 @@
 
     (b) __Purpose__ 
 
-    The facility established under subsection (a) of this section shall be utilized to train Federal, State, and local law enforcement officers to—
+    The facility established under subsection (a) shall be utilized to train Federal, State, and local law enforcement officers to—
 
         (1) investigate bombings and explosions;
 
@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a) of this section.
+            There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a).
 
         (2) __Availability of funds__ 
 

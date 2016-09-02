@@ -27,7 +27,7 @@
 
     (b) __Special considerations__ 
 
-    In providing assessments in accordance with subsection (a)(2) of this section with respect to a decision of the Bureau of Citizenship and Immigration Services, or any of its components, consideration shall be given to—
+    In providing assessments in accordance with subsection (a)(2) with respect to a decision of the Bureau of Citizenship and Immigration Services, or any of its components, consideration shall be given to—
 
         (1) the accuracy of the findings of fact and conclusions of law used in rendering the decision;
 

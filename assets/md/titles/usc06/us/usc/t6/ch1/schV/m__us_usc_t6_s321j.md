@@ -35,7 +35,7 @@
 
         (2) __Intelligence sharing infrastructure__ 
 
-            For the purpose of carrying out the acquisition and deployment of secure facilities (including information technology and physical infrastructure, whether mobile and temporary, or permanent) sufficient to permit the Secretary to receive, not later than 180 days after July 21, 2004, all classified information and products to which the Under Secretary for Intelligence and Analysis is entitled under part A of subchapter II of this chapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 through 2006.
+            For the purpose of carrying out the acquisition and deployment of secure facilities (including information technology and physical infrastructure, whether mobile and temporary, or permanent) sufficient to permit the Secretary to receive, not later than 180 days after July 21, 2004, all classified information and products to which the Under Secretary for Intelligence and Analysis is entitled under part A of subchapter II, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
 ([Pub. L. 107–296, title V, § 521][/us/pl/107/296/s521], formerly § 510, as added [Pub. L. 108–276, § 3(b)(2)][/us/pl/108/276/s3/b/2], July 21, 2004, [118 Stat. 852][/us/stat/118/852]; renumbered § 521, [Pub. L. 109–295, title VI, § 611(7)][/us/pl/109/295/s611/7], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395]; amended [Pub. L. 109–417, title IV, § 403(c)][/us/pl/109/417/s403/c], Dec. 19, 2006, [120 Stat. 2874][/us/stat/120/2874]; [Pub. L. 110–53, title V, § 531(b)(1)(D)][/us/pl/110/53/s531/b/1/D], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
 

@@ -31,7 +31,7 @@
 
             (A) recognition as an appropriate unit has never been conferred for purposes of chapter 71 of such title 5; or
 
-            (B) any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1) of this section.
+            (B) any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1).
 
     (b) __Provisions relating to bargaining units__ 
 
@@ -55,7 +55,7 @@
 
     (c) __Waiver__ 
 
-        If the President determines that the application of subsections (a), (b), and (d) of this section would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
+        If the President determines that the application of subsections (a), (b), and (d) would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
 
     (d) __Coordination rule__ 
 

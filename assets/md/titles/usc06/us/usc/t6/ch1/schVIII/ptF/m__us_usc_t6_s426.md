@@ -41,7 +41,7 @@
 
     (b) __Waiver of certain small business threshold requirements__ 
 
-        Subclause (II) of [section 637(a)(1)(D)(i) of title 15][/us/usc/t15/s637/a/1/D/i] and clause (ii) of [section 657a(b)(2)(A) of title 15][/us/usc/t15/s657a/b/2/A] shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) of this section for a procurement referred to in [section 422 of this title][/us/usc/t6/s422].
+        Subclause (II) of [section 637(a)(1)(D)(i) of title 15][/us/usc/t15/s637/a/1/D/i] and clause (ii) of [section 657a(b)(2)(A) of title 15][/us/usc/t15/s657a/b/2/A] shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in [section 422 of this title][/us/usc/t6/s422].
 
 ([Pub. L. 107–296, title VIII, § 856][/us/pl/107/296/s856], Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
 

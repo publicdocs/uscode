@@ -21,7 +21,7 @@
 
     (b) __Contents__ 
 
-    The Future Years Homeland Security Program under subsection (a) of this section shall—
+    The Future Years Homeland Security Program under subsection (a) shall—
 
         (1) include the same type of information, organizational structure, and level of detail as the future years defense program submitted to Congress by the Secretary of Defense under [section 221 of title 10][/us/usc/t10/s221];
 
