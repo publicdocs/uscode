@@ -47,11 +47,27 @@
 
             Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-([Pub. L. 107–372, title II, § 245][/us/pl/107/372/s245], Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089].)
+([Pub. L. 107–372, title II, § 245][/us/pl/107/372/s245], Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089]; [Pub. L. 114–92, div. A, title VI, § 631(c)(3)][/us/pl/114/92/s631/c/3], Nov. 25, 2015, [129 Stat. 844][/us/stat/129/844].)
+
+ __Amendment of Subsection (a)(2)__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 631(c)(3), 635, Nov. 25, 2015, [129 Stat. 844][/us/stat/129/844], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(2) of this section is amended to read as follows:
+
+    (2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
+
+    See 2015 Amendment note below.
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in section 853o of this title prior to repeal by [Pub. L. 107–372][/us/pl/107/372].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “2½ percent of the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.”
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
 ----------
 
@@ -64,6 +80,14 @@
 [/us/usc/t10/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407
 [/us/pl/107/372/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs245
 [/us/stat/116/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3089
+[/us/pl/114/92/s631/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F3
+[/us/stat/129/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F844
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F844
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 
 
