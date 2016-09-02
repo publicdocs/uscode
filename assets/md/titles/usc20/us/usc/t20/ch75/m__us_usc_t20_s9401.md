@@ -65,7 +65,7 @@
 
 >         “(12)
 
->          Federal Government support for early learning has primarily focused on out-of-home care programs like those established under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Child Care and Development Block Grant \[Act\] of 1990 \[[42 U.S.C. 9858][/us/usc/t42/s9858] et seq.\], and part C of the Individuals with Disabilities Education Act \[[20 U.S.C. 1431][/us/usc/t20/s1431] et seq.\], and these programs—
+>          Federal Government support for early learning has primarily focused on out-of-home care programs like those established under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Child Care and Development Block Grant \[Act\] of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\], and part C of the Individuals with Disabilities Education Act \[[20 U.S.C. 1431][/us/usc/t20/s1431] et seq.\], and these programs—
 
 >             “(A) serve far fewer than half of all eligible children;
 
@@ -87,7 +87,7 @@
 [/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 
 
