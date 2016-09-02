@@ -1461,6 +1461,12 @@
 
 >     “(c) The amendments made by subtitle J \[enacting [section 1113 of this title][/us/usc/t11/s1113]\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under [section 1113 of this title][/us/usc/t11/s1113]\].”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–107, § 1][/us/pl/114/107/s1], Dec. 18, 2015, [129 Stat. 2223][/us/stat/129/2223], provided that: 
+
+> “This Act \[amending provisions set out as a note under [section 707 of this title][/us/usc/t11/s707]\] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2015’.”
+
  __Short Title of 2011 Amendment__ 
 
 [Pub. L. 112–64, § 1][/us/pl/112/64/s1], Dec. 13, 2011, [125 Stat. 766][/us/stat/125/766], provided that: 
@@ -1955,6 +1961,9 @@
 [/us/usc/t11/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs303
 [/us/usc/t11/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1113
 [/us/usc/t11/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1113
+[/us/pl/114/107/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F107%2Fs1
+[/us/stat/129/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2223
+[/us/usc/t11/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs707
 [/us/pl/112/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F64%2Fs1
 [/us/stat/125/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F766
 [/us/usc/t11/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs707

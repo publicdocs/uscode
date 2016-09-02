@@ -309,7 +309,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–438, § 4][/us/pl/110/438/s4], Oct. 20, 2008, [122 Stat. 5002][/us/stat/122/5002], as amended by [Pub. L. 112–64, § 2][/us/pl/112/64/s2], Dec. 13, 2011, [125 Stat. 766][/us/stat/125/766], provided that:
+[Pub. L. 110–438, § 4][/us/pl/110/438/s4], Oct. 20, 2008, [122 Stat. 5002][/us/stat/122/5002], as amended by [Pub. L. 112–64, § 2][/us/pl/112/64/s2], Dec. 13, 2011, [125 Stat. 766][/us/stat/125/766]; [Pub. L. 114–107, § 2][/us/pl/114/107/s2], Dec. 18, 2015, [129 Stat. 2223][/us/stat/129/2223], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -317,7 +317,7 @@
 
 >     “(b)  __Application of Amendments__  __.—__ 
 
->     The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”
+>     The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 11-year period beginning on the effective date of this Act.”
 
  __Effective Date of 2005 Amendment__ 
 
@@ -409,6 +409,8 @@
 [/us/stat/122/5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5002
 [/us/pl/112/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F64%2Fs2
 [/us/stat/125/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F766
+[/us/pl/114/107/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F107%2Fs2
+[/us/stat/129/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2223
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
