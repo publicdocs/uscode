@@ -15,7 +15,7 @@
 
 # Title 19—CUSTOMS DUTIES
 
-Current through 114-139
+Current through 114-141
 
 <table>
 
@@ -306,6 +306,16 @@ Current through 114-139
     <td> Bipartisan Congressional Trade Priorities and Accountability  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4201" data-uslm-ref="/us/usc/t19/s4201">4201</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fch28" data-uslm-ref="/us/usc/t19/ch28">28.</a>  </td>
+
+    <td> Trade Facilitation and Trade Enforcement Act of 2015  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4301" data-uslm-ref="/us/usc/t19/s4301">4301</a>  </td>
 
   </tr>
 
