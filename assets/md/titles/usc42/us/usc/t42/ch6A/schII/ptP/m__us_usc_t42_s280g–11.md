@@ -133,7 +133,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -162,6 +162,8 @@
 [/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/111/148/s10501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fc%2F1
 [/us/pl/111/148/s10501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fc%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

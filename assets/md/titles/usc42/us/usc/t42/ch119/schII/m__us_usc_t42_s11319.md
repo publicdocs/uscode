@@ -23,7 +23,7 @@
 
     2014—[Pub. L. 113–235][/us/pl/113/235] substituted “October 1, 2017” for “October 1, 2016”.
 
-    2014—[Pub. L. 113–76][/us/pl/113/76] substituted “October 1, 2016” for “October 1, 2015”.
+    [Pub. L. 113–76][/us/pl/113/76] substituted “October 1, 2016” for “October 1, 2015”.
 
     2011—[Pub. L. 112–55][/us/pl/112/55] substituted “October 1, 2015” for “October 1, 2013.”
 

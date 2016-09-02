@@ -145,7 +145,7 @@
 
         The Secretary of the Treasury, the Secretary of Health and Human Services, and the Secretary of Labor may promulgate regulations necessary to carry out this Act, including such rules as may be necessary to prevent inappropriate expansion of the application of the exclusions under this Act from applicable laws and regulations, and to amend existing annual reporting requirements or procedures to include applicable qualified expatriate health insurers’ total number of expatriate plan enrollees.
 
-    (f) __Effective Date__ 
+    (f) __Effective date__ 
 
         Unless otherwise specified, this Act shall take effect on December 16, 2014, and shall apply only to expatriate health plans issued or renewed on or after July 1, 2015.
 

@@ -303,7 +303,7 @@
 
                     (I) be research-based, developmentally appropriate, and aligned with entry to kindergarten;
 
-                    (II) be implemented in consultation with the state educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “642B(b)(1)(A)(i)”. </sup></sup>  of the Head Start Act ([42 U.S.C. 9837b(b)(1)(A)(i)][/us/usc/t42/s9837b/b/1/A/i]); and
+                    (II) be implemented in consultation with the state  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be capitalized. </sup></sup>  educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “642B(b)(1)(A)(i)”. </sup></sup>  of the Head Start Act ([42 U.S.C. 9837b(b)(1)(A)(i)][/us/usc/t42/s9837b/b/1/A/i]);  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Another closing parenthesis probably should precede the semicolon. </sup></sup>  and
 
                     (III) be updated as determined by the State.
 
@@ -427,7 +427,7 @@
 
             (D) __Assistance for certain families__ 
 
-                A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[[42 U.S.C. 618(b)(2)][/us/usc/t42/s618/b/2]\] with respect to each of the fiscal years 2015 through 2020  <sup>\[6\]</sup>  <sup><sup> 6 So in original. A closing parenthesis probably should appear. </sup></sup>  to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
+                A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[[42 U.S.C. 618(b)(2)][/us/usc/t42/s618/b/2]\] with respect to each of the fiscal years 2015 through 2020  <sup>\[8\]</sup>  <sup><sup> 8 So in original. A closing parenthesis probably should appear. </sup></sup>  to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
 
             (E) __Direct services__ 
 
@@ -459,7 +459,7 @@
 
                     (II) taking into consideration the cost of providing higher quality child care services than were provided under this subchapter before November 19, 2014; and
 
-                    (III) without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on Novebmer 19, 2014; and
+                    (III) without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on November 19, 2014; and
 
                 (iv) describe how the State will provide for timely payment for child care services provided under this subchapter.
 

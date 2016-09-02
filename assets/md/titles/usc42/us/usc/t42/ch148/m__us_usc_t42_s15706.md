@@ -19,47 +19,51 @@
 
     There are authorized to be appropriated to the Federal Emergency Management Agency for carrying out this chapter—
 
-        (1) $8,700,000 for fiscal year 2006;
+        (1) $5,332,000 for fiscal year 2015;
 
-        (2) $9,400,000 for fiscal year 2007; and
+        (2) $5,332,000 for fiscal year 2016; and
 
-        (3) $9,400,000 for fiscal year 2008.
+        (3) $5,332,000 for fiscal year 2017.
 
     (b) __National Science Foundation__ 
 
     There are authorized to be appropriated to the National Science Foundation for carrying out this chapter—
 
-        (1) $8,700,000 for fiscal year 2006;
+        (1) $9,682,000 for fiscal year 2015;
 
-        (2) $9,400,000 for fiscal year 2007; and
+        (2) $9,682,000 for fiscal year 2016; and
 
-        (3) $9,400,000 for fiscal year 2008.
+        (3) $9,682,000 for fiscal year 2017.
 
     (c) __National Institute of Standards and Technology__ 
 
     There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
 
-        (1) $3,000,000 for fiscal year 2006;
+        (1) $4,120,000 for fiscal year 2015;
 
-        (2) $4,000,000 for fiscal year 2007; and
+        (2) $4,120,000 for fiscal year 2016; and
 
-        (3) $4,000,000 for fiscal year 2008.
+        (3) $4,120,000 for fiscal year 2017.
 
     (d) __National Oceanic and Atmospheric Administration__ 
 
     There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this chapter—
 
-        (1) $2,100,000 for fiscal year 2006;
+        (1) $2,266,000 for fiscal year 2015;
 
-        (2) $2,200,000 for fiscal year 2007; and
+        (2) $2,266,000 for fiscal year 2016; and
 
-        (3) $2,200,000 for fiscal year 2008.
+        (3) $2,266,000 for fiscal year 2017.
 
-([Pub. L. 108–360, title II, § 207][/us/pl/108/360/s207], Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679].)
+([Pub. L. 108–360, title II, § 207][/us/pl/108/360/s207], Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679]; [Pub. L. 114–52, § 5][/us/pl/114/52/s5], Sept. 30, 2015, [129 Stat. 500][/us/stat/129/500].)
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–52][/us/pl/114/52] amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2006 to 2008.
 
  __Transfer of Functions__ 
 
@@ -74,9 +78,12 @@
 
 [/us/pl/108/360/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs207
 [/us/stat/118/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1679
+[/us/pl/114/52/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs5
+[/us/stat/129/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F500
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
 [/us/usc/t42/s15701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15701
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 
 

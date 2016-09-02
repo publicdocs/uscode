@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
 
 ----------
 

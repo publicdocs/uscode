@@ -305,7 +305,7 @@
 
     The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], [52 Stat. 1060][/us/stat/52/1060], which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29][/us/usc/t29/s201] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
@@ -337,7 +337,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date__ 
 
@@ -400,6 +400,7 @@
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -460,6 +461,8 @@
 [/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
 [/us/pl/113/128/s512/w/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F3%2FB
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/109/365/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs502
 [/us/stat/120/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2590

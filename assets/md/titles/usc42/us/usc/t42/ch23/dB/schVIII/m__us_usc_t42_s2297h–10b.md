@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch23/dB/schVIII/m__us_usc_t42_s2297h–10a.md) | [Next](./../../../../../..//us/usc/t42/ch23/dB/schVIII/m__us_usc_t42_s2297h–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310b)
 
-## § 2297h–10b. Secretarial determinations; Congressional notification
+## § 2297h–10b. Secretarial determinations; congressional notification
 
     (a) __Secretarial determinations__ 
 

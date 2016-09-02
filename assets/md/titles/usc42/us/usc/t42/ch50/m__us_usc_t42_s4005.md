@@ -21,7 +21,7 @@
 
         The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
 
-    (2) __National flood insurance program__ 
+    (2) __National Flood Insurance Program__ 
 
         The term “National Flood Insurance Program” means the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.).
 

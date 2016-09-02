@@ -37,7 +37,7 @@
 
         (7) develop and update a national strategic plan for advanced manufacturing in accordance with subsection (c).
 
-    (c) __National Strategic Plan for Advanced Manufacturing__ 
+    (c) __National strategic plan for advanced manufacturing__ 
 
         (1) __In general__ 
 

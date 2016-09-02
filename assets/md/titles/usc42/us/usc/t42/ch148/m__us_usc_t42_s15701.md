@@ -39,6 +39,12 @@
 
 ([Pub. L. 108–360, title II, § 202][/us/pl/108/360/s202], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675].)
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–52, § 1][/us/pl/114/52/s1], Sept. 30, 2015, [129 Stat. 496][/us/stat/129/496], provided that: 
+
+> “This Act \[amending sections 15702 to 15704 and 15706 of this title\] may be cited as the ‘National Windstorm Impact Reduction Act Reauthorization of 2015’.”
+
  __Short Title__ 
 
 [Pub. L. 108–360, title II, § 201][/us/pl/108/360/s201], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], provided that: 
@@ -54,6 +60,8 @@
 
 [/us/pl/108/360/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs202
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
+[/us/pl/114/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs1
+[/us/stat/129/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F496
 [/us/pl/108/360/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs201
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
 [/us/usc/t42/s1885d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885d

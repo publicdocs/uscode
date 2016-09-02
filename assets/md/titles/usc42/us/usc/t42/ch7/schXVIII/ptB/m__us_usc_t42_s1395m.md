@@ -1779,7 +1779,7 @@
 
             (A) __Information__ 
 
-                The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under [section 1395m(e) of this title][/us/usc/t42/s1395m/e] and hospitals under [section 1395bb(a) of this title][/us/usc/t42/s1395bb/a].
+                The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under subsection (e) and hospitals under [section 1395bb(a) of this title][/us/usc/t42/s1395bb/a].
 
             (B) __Administration__ 
 
@@ -3826,7 +3826,6 @@
 [/us/usc/t42/s1395u/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fi%2F3
 [/us/usc/t42/s1395u/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fi%2F3
 [/us/usc/t42/s1395w–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fb
-[/us/usc/t42/s1395m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fe
 [/us/usc/t42/s1395bb/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395bb%2Fa
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
 [/us/usc/t42/s1395u/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F18%2FC

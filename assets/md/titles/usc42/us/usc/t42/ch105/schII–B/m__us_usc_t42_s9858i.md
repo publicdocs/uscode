@@ -25,7 +25,7 @@
 
             (B) __Required information__ 
 
-            The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a a comma. </sup></sup>  information concerning—
+            The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  information concerning—
 
                 (i) family income;
 
@@ -101,7 +101,7 @@
 
             (E) the total number (without duplication) of children and families served under this subchapter; and
 
-            (F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in [section 9858n(6)(B) of this title][/us/usc/t42/s9858n/6/B]) are licensed or license-exempt. <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period should probably be a semicolon. </sup></sup> 
+            (F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in [section 9858n(6)(B) of this title][/us/usc/t42/s9858n/6/B]) are licensed or license-exempt. <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period probably should be a semicolon. </sup></sup> 
 
             during the period for which such report is required to be submitted.
 

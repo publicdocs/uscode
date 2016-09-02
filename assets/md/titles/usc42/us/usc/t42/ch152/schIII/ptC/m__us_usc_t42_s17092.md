@@ -171,6 +171,10 @@
 
     Section 474, referred to in subsec. (c)(3), probably means [section 494 of Pub. L. 110–140][/us/pl/110/140/s494], which is classified to [section 17123 of this title][/us/usc/t42/s17123].
 
+ __Change of Name__ 
+
+    Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title][/us/usc/t42/s4321].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17091.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptC/m__us_usc_t42_s17093.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092)
@@ -195,5 +199,6 @@
 [/us/usc/t42/s6834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6834
 [/us/pl/110/140/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs494
 [/us/usc/t42/s17123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17123
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 
 

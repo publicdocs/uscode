@@ -27,7 +27,7 @@
 
     Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
- __Purchase power and wheeling expenses__ 
+ __Purchase Power and Wheeling Expenses__ 
 
 [Pub. L. 113–76, div. D, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 171][/us/stat/128/171], provided: 
 

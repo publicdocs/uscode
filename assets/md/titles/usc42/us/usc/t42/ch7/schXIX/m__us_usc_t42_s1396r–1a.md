@@ -95,11 +95,11 @@
 
  __References in Text__ 
 
-    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in subsec. (b)(3)(A)(i)(III), was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
-
     The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title][/us/usc/t42/s9801] and Tables.
 
     The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
+
+    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in subsec. (b)(3)(A)(i)(III), was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
 
     The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(3)(A)(i)(III), was [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482], as amended. [Pub. L. 100–77][/us/pl/100/77] was renamed the McKinney-Vento Homeless Assistance Act by [Pub. L. 106–400, § 1][/us/pl/106/400/s1], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], and is classified principally to chapter 119 (§ 11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title][/us/usc/t42/s11301] and Tables.
 
@@ -145,10 +145,6 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
@@ -156,6 +152,10 @@
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
+[/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
+[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77

@@ -1353,7 +1353,7 @@
 
  __Ex. Ord. No. 13432. Cooperation Among Agencies in Protecting the Environment With Respect to Greenhouse Gas Emissions From Motor Vehicles, Nonroad Vehicles, and Nonroad Engines__ 
 
-    Ex. Ord. No. 13432, May 14, 2007, 72 F.R. 27717, provided:
+    Ex. Ord. No. 13432, May 14, 2007, 72 F.R. 27717, as amended by Ex. Ord. No. 13693, § 16(e), Mar. 19, 2015, 80 F.R. 15881, provided:
 
     By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -1367,7 +1367,7 @@
 
     (c) “authorities” include the Clean Air Act ([42 U.S.C. 7401–767][/us/usc/t42/s7401–767]1q), the Energy Policy Act of 1992 ([Public Law 102–486][/us/pl/102/486]), the Energy Policy Act of 2005 ([Public Law 109–58][/us/pl/109/58]), the Energy Policy and Conservation Act ([Public Law 94–163][/us/pl/94/163]), and any other current or future laws or regulations that may authorize or require any of the agencies to take regulatory action that directly or indirectly affects emissions of greenhouse gases from motor vehicles;
 
-    (d) “greenhouse gases” has the meaning specified for that term in Executive Order 13423 of January 24, 2007;
+    (d) “greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride \[sic\], and sulfur hexafluoride;
 
     (e) “motor vehicle” has the meaning specified for that term in section 216(2) of the Clean Air Act ([42 U.S.C. 7550(2)][/us/usc/t42/s7550/2]);
 
@@ -1412,8 +1412,6 @@
     (b) This order shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 
     (c) This order is not intended to, and does not, create any right, benefit or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
-
-                              George W. Bush.
 
 ----------
 

@@ -31,7 +31,7 @@
 
         There are transferred to the Administration for Community Living, all functions which the Commissioner of the Rehabilitation Services Administration exercised before the effective date of this section (including all related functions of any officer or employee of that Administration) under chapter 1 of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796][/us/usc/t29/s796] et seq.).
 
-    (c) __Personnel Determinations by the Office of Management and Budget__ 
+    (c) __Personnel determinations by the Office of Management and Budget__ 
 
     The Office of Management and Budget shall—
 

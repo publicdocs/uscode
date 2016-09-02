@@ -407,6 +407,30 @@
 
 ([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 135, as added [Pub. L. 114–17, § 2][/us/pl/114/17/s2], May 22, 2015, [129 Stat. 201][/us/stat/129/201].)
 
+ __Delegation of Certain Functions and Authorities Under Section 135 of the Atomic Energy Act of 1954 (__  __[__  __42 U.S.C. 2011__  __][/us/usc/t42/s2011]__  __et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015__ 
+
+    Memorandum of President of the United States, July 17, 2015, 80 F.R. 43909, provided:
+
+    Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301] of the United States Code, I hereby order as follows:
+
+I hereby delegate the functions and authorities vested in the President by the following provisions of section 135 of the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015, as follows:
+
+    • Section 135(a)(1) to the Secretary of State, in consultation with the Secretary of the Treasury as appropriate;
+
+    • Sections 135(d)(1)–(d)(3), (d)(5)(B), and (d)(6) to the Secretary of State, in consultation with other relevant agencies as appropriate;
+
+    • Section 135(d)(4) to the Secretary of State, in consultation with the Secretary of the Treasury as appropriate, with respect to the requirement to submit the report described in that provision and to prepare each of the required elements of the report, with the exception of the required assessment related to money laundering or terrorist finance activities in section 135(d)(4)(H);
+
+    • Section 135(d)(4)(H) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to preparation of the assessment described in that provision for inclusion in the report required by section 135(d)(4).
+
+    Any reference in this memorandum to provisions of any act related to the subject of this memorandum shall be deemed to include references to any hereafter enacted provisions of law that are the same or substantially the same as such provisions.
+
+    The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch23/dA/schX/m__us_usc_t42_s2160d.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXI/m__us_usc_t42_ch23_dA_schXI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160e)
@@ -419,5 +443,8 @@
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/pl/114/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F17%2Fs2
 [/us/stat/129/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F201
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 
 

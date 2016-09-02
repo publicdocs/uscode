@@ -183,7 +183,7 @@
 
                 (v)  __Consideration of prices and operating patterns__  __.—__ 
 
-                If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “than”. </sup></sup>  65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
+                If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “than”. </sup></sup>  65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
 
                 (vi) For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
 

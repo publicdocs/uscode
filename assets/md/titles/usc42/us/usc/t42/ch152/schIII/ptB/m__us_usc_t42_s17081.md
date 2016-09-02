@@ -135,6 +135,10 @@
 
 ([Pub. L. 110–140, title IV, § 421][/us/pl/110/140/s421], Dec. 19, 2007, [121 Stat. 1602][/us/stat/121/1602].)
 
+ __Change of Name__ 
+
+    Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title][/us/usc/t42/s4321].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_ch152_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch152/schIII/ptB/m__us_usc_t42_s17082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17081)
@@ -146,5 +150,6 @@
 [/us/usc/t42/s17083/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083%2F1
 [/us/pl/110/140/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs421
 [/us/stat/121/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1602
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 
 

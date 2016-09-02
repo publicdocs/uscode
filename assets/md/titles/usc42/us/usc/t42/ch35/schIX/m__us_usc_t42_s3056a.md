@@ -171,7 +171,7 @@
 
     The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is [Pub. L. 90–202][/us/pl/90/202], Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602], which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29][/us/usc/t29/s621] and Tables.
 
@@ -193,7 +193,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -241,6 +241,7 @@
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -282,6 +283,8 @@
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/113/128/s512/w/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4%2FB
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

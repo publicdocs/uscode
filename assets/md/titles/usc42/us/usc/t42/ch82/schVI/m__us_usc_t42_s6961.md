@@ -89,7 +89,7 @@
 
  __Executive Order No. 13101__ 
 
-    Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agencies to incorporate waste prevention and recycling policies in their daily operations and created a Steering Committee, a Federal Environmental Executive, a Task Force, and Agency Environmental Executive positions responsible for ensuring the implementation of this order, was revoked by Ex. Ord. No. 13423, § 11(a)(i), Jan. 24, 2007, 72 F.R. 3923, set out in a note under [section 4321 of this title][/us/usc/t42/s4321].
+    Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agencies to incorporate waste prevention and recycling policies in their daily operations and created a Steering Committee, a Federal Environmental Executive, a Task Force, and Agency Environmental Executive positions responsible for ensuring the implementation of this order, was revoked by Ex. Ord. No. 13423, § 11(a)(i), Jan. 24, 2007, 72 F.R. 3923, formerly set out in a note under [section 4321 of this title][/us/usc/t42/s4321].
 
 ----------
 

@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 108–360][/us/pl/108/360], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675], which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title][/us/usc/t42/s15701] and Tables.
 
     The National Manufactured Housing Construction and Safety Standards Act of 1974, referred to in text, is title VI of [Pub. L. 93–383][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700], as amended, which is classified generally to chapter 70 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title][/us/usc/t42/s5401] and Tables.
 

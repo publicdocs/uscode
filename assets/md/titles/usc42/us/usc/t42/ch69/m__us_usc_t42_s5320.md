@@ -17,7 +17,7 @@
 
     (a) __Regulations__ 
 
-        With respect to applications for assistance under section 5318 <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under section 5318 <sup>\[1\]</sup>  of this title and their relationship with division A of subtitle III and chapter 3125 of title 54.
+        With respect to applications for assistance under section 5318  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under section 5318  <sup>\[1\]</sup>  of this title and their relationship with division A of subtitle III and chapter 3125 of title 54.
 
     (b) __Actions by State historic preservation officer and Secretary of the Interior__ 
 

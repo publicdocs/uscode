@@ -49,7 +49,7 @@
 
 >     The Secretary of Health and Human Services and the Secretary of Education shall carry out the transfer of the HEAL program described in subsection (a), including the transfer of the functions, assets, and liabilities specified in subsection (b), in the manner that they determine is most appropriate.
 
->     “(d)  __Use of Authorities Under HEA of 1965__  __.—__ 
+>     “(d)  __Use of Authorities Under HEA of __  __1965.—__ 
 
 >     In servicing, collecting, and enforcing the loans described in subsection (a), the Secretary of Education shall have available any and all authorities available to such Secretary in servicing, collecting, or enforcing a loan made, insured, or guaranteed under part B of title IV of the HEA \[Higher Education Act\] of 1965 \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\].
 
