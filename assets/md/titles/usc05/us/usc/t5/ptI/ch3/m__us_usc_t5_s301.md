@@ -119,7 +119,7 @@ The words “or military department” are inserted to preserve the application 
 
 >     “(4)  __Work roles__  __.—__ 
 
->     The term ‘ work roles’ means a specialized set of tasks and functions requiring specific knowledge, skills, and abilities.
+>     The term ‘work roles’ means a specialized set of tasks and functions requiring specific knowledge, skills, and abilities.
 
 > “SEC. 303. __NATIONAL CYBERSECURITY WORKFORCE MEASUREMENT INITIATIVE.__ 
 

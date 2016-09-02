@@ -191,7 +191,7 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
     1982—[Pub. L. 97–276][/us/pl/97/276] inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under [section 5546a of this title][/us/usc/t5/s5546a].
 
- __Effective Date of of 2014 Amendment__ 
+ __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–277][/us/pl/113/277] effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out as a note under [section 5542 of this title][/us/usc/t5/s5542].
 

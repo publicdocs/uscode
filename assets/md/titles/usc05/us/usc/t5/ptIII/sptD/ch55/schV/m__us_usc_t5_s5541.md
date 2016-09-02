@@ -257,7 +257,7 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 
  __References in Text__ 
 
-    [Section 1291(a) of title 50][/us/usc/t50/s1291/a], appendix, referred to in par. (2)(C)(ix), is section 1(a) of [act Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45], which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, related to certain seamen employed on vessels through the War Shipping Administration, and has been omitted from the Code.
+    [Section 1291(a) of title 50][/us/usc/t50/s1291/a], appendix, referred to in par. (2)(C)(ix), is section 1(a) of [act Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45], which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4701(a) of Title 50][/us/usc/t50/s4701/a].
 
  __Amendments__ 
 
@@ -452,6 +452,7 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 [/us/usc/t50/s1291/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1291%2Fa
 [/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
 [/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45
+[/us/usc/t50/s4701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4701%2Fa
 [/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

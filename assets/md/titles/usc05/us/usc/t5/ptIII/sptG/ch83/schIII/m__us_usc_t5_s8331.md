@@ -911,7 +911,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
     Commissioned Officer Corps of Environmental Science Services Administration, referred to in par. (13)(C), changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], set out in the Appendix to this title.
 
- __Effective Date of of 2014 Amendment__ 
+ __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–277][/us/pl/113/277] effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out as a note under [section 5542 of this title][/us/usc/t5/s5542].
 
