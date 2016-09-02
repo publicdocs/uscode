@@ -369,7 +369,7 @@
 
             (B) contrary, in whole or in part, to the expressed intent of Congress.
 
-        (4)  __2__  __Congressional notice.—__ 
+        (4)  __2__  __Congressional notice__ 
 
             A copy of each fund control notice shall be transmitted to the appropriate congressional committees.
 

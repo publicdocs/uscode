@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs61" data-uslm-ref="/us/usc/t21/s61">61.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs62" data-uslm-ref="/us/usc/t21/s62">62.</a>  </td>
 
     <td> Manufacture, shipment, or delivery for shipment in interstate or foreign commerce prohibited.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs63" data-uslm-ref="/us/usc/t21/s63">63.</a>  </td>
 
     <td> Penalties; acts of agents deemed acts of principals.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs64" data-uslm-ref="/us/usc/t21/s64">64.</a>  </td>
 
     <td> Regulations for enforcement.  </td>
 

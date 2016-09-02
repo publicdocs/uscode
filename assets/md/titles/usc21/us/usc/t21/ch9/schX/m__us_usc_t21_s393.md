@@ -213,7 +213,7 @@
 
 >         “(5)
 
->          set forth how the Food and Drug Administration will ensure that advances in regulatory science for medical products are adopted, as appropriate, on an ongoing basis and in an manner integrated across centers, divisions, and branches of the Food and Drug Administration, including by senior managers and reviewers, including through the—
+>          set forth how the Food and Drug Administration will ensure that advances in regulatory science for medical products are adopted, as appropriate, on an ongoing basis and in an \[sic\] manner integrated across centers, divisions, and branches of the Food and Drug Administration, including by senior managers and reviewers, including through the—
 
 >             “(A) development, updating, and consistent application of guidance documents that support medical product decisionmaking; and
 

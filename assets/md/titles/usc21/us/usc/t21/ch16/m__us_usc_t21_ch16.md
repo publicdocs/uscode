@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1101" data-uslm-ref="/us/usc/t21/s1101">1101.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1102" data-uslm-ref="/us/usc/t21/s1102">1102.</a>  </td>
 
     <td> Congressional declaration of national policy.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1103, 1104. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1103" data-uslm-ref="/us/usc/t21/s1103">1103</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1104" data-uslm-ref="/us/usc/t21/s1104">1104.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—DRUG ABUSE POLICY COORDINATION  </td>
 
   <tr>
 
-    <td> 1111 to 1114.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1111" data-uslm-ref="/us/usc/t21/s1111">1111</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1114" data-uslm-ref="/us/usc/t21/s1114">1114.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -71,7 +73,7 @@ SUBCHAPTER II—DRUG ABUSE POLICY COORDINATION  </td>
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1115" data-uslm-ref="/us/usc/t21/s1115">1115.</a>  </td>
 
     <td> Notice relating to the control of dangerous drugs.  </td>
 
@@ -79,7 +81,9 @@ SUBCHAPTER II—DRUG ABUSE POLICY COORDINATION  </td>
 
   <tr>
 
-    <td> 1116 to 1155. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1116" data-uslm-ref="/us/usc/t21/s1116">1116</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1155" data-uslm-ref="/us/usc/t21/s1155">1155.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -93,7 +97,9 @@ SUBCHAPTER III—NATIONAL DRUG ABUSE STRATEGY  </td>
 
   <tr>
 
-    <td> 1161 to 1165. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1161" data-uslm-ref="/us/usc/t21/s1161">1161</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1165" data-uslm-ref="/us/usc/t21/s1165">1165.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -107,7 +113,7 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1171" data-uslm-ref="/us/usc/t21/s1171">1171.</a>  </td>
 
     <td> Drug abuse prevention function appropriations.  </td>
 
@@ -115,15 +121,15 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1172 to 1176. Repealed, Transferred, or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1172" data-uslm-ref="/us/usc/t21/s1172">1172</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1176" data-uslm-ref="/us/usc/t21/s1176">1176.</a>  </td>
 
-    <td> Omitted.  </td>
+    <td> Repealed, Transferred, or Omitted.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1177" data-uslm-ref="/us/usc/t21/s1177">1177.</a>  </td>
 
     <td> Special project grants and contracts.  </td>
 
@@ -131,7 +137,7 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1178" data-uslm-ref="/us/usc/t21/s1178">1178.</a>  </td>
 
     <td> Records and audit.  </td>
 
@@ -139,7 +145,7 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1179.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1179" data-uslm-ref="/us/usc/t21/s1179">1179.</a>  </td>
 
     <td> National Drug Abuse Training Center.  </td>
 
@@ -147,7 +153,7 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1180.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1180" data-uslm-ref="/us/usc/t21/s1180">1180.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -155,7 +161,7 @@ SUBCHAPTER IV—OTHER FEDERAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 1181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1181" data-uslm-ref="/us/usc/t21/s1181">1181.</a>  </td>
 
     <td> Contract authority.  </td>
 
@@ -171,9 +177,9 @@ SUBCHAPTER V—NATIONAL INSTITUTE ON DRUG ABUSE  </td>
 
   <tr>
 
-    <td> 1191 to 1194. Transferred or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1191" data-uslm-ref="/us/usc/t21/s1191">1191</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1194" data-uslm-ref="/us/usc/t21/s1194">1194.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 

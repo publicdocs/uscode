@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1601" data-uslm-ref="/us/usc/t21/s1601">1601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1602" data-uslm-ref="/us/usc/t21/s1602">1602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1603" data-uslm-ref="/us/usc/t21/s1603">1603.</a>  </td>
 
     <td> General requirements; applicability; preemption.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1604" data-uslm-ref="/us/usc/t21/s1604">1604.</a>  </td>
 
     <td> Liability of biomaterials suppliers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1605" data-uslm-ref="/us/usc/t21/s1605">1605.</a>  </td>
 
     <td> Procedures for dismissal of civil actions against biomaterials suppliers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1606" data-uslm-ref="/us/usc/t21/s1606">1606.</a>  </td>
 
     <td> Subsequent impleader of dismissed biomaterials supplier.  </td>
 

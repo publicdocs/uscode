@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL FOOD AND DRUGS ACT OF 1906  </td>
 
   <tr>
 
-    <td> 1 to 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1" data-uslm-ref="/us/usc/t21/s1">1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs15" data-uslm-ref="/us/usc/t21/s15">15.</a>  </td>
 
     <td> Repealed or Transferred.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs16" data-uslm-ref="/us/usc/t21/s16">16.</a>  </td>
 
     <td> Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs17" data-uslm-ref="/us/usc/t21/s17">17.</a>  </td>
 
     <td> Penalty for sale or introduction of falsely labeled dairy or food products; venue.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs18" data-uslm-ref="/us/usc/t21/s18">18.</a>  </td>
 
     <td> Suspension of importation of adulterated articles.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs19" data-uslm-ref="/us/usc/t21/s19">19.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs20" data-uslm-ref="/us/usc/t21/s20">20.</a>  </td>
 
     <td> Apples in interstate commerce; standard grades.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs21" data-uslm-ref="/us/usc/t21/s21">21.</a>  </td>
 
     <td> Branding grades on barrels of apples.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs22" data-uslm-ref="/us/usc/t21/s22">22.</a>  </td>
 
     <td> Barrels misbranded.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs23" data-uslm-ref="/us/usc/t21/s23">23.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs24" data-uslm-ref="/us/usc/t21/s24">24.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs25" data-uslm-ref="/us/usc/t21/s25">25.</a>  </td>
 
     <td> Oleomargarine, butterine, or imitation butter or cheese transported into a State subject to its police powers.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs26" data-uslm-ref="/us/usc/t21/s26">26.</a>  </td>
 
     <td> Omitted.  </td>
 

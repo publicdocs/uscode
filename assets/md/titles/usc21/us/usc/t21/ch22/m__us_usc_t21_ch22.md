@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1701" data-uslm-ref="/us/usc/t21/s1701">1701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1702" data-uslm-ref="/us/usc/t21/s1702">1702.</a>  </td>
 
     <td> Office of National Drug Control Policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1703" data-uslm-ref="/us/usc/t21/s1703">1703.</a>  </td>
 
     <td> Appointment and duties of Director and Deputy Directors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1704" data-uslm-ref="/us/usc/t21/s1704">1704.</a>  </td>
 
     <td> Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1705" data-uslm-ref="/us/usc/t21/s1705">1705.</a>  </td>
 
     <td> Development, submission, implementation, and assessment of National Drug Control Strategy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1706" data-uslm-ref="/us/usc/t21/s1706">1706.</a>  </td>
 
     <td> High Intensity Drug Trafficking Areas Program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1707" data-uslm-ref="/us/usc/t21/s1707">1707.</a>  </td>
 
     <td> Counter-Drug Technology Assessment Center.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1708" data-uslm-ref="/us/usc/t21/s1708">1708.</a>  </td>
 
     <td> National youth anti-drug media campaign.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1708a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1708a" data-uslm-ref="/us/usc/t21/s1708a">1708a.</a>  </td>
 
     <td> Annual report requirement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1709" data-uslm-ref="/us/usc/t21/s1709">1709.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1710" data-uslm-ref="/us/usc/t21/s1710">1710.</a>  </td>
 
     <td> Drug Interdiction Coordinator and Committee.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1710a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1710a" data-uslm-ref="/us/usc/t21/s1710a">1710a.</a>  </td>
 
     <td> Requirement for disclosure of Federal sponsorship of all Federal advertising or other communication materials.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1711" data-uslm-ref="/us/usc/t21/s1711">1711.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1712" data-uslm-ref="/us/usc/t21/s1712">1712.</a>  </td>
 
     <td> Termination of Office of National Drug Control Policy.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1713" data-uslm-ref="/us/usc/t21/s1713">1713.</a>  </td>
 
     <td> Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1714" data-uslm-ref="/us/usc/t21/s1714">1714.</a>  </td>
 
     <td> Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions.  </td>
 

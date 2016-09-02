@@ -125,7 +125,7 @@
 
                 The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any abbreviated new drug application or prior approval supplement to an abbreviated new drug application that the Secretary considers not to have been received within the meaning of [section 355(j)(5)(A) of this title][/us/usc/t21/s355/j/5/A] for a cause other than failure to pay fees.
 
-            (E) __Fee for an application the secretary considers not to have been received, or that has been withdrawn__ 
+            (E) __Fee for an application the Secretary considers not to have been received, or that has been withdrawn__ 
 
                 An abbreviated new drug application or prior approval supplement that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant’s withdrawal of the application, be subject to a full fee under subparagraph (A).
 

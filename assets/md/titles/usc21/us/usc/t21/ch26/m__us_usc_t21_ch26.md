@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2101" data-uslm-ref="/us/usc/t21/s2101">2101.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2102" data-uslm-ref="/us/usc/t21/s2102">2102.</a>  </td>
 
     <td> Ensuring the safety of pet food.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2103" data-uslm-ref="/us/usc/t21/s2103">2103.</a>  </td>
 
     <td> Ensuring efficient and effective communications during a recall.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2104" data-uslm-ref="/us/usc/t21/s2104">2104.</a>  </td>
 
     <td> State and Federal cooperation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2105" data-uslm-ref="/us/usc/t21/s2105">2105.</a>  </td>
 
     <td> Enhanced aquaculture and seafood inspection.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2106" data-uslm-ref="/us/usc/t21/s2106">2106.</a>  </td>
 
     <td> Consultation regarding genetically engineered seafood products.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2107" data-uslm-ref="/us/usc/t21/s2107">2107.</a>  </td>
 
     <td> Sense of Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2108" data-uslm-ref="/us/usc/t21/s2108">2108.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2109" data-uslm-ref="/us/usc/t21/s2109">2109.</a>  </td>
 
     <td> Publication of annual reports.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2110" data-uslm-ref="/us/usc/t21/s2110">2110.</a>  </td>
 
     <td> Rule of construction.  </td>
 

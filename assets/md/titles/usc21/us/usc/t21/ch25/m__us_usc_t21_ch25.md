@@ -33,7 +33,7 @@ SUBCHAPTER I—ANTI-DOPING AGENCY  </td>
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2001" data-uslm-ref="/us/usc/t21/s2001">2001.</a>  </td>
 
     <td> Designation of United States Anti-Doping Agency.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ANTI-DOPING AGENCY  </td>
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2002" data-uslm-ref="/us/usc/t21/s2002">2002.</a>  </td>
 
     <td> Records, audit, and report.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ANTI-DOPING AGENCY  </td>
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2003" data-uslm-ref="/us/usc/t21/s2003">2003.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE  </td>
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2011" data-uslm-ref="/us/usc/t21/s2011">2011.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE  </td>
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2012" data-uslm-ref="/us/usc/t21/s2012">2012.</a>  </td>
 
     <td> Establishment of clearinghouse and advisory council.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE  </td>
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2013" data-uslm-ref="/us/usc/t21/s2013">2013.</a>  </td>
 
     <td> NMIC requirements and review.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE  </td>
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2014" data-uslm-ref="/us/usc/t21/s2014">2014.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

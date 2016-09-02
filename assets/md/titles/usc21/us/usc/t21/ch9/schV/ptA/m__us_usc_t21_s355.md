@@ -1817,7 +1817,7 @@
 
 > “Not later than 6 months after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall promulgate guidance on the development of abuse-deterrent drug products.”
 
- __Extension of Period for First Applicant to Obtain Tentative Approval Without Forfeiting 180-Day-Exclusivity Period__ 
+ __Extension of Period for First Applicant To Obtain Tentative Approval Without Forfeiting 180-Day-Exclusivity Period__ 
 
 [Pub. L. 112–144, title XI, § 1133][/us/pl/112/144/s1133], July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that:
 

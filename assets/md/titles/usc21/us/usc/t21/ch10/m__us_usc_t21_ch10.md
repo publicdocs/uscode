@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs451" data-uslm-ref="/us/usc/t21/s451">451.</a>  </td>
 
     <td> Congressional statement of findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs452" data-uslm-ref="/us/usc/t21/s452">452.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs453" data-uslm-ref="/us/usc/t21/s453">453.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs454" data-uslm-ref="/us/usc/t21/s454">454.</a>  </td>
 
     <td> Federal and State cooperation in development and administration of State poultry product inspection programs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs455" data-uslm-ref="/us/usc/t21/s455">455.</a>  </td>
 
     <td> Inspection in official establishments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs456" data-uslm-ref="/us/usc/t21/s456">456.</a>  </td>
 
     <td> Operation of premises, facilities and equipment.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs457" data-uslm-ref="/us/usc/t21/s457">457.</a>  </td>
 
     <td> Labeling and container standards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs458" data-uslm-ref="/us/usc/t21/s458">458.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs459" data-uslm-ref="/us/usc/t21/s459">459.</a>  </td>
 
     <td> Compliance by all establishments.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs460" data-uslm-ref="/us/usc/t21/s460">460.</a>  </td>
 
     <td> Miscellaneous activities subject to regulation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs461" data-uslm-ref="/us/usc/t21/s461">461.</a>  </td>
 
     <td> Offenses and punishment.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs462" data-uslm-ref="/us/usc/t21/s462">462.</a>  </td>
 
     <td> Reporting of violations; notice; opportunity to present views.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs463" data-uslm-ref="/us/usc/t21/s463">463.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs464" data-uslm-ref="/us/usc/t21/s464">464.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs465" data-uslm-ref="/us/usc/t21/s465">465.</a>  </td>
 
     <td> Limitations upon entry of poultry products and other materials into official establishments.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs466" data-uslm-ref="/us/usc/t21/s466">466.</a>  </td>
 
     <td> Imports.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467" data-uslm-ref="/us/usc/t21/s467">467.</a>  </td>
 
     <td> Inspection services.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 467a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467a" data-uslm-ref="/us/usc/t21/s467a">467a.</a>  </td>
 
     <td> Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 467b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467b" data-uslm-ref="/us/usc/t21/s467b">467b.</a>  </td>
 
     <td> Seizure and condemnation.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 467c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467c" data-uslm-ref="/us/usc/t21/s467c">467c.</a>  </td>
 
     <td> Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 467d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467d" data-uslm-ref="/us/usc/t21/s467d">467d.</a>  </td>
 
     <td> Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 467e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467e" data-uslm-ref="/us/usc/t21/s467e">467e.</a>  </td>
 
     <td> Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 467f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs467f" data-uslm-ref="/us/usc/t21/s467f">467f.</a>  </td>
 
     <td> Federal Food, Drug, and Cosmetic Act applications.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs468" data-uslm-ref="/us/usc/t21/s468">468.</a>  </td>
 
     <td> Cost of inspection; overtime.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs469" data-uslm-ref="/us/usc/t21/s469">469.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs470" data-uslm-ref="/us/usc/t21/s470">470.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs471" data-uslm-ref="/us/usc/t21/s471">471.</a>  </td>
 
     <td> Safe Meat and Poultry Inspection Panel.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs472" data-uslm-ref="/us/usc/t21/s472">472.</a>  </td>
 
     <td> Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2201" data-uslm-ref="/us/usc/t21/s2201">2201.</a>  </td>
 
     <td> Performance standards.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2202" data-uslm-ref="/us/usc/t21/s2202">2202.</a>  </td>
 
     <td> National Agriculture and Food Defense strategy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2203" data-uslm-ref="/us/usc/t21/s2203">2203.</a>  </td>
 
     <td> Food and Agriculture Coordinating Councils.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2204" data-uslm-ref="/us/usc/t21/s2204">2204.</a>  </td>
 
     <td> Building domestic capacity.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2205" data-uslm-ref="/us/usc/t21/s2205">2205.</a>  </td>
 
     <td> Food allergy and anaphylaxis management.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS  </td>
 
   <tr>
 
-    <td> 2206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2206" data-uslm-ref="/us/usc/t21/s2206">2206.</a>  </td>
 
     <td> Alcohol-related facilities.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
   <tr>
 
-    <td> 2221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2221" data-uslm-ref="/us/usc/t21/s2221">2221.</a>  </td>
 
     <td> Food emergency response network.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
   <tr>
 
-    <td> 2222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2222" data-uslm-ref="/us/usc/t21/s2222">2222.</a>  </td>
 
     <td> Integrated consortium of laboratory networks.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
   <tr>
 
-    <td> 2223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2223" data-uslm-ref="/us/usc/t21/s2223">2223.</a>  </td>
 
     <td> Enhancing tracking and tracing of food and recordkeeping.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
   <tr>
 
-    <td> 2224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2224" data-uslm-ref="/us/usc/t21/s2224">2224.</a>  </td>
 
     <td> Surveillance.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS
 
   <tr>
 
-    <td> 2225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2225" data-uslm-ref="/us/usc/t21/s2225">2225.</a>  </td>
 
     <td> Decontamination and disposal standards and plans.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—IMPROVING THE SAFETY OF IMPORTED FOOD  </td>
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2241" data-uslm-ref="/us/usc/t21/s2241">2241.</a>  </td>
 
     <td> Inspection by the Secretary of Commerce.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—IMPROVING THE SAFETY OF IMPORTED FOOD  </td>
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2242" data-uslm-ref="/us/usc/t21/s2242">2242.</a>  </td>
 
     <td> Foreign offices of the Food and Drug Administration.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—IMPROVING THE SAFETY OF IMPORTED FOOD  </td>
 
   <tr>
 
-    <td> 2243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2243" data-uslm-ref="/us/usc/t21/s2243">2243.</a>  </td>
 
     <td> Smuggled food.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2251" data-uslm-ref="/us/usc/t21/s2251">2251.</a>  </td>
 
     <td> Jurisdiction; authorities.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs2252" data-uslm-ref="/us/usc/t21/s2252">2252.</a>  </td>
 
     <td> Compliance with international agreements.  </td>
 

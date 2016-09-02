@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs151" data-uslm-ref="/us/usc/t21/s151">151.</a>  </td>
 
     <td> Preparation and sale of worthless or harmful products for domestic animals prohibited; preparation to be in compliance with rules at licensed establishments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs152" data-uslm-ref="/us/usc/t21/s152">152.</a>  </td>
 
     <td> Importation regulated and prohibited.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs153" data-uslm-ref="/us/usc/t21/s153">153.</a>  </td>
 
     <td> Inspection of imports; denial of entry and destruction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs154" data-uslm-ref="/us/usc/t21/s154">154.</a>  </td>
 
     <td> Regulations for preparation and sale; licenses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 154a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs154a" data-uslm-ref="/us/usc/t21/s154a">154a.</a>  </td>
 
     <td> Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs155" data-uslm-ref="/us/usc/t21/s155">155.</a>  </td>
 
     <td> Permits for importation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs156" data-uslm-ref="/us/usc/t21/s156">156.</a>  </td>
 
     <td> Licenses conditioned on permitting inspection; suspension of licenses.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs157" data-uslm-ref="/us/usc/t21/s157">157.</a>  </td>
 
     <td> Inspection.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs158" data-uslm-ref="/us/usc/t21/s158">158.</a>  </td>
 
     <td> Offenses; punishment.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs159" data-uslm-ref="/us/usc/t21/s159">159.</a>  </td>
 
     <td> Enforcement; penalties applicable; Congressional findings.  </td>
 

@@ -83,7 +83,7 @@
 
         (4) __Risk factors__ 
 
-        In establishing the risk-based scheduled under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+        In establishing the risk-based scheduled  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “schedule”. </sup></sup>  under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
 
             (A) The compliance history of the establishment.
 

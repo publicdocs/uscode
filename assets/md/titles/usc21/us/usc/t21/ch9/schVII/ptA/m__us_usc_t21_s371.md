@@ -139,7 +139,7 @@
 
     For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title][/us/usc/t21/s321].
 
- __Notification of FDA Intent to Regulate Laboratory-Developed Tests__ 
+ __Notification of FDA Intent To Regulate Laboratory-Developed Tests__ 
 
 [Pub. L. 112–144, title XI, § 1143][/us/pl/112/144/s1143], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that:
 

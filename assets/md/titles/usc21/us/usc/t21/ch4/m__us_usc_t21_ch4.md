@@ -33,7 +33,7 @@ SUBCHAPTER I—EXAMINATION OF ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS  </td>
 
   <tr>
 
-    <td> 71 to 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs71" data-uslm-ref="/us/usc/t21/s71">71</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs99" data-uslm-ref="/us/usc/t21/s99">99.</a>  </td>
 
     <td> Transferred, Repealed, or Omitted.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—IMPORTATION OF CATTLE AND QUARANTINE  </td>
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs101" data-uslm-ref="/us/usc/t21/s101">101.</a>  </td>
 
     <td> Suspension of importation of all animals.  </td>
 
@@ -57,7 +57,9 @@ SUBCHAPTER II—IMPORTATION OF CATTLE AND QUARANTINE  </td>
 
   <tr>
 
-    <td> 102 to 107. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs102" data-uslm-ref="/us/usc/t21/s102">102</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs107" data-uslm-ref="/us/usc/t21/s107">107.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -71,7 +73,7 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 111 to 113.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs111" data-uslm-ref="/us/usc/t21/s111">111</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs113" data-uslm-ref="/us/usc/t21/s113">113.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -79,7 +81,7 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 113a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs113a" data-uslm-ref="/us/usc/t21/s113a">113a.</a>  </td>
 
     <td> Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 114 to 114h.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs114" data-uslm-ref="/us/usc/t21/s114">114</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs114h" data-uslm-ref="/us/usc/t21/s114h">114h.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -95,7 +97,7 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 114i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs114i" data-uslm-ref="/us/usc/t21/s114i">114i.</a>  </td>
 
     <td> Pseudorabies eradication.  </td>
 
@@ -103,15 +105,15 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 115 to 135b. Repealed, Omitted, or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs115" data-uslm-ref="/us/usc/t21/s115">115</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs135b" data-uslm-ref="/us/usc/t21/s135b">135b.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Repealed, Omitted, or Transferred.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs136" data-uslm-ref="/us/usc/t21/s136">136.</a>  </td>
 
     <td> Additional inspection services.  </td>
 
@@ -119,7 +121,7 @@ SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION  </td>
 
   <tr>
 
-    <td> 136a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs136a" data-uslm-ref="/us/usc/t21/s136a">136a.</a>  </td>
 
     <td> Collection of fees for inspection services.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs141" data-uslm-ref="/us/usc/t21/s141">141.</a>  </td>
 
     <td> Prohibition of importation without permit.  </td>
 
@@ -143,7 +145,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs142" data-uslm-ref="/us/usc/t21/s142">142.</a>  </td>
 
     <td> Milk or cream when unfit for importation.  </td>
 
@@ -151,7 +153,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs143" data-uslm-ref="/us/usc/t21/s143">143.</a>  </td>
 
     <td> Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs144" data-uslm-ref="/us/usc/t21/s144">144.</a>  </td>
 
     <td> Unlawful receiving of imported milk or cream.  </td>
 
@@ -167,7 +169,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs145" data-uslm-ref="/us/usc/t21/s145">145.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -175,7 +177,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs146" data-uslm-ref="/us/usc/t21/s146">146.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -183,7 +185,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs147" data-uslm-ref="/us/usc/t21/s147">147.</a>  </td>
 
     <td> Repeal of inconsistent laws.  </td>
 
@@ -191,7 +193,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs148" data-uslm-ref="/us/usc/t21/s148">148.</a>  </td>
 
     <td> Powers of State with respect to milk or cream lawfully imported.  </td>
 
@@ -199,7 +201,7 @@ SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM  </td>
 
   <tr>
 
-    <td> 149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs149" data-uslm-ref="/us/usc/t21/s149">149.</a>  </td>
 
     <td> Definitions.  </td>
 

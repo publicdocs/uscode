@@ -121,7 +121,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 105(b) of Pub. L. 112–144][/us/pl/112/144/s105/b], see Termination Date note below.
+For termination of section by [section 105(b) of Pub. L. 112–144][/us/pl/112/144/s105/b], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

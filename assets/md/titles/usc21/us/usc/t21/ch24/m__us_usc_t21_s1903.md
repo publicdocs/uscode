@@ -103,6 +103,16 @@
 
     For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
+ __Delegation of Functions Under Section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act__ 
+
+    Memorandum of President of the United States, May 31, 2013, 78 F.R. 33943, provided:
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate the functions conferred upon the President by section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1903(h)(2)(A)][/us/usc/t21/s1903/h/2/A]), to the Secretary of the Treasury.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../..//us/usc/t21/ch24/m__us_usc_t21_s1902.md) | [Next](./../../../..//us/usc/t21/ch24/m__us_usc_t21_s1904.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903)
@@ -117,5 +127,7 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t21/s1903/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903%2Fh%2F2%2FA
 
 
