@@ -35,11 +35,11 @@
 
 [Pub. L. 106–84, § 2][/us/pl/106/84/s2], Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Secretary of the Interior is authorized to enter into an agreement with the Governor of the Virgin Islands establishing mutually agreed financial accountability and performance standards for the fiscal operations of the Government of the Virgin Islands.
 
->     “(b)  __Transmission to Congress__  __.—__ 
+>     “(b) __Transmission to Congress.—__ 
 
 >     Upon ratification of the agreement authorized in subsection (a) by both parties, the Secretary shall forward a copy of the agreement to the Committee on Resources \[now Committee on Natural Resources\] in the House of Representatives and the Committee on Energy and Natural Resources in the Senate.”
 

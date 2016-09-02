@@ -139,8 +139,6 @@
 
 >  __“COMPACT OF FREE ASSOCIATION__ 
 
->  __“preamble__ 
-
 >  __“the government of the united states of america and the government of palau__ 
 
 >     “Affirming that their Governments and the relationship between their Governments are founded upon respect for human rights and fundamental freedoms for all, and
@@ -741,25 +739,9 @@
 
 >  __“done at \_\_\_\_\_\_\_\_\_\_, this \_\_\_ day__ 
 
->  __“of \_\_, one thousand nine hundred eighty-five__ 
-
->  __“for the government__ 
-
->  __“of__ 
-
 >  __“the united states of america__ 
 
 >  __“\_\_\_\_\_\_\_\_\_\_\_\___ 
-
->  __“done at \_\_\_\_\_\_\_\_\_\_, this \_\_\_ day__ 
-
->  __“of \_\_, one thousand nine hundred eighty-five__ 
-
->  __“for the government__ 
-
->  __“of__ 
-
->  __“the republic of palau__ 
 
 >  __“\_\_\_\_\_\_\_\_\_\_\_\_”.__ 
 

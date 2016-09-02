@@ -187,15 +187,15 @@
 
 [Pub. L. 110–229, title VII, § 705][/us/pl/110/229/s705], May 8, 2008, [122 Stat. 867][/us/stat/122/867], as amended by [Pub. L. 113–4, title VIII, § 809][/us/pl/113/4/s809], Mar. 7, 2013, [127 Stat. 117][/us/stat/127/117], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as specifically provided in this section or otherwise in this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 110–229][/us/pl/110/229], enacting this section and sections 1807 and 1808 of this title, amending [section 1804 of this title][/us/usc/t48/s1804] and sections 1101, 1158, 1182, 1184, and 1225 of Title 8, Immigration and Nationality, enacting provisions set out as notes under this section, [section 1801 of this title][/us/usc/t48/s1801], and [section 1182 of Title 8][/us/usc/t8/s1182], and amending provisions set out as notes under [section 1801 of this title][/us/usc/t48/s1801]\], this subtitle and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[May 8, 2008\].
 
->     “(b)  __Amendments to the Immigration and Nationality Act__  __.—__ 
+>     “(b) __Amendments to the Immigration and Nationality Act.—__ 
 
 >     The amendments to the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] made by this subtitle \[amending sections 1101, 1158, 1182, 1184, and 1225 of Title 8\], and other provisions of this subtitle applying the immigration laws (as defined in section 101(a)(17) of Immigration and Nationality Act ([8 U.S.C. 1101(a)(17)][/us/usc/t8/s1101/a/17])) to the Commonwealth, shall take effect on the transition program effective date described in [section 6 of Public Law 94–241][/us/pl/94/241/s6] \[[48 U.S.C. 1806][/us/usc/t48/s1806]\] (as added by section 702(a)), unless specifically provided otherwise in this subtitle.
 
->     “(c)  __Construction__  __.—__ 
+>     “(c) __Construction.—__ 
 
 >     Nothing in this subtitle or the amendments made by this subtitle shall be construed to make any residence or presence in the Commonwealth before the transition program effective date described in [section 6 of Public Law 94–241][/us/pl/94/241/s6] \[[48 U.S.C. 1806][/us/usc/t48/s1806]\] (as added by section 702(a)) residence or presence in the United States, except that—
 
@@ -207,7 +207,7 @@
 
 [Pub. L. 110–229, title VII, § 701][/us/pl/110/229/s701], May 8, 2008, [122 Stat. 853][/us/stat/122/853], provided that:
 
->     “(a)  __Immigration and Growth__  __.—__ 
+>     “(a) __Immigration and Growth.—__ 
 
 >     In recognition of the need to ensure uniform adherence to long-standing fundamental immigration policies of the United States, it is the intention of the Congress in enacting this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 110–229][/us/pl/110/229], see Effective Date note set out above\]—
 
@@ -233,7 +233,7 @@
 
 >             “(E) providing a mechanism for the continued use of alien workers, to the extent those workers continue to be necessary to supplement the Commonwealth’s resident workforce, and to protect those workers from the potential for abuse and exploitation.
 
->     “(b)  __Avoiding Adverse Effects__  __.—__ 
+>     “(b) __Avoiding Adverse Effects.—__ 
 
 >     In recognition of the Commonwealth’s unique economic circumstances, history, and geographical location, it is the intent of the Congress that the Commonwealth be given as much flexibility as possible in maintaining existing businesses and other revenue sources, and developing new economic opportunities, consistent with the mandates of this subtitle. This subtitle, and the amendments made by this subtitle, should be implemented wherever possible to expand tourism and economic development in the Commonwealth, including aiding prospective tourists in gaining access to the Commonwealth’s memorials, beaches, parks, dive sites, and other points of interest.”
 
@@ -241,17 +241,17 @@
 
 [Pub. L. 110–229, title VII, § 702(h)(1)][/us/pl/110/229/s702/h/1], (2), May 8, 2008, [122 Stat. 864][/us/stat/122/864], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Not later than March 1 of the first year that is at least 2 full years after the date of enactment of this subtitle \[May 8, 2008\], and annually thereafter, the President shall submit to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report that evaluates the overall effect of the transition program established under section 6 \[[48 U.S.C. 1806][/us/usc/t48/s1806]\] of the Joint Resolution entitled ‘A Joint Resolution to approve the “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America”, and for other purposes’, approved March 24, 1976 ([Public Law 94–241][/us/pl/94/241]), as added by subsection (a), and the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.) on the Commonwealth.
 
->     “(2)  __Contents__  __.—__ 
+>     “(2) __Contents.—__ 
 
 >     In addition to other topics otherwise required to be included under this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 110–229][/us/pl/110/229], see Effective Date note set out above\] or the amendments made by this subtitle, each report submitted under paragraph (1) shall include a description of the efforts that have been undertaken during the period covered by the report to diversify and strengthen the local economy of the Commonwealth, including efforts to promote the Commonwealth as a tourist destination. The report by the President shall include an estimate for the numbers of nonimmigrant workers described under section 101(a)(15)(H) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)][/us/usc/t8/s1101/a/15/H]) necessary to avoid adverse economic effects in Guam and the Commonwealth.”
 
 [Pub. L. 110–229, title VII, § 702(h)(4)][/us/pl/110/229/s702/h/4], May 8, 2008, [122 Stat. 865][/us/stat/122/865], provided that:
 
->     “(4)  __Reports by the local government__  __.—__ 
+>     “(4) __Reports by the local government.—__ 
 
 >     The Governor of the Commonwealth may submit an annual report to the President on the implementation of this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 110–229][/us/pl/110/229], see Effective Date note set out above\], and the amendments made by this subtitle, with recommendations for future changes. The President shall forward the Governor’s report to the Congress with any Administration comment after an appropriate period of time for internal review, provided that nothing in this paragraph shall be construed to require the President to provide any legislative recommendation to the Congress.”
 

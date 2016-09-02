@@ -233,6 +233,8 @@
 
     Section 636, acts [Apr. 30, 1900, ch. 339, § 84][/us/act/1900-04-30/ch339/s84], [31 Stat. 157][/us/stat/31/157]; [May 27, 1910, ch. 258, § 6][/us/act/1910-05-27/ch258/s6], [36 Stat. 447][/us/stat/36/447], set out standards for disqualification of jurors who were related by affinity or consanguinity with a person interested in case being tried and for disqualification of judges in certain cases.
 
+DISTRICT COURT
+
 §§ 641 to 644. __Repealed.__  __[__  __June 25, 1948, ch. 646__  __][/us/act/1948-06-25/ch646]__  __, §§ 8, 39,__  __[__  __62 Stat. 986__  __][/us/stat/62/986]__  __, 992__ 
 
     Section 641, acts [Apr. 30, 1900, ch. 339, § 86(a)][/us/act/1900-04-30/ch339/s86/a], (d), [31 Stat. 158][/us/stat/31/158]; [Mar. 3, 1909, ch. 269, § 1][/us/act/1909-03-03/ch269/s1], [35 Stat. 838][/us/stat/35/838]; [July 9, 1921, ch. 42, § 313][/us/act/1921-07-09/ch42/s313], [42 Stat. 119][/us/stat/42/119]; [Feb. 12, 1925, ch. 220][/us/act/1925-02-12/ch220], [43 Stat. 890][/us/stat/43/890]; [Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919]; [July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716], related to district court, sessions, powers, terms. See section 81 et seq. of Title 28, Judiciary and Judicial Procedure.

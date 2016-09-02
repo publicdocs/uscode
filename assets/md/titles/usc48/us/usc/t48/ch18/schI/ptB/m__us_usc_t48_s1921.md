@@ -393,23 +393,23 @@
 
 >      In order to assist the Government of the Federated States of Micronesia in its efforts to promote the economic advancement, budgetary self-reliance, and economic self-sufficiency of its people, and in recognition of the special relationship that exists between the Federated States of Micronesia and the United States, the Government of the United States shall provide assistance on a sector grant basis for a period of twenty years in the amounts set forth in section 216, commencing on the effective date of this Compact, as amended. Such grants shall be used for assistance in the sectors of education, health care, private sector development, the environment, public sector capacity building, and public infrastructure, or for other sectors as mutually agreed, with priorities in the education and health care sectors. For each year such sector grant assistance is made available, the proposed division of this amount among these sectors shall be certified to the Government of the United States by the Government of the Federated States of Micronesia and shall be subject to the concurrence of the Government of the United States. In such case, the Government of the United States shall disburse the agreed upon amounts and monitor the use of such sector grants in accordance with the provisions of this Article and the Agreement Concerning Procedures for the Implementation of United States Economic Assistance Provided in the Compact of Free Association, as amended\[,\] Between the Government of the United States of America and the Government of the Federated States of Micronesia (‘Fiscal Procedures Agreement’) which shall come into effect simultaneously with this Compact, as amended. The provision of any United States assistance under the Compact, as amended, the Fiscal Procedures Agreement, the Agreement Between the Government of the United States of America and the Government of the Federated States of Micronesia Implementing Section 215 and Section 216 of the Compact, as Amended, Regarding a Trust Fund (Trust Fund Agreement), or any other subsidiary agreement to the Compact, as amended, shall constitute ‘a particular distribution . . . required by the terms or special nature of the assistance’ for purposes of Article XII, section 1(b) of the Constitution of the Federated States of Micronesia.
 
->         “(1)  __Education__  __.—__ 
+>         “(1) __Education.—__ 
 
 >         United States grant assistance shall be made available in accordance with the plan described in subsection (c) of this section to support and improve the educational system of the Federated States of Micronesia and develop the human, financial, and material resources necessary for the Government of the Federated States of Micronesia to perform these services. Emphasis should be placed on advancing a quality basic education system.
 
->         “(2)  __Health__  __.—__ 
+>         “(2) __Health.—__ 
 
 >         United States grant assistance shall be made available in accordance with the plan described in subsection (c) of this section to support and improve the delivery of preventive, curative and environmental care and develop the human, financial, and material resources necessary for the Government of the Federated States of Micronesia to perform these services.
 
->         “(3)  __Private sector development__  __.—__ 
+>         “(3) __Private sector development.—__ 
 
 >         United States grant assistance shall be made available in accordance with the plan described in subsection (c) of this section to support the efforts of the Government of the Federated States of Micronesia to attract foreign investment and increase indigenous business activity by vitalizing the commercial environment, ensuring fair and equitable application of the law, promoting adherence to core labor standards, and maintaining progress toward privatization of state-owned and partially state-owned enterprises, and engaging in other reforms.
 
->         “(4)  __Capacity building in the public sector__  __.—__ 
+>         “(4) __Capacity building in the public sector.—__ 
 
 >         United States grant assistance shall be made available in accordance with the plan described in subsection (c) of this section to support the efforts of the Government of the Federated States of Micronesia to build effective, accountable and transparent national, state, and local government and other public sector institutions and systems.
 
->         “(5)  __Environment__  __.—__ 
+>         “(5) __Environment.—__ 
 
 >         United States grant assistance shall be made available in accordance with the plan described in subsection (c) of this section to increase environmental protection; conserve and achieve sustainable use of natural resources; and engage in environmental infrastructure planning, design construction and operation.
 
@@ -417,19 +417,19 @@
 
 >             “(i) U.S. annual grant assistance shall be made available in accordance with a list of specific projects included in the plan described in subsection (c) of this section to assist the Government of the Federated States of Micronesia in its efforts to provide adequate public infrastructure.
 
->             “(ii)  __Infrastructure and maintenance Fund__  __.—__ 
+>             “(ii) __Infrastructure and maintenance Fund.—__ 
 
 >             Five percent of the annual public infrastructure grant made available under paragraph (i) of this subsection shall be set aside, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to an Infrastructure Maintenance Fund (IMF). Administration of the Infrastructure Maintenance Fund shall be governed by the Fiscal Procedures Agreement.
 
->     “(b)  __Humanitarian Assistance__  __.—__ 
+>     “(b) __Humanitarian Assistance.—__ 
 
 >     Federated States of Micronesia Program. In recognition of the special development needs of the Federated States of Micronesia, the Government of the United States shall make available to the Federated States of Micronesia, on its request and to be deducted from the grant amount made available under subsection (a) of this section, a Humanitarian Assistance - Federated States of Micronesia (‘HAFSM’) Program with emphasis on health, education, and infrastructure (including transportation), projects. The terms and conditions of the HAFSM shall be set forth in the Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Government of the Federated States of Micronesia Concluded Pursuant to Sections 211(b), 321, and 323 of the Compact of Free Association, as amended, which shall come into effect simultaneously with the amendments to this Compact.
 
->     “(c)  __Development Plan__  __.—__ 
+>     “(c) __Development Plan.—__ 
 
 >     The Government of the Federated States of Micronesia shall prepare and maintain an official overall development plan. The plan shall be strategic in nature, shall be continuously reviewed and updated through the annual budget process, and shall make projections on a multi-year rolling basis. Each of the sectors named in subsection (a) of this section, or other sectors as mutually agreed, shall be accorded specific treatment in the plan. Insofar as grants funds are involved, the plan shall be subject to the concurrence of the Government of the United States.
 
->     “(d)  __Disaster Assistance Emergency Fund__  __.—__ 
+>     “(d) __Disaster Assistance Emergency Fund.—__ 
 
 >     An amount of two hundred thousand dollars ($200,000) shall be provided annually, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to a ‘Disaster Assistance Emergency Fund (DAEF).’ Any funds from the DAEF may be used only for assistance and rehabilitation resulting from disasters and emergencies. The funds will be accessed upon declaration by the Government of the Federated States of Micronesia, with the concurrence of the United States Chief of Mission to the Federated States of Micronesia. The Administration of the DAEF shall be governed by the Fiscal Procedures Agreement and the Federal Programs and Services Agreement referred to in section 231. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(1)(D)][/us/pl/110/229/s806/b/1/D], May 8, 2008, [122 Stat. 872][/us/stat/122/872].\]
 
@@ -1027,7 +1027,7 @@
 
 > “Section 221
 
->     “(a)  __Services__  __.—__ 
+>     “(a) __Services.—__ 
 
 >     The Government of the United States shall make available to the Federated States of Micronesia, in accordance with and to the extent provided in the Federal Programs and Services Agreement referred to in section 231, the services and related programs of:
 
@@ -1779,23 +1779,23 @@
 
 >      In order to assist the Government of the Republic of the Marshall Islands in its efforts to promote the economic advancement and budgetary self-reliance of its people, and in recognition of the special relationship that exists between the Republic of the Marshall Islands and the United States, the Government of the United States shall provide assistance on a grant basis for a period of twenty years in the amounts set forth in section 217, commencing on the effective date of this Compact, as amended. Such grants shall be used for assistance in education, health care, the environment, public sector capacity building, and private sector development, or for other areas as mutually agreed, with priorities in the education and health care sectors. Consistent with the medium-term budget and investment framework described in subsection (f) of this section, the proposed division of this amount among the identified areas shall require the concurrence of both the Government of the United States and the Government of the Republic of the Marshall Islands, through the Joint Economic Management and Financial Accountability Committee described in section 214. The Government of the United States shall disburse the grant assistance and monitor the use of such grant assistance in accordance with the provisions of this Article and an Agreement Concerning Procedures for the Implementation of United States Economic Assistance Provided in the Compact of Free Association, as amended\[,\] Between the Government of the United States of America and the Government of the Republic of the Marshall Islands (‘Fiscal Procedures Agreement’) which shall come into effect simultaneously with this Compact, as amended.
 
->         “(1)  __Education__  __.—__ 
+>         “(1) __Education.—__ 
 
 >         United States grant assistance shall be made available in accordance with the strategic framework described in subsection (f) of this section to support and improve the educational system of the Republic of the Marshall Islands and develop the human, financial, and material resources necessary for the Republic of the Marshall Islands to perform these services. Emphasis should be placed on advancing a quality basic education system.
 
->         “(2)  __Health__  __.—__ 
+>         “(2) __Health.—__ 
 
 >         United States grant assistance shall be made available in accordance with the strategic framework described in subsection (f) of this section to support and improve the delivery of preventive, curative and environmental care and develop the human, financial, and material resources necessary for the Republic of the Marshall Islands to perform these services.
 
->         “(3)  __Private sector development__  __.—__ 
+>         “(3) __Private sector development.—__ 
 
 >         United States grant assistance shall be made available in accordance with the strategic framework described in subsection (f) of this section to support the efforts of the Republic of the Marshall Islands to attract foreign investment and increase indigenous business activity by vitalizing the commercial environment, ensuring fair and equitable application of the law, promoting adherence to core labor standards, maintaining progress toward privatization of state-owned and partially state-owned enterprises, and engaging in other reforms.
 
->         “(4)  __Capacity building in the public sector__  __.—__ 
+>         “(4) __Capacity building in the public sector.—__ 
 
 >         United States grant assistance shall be made available in accordance with the strategic framework described in subsection (f) of this section to support the efforts of the Republic of the Marshall Islands to build effective, accountable and transparent national and local government and other public sector institutions and systems.
 
->         “(5)  __Environment__  __.—__ 
+>         “(5) __Environment.—__ 
 
 >         United States grant assistance shall be made available in accordance with the strategic framework described in subsection (f) of this section to increase environmental protection; establish and manage conservation areas; engage in environmental infrastructure planning, design construction and operation; and to involve the citizens of the Republic of the Marshall Islands in the process of conserving their country’s natural resources.
 
@@ -1807,23 +1807,23 @@
 
 >         “(3) Of the total grant assistance made available under subsection (a) of this section, and in conjunction with section 321(a) of the Compact, as amended, $200,000, with an inflation adjustment as provided in section 218, shall be allocated annually from fiscal year 2004 through fiscal year 2023 (and thereafter as provided in the Agreement between the Government of the United States and the Government of the Republic of the Marshall Islands Regarding Military Use and Operating Rights) for a grant to support increased participation of the Government of the Republic of the Marshall Islands Environmental Protection Authority in the annual U.S. Army Kwajalein Atoll Environmental Standards Survey and to promote a greater Government of the Republic of the Marshall Islands capacity for independent analysis of the Survey’s findings and conclusions.
 
->     “(c)  __Humanitarian Assistance—Republic of the Marshall Islands Program__  __.—__ 
+>     “(c) __Humanitarian Assistance—__ 
 
->     In recognition of the special development needs of the Republic of the Marshall Islands, the Government of the United States shall make available to the Government of the Republic of the Marshall Islands, on its request and to be deducted from the grant amount made available under subsection (a) of this section, a Humanitarian Assistance—Republic of the Marshall Islands (‘HARMI’) Program with emphasis on health, education, and infrastructure (including transportation), projects and such other projects as mutually agreed. The terms and conditions of the HARMI shall be set forth in the Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Republic of the Marshall Islands Concluded Pursuant to Sections 321 and 323 of the Compact of Free Association, as Amended, which shall come into effect simultaneously with the amendments to this Compact.
+>     Republic of the Marshall Islands Program.—In recognition of the special development needs of the Republic of the Marshall Islands, the Government of the United States shall make available to the Government of the Republic of the Marshall Islands, on its request and to be deducted from the grant amount made available under subsection (a) of this section, a Humanitarian Assistance—Republic of the Marshall Islands (‘HARMI’) Program with emphasis on health, education, and infrastructure (including transportation), projects and such other projects as mutually agreed. The terms and conditions of the HARMI shall be set forth in the Agreement Regarding the Military Use and Operating Rights of the Government of the United States in the Republic of the Marshall Islands Concluded Pursuant to Sections 321 and 323 of the Compact of Free Association, as Amended, which shall come into effect simultaneously with the amendments to this Compact.
 
 >     “(d) __Public Infrastructure.—__ 
 
 >         “(1) Unless otherwise agreed, not less than 30 percent and not more than 50 percent of U.S. annual grant assistance provided under this section shall be made available in accordance with a list of specific projects included in the infrastructure improvement and maintenance plan prepared by the Government of the Republic of the Marshall Islands as part of the strategic framework described in subsection (f) of this section.
 
->         “(2)  __Infrastructure maintenance fund__  __.—__ 
+>         “(2) __Infrastructure maintenance fund.—__ 
 
 >         Five percent of the annual public infrastructure grant made available under paragraph (1) of this subsection shall be set aside, with an equal contribution from the Government of the Republic of the Marshall Islands, as a contribution to an Infrastructure Maintenance Fund. Administration of the Infrastructure Maintenance Fund shall be governed by the Fiscal Procedures Agreement.
 
->     “(e)  __Disaster Assistance Emergency Fund__  __.—__ 
+>     “(e) __Disaster Assistance Emergency Fund.—__ 
 
 >     Of the total grant assistance made available under subsection (a) of this section, an amount of two hundred thousand dollars ($200,000) shall be provided annually, with an equal contribution from the Government of the Republic of the Marshall Islands, as a contribution to a Disaster Assistance Emergency Fund (‘DAEF’). Any funds from the DAEF may be used only for assistance and rehabilitation resulting from disasters and emergencies. The funds will be accessed upon declaration of a State of Emergency by the Government of the Republic of the Marshall Islands, with the concurrence of the United States Chief of Mission to the Republic of the Marshall Islands. Administration of the DAEF shall be governed by the Fiscal Procedures Agreement and the Federal Programs and Services Agreement referred to in section 231.
 
->     “(f)  __Budget and Investment Framework__  __.—__ 
+>     “(f) __Budget and Investment Framework.—__ 
 
 >     The Government of the Republic of the Marshall Islands shall prepare and maintain an official medium-term budget and investment framework. The framework shall be strategic in nature, shall be continuously reviewed and updated through the annual budget process, and shall make projections on a multi-year rolling basis. Each of the sectors and areas named in subsections (a), (b), and (d) of this section, or other sectors and areas as mutually agreed, shall be accorded specific treatment in the framework. Those portions of the framework that contemplate the use of United States grant funds shall require the concurrence of both the Government of the United States and the Government of the Republic of the Marshall Islands. \[As amended [Pub. L. 110–229, title VIII, § 806(b)(2)(D)][/us/pl/110/229/s806/b/2/D], May 8, 2008, [122 Stat. 873][/us/stat/122/873].\]
 
@@ -2507,7 +2507,7 @@
 
 > “Section 221
 
->     “(a)  __Services__  __.—__ 
+>     “(a) __Services.—__ 
 
 >     The Government of the United States shall make available to the Republic of the Marshall Islands, in accordance with and to the extent provided in the Federal Programs and Services Agreement referred to in section 231, the services and related programs of:
 

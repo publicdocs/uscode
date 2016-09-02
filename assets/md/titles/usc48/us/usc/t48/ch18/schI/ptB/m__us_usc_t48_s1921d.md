@@ -33,11 +33,11 @@
 
         (6) __Interagency group on freely associated states’ affairs.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
 
-            (B)  __Secretaries__  __.—__ 
+            (B) __Secretaries.—__ 
 
             It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall be represented on the Interagency Group.
 
@@ -45,33 +45,33 @@
 
             (A) __Joint economic management committee.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III of the U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
 
-                (ii)  __Departments__  __.—__ 
+                (ii) __Departments.—__ 
 
                 It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
-                (iii)  __Additional scope__  __.—__ 
+                (iii) __Additional scope.—__ 
 
                 Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211”.
 
             (B) __Joint economic management and financial accountability committee.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
 
-                (ii)  __Departments__  __.—__ 
+                (ii) __Departments.—__ 
 
                 It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
-                (iii)  __Additional scope__  __.—__ 
+                (iii) __Additional scope.—__ 
 
                 Section 214 of the U.S.-RMI Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211”.
 
-        (8)  __Oversight and coordination__  __.—__ 
+        (8) __Oversight and coordination.—__ 
 
         It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
@@ -157,7 +157,7 @@
 
                 (ix) __Applicability__ 
 
-                    The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, <sup>\[1\]</sup>  <sup><sup> 1 See Continued Applicability of Subsection (f)(1)(B)(ix) notes below. </sup></sup>  to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
+                    The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
 
             (C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
@@ -289,10 +289,6 @@
 
  __Continued Applicability of Subsection (f)(1)(B)(ix)__ 
 
-[Pub. L. 113–76, div. H, title III, § 306][/us/pl/113/76/s306], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399], provided that: 
-
-> “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2014’ for ‘2009’.”
-
 [Pub. L. 112–74, div. F, title III, § 306][/us/pl/112/74/s306], Dec. 23, 2011, [125 Stat. 1099][/us/stat/125/1099], provided that: 
 
 > “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2012’ for ‘2009’.”
@@ -379,9 +375,6 @@
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/110/229/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fb
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
-[/us/pl/113/76/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs306
-[/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
-[/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
 [/us/pl/112/74/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs306
 [/us/stat/125/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1099
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix

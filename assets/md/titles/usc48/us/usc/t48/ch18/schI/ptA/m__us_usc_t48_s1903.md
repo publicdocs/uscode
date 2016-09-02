@@ -273,11 +273,11 @@
 
 [Pub. L. 100–647, title VI, § 6136][/us/pl/100/647/s6136], Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Any earnings on, and distributions from, the Enjebi Community Trust Fund created under section 103 of the Compact of Free Association Act of 1985 \[[48 U.S.C. 1903][/us/usc/t48/s1903]\] shall be exempt from all Federal, State, or local taxation.
 
->     “(b)  __Effective Date__  __.—__ 
+>     “(b) __Effective Date.—__ 
 
 >     The provisions of subsection (a) shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

@@ -107,11 +107,11 @@
 
 [Pub. L. 106–84, § 3][/us/pl/106/84/s3], Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as provided by subsection (b), the amendments made by section 1 \[amending this section and [section 1574a of this title][/us/usc/t48/s1574a]\] shall apply to those instruments of indebtedness issued by the Government of the Virgin Islands after the date of the enactment of this Act \[Oct. 28, 1999\].
 
->     “(b)  __Effect of Failure To Reach Agreement__  __.—__ 
+>     “(b) __Effect of Failure To Reach Agreement.—__ 
 
 >     If the agreement authorized in section 2(a) \[set out as a note under [section 1631 of this title][/us/usc/t48/s1631]\] is not ratified by both parties on or before December 31, 1999, the amendments made by section 1—
 
