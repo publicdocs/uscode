@@ -15,11 +15,11 @@
 
 ## § 7432. Pay of Under Secretary for Health
 
-    (a) __Base Pay.—__ 
+    (a)  __Base Pay__  __.—__ 
 
     The base pay of the Under Secretary for Health shall be the annual rate of basic pay for positions at Level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314].
 
-    (b) __Market Pay.—__ 
+    (b)  __Market Pay__  __.—__ 
 
         (1) In the case of an Under Secretary for Health who is also a physician or dentist, in addition to the base pay specified in subsection (a) the Under Secretary for Health may also be paid the market pay element of pay of physicians and dentists under [section 7431(c) of this title][/us/usc/t38/s7431/c].
 
@@ -27,7 +27,7 @@
 
         (3) In establishing the amount of market pay of the Under Secretary for Health under this subsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
 
-    (c) __Treatment of Pay.—__ 
+    (c)  __Treatment of Pay__  __.—__ 
 
     Pay under this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 

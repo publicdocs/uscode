@@ -75,11 +75,11 @@
 
 [Pub. L. 108–454, title V, § 507][/us/pl/108/454/s507], Dec. 10, 2004, [118 Stat. 3622][/us/stat/118/3622], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided, this title \[enacting sections 5506 to 5510 and 6106 to 6108 of this title and amending this section and sections 5502 and 6101 of this title\] and the amendments made by this title shall take effect on the first day of the seventh month beginning after the date of the enactment of this Act \[Dec. 10, 2004\].
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >         (1) [Section 5510 of title 38][/us/usc/t38/s5510], United States Code, as added by section 505(a), shall take effect on the date of the enactment of this Act \[Dec. 10, 2004\].
 

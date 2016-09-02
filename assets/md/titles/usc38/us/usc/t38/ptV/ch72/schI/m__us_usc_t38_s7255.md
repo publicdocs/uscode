@@ -15,17 +15,17 @@
 
 ## § 7255. Offices, duty stations, and residences
 
-    (a) __Principal Office.—__ 
+    (a)  __Principal Office__  __.—__ 
 
     The principal office of the Court of Appeals for Veterans Claims shall be in the Washington, D.C., metropolitan area, but the Court may sit at any place within the United States.
 
-    (b) __Official Duty Stations.—__ 
+    (b)  __Official Duty Stations__  __.—__ 
 
         (1) Except as provided in paragraph (2), the official duty station of each judge while in active service shall be the principal office of the Court of Appeals for Veterans Claims.
 
         (2) The place where a recall-eligible retired judge maintains the actual abode in which such judge customarily lives shall be considered the recall-eligible retired judge’s official duty station.
 
-    (c) __Residences.—__ 
+    (c)  __Residences__  __.—__ 
 
         (1) Except as provided in paragraph (2), after appointment and while in active service, each judge of the Court of Appeals for Veterans Claims shall reside within 50 miles of the Washington, D.C., metropolitan area.
 
@@ -57,15 +57,15 @@
 
 [Pub. L. 101–94, title II, § 201][/us/pl/101/94/s201], Aug. 16, 1989, [103 Stat. 626][/us/stat/103/626], as amended by [Pub. L. 105–368, title V, § 512(c)][/us/pl/105/368/s512/c], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that:
 
->     “(a) __Space in the District of Columbia.—__ 
+>     “(a)  __Space in the District of Columbia__  __.—__ 
 
 >     The Administrator of General Services shall provide suitable building space in the District of Columbia for the United States Court of Appeals for Veterans Claims as the Court’s principal place of business. The Administrator shall, if necessary, arrange for temporary space for the Court if permanent space is not immediately available for the Court. The Administrator shall place a high priority on the provision of such temporary and permanent space for the Court.
 
->     “(b) __Approval by Court.—__ 
+>     “(b)  __Approval by Court__  __.—__ 
 
 >     Any space to be provided for the Court of Appeals for Veterans Claims under subsection (a) must be acceptable to the Court.
 
->     “(c) __Additional Requirement.—__ 
+>     “(c)  __Additional Requirement__  __.—__ 
 
 >     Any building space provided to the Court under subsection (a) shall be adjacent to additional building space (in an amount acceptable to the Court) that can be made available to the Court in the future if needed for expansion of the facilities of the Court.”
 

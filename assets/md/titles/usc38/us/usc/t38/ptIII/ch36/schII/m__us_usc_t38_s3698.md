@@ -15,11 +15,11 @@
 
 ## § 3698. Comprehensive policy on providing education information to veterans
 
-    (a) __Comprehensive Policy Required.—__ 
+    (a)  __Comprehensive Policy Required__  __.—__ 
 
     The Secretary shall develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     In developing the policy required by subsection (a), the Secretary shall include each of the following elements:
 
@@ -41,7 +41,7 @@
 
         (5) Effective and efficient methods to provide veterans and members of the Armed Forces with information regarding postsecondary education and training opportunities available to the veteran or member.
 
-    (c) __Postsecondary Education Information.—__ 
+    (c)  __Postsecondary Education Information__  __.—__ 
 
         (1)
 
@@ -83,7 +83,7 @@
 
             (B) If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information from an institution of higher learning that has not been reported to another Federal agency, the Secretary shall, to the degree practicable, obtain such information through the Secretary of Education.
 
-    (d) __Consistency With Existing Education Policy.—__ 
+    (d)  __Consistency With Existing Education Policy__  __.—__ 
 
     In carrying out this section, the Secretary shall ensure that—
 
@@ -91,11 +91,11 @@
 
         (2) the efforts of the Secretary to implement the comprehensive policy do not duplicate the efforts being taken by any Federal agencies.
 
-    (e) __Communication With Institutions of Higher Learning.—__ 
+    (e)  __Communication With Institutions of Higher Learning__  __.—__ 
 
     To the extent practicable, if the Secretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -119,7 +119,7 @@
 
 [Pub. L. 112–249, § 1(b)][/us/pl/112/249/s1/b]–(d), Jan. 10, 2013, [126 Stat. 2400][/us/stat/126/2400], 2401, provided that:
 
->     “(b) __Survey.—__ 
+>     “(b)  __Survey__  __.—__ 
 
 >     In developing the policy required by [section 3698(a) of title 38][/us/usc/t38/s3698/a], United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall conduct a market survey to determine the availability of the following:
 
@@ -127,7 +127,7 @@
 
 >         “(2) A commercially available off-the-shelf online tool that provides a veteran or member of the Armed Forces with a list of providers of postsecondary education and training opportunities based on criteria selected by the veteran or member.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report that includes—
 
@@ -137,11 +137,11 @@
 
 >         “(3) the results of the survey conducted under subsection (b), including whether the Secretary plans to implement the tools described in such subsection.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section \[enacting this note and this section\]:
 
->         “(1) __Appropriate committees of congress.—__ 
+>         “(1)  __Appropriate committees of congress__  __.—__ 
 
 >         The term ‘appropriate committees of Congress’ means—
 
@@ -149,11 +149,11 @@
 
 >             “(B) the Committee on Veterans’ Affairs and the Committee on Education and the Workforce of the House of Representatives.
 
->         “(2) __Commercially available off-the-shelf.—__ 
+>         “(2)  __Commercially available off-the-shelf__  __.—__ 
 
 >         The term ‘commercially available off-the-shelf’ has the meaning given that term in [section 104 of title 41][/us/usc/t41/s104], United States Code.
 
->         “(3) __Postsecondary education and training opportunities.—__ 
+>         “(3)  __Postsecondary education and training opportunities__  __.—__ 
 
 >         The term ‘postsecondary education and training opportunities’ means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.”
 

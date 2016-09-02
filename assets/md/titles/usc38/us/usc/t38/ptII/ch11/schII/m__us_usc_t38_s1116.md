@@ -155,19 +155,19 @@
 
 [Pub. L. 102–4, § 3][/us/pl/102/4/s3], Feb. 6, 1991, [105 Stat. 13][/us/stat/105/13], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–86, title V, § 503(a)][/us/pl/102/86/s503/a], (b)(1), Aug. 14, 1991, [105 Stat. 424][/us/stat/105/424], 425; [Pub. L. 107–103, title II, § 201(d)(2)][/us/pl/107/103/s201/d/2], Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise which is not part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between diseases and exposure to dioxin and other chemical compounds in herbicides.
 
->     “(b) __Agreement.—__ 
+>     “(b)  __Agreement__  __.—__ 
 
 >     The Secretary shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the services covered by this section. The Secretary shall seek to enter into such agreement not later than two months after the date of the enactment of the Veterans’ Benefits Programs Improvement Act of 1991 \[Aug. 14, 1991\].
 
->     “(c) __Review of Scientific Evidence.—__ 
+>     “(c)  __Review of Scientific Evidence__  __.—__ 
 
 >     Under an agreement between the Secretary and the National Academy of Sciences under this section, the Academy shall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between exposure to an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era and each disease suspected to be associated with such exposure.
 
->     “(d) __Scientific Determinations Concerning Diseases.—__ 
+>     “(d)  __Scientific Determinations Concerning Diseases__  __.—__ 
 
 >         (1)
 
@@ -181,11 +181,11 @@
 
 >         “(2) The Academy shall include in its reports under subsection (g) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection.
 
->     “(e) __Recommendations for Additional Scientific Studies.—__ 
+>     “(e)  __Recommendations for Additional Scientific Studies__  __.—__ 
 
 >     The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
->     “(f) __Subsequent Reviews.—__ 
+>     “(f)  __Subsequent Reviews__  __.—__ 
 
 >     An agreement under subsection (b) shall require the National Academy of Sciences—
 
@@ -193,25 +193,25 @@
 
 >         “(2) to make its determinations and estimates on the basis of the results of such review and all other reviews conducted for the purposes of this section.
 
->     “(g) __Reports.—__ 
+>     “(g)  __Reports__  __.—__ 
 
 >         (1) The agreement between the Secretary and the National Academy of Sciences shall require the Academy to transmit to the Secretary and the Committees on Veterans’ Affairs of the Senate and House of Representatives periodic written reports regarding the Academy’s activities under the agreement. Such reports shall be submitted at least once every two years (as measured from the date of the first report).
 
 >         “(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d), (B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
 
->     “(h) __Limitation on Authority.—__ 
+>     “(h)  __Limitation on Authority__  __.—__ 
 
 >     The authority to enter into agreements under this section shall be effective for a fiscal year to the extent that appropriations are available.
 
->     “(i) __Sunset.—__ 
+>     “(i)  __Sunset__  __.—__ 
 
 >     This section shall cease to be effective on October 1, 2014.
 
->     “(j) __Alternative Contract Scientific Organization.—__ 
+>     “(j)  __Alternative Contract Scientific Organization__  __.—__ 
 
 >     If the Secretary is unable within the time period prescribed in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that is not part of the Government and operates as a not-for-profit entity and that has expertise and objectivity comparable to that of the National Academy of Sciences. If the Secretary enters into such an agreement with another organization, then any reference in this section and in section 1116 \[formerly 316\] of title 38, United States Code (as added by section 2), to the National Academy of Sciences shall be treated as a reference to the other organization.
 
->     “(k) __Liability Insurance.—__ 
+>     “(k)  __Liability Insurance__  __.—__ 
 
 >         (1)
 
@@ -243,11 +243,11 @@
 
 [Pub. L. 102–4, § 6][/us/pl/102/4/s6], Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs in connection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in [section 1710(e)(1)(A) of title 38][/us/usc/t38/s1710/e/1/A], United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives an annual report containing—
 
@@ -263,15 +263,15 @@
 
 >         “(6) the Secretary’s views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in [section 1710(e)(1)(A) of title 38][/us/usc/t38/s1710/e/1/A], United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
->     “(c) __First Report.—__ 
+>     “(c)  __First Report__  __.—__ 
 
 >     The first report under subsection (b) shall be submitted not later than one year after the effective date of this section \[see subsec. (e) of this section\].
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >         (1)
 
@@ -287,27 +287,27 @@
 
 [Pub. L. 102–4, § 7][/us/pl/102/4/s7], Feb. 6, 1991, [105 Stat. 16][/us/stat/105/16], provided that:
 
->     “(a) __Establishment of System.—__ 
+>     “(a)  __Establishment of System__  __.—__ 
 
 >     Subject to subsections (e) and (f), for the purpose of facilitating future scientific research on the effects of exposure of veterans to dioxin and other toxic agents in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era, the Secretary of Veterans Affairs shall establish and maintain a system for the collection and storage of voluntarily contributed samples of blood and tissue of veterans who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
->     “(b) __Security of Specimens.—__ 
+>     “(b)  __Security of Specimens__  __.—__ 
 
 >     The Secretary shall ensure that the tissue is collected and stored under physically secure conditions and that the tissue is maintained in a condition that is useful for research referred to in subsection (a).
 
->     “(c) __Authorized Use of Specimens.—__ 
+>     “(c)  __Authorized Use of Specimens__  __.—__ 
 
 >     The Secretary may make blood and tissue available from the system for research referred to in subsection (a). The Secretary shall carry out this section in a manner consistent with the privacy rights and interests of the blood and tissue donors.
 
->     “(d) __Limitations on Acceptance of Samples.—__ 
+>     “(d)  __Limitations on Acceptance of Samples__  __.—__ 
 
 >     The Secretary may prescribe such limitations on the acceptance and storage of blood and tissue samples as the Secretary considers appropriate consistent with the purpose specified in subsection (a).
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts.
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >         (1)
 
@@ -323,7 +323,7 @@
 
 [Pub. L. 102–4, § 8][/us/pl/102/4/s8], Feb. 6, 1991, [105 Stat. 17][/us/stat/105/17], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     Subject to subsections (e) and (f), the Secretary of Veterans Affairs shall establish a program to provide for the conduct of studies of the feasibility of conducting additional scientific research on—
 
@@ -333,17 +333,17 @@
 
 >         “(3) health hazards resulting from active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
->     “(b) __Program Requirements.—__ 
+>     “(b)  __Program Requirements__  __.—__ 
 
 >         (1) Under the program established pursuant to subsection (a), the Secretary shall, pursuant to criteria prescribed pursuant to paragraph (2), award contracts or furnish financial assistance to non-Government entities for the conduct of studies referred to in subsection (a).
 
 >         “(2) The Secretary shall prescribe criteria for (A) the selection of entities to be awarded contracts or to receive financial assistance under the program, and (B) the approval of studies to be conducted under such contracts or with such financial assistance.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Secretary shall promptly report the results of studies conducted under the program to the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
 
->     “(d) __Consultation With the National Academy of Sciences.—__ 
+>     “(d)  __Consultation With the National Academy of Sciences__  __.—__ 
 
 >         (1)
 
@@ -355,11 +355,11 @@
 
 >         “(2) The agreement shall require the Academy to submit to the Secretary and the Committees on Veterans’ Affairs of the Senate and the House of Representatives any recommendations that the Academy considers appropriate regarding any studies reviewed under the agreement.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts.
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >         (1)
 
@@ -375,7 +375,7 @@
 
 [Pub. L. 102–4, § 9][/us/pl/102/4/s9], Feb. 6, 1991, [105 Stat. 18][/us/stat/105/18], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
->     “(a) __Blood Testing.—__ 
+>     “(a)  __Blood Testing__  __.—__ 
 
 >     Subject to subsections (d) and (e), in the case of a veteran described in [section 1710(e)(1)(A) of title 38][/us/usc/t38/s1710/e/1/A], United States Code, who—
 
@@ -385,19 +385,19 @@
 
 >         the Secretary of Veterans Affairs shall, upon the veteran’s request, obtain a sufficient amount of blood serum from the veteran to enable the Secretary to conduct a test of the serum to ascertain the level of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) which may be present in the veteran’s body.
 
->     “(b) __Notification of Test Results.—__ 
+>     “(b)  __Notification of Test Results__  __.—__ 
 
 >     Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a complete explanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran’s exposure to TCDD while serving in the Republic of Vietnam.
 
->     “(c) __Incorporation in System.—__ 
+>     “(c)  __Incorporation in System__  __.—__ 
 
 >     The Secretary shall maintain the veteran’s blood sample and the results of the test as part of the system required by section 7 \[set out above\].
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts, but such amount shall not exceed $4,000,000 in any fiscal year.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >         (1)
 
@@ -413,7 +413,7 @@
 
 [Pub. L. 99–272, title XIX, § 19031][/us/pl/99/272/s19031], Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], provided that:
 
->     “(a) __Requirement for Epidemiological Study.—__ 
+>     “(a)  __Requirement for Epidemiological Study__  __.—__ 
 
 >         (1)
 
@@ -437,7 +437,7 @@
 
 >         “(3) The Administrator shall provide for the study to be conducted through contracts or other agreements with private or public agencies or persons.
 
->     “(b) __Approval of Protocol.—__ 
+>     “(b)  __Approval of Protocol__  __.—__ 
 
 >         (1) The study required by subsection (a) shall be conducted in accordance with a protocol approved by the Director of the Office of Technology Assessment.
 
@@ -451,7 +451,7 @@
 
 >             “(B) the experience under the study being conducted pursuant to that protocol.
 
->     “(c) __OTA Reports.—__ 
+>     “(c)  __OTA Reports__  __.—__ 
 
 >         (1)
 
@@ -469,7 +469,7 @@
 
 >             “(B) shall, each 60 days thereafter until such a protocol is approved, submit to such committees an updated report on the report required by clause (A).
 
->     “(d) __OTA Monitoring of Compliance.—__ 
+>     “(d)  __OTA Monitoring of Compliance__  __.—__ 
 
 >         (1) In order to ensure compliance with the protocol approved under subsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
 
@@ -487,11 +487,11 @@
 
 >                 “(iii) annually thereafter until the study is completed or terminated.
 
->     “(e) __Duration of Study.—__ 
+>     “(e)  __Duration of Study__  __.—__ 
 
 >     The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submitted under subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -513,7 +513,7 @@
 
 >             Each such description shall include a justification or rationale for the planned or proposed action.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 

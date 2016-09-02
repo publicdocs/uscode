@@ -185,11 +185,11 @@
 
 > “SEC. 1501. __ESTABLISHMENT OF COMMISSION.__ 
 
->     “(a) __Establishment of Commission.—__ 
+>     “(a)  __Establishment of Commission__  __.—__ 
 
 >     There is hereby established a commission to be known as the Veterans’ Disability Benefits Commission (hereinafter in this title referred to as the ‘commission’).
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -219,33 +219,33 @@
 
 >         “(4) The appointment of members of the commission under this subsection shall be made not later than 60 days after the date of the enactment of this Act \[Nov. 24, 2003\].
 
->     “(c) __Period of Appointment.—__ 
+>     “(c)  __Period of Appointment__  __.—__ 
 
 >     Members of the commission shall be appointed for the life of the commission. A vacancy in the commission shall not affect its powers.
 
->     “(d) __Initial Meeting.—__ 
+>     “(d)  __Initial Meeting__  __.—__ 
 
 >     The commission shall hold its first meeting not later than 30 days after the date on which a majority of the members of the commission have been appointed.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     The commission shall meet at the call of the chairman.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     A majority of the members of the commission shall constitute a quorum, but a lesser number may hold hearings.
 
->     “(g) __Chairman.—__ 
+>     “(g)  __Chairman__  __.—__ 
 
 >     The President shall designate a member of the commission to be chairman of the commission.
 
 > “SEC. 1502. __DUTIES OF THE COMMISSION.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The commission shall carry out a study of the benefits under the laws of the United States that are provided to compensate and assist veterans and their survivors for disabilities and deaths attributable to military service.
 
->     “(b) __Scope of Study.—__ 
+>     “(b)  __Scope of Study__  __.—__ 
 
 >     In carrying out the study, the commission shall examine and make recommendations concerning the following:
 
@@ -255,7 +255,7 @@
 
 >         “(3) The appropriate standard or standards for determining whether a disability or death of a veteran should be compensated.
 
->     “(c) __Contents of Study.—__ 
+>     “(c)  __Contents of Study__  __.—__ 
 
 >     The study to be carried out by the commission under this section shall be a comprehensive evaluation and assessment of the benefits provided under the laws of the United States to compensate veterans and their survivors for disability or death attributable to military service, together with any related issues that the commission determines are relevant to the purposes of the study. The study shall include an evaluation and assessment of the following:
 
@@ -265,7 +265,7 @@
 
 >         “(3) Comparable disability benefits provided to individuals by the Federal Government, State governments, and the private sector.
 
->     “(d) __Consultation With Institute of Medicine.—__ 
+>     “(d)  __Consultation With Institute of Medicine__  __.—__ 
 
 >     In carrying out the study under this section, the commission shall consult with the Institute of Medicine of the National Academy of Sciences with respect to the medical aspects of contemporary disability compensation policies.
 
@@ -281,43 +281,43 @@
 
 > “SEC. 1504. __POWERS OF THE COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the commission considers advisable to carry out the purposes of this title.
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     In addition to the information referred to in section 1502(c), the commission may secure directly from any Federal department or agency such information as the commission considers necessary to carry out the provisions of this title. Upon request of the chairman of the commission, the head of such department or agency shall furnish such information to the commission.
 
->     “(c) __Postal Services.—__ 
+>     “(c)  __Postal Services__  __.—__ 
 
 >     The commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The commission may accept, use, and dispose of gifts or donations of services or property.
 
 > “SEC. 1505. __PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation of Members.—__ 
+>     “(a)  __Compensation of Members__  __.—__ 
 
 >     Each member of the commission who is not an officer or employee of the United States shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the commission. All members of the commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     The members of the commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the commission.
 
->     “(c) __Staff.—__ 
+>     “(c)  __Staff__  __.—__ 
 
 >         (1) The chairman of the commission may, without regard to the civil service laws and regulations, appoint an executive director and such other personnel as may be necessary to enable the commission to perform its duties. The appointment of an executive director shall be subject to approval by the commission.
 
 >         “(2) The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
->     “(d) __Detail of Government Employees.—__ 
+>     “(d)  __Detail of Government Employees__  __.—__ 
 
 >     Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The chairman of the commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
@@ -327,11 +327,11 @@
 
 > “SEC. 1507. __FUNDING.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall, upon the request of the chairman of the commission, make available to the commission such amounts as the commission may require to carry out its duties under this title.
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     Any sums made available to the commission under subsection (a) shall remain available, without fiscal year limitation, until the termination of the commission.”
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 103–66, title XII, § 12008][/us/pl/103/66/s12008], Aug. 10, 1993, [107 Stat. 415][/us/stat/107/415], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)][/us/usc/t42/s415/i]), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
 
->     “(b) __Limitation on Fiscal Year 1994 Cost-of-Living Adjustment for Certain DIC Recipients.—__ 
+>     “(b)  __Limitation on Fiscal Year__  __1994__  __Cost-of-Living Adjustment for Certain DIC Recipients__  __.—__ 
 
 >         (1) During fiscal year 1994, the amount of any increase in any of the rates of dependency and indemnity compensation in effect under [section 1311(a)(3) of title 38][/us/usc/t38/s1311/a/3], United States Code, will not exceed 50 percent of the new law increase, rounded down (if not an even dollar amount) to the next lower dollar.
 
@@ -361,11 +361,11 @@
 
 [Pub. L. 101–508, title VIII, § 8005][/us/pl/101/508/s8005], Nov. 5, 1990, [104 Stat. 1388–343][/us/stat/104/1388-343], provided that:
 
->     “(a) __Policy Regarding Fiscal Year 1991.—__ 
+>     “(a)  __Policy Regarding Fiscal Year__  __1991.—__ 
 
 >     The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of such title will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
 
->     “(b) __Increase Payable as of January 1992.—__ 
+>     “(b)  __Increase Payable as of January__  __1992.—__ 
 
 >     The amount of compensation or dependency and indemnity compensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual’s benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
 

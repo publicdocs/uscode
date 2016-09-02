@@ -93,11 +93,11 @@
 
 >     “(a) __Development and Implementation of Plan for Recovery and Collection.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
->         Not later than 270 days after the date of the enactment of this Act \[Aug, 6, 2012\], the Secretary of Veterans Affairs shall develop and implement a plan to ensure the recovery and collection of amounts under the provisions of law described in [section 1729A(b) of title 38][/us/usc/t38/s1729A/b], United States Code, for deposit in the Department of Veterans Affairs Medical Care Collections Fund.
+>         Not later than 270 days after the date of the enactment of this Act \[Aug. 6, 2012\], the Secretary of Veterans Affairs shall develop and implement a plan to ensure the recovery and collection of amounts under the provisions of law described in [section 1729A(b) of title 38][/us/usc/t38/s1729A/b], United States Code, for deposit in the Department of Veterans Affairs Medical Care Collections Fund.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The plan required by paragraph (1) shall include the following:
 
@@ -111,7 +111,7 @@
 
 >             “(E) An effective monitoring system to ensure achievement of goals described in subparagraph (D) and compliance with the policies and procedures described in subparagraph (B).
 
->     “(b) __Monitoring of Third-party Collections.—__ 
+>     “(b)  __Monitoring of Third-party Collections__  __.—__ 
 
 >     The Secretary shall monitor the recovery and collection of amounts from third parties (as defined in section 1729(i) of such title) for deposit in such fund.”
 

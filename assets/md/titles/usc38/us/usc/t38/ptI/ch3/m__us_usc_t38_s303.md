@@ -33,7 +33,7 @@
 
 [Pub. L. 105–368, title I, § 103][/us/pl/105/368/s103], Nov. 11, 1998, [112 Stat. 3322][/us/stat/112/3322], provided that:
 
->     “(a) __Assessment.—__ 
+>     “(a)  __Assessment__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
 
@@ -41,7 +41,7 @@
 
 >         “(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
 
->     “(b) __Recommendations and Report.—__ 
+>     “(b)  __Recommendations and Report__  __.—__ 
 
 >     With respect to such a center, an agreement under this section shall provide for the Academy (or other entity) to—
 
@@ -49,7 +49,7 @@
 
 >         “(2) report to the Secretary, the Secretaries of Defense and Health and Human Services, and the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 1 year after the date of the enactment of this Act \[Nov. 11, 1998\], on its recommendations.
 
->     “(c) __Report on Establishment of National Center.—__ 
+>     “(c)  __Report on Establishment of National Center__  __.—__ 
 
 >     Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission.”
 
@@ -57,7 +57,7 @@
 
 [Pub. L. 100–687, div. B, title XIV, § 1404][/us/pl/100/687/s1404], Nov. 18, 1988, [102 Stat. 4131][/us/stat/102/4131], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(k)(3), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 409, provided that:
 
->     “(a) __Budget Information.—__ 
+>     “(a)  __Budget Information__  __.—__ 
 
 >     In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President’s budget submission for each fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
 
@@ -95,7 +95,7 @@
 
 >         “(17) Automobiles and adaptive equipment under chapter 39 of such title.
 
->     “(b) __Report on Feasibility.—__ 
+>     “(b)  __Report on Feasibility__  __.—__ 
 
 >     If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year.”
 
@@ -103,11 +103,11 @@
 
 [Pub. L. 100–322, title I, § 123][/us/pl/100/322/s123], May 20, 1988, [102 Stat. 504][/us/stat/102/504], as amended by [Pub. L. 102–83, § 6(j)(2)][/us/pl/102/83/s6/j/2], Aug. 6, 1991, [105 Stat. 409][/us/stat/105/409]; [Pub. L. 102–531, title III, § 312(c)][/us/pl/102/531/s312/c], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], provided that:
 
->     “(a) __Information Program.—__ 
+>     “(a)  __Information Program__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish and carry out an information program relating to the acquired immune deficiency syndrome (hereinafter in this section referred to as ‘AIDS’). The information program shall be for employees and consultants of the Department of Veterans Affairs, for other persons providing services in Department of Veterans Affairs facilities to beneficiaries of programs administered by the Department of Veterans Affairs, and for such beneficiaries.
 
->     “(b) __Required Elements of Information Program.—__ 
+>     “(b)  __Required Elements of Information Program__  __.—__ 
 
 >     In conducting the program under subsection (a), the Secretary shall—
 
@@ -119,7 +119,7 @@
 
 >         “(4) disseminate information (including the Surgeon General’s Report on AIDS) on the risk of transmission of the human immunodeficiency virus, and information on preventing the transmission of such virus, to Department of Veterans Affairs substance abuse treatment personnel, to each person being furnished treatment by the Department of Veterans Affairs for drug abuse, and to each person receiving care or services from the Department of Veterans Affairs whom the Secretary believes to be at high risk for AIDS.
 
->     “(c) __Training in AIDS Prevention.—__ 
+>     “(c)  __Training in AIDS Prevention__  __.—__ 
 
 >     The Secretary shall establish and carry out a program that provides for education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs.”
 

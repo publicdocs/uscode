@@ -15,7 +15,7 @@
 
 ## § 4103A. Disabled veterans’ outreach program
 
-    (a) __Requirement for Employment by States of a Sufficient Number of Specialists.—__ 
+    (a)  __Requirement for Employment by States of a Sufficient Number of Specialists__  __.—__ 
 
         (1)
 
@@ -31,15 +31,15 @@
 
         (3) In facilitating placement of a veteran under this program, a disabled veterans’ outreach program specialist shall help to identify job opportunities that are appropriate for the veteran’s employment goals and assist that veteran in developing a cover letter and resume that are targeted for those particular jobs.
 
-    (b) __Requirement for Qualified Veterans.—__ 
+    (b)  __Requirement for Qualified Veterans__  __.—__ 
 
     A State shall, to the maximum extent practicable, employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
 
-    (c) __Part-Time Employees.—__ 
+    (c)  __Part-Time Employees__  __.—__ 
 
     A part-time disabled veterans’ outreach program specialist shall perform the functions of a disabled veterans’ outreach program specialist under this section on a half-time basis.
 
-    (d) __Additional Requirement for Full-time Employees.—__ 
+    (d)  __Additional Requirement for Full-time Employees__  __.—__ 
 
         (1) A full-time disabled veterans’ outreach program specialist shall perform only duties related to meeting the employment needs of eligible veterans, as described in subsection (a), and shall not perform other non-veteran-related duties that detract from the specialist’s ability to perform the specialist’s duties related to meeting the employment needs of eligible veterans.
 

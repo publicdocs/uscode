@@ -19,7 +19,7 @@
 
     (b)
 
-        (1) __Physician.—__ 
+        (1)  __Physician__  __.—__ 
 
         To be eligible to be appointed to a physician position, a person must—
 
@@ -29,7 +29,7 @@
 
             (C) be licensed to practice medicine, surgery, or osteopathy in a State.
 
-        (2) __Dentist.—__ 
+        (2)  __Dentist__  __.—__ 
 
         To be eligible to be appointed to a dentist position, a person must—
 
@@ -37,7 +37,7 @@
 
             (B) be licensed to practice dentistry in a State.
 
-        (3) __Nurse.—__ 
+        (3)  __Nurse__  __.—__ 
 
         To be eligible to be appointed to a nurse position, a person must—
 
@@ -45,11 +45,11 @@
 
             (B) be registered as a graduate nurse in a State.
 
-        (4) __Director of a Hospital, Domiciliary, Center, or Outpatient Clinic.—__ 
+        (4)  __Director of a Hospital, Domiciliary, Center, or Outpatient Clinic__  __.—__ 
 
         To be eligible to be appointed to a director position, a person must have such business and administrative experience and qualifications as the Secretary shall prescribe.
 
-        (5) __Podiatrist.—__ 
+        (5)  __Podiatrist__  __.—__ 
 
         To be eligible to be appointed to a podiatrist position, a person must—
 
@@ -57,7 +57,7 @@
 
             (B) be licensed to practice podiatry in a State.
 
-        (6) __Optometrist.—__ 
+        (6)  __Optometrist__  __.—__ 
 
         To be eligible to be appointed to an optometrist position, a person must—
 
@@ -65,7 +65,7 @@
 
             (B) be licensed to practice optometry in a State.
 
-        (7) __Pharmacist.—__ 
+        (7)  __Pharmacist__  __.—__ 
 
         To be eligible to be appointed to a pharmacist position, a person must—
 
@@ -73,7 +73,7 @@
 
             (B) be registered as a pharmacist in a State.
 
-        (8) __Psychologist.—__ 
+        (8)  __Psychologist__  __.—__ 
 
         To be eligible to be appointed to a psychologist position, a person must—
 
@@ -83,7 +83,7 @@
 
             (C) be licensed or certified as a psychologist in a State, except that the Secretary may waive the requirement of licensure or certification for an individual psychologist for a period not to exceed two years on the condition that that psychologist provide patient care only under the direct supervision of a psychologist who is so licensed or certified.
 
-        (9) __Social Worker.—__ 
+        (9)  __Social Worker__  __.—__ 
 
         To be eligible to be appointed to a social worker position, a person must—
 
@@ -91,7 +91,7 @@
 
             (B) be licensed or certified to independently practice social work in a State, except that the Secretary may waive the requirement of licensure or certification for an individual social worker for a reasonable period of time recommended by the Under Secretary for Health.
 
-        (10) __Marriage and Family Therapist.—__ 
+        (10)  __Marriage and Family Therapist__  __.—__ 
 
         To be eligible to be appointed to a marriage and family therapist position, a person must—
 
@@ -99,7 +99,7 @@
 
             (B) be licensed or certified to independently practice marriage and family therapy in a State, except that the Secretary may waive the requirement of licensure or certification for an individual marriage and family therapist for a reasonable period of time recommended by the Under Secretary for Health.
 
-        (11) __Licensed Professional Mental Health Counselor.—__ 
+        (11)  __Licensed Professional Mental Health Counselor__  __.—__ 
 
         To be eligible to be appointed to a licensed professional mental health counselor position, a person must—
 
@@ -107,7 +107,7 @@
 
             (B) be licensed or certified to independently practice mental health counseling.
 
-        (12) __Chiropractor.—__ 
+        (12)  __Chiropractor__  __.—__ 
 
         To be eligible to be appointed to a chiropractor position, a person must—
 
@@ -129,7 +129,7 @@
 
                 (ii) a State as having satisfied relevant State requirements for a peer specialist position.
 
-        (14) __Other Health-Care Positions.—__ 
+        (14)  __Other Health-Care Positions__  __.—__ 
 
         To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
 

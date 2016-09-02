@@ -15,7 +15,7 @@
 
 ## § 3315A. National tests
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An individual entitled to educational assistance under this chapter shall also be entitled to educational assistance for the following:
 
@@ -23,7 +23,7 @@
 
         (2) A national test providing an opportunity for course credit at an institution of higher learning as so described.
 
-    (b) __Amount.—__ 
+    (b)  __Amount__  __.—__ 
 
     The amount of educational assistance payable under this chapter for a test described in subsection (a) is the lesser of—
 
@@ -31,7 +31,7 @@
 
         (2) the amount of entitlement available to the individual under this chapter at the time of payment for the test under this section.
 
-    (c) __Charge Against Entitlement.—__ 
+    (c)  __Charge Against Entitlement__  __.—__ 
 
     The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
 

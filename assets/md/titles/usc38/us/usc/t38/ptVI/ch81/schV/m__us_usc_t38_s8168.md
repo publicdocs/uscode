@@ -15,11 +15,11 @@
 
 ## § 8168. Annual reports
 
-    (a) __Report on Administration of Leases.—__ 
+    (a)  __Report on Administration of Leases__  __.—__ 
 
     Not later than 120 days after the date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012 and not less frequently than once each year thereafter, the Secretary shall submit to Congress a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.
 
-    (b) __Report on Lease Consideration.—__ 
+    (b)  __Report on Lease Consideration__  __.—__ 
 
     Each year, as part of the annual budget submission of the President to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], the Secretary shall submit to Congress a detailed report of the consideration received by the Secretary for each enhanced-use lease under this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.
 

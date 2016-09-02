@@ -15,7 +15,7 @@
 
 ## § 1812. Covered birth defects
 
-    (a) __Identification.—__ 
+    (a)  __Identification__  __.—__ 
 
     The Secretary shall identify the birth defects of children of women Vietnam veterans that—
 
@@ -23,7 +23,7 @@
 
         (2) result in permanent physical or mental disability.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1)
 

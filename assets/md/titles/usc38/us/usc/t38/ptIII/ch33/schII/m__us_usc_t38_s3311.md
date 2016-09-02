@@ -15,11 +15,11 @@
 
 ## § 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement
 
-    (a) __Entitlement.—__ 
+    (a)  __Entitlement__  __.—__ 
 
     Subject to subsections (d) and (e), each individual described in subsection (b) is entitled to educational assistance under this chapter.
 
-    (b) __Covered Individuals.—__ 
+    (b)  __Covered Individuals__  __.—__ 
 
     An individual described in this subsection is any individual as follows:
 
@@ -131,7 +131,7 @@
 
         (9) An individual who is the child of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-    (c) __Covered Discharges and Releases.—__ 
+    (c)  __Covered Discharges and Releases__  __.—__ 
 
     A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
 
@@ -151,7 +151,7 @@
 
             (C) a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as determined by the Secretary concerned in accordance with regulations prescribed by the Secretary of Defense.
 
-    (d) __Prohibition on Treatment of Certain Service as Period of Active Duty.—__ 
+    (d)  __Prohibition on Treatment of Certain Service as Period of Active Duty__  __.—__ 
 
     The following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
 
@@ -169,17 +169,17 @@
 
             (C) a defective enlistment agreement.
 
-    (e) __Treatment of Individuals Entitled Under Multiple Provisions.—__ 
+    (e)  __Treatment of Individuals Entitled Under Multiple Provisions__  __.—__ 
 
     In the event an individual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
 
     (f) __Marine Gunnery Sergeant John David Fry Scholarship.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
 
-        (2) __Definition of child.—__ 
+        (2)  __Definition of child__  __.—__ 
 
         For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
@@ -199,11 +199,11 @@
 
 [Pub. L. 111–377, title I, § 101(d)(4)][/us/pl/111/377/s101/d/4], (5), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
 
->     “(4) __Honorable service requirement.—__ 
+>     “(4)  __Honorable service requirement__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to discharges and releases from the Armed Forces that occur on or after that date.
 
->     “(5) __Service in connection with attendance at coast guard academy.—__ 
+>     “(5)  __Service in connection with attendance at coast guard academy__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering into agreements on service in the Coast Guard on or after that date.”
 
@@ -211,11 +211,11 @@
 
 [Pub. L. 111–32, title X, § 1002(d)][/us/pl/111/32/s1002/d], June 24, 2009, [123 Stat. 1890][/us/stat/123/1890], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 3313 and 3321 of this title\] shall take effect on August 1, 2009.
 
->     “(2) __Applicability.—__ 
+>     “(2)  __Applicability__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of [section 3311(b) of title 38][/us/usc/t38/s3311/b], United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010.”
 

@@ -15,11 +15,11 @@
 
 ## § 8119. Annual report on outpatient clinics
 
-    (a) __Annual Report Required.—__ 
+    (a)  __Annual Report Required__  __.—__ 
 
     The Secretary shall submit to the committees an annual report on community-based outpatient clinics and other outpatient clinics of the Department. The report shall be submitted each year not later than the date on which the budget for the next fiscal year is submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105].
 
-    (b) __Contents of Report.—__ 
+    (b)  __Contents of Report__  __.—__ 
 
     Each report required under subsection (a) shall include the following:
 

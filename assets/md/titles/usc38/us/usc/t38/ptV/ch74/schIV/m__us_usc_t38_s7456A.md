@@ -15,11 +15,11 @@
 
 ## § 7456A. Nurses: alternate work schedules
 
-    (a) __Applicability.—__ 
+    (a)  __Applicability__  __.—__ 
 
     This section applies to registered nurses appointed under this chapter.
 
-    (b) __72/80 Work Schedule.—__ 
+    (b)  __72/80 Work Schedule__  __.—__ 
 
         (1)
 
@@ -49,11 +49,11 @@
 
         (3) A nurse who works a work schedule described in this subsection who is absent on approved sick leave or annual leave during a scheduled 12-hour tour of duty shall be charged for such leave at a rate of ten hours of leave for every nine hours of absence.
 
-    (c) __Holiday Pay.—__ 
+    (c)  __Holiday Pay__  __.—__ 
 
     A nurse working a work schedule under subsection (b) that includes a holiday designated by law or Executive order shall be eligible for holiday pay under [section 7453(d) of this title][/us/usc/t38/s7453/d] for any service performed by the nurse on such holiday under such section.
 
-    (d) __9-Month Work Schedule for Certain Nurses.—__ 
+    (d) __9-__  __Month Work Schedule for Certain Nurses__  __.—__ 
 
         (1) The Secretary may authorize a registered nurse appointed under [section 7405 of this title][/us/usc/t38/s7405], with the nurse’s written consent, to work full time for nine months with 3 months off duty, within a fiscal year, and be paid at 75 percent of the full-time rate for such nurse’s grade for each pay period of such fiscal year.
 
@@ -63,11 +63,11 @@
 
         (4) A nurse who works under the authority in paragraph (1) shall be considered a full-time employee for purposes of chapter 89 of title 5.
 
-    (e) __Notification of Modification of Benefits.—__ 
+    (e)  __Notification of Modification of Benefits__  __.—__ 
 
     The Secretary shall provide each employee with respect to whom an alternate work schedule under this section may apply written notice of the effect, if any, that the alternate work schedule will have on the employee’s health care premium, retirement, life insurance premium, probationary status, or other benefit or condition of employment. The notice shall be provided not later than 14 days before the employee consents to the alternate work schedule.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section.
 

@@ -197,7 +197,7 @@
 
  __Initial Increase Under Subsection (c)__ 
 
-    [Pub. L. 99–272, title XIX, § 19011(c)(3)][/us/pl/99/272/s19011/c/3], Apr. 7, 1986, [100 Stat. 378][/us/stat/100/378], provided that the first increase under subsection (c) of this section, as added by [section 19011(c)(1) of Pub. L. 99–272][/us/pl/99/272/s19011/c/1], was to take effect on Jan. 1, 1987.”
+    [Pub. L. 99–272, title XIX, § 19011(c)(3)][/us/pl/99/272/s19011/c/3], Apr. 7, 1986, [100 Stat. 378][/us/stat/100/378], provided that the first increase under subsection (c) of this section, as added by [section 19011(c)(1) of Pub. L. 99–272][/us/pl/99/272/s19011/c/1], was to take effect on Jan. 1, 1987.
 
 ----------
 

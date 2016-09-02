@@ -25,7 +25,7 @@
 
         (2) A majority of the judges of a panel of the Court shall constitute a quorum for the transaction of the business of the panel. A vacancy in a panel of the Court shall not impair the powers or affect the duties of the panel or of the remaining judges of the panel.
 
-    (d) __Precedence of Judges.—__ 
+    (d)  __Precedence of Judges__  __.—__ 
 
     The chief judge of the Court shall have precedence and preside at any session that the chief judge attends. The other judges shall have precedence and preside according to the seniority of their original commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.
 

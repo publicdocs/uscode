@@ -15,7 +15,7 @@
 
 ## § 2101. Acquisition and adaptation of housing: eligible veterans
 
-    (a) __Acquisition of Housing With Special Features.—__ 
+    (a)  __Acquisition of Housing With Special Features__  __.—__ 
 
         (1) Subject to paragraphs (3) and (4), the Secretary may assist a disabled veteran described in paragraph (2) in acquiring a suitable housing unit with special fixtures or movable facilities made necessary by the nature of the veteran’s disability, and necessary land therefor.
 
@@ -79,7 +79,7 @@
 
             (B) In fiscal year 2014, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
-    (b) __Adaptations to Residence of Veteran.—__ 
+    (b)  __Adaptations to Residence of Veteran__  __.—__ 
 
         (1)
 
@@ -107,7 +107,7 @@
 
             (B) if the veteran’s residence is to be constructed or purchased, will be residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran’s family.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 

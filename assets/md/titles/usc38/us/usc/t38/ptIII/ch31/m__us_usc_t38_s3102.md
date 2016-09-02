@@ -15,7 +15,7 @@
 
 ## § 3102. Basic entitlement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person shall be entitled to a rehabilitation program under the terms and conditions of this chapter if—
 
@@ -47,7 +47,7 @@
 
             (B) is determined by the Secretary to be in need of rehabilitation because of a serious employment handicap.
 
-    (b) __Additional Rehabilitation Programs for Persons Who Have Exhausted Rights to Unemployment Benefits Under State Law.—__ 
+    (b)  __Additional Rehabilitation Programs for Persons Who Have Exhausted Rights to Unemployment Benefits Under State Law__  __.—__ 
 
         (1)
 

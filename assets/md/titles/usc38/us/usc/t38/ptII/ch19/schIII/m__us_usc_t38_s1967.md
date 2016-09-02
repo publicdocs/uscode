@@ -327,11 +327,11 @@
 
 [Pub. L. 107–14, § 5][/us/pl/107/14/s5], June 5, 2001, [115 Stat. 30][/us/stat/115/30], provided that:
 
->     “(a) __Applicability of Increase in Benefit.—__ 
+>     “(a)  __Applicability of Increase in Benefit__  __.—__ 
 
 >     Notwithstanding subsection (c) of section 312 of the Veterans Benefits and Health Care Improvement Act of 2000 ([Public Law 106–419][/us/pl/106/419]; [114 Stat. 1854][/us/stat/114/1854]) \[set out as a note below\], the amendments made by subsection (a) of that section \[amending this section\] shall take effect on October 1, 2000, with respect to any member of the uniformed services who died in the performance of duty (as determined by the Secretary concerned) during the period beginning on October 1, 2000, and ending at the close of March 31, 2001, and who on the date of death was insured under the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, for the maximum coverage available under that program.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 

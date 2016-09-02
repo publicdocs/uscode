@@ -15,7 +15,7 @@
 
 ## § 546. Advisory Committee on Disability Compensation
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
         (1) There is in the Department the Advisory Committee on Disability Compensation (in this section referred to as the “Committee”).
 
@@ -37,7 +37,7 @@
 
         (4) The Secretary shall select a Chair from among the members of the Committee.
 
-    (b) __Responsibilities of Committee.—__ 
+    (b)  __Responsibilities of Committee__  __.—__ 
 
         (1) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the maintenance and periodic readjustment of the schedule for rating disabilities under [section 1155 of this title][/us/usc/t38/s1155].
 
@@ -57,11 +57,11 @@
 
             (B) In carrying out its duties under subparagraph (A), the Committee shall take into special account the needs of veterans who have served in a theater of combat operations.
 
-    (c) __Resources.—__ 
+    (c)  __Resources__  __.—__ 
 
     The Secretary shall ensure that appropriate personnel, funding, and other resources are provided to the Committee to carry out its responsibilities.
 
-    (d) __Biennial Reports to the Secretary.—__ 
+    (d)  __Biennial Reports to the Secretary__  __.—__ 
 
         (1)
 
@@ -73,13 +73,13 @@
 
         (2) The Committee may submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
 
-    (e) __Biennial Reports to Congress.—__ 
+    (e)  __Biennial Reports to Congress__  __.—__ 
 
         (1) Not later than 90 days after the receipt of a report required under subsection (d)(1), the Secretary shall transmit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a copy of such report, together with such comments and recommendations concerning such report as the Secretary considers appropriate.
 
         (2) The Secretary shall submit with each report required under paragraph (1) a summary of all reports and recommendations of the Committee submitted to the Secretary under subsection (d)(2) since the previous report transmitted by the Secretary under paragraph (1) of this subsection.
 
-    (f) __Applicability of Federal Advisory Committee Act.—__ 
+    (f)  __Applicability of Federal Advisory Committee Act__  __.—__ 
 
         (1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
 

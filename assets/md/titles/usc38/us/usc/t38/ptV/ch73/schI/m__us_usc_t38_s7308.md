@@ -15,15 +15,15 @@
 
 ## § 7308. Office of Rural Health
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Department within the Office of the Under Secretary for Health an office to be known as the “Office of Rural Health” (in this section referred to as the “Office”).
 
-    (b) __Head.—__ 
+    (b)  __Head__  __.—__ 
 
     The Director of the Office of Rural Health shall be the head of the Office. The Director of the Office of Rural Health shall be appointed by the Under Secretary of Health from among individuals qualified to perform the duties of the position.
 
-    (c) __Functions.—__ 
+    (c)  __Functions__  __.—__ 
 
     The functions of the Office are as follows:
 
@@ -35,7 +35,7 @@
 
         (4) To perform such other functions and duties as the Secretary or the Under Secretary for Health considers appropriate.
 
-    (d) __Rural Health Resource Centers.—__ 
+    (d)  __Rural Health Resource Centers__  __.—__ 
 
         (1) There are, in the Office, veterans rural health resource centers that serve as satellite offices for the Office.
 

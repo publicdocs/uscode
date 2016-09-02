@@ -155,11 +155,11 @@
 
 [Pub. L. 105–368, title I, § 101][/us/pl/105/368/s101], Nov. 11, 1998, [112 Stat. 3317][/us/stat/112/3317], as amended by [Pub. L. 111–275, title VIII, § 806(b)(1)][/us/pl/111/275/s806/b/1], (2), Oct. 13, 2010, [124 Stat. 2891][/us/stat/124/2891], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise which is not a part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between illness and service in the Persian Gulf War.
 
->     “(b) __Agreement.—__ 
+>     “(b)  __Agreement__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than 2 months after the date of the enactment of this Act \[Nov. 11, 1998\].
 
@@ -169,7 +169,7 @@
 
 >             “(B) If the Secretary enters into an agreement with another organization under this paragraph, any reference in this section to the National Academy of Sciences shall be treated as a reference to such other organization.
 
->     “(c) __Review of Scientific Evidence.—__ 
+>     “(c)  __Review of Scientific Evidence__  __.—__ 
 
 >         (1)
 
@@ -185,7 +185,7 @@
 
 >         “(3) In conducting the review and evaluation under paragraph (1), the Academy shall, for each illness identified under subparagraph (B) or (C) of that paragraph, assess the latency period, if any, between service or exposure to any potential risk factor (including an agent, hazard, or medicine or vaccine identified under subparagraph (A) of that paragraph) and the manifestation of such illness.
 
->     “(d) __Specified Agents.—__ 
+>     “(d)  __Specified Agents__  __.—__ 
 
 >         (1)
 
@@ -291,7 +291,7 @@
 
 >         “(3) Not later than 6 months after entry into the agreement under subsection (b), the Academy shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report specifying the agents, hazards, and medicines and vaccines considered under paragraph (1).
 
->     “(e) __Scientific Determinations Concerning Illnesses.—__ 
+>     “(e)  __Scientific Determinations Concerning Illnesses__  __.—__ 
 
 >         (1)
 
@@ -311,13 +311,13 @@
 
 >         “(2) The Academy shall include in its reports under subsection (h) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection.
 
->     “(f) __Recommendations for Additional Scientific Studies.—__ 
+>     “(f)  __Recommendations for Additional Scientific Studies__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
 
 >         “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
->     “(g) __Subsequent Reviews.—__ 
+>     “(g)  __Subsequent Reviews__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct on a periodic and ongoing basis additional reviews of the evidence and data relating to its activities under this section.
 
@@ -329,7 +329,7 @@
 
 >             “(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section.
 
->     “(h) __Reports by Academy.—__ 
+>     “(h)  __Reports by Academy__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy’s activities under the agreement.
 
@@ -353,7 +353,7 @@
 
 >             “(B) For the Post-9/11 Global Theaters of Operations for the period of the Persian Gulf War beginning on September 11, 2001.
 
->     “(i) __Reports by Secretary.—__ 
+>     “(i)  __Reports by Secretary__  __.—__ 
 
 >         (1) The Secretary shall review each report from the Academy under subsection (h). As part of such review, the Secretary shall seek comments on, and evaluation of, the Academy’s report from the heads of other affected departments and agencies of the United States.
 
@@ -369,11 +369,11 @@
 
 >             “(B) For the Post-9/11 Global Theaters of Operations for the period of the Persian Gulf War beginning on September 11, 2001.
 
->     “(j) __Sunset.—__ 
+>     “(j)  __Sunset__  __.—__ 
 
 >     This section shall cease to be effective on October 1, 2018.
 
->     “(k) __Definition.—__ 
+>     “(k)  __Definition__  __.—__ 
 
 >     In this section:
 
@@ -387,7 +387,7 @@
 
 [Pub. L. 105–368, title I, § 105][/us/pl/105/368/s105], Nov. 11, 1998, [112 Stat. 3324][/us/stat/112/3324], provided that:
 
->     “(a) __Assessment by National Academy of Sciences.—__ 
+>     “(a)  __Assessment by National Academy of Sciences__  __.—__ 
 
 >     Not later than April 1, 1999, the Secretary of Veterans Affairs shall enter into a contract with the National Academy of Sciences to review the available scientific data in order to—
 
@@ -395,7 +395,7 @@
 
 >         “(2) identify, to the extent feasible, with respect to each undiagnosed illness prevalent among such veterans and for any other chronic illness that the Academy determines to warrant such review, empirically valid models of treatment for such illness which employ successful treatment modalities for populations with similar symptoms.
 
->     “(b) __Action on Report.—__ 
+>     “(b)  __Action on Report__  __.—__ 
 
 >         (1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesses which may be associated with their service in the Persian Gulf War.
 
@@ -409,15 +409,15 @@
 
 > “SEC. 1603. __AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise, to review and evaluate the available scientific evidence regarding associations between illnesses and exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service.
 
->     “(b) __Agreement.—__ 
+>     “(b)  __Agreement__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than two months after the date of enactment of this Act \[Oct. 21, 1998\].
 
->     “(c) __Identification of Agents and Illnesses.—__ 
+>     “(c)  __Identification of Agents and Illnesses__  __.—__ 
 
 >         (1)
 
@@ -429,7 +429,7 @@
 
 >         “(2) In identifying illnesses under paragraph (1)(B), the Academy shall review and summarize the relevant scientific evidence regarding illnesses among the members described in paragraph (1)(A) and among other appropriate populations of individuals, including mortality, symptoms, and adverse reproductive health outcomes among such members and individuals.
 
->     “(d) __Initial Consideration of Specific Agents.—__ 
+>     “(d)  __Initial Consideration of Specific Agents__  __.—__ 
 
 >         (1)
 
@@ -537,7 +537,7 @@
 
 >         “(3) Not later than six months after the date of enactment of this Act \[Oct. 21, 1998\], the Academy shall submit to the designated congressional committees a report specifying the agents, hazards, and medicines and vaccines considered under paragraph (1).
 
->     “(e) __Determinations of Associations Between Agents and Illnesses.—__ 
+>     “(e)  __Determinations of Associations Between Agents and Illnesses__  __.—__ 
 
 >         (1)
 
@@ -551,17 +551,17 @@
 
 >         “(2) The Academy shall include in its reports under subsection (i) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection.
 
->     “(f) __Review of Potential Treatment Models for Certain Illnesses.—__ 
+>     “(f)  __Review of Potential Treatment Models for Certain Illnesses__  __.—__ 
 
 >     Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
->     “(g) __Recommendations for Additional Scientific Studies.—__ 
+>     “(g)  __Recommendations for Additional Scientific Studies__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 >         “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
->     “(h) __Subsequent Reviews.—__ 
+>     “(h)  __Subsequent Reviews__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct on a periodic and ongoing basis additional reviews of the evidence and data relating to its activities under this section.
 
@@ -573,7 +573,7 @@
 
 >             “(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section.
 
->     “(i) __Reports.—__ 
+>     “(i)  __Reports__  __.—__ 
 
 >         (1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the committees and officials referred to in paragraph (6) periodic written reports regarding the Academy’s activities under the agreement.
 
@@ -609,17 +609,17 @@
 
 >             “(C) The Secretary of Defense.
 
->     “(j) __Sunset.—__ 
+>     “(j)  __Sunset__  __.—__ 
 
 >     This section shall cease to be effective on October 1, 2015.
 
->     “(k) __Alternative Contract Scientific Organization.—__ 
+>     “(k)  __Alternative Contract Scientific Organization__  __.—__ 
 
 >         (1) If the Secretary is unable within the time period set forth in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the National Academy of Sciences.
 
 >         “(2) If the Secretary enters into an agreement with another organization under this subsection, any reference in this section and [section 1118 of title 38][/us/usc/t38/s1118], United States Code (as added by section 1602(a)), to the National Academy of Sciences shall be treated as a reference to such other organization.
 
->     “(l) __Definitions.—__ 
+>     “(l)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -681,7 +681,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 
 > “SEC. 104. __DEVELOPMENT OF MEDICAL EVALUATION PROTOCOL.__ 
 
->     “(a) __Uniform Medical Evaluation Protocol.—__ 
+>     “(a)  __Uniform Medical Evaluation Protocol__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs shall develop and implement a uniform and comprehensive medical evaluation protocol that will ensure appropriate medical assessment, diagnosis, and treatment of Persian Gulf War veterans who are suffering from illnesses the origins of which are (as of the date of the enactment of this Act \[Nov. 2, 1994\]) unknown and that may be attributable to service in the Southwest Asia theater of operations during the Persian Gulf War. The protocol shall include an evaluation of complaints relating to illnesses involving the reproductive system.
 
@@ -703,33 +703,33 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 
 >         “(5) In each year after the implementation of the protocol, the Secretary shall enter into an agreement with the National Academy of Sciences under which agreement appropriate experts shall review the adequacy of the protocol and its implementation by the Department of Veterans Affairs.
 
->     “(b) __Relationship to Other Comprehensive Clinical Evaluation Protocols.—__ 
+>     “(b)  __Relationship to Other Comprehensive Clinical Evaluation Protocols__  __.—__ 
 
 >     The Secretary, in consultation with the Secretary of Defense, shall ensure that the information collected through the protocol described in this section is collected and maintained in a manner that permits the effective and efficient cross-reference of that information with information collected and maintained through the comprehensive clinical protocols of the Department of Defense for Persian Gulf War veterans.
 
->     “(c) __Case Definitions and Diagnoses.—__ 
+>     “(c)  __Case Definitions and Diagnoses__  __.—__ 
 
 >     The Secretary shall develop case definitions or diagnoses for illnesses associated with the service described in subsection (a)(1). The Secretary shall develop such definitions or diagnoses at the earliest possible date.
 
 > “SEC. 105. __OUTREACH TO PERSIAN GULF VETERANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall implement a comprehensive outreach program to inform Persian Gulf War veterans and their families of the medical care and other benefits that may be provided by the Department of Veterans Affairs and the Department of Defense arising from service in the Persian Gulf War.
 
->     “(b) __Newsletter.—__ 
+>     “(b)  __Newsletter__  __.—__ 
 
 >         (1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
 
 >         “(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003.
 
->     “(c) __Toll-Free Number.—__ 
+>     “(c)  __Toll-Free Number__  __.—__ 
 
 >     The outreach program shall include establishment of a toll-free telephone number to provide Persian Gulf War veterans and their families information on the Persian Gulf War Veterans Health Registry, health care and other benefits provided by the Department of Veterans Affairs, and such other information as the Secretary considers appropriate. Such toll-free telephone number shall be established not later than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].
 
 > “SEC. 107. __EVALUATION OF HEALTH STATUS OF SPOUSES AND CHILDREN OF PERSIAN GULF WAR VETERANS.__ 
 
->     “(a) __Evaluation Program.—__ 
+>     “(a)  __Evaluation Program__  __.—__ 
 
 >     Subject to subsection (c), the Secretary of Veterans Affairs shall conduct a program to evaluate the health status of spouses and children of Persian Gulf War veterans. Under the program, the Secretary shall provide for the conduct of diagnostic testing and appropriate medical examinations of any individual—
 
@@ -745,31 +745,31 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 
 >         “(3) who, in the case of a spouse, has granted the Secretary permission to include in the Registry relevant medical data (including a medical history and the results of diagnostic testing and medical examinations) and such other information as the Secretary considers relevant and appropriate with respect to such individual.
 
->     “(b) __Duration of Program.—__ 
+>     “(b)  __Duration of Program__  __.—__ 
 
 >     The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 2003.
 
->     “(c) __Funding Limitation.—__ 
+>     “(c)  __Funding Limitation__  __.—__ 
 
 >     The amount spent for the program under subsection (a) may not exceed $2,000,000.
 
->     “(d) __Contracting.—__ 
+>     “(d)  __Contracting__  __.—__ 
 
 >     The Secretary may provide for the conduct of testing and examinations under subsection (a) through appropriate contract arrangements, including fee arrangements described in [section 1703 of title 38][/us/usc/t38/s1703], United States Code.
 
->     “(e) __Standard Protocols and Guidelines.—__ 
+>     “(e)  __Standard Protocols and Guidelines__  __.—__ 
 
 >     The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
 
->     “(f) __Entry of Results in Registry.—__ 
+>     “(f)  __Entry of Results in Registry__  __.—__ 
 
 >     The results of diagnostic tests, medical histories, and medical examinations conducted under subsection (a) shall be entered into the Persian Gulf War Veterans Health Registry.
 
->     “(g) __Outreach.—__ 
+>     “(g)  __Outreach__  __.—__ 
 
 >     The Secretary shall conduct such outreach activities as the Secretary determines necessary for the purposes of the program. In conducting such outreach activities, the Secretary shall advise that medical treatment is not available under the program.
 
->     “(h) __Use Outside Department of Standard Protocols and Guidelines.—__ 
+>     “(h)  __Use Outside Department of Standard Protocols and Guidelines__  __.—__ 
 
 >     The Secretary shall—
 
@@ -777,45 +777,45 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 
 >         “(2) enter into the registry the results of any examination of the spouse or child of a veteran who served in the Persian Gulf theater which a licensed physician certifies was conducted using those standard protocols and guidelines.
 
->     “(i) __Report to Congress.—__ 
+>     “(i)  __Report to Congress__  __.—__ 
 
 >     Not later than July 31, 1999, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on activities with respect to the program, including the provision of services under subsection (d).
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘child’ and ‘spouse’ have the meanings given those terms in paragraphs (4) and (31), respectively, of [section 101 of title 38][/us/usc/t38/s101], United States Code.
 
 > “SEC. 109. __SURVEY OF PERSIAN GULF VETERANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs may carry out a survey of Persian Gulf veterans to gather information on the incidence and nature of health problems occurring in Persian Gulf veterans and their families.
 
->     “(b) __Coordination With Department of Defense.—__ 
+>     “(b)  __Coordination With Department of Defense__  __.—__ 
 
 >     Any survey under subsection (a) shall be carried out in coordination with the Secretary of Defense.
 
->     “(c) __Persian Gulf Veteran.—__ 
+>     “(c)  __Persian Gulf Veteran__  __.—__ 
 
 >     For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War as defined in [section 101(33) of title 38][/us/usc/t38/s101/33], United States Code.
 
 > “SEC. 110. __AUTHORIZATION FOR EPIDEMIOLOGICAL STUDIES.__ 
 
->     “(a) __Study of Health Consequences of Persian Gulf Service.—__ 
+>     “(a)  __Study of Health Consequences of Persian Gulf Service__  __.—__ 
 
 >     If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 ([Public Law 102–585][/us/pl/102/585]) \[set out in a note under [section 527 of this title][/us/usc/t38/s527]\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
 
->     “(b) __Oversight.—__ 
+>     “(b)  __Oversight__  __.—__ 
 
 >         (1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
 >         “(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
->     “(c) __Access to Data.—__ 
+>     “(c)  __Access to Data__  __.—__ 
 
 >     The Secretary shall enter into agreements with the Secretary of Defense and the Secretary of Health and Human Services to make available for the purposes of any study described in subsection (a) all data that the Secretary, in consultation with the National Academy of Sciences and the contractor for the study, considers relevant to the study.
 
->     “(d) __Authorization.—__ 
+>     “(d)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
 

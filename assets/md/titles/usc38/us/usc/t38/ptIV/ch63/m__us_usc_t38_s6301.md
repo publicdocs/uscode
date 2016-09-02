@@ -15,7 +15,7 @@
 
 ## § 6301. Purpose; definitions
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     The Congress declares that—
 
@@ -23,7 +23,7 @@
 
         (2) the outreach services program authorized by this chapter is for the purpose of charging the Department with the affirmative duty of seeking out eligible veterans and eligible dependents and providing them with such services.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     For the purposes of this chapter—
 

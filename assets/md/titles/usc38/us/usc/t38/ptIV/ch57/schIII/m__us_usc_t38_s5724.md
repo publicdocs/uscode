@@ -15,13 +15,13 @@
 
 ## § 5724. Provision of credit protection and other services
 
-    (a) __Independent Risk Analysis.—__ 
+    (a)  __Independent Risk Analysis__  __.—__ 
 
         (1) In the event of a data breach with respect to sensitive personal information that is processed or maintained by the Secretary, the Secretary shall ensure that, as soon as possible after the data breach, a non-Department entity or the Office of Inspector General of the Department conducts an independent risk analysis of the data breach to determine the level of risk associated with the data breach for the potential misuse of any sensitive personal information involved in the data breach.
 
         (2) If the Secretary determines, based on the findings of a risk analysis conducted under paragraph (1), that a reasonable risk exists for the potential misuse of sensitive personal information involved in a data breach, the Secretary shall provide credit protection services in accordance with the regulations prescribed by the Secretary under this section.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     Not later than 180 days after the date of the enactment of the Veterans Benefits, Health Care, and Information Technology Act of 2006, the Secretary shall prescribe interim regulations for the provision of the following in accordance with subsection (a)(2):
 
@@ -39,7 +39,7 @@
 
         (7) Credit protection services.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
         (1) For each data breach with respect to sensitive personal information processed or maintained by the Secretary, the Secretary shall promptly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing the findings of any independent risk analysis conducted under subsection (a)(1), any determination of the Secretary under subsection (a)(2), and a description of any services provided pursuant to subsection (b).
 

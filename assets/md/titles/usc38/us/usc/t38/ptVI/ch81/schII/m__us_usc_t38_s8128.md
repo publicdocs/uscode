@@ -15,11 +15,11 @@
 
 ## § 8128. Small business concerns owned and controlled by veterans: contracting priority
 
-    (a) __Contracting Priority.—__ 
+    (a)  __Contracting Priority__  __.—__ 
 
     In procuring goods and services pursuant to a contracting preference under this title or any other provision of law, the Secretary shall give priority to a small business concern owned and controlled by veterans, if such business concern also meets the requirements of that contracting preference.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     For purposes of this section, the term “small business concern owned and controlled by veterans” means a small business concern that is included in the small business database maintained by the Secretary under [section 8127(f) of this title][/us/usc/t38/s8127/f].
 

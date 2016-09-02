@@ -15,7 +15,7 @@
 
 ## § 1709A. Teleconsultation
 
-    (a) __Teleconsultation.—__ 
+    (a)  __Teleconsultation__  __.—__ 
 
         (1) The Secretary shall carry out an initiative of teleconsultation for the provision of remote mental health and traumatic brain injury assessments in facilities of the Department that are not otherwise able to provide such assessments without contracting with third-party providers or reimbursing providers through a fee basis system.
 
@@ -35,7 +35,7 @@
 
             (B) providing such assessment with such contracting or reimbursement is more clinically appropriate for the veteran than providing such assessment with teleconsultation.
 
-    (b) __Teleconsultation Defined.—__ 
+    (b)  __Teleconsultation Defined__  __.—__ 
 
     In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
 

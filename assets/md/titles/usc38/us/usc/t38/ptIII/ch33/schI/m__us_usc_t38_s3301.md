@@ -71,15 +71,15 @@
 
 [Pub. L. 111–377, title I, § 101(d)(1)][/us/pl/111/377/s101/d/1]–(3), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
 
->     “(1) __Service in national guard as active duty.—__ 
+>     “(1)  __Service in national guard as active duty__  __.—__ 
 
 >     The amendment made by subsection (a)(1) \[amending this section\] shall take effect on August 1, 2009, as if included in the enactment of chapter 33 of title 38, United States Code, pursuant to the Post-9/11 Veterans Educational Assistance Act of 2008 (title V of [Public Law 110–252][/us/pl/110/252]) \[see Short Title of 2008 Amendment note set out under [section 101 of this title][/us/usc/t38/s101]\]. However, no benefits otherwise payable by reason of such amendment for the period beginning on August 1, 2009, and ending on September 30, 2011, may be paid before October 1, 2011.
 
->     “(2) __One station unit training.—__ 
+>     “(2)  __One station unit training__  __.—__ 
 
 >     The amendment made by subsection (a)(2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 4, 2011\].
 
->     “(3) __Entry level and skill training for the coast guard.—__ 
+>     “(3)  __Entry level and skill training for the coast guard__  __.—__ 
 
 >     The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering service on or after that date.”
 
@@ -109,7 +109,7 @@
 
 [Pub. L. 110–252, title V, § 5003(c)][/us/pl/110/252/s5003/c], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375], provided that:
 
->     “(1) __Individuals Eligible to Elect Participation in Post-9/11 Educational Assistance.—__ 
+>     “(1)  __Individuals Eligible to Elect Participation in Post-9/11 Educational Assistance__  __.—__ 
 
 >     An individual may elect to receive educational assistance under chapter 33 of title 38, United States Code (as added by subsection (a)), if such individual—
 
@@ -131,31 +131,31 @@
 
 >         “(B) as of the date of the individual’s election under this paragraph, meets the requirements for entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added).
 
->     “(2) __Cessation of Contributions Toward Gi \[sic\] Bill.—__ 
+>     “(2)  __Cessation of Contributions Toward Gi \[sic\] Bill__  __.—__ 
 
 >     Effective as of the first month beginning on or after the date of an election under paragraph (1) of an individual described by subparagraph (A)(v) of that paragraph, the obligation of the individual to make contributions under section 3011(b) or 3012(c) of title 38, United States Code, as applicable, shall cease, and the requirements of such section shall be deemed to be no longer applicable to the individual.
 
 >     “(3) __Revocation of Remaining Transferred Entitlement.—__ 
 
->         “(A) __Election to revoke.—__ 
+>         “(A)  __Election to revoke__  __.—__ 
 
 >         If, on the date an individual described in subparagraph (A)(i) or (A)(iii) of paragraph (1) makes an election under that paragraph, a transfer of the entitlement of the individual to basic educational assistance under [section 3020 of title 38][/us/usc/t38/s3020], United States Code, is in effect and a number of months of the entitlement so transferred remain unutilized, the individual may elect to revoke all or a portion of the entitlement so transferred that remains unutilized.
 
->         “(B) __Availability of revoked entitlement.—__ 
+>         “(B)  __Availability of revoked entitlement__  __.—__ 
 
 >         Any entitlement revoked by an individual under this paragraph shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of this subsection.
 
->         “(C) __Availability of unrevoked entitlement.—__ 
+>         “(C)  __Availability of unrevoked entitlement__  __.—__ 
 
 >         Any entitlement described in subparagraph (A) that is not revoked by an individual in accordance with that subparagraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under [section 3020 of title 38][/us/usc/t38/s3020], United States Code.
 
 >     “(4) __Post-9/11 Educational Assistance.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B) and except as provided in paragraph (5), an individual making an election under paragraph (1) shall be entitled to educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of such chapter, instead of basic educational assistance under chapter 30 of title 38, United States Code, or educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, as applicable.
 
->         “(B) __Limitation on entitlement for certain individuals.—__ 
+>         “(B)  __Limitation on entitlement for certain individuals__  __.—__ 
 
 >         In the case of an individual making an election under paragraph (1) who is described by subparagraph (A)(i) of that paragraph, the number of months of entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), shall be the number of months equal to—
 
@@ -165,17 +165,17 @@
 
 >     “(5) __Continuing Entitlement to Educational Assistance Not Available Under 9/11 Assistance Program.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the event educational assistance to which an individual making an election under paragraph (1) would be entitled under chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable, is not authorized to be available to the individual under the provisions of chapter 33 of title 38, United States Code (as so added), the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
 
->         “(B) __Charge for use of entitlement.—__ 
+>         “(B)  __Charge for use of entitlement__  __.—__ 
 
 >         The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement under such chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
 
->     “(6) __Additional Post-9/11 Assistance for Members Having Made Contributions Toward Gi \[sic\] Bill.—__ 
+>     “(6)  __Additional Post-9/11 Assistance for Members Having Made Contributions Toward Gi \[sic\] Bill__  __.—__ 
 
->         “(A) __Additional assistance.—__ 
+>         “(A)  __Additional assistance__  __.—__ 
 
 >         In the case of an individual making an election under paragraph (1) who is described by clause (i), (iii), or (v) of subparagraph (A) of that paragraph, the amount of educational assistance payable to the individual under chapter 33 of title 38, United States Code (as so added), as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of such title, or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
 
@@ -195,19 +195,19 @@
 
 >                 “(II) the denominator of which is 36 months.
 
->         “(B) __Months of remaining entitlement for certain individuals.—__ 
+>         “(B)  __Months of remaining entitlement for certain individuals__  __.—__ 
 
 >         In the case of an individual covered by subparagraph (A) who is described by paragraph (1)(A)(v), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of subparagraph (A)(ii)(I)(aa) shall be 36 months.
 
->         “(C) __Timing of payment.—__ 
+>         “(C)  __Timing of payment__  __.—__ 
 
 >         The amount payable with respect to an individual under subparagraph (A) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of [section 3313(c) of title 38][/us/usc/t38/s3313/c], United States Code (as so added), or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under chapter 33 of such title (as so added).
 
->     “(7) __Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service.—__ 
+>     “(7)  __Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service__  __.—__ 
 
 >     An individual making an election under paragraph (1)(A) who, at the time of the election, is entitled to increased educational assistance under [section 3015(d) of title 38][/us/usc/t38/s3015/d], United States Code, or [section 16131(i) of title 10][/us/usc/t10/s16131/i], United States Code, or supplemental educational assistance under subchapter III of chapter 30 of title 38, United States Code, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added), in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
 
->     “(8) __Irrevocability of Elections.—__ 
+>     “(8)  __Irrevocability of Elections__  __.—__ 
 
 >     An election under paragraph (1) or (3)(A) is irrevocable.”
 

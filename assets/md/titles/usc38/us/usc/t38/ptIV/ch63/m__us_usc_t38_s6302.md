@@ -15,11 +15,11 @@
 
 ## § 6302. Biennial plan
 
-    (a) __Biennial Plan Required.—__ 
+    (a)  __Biennial Plan Required__  __.—__ 
 
     The Secretary shall, during the first nine months of every odd-numbered year, prepare a biennial plan for the outreach activities of the Department for the two-fiscal-year period beginning on October 1 of that year.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     Each biennial plan under subsection (a) shall include the following:
 
@@ -27,7 +27,7 @@
 
         (2) Plans for informing eligible veterans and eligible dependents of modifications of the benefits and services under the programs administered by the Secretary, including eligibility for medical and nursing care and services.
 
-    (c) __Coordination in Development.—__ 
+    (c)  __Coordination in Development__  __.—__ 
 
     In developing the biennial plan under subsection (a), the Secretary shall consult with the following:
 

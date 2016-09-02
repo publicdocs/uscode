@@ -15,19 +15,19 @@
 
 ## § 3673. Approval activities: cooperation and coordination of activities
 
-    (a) __Cooperation in Activities.—__ 
+    (a)  __Cooperation in Activities__  __.—__ 
 
     The Secretary and each State approving agency shall take cognizance of the fact that definite duties, functions, and responsibilities are conferred upon the Secretary and each State approving agency under the educational programs established under this chapter and chapters 34 and 35 of this title. To assure that such programs are effectively and efficiently administered, the cooperation of the Secretary and the State approving agencies is essential. It is necessary to establish an exchange of information pertaining to activities of educational institutions, and particular attention should be given to the enforcement of approval standards, enforcement of enrollment restrictions, and fraudulent and other criminal activities on the part of persons connected with educational institutions in which eligible persons or veterans are enrolled under this chapter and chapters 34 and 35 of this title.
 
-    (b) __Coordination of Activities.—__ 
+    (b)  __Coordination of Activities__  __.—__ 
 
     The Secretary shall take appropriate actions to ensure the coordination of approval activities performed by State approving agencies under this chapter and chapters 34 and 35 of this title and approval activities performed by the Department of Labor, the Department of Education, and other entities in order to reduce overlap and improve efficiency in the performance of such activities.
 
-    (c) __Availability of Information Material.—__ 
+    (c)  __Availability of Information Material__  __.—__ 
 
     The Secretary will furnish the State approving agencies with copies of such Department of Veterans Affairs informational material as may aid them in carrying out chapters 34 and 35 of this title.
 
-    (d) __Use of State Approving Agencies for Compliance and Oversight Activities.—__ 
+    (d)  __Use of State Approving Agencies for Compliance and Oversight Activities__  __.—__ 
 
     The Secretary may utilize the services of a State approving agency for such compliance and oversight purposes as the Secretary considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 

@@ -15,11 +15,11 @@
 
 ## § 7901. Programs; purpose
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To encourage the recruitment and retention of Department personnel who have the information security skills necessary to meet Department requirements, the Secretary may carry out programs in accordance with this chapter to provide financial support for education in computer science and electrical and computer engineering at accredited institutions of higher education.
 
-    (b) __Types of Programs.—__ 
+    (b)  __Types of Programs__  __.—__ 
 
     The programs authorized under this chapter are as follows:
 

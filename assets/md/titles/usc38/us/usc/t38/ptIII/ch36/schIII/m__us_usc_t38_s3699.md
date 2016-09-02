@@ -25,11 +25,11 @@
 
 [Pub. L. 108–183, title III, § 306(a)][/us/pl/108/183/s306/a]–(c), Dec. 16, 2003, [117 Stat. 2661][/us/stat/117/2661], provided that:
 
->     “(a) __Termination of Program.—__ 
+>     “(a)  __Termination of Program__  __.—__ 
 
 >     The Secretary of Veterans Affairs may not make a loan under subchapter III of chapter 36 of title 38, United States Code, after the date of the enactment of this Act \[Dec. 16, 2003\].
 
->     “(b) __Discharge of Liabilities.—__ 
+>     “(b)  __Discharge of Liabilities__  __.—__ 
 
 >     Effective as of the date of the transfer of funds under subsection (c)—
 
@@ -37,7 +37,7 @@
 
 >         “(2) the right of the United States to recover an overpayment declared under section 3698(e)(1) of such title that is outstanding as of such date shall be deemed waived.
 
->     “(c) __Termination of Loan Fund.—__ 
+>     “(c)  __Termination of Loan Fund__  __.—__ 
 
 >         (1) Effective as of the day before the date of the repeal under this section of subchapter III of chapter 36 of title 38, United States Code \[see Effective Date of Repeal note above\], all monies in the revolving fund of the Treasury known as the ‘Department of Veterans Affairs Education Loan Fund’ shall be transferred to the Department of Veterans Affairs Readjustment Benefits Account, and the revolving fund shall be closed.
 

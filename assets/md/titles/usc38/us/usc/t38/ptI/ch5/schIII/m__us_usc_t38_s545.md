@@ -95,11 +95,11 @@
 
 > “SEC. 701. __ESTABLISHMENT OF COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the Commission on Servicemembers and Veterans Transition Assistance (hereafter in this title referred to as the ‘Commission’).
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -135,37 +135,37 @@
 
 >         “(5) The appointments of the members of the Commission shall be made not later than 45 days after the date of the enactment of this Act \[Oct. 9, 1996\].
 
->     “(c) __Period of Appointment; Vacancies.—__ 
+>     “(c)  __Period of Appointment; Vacancies__  __.—__ 
 
 >     Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
->     “(d) __Initial Meeting.—__ 
+>     “(d)  __Initial Meeting__  __.—__ 
 
 >     Not later than 30 days after the date on which all members of the Commission have been appointed under subsection (b)(1), the Commission shall hold its first meeting.
 
->     “(e) __Quorum.—__ 
+>     “(e)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
 
->     “(f) __Chairman and Vice Chairman.—__ 
+>     “(f)  __Chairman and Vice Chairman__  __.—__ 
 
 >     The Commission shall select a chairman and vice chairman from among its members.
 
->     “(g) __Meetings.—__ 
+>     “(g)  __Meetings__  __.—__ 
 
 >     The Commission shall meet at the call of the chairman of the Commission.
 
->     “(h) __Panels.—__ 
+>     “(h)  __Panels__  __.—__ 
 
 >     The Commission may establish panels composed of less than the full membership of the Commission for the purpose of carrying out the Commission’s duties. The actions of such panels shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
 
->     “(i) __Authority of Individuals To Act for Commission.—__ 
+>     “(i)  __Authority of Individuals To Act for Commission__  __.—__ 
 
 >     Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title.
 
 > “SEC. 702. __DUTIES OF COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commission shall—
 
@@ -177,7 +177,7 @@
 
 >         “(4) make recommendations to Congress regarding the need for improvements in such programs.
 
->     “(b) __Review of Programs To Assist Members of the Armed Forces at Separation.—__ 
+>     “(b)  __Review of Programs To Assist Members of the Armed Forces at Separation__  __.—__ 
 
 >         (1) While carrying out the general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
 
@@ -203,7 +203,7 @@
 
 >         “(3) In carrying out the review, the Commission shall make use of previous studies which have been made of such programs.
 
->     “(c) __Review of Programs To Assist Veterans.—__ 
+>     “(c)  __Review of Programs To Assist Veterans__  __.—__ 
 
 >         (1)
 
@@ -243,7 +243,7 @@
 
 >             “(G) The ways in which such programs could be improved.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >         (1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
 
@@ -255,51 +255,51 @@
 
 > “SEC. 703. __POWERS OF COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this title.
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     The Commission may secure directly from the Department of Defense, the Department of Veterans Affairs, and any other department or agency of the Government such information as the Commission considers necessary to carry out its duties under this title. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
 
 > “SEC. 704. __MISCELLANEOUS ADMINISTRATIVE PROVISIONS.__ 
 
->     “(a) __Postal Services.—__ 
+>     “(a)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Government.
 
->     “(b) __Gifts.—__ 
+>     “(b)  __Gifts__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(c) __Miscellaneous Administrative Support.—__ 
+>     “(c)  __Miscellaneous Administrative Support__  __.—__ 
 
 >     The Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor shall, upon the request of the chairman of the Commission, furnish the Commission, on a reimbursable basis, any administrative and support services as the Commission may require.
 
 > “SEC. 705. __COMMISSION PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation of Members.—__ 
+>     “(a)  __Compensation of Members__  __.—__ 
 
 >     Each member of the Commission may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
 
->     “(b) __Travel and Travel Expenses.—__ 
+>     “(b)  __Travel and Travel Expenses__  __.—__ 
 
 >         (1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Commission except when the cost of commercial transportation is less expensive.
 
 >         “(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
->     “(c) __Staff.—__ 
+>     “(c)  __Staff__  __.—__ 
 
 >         (1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, the chairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
 
 >         “(2) The chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other staff members may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
->     “(d) __Detail of Government Employees.—__ 
+>     “(d)  __Detail of Government Employees__  __.—__ 
 
 >     Upon request of the chairman of the Commission, the head of any department or agency of the Government may detail, on a nonreimbursable basis, any personnel of the department or agency to the Commission to assist the Commission in carrying out its duties.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The chairman of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of such title.
 
@@ -327,11 +327,11 @@
 
 > “SEC. 708. __FUNDING.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall, upon the request of the chairman of the Commission, make available to the Commission such amounts as the Commission may require to carry out its duties under this title. The Secretary shall make such amounts available from amounts appropriated for the Department of Defense, except that such amounts may not be from amounts appropriated for the transition assistance program (TAP), the Army career alumni program (ACAP), or any similar program.
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     Any sums made available to the Commission under subsection (a) shall remain available, without fiscal year limitation, until the termination of the Commission.”
 

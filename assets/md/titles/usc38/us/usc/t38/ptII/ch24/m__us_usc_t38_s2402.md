@@ -147,11 +147,11 @@
 
 [Pub. L. 103–160, div. A, title XI, § 1176][/us/pl/103/160/s1176], Nov. 30, 1993, [107 Stat. 1768][/us/stat/107/1768], provided that:
 
->     “(a) __Eligibility for Burial.—__ 
+>     “(a)  __Eligibility for Burial__  __.—__ 
 
 >     Former prisoners of war described in subsection (b) are eligible for burial in Arlington National Cemetery, Arlington, Virginia.
 
->     “(b) __Eligible Former POWs.—__ 
+>     “(b)  __Eligible Former POWs__  __.—__ 
 
 >     A former prisoner of war referred to in subsection (a) is a former prisoner of war—
 
@@ -159,15 +159,15 @@
 
 >         “(2) who, while a prisoner of war, served honorably in the active military, naval, or air service, as determined under regulations prescribed by the Secretary of the military department concerned.
 
->     “(c) __Savings Provision.—__ 
+>     “(c)  __Savings Provision__  __.—__ 
 
 >     This section may not be construed to make ineligible for burial in Arlington National Cemetery a former prisoner of war who is eligible to be buried in that cemetery under another provision of law.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     This section shall be carried out under regulations prescribed by the Secretary of the Army. Those regulations may prescribe a minimum period of internment as a prisoner of war for purposes of eligibility under this section for burial in Arlington National Cemetery.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

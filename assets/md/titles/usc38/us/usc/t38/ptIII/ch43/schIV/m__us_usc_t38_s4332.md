@@ -15,7 +15,7 @@
 
 ## § 4332. Reports
 
-    (a) __Annual Report by Secretary.—__ 
+    (a)  __Annual Report by Secretary__  __.—__ 
 
     The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
 
@@ -47,7 +47,7 @@
 
     (b) __Quarterly Reports.—__ 
 
-        (1) __Quarterly report by secretary.—__ 
+        (1)  __Quarterly report by secretary__  __.—__ 
 
         Not later than 30 days after the end of each fiscal quarter, the Secretary shall submit to Congress, the Secretary of Defense, the Attorney General, and the Special Counsel a report setting forth, for the previous full quarter, the following:
 
@@ -55,15 +55,15 @@
 
             (B) The number of cases for which the Secretary received a request for a referral under paragraph (1) of [section 4323(a) of this title][/us/usc/t38/s4323/a] but did not make such referral within the time period required by such paragraph.
 
-        (2) __Quarterly report by attorney general.—__ 
+        (2)  __Quarterly report by attorney general__  __.—__ 
 
         Not later than 30 days after the end of each fiscal quarter, the Attorney General shall submit to Congress, the Secretary, the Secretary of Defense, and the Special Counsel a report setting forth, for the previous full quarter, the number of cases for which the Attorney General received a referral under paragraph (1) of [section 4323(a) of this title][/us/usc/t38/s4323/a] but did not meet the requirements of paragraph (2) of [section 4323(a) of this title][/us/usc/t38/s4323/a] for such referral.
 
-        (3) __Quarterly report by special counsel.—__ 
+        (3)  __Quarterly report by special counsel__  __.—__ 
 
         Not later than 30 days after the end of each fiscal quarter, the Special Counsel shall submit to Congress, the Secretary, the Secretary of Defense, and the Attorney General a report setting forth, for the previous full quarter, the number of cases for which the Special Counsel received a referral under paragraph (1) of [section 4324(a) of this title][/us/usc/t38/s4324/a] but did not meet the requirements of paragraph (2)(B) of [section 4324(a) of this title][/us/usc/t38/s4324/a] for such referral.
 
-    (c) __Uniform Categorization of Data.—__ 
+    (c)  __Uniform Categorization of Data__  __.—__ 
 
     The Secretary shall coordinate with the Secretary of Defense, the Attorney General, and the Special Counsel to ensure that—
 

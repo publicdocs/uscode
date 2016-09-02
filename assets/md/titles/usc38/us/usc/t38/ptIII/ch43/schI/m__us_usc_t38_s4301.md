@@ -43,11 +43,11 @@
 
 [Pub. L. 104–275, title III, § 313][/us/pl/104/275/s313], Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle B (§§ 311–313) of title III of [Pub. L. 104–275][/us/pl/104/275], amending this section, sections 4303, 4311 to 4313, 4316 to 4318, and 4322 to 4326 of this title, and provisions set out as a note below\] shall take effect as of October 13, 1994.
 
->     “(b) __Reorganized Title 10 References.—__ 
+>     “(b)  __Reorganized Title__  __10__  __References__  __.—__ 
 
 >     The amendments made by clause (i), and subclauses (I), (III), and (IV) of clause (ii), of section 311(4)(B) \[amending [section 4312 of this title][/us/usc/t38/s4312]\] shall take effect as of December 1, 1994.”
 
@@ -55,7 +55,7 @@
 
 [Pub. L. 103–353, § 8][/us/pl/103/353/s8], Oct. 13, 1994, [108 Stat. 3175][/us/stat/108/3175], as amended by [Pub. L. 104–275, title III, § 312][/us/pl/104/275/s312], Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
 
->     “(a) __Reemployment.—__ 
+>     “(a)  __Reemployment__  __.—__ 
 
 >         (1) Except as otherwise provided in this Act \[see Short Title of 1994 Amendment note set out under [section 101 of this title][/us/usc/t38/s101]\], the amendments made by this Act shall be effective with respect to reemployments initiated on or after the first day after the 60-day period beginning on the date of enactment of this Act \[Oct. 13, 1994\].
 
@@ -65,41 +65,41 @@
 
 >         “(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such 60-day period shall be deemed to have satisfied the notification requirement of [section 4312(a)(1) of title 38][/us/usc/t38/s4312/a/1], United States Code, as provided in the amendments made by this Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
 
->     “(b) __Discrimination.—__ 
+>     “(b)  __Discrimination__  __.—__ 
 
 >     The provisions of [section 4311 of title 38][/us/usc/t38/s4311], United States Code, as provided in the amendments made by this Act, and the provisions of subchapter III of chapter 43 of such title, as provided in the amendments made by this Act, that are necessary for the implementation of such section 4311 shall become effective on the date of enactment of this Act \[Oct. 13, 1994\].
 
->     “(c) __Insurance.—__ 
+>     “(c)  __Insurance__  __.—__ 
 
 >         (1) The provisions of [section 4316 of title 38][/us/usc/t38/s4316], United States Code, as provided in the amendments made by this Act, concerning insurance coverage (other than health) shall become effective with respect to furloughs or leaves of absence initiated on or after the date of enactment of this Act \[Oct. 13, 1994\].
 
 >         “(2) With respect to the provisions of [section 4317 of title 38][/us/usc/t38/s4317], United States Code, as provided in the amendments made by this Act, a person serving a period of service in the uniformed services on the date of enactment of this Act, or a family member or personal representative of such person, may, after the date of enactment of this Act, elect to reinstate or continue a health plan as provided in such section 4317. If such an election is made, the health plan shall remain in effect for the remaining portion of the 18-month period that began on the date of such person’s separation from civilian employment or the period of the person’s service in the uniformed service, whichever is the period of lesser duration.
 
->     “(d) __Disability.—__ 
+>     “(d)  __Disability__  __.—__ 
 
 >         (1) Section 4313(a)(3) of chapter 43 of title 38, United States Code, as provided in the amendments made by this Act, shall apply to reemployments initiated on or after August 1, 1990.
 
 >         “(2) Effective as of August 1, 1990, [section 4307 of title 38][/us/usc/t38/s4307], United States Code (as in effect on the date of enactment of this Act \[Oct. 13, 1994\]), is repealed, and the table of sections at the beginning of chapter 43 of such title (as in effect on the date of enactment of this Act) is amended by striking out the item relating to section 4307.
 
->     “(e) __Investigations and Subpoenas.—__ 
+>     “(e)  __Investigations and Subpoenas__  __.—__ 
 
 >     The provisions of [section 4326 of title 38][/us/usc/t38/s4326], United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act \[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under [section 4305 of title 38][/us/usc/t38/s4305], United States Code, as of that date.
 
->     “(f) __Previous Actions.—__ 
+>     “(f)  __Previous Actions__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by this Act do not affect reemployments that were initiated, rights, benefits, and duties that matured, penalties that were incurred, and proceedings that begin before the end of the 60-day period referred to in subsection (a).
 
->     “(g) __Rights and Benefits Relative to Notice of Intent Not To Return.—__ 
+>     “(g)  __Rights and Benefits Relative to Notice of Intent Not To Return__  __.—__ 
 
 >     [Section 4316(b)(2) of title 38][/us/usc/t38/s4316/b/2], United States Code, as added by the amendments made by this Act, applies only to the rights and benefits provided in section 4316(b)(1)(B) and does not apply to any other right or benefit of a person under chapter 43 of title 38, United States Code. Such section shall apply only to persons who leave a position of employment for service in the uniformed services more than 60 days after the date of enactment of this Act \[Oct. 13, 1994\].
 
->     “(h) __Employer Pension Benefit Plans.—__ 
+>     “(h)  __Employer Pension Benefit Plans__  __.—__ 
 
 >         (1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
 >         “(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
->     “(i) __Definition.—__ 
+>     “(i)  __Definition__  __.—__ 
 
 >     For the purposes of this section, the term ‘service in the uniformed services’ shall have the meaning given such term in [section 4303(13) of title 38][/us/usc/t38/s4303/13], United States Code, as provided in the amendments made by this Act.”
 
@@ -107,23 +107,23 @@
 
 [Pub. L. 111–275, title I, § 105][/us/pl/111/275/s105], Oct. 13, 2010, [124 Stat. 2868][/us/stat/124/2868], as amended by [Pub. L. 112–234, § 2(d)][/us/pl/112/234/s2/d], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624], provided that:
 
->     “(a) __Establishment of Project.—__ 
+>     “(a)  __Establishment of Project__  __.—__ 
 
 >     The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
 
 >     “(b) __Referral of All Prohibited Personnel Practice Claims to the Office of Special Counsel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under the demonstration project, the Office of Special Counsel shall receive and investigate all claims under chapter 43 of title 38, United States Code, with respect to Federal executive agencies in cases where the Office of Special Counsel has jurisdiction over related claims pursuant to [section 1212 of title 5][/us/usc/t5/s1212], United States Code.
 
->         “(2) __Related claims.—__ 
+>         “(2)  __Related claims__  __.—__ 
 
 >         For purposes of paragraph (1), a related claim is a claim involving the same Federal executive agency and the same or similar factual allegations or legal issues as those being pursued under a claim under chapter 43 of title 38, United States Code.
 
 >     “(c) __Referral of Other Claims Against Federal Executive Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under the demonstration project, the Secretary—
 
@@ -131,27 +131,27 @@
 
 >             “(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
 
->         “(2) __Claims described.—__ 
+>         “(2)  __Claims described__  __.—__ 
 
 >         A claim described in this paragraph is a claim under chapter 43 of title 38, United States Code, against a Federal executive agency by a claimant with a social security account number with an odd number as its terminal digit or, in the case of a claim that does not contain a social security account number, a case number assigned to the claim with an odd number as its terminal digit.
 
 >     “(d) __Administration of Demonstration Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Office of Special Counsel shall administer the demonstration project. The Secretary shall cooperate with the Office of Special Counsel in carrying out the demonstration project.
 
->         “(2) __Treatment of certain terms in chapter 43 of title 38, united states code.—__ 
+>         “(2)  __Treatment of certain terms in chapter 43 of title 38, united states code__  __.—__ 
 
 >         In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under the demonstration project, any reference to the ‘Secretary’ in sections 4321, 4322, and 4326 of title 38, United States Code, is deemed to be a reference to the ‘Office of Special Counsel’.
 
->         “(3) __Administrative jurisdiction.—__ 
+>         “(3)  __Administrative jurisdiction__  __.—__ 
 
 >         In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under the demonstration project, the Office of Special Counsel shall retain administrative jurisdiction over the claim.
 
 >     “(e) __Data Comparability for Reviewing Agency Performance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To facilitate the review of the relative performance of the Office of Special Counsel and the Department of Labor during the demonstration project, the Office of Special Counsel and the Department of Labor shall jointly establish methods and procedures to be used by both the Office and the Department during the demonstration project. Such methods and procedures shall include each of the following:
 
@@ -175,19 +175,19 @@
 
 >             “(D) Data quality assurance processes.
 
->         “(2) __Joint report to congress.—__ 
+>         “(2)  __Joint report to congress__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Oct. 13, 2010\], the Special Counsel and the Secretary of Labor shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives and to the Comptroller General of the United States a report describing the methods and procedures established under paragraph (1).
 
->         “(3) __Comptroller general report.—__ 
+>         “(3)  __Comptroller general report__  __.—__ 
 
 >         Not later than 30 days after the date of the submittal of the report under paragraph (2), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the report submitted under paragraph (2) and may provide recommendations for improving the methods and procedures described therein.
 
->     “(f) __Agency Data to Government Accountability Office.—__ 
+>     “(f)  __Agency Data to Government Accountability Office__  __.—__ 
 
 >     The Office of Special Counsel and the Secretary of Labor shall submit to the Comptroller General such information and data about the demonstration project as may be required by the Comptroller General, from time to time during the course of the demonstration project and at the conclusion, in order for the Comptroller General to assess the reliability of the demonstration data maintained by both the Office of Special Counsel and the Department of Labor and to review the relative performance of the Office and Department under the demonstration project.
 
->     “(g) __Government Accountability Office Report.—__ 
+>     “(g)  __Government Accountability Office Report__  __.—__ 
 
 >     The Comptroller General shall review the relative performance of the Office of Special Counsel and the Department of Labor under the demonstration project and—
 

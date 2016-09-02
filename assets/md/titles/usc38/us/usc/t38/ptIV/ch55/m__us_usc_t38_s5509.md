@@ -15,11 +15,11 @@
 
 ## § 5509. Authority to require fiduciary to receive payments at regional offices of the Department when failing to provide required accounting
 
-    (a) __Required Reports and Accountings.—__ 
+    (a)  __Required Reports and Accountings__  __.—__ 
 
     The Secretary may require a fiduciary to file a report or accounting pursuant to regulations prescribed by the Secretary.
 
-    (b) __Actions Upon Failure To File.—__ 
+    (b)  __Actions Upon Failure To File__  __.—__ 
 
     In any case in which a fiduciary fails to submit a report or accounting required by the Secretary under subsection (a), the Secretary may, after furnishing notice to such fiduciary and the beneficiary entitled to such payment of benefits, require that such fiduciary appear in person at a regional office of the Department serving the area in which the beneficiary resides in order to receive such payments.
 

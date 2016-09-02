@@ -15,7 +15,7 @@
 
 ## § 320. Department of Veterans Affairs-Department of Defense Joint Executive Committee
 
-    (a) __Joint Executive Committee.—__ 
+    (a)  __Joint Executive Committee__  __.—__ 
 
         (1) There is established an interagency committee to be known as the Department of Veterans Affairs-Department of Defense Joint Executive Committee (hereinafter in this section referred to as the “Committee”).
 
@@ -27,19 +27,19 @@
 
             (B) the Under Secretary of Defense for Personnel and Readiness and such other officers and employees of the Department of Defense as the Secretary of Defense may designate.
 
-    (b) __Administrative Matters.—__ 
+    (b)  __Administrative Matters__  __.—__ 
 
         (1) The Deputy Secretary of Veterans Affairs and the Under Secretary of Defense shall determine the size and structure of the Committee, as well as the administrative and procedural guidelines for the operation of the Committee.
 
         (2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
 
-    (c) __Recommendations.—__ 
+    (c)  __Recommendations__  __.—__ 
 
         (1) The Committee shall recommend to the Secretaries strategic direction for the joint coordination and sharing efforts between and within the two Departments under [section 8111 of this title][/us/usc/t38/s8111] and shall oversee implementation of those efforts.
 
         (2) The Committee shall submit to the two Secretaries and to Congress an annual report containing such recommendations as the Committee considers appropriate.
 
-    (d) __Functions.—__ 
+    (d)  __Functions__  __.—__ 
 
     In order to enable the Committee to make recommendations in its annual report under subsection (c)(2), the Committee shall do the following:
 
@@ -65,11 +65,11 @@
 
 [Pub. L. 108–136, div. A, title VII, § 727][/us/pl/108/136/s727], Nov. 24, 2003, [117 Stat. 1537][/us/stat/117/1537], provided that:
 
->     “(a) __Program.—__ 
+>     “(a)  __Program__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs may conduct a program to develop and evaluate integrated healing care practices for members of the Armed Forces and veterans. Any such program shall be carried out through the Department of Veterans Affairs-Department of Defense Joint Executive Committee established under [section 320 of title 38][/us/usc/t38/s320], United States Code.
 
->     “(b) __Source of DOD Funds.—__ 
+>     “(b)  __Source of DOD Funds__  __.—__ 
 
 >     Amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Defense Health Program may be used for the program under subsection (a).”
 

@@ -15,13 +15,13 @@
 
 ## § 7433. Administrative matters
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
         (1) The Secretary shall prescribe regulations relating to the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
 
         (2) In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this paragraph, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians and dentists of the Department and the views of representatives of professional organizations of physicians and dentists of the Department.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
         (1) Not later than 18 months after the Secretary prescribes the regulations required by subsection (a), and annually thereafter for the next 5 years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
 

@@ -15,11 +15,11 @@
 
 ## § 2102A. Assistance for individuals residing temporarily in housing owned by a family member
 
-    (a) __Provision of Assistance.—__ 
+    (a)  __Provision of Assistance__  __.—__ 
 
     In the case of a disabled individual who is described in subsection (a)(2) or (b)(2) of [section 2101 of this title][/us/usc/t38/s2101] and who is residing, but does not intend to permanently reside, in a residence owned by a member of such individual’s family, the Secretary may assist the individual in acquiring such adaptations to such residence as are determined by the Secretary to be reasonably necessary because of the individual’s disability.
 
-    (b) __Amount of Assistance.—__ 
+    (b)  __Amount of Assistance__  __.—__ 
 
         (1)
 
@@ -31,15 +31,15 @@
 
         (2) Effective on October 1 of each year (beginning in 2012), the Secretary shall use the same percentage calculated pursuant to [section 2102(e) of this title][/us/usc/t38/s2102/e] to increase the amounts described in paragraph (1) of this subsection.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     The assistance authorized by subsection (a) shall be limited in the case of any individual to one residence.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-    (e) __Termination.—__ 
+    (e)  __Termination__  __.—__ 
 
     No assistance may be provided under this section after December 31, 2022.
 

@@ -127,7 +127,7 @@
 
     (j) Regulations under this section shall be prescribed in consultation with the Secretary of Defense.
 
-    (k) __Designation of Fiduciary or Trustee.—__ 
+    (k)  __Designation of Fiduciary or Trustee__  __.—__ 
 
         (1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
 
@@ -201,11 +201,11 @@
 
 [Pub. L. 109–13, div. A, title I, § 1032(d)][/us/pl/109/13/s1032/d], May 11, 2005, [119 Stat. 259][/us/stat/119/259], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 1965 of this title][/us/usc/t38/s1965]\] shall take effect on the first day of the first month beginning more than 180 days after the date of enactment of this Act \[May 11, 2005\].
 
->     “(2) __Rulemaking.—__ 
+>     “(2)  __Rulemaking__  __.—__ 
 
 >     Before the effective date described in paragraph (1), the Secretary of Veterans Affairs, in collaboration with the Secretary of Defense, shall issue regulations to carry out the amendments made by this section.”
 
@@ -213,11 +213,11 @@
 
 [Pub. L. 111–275, title IV, § 406(b)][/us/pl/111/275/s406/b], Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     To the extent necessary, the Secretary of Veterans Affairs shall prescribe in regulations mechanisms for payments under [section 1980A of title 38][/us/usc/t38/s1980A], United States Code, for qualifying losses incurred before the date of the enactment of this Act \[Oct. 13, 2010\], by reason of paragraph (2) of subsection (d) of such section (as added by subsection (a)(1) of this section).
 
->     “(2) __Qualifying loss defined.—__ 
+>     “(2)  __Qualifying loss defined__  __.—__ 
 
 >     In this subsection, the term ‘qualifying loss’ means—
 
@@ -229,19 +229,19 @@
 
 [Pub. L. 109–233, title V, § 501(b)][/us/pl/109/233/s501/b], June 15, 2006, [120 Stat. 414][/us/stat/120/414], as amended by [Pub. L. 111–275, title IV, § 408(a)][/us/pl/111/275/s408/a], Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that:
 
->     “(1) __Eligibility.—__ 
+>     “(1)  __Eligibility__  __.—__ 
 
 >     A member of the uniformed services who during the period beginning on October 7, 2001, and ending at the close of November 30, 2005, sustains a traumatic injury resulting in a qualifying loss is eligible for coverage for that loss under [section 1980A of title 38][/us/usc/t38/s1980A], United States Code.
 
->     “(2) __Certification of persons entitled to payment.—__ 
+>     “(2)  __Certification of persons entitled to payment__  __.—__ 
 
 >     The Secretary concerned shall certify to the life insurance company issuing the policy of life insurance for Servicemembers’ Group Life Insurance under chapter 19 of title 38, United States Code, the name and address of each person who the Secretary concerned determines to be entitled by reason of paragraph (1) to a payment under [section 1980A of title 38][/us/usc/t38/s1980A], United States Code, plus such additional information as the Secretary of Veterans Affairs may require.
 
->     “(3) __Funding.—__ 
+>     “(3)  __Funding__  __.—__ 
 
 >     At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under [section 1969(d) of title 38][/us/usc/t38/s1969/d], United States Code.
 
->     “(4) __Qualifying loss.—__ 
+>     “(4)  __Qualifying loss__  __.—__ 
 
 >     For purposes of this subsection, the term ‘qualifying loss’ means—
 
@@ -249,7 +249,7 @@
 
 >         “(B) any other loss specified by the Secretary of Veterans Affairs pursuant to the first sentence of that subsection.
 
->     “(5) __Secretary concerned.—__ 
+>     “(5)  __Secretary concerned__  __.—__ 
 
 >     For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term in paragraph (25) of [section 101 of title 38][/us/usc/t38/s101], United States Code.”
 

@@ -15,15 +15,15 @@
 
 ## § 6106. Misuse of benefits by fiduciaries
 
-    (a) __Fee Forfeiture in Case of Benefit Misuse by Fiduciaries.—__ 
+    (a)  __Fee Forfeiture in Case of Benefit Misuse by Fiduciaries__  __.—__ 
 
     A fiduciary may not collect a fee from a beneficiary for any month with respect to which the Secretary or a court of competent jurisdiction has determined that the fiduciary misused all or part of the individual’s benefit, and any amount so collected by the fiduciary as a fee for such month shall be treated as a misused part of the individual’s benefit.
 
-    (b) __Misuse of Benefits Defined.—__ 
+    (b)  __Misuse of Benefits Defined__  __.—__ 
 
     For purposes of this chapter, misuse of benefits by a fiduciary occurs in any case in which the fiduciary receives payment, under any of laws administered by the Secretary, for the use and benefit of a beneficiary and uses such payment, or any part thereof, for a use other than for the use and benefit of such beneficiary or that beneficiary’s dependents. Retention by a fiduciary of an amount of a benefit payment as a fiduciary fee or commission, or as attorney’s fees (including expenses) and court costs, if authorized by the Secretary or a court of competent jurisdiction, shall be considered to be for the use or benefit of such beneficiary.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary may prescribe by regulation the meaning of the term “use and benefit” for purposes of this section.
 

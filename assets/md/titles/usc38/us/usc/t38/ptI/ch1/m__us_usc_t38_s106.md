@@ -107,13 +107,13 @@
 
 [Pub. L. 106–259, title VIII, § 8147(b)][/us/pl/106/259/s8147/b], (c), Aug. 9, 2000, [114 Stat. 705][/us/stat/114/705], provided that:
 
->     “(b) __Discharge.—__ 
+>     “(b)  __Discharge__  __.—__ 
 
 >         (1) The Secretary of Defense shall issue to each individual who served as a member of the Alaska Territorial Guard during World War II a discharge from such service under honorable conditions if the Secretary determines that the nature and duration of the service of the individual so warrants.
 
 >         “(2) A discharge under paragraph (1) shall designate the date of discharge. The date of discharge shall be the date, as determined by the Secretary, of the termination of service of the individual concerned as described in that paragraph.
 
->     “(c) __Prohibition on Retroactive Benefits.—__ 
+>     “(c)  __Prohibition on Retroactive Benefits__  __.—__ 
 
 >     No benefits shall be paid to any individual for any period before the date of the enactment of this Act \[Aug. 9, 2000\] by reason of the enactment of this section \[amending this section and enacting this note\].”
 

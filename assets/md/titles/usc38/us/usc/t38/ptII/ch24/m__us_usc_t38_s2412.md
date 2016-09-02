@@ -15,25 +15,25 @@
 
 ## § 2412. Lease of land and buildings
 
-    (a) __Lease Authorized.—__ 
+    (a)  __Lease Authorized__  __.—__ 
 
     The Secretary may lease any undeveloped land and unused or underutilized buildings, or parts or parcels thereof, belonging to the United States and part of the National Cemetery Administration.
 
-    (b) __Term.—__ 
+    (b)  __Term__  __.—__ 
 
     The term of a lease under subsection (a) may not exceed 10 years.
 
-    (c) __Lease to Public or Nonprofit Organizations.—__ 
+    (c)  __Lease to Public or Nonprofit Organizations__  __.—__ 
 
         (1) A lease under subsection (a) to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2) Notwithstanding [section 1302 of title 40][/us/usc/t40/s1302] or any other provision of law, a lease under subsection (a) to any public or nonprofit organization may provide for the maintenance, protection, or restoration of the leased property by the lessee, as a part or all of the consideration for the lease.
 
-    (d) __Notice.—__ 
+    (d)  __Notice__  __.—__ 
 
     Before entering into a lease under subsection (a), the Secretary shall give appropriate public notice of the intention of the Secretary to enter into the lease in a newspaper of general circulation in the community in which the lands or buildings concerned are located.
 
-    (e) __National Cemetery Administration Facilities Operation Fund.—__ 
+    (e)  __National Cemetery Administration Facilities Operation Fund__  __.—__ 
 
         (1) There is established on the book of the Treasury an account to be known as the “National Cemetery Administration Facilities Operation Fund” (in this section referred to as the “Fund”).
 

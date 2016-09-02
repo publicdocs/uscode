@@ -81,11 +81,11 @@
 
 [Pub. L. 102–54, § 12][/us/pl/102/54/s12], June 13, 1991, [105 Stat. 273][/us/stat/105/273], provided that:
 
->     “(a) __Authority for Administrative Reorganization.—__ 
+>     “(a)  __Authority for Administrative Reorganization__  __.—__ 
 
 >     The Secretary of Veterans Affairs may carry out the administrative reorganization described in subsection (b) without regard to [section 210(b)(2) of title 38][/us/usc/t38/s210/b/2] \[[38 U.S.C. 510(b)][/us/usc/t38/s510/b]–(f)\], United States Code.
 
->     “(b) __Specified Reorganization.—__ 
+>     “(b)  __Specified Reorganization__  __.—__ 
 
 >     Subsection (a) applies to the organizational realignment of management responsibility for the Department of Veterans Affairs Data Processing Centers, together with the corresponding organizational realignment of associated Information Resources Management operational components and functions within the Department of Veterans Affairs central office, as such realignment was described in the detailed plan and justification submitted by the Secretary of Veterans Affairs in \[sic\] January 4, 1991, letters to the Chairmen of the Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
 

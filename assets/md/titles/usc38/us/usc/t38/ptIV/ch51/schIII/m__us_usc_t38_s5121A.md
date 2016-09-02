@@ -15,7 +15,7 @@
 
 ## § 5121A. Substitution in case of death of claimant
 
-    (a) __Substitution.—__ 
+    (a)  __Substitution__  __.—__ 
 
         (1) If a claimant dies while a claim for any benefit under a law administered by the Secretary, or an appeal of a decision with respect to such a claim, is pending, a living person who would be eligible to receive accrued benefits due to the claimant under [section 5121(a) of this title][/us/usc/t38/s5121/a] may, not later than one year after the date of the death of such claimant, file a request to be substituted as the claimant for the purposes of processing the claim to completion.
 
@@ -23,7 +23,7 @@
 
         (3) Substitution under this subsection shall be in accordance with such regulations as the Secretary may prescribe.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     Those who are eligible to make a claim under this section shall be determined in accordance with [section 5121 of this title][/us/usc/t38/s5121].
 

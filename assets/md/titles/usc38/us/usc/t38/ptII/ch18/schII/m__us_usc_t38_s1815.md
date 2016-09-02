@@ -15,17 +15,17 @@
 
 ## § 1815. Monetary allowance
 
-    (a) __Monetary Allowance.—__ 
+    (a)  __Monetary Allowance__  __.—__ 
 
     The Secretary shall pay a monthly allowance to any eligible child for any disability resulting from the covered birth defects of that child.
 
-    (b) __Schedule for Rating Disabilities.—__ 
+    (b)  __Schedule for Rating Disabilities__  __.—__ 
 
         (1) The amount of the monthly allowance paid under this section shall be based on the degree of disability suffered by the child concerned, as determined in accordance with a schedule for rating disabilities resulting from covered birth defects that is prescribed by the Secretary.
 
         (2) In prescribing a schedule for rating disabilities for the purposes of this section, the Secretary shall establish four levels of disability upon which the amount of the allowance provided by this section shall be based. The levels of disability established may take into account functional limitations, including limitations on cognition, communication, motor abilities, activities of daily living, and employability.
 
-    (c) __Amount of Monthly Allowance.—__ 
+    (c)  __Amount of Monthly Allowance__  __.—__ 
 
     The amount of the monthly allowance paid under this section shall be as follows:
 
@@ -55,7 +55,7 @@
 
             (B) the monthly amount payable under [section 1805(b)(3) of this title][/us/usc/t38/s1805/b/3] for the highest level of disability prescribed for purposes of that section.
 
-    (d) __Indexing to Social Security Benefit Increases.—__ 
+    (d)  __Indexing to Social Security Benefit Increases__  __.—__ 
 
     Amounts under paragraphs (1), (2)(A), (3)(A), and (4)(A) of subsection (c) shall be subject to adjustment from time to time under [section 5312 of this title][/us/usc/t38/s5312].
 

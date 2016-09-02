@@ -15,7 +15,7 @@
 
 ## § 7324. Annual report on use of authorities to enhance retention of experienced nurses
 
-    (a) __Annual Report.—__ 
+    (a)  __Annual Report__  __.—__ 
 
     Not later than January 31 each year, the Secretary, acting through the Under Secretary for Health, shall submit to Congress a report on the use during the preceding year of authorities for purposes of retaining experienced nurses in the Veterans Health Administration, as follows:
 
@@ -25,7 +25,7 @@
 
         (3) Any other authorities available to the Secretary for those purposes.
 
-    (b) __Report Elements.—__ 
+    (b)  __Report Elements__  __.—__ 
 
     Each report under subsection (a) shall specify for the period covered by such report, for each Department medical facility and for each geographic service area of the Department, the following:
 

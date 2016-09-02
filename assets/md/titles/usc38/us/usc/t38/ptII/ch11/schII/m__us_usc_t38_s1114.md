@@ -1309,53 +1309,47 @@
 
  __Disability Compensation and Dependency and Indemnity Compensation Rate Increases__ 
 
-[Pub. L. 112–198][/us/pl/112/198], §§ 2(a)–(c), 3, Nov. 27, 2012, [126 Stat. 1463][/us/stat/126/1463], 1464, provided that:
+[Pub. L. 113–52, § 2(a)][/us/pl/113/52/s2/a]–(c), (e), Nov. 21, 2013, [127 Stat. 582][/us/stat/127/582], 583, provided that:
 
-> “SEC. 2. __INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.__ 
+>     “(a)  __Rate Adjustment__  __.—__ 
 
->     “(a) __Rate Adjustment.—__ 
+>     Effective on December 1, 2013, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2013, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
->     Effective on December 1, 2012, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2012, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
-
->     “(b) __Amounts To Be Increased.—__ 
+>     “(b)  __Amounts To Be Increased__  __.—__ 
 
 >     The dollar amounts to be increased pursuant to subsection (a) are the following:
 
->         “(1) __Wartime disability compensation.—__ 
+>         “(1)  __Wartime disability compensation__  __.—__ 
 
 >         Each of the dollar amounts under [section 1114 of title 38][/us/usc/t38/s1114], United States Code.
 
->         “(2) __Additional compensation for dependents.—__ 
+>         “(2)  __Additional compensation for dependents__  __.—__ 
 
 >         Each of the dollar amounts under section 1115(1) of such title.
 
->         “(3) __Clothing allowance.—__ 
+>         “(3)  __Clothing allowance__  __.—__ 
 
 >         The dollar amount under section 1162 of such title.
 
->         “(4) __Dependency and indemnity compensation to surviving spouse.—__ 
+>         “(4)  __Dependency and indemnity compensation to surviving spouse__  __.—__ 
 
 >         Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
 
->         “(5) __Dependency and indemnity compensation to children.—__ 
+>         “(5)  __Dependency and indemnity compensation to children__  __.—__ 
 
 >         Each of the dollar amounts under sections 1313(a) and 1314 of such title.
 
->     “(c) __Determination of Increase.—__ 
+>     “(c)  __Determination of Increase__  __.—__ 
 
->         “(1) __Percentage.—__ 
+>     Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) are increased effective December 1, 2013, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)][/us/usc/t42/s415/i]).
 
->         Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) are increased effective December 1, 2012, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)][/us/usc/t42/s415/i]).
+>     “(e)  __Publication of Adjusted Rates__  __.—__ 
 
->         “(2) __Rounding.—__ 
-
->         Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
-
-> “SEC. 3. __PUBLICATION OF ADJUSTED RATES.__ 
-
->     “The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)][/us/usc/t42/s415/i/2/D]) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2013.”
+>     The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in subsection (b), as increased under subsection (a), not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)][/us/usc/t42/s415/i/2/D]) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2014.”
 
 Similar provisions were contained in the following acts:
+
+    [Pub. L. 112–198][/us/pl/112/198], §§ 2(a)–(c), 3, Nov. 27, 2012, [126 Stat. 1463][/us/stat/126/1463], 1464.
 
     [Pub. L. 112–53, § 2(a)][/us/pl/112/53/s2/a]–(c), (e), Nov. 9, 2011, [125 Stat. 548][/us/stat/125/548], 549.
 
@@ -1389,11 +1383,13 @@ Similar provisions were contained in the following acts:
 
  __Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter__ 
 
-[Pub. L. 112–198, § 2(d)][/us/pl/112/198/s2/d], Nov. 27, 2012, [126 Stat. 1464][/us/stat/126/1464], provided that: 
+[Pub. L. 113–52, § 2(d)][/us/pl/113/52/s2/d], Nov. 21, 2013, [127 Stat. 582][/us/stat/127/582], provided that: 
 
 > “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under [section 10 of Public Law 85–857][/us/pl/85/857/s10] ([72 Stat. 1263][/us/stat/72/1263]) \[set out as a note preceding [section 101 of this title][/us/usc/t38/s101]\] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+    [Pub. L. 112–198, § 2(d)][/us/pl/112/198/s2/d], Nov. 27, 2012, [126 Stat. 1464][/us/stat/126/1464].
 
     [Pub. L. 112–53, § 2(d)][/us/pl/112/53/s2/d], Nov. 9, 2011, [125 Stat. 549][/us/stat/125/549].
 
@@ -2228,12 +2224,14 @@ Similar provisions were contained in the following acts:
 [/us/pl/97/253/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs405
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
 [/us/pl/97/253/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs405
-[/us/pl/112/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F198
-[/us/stat/126/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1463
+[/us/pl/113/52/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F52%2Fs2%2Fa
+[/us/stat/127/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F582
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s415/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FD
+[/us/pl/112/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F198
+[/us/stat/126/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1463
 [/us/pl/112/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F53%2Fs2%2Fa
 [/us/stat/125/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F548
 [/us/pl/111/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F247
@@ -2264,11 +2262,13 @@ Similar provisions were contained in the following acts:
 [/us/stat/108/4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4336
 [/us/pl/102/510/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F510%2Fs2%2Fa
 [/us/stat/106/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3318
-[/us/pl/112/198/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F198%2Fs2%2Fd
-[/us/stat/126/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1464
+[/us/pl/113/52/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F52%2Fs2%2Fd
+[/us/stat/127/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F582
 [/us/pl/85/857/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs10
 [/us/stat/72/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1263
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
+[/us/pl/112/198/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F198%2Fs2%2Fd
+[/us/stat/126/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1464
 [/us/pl/112/53/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F53%2Fs2%2Fd
 [/us/stat/125/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F549
 [/us/pl/111/247/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F247%2Fs2%2Fd

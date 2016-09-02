@@ -119,11 +119,11 @@
 
 [Pub. L. 110–387, title V, § 501][/us/pl/110/387/s501], Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], provided that:
 
->     “(a) __Comprehensive Policy Required.—__ 
+>     “(a)  __Comprehensive Policy Required__  __.—__ 
 
 >     Not later than October 1, 2009, the Secretary of Veterans Affairs shall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
 
->     “(b) __Scope of Policy.—__ 
+>     “(b)  __Scope of Policy__  __.—__ 
 
 >     The policy required by subsection (a) shall cover each of the following:
 
@@ -141,21 +141,21 @@
 
 >         “(7) Department programs of patient education for veterans suffering from acute or chronic pain and their families.
 
->     “(c) __Updates.—__ 
+>     “(c)  __Updates__  __.—__ 
 
 >     The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     The Secretary shall develop the policy required by subsection (a), and revise such policy under subsection (c), in consultation with veterans service organizations and organizations with expertise in the assessment, diagnosis, treatment, and management of pain.
 
 >     “(e) __Annual Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the completion and initial implementation of the policy required by subsection (a) and on October 1 of every fiscal year thereafter through fiscal year 2018, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of the policy required by subsection (a).
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -171,7 +171,7 @@
 
 >             “(F) An assessment of the patient pain care education programs of the Department.
 
->     “(f) __Veterans Service Organization Defined.—__ 
+>     “(f)  __Veterans Service Organization Defined__  __.—__ 
 
 >     In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902], United States Code.”
 
@@ -189,7 +189,7 @@
 
 [Pub. L. 102–139, title I, § 101][/us/pl/102/139/s101], Oct. 28, 1991, [105 Stat. 742][/us/stat/105/742], provided that:
 
->     “(a) __Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—__ 
+>     “(a)  __Regulations for Standards of Performance in Department of Veterans Affairs Laboratories__  __.—__ 
 
 >         (1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act ([42 U.S.C. 263a][/us/usc/t42/s263a]), the Secretary of Veterans Affairs, in accordance with the Secretary’s authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
 
@@ -201,11 +201,11 @@
 
 >             “(B) shall include appropriate provisions respecting compliance with such requirements.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Within the 180-day period beginning on the date on which the Secretary of Veterans Affairs prescribes regulations required by subsection (a), the Secretary shall submit to the appropriate committees of the Congress a report on those regulations.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘medical facility laboratories’ means facilities for the biological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”
 

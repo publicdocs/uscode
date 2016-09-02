@@ -15,7 +15,7 @@
 
 ## § 7732A. Employee certification
 
-    (a) __Development of Certification Examination.—__ 
+    (a)  __Development of Certification Examination__  __.—__ 
 
         (1) The Secretary shall provide for an examination of appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary.
 
@@ -27,7 +27,7 @@
 
             (B) consider the data gathered and produced under [section 7731(c)(3) of this title][/us/usc/t38/s7731/c/3].
 
-    (b) __Employee and Manager Requirement.—__ 
+    (b)  __Employee and Manager Requirement__  __.—__ 
 
     The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary to take the examination provided under subsection (a).
 

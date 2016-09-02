@@ -15,7 +15,7 @@
 
 ## § 1720G. Assistance and support services for caregivers
 
-    (a) __Program of Comprehensive Assistance for Family Caregivers.—__ 
+    (a)  __Program of Comprehensive Assistance for Family Caregivers__  __.—__ 
 
         (1)
 
@@ -167,7 +167,7 @@
 
         (10) The Secretary shall carry out outreach to inform eligible veterans and family members of eligible veterans of the program required by paragraph (1) and the benefits of participating in the program.
 
-    (b) __Program of General Caregiver Support Services.—__ 
+    (b)  __Program of General Caregiver Support Services__  __.—__ 
 
         (1) The Secretary shall establish a program of support services for caregivers of covered veterans who are enrolled in the health care system established under [section 1705(a) of this title][/us/usc/t38/s1705/a] (including caregivers who do not reside with such veterans).
 
@@ -209,7 +209,7 @@
 
         (5) In carrying out the program required by paragraph (1), the Secretary shall conduct outreach to inform covered veterans and caregivers of covered veterans about the program. The outreach shall include an emphasis on covered veterans and caregivers of covered veterans living in rural areas.
 
-    (c) __Construction.—__ 
+    (c)  __Construction__  __.—__ 
 
         (1) A decision by the Secretary under this section affecting the furnishing of assistance or support shall be considered a medical determination.
 
@@ -221,7 +221,7 @@
 
             (B) any entitlement to any assistance or support provided under this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -257,7 +257,7 @@
 
             (B) Any other non-institutional extended care (as such term is used in [section 1701(6)(E) of this title][/us/usc/t38/s1701/6/E]).
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
 
@@ -271,11 +271,11 @@
 
 [Pub. L. 111–163, title I, § 101(a)(3)][/us/pl/111/163/s101/a/3], May 5, 2010, [124 Stat. 1137][/us/stat/124/1137], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[enacting this section\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[May 5, 2010\].
 
->     “(B) __Implementation.—__ 
+>     “(B)  __Implementation__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall commence the programs required by subsections (a) and (b) of [section 1720G of title 38][/us/usc/t38/s1720G], United States Code, as added by paragraph (1) of this subsection, on the date on which the amendments made by this subsection take effect.”
 
@@ -283,11 +283,11 @@
 
 [Pub. L. 111–163, title I, § 101(c)][/us/pl/111/163/s101/c], May 5, 2010, [124 Stat. 1138][/us/stat/124/1138], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 2 years after the date described in subsection (a)(3)(A) \[see Effective Date note above\] and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a comprehensive report on the implementation of [section 1720G of title 38][/us/usc/t38/s1720G], United States Code, as added by subsection (a)(1).
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     The report required by paragraph (1) shall include the following:
 

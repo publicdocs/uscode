@@ -15,11 +15,11 @@
 
 ## § 8111. Sharing of Department of Veterans Affairs and Department of Defense health care resources
 
-    (a) __Required Coordination and Sharing of Health Care Resources.—__ 
+    (a)  __Required Coordination and Sharing of Health Care Resources__  __.—__ 
 
     The Secretary of Veterans Affairs and the Secretary of Defense shall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
 
-    (b) __Joint Requirements for Secretaries of Veterans Affairs and Defense.—__ 
+    (b)  __Joint Requirements for Secretaries of Veterans Affairs and Defense__  __.—__ 
 
     To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
 
@@ -33,7 +33,7 @@
 
     \[(c) Repealed. [Pub. L. 108–136, div. A, title V, § 583(b)(1)][/us/pl/108/136/s583/b/1], Nov. 24, 2003, [117 Stat. 1491][/us/stat/117/1491].\]
 
-    (d) __Joint Incentives Program.—__ 
+    (d)  __Joint Incentives Program__  __.—__ 
 
         (1) Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Department of Veterans Affairs-Department of Defense Joint Executive Committee, under procedures jointly prescribed by the two Secretaries.
 
@@ -41,7 +41,7 @@
 
         (3) The program under this subsection shall terminate on September 30, 2015.
 
-    (e) __Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—__ 
+    (e)  __Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements__  __.—__ 
 
         (1)
 
@@ -71,7 +71,7 @@
 
             (G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided the care or services, or is due the funds from, any such agreement.
 
-    (f) __Annual Joint Report.—__ 
+    (f)  __Annual Joint Report__  __.—__ 
 
         (1) At the time the President’s budget is transmitted to Congress in any year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the two Secretaries shall submit to Congress a joint report on health care coordination and sharing activities under this section during the fiscal year that ended during the previous calendar year.
 
@@ -119,7 +119,7 @@
 
         (5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a report on the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]), including activities under the program during the preceding year and each Secretary’s assessment of the efficacy of providing education and training under that program.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     For the purposes of this section:
 
@@ -271,7 +271,7 @@
 
 [Pub. L. 108–375, div. B, title XXVIII, § 2811][/us/pl/108/375/s2811], Oct. 28, 2004, [118 Stat. 2128][/us/stat/118/2128], provided that:
 
->     “(a) __Department of Defense Consideration of Joint Construction.—__ 
+>     “(a)  __Department of Defense Consideration of Joint Construction__  __.—__ 
 
 >     When considering any military construction project for the construction of a new military medical treatment facility in the United States or a territory or possession of the United States, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding the feasibility of carrying out a joint project to construct a medical facility that—
 
@@ -279,7 +279,7 @@
 
 >         “(2) would be no more costly to each Department to construct and operate than separate facilities for each Department.
 
->     “(b) __Department of Veterans Affairs Consideration of Joint Construction.—__ 
+>     “(b)  __Department of Veterans Affairs Consideration of Joint Construction__  __.—__ 
 
 >     When considering the construction of a new or replacement medical facility for the Department of Veterans Affairs, the Secretary of Veterans Affairs shall consult with the Secretary of Defense regarding the feasibility of carrying out a joint project to construct a medical facility that—
 
@@ -291,13 +291,13 @@
 
 [Pub. L. 107–314, div. A, title VII, § 722][/us/pl/107/314/s722], Dec. 2, 2002, [116 Stat. 2595][/us/stat/116/2595], as amended by [Pub. L. 109–163, div. A, title VII, § 747(b)][/us/pl/109/163/s747/b], Jan. 6, 2006, [119 Stat. 3363][/us/stat/119/3363], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs and the Secretary of Defense shall conduct a health care resources sharing project to serve as a test for evaluating the feasibility, and the advantages and disadvantages, of measures and programs designed to improve the sharing and coordination of health care and health care resources between the Department of Veterans Affairs and the Department of Defense. The project shall be carried out, as a minimum, at the sites identified under subsection (b).
 
 >         “(2) Reimbursement between the two Departments with respect to the project under this section shall be made in accordance with the provisions of [section 8111(e)(2) of title 38][/us/usc/t38/s8111/e/2], United States Code, as amended by section 721(a).
 
->     “(b) __Site Identification.—__ 
+>     “(b)  __Site Identification__  __.—__ 
 
 >         (1) Not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretaries shall jointly identify not less than three sites for the conduct of the project under this section.
 
@@ -309,7 +309,7 @@
 
 >             “(B) for which an agreement to coordinate care and programs for patients at those facilities could be implemented not later than October 1, 2004.
 
->     “(c) __Conduct of Project.—__ 
+>     “(c)  __Conduct of Project__  __.—__ 
 
 >         (1) At sites at which the project is conducted, the Secretaries shall provide a test of a coordinated management system for the military treatment facilities and VA health care facilities participating in the project. Such a coordinated management system for a site shall include at least one of the elements specified in paragraph (2), and each of the elements specified in that paragraph must be included in the coordinated management system for at least one of the participating sites.
 
@@ -337,7 +337,7 @@
 
 >                 “(iii) incorporate minimum standards of information quality that are at least equivalent to those adopted for the Departments at large in their separate health care systems.
 
->     “(d) __Authority To Waive Certain Administrative Policies.—__ 
+>     “(d)  __Authority To Waive Certain Administrative Policies__  __.—__ 
 
 >         (1)
 
@@ -349,7 +349,7 @@
 
 >         “(2) No waiver under paragraph (1) may alter any labor-management agreement in effect as of the date of the enactment of this Act \[Dec. 2, 2002\] or adopted by either Department during the period of the project.
 
->     “(e) __Use by DOD of Certain Title 38 Personnel Authorities.—__ 
+>     “(e)  __Use by DOD of Certain Title__  __38__  __Personnel Authorities__  __.—__ 
 
 >         (1) In order to carry out subsection (c), the Secretary of Defense may apply to civilian personnel of the Department of Defense assigned to or employed at a military treatment facility participating in the project any of the provisions of subchapters I, III, and IV of chapter 74 of title 38, United States Code, determined appropriate by the Secretary.
 
@@ -361,7 +361,7 @@
 
 >             “(B) to the ‘Veterans Health Administration’ shall be treated as referring to the Department of Defense.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     From amounts available for health care for a fiscal year, each Secretary shall make available to carry out the project not less than—
 
@@ -371,7 +371,7 @@
 
 >         “(3) $9,000,000 for each succeeding year during which the project is in effect.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -379,7 +379,7 @@
 
 >         “(2) The term ‘VA health care facility’ means a facility under the jurisdiction of the Veterans Health Administration of the Department of Veterans Affairs.
 
->     “(h) __Termination.—__ 
+>     “(h)  __Termination__  __.—__ 
 
 >         (1) The project, and the authority provided by this section, shall terminate on September 30, 2007.
 
@@ -389,7 +389,7 @@
 
 [Pub. L. 106–117, title I, § 113][/us/pl/106/117/s113], Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556], as amended by [Pub. L. 108–7, div. K, title I, § 113(d)(2)][/us/pl/108/7/s113/d/2], Feb. 20, 2003, [117 Stat. 483][/us/stat/117/483], provided that:
 
->     “(a) __Interagency Agreement.—__ 
+>     “(a)  __Interagency Agreement__  __.—__ 
 
 >         (1) The Secretary of Defense shall enter into an agreement (characterized as a memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
 
@@ -407,21 +407,21 @@
 
 >         “(5) The agreement under paragraph (1) shall be entered into by the Secretaries not later than nine months after the date of the enactment of this Act \[Nov. 30, 1999\]. If the Secretaries are unable to reach agreement, they shall jointly report, by that date or within 30 days thereafter, to the Committees on Armed Services and the Committees on Veterans’ Affairs of the Senate and House of Representatives on the reasons for their inability to reach an agreement and their mutually agreed plan for removing any impediments to final agreement.
 
->     “(b) __Depositing of Reimbursements.—__ 
+>     “(b)  __Depositing of Reimbursements__  __.—__ 
 
 >     Amounts received by the Secretary of Veterans Affairs under the agreement under subsection (a) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of title 38][/us/usc/t38/s1729A], United States Code.
 
->     “(c) __Copayment Requirement.—__ 
+>     “(c)  __Copayment Requirement__  __.—__ 
 
 >     The provisions of subsections (f)(1) and (g)(1) of [section 1710 of title 38][/us/usc/t38/s1710], United States Code, shall not apply in the case of an eligible military retiree who is covered by the agreement under subsection (a).
 
->     “(d) __Phased Implementation.—__ 
+>     “(d)  __Phased Implementation__  __.—__ 
 
 >         (1) The Secretary of Defense shall include in each TRICARE contract entered into after the date of the enactment of this Act \[Nov. 30, 1999\] provisions to implement the agreement under subsection (a).
 
 >         “(2) The provisions of the agreement under subsection (a)(2) and the provisions of subsection (c) shall apply to the furnishing of medical care by the Secretary of Veterans Affairs in any area of the United States only if that area is covered by a TRICARE contract that was entered into after the date of the enactment of this Act.
 
->     “(e) __Eligible Military Retirees.—__ 
+>     “(e)  __Eligible Military Retirees__  __.—__ 
 
 >     For purposes of this section, an eligible military retiree is a member of the Army, Navy, Air Force, or Marine Corps who—
 
@@ -437,7 +437,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 741\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that:
 
->     “(a) __Primacy of Sharing Agreements.—__ 
+>     “(a)  __Primacy of Sharing Agreements__  __.—__ 
 
 >     The Secretary of Defense shall—
 
@@ -445,7 +445,7 @@
 
 >         “(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including terms providing for reimbursement from funds available for that military department.
 
->     “(b) __Modification or Termination.—__ 
+>     “(b)  __Modification or Termination__  __.—__ 
 
 >     Any agreement described in subsection (a) shall remain in effect in accordance with such subsection unless, during the 12-month period following the date of the enactment of this Act \[Oct. 30, 2000\], such agreement is modified or terminated in accordance with the terms of such agreement.”
 
@@ -457,7 +457,7 @@
 
 > “SEC. 201. __TEMPORARY EXPANSION OF AUTHORITY FOR SHARING AGREEMENTS.__ 
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under [section 8111(c) of title 38][/us/usc/t38/s8111/c], United States Code. Under such an agreement—
 
@@ -471,7 +471,7 @@
 
 >             “(B) with respect to the Department of Defense, any person who is a covered beneficiary under chapter 55 of title 10, United States Code.
 
->     “(b) __Use of Funds.—__ 
+>     “(b)  __Use of Funds__  __.—__ 
 
 >     Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscal year under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
 
@@ -499,11 +499,11 @@
 
 > “SEC. 206. __ANNUAL REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For each of fiscal years 1993 through 1996, the Secretary of Defense and the Secretary of Veterans Affairs shall include in the annual report of the Secretaries under [section 8111(f) of title 38][/us/usc/t38/s8111/f], United States Code, a description of the Secretaries’ implementation of this section.
 
->     “(b) __Additional Matters for Fiscal Year 1996 Report.—__ 
+>     “(b)  __Additional Matters for Fiscal Year__  __1996__  __Report__  __.—__ 
 
 >     In the report under subsection (a) for fiscal year 1996, the Secretaries shall include the following:
 
@@ -515,11 +515,11 @@
 
 > “SEC. 207. __AUTHORITY TO BILL HEALTH-PLAN CONTRACTS.__ 
 
->     “(a) __Right To Recover.—__ 
+>     “(a)  __Right To Recover__  __.—__ 
 
 >     In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in [section 1729(i)(1)(A) of title 38][/us/usc/t38/s1729/i/1/A], United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
 
->     “(b) __Enforcement.—__ 
+>     “(b)  __Enforcement__  __.—__ 
 
 >     The right of the United States to recover under such a beneficiary’s health-plan contract shall be enforceable in the same manner as that provided by subsections (a)(3), (b), (c)(1), (d), (f), (h), and (i) of [section 1729 of title 38][/us/usc/t38/s1729], United States Code.”
 

@@ -15,11 +15,11 @@
 
 ## § 3020. Authority to transfer unused education benefits to family members for career service members
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit an individual described in subsection (b) who is entitled to basic educational assistance under this subchapter to elect to transfer to one or more of the dependents specified in subsection (c) the unused portion of entitlement to such assistance, subject to the limitation under subsection (d).
 
-    (b) __Eligible Individuals.—__ 
+    (b)  __Eligible Individuals__  __.—__ 
 
     An individual referred to in subsection (a) is any member of the Armed Forces—
 
@@ -27,7 +27,7 @@
 
         (2) as determined in regulations pursuant to subsection (k).
 
-    (c) __Eligible Dependents.—__ 
+    (c)  __Eligible Dependents__  __.—__ 
 
     An individual approved to transfer an entitlement to basic educational assistance under this section may transfer the individual’s entitlement as follows:
 
@@ -37,13 +37,13 @@
 
         (3) To a combination of the individuals referred to in paragraphs (1) and (2).
 
-    (d) __Limitation on Months of Transfer.—__ 
+    (d)  __Limitation on Months of Transfer__  __.—__ 
 
         (1) An individual approved to transfer an entitlement to basic educational assistance under this section may transfer any unused entitlement to one or more of the dependents specified in subsection (c).
 
         (2) The total number of months of entitlement transferred by an individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 
-    (e) __Designation of Transferee.—__ 
+    (e)  __Designation of Transferee__  __.—__ 
 
     An individual transferring an entitlement to basic educational assistance under this section shall—
 
@@ -53,7 +53,7 @@
 
         (3) specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
 
-    (f) __Time for Transfer; Revocation and Modification.—__ 
+    (f)  __Time for Transfer; Revocation and Modification__  __.—__ 
 
         (1) Subject to the time limitation for use of entitlement under [section 3031 of this title][/us/usc/t38/s3031], an individual approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at any time after the approval of the individual’s request to transfer such entitlement only while the individual is a member of the Armed Forces when the transfer is executed.
 
@@ -65,7 +65,7 @@
 
         (3) Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
-    (g) __Commencement of Use.—__ 
+    (g)  __Commencement of Use__  __.—__ 
 
     A dependent to whom entitlement to basic educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
 
@@ -85,7 +85,7 @@
 
                 (ii) the attainment by the child of 18 years of age.
 
-    (h) __Additional Administrative Matters.—__ 
+    (h)  __Additional Administrative Matters__  __.—__ 
 
         (1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
@@ -105,7 +105,7 @@
 
         (7) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
 
-    (i) __Overpayment.—__ 
+    (i)  __Overpayment__  __.—__ 
 
         (1) In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title][/us/usc/t38/s3685].
 
@@ -119,11 +119,11 @@
 
             (B) for a reason referred to in [section 3011(a)(1)(A)(ii)(I) of this title][/us/usc/t38/s3011/a/1/A/ii/I].
 
-    (j) __Approvals of Transfer Subject to Availability of Appropriations.—__ 
+    (j)  __Approvals of Transfer Subject to Availability of Appropriations__  __.—__ 
 
     The Secretary concerned may approve transfers of entitlement to basic educational assistance under this section in a fiscal year only to the extent that appropriations for military personnel are available in that fiscal year for purposes of making deposits in the Department of Defense Education Benefits Fund under [section 2006 of title 10][/us/usc/t10/s2006] in that fiscal year to cover the present value of future benefits payable from the Fund for the Department of Defense portion of payments of basic educational assistance attributable to increased usage of benefits as a result of such transfers of entitlement in that fiscal year.
 
-    (k) __Regulations.—__ 
+    (k)  __Regulations__  __.—__ 
 
     The Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section. Such regulations shall specify—
 
@@ -135,7 +135,7 @@
 
         (4) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-    (l) __Secretary Concerned Defined.—__ 
+    (l)  __Secretary Concerned Defined__  __.—__ 
 
     Notwithstanding [section 101(25) of this title][/us/usc/t38/s101/25], in this section, the term “Secretary concerned” means—
 

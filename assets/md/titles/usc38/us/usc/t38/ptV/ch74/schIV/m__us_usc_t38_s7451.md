@@ -259,13 +259,13 @@
 
 [Section 104 of Pub. L. 101–366][/us/pl/101/366/s104], as amended by [Pub. L. 102–40, title III, § 301(e)][/us/pl/102/40/s301/e], May 7, 1991, [105 Stat. 208][/us/stat/105/208], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) Except as provided in subsection (b), section 101 \[amending former [section 4107 of this title][/us/usc/t38/s4107] and enacting provisions set out as a note under former [section 4107 of this title][/us/usc/t38/s4107]\] and the amendments made by section 102 \[enacting this section and section 4142 \[now 7452\] of this title and amending former sections 4104 and 4107 of this title\] shall take effect on the date of enactment \[Aug. 15, 1990\].
 
 >         “(2) The amendment made by section 103 \[amending former [section 4107 of this title][/us/usc/t38/s4107]\] shall take effect on the first day of the first pay period beginning after April 1, 1991.
 
->     “(b) __New Pay Rates.—__ 
+>     “(b)  __New Pay Rates__  __.—__ 
 
 >     The rates of basic pay established pursuant to section 4141 \[now 7451\] of title 38, United States Code, as added by section 102, shall take effect for covered positions (as defined in that section) with respect to the first pay period beginning on or after April 1, 1991.”
 
@@ -279,13 +279,13 @@
 
 [Pub. L. 108–422, title V, § 501][/us/pl/108/422/s501], Nov. 30, 2004, [118 Stat. 2395][/us/stat/118/2395], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >         (1) Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 2004\], the Secretary of Veterans Affairs shall designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs are adversely affected by a shortage of qualified nurses.
 
 >         “(2) The Secretary shall conduct a pilot program in the region or section designated under paragraph (1) to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment of qualified nurses for positions at Department health care facilities in such region or section and for the retention of nurses at such facilities. In carrying out the pilot program, the Secretary shall enter into a contract with a private sector entity for services under the pilot program for recruitment of qualified nurses.
 
->     “(b) __Private Sector Recruitment Practices.—__ 
+>     “(b)  __Private Sector Recruitment Practices__  __.—__ 
 
 >     For purposes of the pilot program under this section, the Secretary shall identify and use recruitment practices that have proven effective for placing qualified individuals in positions that are difficult to fill due to shortages of qualified individuals or other factors. Recruitment practices to be reviewed by the Secretary for use in the pilot program shall include—
 
@@ -295,11 +295,11 @@
 
 >         “(3) the use of recruitment, advertising, and communication agencies.
 
->     “(c) __Streamlined Hiring Process.—__ 
+>     “(c)  __Streamlined Hiring Process__  __.—__ 
 
 >     In carrying out the pilot program under this section, the Secretary shall, at health care facilities of the Department in the region or section in which the pilot program is conducted, revise procedures and systems for selecting and hiring qualified nurses to reduce the length of the hiring process. If the Secretary identifies measures to streamline and automate the hiring process that can only be implemented if authorized by law, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives recommendations for such changes in law as may be necessary to enable such measures to be implemented.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the extent to which the pilot program achieved the goal of improving the recruitment and retention of nurses in Department of Veterans Affairs health care facilities.”
 
@@ -315,13 +315,13 @@
 
 [Pub. L. 105–368, title IX, § 905][/us/pl/105/368/s905], Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >         (1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 ([Public Law 101–366][/us/pl/101/366]) and now set forth in [section 7451 of title 38][/us/usc/t38/s7451], United States Code.
 
 >         “(2) The Secretary shall submit with the report under paragraph (1) a copy of the report on the locality pay system prepared by the contractor pursuant to a contract with Systems Flow, Inc., that was entered into on May 22, 1998.
 
->     “(b) __Matters To Be Included.—__ 
+>     “(b)  __Matters To Be Included__  __.—__ 
 
 >     The report of the Secretary under subsection (a)(1) shall include the following:
 
@@ -333,7 +333,7 @@
 
 >         “(4) An explanation of the reasons for any decision not to adopt any recommendation in the report referred to in subsection (a)(2).
 
->     “(c) __Updated Report.—__ 
+>     “(c)  __Updated Report__  __.—__ 
 
 >     Not later than February 1, 2000, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report updating the report submitted under subsection (a)(1).”
 
@@ -345,7 +345,7 @@
 
 [Pub. L. 102–585, title III, § 305][/us/pl/102/585/s305], Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
 
->     “(a) __Revision.—__ 
+>     “(a)  __Revision__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall conduct a review of the qualification standards used for nursing personnel at Department health-care facilities and the relationship between those standards and the compression of nursing personnel in the existing intermediate and senior grades. Based upon that review, the Secretary shall revise those qualification standards—
 
@@ -353,11 +353,11 @@
 
 >         “(2) to reduce the compression of nursing personnel in the existing intermediate and senior grades.
 
->     “(b) __Deadline For Prescribing Standards.—__ 
+>     “(b)  __Deadline For Prescribing Standards__  __.—__ 
 
 >     The Secretary shall prescribe revised qualification standards for nursing personnel pursuant to subsection (a) not later than six months after the date of the enactment of this Act \[Nov. 4, 1992\].
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s findings and actions under this section. The report shall be submitted not later than six months after the date on which revised qualification standards for nursing personnel are prescribed pursuant to subsection (b).”
 
@@ -365,7 +365,7 @@
 
 [Pub. L. 102–585, title III, § 306][/us/pl/102/585/s306], Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall conduct a review of—
 
@@ -375,7 +375,7 @@
 
 >         The review shall include an assessment of the adequacy of that process in determining an equitable pay rate for the Chief Nurse position, including an assessment of the accuracy of data collected in the survey process and the difficulties in obtaining accurate data.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include in the report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
 

@@ -15,11 +15,11 @@
 
 ## § 6304. Veterans assistance offices
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this chapter. The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense and taking into account recommendations, if any, of the Secretary of Labor, determines to be necessary to carry out such purposes.
 
-    (b) __Location of Offices.—__ 
+    (b)  __Location of Offices__  __.—__ 
 
     In establishing and maintaining such offices, the Secretary shall give due regard to—
 

@@ -257,11 +257,11 @@
 
 [Pub. L. 110–252, title V, § 5004(d)][/us/pl/110/252/s5004/d], June 30, 2008, [122 Stat. 2379][/us/stat/122/2379], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on August 1, 2008.
 
->     “(2) __No cost-of-living adjustment for fiscal year 2009.—__ 
+>     “(2)  __No cost-of-living adjustment for fiscal year 2009__  __.—__ 
 
 >     The adjustment required by subsection (h) of [section 3015 of title 38][/us/usc/t38/s3015], United States Code (as amended by this section), in rates of basic educational assistance payable under subsections (a) and (b) of such section (as so amended) shall not be made for fiscal year 2009.”
 

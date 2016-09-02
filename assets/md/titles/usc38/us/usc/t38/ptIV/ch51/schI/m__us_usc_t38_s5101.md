@@ -97,19 +97,19 @@
 
 >     “(a) __Pilot Program on Expedited Treatment of Fully Developed Claims.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing expeditious treatment of fully developed compensation or pension claims to ensure that such claims are adjudicated not later than 90 days after the date on which such claim is submitted as fully developed.
 
->         “(2) __Duration of pilot program.—__ 
+>         “(2)  __Duration of pilot program__  __.—__ 
 
 >         The pilot program under this subsection shall be carried out during the one-year period beginning on the date that is 60 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
->         “(3) __Program locations.—__ 
+>         “(3)  __Program locations__  __.—__ 
 
 >         The pilot program under this subsection shall be carried out at 10 regional offices of the Department of Veterans Affairs selected by the Secretary for purposes of such pilot program.
 
->         “(4) __Fully developed claim defined.—__ 
+>         “(4)  __Fully developed claim defined__  __.—__ 
 
 >         For purposes of this subsection, the term ‘fully developed claim’ means a claim for a benefit under a law administered by the Secretary—
 
@@ -131,11 +131,11 @@
 
 >     “(b) __Pilot Program on Provision of Checklists to Individuals Submitting Claims.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall carry out a pilot program to assess the feasibility and advisability of providing to a claimant for whom the Secretary is required under [section 5103(a) of title 38][/us/usc/t38/s5103/a], United States Code, to provide notice of required information and evidence to such claimant and such claimant’s representative, if any, a checklist that includes information or evidence required to be submitted by the claimant to substantiate the claim.
 
->         “(2) __Duration of pilot program.—__ 
+>         “(2)  __Duration of pilot program__  __.—__ 
 
 >         The pilot program under this subsection shall be carried out—
 
@@ -143,11 +143,11 @@
 
 >             “(B) for claims to reopen and for claims for increased ratings that were filed after the date of the enactment of this Act, during the three-year period beginning on the date that is 60 days after the date of the enactment of this Act.
 
->         “(3) __Program locations.—__ 
+>         “(3)  __Program locations__  __.—__ 
 
 >         The pilot program under this subsection shall be carried out at four regional offices of the Department selected by the Secretary for purposes of such pilot program.
 
->         “(4) __Construction.—__ 
+>         “(4)  __Construction__  __.—__ 
 
 >         A checklist provided under the pilot program under this subsection—
 
@@ -157,15 +157,15 @@
 
 >     “(c) __Reports.—__ 
 
->         “(1) __First initial report.—__ 
+>         “(1)  __First initial report__  __.—__ 
 
 >         Not later than 335 days after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary shall submit to Congress a report on the pilot program under subsection (a) and the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(A).
 
->         “(2) __Second interim report.—__ 
+>         “(2)  __Second interim report__  __.—__ 
 
 >         Not later than 1,065 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(B).
 
->         “(3) __Elements of interim reports.—__ 
+>         “(3)  __Elements of interim reports__  __.—__ 
 
 >         The reports required by paragraphs (1) and (2) shall include the following:
 
@@ -177,7 +177,7 @@
 
 >             “(D) Such other information as the Secretary considers appropriate.
 
->         “(4) __Final report.—__ 
+>         “(4)  __Final report__  __.—__ 
 
 >         Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisability of continuing or expanding the respective pilot program.”
 
@@ -185,7 +185,7 @@
 
 [Pub. L. 110–389, title II, § 226][/us/pl/110/389/s226], Oct. 10, 2008, [122 Stat. 4159][/us/stat/122/4159], provided that:
 
->     “(a) __Study of Work Credit System and Work Management System Required.—__ 
+>     “(a)  __Study of Work Credit System and Work Management System Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall conduct a study on the effectiveness of the current employee work credit system and work management system of the Veterans Benefits Administration of the Department of Veterans Affairs, which is used—
 
@@ -193,7 +193,7 @@
 
 >         “(2) to evaluate more effective means of improving performance.
 
->     “(b) __Contents of Study.—__ 
+>     “(b)  __Contents of Study__  __.—__ 
 
 >     In carrying out the study under subsection (a), the Secretary shall consider—
 
@@ -229,7 +229,7 @@
 
 >             “(D) requirements for assessments of claims processing at each regional office for the purpose of producing lessons learned and best practices.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than October 31, 2009, the Secretary shall submit to Congress a report on—
 
@@ -237,7 +237,7 @@
 
 >         “(2) the components required to implement the updated system for evaluating employees of the Veterans Benefits Administration required under subsection (d).
 
->     “(d) __Evaluation of Certain Veterans Benefits Administration Employees Responsible for Processing Claims for Compensation and Pension Benefits.—__ 
+>     “(d)  __Evaluation of Certain Veterans Benefits Administration Employees Responsible for Processing Claims for Compensation and Pension Benefits__  __.—__ 
 
 >     Not later than 210 days after the date on which the Secretary submits to Congress the report required under subsection (c), the Secretary shall establish an updated system for evaluating the performance and accountability of employees of the Veterans Benefits Administration who are responsible for processing claims for compensation or pension benefits. Such system shall be based on the findings of the study conducted by the Secretary under subsection (a).”
 
@@ -245,7 +245,7 @@
 
 [Pub. L. 110–389, title II, § 227][/us/pl/110/389/s227], Oct. 10, 2008, [122 Stat. 4160][/us/stat/122/4160], provided that:
 
->     “(a) __Review and Comprehensive Plan.—__ 
+>     “(a)  __Review and Comprehensive Plan__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary of Veterans Affairs shall—
 
@@ -253,7 +253,7 @@
 
 >         “(2) develop a comprehensive plan for the use of such technology in processing such claims so as to reduce subjectivity, avoidable remands, and regional office variances in disability ratings for specific disabilities.
 
->     “(b) __Information Technology.—__ 
+>     “(b)  __Information Technology__  __.—__ 
 
 >     The plan developed under subsection (a)(2) shall include the following:
 
@@ -299,7 +299,7 @@
 
 >                 “(iv) the stage at which the claim is being processed as of the date on which such status is checked.
 
->     “(c) __Review of Best Practices and Lessons Learned.—__ 
+>     “(c)  __Review of Best Practices and Lessons Learned__  __.—__ 
 
 >     In carrying out this section, the Secretary shall review—
 
@@ -307,15 +307,15 @@
 
 >         “(2) the use of the technology known as ‘VistA’ by other Government entities and private sector organizations who employ information technology and automated decision support software.
 
->     “(d) __Reduction of Claims Processing Time.—__ 
+>     “(d)  __Reduction of Claims Processing Time__  __.—__ 
 
 >     In carrying out this section, the Secretary shall ensure that a plan is developed that, not later than three years after implementation, includes information technology to the extent possible to reduce the processing time for each compensation and pension claim processed by the Veterans Benefits Administration. The performance for claims processing under this plan shall be adjusted for changes to the numbers of claims filed in a given period, the complexity of those claims, and any changes to the basic claims processing rules which occur during the assessment period.
 
->     “(e) __Consultation.—__ 
+>     “(e)  __Consultation__  __.—__ 
 
 >     In carrying out this section, the Secretary of Veterans Affairs shall consult with information technology designers at the Veterans Benefits Administration, the Veterans Health Administration, VistA managers, the Secretary of Defense, appropriate officials of other Government agencies, appropriate individuals in the private and public sectors, veterans service organizations, and other relevant service organizations.
 
->     “(f) __Report to Congress.—__ 
+>     “(f)  __Report to Congress__  __.—__ 
 
 >     Not later than April 1, 2010, the Secretary shall submit to Congress a report on the review and comprehensive plan required under this section.”
 
@@ -323,19 +323,19 @@
 
 [Pub. L. 108–183, title VII, § 704][/us/pl/108/183/s704], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], as amended by [Pub. L. 110–389, § 105][/us/pl/110/389/s105], Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149]; [Pub. L. 111–275, title VIII, § 809][/us/pl/111/275/s809], Oct. 13, 2010, [124 Stat. 2894][/us/stat/124/2894]; [Pub. L. 112–191, title II, § 207][/us/pl/112/191/s207], Oct. 5, 2012, [126 Stat. 1440][/us/stat/126/1440], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Using appropriated funds, other than funds available for compensation and pension, the Secretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 ([Public Law 104–275][/us/pl/104/275]; [38 U.S.C. 5101][/us/usc/t38/s5101] note).
 
->     “(b) __Performance by Contract.—__ 
+>     “(b)  __Performance by Contract__  __.—__ 
 
 >     Examinations under the authority provided in subsection (a) shall be conducted pursuant to contracts entered into and administered by the Under Secretary for Benefits.
 
->     “(c) __Expiration.—__ 
+>     “(c)  __Expiration__  __.—__ 
 
 >     The authority in subsection (a) shall expire on December 31, 2013. No examination may be carried out under the authority provided in that subsection after that date.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than four years after the date of the enactment of this Act \[Dec. 16, 2003\], the Secretary shall submit to Congress a report on the use of the authority provided in subsection (a). The Secretary shall include in the report an assessment of the effect of examinations under that authority on the cost, timeliness, and thoroughness of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary.”
 
@@ -343,19 +343,19 @@
 
 [Pub. L. 104–275, title V, § 504][/us/pl/104/275/s504], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, may conduct a pilot program under this section under which examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits may be made by persons other than employees of the Department of Veterans Affairs. Any such examination shall be performed pursuant to contracts entered into by the Under Secretary for Benefits with those persons.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     The Secretary may carry out the pilot program under this section through not more than 10 regional offices of the Department of Veterans Affairs.
 
->     “(c) __Source of Funds.—__ 
+>     “(c)  __Source of Funds__  __.—__ 
 
 >     Payments for contracts under the pilot program under this section shall be made from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations.”
 

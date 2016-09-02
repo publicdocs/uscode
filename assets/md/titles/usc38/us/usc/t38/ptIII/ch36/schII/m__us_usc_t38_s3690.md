@@ -15,7 +15,7 @@
 
 ## § 3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements
 
-    (a) __Overcharges by Educational Institutions.—__ 
+    (a)  __Overcharges by Educational Institutions__  __.—__ 
 
     If the Secretary finds that an educational institution has—
 
@@ -25,7 +25,7 @@
 
         the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
 
-    (b) __Discontinuance of Allowances.—__ 
+    (b)  __Discontinuance of Allowances__  __.—__ 
 
         (1) The Secretary may discontinue the educational assistance allowance of any eligible veteran or eligible person if the Secretary finds that the program of education or any course in which the veteran or person is enrolled fails to meet any of the requirements of this chapter or chapter 34 or 35 of this title, or if the Secretary finds that the educational institution offering such program or course has violated any provision of this chapter or chapter 34 or 35 of this title, or fails to meet any of the requirements of such chapters.
 
@@ -45,11 +45,11 @@
 
                 (iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary’s intent to take such action (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
 
-    (c) __Examination of Records.—__ 
+    (c)  __Examination of Records__  __.—__ 
 
     Notwithstanding any other provision of law, the records and accounts of educational institutions pertaining to eligible veterans or eligible persons who received educational assistance under this chapter or chapter 31, 32, 34, or 35 of this title, as well as the records of other students which the Secretary determines necessary to ascertain institutional compliance with the requirements of such chapters, shall be available for examination by duly authorized representatives of the Government.
 
-    (d) __False or Misleading Statements.—__ 
+    (d)  __False or Misleading Statements__  __.—__ 
 
     Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 

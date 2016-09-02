@@ -15,7 +15,7 @@
 
 ## § 7364. General powers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) Amounts reimbursed to the Office of General Counsel under paragraph (1)(D) shall be available for use by the Office of the General Counsel only for staff and training, and related travel, for the provision of legal services described in that paragraph and shall remain available for such use without fiscal year limitation.
 
-    (b) __Transfer and Administration of Funds.—__ 
+    (b)  __Transfer and Administration of Funds__  __.—__ 
 
         (1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes.
 
@@ -43,15 +43,15 @@
 
         (3) A Department medical center may retain and use funds provided to it by a corporation established under this subchapter. Such funds shall be credited to the applicable appropriation account of the Department and shall be available, without fiscal year limitation, for the purposes of that account.
 
-    (c) __Research Projects.—__ 
+    (c)  __Research Projects__  __.—__ 
 
     Except for reasonable and usual preliminary costs for project planning before its approval, a corporation established under this subchapter may not spend funds for a research project unless the project is approved in accordance with procedures prescribed by the Under Secretary for Health for research carried out with Department funds. Such procedures shall include a scientific review process.
 
-    (d) __Education Activities.—__ 
+    (d)  __Education Activities__  __.—__ 
 
     Except for reasonable and usual preliminary costs for activity planning before its approval, a corporation established under this subchapter may not spend funds for an education activity unless the activity is approved in accordance with procedures prescribed by the Under Secretary for Health.
 
-    (e) __Policies and Procedures.—__ 
+    (e)  __Policies and Procedures__  __.—__ 
 
     The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
 

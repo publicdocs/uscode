@@ -15,7 +15,7 @@
 
 ## § 5103A. Duty to assist claimants
 
-    (a) __Duty To Assist.—__ 
+    (a)  __Duty To Assist__  __.—__ 
 
         (1) The Secretary shall make reasonable efforts to assist a claimant in obtaining evidence necessary to substantiate the claimant’s claim for a benefit under a law administered by the Secretary.
 
@@ -23,7 +23,7 @@
 
         (3) The Secretary may defer providing assistance under this section pending the submission by the claimant of essential information missing from the claimant’s application.
 
-    (b) __Assistance in Obtaining Private Records.—__ 
+    (b)  __Assistance in Obtaining Private Records__  __.—__ 
 
         (1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant private records that the claimant adequately identifies to the Secretary.
 
@@ -55,7 +55,7 @@
 
             (B) in obtaining relevant private records under paragraph (1), may require the claimant to authorize the Secretary to obtain such records if such authorization is required to comply with Federal, State, or local law.
 
-    (c) __Obtaining Records for Compensation Claims.—__ 
+    (c)  __Obtaining Records for Compensation Claims__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
         (2) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection, the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
 
-    (d) __Medical Examinations for Compensation Claims.—__ 
+    (d)  __Medical Examinations for Compensation Claims__  __.—__ 
 
         (1) In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (a) shall include providing a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to make a decision on the claim.
 
@@ -83,15 +83,15 @@
 
             (C) does not contain sufficient medical evidence for the Secretary to make a decision on the claim.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section.
 
-    (f) __Rule With Respect to Disallowed Claims.—__ 
+    (f)  __Rule With Respect to Disallowed Claims__  __.—__ 
 
     Nothing in this section shall be construed to require the Secretary to reopen a claim that has been disallowed except when new and material evidence is presented or secured, as described in [section 5108 of this title][/us/usc/t38/s5108].
 
-    (g) __Other Assistance Not Precluded.—__ 
+    (g)  __Other Assistance Not Precluded__  __.—__ 
 
     Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
 
@@ -109,7 +109,7 @@
 
     “(B) briefly explain the efforts that the Secretary made to obtain those records; and
 
-    “(C) describe any further action to be taken by the Secretary with respect to the claim.”
+    “(C) describe any further action to be taken by the Secretary with respect to the claim.
 
     “(3) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.”
 
@@ -125,11 +125,11 @@
 
 [Pub. L. 112–154, title V, § 505(c)][/us/pl/112/154/s505/c], Aug. 6, 2012, [126 Stat. 1193][/us/stat/126/1193], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to assistance obligations of the Secretary of Veterans Affairs on or after such date.
 
->     “(2) __Construction.—__ 
+>     “(2)  __Construction__  __.—__ 
 
 >     Nothing in this section \[amending this section\] or the amendments made by this section shall be construed to require the Secretary to carry out assistance in accordance with requirements of [section 5103A of title 38][/us/usc/t38/s5103A], United States Code, as in effect on the day before the effective date established in paragraph (1) on or after such effective date.”
 

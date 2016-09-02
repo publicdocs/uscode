@@ -15,7 +15,7 @@
 
 ## § 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community
 
-    (a) __Plan Required.—__ 
+    (a)  __Plan Required__  __.—__ 
 
     The Secretary shall, for each individual who is a veteran or member of the Armed Forces who receives inpatient or outpatient rehabilitative hospital care or medical services provided by the Department for a traumatic brain injury—
 
@@ -29,7 +29,7 @@
 
             (B) as soon as practicable following a diagnosis of traumatic brain injury by a Department health care provider.
 
-    (b) __Contents of Plan.—__ 
+    (b)  __Contents of Plan__  __.—__ 
 
     Each plan developed under subsection (a) shall include, for the individual covered by such plan, the following:
 
@@ -43,7 +43,7 @@
 
         (5) Dates on which the effectiveness of such plan will be reviewed in accordance with subsection (f).
 
-    (c) __Comprehensive Assessment.—__ 
+    (c)  __Comprehensive Assessment__  __.—__ 
 
         (1)
 
@@ -97,13 +97,13 @@
 
             (T) A psychiatrist.
 
-    (d) __Case Manager.—__ 
+    (d)  __Case Manager__  __.—__ 
 
         (1) The Secretary shall designate a case manager for each individual described in subsection (a) to be responsible for the implementation of the plan developed for that individual under that subsection and the coordination of the individual’s medical care.
 
         (2) The Secretary shall ensure that each case manager has specific expertise in the care required by the individual for whom the case manager is designated, regardless of whether the case manager obtains such expertise through experience, education, or training.
 
-    (e) __Participation and Collaboration in Development of Plans.—__ 
+    (e)  __Participation and Collaboration in Development of Plans__  __.—__ 
 
         (1) The Secretary shall involve each individual described in subsection (a), and the family or legal guardian of such individual, in the development of the plan for such individual under that subsection to the maximum extent practicable.
 
@@ -121,19 +121,19 @@
 
     (f) __Evaluation.—__ 
 
-        (1) __Periodic review by secretary.—__ 
+        (1)  __Periodic review by secretary__  __.—__ 
 
         The Secretary shall periodically review the effectiveness of each plan developed under subsection (a). The Secretary shall refine each such plan as the Secretary considers appropriate in light of such review.
 
-        (2) __Request for review by veterans.—__ 
+        (2)  __Request for review by veterans__  __.—__ 
 
         In addition to the periodic review required by paragraph (1), the Secretary shall conduct a review of the plan for an individual under paragraph (1) at the request of the individual, or in the case of an individual who is incapacitated, at the request of the guardian or designee of the individual.
 
-    (g) __State Designated Protection and Advocacy System Defined.—__ 
+    (g)  __State Designated Protection and Advocacy System Defined__  __.—__ 
 
     In this section, the term “State protection and advocacy system” means a system established in a State under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.) to protect and advocate for the rights of persons with development disabilities.
 
-    (h) __Rehabilitative Services Defined.—__ 
+    (h)  __Rehabilitative Services Defined__  __.—__ 
 
     For purposes of this section, and sections 1710D and 1710E of this title, the term “rehabilitative services” includes—
 
@@ -167,7 +167,7 @@
 
 [Pub. L. 110–181, div. A, title XVII, § 1704][/us/pl/110/181/s1704], Jan. 28, 2008, [122 Stat. 490][/us/stat/122/490], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To improve the provision of health care by the Department of Veterans Affairs to veterans with traumatic brain injuries, the Secretary of Veterans Affairs shall—
 
@@ -195,7 +195,7 @@
 
 >         “(3) develop improved models and systems for the furnishing of traumatic brain injury care by the Department.
 
->     “(b) __Collaboration.—__ 
+>     “(b)  __Collaboration__  __.—__ 
 
 >     In carrying out research under subsection (a), the Secretary of Veterans Affairs shall collaborate with—
 
@@ -205,17 +205,17 @@
 
 >         “(3) the Defense and Veterans Brain Injury Center of the Department of Defense and other relevant programs of the Federal Government (including Centers of Excellence).
 
->     “(c) __Dissemination of Useful Information.—__ 
+>     “(c)  __Dissemination of Useful Information__  __.—__ 
 
 >     The Under Secretary of Veterans Affairs for Health shall ensure that information produced by the research, education and training, and clinical activities conducted under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration.
 
 >     “(d) __Traumatic Brain Injury Registry.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall establish and maintain a registry to be known as the ‘Traumatic Brain Injury Veterans Health Registry’ (in this section referred to as the ‘Registry’).
 
->         “(2) __Description.—__ 
+>         “(2)  __Description__  __.—__ 
 
 >         The Registry shall include the following information:
 
@@ -235,7 +235,7 @@
 
 >                 “(ii) is deceased at the time such individual is listed in the Registry.
 
->         “(3) __Notification.—__ 
+>         “(3)  __Notification__  __.—__ 
 
 >         When possible, the Secretary shall notify each individual listed in the Registry of significant developments in research on the health consequences of military service in the Operation Enduring Freedom and Operation Iraqi Freedom theaters of operations.”
 
@@ -243,13 +243,13 @@
 
 [Pub. L. 110–181, div. A, title XVII, § 1705][/us/pl/110/181/s1705], Jan. 28, 2008, [122 Stat. 491][/us/stat/122/491], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     Beginning not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Veterans Affairs, in collaboration with the Defense and Veterans Brain Injury Center of the Department of Defense, shall carry out a five-year pilot program to assess the effectiveness of providing assisted living services to eligible veterans to enhance the rehabilitation, quality of life, and community integration of such veterans.
 
 >     “(b) __Program Locations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The pilot program shall be carried out at locations selected by the Secretary for purposes of the pilot program. Of the locations so selected—
 
@@ -257,21 +257,21 @@
 
 >             “(B) any location other than a location described in subparagraph (A) shall be in an area that contains a high concentration of veterans with traumatic brain injuries, as determined by the Secretary.
 
->         “(2) __Special consideration for veterans in rural areas.—__ 
+>         “(2)  __Special consideration for veterans in rural areas__  __.—__ 
 
 >         The Secretary shall give special consideration to providing veterans in rural areas with an opportunity to participate in the pilot program.
 
 >     “(c) __Provision of Assisted Living Services.—__ 
 
->         “(1) __Agreements.—__ 
+>         “(1)  __Agreements__  __.—__ 
 
 >         In carrying out the pilot program, the Secretary may enter into agreements for the provision of assisted living services on behalf of eligible veterans with a provider participating under a State plan or waiver under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
->         “(2) __Standards.—__ 
+>         “(2)  __Standards__  __.—__ 
 
 >         The Secretary may not place, transfer, or admit a veteran to any facility for assisted living services under the pilot program unless the Secretary determines that the facility meets such standards as the Secretary may prescribe for purposes of the pilot program. Such standards shall, to the extent practicable, be consistent with the standards of Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such facilities.
 
->     “(d) __Continuation of Case Management and Rehabilitation Services.—__ 
+>     “(d)  __Continuation of Case Management and Rehabilitation Services__  __.—__ 
 
 >     In carrying out the pilot program, the Secretary shall—
 
@@ -281,11 +281,11 @@
 
 >     “(e) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -295,7 +295,7 @@
 
 >             “(C) Such recommendations as the Secretary considers appropriate regarding the extension or expansion of the pilot program.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 

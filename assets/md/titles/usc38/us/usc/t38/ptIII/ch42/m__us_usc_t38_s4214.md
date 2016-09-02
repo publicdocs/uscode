@@ -273,7 +273,7 @@
 
 [Pub. L. 112–56, title II, § 235(b)][/us/pl/112/56/s235/b], Nov. 21, 2011, [125 Stat. 724][/us/stat/125/724], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     In this subsection—
 
@@ -281,7 +281,7 @@
 
 >         “(B) the term ‘veteran’ has the meaning given that term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
 
->     “(2) __Responsibilities of office of personnel management.—__ 
+>     “(2)  __Responsibilities of office of personnel management__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall—
 
@@ -289,7 +289,7 @@
 
 >         “(B) ensure that the programs established under this subsection are coordinated with the Transition Assistance Program (TAP) of the Department of Defense.
 
->     “(3) __Elements of program.—__ 
+>     “(3)  __Elements of program__  __.—__ 
 
 >     The head of each agency designated under paragraph (2)(A), in consultation with the Director of the Office of Personnel Management, and acting through the Veterans Employment Program Office of the agency established under Executive Order 13518 (74 Fed. Reg. 58533; relating to employment of veterans in the Federal Government) \[[5 U.S.C. 3301][/us/usc/t5/s3301] note\], or any successor thereto, shall—
 
@@ -299,7 +299,7 @@
 
 >         “(C) promote the recruiting, hiring, training and development, and retention of such members and veterans by the agency.
 
->     “(4) __Other office.—__ 
+>     “(4)  __Other office__  __.—__ 
 
 >     If an agency designated under paragraph (2)(A) does not have a Veterans Employment Program Office, the head of the agency, in consultation with the Director of the Office of Personnel Management, shall select an appropriate office of the agency to carry out the responsibilities of the agency under paragraph (3).”
 

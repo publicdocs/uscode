@@ -15,7 +15,7 @@
 
 ## § 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     It shall be unlawful for any person—
 
@@ -55,11 +55,11 @@
 
                     (II) with the intent to impede the access to or egress from such cemetery.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Any person who violates subsection (a) shall be fined under title 18 or imprisoned for not more than one year, or both.
 
-    (c) __Civil Remedies.—__ 
+    (c)  __Civil Remedies__  __.—__ 
 
         (1)
 
@@ -81,7 +81,7 @@
 
         (4) A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this section shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by a person or by the United States.
 
-    (d) __Actual and Statutory Damages.—__ 
+    (d)  __Actual and Statutory Damages__  __.—__ 
 
         (1) In addition to any penalty imposed under subsection (b), a violator of this section is liable in an action under subsection (c) for actual or statutory damages as provided in this subsection.
 
@@ -91,7 +91,7 @@
 
         (4) A court may award, as the court considers just, statutory damages in a sum of not less than $25,000 or more than $50,000 per violation.
 
-    (e) __Rebuttable Presumption.—__ 
+    (e)  __Rebuttable Presumption__  __.—__ 
 
     It shall be a rebuttable presumption that the violation of subsection (a) was committed willfully for purposes of determining relief under this section if the violator, or a person acting in concert with the violator, did not have reasonable grounds to believe, either from the attention or publicity sought by the violator or other circumstance, that the conduct of such violator or person would not—
 
@@ -99,7 +99,7 @@
 
         (2) impede or tend to impede the access to or egress from such funeral, memorial service, or ceremony.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section—
 

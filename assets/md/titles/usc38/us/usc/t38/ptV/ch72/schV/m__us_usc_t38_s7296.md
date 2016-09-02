@@ -269,11 +269,11 @@
 
 > “SEC. 1011. __EARLY RETIREMENT AUTHORITY FOR CURRENT JUDGES.__ 
 
->     “(a) __Retirement Authorized.—__ 
+>     “(a)  __Retirement Authorized__  __.—__ 
 
 >     One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
 
->     “(b) __Eligible Judges.—__ 
+>     “(b)  __Eligible Judges__  __.—__ 
 
 >     For purposes of this section, an eligible judge is a judge of the Court (other than the chief judge) who—
 
@@ -285,27 +285,27 @@
 
 >         “(4) is at least 55 years of age.
 
->     “(c) __Multiple Eligible Judges.—__ 
+>     “(c)  __Multiple Eligible Judges__  __.—__ 
 
 >     If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), the judge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
 
->     “(d) __Notice.—__ 
+>     “(d)  __Notice__  __.—__ 
 
 >     An eligible judge who desires to retire in accordance with this section with respect to any year covered by subsection (a) shall provide to the President and the chief judge of the Court written notice to that effect and stating that the judge agrees to the temporary service requirements of subsection (j). Such notice shall be provided not later than April 1 of that year and shall specify the retirement date in accordance with subsection (e). Notice provided under this subsection shall be irrevocable.
 
->     “(e) __Date of Retirement.—__ 
+>     “(e)  __Date of Retirement__  __.—__ 
 
 >     A judge who is eligible to retire in accordance with this section shall be retired during the calendar year as to which notice is provided pursuant to subsection (d), but not earlier than 30 days after the date on which that notice is provided pursuant to subsection (d).
 
->     “(f) __Applicable Provisions.—__ 
+>     “(f)  __Applicable Provisions__  __.—__ 
 
 >     Except as provided in subsections (g) and (j), a judge retired in accordance with this section shall be considered for all purposes to be retired under [section 7296(b)(1) of title 38][/us/usc/t38/s7296/b/1], United States Code.
 
->     “(g) __Applicability of Recall Status Authority.—__ 
+>     “(g)  __Applicability of Recall Status Authority__  __.—__ 
 
 >     The provisions of [section 7257 of this title][/us/usc/t38/s7257] shall apply to a judge retired in accordance with this section as if the judge is a judge specified in subsection (a)(2)(A) of that section.
 
->     “(h) __Rate of Retired Pay.—__ 
+>     “(h)  __Rate of Retired Pay__  __.—__ 
 
 >     The rate of retired pay for a judge retiring in accordance with this section is—
 
@@ -319,15 +319,15 @@
 
 >             “(B) the denominator is 15.
 
->     “(i) __Adjustments in Retired Pay for Judges Available for Recall.—__ 
+>     “(i)  __Adjustments in Retired Pay for Judges Available for Recall__  __.—__ 
 
 >     Subject to [section 7296(f)(3)(B) of title 38][/us/usc/t38/s7296/f/3/B], United States Code, an adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section in the case of a judge who is a recall-eligible retired judge under section 7257 of such title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability.
 
->     “(j) __Duty of Actuary.—__ 
+>     “(j)  __Duty of Actuary__  __.—__ 
 
 >     \[Amended [section 7298 of this title][/us/usc/t38/s7298].\]
 
->     “(k) __Transitional Service of Judge Retired Under This Section.—__ 
+>     “(k)  __Transitional Service of Judge Retired Under This Section__  __.—__ 
 
 >         (1)
 
@@ -361,17 +361,17 @@
 
 >         “(7) In the case of such a person who makes an election provided for under paragraph (4)(B), upon the termination of the service of that person as a judge of the Court under this subsection, the retired pay of that person under subsection (g) shall be recomputed to reflect the additional period of service served under this subsection.
 
->     “(l) __Treatment of Political Party Membership.—__ 
+>     “(l)  __Treatment of Political Party Membership__  __.—__ 
 
 >     For purposes of determining compliance with the last sentence of [section 7253(b) of title 38][/us/usc/t38/s7253/b], United States Code, the political party membership of a judge serving on the Court under subsection (j) shall not be taken into account.
 
 > “SEC. 1012. __MODIFIED TERMS FOR NEXT TWO JUDGES APPOINTED TO THE COURT.__ 
 
->     “(a) __Modified Terms.—__ 
+>     “(a)  __Modified Terms__  __.—__ 
 
 >     The term of office of the first two judges appointed to the Court after the date of the enactment of this Act \[Nov. 30, 1999\] shall be 13 years (rather than the period specified in [section 7253(c) of title 38][/us/usc/t38/s7253/c], United States Code).
 
->     “(b) __Eligibility for Retirement.—__ 
+>     “(b)  __Eligibility for Retirement__  __.—__ 
 
 >         (1)
 

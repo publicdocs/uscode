@@ -15,11 +15,11 @@
 
 ## § 3565. Children of certain Philippine veterans
 
-    (a) __Basic Eligibility.—__ 
+    (a)  __Basic Eligibility__  __.—__ 
 
     The term “eligible person” as used in [section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1] includes the children of those Commonwealth Army veterans and “New” Philippine Scouts who meet the requirements of service-connected disability or death, based on service as defined in [section 3566 of this title][/us/usc/t38/s3566].
 
-    (b) __Administrative Provisions.—__ 
+    (b)  __Administrative Provisions__  __.—__ 
 
     The provisions of this chapter and chapter 36 shall apply to the educational assistance for children of Commonwealth Army veterans and “New” Philippine Scouts, except that—
 
@@ -27,7 +27,7 @@
 
         (2) any reference to a State approving agency shall be deemed to refer to the Secretary.
 
-    (c) __Delimiting Dates.—__ 
+    (c)  __Delimiting Dates__  __.—__ 
 
     In the case of any individual who is an eligible person solely by virtue of subsection (a) of this section, and who is above the age of seventeen years and below the age of twenty-three years on September 30, 1966, the period referred to in [section 3512 of this title][/us/usc/t38/s3512] shall not end until the expiration of the five-year period which begins on September 30, 1966.
 

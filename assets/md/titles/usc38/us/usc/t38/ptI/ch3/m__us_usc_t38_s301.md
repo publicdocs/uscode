@@ -69,11 +69,11 @@
 
 [Pub. L. 102–40, § 2][/us/pl/102/40/s2], May 7, 1991, [105 Stat. 187][/us/stat/105/187], provided that:
 
->     “(a) __Renaming.—__ 
+>     “(a)  __Renaming__  __.—__ 
 
 >     The establishment in the Department of Veterans Affairs known as the Veterans Health Services and Research Administration is hereby redesignated as the Veterans Health Administration.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference to the Veterans Health Services and Research Administration (or to the Department of Medicine and Surgery of the Veterans’ Administration) in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Veterans Affairs shall be deemed to refer to the Veterans Health Administration.”
 
@@ -103,13 +103,13 @@
 
 >     “\[(a) Repealed. [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402].\]
 
->     “(b) __Continuation of Service of General Counsel.—__ 
+>     “(b)  __Continuation of Service of General Counsel__  __.—__ 
 
 >     The individual serving on the effective date of this Act \[Mar. 15, 1989\] as the General Counsel of the Veterans’ Administration may act as the General Counsel of the Department of Veterans Affairs until a person is appointed under this Act to that office.
 
 > “SEC. 9. __OFFICE OF THE INSPECTOR GENERAL.__ 
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The Office of Inspector General of the Veterans’ Administration, established in accordance with the Inspector General Act of 1978 \[[Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees\], is hereby redesignated as the Office of Inspector General of the Department of Veterans Affairs.
 
@@ -139,7 +139,7 @@
 
 > “SEC. 11. __SAVINGS PROVISIONS.__ 
 
->     “(a) __Continuing Effect of Legal Documents.—__ 
+>     “(a)  __Continuing Effect of Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
@@ -149,23 +149,23 @@
 
 >         shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, by a court of competent jurisdiction, or by operation of law.
 
->     “(b) __Proceedings Not Affected.—__ 
+>     “(b)  __Proceedings Not Affected__  __.—__ 
 
 >     The provisions of this Act shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending before the Veterans’ Administration at the time this Act takes effect, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
->     “(c) __Suits Not Affected.—__ 
+>     “(c)  __Suits Not Affected__  __.—__ 
 
 >     The provisions of this Act shall not affect suits commenced before the effective date of this Act, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
->     “(d) __Nonabatement of Actions.—__ 
+>     “(d)  __Nonabatement of Actions__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against the Veterans’ Administration, or by or against any individual in the official capacity of such individual as an officer of the Veterans’ Administration, shall abate by reason of the enactment of this Act.
 
->     “(e) __Property and Resources.—__ 
+>     “(e)  __Property and Resources__  __.—__ 
 
 >     The contracts, liabilities, records, property, and other assets and interests of the Veterans’ Administration shall, after the effective date of this Act, be considered to be the contracts, liabilities, records, property, and other assets and interests of the Department of Veterans Affairs.
 
->     “(f) __Compensation for Continued Service.—__ 
+>     “(f)  __Compensation for Continued Service__  __.—__ 
 
 >     Any person—
 
@@ -189,11 +189,11 @@
 
 > “SEC. 18. __EFFECTIVE DATE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act shall take effect on March 15, 1989.
 
->     “(b) __Appointment of Secretary.—__ 
+>     “(b)  __Appointment of Secretary__  __.—__ 
 
 >     Notwithstanding any other provision of law or of this Act, the President may, any time after January 21, 1989, appoint an individual to serve as Secretary of the Department of Veterans Affairs.”
 

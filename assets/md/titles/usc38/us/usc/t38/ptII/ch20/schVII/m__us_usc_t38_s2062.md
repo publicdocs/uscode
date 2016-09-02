@@ -15,7 +15,7 @@
 
 ## § 2062. Dental care
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For purposes of [section 1712(a)(1)(H) of this title][/us/usc/t38/s1712/a/1/H], outpatient dental services and treatment of a dental condition or disability of a veteran described in subsection (b) shall be considered to be medically necessary, subject to subsection (c), if—
 
@@ -25,7 +25,7 @@
 
         (3) the dental services and treatment are necessary for treatment of moderate, severe, or severe and complicated gingival and periodontal pathology.
 
-    (b) __Eligible Veterans.—__ 
+    (b)  __Eligible Veterans__  __.—__ 
 
     Subsection (a) applies to a veteran—
 
@@ -45,7 +45,7 @@
 
         (3) For purposes of paragraph (2), in determining whether a veteran has received treatment for a period of 60 consecutive days, the Secretary may disregard breaks in the continuity of treatment for which the veteran is not responsible.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     Dental benefits provided by reason of this section shall be a one-time course of dental care provided in the same manner as the dental benefits provided to a newly discharged veteran.
 

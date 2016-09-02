@@ -15,7 +15,7 @@
 
 ## § 321. Office of Survivors Assistance
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary shall establish in the Department an Office of Survivors Assistance (in this section referred to as the “Office”) to serve as a resource regarding all benefits and services furnished by the Department—
 
@@ -23,19 +23,19 @@
 
         (2) to survivors and dependents of deceased members of the Armed Forces.
 
-    (b) __Advisory Duties.—__ 
+    (b)  __Advisory Duties__  __.—__ 
 
     The Office shall serve as a primary advisor to the Secretary on all matters related to the policies, programs, legislative issues, and other initiatives affecting the survivors and dependents described in subsection (a).
 
-    (c) __Guidance From Stakeholders.—__ 
+    (c)  __Guidance From Stakeholders__  __.—__ 
 
     In establishing the Office, the Secretary shall seek guidance from interested stakeholders.
 
-    (d) __Resources.—__ 
+    (d)  __Resources__  __.—__ 
 
     The Secretary shall ensure that appropriate personnel, funding, and other resources are provided to the Office to carry out its responsibilities.
 
-    (e) __Inclusion of Information on Office in Annual Report on Department Activities.—__ 
+    (e)  __Inclusion of Information on Office in Annual Report on Department Activities__  __.—__ 
 
     The Secretary shall include in each annual Performance and Accountability report submitted by the Secretary to Congress a description of the activities of the Office during the fiscal year covered by such report.
 

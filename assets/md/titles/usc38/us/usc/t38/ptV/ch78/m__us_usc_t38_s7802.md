@@ -15,47 +15,47 @@
 
 ## § 7802. Duties of Secretary with respect to Service
 
-    (a) __Locations for Canteens.—__ 
+    (a)  __Locations for Canteens__  __.—__ 
 
     The Secretary shall establish, maintain, and operate canteens where deemed necessary and practicable at hospitals and homes of the Department and at other Department establishments where similar essential facilities are not reasonably available from outside commercial sources.
 
-    (b) __Warehouses and Storage Depots.—__ 
+    (b)  __Warehouses and Storage Depots__  __.—__ 
 
     The Secretary shall establish, maintain, and operate such warehouses and storage depots as may be necessary in operating the canteens.
 
-    (c) __Space, Buildings, and Structures.—__ 
+    (c)  __Space, Buildings, and Structures__  __.—__ 
 
     The Secretary shall furnish the Service for its use in connection with the establishment, maintenance, and operation thereof, such space, buildings, and structures under control of the Department as the Secretary may consider necessary, including normal maintenance and repair service thereon. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the space, buildings, and structures so furnished, except that the Secretary may reduce or waive such charges whenever payment of such charges would impair the working capital required by the Service.
 
-    (d) __Equipment, Services, and Utilities.—__ 
+    (d)  __Equipment, Services, and Utilities__  __.—__ 
 
     The Secretary shall transfer to the Service without charge, rental, or reimbursement such necessary equipment as may not be needed for other purposes, and furnish the Service such services and utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished.
 
-    (e) __Personnel.—__ 
+    (e)  __Personnel__  __.—__ 
 
     The Secretary shall employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in [section 2108(3) of title 5][/us/usc/t5/s2108/3], subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5. An employee appointed under this section may be considered for appointment to a Department position in the competitive service in the same manner that a Department employee in the competitive service is considered for transfer to such position. An employee of the Service who is appointed to a Department position in the competitive service under the authority of the preceding sentence may count toward the time-in-service requirement for a career appointment in such position any previous period of employment in the Service.
 
-    (f) __Contracts and Agreements.—__ 
+    (f)  __Contracts and Agreements__  __.—__ 
 
     The Secretary shall make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, without regard to section 6101(b) to (d) of title 41 and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith.
 
-    (g) __Prices.—__ 
+    (g)  __Prices__  __.—__ 
 
     The Secretary shall fix the prices of merchandise and services in canteens so as to carry out the purposes of this chapter.
 
-    (h) __Gifts and Donations.—__ 
+    (h)  __Gifts and Donations__  __.—__ 
 
     The Secretary may accept gifts and donations of merchandise, fixtures, equipment, and supplies for the use and benefit of the Service.
 
-    (i) __Rules and Regulations.—__ 
+    (i)  __Rules and Regulations__  __.—__ 
 
     The Secretary shall make such rules and regulations, not inconsistent with the provisions of this chapter, as the Secretary considers necessary or appropriate to effectuate its purposes.
 
-    (j) __Delegation.—__ 
+    (j)  __Delegation__  __.—__ 
 
     The Secretary may delegate such duties and powers to employees as the Secretary considers necessary or appropriate, whose official acts performed within the scope of the delegated authority shall have the same force and effect as though performed by the Secretary.
 
-    (k) __Authority To Cash Checks, Etc.—__ 
+    (k)  __Authority To Cash Checks, Etc__  __.—__ 
 
     The Secretary may authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by [section 7803 of this title][/us/usc/t38/s7803] to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
 

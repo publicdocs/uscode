@@ -133,7 +133,7 @@
 
 [Pub. L. 104–262, title III, § 334(b)][/us/pl/104/262/s334/b], (c), Oct. 9, 1996, [110 Stat. 3203][/us/stat/110/3203], 3204, provided that:
 
->     “(b) __Annual Reports.—__ 
+>     “(b)  __Annual Reports__  __.—__ 
 
 >     Not later than February 1 of each of 1999, 2000, 2001, and 2002, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the status and activities during the previous fiscal year of the centers for mental illness research, education, and clinical activities established pursuant to [section 7320 of title 38][/us/usc/t38/s7320], United States Code (as added by subsection (a)). Each such report shall include the following:
 
@@ -145,7 +145,7 @@
 
 >         “(4) The Secretary’s evaluations of the effectiveness of the centers in fulfilling the purposes of the centers.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall designate at least one center under [section 7320 of title 38][/us/usc/t38/s7320], United States Code, not later than January 1, 1998.”
 

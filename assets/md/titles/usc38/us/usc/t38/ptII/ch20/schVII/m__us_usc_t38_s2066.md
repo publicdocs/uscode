@@ -15,7 +15,7 @@
 
 ## § 2066. Advisory Committee on Homeless Veterans
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
         (1) There is established in the Department the Advisory Committee on Homeless Veterans (hereinafter in this section referred to as the “Committee”).
 
@@ -67,7 +67,7 @@
 
             (B) Members of the Committee shall serve without pay. Members may receive travel expenses, including per diem in lieu of subsistence for travel in connection with their duties as members of the Committee.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
         (1) The Secretary shall consult with and seek the advice of the Committee on a regular basis with respect to the provision by the Department of benefits and services to homeless veterans.
 
@@ -103,7 +103,7 @@
 
             (I) perform such other functions as the Secretary may direct.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
         (1)
 
@@ -123,7 +123,7 @@
 
         (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title][/us/usc/t38/s529] a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
-    (d) __Termination.—__ 
+    (d)  __Termination__  __.—__ 
 
     The Committee shall cease to exist December 31, 2013.
 

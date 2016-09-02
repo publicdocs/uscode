@@ -15,11 +15,11 @@
 
 ## § 4104A. Collaborative veterans’ training, mentoring, and placement program
 
-    (a) __Grants.—__ 
+    (a)  __Grants__  __.—__ 
 
     The Secretary shall award grants to eligible nonprofit organizations to provide training and mentoring for eligible veterans who seek employment. The Secretary shall award the grants to not more than three organizations, for periods of two years.
 
-    (b) __Collaboration and Facilitation.—__ 
+    (b)  __Collaboration and Facilitation__  __.—__ 
 
     The Secretary shall ensure that the recipients of the grants—
 
@@ -33,7 +33,7 @@
 
         (2) based on the collaboration, facilitate the placement of the veterans that complete the training in meaningful employment that leads to economic self-sufficiency.
 
-    (c) __Application.—__ 
+    (c)  __Application__  __.—__ 
 
     To be eligible to receive a grant under this section, a nonprofit organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. At a minimum, the information shall include—
 
@@ -49,7 +49,7 @@
 
         (2) an assurance that the organization will provide the information necessary for the Secretary to prepare the reports described in subsection (d).
 
-    (d) __Reports.—__ 
+    (d)  __Reports__  __.—__ 
 
         (1) Not later than six months after the date of the enactment of the VOW to Hire Heroes Act of 2011, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the process for awarding grants under this section, the recipients of the grants, and the collaboration described in subsections (b) and (c).
 
@@ -81,11 +81,11 @@
 
                 (iii) the recommendations of the Secretary as to whether amounts should be appropriated to carry out this section for fiscal years after 2013.
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to carry out this section $4,500,000 for the period consisting of fiscal years 2012 and 2013.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section—
 

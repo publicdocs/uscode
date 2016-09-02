@@ -15,11 +15,11 @@
 
 ## § 7288. Annual report
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The chief judge of the Court shall submit to the appropriate committees of Congress each year a report summarizing the workload of the Court for the fiscal year ending during the preceding year.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     Each report under subsection (a) shall include, with respect to the fiscal year covered by such report, the following information:
 
@@ -83,7 +83,7 @@
 
             (C) The average workload of other Federal judges.
 
-    (c) __Appropriate Committees of Congress Defined.—__ 
+    (c)  __Appropriate Committees of Congress Defined__  __.—__ 
 
     In this section, the term “appropriate committees of Congress” means—
 

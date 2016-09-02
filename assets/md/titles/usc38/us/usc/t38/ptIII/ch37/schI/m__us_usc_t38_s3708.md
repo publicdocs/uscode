@@ -55,23 +55,23 @@
 
 [Pub. L. 104–106, div. B, title XXVIII, § 2822(c)][/us/pl/104/106/s2822/c], Feb. 10, 1996, [110 Stat. 557][/us/stat/110/557], provided that:
 
->     “(1) __Reimbursement for buy down costs.—__ 
+>     “(1)  __Reimbursement for buy down costs__  __.—__ 
 
 >     The Secretary of Defense shall reimburse the Secretary of Veterans Affairs for amounts paid by the Secretary of Veterans Affairs to mortgagees under [section 3708 of title 38][/us/usc/t38/s3708], United States Code, as added by subsection (b).
 
->     “(2) __Designation of housing shortage areas.—__ 
+>     “(2)  __Designation of housing shortage areas__  __.—__ 
 
 >     For purposes of [section 3708 of title 38][/us/usc/t38/s3708], United States Code, the Secretary of Defense may designate as a housing shortage area a military installation in the United States at which the Secretary determines there is a shortage of suitable housing to meet the military family needs of members of the Armed Forces and the dependents of such members.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than March 30, 1998, the Secretary shall submit to Congress a report regarding the effectiveness of the authority provided in [section 3708 of title 38][/us/usc/t38/s3708], United States Code, in ensuring that members of the Armed Forces and their dependents have access to suitable housing. The report shall include the recommendations of the Secretary regarding whether the authority provided in this subsection should be extended beyond the date specified in paragraph (5).
 
->     “(4) __Earmark.—__ 
+>     “(4)  __Earmark__  __.—__ 
 
 >     Of the amount provided in section 2405(a)(11)(B) \[[110 Stat. 538][/us/stat/110/538]\], $10,000,000 for fiscal year 1996 shall be available to carry out this subsection.
 
->     “(5) __Sunset.—__ 
+>     “(5)  __Sunset__  __.—__ 
 
 >     This subsection shall not apply with respect to housing loans guaranteed after September 30, 1998, for which assistance payments are paid under [section 3708 of title 38][/us/usc/t38/s3708], United States Code.”
 

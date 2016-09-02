@@ -15,7 +15,7 @@
 
 ## § 7501. Establishment of scholarship program; purpose
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     Subject to the availability of appropriations, the Secretary shall establish and carry out a scholarship program to provide financial assistance in accordance with this chapter to individuals who—
 
@@ -23,11 +23,11 @@
 
         (2) enter into an agreement with the Secretary as described in [section 7504 of this title][/us/usc/t38/s7504].
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the scholarship program is to increase the supply of qualified blind rehabilitation specialists for the Department and the Nation.
 
-    (c) __Outreach.—__ 
+    (c)  __Outreach__  __.—__ 
 
     The Secretary shall publicize the scholarship program to educational institutions throughout the United States, with an emphasis on disseminating information to such institutions with high numbers of Hispanic students and to Historically Black Colleges and Universities.
 

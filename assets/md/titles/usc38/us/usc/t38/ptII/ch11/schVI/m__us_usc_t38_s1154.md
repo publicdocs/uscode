@@ -49,7 +49,7 @@
 
 [Pub. L. 108–183, title VI, § 601][/us/pl/108/183/s601], Dec. 16, 2003, [117 Stat. 2667][/us/stat/117/2667], provided that:
 
->     “(a) __Review of Mission, Procedures, and Administration.—__ 
+>     “(a)  __Review of Mission, Procedures, and Administration__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
 
@@ -71,11 +71,11 @@
 
 >             “(C) such other recommendations for the improvement of the mission, procedures, and administration of the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate.
 
->     “(b) __On-Going Review and Oversight.—__ 
+>     “(b)  __On-Going Review and Oversight__  __.—__ 
 
 >     The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c).
 
->     “(c) __Advisory Board.—__ 
+>     “(c)  __Advisory Board__  __.—__ 
 
 >         (1) In taking actions under subsection (b), the Secretaries shall jointly appoint an advisory board to provide review and oversight of the Radiation Dose Reconstruction Program.
 
@@ -111,11 +111,11 @@
 
 [Pub. L. 106–419, title III, § 305][/us/pl/106/419/s305], Nov. 1, 2000, [114 Stat. 1853][/us/stat/114/1853], provided that:
 
->     “(a) __Review by National Academy of Sciences.—__ 
+>     “(a)  __Review by National Academy of Sciences__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Defense shall enter into a contract with the National Academy of Sciences to carry out periodic reviews of the program of the Defense Threat Reduction Agency of the Department of Defense known as the ‘dose reconstruction program’.
 
->     “(b) __Review Activities.—__ 
+>     “(b)  __Review Activities__  __.—__ 
 
 >     The periodic reviews of the dose reconstruction program under the contract under subsection (a) shall consist of the periodic selection of random samples of doses reconstructed by the Defense Threat Reduction Agency in order to determine—
 
@@ -127,11 +127,11 @@
 
 >         “(4) whether or not the data from nuclear tests used by the Defense Threat Reduction Agency as part of the reconstruction of the sampled doses is accurate.
 
->     “(c) __Duration of Review.—__ 
+>     “(c)  __Duration of Review__  __.—__ 
 
 >     The periodic reviews under the contract under subsection (a) shall occur over a period of 24 months.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >         (1) Not later than 60 days after the conclusion of the period referred to in subsection (c), the National Academy of Sciences shall submit to Congress a report on its activities under the contract under this section.
 
@@ -147,11 +147,11 @@
 
 [Pub. L. 99–576, title II, § 232][/us/pl/99/576/s232], Oct. 28, 1986, [100 Stat. 3264][/us/stat/100/3264], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(h), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 408, provided that:
 
->     “(a) __Establishment of Registry.—__ 
+>     “(a)  __Establishment of Registry__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the ‘Ionizing Radiation Registry’ (hereinafter in this section referred to as the ‘Registry’).
 
->     “(b) __Content of Registry.—__ 
+>     “(b)  __Content of Registry__  __.—__ 
 
 >     Except as provided in subsection (c), the Registry shall include the following information:
 
@@ -177,11 +177,11 @@
 
 >         “(4) An estimate of the dose of radiation to which each veteran listed in the Registry was exposed under the conditions described in section 1710(e)(1)(B) of such title.
 
->     “(c) __Veterans Submitting Claims Before Date of Enactment.—__ 
+>     “(c)  __Veterans Submitting Claims Before Date of Enactment__  __.—__ 
 
 >     If in the case of a veteran described in subsection (b)(1) the application or claim referred to in such subsection was submitted or filed before October 28, 1986, the Secretary shall include in the Registry, to the extent feasible, such veteran’s name and the data and information described in subsection (b) relating to the veteran.
 
->     “(d) __Consolidation of Existing Information.—__ 
+>     “(d)  __Consolidation of Existing Information__  __.—__ 
 
 >         (1)
 
@@ -195,15 +195,15 @@
 
 >         “(2) With respect to a veteran whose name is included in the Registry and for whom the information in the Registry is not complete, the Secretary of Veterans Affairs shall include information described in paragraph (1) with respect to that veteran (A) to the extent that such information is reasonably available in records of the Department of Veterans Affairs or Department of Defense, or (B) if such information is submitted by the veteran after October 28, 1986.
 
->     “(e) __Department of Defense Information.—__ 
+>     “(e)  __Department of Defense Information__  __.—__ 
 
 >     The Secretary of Defense shall furnish to the Secretary of Veterans Affairs such information maintained by the Department of Defense as the Secretary of Veterans Affairs considers necessary to establish and maintain the Registry.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     For the purpose of this section, the term ‘veteran’ has the meaning given that term in [section 101(2) of title 38][/us/usc/t38/s101/2], United States Code, and includes a person who died in the active military, naval, or air service.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     The Registry shall be established not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1986\].”
 
@@ -389,7 +389,7 @@
 
 [Section 10 of Pub. L. 98–542][/us/pl/98/542/s10], as added by [Pub. L. 102–578, § 3][/us/pl/102/578/s3], Oct. 30, 1992, [106 Stat. 4774][/us/stat/106/4774], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1)
 
@@ -405,7 +405,7 @@
 
 >         “(3) The Advisory Committee shall submit to the Secretary of Veterans Affairs the report referred to in paragraph (1)(C) not later than August 1, 1993.
 
->     “(b) __Investigation Plan and Report.—__ 
+>     “(b)  __Investigation Plan and Report__  __.—__ 
 
 >         (1)
 

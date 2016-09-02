@@ -15,11 +15,11 @@
 
 ## § 2109. Specially adapted housing destroyed or damaged by natural disasters
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding the provisions of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
 
-    (b) __Use of Funds.—__ 
+    (b)  __Use of Funds__  __.—__ 
 
     Subject to subsection (c), assistance provided under subsection (a) shall—
 
@@ -29,7 +29,7 @@
 
         (3) not be deducted from the maximum uses or from the maximum amount of assistance available under this chapter.
 
-    (c) __Limitations.—__ 
+    (c)  __Limitations__  __.—__ 
 
     The amount of the assistance provided under subsection (a) may not exceed the lesser of—
 
@@ -49,11 +49,11 @@
 
 [Pub. L. 112–154, title VII, § 701(f)][/us/pl/112/154/s701/f], Aug. 6, 2012, [126 Stat. 1204][/us/stat/126/1204], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Each year, the Secretary of Veterans Affairs shall submit to Congress a report on the assistance provided or action taken by the Secretary in the last fiscal year pursuant to the authorities added by the amendments made by this section \[enacting this section and amending sections 3108, 3120, 3703, and 3903 of this title\].
 
->     “(2) __Elements.—__ 
+>     “(2)  __Elements__  __.—__ 
 
 >     Each report submitted under paragraph (1) shall include the following for the fiscal year covered by the report:
 

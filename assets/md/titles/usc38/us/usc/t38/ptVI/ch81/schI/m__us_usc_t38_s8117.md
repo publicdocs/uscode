@@ -15,7 +15,7 @@
 
 ## § 8117. Emergency preparedness
 
-    (a) __Readiness of Department Medical Centers.—__ 
+    (a)  __Readiness of Department Medical Centers__  __.—__ 
 
         (1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
 
@@ -31,7 +31,7 @@
 
             (D) providing medical logistical support to the National Disaster Medical System and the Secretary of Health and Human Services as necessary, on a reimbursable basis, and in coordination with other designated Federal agencies.
 
-    (b) __Security at Department Medical and Research Facilities.—__ 
+    (b)  __Security at Department Medical and Research Facilities__  __.—__ 
 
         (1) The Secretary shall take appropriate actions to provide for the security of Department medical centers and research facilities, including staff and patients at such centers and facilities.
 
@@ -45,15 +45,15 @@
 
             (C) Needs for securing laboratories or other facilities engaged in research relating to biological pathogens or agents.
 
-    (c) __Tracking of Pharmaceuticals and Medical Supplies and Equipment.—__ 
+    (c)  __Tracking of Pharmaceuticals and Medical Supplies and Equipment__  __.—__ 
 
     The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.
 
-    (d) __Training.—__ 
+    (d)  __Training__  __.—__ 
 
     The Secretary shall ensure that the Department medical centers, in consultation with the accredited medical school affiliates of such medical centers, implement curricula to train resident physicians and health care personnel in medical matters relating to public health emergencies or attacks from an incendiary or other explosive weapon consistent with section 319F(a) of the Public Health Service Act.
 
-    (e) __Participation in National Disaster Medical System.—__ 
+    (e)  __Participation in National Disaster Medical System__  __.—__ 
 
         (1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act ([42 U.S.C. 300hh–11][/us/usc/t42/s300hh–11]).
 
@@ -69,7 +69,7 @@
 
             (C) The Administrator of the Federal Emergency Management Agency.
 
-    (f) __Mental Health Counseling.—__ 
+    (f)  __Mental Health Counseling__  __.—__ 
 
         (1)
 
@@ -93,7 +93,7 @@
 
         (3) The Secretary shall develop and maintain the strategies under paragraph (1) in consultation with the Secretary of Health and Human Services, the American Red Cross, and the working group referred to in subsection (e)(2).
 
-    (g) __Authorization of Appropriations.—__ 
+    (g)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated, $155,300,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
@@ -147,7 +147,7 @@
 
 >     “\[(a) Repealed. [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
 
->     “(b) __Security at Department Medical and Research Facilities.—__ 
+>     “(b)  __Security at Department Medical and Research Facilities__  __.—__ 
 
 >         (1)
 
@@ -165,7 +165,7 @@
 
 >     “\[(c) to (f) Repealed. [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There is hereby authorized to be appropriated for the Department of Veterans Affairs amounts as follows:
 

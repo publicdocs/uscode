@@ -15,7 +15,7 @@
 
 ## § 1156. Temporary disability ratings
 
-    (a) __Assignment of Temporary Ratings.—__ 
+    (a)  __Assignment of Temporary Ratings__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (3) With respect to a veteran described in paragraph (1)(B), the Secretary shall schedule a medical examination for such veteran not later than six months after the separation or discharge of such veteran from active duty.
 
-    (b) __Termination of Temporary Disability Ratings.—__ 
+    (b)  __Termination of Temporary Disability Ratings__  __.—__ 
 
         (1)
 
@@ -81,11 +81,11 @@
 
         (2) The Secretary may extend a temporary disability rating assigned to a veteran under subsection (a) beyond the applicable termination date under paragraph (1) if the Secretary determines that such an extension is appropriate.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out the provisions of this section.
 
-    (d) __Construction.—__ 
+    (d)  __Construction__  __.—__ 
 
     Nothing in this section shall be construed to preclude the Secretary from providing a temporary disability rating under an authority other than this section.
 

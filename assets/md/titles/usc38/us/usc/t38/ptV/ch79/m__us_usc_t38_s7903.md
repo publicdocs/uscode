@@ -15,11 +15,11 @@
 
 ## § 7903. Education debt reduction program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to the availability of appropriations, the Secretary may establish an education debt reduction program under which the Secretary shall make education debt reduction payments under this section to qualified individuals eligible under subsection (b) for the purpose of reimbursing such individuals for payments by such individuals of principal and interest on loans described in paragraph (3) of that subsection.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
     An individual is eligible to participate in the program under this section if the individual—
 
@@ -29,13 +29,13 @@
 
         (3) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a doctoral degree in computer science or electrical or computer engineering at an accredited institution of higher education.
 
-    (c) __Amount of Assistance.—__ 
+    (c)  __Amount of Assistance__  __.—__ 
 
         (1) Subject to paragraph (2), the amount of education debt reduction payments made to an individual under this section may not exceed $82,500 over a total of five years, of which not more than $16,500 of such payments may be made in each year.
 
         (2) The total amount payable to an individual under this section for any year may not exceed the amount of the principal and interest on loans referred to in subsection (b)(3) that is paid by the individual during such year.
 
-    (d) __Payments.—__ 
+    (d)  __Payments__  __.—__ 
 
         (1) The Secretary shall make education debt reduction payments under this section on an annual basis.
 
@@ -49,15 +49,15 @@
 
         (3) Notwithstanding any other provision of law, education debt reduction payments under this section shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
 
-    (e) __Performance Requirement.—__ 
+    (e)  __Performance Requirement__  __.—__ 
 
     The Secretary may make education debt reduction payments to an individual under this section for a year only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the individual during the year.
 
-    (f) __Notification of Terms of Provision of Payments.—__ 
+    (f)  __Notification of Terms of Provision of Payments__  __.—__ 
 
     The Secretary shall provide to an individual who receives a payment under this section notice in writing of the terms and conditions that apply to such a payment.
 
-    (g) __Covered Costs.—__ 
+    (g)  __Covered Costs__  __.—__ 
 
     For purposes of subsection (b)(3), costs relating to a course of education or training include—
 

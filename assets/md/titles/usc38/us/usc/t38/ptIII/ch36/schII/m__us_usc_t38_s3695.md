@@ -109,11 +109,11 @@
 
 [Pub. L. 112–154, title IV, § 401(c)][/us/pl/112/154/s401/c], Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), in the case of an individual whose period of entitlement to assistance under a provision of law referred to in [section 3695(a) of title 38][/us/usc/t38/s3695/a], United States Code (other than chapter 35 of such title), as in effect on September 30, 2013, was reduced under such section 3695(a), as so in effect, by reason of the utilization of entitlement to assistance under chapter 35 of such title before October 1, 2013, the period of entitlement to assistance of such individual under such provision shall be determined without regard to any entitlement so utilized by the individual under chapter 35 of such title.
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     The maximum period of entitlement to assistance of an individual under paragraph (1) may not exceed 81 months.”
 

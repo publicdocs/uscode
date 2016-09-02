@@ -171,7 +171,7 @@
 
 [Pub. L. 111–5, div. A, title X, § 1002][/us/pl/111/5/s1002], Feb. 17, 2009, [123 Stat. 200][/us/stat/123/200], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -193,25 +193,25 @@
 
 >     “(b) __Compensation Fund.—__ 
 
->         “(1) __In General.—__ 
+>         “(1)  __In General__  __.—__ 
 
 >         There is in the general fund of the Treasury a fund to be known as the ‘Filipino Veterans Equity Compensation Fund’ (in this section referred to as the ‘compensation fund’).
 
->         “(2) __Availability of Funds.—__ 
+>         “(2)  __Availability of Funds__  __.—__ 
 
 >         Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to make payments to eligible persons in accordance with this section.
 
 >     “(c) __Payments.—__ 
 
->         “(1) __In General.—__ 
+>         “(1)  __In General__  __.—__ 
 
 >         The Secretary may make a payment from the compensation fund to an eligible person who, during the one-year period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], submits to the Secretary a claim for benefits under this section. The application for the claim shall contain such information and evidence as the Secretary may require.
 
->         “(2) __Payment to Surviving Spouse.—__ 
+>         “(2)  __Payment to Surviving Spouse__  __.—__ 
 
 >         If an eligible person who has filed a claim for benefits under this section dies before payment is made under this section, the payment under this section shall be made instead to the surviving spouse, if any, of the eligible person.
 
->     “(d) __Eligible Persons.—__ 
+>     “(d)  __Eligible Persons__  __.—__ 
 
 >     An eligible person is any person who—
 
@@ -225,7 +225,7 @@
 
 >         “(2) was discharged or released from service described in paragraph (1) under conditions other than dishonorable.
 
->     “(e) __Payment Amounts.—__ 
+>     “(e)  __Payment Amounts__  __.—__ 
 
 >     Each payment under this section shall be—
 
@@ -233,11 +233,11 @@
 
 >         “(2) in the case of an eligible person who is a citizen of the United States, in the amount of $15,000.
 
->     “(f) __Limitation.—__ 
+>     “(f)  __Limitation__  __.—__ 
 
 >     The Secretary may not make more than one payment under this section for each eligible person described in subsection (d).
 
->     “(g) __Clarification of Treatment of Payments Under Certain Laws.—__ 
+>     “(g)  __Clarification of Treatment of Payments Under Certain Laws__  __.—__ 
 
 >     Amounts paid to a person under this section—
 
@@ -255,15 +255,15 @@
 
 >     “(h) __Release.—__ 
 
->         “(1) __In General.—__ 
+>         “(1)  __In General__  __.—__ 
 
 >         Except as provided in paragraph (2), the acceptance by an eligible person or surviving spouse, as applicable, of a payment under this section shall be final, and shall constitute a complete release of any claim against the United States by reason of any service described in subsection (d).
 
->         “(2) __Payment of Prior Eligibility Status.—__ 
+>         “(2)  __Payment of Prior Eligibility Status__  __.—__ 
 
 >         Nothing in this section shall prohibit a person from receiving any benefit (including health care, survivor, or burial benefits) which the person would have been eligible to receive based on laws in effect as of the day before the date of the enactment of this Act \[Feb. 17, 2009\].
 
->     “(i) __Recognition of Service.—__ 
+>     “(i)  __Recognition of Service__  __.—__ 
 
 >     The service of a person as described in subsection (d) is hereby recognized as active military service in the Armed Forces for purposes of, and to the extent provided in, this section.
 
@@ -273,11 +273,11 @@
 
 >         “(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and other provisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
 
->     “(k) __Reports.—__ 
+>     “(k)  __Reports__  __.—__ 
 
 >     The Secretary shall include, in documents submitted to Congress by the Secretary in support of the President’s budget for each fiscal year, detailed information on the operation of the compensation fund, including the number of applicants, the number of eligible persons receiving benefits, the amounts paid out of the compensation fund, and the administration of the compensation fund for the most recent fiscal year for which such data is available.
 
->     “(l) __Authorization of Appropriation.—__ 
+>     “(l)  __Authorization of Appropriation__  __.—__ 
 
 >     There is authorized to be appropriated to the compensation fund $198,000,000, to remain available until expended, to make payments under this section.”
 

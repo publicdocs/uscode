@@ -15,7 +15,7 @@
 
 ## § 7803. Operation of Service
 
-    (a) __Primary Beneficiaries.—__ 
+    (a)  __Primary Beneficiaries__  __.—__ 
 
     Canteens operated by the Service shall be primarily for the use and benefit of—
 
@@ -23,7 +23,7 @@
 
         (2) other veterans who are enrolled under [section 1705 of this title][/us/usc/t38/s1705].
 
-    (b) __Other Authorized Users.—__ 
+    (b)  __Other Authorized Users__  __.—__ 
 
     Service at such canteens may also be furnished to—
 

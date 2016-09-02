@@ -15,11 +15,11 @@
 
 ## § 7674. Obligated service
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each participant in the Program shall provide service as a full-time employee of the Department for the period of obligated service provided in the agreement of the participant entered into under [section 7603 of this title][/us/usc/t38/s7603]. Such service shall be provided in the full-time clinical practice of such participant’s profession or in another health-care position in an assignment or location determined by the Secretary.
 
-    (b) __Determination of Service Commencement Date.—__ 
+    (b)  __Determination of Service Commencement Date__  __.—__ 
 
         (1) Not later than 60 days before a participant’s service commencement date, the Secretary shall notify the participant of that service commencement date. That date is the date for the beginning of the participant’s period of obligated service.
 
@@ -53,7 +53,7 @@
 
         (4) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3).
 
-    (c) __Commencement of Obligated Service.—__ 
+    (c)  __Commencement of Obligated Service__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (2) A participant in the Program who on the participant’s course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which the participant’s course of training prepared the participant shall be considered to have begun serving the participant’s period of obligated service on such course completion date.
 
-    (d) __Course Completion Date Defined.—__ 
+    (d)  __Course Completion Date Defined__  __.—__ 
 
     In this section, the term “course completion date” means the date on which a participant in the Program completes the participant’s course of education or training under the Program.
 

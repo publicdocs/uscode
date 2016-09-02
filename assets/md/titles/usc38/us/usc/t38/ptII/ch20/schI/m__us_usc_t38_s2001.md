@@ -29,21 +29,21 @@
 
 [Pub. L. 109–461, title VII, § 701][/us/pl/109/461/s701], Dec. 22, 2006, [120 Stat. 3439][/us/stat/120/3439], provided that:
 
->     “(a) __Reaffirmation.—__ 
+>     “(a)  __Reaffirmation__  __.—__ 
 
 >     Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the Homeless Veterans Comprehensive Assistance Act of 2001 ([Public Law 107–95][/us/pl/107/95]; [115 Stat. 903][/us/stat/115/903]) \[Dec. 21, 2001\].
 
->     “(b) __Reaffirmation of Encouragement of Cooperative Efforts.—__ 
+>     “(b)  __Reaffirmation of Encouragement of Cooperative Efforts__  __.—__ 
 
 >     Congress reaffirms its encouragement, as specified in the Homeless Veterans Comprehensive Assistance Act of 2001 ([Public Law 107–95][/us/pl/107/95]; [115 Stat. 903][/us/stat/115/903]), that all departments and agencies of the Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals, work cooperatively to end chronic homelessness among veterans.”
 
 [Pub. L. 107–95, § 3][/us/pl/107/95/s3], Dec. 21, 2001, [115 Stat. 903][/us/stat/115/903], provided that:
 
->     “(a) __National Goal.—__ 
+>     “(a)  __National Goal__  __.—__ 
 
 >     Congress hereby declares it to be a national goal to end chronic homelessness among veterans within a decade of the enactment of this Act \[Dec. 21, 2001\].
 
->     “(b) __Cooperative Efforts Encouraged.—__ 
+>     “(b)  __Cooperative Efforts Encouraged__  __.—__ 
 
 >     Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively to end chronic homelessness among veterans within a decade.”
 

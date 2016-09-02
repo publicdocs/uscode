@@ -15,15 +15,15 @@
 
 ## § 1833. Treatment of receipt of monetary allowance and other benefits
 
-    (a) __Coordination With Other Benefits Paid to the Recipient.—__ 
+    (a)  __Coordination With Other Benefits Paid to the Recipient__  __.—__ 
 
     Notwithstanding any other provision of law, receipt by an individual of a monetary allowance under this chapter shall not impair, infringe, or otherwise affect the right of the individual to receive any other benefit to which the individual is otherwise entitled under any law administered by the Secretary.
 
-    (b) __Coordination With Benefits Based on Relationship of Recipients.—__ 
+    (b)  __Coordination With Benefits Based on Relationship of Recipients__  __.—__ 
 
     Notwithstanding any other provision of law, receipt by an individual of a monetary allowance under this chapter shall not impair, infringe, or otherwise affect the right of any other individual to receive any benefit to which such other individual is entitled under any law administered by the Secretary based on the relationship of such other individual to the individual who receives such monetary allowance.
 
-    (c) __Monetary Allowance Not To Be Considered as Income or Resources for Certain Purposes.—__ 
+    (c)  __Monetary Allowance Not To Be Considered as Income or Resources for Certain Purposes__  __.—__ 
 
     Notwithstanding any other provision of law, a monetary allowance paid an individual under this chapter shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
 

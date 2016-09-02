@@ -15,25 +15,25 @@
 
 ## § 2021. Homeless veterans reintegration programs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
 
-    (b) __Requirement To Monitor Expenditures of Funds.—__ 
+    (b)  __Requirement To Monitor Expenditures of Funds__  __.—__ 
 
         (1) The Secretary of Labor shall collect such information as that Secretary considers appropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section. The information shall include data with respect to the results or outcomes of the services provided to each homeless veteran under this section.
 
         (2) Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
 
-    (c) __Administration Through the Assistant Secretary of Labor for Veterans’ Employment and Training.—__ 
+    (c)  __Administration Through the Assistant Secretary of Labor for Veterans’ Employment and Training__  __.—__ 
 
     The Secretary of Labor shall carry out this section through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
-    (d) __Biennial Report to Congress.—__ 
+    (d)  __Biennial Report to Congress__  __.—__ 
 
     Not less than every two years, the Secretary of Labor shall submit to Congress a report on the programs conducted under this section. The Secretary of Labor shall include in the report an evaluation of services furnished to veterans under this section and an analysis of the information collected under subsection (b).
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
         (1)
 

@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 85–857, § 1][/us/pl/85/857/s1], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105]
 
-Current through 113-49
+Current through 113-52
 
 <table>
 
@@ -16709,15 +16709,15 @@ Rep.  </td>
 
 [Pub. L. 102–83, § 7][/us/pl/102/83/s7], Aug. 6, 1991, [105 Stat. 410][/us/stat/105/410], provided that:
 
->     “(a) __References to Replaced Laws.—__ 
+>     “(a)  __References to Replaced Laws__  __.—__ 
 
 >     A reference to a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 \[enacting chapters 3, 5, 7, 9, and 77 of this title, amending sections 618, 621, 654, 1521, 1685, 1833, 2003A, 2014, 5701, 7101, and 7455 of this title, and repealing former chapter 3 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
->     “(b) __Savings Provision for Regulations.—__ 
+>     “(b)  __Savings Provision for Regulations__  __.—__ 
 
 >     A regulation, rule, or order in effect under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
->     “(c) __General Savings Provision.—__ 
+>     “(c)  __General Savings Provision__  __.—__ 
 
 >     An action taken or an offense committed under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall be treated as having been taken or committed under the corresponding provision enacted by this Act.”
 

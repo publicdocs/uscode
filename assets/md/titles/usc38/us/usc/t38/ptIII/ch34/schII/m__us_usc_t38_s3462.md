@@ -15,7 +15,7 @@
 
 ## § 3462. Time limitations for completing a program of education
 
-    (a) __Delimiting Period for Completion.—__ 
+    (a)  __Delimiting Period for Completion__  __.—__ 
 
         (1) Subject to paragraph (4) of this subsection, no educational assistance shall be afforded an eligible veteran under this chapter beyond the date 10 years after the veteran’s last discharge or release from active duty after January 31, 1955; except that, in the case of any eligible veteran who was prevented from initiating or completing such veteran’s chosen program of education within such time period because of a physical or mental disability which was not the result of such veteran’s own willful misconduct, such veteran shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of such mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such veteran was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted a veteran under the preceding sentence, the delimiting period with respect to such veteran will again begin running on the first day following such veteran’s recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
@@ -25,19 +25,19 @@
 
         (4) For purposes of paragraph (1) of this subsection, a veteran’s last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in [section 3011(a)(1)(A)(ii)(III) of this title][/us/usc/t38/s3011/a/1/A/ii/III].
 
-    (b) __Correction of Discharge.—__ 
+    (b)  __Correction of Discharge__  __.—__ 
 
     In the case of any eligible veteran who has been prevented, as determined by the Secretary, from completing a program of education under this chapter within the period prescribed by subsection (a), because the veteran had not met the nature of discharge requirements of this chapter before a change, correction, or modification of a discharge or dismissal made pursuant to [section 1553 of title 10][/us/usc/t10/s1553], the correction of the military records of the proper service department under [section 1552 of title 10][/us/usc/t10/s1552], or other corrective action by competent authority, then the 10-year delimiting period shall run from the date the veteran’s discharge or dismissal was changed, corrected, or modified.
 
-    (c) __Savings Clause.—__ 
+    (c)  __Savings Clause__  __.—__ 
 
     In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966, the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967, and who pursues a course of farm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967, if it is later than the date which would otherwise be applicable.
 
-    (d) __Prisoners of War.—__ 
+    (d)  __Prisoners of War__  __.—__ 
 
     In the case of any veteran (1) who served on or after January 31, 1955, (2) who became eligible for educational assistance under the provisions of this chapter or chapter 36 of this title, and (3) who, subsequent to the veteran’s last discharge or release from active duty, was captured and held as a prisoner of war by a foreign government or power, there shall be excluded, in computing the veteran’s 10-year period of eligibility for educational assistance, any period during which the veteran was so detained and any period immediately following the veteran’s release from such detention during which the veteran was hospitalized at a military, civilian, or Department of Veterans Affairs medical facility.
 
-    (e) __Termination of Assistance.—__ 
+    (e)  __Termination of Assistance__  __.—__ 
 
     No educational assistance shall be afforded any eligible veteran under this chapter or chapter 36 of this title after December 31, 1989.
 

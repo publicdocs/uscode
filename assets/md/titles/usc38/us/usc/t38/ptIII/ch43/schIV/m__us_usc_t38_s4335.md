@@ -15,7 +15,7 @@
 
 ## § 4335. Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations
 
-    (a) __Training Required.—__ 
+    (a)  __Training Required__  __.—__ 
 
     The head of each Federal executive agency shall provide training for the human resources personnel of such agency on the following:
 
@@ -23,15 +23,15 @@
 
         (2) The application and administration of the requirements of this chapter by such agency with respect to such members.
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     The training provided under subsection (a) shall be developed and provided in consultation with the Director of the Office of Personnel Management.
 
-    (c) __Frequency.—__ 
+    (c)  __Frequency__  __.—__ 
 
     The training under subsection (a) shall be provided with such frequency as the Director of the Office of Personnel Management shall specify in order to ensure that the human resources personnel of Federal executive agencies are kept fully and currently informed of the matters covered by the training.
 
-    (d) __Human Resources Personnel Defined.—__ 
+    (d)  __Human Resources Personnel Defined__  __.—__ 
 
     In this section, the term “human resources personnel”, in the case of a Federal executive agency, means any personnel of the agency who are authorized to recommend, take, or approve any personnel action that is subject to the requirements of this chapter with respect to employees of the agency.
 

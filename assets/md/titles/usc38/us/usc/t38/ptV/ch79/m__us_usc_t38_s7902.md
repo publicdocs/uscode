@@ -15,7 +15,7 @@
 
 ## § 7902. Scholarship program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
             (B) The Secretary may waive the limitation under subparagraph (A) if the Secretary determines that such a waiver is appropriate.
 
-    (b) __Service Agreement for Scholarship Recipients.—__ 
+    (b)  __Service Agreement for Scholarship Recipients__  __.—__ 
 
         (1) To receive financial assistance under this section an individual shall enter into an agreement to accept and continue employment in the Department for the period of obligated service determined under paragraph (2).
 
@@ -47,7 +47,7 @@
 
             (C) Any other terms and conditions that the Secretary determines appropriate for carrying out this section.
 
-    (c) __Amount of Assistance.—__ 
+    (c)  __Amount of Assistance__  __.—__ 
 
         (1)
 
@@ -63,7 +63,7 @@
 
         (4) Notwithstanding any other provision of law, financial assistance paid an individual under this section shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
 
-    (d) __Repayment for Period of Unserved Obligated Service.—__ 
+    (d)  __Repayment for Period of Unserved Obligated Service__  __.—__ 
 
         (1) An individual who receives financial assistance under this section shall repay to the Secretary an amount equal to the unearned portion of the financial assistance if the individual fails to satisfy the requirements of the service agreement entered into under subsection (b), except in circumstances authorized by the Secretary.
 
@@ -71,17 +71,17 @@
 
         (3) An obligation to repay the Secretary under this subsection is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based.
 
-    (e) __Waiver or Suspension of Compliance.—__ 
+    (e)  __Waiver or Suspension of Compliance__  __.—__ 
 
     The Secretary shall prescribe regulations providing for the waiver or suspension of any obligation of an individual for service or payment under this section (or an agreement under this section) whenever noncompliance by the individual is due to circumstances beyond the control of the individual or whenever the Secretary determines that the waiver or suspension of compliance is in the best interest of the United States.
 
-    (f) __Internships.—__ 
+    (f)  __Internships__  __.—__ 
 
         (1) The Secretary may offer a compensated internship to an individual for whom financial assistance is provided under this section during a period between academic semesters or terms leading to the degree for which such assistance is provided. Compensation provided for such an internship shall be in addition to the financial assistance provided under this section.
 
         (2) An internship under this subsection shall not be counted toward satisfying a period of obligated service under this section.
 
-    (g) __Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance Payments.—__ 
+    (g)  __Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance Payments__  __.—__ 
 
     An individual who receives a payment of educational assistance under chapter 30, 31, 32, 34, or 35 of this title or chapter 1606 or 1607 of title 10 for a month in which the individual is enrolled in a course of education leading to a doctoral degree in information security is not eligible to receive financial assistance under this section for that month.
 

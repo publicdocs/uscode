@@ -15,17 +15,17 @@
 
 ## § 3312. Educational assistance: duration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number of months of educational assistance under section 3313 equal to 36 months.
 
-    (b) __Continuing Receipt.—__ 
+    (b)  __Continuing Receipt__  __.—__ 
 
     The receipt of educational assistance under section 3313 by an individual entitled to educational assistance under this chapter is subject to the provisions of section 3321(b)(2).
 
     (c) __Discontinuation of Education for Active Duty.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any payment of educational assistance described in paragraph (2) shall not—
 
@@ -33,7 +33,7 @@
 
             (B) be counted against the aggregate period for which section 3695 limits the individual’s receipt of educational assistance under this chapter.
 
-        (2) __Description of payment of educational assistance.—__ 
+        (2)  __Description of payment of educational assistance__  __.—__ 
 
         Subject to paragraph (3), the payment of educational assistance described in this paragraph is the payment of such assistance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
 
@@ -45,7 +45,7 @@
 
             (B) failed to receive credit or lost training time toward completion of the individual’s approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A), the individual’s course pursuit.
 
-        (3) __Period for which payment not charged.—__ 
+        (3)  __Period for which payment not charged__  __.—__ 
 
         The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title][/us/usc/t38/s3695] shall not exceed the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B).
 

@@ -15,13 +15,13 @@
 
 ## § 3319. Authority to transfer unused education benefits to family members
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Subject to the provisions of this section, the Secretary concerned may permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual’s entitlement to such assistance, subject to the limitation under subsection (d).
 
         (2) The purpose of the authority in paragraph (1) is to promote recruitment and retention in the uniformed services. The Secretary concerned may exercise the authority for that purpose when authorized by the Secretary of Defense in the national security interests of the United States.
 
-    (b) __Eligible Individuals.—__ 
+    (b)  __Eligible Individuals__  __.—__ 
 
     An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual’s request to transfer entitlement to educational assistance under this section, has completed at least—
 
@@ -29,7 +29,7 @@
 
         (2) the years of service as determined in regulations pursuant to subsection (j).
 
-    (c) __Eligible Dependents.—__ 
+    (c)  __Eligible Dependents__  __.—__ 
 
     An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
 
@@ -39,11 +39,11 @@
 
         (3) To a combination of the individuals referred to in paragraphs (1) and (2).
 
-    (d) __Limitation on Months of Transfer.—__ 
+    (d)  __Limitation on Months of Transfer__  __.—__ 
 
     The total number of months of entitlement transferred by a individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 
-    (e) __Designation of Transferee.—__ 
+    (e)  __Designation of Transferee__  __.—__ 
 
     An individual transferring an entitlement to educational assistance under this section shall—
 
@@ -55,25 +55,25 @@
 
     (f) __Time for Transfer; Revocation and Modification.—__ 
 
-        (1) __Time for transfer.—__ 
+        (1)  __Time for transfer__  __.—__ 
 
         Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
 
         (2) __Modification or revocation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An individual transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred.
 
-            (B) __Notice.—__ 
+            (B)  __Notice__  __.—__ 
 
             The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
 
-        (3) __Prohibition on treatment of transferred entitlement as marital property.—__ 
+        (3)  __Prohibition on treatment of transferred entitlement as marital property__  __.—__ 
 
         Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
-    (g) __Commencement of Use.—__ 
+    (g)  __Commencement of Use__  __.—__ 
 
     A dependent to whom entitlement to educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
 
@@ -107,11 +107,11 @@
 
     (h) __Additional Administrative Matters.—__ 
 
-        (1) __Use.—__ 
+        (1)  __Use__  __.—__ 
 
         The use of any entitlement to educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
-        (2) __Nature of transferred entitlement.—__ 
+        (2)  __Nature of transferred entitlement__  __.—__ 
 
         Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6)—
 
@@ -119,7 +119,7 @@
 
             (B) in the case of entitlement transferred to a child under this section, the child is entitled to educational assistance under this chapter in the same manner as the individual from whom the entitlement was transferred as if the individual were not on active duty.
 
-        (3) __Rate of payment.—__ 
+        (3)  __Rate of payment__  __.—__ 
 
         The monthly rate of educational assistance payable to a dependent to whom entitlement referred to in paragraph (2) is transferred under this section shall be payable—
 
@@ -127,27 +127,27 @@
 
             (B) in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
 
-        (4) __Death of transferor.—__ 
+        (4)  __Death of transferor__  __.—__ 
 
         The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
 
         (5) __Limitation on age of use by child transferees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
 
             (B) __Primary caregivers of seriously injured members of the armed forces and veterans.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
 
-                (ii) __Inapplicability for revocation.—__ 
+                (ii)  __Inapplicability for revocation__  __.—__ 
 
                 Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual’s designation as such a primary provider under section 1720G(a)(7)(D).
 
-                (iii) __Date for commencement of use.—__ 
+                (iii)  __Date for commencement of use__  __.—__ 
 
                 The date specified in this clause for the beginning of the use of benefits by a child under clause (i) is the later of—
 
@@ -157,7 +157,7 @@
 
                     (III) the date on which the child attains the age of 26 years.
 
-                (iv) __Length of use.—__ 
+                (iv)  __Length of use__  __.—__ 
 
                 The length of the period specified in this clause for the use of benefits by a child under clause (i) is the length equal to the length of the period that—
 
@@ -171,27 +171,27 @@
 
                         (bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
 
-        (6) __Scope of use by transferees.—__ 
+        (6)  __Scope of use by transferees__  __.—__ 
 
         The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
 
-        (7) __Additional administrative provisions.—__ 
+        (7)  __Additional administrative provisions__  __.—__ 
 
         The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible individual for purposes of such provisions.
 
     (i) __Overpayment.—__ 
 
-        (1) __Joint and several liability.—__ 
+        (1)  __Joint and several liability__  __.—__ 
 
         In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
 
         (2) __Failure to complete service agreement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             Subparagraph (A) shall not apply in the case of an individual who fails to complete service agreed to by the individual—
 
@@ -199,7 +199,7 @@
 
                 (ii) for a reason referred to in section 3311(c)(4).
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section.
 

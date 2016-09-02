@@ -95,11 +95,11 @@
 
 [Pub. L. 103–446, title II, § 202][/us/pl/103/446/s202], Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657], provided that:
 
->     “(a) __Deadline.—__ 
+>     “(a)  __Deadline__  __.—__ 
 
 >     The job performance standards required to be established by [section 7101A(f) of title 38][/us/usc/t38/s7101A/f], United States Code, as added by section 201(a), shall be established not later than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].
 
->     “(b) __Submission to Congressional Committees.—__ 
+>     “(b)  __Submission to Congressional Committees__  __.—__ 
 
 >     Not later than the date on which the standards referred to in subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans’ Appeals.”
 

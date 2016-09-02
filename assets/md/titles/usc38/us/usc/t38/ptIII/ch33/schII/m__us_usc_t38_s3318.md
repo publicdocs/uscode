@@ -15,11 +15,11 @@
 
 ## § 3318. Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education
 
-    (a) __Additional Assistance.—__ 
+    (a)  __Additional Assistance__  __.—__ 
 
     Each individual described in subsection (b) shall be paid additional assistance under this section in the amount of $500.
 
-    (b) __Covered Individuals.—__ 
+    (b)  __Covered Individuals__  __.—__ 
 
     An individual described in this subsection is any individual entitled to educational assistance under this chapter—
 
@@ -33,7 +33,7 @@
 
             (B) travels by air to physically attend an institution of higher learning for pursuit of such a program of education because the individual cannot travel to such institution by automobile or other established form of transportation due to an absence of road or other infrastructure.
 
-    (c) __Proof of Residence.—__ 
+    (c)  __Proof of Residence__  __.—__ 
 
     For purposes of subsection (b)(1), an individual may demonstrate the individual’s place of residence utilizing any of the following:
 
@@ -43,11 +43,11 @@
 
         (3) Such other evidence as the Secretary shall prescribe for purposes of this section.
 
-    (d) __Single Payment of Assistance.—__ 
+    (d)  __Single Payment of Assistance__  __.—__ 
 
     An individual is entitled to only one payment of additional assistance under this section.
 
-    (e) __No Charge Against Entitlement.—__ 
+    (e)  __No Charge Against Entitlement__  __.—__ 
 
     Any amount paid an individual under this section is in addition to any other educational assistance benefits provided the individual under this chapter.
 

@@ -15,7 +15,7 @@
 
 ## § 4102A. Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators
 
-    (a) __Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training.—__ 
+    (a)  __Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training__  __.—__ 
 
         (1) There is established within the Department of Labor an Assistant Secretary of Labor for Veterans’ Employment and Training, appointed by the President by and with the advice and consent of the Senate, who shall formulate and implement all departmental policies and procedures to carry out (A) the purposes of this chapter, chapter 42, and chapter 43 of this title, and (B) all other Department of Labor employment, unemployment, and training programs to the extent they affect veterans.
 
@@ -27,7 +27,7 @@
 
             (B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans’ Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federal civil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of [section 308(d)(2) of this title][/us/usc/t38/s308/d/2].
 
-    (b) __Program Functions.—__ 
+    (b)  __Program Functions__  __.—__ 
 
     The Secretary shall carry out the following functions:
 
@@ -55,7 +55,7 @@
 
         (8) With advice and assistance from the Advisory Committee on Veterans Employment, Training, and Employer Outreach established under [section 4110 of this title][/us/usc/t38/s4110], furnish information to employers (through meetings in person with hiring executives of corporations and otherwise) with respect to the training and skills of veterans and disabled veterans, and the advantages afforded employers by hiring veterans with such training and skills, and to facilitate employment of veterans and disabled veterans through participation in labor exchanges (Internet-based and otherwise), and other means.
 
-    (c) __Conditions for Receipt of Funds.—__ 
+    (c)  __Conditions for Receipt of Funds__  __.—__ 
 
         (1) The distribution and use of funds under subsection (b)(5) in order to carry out sections 4103A(a) and 4104(a) of this title shall be subject to the continuing supervision and monitoring of the Secretary and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section or section 4103A or 4104 of this title.
 
@@ -181,17 +181,17 @@
 
                 (ii) any information the Secretary receives from a State pursuant to subparagraph (A).
 
-    (d) __Participation in Other Federally Funded Job Training Programs.—__ 
+    (d)  __Participation in Other Federally Funded Job Training Programs__  __.—__ 
 
     The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
 
-    (e) __Regional Administrators.—__ 
+    (e)  __Regional Administrators__  __.—__ 
 
         (1) The Secretary shall assign to each region for which the Secretary operates a regional office a representative of the Veterans’ Employment and Training Service to serve as the Regional Administrator for Veterans’ Employment and Training in such region.
 
         (2) Each such Regional Administrator shall carry out such duties as the Secretary may require to promote veterans employment and reemployment within the region that the Administrator serves.
 
-    (f) __Establishment of Performance Standards and Outcomes Measures.—__ 
+    (f)  __Establishment of Performance Standards and Outcomes Measures__  __.—__ 
 
         (1) The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, including disabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
 
@@ -203,11 +203,11 @@
 
             (B) be appropriately weighted to provide special consideration for placement of (i) veterans requiring intensive services (as defined in [section 4101(9) of this title][/us/usc/t38/s4101/9]), such as special disabled veterans and disabled veterans, and (ii) veterans who enroll in readjustment counseling under [section 1712A of this title][/us/usc/t38/s1712A].
 
-    (g) __Authority to Provide Technical Assistance to States.—__ 
+    (g)  __Authority to Provide Technical Assistance to States__  __.—__ 
 
     The Secretary may provide such technical assistance as the Secretary determines appropriate to any State that the Secretary determines has, or may have, an entered-employment rate in the State that is deficient, as determined under subsection (c)(3) with respect to a program year, including assistance in the development of a corrective action plan under that subsection.
 
-    (h) __Consolidation of Disabled Veterans’ Outreach Program Specialists and Veterans’ Employment Representatives.—__ 
+    (h)  __Consolidation of Disabled Veterans’ Outreach Program Specialists and Veterans’ Employment Representatives__  __.—__ 
 
     The Secretary may allow the Governor of a State receiving funds under subsection (b)(5) to support specialists and representatives as described in such subsection to consolidate the functions of such specialists and representatives if—
 
@@ -315,11 +315,11 @@
 
 [Pub. L. 111–275, title I, § 103(b)][/us/pl/111/275/s103/b], Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], provided that:
 
->     “(1) __Applicability to new employees.—__ 
+>     “(1)  __Applicability to new employees__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply with respect to a State employee assigned to perform the duties of a disabled veterans’ outreach program specialist or a local veterans’ employment representative under chapter 41 of title 38, United States Code, who is so assigned on or after the date of the enactment of this Act \[Oct. 13, 2010\].
 
->     “(2) __Applicability to previously-hired employees.—__ 
+>     “(2)  __Applicability to previously-hired employees__  __.—__ 
 
 >     In the case of such a State employee who is so assigned on or after January 1, 2006, and before the date of the enactment of this Act, the Secretary of Labor shall require the State to require, as a condition of a grant or contract under which funds are made available to the State in order to carry out section 4103A or 4104 of title 38, United States Code, each such employee to satisfactorily complete the training described in section 4102A(c)(8)(A) of such title by not later than the date that is 18 months after the date of the enactment of this Act.”
 

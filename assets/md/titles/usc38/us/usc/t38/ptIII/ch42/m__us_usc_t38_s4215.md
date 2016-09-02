@@ -15,7 +15,7 @@
 
 ## § 4215. Priority of service for veterans in Department of Labor job training programs
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -49,13 +49,13 @@
 
         (3) The term “priority of service” means, with respect to any qualified job training program, that a covered person shall be given priority over nonveterans for the receipt of employment, training, and placement services provided under that program, notwithstanding any other provision of law. Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.
 
-    (b) __Entitlement to Priority of Service.—__ 
+    (b)  __Entitlement to Priority of Service__  __.—__ 
 
         (1) A covered person is entitled to priority of service under any qualified job training program if the person otherwise meets the eligibility requirements for participation in such program.
 
         (2) The Secretary of Labor may establish priorities among covered persons for purposes of this section to take into account the needs of disabled veterans and special disabled veterans, and such other factors as the Secretary determines appropriate.
 
-    (c) __Administration of Programs at State and Local Levels.—__ 
+    (c)  __Administration of Programs at State and Local Levels__  __.—__ 
 
     An entity of a State or a political subdivision of the State that administers or delivers services under a qualified job training program shall—
 
@@ -63,7 +63,7 @@
 
         (2) ensure that each covered person who applies to or who is assisted by such a program is informed of the employment-related rights and benefits to which the person is entitled under this section.
 
-    (d) __Addition to Annual Report.—__ 
+    (d)  __Addition to Annual Report__  __.—__ 
 
         (1)
 

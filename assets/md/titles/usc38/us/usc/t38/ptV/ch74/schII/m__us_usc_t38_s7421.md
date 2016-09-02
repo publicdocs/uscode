@@ -55,11 +55,11 @@
 
 [Pub. L. 102–40, title II, § 205][/us/pl/102/40/s205], May 7, 1991, [105 Stat. 207][/us/stat/105/207], provided that:
 
->     “(a) __Existing Collective-Bargaining Arrangements.—__ 
+>     “(a)  __Existing Collective-Bargaining Arrangements__  __.—__ 
 
 >     Any determination under chapter 71 of title 5, United States Code, of a collective bargaining unit within the Veterans Health Administration of the Department of Veterans Affairs, and any recognition under that chapter of an employee labor organization as the exclusive bargaining representative for employees in a collective bargaining unit of the Department of Veterans Affairs, that is in effect on the date of the enactment of this Act \[May 7, 1991\] shall not be affected by the amendments made by this Act \[see Tables for classification\] and shall continue in effect in accordance with the terms of such determination or regulation.
 
->     “(b) __Pending Cases.—__ 
+>     “(b)  __Pending Cases__  __.—__ 
 
 >     With respect to cases pending on the date of the enactment of this Act \[May 7, 1991\], or those cases which are brought before the establishment of either an administrative grievance procedure pursuant to [section 7463 of title 38][/us/usc/t38/s7463], United States Code (as added by the amendments made by this title), or a negotiated grievance procedure established under a collective bargaining agreement, such cases shall proceed in the same manner as they would have if this Act \[see Tables for classification\] had not been enacted.”
 

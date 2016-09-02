@@ -319,7 +319,7 @@
 
 >     “(a) __Participation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for members of the Armed Forces described in subsection (b) to volunteer or be considered for employment as peer counselors under the following:
 
@@ -327,11 +327,11 @@
 
 >             “(B) The peer support counseling program carried out by the Secretary of Veterans Affairs under section 304(a)(1) of the Caregivers and Veterans Omnibus Health Services Act of 2010 ([Public Law 111–163][/us/pl/111/163]; [124 Stat. 1150][/us/stat/124/1150]; [38 U.S.C. 1712A][/us/usc/t38/s1712A] note).
 
->         “(2) __Training.—__ 
+>         “(2)  __Training__  __.—__ 
 
 >         Any member participating in a peer support counseling program under paragraph (1) shall receive the training for peer counselors under [section 1720F(j)(2) of title 38][/us/usc/t38/s1720F/j/2], United States Code, or section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010, as applicable, before performing peer support counseling duties under such program.
 
->     “(b) __Covered Members.—__ 
+>     “(b)  __Covered Members__  __.—__ 
 
 >     Members of the Armed Forces described in this subsection are the following:
 
@@ -345,11 +345,11 @@
 
 >     “(a) __Measurement of Mental Health Care Services.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than December 31, 2013, the Secretary of Veterans Affairs shall develop and implement a comprehensive set of measures to assess mental health care services furnished by the Department of Veterans Affairs.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The measures developed and implemented under paragraph (1) shall provide an accurate and comprehensive assessment of the following:
 
@@ -361,13 +361,13 @@
 
 >             “(D) The availability and furnishing of evidence-based therapies by the Department.
 
->     “(b) __Guidelines for Staffing Mental Health Care Services.—__ 
+>     “(b)  __Guidelines for Staffing Mental Health Care Services__  __.—__ 
 
 >     Not later than December 31, 2013, the Secretary shall develop and implement guidelines for the staffing of general and specialty mental health care services, including at community-based outpatient clinics. Such guidelines shall include productivity standards for providers of mental health care.
 
 >     “(c) __Study Committee.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall seek to enter into a contract with the National Academy of Sciences to create a study committee—
 
@@ -375,7 +375,7 @@
 
 >             “(B) to conduct an assessment and provide an analysis and recommendations on the state of Department mental health services.
 
->         “(2) __Functions.—__ 
+>         “(2)  __Functions__  __.—__ 
 
 >         In entering into the contract described in paragraph (1), the Secretary shall, with respect to paragraph (1)(B), include in such contract a provision for the study committee—
 
@@ -403,21 +403,21 @@
 
 >                 “(ii) to improve the effectiveness and efficiency of mental health services furnished by the Secretary.
 
->         “(3) __Participation by former officials and employees of veterans health administration.—__ 
+>         “(3)  __Participation by former officials and employees of veterans health administration__  __.—__ 
 
 >         The Secretary shall ensure that any contract entered into under paragraph (1) provides for inclusion on any subcommittee which participates in conducting the assessments and formulating the recommendations provided for in paragraph (2) at least one former official of the Veterans Health Administration and at least two former employees of the Veterans Health Administration who were providers of mental health care.
 
->         “(4) __Periodic reports to secretary.—__ 
+>         “(4)  __Periodic reports to secretary__  __.—__ 
 
 >         In entering into the contract described in paragraph (1), the Secretary shall, with respect to paragraph (1)(A), include in such contract a provision for the submittal to the Secretary of periodic reports and provision of other consultation to the Secretary by the study committee to assist the Secretary in carrying out subsections (a) and (b).
 
->         “(5) __Reports to congress.—__ 
+>         “(5)  __Reports to congress__  __.—__ 
 
 >         Not later than 30 days after receiving a report under paragraph (4), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the plans of the Secretary to implement such recommendations submitted to the Secretary by the study committee as the Secretary considers appropriate. Such report shall include a description of each recommendation submitted to the Secretary that the Secretary does not plan to carry out and an explanation of why the Secretary does not plan to carry out such recommendation.
 
 >     “(d) __Publication.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall make available to the public on an Internet website of the Department the following:
 
@@ -425,17 +425,17 @@
 
 >             “(B) An assessment of the performance of the Department using such measures and guidelines.
 
->         “(2) __Quarterly updates.—__ 
+>         “(2)  __Quarterly updates__  __.—__ 
 
 >         The Secretary shall update the measures, guidelines, and assessment made available to the public under paragraph (1) not less frequently than quarterly.
 
 >     “(e) __Semiannual Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than June 30, 2013, and not less frequently than twice each year thereafter, the Secretary shall submit to the committees of Congress specified in subsection (c)(5) a report on the Secretary’s progress in developing and implementing the measures and guidelines required by this section.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall include the following:
 
@@ -451,11 +451,11 @@
 
 >     “(f) __Implementation Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days before the date on which the Secretary begins implementing the measures and guidelines required by this section, the Secretary shall submit to the committees of Congress specified in subsection (c)(5) a report on the Secretary’s planned implementation of such measures and guidelines.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -475,15 +475,15 @@
 
 >     “(a) __Pilot Program Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Commencing not later than 180 days after the date of the enactment of this Act \[May 5, 2010\], the Secretary of Veterans Affairs shall carry out, through the Readjustment Counseling Service of the Veterans Health Administration, a pilot program to evaluate the feasibility and advisability of providing reintegration and readjustment services described in subsection (b) in group retreat settings to women veterans who are recently separated from service in the Armed Forces after a prolonged deployment.
 
->         “(2) __Participation at election of veteran.—__ 
+>         “(2)  __Participation at election of veteran__  __.—__ 
 
 >         The participation of a veteran in the pilot program under this section shall be at the election of the veteran.
 
->     “(b) __Covered Services.—__ 
+>     “(b)  __Covered Services__  __.—__ 
 
 >     The services provided to a woman veteran under the pilot program shall include the following:
 
@@ -499,19 +499,19 @@
 
 >         “(6) Such other information and counseling as the Secretary considers appropriate to assist a woman veteran under the pilot program in reintegration into the veteran’s family, employment, and community.
 
->     “(c) __Locations.—__ 
+>     “(c)  __Locations__  __.—__ 
 
 >     The Secretary shall carry out the pilot program at not fewer than three locations selected by the Secretary for purposes of the pilot program.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     The pilot program shall be carried out during the 2-year period beginning on the date of the commencement of the pilot program.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 180 days after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall contain the findings and conclusions of the Secretary as a result of the pilot program, and shall include such recommendations for the continuation or expansion of the pilot program as the Secretary considers appropriate.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010 and 2011, $2,000,000 to carry out the pilot program.”
 
@@ -519,7 +519,7 @@
 
 [Pub. L. 111–163, title III, § 304][/us/pl/111/163/s304], May 5, 2010, [124 Stat. 1150][/us/stat/124/1150], as amended by [Pub. L. 112–239, div. A, title VII, § 730(b)(1)][/us/pl/112/239/s730/b/1], Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[May 5, 2010\], the Secretary of Veterans Affairs shall establish a program to provide—
 
@@ -545,7 +545,7 @@
 
 >             “(C) the readjustment of the family following the return of such veterans.
 
->     “(b) __Contracts With Community Mental Health Centers and Other Qualified Entities.—__ 
+>     “(b)  __Contracts With Community Mental Health Centers and Other Qualified Entities__  __.—__ 
 
 >     In carrying out the program required by subsection (a), the Secretary may contract with community mental health centers and other qualified entities to provide the services required by such subsection only in areas the Secretary determines are not adequately served by other health care facilities or vet centers of the Department of Veterans Affairs. Such contracts shall require each contracting community health center or entity—
 
@@ -569,11 +569,11 @@
 
 >         “(7) to meet such other requirements as the Secretary shall require.
 
->     “(c) __Training of Veterans for Provision of Peer-outreach and Peer-support Services.—__ 
+>     “(c)  __Training of Veterans for Provision of Peer-outreach and Peer-support Services__  __.—__ 
 
 >     In carrying out the program required by subsection (a), the Secretary shall contract with a national not-for-profit mental health organization to carry out a national program of training for veterans described in subsection (a) to provide the services described in subparagraphs (A) and (B) of paragraph (1) of such subsection.
 
->     “(d) __Training of Clinicians for Provision of Services.—__ 
+>     “(d)  __Training of Clinicians for Provision of Services__  __.—__ 
 
 >     The Secretary shall conduct a training program for clinicians of community mental health centers or entities that have contracts with the Secretary under subsection (b) to ensure that such clinicians can provide the services required by subsection (a) in a manner that—
 
@@ -581,11 +581,11 @@
 
 >         “(2) uses best practices and technologies.
 
->     “(e) __Provision of Peer Outreach and Peer Support Services at Department Medical Centers.—__ 
+>     “(e)  __Provision of Peer Outreach and Peer Support Services at Department Medical Centers__  __.—__ 
 
 >     The Secretary shall carry out the services required by subparagraphs (A) and (B) of subsection (a)(1) at each Department medical center.
 
->     “(f) __Vet Center Defined.—__ 
+>     “(f)  __Vet Center Defined__  __.—__ 
 
 >     In this section, the term ‘vet center’ means a center for readjustment counseling and related mental health services for veterans under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code.”
 
@@ -599,19 +599,19 @@
 
 [Pub. L. 111–163, title IV, § 401][/us/pl/111/163/s401], May 5, 2010, [124 Stat. 1156][/us/stat/124/1156], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any member of the Armed Forces, including a member of the National Guard or Reserve, who serves on active duty in the Armed Forces in Operation Enduring Freedom or Operation Iraqi Freedom is eligible for readjustment counseling and related mental health services under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code, through the Readjustment Counseling Service of the Veterans Health Administration.
 
->     “(b) __No Requirement for Current Active Duty Service.—__ 
+>     “(b)  __No Requirement for Current Active Duty Service__  __.—__ 
 
 >     A member of the Armed Forces who meets the requirements for eligibility for counseling and services under subsection (a) is entitled to counseling and services under that subsection regardless of whether or not the member is currently on active duty in the Armed Forces at the time of receipt of counseling and services under that subsection.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The eligibility of members of the Armed Forces for counseling and services under subsection (a) shall be subject to such regulations as the Secretary of Defense and the Secretary of Veterans Affairs shall jointly prescribe for purposes of this section.
 
->     “(d) __Subject to Availability of Appropriations.—__ 
+>     “(d)  __Subject to Availability of Appropriations__  __.—__ 
 
 >     The provision of counseling and services under subsection (a) shall be subject to the availability of appropriations for such purpose.”
 
@@ -619,7 +619,7 @@
 
 [Pub. L. 110–387, title I, § 107][/us/pl/110/387/s107], Oct. 10, 2008, [122 Stat. 4116][/us/stat/122/4116], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     Commencing not later than 180 days after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability \[sic\] and advisability of providing to veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and, in particular, veterans who served in such operations as a member of the National Guard or Reserve, the following:
 
@@ -631,7 +631,7 @@
 
 >         “(4) Other mental health services.
 
->     “(b) __Provision of Certain Services.—__ 
+>     “(b)  __Provision of Certain Services__  __.—__ 
 
 >     In providing services described in paragraphs (3) and (4) of subsection (a) under the pilot program to veterans who reside in rural areas and do not have adequate access through the Department of Veterans Affairs to the services described in such paragraphs, the Secretary shall, acting through the Office of Mental Health Services and the Office of Rural Health, provide such services as follows:
 
@@ -641,25 +641,25 @@
 
 >         “(3) Through other appropriate entities under contracts or other agreements entered into by the Secretary of Veterans Affairs for the provision of such services for purposes of the pilot program.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The pilot program shall be carried out during the three-year period beginning on the date of the commencement of the pilot program.
 
 >     “(d) __Program Locations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The pilot program shall be carried out within areas selected by the Secretary for the purpose of the pilot program in at least three Veterans Integrated Service Networks (VISNs).
 
->         “(2) __Rural geographic locations.—__ 
+>         “(2)  __Rural geographic locations__  __.—__ 
 
 >         The locations selected shall be in rural geographic locations that, as determined by the Secretary, lack access to comprehensive mental health services through the Department of Veterans Affairs.
 
->         “(3) __Qualified providers.—__ 
+>         “(3)  __Qualified providers__  __.—__ 
 
 >         In selecting locations for the pilot program, the Secretary shall select locations in which an adequate number of licensed mental health care providers with credentials equivalent to those of Department mental health care providers are available in Indian Health Service facilities, community mental health centers, and other entities for participation in the pilot program.
 
->     “(e) __Participation in Program.—__ 
+>     “(e)  __Participation in Program__  __.—__ 
 
 >     Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall—
 
@@ -669,7 +669,7 @@
 
 >         “(3) meet such other requirements as the Secretary shall require.
 
->     “(f) __Compliance With Department Protocols.—__ 
+>     “(f)  __Compliance With Department Protocols__  __.—__ 
 
 >     Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall comply with—
 
@@ -677,27 +677,27 @@
 
 >         “(2) access and quality standards of the Department relevant to the provision of services as part of the pilot program.
 
->     “(g) __Provision of Clinical Information.—__ 
+>     “(g)  __Provision of Clinical Information__  __.—__ 
 
 >     Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall, in a timely fashion, provide the Secretary with such clinical information on each veteran for whom such health center or facility provides mental health services under the pilot program as the Secretary shall require.
 
 >     “(h) __Training.—__ 
 
->         “(1) __Training of veterans.—__ 
+>         “(1)  __Training of veterans__  __.—__ 
 
 >         As part of the pilot program, the Secretary shall carry out a program of training for veterans described in subsection (a) to provide the services described in paragraphs (1) and (2) of such subsection.
 
 >         “(2) __Training of clinicians.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall conduct a training program for clinicians of community mental health centers, Indian Health Service facilities, or other entities participating in the pilot program under subsection (b) to ensure that such clinicians can provide the services described in paragraphs (3) and (4) of subsection (a) in a manner that accounts for factors that are unique to the experiences of veterans who served on active duty in Operation Iraqi Freedom or Operation Enduring Freedom (including their combat and military training experiences).
 
->             “(B) __Participation in training.—__ 
+>             “(B)  __Participation in training__  __.—__ 
 
 >             Personnel of each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall participate in the training program conducted pursuant to subparagraph (A).
 
->     “(i) __Annual Reports.—__ 
+>     “(i)  __Annual Reports__  __.—__ 
 
 >     Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall submit to the Secretary on an annual basis a report containing, with respect to the provision of services under subsection (b) and for the last full calendar year ending before the submission of such report—
 
@@ -713,11 +713,11 @@
 
 >     “(j) __Program Evaluation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall, through Department of Veterans Affairs Mental Health Services investigators and in collaboration with relevant program offices of the Department, design and implement a strategy for evaluating the pilot program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The strategy implemented under paragraph (1) shall assess the impact that contracting with community mental health centers, the Indian Health Service, and other entities participating in the pilot program under subsection (b) has on the following:
 
@@ -729,7 +729,7 @@
 
 >             “(D) The coordination of mental health care and other medical services provided to veterans.
 
->     “(k) __Definitions.—__ 
+>     “(k)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -745,7 +745,7 @@
 
 >         “(3) The term ‘Indian Health Service’ means the organization established by section 601(a) of the Indian Health Care Improvement Act ([25 U.S.C. 1661(a)][/us/usc/t25/s1661/a]).
 
->     “(l) __Authorization of Appropriations.—__ 
+>     “(l)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 
@@ -753,11 +753,11 @@
 
 [Pub. L. 110–387, title II, § 201][/us/pl/110/387/s201], Oct. 10, 2008, [122 Stat. 4119][/us/stat/122/4119], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall, through the Office of Research and Development, carry out a program of research into comorbid post-traumatic stress disorder (PTSD) and substance use disorder.
 
->     “(b) __Discharge Through National Center for Posttraumatic Stress Disorder.—__ 
+>     “(b)  __Discharge Through National Center for Posttraumatic Stress Disorder__  __.—__ 
 
 >     The research program required by subsection (a) shall be carried out by the National Center for Posttraumatic Stress Disorder. In carrying out the program, the Center shall—
 
@@ -765,7 +765,7 @@
 
 >         “(2) coordinate research, data collection, and data dissemination under the program.
 
->     “(c) __Research.—__ 
+>     “(c)  __Research__  __.—__ 
 
 >     The program of research required by subsection (a) shall address the following:
 
@@ -777,15 +777,15 @@
 
 >     “(d) __Funding.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated for the Department of Veterans Affairs for each of fiscal years 2009 through 2012, $2,000,000 to carry out this section.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts authorized to be appropriated by paragraph (1) shall be made available to the National Center on Posttraumatic Stress Disorder for the purpose specified in that paragraph.
 
->         “(3) __Supplement not supplant.—__ 
+>         “(3)  __Supplement not supplant__  __.—__ 
 
 >         Any amount made available to the National Center on Posttraumatic Stress Disorder for a fiscal year under paragraph (2) is in addition to any other amounts made available to the National Center on Posttraumatic Stress Disorder for such year under any other provision of law.”
 
@@ -793,11 +793,11 @@
 
 [Pub. L. 110–387, title III, § 302][/us/pl/110/387/s302], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out, through a non-Department of Veterans Affairs entity, a pilot program to assess the feasability \[sic\] and advisability of providing readjustment and transition assistance described in subsection (b) to veterans and their families in cooperation with centers under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code (commonly referred to as ‘Vet Centers’).
 
->     “(b) __Readjustment and Transition Assistance.—__ 
+>     “(b)  __Readjustment and Transition Assistance__  __.—__ 
 
 >     Readjustment and transition assistance described in this subsection is assistance as follows:
 
@@ -807,33 +807,33 @@
 
 >     “(c) __Non-Department of Veterans Affairs Entity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall carry out the pilot program through any for-profit or non-profit organization selected by the Secretary for purposes of the pilot program that has demonstrated expertise and experience in the provision of assistance and training described in subsection (b).
 
->         “(2) __Contract or agreement.—__ 
+>         “(2)  __Contract or agreement__  __.—__ 
 
 >         The Secretary shall carry out the pilot program through a non-Department entity described in paragraph (1) pursuant to a contract or other agreement entered into by the Secretary and the entity for purposes of the pilot program.
 
->     “(d) __Commencement of Pilot Program.—__ 
+>     “(d)  __Commencement of Pilot Program__  __.—__ 
 
 >     The pilot program shall commence not later than 180 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
->     “(e) __Duration of Pilot Program.—__ 
+>     “(e)  __Duration of Pilot Program__  __.—__ 
 
 >     The pilot program shall be carried out during the three-year period beginning on the date of the commencement of the pilot program, and may be carried out for additional one-year periods thereafter.
 
 >     “(f) __Location of Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall provide assistance under the pilot program in cooperation with 10 centers described in subsection (a) designated by the Secretary for purposes of the pilot program.
 
->         “(2) __Designations.—__ 
+>         “(2)  __Designations__  __.—__ 
 
 >         In designating centers described in subsection (a) for purposes of the pilot program, the Secretary shall designate centers so as to provide a balanced geographical representation of such centers throughout the United States, including the District of Columbia, the Commonwealth of Puerto Rico, tribal lands, and other territories and possessions of the United States.
 
->     “(g) __Participation of Centers.—__ 
+>     “(g)  __Participation of Centers__  __.—__ 
 
 >     A center described in subsection (a) that is designated under subsection (f) for participation in the pilot program shall participate in the pilot program by promoting awareness of the assistance and training available to veterans and their families through—
 
@@ -843,17 +843,17 @@
 
 >         “(3) other appropriate mechanisms.
 
->     “(h) __Additional Support.—__ 
+>     “(h)  __Additional Support__  __.—__ 
 
 >     In carrying out the pilot program, the Secretary may enter into contracts or other agreements, in addition to the contract or agreement described in subsection (c), with such other non-Department of Veterans Affairs entities meeting the requirements of subsection (c) as the Secretary considers appropriate for purposes of the pilot program.
 
 >     “(i) __Report on Pilot Program.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than three years after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary shall submit to the congressional veterans affairs committees a report on the pilot program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report under paragraph (1) shall include the following:
 
@@ -863,7 +863,7 @@
 
 >             “(C) Any recommendations that the Secretary considers appropriate for the extension or expansion of the pilot program.
 
->         “(3) __Congressional veterans affairs committees defined.—__ 
+>         “(3)  __Congressional veterans affairs committees defined__  __.—__ 
 
 >         In this subsection, the term ‘congressional veterans affairs committees’ means—
 
@@ -873,11 +873,11 @@
 
 >     “(j) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated for the Department of Veterans Affairs for each of fiscal years 2009 through 2011 $1,000,000 to carry out this section.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts authorized to be appropriated by paragraph (1) shall remain available until expended.”
 
@@ -887,11 +887,11 @@
 
 >     “(a) __Required Capacity for Community-Based Outpatient Clinics.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall ensure that each community-based outpatient clinic of the Department of Veterans Affairs has the capacity to provide, or monitor the provision of, mental health services to enrolled veterans who, as determined by the Secretary, are in need of such services.
 
->         “(2) __Settings.—__ 
+>         “(2)  __Settings__  __.—__ 
 
 >         In carrying out paragraph (1), the Secretary shall ensure that mental health services are provided through—
 
@@ -905,7 +905,7 @@
 
 >     “(b) __Clinical Training and Protocols.—__ 
 
->         “(1) __Collaboration.—__ 
+>         “(1)  __Collaboration__  __.—__ 
 
 >         The National Center on Post-Traumatic Stress Disorder of the Department of Veterans Affairs shall collaborate with the Secretary of Defense—
 
@@ -913,11 +913,11 @@
 
 >             “(B) to promote pre-deployment resilience and post-deployment readjustment among members of the Armed Forces serving in Operation Iraqi Freedom and Operation Enduring Freedom.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated for the Department of Veterans Affairs for fiscal year 2007 $2,000,000 to carry out this subsection.
 
->     “(c) __Mental Health Outreach.—__ 
+>     “(c)  __Mental Health Outreach__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall—
 
@@ -925,7 +925,7 @@
 
 >         “(2) undertake additional efforts to educate veterans about post-traumatic stress disorder.
 
->     “(d) __Review of PTSD Clinical Guidelines.—__ 
+>     “(d)  __Review of PTSD Clinical Guidelines__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall—
 
@@ -939,11 +939,11 @@
 
 [Pub. L. 109–461, title II, § 205][/us/pl/109/461/s205], Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall increase the number of facilities of the Readjustment Counseling Service that are capable of providing health services and counseling through telehealth linkages with facilities of the Veterans Health Administration.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     Not later than July 1, 2007, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a plan to implement the requirement in subsection (a). The plan shall specify which facilities of the Readjustment Counseling Service will have the capabilities described in subsection (a) as of the end of each of fiscal years 2007, 2008, and 2009.”
 
@@ -951,23 +951,23 @@
 
 [Pub. L. 109–461, title II, § 215][/us/pl/109/461/s215], Dec. 22, 2006, [120 Stat. 3424][/us/stat/120/3424], provided that:
 
->     “(a) __Additional Outreach Workers.—__ 
+>     “(a)  __Additional Outreach Workers__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall employ not fewer than 100 veterans for the purpose of providing outreach to veterans on the availability of readjustment counseling and related mental health services for veterans under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code.
 
->     “(b) __Construction With Current Outreach Program.—__ 
+>     “(b)  __Construction With Current Outreach Program__  __.—__ 
 
 >     The veterans employed under subsection (a) are in addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
 
->     “(c) __Assignment to Vet Centers.—__ 
+>     “(c)  __Assignment to Vet Centers__  __.—__ 
 
 >     The Secretary may assign any veteran employed under subsection (a) to any center for the provision of readjustment counseling and related mental health services under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
 
->     “(d) __Inapplicability and Termination of Limitation on Duration of Employment.—__ 
+>     “(d)  __Inapplicability and Termination of Limitation on Duration of Employment__  __.—__ 
 
 >     Any limitation on the duration of employment of veterans under the program described in subsection (b) is hereby terminated and shall not apply to veterans employed under such program or under this section.
 
->     “(e) __Employment Status.—__ 
+>     “(e)  __Employment Status__  __.—__ 
 
 >     Veterans employed under subsection (a) shall be employed in career conditional status, which is the employment status in which veterans are employed under the program described in subsection (b).”
 
@@ -975,15 +975,15 @@
 
 [Pub. L. 106–419, title II, § 212][/us/pl/106/419/s212], Nov. 1, 2000, [114 Stat. 1843][/us/stat/114/1843], provided that:
 
->     “(a) __Study on Post-Traumatic Stress Disorder.—__ 
+>     “(a)  __Study on Post-Traumatic Stress Disorder__  __.—__ 
 
 >     Not later than 10 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Veterans Affairs shall enter into a contract with an appropriate entity to carry out a study on post-traumatic stress disorder.
 
->     “(b) __Follow-Up Study.—__ 
+>     “(b)  __Follow-Up Study__  __.—__ 
 
 >     The contract under subsection (a) shall provide for a follow-up study to the study conducted in accordance with section 102 of the Veterans Health Care Amendments of 1983 ([Public Law 98–160][/us/pl/98/160]) \[set out as a note below\]. Such follow-up study shall use the data base and sample of the previous study.
 
->     “(c) __Information To Be Included.—__ 
+>     “(c)  __Information To Be Included__  __.—__ 
 
 >     The study conducted pursuant to this section shall be designed to yield information on—
 
@@ -995,7 +995,7 @@
 
 >         “(4) the services used by veterans who have post-traumatic stress disorder and the effect of those services on the course of the disorder.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004.”
 
@@ -1003,11 +1003,11 @@
 
 [Pub. L. 106–117, title I, § 116][/us/pl/106/117/s116], Nov. 30, 1999, [113 Stat. 1559][/us/stat/113/1559], as amended by [Pub. L. 108–170, title I, § 108][/us/pl/108/170/s108], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
 
->     “(a) __Improvement to Specialized Mental Health Services.—__ 
+>     “(a)  __Improvement to Specialized Mental Health Services__  __.—__ 
 
 >     The Secretary \[of Veterans Affairs\], in furtherance of the responsibilities of the Secretary under [section 1706(b) of title 38][/us/usc/t38/s1706/b], United States Code, shall carry out a program to expand and improve the provision of specialized mental health services to veterans. The Secretary shall establish the program in consultation with the Committee on Care of Severely Chronically Mentally Ill Veterans established pursuant to [section 7321 of title 38][/us/usc/t38/s7321], United States Code.
 
->     “(b) __Covered Programs.—__ 
+>     “(b)  __Covered Programs__  __.—__ 
 
 >     For purposes of this section, the term ‘specialized mental health services’ includes programs relating to—
 
@@ -1015,7 +1015,7 @@
 
 >         “(2) substance use disorders.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >         (1) In carrying out the program described in subsection (a), the Secretary shall identify, from funds available to the Department \[of Veterans Affairs\] for medical care, an amount of not less than $25,000,000 in each of fiscal years 2004, 2005, and 2006 to be available to carry out the program and to be allocated to facilities of the Department pursuant to subsection (d).
 
@@ -1027,7 +1027,7 @@
 
 >             “(B) For purposes of this paragraph, in fiscal years 2004, 2005, and 2006, the fiscal year used to determine the baseline amount shall be fiscal year 2003.
 
->     “(d) __Allocation of Funds to Department Facilities.—__ 
+>     “(d)  __Allocation of Funds to Department Facilities__  __.—__ 
 
 >         (1) In each of fiscal years 2004, 2005, and 2006, the Secretary shall allocate funds identified pursuant to subsection (c)(1) to individual medical facilities of the Department as the Secretary determines appropriate based upon proposals submitted by those facilities for the use of those funds for improvements to specialized mental health services.
 
@@ -1043,7 +1043,7 @@
 
 >         “(3) The Secretary shall provide that the funds to be allocated under this section during each of fiscal years 2004, 2005, and 2006 are funds for a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information on the allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans.”
 
@@ -1051,11 +1051,11 @@
 
 [Pub. L. 102–405, title I, § 121][/us/pl/102/405/s121], Oct. 9, 1992, [106 Stat. 1978][/us/stat/106/1978], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     Subject to the availability of funds appropriated pursuant to the authorization in subsection (g), the Secretary shall conduct a program to furnish to the persons referred to in subsection (b) the marriage and family counseling services referred to in subsection (c). The authority to conduct the program shall expire on September 30, 1994.
 
->     “(b) __Persons Eligible for Counseling.—__ 
+>     “(b)  __Persons Eligible for Counseling__  __.—__ 
 
 >     The persons eligible to receive marriage and family counseling services under the program are—
 
@@ -1063,11 +1063,11 @@
 
 >         “(2) veterans who are or were members of the reserve components who were called or ordered to active duty during the Persian Gulf War and the spouses and children of such members.
 
->     “(c) __Counseling Services.—__ 
+>     “(c)  __Counseling Services__  __.—__ 
 
 >     Under the program, the Secretary may provide marriage and family counseling that the Secretary determines, based on an assessment by a mental-health professional employed by the Department and designated by the Secretary (or, in an area where no such professional is available, a mental-health professional designated by the Secretary and performing services under a contract or fee arrangement with the Secretary), is necessary for the amelioration of psychological, marital, or familial difficulties that result from the active duty service referred to in subsection (b)(1) or (2).
 
->     “(d) __Manner of Furnishing Services.—__ 
+>     “(d)  __Manner of Furnishing Services__  __.—__ 
 
 >         (1)
 
@@ -1083,7 +1083,7 @@
 
 >         “(3) The Secretary may employ licensed or certified marriage and family counselors to provide counseling under paragraph (1)(B) and may classify the positions in which they are employed at levels determined appropriate by the Secretary, taking into consideration the training, experience, and licensure or certification required of such counselors.
 
->     “(e) __Contract Counseling Services.—__ 
+>     “(e)  __Contract Counseling Services__  __.—__ 
 
 >         (1)
 
@@ -1129,15 +1129,15 @@
 
 >             “(B) The Secretary shall prescribe an appropriate form for the treatment plan.
 
->     “(f) __Cost Recovery.—__ 
+>     “(f)  __Cost Recovery__  __.—__ 
 
 >     For the purposes of [section 1729 of title 38][/us/usc/t38/s1729], United States Code, marriage and family counseling services furnished under the program shall be deemed to be care and services furnished by the Department under chapter 17 of such title, and the United States shall be entitled to recover or collect the reasonable cost of such services in accordance with that section.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $10,000,000 for each of fiscal years 1993 and 1994 to carry out this section.
 
->     “(h) __Report.—__ 
+>     “(h)  __Report__  __.—__ 
 
 >     Not later than July 1, 1994, the Secretary shall submit to Congress a report on the program conducted pursuant to this section. The report shall contain information regarding the persons furnished counseling services under the program, including—
 
@@ -1149,7 +1149,7 @@
 
 >         “(4) the number of counseling sessions furnished to such persons.
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     For the purposes of this section, the terms ‘veteran’, ‘child’, ‘active duty’, ‘reserve component’, ‘spouse’, and ‘Persian Gulf War’ have the meanings given such terms in paragraphs 101(2), (4), (21), (27), (31), and (33) of [section 101 of title 38][/us/usc/t38/s101], United States Code, respectively.”
 
@@ -1157,7 +1157,7 @@
 
 [Pub. L. 102–405, title I, § 123][/us/pl/102/405/s123], Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], provided that:
 
->     “(a) __Plan.—__ 
+>     “(a)  __Plan__  __.—__ 
 
 >     The Secretary shall develop a plan—
 
@@ -1171,7 +1171,7 @@
 
 >         “(5) to ensure, to the extent practicable, that there are Department post-traumatic stress disorder treatment units in locations that are readily accessible to veterans residing in rural areas of the United States.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In developing the plan referred to in subsection (a), the Secretary shall consider—
 
@@ -1189,11 +1189,11 @@
 
 >         “(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed for each of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Oct. 9, 1992\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the plan developed pursuant to subsection (a). The report shall include specific information relating to the consideration given to the matters described in subsection (b).
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 

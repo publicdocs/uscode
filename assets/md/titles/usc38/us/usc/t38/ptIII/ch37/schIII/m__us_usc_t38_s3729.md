@@ -15,13 +15,13 @@
 
 ## § 3729. Loan fee
 
-    (a) __Requirement of Fee.—__ 
+    (a)  __Requirement of Fee__  __.—__ 
 
         (1) Except as provided in subsection (c), a fee shall be collected from each person obtaining a housing loan guaranteed, insured, or made under this chapter, and each person assuming a loan to which [section 3714 of this title][/us/usc/t38/s3714] applies. No such loan may be guaranteed, insured, made, or assumed until the fee payable under this section has been remitted to the Secretary.
 
         (2) The fee may be included in the loan and paid from the proceeds thereof.
 
-    (b) __Determination of Fee.—__ 
+    (b)  __Determination of Fee__  __.—__ 
 
         (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
@@ -403,7 +403,7 @@
 
             (I) The term “10-down” means a downpayment of 10 percent or more of the total purchase price or construction cost of the dwelling.
 
-    (c) __Waiver of Fee.—__ 
+    (c)  __Waiver of Fee__  __.—__ 
 
         (1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
@@ -599,11 +599,11 @@
 
 [Pub. L. 107–330, title III, § 307][/us/pl/107/330/s307], Dec. 6, 2002, [116 Stat. 2827][/us/stat/116/2827], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For the period described in subsection (b), the Secretary of Veterans Affairs shall apply [section 3729(b)(2)(I) of title 38][/us/usc/t38/s3729/b/2/I], United States Code, by substituting ‘1.00’ for ‘0.50’ each place it appears.
 
->     “(b) __Period Described.—__ 
+>     “(b)  __Period Described__  __.—__ 
 
 >     The period referred to in subsection (a) is the period that begins on the date that is 7 days after the date of the enactment of this Act \[Dec. 6, 2002\] and ends on September 30, 2003.”
 

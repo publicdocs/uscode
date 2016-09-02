@@ -15,15 +15,15 @@
 
 ## § 118. Submission of reports to Congress in electronic form
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whenever the Secretary or any other official of the Department is required by law to submit to Congress (or any committee of either chamber of Congress) a report, the Secretary or other official shall submit to Congress (or such committee) a copy of the report in an electronic format.
 
-    (b) __Treatment.—__ 
+    (b)  __Treatment__  __.—__ 
 
     The submission of a copy of a report in accordance with this section shall be treated as meeting any requirement of law to submit such report to Congress (or any committee of either chamber of Congress).
 
-    (c) __Report Defined.—__ 
+    (c)  __Report Defined__  __.—__ 
 
     For purposes of this section, the term “report” includes any certification, notification, or other communication in writing.
 

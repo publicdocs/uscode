@@ -15,7 +15,7 @@
 
 ## § 7327. Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     The purpose of this section is to provide for the improvement of the provision of health care services and related rehabilitation and education services to eligible veterans suffering from complex multi-trauma associated with combat injuries through—
 
@@ -25,7 +25,7 @@
 
         (3) the education and training of health care personnel of the Department with respect to the provision of such services.
 
-    (b) __Designation of Centers.—__ 
+    (b)  __Designation of Centers__  __.—__ 
 
         (1) The Secretary shall designate an appropriate number of cooperative centers for clinical care, consultation, research, and education activities on combat injuries.
 
@@ -59,7 +59,7 @@
 
         (5) The Secretary may designate a center under paragraph (1) only if the center meets the requirements of subsection (c).
 
-    (c) __Requirements for Centers.—__ 
+    (c)  __Requirements for Centers__  __.—__ 
 
     To be designated as a center under this section, a facility shall—
 
@@ -81,7 +81,7 @@
 
         (9) provide comprehensive general rehabilitation.
 
-    (d) __Additional Resources.—__ 
+    (d)  __Additional Resources__  __.—__ 
 
     The Secretary shall provide each center designated under this section such resources as the Secretary determines to be required by such center to achieve adequate capability of managing individuals with complex multi-trauma, including—
 
@@ -93,7 +93,7 @@
 
         (4) employing or securing additional rehabilitation nursing staff to meet care needs.
 
-    (e) __Cooperation With Department of Defense.—__ 
+    (e)  __Cooperation With Department of Defense__  __.—__ 
 
         (1)
 
@@ -105,21 +105,21 @@
 
         (2) Assistance shall be provided under this subsection through agreements for the sharing of health-care resources under [section 8111 of this title][/us/usc/t38/s8111].
 
-    (f) __Award of Funding.—__ 
+    (f)  __Award of Funding__  __.—__ 
 
     Centers designated under this section may compete for the award of funding from amounts appropriated for the Department for medical and prosthetics research.
 
-    (g) __Dissemination of Information.—__ 
+    (g)  __Dissemination of Information__  __.—__ 
 
         (1) The Under Secretary for Health shall ensure that information produced by the centers designated under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Administration.
 
         (2) Information shall be disseminated under this subsection through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means.
 
-    (h) __National Oversight.—__ 
+    (h)  __National Oversight__  __.—__ 
 
     The Under Secretary for Health shall designate an appropriate officer to oversee the operation of the centers designated under this section and provide for periodic evaluation of the centers.
 
-    (i) __Authorization of Appropriations.—__ 
+    (i)  __Authorization of Appropriations__  __.—__ 
 
         (1)
 
@@ -137,15 +137,15 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 723, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.
 
->     “(b) __Partnerships.—__ 
+>     “(b)  __Partnerships__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that the center collaborates with the Department of Defense, the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     The center shall have the responsibilities as follows:
 
@@ -157,11 +157,11 @@
 
 >     “(d) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to Congress a report on the activities of the center.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report under this subsection shall include the following:
 

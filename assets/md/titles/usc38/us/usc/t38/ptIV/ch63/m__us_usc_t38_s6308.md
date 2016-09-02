@@ -15,11 +15,11 @@
 
 ## § 6308. Biennial report to Congress
 
-    (a) __Report Required.—__ 
+    (a)  __Report Required__  __.—__ 
 
     The Secretary shall, not later than December 1 of every even-numbered year (beginning in 2008), submit to Congress a report on the outreach activities carried out by the Department.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     Each report under this section shall include the following:
 

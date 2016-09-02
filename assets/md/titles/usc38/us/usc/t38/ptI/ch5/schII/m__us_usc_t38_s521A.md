@@ -15,15 +15,15 @@
 
 ## § 521A. Assistance for United States Olympic Committee
 
-    (a) __Authorization to Provide Assistance.—__ 
+    (a)  __Authorization to Provide Assistance__  __.—__ 
 
     The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.
 
-    (b) __Oversight by Secretary.—__ 
+    (b)  __Oversight by Secretary__  __.—__ 
 
     As a condition of receiving a grant under this section, the United States Olympic Committee shall permit the Secretary to conduct such oversight of the use of grant funds as the Secretary determines is appropriate. The United States Olympic Committee shall be responsible for the use of grant funds provided under this section.
 
-    (c) __Application Requirement.—__ 
+    (c)  __Application Requirement__  __.—__ 
 
         (1) Before the Secretary may award a grant to the United States Olympic Committee under this section, the United States Olympic Committee shall submit to the Secretary an application that describes the activities to be carried out with the grant, including information on specific measurable goals and objectives to be achieved using grant funds.
 
@@ -37,7 +37,7 @@
 
         (3) Partnerships referred to in this paragraph are agreements between the United States Olympic Committee and organizations with significant experience in the training and support of disabled athletes and the promotion of disabled sports at the local and national levels. Such organizations may include Disabled Sports USA, Blaze Sports, Paralyzed Veterans of America, and Disabled American Veterans. The agreements shall detail the scope of activities and funding to be provided by the United States Olympic Committee to the partner.
 
-    (d) __Use of Funds.—__ 
+    (d)  __Use of Funds__  __.—__ 
 
         (1) The United States Olympic Committee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(3), shall use a grant under this section to reimburse grantees with which the United States Olympic Committee has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
 
@@ -69,27 +69,27 @@
 
         (5) Funds made available by the United States Olympic Committee to a grantee under subsection (c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
 
-    (e) __Outreach Requirement.—__ 
+    (e)  __Outreach Requirement__  __.—__ 
 
     As a condition of receiving a grant under this section, the United States Olympic Committee shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the integrated adaptive sports program, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans and separating members of the Armed Forces in programs under this section to the extent possible.
 
-    (f) __Coordination.—__ 
+    (f)  __Coordination__  __.—__ 
 
     The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in the integrated adaptive sports program to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
 
-    (g) __Authorization of Appropriations.—__ 
+    (g)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 1 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
-    (h) __Separate Accounting.—__ 
+    (h)  __Separate Accounting__  __.—__ 
 
     The Department shall have a separate line item in budget proposals of the Department for funds to be appropriated to carry out this section. Funds appropriated to carry out this section shall not be commingled with any other funds appropriated to the Department.
 
-    (i) __Limitation on Use of Funds.—__ 
+    (i)  __Limitation on Use of Funds__  __.—__ 
 
     Except as provided in paragraphs (4) and (5) of subsection (d), funds appropriated to carry out this section may not be used to support or provide services to individuals who are not disabled veterans or disabled members of the Armed Forces.
 
-    (j) __Annual Report to Secretary.—__ 
+    (j)  __Annual Report to Secretary__  __.—__ 
 
         (1) As a condition of receiving a grant under this section, the United States Olympic Committee shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the United States Olympic Committee shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the integrated adaptive sports program, including any programs carried out through a partnership under subsection (c)(3), and the administrative expenses of the integrated adaptive sports program.
 
@@ -97,15 +97,15 @@
 
         (3) For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.
 
-    (k) __Annual Report to Congress.—__ 
+    (k)  __Annual Report to Congress__  __.—__ 
 
     For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-    (l) __Termination.—__ 
+    (l)  __Termination__  __.—__ 
 
     The Secretary may not provide assistance under this section after December 31, 2013.
 
-    (m) __Applicability to Commonwealths and Territories of United States.—__ 
+    (m)  __Applicability to Commonwealths and Territories of United States__  __.—__ 
 
     The provisions of this section and [section 322 of this title][/us/usc/t38/s322] shall apply with respect to the following in the same manner and to the same degree as the United States Olympic Committee:
 

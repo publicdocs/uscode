@@ -33,7 +33,7 @@
 
 >     “(a) __Establishment of Registry.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Veterans Affairs shall—
 
@@ -45,13 +45,13 @@
 
 >             “(D) periodically notify eligible individuals of significant developments in the study and treatment of conditions associated with exposure to toxic airborne chemicals and fumes caused by open burn pits.
 
->         “(2) __Coordination.—__ 
+>         “(2)  __Coordination__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense in carrying out paragraph (1).
 
 >     “(b) __Report to Congress.—__ 
 
->         “(1) __Reports by independent scientific organization.—__ 
+>         “(1)  __Reports by independent scientific organization__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall enter into an agreement with an independent scientific organization to prepare reports as follows:
 
@@ -75,19 +75,19 @@
 
 >         “(2) __Submittal to congress.—__ 
 
->             “(A) __Initial report.—__ 
+>             “(A)  __Initial report__  __.—__ 
 
 >             Not later than two years after the date on which the registry under subsection (a) is established, the Secretary of Veterans Affairs shall submit to Congress the initial report prepared under paragraph (1)(A).
 
->             “(B) __Follow-up report.—__ 
+>             “(B)  __Follow-up report__  __.—__ 
 
 >             Not later than five years after submitting the report under subparagraph (A), the Secretary of Veterans Affairs shall submit to Congress the follow-up report prepared under paragraph (1)(B).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Eligible individual.—__ 
+>         “(1)  __Eligible individual__  __.—__ 
 
 >         The term ‘eligible individual’ means any individual who, on or after September 11, 2001—
 
@@ -95,7 +95,7 @@
 
 >             “(B) during such deployment, was based or stationed at a location where an open burn pit was used.
 
->         “(2) __Open burn pit.—__ 
+>         “(2)  __Open burn pit__  __.—__ 
 
 >         The term ‘open burn pit’ means an area of land located in Afghanistan or Iraq that—
 
@@ -113,11 +113,11 @@
 
 > “SEC. 702. __PERSIAN GULF WAR VETERANS HEALTH REGISTRY.__ 
 
->     “(a) __Establishment of Registry.—__ 
+>     “(a)  __Establishment of Registry__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the ‘Persian Gulf War Veterans Health Registry’ (in this section referred to as the ‘Registry’).
 
->     “(b) __Contents of Registry.—__ 
+>     “(b)  __Contents of Registry__  __.—__ 
 
 >     Except as provided in subsection (c), the Registry shall include the following information:
 
@@ -143,25 +143,25 @@
 
 >             “(B) at the time the individual is listed in the Registry, is deceased.
 
->     “(c) __Individuals Submitting Claims or Making Requests Before Date of Enactment.—__ 
+>     “(c)  __Individuals Submitting Claims or Making Requests Before Date of Enactment__  __.—__ 
 
 >     If in the case of an individual described in subsection (b)(1) the application, claim, or request referred to in such subsection was submitted, filed, or made, before the date of the enactment of this Act \[Nov. 4, 1992\], the Secretary shall, to the extent feasible, include in the Registry such individual’s name and the data and information, if any, described in subsection (b)(2) relating to the individual.
 
->     “(d) __Department of Defense Information.—__ 
+>     “(d)  __Department of Defense Information__  __.—__ 
 
 >     The Secretary of Defense shall furnish to the Secretary of Veterans Affairs such information maintained by the Department of Defense as the Secretary of Veterans Affairs considers necessary to establish and maintain the Registry.
 
->     “(e) __Relation to Department of Defense Registry.—__ 
+>     “(e)  __Relation to Department of Defense Registry__  __.—__ 
 
 >     The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([Public Law 102–190][/us/pl/102/190]; [105 Stat. 1411][/us/stat/105/1411]; [10 U.S.C. 1074][/us/usc/t10/s1074] note), as amended by section 704.
 
->     “(f) __Ongoing Outreach to Individuals Listed in Registry.—__ 
+>     “(f)  __Ongoing Outreach to Individuals Listed in Registry__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall, from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 > “SEC. 703. __HEALTH EXAMINATIONS AND COUNSELING FOR VETERANS ELIGIBLE FOR INCLUSION IN CERTAIN HEALTH-RELATED REGISTRIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1)
 
@@ -173,7 +173,7 @@
 
 >         “(2) The Secretary shall carry out appropriate outreach activities with respect to the provision of any health examinations (including any diagnostic tests) and consultation and counseling services under paragraph (1).
 
->     “(b) __Covered Veterans.—__ 
+>     “(b)  __Covered Veterans__  __.—__ 
 
 >         (1) In accordance with subsection (a)(1)(A), the Secretary shall provide an examination (including diagnostic tests), consultation, and counseling under that subsection to any veteran who is eligible for listing or inclusion in the Persian Gulf War Veterans Health Registry established by section 702.
 
@@ -185,7 +185,7 @@
 
 > “SEC. 705. __STUDY BY OFFICE OF TECHNOLOGY ASSESSMENT OF PERSIAN GULF REGISTRY AND PERSIAN GULF WAR VETERANS HEALTH REGISTRY.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Director of the Office of Technology Assessment shall, in a manner consistent with the Technology Assessment Act of 1972 ([2 U.S.C. 472(d)][/us/usc/t2/s472/d] \[[2 U.S.C. 471][/us/usc/t2/s471] et seq.\]), assess—
 
@@ -207,11 +207,11 @@
 
 >         “(6) the adequacy and compatibility of protocols for the health examinations and counseling provided under section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
 
->     “(b) __Access to Information.—__ 
+>     “(b)  __Access to Information__  __.—__ 
 
 >     The Secretary of Veterans Affairs and the Secretary of Defense shall provide the Director with access to such records and information under the jurisdiction of each such secretary as the Director determines necessary to permit the Director to carry out the study required under this section.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     The Director shall—
 
@@ -219,7 +219,7 @@
 
 >         “(2) not later than 15 months after such date, submit to Congress a report on the results of the assessment carried out under this section of the Persian Gulf War Veterans Health Registry.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 
@@ -229,7 +229,7 @@
 
 > “SEC. 706. __AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES FOR REVIEW OF HEALTH CONSEQUENCES OF SERVICE DURING THE PERSIAN GULF WAR.__ 
 
->     “(a) __Agreement.—__ 
+>     “(a)  __Agreement__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
@@ -239,7 +239,7 @@
 
 >         “(4) The Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into the agreement under this section not later than 180 days after the date of the enactment of this Act \[Nov. 4, 1992\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >         (1)
 
@@ -263,7 +263,7 @@
 
 >             “(D) The Secretary of Defense.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs and the Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts.
 
@@ -275,7 +275,7 @@
 
 >             “(B) the Secretary of Defense shall make available $250,000 in each of fiscal years 1994 through 2003, from amounts available to the Department of Defense in each such fiscal year, to the National Academy of Sciences for the purposes of carrying out the research referred to in subparagraph (A).
 
->     “(d) __Research Review and Development of Medical Education Curriculum.—__ 
+>     “(d)  __Research Review and Development of Medical Education Curriculum__  __.—__ 
 
 >         (1)
 
@@ -291,15 +291,15 @@
 
 > “SEC. 707. __COORDINATION OF HEALTH-RELATED GOVERNMENT ACTIVITIES ON THE PERSIAN GULF WAR.__ 
 
->     “(a) __Designation of Coordinating Organization.—__ 
+>     “(a)  __Designation of Coordinating Organization__  __.—__ 
 
 >     The President shall designate, and may redesignate from time to time, the head of an appropriate department or agency of the Federal Government to coordinate all activities undertaken or funded by the Executive Branch of the Federal Government on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
->     “(b) __Public Advisory Committee.—__ 
+>     “(b)  __Public Advisory Committee__  __.—__ 
 
 >     Not later than January 1, 1999, the head of the department or agency designated under subsection (a) shall establish an advisory committee consisting of members of the general public, including Persian Gulf War veterans and representatives of such veterans, to provide advice to the head of that department or agency on proposed research studies, research plans, or research strategies relating to the health consequences of military service in the Southwest Asia theater of operations during the Persian Gulf War. The department or agency head shall consult with such advisory committee on a regular basis.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -315,11 +315,11 @@
 
 >             “(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
->     “(d) __Public Availability of Research Findings.—__ 
+>     “(d)  __Public Availability of Research Findings__  __.—__ 
 
 >     The head of the department or agency designated under subsection (a) shall ensure that the findings of all research conducted by or for the executive branch relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War (including information pertinent to improving provision of care for veterans of such service) are made available to the public through peer-reviewed medical journals, the World Wide Web, and other appropriate media.
 
->     “(e) __Outreach.—__ 
+>     “(e)  __Outreach__  __.—__ 
 
 >     The head of the department or agency designated under subsection (a) shall ensure that the appropriate departments consult and coordinate in carrying out an ongoing program to provide information to those who served in the Southwest Asia theater of operations during the Persian Gulf War relating to: (1) the health risks, if any, resulting from any risk factors associated with such service; and (2) any services or benefits available with respect to such health risks.
 

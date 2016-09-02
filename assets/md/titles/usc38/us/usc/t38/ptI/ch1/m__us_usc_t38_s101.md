@@ -437,6 +437,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–52, § 1][/us/pl/113/52/s1], Nov. 21, 2013, [127 Stat. 582][/us/stat/127/582], provided that: 
+
+> “This Act \[enacting provisions set out as notes under [section 1114 of this title][/us/usc/t38/s1114]\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2013’.”
+
 [Pub. L. 113–37, § 1][/us/pl/113/37/s1], Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523], provided that: 
 
 > “This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and [section 653 of Title 42][/us/usc/t42/s653], The Public Health and Welfare, enacting provisions set out as a note under [section 322 of this title][/us/usc/t38/s322], and amending provisions set out as a note under [section 1710 of this title][/us/usc/t38/s1710]\] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2013’.”
@@ -1245,23 +1249,23 @@
 
 [Pub. L. 102–83, § 5][/us/pl/102/83/s5], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
->     “(a) __Redesignation of Sections To Conform To Chapter Numbers.—__ 
+>     “(a)  __Redesignation of Sections To Conform To Chapter Numbers__  __.—__ 
 
 >     Each section contained in any of chapters 11 through 23 is redesignated by replacing the first digit of the section number with the number of the chapter containing that section. Each section contained in any of chapters 24 through 42 is redesignated so that the first two digits of the section number of that section are the same as the chapter number of the chapter containing that section.
 
->     “(b) __Tables of Sections and Chapters.—__ 
+>     “(b)  __Tables of Sections and Chapters__  __.—__ 
 
 >         (1) The tables of sections at the beginning of the chapters referred to in subsection (a) are revised so as to conform the section references in those tables to the redesignations made by that subsection.
 
 >         “(2) The table of chapters before part I and the tables of chapters at the beginning of parts I, II, and III are revised so as to conform the section references in those tables to the redesignations made by subsection (a).
 
->     “(c) __Cross-References.—__ 
+>     “(c)  __Cross-References__  __.—__ 
 
 >         (1) Each provision of title 38, United States Code, that contains a reference to a section redesignated by subsection (a) is amended so that the reference refers to the section as redesignated.
 
 >         “(2) Any reference in a provision of law other than title 38, United States Code, to a section redesignated by subsection (a) shall be deemed to refer to the section as so redesignated.
 
->     “(d) __Rule for Execution.—__ 
+>     “(d)  __Rule for Execution__  __.—__ 
 
 >     The redesignations made by subsection (a) and the amendments made by subsections (b) and (c) shall be executed after any other amendments made by this Act \[see Tables for classification\].”
 
@@ -1519,6 +1523,9 @@
 [/us/stat/81/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F191
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
+[/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F52%2Fs1
+[/us/stat/127/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F582
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/113/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs1
 [/us/stat/127/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F523

@@ -15,7 +15,7 @@
 
 ## § 6107. Reissuance of benefits
 
-    (a) __Negligent Failure by Secretary.—__ 
+    (a)  __Negligent Failure by Secretary__  __.—__ 
 
         (1) In any case in which the negligent failure of the Secretary to investigate or monitor a fiduciary results in misuse of benefits by the fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of benefits that were so misused.
 
@@ -29,7 +29,7 @@
 
             (C) In any other case in which actual negligence is shown.
 
-    (b) __Reissuance of Misused Benefits in Other Cases.—__ 
+    (b)  __Reissuance of Misused Benefits in Other Cases__  __.—__ 
 
         (1) In any case in which a fiduciary described in paragraph (2) misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
 
@@ -43,11 +43,11 @@
 
         (3) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
 
-    (c) __Limitation on Total Amount Paid.—__ 
+    (c)  __Limitation on Total Amount Paid__  __.—__ 
 
     The total of the amounts paid to a beneficiary (or a beneficiary’s successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 
-    (d) __Recoupment of Amounts Reissued.—__ 
+    (d)  __Recoupment of Amounts Reissued__  __.—__ 
 
     In any case in which the Secretary reissues a benefit payment (in whole or in part) under subsection (a) or (b), the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
 

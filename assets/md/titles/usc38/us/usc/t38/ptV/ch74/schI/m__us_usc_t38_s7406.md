@@ -95,11 +95,11 @@
 
 [Pub. L. 112–154, title I, § 108(b)][/us/pl/112/154/s108/b], Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall, to the extent feasible, offer medical residents opportunities in training in telemedicine for medical residency programs. The Secretary shall consult with the Accreditation Council for Graduate Medical Education and with universities with which facilities of the Department have a major affiliation to determine the feasibility and advisability of making telehealth a mandatory component of medical residency programs.
 
->     “(2) __Telemedicine defined.—__ 
+>     “(2)  __Telemedicine defined__  __.—__ 
 
 >     In this subsection, the term ‘telemedicine’ means the use by a health care provider of telecommunications to assist in the diagnosis or treatment of a patient’s medical condition.”
 

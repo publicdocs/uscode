@@ -31,7 +31,7 @@
 
 [Pub. L. 111–163, title V, § 506][/us/pl/111/163/s506], May 5, 2010, [124 Stat. 1160][/us/stat/124/1160], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of using community-based organizations and local and State government entities—
 
@@ -43,17 +43,17 @@
 
 >         “(4) to provide outreach to veterans and their families to inform them about the availability of benefits and connect them with appropriate care and benefit programs.
 
->     “(b) __Duration of Program.—__ 
+>     “(b)  __Duration of Program__  __.—__ 
 
 >     The pilot program shall be carried out during the 2-year period beginning on the date that is 180 days after the date of the enactment of this Act \[May 5, 2010\].
 
 >     “(c) __Program Locations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The pilot program shall be carried out at five locations selected by the Secretary for purposes of the pilot program.
 
->         “(2) __Considerations.—__ 
+>         “(2)  __Considerations__  __.—__ 
 
 >         In selecting locations for the pilot program, the Secretary shall consider the advisability of selecting locations in—
 
@@ -65,17 +65,17 @@
 
 >             “(D) areas that are not in close proximity to an active duty military installation.
 
->     “(d) __Grants.—__ 
+>     “(d)  __Grants__  __.—__ 
 
 >     The Secretary shall carry out the pilot program through the award of grants to community-based organizations and local and State government entities.
 
 >     “(e) __Selection of Grant Recipients.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A community-based organization or local or State government entity seeking a grant under the pilot program shall submit to the Secretary an application therefor in such form and in such manner as the Secretary considers appropriate.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each application submitted under paragraph (1) shall include the following:
 
@@ -83,17 +83,17 @@
 
 >             “(B) A plan to coordinate activities under the pilot program, to the greatest extent possible, with the local, State, and Federal providers of services for veterans to reduce duplication of services and to enhance the effect of such services.
 
->     “(f) __Use of Grant Funds.—__ 
+>     “(f)  __Use of Grant Funds__  __.—__ 
 
 >     The Secretary shall prescribe appropriate uses of grant funds received under the pilot program.
 
 >     “(g) __Report on Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 

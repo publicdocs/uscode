@@ -201,7 +201,7 @@
 
 [Pub. L. 108–422, title VI, § 602][/us/pl/108/422/s602], Nov. 30, 2004, [118 Stat. 2397][/us/stat/118/2397], provided that:
 
->     “(a) __Inventory.—__ 
+>     “(a)  __Inventory__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish and maintain a national inventory of medical waste management activities in the health care facilities of the Department of Veterans Affairs. The inventory shall include the following:
 
@@ -209,7 +209,7 @@
 
 >         “(2) A description of the program of each geographic service area of the Department to manage and dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than June 30, 2005, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on medical waste management activities in the facilities of the Department of Veterans Affairs. The report shall include the following:
 

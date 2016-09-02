@@ -15,11 +15,11 @@
 
 ## § 4114. Credentialing and licensure of veterans: demonstration project
 
-    (a) __Demonstration Project Authorized.—__ 
+    (a)  __Demonstration Project Authorized__  __.—__ 
 
     The Assistant Secretary for Veterans’ Employment and Training shall carry out a demonstration project on credentialing in accordance with this section for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
 
-    (b) __Identification of Military Occupational Specialties and Associated Credentials and Licenses.—__ 
+    (b)  __Identification of Military Occupational Specialties and Associated Credentials and Licenses__  __.—__ 
 
         (1) The Assistant Secretary for Veterans’ Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training, select not more than five military occupational specialties for purposes of the demonstration project. Each specialty so selected by the Assistant Secretary for Veterans’ Employment and Training shall require a skill or set of skills that is required for civilian employment in an industry with high growth or high worker demand.
 
@@ -27,11 +27,11 @@
 
         (3) The Assistant Secretary shall analyze the requirements identified under paragraph (2) to determine which requirements may be satisfied by the skills, training, or experience acquired by members of the Armed Forces with the military occupational specialties selected under paragraph (1).
 
-    (c) __Elimination of Barriers to Credentialing and Licensure.—__ 
+    (c)  __Elimination of Barriers to Credentialing and Licensure__  __.—__ 
 
     The Assistant Secretary shall cooperate with appropriate Federal, State, and industry officials to reduce or eliminate any barriers to providing a credential, certification, or license to a veteran who acquired any skill, training, or experience while serving as a member of the Armed Forces with a military occupational specialty selected under subsection (b)(1) that satisfies the Federal and State requirements for the credential, certification, or license.
 
-    (d) __Period of Project.—__ 
+    (d)  __Period of Project__  __.—__ 
 
     The period during which the Assistant Secretary shall carry out the demonstration project under this section shall be the two-year period beginning on the date of the enactment of the VOW to Hire Heroes Act of 2011.
 
@@ -119,11 +119,11 @@
 
 > “SEC. 2. __CONSIDERATION OF RELEVANT MILITARY TRAINING FOR ISSUANCE OF A FEDERAL LICENSE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The head of each Federal licensing authority shall consider and may accept, in the case of any individual applying for a license, any relevant training received by such individual while serving as a member of the armed forces, for the purpose of satisfying the requirements for such license.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this Act—
 

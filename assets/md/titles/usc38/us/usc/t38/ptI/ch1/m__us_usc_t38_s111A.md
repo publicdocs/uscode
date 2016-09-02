@@ -15,13 +15,13 @@
 
 ## § 111A. Transportation of individuals to and from Department facilities
 
-    (a) __Transportation by Secretary.—__ 
+    (a)  __Transportation by Secretary__  __.—__ 
 
         (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
         (2) The authority granted by paragraph (1) shall expire on the date that is one year after the date of the enactment of this section.
 
-    (b) __Transportation by Third-parties.—__ 
+    (b)  __Transportation by Third-parties__  __.—__ 
 
     The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 

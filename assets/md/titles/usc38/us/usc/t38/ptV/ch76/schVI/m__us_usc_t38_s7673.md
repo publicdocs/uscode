@@ -15,11 +15,11 @@
 
 ## § 7673. Scholarship
 
-    (a) __Scholarship.—__ 
+    (a)  __Scholarship__  __.—__ 
 
     A scholarship provided to a participant in the Program for a school year shall consist of payment of the tuition (or such portion of the tuition as may be provided under subsection (b)) of the participant for that school year and payment of other reasonable educational expenses (including fees, books, and laboratory expenses) for that school year.
 
-    (b) __Amounts.—__ 
+    (b)  __Amounts__  __.—__ 
 
     The total amount of the scholarship payable under subsection (a)—
 
@@ -27,17 +27,17 @@
 
         (2) in the case of a participant in the Program who is a part-time student, shall bear the same ratio to the amount that would be paid under paragraph (1) if the participant were a full-time student in the course of education or training being pursued by the participant as the coursework carried by the participant to full-time coursework in that course of education or training.
 
-    (c) __Limitations on Period of Payment.—__ 
+    (c)  __Limitations on Period of Payment__  __.—__ 
 
         (1) The maximum number of school years for which a scholarship may be paid under subsection (a) to a participant in the Program shall be six school years.
 
         (2) A participant in the Program may not receive a scholarship under subsection (a) for more than the equivalent of three years of full-time coursework.
 
-    (d) __Payment of Educational Expenses by Educational Institutions.—__ 
+    (d)  __Payment of Educational Expenses by Educational Institutions__  __.—__ 
 
     The Secretary may arrange with an educational institution in which a participant in the Program is enrolled for the payment of the educational expenses described in subsection (a). Such payments may be made without regard to subsections (a) and (b) of [section 3324 of title 31][/us/usc/t31/s3324].
 
-    (e) __Full-Time Coursework.—__ 
+    (e)  __Full-Time Coursework__  __.—__ 
 
     For purposes of this section, full-time coursework shall consist of the following:
 

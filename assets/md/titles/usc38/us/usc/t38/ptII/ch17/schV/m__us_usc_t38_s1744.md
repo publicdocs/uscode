@@ -15,11 +15,11 @@
 
 ## § 1744. Hiring and retention of nurses: payments to assist States
 
-    (a) __Payment Program.—__ 
+    (a)  __Payment Program__  __.—__ 
 
     The Secretary shall make payments to States under this section for the purpose of assisting State homes in the hiring and retention of nurses and the reduction of nursing shortages at State homes.
 
-    (b) __Eligible Recipients.—__ 
+    (b)  __Eligible Recipients__  __.—__ 
 
     Payments to a State for a fiscal year under this section shall, subject to submission of an application, be made to any State that during that fiscal year—
 
@@ -27,37 +27,37 @@
 
         (2) has in effect an employee incentive scholarship program or other employee incentive program at a State home designed to promote the hiring and retention of nursing staff and to reduce nursing shortages at that home.
 
-    (c) __Use of Funds Received.—__ 
+    (c)  __Use of Funds Received__  __.—__ 
 
     A State may use an amount received under this section only to provide funds for a program described in subsection (b)(2). Any program shall meet such criteria as the Secretary may prescribe. In prescribing such criteria, the Secretary shall take into consideration the need for flexibility and innovation.
 
-    (d) __Limitations on Amount of Payment.—__ 
+    (d)  __Limitations on Amount of Payment__  __.—__ 
 
         (1) A payment under this section may not be used to provide more than 50 percent of the costs for a fiscal year of the employee incentive scholarship or other employee incentive program for which the payment is made.
 
         (2) The amount of the payment to a State under this section for any fiscal year is, for each State home in that State with a program described in subsection (b)(2), the amount equal to 2 percent of the amount of payments estimated to be made to that State, for that State home, under [section 1741 of this title][/us/usc/t38/s1741] for that fiscal year.
 
-    (e) __Applications.—__ 
+    (e)  __Applications__  __.—__ 
 
     A payment under this section for any fiscal year with respect to any State home may only be made based upon an application submitted by the State seeking the payment with respect to that State home. Any such application shall describe the nursing shortage at the State home and the employee incentive scholarship program or other employee incentive program described in subsection (c) for which the payment is sought.
 
-    (f) __Source of Funds.—__ 
+    (f)  __Source of Funds__  __.—__ 
 
     Payments under this section shall be made from funds available for other payments under this subchapter.
 
-    (g) __Disbursement.—__ 
+    (g)  __Disbursement__  __.—__ 
 
     Payments under this section to a State home shall be made as part of the disbursement of payments under [section 1741 of this title][/us/usc/t38/s1741] with respect to that State home.
 
-    (h) __Use of Certain Receipts.—__ 
+    (h)  __Use of Certain Receipts__  __.—__ 
 
     The Secretary shall require as a condition of any payment under this section that, in any case in which the State home receives a refund payment made by an employee in breach of the terms of an agreement for employee assistance that used funds provided under this section, the payment shall be returned to the State home’s incentive program account and credited as a non-Federal funding source.
 
-    (i) __Annual Report From Payment Recipients.—__ 
+    (i)  __Annual Report From Payment Recipients__  __.—__ 
 
     Any State home receiving a payment under this section for any fiscal year, shall, as a condition of the payment, be required to agree to provide to the Secretary a report setting forth in detail the use of funds received through the payment, including a descriptive analysis of how effective the incentive program has been on nurse staffing in the State home during that fiscal year. The report for any fiscal year shall be provided to the Secretary within 60 days of the close of the fiscal year and shall be subject to audit by the Secretary. Eligibility for a payment under this section for any later fiscal year is contingent upon the receipt by the Secretary of the annual report under this subsection for the previous fiscal year in accordance with this subsection.
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
 

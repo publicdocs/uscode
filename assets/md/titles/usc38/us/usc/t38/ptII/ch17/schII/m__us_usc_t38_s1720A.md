@@ -205,7 +205,7 @@
 
 > “SEC. 103. __EXPANSION OF SUBSTANCE USE DISORDER TREATMENT SERVICES PROVIDED BY DEPARTMENT OF VETERANS AFFAIRS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall ensure the provision of such services and treatment to each veteran enrolled in the health care system of the Department of Veterans Affairs who is in need of services and treatments for a substance use disorder as follows:
 
@@ -233,11 +233,11 @@
 
 >     “(b) __Provision of Services.—__ 
 
->         “(1) __Allocation of resources for provision of services.—__ 
+>         “(1)  __Allocation of resources for provision of services__  __.—__ 
 
 >         The Secretary shall ensure that amounts made available for care, treatment, and services provided under this section are allocated in such a manner that a full continuum of care, treatment, and services described in subsection (a) is available to veterans seeking such care, treatment, or services, without regard to the location of the residence of any such veterans.
 
->         “(2) __Manner of provision.—__ 
+>         “(2)  __Manner of provision__  __.—__ 
 
 >         The services and treatment described in subsection (a) may be provided to a veteran described in such subsection—
 
@@ -247,13 +247,13 @@
 
 >             “(C) by contract or fee-for-service payments with community-based organizations for the provision of such services and treatments.
 
->     “(c) __Alternatives in Case of Services Denied Due to Clinical Necessity.—__ 
+>     “(c)  __Alternatives in Case of Services Denied Due to Clinical Necessity__  __.—__ 
 
 >     If the Secretary denies the provision to a veteran of services or treatment for a substance use disorder due to clinical necessity, the Secretary shall provide the veteran such other services or treatment as are medically appropriate.
 
 > “SEC. 104. __CARE FOR VETERANS WITH MENTAL HEALTH AND SUBSTANCE USE DISORDERS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If the Secretary of Veterans Affairs provides a veteran inpatient or outpatient care for a substance use disorder and a comorbid mental health disorder, the Secretary shall ensure that treatment for such disorders is provided concurrently—
 
@@ -263,7 +263,7 @@
 
 >         “(3) by a team of clinicians with appropriate expertise.
 
->     “(b) __Team of Clinicians With Appropriate Expertise Defined.—__ 
+>     “(b)  __Team of Clinicians With Appropriate Expertise Defined__  __.—__ 
 
 >     In this section, the term ‘team of clinicians with appropriate expertise’ means a team consisting of the following:
 
@@ -273,7 +273,7 @@
 
 > “SEC. 105. __PILOT PROGRAM FOR INTERNET-BASED SUBSTANCE USE DISORDER TREATMENT FOR VETERANS OF OPERATION IRAQI FREEDOM AND OPERATION ENDURING FREEDOM.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -289,13 +289,13 @@
 
 >         “(6) Self-assessment and treatment options for substance use disorders through an Internet website may reduce stigma and provides additional access for individuals seeking care and treatment for such disorders.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall be available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
 
 >     “(c) __Elements of Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out the pilot program under this section, the Secretary shall ensure that—
 
@@ -305,27 +305,27 @@
 
 >             “(C) the Internet website includes a self-assessment tool for substance use disorders, self-guided treatment and educational materials for such disorders, and appropriate information and materials for family members of veterans.
 
->         “(2) __Consideration of similar projects.—__ 
+>         “(2)  __Consideration of similar projects__  __.—__ 
 
 >         In designing the pilot program under this section, the Secretary shall consider similar pilot projects of the Department of Defense for the early diagnosis and treatment of post-traumatic stress disorder and other mental health conditions established under section 741 of the John Warner National Defense Authorization Act of \[for\] Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [120 Stat. 2304][/us/stat/120/2304]) \[[10 U.S.C. 1074][/us/usc/t10/s1074] note\].
 
->         “(3) __Location of pilot program.—__ 
+>         “(3)  __Location of pilot program__  __.—__ 
 
 >         The Secretary shall carry out the pilot program through those medical centers of the Department of Veterans Affairs that have established Centers for Excellence for Substance Abuse Treatment and Education or that have established a Substance Abuse Program Evaluation and Research Center.
 
->         “(4) __Contract authority.—__ 
+>         “(4)  __Contract authority__  __.—__ 
 
 >         The Secretary may enter into contracts with qualified entities or organizations to carry out the pilot program required under this section.
 
->     “(d) __Duration of Pilot Program.—__ 
+>     “(d)  __Duration of Pilot Program__  __.—__ 
 
 >     The pilot program required by subsection (a) shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than six months after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program, and shall include in that report—an assessment of the feasibility and advisability of continuing or expanding the pilot program, of any cost savings or other benefits associated with the pilot program, and any other recommendations.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary of Veterans Affairs $1,500,000 for each of fiscal years 2010 and 2011 to carry out the pilot program under this section.”
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 102–54, § 8][/us/pl/102/54/s8], June 13, 1991, [105 Stat. 271][/us/stat/105/271], provided that:
 
->     “(a) __Loan Program.—__ 
+>     “(a)  __Loan Program__  __.—__ 
 
 >     The Secretary of Veterans Affairs may make loans in accordance with this section to assist in the provision of transitional housing exclusively to veterans who are in (or who recently have been in) a program for the treatment of substance abuse.
 
->     “(b) __Loan Recipients.—__ 
+>     “(b)  __Loan Recipients__  __.—__ 
 
 >     A loan under this section may only be made to a nonprofit organization under selection criteria promulgated by the Secretary and only to assist that organization in leasing housing units for use as a group residence for the purposes described in subsection (a). The amount of such a loan that is used with respect to any single residential unit may not exceed $4,500. In making loans under this subsection, the Secretary shall, except to the extent that the Secretary determines that it is infeasible to do so, ensure that—
 
@@ -375,15 +375,15 @@
 
 >             “(E) the residence will be operated solely as a residence for not less than six veterans.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     Loans under this section shall be made from the special account of the General Post Fund of the Department of Veterans Affairs established for purposes of this section. The amount of such loans outstanding at any time may not exceed $100,000. Amounts received as payment of principal and interest on such loans shall be deposited in that account. The operation of the loan program under this section shall be separately accounted for, and shall be separately stated in the documents accompanying the President’s budget for each fiscal year.
 
->     “(d) __Terms and Conditions.—__ 
+>     “(d)  __Terms and Conditions__  __.—__ 
 
 >     Loans under this section shall be made on such terms and conditions, including interest, as the Secretary prescribes.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     After the end of the 15-month period beginning on the date the first loan is extended under this section, the Secretary shall issue a report on the Department’s experience under the section. The report shall include the following information:
 

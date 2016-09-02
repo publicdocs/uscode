@@ -17,35 +17,35 @@
 
     (a) __Increased Assistance for Members With Critical Skills or Specialty.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
 
-        (2) __Maximum amount of increase in assistance.—__ 
+        (2)  __Maximum amount of increase in assistance__  __.—__ 
 
         The amount of the increase in educational assistance authorized by paragraph (1) may not exceed the amount equal to the monthly amount of increased basic educational assistance providable under section 3015(d)(1) at the time of the increase under paragraph (1).
 
     (b) __Supplemental Assistance for Additional Service.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
 
-        (2) __Eligibility.—__ 
+        (2)  __Eligibility__  __.—__ 
 
         Eligibility for supplemental educational assistance under this subsection shall be determined in accordance with the provisions of subchapter III of chapter 30, except that any reference in such provisions to eligibility for basic educational assistance under a provision of subchapter II of chapter 30 shall be treated as a reference to eligibility for educational assistance under the appropriate provision of this chapter.
 
-        (3) __Amount.—__ 
+        (3)  __Amount__  __.—__ 
 
         The amount of supplemental educational assistance payable under this subsection shall be the amount equal to the monthly amount of supplemental educational assistance payable under section 3022.
 
     (c) __Continuation of Increased Educational Assistance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An individual who made an election to receive educational assistance under this chapter pursuant to section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008 ([38 U.S.C. 3301][/us/usc/t38/s3301] note) and who, at the time of the election, was entitled to increased educational assistance under section 3015(d) or [section 16131(i) of title 10][/us/usc/t10/s16131/i] shall remain entitled to increased educational assistance in the utilization of the individual’s entitlement to educational assistance under this chapter.
 
-        (2) __Rate.—__ 
+        (2)  __Rate__  __.—__ 
 
         The monthly rate of increased educational assistance payable to an individual under paragraph (1) shall be—
 
@@ -59,15 +59,15 @@
 
                 (ii) the number of course hours borne by the individual in pursuit of the program of education involved divided by the minimum number of course hours required for full-time pursuit of the program of education, rounded to the nearest multiple of 10.
 
-        (3) __Frequency of payment.—__ 
+        (3)  __Frequency of payment__  __.—__ 
 
         Payment of the amounts payable under paragraph (1) during pursuit of a program of education shall be made on a monthly basis.
 
-    (d) __Funding.—__ 
+    (d)  __Funding__  __.—__ 
 
     Payments for increased educational assistance under this section shall be made from the Department of Defense Education Benefits Fund under [section 2006 of title 10][/us/usc/t10/s2006] or from appropriations available to the Department of Homeland Security for that purpose, as applicable.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 

@@ -15,11 +15,11 @@
 
 ## § 322. Office of National Veterans Sports Programs and Special Events
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is in the Department an Office of National Veterans Sports Programs and Special Events. There is at the head of the Office a Director, who shall report to an appropriate official of the Veterans Benefits Administration, as determined by the Secretary, or to the Deputy Secretary or Secretary.
 
-    (b) __Responsibilities of Director.—__ 
+    (b)  __Responsibilities of Director__  __.—__ 
 
     Subject to the direction of the Secretary, the Director—
 
@@ -35,11 +35,11 @@
 
         (6) may carry out such other responsibilities as the Secretary determines are appropriate.
 
-    (c) __Qualifying Program or Event.—__ 
+    (c)  __Qualifying Program or Event__  __.—__ 
 
     For purposes of this section, a qualifying program or event is a sports program or other event in which disabled veterans and disabled members of the Armed Forces participate and that is approved by the Secretary as being consistent with the goals and missions of the Department.
 
-    (d) __Monthly Assistance Allowance.—__ 
+    (d)  __Monthly Assistance Allowance__  __.—__ 
 
         (1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
 
@@ -49,7 +49,7 @@
 
         (4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2013 and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013.
 
-    (e) __Limitation on Statutory Construction.—__ 
+    (e)  __Limitation on Statutory Construction__  __.—__ 
 
     Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
@@ -69,11 +69,11 @@
 
 [Pub. L. 113–37, § 4][/us/pl/113/37/s4], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act \[see Short Title of 2013 Amendment note set out under [section 101 of this title][/us/usc/t38/s101]\] shall take effect on October 1, 2013, except that Section \[sic\] 2(a) \[amending this section\] shall take effect on September 30, 2013.
 
->     “(b) __Ratification.—__ 
+>     “(b)  __Ratification__  __.—__ 
 
 >     If this Act is not enacted on or before September 30, 2013, any actions undertaken by the Department of Veterans Affairs under the authorities extended by this Act during the period beginning on such date and ending on the date of the enactment of this Act \[Sept. 30, 2013\] shall be deemed ratified.”
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 110–389, title VII, § 701][/us/pl/110/389/s701], Oct. 10, 2008, [122 Stat. 4180][/us/stat/122/4180], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -97,7 +97,7 @@
 
 >         “(6) Because of Operation Iraqi Freedom and Operation Enduring Freedom, the number of disabled veterans and disabled members of the Armed Forces has increased substantially and it is therefore desirable to supplement the rehabilitation and recreation programs of the Department of Veterans Affairs through sports for disabled veterans and members of the Armed Forces.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purposes of this title \[enacting this section, [section 521A of this title][/us/usc/t38/s521A], and provisions set out as notes under [section 521A of this title][/us/usc/t38/s521A]\] are as follows:
 

@@ -15,11 +15,11 @@
 
 ## § 7410. Additional pay authorities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may authorize the Under Secretary for Health to pay advance payments, recruitment or relocation bonuses, and retention allowances to the personnel described in paragraph (1) of [section 7401 of this title][/us/usc/t38/s7401], or interview expenses to candidates for appointment as such personnel, in the same manner, and subject to the same limitations, as in the case of the authority provided under sections 5524a, 5706b, 5753, and 5754 of title 5.
 
-    (b) __Special Incentive Pay for Department Pharmacist Executives.—__ 
+    (b)  __Special Incentive Pay for Department Pharmacist Executives__  __.—__ 
 
         (1) In order to recruit and retain highly qualified Department pharmacist executives, the Secretary may authorize the Under Secretary for Health to pay special incentive pay of not more than $40,000 per year to an individual of the Veterans Health Administration who is a pharmacist executive.
 

@@ -15,7 +15,7 @@
 
 ## § 5103. Notice to claimants of required information and evidence
 
-    (a) __Required Information and Evidence.—__ 
+    (a)  __Required Information and Evidence__  __.—__ 
 
         (1) The Secretary shall provide to the claimant and the claimant’s representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with [section 5103A of this title][/us/usc/t38/s5103A] and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
 
@@ -35,7 +35,7 @@
 
                 (iv) shall specify the time period limitations required pursuant to subsection (b).
 
-    (b) __Time Limitation.—__ 
+    (b)  __Time Limitation__  __.—__ 
 
         (1) In the case of information or evidence that the claimant is notified under subsection (a) is to be provided by the claimant, such information or evidence must be received by the Secretary within one year from the date such notice is sent.
 
@@ -83,11 +83,11 @@
 
 [Pub. L. 112–154, title V, § 504(c)][/us/pl/112/154/s504/c], Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
 
->     “(2) __Construction regarding applicability.—__ 
+>     “(2)  __Construction regarding applicability__  __.—__ 
 
 >     Nothing in this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section shall be construed to require the Secretary to carry out notification procedures in accordance with requirements of [section 5103 of title 38][/us/usc/t38/s5103], United States Code, as in effect on the day before the effective date established in paragraph (1) on or after such effective date.”
 
@@ -111,7 +111,7 @@
 
 [Pub. L. 108–183, title VII, § 701(d)][/us/pl/108/183/s701/d], (e), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670], 2671, provided that:
 
->     “(d) __Procedures for Readjudication of Certain Claims.—__ 
+>     “(d)  __Procedures for Readjudication of Certain Claims__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs shall readjudicate a claim of a qualified claimant if the request for such readjudication is received not later than the end of the one-year period that begins on the date of the enactment of this Act \[Dec. 16, 2003\].
 
@@ -137,7 +137,7 @@
 
 >             “(B) has been the subject of a timely appeal to the Board of Veterans’ Appeals or the United States Court of Appeals for Veterans Claims.
 
->     “(e) __Construction on Providing Renotification.—__ 
+>     “(e)  __Construction on Providing Renotification__  __.—__ 
 
 >     Nothing in this section \[amending this section and [section 5102 of this title][/us/usc/t38/s5102] and enacting provisions set out as a note under [section 5102 of this title][/us/usc/t38/s5102]\], or the amendments made by this section, shall be construed to require the Secretary of Veterans Affairs—
 

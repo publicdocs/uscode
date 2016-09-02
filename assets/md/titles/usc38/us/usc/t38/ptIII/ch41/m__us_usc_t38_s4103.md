@@ -15,7 +15,7 @@
 
 ## § 4103. Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel
 
-    (a) __Directors and Assistant Directors.—__ 
+    (a)  __Directors and Assistant Directors__  __.—__ 
 
         (1) The Secretary shall assign to each State a representative of the Veterans’ Employment and Training Service to serve as the Director for Veterans’ Employment and Training, and shall assign full-time Federal clerical or other support personnel to each such Director.
 
@@ -27,7 +27,7 @@
 
         (3) Full-time Federal clerical or other support personnel assigned to Directors for Veterans’ Employment and Training shall be appointed in accordance with the provisions of title 5 governing appointments in the competitive service and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5.
 
-    (b) __Additional Federal Personnel.—__ 
+    (b)  __Additional Federal Personnel__  __.—__ 
 
     The Secretary may also assign as supervisory personnel such representatives of the Veterans’ Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans’ Employment and Training.
 

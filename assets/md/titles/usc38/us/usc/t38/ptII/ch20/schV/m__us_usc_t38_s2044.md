@@ -15,7 +15,7 @@
 
 ## § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
 
-    (a) __Distribution of Financial Assistance.—__ 
+    (a)  __Distribution of Financial Assistance__  __.—__ 
 
         (1) The Secretary shall provide financial assistance to eligible entities approved under this section to provide and coordinate the provision of supportive services described in subsection (b) for very low-income veteran families occupying permanent housing.
 
@@ -35,7 +35,7 @@
 
         (7) The Secretary may require entities receiving financial assistance under this section to submit a report to the Secretary that describes the projects carried out with such financial assistance.
 
-    (b) __Supportive Services.—__ 
+    (b)  __Supportive Services__  __.—__ 
 
     The supportive services referred to in subsection (a) are the following:
 
@@ -77,7 +77,7 @@
 
         (3) Services described in paragraph (1) for very low-income veteran families who have voluntarily chosen to seek other housing after a period of tenancy in permanent housing, that are provided, for a period of 90 days after such families exit permanent housing or until such families commence receipt of other housing services adequate to meet their current needs, but only to the extent that services under this paragraph are designed to support such families in their choice to transition into housing that is responsive to their individual needs and preferences.
 
-    (c) __Application for Financial Assistance.—__ 
+    (c)  __Application for Financial Assistance__  __.—__ 
 
         (1) An eligible entity seeking financial assistance under subsection (a) shall submit to the Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary determines to be necessary to carry out this section.
 
@@ -109,13 +109,13 @@
 
         (3) The Secretary shall establish criteria for the selection of eligible entities to be provided financial assistance under this section.
 
-    (d) __Technical Assistance.—__ 
+    (d)  __Technical Assistance__  __.—__ 
 
         (1) The Secretary shall provide training and technical assistance to participating eligible entities regarding the planning, development, and provision of supportive services to very low-income veteran families occupying permanent housing, through the Technical Assistance grants program in [section 2064 of this title][/us/usc/t38/s2064].
 
         (2) The Secretary may provide the training described in paragraph (1) directly or through grants or contracts with appropriate public or nonprofit private entities.
 
-    (e) __Funding.—__ 
+    (e)  __Funding__  __.—__ 
 
         (1)
 
@@ -135,7 +135,7 @@
 
         (3) There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

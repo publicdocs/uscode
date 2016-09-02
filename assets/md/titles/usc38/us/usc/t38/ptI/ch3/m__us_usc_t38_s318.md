@@ -95,7 +95,7 @@
 
 [Pub. L. 104–262, title III, § 323][/us/pl/104/262/s323], Oct. 9, 1996, [110 Stat. 3196][/us/stat/110/3196], provided that:
 
->     “(a) __Reports to Under Secretary for Health.—__ 
+>     “(a)  __Reports to Under Secretary for Health__  __.—__ 
 
 >     The Center for Women Veterans of the Department of Veterans Affairs (established under [section 509 of Public Law 103–446][/us/pl/103/446/s509] \[enacting this section and [section 317 of this title][/us/usc/t38/s317] and repealing former [section 317 of this title][/us/usc/t38/s317]\]), in consultation with the Advisory Committee on Women Veterans, shall assess the use by women veterans of health services through the Department of Veterans Affairs, including counseling for sexual trauma and mental health services. The Center shall submit to the Under Secretary for Health of the Department of Veterans Affairs a report not later than April 1, 1997, and April 1 of each of the two following years, on—
 
@@ -103,7 +103,7 @@
 
 >         “(2) recommendations, if indicated, for encouraging greater use of such services, including (if appropriate) public service announcements and other outreach efforts.
 
->     “(b) __Reports to Congressional Committees.—__ 
+>     “(b)  __Reports to Congressional Committees__  __.—__ 
 
 >     Not later than July 1, 1997, and July 1 of each of the two following years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing—
 

@@ -15,7 +15,7 @@
 
 ## § 117. Advance appropriations for certain medical care accounts
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For each fiscal year, beginning with fiscal year 2011, discretionary new budget authority provided in an appropriations Act for the medical care accounts of the Department shall—
 
@@ -23,11 +23,11 @@
 
         (2) include, for each such account, advance discretionary new budget authority that first becomes available for the first fiscal year after the budget year.
 
-    (b) __Estimates Required.—__ 
+    (b)  __Estimates Required__  __.—__ 
 
     The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, detailed estimates of the funds necessary for the medical care accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
 
-    (c) __Medical Care Accounts.—__ 
+    (c)  __Medical Care Accounts__  __.—__ 
 
     For purposes of this section, the term “medical care accounts of the Department” means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
 
@@ -37,7 +37,7 @@
 
         (3) Medical Facilities.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
@@ -47,17 +47,17 @@
 
 [Pub. L. 111–81, § 4][/us/pl/111/81/s4], Oct. 22, 2009, [123 Stat. 2138][/us/stat/123/2138], provided that:
 
->     “(a) __Review of Accuracy of Medical Care Budget Submission.—__ 
+>     “(a)  __Review of Accuracy of Medical Care Budget Submission__  __.—__ 
 
 >     The Comptroller General shall conduct a review of each budget of the President for a fiscal year that is submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a] in order to assess whether or not the relevant components of the amounts requested in such budget for such fiscal year for the medical care accounts of the Department of Veterans Affairs specified in [section 117(c) of title 38][/us/usc/t38/s117/c], United States Code, as added by section 3, are consistent with estimates of the resources required by the Department for the provision of medical care and services in such fiscal year, as forecast using the Enrollee Health Care Projection Model, or other methodologies used by the Department.
 
 >     “(b) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Comptroller General shall submit to the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate and the Committees on Veterans’ Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report under this paragraph shall include, for the fiscal year beginning in the year in which such report is submitted, the following:
 
@@ -67,7 +67,7 @@
 
 >             “(C) Such additional information as the Comptroller General determines appropriate.
 
->         “(3) __Availability to the public.—__ 
+>         “(3)  __Availability to the public__  __.—__ 
 
 >         Each report submitted under this subsection shall also be made available to the public.”
 

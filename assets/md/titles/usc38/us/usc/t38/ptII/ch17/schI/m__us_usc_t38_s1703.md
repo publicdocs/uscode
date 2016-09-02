@@ -167,7 +167,7 @@
 
 [Pub. L. 111–163, title III, § 303][/us/pl/111/163/s303], May 5, 2010, [124 Stat. 1149][/us/stat/124/1149], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs may, through the Director of the Office of Rural Health, carry out demonstration projects to examine the feasibility and advisability of alternatives for expanding care for veterans in rural areas, which may include the following:
 
@@ -177,11 +177,11 @@
 
 >         “(3) Expanding coordination between the Department of Veterans Affairs and the Indian Health Service to expand care for Indian veterans.
 
->     “(b) __Geographic Distribution.—__ 
+>     “(b)  __Geographic Distribution__  __.—__ 
 
 >     The Secretary shall ensure that the demonstration projects carried out under subsection (a) are located at facilities that are geographically distributed throughout the United States.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[May 5, 2010\], the Secretary shall submit a report on the results of the demonstration projects carried out under subsection (a) to—
 
@@ -189,7 +189,7 @@
 
 >         “(2) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2010 and each fiscal year thereafter.”
 
@@ -199,19 +199,19 @@
 
 >     “(a) __Pilot Program Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall conduct a pilot program under which the Secretary provides covered health services to covered veterans through qualifying non-Department of Veterans Affairs health care providers.
 
->         “(2) __Commencement.—__ 
+>         “(2)  __Commencement__  __.—__ 
 
 >         The Secretary shall commence the conduct of the pilot program on the date that is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
->         “(3) __Termination.—__ 
+>         “(3)  __Termination__  __.—__ 
 
 >         A veteran may receive health services under the pilot program only during the three-year period beginning on the date of the commencement of the pilot program under paragraph (2).
 
->         “(4) __Program locations.—__ 
+>         “(4)  __Program locations__  __.—__ 
 
 >         The pilot program shall be carried out within areas selected by the Secretary for the purposes of the pilot program in at least five Veterans Integrated Service Networks (VISNs). Of the Veterans Integrated Service Networks so selected—
 
@@ -223,7 +223,7 @@
 
 >             “(D) no such networks shall be participants in the Healthcare Effectiveness through Resource Optimization pilot program of the Department of Veterans Affairs.
 
->     “(b) __Covered Veterans.—__ 
+>     “(b)  __Covered Veterans__  __.—__ 
 
 >     For purposes of the pilot program under this section, a covered veteran is any veteran who—
 
@@ -245,27 +245,27 @@
 
 >             “(C) more than 240 minutes driving distance from the nearest Department health care facility providing tertiary care, if the veteran is seeking such care.
 
->     “(c) __Covered Health Services.—__ 
+>     “(c)  __Covered Health Services__  __.—__ 
 
 >     For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17 of title 38, United States Code, or any other provision of law.
 
->     “(d) __Qualifying Non-Department Health Care Providers.—__ 
+>     “(d)  __Qualifying Non-Department Health Care Providers__  __.—__ 
 
 >     For purposes of the pilot program under this section, an entity or individual is a qualifying non-Department health care provider of a covered health service if the Secretary determines that the entity or individual is qualified to furnish such service to veterans under the pilot program.
 
->     “(e) __Election.—__ 
+>     “(e)  __Election__  __.—__ 
 
 >     A covered veteran seeking to be provided covered health services under the pilot program under this section shall submit to the Secretary an application therefor in such form, and containing such information as the Secretary shall specify for purposes of the pilot program.
 
->     “(f) __Provision of Services Through Contract.—__ 
+>     “(f)  __Provision of Services Through Contract__  __.—__ 
 
 >     The Secretary shall provide covered health services to veterans under the pilot program under this section through contracts with qualifying non-Department health care providers for the provision of such services.
 
->     “(g) __Exchange of Medical Information.—__ 
+>     “(g)  __Exchange of Medical Information__  __.—__ 
 
 >     In conducting the pilot program under this section, the Secretary shall develop and utilize a functional capability to provide for the exchange of appropriate medical information between the Department and non-Department health care providers providing health services under the pilot program.
 
->     “(h) __Reports.—__ 
+>     “(h)  __Reports__  __.—__ 
 
 >     Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
 

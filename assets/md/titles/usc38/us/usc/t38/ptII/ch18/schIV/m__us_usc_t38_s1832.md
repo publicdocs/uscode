@@ -15,11 +15,11 @@
 
 ## § 1832. Applicability of certain administrative provisions
 
-    (a) __Applicability of Certain Provisions Relating to Compensation.—__ 
+    (a)  __Applicability of Certain Provisions Relating to Compensation__  __.—__ 
 
     The provisions of this title specified in subsection (b) apply with respect to benefits and assistance under this chapter in the same manner as those provisions apply to compensation paid under chapter 11 of this title.
 
-    (b) __Specified Provisions.—__ 
+    (b)  __Specified Provisions__  __.—__ 
 
     The provisions of this title referred to in subsection (a) are the following:
 

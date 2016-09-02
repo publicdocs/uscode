@@ -15,19 +15,19 @@
 
 ## § 5317A. Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services
 
-    (a) __Independent Verification Required.—__ 
+    (a)  __Independent Verification Required__  __.—__ 
 
     The Secretary may terminate, deny, suspend, or reduce any benefit or service specified in section 5317(c), with respect to an individual under age 65 who is an applicant for or recipient of such a benefit or service, by reason of information obtained from the Secretary of Health and Human Services under section 453(j)(11) of the Social Security Act, only if the Secretary takes appropriate steps to verify independently information relating to the individual’s employment and income from employment.
 
-    (b) __Opportunity to Contest Findings.—__ 
+    (b)  __Opportunity to Contest Findings__  __.—__ 
 
     The Secretary shall inform each individual for whom the Secretary terminates, denies, suspends, or reduces any benefit or service under subsection (a) of the findings made by the Secretary under such subsection on the basis of verified information and shall provide to the individual an opportunity to contest such findings in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
 
-    (c) __Source of Funds for Reimbursement to Secretary of Health and Human Services.—__ 
+    (c)  __Source of Funds for Reimbursement to Secretary of Health and Human Services__  __.—__ 
 
     The Secretary shall pay the expense of reimbursing the Secretary of Health and Human Services in accordance with section 453(j)(11)(E) of the Social Security Act, for the cost incurred by the Secretary of Health and Human Services in furnishing information requested by the Secretary under section 453(j)(11) of such Act, from amounts available to the Department for the payment of compensation and pensions.
 
-    (d) __Expiration of Authority.—__ 
+    (d)  __Expiration of Authority__  __.—__ 
 
     The authority under this section shall be in effect as follows:
 

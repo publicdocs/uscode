@@ -15,7 +15,7 @@
 
 ## § 4323. Enforcement of rights with respect to a State or private employer
 
-    (a) __Action for Relief.—__ 
+    (a)  __Action for Relief__  __.—__ 
 
         (1) A person who receives from the Secretary a notification pursuant to [section 4322(e) of this title][/us/usc/t38/s4322/e] of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for relief under this chapter for such person. In the case of such an action against a State (as an employer), the action shall be brought in the name of the United States as the plaintiff in the action.
 
@@ -37,7 +37,7 @@
 
             (C) has been refused representation by the Attorney General with respect to the complaint under such paragraph.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
         (1) In the case of an action against a State (as an employer) or a private employer commenced by the United States, the district courts of the United States shall have jurisdiction over the action.
 
@@ -45,13 +45,13 @@
 
         (3) In the case of an action against a private employer by a person, the district courts of the United States shall have jurisdiction of the action.
 
-    (c) __Venue.—__ 
+    (c)  __Venue__  __.—__ 
 
         (1) In the case of an action by the United States against a State (as an employer), the action may proceed in the United States district court for any district in which the State exercises any authority or carries out any function.
 
         (2) In the case of an action against a private employer, the action may proceed in the United States district court for any district in which the private employer of the person maintains a place of business.
 
-    (d) __Remedies.—__ 
+    (d)  __Remedies__  __.—__ 
 
         (1)
 
@@ -71,25 +71,25 @@
 
         (3) A State shall be subject to the same remedies, including prejudgment interest, as may be imposed upon any private employer under this section.
 
-    (e) __Equity Powers.—__ 
+    (e)  __Equity Powers__  __.—__ 
 
     The court shall use, in any case in which the court determines it is appropriate, its full equity powers, including temporary or permanent injunctions, temporary restraining orders, and contempt orders, to vindicate fully the rights or benefits of persons under this chapter.
 
-    (f) __Standing.—__ 
+    (f)  __Standing__  __.—__ 
 
     An action under this chapter may be initiated only by a person claiming rights or benefits under this chapter under subsection (a) or by the United States under subsection (a)(1).
 
-    (g) __Respondent.—__ 
+    (g)  __Respondent__  __.—__ 
 
     In any action under this chapter, only an employer or a potential employer, as the case may be, shall be a necessary party respondent.
 
-    (h) __Fees, Court Costs.—__ 
+    (h)  __Fees, Court Costs__  __.—__ 
 
         (1) No fees or court costs may be charged or taxed against any person claiming rights under this chapter.
 
         (2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
 
-    (i) __Definition.—__ 
+    (i)  __Definition__  __.—__ 
 
     In this section, the term “private employer” includes a political subdivision of a State.
 

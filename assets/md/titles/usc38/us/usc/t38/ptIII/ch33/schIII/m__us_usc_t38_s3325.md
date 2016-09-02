@@ -15,7 +15,7 @@
 
 ## § 3325. Reporting requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For each academic year—
 
@@ -23,7 +23,7 @@
 
         (2) the Secretary shall submit to Congress a report on the operation of the program provided for in this chapter and the program provided for under chapter 35 of this title.
 
-    (b) __Contents of Secretary of Defense Reports.—__ 
+    (b)  __Contents of Secretary of Defense Reports__  __.—__ 
 
     The Secretary of Defense shall include in each report submitted under this section—
 
@@ -39,7 +39,7 @@
 
         (2) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary of Defense considers appropriate.
 
-    (c) __Contents of Secretary of Veterans Affairs Reports.—__ 
+    (c)  __Contents of Secretary of Veterans Affairs Reports__  __.—__ 
 
     The Secretary shall include in each report submitted under this section—
 
@@ -49,7 +49,7 @@
 
         (3) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
 
-    (d) __Termination.—__ 
+    (d)  __Termination__  __.—__ 
 
     No report shall be required under this section after January 1, 2021.
 

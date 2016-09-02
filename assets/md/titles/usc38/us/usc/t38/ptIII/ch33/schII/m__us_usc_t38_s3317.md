@@ -15,15 +15,15 @@
 
 ## § 3317. Public-private contributions for additional educational assistance
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1) and (2) of section 3311(b).
 
-    (b) __Designation of Program.—__ 
+    (b)  __Designation of Program__  __.—__ 
 
     The program under this section shall be known as the “Yellow Ribbon G.I. Education Enhancement Program”.
 
-    (c) __Agreements.—__ 
+    (c)  __Agreements__  __.—__ 
 
     The Secretary shall enter into an agreement with each college or university seeking to participate in the program under this section. Each agreement shall specify the following:
 
@@ -37,15 +37,15 @@
 
     (d) __Matching Contributions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In instances where the educational assistance provided an individual under section 3313(c)(1)(A) does not cover the full cost of tuition and mandatory fees at a college or university, the Secretary shall provide up to 50 percent of the remaining costs for tuition and mandatory fees if the college or university voluntarily enters into an agreement with the Secretary to match an equal percentage of any of the remaining costs for such tuition and fees.
 
-        (2) __Use of appropriated funds.—__ 
+        (2)  __Use of appropriated funds__  __.—__ 
 
         Amounts available to the Secretary under section 3324(b) for payment of the costs of this chapter shall be available to the Secretary for purposes of paragraph (1).
 
-    (e) __Outreach.—__ 
+    (e)  __Outreach__  __.—__ 
 
     The Secretary shall make available on the Internet website of the Department available to the public a current list of the colleges and universities participating in the program under this section. The list shall specify, for each college or university so listed, appropriate information on the agreement between the Secretary and such college or university under subsection (c).
 
@@ -55,11 +55,11 @@
 
 [Pub. L. 111–275, title I, § 107][/us/pl/111/275/s107], Oct. 13, 2010, [124 Stat. 2872][/us/stat/124/2872], provided that:
 
->     “(a) __Availability of Scholarship Information.—__ 
+>     “(a)  __Availability of Scholarship Information__  __.—__ 
 
 >     By not later than June 1, 2011, the Secretary of Veterans Affairs shall include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to the Internet website of the organization.
 
->     “(b) __Maintenance of Scholarship Information.—__ 
+>     “(b)  __Maintenance of Scholarship Information__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall make reasonable efforts to notify schools and other appropriate entities of the opportunity to be included on the Internet website of the Department of Veterans Affairs pursuant to subsection (a).”
 

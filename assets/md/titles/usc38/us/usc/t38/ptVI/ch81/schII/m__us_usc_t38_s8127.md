@@ -15,7 +15,7 @@
 
 ## § 8127. Small business concerns owned and controlled by veterans: contracting goals and preferences
 
-    (a) __Contracting Goals.—__ 
+    (a)  __Contracting Goals__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
-    (b) __Use of Noncompetitive Procedures for Certain Small Contracts.—__ 
+    (b)  __Use of Noncompetitive Procedures for Certain Small Contracts__  __.—__ 
 
     For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans for an amount less than the simplified acquisition threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]), a contracting officer of the Department may use procedures other than competitive procedures.
 
-    (c) __Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—__ 
+    (c)  __Sole Source Contracts for Contracts Above Simplified Acquisition Threshold__  __.—__ 
 
     For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans using procedures other than competitive procedures if—
 
@@ -45,15 +45,15 @@
 
         (3) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price that offers best value to the United States.
 
-    (d) __Use of Restricted Competition.—__ 
+    (d)  __Use of Restricted Competition__  __.—__ 
 
     Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
 
-    (e) __Eligibility of Small Business Concerns.—__ 
+    (e)  __Eligibility of Small Business Concerns__  __.—__ 
 
     A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
 
-    (f) __Database of Veteran-Owned Businesses.—__ 
+    (f)  __Database of Veteran-Owned Businesses__  __.—__ 
 
         (1) Subject to paragraphs (2) through (6), the Secretary shall maintain a database of small business concerns owned and controlled by veterans and the veteran owners of such business concerns.
 
@@ -77,7 +77,7 @@
 
         (6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
-    (g) __Enforcement Penalties for Misrepresentation.—__ 
+    (g)  __Enforcement Penalties for Misrepresentation__  __.—__ 
 
         (1) Any business concern that is determined by the Secretary to have willfully and intentionally misrepresented the status of that concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans for purposes of this subsection shall be debarred from contracting with the Department for a period of not less than five years.
 
@@ -85,7 +85,7 @@
 
         (3) The debarment of a business concern under paragraph (1) includes the debarment of all principals in the business concern for a period of not less than five years.
 
-    (h) __Treatment of Businesses After Death of Veteran-Owner.—__ 
+    (h)  __Treatment of Businesses After Death of Veteran-Owner__  __.—__ 
 
         (1) Subject to paragraph (3), if the death of a veteran causes a small business concern to be less than 51 percent owned by one or more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
 
@@ -101,7 +101,7 @@
 
         (3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability.
 
-    (i) __Priority for Contracting Preferences.—__ 
+    (i)  __Priority for Contracting Preferences__  __.—__ 
 
     Preferences for awarding contracts to small business concerns shall be applied in the following order of priority:
 
@@ -119,13 +119,13 @@
 
         (4) Contracts awarded pursuant to any other small business contracting preference.
 
-    (j) __Applicability of Requirements to Contracts.—__ 
+    (j)  __Applicability of Requirements to Contracts__  __.—__ 
 
         (1) If after December 31, 2008, the Secretary enters into a contract, memorandum of understanding, agreement, or other arrangement with any governmental entity to acquire goods or services, the Secretary shall include in such contract, memorandum, agreement, or other arrangement a requirement that the entity will comply, to the maximum extent feasible, with the provisions of this section in acquiring such goods or services.
 
         (2) Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.).
 
-    (k) __Annual Reports.—__ 
+    (k)  __Annual Reports__  __.—__ 
 
     Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contracting during the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
 
@@ -137,7 +137,7 @@
 
         (4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     In this section:
 

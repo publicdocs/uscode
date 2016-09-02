@@ -15,15 +15,15 @@
 
 ## § 7618. Additional program requirements
 
-    (a) __Program Modification.—__ 
+    (a)  __Program Modification__  __.—__ 
 
     Notwithstanding any provision of this subchapter, the Secretary shall carry out this subchapter after the date of the enactment of this section by modifying the Scholarship Program in such a manner that the program and hiring processes are designed to fully employ Scholarship Program graduates as soon as possible, if not immediately, upon graduation and completion of necessary certifications, and to actively assist and monitor graduates to ensure certifications are obtained in a minimal amount of time following graduation.
 
-    (b) __Clinical Tours.—__ 
+    (b)  __Clinical Tours__  __.—__ 
 
     The Secretary shall require participants in the Scholarship Program to perform clinical tours in assignments or locations determined by the Secretary while the participants are enrolled in the course of education or training for which the scholarship is provided.
 
-    (c) __Mentors.—__ 
+    (c)  __Mentors__  __.—__ 
 
     The Secretary shall ensure that at the commencement of the period of obligated service of a participant in the Scholarship Program, the participant is assigned to a mentor who is employed in the same facility where the participant performs such service.
 

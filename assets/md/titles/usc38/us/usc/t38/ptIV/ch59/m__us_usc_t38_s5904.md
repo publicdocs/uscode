@@ -15,7 +15,7 @@
 
 ## § 5904. Recognition of agents and attorneys generally
 
-    (a) __Recognition.—__ 
+    (a)  __Recognition__  __.—__ 
 
         (1) Except as provided in paragraph (4), the Secretary may recognize any individual as an agent or attorney for the preparation, presentation, and prosecution of claims under laws administered by the Secretary.
 
@@ -47,7 +47,7 @@
 
             (E) Amounts collected under this paragraph shall be deposited in the account available for administrative expenses for veterans’ benefits programs. Amounts so deposited shall be merged with amounts in such account and shall be available for the same purpose, and subject to the same conditions and limitations, as amounts otherwise in such account.
 
-    (b) __Suspension of Agents and Attorneys.—__ 
+    (b)  __Suspension of Agents and Attorneys__  __.—__ 
 
     The Secretary, after notice and opportunity for a hearing, may suspend or exclude from further practice before the Department any agent or attorney recognized under this section if the Secretary finds that such agent or attorney—
 
@@ -85,7 +85,7 @@
 
         (4) A reasonable fee may be charged or paid in connection with any proceeding before the Department in a case arising out of a loan made, guaranteed, or insured under chapter 37 of this title. A person who charges a fee under this paragraph shall enter into a written agreement with the person represented and shall file a copy of the fee agreement with the Secretary at such time, and in such manner, as may be specified by the Secretary.
 
-    (d) __Payment of Fees Out of Past-Due Benefits.—__ 
+    (d)  __Payment of Fees Out of Past-Due Benefits__  __.—__ 
 
         (1) When a claimant and an agent or attorney have entered into a fee agreement described in paragraph (2), the total fee payable to the agent or attorney may not exceed 20 percent of the total amount of any past-due benefits awarded on the basis of the claim.
 

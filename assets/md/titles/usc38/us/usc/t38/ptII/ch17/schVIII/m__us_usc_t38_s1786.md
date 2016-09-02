@@ -15,7 +15,7 @@
 
 ## § 1786. Care for newborn children of women veterans receiving maternity care
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may furnish health care services described in subsection (b) to a newborn child of a woman veteran who is receiving maternity care furnished by the Department for not more than seven days after the birth of the child if the veteran delivered the child in—
 
@@ -23,7 +23,7 @@
 
         (2) another facility pursuant to a Department contract for services relating to such delivery.
 
-    (b) __Covered Health Care Services.—__ 
+    (b)  __Covered Health Care Services__  __.—__ 
 
     Health care services described in this subsection are all post-delivery care services, including routine care services, that a newborn child requires.
 

@@ -73,11 +73,11 @@
 
 [Pub. L. 104–262, title I, § 106][/us/pl/104/262/s106], Oct. 9, 1996, [110 Stat. 3184][/us/stat/110/3184], provided that:
 
->     “(a) __Assessment Systems.—__ 
+>     “(a)  __Assessment Systems__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall establish information systems to assess the experience of the Department of Veterans Affairs in implementing sections 101, 103, and 104 \[enacting this section and [section 1706 of this title][/us/usc/t38/s1706], amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title, and enacting provisions set out as a note under [section 1701 of this title][/us/usc/t38/s1701]\], including the amendments made by those sections, during fiscal year 1997. The Secretary shall establish those information systems in time to include assessments under such systems in the report required under subsection (b).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than March 1, 1998, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report reflecting the experience of the Department during fiscal year 1997 on—
 
@@ -89,7 +89,7 @@
 
 >         “(4) changes in health-care delivery patterns in Department facilities and the fiscal impact of such changes.
 
->     “(c) __Matters To Be Included.—__ 
+>     “(c)  __Matters To Be Included__  __.—__ 
 
 >     The report under subsection (b) shall include detailed information with respect to fiscal year 1997 regarding the following:
 

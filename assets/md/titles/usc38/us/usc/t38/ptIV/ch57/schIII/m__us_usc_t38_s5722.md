@@ -15,11 +15,11 @@
 
 ## § 5722. Policy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The security of Department information and information systems is vital to the success of the mission of the Department. To that end, the Secretary shall establish and maintain a comprehensive Department-wide information security program to provide for the development and maintenance of cost-effective security controls needed to protect Department information, in any media or format, and Department information systems.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     The Secretary shall ensure that the Department information security program includes the following elements:
 
@@ -49,7 +49,7 @@
 
         (9) Plans and procedures to ensure continuity of operations for Department systems.
 
-    (c) __Compliance With Certain Requirements.—__ 
+    (c)  __Compliance With Certain Requirements__  __.—__ 
 
     The Secretary shall comply with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements promulgated by the National Institute of Standards and Technology and the Office of Management and Budget that define Department information system mandates.
 

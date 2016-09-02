@@ -15,11 +15,11 @@
 
 ## § 7309. Readjustment Counseling Service
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is in the Veterans Health Administration a Readjustment Counseling Service. The Readjustment Counseling Service shall provide readjustment counseling and associated services to individuals in accordance with [section 1712A of this title][/us/usc/t38/s1712A].
 
-    (b) __Chief Officer.—__ 
+    (b)  __Chief Officer__  __.—__ 
 
         (1) The head of the Readjustment Counseling Service shall be the Chief Officer of the Readjustment Counseling Service (in this section referred to as the “Chief Officer”), who shall report directly to the Under Secretary for Health.
 
@@ -43,7 +43,7 @@
 
             (E) are veterans who served in combat as members of the Armed Forces.
 
-    (c) __Structure.—__ 
+    (c)  __Structure__  __.—__ 
 
         (1) The Readjustment Counseling Service is a distinct organizational element within Veterans  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  Health Administration.
 
@@ -51,7 +51,7 @@
 
         (3) The Chief Officer shall have direct authority over all Readjustment Counseling Service staff and assets, including Vet Centers.
 
-    (d) __Source of Funds.—__ 
+    (d)  __Source of Funds__  __.—__ 
 
         (1) Amounts for the activities of the Readjustment Counseling Service, including the operations of its Vet Centers, shall be derived from amounts appropriated for the Veterans Health Administration for medical care.
 
@@ -59,7 +59,7 @@
 
         (3) In each budget request submitted for the Department of Veterans Affairs by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], the budget request for the Readjustment Counseling Service shall be listed separately.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
         (1) Not later than March 15 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Readjustment Counseling Service during the preceding calendar year.
 
@@ -73,7 +73,7 @@
 
             (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need.
 
-    (f) __Vet Center Defined.—__ 
+    (f)  __Vet Center Defined__  __.—__ 
 
     In this section, the term “Vet Center” has the meaning given the term in [section 1712A(h)(1) of this title][/us/usc/t38/s1712A/h/1].
 

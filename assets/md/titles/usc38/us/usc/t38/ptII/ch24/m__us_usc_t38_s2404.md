@@ -129,11 +129,11 @@
 
 [Pub. L. 106–117, title VI, § 613][/us/pl/106/117/s613], Nov. 30, 1999, [113 Stat. 1581][/us/stat/113/1581], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary \[of Veterans Affairs\] shall enter into a contract with one or more qualified organizations to conduct a study of national cemeteries described in subsection (b). For purposes of this section, an entity of Federal, State, or local government is not a qualified organization.
 
->     “(b) __Matters Studied.—__ 
+>     “(b)  __Matters Studied__  __.—__ 
 
 >         (1)
 
@@ -157,7 +157,7 @@
 
 >             “(B) With respect to each such five-year period, the areas in the United States with the greatest concentration of veterans whose needs are not served by national cemeteries or State veterans’ cemeteries.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >         (1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
 

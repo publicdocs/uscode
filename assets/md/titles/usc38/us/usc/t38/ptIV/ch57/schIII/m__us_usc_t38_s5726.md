@@ -15,7 +15,7 @@
 
 ## § 5726. Reports and notice to Congress on data breaches
 
-    (a) __Quarterly Reports.—__ 
+    (a)  __Quarterly Reports__  __.—__ 
 
         (1) Not later than 30 days after the last day of a fiscal quarter, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on any data breach with respect to sensitive personal information processed or maintained by the Department that occurred during that quarter.
 
@@ -27,7 +27,7 @@
 
             (B) the status of any remedial or corrective action with respect to the data breach.
 
-    (b) __Notification of Significant Data Breaches.—__ 
+    (b)  __Notification of Significant Data Breaches__  __.—__ 
 
         (1) In the event of a data breach with respect to sensitive personal information processed or maintained by the Secretary that the Secretary determines is significant, the Secretary shall provide notice of such breach to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 

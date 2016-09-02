@@ -133,17 +133,17 @@
 
 [Pub. L. 100–322, title III, § 333(c)][/us/pl/100/322/s333/c]–(e), May 20, 1988, [102 Stat. 539][/us/stat/102/539], provided that:
 
->     “(c) __Savings Provision.—__ 
+>     “(c)  __Savings Provision__  __.—__ 
 
 >     Mortgage protection life insurance granted to any veteran under the former section 806 shall continue in force with the United States as insurer, subject to the terms of subsection (d). Nothing in that subsection shall impair any rights of any veteran or mortgage loan holder under the former section 806 that matured before the effective date specified in subsection (b) \[see Effective Date of 1988 Amendment note above\].
 
->     “(d) __Discontinuance of Contract Program.—__ 
+>     “(d)  __Discontinuance of Contract Program__  __.—__ 
 
 >         (1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy of insurance purchased in accordance with the former section 806.
 
 >         “(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid by the insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
 
->     “(e) __Former Section 806 Defined.—__ 
+>     “(e)  __Former Section__  __806__  __Defined__  __.—__ 
 
 >     For the purpose of subsections (c) and (d), the term ‘former section 806’ means section 806 \[this section\] of title 38, United States Code, as in effect on the day before the effective date specified in subsection (b).”
 

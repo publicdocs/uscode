@@ -15,11 +15,11 @@
 
 ## § 6307. Outreach for eligible dependents
 
-    (a) __Needs of Dependents.—__ 
+    (a)  __Needs of Dependents__  __.—__ 
 
     In carrying out this chapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
 
-    (b) __Information as to Availability of Outreach Services for Dependents.—__ 
+    (b)  __Information as to Availability of Outreach Services for Dependents__  __.—__ 
 
     The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this chapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
 

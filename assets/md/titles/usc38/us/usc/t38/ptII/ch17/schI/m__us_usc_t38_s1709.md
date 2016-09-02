@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1708.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1709A.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709)
 
-## § 1709.Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
+## § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
 
-    (a) __Policy Required.—__ 
+    (a)  __Policy Required__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (B) the ability of the Department to refer veterans to such care or treatment.
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     The policy required by subsection (a) shall cover each of the following:
 
@@ -97,11 +97,11 @@
 
         (9) Clear and consistent guidance for the clinical management of the treatment of sexual assaults that are reported more than 72 hours after the assault.
 
-    (c) __Updates to Policy.—__ 
+    (c)  __Updates to Policy__  __.—__ 
 
     The Secretary shall review and revise the policy required by subsection (a) on a periodic basis as the Secretary considers appropriate and in accordance with best practices.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) Not later than 60 days after the date on which the Secretary develops the policy required by subsection (a) and not later than October 1 of each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of the policy.
 

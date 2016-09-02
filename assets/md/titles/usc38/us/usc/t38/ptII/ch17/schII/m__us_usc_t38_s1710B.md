@@ -87,11 +87,11 @@
 
 [Pub. L. 108–422, title IV, § 411(f)][/us/pl/108/422/s411/f], (g), Nov. 30, 2004, [118 Stat. 2390][/us/stat/118/2390], provided that:
 
->     “(f) __Contingent Effectiveness.—__ 
+>     “(f)  __Contingent Effectiveness__  __.—__ 
 
 >     Subsection (d) \[enacting provisions set out as a note under [section 8118 of this title][/us/usc/t38/s8118]\] and the amendments made by subsection (c) \[repealing [section 8116 of this title][/us/usc/t38/s8116]\] shall take effect at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with subsection (b) of [section 1710B of title 38][/us/usc/t38/s1710B], United States Code.
 
->     “(g) __Annual Update.—__ 
+>     “(g)  __Annual Update__  __.—__ 
 
 >     Following a certification under subsection (f), the Secretary shall submit to Congress an annual update on that certification.”
 
@@ -109,15 +109,15 @@
 
 [Pub. L. 109–461, title II, § 214][/us/pl/109/461/s214], Dec. 22, 2006, [120 Stat. 3423][/us/stat/120/3423], as amended by [Pub. L. 110–387, § 809][/us/pl/110/387/s809], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Commencing not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
 
->     “(b) __Duration of Pilot Program.—__ 
+>     “(b)  __Duration of Pilot Program__  __.—__ 
 
 >     The pilot program required by subsection (a) shall be carried out during the three-year period beginning on the date of the commencement of the pilot program.
 
->     “(c) __Caregiver Assistance Services.—__ 
+>     “(c)  __Caregiver Assistance Services__  __.—__ 
 
 >     For purposes of this section, the term ‘caregiver assistance services’ means services of the Department of Veterans Affairs that assist caregivers of veterans. Such services including the following:
 
@@ -137,15 +137,15 @@
 
 >         “(8) Any modalities of non-institutional long-term care.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Department of Veterans Affairs $5,000,000 for each of fiscal years 2007 through 2009 to carry out the pilot program authorized by this section.
 
->     “(e) __Allocation of Funds to Facilities.—__ 
+>     “(e)  __Allocation of Funds to Facilities__  __.—__ 
 
 >     The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of this section. The report shall include—
 
@@ -159,15 +159,15 @@
 
 [Pub. L. 106–117, title I, § 102][/us/pl/106/117/s102], Nov. 30, 1999, [113 Stat. 1551][/us/stat/113/1551], as amended by [Pub. L. 108–422, title II, § 203][/us/pl/108/422/s203], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382], provided that:
 
->     “(a) __Pilot Programs.—__ 
+>     “(a)  __Pilot Programs__  __.—__ 
 
 >     The Secretary \[of Veterans Affairs\] shall carry out three pilot programs for the purpose of determining the effectiveness of different models of all-inclusive care-delivery in reducing the use of hospital and nursing home care by frail, elderly veterans.
 
->     “(b) __Locations of Pilot Programs.—__ 
+>     “(b)  __Locations of Pilot Programs__  __.—__ 
 
 >     In selecting locations in which the pilot programs will be carried out, the Secretary may not select more than one location in any given health care region of the Veterans Health Administration.
 
->     “(c) __Scope of Services Under Pilot Programs.—__ 
+>     “(c)  __Scope of Services Under Pilot Programs__  __.—__ 
 
 >     Each of the pilot programs under this section shall be designed to provide participating veterans with integrated, comprehensive services which include the following:
 
@@ -183,7 +183,7 @@
 
 >         “(6) Respite care.
 
->     “(d) __Program Requirements.—__ 
+>     “(d)  __Program Requirements__  __.—__ 
 
 >     In carrying out the pilot programs under this section, the Secretary shall—
 
@@ -193,7 +193,7 @@
 
 >         “(3) ensure that funding for each program is based on the complex care category under the resource allocation system (known as the Veterans Equitable Resource Allocation system) established pursuant to [section 429 of Public Law 104–204][/us/pl/104/204/s429] ([110 Stat. 2929][/us/stat/110/2929]).
 
->     “(e) __Design of Pilot Programs.—__ 
+>     “(e)  __Design of Pilot Programs__  __.—__ 
 
 >     To the maximum extent feasible, the Secretary shall use the following three models in designing the three pilot programs under this section:
 
@@ -215,21 +215,21 @@
 
 >             “(B) services provided through facilities and personnel of the Department.
 
->     “(f) __In-Kind Assistance.—__ 
+>     “(f)  __In-Kind Assistance__  __.—__ 
 
 >     In providing for the furnishing of services under a contract in carrying out the pilot program described in subsection (e)(2), the Secretary may, subject to reimbursement, provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans. Such reimbursement may be made by reduction in the charges to the Secretary under such contract.
 
->     “(g) __Limitation.—__ 
+>     “(g)  __Limitation__  __.—__ 
 
 >     In providing for the furnishing of services in carrying out a pilot program described in subsection (e)(2) or (e)(3), the Secretary shall make payment for services only to the extent that payment for such services is not otherwise covered (notwithstanding any provision of title XVIII or XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\]) by another government or nongovernment entity or program.
 
->     “(h) __Duration of Programs.—__ 
+>     “(h)  __Duration of Programs__  __.—__ 
 
 >         (1) The authority of the Secretary to provide services under a pilot program under this section shall cease on the date that is three years after the date of the commencement of that pilot program.
 
 >         “(2) In the case of a veteran who is participating in a pilot program under this section as of the end of the three-year period applicable to that pilot program under paragraph (1), the Secretary may continue to provide to that veteran any of the services that could be provided under the pilot program. The authority to provide services to any veteran under the preceding sentence applies during the period beginning on the date specified in paragraph (1) with respect to that pilot program and ending on December 31, 2005.
 
->     “(i) __Report.—__ 
+>     “(i)  __Report__  __.—__ 
 
 >         (1) Not later than nine months after the completion of all of the pilot programs under this section, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on those programs.
 
@@ -251,11 +251,11 @@
 
 [Pub. L. 106–117, title I, § 103][/us/pl/106/117/s103], Nov. 30, 1999, [113 Stat. 1552][/us/stat/113/1552], as amended by [Pub. L. 108–170, title I, § 107][/us/pl/108/170/s107], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
 
->     “(a) __Program Authority.—__ 
+>     “(a)  __Program Authority__  __.—__ 
 
 >     The Secretary \[of Veterans Affairs\] may carry out a pilot program for the purpose of determining the feasibility and practicability of enabling eligible veterans to secure needed assisted living services as an alternative to nursing home care.
 
->     “(b) __Locations of Pilot Program.—__ 
+>     “(b)  __Locations of Pilot Program__  __.—__ 
 
 >         (1) The pilot program shall be carried out in a designated health care region of the Department \[of Veterans Affairs\] selected by the Secretary for purposes of this section.
 
@@ -265,11 +265,11 @@
 
 >             “(B) Notwithstanding subsection (f), the authority of the Secretary to provide services under the pilot program in a health care region of the Department selected under subparagraph (A) shall cease on the date that is three years after the commencement of the provision of services under the pilot program in the health care region.
 
->     “(c) __Scope of Program.—__ 
+>     “(c)  __Scope of Program__  __.—__ 
 
 >     In carrying out the pilot program, the Secretary may enter into contracts with appropriate facilities for the provision for a period of up to six months of assisted living services on behalf of eligible veterans in the region where the program is carried out.
 
->     “(d) __Eligible Veterans.—__ 
+>     “(d)  __Eligible Veterans__  __.—__ 
 
 >     A veteran is an eligible veteran for purposes of this section if the veteran—
 
@@ -279,7 +279,7 @@
 
 >         “(3) could reasonably be expected to receive ongoing services after the end of the contract period under another government program or through other means.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >         (1) Not later than 90 days before the end of the pilot program under this section, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the program.
 
@@ -295,15 +295,15 @@
 
 >             “(D) The Secretary’s recommendations, if any, regarding an extension of the program.
 
->     “(f) __Duration.—__ 
+>     “(f)  __Duration__  __.—__ 
 
 >     The authority of the Secretary to provide services under the pilot program shall cease on the date that is three years after the date of the commencement of the pilot program.
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘assisted living services’ means services in a facility that provides room and board and personal care for and supervision of residents as necessary for the health, safety, and welfare of residents.
 
->     “(h) __Standards.—__ 
+>     “(h)  __Standards__  __.—__ 
 
 >     The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulations prescribed under [section 1730 of title 38][/us/usc/t38/s1730], United States Code.”
 

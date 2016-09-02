@@ -15,17 +15,17 @@
 
 ## § 3314. Tutorial assistance
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsection (b), an individual entitled to educational assistance under this chapter shall also be entitled to benefits provided an eligible veteran under section 3492.
 
     (b) __Conditions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The provision of benefits under subsection (a) shall be subject to the conditions applicable to an eligible veteran under section 3492.
 
-        (2) __Certification.—__ 
+        (2)  __Certification__  __.—__ 
 
         In addition to the conditions specified in paragraph (1), benefits may not be provided to an individual under subsection (a) unless the professor or other individual teaching, leading, or giving the course for which such benefits are provided certifies that—
 
@@ -35,15 +35,15 @@
 
     (c) __Amount.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The amount of benefits described in subsection (a) that are payable under this section may not exceed $100 per month, for a maximum of 12 months, or until a maximum of $1,200 is utilized.
 
-        (2) __As additional assistance.—__ 
+        (2)  __As additional assistance__  __.—__ 
 
         The amount provided an individual under this subsection is in addition to the amounts of educational assistance paid the individual under section 3313.
 
-    (d) __No Charge Against Entitlement.—__ 
+    (d)  __No Charge Against Entitlement__  __.—__ 
 
     Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.
 

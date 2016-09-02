@@ -29,7 +29,7 @@
 
 [Pub. L. 102–585, title V, § 526][/us/pl/102/585/s526], Nov. 4, 1992, [106 Stat. 4961][/us/stat/106/4961], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall take appropriate actions to ensure that, consistent with medical requirements and limitations, each facility of the Department described in subsection (b)—
 
@@ -51,11 +51,11 @@
 
 >         “(2) provides access to an area established and maintained under paragraph (1), consistent with medical requirements and limitations, for patients or residents of the facility who are receiving care or services and who desire to smoke tobacco products.
 
->     “(b) __Covered Facilities.—__ 
+>     “(b)  __Covered Facilities__  __.—__ 
 
 >     A Department facility referred to in subsection (a) is any Department of Veterans Affairs medical center, nursing home, or domiciliary care facility.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -69,7 +69,7 @@
 
 >         “(2) Not later than 120 days after the effective date of this section, the Secretary shall submit to the committees referred to in paragraph (1) a report on the implementation of this section. The report shall include a description of the actions taken at each covered facility to ensure compliance with this section.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The requirement to establish and maintain areas for smoking under subsection (a) shall take effect 60 days after the date on which the Comptroller General submits to the committees referred to in subsection (c)(1) that report required under that subsection.”
 

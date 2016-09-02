@@ -15,7 +15,7 @@
 
 ## § 5903. Recognition with respect to particular claims
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may recognize any individual for the preparation, presentation, and prosecution of any particular claim for benefits under any of the laws administered by the Secretary if—
 
@@ -23,7 +23,7 @@
 
         (2) such individual has filed with the Secretary a power of attorney, executed in such manner and in such form as the Secretary may prescribe.
 
-    (b) __Suspension.—__ 
+    (b)  __Suspension__  __.—__ 
 
     An individual recognized under this section shall be subject to the provisions of [section 5904(b) of this title][/us/usc/t38/s5904/b] on the same basis as an individual recognized under [section 5904(a) of this title][/us/usc/t38/s5904/a].
 

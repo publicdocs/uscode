@@ -145,15 +145,15 @@
 
 [Pub. L. 112–239, div. A, title VII, § 729][/us/pl/112/239/s729], Jan. 2, 2013, [126 Stat. 1813][/us/stat/126/1813], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out a national program of outreach to societies, community organizations, nonprofit organizations, and government entities in order to recruit mental health providers who meet the quality standards and requirements of the Department of Veterans Affairs to provide mental health services for the Department on a part-time, without-compensation basis, under [section 7405 of title 38][/us/usc/t38/s7405], United States Code.
 
->     “(b) __Partnering With and Developing Community Entities and Nonprofit Organizations.—__ 
+>     “(b)  __Partnering With and Developing Community Entities and Nonprofit Organizations__  __.—__ 
 
 >     In carrying out the program required by subsection (a), the Secretary may partner with a community entity or nonprofit organization or assist in the development of a community entity or nonprofit organization, including by entering into an agreement under [section 8153 of title 38][/us/usc/t38/s8153], United States Code, that provides strategic coordination of the societies, organizations, and government entities described in subsection (a) in order to maximize the availability and efficient delivery of mental health services to veterans by such societies, organizations, and government entities.
 
->     “(c) __Military Culture Training.—__ 
+>     “(c)  __Military Culture Training__  __.—__ 
 
 >     In carrying out the program required by subsection (a), the Secretary shall provide training to mental health providers to ensure that clinicians who provide mental health services as described in such subsection have sufficient understanding of military-specific and service-specific culture, combat experience, and other factors that are unique to the experience of veterans who served in Operation Enduring Freedom, Operating Iraqi Freedom, or Operation New Dawn.”
 

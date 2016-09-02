@@ -15,7 +15,7 @@
 
 ## § 5725. Contracts for data processing or maintenance
 
-    (a) __Contract Requirements.—__ 
+    (a)  __Contract Requirements__  __.—__ 
 
     If the Secretary enters into a contract for the performance of any Department function that requires access to sensitive personal information, the Secretary shall require as a condition of the contract that—
 
@@ -23,11 +23,11 @@
 
         (2) the contractor, or any subcontractor for a subcontract of the contract, shall promptly notify the Secretary of any data breach that occurs with respect to such information.
 
-    (b) __Liquidated Damages.—__ 
+    (b)  __Liquidated Damages__  __.—__ 
 
     Each contract subject to the requirements of subsection (a) shall provide for liquidated damages to be paid by the contractor to the Secretary in the event of a data breach with respect to any sensitive personal information processed or maintained by the contractor or any subcontractor under that contract.
 
-    (c) __Provision of Credit Protection Services.—__ 
+    (c)  __Provision of Credit Protection Services__  __.—__ 
 
     Any amount collected by the Secretary under subsection (b) shall be deposited in or credited to the Department account from which the contractor was paid and shall remain available for obligation without fiscal year limitation exclusively for the purpose of providing credit protection services pursuant to [section 5724(b) of this title][/us/usc/t38/s5724/b].
 

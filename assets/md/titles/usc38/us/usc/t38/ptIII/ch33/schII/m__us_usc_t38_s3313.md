@@ -15,15 +15,15 @@
 
 ## § 3313. Educational assistance: amount; payment
 
-    (a) __Payment.—__ 
+    (a)  __Payment__  __.—__ 
 
     The Secretary shall pay to each individual entitled to educational assistance under this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual’s subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
 
-    (b) __Approved Programs of Education.—__ 
+    (b)  __Approved Programs of Education__  __.—__ 
 
     A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes of chapter 30 (including approval by the State approving agency concerned).
 
-    (c) __Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—__ 
+    (c)  __Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis__  __.—__ 
 
     The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
@@ -119,25 +119,25 @@
 
     (d) __Frequency of Payment.—__ 
 
-        (1) __Quarter, semester, or term payments.—__ 
+        (1)  __Quarter, semester, or term payments__  __.—__ 
 
         Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-        (2) __Monthly payments.—__ 
+        (2)  __Monthly payments__  __.—__ 
 
         Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
 
-        (3) __Regulations.—__ 
+        (3)  __Regulations__  __.—__ 
 
         The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 
     (e) __Programs of Education Leading to a Degree Pursued on Active Duty on More Than Half-time Basis.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
 
-        (2) __Amount of assistance.—__ 
+        (2)  __Amount of assistance__  __.—__ 
 
         The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty are as follows:
 
@@ -185,21 +185,21 @@
 
             (C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
-        (3) __Quarter, semester, or term payments.—__ 
+        (3)  __Quarter, semester, or term payments__  __.—__ 
 
         Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-        (4) __Monthly payments.—__ 
+        (4)  __Monthly payments__  __.—__ 
 
         For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual to educational assistance under this chapter shall be charged at the rate of one month for each such month.
 
     (f) __Programs of Education Pursued on Half-Time Basis or Less.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Educational assistance is payable under this chapter for pursuit of an approved program of education on half-time basis or less whether a program of education pursued on active duty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree.
 
-        (2) __Amount of assistance.—__ 
+        (2)  __Amount of assistance__  __.—__ 
 
         The educational assistance payable under this chapter to an individual pursuing a program of education covered by this subsection on half-time basis or less is the amounts as follows:
 
@@ -219,11 +219,11 @@
 
             (B) A stipend in an amount equal to the amount of the appropriately reduced amount of the lump sum amount for books, supplies, equipment, and other educational costs otherwise payable to the individual under subsection (c).
 
-        (3) __Quarter, term, or semester payments.—__ 
+        (3)  __Quarter, term, or semester payments__  __.—__ 
 
         Payment of the amounts payable to an individual under paragraph (2) for pursuit of a program of education on half-time basis or less shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-        (4) __Monthly payments.—__ 
+        (4)  __Monthly payments__  __.—__ 
 
         For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual to educational assistance under this chapter shall be charged at a percentage of a month equal to—
 
@@ -233,15 +233,15 @@
 
     (g) __Programs of Education Other Than Programs of Education Leading to a Degree.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Educational assistance is payable under this chapter for pursuit of an approved program of education other than a program of education leading to a degree at an institution other than an institution of higher learning (as that term is defined in section 3452(f)).
 
-        (2) __Pursuit on half-time basis or less.—__ 
+        (2)  __Pursuit on half-time basis or less__  __.—__ 
 
         The payment of educational assistance under this chapter for pursuit of a program of education otherwise described in paragraph (1) on a half-time basis or less is governed by subsection (f).
 
-        (3) __Amount of assistance.—__ 
+        (3)  __Amount of assistance__  __.—__ 
 
         The amounts of educational assistance payable under this chapter to an individual entitled to educational assistance under this chapter who is pursuing an approved program of education covered by this subsection are as follows:
 
@@ -383,11 +383,11 @@
 
         (4) __Frequency of payment.—__ 
 
-            (A) __Quarter, semester, or term payments.—__ 
+            (A)  __Quarter, semester, or term payments__  __.—__ 
 
             Payment of the amounts payable under paragraph (3)(A)(i) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-            (B) __Monthly payments.—__ 
+            (B)  __Monthly payments__  __.—__ 
 
             Payment of the amounts payable under paragraphs (3)(A)(ii) and (3)(B)(i) for pursuit of a program of education shall be made on a monthly basis.
 
@@ -397,13 +397,13 @@
 
                 (ii) Payment of the amount payable under paragraph (3)(C) for pursuit of a program of education shall be made upon receipt of certification for training completed by the individual and serviced by the training facility.
 
-            (D) __Quarterly payments.—__ 
+            (D)  __Quarterly payments__  __.—__ 
 
             Payment of the amounts payable under paragraph (3)(D) for pursuit of a program of education shall be made quarterly on a pro rata basis for the lessons completed by the individual and serviced by the institution.
 
         (5) __Charge against entitlement for certificate and other non-college degree programs.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the case of amounts paid under paragraph (3)(A)(i) for pursuit of a program of education, the charge against entitlement to educational assistance under this chapter of the individual for whom such payment is made shall be one month for each of—
 
@@ -411,15 +411,15 @@
 
                 (ii) subject to subparagraph (B), the amount equal to one-twelfth of the amount applicable in the academic year in which the payment is made under paragraph (3)(A)(i)(II).
 
-            (B) __Pro rata adjustment based on certain eligibility.—__ 
+            (B)  __Pro rata adjustment based on certain eligibility__  __.—__ 
 
             If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
-    (h) __Payment of Established Charges to Educational Institutions.—__ 
+    (h)  __Payment of Established Charges to Educational Institutions__  __.—__ 
 
     Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 
-    (i) __Determination of Housing Stipend Payments for Academic Years.—__ 
+    (i)  __Determination of Housing Stipend Payments for Academic Years__  __.—__ 
 
     Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under [section 403 of title 37][/us/usc/t37/s403] in effect as of January 1 of such calendar year.
 
@@ -489,21 +489,21 @@
 
 [Pub. L. 111–377, title I, § 102(c)][/us/pl/111/377/s102/c], Jan. 4, 2011, [124 Stat. 4110][/us/stat/124/4110], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on August 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after that date.
 
->     “(2) __Stipend for distance learning on more than half-time basis.—__ 
+>     “(2)  __Stipend for distance learning on more than half-time basis__  __.—__ 
 
 >     Clause (iii) of [section 3313(c)(1)(B) of title 38][/us/usc/t38/s3313/c/1/B], United States Code (as added by subsection (b)(2) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education as covered by such clause on or after that date.”
 
 [Pub. L. 111–377, title I, § 103(c)][/us/pl/111/377/s103/c], Jan. 4, 2011, [124 Stat. 4112][/us/stat/124/4112], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
 
->     “(2) __Lump sum for books and other educational costs.—__ 
+>     “(2)  __Lump sum for books and other educational costs__  __.—__ 
 
 >     Subparagraph (B) of [section 3313(e)(2) of title 38][/us/usc/t38/s3313/e/2], United States Code (as added by subsection (a)(2)(E) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after that date.”
 
@@ -527,7 +527,7 @@
 
 [Pub. L. 112–26, § 2][/us/pl/112/26/s2], Aug. 3, 2011, [125 Stat. 268][/us/stat/125/268], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding paragraph (1)(A)(ii) of [section 3313(c) of title 38][/us/usc/t38/s3313/c], United States Code (as amended by the Post-9/11 Veterans Educational Assistance Improvements Act of 2010 ([Public Law 111–377][/us/pl/111/377])), the amount payable under that paragraph (or as appropriately adjusted under paragraphs (2) through (7) of that section) for tuition and fees for pursuit by an individual described in subsection (b) of an approved program of education at a non-public institution of higher learning during the period beginning on August 1, 2011, and ending on July 31, 2014, shall be the greater of—
 
@@ -535,7 +535,7 @@
 
 >         “(2) the established charges payable for the program of education determined using the table of the Department of Veterans Affairs entitled ‘Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums’, published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
 
->     “(b) __Covered Individuals.—__ 
+>     “(b)  __Covered Individuals__  __.—__ 
 
 >     An individual described in this subsection is an individual entitled to educational assistance under chapter 33 of title 38, United States Code, who, since January 4, 2011, has been enrolled in the same non-public institution of higher learning in a State in which—
 
@@ -543,7 +543,7 @@
 
 >         “(2) the combined amount of tuition and fees for full-time attendance in the program of education in such academic year exceeded $17,500.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

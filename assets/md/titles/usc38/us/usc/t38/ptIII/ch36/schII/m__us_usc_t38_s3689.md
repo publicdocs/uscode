@@ -15,13 +15,13 @@
 
 ## § 3689. Approval requirements for licensing and certification testing
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the test is deemed approved by [section 3672(b)(2)(B) of this title][/us/usc/t38/s3672/b/2/B] or the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 33, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
 
         (2) To the extent that the Secretary determines practicable, State approving agencies may, in lieu of the Secretary, approve licensing and certification tests, and organizations and entities offering such tests, under this section.
 
-    (b) __Requirements for Tests.—__ 
+    (b)  __Requirements for Tests__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
         (2) A licensing or certification test offered by a State, or a political subdivision of a State, is deemed approved by the Secretary for purposes of this section.
 
-    (c) __Requirements for Organizations or Entities Offering Tests.—__ 
+    (c)  __Requirements for Organizations or Entities Offering Tests__  __.—__ 
 
         (1)
 
@@ -83,11 +83,11 @@
 
         (2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
 
-    (d) __Administration.—__ 
+    (d)  __Administration__  __.—__ 
 
     Except as otherwise specifically provided in this section or chapter 30, 32, 33, 34, or 35 of this title, in implementing this section and making payment under any such chapter for a licensing or certification test, the test is deemed to be a “course” and the organization or entity that offers such test is deemed to be an “institution” or “educational institution”, respectively, as those terms are applied under and for purposes of sections 3671, 3673, 3674, 3678, 3679, 3681, 3682, 3683, 3685, 3690, and 3696 of this title.
 
-    (e) __Professional Certification and Licensure Advisory Committee.—__ 
+    (e)  __Professional Certification and Licensure Advisory Committee__  __.—__ 
 
         (1) There is established within the Department a committee to be known as the Professional Certification and Licensure Advisory Committee (hereinafter in this section referred to as the “Committee”).
 

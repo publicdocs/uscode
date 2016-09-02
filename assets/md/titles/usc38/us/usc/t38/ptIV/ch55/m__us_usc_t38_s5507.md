@@ -51,7 +51,7 @@
 
             (D) being appointed to manage an estate where the annual amount of veterans benefits to be managed by the proposed fiduciary does not exceed $3,600, as adjusted pursuant to [section 5312 of this title][/us/usc/t38/s5312].
 
-    (d) __Temporary Fiduciaries.—__ 
+    (d)  __Temporary Fiduciaries__  __.—__ 
 
     When in the opinion of the Secretary, a temporary fiduciary is needed in order to protect the assets of the beneficiary while a determination of incompetency is being made or appealed or a fiduciary is appealing a determination of misuse, the Secretary may appoint one or more temporary fiduciaries for a period not to exceed 120 days. If a final decision has not been made within 120 days, the Secretary may not continue the appointment of the fiduciary without obtaining a court order for appointment of a guardian, conservator, or other fiduciary under the authority provided in [section 5502(b) of this title][/us/usc/t38/s5502/b].
 

@@ -15,7 +15,7 @@
 
 ## § 3680. Payment of educational assistance or subsistence allowances
 
-    (a) __Period for Which Payment May Be Made.—__ 
+    (a)  __Period for Which Payment May Be Made__  __.—__ 
 
     Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
@@ -33,7 +33,7 @@
 
         Notwithstanding the foregoing, the Secretary may, subject to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in clause (1) of this subsection during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation. However, the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks.
 
-    (b) __Correspondence Training Certifications.—__ 
+    (b)  __Correspondence Training Certifications__  __.—__ 
 
     No educational assistance allowance shall be paid to an eligible veteran or spouse or surviving spouse enrolled in and pursuing a program of education exclusively by correspondence until the Secretary shall have received—
 
@@ -41,7 +41,7 @@
 
         (2) from the training establishment a certification or an endorsement on the veteran’s or spouse’s or surviving spouse’s certificate, as to the number of lessons completed by the veteran or spouse or surviving spouse and serviced by the institution.
 
-    (c) __Apprenticeship and Other On-Job Training.—__ 
+    (c)  __Apprenticeship and Other On-Job Training__  __.—__ 
 
     No training assistance allowance shall be paid to an eligible veteran or eligible person enrolled in and pursuing a program of apprenticeship or other on-job training until the Secretary shall have received—
 
@@ -49,7 +49,7 @@
 
         (2) from the training establishment a certification, or an endorsement on the veteran’s or person’s certificate, that such veteran or person was enrolled in and pursuing a program of apprenticeship or other on-job training during such period.
 
-    (d) __Advance Payment of Initial Educational Assistance or Subsistence Allowance.—__ 
+    (d)  __Advance Payment of Initial Educational Assistance or Subsistence Allowance__  __.—__ 
 
         (1) The educational assistance or subsistence allowance advance payment provided for in this subsection is based upon a finding by the Congress that eligible veterans and eligible persons may need additional funds at the beginning of a school term to meet the expenses of books, travel, deposits, and payment for living quarters, the initial installment of tuition, and the other special expenses which are concentrated at the beginning of a school term.
 
@@ -69,17 +69,17 @@
 
         (5) Upon delivery of the advance payment pursuant to paragraph (4) of this subsection, the institution shall submit to the Secretary a certification of such delivery. If such delivery is not effected within thirty days after commencement of the program of education in question, such institution shall return such payment to the Secretary forthwith.
 
-    (e) __Recovery of Erroneous Payments.—__ 
+    (e)  __Recovery of Erroneous Payments__  __.—__ 
 
         (1) Subject to paragraph (2), if an eligible veteran or eligible person fails to enroll in or pursue a course for which an educational assistance or subsistence allowance advance payment is made, the amount of such payment and any amount of subsequent payments which, in whole or in part, are due to erroneous information required to be furnished under subsection (d)(2) of this section, shall become an overpayment and shall constitute a liability of such veteran or person to the United States and may be recovered, unless waived pursuant to [section 5302 of this title][/us/usc/t38/s5302], from any benefit otherwise due such veteran or person under any law administered by the Department of Veterans Affairs or may be recovered in the same manner as any other debt due the United States.
 
         (2) Paragraph (1) shall not apply to the recovery of an overpayment of an educational allowance or subsistence allowance advance payment to an eligible veteran or eligible person who fails to enroll in or pursue a course of education for which the payment is made if such failure is due to the death of the veteran or person.
 
-    (f) __Payments for Less Than Half-Time Training.—__ 
+    (f)  __Payments for Less Than Half-Time Training__  __.—__ 
 
     Payment of educational assistance allowance in the case of any eligible veteran or eligible person pursuing a program of education on less than a half-time basis shall be made in an amount computed for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such veteran or person has enrolled in and is pursuing a program at such institution. Such lump sum payment shall be computed at the rate provided in section 3482(b) or 3532(a)(2) of this title, as applicable.
 
-    (g) __Determination of Enrollment, Pursuit, and Attendance.—__ 
+    (g)  __Determination of Enrollment, Pursuit, and Attendance__  __.—__ 
 
         (1)
 

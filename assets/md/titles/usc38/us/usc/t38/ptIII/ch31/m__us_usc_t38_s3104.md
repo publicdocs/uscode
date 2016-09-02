@@ -111,11 +111,11 @@
 
 [Pub. L. 100–323, § 16][/us/pl/100/323/s16], May 20, 1988, [102 Stat. 575][/us/stat/102/575], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of and amendments made by this Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[May 20, 1988\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >         (1)
 
@@ -139,7 +139,7 @@
 
 [Pub. L. 109–461, title II, § 207][/us/pl/109/461/s207], Dec. 22, 2006, [120 Stat. 3412][/us/stat/120/3412], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -161,11 +161,11 @@
 
 >         “(5) There are not enough Specialist positions to meet the increased numbers and needs of blind veterans.
 
->     “(b) __Establishment of Additional Specialist Positions.—__ 
+>     “(b)  __Establishment of Additional Specialist Positions__  __.—__ 
 
 >     Not later than 30 months after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall establish an additional Specialist position at not fewer than 35 additional facilities of the Department of Veterans Affairs.
 
->     “(c) __Selection of Facilities.—__ 
+>     “(c)  __Selection of Facilities__  __.—__ 
 
 >     In identifying the most appropriate facilities to receive a Specialist position under this section, the Secretary shall—
 
@@ -175,11 +175,11 @@
 
 >         “(3) ensure that each facility is in need of the services of a Specialist.
 
->     “(d) __Coordination.—__ 
+>     “(d)  __Coordination__  __.—__ 
 
 >     The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to the extent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the Department of Veterans Affairs to carry out this section $3,500,000 for each of fiscal years 2007 through 2012.”
 

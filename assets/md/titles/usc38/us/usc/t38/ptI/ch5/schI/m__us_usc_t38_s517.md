@@ -15,11 +15,11 @@
 
 ## § 517. Quarterly reports to Congress on conferences sponsored by the Department
 
-    (a) __Quarterly Reports Required.—__ 
+    (a)  __Quarterly Reports Required__  __.—__ 
 
     Not later than 30 days after the end of each fiscal quarter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on covered conferences.
 
-    (b) __Matters Included.—__ 
+    (b)  __Matters Included__  __.—__ 
 
     Each report under subsection (a) shall include the following:
 
@@ -47,7 +47,7 @@
 
         (2) The total estimated costs to the Department for covered conferences occurring during the fiscal quarter in which the report is submitted.
 
-    (c) __Covered Conference Defined.—__ 
+    (c)  __Covered Conference Defined__  __.—__ 
 
     In this section, the term “covered conference” means a conference, meeting, or other similar forum that is sponsored or co-sponsored by the Department and is—
 

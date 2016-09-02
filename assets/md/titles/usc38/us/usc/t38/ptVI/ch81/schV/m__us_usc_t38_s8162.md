@@ -117,11 +117,11 @@
 
 Pub. L. 112—154, title II, § 211(b)(2), Aug. 6, 2012, [126 Stat. 1180][/us/stat/126/1180], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Paragraph (2) of [section 8162(a) of title 38][/us/usc/t38/s8162/a], United States Code, as amended by paragraph (1), shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.
 
->     “(B) __Previous leases.—__ 
+>     “(B)  __Previous leases__  __.—__ 
 
 >     Any enhanced-use lease that the Secretary has entered into prior to the date described in subparagraph (A) shall be subject to the provisions of subchapter V of chapter 81 of such title, as in effect on the day before the date of the enactment of this Act \[Aug. 6, 2012\].”
 

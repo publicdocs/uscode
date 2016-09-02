@@ -15,11 +15,11 @@
 
 ## § 1710E. Traumatic brain injury: use of non-Department facilities for rehabilitation
 
-    (a) __Cooperative Agreements.—__ 
+    (a)  __Cooperative Agreements__  __.—__ 
 
     The Secretary, in implementing and carrying out a plan developed under [section 1710C of this title][/us/usc/t38/s1710C], may provide hospital care and medical services, including rehabilitative services (as defined in [section 1710C of this title][/us/usc/t38/s1710C]), through cooperative agreements with appropriate public or private entities that have established long-term neurobehavioral rehabilitation and recovery programs.
 
-    (b) __Covered Individuals.—__ 
+    (b)  __Covered Individuals__  __.—__ 
 
     The care and services provided under subsection (a) shall be made available to an individual—
 
@@ -31,11 +31,11 @@
 
             (B) for whom the Secretary determines that it is optimal with respect to the recovery and rehabilitation for such individual.
 
-    (c) __Authorities of State Protection and Advocacy Systems.—__ 
+    (c)  __Authorities of State Protection and Advocacy Systems__  __.—__ 
 
     Nothing in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 shall be construed as preventing a State protection and advocacy system (as defined in [section 1710C(g) of this title][/us/usc/t38/s1710C/g]) from exercising the authorities described in such subtitle with respect to individuals provided rehabilitative treatment or services under [section 1710C of this title][/us/usc/t38/s1710C] in a non-Department facility.
 
-    (d) __Standards.—__ 
+    (d)  __Standards__  __.—__ 
 
     The Secretary may not provide treatment or services as described in subsection (a) at a non-Department facility under such subsection unless such facility maintains standards for the provision of such treatment or services established by an independent, peer-reviewed organization that accredits specialized rehabilitation programs for adults with traumatic brain injury.
 

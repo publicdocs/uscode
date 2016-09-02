@@ -15,23 +15,23 @@
 
 ## § 7672. Eligibility; agreement
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     To be eligible to participate in the Program, an individual must be an eligible Department employee who is accepted for enrollment or enrolled (as described in [section 7602 of this title][/us/usc/t38/s7602]) as a full-time or part-time student in a field of education or training described in subsection (c).
 
-    (b) __Eligible Department Employees.—__ 
+    (b)  __Eligible Department Employees__  __.—__ 
 
     For purposes of subsection (a), an eligible Department employee is any employee of the Department who, as of the date on which the employee submits an application for participation in the Program, has been continuously employed by the Department for not less than one year.
 
-    (c) __Qualifying Fields of Education or Training.—__ 
+    (c)  __Qualifying Fields of Education or Training__  __.—__ 
 
     A scholarship may be awarded under the Program only for education and training in a field leading to appointment or retention in a position under [section 7401 of this title][/us/usc/t38/s7401].
 
-    (d) __Award of Scholarships.—__ 
+    (d)  __Award of Scholarships__  __.—__ 
 
     Notwithstanding [section 7603(d) of this title][/us/usc/t38/s7603/d], the Secretary, in selecting participants in the Program, may award a scholarship only to applicants who have a record of employment with the Veterans Health Administration which, in the judgment of the Secretary, demonstrates a high likelihood that the applicant will be successful in completing such education or training and in employment in such field.
 
-    (e) __Agreement.—__ 
+    (e)  __Agreement__  __.—__ 
 
         (1)
 

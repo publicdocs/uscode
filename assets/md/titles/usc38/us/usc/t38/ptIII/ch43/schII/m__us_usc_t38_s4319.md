@@ -15,19 +15,19 @@
 
 ## § 4319. Employment and reemployment rights in foreign countries
 
-    (a) __Liability of Controlling United States Employer of Foreign Entity.—__ 
+    (a)  __Liability of Controlling United States Employer of Foreign Entity__  __.—__ 
 
     If an employer controls an entity that is incorporated or otherwise organized in a foreign country, any denial of employment, reemployment, or benefit by such entity shall be presumed to be by such employer.
 
-    (b) __Inapplicability to Foreign Employer.—__ 
+    (b)  __Inapplicability to Foreign Employer__  __.—__ 
 
     This subchapter does not apply to foreign operations of an employer that is a foreign person not controlled by an United States employer.
 
-    (c) __Determination of Controlling Employer.—__ 
+    (c)  __Determination of Controlling Employer__  __.—__ 
 
     For the purpose of this section, the determination of whether an employer controls an entity shall be based upon the interrelations of operations, common management, centralized control of labor relations, and common ownership or financial control of the employer and the entity.
 
-    (d) __Exemption.—__ 
+    (d)  __Exemption__  __.—__ 
 
     Notwithstanding any other provision of this subchapter, an employer, or an entity controlled by an employer, shall be exempt from compliance with any of sections 4311 through 4318 of this title with respect to an employee in a workplace in a foreign country, if compliance with that section would cause such employer, or such entity controlled by an employer, to violate the law of the foreign country in which the workplace is located.
 

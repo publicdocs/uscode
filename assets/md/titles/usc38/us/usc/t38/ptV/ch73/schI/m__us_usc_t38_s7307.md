@@ -15,7 +15,7 @@
 
 ## § 7307. Office of Research Oversight
 
-    (a) __Requirement for Office.—__ 
+    (a)  __Requirement for Office__  __.—__ 
 
         (1) There is in the Veterans Health Administration an Office of Research Oversight (hereinafter in this section referred to as the “Office”). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
 
@@ -27,7 +27,7 @@
 
             (B) monitor, review, and investigate matters relating to the protection and safety of human subjects and Department employees participating in medical research in Department programs.
 
-    (b) __Director.—__ 
+    (b)  __Director__  __.—__ 
 
         (1) The head of the Office shall be a Director, who shall report directly to the Under Secretary for Health (without delegation).
 
@@ -39,7 +39,7 @@
 
             (B) qualified to carry out the duties of the Office based on demonstrated experience and expertise.
 
-    (c) __Functions.—__ 
+    (c)  __Functions__  __.—__ 
 
         (1) The Director shall report to the Under Secretary for Health on matters relating to protections of human subjects in medical research projects of the Department under any applicable Federal law and regulation, the safety of employees involved in Department medical research programs, and suspected misconduct and impropriety in such programs. In carrying out the preceding sentence, the Director shall consult with employees of the Veterans Health Administration who are responsible for the management and conduct of Department medical research programs.
 
@@ -51,7 +51,7 @@
 
             (B) In a case in which the Director reasonably believes that activities of a medical research project of the Department place human subjects’ lives or health at imminent risk, the Director shall direct that activities under that project be immediately suspended or, as appropriate and specified by the Director, be limited.
 
-    (d) __General Functions.—__ 
+    (d)  __General Functions__  __.—__ 
 
         (1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Such inspections and reviews shall include review of required documented assurances.
 
@@ -63,11 +63,11 @@
 
         (5) The Director shall carry out such other duties as the Under Secretary for Health may require.
 
-    (e) __Source of Funds.—__ 
+    (e)  __Source of Funds__  __.—__ 
 
     Amounts for the activities of the Office, including its regional offices, shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
     Not later than March 15 each year, the Director shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Office during the preceding calendar year. Each such report shall include, with respect to that year, the following:
 
@@ -79,7 +79,7 @@
 
         (4) Other information that would be of interest to those committees in oversight of the Department medical research program.
 
-    (g) __Medical Research.—__ 
+    (g)  __Medical Research__  __.—__ 
 
     For purposes of this section, the term “medical research” means medical research described in [section 7303(a)(2) of this title][/us/usc/t38/s7303/a/2].
 

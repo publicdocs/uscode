@@ -15,13 +15,13 @@
 
 ## § 7329. Parkinson’s Disease research, education, and clinical centers
 
-    (a) __Establishment of Centers.—__ 
+    (a)  __Establishment of Centers__  __.—__ 
 
         (1) The Secretary, upon the recommendation of the Under Secretary for Health, shall designate not less than six Department health-care facilities as the locations for centers of Parkinson’s Disease research, education, and clinical activities.
 
         (2) Subject to the availability of appropriations for such purpose, the Secretary shall establish and operate centers of Parkinson’s Disease research, education, and clinical activities centers at the locations designated pursuant to paragraph (1).
 
-    (b) __Criteria for Designation of Facilities.—__ 
+    (b)  __Criteria for Designation of Facilities__  __.—__ 
 
         (1) In designating Department health-care facilities for centers under subsection (a), the Secretary, upon the recommendation of the Under Secretary for Health, shall assure appropriate geographic distribution of such facilities.
 
@@ -41,7 +41,7 @@
 
                 (ii) the potential to carry out such purposes effectively in the reasonably foreseeable future.
 
-    (c) __Requirements for Designation.—__ 
+    (c)  __Requirements for Designation__  __.—__ 
 
         (1) The Secretary may not designate a Department health-care facility as a location for a center under subsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals that meet the highest competitive standards of scientific and clinical merit.
 
@@ -63,7 +63,7 @@
 
             (G) The capability to develop a national repository in the health-care system of the Department for the collection of data on health services delivered to veterans seeking care for neurodegenerative diseases, including Parkinson’s Disease, and other movement disorders.
 
-    (d) __Peer Review Panel.—__ 
+    (d)  __Peer Review Panel__  __.—__ 
 
         (1) The Under Secretary for Health shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of centers under this section.
 
@@ -79,15 +79,15 @@
 
         (4) The panel shall not be subject to the Federal Advisory Committee Act.
 
-    (e) __Priority of Funding.—__ 
+    (e)  __Priority of Funding__  __.—__ 
 
     Before providing funds for the operation of a center designated under subsection (a) at a Department health-care facility other than at a facility designated pursuant to subsection (b)(2), the Secretary shall ensure that each Parkinson’s Disease center at a facility designated pursuant to subsection (b)(2) is receiving adequate funding to enable that center to function effectively in the areas of Parkinson’s Disease research, education, and clinical activities.
 
-    (f) __Authorization of Appropriations.—__ 
+    (f)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 
-    (g) __Award Competitions.—__ 
+    (g)  __Award Competitions__  __.—__ 
 
     Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in Parkinson’s Disease and other movement disorders.
 

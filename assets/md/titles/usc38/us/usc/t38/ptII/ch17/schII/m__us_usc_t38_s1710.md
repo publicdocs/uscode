@@ -553,11 +553,11 @@
 
 [Pub. L. 112–154, title I, § 102(d)][/us/pl/112/154/s102/d], Aug. 6, 2012, [126 Stat. 1169][/us/stat/126/1169], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The provisions of this section \[enacting [section 1787 of this title][/us/usc/t38/s1787] and amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\].
 
->     “(2) __Applicability.—__ 
+>     “(2)  __Applicability__  __.—__ 
 
 >     Subparagraph (F) of section 1710(e)(1) of such title \[probably means title 38, United States Code\], as added by subsection (a), and [section 1787 of title 38][/us/usc/t38/s1787], United States Code, as added by subsection (b)(1), shall apply with respect to hospital care and medical services provided on or after the date of the enactment of this Act.”
 
@@ -609,7 +609,7 @@
 
 [Pub. L. 101–508, title VIII, § 8013(d)][/us/pl/101/508/s8013/d], (e), Nov. 5, 1990, [104 Stat. 1388–347][/us/stat/104/1388-347], as amended by [Pub. L. 102–139, title V, § 518(b)][/us/pl/102/139/s518/b], Oct. 28, 1991, [105 Stat. 779][/us/stat/105/779]; [Pub. L. 102–568, title VI, § 606(b)][/us/pl/102/568/s606/b], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12002(a)][/us/pl/103/66/s12002/a], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 105–33, title VIII, § 8021(a)(2)][/us/pl/105/33/s8021/a/2], Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], provided that:
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 612 and 622 \[now 1712 and 1722\] of this title\] shall apply with respect to hospital care and medical services received after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.
 
@@ -673,11 +673,11 @@
 
 [Pub. L. 111–163, title II, § 205][/us/pl/111/163/s205], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144], as amended by [Pub. L. 113–37, § 2(i)][/us/pl/113/37/s2/i], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing, subject to subsection (b), assistance to qualified veterans described in subsection (c) to obtain child care so that such veterans can receive health care services described in subsection (c).
 
->     “(b) __Limitation on Period of Payments.—__ 
+>     “(b)  __Limitation on Period of Payments__  __.—__ 
 
 >     Assistance may only be provided to a qualified veteran under the pilot program for receipt of child care during the period that the qualified veteran—
 
@@ -685,7 +685,7 @@
 
 >         “(2) requires travel to and return from such facility for the receipt of such health care services.
 
->     “(c) __Qualified Veterans.—__ 
+>     “(c)  __Qualified Veterans__  __.—__ 
 
 >     For purposes of this section, a qualified veteran is a veteran who is—
 
@@ -705,17 +705,17 @@
 
 >             “(B) in need of regular or intensive mental health care services from the Department, and but for lack of child care services, would receive such health care services from the Department.
 
->     “(d) __Locations.—__ 
+>     “(d)  __Locations__  __.—__ 
 
 >     The Secretary shall carry out the pilot program in no fewer than three Veterans Integrated Service Networks selected by the Secretary for purposes of the pilot program.
 
->     “(e) __Duration.—__ 
+>     “(e)  __Duration__  __.—__ 
 
 >     The pilot program shall be carried out during the 3-year period beginning on the date of the commencement of the pilot program.
 
 >     “(f) __Forms of Child Care Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Child care assistance under this section may include the following:
 
@@ -729,15 +729,15 @@
 
 >             “(E) Such other forms of assistance as the Secretary considers appropriate.
 
->         “(2) __Amounts of stipends.—__ 
+>         “(2)  __Amounts of stipends__  __.—__ 
 
 >         In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 6 months after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall include the findings and conclusions of the Secretary as a result of the pilot program, and shall include such recommendations for the continuation or expansion of the pilot program as the Secretary considers appropriate.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010 and 2014.”
 
@@ -747,11 +747,11 @@
 
 >     “(a) __Grants Authorized.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall establish a grant program to provide innovative transportation options to veterans in highly rural areas.
 
->         “(2) __Eligible recipients.—__ 
+>         “(2)  __Eligible recipients__  __.—__ 
 
 >         The following may be awarded a grant under this section:
 
@@ -759,7 +759,7 @@
 
 >             “(B) Veterans service organizations.
 
->         “(3) __Use of funds.—__ 
+>         “(3)  __Use of funds__  __.—__ 
 
 >         A State veterans service agency or veterans service organization awarded a grant under this section may use the grant amount to—
 
@@ -767,15 +767,15 @@
 
 >             “(B) otherwise assist in providing transportation in connection with the provision of medical care to veterans in highly rural areas.
 
->         “(4) __Maximum amount.—__ 
+>         “(4)  __Maximum amount__  __.—__ 
 
 >         The amount of a grant under this section may not exceed $50,000.
 
->         “(5) __No matching requirement.—__ 
+>         “(5)  __No matching requirement__  __.—__ 
 
 >         The recipient of a grant under this section shall not be required to provide matching funds as a condition for receiving such grant.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary shall prescribe regulations for—
 
@@ -783,19 +783,19 @@
 
 >         “(2) otherwise administering the program established by this section.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Highly rural.—__ 
+>         “(1)  __Highly rural__  __.—__ 
 
 >         The term ‘highly rural’, in the case of an area, means that the area consists of a county or counties having a population of less than seven persons per square mile.
 
->         “(2) __Veterans service organization.—__ 
+>         “(2)  __Veterans service organization__  __.—__ 
 
 >         The term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902], United States Code.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 to carry out this section.”
 
@@ -809,15 +809,15 @@
 
 [Pub. L. 107–135, title II, § 210][/us/pl/107/135/s210], Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464], provided that:
 
->     “(a) __Evaluation and Study.—__ 
+>     “(a)  __Evaluation and Study__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out an evaluation and study of the feasibility and desirability of providing a personal emergency response system to veterans who have service-connected disabilities. The evaluation and study shall be commenced not later than 60 days after the date of the enactment of this Act \[Jan. 23, 2002\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the evaluation and study under subsection (a). The Secretary shall include in the report the Secretary’s findings resulting from the evaluation and study and the Secretary’s conclusion as to whether the Department of Veterans Affairs should provide a personal emergency response system to veterans with service-connected disabilities.
 
->     “(c) __Authority To Provide System.—__ 
+>     “(c)  __Authority To Provide System__  __.—__ 
 
 >     If the Secretary concludes in the report under subsection (b) that a personal emergency response system should be provided by the Department of Veterans Affairs to veterans with service-connected disabilities—
 
@@ -825,11 +825,11 @@
 
 >         “(2) the Secretary may contract with one or more vendors to furnish such a system.
 
->     “(d) __Application.—__ 
+>     “(d)  __Application__  __.—__ 
 
 >     A personal emergency response system may be provided to a veteran under subsection (c)(1) only upon the submission by the veteran of an application for the system. Any such application shall be in such form and manner as the Secretary may require.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘personal emergency response system’ means a device—
 
@@ -841,33 +841,33 @@
 
 [Pub. L. 107–135, title II, § 204][/us/pl/107/135/s204], Jan. 23, 2002, [115 Stat. 2459][/us/stat/115/2459], provided that:
 
->     “(a) __Requirement for Program.—__ 
+>     “(a)  __Requirement for Program__  __.—__ 
 
 >     Subject to the provisions of this section, the Secretary of Veterans Affairs shall carry out a program to provide chiropractic care and services to veterans through Department of Veterans Affairs medical centers and clinics.
 
->     “(b) __Eligible Veterans.—__ 
+>     “(b)  __Eligible Veterans__  __.—__ 
 
 >     Veterans eligible to receive chiropractic care and services under the program are veterans who are enrolled in the system of patient enrollment under [section 1705 of title 38][/us/usc/t38/s1705], United States Code.
 
->     “(c) __Location of Program.—__ 
+>     “(c)  __Location of Program__  __.—__ 
 
 >     The program shall be carried out at sites designated by the Secretary for purposes of the program. The Secretary shall designate at least one site for such program in each geographic service area of the Veterans Health Administration. The sites so designated shall be medical centers and clinics located in urban areas and in rural areas.
 
->     “(d) __Care and Services Available.—__ 
+>     “(d)  __Care and Services Available__  __.—__ 
 
 >     The chiropractic care and services available under the program shall include a variety of chiropractic care and services for neuro-musculoskeletal conditions, including subluxation complex.
 
->     “(e) __Other Administrative Matters.—__ 
+>     “(e)  __Other Administrative Matters__  __.—__ 
 
 >         (1) The Secretary shall carry out the program through personal service contracts and by appointment of licensed chiropractors in Department medical centers and clinics.
 
 >         “(2) As part of the program, the Secretary shall provide training and materials relating to chiropractic care and services to Department health care providers assigned to primary care teams for the purpose of familiarizing such providers with the benefits of chiropractic care and services.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Secretary shall prescribe regulations to carry out this section.
 
->     “(g) __Chiropractic Advisory Committee.—__ 
+>     “(g)  __Chiropractic Advisory Committee__  __.—__ 
 
 >         (1) The Secretary shall establish an advisory committee to provide direct assistance and advice to the Secretary in the development and implementation of the chiropractic health program.
 
@@ -891,11 +891,11 @@
 
 [Pub. L. 106–117, title III, § 303][/us/pl/106/117/s303], Nov. 30, 1999, [113 Stat. 1572][/us/stat/113/1572], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Nov. 30, 1999\], the Under Secretary for Health of the Department of Veterans Affairs, after consultation with chiropractors, shall establish a policy for the Veterans Health Administration regarding the role of chiropractic treatment in the care of veterans under chapter 17 of title 38, United States Code.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -949,15 +949,15 @@
 
 [Pub. L. 104–262, title III, § 322][/us/pl/104/262/s322], Oct. 9, 1996, [110 Stat. 3196][/us/stat/110/3196], provided that:
 
->     “(a) __Identification of Deficiencies.—__ 
+>     “(a)  __Identification of Deficiencies__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall conduct a survey of each medical center under the jurisdiction of the Secretary to identify deficiencies relating to patient privacy afforded to women patients in the clinical areas at each such center which may interfere with appropriate treatment of such patients.
 
->     “(b) __Correction of Deficiencies.—__ 
+>     “(b)  __Correction of Deficiencies__  __.—__ 
 
 >     The Secretary shall ensure that plans and, where appropriate, interim steps to correct the deficiencies identified in the survey conducted under subsection (a) are developed and are incorporated into the Department’s construction planning processes and, in cases in which it is cost-effective to do so, are given a high priority.
 
->     “(c) __Reports to Congress.—__ 
+>     “(c)  __Reports to Congress__  __.—__ 
 
 >     The Secretary shall compile an annual inventory, by medical center, of deficiencies identified under subsection (a) and of plans and, where appropriate, interim steps, to correct such deficiencies. The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than October 1, 1997, and not later than October 1 each year thereafter through 1999 a report on such deficiencies. The Secretary shall include in such report the inventory compiled by the Secretary, the proposed corrective plans, and the status of such plans.”
 
@@ -965,11 +965,11 @@
 
 [Pub. L. 104–262, title III, § 341][/us/pl/104/262/s341], Oct. 9, 1996, [110 Stat. 3205][/us/stat/110/3205], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall conduct a research study to determine the desirability of the Secretary furnishing hospice care to terminally ill veterans and to evaluate the most cost-effective and efficient way to do so. The Secretary shall carry out the study using resources and personnel of the Department.
 
->     “(b) __Conduct of Study.—__ 
+>     “(b)  __Conduct of Study__  __.—__ 
 
 >     In carrying out the study required by subsection (a), the Secretary shall—
 
@@ -981,7 +981,7 @@
 
 >         “(4) identify any barriers to providing, procuring, or coordinating hospice services through any of the program models covered by paragraph (1).
 
->     “(c) __Program Models.—__ 
+>     “(c)  __Program Models__  __.—__ 
 
 >     For purposes of subsection (b)(1), the Secretary shall evaluate a variety of types of models for delivery of hospice care, including the following:
 
@@ -995,7 +995,7 @@
 
 >         “(5) Referral of the patient for hospice care without a contract.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than April 1, 1998, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the research study. The report shall set forth the Secretary’s findings and recommendations. The Secretary shall include in the report information on the extent to which the Secretary advises veterans concerning their eligibility for hospice care and information on the number of veterans (as of the time of the report) who are in each model of hospice care described in subsection (c) and the average cost per patient of hospice care for each such model.”
 
@@ -1021,7 +1021,7 @@
 
 [Pub. L. 102–585, title I, § 106][/us/pl/102/585/s106], Nov. 4, 1992, [106 Stat. 4947][/us/stat/106/4947], provided that:
 
->     “(a) __General Authority.—__ 
+>     “(a)  __General Authority__  __.—__ 
 
 >     In furnishing hospital care and medical services under chapter 17 of title 38, United States Code, the Secretary of Veterans Affairs may provide to women the following health care services:
 
@@ -1031,7 +1031,7 @@
 
 >         “(3) General reproductive health care, including the management of menopause, but not including under this section infertility services, abortions, or pregnancy care (including prenatal and delivery care), except for such care relating to a pregnancy that is complicated or in which the risks of complication are increased by a service-connected condition.
 
->     “(b) __Responsibilities of Directors of Facilities.—__ 
+>     “(b)  __Responsibilities of Directors of Facilities__  __.—__ 
 
 >     The Secretary shall ensure that directors of medical facilities of the Department identify and assess opportunities under the authority provided in title II of this Act \[[38 U.S.C. 8111][/us/usc/t38/s8111] note\] to (1) expand the availability of, and access to, health care services for women veterans under sections 1710 and 1712 of title 38, United States Code, and (2) provide counseling, care, and services authorized by this title \[see Short Title of 1992 Amendment note set out under [section 101 of this title][/us/usc/t38/s101]\].”
 
@@ -1039,11 +1039,11 @@
 
 [Pub. L. 102–585, title I, § 107][/us/pl/102/585/s107], Nov. 4, 1992, [106 Stat. 4947][/us/stat/106/4947], as amended by [Pub. L. 104–262, title III, § 324][/us/pl/104/262/s324], Oct. 9, 1996, [110 Stat. 3197][/us/stat/110/3197], provided that:
 
->     “(a) __In general.—__ 
+>     “(a)  __In general__  __.—__ 
 
 >     Not later than January 1 of 1993 and each year thereafter through 1998, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the provision of health care services and the conduct of research carried out by, or under the jurisdiction of, the Secretary relating to women veterans.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report under subsection (a) shall include the following information with respect to the most recent fiscal year before the date of the report:
 

@@ -15,27 +15,27 @@
 
 ## § 3322. Bar to duplication of educational assistance benefits
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or [section 510 of title 10][/us/usc/t10/s510], or the provisions of the Hostage Relief Act of 1980 ([Public Law 96–449][/us/pl/96/449]; [5 U.S.C. 5561][/us/usc/t5/s5561] note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
 
-    (b) __Inapplicability of Service Treated Under Educational Loan Repayment Programs.—__ 
+    (b)  __Inapplicability of Service Treated Under Educational Loan Repayment Programs__  __.—__ 
 
     A period of service counted for purposes of repayment of an education loan under chapter 109 of title 10 may not be counted as a period of service for entitlement to educational assistance under this chapter.
 
-    (c) __Service in Selected Reserve.—__ 
+    (c)  __Service in Selected Reserve__  __.—__ 
 
     An individual who serves in the Selected Reserve may receive credit for such service under only one of this chapter, chapter 30 of this title, and chapters 1606 and 1607 of title 10, and shall elect (in such form and manner as the Secretary may prescribe) under which chapter such service is to be credited.
 
-    (d) __Additional Coordination Matters.—__ 
+    (d)  __Additional Coordination Matters__  __.—__ 
 
     In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of this title, as of August 1, 2009, coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
 
-    (e) __Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—__ 
+    (e)  __Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance__  __.—__ 
 
     An individual entitled to educational assistance under both sections 3311(b)(9) and 3319 may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
 
-    (f) __Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—__ 
+    (f)  __Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance__  __.—__ 
 
     The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
 
@@ -43,17 +43,17 @@
 
         (2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person, whether eligibility is based upon the death of the parent.
 
-    (g) __Bar To Concurrent Receipt of Transferred Education Benefits.—__ 
+    (g)  __Bar To Concurrent Receipt of Transferred Education Benefits__  __.—__ 
 
     A spouse or child who is entitled to educational assistance under this chapter based on a transfer of entitlement from more than one individual under section 3319 may not receive assistance based on transfers from more than one such individual concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which source to utilize such assistance at any one time.
 
     (h) __Bar To Duplication of Eligibility Based on a Single Event or Period of Service.—__ 
 
-        (1) __Active-duty service.—__ 
+        (1)  __Active-duty service__  __.—__ 
 
         An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
 
-        (2) __Eligibility for educational assistance based on parent’s service.—__ 
+        (2)  __Eligibility for educational assistance based on parent’s service__  __.—__ 
 
         A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 

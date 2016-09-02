@@ -15,7 +15,7 @@
 
 ## § 4327. Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations
 
-    (a) __Effect of Noncompliance of Federal Officials With Deadlines.—__ 
+    (a)  __Effect of Noncompliance of Federal Officials With Deadlines__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) If the Secretary, the Attorney General, or the Special Counsel is unable to meet a deadline applicable to such official in section 4322(f), 4323(a)(1), 4323(a)(2), 4324(a)(1), or 4324(a)(2)(B) of this title, and the person agrees to an extension of time, the Secretary, the Attorney General, or the Special Counsel, as the case may be, shall complete the required action within the additional period of time agreed to by the person.
 
-    (b) __Inapplicability of Statutes of Limitations.—__ 
+    (b)  __Inapplicability of Statutes of Limitations__  __.—__ 
 
     If any person seeks to file a complaint or claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
 

@@ -15,7 +15,7 @@
 
 ## § 3122. Longitudinal study of vocational rehabilitation programs
 
-    (a) __Study Required.—__ 
+    (a)  __Study Required__  __.—__ 
 
         (1) Subject to the availability of appropriated funds, the Secretary shall conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The Secretary shall study each such group over a period of at least 20 years.
 
@@ -29,11 +29,11 @@
 
             (C) Individuals who begin participating in such a program during fiscal year 2014.
 
-    (b) __Annual Reports.—__ 
+    (b)  __Annual Reports__  __.—__ 
 
     By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the study during the preceding year.
 
-    (c) __Contents of Report.—__ 
+    (c)  __Contents of Report__  __.—__ 
 
     The Secretary shall include in the report required under subsection (b) any data the Secretary determines is necessary to determine the long-term outcomes of the individuals participating in the vocational rehabilitation programs under this chapter. The Secretary may add data elements from time to time as necessary. In addition, each such report shall contain the following information:
 

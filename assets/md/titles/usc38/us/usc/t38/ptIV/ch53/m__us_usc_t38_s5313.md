@@ -81,11 +81,11 @@
 
 [Pub. L. 107–103, title V, § 506][/us/pl/107/103/s506], Dec. 27, 2001, [115 Stat. 996][/us/stat/115/996], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     [Section 5313 of title 38][/us/usc/t38/s5313], United States Code, other than subsection (d) of that section, shall apply with respect to the payment of compensation to or with respect to any veteran described in subsection (b).
 
->     “(b) __Covered Veterans.—__ 
+>     “(b)  __Covered Veterans__  __.—__ 
 
 >     A veteran described in this subsection is a veteran who is entitled to compensation and who—
 
@@ -93,11 +93,11 @@
 
 >         “(2) remains so incarcerated for conviction of that felony as of the date of the enactment of this Act \[Dec. 27, 2001\].
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to the payment of compensation for months beginning on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 27, 2001\].
 
->     “(d) __Compensation Defined.—__ 
+>     “(d)  __Compensation Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘compensation’ has the meaning given that term in [section 5313 of title 38][/us/usc/t38/s5313], United States Code.”
 

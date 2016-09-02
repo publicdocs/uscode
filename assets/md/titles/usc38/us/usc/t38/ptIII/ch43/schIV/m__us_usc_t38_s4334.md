@@ -15,11 +15,11 @@
 
 ## § 4334. Notice of rights and duties
 
-    (a) __Requirement To Provide Notice.—__ 
+    (a)  __Requirement To Provide Notice__  __.—__ 
 
     Each employer shall provide to persons entitled to rights and benefits under this chapter a notice of the rights, benefits, and obligations of such persons and such employers under this chapter. The requirement for the provision of notice under this section may be met by the posting of the notice where employers customarily place notices for employees.
 
-    (b) __Content of Notice.—__ 
+    (b)  __Content of Notice__  __.—__ 
 
     The Secretary shall provide to employers the text of the notice to be provided under this section.
 

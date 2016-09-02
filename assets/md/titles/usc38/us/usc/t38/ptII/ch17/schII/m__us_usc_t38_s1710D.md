@@ -15,15 +15,15 @@
 
 ## § 1710D. Traumatic brain injury: comprehensive program for long-term rehabilitation
 
-    (a) __Comprehensive Program.—__ 
+    (a)  __Comprehensive Program__  __.—__ 
 
     In developing plans for the rehabilitation and reintegration of individuals with traumatic brain injury under [section 1710C of this title][/us/usc/t38/s1710C], the Secretary shall develop and carry out a comprehensive program of long-term care and rehabilitative services (as defined in [section 1710C of this title][/us/usc/t38/s1710C]) for post-acute traumatic brain injury rehabilitation that includes residential, community, and home-based components utilizing interdisciplinary teams.
 
-    (b) __Location of Program.—__ 
+    (b)  __Location of Program__  __.—__ 
 
     The Secretary shall carry out the program developed under subsection (a) in each Department polytrauma rehabilitation center designated by the Secretary.
 
-    (c) __Eligibility.—__ 
+    (c)  __Eligibility__  __.—__ 
 
     A veteran is eligible for care under the program developed under subsection (a) if the veteran is otherwise eligible to receive hospital care and medical services under [section 1710 of this title][/us/usc/t38/s1710] and—
 
@@ -33,7 +33,7 @@
 
         (3) is unable to manage routine activities of daily living without supervision or assistance, as determined by the Secretary.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     Not later than one year after the date of the enactment of this section, and annually thereafter, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report containing the following information:
 

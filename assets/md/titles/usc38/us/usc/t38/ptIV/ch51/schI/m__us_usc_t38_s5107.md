@@ -15,11 +15,11 @@
 
 ## § 5107. Claimant responsibility; benefit of the doubt
 
-    (a) __Claimant Responsibility.—__ 
+    (a)  __Claimant Responsibility__  __.—__ 
 
     Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits under laws administered by the Secretary.
 
-    (b) __Benefit of the Doubt.—__ 
+    (b)  __Benefit of the Doubt__  __.—__ 
 
     The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
 
@@ -53,7 +53,7 @@
 
 [Pub. L. 106–475, § 7][/us/pl/106/475/s7], Nov. 9, 2000, [114 Stat. 2099][/us/stat/114/2099], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as specifically provided otherwise, the provisions of [section 5107 of title 38][/us/usc/t38/s5107], United States Code, as amended by section 4 of this Act, apply to any claim—
 
@@ -61,7 +61,7 @@
 
 >         “(2) filed before the date of the enactment of this Act and not final as of that date.
 
->     “(b) __Rule for Claims the Denial of Which Became Final After the Court of Appeals for Veterans Claims Decision in the Morton Case.—__ 
+>     “(b)  __Rule for Claims the Denial of Which Became Final After the Court of Appeals for Veterans Claims Decision in the Morton Case__  __.—__ 
 
 >         (1) In the case of a claim for benefits denied or dismissed as described in paragraph (2), the Secretary of Veterans Affairs shall, upon the request of the claimant or on the Secretary’s own motion, order the claim readjudicated under chapter 51 of such title, as amended by this Act, as if the denial or dismissal had not been made.
 

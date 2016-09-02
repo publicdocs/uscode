@@ -435,11 +435,11 @@
 
 [Pub. L. 111–163, title V, § 510][/us/pl/111/163/s510], May 5, 2010, [124 Stat. 1162][/us/stat/124/1162], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to veterans and survivors and dependents of veterans described in subsection (b).
 
->     “(b) __Covered Veterans and Survivors and Dependents.—__ 
+>     “(b)  __Covered Veterans and Survivors and Dependents__  __.—__ 
 
 >     The veterans and survivors and dependents of veterans described in this subsection are as follows:
 
@@ -447,49 +447,49 @@
 
 >         “(2) Any survivor or dependent of a veteran who is eligible for medical care under section 1781 of such title.
 
->     “(c) __Duration of Program.—__ 
+>     “(c)  __Duration of Program__  __.—__ 
 
 >     The pilot program shall be carried out during the 3-year period beginning on the date that is 270 days after the date of the enactment of this Act \[May 5, 2010\].
 
->     “(d) __Locations.—__ 
+>     “(d)  __Locations__  __.—__ 
 
 >     The pilot program shall be carried out in such Veterans Integrated Services Networks as the Secretary considers appropriate for purposes of the pilot program.
 
->     “(e) __Administration.—__ 
+>     “(e)  __Administration__  __.—__ 
 
 >     The Secretary shall contract with a dental insurer to administer the dental insurance plan provided under the pilot program.
 
->     “(f) __Benefits.—__ 
+>     “(f)  __Benefits__  __.—__ 
 
 >     The dental insurance plan under the pilot program shall provide such benefits for dental care and treatment as the Secretary considers appropriate for the dental insurance plan, including diagnostic services, preventative services, endodontics and other restorative services, surgical services, and emergency services.
 
 >     “(g) __Enrollment.—__ 
 
->         “(1) __Voluntary.—__ 
+>         “(1)  __Voluntary__  __.—__ 
 
 >         Enrollment in the dental insurance plan under the pilot program shall be voluntary.
 
->         “(2) __Minimum period.—__ 
+>         “(2)  __Minimum period__  __.—__ 
 
 >         Enrollment in the dental insurance plan shall be for such minimum period as the Secretary shall prescribe for purposes of this section.
 
 >     “(h) __Premiums.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Premiums for coverage under the dental insurance plan under the pilot program shall be in such amount or amounts as the Secretary shall prescribe to cover all costs associated with the pilot program.
 
->         “(2) __Annual adjustment.—__ 
+>         “(2)  __Annual adjustment__  __.—__ 
 
 >         The Secretary shall adjust the premiums payable under the pilot program for coverage under the dental insurance plan on an annual basis. Each individual covered by the dental insurance plan at the time of such an adjustment shall be notified of the amount and effective date of such adjustment.
 
->         “(3) __Responsibility for payment.—__ 
+>         “(3)  __Responsibility for payment__  __.—__ 
 
 >         Each individual covered by the dental insurance plan shall pay the entire premium for coverage under the dental insurance plan, in addition to the full cost of any copayments.
 
 >     “(i) __Voluntary Disenrollment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to enrollment in the dental insurance plan under the pilot program, the Secretary shall—
 
@@ -497,7 +497,7 @@
 
 >             “(B) permit the voluntary disenrollment of an individual in the dental insurance plan for such circumstances as the Secretary shall prescribe for purposes of this subsection, but only to the extent such disenrollment does not jeopardize the fiscal integrity of the dental insurance plan.
 
->         “(2) __Allowable circumstances.—__ 
+>         “(2)  __Allowable circumstances__  __.—__ 
 
 >         The circumstances prescribed under paragraph (1)(B) shall include the following:
 
@@ -507,15 +507,15 @@
 
 >             “(C) Such other circumstances as the Secretary shall prescribe for purposes of this subsection.
 
->         “(3) __Establishment of procedures.—__ 
+>         “(3)  __Establishment of procedures__  __.—__ 
 
 >         The Secretary shall establish procedures for determinations on the permissibility of voluntary disenrollments under paragraph (1)(B). Such procedures shall ensure timely determinations on the permissibility of such disenrollments.
 
->     “(j) __Relationship to Dental Care Provided by Secretary.—__ 
+>     “(j)  __Relationship to Dental Care Provided by Secretary__  __.—__ 
 
 >     Nothing in this section shall affect the responsibility of the Secretary to provide dental care under [section 1712 of title 38][/us/usc/t38/s1712], United States Code, and the participation of an individual in the dental insurance plan under the pilot program shall not affect the individual’s entitlement to outpatient dental services and treatment, and related dental appliances, under that section.
 
->     “(k) __Regulations.—__ 
+>     “(k)  __Regulations__  __.—__ 
 
 >     The dental insurance plan under the pilot program shall be administered under such regulations as the Secretary shall prescribe.”
 

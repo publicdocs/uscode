@@ -127,11 +127,11 @@
 
 [Pub. L. 112–154, title III, § 304][/us/pl/112/154/s304], Aug. 6, 2012, [126 Stat. 1185][/us/stat/126/1185], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Veterans Affairs shall consider entering into contracts or agreements, under sections 513 and 8153 of title 38, United States Code, with eligible entities to collaborate with the Secretary in the provision of case management services to covered veterans as part of the supported housing program carried out under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f](o)(19)) to ensure that the homeless veterans facing the most significant difficulties in obtaining suitable housing receive the assistance they require to obtain such housing.
 
->     “(b) __Covered Veterans.—__ 
+>     “(b)  __Covered Veterans__  __.—__ 
 
 >     For purposes of this section, a covered veteran is any veteran who, at the time of receipt of a housing voucher under such section 8(o)(19)—
 
@@ -147,7 +147,7 @@
 
 >             “(C) the veteran resides in an area where veterans who receive case management services from the Secretary under such section have a significantly lower average rate of successfully obtaining suitable housing than the average rate of successfully obtaining suitable housing for all veterans receiving such services.
 
->     “(c) __Eligible Entities.—__ 
+>     “(c)  __Eligible Entities__  __.—__ 
 
 >     For purposes of this section, an eligible entity is any State or local government agency, tribal organization (as such term is defined in section 4 of the Indian Self\[-\]Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b])), or nonprofit organization that—
 
@@ -191,7 +191,7 @@
 
 >             “(E) carrying out such other activities as the Secretary of Veterans Affairs considers appropriate.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In considering entering into contracts or agreements as described in subsection (a), the Secretary of Veterans Affairs shall consult with—
 
@@ -201,25 +201,25 @@
 
 >     “(e) __Technical Assistance for Collaborating Entities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may provide training and technical assistance to entities with whom the Secretary collaborates in the provision of case management services to veterans as part of the supported housing program described in subsection (a).
 
->         “(2) __Grants.—__ 
+>         “(2)  __Grants__  __.—__ 
 
 >         The Secretary may provide training and technical assistance under paragraph (1) through the award of grants or contracts to appropriate public and nonprofit private entities.
 
->         “(3) __Funding.—__ 
+>         “(3)  __Funding__  __.—__ 
 
 >         From amounts appropriated or otherwise made available to the Secretary in the Medical Services account in a year, $500,000 shall be available to the Secretary in that year to carry out this subsection.
 
 >     “(f) __Annual Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 545 days after the date of the enactment of this Act \[Aug. 6, 2012\] and not less frequently than once each year thereafter, the Secretary of Veterans Affairs shall submit to Congress a report on the collaboration between the Secretary and eligible entities in the provision of case management services as described in subsection (a) during the most recently completed fiscal year.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report required by paragraph (1) shall include, for the period covered by the report, the following:
 

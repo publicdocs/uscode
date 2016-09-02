@@ -169,11 +169,11 @@
 
 [Pub. L. 102–568, title I, § 103][/us/pl/102/568/s103], Oct. 29, 1992, [106 Stat. 4322][/us/stat/106/4322], provided that:
 
->     “(a) __Exception.—__ 
+>     “(a)  __Exception__  __.—__ 
 
 >     The amendments made by section 8004 of the Omnibus Budget Reconciliation Act of 1990 ([105 Stat. 424][/us/stat/105/424]) \[[Pub. L. 101–508][/us/pl/101/508], [104 Stat. 1388–343][/us/stat/104/1388-343], amending this section\] shall not apply to any case in which a legal proceeding to terminate an existing marital relationship was commenced before November 1, 1990, by an individual described in subsection (b) if that proceeding directly resulted in the termination of such marriage.
 
->     “(b) __Covered Individuals.—__ 
+>     “(b)  __Covered Individuals__  __.—__ 
 
 >     An individual referred to in subsection (a) is an individual who, but for the marital relationship referred to in subsection (a), would be considered to be the surviving spouse of a veteran.”
 

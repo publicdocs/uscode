@@ -17,19 +17,19 @@
 
     (a) __In General.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this chapter, the provisions specified in sections 3034(a)(1) and 3680(c) shall apply to the provision of educational assistance under this chapter.
 
-        (2) __Special rule.—__ 
+        (2)  __Special rule__  __.—__ 
 
         In applying the provisions referred to in paragraph (1) to an individual entitled to educational assistance under this chapter for purposes of this section, the reference in such provisions to the term “eligible veteran” shall be deemed to refer to an individual entitled to educational assistance under this chapter.
 
-        (3) __Rule for applying section 3474.—__ 
+        (3)  __Rule for applying section 3474__  __.—__ 
 
         In applying section 3474 to an individual entitled to educational assistance under this chapter for purposes of this section, the reference in such section 3474 to the term “educational assistance allowance” shall be deemed to refer to educational assistance payable under section 3313.
 
-        (4) __Rule for applying section 3482.—__ 
+        (4)  __Rule for applying section 3482__  __.—__ 
 
         In applying section 3482(g) to an individual entitled to educational assistance under this chapter for purposes of this section—
 
@@ -39,25 +39,25 @@
 
     (b) __Information on Benefits.—__ 
 
-        (1) __Timing for providing.—__ 
+        (1)  __Timing for providing__  __.—__ 
 
         The Secretary shall provide the information described in paragraph (2) to each member of the Armed Forces at such times as the Secretary and the Secretary of Defense shall jointly prescribe in regulations.
 
-        (2) __Description of information.—__ 
+        (2)  __Description of information__  __.—__ 
 
         The information described in this paragraph is information on benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of educational assistance under this chapter, including application forms for such assistance under section 5102.
 
-        (3) __To whom provided.—__ 
+        (3)  __To whom provided__  __.—__ 
 
         The Secretary of Veterans Affairs shall furnish the information and forms described in paragraph (2), and other educational materials on educational assistance under this chapter, to educational institutions, training establishments, military education personnel, and such other persons and entities as the Secretary considers appropriate.
 
     (c) __Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall prescribe regulations for the administration of this chapter.
 
-        (2) __Uniformity.—__ 
+        (2)  __Uniformity__  __.—__ 
 
         Any regulations prescribed by the Secretary of Defense for purposes of this chapter shall apply uniformly across the Armed Forces.
 

@@ -15,7 +15,7 @@
 
 ## § 5723. Responsibilities
 
-    (a) __Secretary of Veterans Affairs.—__ 
+    (a)  __Secretary of Veterans Affairs__  __.—__ 
 
     In accordance with the provisions of subchapter III of chapter 35 of title 44, the Secretary is responsible for the following:
 
@@ -43,7 +43,7 @@
 
         (12) Providing notice to the Director of the Office of Management and Budget, the Inspector General of the Department, and such other Federal agencies as the Secretary considers appropriate of a presumptive data breach of which notice is provided the Secretary under subsection (b)(16) if, in the opinion of the Assistant Secretary for Information and Technology, the breach involves the information of twenty or more individuals.
 
-    (b) __Assistant Secretary for Information and Technology.—__ 
+    (b)  __Assistant Secretary for Information and Technology__  __.—__ 
 
     The Assistant Secretary for Information and Technology, as the Chief Information Officer of the Department, is responsible for the following:
 
@@ -79,11 +79,11 @@
 
         (16) Providing immediate notice to the Secretary of any presumptive data breach.
 
-    (c) __Associate Deputy Assistant Secretary for Cyber and Information Security.—__ 
+    (c)  __Associate Deputy Assistant Secretary for Cyber and Information Security__  __.—__ 
 
     In accordance with the provisions of subchapter III of chapter 35 of title 44, the Associate Deputy Assistant Secretary for Cyber and Information Security, as the Senior Information Security Officer of the Department, is responsible for carrying out the responsibilities of the Assistant Secretary for Information and Technology under the provisions of subchapter III of chapter 35 of title 44, as set forth in subsection (b).
 
-    (d) __Department Information Owners.—__ 
+    (d)  __Department Information Owners__  __.—__ 
 
     In accordance with the criteria of the Centralized IT Management System, Department information owners are responsible for the following:
 
@@ -97,7 +97,7 @@
 
         (5) Providing assistance to Administration and staff office personnel involved in the development of new systems regarding the appropriate level of security controls for their information.
 
-    (e) __Other Key Officials.—__ 
+    (e)  __Other Key Officials__  __.—__ 
 
     In accordance with the provisions of subchapter III of chapter 35 of title 44, the Under Secretaries, Assistant Secretaries, and other key officials of the Department are responsible for the following:
 
@@ -127,7 +127,7 @@
 
         (6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
 
-    (f) __Users of Department Information and Information Systems.—__ 
+    (f)  __Users of Department Information and Information Systems__  __.—__ 
 
     Users of Department information and information systems are responsible for the following:
 
@@ -141,7 +141,7 @@
 
         (5) Signing an acknowledgment that they have read, understand, and agree to abide by the VA National Rules of Behavior on an annual basis.
 
-    (g) __Inspector General of Department of Veterans Affairs.—__ 
+    (g)  __Inspector General of Department of Veterans Affairs__  __.—__ 
 
     In accordance with the provisions of subchapter III of chapter 35 of title 44, the Inspector General of the Department is responsible for the following:
 

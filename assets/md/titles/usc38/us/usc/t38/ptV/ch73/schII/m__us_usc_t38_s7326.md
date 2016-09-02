@@ -15,15 +15,15 @@
 
 ## § 7326. Education and training programs on medical response to consequences of terrorist activities
 
-    (a) __Education Program.—__ 
+    (a)  __Education Program__  __.—__ 
 
     The Secretary shall carry out a program to develop and disseminate a series of model education and training programs on the medical responses to the consequences of terrorist activities.
 
-    (b) __Implementing Official.—__ 
+    (b)  __Implementing Official__  __.—__ 
 
     The program shall be carried out through the Under Secretary for Health, in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
-    (c) __Content of Programs.—__ 
+    (c)  __Content of Programs__  __.—__ 
 
     The education and training programs developed under the program shall be modelled after programs established at the F. Edward Hebért School of Medicine of the Uniformed Services University of the Health Sciences and shall include, at a minimum, training for health care professionals in the following:
 
@@ -41,11 +41,11 @@
 
         (7) Information on how to seek consultative support and to report suspected or actual use of those agents.
 
-    (d) __Potential Trainees.—__ 
+    (d)  __Potential Trainees__  __.—__ 
 
     In designing the education and training programs under this section, the Secretary shall ensure that different programs are designed for health-care professionals in Department medical centers. The programs shall be designed to be disseminated to health professions students, graduate health and medical education trainees, and health practitioners in a variety of fields.
 
-    (e) __Consultation.—__ 
+    (e)  __Consultation__  __.—__ 
 
     In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 

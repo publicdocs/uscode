@@ -15,7 +15,7 @@
 
 ## § 2011. Grants
 
-    (a) __Authority To Make Grants.—__ 
+    (a)  __Authority To Make Grants__  __.—__ 
 
     Subject to the availability of appropriations provided for such purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
 
@@ -27,7 +27,7 @@
 
         (4) Transitional housing assistance.
 
-    (b) __Criteria for Grants.—__ 
+    (b)  __Criteria for Grants__  __.—__ 
 
     The Secretary shall establish criteria and requirements for grants under this section, including criteria for entities eligible to receive grants, and shall publish such criteria and requirements in the Federal Register. The criteria established under this subsection shall include the following:
 
@@ -61,7 +61,7 @@
 
         (6) Specification as to the means by which an entity receiving a grant may contribute in-kind services to the start-up costs of a project for which a grant is sought and the methodology for assigning a cost to that contribution for purposes of subsection (c).
 
-    (c) __Funding Limitations.—__ 
+    (c)  __Funding Limitations__  __.—__ 
 
         (1) A grant under this section may not be used to support operational costs.
 
@@ -89,7 +89,7 @@
 
                 (iii) A corporation wholly owned and controlled by an organization that is described by subclauses (I) through (III) of clause (i).
 
-    (d) __Eligible Entities.—__ 
+    (d)  __Eligible Entities__  __.—__ 
 
     The Secretary may make a grant under this section to an entity applying for such a grant only if the applicant for the grant—
 
@@ -99,7 +99,7 @@
 
         (3) agrees to meet the applicable criteria and requirements established under subsections (b) and (g) and has, as determined by the Secretary, the capacity to meet such criteria and requirements.
 
-    (e) __Application Requirement.—__ 
+    (e)  __Application Requirement__  __.—__ 
 
     An entity seeking a grant for a project under this section shall submit to the Secretary an application for the grant. The application shall set forth the following:
 
@@ -111,7 +111,7 @@
 
         (4) Reasonable assurance that upon completion of the work for which the grant is sought, the project will become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided under the project will be provided to individuals who are not veterans.
 
-    (f) __Program Requirements.—__ 
+    (f)  __Program Requirements__  __.—__ 
 
     The Secretary may not make a grant for a project to an applicant under this section unless the applicant in the application for the grant agrees to each of the following requirements:
 
@@ -125,7 +125,7 @@
 
         (5) To seek to employ homeless veterans and formerly homeless veterans in positions created for purposes of the grant for which those veterans are qualified.
 
-    (g) __Service Center Requirements.—__ 
+    (g)  __Service Center Requirements__  __.—__ 
 
     In addition to criteria and requirements established under subsection (b), in the case of an application for a grant under this section for a service center for homeless veterans, the Secretary shall require each of the following:
 
@@ -137,7 +137,7 @@
 
         (4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
-    (h) __Recovery of Unused Grant Funds.—__ 
+    (h)  __Recovery of Unused Grant Funds__  __.—__ 
 
         (1) If a grant recipient under this section does not establish a program in accordance with this section or ceases to furnish services under such a program for which the grant was made, the United States shall be entitled to recover from such recipient the total of all unused grant amounts made under this section to such recipient in connection with such program.
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 112–154, title III, § 301(b)][/us/pl/112/154/s301/b], Aug. 6, 2012, [126 Stat. 1183][/us/stat/126/1183], provided that:
 
->     “(1) __Study and development of fiscal controls and payment method.—__ 
+>     “(1)  __Study and development of fiscal controls and payment method__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Aug. 6, 2012\], the Secretary of Veterans Affairs shall—
 
@@ -187,11 +187,11 @@
 
 >         “(C) develop a more effective and efficient method for adequately reimbursing recipients of grants under section 2011 of such title for services furnished to homeless veterans.
 
->     “(2) __Consideration.—__ 
+>     “(2)  __Consideration__  __.—__ 
 
 >     In developing the method required by paragraph (1)(C), the Secretary may consider payments and grants received by recipients of grants described in such paragraph from other departments and agencies of Federal and local governments and from private entities.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act, the Secretary shall submit to Congress a report on—
 

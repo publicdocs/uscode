@@ -15,11 +15,11 @@
 
 ## § 3315. Licensure and certification tests
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An individual entitled to educational assistance under this chapter shall also be entitled to payment for licensing or certification tests described in section 3452(b).
 
-    (b) __Limitation on Amount.—__ 
+    (b)  __Limitation on Amount__  __.—__ 
 
     The amount payable under subsection (a) for a licensing or certification test may not exceed the lesser of—
 
@@ -29,7 +29,7 @@
 
         (3) the amount of entitlement available to the individual under this chapter at the time of payment for the test under this section.
 
-    (c) __Charge Against Entitlement.—__ 
+    (c)  __Charge Against Entitlement__  __.—__ 
 
     The charge against an individual’s entitlement under this chapter for payment for a licensing or certification test shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
 

@@ -15,11 +15,11 @@
 
 ## § 1720F. Comprehensive program for suicide prevention among veterans
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among veterans incorporating the components described in this section.
 
-    (b) __Staff Education.—__ 
+    (b)  __Staff Education__  __.—__ 
 
     In carrying out the comprehensive program under this section, the Secretary shall provide for mandatory training for appropriate staff and contractors (including all medical personnel) of the Department who interact with veterans. This training shall cover information appropriate to the duties being performed by such staff and contractors. The training shall include information on—
 
@@ -29,15 +29,15 @@
 
         (3) best practices for suicide prevention.
 
-    (c) __Health Assessments of Veterans.—__ 
+    (c)  __Health Assessments of Veterans__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall direct that medical staff offer mental health in their overall health assessment when veterans seek medical care at a Department medical facility (including a center established under [section 1712A of this title][/us/usc/t38/s1712A]) and make referrals, at the request of the veteran concerned, to appropriate counseling and treatment programs for veterans who show signs or symptoms of mental health problems.
 
-    (d) __Designation of Suicide Prevention Counselors.—__ 
+    (d)  __Designation of Suicide Prevention Counselors__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall designate a suicide prevention counselor at each Department medical facility other than centers established under [section 1712A of this title][/us/usc/t38/s1712A]. Each counselor shall work with local emergency rooms, police departments, mental health organizations, and veterans service organizations to engage in outreach to veterans and improve the coordination of mental health care to veterans.
 
-    (e) __Best Practices Research.—__ 
+    (e)  __Best Practices Research__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall provide for research on best practices for suicide prevention among veterans. Research shall be conducted under this subsection in consultation with the heads of the following entities:
 
@@ -49,19 +49,19 @@
 
         (4) The Centers for Disease Control and Prevention.
 
-    (f) __Sexual Trauma Research.—__ 
+    (f)  __Sexual Trauma Research__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for veterans who have experienced sexual trauma while in military service. The research design shall include consideration of veterans of a reserve component.
 
-    (g) __24-Hour Mental Health Care.—__ 
+    (g) __24-__  __Hour Mental Health Care__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall provide for mental health care availability to veterans on a 24-hour basis.
 
-    (h) __Hotline.—__ 
+    (h)  __Hotline__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary may provide for a toll-free hotline for veterans to be staffed by appropriately trained mental health personnel and available at all times.
 
-    (i) __Outreach and Education for Veterans and Families.—__ 
+    (i)  __Outreach and Education for Veterans and Families__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary shall provide for outreach to and education for veterans and the families of veterans, with special emphasis on providing information to veterans of Operation Iraqi Freedom and Operation Enduring Freedom and the families of such veterans. Education to promote mental health shall include information designed to—
 
@@ -81,7 +81,7 @@
 
             (C) encouraging veterans to seek assistance for mental illness.
 
-    (j) __Peer Support Counseling Program.—__ 
+    (j)  __Peer Support Counseling Program__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
-    (k) __Other Components.—__ 
+    (k)  __Other Components__  __.—__ 
 
     In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among veterans that the Secretary considers appropriate.
 

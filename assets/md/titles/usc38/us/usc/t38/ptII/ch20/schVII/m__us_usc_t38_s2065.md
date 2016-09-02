@@ -15,11 +15,11 @@
 
 ## § 2065. Annual report on assistance to homeless veterans
 
-    (a) __Annual Report.—__ 
+    (a)  __Annual Report__  __.—__ 
 
     Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
 
-    (b) __General Contents of Report.—__ 
+    (b)  __General Contents of Report__  __.—__ 
 
     Each report under subsection (a) shall include the following:
 
@@ -61,7 +61,7 @@
 
         (6) Any other information on those programs and on the provision of such assistance that the Secretary considers appropriate.
 
-    (c) __Health Care Contents of Report.—__ 
+    (c)  __Health Care Contents of Report__  __.—__ 
 
     Each report under subsection (a) shall include, with respect to programs of the Department addressing health care needs of homeless veterans, the following:
 
@@ -79,7 +79,7 @@
 
         (7) Other information the Secretary considers relevant in assessing those programs.
 
-    (d) __Benefits Content of Report.—__ 
+    (d)  __Benefits Content of Report__  __.—__ 
 
     Each report under subsection (a) shall include, with respect to programs and activities of the Veterans Benefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:
 

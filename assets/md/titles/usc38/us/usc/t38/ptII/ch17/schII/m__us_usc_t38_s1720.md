@@ -251,11 +251,11 @@
 
 [Pub. L. 112–154, title I, § 105(c)][/us/pl/112/154/s105/c], Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1745 of this title][/us/usc/t38/s1745]\] shall apply to care provided on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\].
 
->     “(2) __Maintenance of prior methodology of reimbursement for certain state homes.—__ 
+>     “(2)  __Maintenance of prior methodology of reimbursement for certain state homes__  __.—__ 
 
 >     In the case of a State home that provided nursing home care on the day before the date of the enactment of this Act for which the State home was eligible for pay under [section 1745(a)(1) of title 38][/us/usc/t38/s1745/a/1], United States Code, at the request of any State home, the Secretary shall offer to enter into a contract (or agreement described in such section) with such State home under such section, as amended by subsection (a), for payment for nursing home care provided by such State home under such section that reflects the overall methodology of reimbursement for such care that was in effect for such State home on the day before the date of the enactment of this Act.”
 

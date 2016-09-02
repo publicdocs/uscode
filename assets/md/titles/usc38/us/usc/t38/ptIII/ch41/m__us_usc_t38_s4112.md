@@ -15,7 +15,7 @@
 
 ## § 4112. Performance incentive awards for quality employment, training, and placement services
 
-    (a) __Criteria for Performance Incentive Awards.—__ 
+    (a)  __Criteria for Performance Incentive Awards__  __.—__ 
 
         (1)
 
@@ -27,11 +27,11 @@
 
         (2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under [section 4102A(b)(7) of this title][/us/usc/t38/s4102A/b/7].
 
-    (b) __Form of Awards.—__ 
+    (b)  __Form of Awards__  __.—__ 
 
     Under the criteria established by the Secretary for performance incentive awards to be administered by States, an award under such criteria may be a cash award or such other nonfinancial awards as the Secretary may specify.
 
-    (c) __Administration and Use of Awards.—__ 
+    (c)  __Administration and Use of Awards__  __.—__ 
 
     Performance incentive cash awards under this section—
 
@@ -41,7 +41,7 @@
 
         (3) in the case of such an award made to an employment service office, may be used by that employment service office for any purpose.
 
-    (d) __Eligible Employee Defined.—__ 
+    (d)  __Eligible Employee Defined__  __.—__ 
 
     In this section, the term “eligible employee” means any of the following:
 

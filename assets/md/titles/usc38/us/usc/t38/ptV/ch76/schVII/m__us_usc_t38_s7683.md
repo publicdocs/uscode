@@ -15,21 +15,21 @@
 
 ## § 7683. Education debt reduction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in [section 7682(a)(2) of this title][/us/usc/t38/s7682/a/2].
 
-    (b) __Frequency of Payment.—__ 
+    (b)  __Frequency of Payment__  __.—__ 
 
         (1) The Secretary may make education debt reduction payments to any given participant in the Education Debt Reduction Program on a monthly or annual basis, as determined by the Secretary.
 
         (2) The Secretary shall make such payments at the end of the period determined by the Secretary under paragraph (1).
 
-    (c) __Performance Requirement.—__ 
+    (c)  __Performance Requirement__  __.—__ 
 
     The Secretary may make education debt reduction payments to a participant in the Education Debt Reduction Program for a period only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the participant during the period.
 
-    (d) __Maximum Annual Amount.—__ 
+    (d)  __Maximum Annual Amount__  __.—__ 
 
         (1) Subject to paragraph (2), the amount of education debt reduction payments made to a participant under the Education Debt Reduction Program may not exceed $60,000 over a total of five years of participation in the Program, of which not more than $12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program.
 

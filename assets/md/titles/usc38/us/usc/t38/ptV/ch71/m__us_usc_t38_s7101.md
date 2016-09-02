@@ -149,7 +149,7 @@
 
 [Pub. L. 100–687, div. A, title II, § 201(c)][/us/pl/100/687/s201/c], (d), Nov. 18, 1988, [102 Stat. 4109][/us/stat/102/4109], 4110, provided that:
 
->     “(c) __Transition to New Board.—__ 
+>     “(c)  __Transition to New Board__  __.—__ 
 
 >         (1) Appointments of members of the Board of Veterans’ Appeals under subsection (b)(2) of section 4001 \[now 7101\] of title 38, United States Code (as amended by subsection (a)), may not be made until a Chairman is appointed under subsection (b)(1) of that section.
 
@@ -161,7 +161,7 @@
 
 >             “(B) the end of the 180-day period beginning on the day after the date on which the Chairman is appointed under subsection (b)(1) of such section.
 
->     “(d) __Initial Terms of Office.—__ 
+>     “(d)  __Initial Terms of Office__  __.—__ 
 
 >     Notwithstanding the second sentence of section 4001(b)(2) \[now 7101(b)(2)\] of title 38, United States Code (as amended by subsection (a)), specifying the term for which members of the Board of Veterans’ Appeals shall be appointed, of the members first appointed under that section—
 

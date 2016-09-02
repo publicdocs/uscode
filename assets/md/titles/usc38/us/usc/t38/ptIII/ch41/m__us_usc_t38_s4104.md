@@ -15,11 +15,11 @@
 
 ## § 4104. Local veterans’ employment representatives
 
-    (a) __Requirement for Employment by States of a Sufficient Number of Representatives.—__ 
+    (a)  __Requirement for Employment by States of a Sufficient Number of Representatives__  __.—__ 
 
     Subject to approval by the Secretary, a State shall employ such full- and part-time local veterans’ employment representatives as the State determines appropriate and efficient to carry out employment, training, and placement services under this chapter.
 
-    (b) __Principal Duties.—__ 
+    (b)  __Principal Duties__  __.—__ 
 
     As principal duties, local veterans’ employment representatives shall—
 
@@ -27,7 +27,7 @@
 
         (2) facilitate employment, training, and placement services furnished to veterans in a State under the applicable State employment service delivery systems.
 
-    (c) __Requirement for Qualified Veterans and Eligible Persons.—__ 
+    (c)  __Requirement for Qualified Veterans and Eligible Persons__  __.—__ 
 
     A State shall, to the maximum extent practicable, employ qualified veterans or eligible persons to carry out the services referred to in subsection (a). Preference shall be accorded in the following order:
 
@@ -37,17 +37,17 @@
 
         (3) If no veteran described in paragraph (1) or (2) is available, then to qualified eligible persons.
 
-    (d) __Part-Time Employees.—__ 
+    (d)  __Part-Time Employees__  __.—__ 
 
     A part-time local veterans’ employment representative shall perform the functions of a local veterans’ employment representative under this section on a half-time basis.
 
-    (e) __Additional Requirements for Full-time Employees.—__ 
+    (e)  __Additional Requirements for Full-time Employees__  __.—__ 
 
         (1) A full-time local veterans’ employment representative shall perform only duties related to the employment, training, and placement services under this chapter, and shall not perform other non-veteran-related duties that detract from the representative’s ability to perform the representative’s duties related to employment, training, and placement services under this chapter.
 
         (2) The Secretary shall conduct regular audits to ensure compliance with paragraph (1). If, on the basis of such an audit, the Secretary determines that a State is not in compliance with paragraph (1), the Secretary may reduce the amount of a grant made to the State under [section 4102A(b)(5) of this title][/us/usc/t38/s4102A/b/5].
 
-    (f) __Reporting.—__ 
+    (f)  __Reporting__  __.—__ 
 
     Each local veterans’ employment representative shall be administratively responsible to the manager of the employment service delivery system and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
 
@@ -137,29 +137,29 @@
 
 [Pub. L. 104–275, title III, § 303][/us/pl/104/275/s303], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332], as amended by [Pub. L. 105–368, title X, § 1005(c)(1)][/us/pl/105/368/s1005/c/1], Nov. 11, 1998, [112 Stat. 3366][/us/stat/112/3366], provided that:
 
->     “(a) __Authority To Conduct Pilot Program.—__ 
+>     “(a)  __Authority To Conduct Pilot Program__  __.—__ 
 
 >     In order to assess the effects on the timeliness and quality of services to veterans resulting from re-focusing the staff resources of local veterans’ employment representatives, the Secretary of Labor may conduct a pilot program under which the primary responsibilities of local veterans’ employment representatives will be case management and the provision and facilitation of direct employment and training services to veterans.
 
->     “(b) __Authorities Under Chapter 41.—__ 
+>     “(b)  __Authorities Under Chapter__  __41.—__ 
 
 >     To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 of title 38, United States Code (other than subsections (b)(1) and (c) of section 4104) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
 
->     “(c) __Targeted Veterans.—__ 
+>     “(c)  __Targeted Veterans__  __.—__ 
 
 >     Within the pilot program, eligible veterans who are among groups most in need of intensive services, including disabled veterans, economically disadvantaged veterans, and veterans separated within the previous four years from active military, naval, or air service shall be given priority for service by local veterans’ employment representatives. Priority for the provision of service shall be given first to disabled veterans and then to the other categories of veterans most in need of intensive services in accordance with priorities determined by the Secretary of Labor in consultation with appropriate State labor authorities.
 
->     “(d) __States Designated.—__ 
+>     “(d)  __States Designated__  __.—__ 
 
 >     The pilot program shall be limited to not more than five States to be designated by the Secretary of Labor.
 
->     “(e) __Reports to Congress.—__ 
+>     “(e)  __Reports to Congress__  __.—__ 
 
 >         (1) Not later than one year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives an interim report describing in detail the development and implementation of the pilot program on a State by State basis.
 
 >         “(2) Not later than 120 days after the expiration of this section under subsection (h), the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a final report evaluating the results of the pilot program and make recommendations based on the evaluation, which may include legislative recommendations.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 
@@ -169,11 +169,11 @@
 
 >         “(3) The term ‘active military, naval, or air service’ has the meaning given such term by section 101(24) of such title.
 
->     “(g) __Allocation of Funds.—__ 
+>     “(g)  __Allocation of Funds__  __.—__ 
 
 >     Any amount otherwise available for fiscal year 1997, 1998, or 1999 to carry out [section 4102A(b)(5) of title 38][/us/usc/t38/s4102A/b/5], United States Code, with respect to a State designated by the Secretary of Labor pursuant to subsection (d) shall be available to carry out the pilot program during that fiscal year with respect to that State.
 
->     “(h) __Expiration Date.—__ 
+>     “(h)  __Expiration Date__  __.—__ 
 
 >     The authority to carry out the pilot program under this section shall expire on October 1, 1999.”
 

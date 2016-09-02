@@ -39,11 +39,11 @@
 
 [Pub. L. 107–103, title VI, § 603(c)][/us/pl/107/103/s603/c], (d), Dec. 27, 2001, [115 Stat. 999][/us/stat/115/999], provided that:
 
->     “(c) __Construction.—__ 
+>     “(c)  __Construction__  __.—__ 
 
 >     The repeal in subsection (a) \[repealing [section 402 of Pub. L. 100–687][/us/pl/100/687/s402], formerly set out as a note below\] may not be construed to confer upon the United States Court of Appeals for Veterans Claims jurisdiction over any appeal or other matter not within the jurisdiction of the Court as provided in [section 7266(a) of title 38][/us/usc/t38/s7266/a], United States Code.
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     The repeals made by subsections (a) and (b) \[repealing [section 402 of Pub. L. 100–687][/us/pl/100/687/s402], formerly set out as a note below, and [section 403 of Pub. L. 100–687][/us/pl/100/687/s403], formerly set out as a note under [section 5904 of this title][/us/usc/t38/s5904]\] shall apply to any appeal filed with the United States Court of Appeals for Veterans Claims—
 
@@ -61,23 +61,23 @@
 
 [Pub. L. 100–687, div. A, title IV, § 401][/us/pl/100/687/s401], Nov. 18, 1988, [102 Stat. 4122][/us/stat/102/4122], as amended by [Pub. L. 101–94, title III, § 301][/us/pl/101/94/s301], Aug. 16, 1989, [103 Stat. 628][/us/stat/103/628], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this section, this division (and the amendments made by this Act) \[div. A (§§ 1–403) of [Pub. L. 100–687][/us/pl/100/687], known as the ‘Veterans’ Judicial Review Act’, see Tables for classification\] shall take effect on September 1, 1989.
 
->     “(b) __Effective Date for Certain Transition Provisions.—__ 
+>     “(b)  __Effective Date for Certain Transition Provisions__  __.—__ 
 
 >     The amendment made by section 201(a) \[amending section 4001 \[now 7101\] of this title\] shall take effect on February 1, 1989.
 
->     “(c) __Date of Enactment.—__ 
+>     “(c)  __Date of Enactment__  __.—__ 
 
 >     Sections 201 (other than subsection (a)), 208, 209, 302, and 303, and the amendments made by those sections \[see Tables for classification\], shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\].
 
->     “(d) __Board of Veterans’ Appeals.—__ 
+>     “(d)  __Board of Veterans’ Appeals__  __.—__ 
 
 >     Sections 202, 203, 205, 206, and 207 \[see Tables for classification\] shall take effect as of January 1, 1989. Section 204 \[amending section 4004 \[now 7104\] of this title\] shall take effect on September 1, 1989.
 
->     “(e) __Commencement of Operation of Court of Veterans Appeals.—__ 
+>     “(e)  __Commencement of Operation of Court of Veterans Appeals__  __.—__ 
 
 >     Notwithstanding subsection (a), the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] established pursuant to chapter 72 of title 38, United States Code (as added by section 301) shall not begin to operate until at least three judges have been appointed to the court.”
 

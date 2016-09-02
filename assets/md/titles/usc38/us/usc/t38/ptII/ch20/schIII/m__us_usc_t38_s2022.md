@@ -15,11 +15,11 @@
 
 ## § 2022. Coordination of outreach services for veterans at risk of homelessness
 
-    (a) __Outreach Plan.—__ 
+    (a)  __Outreach Plan__  __.—__ 
 
     The Secretary, acting through the Under Secretary for Health, shall provide for appropriate officials of the Mental Health Service and the Readjustment Counseling Service of the Veterans Health Administration to develop a coordinated plan for joint outreach by the two Services to veterans at risk of homelessness, including particularly veterans who are being discharged or released from institutions after inpatient psychiatric care, substance abuse treatment, or imprisonment.
 
-    (b) __Matters To Be Included.—__ 
+    (b)  __Matters To Be Included__  __.—__ 
 
     The outreach plan under subsection (a) shall include the following:
 
@@ -35,15 +35,15 @@
 
         (6) Appropriate referral sources for mental health and substance abuse services.
 
-    (c) __Cooperative Relationships.—__ 
+    (c)  __Cooperative Relationships__  __.—__ 
 
     The outreach plan under subsection (a) shall identify strategies for the Department to enter into formal cooperative relationships with entities outside the Department to facilitate making services and resources optimally available to veterans.
 
-    (d) __Review of Plan.—__ 
+    (d)  __Review of Plan__  __.—__ 
 
     The Secretary shall submit the outreach plan under subsection (a) to the Advisory Committee on Homeless Veterans for its review and consultation.
 
-    (e) __Outreach Program.—__ 
+    (e)  __Outreach Program__  __.—__ 
 
         (1)
 
@@ -63,7 +63,7 @@
 
             (C) to coordinate services provided to veterans with services provided by those organizations.
 
-    (f) __Reports.—__ 
+    (f)  __Reports__  __.—__ 
 
         (1) Not later than October 1, 2002, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an initial report that contains an evaluation of outreach activities carried out by the Secretary with respect to homeless veterans, including outreach regarding clinical issues and other benefits administered under this title. The Secretary shall conduct the evaluation in consultation with the Under Secretary for Benefits, the Department of Veterans Affairs central office official responsible for the administration of the Readjustment Counseling Service, the Director of Homeless Veterans Programs, and the Department of Veterans Affairs central office official responsible for the administration of the Mental Health Strategic Health Care Group.
 

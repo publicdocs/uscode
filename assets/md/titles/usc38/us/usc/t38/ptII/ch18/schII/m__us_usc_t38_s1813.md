@@ -15,15 +15,15 @@
 
 ## § 1813. Health care
 
-    (a) __Needed Care.—__ 
+    (a)  __Needed Care__  __.—__ 
 
     The Secretary shall provide an eligible child such health care as the Secretary determines is needed by the child for that child’s covered birth defects or any disability that is associated with those birth defects.
 
-    (b) __Authority for Care To Be Provided Directly or by Contract.—__ 
+    (b)  __Authority for Care To Be Provided Directly or by Contract__  __.—__ 
 
     The Secretary may provide health care under this section directly or by contract or other arrangement with a health care provider.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section, the definitions in [section 1803(c) of this title][/us/usc/t38/s1803/c] shall apply with respect to the provision of health care under this section, except that for such purposes—
 

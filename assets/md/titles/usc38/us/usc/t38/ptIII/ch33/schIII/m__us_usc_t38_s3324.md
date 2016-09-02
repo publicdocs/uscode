@@ -15,11 +15,11 @@
 
 ## § 3324. Allocation of administration and costs
 
-    (a) __Administration.—__ 
+    (a)  __Administration__  __.—__ 
 
     Except as otherwise provided in this chapter, the Secretary shall administer the provision of educational assistance under this chapter.
 
-    (b) __Costs.—__ 
+    (b)  __Costs__  __.—__ 
 
     Payments for entitlement to educational assistance earned under this chapter shall be made from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
 

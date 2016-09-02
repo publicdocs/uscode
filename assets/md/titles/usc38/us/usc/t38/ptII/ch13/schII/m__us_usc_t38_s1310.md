@@ -79,11 +79,11 @@
 
 [Pub. L. 102–568, title I, § 104][/us/pl/102/568/s104], Oct. 29, 1992, [106 Stat. 4322][/us/stat/106/4322], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
 
->     “(b) __Contents of Report.—__ 
+>     “(b)  __Contents of Report__  __.—__ 
 
 >     The report shall include the following:
 
@@ -135,11 +135,11 @@
 
 >         “(4) The recommendations of the Comptroller General (including a proposal for legislation) on the most appropriate combination of survivor benefits to meet the current and anticipated financial, health-care, educational, and other needs of survivors.
 
->     “(c) __Submission of Report.—__ 
+>     “(c)  __Submission of Report__  __.—__ 
 
 >     The Comptroller General shall submit the report not later than April 1, 1994.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

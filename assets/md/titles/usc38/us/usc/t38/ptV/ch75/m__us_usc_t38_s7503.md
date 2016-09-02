@@ -15,15 +15,15 @@
 
 ## § 7503. Amount of assistance; duration
 
-    (a) __Amount of Assistance.—__ 
+    (a)  __Amount of Assistance__  __.—__ 
 
     The amount of the financial assistance provided an individual under the scholarship program under this chapter shall be the amount determined by the Secretary as being necessary to pay the tuition and fees of the individual. In the case of an individual enrolled in a program of study leading to a dual degree or certification in both the areas of study described in [section 7501(a)(1) of this title][/us/usc/t38/s7501/a/1], the tuition and fees shall not exceed the amounts necessary for the minimum number of credit hours to achieve such dual degree or certification.
 
-    (b) __Relationship to Other Assistance.—__ 
+    (b)  __Relationship to Other Assistance__  __.—__ 
 
     Financial assistance may be provided to an individual under the scholarship program to supplement other educational assistance to the extent that the total amount of educational assistance received by the individual during an academic year does not exceed the total tuition and fees for such academic year.
 
-    (c) __Maximum Amount of Assistance.—__ 
+    (c)  __Maximum Amount of Assistance__  __.—__ 
 
         (1) The total amount of assistance provided under the scholarship program for an academic year to an individual who is a full-time student may not exceed $15,000.
 
@@ -31,7 +31,7 @@
 
         (3) The total amount of assistance provided to an individual under the scholarship program may not exceed $45,000.
 
-    (d) __Maximum Duration of Assistance.—__ 
+    (d)  __Maximum Duration of Assistance__  __.—__ 
 
     Financial assistance may not be provided to an individual under the scholarship program for more than six academic years.
 

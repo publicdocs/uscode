@@ -15,11 +15,11 @@
 
 ## § 1729B. Consolidated patient accounting centers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than five years after the date of the enactment of this section, the Secretary of Veterans Affairs shall establish not more than seven consolidated patient accounting centers for conducting industry-modeled regionalized billing and collection activities of the Department.
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     The centers shall carry out the following functions:
 

@@ -15,25 +15,25 @@
 
 ## § 2108. Specially adapted housing assistive technology grant program
 
-    (a) __Authority to Make Grants.—__ 
+    (a)  __Authority to Make Grants__  __.—__ 
 
     The Secretary shall make grants to encourage the development of new assistive technologies for specially adapted housing.
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     A person or entity seeking a grant under this section shall submit to the Secretary an application for the grant in such form and manner as the Secretary shall specify.
 
-    (c) __Grant Funds.—__ 
+    (c)  __Grant Funds__  __.—__ 
 
         (1) Each grant awarded under this section shall be in an amount of not more than $200,000 per fiscal year.
 
         (2) For each fiscal year in which the Secretary makes a grant under this section, the Secretary shall make the grant by not later than April 1 of that year.
 
-    (d) __Use of Funds.—__ 
+    (d)  __Use of Funds__  __.—__ 
 
     The recipient of a grant under this section shall use the grant to develop assistive technologies for use in specially adapted housing.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     Not later than March 1 of each fiscal year following a fiscal year in which the Secretary makes a grant, the Secretary shall submit to Congress a report containing information related to each grant awarded under this section during the preceding fiscal year, including—
 
@@ -43,11 +43,11 @@
 
         (3) the goal of the grant.
 
-    (f) __Funding.—__ 
+    (f)  __Funding__  __.—__ 
 
     From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
 
-    (g) __Duration.—__ 
+    (g)  __Duration__  __.—__ 
 
     The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2016.
 

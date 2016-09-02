@@ -15,13 +15,13 @@
 
 ## § 2410A. Arlington National Cemetery: other administrative matters
 
-    (a) __One Gravesite.—__ 
+    (a)  __One Gravesite__  __.—__ 
 
         (1) Not more than one gravesite may be provided at Arlington National Cemetery to a veteran or member of the Armed Forces who is eligible for interment or inurnment at such cemetery.
 
         (2) The Secretary of the Army may waive the prohibition in paragraph (1) as the Secretary of the Army considers appropriate.
 
-    (b) __Prohibition Against Reservation of Gravesites.—__ 
+    (b)  __Prohibition Against Reservation of Gravesites__  __.—__ 
 
         (1) A gravesite at Arlington National Cemetery may not be reserved for an individual before the death of such individual.
 
@@ -43,11 +43,11 @@
 
 [Pub. L. 112–154, title VI, § 602(c)][/us/pl/112/154/s602/c], Aug. 6, 2012, [126 Stat. 1200][/us/stat/126/1200], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), [section 2410A of title 38][/us/usc/t38/s2410A], United States Code, as added by subsection (a), shall apply with respect to all interments at Arlington National Cemetery after the date of the enactment of this Act \[Aug. 6, 2012\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Subsection (b) of such section, as so added, shall not apply with respect to the interment of an individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962.”
 

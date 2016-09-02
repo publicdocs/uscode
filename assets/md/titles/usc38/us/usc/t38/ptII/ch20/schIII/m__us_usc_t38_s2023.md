@@ -15,15 +15,15 @@
 
 ## § 2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions
 
-    (a) __Program Authority.—__ 
+    (a)  __Program Authority__  __.—__ 
 
     The Secretary and the Secretary of Labor (hereinafter in this section referred to as the “Secretaries”) shall carry out a program of referral and counseling services to eligible veterans with respect to benefits and services available to such veterans under this title and under State law.
 
-    (b) __Location of Program.—__ 
+    (b)  __Location of Program__  __.—__ 
 
     The program shall be carried out in at least 12 locations. One location shall be a penal institution under the jurisdiction of the Bureau of Prisons.
 
-    (c) __Scope of Program.—__ 
+    (c)  __Scope of Program__  __.—__ 
 
         (1) To the extent practicable, the program shall provide both referral and counseling services, and in the case of counseling services, shall include counseling with respect to job training and placement (including job readiness), housing, health care, and other benefits to assist the eligible veteran in the transition from institutional living.
 
@@ -37,11 +37,11 @@
 
         (4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
 
-    (d) __Duration.—__ 
+    (d)  __Duration__  __.—__ 
 
     The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2014.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     In this section, the term “eligible veteran” means a veteran who—
 

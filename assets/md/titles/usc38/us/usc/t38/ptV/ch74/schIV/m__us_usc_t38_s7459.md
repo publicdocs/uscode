@@ -15,11 +15,11 @@
 
 ## § 7459. Nursing staff: special rules for overtime duty
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Except as provided in subsection (c), the Secretary may not require nursing staff to work more than 40 hours (or 24 hours if such staff is covered under [section 7456 of this title][/us/usc/t38/s7456]) in an administrative work week or more than eight consecutive hours (or 12 hours if such staff is covered under section 7456 or 7456A of this title).
 
-    (b) __Voluntary Overtime.—__ 
+    (b)  __Voluntary Overtime__  __.—__ 
 
         (1) Nursing staff may on a voluntary basis elect to work hours otherwise prohibited by subsection (a).
 
@@ -33,7 +33,7 @@
 
             (C) for any other adverse personnel action against the staff.
 
-    (c) __Overtime Under Emergency Circumstances.—__ 
+    (c)  __Overtime Under Emergency Circumstances__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (2) Nursing staff may not be required to work hours under this subsection after the requirement for a direct role by the staff in responding to medical needs resulting from the emergency ends.
 
-    (d) __Nursing Staff Defined.—__ 
+    (d)  __Nursing Staff Defined__  __.—__ 
 
     In this section, the term “nursing staff” includes the following:
 

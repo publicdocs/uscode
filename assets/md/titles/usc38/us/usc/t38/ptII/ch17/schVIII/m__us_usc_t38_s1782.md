@@ -15,15 +15,15 @@
 
 ## § 1782. Counseling, training, and mental health services for immediate family members and caregivers
 
-    (a) __Counseling for Family Members of Veterans Receiving Service-Connected Treatment.—__ 
+    (a)  __Counseling for Family Members of Veterans Receiving Service-Connected Treatment__  __.—__ 
 
     In the case of a veteran who is receiving treatment for a service-connected disability pursuant to paragraph (1) or (2) of [section 1710(a) of this title][/us/usc/t38/s1710/a], the Secretary shall provide to individuals described in subsection (c) such consultation, professional counseling, marriage and family counseling, training, and mental health services as are necessary in connection with that treatment.
 
-    (b) __Counseling for Family Members of Veterans Receiving Non-Service-Connected Treatment.—__ 
+    (b)  __Counseling for Family Members of Veterans Receiving Non-Service-Connected Treatment__  __.—__ 
 
     In the case of a veteran who is eligible to receive treatment for a non-service-connected disability under the conditions described in paragraph (1), (2), or (3) of [section 1710(a) of this title][/us/usc/t38/s1710/a], the Secretary may, in the discretion of the Secretary, provide to individuals described in subsection (c) such consultation, professional counseling, marriage and family counseling, training, and mental health services as are necessary in connection with that treatment.
 
-    (c) __Eligible Individuals.—__ 
+    (c)  __Eligible Individuals__  __.—__ 
 
     Individuals who may be provided services under this subsection are—
 
@@ -33,7 +33,7 @@
 
         (3) the individual in whose household such veteran certifies an intention to live.
 
-    (d) __Travel and Transportation Authorized.—__ 
+    (d)  __Travel and Transportation Authorized__  __.—__ 
 
     Services provided under subsections (a) and (b) may include, under the terms and conditions set forth in [section 111 of this title][/us/usc/t38/s111], travel and incidental expenses of individuals described in subsection (c) in the case of any of the following:
 

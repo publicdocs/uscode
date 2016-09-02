@@ -15,7 +15,7 @@
 
 ## § 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors
 
-    (a) __Required Information.—__ 
+    (a)  __Required Information__  __.—__ 
 
     With respect to each deceased veteran described in subsection (b) who is transported to a national cemetery for burial, the Secretary shall ensure that the local medical examiner, funeral director, county service group, or other entity responsible for the body of the deceased veteran before such transportation submits to the Secretary the following information:
 
@@ -23,7 +23,7 @@
 
         (2) The steps taken to ensure that the deceased veteran has no next of kin.
 
-    (b) __Deceased Veteran Described.—__ 
+    (b)  __Deceased Veteran Described__  __.—__ 
 
     A deceased veteran described in this subsection is a deceased veteran—
 

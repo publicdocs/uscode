@@ -15,7 +15,7 @@
 
 ## § 7330A. Epilepsy centers of excellence
 
-    (a) __Establishment of Centers.—__ 
+    (a)  __Establishment of Centers__  __.—__ 
 
         (1) Not later than 120 days after the date of the enactment of the Veterans’ Mental Health and Other Care Improvements Act of 2008, the Secretary shall designate at least four but not more than six Department health care facilities as locations for epilepsy centers of excellence for the Department.
 
@@ -25,7 +25,7 @@
 
         (4) Subject to the availability of appropriations for such purpose, the Secretary shall establish and operate an epilepsy center of excellence at each location designated under paragraph (1).
 
-    (b) __Designation of Facilities.—__ 
+    (b)  __Designation of Facilities__  __.—__ 
 
         (1) In designating locations for epilepsy centers of excellence under subsection (a), the Secretary shall solicit proposals from Department health care facilities seeking designation as a location for an epilepsy center of excellence.
 
@@ -33,7 +33,7 @@
 
         (3) In choosing from among the facilities meeting the requirements of paragraph (2), the Secretary shall also consider appropriate geographic distribution when designating the epilepsy centers of excellence under subsection (a).
 
-    (c) __Peer Review Panel.—__ 
+    (c)  __Peer Review Panel__  __.—__ 
 
         (1) The Under Secretary for Health shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of epilepsy centers of excellence under this section.
 
@@ -51,7 +51,7 @@
 
         (5) The peer review panel shall not be subject to the Federal Advisory Committee Act.
 
-    (d) __Epilepsy Center of Excellence Defined.—__ 
+    (d)  __Epilepsy Center of Excellence Defined__  __.—__ 
 
     In this section, the term “epilepsy center of excellence” means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis and treatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
 
@@ -69,7 +69,7 @@
 
         (7) The ability to perform epilepsy research, education, and clinical care activities in collaboration with Department medical facilities that have centers for research, education, and clinical care activities on complex multi-trauma associated with combat injuries established under [section 7327 of this title][/us/usc/t38/s7327].
 
-    (e) __National Coordinator for Epilepsy Programs.—__ 
+    (e)  __National Coordinator for Epilepsy Programs__  __.—__ 
 
         (1) To assist the Secretary and the Under Secretary for Health in carrying out this section, the Secretary shall designate an individual in the Veterans Health Administration to act as a national coordinator for epilepsy programs of the Veterans Health Administration.
 
@@ -89,7 +89,7 @@
 
         (3) In carrying out duties under this subsection, the national coordinator for epilepsy programs shall report to the official of the Veterans Health Administration responsible for neurology.
 
-    (f) __Authorization of Appropriations.—__ 
+    (f)  __Authorization of Appropriations__  __.—__ 
 
         (1) There are authorized to be appropriated $6,000,000 for each of fiscal years 2009 through 2013 for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
 

@@ -15,7 +15,7 @@
 
 ## § 312A. Director of Construction and Facilities Management
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) There is in the Department a Director of Construction and Facilities Management, who shall be appointed by the Secretary.
 
@@ -25,7 +25,7 @@
 
         (4) The Director shall report to the Deputy Secretary in the discharge of the responsibilities of the Director under subsection (c).
 
-    (b) __Qualifications.—__ 
+    (b)  __Qualifications__  __.—__ 
 
     Each individual appointed as Director of Construction and Facilities Management shall be an individual who—
 
@@ -33,7 +33,7 @@
 
         (2) has substantive professional experience in the area of construction project management.
 
-    (c) __Responsibilities.—__ 
+    (c)  __Responsibilities__  __.—__ 
 
         (1)
 

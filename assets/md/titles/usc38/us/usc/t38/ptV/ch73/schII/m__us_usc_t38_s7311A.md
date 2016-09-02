@@ -15,7 +15,7 @@
 
 ## § 7311A. Quality management officers
 
-    (a) __National Quality Management Officer.—__ 
+    (a)  __National Quality Management Officer__  __.—__ 
 
         (1) The Under Secretary for Health shall designate an official of the Veterans Health Administration to act as the principal quality management officer for the quality-assurance program required by [section 7311 of this title][/us/usc/t38/s7311]. The official so designated may be known as the “National Quality Management Officer of the Veterans Health Administration” (in this section referred to as the “National Quality Management Officer”).
 
@@ -43,7 +43,7 @@
 
             (B) Mechanisms for the peer review of the actions of individuals appointed in the Veterans Health Administration in the position of physician.
 
-    (b) __Quality Management Officers for VISNs.—__ 
+    (b)  __Quality Management Officers for VISNs__  __.—__ 
 
         (1) The Regional Director of each Veterans Integrated Services Network shall appoint an official of the Network to act as the quality management officer of the Network.
 
@@ -57,7 +57,7 @@
 
             (B) coordinate, monitor, and oversee the quality management programs and activities of the Administration medical facilities in the Network in order to ensure the thorough and uniform discharge of quality management requirements under such programs and activities throughout such facilities.
 
-    (c) __Quality Management Officers for Medical Facilities.—__ 
+    (c)  __Quality Management Officers for Medical Facilities__  __.—__ 
 
         (1) The director of each Veterans Health Administration medical facility shall appoint a quality management officer for that facility.
 
@@ -65,7 +65,7 @@
 
         (3) The quality management officer for a facility shall be responsible for designing, disseminating, and implementing quality management programs and activities for the facility that meet the requirements established by the National Quality Management Officer under subsection (a).
 
-    (d) __Authorization of Appropriations.—__ 
+    (d)  __Authorization of Appropriations__  __.—__ 
 
         (1) Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out this section.
 

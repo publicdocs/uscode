@@ -15,11 +15,11 @@
 
 ## § 2061. Grant program for homeless veterans with special needs
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary shall carry out a program to make grants to health care facilities of the Department and to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title in order to encourage development by those facilities and entities of programs for homeless veterans with special needs.
 
-    (b) __Homeless Veterans With Special Needs.—__ 
+    (b)  __Homeless Veterans With Special Needs__  __.—__ 
 
     For purposes of this section, homeless veterans with special needs include homeless veterans who are—
 
@@ -33,11 +33,11 @@
 
         (5) individuals who have care of minor dependents.
 
-    (c) __Provision of Services to Dependents.—__ 
+    (c)  __Provision of Services to Dependents__  __.—__ 
 
     A recipient of a grant under subsection (a) may use amounts under the grant to provide services directly to a dependent of a homeless veteran with special needs who is under the care of such homeless veteran while such homeless veteran receives services from the grant recipient under this section.
 
-    (d) __Funding.—__ 
+    (d)  __Funding__  __.—__ 
 
         (1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2014, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 

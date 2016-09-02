@@ -15,15 +15,15 @@
 
 ## § 3461. Eligibility; entitlement; duration
 
-    (a) __Entitlement.—__ 
+    (a)  __Entitlement__  __.—__ 
 
     Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran’s service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran’s active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person’s entitlement shall be the date of such person’s first discharge or release from active duty after December 31, 1976.
 
-    (b) __Entitlement Limitations.—__ 
+    (b)  __Entitlement Limitations__  __.—__ 
 
     Whenever the period of entitlement under this section of an eligible veteran who is enrolled in an educational institution regularly operated on the quarter or semester system ends during a quarter or semester, such period shall be extended to the termination of such unexpired quarter or semester. In educational institutions not operated on the quarter or semester system, whenever the period of eligibility ends after a major portion of the course is completed such period shall be extended to the end of the course or for twelve weeks, whichever is the lesser period.
 
-    (c) __Duration of Entitlement.—__ 
+    (c)  __Duration of Entitlement__  __.—__ 
 
     Except as provided in subsection (b) and in subchapter V of this chapter, no eligible veteran shall receive educational assistance under this chapter in excess of 45 months.
 

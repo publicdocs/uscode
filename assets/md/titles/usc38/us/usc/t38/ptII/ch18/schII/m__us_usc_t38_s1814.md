@@ -15,11 +15,11 @@
 
 ## § 1814. Vocational training
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary may provide a program of vocational training to an eligible child if the Secretary determines that the achievement of a vocational goal by the child is reasonably feasible.
 
-    (b) __Applicable Provisions.—__ 
+    (b)  __Applicable Provisions__  __.—__ 
 
     Subsections (b) through (e) of [section 1804 of this title][/us/usc/t38/s1804] shall apply with respect to any program of vocational training provided under subsection (a).
 

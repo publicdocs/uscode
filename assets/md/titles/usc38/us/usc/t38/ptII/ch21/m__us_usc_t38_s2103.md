@@ -15,11 +15,11 @@
 
 ## § 2103. Furnishing of plans and specifications
 
-    (a) __Plans and Specifications.—__ 
+    (a)  __Plans and Specifications__  __.—__ 
 
     The Secretary is authorized to furnish to individuals eligible for assistance under this chapter, without cost to the individuals, model plans and specifications of suitable housing units.
 
-    (b) __Handbook for Design.—__ 
+    (b)  __Handbook for Design__  __.—__ 
 
     The Secretary shall make available to veterans eligible for assistance under this chapter, without cost to the veterans, a handbook containing appropriate designs for specially adapted housing. The Secretary shall update such handbook at least once every six years to take into account any new or unique disabilities, including vision impairments, impairments specific to the upper limbs, and burn injuries.
 

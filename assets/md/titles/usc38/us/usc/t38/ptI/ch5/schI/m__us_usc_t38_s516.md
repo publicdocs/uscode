@@ -129,7 +129,7 @@
 
 [Pub. L. 105–114, title I, § 103][/us/pl/105/114/s103], Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that:
 
->     “(a) __Agreement for Assessment and Review.—__ 
+>     “(a)  __Agreement for Assessment and Review__  __.—__ 
 
 >         (1) The Secretary of Veterans Affairs shall seek to enter into an agreement with a qualified private entity under which agreement the entity shall carry out the assessment described in subsection (b) and the review described in subsection (c).
 
@@ -137,13 +137,13 @@
 
 >         “(3) The Secretary may not enter into the agreement until 15 days after the date on which the Secretary notifies the Committees on Veterans’ Affairs of the Senate and House of Representatives of the entity with which the Secretary proposes to enter into the agreement.
 
->     “(b) __Initial Assessment of System.—__ 
+>     “(b)  __Initial Assessment of System__  __.—__ 
 
 >         (1) Under the agreement under subsection (a), the entity shall conduct an assessment of the employment discrimination complaint resolution system administered within the Department of Veterans Affairs, including the extent to which the system meets the objectives set forth in [section 516(a) of title 38][/us/usc/t38/s516/a], United States Code, as added by section 101. The assessment shall include a comprehensive description of the system as of the time of the assessment.
 
 >         “(2) Under the agreement, the entity shall submit the assessment to the committees referred to in subsection (a)(3) and to the Secretary not later than June 1, 1998.
 
->     “(c) __Review of Administration of System.—__ 
+>     “(c)  __Review of Administration of System__  __.—__ 
 
 >         (1) Under the agreement under subsection (a), the entity shall monitor and review the administration by the Secretary of the employment discrimination complaint resolution system administered within the Department.
 

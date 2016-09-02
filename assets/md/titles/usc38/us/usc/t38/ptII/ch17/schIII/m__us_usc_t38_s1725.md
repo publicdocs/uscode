@@ -15,7 +15,7 @@
 
 ## § 1725. Reimbursement for emergency treatment
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1) Subject to subsections (c) and (d), the Secretary shall reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
 
@@ -27,7 +27,7 @@
 
             (B) to the person or organization that paid for such treatment on behalf of the veteran.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
         (1) A veteran referred to in subsection (a)(1) is an individual who is an active Department health-care participant who is personally liable for emergency treatment furnished the veteran in a non-Department facility.
 
@@ -51,7 +51,7 @@
 
             (D) is not eligible for reimbursement for medical care or services under [section 1728 of this title][/us/usc/t38/s1728].
 
-    (c) __Limitations on Reimbursement.—__ 
+    (c)  __Limitations on Reimbursement__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
             (D) The Secretary may not reimburse a veteran under this section for any copayment or similar payment that the veteran owes the third party or for which the veteran is responsible under a health-plan contract.
 
-    (d) __Independent Right of Recovery.—__ 
+    (d)  __Independent Right of Recovery__  __.—__ 
 
         (1) In accordance with regulations prescribed by the Secretary, the United States shall have the independent right to recover any amount paid under this section when, and to the extent that, a third party subsequently makes a payment for the same emergency treatment.
 
@@ -87,11 +87,11 @@
 
         (4) The veteran (or the veteran’s personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran’s personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
 
-    (e) __Waiver.—__ 
+    (e)  __Waiver__  __.—__ 
 
     The Secretary, in the Secretary’s discretion, may waive recovery of a payment made to a veteran under this section that is otherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     For purposes of this section:
 
@@ -165,11 +165,11 @@
 
 [Pub. L. 111–137, § 1(c)][/us/pl/111/137/s1/c], Feb. 1, 2010, [123 Stat. 3495][/us/stat/123/3495], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 1, 2010\], and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
 
->     “(2) __Reimbursement for treatment provided before effective date.—__ 
+>     “(2)  __Reimbursement for treatment provided before effective date__  __.—__ 
 
 >     The Secretary may provide reimbursement under [section 1725 of title 38][/us/usc/t38/s1725], United States Code, as amended by subsections (a) and (b), for emergency treatment furnished to a veteran before the date of the enactment of this Act \[Feb. 1, 2010\], if the Secretary determines that, under the circumstances applicable with respect to the veteran, it is appropriate to do so.”
 

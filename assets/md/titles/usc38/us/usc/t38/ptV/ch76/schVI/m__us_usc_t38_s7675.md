@@ -15,11 +15,11 @@
 
 ## § 7675. Breach of agreement: liability
 
-    (a) __Liquidated Damages.—__ 
+    (a)  __Liquidated Damages__  __.—__ 
 
     A participant in the Program (other than a participant described in subsection (b)) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under [section 7603 of this title][/us/usc/t38/s7603] shall be liable to the United States for liquidated damages in the amount of $1,500. Such liability is in addition to any period of obligated service or other obligation or liability under the agreement.
 
-    (b) __Liability During Course of Education or Training.—__ 
+    (b)  __Liability During Course of Education or Training__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) Liability under this subsection is in lieu of any service obligation arising under a participant’s agreement.
 
-    (c) __Liability During Period of Obligated Service.—__ 
+    (c)  __Liability During Period of Obligated Service__  __.—__ 
 
         (1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
 
@@ -65,11 +65,11 @@
 
             (D) “s” is the number of months of such period served by the participant in accordance with [section 7673 of this title][/us/usc/t38/s7673].
 
-    (d) __Limitation on Liability for Reductions-in-Force.—__ 
+    (d)  __Limitation on Liability for Reductions-in-Force__  __.—__ 
 
     Liability shall not arise under subsection (b)(1)(E) or (c) in the case of a participant otherwise covered by the subsection concerned if the participant fails to maintain employment as a Department employee due to a staffing adjustment.
 
-    (e) __Period for Payment of Damages.—__ 
+    (e)  __Period for Payment of Damages__  __.—__ 
 
     Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the 1-year period beginning on the date of the breach of the agreement.
 

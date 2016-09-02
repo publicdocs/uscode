@@ -15,19 +15,19 @@
 
 ## § 7253. Composition
 
-    (a) __Composition.—__ 
+    (a)  __Composition__  __.—__ 
 
     The Court of Appeals for Veterans Claims is composed of at least three and not more than seven judges, one of whom shall serve as chief judge in accordance with subsection (d).
 
-    (b) __Appointment.—__ 
+    (b)  __Appointment__  __.—__ 
 
     The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
 
-    (c) __Term of Office.—__ 
+    (c)  __Term of Office__  __.—__ 
 
     The term of office of the judges of the Court of Appeals for Veterans Claims shall be 15 years. A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.
 
-    (d) __Chief Judge.—__ 
+    (d)  __Chief Judge__  __.—__ 
 
         (1)
 
@@ -57,17 +57,17 @@
 
         (6) Judges who have the same seniority in commission shall be eligible for service as chief judge in accordance with their relative precedence.
 
-    (e) __Salary.—__ 
+    (e)  __Salary__  __.—__ 
 
     Each judge of the Court shall receive a salary at the same rate as is received by judges of the United States district courts.
 
-    (f) __Removal.—__ 
+    (f)  __Removal__  __.—__ 
 
         (1) A judge of the Court may be removed from office by the President on grounds of misconduct, neglect of duty, engaging in the practice of law, or violating [section 7255(c) of this title][/us/usc/t38/s7255/c]. A judge of the Court may not be removed from office by the President on any other ground.
 
         (2) Before a judge may be removed from office under this subsection, the judge shall be provided with a full specification of the reasons for the removal and an opportunity to be heard.
 
-    (g) __Rules.—__ 
+    (g)  __Rules__  __.—__ 
 
         (1) The Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such chapter.
 
@@ -79,7 +79,7 @@
 
             (B) The Court shall have the power provided under [section 361 of title 28][/us/usc/t28/s361] to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
 
-    (h) __Temporary Expansion of Court.—__ 
+    (h)  __Temporary Expansion of Court__  __.—__ 
 
         (1) During the period from January 1, 2002, through August 15, 2005, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
@@ -101,7 +101,7 @@
 
         (5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under [section 7257 of this title][/us/usc/t38/s7257] shall be disregarded in counting the number of judges appointed to the Court after such date.
 
-    (i) __Additional Temporary Expansion of Court.—__ 
+    (i)  __Additional Temporary Expansion of Court__  __.—__ 
 
         (1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
@@ -169,11 +169,11 @@
 
 [Pub. L. 106–117, title X, § 1036][/us/pl/106/117/s1036], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     The amendments made by this subtitle \[subtitle C (§§ 1031–1036) of title X of [Pub. L. 106–117][/us/pl/106/117], amending this section and sections 7254, 7281, 7296, and 7297 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 30, 1999\].
 
->     “(b) __Savings Provision for Incumbent Chief Judge.—__ 
+>     “(b)  __Savings Provision for Incumbent Chief Judge__  __.—__ 
 
 >     The amendments made by this subtitle shall not apply while the individual who is chief judge of the Court \[United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Nov. 30, 1999\] continues to serve as chief judge. If that individual, upon termination of service as chief judge, provides notice under [section 7257 of title 38][/us/usc/t38/s7257], United States Code, of availability for service in a recalled status, the rate of pay applicable to that individual under section 7296(c)(1)(A) of such title while serving in a recalled status shall be at the rate of pay applicable to that individual at the time of retirement, if greater than the rate otherwise applicable under that section.”
 

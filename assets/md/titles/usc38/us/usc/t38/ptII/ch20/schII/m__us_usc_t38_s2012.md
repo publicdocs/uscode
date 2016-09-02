@@ -15,7 +15,7 @@
 
 ## § 2012. Per diem payments
 
-    (a) __Per Diem Payments for Furnishing Services to Homeless Veterans.—__ 
+    (a)  __Per Diem Payments for Furnishing Services to Homeless Veterans__  __.—__ 
 
         (1)
 
@@ -37,11 +37,11 @@
 
         (3) In a case in which the Secretary has authorized the provision of services, per diem payments under paragraph (1) may be paid retroactively for services provided not more than three days before the authorization was provided.
 
-    (b) __Inspections.—__ 
+    (b)  __Inspections__  __.—__ 
 
     The Secretary may inspect any facility of a grant recipient or entity eligible for payments under subsection (a) at such times as the Secretary considers necessary. No per diem payment may be provided to a grant recipient or eligible entity under this section unless the facilities of the grant recipient or eligible entity meet such standards as the Secretary shall prescribe.
 
-    (c) __Life Safety Code.—__ 
+    (c)  __Life Safety Code__  __.—__ 
 
         (1) Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the facilities of the grant recipient or eligible entity, as the case may be, meet applicable fire and safety requirements under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
@@ -49,7 +49,7 @@
 
         (3) From amounts available for purposes of this section, not less than $5,000,000 shall be used only for grants to assist entities covered by paragraph (2) in meeting the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
-    (d) __Per Diem Payments to Nonconforming Entities.—__ 
+    (d)  __Per Diem Payments to Nonconforming Entities__  __.—__ 
 
         (1)
 

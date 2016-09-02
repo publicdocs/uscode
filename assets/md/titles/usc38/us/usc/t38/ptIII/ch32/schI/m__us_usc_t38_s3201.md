@@ -43,11 +43,11 @@
 
 [Pub. L. 99–576, title III, § 309(c)][/us/pl/99/576/s309/c], (d), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270], provided that:
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     Notwithstanding the amendments made by subsection (a) \[amending this section and sections 1602 and 1621 \[now 3202 and 3221\] of this title\], any individual on active duty in the Armed Forces who was eligible on June 30, 1985, to enroll in the program established by chapter 32 of title 38, United States Code, may enroll, before April 1, 1987, in such program.
 
->     “(d) __Notice Requirement.—__ 
+>     “(d)  __Notice Requirement__  __.—__ 
 
 >     The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out activities for the purpose of notifying, to the maximum extent feasible, individuals described in subsection (c) of the opportunity provided by such subsection.”
 

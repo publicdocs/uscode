@@ -15,7 +15,7 @@
 
 ## § 7682. Eligibility
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     An individual is eligible to participate in the Education Debt Reduction Program if the individual—
 
@@ -23,7 +23,7 @@
 
         (2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1).
 
-    (b) __Covered Costs.—__ 
+    (b)  __Covered Costs__  __.—__ 
 
     For purposes of subsection (a)(2), costs relating to a course of education or training include—
 

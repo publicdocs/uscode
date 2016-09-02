@@ -15,11 +15,11 @@
 
 ## § 7321A. Committee on Care of Veterans with Traumatic Brain Injury
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary shall establish in the Veterans Health Administration a committee to be known as the “Committee on Care of Veterans with Traumatic Brain Injury”. The Under Secretary for Health shall appoint employees of the Department with expertise in the care of veterans with traumatic brain injury to serve on the committee.
 
-    (b) __Responsibilities of Committee.—__ 
+    (b)  __Responsibilities of Committee__  __.—__ 
 
     The committee shall assess, and carry out a continuing assessment of, the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of veterans with traumatic brain injury. In carrying out that responsibility, the committee shall—
 
@@ -31,7 +31,7 @@
 
         (4) identify model programs which the committee considers to have been successful in the treatment and rehabilitation of such veterans and which should be implemented more widely in or through facilities of the Veterans Health Administration.
 
-    (c) __Advice and Recommendations.—__ 
+    (c)  __Advice and Recommendations__  __.—__ 
 
     The committee shall—
 
@@ -49,7 +49,7 @@
 
             (D) regarding the appropriate allocation of resources for all such activities.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Not later than June 1, 2010, and each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of this section. Each such report shall include the following for the calendar year preceding the year in which the report is submitted:
 

@@ -123,11 +123,11 @@
 
 [Pub. L. 111–275, title V, § 501(d)][/us/pl/111/275/s501/d], Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply with respect to deaths occurring on or after October 1, 2011.
 
->     “(2) __Prohibition on cost-of-living adjustment for fiscal year 2012.—__ 
+>     “(2)  __Prohibition on cost-of-living adjustment for fiscal year 2012__  __.—__ 
 
 >     No adjustments shall be made under [section 2303(c) of title 38][/us/usc/t38/s2303/c], United States Code, as added by subsection (c), for fiscal year 2012.”
 

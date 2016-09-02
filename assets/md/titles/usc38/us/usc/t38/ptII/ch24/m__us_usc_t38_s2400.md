@@ -87,11 +87,11 @@
 
 >     “(a) __Initial Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 13, 2010\], the Secretary of Veterans Affairs shall submit to Congress a report on the selection of the sites described in paragraph (2) for the purpose of establishing new national cemeteries.
 
->         “(2) __Sites.—__ 
+>         “(2)  __Sites__  __.—__ 
 
 >         The sites described in this paragraph are the following:
 
@@ -105,11 +105,11 @@
 
 >             “(E) An area near Tallahassee, Florida.
 
->         “(3) __Site selection.—__ 
+>         “(3)  __Site selection__  __.—__ 
 
 >         In carrying out this section, the Secretary shall solicit advice and views of representatives of State and local veterans organizations and other individuals as the Secretary considers appropriate.
 
->         “(4) __Matters included.—__ 
+>         “(4)  __Matters included__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -117,7 +117,7 @@
 
 >             “(B) As of the date of the submittal of the report, the amount of funds that are available to establish each cemetery at each site described in paragraph (2) from amounts appropriated to the Department of Veterans Affairs for Advance Planning.
 
->     “(b) __Annual Reports.—__ 
+>     “(b)  __Annual Reports__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act, and each year thereafter until the date on which each cemetery at each site described in subsection (a)(2) is established, the Secretary shall submit to Congress an annual report that includes updates to the information provided in the report under subsection (a).”
 
@@ -131,7 +131,7 @@
 
 > “SEC. 2. __ESTABLISHMENT OF NEW NATIONAL CEMETERIES.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Nov. 11, 2003\], the Secretary of Veterans Affairs, in accordance with chapter 24 of title 38, United States Code, shall establish six new national cemeteries. The new cemeteries shall be located in the following locations (those locations having been determined by the Secretary of Veterans Affairs to be the most appropriate locations for new national cemeteries):
 
@@ -147,15 +147,15 @@
 
 >         “(6) The Sarasota County, Florida, area.
 
->     “(b) __Funds.—__ 
+>     “(b)  __Funds__  __.—__ 
 
 >     Amounts appropriated for the Department of Veterans Affairs for any fiscal year after fiscal year 2003 for Advance Planning shall be available for the purposes of subsection (a).
 
->     “(c) __Site Selection Process.—__ 
+>     “(c)  __Site Selection Process__  __.—__ 
 
 >     In determining the specific sites for the new cemeteries required by subsection (a) within the locations specified in that subsection, the Secretary shall solicit the advice and views of representatives of State and local veterans organizations and other individuals as the Secretary considers appropriate.
 
->     “(d) __Initial Report.—__ 
+>     “(d)  __Initial Report__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Nov. 11, 2003\], the Secretary shall submit to Congress a report on the establishment of the national cemeteries required by subsection (a). The report shall—
 
@@ -163,11 +163,11 @@
 
 >         “(2) identify the amount of Advance Planning Funds obligated for purposes of this section as of the submission of the report.
 
->     “(e) __Annual Reports.—__ 
+>     “(e)  __Annual Reports__  __.—__ 
 
 >     The Secretary shall submit to Congress an annual report on the implementation of this section until the establishment of all six cemeteries is completed and each such cemetery has opened. The Secretary shall include in each such annual report an update of the information provided under paragraphs (1) and (2) of subsection (d).
 
->     “(f) __Definition of Southeastern Pennsylvania.—__ 
+>     “(f)  __Definition of Southeastern Pennsylvania__  __.—__ 
 
 >     In this section, the term ‘southeastern Pennsylvania’ means the city of Philadelphia and Berks County, Bucks County, Chester County, Delaware County, Philadelphia County, and Montgomery County in the State of Pennsylvania.”
 
@@ -175,15 +175,15 @@
 
 [Pub. L. 106–117, title VI, § 611][/us/pl/106/117/s611], Nov. 30, 1999, [113 Stat. 1580][/us/stat/113/1580], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery in each of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
 
->     “(b) __Obligation of Funds in Fiscal Year 2000.—__ 
+>     “(b)  __Obligation of Funds in Fiscal Year__  __2000.—__ 
 
 >     The Secretary shall obligate, from the advance planning fund in the Construction, Major Projects account appropriated to the Department \[of Veterans Affairs\] for fiscal year 2000, such amounts for costs that the Secretary estimates are required for the planning and commencement of the establishment of national cemeteries under this section.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -209,11 +209,11 @@
 
 [Pub. L. 102–86, title IV, § 403][/us/pl/102/86/s403], Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422], as amended by [Pub. L. 103–79, § 4][/us/pl/103/79/s4], Aug. 13, 1993, [107 Stat. 772][/us/stat/107/772]; [Pub. L. 103–446, title XII, § 1202(c)][/us/pl/103/446/s1202/c], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](o), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 107–330, title III, § 308(i)][/us/pl/107/330/s308/i], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Pershing Hall, an existing memorial in Paris, France, owned by the United States, together with the personal property of such memorial, is hereby placed under the jurisdiction, custody, and control of the Department of Veterans Affairs so that the memorial to the commander-in-chief, officers, men, and auxiliary services of the American Expeditionary Forces in France during World War I may be continued in an appropriate manner and financial support be provided therefor.
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >         (1)
 
@@ -231,13 +231,13 @@
 
 >         “(4) The Secretary of Veterans Affairs may provide the allowances and benefits described in [section 707 of title 38][/us/usc/t38/s707], United States Code, to personnel of the Department of Veterans Affairs who are United States citizens and are assigned by the Secretary to Pershing Hall.
 
->     “(c) __Leases.—__ 
+>     “(c)  __Leases__  __.—__ 
 
 >         (1) The Secretary may enter into agreements as the Secretary determines necessary or appropriate for the operation, development, and improvement of Pershing Hall and its site, including the leasing of portions of the Hall for terms not to exceed 99 years in areas that are newly constructed or substantially rehabilitated and for not to exceed 20 years in other areas of the Hall.
 
 >         “(2) Leases entered into by the Secretary under this subsection shall be for consideration in the form of cash or in-kind, or a combination of the two, as determined by the Secretary, which shall include the value of space leased back to the Secretary by the lessee, net of rent paid by the Secretary, and the present value of the residual interest of the Secretary at the end of the lease term.
 
->     “(d) __Fund.—__ 
+>     “(d)  __Fund__  __.—__ 
 
 >         (1) There is hereby established the Pershing Hall Revolving Fund to be administered by the Secretary of Veterans Affairs.
 
@@ -257,7 +257,7 @@
 
 >             “(C) An expenditure authorized by subparagraph (A) shall be reported by the Secretary to the Congress no later than November 1 of each year for the fiscal year ending on the previous September 30.
 
->     “(e) __Waiver.—__ 
+>     “(e)  __Waiver__  __.—__ 
 
 >     The Secretary may carry out the provisions of this section without regard to [section 8122 of title 38][/us/usc/t38/s8122], United States Code, subchapter II of chapter 5 of title 40, United States Code, sections 541 through 555 and 1302 of title 40, United States Code, or any other provision of law inconsistent with this section.”
 
@@ -269,7 +269,7 @@
 
 [Pub. L. 99–576, title IV, § 414][/us/pl/99/576/s414], Oct. 28, 1986, [100 Stat. 3284][/us/stat/100/3284], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The authority of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the National Cemetery System \[now National Cemetery Administration\] includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
 
@@ -295,7 +295,7 @@
 
 >         “(11) any other State in which a national cemetery is not available for the burial of veterans.
 
->     “(b) __Land Acquisition.—__ 
+>     “(b)  __Land Acquisition__  __.—__ 
 
 >     The Administrator \[now Secretary\] may acquire land necessary for a cemetery authorized by subsection (a) of this section by donation, purchase, condemnation, exchange of lands in the United States public domain, or otherwise.”
 
