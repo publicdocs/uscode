@@ -335,7 +335,7 @@
 
             (E)  __Period agreement is in effect__  __.—__ 
 
-            The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2014, or in accordance with the terms of the agreement, whichever is later.
+            The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.
 
             (F) __Fee set by copyright royalty judges proceeding.—__ 
 
@@ -483,7 +483,7 @@
 
     (e)  __Moratorium on Copyright Liability__  __.—__ 
 
-    Until December 31, 2014, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+    Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
 
     (f) __Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.—__ 
 
@@ -673,11 +673,15 @@
 
             The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “the”. </sup></sup>  Act of 1934.
 
-(Added [Pub. L. 100–667, title II, § 202(2)][/us/pl/100/667/s202/2], Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; amended [Pub. L. 103–198, § 5][/us/pl/103/198/s5], Dec. 17, 1993, [107 Stat. 2310][/us/stat/107/2310]; [Pub. L. 103–369, § 2][/us/pl/103/369/s2], Oct. 18, 1994, [108 Stat. 3477][/us/stat/108/3477]; [Pub. L. 104–39, § 5(c)][/us/pl/104/39/s5/c], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 105–80][/us/pl/105/80], §§ 1, 12(a)(8), Nov. 13, 1997, [111 Stat. 1529][/us/stat/111/1529], 1535; [Pub. L. 106–44, § 1(g)(4)][/us/pl/106/44/s1/g/4], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, §§ 1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13209, 13210(1), (8), Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908], 1909; [Pub. L. 108–419, § 5(g)][/us/pl/108/419/s5/g], (h), Nov. 30, 2004, [118 Stat. 2367][/us/stat/118/2367]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, §§ 101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, [118 Stat. 3394–3408][/us/stat/118/3394-3408]; [Pub. L. 109–303, § 4(e)][/us/pl/109/303/s4/e], (g), Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482], 1483; [Pub. L. 110–403, title II, § 209(a)(4)][/us/pl/110/403/s209/a/4], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–118, div. B, § 1003(a)(1)][/us/pl/111/118/s1003/a/1], Dec. 19, 2009, [123 Stat. 3469][/us/stat/123/3469]; [Pub. L. 111–144, § 10(a)(1)][/us/pl/111/144/s10/a/1], Mar. 2, 2010, [124 Stat. 47][/us/stat/124/47]; [Pub. L. 111–151, § 2(a)(1)][/us/pl/111/151/s2/a/1], Mar. 26, 2010, [124 Stat. 1027][/us/stat/124/1027]; [Pub. L. 111–157, § 9(a)(1)][/us/pl/111/157/s9/a/1], Apr. 15, 2010, [124 Stat. 1118][/us/stat/124/1118]; [Pub. L. 111–175, title I][/us/pl/111/175], §§ 102(a)(1), (b)–(k), 105, May 27, 2010, [124 Stat. 1219–1226][/us/stat/124/1219-1226], 1239; [Pub. L. 111–295, § 6(c)][/us/pl/111/295/s6/c], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+    (h)  __Termination of License__  __.—__ 
+
+    This section shall cease to be effective on December 31, 2019.
+
+(Added [Pub. L. 100–667, title II, § 202(2)][/us/pl/100/667/s202/2], Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; amended [Pub. L. 103–198, § 5][/us/pl/103/198/s5], Dec. 17, 1993, [107 Stat. 2310][/us/stat/107/2310]; [Pub. L. 103–369, § 2][/us/pl/103/369/s2], Oct. 18, 1994, [108 Stat. 3477][/us/stat/108/3477]; [Pub. L. 104–39, § 5(c)][/us/pl/104/39/s5/c], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 105–80][/us/pl/105/80], §§ 1, 12(a)(8), Nov. 13, 1997, [111 Stat. 1529][/us/stat/111/1529], 1535; [Pub. L. 106–44, § 1(g)(4)][/us/pl/106/44/s1/g/4], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, §§ 1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13209, 13210(1), (8), Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908], 1909; [Pub. L. 108–419, § 5(g)][/us/pl/108/419/s5/g], (h), Nov. 30, 2004, [118 Stat. 2367][/us/stat/118/2367]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, §§ 101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, [118 Stat. 3394–3408][/us/stat/118/3394-3408]; [Pub. L. 109–303, § 4(e)][/us/pl/109/303/s4/e], (g), Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482], 1483; [Pub. L. 110–403, title II, § 209(a)(4)][/us/pl/110/403/s209/a/4], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–118, div. B, § 1003(a)(1)][/us/pl/111/118/s1003/a/1], Dec. 19, 2009, [123 Stat. 3469][/us/stat/123/3469]; [Pub. L. 111–144, § 10(a)(1)][/us/pl/111/144/s10/a/1], Mar. 2, 2010, [124 Stat. 47][/us/stat/124/47]; [Pub. L. 111–151, § 2(a)(1)][/us/pl/111/151/s2/a/1], Mar. 26, 2010, [124 Stat. 1027][/us/stat/124/1027]; [Pub. L. 111–157, § 9(a)(1)][/us/pl/111/157/s9/a/1], Apr. 15, 2010, [124 Stat. 1118][/us/stat/124/1118]; [Pub. L. 111–175, title I][/us/pl/111/175], §§ 102(a)(1), (b)–(k), 105, May 27, 2010, [124 Stat. 1219–1226][/us/stat/124/1219-1226], 1239; [Pub. L. 111–295, § 6(c)][/us/pl/111/295/s6/c], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181]; [Pub. L. 113–200, title II][/us/pl/113/200], §§ 201(2), 202(a), Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066].)
 
  __Termination of Section__ 
 
-    For termination of section by [section 107(a) of Pub. L. 111–175][/us/pl/111/175/s107/a], see Termination of Section note below.
+    For termination of section, see subsection (h) of this section.
 
  __References in Text__ 
 
@@ -692,6 +696,12 @@
     The Federal Rules of Civil Procedure, referred to in subsec. (g)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(E). [Pub. L. 113–200, § 201(2)(A)][/us/pl/113/200/s201/2/A], substituted “2019” for “2014”.
+
+    Subsec. (e). [Pub. L. 113–200, § 201(2)(B)][/us/pl/113/200/s201/2/B], substituted “2019” for “2014”.
+
+    Subsec. (h). [Pub. L. 113–200, § 202(a)][/us/pl/113/200/s202/a], added subsec. (h).
 
     2010—[Pub. L. 111–175, § 102(a)(1)][/us/pl/111/175/s102/a/1], substituted “distant television programming by satellite” for “superstations and network stations for private home viewing” in section catchline.
 
@@ -1153,9 +1163,9 @@
 
  __Termination of Section__ 
 
-[Pub. L. 111–175, title I, § 107(a)][/us/pl/111/175/s107/a], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], provided that: 
+    For termination of section, see subsection (h) of this section.
 
-> “[Section 119 of title 17][/us/usc/t17/s119], United States Code, as amended by this Act, shall cease to be effective on December 31, 2014.”
+    [Pub. L. 111–175, title I, § 107(a)][/us/pl/111/175/s107/a], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by [Pub. L. 113–200, title II, § 202(b)][/us/pl/113/200/s202/b], Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066].
 
     [Pub. L. 111–118, div. B, § 1003(a)(2)(A)][/us/pl/111/118/s1003/a/2/A], Dec. 19, 2009, [123 Stat. 3469][/us/stat/123/3469], as amended by [Pub. L. 111–144, § 10(a)(2)][/us/pl/111/144/s10/a/2], Mar. 2, 2010, [124 Stat. 47][/us/stat/124/47]; [Pub. L. 111–151, § 2(a)(2)][/us/pl/111/151/s2/a/2], Mar. 26, 2010, [124 Stat. 1027][/us/stat/124/1027]; [Pub. L. 111–157, § 9(a)(2)][/us/pl/111/157/s9/a/2], Apr. 15, 2010, [124 Stat. 1119][/us/stat/124/1119], which provided that this section would cease to be effective on May 31, 2010, was repealed by [Pub. L. 111–175, title I, § 107(b)][/us/pl/111/175/s107/b], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245].
 
@@ -1228,7 +1238,8 @@
 [/us/stat/124/1219-1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1219-1226
 [/us/pl/111/295/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fc
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
-[/us/pl/111/175/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs107%2Fa
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
@@ -1239,6 +1250,9 @@
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
+[/us/pl/113/200/s201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs201%2F2%2FA
+[/us/pl/113/200/s201/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs201%2F2%2FB
+[/us/pl/113/200/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs202%2Fa
 [/us/pl/111/175/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fa%2F1
 [/us/pl/111/175/s102/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FB
 [/us/pl/111/175/s102/h/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F2%2FA%2Fi
@@ -1489,7 +1503,8 @@
 [/us/stat/108/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3481
 [/us/pl/111/175/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs107%2Fa
 [/us/stat/124/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1245
-[/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
+[/us/pl/113/200/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs202%2Fb
+[/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
 [/us/pl/111/118/s1003/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1003%2Fa%2F2%2FA
 [/us/stat/123/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3469
 [/us/pl/111/144/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs10%2Fa%2F2

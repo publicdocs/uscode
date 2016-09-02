@@ -205,6 +205,10 @@
 
             Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area.
 
+            (E)  __Market determinations__  __.—__ 
+
+            The local market of a commercial television broadcast station may be modified by the Federal Communications Commission in accordance with section 338(l) of the Communications Act of 1934 ([47 U.S.C. 338][/us/usc/t47/s338]).
+
         (3)  __Low power television station__  __.—__ 
 
         The term “low power television station” means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
@@ -229,7 +233,7 @@
 
             (B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–523; amended [Pub. L. 107–273, div. C, title III, § 13210(2)(A)][/us/pl/107/273/s13210/2/A], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 111(b)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; [Pub. L. 110–403, title II, § 209(a)(5)][/us/pl/110/403/s209/a/5], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 103(a)(1)][/us/pl/111/175/s103/a/1], (b)–(f), May 27, 2010, [124 Stat. 1227–1230][/us/stat/124/1227-1230].)
+(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–523; amended [Pub. L. 107–273, div. C, title III, § 13210(2)(A)][/us/pl/107/273/s13210/2/A], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 111(b)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; [Pub. L. 110–403, title II, § 209(a)(5)][/us/pl/110/403/s209/a/5], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 103(a)(1)][/us/pl/111/175/s103/a/1], (b)–(f), May 27, 2010, [124 Stat. 1227–1230][/us/stat/124/1227-1230]; [Pub. L. 113–200, title II, § 204][/us/pl/113/200/s204], Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067].)
 
  __References in Text__ 
 
@@ -238,6 +242,10 @@
     The date of the enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsec. (j)(5), is the date of enactment of [Pub. L. 111–175][/us/pl/111/175], which shall be deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of this title][/us/usc/t17/s111].
 
  __Amendments__ 
+
+    2014—Subsec. (j)(2)(B) to (D). [Pub. L. 113–200, § 204(1)][/us/pl/113/200/s204/1], realigned margins.
+
+    Subsec. (j)(2)(E). [Pub. L. 113–200, § 204(2)][/us/pl/113/200/s204/2], added subpar. (E).
 
     2010—[Pub. L. 111–175, § 103(a)(1)][/us/pl/111/175/s103/a/1], substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
 
@@ -298,6 +306,7 @@
 ----------
 ----------
 
+[/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
 [/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/107/273/s13210/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F2%2FA
@@ -308,10 +317,14 @@
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
 [/us/pl/111/175/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fa%2F1
 [/us/stat/124/1227-1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1227-1230
+[/us/pl/113/200/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204
+[/us/stat/128/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2067
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
+[/us/pl/113/200/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204%2F1
+[/us/pl/113/200/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204%2F2
 [/us/pl/111/175/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fa%2F1
 [/us/pl/111/175/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fb
 [/us/pl/111/175/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fc%2F1

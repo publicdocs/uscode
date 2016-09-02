@@ -117,11 +117,11 @@
 
         (3)  __Distribution of royalty fees to copyright owners__  __.—__ 
 
-        The royalty fees thus deposited shall, in accordance with the procedures provided by clause (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
+        The royalty fees thus deposited shall, in accordance with the procedures provided by paragraph (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
 
             (A) Any such owner whose work was included in a secondary transmission made by a cable system of a non-network television program in whole or in part beyond the local service area of the primary transmitter.
 
-            (B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under clause (1)(A).
+            (B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under paragraph (1)(A).
 
             (C) Any such owner whose work was included in non-network programming consisting exclusively of aural signals carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programs.
 
@@ -219,7 +219,7 @@
 
         (4)  __Local service area of a primary transmitter__  __.—__ 
 
-        The “local service area of a primary transmitter”, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, the “local service area of a primary transmitter” comprises the area within 35 miles of the transmitter site, except that in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), the number of miles shall be 20 miles. The “local service area of a primary transmitter”, in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission.
+        The “local service area of a primary transmitter”, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, as defined by the rules and regulations of the Federal Communications Commission, the “local service area of a primary transmitter” comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or, in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), wholly or partially within 20 miles of such transmitter site. The “local service area of a primary transmitter”, in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission.
 
         (5) __Distant signal equivalent.—__ 
 
@@ -295,7 +295,7 @@
 
             The term “subscribe” means to elect to become a subscriber.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2550][/us/stat/90/2550]; [Pub. L. 99–397][/us/pl/99/397], §§ 1, 2(a), (b), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–667, title II, § 202(1)][/us/pl/100/667/s202/1], Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; [Pub. L. 101–318, § 3(a)][/us/pl/101/318/s3/a], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 103–198, § 6(a)][/us/pl/103/198/s6/a], Dec. 17, 1993, [107 Stat. 2311][/us/stat/107/2311]; [Pub. L. 103–369, § 3][/us/pl/103/369/s3], Oct. 18, 1994, [108 Stat. 3480][/us/stat/108/3480]; [Pub. L. 104–39, § 5(b)][/us/pl/104/39/s5/b], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1), (2), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543; [Pub. L. 108–419, § 5(a)][/us/pl/108/419/s5/a], Nov. 30, 2004, [118 Stat. 2361][/us/stat/118/2361]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 107(b)\], Dec. 8, 2004, [118 Stat. 3406][/us/stat/118/3406]; [Pub. L. 109–303, § 4(a)][/us/pl/109/303/s4/a], Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–229, title VIII, § 807][/us/pl/110/229/s807], May 8, 2008, [122 Stat. 874][/us/stat/122/874]; [Pub. L. 110–403, title II, § 209(a)(2)][/us/pl/110/403/s209/a/2], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 104(a)(1)][/us/pl/111/175/s104/a/1], (b), (c), (e), (g), May 27, 2010, [124 Stat. 1231][/us/stat/124/1231], 1235, 1238.)
+([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2550][/us/stat/90/2550]; [Pub. L. 99–397][/us/pl/99/397], §§ 1, 2(a), (b), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–667, title II, § 202(1)][/us/pl/100/667/s202/1], Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; [Pub. L. 101–318, § 3(a)][/us/pl/101/318/s3/a], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 103–198, § 6(a)][/us/pl/103/198/s6/a], Dec. 17, 1993, [107 Stat. 2311][/us/stat/107/2311]; [Pub. L. 103–369, § 3][/us/pl/103/369/s3], Oct. 18, 1994, [108 Stat. 3480][/us/stat/108/3480]; [Pub. L. 104–39, § 5(b)][/us/pl/104/39/s5/b], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1), (2), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543; [Pub. L. 108–419, § 5(a)][/us/pl/108/419/s5/a], Nov. 30, 2004, [118 Stat. 2361][/us/stat/118/2361]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 107(b)\], Dec. 8, 2004, [118 Stat. 3406][/us/stat/118/3406]; [Pub. L. 109–303, § 4(a)][/us/pl/109/303/s4/a], Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–229, title VIII, § 807][/us/pl/110/229/s807], May 8, 2008, [122 Stat. 874][/us/stat/122/874]; [Pub. L. 110–403, title II, § 209(a)(2)][/us/pl/110/403/s209/a/2], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 104(a)(1)][/us/pl/111/175/s104/a/1], (b), (c), (e), (g), May 27, 2010, [124 Stat. 1231][/us/stat/124/1231], 1235, 1238; [Pub. L. 113–200, title II][/us/pl/113/200], §§ 201(1), 203, Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], 2067.)
 
  __Historical and Revision Notes__ 
 
@@ -440,6 +440,10 @@
     Section 397 of the Communications Act of 1934, referred to in subsec. (f)(8), is classified to [section 397 of Title 47][/us/usc/t47/s397], Telecommunications.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(3). [Pub. L. 113–200, § 201(1)][/us/pl/113/200/s201/1], substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
+
+    Subsec. (f)(4). [Pub. L. 113–200, § 203][/us/pl/113/200/s203], in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
 
     2010—[Pub. L. 111–175, § 104(a)(1)][/us/pl/111/175/s104/a/1], inserted “of broadcast programming by cable” after “transmissions” in section catchline.
 
@@ -691,6 +695,10 @@
 
  __Severability__ 
 
+[Pub. L. 113–200, title III, § 301][/us/pl/113/200/s301], Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067], provided that: 
+
+> “If any provision of this Act \[see Short Title of 2014 Amendment note set out under [section 609 of Title 47][/us/usc/t47/s609], Telecommunications\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
+
 [Pub. L. 111–175, title IV, § 401][/us/pl/111/175/s401], May 27, 2010, [124 Stat. 1258][/us/stat/124/1258], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
@@ -736,12 +744,16 @@
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
 [/us/pl/111/175/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fa%2F1
 [/us/stat/124/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1231
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
+[/us/pl/113/200/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs201%2F1
+[/us/pl/113/200/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs203
 [/us/pl/111/175/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fa%2F1
 [/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
 [/us/pl/111/175/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fb
@@ -855,6 +867,9 @@
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb
+[/us/pl/113/200/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs301
+[/us/stat/128/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2067
+[/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/111/175/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs401
 [/us/stat/124/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1258
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
