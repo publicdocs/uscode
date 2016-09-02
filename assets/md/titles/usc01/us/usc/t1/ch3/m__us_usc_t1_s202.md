@@ -15,7 +15,7 @@
 
 ## § 202. Preparation and publication of Codes and Supplements
 
-There shall be prepared and published under the supervision of the Committee on the Judiciary of the House of Representatives—
+    There shall be prepared and published under the supervision of the Committee on the Judiciary of the House of Representatives—
 
     (a) __Cumulative Supplements to Code of Laws of United States for each session of Congress.—__ 
 

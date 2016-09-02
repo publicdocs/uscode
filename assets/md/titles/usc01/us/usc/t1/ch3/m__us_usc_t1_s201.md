@@ -15,7 +15,7 @@
 
 ## § 201. Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements
 
-In order to avoid duplication and waste—
+    In order to avoid duplication and waste—
 
     (a) __Publishing in slip or pamphlet form or in Statutes at Large.—__ 
 

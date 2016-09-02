@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs1" data-uslm-ref="/us/usc/t1/s1">1.</a>  </td>
 
     <td> Words denoting number, gender, etc. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs2" data-uslm-ref="/us/usc/t1/s2">2.</a>  </td>
 
     <td> “County” as including “parish”, etc. <sup>[1]</sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs3" data-uslm-ref="/us/usc/t1/s3">3.</a>  </td>
 
     <td> “Vessel” as including all means of water transportation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs4" data-uslm-ref="/us/usc/t1/s4">4.</a>  </td>
 
     <td> “Vehicle” as including all means of land transportation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs5" data-uslm-ref="/us/usc/t1/s5">5.</a>  </td>
 
     <td> “Company” or “association” as including successors and assigns.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs6" data-uslm-ref="/us/usc/t1/s6">6.</a>  </td>
 
     <td> Limitation of term “products of American fisheries.”  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs7" data-uslm-ref="/us/usc/t1/s7">7.</a>  </td>
 
     <td> Definition of “marriage” and “spouse”.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft1%2Fs8" data-uslm-ref="/us/usc/t1/s8">8.</a>  </td>
 
     <td> “Person”, “human being”, “child”, and “individual” as including born-alive infant.  </td>
 

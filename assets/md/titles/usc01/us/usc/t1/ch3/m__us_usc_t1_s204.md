@@ -15,7 +15,7 @@
 
 ## § 204. Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements
 
-In all courts, tribunals, and public offices of the United States, at home or abroad, of the District of Columbia, and of each State, Territory, or insular possession of the United States—
+    In all courts, tribunals, and public offices of the United States, at home or abroad, of the District of Columbia, and of each State, Territory, or insular possession of the United States—
 
     (a) __United States Code.—__ 
 
