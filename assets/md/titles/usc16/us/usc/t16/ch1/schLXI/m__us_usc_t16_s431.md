@@ -1523,6 +1523,14 @@ Disabled American Veterans Vietnam Veterans National Memorial, New Mexico.—Rec
 
     <td> 
 
+Distinguished Flying Cross National Memorial, California.—Pub. L. 113–132, July 25, 2014, 128 Stat. 1727.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975, 89 Stat. 848.  </td>
 
   </tr>
