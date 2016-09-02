@@ -155,7 +155,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1825" data-uslm-ref="/us/usc/t12/s1825">1825.</a>  </td>
 
-    <td> Issuance of notes, debentures, bonds, and other obligations; exemption from taxation.  </td>
+    <td> Issuance of notes, debentures, bonds, and other obligations; exemptions.  </td>
 
   </tr>
 

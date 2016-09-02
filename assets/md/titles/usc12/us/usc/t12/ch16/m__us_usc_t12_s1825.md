@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1824.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1826.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1825)
 
-## § 1825. Issuance of notes, debentures, bonds, and other obligations; exemption from taxation
+## § 1825. Issuance of notes, debentures, bonds, and other obligations; exemptions
 
     (a) __General rule__ 
 
