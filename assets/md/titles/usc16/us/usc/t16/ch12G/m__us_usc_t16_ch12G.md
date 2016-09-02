@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838" data-uslm-ref="/us/usc/t16/s838">838.</a>  </td>
 
     <td> Congressional findings; authority and duties of Secretary of Energy relating to Federal Columbia River Power System unaffected.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 838a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838a" data-uslm-ref="/us/usc/t16/s838a">838a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 838b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838b" data-uslm-ref="/us/usc/t16/s838b">838b.</a>  </td>
 
     <td> Operation and maintenance of Federal transmission system; construction of improvements, betterments, additions and replacements; criteria.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 838c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838c" data-uslm-ref="/us/usc/t16/s838c">838c.</a>  </td>
 
     <td> Acquisition by condemnation of transmission facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 838d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838d" data-uslm-ref="/us/usc/t16/s838d">838d.</a>  </td>
 
     <td> Transmission of non-Federal power.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 838e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838e" data-uslm-ref="/us/usc/t16/s838e">838e.</a>  </td>
 
     <td> Acquisition of property.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 838f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838f" data-uslm-ref="/us/usc/t16/s838f">838f.</a>  </td>
 
     <td> Marketing of Federal power; sales agent.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 838g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838g" data-uslm-ref="/us/usc/t16/s838g">838g.</a>  </td>
 
     <td> Schedules of rates and charges for sale of Federal power and transmission of non-Federal power; confirmation and approval; criteria for modification and establishment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 838h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838h" data-uslm-ref="/us/usc/t16/s838h">838h.</a>  </td>
 
     <td> Uniform schedules of rates and charges for sale of Federal power and transmission of non-Federal power; allocation of cost recovery.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 838i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838i" data-uslm-ref="/us/usc/t16/s838i">838i.</a>  </td>
 
     <td> Bonneville Power Administration fund.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 838j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838j" data-uslm-ref="/us/usc/t16/s838j">838j.</a>  </td>
 
     <td> Investment of excess moneys; deposit of moneys.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 838k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838k" data-uslm-ref="/us/usc/t16/s838k">838k.</a>  </td>
 
     <td> Bonneville Power Administration bonds.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 838l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs838" data-uslm-ref="/us/usc/t16/s838">838</a>l.  </td>
 
     <td> Bonneville Power Administration refinancing.  </td>
 

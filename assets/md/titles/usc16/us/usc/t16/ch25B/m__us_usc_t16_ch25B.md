@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1220.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220" data-uslm-ref="/us/usc/t16/s1220">1220.</a>  </td>
 
     <td> State applications for obsolete ships for use as offshore reefs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1220a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220a" data-uslm-ref="/us/usc/t16/s1220a">1220a.</a>  </td>
 
     <td> Transfer of title; terms and conditions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1220b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220b" data-uslm-ref="/us/usc/t16/s1220b">1220b.</a>  </td>
 
     <td> Obsolete ships available; number; equitable administration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1220c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220c" data-uslm-ref="/us/usc/t16/s1220c">1220c.</a>  </td>
 
     <td> Denial of applications; finality of decision.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1220c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220c%E2%80%931" data-uslm-ref="/us/usc/t16/s1220c–1">1220c–1.</a>  </td>
 
     <td> Financial assistance to State to prepare transferred ship.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1220d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1220d" data-uslm-ref="/us/usc/t16/s1220d">1220d.</a>  </td>
 
     <td> “Obsolete ship” defined.  </td>
 

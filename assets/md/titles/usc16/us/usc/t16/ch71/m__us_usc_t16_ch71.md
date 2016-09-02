@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5101" data-uslm-ref="/us/usc/t16/s5101">5101.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5102" data-uslm-ref="/us/usc/t16/s5102">5102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5103" data-uslm-ref="/us/usc/t16/s5103">5103.</a>  </td>
 
     <td> State-Federal cooperation in Atlantic coastal fishery management.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5104" data-uslm-ref="/us/usc/t16/s5104">5104.</a>  </td>
 
     <td> State implementation of coastal fishery management plans.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5105" data-uslm-ref="/us/usc/t16/s5105">5105.</a>  </td>
 
     <td> State noncompliance with coastal fishery management plans.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5106" data-uslm-ref="/us/usc/t16/s5106">5106.</a>  </td>
 
     <td> Secretarial action.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5107" data-uslm-ref="/us/usc/t16/s5107">5107.</a>  </td>
 
     <td> Financial assistance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5107a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5107a" data-uslm-ref="/us/usc/t16/s5107a">5107a.</a>  </td>
 
     <td> State permits valid in certain waters.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5107b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5107b" data-uslm-ref="/us/usc/t16/s5107b">5107b.</a>  </td>
 
     <td> Transition to management of American lobster fishery by Commission.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5108" data-uslm-ref="/us/usc/t16/s5108">5108.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 590a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590a" data-uslm-ref="/us/usc/t16/s590a">590a.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 590b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590b" data-uslm-ref="/us/usc/t16/s590b">590b.</a>  </td>
 
     <td> Lands on which preventive measures may be taken.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 590c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590c" data-uslm-ref="/us/usc/t16/s590c">590c.</a>  </td>
 
     <td> Conditions under which benefits of law extended to nongovernment controlled lands.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 590d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590d" data-uslm-ref="/us/usc/t16/s590d">590d.</a>  </td>
 
     <td> Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 590e to 590e–2.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590e" data-uslm-ref="/us/usc/t16/s590e">590e</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590e%E2%80%932" data-uslm-ref="/us/usc/t16/s590e–2">590e–2.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 590f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590f" data-uslm-ref="/us/usc/t16/s590f">590f.</a>  </td>
 
     <td> Authorization of appropriation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 590g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590g" data-uslm-ref="/us/usc/t16/s590g">590g.</a>  </td>
 
     <td> Additional policies and purposes of chapter.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 590g–1, 590g–2.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590g%E2%80%931" data-uslm-ref="/us/usc/t16/s590g–1">590g–1</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590g%E2%80%932" data-uslm-ref="/us/usc/t16/s590g–2">590g–2.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 590h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590h" data-uslm-ref="/us/usc/t16/s590h">590h.</a>  </td>
 
     <td> Payments and grants of aid.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 590h–1 to 590h–4.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%931" data-uslm-ref="/us/usc/t16/s590h–1">590h–1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%934" data-uslm-ref="/us/usc/t16/s590h–4">590h–4.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 590i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590i" data-uslm-ref="/us/usc/t16/s590i">590i.</a>  </td>
 
     <td> Surveys and investigations; publication of information.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 590i–1, 590i–2.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590i%E2%80%931" data-uslm-ref="/us/usc/t16/s590i–1">590i–1</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590i%E2%80%932" data-uslm-ref="/us/usc/t16/s590i–2">590i–2.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 590j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590j" data-uslm-ref="/us/usc/t16/s590j">590j.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 590k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590k" data-uslm-ref="/us/usc/t16/s590k">590k.</a>  </td>
 
     <td> Availability of funds.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 590l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590" data-uslm-ref="/us/usc/t16/s590">590</a>l.  </td>
 
     <td> Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 590m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590m" data-uslm-ref="/us/usc/t16/s590m">590m.</a>  </td>
 
     <td> Execution of powers of Secretary by Production and Marketing Administration.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 590n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590n" data-uslm-ref="/us/usc/t16/s590n">590n.</a>  </td>
 
     <td> Payments reviewable only by Secretary.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 590o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590" data-uslm-ref="/us/usc/t16/s590">590</a>o.  </td>
 
     <td> Authorization of appropriations; distribution of appropriated funds.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 590p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590p" data-uslm-ref="/us/usc/t16/s590p">590p.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 590p–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590p%E2%80%931" data-uslm-ref="/us/usc/t16/s590p–1">590p–1.</a>  </td>
 
     <td> Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 590q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590q" data-uslm-ref="/us/usc/t16/s590q">590q.</a>  </td>
 
     <td> Coverage; “State” defined; short title.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 590q–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590q%E2%80%931" data-uslm-ref="/us/usc/t16/s590q–1">590q–1.</a>  </td>
 
     <td> Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 590q–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590q%E2%80%932" data-uslm-ref="/us/usc/t16/s590q–2">590q–2.</a>  </td>
 
     <td> Voluntary relinquishment of allotments.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 590q–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590q%E2%80%933" data-uslm-ref="/us/usc/t16/s590q–3">590q–3.</a>  </td>
 
     <td> Critical lands resource conservation program in Great Plains area.  </td>
 

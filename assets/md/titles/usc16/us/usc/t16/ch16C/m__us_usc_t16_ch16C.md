@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973" data-uslm-ref="/us/usc/t16/s973">973.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 973a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973a" data-uslm-ref="/us/usc/t16/s973a">973a.</a>  </td>
 
     <td> Application to other laws.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 973b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973b" data-uslm-ref="/us/usc/t16/s973b">973b.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 973c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973c" data-uslm-ref="/us/usc/t16/s973c">973c.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 973d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973d" data-uslm-ref="/us/usc/t16/s973d">973d.</a>  </td>
 
     <td> Exceptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 973e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973e" data-uslm-ref="/us/usc/t16/s973e">973e.</a>  </td>
 
     <td> Criminal offenses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 973f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973f" data-uslm-ref="/us/usc/t16/s973f">973f.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 973g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973g" data-uslm-ref="/us/usc/t16/s973g">973g.</a>  </td>
 
     <td> Licenses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 973h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973h" data-uslm-ref="/us/usc/t16/s973h">973h.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 973i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973i" data-uslm-ref="/us/usc/t16/s973i">973i.</a>  </td>
 
     <td> Findings by Secretary.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 973j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973j" data-uslm-ref="/us/usc/t16/s973j">973j.</a>  </td>
 
     <td> Reporting requirements; disclosure of information.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 973k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973k" data-uslm-ref="/us/usc/t16/s973k">973k.</a>  </td>
 
     <td> Closed Area stowage requirements.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 973l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973" data-uslm-ref="/us/usc/t16/s973">973</a>l.  </td>
 
     <td> Observers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 973m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973m" data-uslm-ref="/us/usc/t16/s973m">973m.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 973n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973n" data-uslm-ref="/us/usc/t16/s973n">973n.</a>  </td>
 
     <td> Arbitration.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 973o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973" data-uslm-ref="/us/usc/t16/s973">973</a>o.  </td>
 
     <td> Disposition of fees, penalties, forfeitures, and other moneys.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 973p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973p" data-uslm-ref="/us/usc/t16/s973p">973p.</a>  </td>
 
     <td> Additional agreements.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 973q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973q" data-uslm-ref="/us/usc/t16/s973q">973q.</a>  </td>
 
     <td> Secretary of State to act for United States.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 973r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973r" data-uslm-ref="/us/usc/t16/s973r">973r.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

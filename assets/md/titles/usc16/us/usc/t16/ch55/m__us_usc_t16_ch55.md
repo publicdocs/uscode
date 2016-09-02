@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3501" data-uslm-ref="/us/usc/t16/s3501">3501.</a>  </td>
 
     <td> Congressional statement of findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3502" data-uslm-ref="/us/usc/t16/s3502">3502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3503" data-uslm-ref="/us/usc/t16/s3503">3503.</a>  </td>
 
     <td> Establishment of John H. Chafee Coastal Barrier Resources System.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3504" data-uslm-ref="/us/usc/t16/s3504">3504.</a>  </td>
 
     <td> Limitations on Federal expenditures affecting the System.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3505" data-uslm-ref="/us/usc/t16/s3505">3505.</a>  </td>
 
     <td> Exceptions to limitations on expenditures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3506" data-uslm-ref="/us/usc/t16/s3506">3506.</a>  </td>
 
     <td> Certification of compliance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3507" data-uslm-ref="/us/usc/t16/s3507">3507.</a>  </td>
 
     <td> Priority of laws.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3508" data-uslm-ref="/us/usc/t16/s3508">3508.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3509" data-uslm-ref="/us/usc/t16/s3509">3509.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3510" data-uslm-ref="/us/usc/t16/s3510">3510.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

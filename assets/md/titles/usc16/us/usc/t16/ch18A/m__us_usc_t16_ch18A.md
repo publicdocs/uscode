@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1015" data-uslm-ref="/us/usc/t16/s1015">1015.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1015a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1015a" data-uslm-ref="/us/usc/t16/s1015a">1015a.</a>  </td>
 
     <td> Program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1015b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1015b" data-uslm-ref="/us/usc/t16/s1015b">1015b.</a>  </td>
 
     <td> Effect of chapter.  </td>
 

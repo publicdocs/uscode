@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs461" data-uslm-ref="/us/usc/t16/s461">461.</a>  </td>
 
     <td> Declaration of national policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs462" data-uslm-ref="/us/usc/t16/s462">462.</a>  </td>
 
     <td> Administration by Secretary of the Interior; powers and duties enumerated.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs463" data-uslm-ref="/us/usc/t16/s463">463.</a>  </td>
 
     <td> National Park System Advisory Board.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs464" data-uslm-ref="/us/usc/t16/s464">464.</a>  </td>
 
     <td> Cooperation with governmental and private agencies.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs465" data-uslm-ref="/us/usc/t16/s465">465.</a>  </td>
 
     <td> Jurisdiction of States in acquired lands.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs466" data-uslm-ref="/us/usc/t16/s466">466.</a>  </td>
 
     <td> Requirement for specific authorization.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs467" data-uslm-ref="/us/usc/t16/s467">467.</a>  </td>
 
     <td> Conflict of laws.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 467a, 467a–1.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs467a" data-uslm-ref="/us/usc/t16/s467a">467a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs467a%E2%80%931" data-uslm-ref="/us/usc/t16/s467a–1">467a–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 467b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs467b" data-uslm-ref="/us/usc/t16/s467b">467b.</a>  </td>
 
     <td> Survey by Secretary of the Interior of sites for commemoration of former Presidents of the United States.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468" data-uslm-ref="/us/usc/t16/s468">468.</a>  </td>
 
     <td> National Trust for Historic Preservation in the United States; creation; purpose.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468a" data-uslm-ref="/us/usc/t16/s468a">468a.</a>  </td>
 
     <td> Principal office of National Trust Commission.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468b" data-uslm-ref="/us/usc/t16/s468b">468b.</a>  </td>
 
     <td> Administration of National Trust; composition of board of trustees; terms of office; compensation; expenses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468c" data-uslm-ref="/us/usc/t16/s468c">468c.</a>  </td>
 
     <td> Powers and duties of National Trust.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468d" data-uslm-ref="/us/usc/t16/s468d">468d.</a>  </td>
 
     <td> Consultation with Advisory Board on National Parks, Historic Sites, Buildings, and Monuments.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 468e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs468e" data-uslm-ref="/us/usc/t16/s468e">468e.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469.</a>  </td>
 
     <td> Preservation of historical and archeological data threatened by dam construction or alterations of terrain.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469a" data-uslm-ref="/us/usc/t16/s469a">469a.</a>  </td>
 
     <td> Notice of dam construction to be given Secretary of the Interior by United States agencies.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469a%E2%80%931" data-uslm-ref="/us/usc/t16/s469a–1">469a–1.</a>  </td>
 
     <td> Threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects; notice to Secretary of the Interior; survey; recovery, preservation, and protection of data.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469a–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469a%E2%80%932" data-uslm-ref="/us/usc/t16/s469a–2">469a–2.</a>  </td>
 
     <td> Survey by Secretary of the Interior; recovery and preservation of data; compensation for delays in construction and for temporary loss of use of land.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469a–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469a%E2%80%933" data-uslm-ref="/us/usc/t16/s469a–3">469a–3.</a>  </td>
 
     <td> Progress reports by Secretary of the Interior on surveys and work undertaken as result of surveys; disposition of relics and specimens recovered; coordination of survey and recovery activities; annual report.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469b" data-uslm-ref="/us/usc/t16/s469b">469b.</a>  </td>
 
     <td> Administration; contracts or agreements; services of experts, consultants, or organizations; acceptance of funds.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469c" data-uslm-ref="/us/usc/t16/s469c">469c.</a>  </td>
 
     <td> Assistance to Secretary of the Interior by Federal agencies responsible for construction projects; authorization of appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469c%E2%80%931" data-uslm-ref="/us/usc/t16/s469c–1">469c–1.</a>  </td>
 
     <td> “State” defined.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469c%E2%80%932" data-uslm-ref="/us/usc/t16/s469c–2">469c–2.</a>  </td>
 
     <td> Costs for identification, surveys, evaluation and data recovery with respect to historic properties.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469d" data-uslm-ref="/us/usc/t16/s469d">469d.</a>  </td>
 
     <td> Ice Age National Scientific Reserve; statement of purpose.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469e" data-uslm-ref="/us/usc/t16/s469e">469e.</a>  </td>
 
     <td> Plan for continental glaciation.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469f" data-uslm-ref="/us/usc/t16/s469f">469f.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469g" data-uslm-ref="/us/usc/t16/s469g">469g.</a>  </td>
 
     <td> Ice Age National Scientific Reserve; recommendations for Federal and State participation in financing public facilities and services.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469h" data-uslm-ref="/us/usc/t16/s469h">469h.</a>  </td>
 
     <td> Comprehensive plan for Reserve Development.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469i" data-uslm-ref="/us/usc/t16/s469i">469i.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469j" data-uslm-ref="/us/usc/t16/s469j">469j.</a>  </td>
 
     <td> Commission for the Preservation of America’s Heritage Abroad.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469k" data-uslm-ref="/us/usc/t16/s469k">469k.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469k–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469k%E2%80%931" data-uslm-ref="/us/usc/t16/s469k–1">469k–1.</a>  </td>
 
     <td> American Battlefield Protection Program.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l.  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–1.  </td>
 
     <td> National Underground Railroad Network to Freedom program.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–2.  </td>
 
     <td> Preservation of historic sites or structures.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–3.  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469m" data-uslm-ref="/us/usc/t16/s469m">469m.</a>  </td>
 
     <td> Women’s Rights National Historical Park.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469n" data-uslm-ref="/us/usc/t16/s469n">469n.</a>  </td>
 
     <td> Preserve America Program.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 469o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>o.  </td>
 
     <td> Save America’s Treasures Program.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—NATIONAL HISTORIC PRESERVATION  </td>
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470" data-uslm-ref="/us/usc/t16/s470">470.</a>  </td>
 
     <td> Short title; Congressional finding and declaration of policy.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—NATIONAL HISTORIC PRESERVATION  </td>
 
   <tr>
 
-    <td> 470–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%931" data-uslm-ref="/us/usc/t16/s470–1">470–1.</a>  </td>
 
     <td> Declaration of policy of the Federal Government.  </td>
 
@@ -385,7 +385,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470a" data-uslm-ref="/us/usc/t16/s470a">470a.</a>  </td>
 
     <td> Historic preservation program.  </td>
 
@@ -393,7 +393,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470a%E2%80%931" data-uslm-ref="/us/usc/t16/s470a–1">470a–1.</a>  </td>
 
     <td> World Heritage Convention.  </td>
 
@@ -401,7 +401,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470a–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470a%E2%80%932" data-uslm-ref="/us/usc/t16/s470a–2">470a–2.</a>  </td>
 
     <td> Federal undertakings outside United States; mitigation of adverse effects.  </td>
 
@@ -409,7 +409,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470b" data-uslm-ref="/us/usc/t16/s470b">470b.</a>  </td>
 
     <td> Requirements for awarding of grant funds.  </td>
 
@@ -417,7 +417,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470b%E2%80%931" data-uslm-ref="/us/usc/t16/s470b–1">470b–1.</a>  </td>
 
     <td> Grants to National Trust for Historic Preservation.  </td>
 
@@ -425,7 +425,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470c" data-uslm-ref="/us/usc/t16/s470c">470c.</a>  </td>
 
     <td> Apportionment of grant funds.  </td>
 
@@ -433,7 +433,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470d" data-uslm-ref="/us/usc/t16/s470d">470d.</a>  </td>
 
     <td> Loan insurance program for preservation of property included on National Register.  </td>
 
@@ -441,7 +441,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470e" data-uslm-ref="/us/usc/t16/s470e">470e.</a>  </td>
 
     <td> Recordkeeping; recipients of assistance; audit.  </td>
 
@@ -449,7 +449,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470f" data-uslm-ref="/us/usc/t16/s470f">470f.</a>  </td>
 
     <td> Effect of Federal undertakings upon property listed in National Register; comment by Advisory Council on Historic Preservation.  </td>
 
@@ -457,7 +457,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470g" data-uslm-ref="/us/usc/t16/s470g">470g.</a>  </td>
 
     <td> White House, United States Supreme Court building, and United States Capitol not included in program for preservation of historical properties.  </td>
 
@@ -465,7 +465,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h" data-uslm-ref="/us/usc/t16/s470h">470h.</a>  </td>
 
     <td> Historic Preservation Fund; establishment; appropriations; source of revenue.  </td>
 
@@ -473,7 +473,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%931" data-uslm-ref="/us/usc/t16/s470h–1">470h–1.</a>  </td>
 
     <td> Acceptance of privately donated funds by Secretary.  </td>
 
@@ -481,7 +481,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%932" data-uslm-ref="/us/usc/t16/s470h–2">470h–2.</a>  </td>
 
     <td> Historic properties owned or controlled by Federal agencies.  </td>
 
@@ -489,7 +489,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%933" data-uslm-ref="/us/usc/t16/s470h–3">470h–3.</a>  </td>
 
     <td> Lease or exchange of historic property.  </td>
 
@@ -497,7 +497,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%934" data-uslm-ref="/us/usc/t16/s470h–4">470h–4.</a>  </td>
 
     <td> Professional standards.  </td>
 
@@ -505,7 +505,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 470h–5  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%935" data-uslm-ref="/us/usc/t16/s470h–5">470h–5</a>  </td>
 
     <td> Interstate and international traffic in antiquities.  </td>
 
@@ -521,7 +521,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470i" data-uslm-ref="/us/usc/t16/s470i">470i.</a>  </td>
 
     <td> Advisory Council on Historic Preservation.  </td>
 
@@ -529,7 +529,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470j" data-uslm-ref="/us/usc/t16/s470j">470j.</a>  </td>
 
     <td> Functions of Council; annual report to President and Congress; recommendations.  </td>
 
@@ -537,7 +537,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470k" data-uslm-ref="/us/usc/t16/s470k">470k.</a>  </td>
 
     <td> Cooperation between Council and instrumentalities of executive branch of Federal Government.  </td>
 
@@ -545,7 +545,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470" data-uslm-ref="/us/usc/t16/s470">470</a>l.  </td>
 
     <td> Compensation of members of Council.  </td>
 
@@ -553,7 +553,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470m" data-uslm-ref="/us/usc/t16/s470m">470m.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -561,7 +561,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470n" data-uslm-ref="/us/usc/t16/s470n">470n.</a>  </td>
 
     <td> International Centre for Study of Preservation and Restoration of Cultural Property.  </td>
 
@@ -569,7 +569,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470" data-uslm-ref="/us/usc/t16/s470">470</a>o.  </td>
 
     <td> Transfer of personnel, property, etc., by Department of the Interior to Council; time limit.  </td>
 
@@ -577,7 +577,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470p" data-uslm-ref="/us/usc/t16/s470p">470p.</a>  </td>
 
     <td> Rights, benefits, and privileges of transferred employees.  </td>
 
@@ -585,7 +585,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470q" data-uslm-ref="/us/usc/t16/s470q">470q.</a>  </td>
 
     <td> Operations of Council; exemption.  </td>
 
@@ -593,7 +593,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470r" data-uslm-ref="/us/usc/t16/s470r">470r.</a>  </td>
 
     <td> Transmittal of legislative recommendations, or testimony, or comments, to any officer or agency of the United States prior to submission thereof to Congress; prohibition.  </td>
 
@@ -601,7 +601,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470s" data-uslm-ref="/us/usc/t16/s470s">470s.</a>  </td>
 
     <td> Rules and regulations; participation by local governments.  </td>
 
@@ -609,7 +609,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470t" data-uslm-ref="/us/usc/t16/s470t">470t.</a>  </td>
 
     <td> Budget; authorization of appropriations.  </td>
 
@@ -617,7 +617,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470u" data-uslm-ref="/us/usc/t16/s470u">470u.</a>  </td>
 
     <td> Report by Secretary to Council.  </td>
 
@@ -625,7 +625,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470v.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470v" data-uslm-ref="/us/usc/t16/s470v">470v.</a>  </td>
 
     <td> Exemption for Federal programs or undertakings; regulations.  </td>
 
@@ -633,7 +633,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470v–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470v%E2%80%931" data-uslm-ref="/us/usc/t16/s470v–1">470v–1.</a>  </td>
 
     <td> Reimbursements from State and local agencies.  </td>
 
@@ -641,7 +641,7 @@ Part B—Advisory Council on Historic Preservation  </td>
 
   <tr>
 
-    <td> 470v–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470v%E2%80%932" data-uslm-ref="/us/usc/t16/s470v–2">470v–2.</a>  </td>
 
     <td> Effectiveness of Federal grant and assistance programs.  </td>
 
@@ -657,7 +657,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w" data-uslm-ref="/us/usc/t16/s470w">470w.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -665,7 +665,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%931" data-uslm-ref="/us/usc/t16/s470w–1">470w–1.</a>  </td>
 
     <td> Authorization for expenditure of appropriated funds.  </td>
 
@@ -673,7 +673,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%932" data-uslm-ref="/us/usc/t16/s470w–2">470w–2.</a>  </td>
 
     <td> Donations and bequests of money, personal property and less than fee interests in historic property.  </td>
 
@@ -681,7 +681,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%933" data-uslm-ref="/us/usc/t16/s470w–3">470w–3.</a>  </td>
 
     <td> Access to information.  </td>
 
@@ -689,7 +689,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%934" data-uslm-ref="/us/usc/t16/s470w–4">470w–4.</a>  </td>
 
     <td> Attorneys’ fees and costs to prevailing parties in civil actions.  </td>
 
@@ -697,7 +697,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%935" data-uslm-ref="/us/usc/t16/s470w–5">470w–5.</a>  </td>
 
     <td> National Museum for the Building Arts.  </td>
 
@@ -705,7 +705,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%936" data-uslm-ref="/us/usc/t16/s470w–6">470w–6.</a>  </td>
 
     <td> Effective date of regulations.  </td>
 
@@ -713,7 +713,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%937" data-uslm-ref="/us/usc/t16/s470w–7">470w–7.</a>  </td>
 
     <td> Historic lighthouse preservation.  </td>
 
@@ -721,7 +721,7 @@ Part C—General and Miscellaneous  </td>
 
   <tr>
 
-    <td> 470w–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%938" data-uslm-ref="/us/usc/t16/s470w–8">470w–8.</a>  </td>
 
     <td> Historic light station sales.  </td>
 
@@ -737,7 +737,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x" data-uslm-ref="/us/usc/t16/s470x">470x.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -745,7 +745,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%931" data-uslm-ref="/us/usc/t16/s470x–1">470x–1.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -753,7 +753,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%932" data-uslm-ref="/us/usc/t16/s470x–2">470x–2.</a>  </td>
 
     <td> Establishment of National Center.  </td>
 
@@ -761,7 +761,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%933" data-uslm-ref="/us/usc/t16/s470x–3">470x–3.</a>  </td>
 
     <td> Preservation Technology and Training Board.  </td>
 
@@ -769,7 +769,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%934" data-uslm-ref="/us/usc/t16/s470x–4">470x–4.</a>  </td>
 
     <td> Preservation grants.  </td>
 
@@ -777,7 +777,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%935" data-uslm-ref="/us/usc/t16/s470x–5">470x–5.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -785,7 +785,7 @@ Part D—National Center for Preservation Technology and Training  </td>
 
   <tr>
 
-    <td> 470x–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%936" data-uslm-ref="/us/usc/t16/s470x–6">470x–6.</a>  </td>
 
     <td> National Park Service preservation.  </td>
 

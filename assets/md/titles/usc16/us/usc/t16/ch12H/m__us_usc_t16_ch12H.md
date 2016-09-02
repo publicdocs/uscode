@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 839.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839" data-uslm-ref="/us/usc/t16/s839">839.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 839a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839a" data-uslm-ref="/us/usc/t16/s839a">839a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 839b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839b" data-uslm-ref="/us/usc/t16/s839b">839b.</a>  </td>
 
     <td> Regional planning and participation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 839c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839c" data-uslm-ref="/us/usc/t16/s839c">839c.</a>  </td>
 
     <td> Sale of power.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 839d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839d" data-uslm-ref="/us/usc/t16/s839d">839d.</a>  </td>
 
     <td> Conservation and resource acquisition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 839d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839d%E2%80%931" data-uslm-ref="/us/usc/t16/s839d–1">839d–1.</a>  </td>
 
     <td> Federal projects in Pacific Northwest.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 839e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839e" data-uslm-ref="/us/usc/t16/s839e">839e.</a>  </td>
 
     <td> Rates.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 839f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839f" data-uslm-ref="/us/usc/t16/s839f">839f.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 839g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839g" data-uslm-ref="/us/usc/t16/s839g">839g.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 839h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs839h" data-uslm-ref="/us/usc/t16/s839h">839h.</a>  </td>
 
     <td> Separability.  </td>
 

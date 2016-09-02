@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs755" data-uslm-ref="/us/usc/t16/s755">755.</a>  </td>
 
     <td> Salmon-cultural stations; establishment; expenditure of funds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs756" data-uslm-ref="/us/usc/t16/s756">756.</a>  </td>
 
     <td> Investigations, surveys, and experiments; construction and installation of conservation devices, etc.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757" data-uslm-ref="/us/usc/t16/s757">757.</a>  </td>
 
     <td> Utilization of State services; expenditure of funds.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 757a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757a" data-uslm-ref="/us/usc/t16/s757a">757a.</a>  </td>
 
     <td> Anadromous, Great Lakes, and Lake Champlain fisheries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 757b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757b" data-uslm-ref="/us/usc/t16/s757b">757b.</a>  </td>
 
     <td> Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 757c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757c" data-uslm-ref="/us/usc/t16/s757c">757c.</a>  </td>
 
     <td> Approval for activities on land administered by other Federal departments or agencies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 757d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757d" data-uslm-ref="/us/usc/t16/s757d">757d.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 757e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757e" data-uslm-ref="/us/usc/t16/s757e">757e.</a>  </td>
 
     <td> Application to Columbia River basin.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 757f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757f" data-uslm-ref="/us/usc/t16/s757f">757f.</a>  </td>
 
     <td> Studies on pollution; recommendations to Secretary of Health and Human Services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 757g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs757g" data-uslm-ref="/us/usc/t16/s757g">757g.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 758.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758" data-uslm-ref="/us/usc/t16/s758">758.</a>  </td>
 
     <td> Exploration, investigation, development, and maintenance of fishing resources and industry of Pacific Ocean.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 758a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758a" data-uslm-ref="/us/usc/t16/s758a">758a.</a>  </td>
 
     <td> Conduct of explorations and related work in Pacific Ocean.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 758b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758b" data-uslm-ref="/us/usc/t16/s758b">758b.</a>  </td>
 
     <td> Cooperation with agencies, organizations, and others.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 758c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758c" data-uslm-ref="/us/usc/t16/s758c">758c.</a>  </td>
 
     <td> Authorization of appropriations for research laboratory, experiment stations, dock and storehouse facilities, vessels, etc., for activities in the Pacific Ocean; transfer of surplus vessels.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 758d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758d" data-uslm-ref="/us/usc/t16/s758d">758d.</a>  </td>
 
     <td> Pacific Ocean activities; future appropriations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 758e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e" data-uslm-ref="/us/usc/t16/s758e">758e.</a>  </td>
 
     <td> Central, Western, and South Pacific Ocean fisheries development program.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 758e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%931" data-uslm-ref="/us/usc/t16/s758e–1">758e–1.</a>  </td>
 
     <td> Consultation and cooperation between certain Federal officers, affected States, etc., in carrying out program.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 758e–1a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%931a" data-uslm-ref="/us/usc/t16/s758e–1a">758e–1a.</a>  </td>
 
     <td> Cooperative program for development of tuna and other latent fishery resources in area; establishment; availability of project information.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 758e–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%932" data-uslm-ref="/us/usc/t16/s758e–2">758e–2.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 758e–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%933" data-uslm-ref="/us/usc/t16/s758e–3">758e–3.</a>  </td>
 
     <td> Regulations; contract terms and conditions.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 758e–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%934" data-uslm-ref="/us/usc/t16/s758e–4">758e–4.</a>  </td>
 
     <td> “Central, Western, and South Pacific Ocean area” defined.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 758e–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs758e%E2%80%935" data-uslm-ref="/us/usc/t16/s758e–5">758e–5.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 759.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs759" data-uslm-ref="/us/usc/t16/s759">759.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 760.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760" data-uslm-ref="/us/usc/t16/s760">760.</a>  </td>
 
     <td> Establishment of rearing ponds and fish hatchery in Kentucky.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 760–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%931" data-uslm-ref="/us/usc/t16/s760–1">760–1.</a>  </td>
 
     <td> Kentucky fish hatchery; authorization of appropriations.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 760–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%932" data-uslm-ref="/us/usc/t16/s760–2">760–2.</a>  </td>
 
     <td> Establishment of fish hatchery in Montana.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 760–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%933" data-uslm-ref="/us/usc/t16/s760–3">760–3.</a>  </td>
 
     <td> Establishment of trout hatchery in Pisgah National Forest.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 760–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%934" data-uslm-ref="/us/usc/t16/s760–4">760–4.</a>  </td>
 
     <td> Establishment of trout hatchery at Pittsford, Vermont.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 760–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%935" data-uslm-ref="/us/usc/t16/s760–5">760–5.</a>  </td>
 
     <td> Establishment of fish hatchery at Paint Bank, Virginia.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 760–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%936" data-uslm-ref="/us/usc/t16/s760–6">760–6.</a>  </td>
 
     <td> Virginia fish hatchery; authorization of appropriations.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 760–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%937" data-uslm-ref="/us/usc/t16/s760–7">760–7.</a>  </td>
 
     <td> Establishment of fish hatchery in West Virginia.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 760–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%938" data-uslm-ref="/us/usc/t16/s760–8">760–8.</a>  </td>
 
     <td> West Virginia fish hatchery; authorization of appropriations.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 760–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%939" data-uslm-ref="/us/usc/t16/s760–9">760–9.</a>  </td>
 
     <td> Establishment of fish hatchery in Pennsylvania.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 760–10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%9310" data-uslm-ref="/us/usc/t16/s760–10">760–10.</a>  </td>
 
     <td> Pennsylvania fish hatchery; authorization of appropriations.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 760–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%9311" data-uslm-ref="/us/usc/t16/s760–11">760–11.</a>  </td>
 
     <td> Acceptance and development of fish hatchery in South Carolina.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 760–12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%9312" data-uslm-ref="/us/usc/t16/s760–12">760–12.</a>  </td>
 
     <td> South Carolina fish hatchery; authorization of appropriations.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 760a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760a" data-uslm-ref="/us/usc/t16/s760a">760a.</a>  </td>
 
     <td> Atlantic Coast fish study for development and protection of fish resources.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 760b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760b" data-uslm-ref="/us/usc/t16/s760b">760b.</a>  </td>
 
     <td> Equipment for studies; cooperation of Federal departments and agencies.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 760c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760c" data-uslm-ref="/us/usc/t16/s760c">760c.</a>  </td>
 
     <td> Studies; authorization of appropriations.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 760d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760d" data-uslm-ref="/us/usc/t16/s760d">760d.</a>  </td>
 
     <td> Grants for education and training of personnel in the field of commercial fishing.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 760e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760e" data-uslm-ref="/us/usc/t16/s760e">760e.</a>  </td>
 
     <td> Study of migratory game fish; waters; research; purpose.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 760f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760f" data-uslm-ref="/us/usc/t16/s760f">760f.</a>  </td>
 
     <td> Migratory game fish study; authorization to acquire facilities, employ officers and employees, cooperate with State and other agencies, and to publish results.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 760g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760g" data-uslm-ref="/us/usc/t16/s760g">760g.</a>  </td>
 
     <td> Authorization of appropriations for migratory game fish study.  </td>
 
@@ -369,9 +369,7 @@
 
   <tr>
 
-    <td> 760h to 760l.   </td>
-
-    <td> Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760h" data-uslm-ref="/us/usc/t16/s760h">760h</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760" data-uslm-ref="/us/usc/t16/s760">760</a>l. Omitted.  </td>
 
   </tr>
 

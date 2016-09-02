@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs943" data-uslm-ref="/us/usc/t16/s943">943.</a>  </td>
 
     <td> Tissue bank.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 943a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs943a" data-uslm-ref="/us/usc/t16/s943a">943a.</a>  </td>
 
     <td> Data base.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 943b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs943b" data-uslm-ref="/us/usc/t16/s943b">943b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 943c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs943c" data-uslm-ref="/us/usc/t16/s943c">943c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

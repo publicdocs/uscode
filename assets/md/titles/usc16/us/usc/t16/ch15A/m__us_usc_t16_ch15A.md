@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs931" data-uslm-ref="/us/usc/t16/s931">931.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs932" data-uslm-ref="/us/usc/t16/s932">932.</a>  </td>
 
     <td> Commissioners; appointment, number, and compensation; term of office; vacancy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs933" data-uslm-ref="/us/usc/t16/s933">933.</a>  </td>
 
     <td> Advisory Committee.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs934" data-uslm-ref="/us/usc/t16/s934">934.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs935" data-uslm-ref="/us/usc/t16/s935">935.</a>  </td>
 
     <td> Acquisition of real property; construction and operation of lamprey control works; entry into agreements for construction and operation of works.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs936" data-uslm-ref="/us/usc/t16/s936">936.</a>  </td>
 
     <td> Secretary of the Interior; authority to transfer lamprey control projects and act on behalf of United States Section.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs937" data-uslm-ref="/us/usc/t16/s937">937.</a>  </td>
 
     <td> United States Section as agency of United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs938" data-uslm-ref="/us/usc/t16/s938">938.</a>  </td>
 
     <td> Notice of proposals.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs939" data-uslm-ref="/us/usc/t16/s939">939.</a>  </td>
 
     <td> Transmission of recommendations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 939a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs939a" data-uslm-ref="/us/usc/t16/s939a">939a.</a>  </td>
 
     <td> Cooperation with other agencies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 939b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs939b" data-uslm-ref="/us/usc/t16/s939b">939b.</a>  </td>
 
     <td> State laws and regulations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 939c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs939c" data-uslm-ref="/us/usc/t16/s939c">939c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

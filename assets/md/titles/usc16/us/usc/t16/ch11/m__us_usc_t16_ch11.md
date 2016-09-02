@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs781" data-uslm-ref="/us/usc/t16/s781">781.</a>  </td>
 
     <td> Taking or catching, in waters of Gulf or Straits of Florida, commercial sponges of less than prescribed size, and landing or possession of same.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs782" data-uslm-ref="/us/usc/t16/s782">782.</a>  </td>
 
     <td> Sponges of less than prescribed size; possession prima facie evidence.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs783" data-uslm-ref="/us/usc/t16/s783">783.</a>  </td>
 
     <td> Punishment for violations of law; liability of vessels.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs784" data-uslm-ref="/us/usc/t16/s784">784.</a>  </td>
 
     <td> Jurisdiction of prosecutions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs785" data-uslm-ref="/us/usc/t16/s785">785.</a>  </td>
 
     <td> Enforcement of law prohibiting taking of sponges of specified sizes; employment of Coast Guard vessels and Customs Service employees.  </td>
 

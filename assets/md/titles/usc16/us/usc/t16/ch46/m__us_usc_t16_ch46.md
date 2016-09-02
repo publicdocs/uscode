@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2601" data-uslm-ref="/us/usc/t16/s2601">2601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2602" data-uslm-ref="/us/usc/t16/s2602">2602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2603" data-uslm-ref="/us/usc/t16/s2603">2603.</a>  </td>
 
     <td> Relationship to antitrust laws.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2611" data-uslm-ref="/us/usc/t16/s2611">2611.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2612" data-uslm-ref="/us/usc/t16/s2612">2612.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2613" data-uslm-ref="/us/usc/t16/s2613">2613.</a>  </td>
 
     <td> Federal contracts.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2621" data-uslm-ref="/us/usc/t16/s2621">2621.</a>  </td>
 
     <td> Consideration and determination respecting certain ratemaking standards.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2622" data-uslm-ref="/us/usc/t16/s2622">2622.</a>  </td>
 
     <td> Obligations to consider and determine.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2623" data-uslm-ref="/us/usc/t16/s2623">2623.</a>  </td>
 
     <td> Adoption of certain standards.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2624" data-uslm-ref="/us/usc/t16/s2624">2624.</a>  </td>
 
     <td> Lifeline rates.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2625" data-uslm-ref="/us/usc/t16/s2625">2625.</a>  </td>
 
     <td> Special rules for standards.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2626" data-uslm-ref="/us/usc/t16/s2626">2626.</a>  </td>
 
     <td> Reports respecting standards.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES  </td>
 
   <tr>
 
-    <td> 2627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2627" data-uslm-ref="/us/usc/t16/s2627">2627.</a>  </td>
 
     <td> Relationship to State law.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW  </td>
 
   <tr>
 
-    <td> 2631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2631" data-uslm-ref="/us/usc/t16/s2631">2631.</a>  </td>
 
     <td> Intervention in proceedings.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW  </td>
 
   <tr>
 
-    <td> 2632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2632" data-uslm-ref="/us/usc/t16/s2632">2632.</a>  </td>
 
     <td> Consumer representation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW  </td>
 
   <tr>
 
-    <td> 2633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2633" data-uslm-ref="/us/usc/t16/s2633">2633.</a>  </td>
 
     <td> Judicial review and enforcement.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW  </td>
 
   <tr>
 
-    <td> 2634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2634" data-uslm-ref="/us/usc/t16/s2634">2634.</a>  </td>
 
     <td> Prior and pending proceedings.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2641" data-uslm-ref="/us/usc/t16/s2641">2641.</a>  </td>
 
     <td> Voluntary guidelines.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2642" data-uslm-ref="/us/usc/t16/s2642">2642.</a>  </td>
 
     <td> Responsibilities of Secretary.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2643" data-uslm-ref="/us/usc/t16/s2643">2643.</a>  </td>
 
     <td> Gathering information on costs of service.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2644" data-uslm-ref="/us/usc/t16/s2644">2644.</a>  </td>
 
     <td> Relationship to other authority.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 2645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2645" data-uslm-ref="/us/usc/t16/s2645">2645.</a>  </td>
 
     <td> Utility regulatory institute.  </td>
 

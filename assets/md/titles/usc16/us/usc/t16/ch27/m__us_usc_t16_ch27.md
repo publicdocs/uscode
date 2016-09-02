@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1241" data-uslm-ref="/us/usc/t16/s1241">1241.</a>  </td>
 
     <td> Congressional statement of policy and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1242" data-uslm-ref="/us/usc/t16/s1242">1242.</a>  </td>
 
     <td> National trails system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1243" data-uslm-ref="/us/usc/t16/s1243">1243.</a>  </td>
 
     <td> National recreation trails; establishment and designation; prerequisites.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1244" data-uslm-ref="/us/usc/t16/s1244">1244.</a>  </td>
 
     <td> National scenic and national historic trails.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1245" data-uslm-ref="/us/usc/t16/s1245">1245.</a>  </td>
 
     <td> Connecting or side trails; establishment, designation, and marking as components of national trails system; location.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1246" data-uslm-ref="/us/usc/t16/s1246">1246.</a>  </td>
 
     <td> Administration and development of national trails system.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1247" data-uslm-ref="/us/usc/t16/s1247">1247.</a>  </td>
 
     <td> State and local area recreation and historic trails.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1248" data-uslm-ref="/us/usc/t16/s1248">1248.</a>  </td>
 
     <td> Easements and rights-of-way.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1249" data-uslm-ref="/us/usc/t16/s1249">1249.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1250.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1250" data-uslm-ref="/us/usc/t16/s1250">1250.</a>  </td>
 
     <td> Volunteer trails assistance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1251" data-uslm-ref="/us/usc/t16/s1251">1251.</a>  </td>
 
     <td> Definitions.  </td>
 

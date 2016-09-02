@@ -33,7 +33,9 @@ SUBCHAPTER I—NORTHERN PACIFIC HALIBUT ACT OF 1924  </td>
 
   <tr>
 
-    <td> 761 to 769. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs761" data-uslm-ref="/us/usc/t16/s761">761</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs769" data-uslm-ref="/us/usc/t16/s769">769.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -47,7 +49,9 @@ SUBCHAPTER II—NORTHERN PACIFIC HALIBUT ACT OF 1932  </td>
 
   <tr>
 
-    <td> 771 to 771j. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs771" data-uslm-ref="/us/usc/t16/s771">771</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs771j" data-uslm-ref="/us/usc/t16/s771j">771j.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -61,7 +65,9 @@ SUBCHAPTER III—NORTHERN PACIFIC HALIBUT ACT OF 1937  </td>
 
   <tr>
 
-    <td> 772 to 772j. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs772" data-uslm-ref="/us/usc/t16/s772">772</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs772j" data-uslm-ref="/us/usc/t16/s772j">772j.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -75,7 +81,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773" data-uslm-ref="/us/usc/t16/s773">773.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -83,7 +89,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773a" data-uslm-ref="/us/usc/t16/s773a">773a.</a>  </td>
 
     <td> International Pacific Halibut Commission.  </td>
 
@@ -91,7 +97,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773b" data-uslm-ref="/us/usc/t16/s773b">773b.</a>  </td>
 
     <td> Acceptance or rejection of Commission recommendations.  </td>
 
@@ -99,7 +105,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773c" data-uslm-ref="/us/usc/t16/s773c">773c.</a>  </td>
 
     <td> General responsibility.  </td>
 
@@ -107,7 +113,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773d" data-uslm-ref="/us/usc/t16/s773d">773d.</a>  </td>
 
     <td> Cooperation of Federal agencies.  </td>
 
@@ -115,7 +121,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773e" data-uslm-ref="/us/usc/t16/s773e">773e.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -123,7 +129,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773f" data-uslm-ref="/us/usc/t16/s773f">773f.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -131,7 +137,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773g" data-uslm-ref="/us/usc/t16/s773g">773g.</a>  </td>
 
     <td> Crimes and criminal penalties.  </td>
 
@@ -139,7 +145,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773h" data-uslm-ref="/us/usc/t16/s773h">773h.</a>  </td>
 
     <td> Forfeitures.  </td>
 
@@ -147,7 +153,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773i" data-uslm-ref="/us/usc/t16/s773i">773i.</a>  </td>
 
     <td> Administration and enforcement.  </td>
 
@@ -155,7 +161,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773j" data-uslm-ref="/us/usc/t16/s773j">773j.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -163,7 +169,7 @@ SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982  </td>
 
   <tr>
 
-    <td> 773k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs773k" data-uslm-ref="/us/usc/t16/s773k">773k.</a>  </td>
 
     <td> Location of office space and other facilities on or near University of Washington campus in State of Washington.  </td>
 

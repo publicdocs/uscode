@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3901" data-uslm-ref="/us/usc/t16/s3901">3901.</a>  </td>
 
     <td> Findings and statement of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3902" data-uslm-ref="/us/usc/t16/s3902">3902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—REVENUES FOR REFUGE OPERATIONS AND THE MIGRATORY BIRD CONSERVATI
 
   <tr>
 
-    <td> 3911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3911" data-uslm-ref="/us/usc/t16/s3911">3911.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—REVENUES FOR REFUGE OPERATIONS AND THE MIGRATORY BIRD CONSERVATI
 
   <tr>
 
-    <td> 3912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3912" data-uslm-ref="/us/usc/t16/s3912">3912.</a>  </td>
 
     <td> Transfers to Migratory Bird Conservation Fund.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER III—STATE AND FEDERAL WETLANDS ACQUISITION  </td>
 
   <tr>
 
-    <td> 3921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3921" data-uslm-ref="/us/usc/t16/s3921">3921.</a>  </td>
 
     <td> National wetlands priority conservation plan.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—STATE AND FEDERAL WETLANDS ACQUISITION  </td>
 
   <tr>
 
-    <td> 3922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3922" data-uslm-ref="/us/usc/t16/s3922">3922.</a>  </td>
 
     <td> Federal acquisition.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—STATE AND FEDERAL WETLANDS ACQUISITION  </td>
 
   <tr>
 
-    <td> 3923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3923" data-uslm-ref="/us/usc/t16/s3923">3923.</a>  </td>
 
     <td> Restriction on use of eminent domain in acquisitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER IV—WETLANDS INVENTORY AND TREND ANALYSIS  </td>
 
   <tr>
 
-    <td> 3931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3931" data-uslm-ref="/us/usc/t16/s3931">3931.</a>  </td>
 
     <td> National wetlands inventory project.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER IV—WETLANDS INVENTORY AND TREND ANALYSIS  </td>
 
   <tr>
 
-    <td> 3932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3932" data-uslm-ref="/us/usc/t16/s3932">3932.</a>  </td>
 
     <td> Reports to Congress.  </td>
 

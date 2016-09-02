@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3371" data-uslm-ref="/us/usc/t16/s3371">3371.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3372" data-uslm-ref="/us/usc/t16/s3372">3372.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3373" data-uslm-ref="/us/usc/t16/s3373">3373.</a>  </td>
 
     <td> Penalties and sanctions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3374" data-uslm-ref="/us/usc/t16/s3374">3374.</a>  </td>
 
     <td> Forfeiture.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3375" data-uslm-ref="/us/usc/t16/s3375">3375.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3376" data-uslm-ref="/us/usc/t16/s3376">3376.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3377" data-uslm-ref="/us/usc/t16/s3377">3377.</a>  </td>
 
     <td> Exceptions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3378" data-uslm-ref="/us/usc/t16/s3378">3378.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

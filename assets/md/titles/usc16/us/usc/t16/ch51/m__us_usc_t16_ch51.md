@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3101" data-uslm-ref="/us/usc/t16/s3101">3101.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3102" data-uslm-ref="/us/usc/t16/s3102">3102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3103" data-uslm-ref="/us/usc/t16/s3103">3103.</a>  </td>
 
     <td> Maps.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3111" data-uslm-ref="/us/usc/t16/s3111">3111.</a>  </td>
 
     <td> Congressional declaration of findings.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3112" data-uslm-ref="/us/usc/t16/s3112">3112.</a>  </td>
 
     <td> Congressional statement of policy.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3113" data-uslm-ref="/us/usc/t16/s3113">3113.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3114" data-uslm-ref="/us/usc/t16/s3114">3114.</a>  </td>
 
     <td> Preference for subsistence uses.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3115" data-uslm-ref="/us/usc/t16/s3115">3115.</a>  </td>
 
     <td> Local and regional participation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3116" data-uslm-ref="/us/usc/t16/s3116">3116.</a>  </td>
 
     <td> Federal monitoring; reports to State and Congressional committees.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3117" data-uslm-ref="/us/usc/t16/s3117">3117.</a>  </td>
 
     <td> Judicial enforcement.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3118" data-uslm-ref="/us/usc/t16/s3118">3118.</a>  </td>
 
     <td> Park and park monument subsistence resource commissions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3119" data-uslm-ref="/us/usc/t16/s3119">3119.</a>  </td>
 
     <td> Cooperative agreements.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3120" data-uslm-ref="/us/usc/t16/s3120">3120.</a>  </td>
 
     <td> Subsistence and land use decisions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3121" data-uslm-ref="/us/usc/t16/s3121">3121.</a>  </td>
 
     <td> Rural residents engaged in subsistence uses.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3122" data-uslm-ref="/us/usc/t16/s3122">3122.</a>  </td>
 
     <td> Research.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3123" data-uslm-ref="/us/usc/t16/s3123">3123.</a>  </td>
 
     <td> Periodic reports.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3124" data-uslm-ref="/us/usc/t16/s3124">3124.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3125" data-uslm-ref="/us/usc/t16/s3125">3125.</a>  </td>
 
     <td> Limitations and savings clauses.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE  </td>
 
   <tr>
 
-    <td> 3126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3126" data-uslm-ref="/us/usc/t16/s3126">3126.</a>  </td>
 
     <td> Closure to subsistence uses.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3141" data-uslm-ref="/us/usc/t16/s3141">3141.</a>  </td>
 
     <td> Overall study program.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3142" data-uslm-ref="/us/usc/t16/s3142">3142.</a>  </td>
 
     <td> Arctic National Wildlife Refuge coastal plain resource assessment.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3143" data-uslm-ref="/us/usc/t16/s3143">3143.</a>  </td>
 
     <td> Production of oil and gas from Arctic National Wildlife Refuge prohibited.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3144" data-uslm-ref="/us/usc/t16/s3144">3144.</a>  </td>
 
     <td> Wilderness portion of study.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3145" data-uslm-ref="/us/usc/t16/s3145">3145.</a>  </td>
 
     <td> Wildlife resources portion of study and impact of potential oil spills in Arctic Ocean.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3146" data-uslm-ref="/us/usc/t16/s3146">3146.</a>  </td>
 
     <td> Transportation alternatives portion of study.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3147" data-uslm-ref="/us/usc/t16/s3147">3147.</a>  </td>
 
     <td> Arctic research study.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3148" data-uslm-ref="/us/usc/t16/s3148">3148.</a>  </td>
 
     <td> Oil and gas leasing program for non-North Slope Federal lands.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3149" data-uslm-ref="/us/usc/t16/s3149">3149.</a>  </td>
 
     <td> Oil and gas lease applications.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3150" data-uslm-ref="/us/usc/t16/s3150">3150.</a>  </td>
 
     <td> Alaska mineral resource assessment program.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM 
 
   <tr>
 
-    <td> 3151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3151" data-uslm-ref="/us/usc/t16/s3151">3151.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3161" data-uslm-ref="/us/usc/t16/s3161">3161.</a>  </td>
 
     <td> Congressional declaration of findings.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3162" data-uslm-ref="/us/usc/t16/s3162">3162.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3163" data-uslm-ref="/us/usc/t16/s3163">3163.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3164" data-uslm-ref="/us/usc/t16/s3164">3164.</a>  </td>
 
     <td> Procedural requirements.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3165" data-uslm-ref="/us/usc/t16/s3165">3165.</a>  </td>
 
     <td> Standards for granting certain authorizations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3166" data-uslm-ref="/us/usc/t16/s3166">3166.</a>  </td>
 
     <td> Agency, Presidential, and Congressional actions.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3167" data-uslm-ref="/us/usc/t16/s3167">3167.</a>  </td>
 
     <td> Rights-of-way terms and conditions.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3168" data-uslm-ref="/us/usc/t16/s3168">3168.</a>  </td>
 
     <td> Injunctive relief.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3169" data-uslm-ref="/us/usc/t16/s3169">3169.</a>  </td>
 
     <td> Valid existing right of access.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3170" data-uslm-ref="/us/usc/t16/s3170">3170.</a>  </td>
 
     <td> Special access and access to inholdings.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3171" data-uslm-ref="/us/usc/t16/s3171">3171.</a>  </td>
 
     <td> Temporary access.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3172" data-uslm-ref="/us/usc/t16/s3172">3172.</a>  </td>
 
     <td> North Slope Haul Road.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INT
 
   <tr>
 
-    <td> 3173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3173" data-uslm-ref="/us/usc/t16/s3173">3173.</a>  </td>
 
     <td> Stikine River region; Presidential study and report to Congress.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V—FEDERAL-STATE COOPERATION  </td>
 
   <tr>
 
-    <td> 3181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3181" data-uslm-ref="/us/usc/t16/s3181">3181.</a>  </td>
 
     <td> Alaska Land Use Council.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—FEDERAL-STATE COOPERATION  </td>
 
   <tr>
 
-    <td> 3182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3182" data-uslm-ref="/us/usc/t16/s3182">3182.</a>  </td>
 
     <td> Federal Coordination Committee.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V—FEDERAL-STATE COOPERATION  </td>
 
   <tr>
 
-    <td> 3183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3183" data-uslm-ref="/us/usc/t16/s3183">3183.</a>  </td>
 
     <td> Bristol Bay Cooperative Region.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3191" data-uslm-ref="/us/usc/t16/s3191">3191.</a>  </td>
 
     <td> Management plans.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3192" data-uslm-ref="/us/usc/t16/s3192">3192.</a>  </td>
 
     <td> Land acquisition authority.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3192a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3192a" data-uslm-ref="/us/usc/t16/s3192a">3192a.</a>  </td>
 
     <td> Restrictions on use of appropriated funds.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3193" data-uslm-ref="/us/usc/t16/s3193">3193.</a>  </td>
 
     <td> Use of cabins and other sites of occupancy on conservation system units.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3194" data-uslm-ref="/us/usc/t16/s3194">3194.</a>  </td>
 
     <td> Archeological and paleontological sites.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3195" data-uslm-ref="/us/usc/t16/s3195">3195.</a>  </td>
 
     <td> Cooperative information and education centers.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3196" data-uslm-ref="/us/usc/t16/s3196">3196.</a>  </td>
 
     <td> Administrative sites and visitor facilities.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3197" data-uslm-ref="/us/usc/t16/s3197">3197.</a>  </td>
 
     <td> Revenue-producing visitor services.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3198.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3198" data-uslm-ref="/us/usc/t16/s3198">3198.</a>  </td>
 
     <td> Local hire.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3199" data-uslm-ref="/us/usc/t16/s3199">3199.</a>  </td>
 
     <td> Navigation aids and other facilities.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3200.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3200" data-uslm-ref="/us/usc/t16/s3200">3200.</a>  </td>
 
     <td> Denali Scenic Highway study.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3201" data-uslm-ref="/us/usc/t16/s3201">3201.</a>  </td>
 
     <td> Administration of national preserves.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3202" data-uslm-ref="/us/usc/t16/s3202">3202.</a>  </td>
 
     <td> Taking of fish and wildlife.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3203" data-uslm-ref="/us/usc/t16/s3203">3203.</a>  </td>
 
     <td> Wilderness management.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3204" data-uslm-ref="/us/usc/t16/s3204">3204.</a>  </td>
 
     <td> Allowed uses.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3205" data-uslm-ref="/us/usc/t16/s3205">3205.</a>  </td>
 
     <td> General wilderness review.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3206" data-uslm-ref="/us/usc/t16/s3206">3206.</a>  </td>
 
     <td> Statewide cultural assistance program.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3207" data-uslm-ref="/us/usc/t16/s3207">3207.</a>  </td>
 
     <td> Effect on existing rights; water resources.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3208" data-uslm-ref="/us/usc/t16/s3208">3208.</a>  </td>
 
     <td> Authorization of appropriations; contract authority.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3209" data-uslm-ref="/us/usc/t16/s3209">3209.</a>  </td>
 
     <td> Effect on prior withdrawals.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3210" data-uslm-ref="/us/usc/t16/s3210">3210.</a>  </td>
 
     <td> Access by owner to nonfederally owned land.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3211" data-uslm-ref="/us/usc/t16/s3211">3211.</a>  </td>
 
     <td> Yukon Flats National Wildlife Refuge agricultural use.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3212" data-uslm-ref="/us/usc/t16/s3212">3212.</a>  </td>
 
     <td> Terror Lake Hydroelectric Project in Kodiak National Wildlife Refuge.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3213" data-uslm-ref="/us/usc/t16/s3213">3213.</a>  </td>
 
     <td> Future executive branch actions.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3214" data-uslm-ref="/us/usc/t16/s3214">3214.</a>  </td>
 
     <td> Alaska gas pipeline.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3215" data-uslm-ref="/us/usc/t16/s3215">3215.</a>  </td>
 
     <td> Public land entries in Alaska.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS  </td>
 
   <tr>
 
-    <td> 3231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3231" data-uslm-ref="/us/usc/t16/s3231">3231.</a>  </td>
 
     <td> Areas subject to national need recommendation process.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS  </td>
 
   <tr>
 
-    <td> 3232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3232" data-uslm-ref="/us/usc/t16/s3232">3232.</a>  </td>
 
     <td> Recommendations of President to Congress.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS  </td>
 
   <tr>
 
-    <td> 3233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3233" data-uslm-ref="/us/usc/t16/s3233">3233.</a>  </td>
 
     <td> Expedited Congressional review.  </td>
 

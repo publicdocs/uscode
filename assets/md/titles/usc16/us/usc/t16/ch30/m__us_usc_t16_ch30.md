@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1331" data-uslm-ref="/us/usc/t16/s1331">1331.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1332" data-uslm-ref="/us/usc/t16/s1332">1332.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1333" data-uslm-ref="/us/usc/t16/s1333">1333.</a>  </td>
 
     <td> Powers and duties of Secretary.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1334" data-uslm-ref="/us/usc/t16/s1334">1334.</a>  </td>
 
     <td> Private maintenance; numerical approximation; strays on private lands: removal; destruction by agents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1335" data-uslm-ref="/us/usc/t16/s1335">1335.</a>  </td>
 
     <td> Recovery rights.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1336" data-uslm-ref="/us/usc/t16/s1336">1336.</a>  </td>
 
     <td> Cooperative agreements; regulations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1337" data-uslm-ref="/us/usc/t16/s1337">1337.</a>  </td>
 
     <td> Joint advisory board; appointment; membership; functions; qualifications; reimbursement limitation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1338" data-uslm-ref="/us/usc/t16/s1338">1338.</a>  </td>
 
     <td> Criminal provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1338a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1338a" data-uslm-ref="/us/usc/t16/s1338a">1338a.</a>  </td>
 
     <td> Transportation of captured animals; procedures and prohibitions applicable.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1339" data-uslm-ref="/us/usc/t16/s1339">1339.</a>  </td>
 
     <td> Limitation of authority.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1340" data-uslm-ref="/us/usc/t16/s1340">1340.</a>  </td>
 
     <td> Joint report to Congress; consultation and coordination of implementation, enforcement, and departmental activities; studies.  </td>
 

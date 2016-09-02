@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs951" data-uslm-ref="/us/usc/t16/s951">951.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs952" data-uslm-ref="/us/usc/t16/s952">952.</a>  </td>
 
     <td> Commissioners; number, appointment, and qualification.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs953" data-uslm-ref="/us/usc/t16/s953">953.</a>  </td>
 
     <td> General Advisory Committee and Scientific Advisory Subcommittee.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs954" data-uslm-ref="/us/usc/t16/s954">954.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs955" data-uslm-ref="/us/usc/t16/s955">955.</a>  </td>
 
     <td> Secretary of State to act for United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs956" data-uslm-ref="/us/usc/t16/s956">956.</a>  </td>
 
     <td> Inspection of returns, records, or other reports.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs957" data-uslm-ref="/us/usc/t16/s957">957.</a>  </td>
 
     <td> Violations; fines and forfeitures; application of related laws.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs958" data-uslm-ref="/us/usc/t16/s958">958.</a>  </td>
 
     <td> Cooperation with other agencies.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs959" data-uslm-ref="/us/usc/t16/s959">959.</a>  </td>
 
     <td> Enforcement of chapter.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs960" data-uslm-ref="/us/usc/t16/s960">960.</a>  </td>
 
     <td> Commissions’ functions not restrained by this chapter or State laws.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs961" data-uslm-ref="/us/usc/t16/s961">961.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs962" data-uslm-ref="/us/usc/t16/s962">962.</a>  </td>
 
     <td> Reduction of bycatch in eastern tropical Pacific Ocean.  </td>
 

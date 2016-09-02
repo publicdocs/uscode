@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 778.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778" data-uslm-ref="/us/usc/t16/s778">778.</a>  </td>
 
     <td> Establishment of experiment stations; purpose of research.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 778a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778a" data-uslm-ref="/us/usc/t16/s778a">778a.</a>  </td>
 
     <td> Acquisition of lands; construction of buildings; employment of personnel; cooperation with other agencies; publication of results.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 778b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778b" data-uslm-ref="/us/usc/t16/s778b">778b.</a>  </td>
 
     <td> Cooperation with Secretary of the Interior.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 778c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778c" data-uslm-ref="/us/usc/t16/s778c">778c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 778d to 778h.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778d" data-uslm-ref="/us/usc/t16/s778d">778d</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs778h" data-uslm-ref="/us/usc/t16/s778h">778h.</a>  </td>
 
     <td> Omitted.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2431" data-uslm-ref="/us/usc/t16/s2431">2431.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2432" data-uslm-ref="/us/usc/t16/s2432">2432.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2433" data-uslm-ref="/us/usc/t16/s2433">2433.</a>  </td>
 
     <td> Representatives.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2434" data-uslm-ref="/us/usc/t16/s2434">2434.</a>  </td>
 
     <td> Conservation measures; system of observation and inspection.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2435" data-uslm-ref="/us/usc/t16/s2435">2435.</a>  </td>
 
     <td> Unlawful activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2436" data-uslm-ref="/us/usc/t16/s2436">2436.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2437" data-uslm-ref="/us/usc/t16/s2437">2437.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2438" data-uslm-ref="/us/usc/t16/s2438">2438.</a>  </td>
 
     <td> Criminal offenses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2439" data-uslm-ref="/us/usc/t16/s2439">2439.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2440" data-uslm-ref="/us/usc/t16/s2440">2440.</a>  </td>
 
     <td> Jurisdiction of courts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2441" data-uslm-ref="/us/usc/t16/s2441">2441.</a>  </td>
 
     <td> Federal agency cooperation.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2442" data-uslm-ref="/us/usc/t16/s2442">2442.</a>  </td>
 
     <td> Relationship to existing treaties and statutes.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2443" data-uslm-ref="/us/usc/t16/s2443">2443.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2444" data-uslm-ref="/us/usc/t16/s2444">2444.</a>  </td>
 
     <td> Severability.  </td>
 

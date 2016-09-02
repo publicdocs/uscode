@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5601" data-uslm-ref="/us/usc/t16/s5601">5601.</a>  </td>
 
     <td> Representation of United States under Convention.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5602" data-uslm-ref="/us/usc/t16/s5602">5602.</a>  </td>
 
     <td> Requests for scientific advice.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5603" data-uslm-ref="/us/usc/t16/s5603">5603.</a>  </td>
 
     <td> Authorities of Secretary of State with respect to Convention.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5604" data-uslm-ref="/us/usc/t16/s5604">5604.</a>  </td>
 
     <td> Interagency cooperation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5605" data-uslm-ref="/us/usc/t16/s5605">5605.</a>  </td>
 
     <td> Rulemaking.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5606" data-uslm-ref="/us/usc/t16/s5606">5606.</a>  </td>
 
     <td> Prohibited acts and penalties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5607" data-uslm-ref="/us/usc/t16/s5607">5607.</a>  </td>
 
     <td> Consultative committee.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5608" data-uslm-ref="/us/usc/t16/s5608">5608.</a>  </td>
 
     <td> Administrative matters.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5609" data-uslm-ref="/us/usc/t16/s5609">5609.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5610" data-uslm-ref="/us/usc/t16/s5610">5610.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5611" data-uslm-ref="/us/usc/t16/s5611">5611.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5612" data-uslm-ref="/us/usc/t16/s5612">5612.</a>  </td>
 
     <td> Quota allocation practice.  </td>
 

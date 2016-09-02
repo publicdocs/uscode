@@ -33,7 +33,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5701" data-uslm-ref="/us/usc/t16/s5701">5701.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5702" data-uslm-ref="/us/usc/t16/s5702">5702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5703" data-uslm-ref="/us/usc/t16/s5703">5703.</a>  </td>
 
     <td> Panel.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5704" data-uslm-ref="/us/usc/t16/s5704">5704.</a>  </td>
 
     <td> Advisory Committee.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5705" data-uslm-ref="/us/usc/t16/s5705">5705.</a>  </td>
 
     <td> Exemption.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5706" data-uslm-ref="/us/usc/t16/s5706">5706.</a>  </td>
 
     <td> Authority and responsibility.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5707" data-uslm-ref="/us/usc/t16/s5707">5707.</a>  </td>
 
     <td> Continuation of Agreement.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5708" data-uslm-ref="/us/usc/t16/s5708">5708.</a>  </td>
 
     <td> Administrative matters.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT  </td>
 
   <tr>
 
-    <td> 5709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5709" data-uslm-ref="/us/usc/t16/s5709">5709.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5721" data-uslm-ref="/us/usc/t16/s5721">5721.</a>  </td>
 
     <td> Yukon River Salmon Panel.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5722" data-uslm-ref="/us/usc/t16/s5722">5722.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5723" data-uslm-ref="/us/usc/t16/s5723">5723.</a>  </td>
 
     <td> Exemption.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5724" data-uslm-ref="/us/usc/t16/s5724">5724.</a>  </td>
 
     <td> Authority and responsibility.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5725" data-uslm-ref="/us/usc/t16/s5725">5725.</a>  </td>
 
     <td> Administrative matters.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5726" data-uslm-ref="/us/usc/t16/s5726">5726.</a>  </td>
 
     <td> Yukon River salmon stock restoration and enhancement projects.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—CONSERVATION AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 5727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5727" data-uslm-ref="/us/usc/t16/s5727">5727.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

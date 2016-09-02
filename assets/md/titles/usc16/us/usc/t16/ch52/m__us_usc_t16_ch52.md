@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3301" data-uslm-ref="/us/usc/t16/s3301">3301.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3302" data-uslm-ref="/us/usc/t16/s3302">3302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD  </td>
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3311" data-uslm-ref="/us/usc/t16/s3311">3311.</a>  </td>
 
     <td> Salmon and Steelhead Advisory Commission.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD  </td>
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3312" data-uslm-ref="/us/usc/t16/s3312">3312.</a>  </td>
 
     <td> Eligibility for financial assistance under approved enhancement plans.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD  </td>
 
   <tr>
 
-    <td> 3313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3313" data-uslm-ref="/us/usc/t16/s3313">3313.</a>  </td>
 
     <td> Grants for reports and plans for coordinated research, enforcement, etc.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD  </td>
 
   <tr>
 
-    <td> 3314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3314" data-uslm-ref="/us/usc/t16/s3314">3314.</a>  </td>
 
     <td> Discontinuance of funding.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD  </td>
 
   <tr>
 
-    <td> 3315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3315" data-uslm-ref="/us/usc/t16/s3315">3315.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—RESOURCE ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3321" data-uslm-ref="/us/usc/t16/s3321">3321.</a>  </td>
 
     <td> Grants for projects under approved enhancement plans.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—RESOURCE ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3322" data-uslm-ref="/us/usc/t16/s3322">3322.</a>  </td>
 
     <td> Enhancement project proposals.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—RESOURCE ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3323" data-uslm-ref="/us/usc/t16/s3323">3323.</a>  </td>
 
     <td> Approval and funding of projects.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—RESOURCE ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3324" data-uslm-ref="/us/usc/t16/s3324">3324.</a>  </td>
 
     <td> Monitoring and evaluation of enhancement projects.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—RESOURCE ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3325" data-uslm-ref="/us/usc/t16/s3325">3325.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3331" data-uslm-ref="/us/usc/t16/s3331">3331.</a>  </td>
 
     <td> Fleet adjustment program.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3332" data-uslm-ref="/us/usc/t16/s3332">3332.</a>  </td>
 
     <td> State program for reduction of overall fishing capacity.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3333" data-uslm-ref="/us/usc/t16/s3333">3333.</a>  </td>
 
     <td> Program approval.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3334" data-uslm-ref="/us/usc/t16/s3334">3334.</a>  </td>
 
     <td> Review of State program by Secretary.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3335" data-uslm-ref="/us/usc/t16/s3335">3335.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT  </td>
 
   <tr>
 
-    <td> 3336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3336" data-uslm-ref="/us/usc/t16/s3336">3336.</a>  </td>
 
     <td> Special provision.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3341" data-uslm-ref="/us/usc/t16/s3341">3341.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3342" data-uslm-ref="/us/usc/t16/s3342">3342.</a>  </td>
 
     <td> Annual status reports on programs; monitoring.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3343" data-uslm-ref="/us/usc/t16/s3343">3343.</a>  </td>
 
     <td> Construction with fishery conservation and management provisions.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3344" data-uslm-ref="/us/usc/t16/s3344">3344.</a>  </td>
 
     <td> Construction with other laws.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3345" data-uslm-ref="/us/usc/t16/s3345">3345.</a>  </td>
 
     <td> Authorization of additional appropriations.  </td>
 

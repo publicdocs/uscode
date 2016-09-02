@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1201" data-uslm-ref="/us/usc/t16/s1201">1201.</a>  </td>
 
     <td> Declaration of purposes; Secretary’s cooperation with and assistance to States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1202" data-uslm-ref="/us/usc/t16/s1202">1202.</a>  </td>
 
     <td> Authority of Secretary; studies, research, and investigations; control measures; execution of program; other actions; costs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1203" data-uslm-ref="/us/usc/t16/s1203">1203.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1204" data-uslm-ref="/us/usc/t16/s1204">1204.</a>  </td>
 
     <td> Compacts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1205" data-uslm-ref="/us/usc/t16/s1205">1205.</a>  </td>
 
     <td> General authority of Secretary for conducting studies, research, and investigations unaffected.  </td>
 

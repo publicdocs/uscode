@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1221" data-uslm-ref="/us/usc/t16/s1221">1221.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1222" data-uslm-ref="/us/usc/t16/s1222">1222.</a>  </td>
 
     <td> General study and inventory of estuaries and their natural resources.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1223" data-uslm-ref="/us/usc/t16/s1223">1223.</a>  </td>
 
     <td> Agreements with States and subdivisions; equitable sharing of costs; development improvements; availability of appropriations; State hunting and fishing laws applicable.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1224" data-uslm-ref="/us/usc/t16/s1224">1224.</a>  </td>
 
     <td> Commercial and industrial development considerations; reports to Congress; recommendations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1225" data-uslm-ref="/us/usc/t16/s1225">1225.</a>  </td>
 
     <td> State consideration of protection and restoration of estuaries in State comprehensive planning and proposals for financial assistance under certain Federal laws; grants: terms and conditions, prohibition against disposition of lands without approval of the Secretary.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1226" data-uslm-ref="/us/usc/t16/s1226">1226.</a>  </td>
 
     <td> Federal agency authority to carry out Federal project within an estuary unaffected.  </td>
 

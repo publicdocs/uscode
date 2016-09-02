@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941" data-uslm-ref="/us/usc/t16/s941">941.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 941a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941a" data-uslm-ref="/us/usc/t16/s941a">941a.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 941b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941b" data-uslm-ref="/us/usc/t16/s941b">941b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 941c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941c" data-uslm-ref="/us/usc/t16/s941c">941c.</a>  </td>
 
     <td> Identification, review, and implementation of proposals and regional projects.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 941d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941d" data-uslm-ref="/us/usc/t16/s941d">941d.</a>  </td>
 
     <td> Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 941e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941e" data-uslm-ref="/us/usc/t16/s941e">941e.</a>  </td>
 
     <td> Establishment of offices.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 941f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941f" data-uslm-ref="/us/usc/t16/s941f">941f.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 941g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs941g" data-uslm-ref="/us/usc/t16/s941g">941g.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

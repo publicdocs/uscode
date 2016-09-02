@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs721" data-uslm-ref="/us/usc/t16/s721">721.</a>  </td>
 
     <td> Short title; “person” defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs722" data-uslm-ref="/us/usc/t16/s722">722.</a>  </td>
 
     <td> Acquisition of lands and water.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs723" data-uslm-ref="/us/usc/t16/s723">723.</a>  </td>
 
     <td> Purposes of refuge; regulations by Secretary of the Interior.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs724" data-uslm-ref="/us/usc/t16/s724">724.</a>  </td>
 
     <td> Consent of States to acquisition; existing rights-of-way, easements, etc.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs725" data-uslm-ref="/us/usc/t16/s725">725.</a>  </td>
 
     <td> Regulations, etc., by Secretary of the Interior.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs726" data-uslm-ref="/us/usc/t16/s726">726.</a>  </td>
 
     <td> Acts prohibited in refuge; commercial fishing.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs727" data-uslm-ref="/us/usc/t16/s727">727.</a>  </td>
 
     <td> Powers of employees of Department of the Interior.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs728" data-uslm-ref="/us/usc/t16/s728">728.</a>  </td>
 
     <td> Expenditures.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs729" data-uslm-ref="/us/usc/t16/s729">729.</a>  </td>
 
     <td> Price per acre.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs730" data-uslm-ref="/us/usc/t16/s730">730.</a>  </td>
 
     <td> Violations of law or regulations; punishment.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs731" data-uslm-ref="/us/usc/t16/s731">731.</a>  </td>
 
     <td> Effect on other laws.  </td>
 

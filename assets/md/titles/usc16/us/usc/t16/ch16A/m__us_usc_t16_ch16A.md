@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971" data-uslm-ref="/us/usc/t16/s971">971.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 971a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971a" data-uslm-ref="/us/usc/t16/s971a">971a.</a>  </td>
 
     <td> Commissioners.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 971b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971b" data-uslm-ref="/us/usc/t16/s971b">971b.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 971b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971b%E2%80%931" data-uslm-ref="/us/usc/t16/s971b–1">971b–1.</a>  </td>
 
     <td> Species working groups.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 971c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971c" data-uslm-ref="/us/usc/t16/s971c">971c.</a>  </td>
 
     <td> Authority of Secretary of State; cooperative enforcement agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 971d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971d" data-uslm-ref="/us/usc/t16/s971d">971d.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 971e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971e" data-uslm-ref="/us/usc/t16/s971e">971e.</a>  </td>
 
     <td> Violations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 971f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971f" data-uslm-ref="/us/usc/t16/s971f">971f.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 971g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971g" data-uslm-ref="/us/usc/t16/s971g">971g.</a>  </td>
 
     <td> Cooperation in carrying out Convention.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 971h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971h" data-uslm-ref="/us/usc/t16/s971h">971h.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 971i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971i" data-uslm-ref="/us/usc/t16/s971i">971i.</a>  </td>
 
     <td> Research on Atlantic highly migratory species.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 971j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971j" data-uslm-ref="/us/usc/t16/s971j">971j.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 971k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971k" data-uslm-ref="/us/usc/t16/s971k">971k.</a>  </td>
 
     <td> Savings clause.  </td>
 

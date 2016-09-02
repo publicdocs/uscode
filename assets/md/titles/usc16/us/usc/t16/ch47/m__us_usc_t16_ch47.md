@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2701" data-uslm-ref="/us/usc/t16/s2701">2701.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2702" data-uslm-ref="/us/usc/t16/s2702">2702.</a>  </td>
 
     <td> Loans for feasibility studies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2703" data-uslm-ref="/us/usc/t16/s2703">2703.</a>  </td>
 
     <td> Loans for project costs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2704" data-uslm-ref="/us/usc/t16/s2704">2704.</a>  </td>
 
     <td> Loan rates and repayment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2705" data-uslm-ref="/us/usc/t16/s2705">2705.</a>  </td>
 
     <td> Simplified and expeditious licensing procedures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2706" data-uslm-ref="/us/usc/t16/s2706">2706.</a>  </td>
 
     <td> New impoundments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2707" data-uslm-ref="/us/usc/t16/s2707">2707.</a>  </td>
 
     <td> Authorizations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2708" data-uslm-ref="/us/usc/t16/s2708">2708.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1261" data-uslm-ref="/us/usc/t16/s1261">1261.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1262" data-uslm-ref="/us/usc/t16/s1262">1262.</a>  </td>
 
     <td> National Recreational Trails Advisory Committee.  </td>
 

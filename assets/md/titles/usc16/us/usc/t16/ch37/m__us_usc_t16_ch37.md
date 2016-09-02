@@ -33,7 +33,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1701" data-uslm-ref="/us/usc/t16/s1701">1701.</a>  </td>
 
     <td> Congressional declaration of policy and purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1702" data-uslm-ref="/us/usc/t16/s1702">1702.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1703" data-uslm-ref="/us/usc/t16/s1703">1703.</a>  </td>
 
     <td> Duties and functions of Secretary of the Interior and Secretary of Agriculture.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1704" data-uslm-ref="/us/usc/t16/s1704">1704.</a>  </td>
 
     <td> Grants to States.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1705" data-uslm-ref="/us/usc/t16/s1705">1705.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—YOUTH CONSERVATION CORPS  </td>
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1706" data-uslm-ref="/us/usc/t16/s1706">1706.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1721" data-uslm-ref="/us/usc/t16/s1721">1721.</a>  </td>
 
     <td> Congressional findings and purpose.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1722" data-uslm-ref="/us/usc/t16/s1722">1722.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1723" data-uslm-ref="/us/usc/t16/s1723">1723.</a>  </td>
 
     <td> Public Lands Corps program.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1724" data-uslm-ref="/us/usc/t16/s1724">1724.</a>  </td>
 
     <td> Conservation centers and program support.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1725" data-uslm-ref="/us/usc/t16/s1725">1725.</a>  </td>
 
     <td> Resource assistants.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1725a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1725a" data-uslm-ref="/us/usc/t16/s1725a">1725a.</a>  </td>
 
     <td> Direct hire authority.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1726" data-uslm-ref="/us/usc/t16/s1726">1726.</a>  </td>
 
     <td> Living allowances and terms of service.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1727" data-uslm-ref="/us/usc/t16/s1727">1727.</a>  </td>
 
     <td> National service educational awards.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1728" data-uslm-ref="/us/usc/t16/s1728">1728.</a>  </td>
 
     <td> Nondisplacement.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1729" data-uslm-ref="/us/usc/t16/s1729">1729.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—PUBLIC LANDS CORPS  </td>
 
   <tr>
 
-    <td> 1730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1730" data-uslm-ref="/us/usc/t16/s1730">1730.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

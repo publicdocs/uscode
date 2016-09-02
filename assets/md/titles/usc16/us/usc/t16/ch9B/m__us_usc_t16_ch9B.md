@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 760aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760aa" data-uslm-ref="/us/usc/t16/s760aa">760aa.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 760aa–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760aa%E2%80%931" data-uslm-ref="/us/usc/t16/s760aa–1">760aa–1.</a>  </td>
 
     <td> Gifts to system and particular national fish hatcheries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 760aa–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760aa%E2%80%932" data-uslm-ref="/us/usc/t16/s760aa–2">760aa–2.</a>  </td>
 
     <td> Volunteer enhancement pilot projects.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 760aa–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760aa%E2%80%933" data-uslm-ref="/us/usc/t16/s760aa–3">760aa–3.</a>  </td>
 
     <td> Community partnership enhancement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 760aa–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs760aa%E2%80%934" data-uslm-ref="/us/usc/t16/s760aa–4">760aa–4.</a>  </td>
 
     <td> Hatchery education program development.  </td>
 

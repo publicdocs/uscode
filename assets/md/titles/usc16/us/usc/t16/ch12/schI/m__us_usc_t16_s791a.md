@@ -23,6 +23,12 @@
 
     Section was enacted as part of part III of the Federal Power Act, and not as part of part I of that Act which comprises this subchapter.
 
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–23, § 1(a)][/us/pl/113/23/s1/a], Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], provided that: 
+
+> “This Act \[amending sections 798, 823a, and 2705 of this title and enacting provisions set out as notes preceding section 791 and under [section 797 of this title][/us/usc/t16/s797]\] may be cited as the ‘Hydropower Regulatory Efficiency Act of 2013’.”
+
  __Short Title of 1990 Amendment__ 
 
 [Pub. L. 101–575, § 1][/us/pl/101/575/s1], Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834], provided that: 
@@ -53,6 +59,9 @@
 [/us/stat/49/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F863
 [/us/pl/95/617/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs212
 [/us/stat/92/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3148
+[/us/pl/113/23/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs1%2Fa
+[/us/stat/127/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F493
+[/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797
 [/us/pl/101/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs1
 [/us/stat/104/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2834
 [/us/usc/t42/s2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2243

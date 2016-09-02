@@ -33,7 +33,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1151" data-uslm-ref="/us/usc/t16/s1151">1151.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1152" data-uslm-ref="/us/usc/t16/s1152">1152.</a>  </td>
 
     <td> Prohibitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1153" data-uslm-ref="/us/usc/t16/s1153">1153.</a>  </td>
 
     <td> Sealing permitted by Aleuts, Eskimos, and Indians.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1154" data-uslm-ref="/us/usc/t16/s1154">1154.</a>  </td>
 
     <td> Scientific research on fur seal resources; use of fur seals for educational, scientific, or exhibition purposes.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1155" data-uslm-ref="/us/usc/t16/s1155">1155.</a>  </td>
 
     <td> Authority of Secretary of Commerce.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1156" data-uslm-ref="/us/usc/t16/s1156">1156.</a>  </td>
 
     <td> Enforcement provisions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1157" data-uslm-ref="/us/usc/t16/s1157">1157.</a>  </td>
 
     <td> North Pacific Fur Seal Commission; appointment of United States Commissioner, Deputy Commissioner, and Advisors; duties, compensation, and travel expenses.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1158" data-uslm-ref="/us/usc/t16/s1158">1158.</a>  </td>
 
     <td> Acceptance or rejection by Secretaries of State and Commerce of Commission recommendations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FUR SEAL MANAGEMENT  </td>
 
   <tr>
 
-    <td> 1159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1159" data-uslm-ref="/us/usc/t16/s1159">1159.</a>  </td>
 
     <td> Federal agency consultations with and technical assistance to Secretary of Commerce or Commission; reimbursement for assistance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1161" data-uslm-ref="/us/usc/t16/s1161">1161.</a>  </td>
 
     <td> Administration of fur seal rookeries and other Federal real and personal property on Pribilof Islands.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1162" data-uslm-ref="/us/usc/t16/s1162">1162.</a>  </td>
 
     <td> Authority of Secretary to operate, maintain, and repair Government-owned property; necessary facilities, services, and equipment for Federal employees and dependents.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1163" data-uslm-ref="/us/usc/t16/s1163">1163.</a>  </td>
 
     <td> Responsibility of Alaska to meet educational needs of Pribilof Islands citizens.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1164" data-uslm-ref="/us/usc/t16/s1164">1164.</a>  </td>
 
     <td> Responsibility of Secretary of Health and Human Services to provide medical and dental care to Pribilof Islands natives.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1165" data-uslm-ref="/us/usc/t16/s1165">1165.</a>  </td>
 
     <td> Disposal of Federal property on Pribilof Islands.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1166" data-uslm-ref="/us/usc/t16/s1166">1166.</a>  </td>
 
     <td> Financial assistance.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1167" data-uslm-ref="/us/usc/t16/s1167">1167.</a>  </td>
 
     <td> Leases, permits, agreements, and contracts with public or private agencies or persons.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1168" data-uslm-ref="/us/usc/t16/s1168">1168.</a>  </td>
 
     <td> Civil service retirement benefits.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1169" data-uslm-ref="/us/usc/t16/s1169">1169.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1169a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1169a" data-uslm-ref="/us/usc/t16/s1169a">1169a.</a>  </td>
 
     <td> Annuities and survivor annuities; recomputation.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ADMINISTRATION OF PRIBILOF ISLANDS  </td>
 
   <tr>
 
-    <td> 1169b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1169b" data-uslm-ref="/us/usc/t16/s1169b">1169b.</a>  </td>
 
     <td> Use of local entities.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1171" data-uslm-ref="/us/usc/t16/s1171">1171.</a>  </td>
 
     <td> Seizure and forfeiture of vessels.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1172" data-uslm-ref="/us/usc/t16/s1172">1172.</a>  </td>
 
     <td> Practice and procedure.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1173" data-uslm-ref="/us/usc/t16/s1173">1173.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1174" data-uslm-ref="/us/usc/t16/s1174">1174.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1175" data-uslm-ref="/us/usc/t16/s1175">1175.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 1181 to 1187.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1181" data-uslm-ref="/us/usc/t16/s1181">1181</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1187" data-uslm-ref="/us/usc/t16/s1187">1187.</a>  </td>
 
     <td> Omitted.  </td>
 

@@ -35,9 +35,9 @@
 
     (d) __Exemptions from licensing requirements in certain cases__ 
 
-        The Commission may in its discretion (by rule or order) grant an exemption in whole or in part from the requirements (including the licensing requirements) of part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] to small hydroelectric power projects having a proposed installed capacity of 5,000 kilowatts or less, on a case-by-case basis or on the basis of classes or categories of projects, subject to the same limitations (to ensure protection for fish and wildlife as well as other environmental concerns) as those which are set forth in subsections (c) and (d) of section 30 of the Federal Power Act \[[16 U.S.C. 823a][/us/usc/t16/s823a] (c) and (d)\] with respect to determinations made and exemptions granted under subsection (a) of such section 30 \[[16 U.S.C. 823a(a)][/us/usc/t16/s823a/a]\]; and subsections (c) and (d) of such section 30 shall apply with respect to actions taken and exemptions granted under this subsection. Except as specifically provided in this subsection, the granting of an exemption to a project under this subsection shall in no case have the effect of waiving or limiting the application (to such project) of the second sentence of subsection (b) of this section.
+        The Commission may in its discretion (by rule or order) grant an exemption in whole or in part from the requirements (including the licensing requirements) of part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] to small hydroelectric power projects having a proposed installed capacity of 10,000 kilowatts or less, on a case-by-case basis or on the basis of classes or categories of projects, subject to the same limitations (to ensure protection for fish and wildlife as well as other environmental concerns) as those which are set forth in subsections (c) and (d) of section 30 of the Federal Power Act \[[16 U.S.C. 823a][/us/usc/t16/s823a] (c) and (d)\] with respect to determinations made and exemptions granted under subsection (b) of such section 30 \[[16 U.S.C. 823a(b)][/us/usc/t16/s823a/b]\]; and subsections (c) and (d) of such section 30 shall apply with respect to actions taken and exemptions granted under this subsection. Except as specifically provided in this subsection, the granting of an exemption to a project under this subsection shall in no case have the effect of waiving or limiting the application (to such project) of the second sentence of subsection (b) of this section.
 
-([Pub. L. 95–617, title IV, § 405][/us/pl/95/617/s405], Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV, § 408(b)][/us/pl/96/294/s408/b], June 30, 1980, [94 Stat. 718][/us/stat/94/718].)
+([Pub. L. 95–617, title IV, § 405][/us/pl/95/617/s405], Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV, § 408(b)][/us/pl/96/294/s408/b], June 30, 1980, [94 Stat. 718][/us/stat/94/718]; [Pub. L. 113–23][/us/pl/113/23], §§ 3, 4(b), Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], 495.)
 
  __References in Text__ 
 
@@ -52,6 +52,10 @@
     The Endangered Species Act, referred to in subsec. (b), probably means the Endangered Species Act of 1973, [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (d). [Pub. L. 113–23, § 4(b)][/us/pl/113/23/s4/b], substituted “subsection (b) of such section 30” for “subsection (a) of such section 30”.
+
+    [Pub. L. 113–23, § 3][/us/pl/113/23/s3], substituted “10,000 kilowatts” for “5,000 kilowatts”.
 
     1980—Subsec. (d). [Pub. L. 96–294][/us/pl/96/294] added subsec. (d).
 
@@ -69,11 +73,13 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s823a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a
-[/us/usc/t16/s823a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a%2Fa
+[/us/usc/t16/s823a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a%2Fb
 [/us/pl/95/617/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs405
 [/us/stat/92/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3156
 [/us/pl/96/294/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs408%2Fb
 [/us/stat/94/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F718
+[/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
+[/us/stat/127/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F493
 [/us/usc/t16/s2602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602%2F3
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
@@ -87,6 +93,8 @@
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
+[/us/pl/113/23/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs4%2Fb
+[/us/pl/113/23/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs3
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 
 

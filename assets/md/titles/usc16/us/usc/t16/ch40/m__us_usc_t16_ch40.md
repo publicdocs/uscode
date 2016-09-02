@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2001" data-uslm-ref="/us/usc/t16/s2001">2001.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2002" data-uslm-ref="/us/usc/t16/s2002">2002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2003" data-uslm-ref="/us/usc/t16/s2003">2003.</a>  </td>
 
     <td> Congressional policy and declaration of purpose.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2004" data-uslm-ref="/us/usc/t16/s2004">2004.</a>  </td>
 
     <td> Continuing appraisal of soil, water, and related resources.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2005" data-uslm-ref="/us/usc/t16/s2005">2005.</a>  </td>
 
     <td> Soil and water conservation program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2005a, 2005b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2005a" data-uslm-ref="/us/usc/t16/s2005a">2005a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2005b" data-uslm-ref="/us/usc/t16/s2005b">2005b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2006" data-uslm-ref="/us/usc/t16/s2006">2006.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2007" data-uslm-ref="/us/usc/t16/s2007">2007.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2008" data-uslm-ref="/us/usc/t16/s2008">2008.</a>  </td>
 
     <td> Utilization of available information and data.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2009" data-uslm-ref="/us/usc/t16/s2009">2009.</a>  </td>
 
     <td> Termination of program.  </td>
 

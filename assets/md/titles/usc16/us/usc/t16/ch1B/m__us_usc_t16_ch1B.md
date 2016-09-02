@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 470aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470aa" data-uslm-ref="/us/usc/t16/s470aa">470aa.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 470bb.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470bb" data-uslm-ref="/us/usc/t16/s470bb">470bb.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 470cc.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470cc" data-uslm-ref="/us/usc/t16/s470cc">470cc.</a>  </td>
 
     <td> Excavation and removal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 470dd.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470dd" data-uslm-ref="/us/usc/t16/s470dd">470dd.</a>  </td>
 
     <td> Custody of archaeological resources.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 470ee.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470ee" data-uslm-ref="/us/usc/t16/s470ee">470ee.</a>  </td>
 
     <td> Prohibited acts and criminal penalties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 470ff.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470ff" data-uslm-ref="/us/usc/t16/s470ff">470ff.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 470gg.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470gg" data-uslm-ref="/us/usc/t16/s470gg">470gg.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 470hh.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470hh" data-uslm-ref="/us/usc/t16/s470hh">470hh.</a>  </td>
 
     <td> Confidentiality of information concerning nature and location of archaeological resources.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 470ii.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470ii" data-uslm-ref="/us/usc/t16/s470ii">470ii.</a>  </td>
 
     <td> Rules and regulations; intergovernmental coordination.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 470jj.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470jj" data-uslm-ref="/us/usc/t16/s470jj">470jj.</a>  </td>
 
     <td> Cooperation with private individuals.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 470kk.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470kk" data-uslm-ref="/us/usc/t16/s470kk">470kk.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 470ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470" data-uslm-ref="/us/usc/t16/s470">470</a>ll.  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 470mm.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470mm" data-uslm-ref="/us/usc/t16/s470mm">470mm.</a>  </td>
 
     <td> Surveying of lands; reporting of violations.  </td>
 

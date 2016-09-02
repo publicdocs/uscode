@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs836" data-uslm-ref="/us/usc/t16/s836">836.</a>  </td>
 
     <td> Authorization to license construction and operation; licensing conditions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 836a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs836a" data-uslm-ref="/us/usc/t16/s836a">836a.</a>  </td>
 
     <td> Rules governing issuance of license.  </td>
 

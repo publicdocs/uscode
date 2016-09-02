@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5151" data-uslm-ref="/us/usc/t16/s5151">5151.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5152" data-uslm-ref="/us/usc/t16/s5152">5152.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5153" data-uslm-ref="/us/usc/t16/s5153">5153.</a>  </td>
 
     <td> Monitoring of implementation and enforcement by coastal States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5154" data-uslm-ref="/us/usc/t16/s5154">5154.</a>  </td>
 
     <td> Moratorium.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5155" data-uslm-ref="/us/usc/t16/s5155">5155.</a>  </td>
 
     <td> Continuing studies of striped bass populations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5156" data-uslm-ref="/us/usc/t16/s5156">5156.</a>  </td>
 
     <td> Authorization of appropriations; cooperative agreements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5157" data-uslm-ref="/us/usc/t16/s5157">5157.</a>  </td>
 
     <td> Public participation in preparation of management plans and amendments.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5158" data-uslm-ref="/us/usc/t16/s5158">5158.</a>  </td>
 
     <td> Protection of striped bass in the exclusive economic zone.  </td>
 

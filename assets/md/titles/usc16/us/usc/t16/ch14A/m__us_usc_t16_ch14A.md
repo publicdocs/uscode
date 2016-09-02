@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs917" data-uslm-ref="/us/usc/t16/s917">917.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 917a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs917a" data-uslm-ref="/us/usc/t16/s917a">917a.</a>  </td>
 
     <td> Study by Secretary of Commerce; report to Congress.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 917b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs917b" data-uslm-ref="/us/usc/t16/s917b">917b.</a>  </td>
 
     <td> Cooperation of other Federal agencies.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 917c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs917c" data-uslm-ref="/us/usc/t16/s917c">917c.</a>  </td>
 
     <td> Negotiations with Mexico and Canada.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 917d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs917d" data-uslm-ref="/us/usc/t16/s917d">917d.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

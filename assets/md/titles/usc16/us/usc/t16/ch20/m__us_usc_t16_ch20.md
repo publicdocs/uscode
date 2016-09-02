@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1051" data-uslm-ref="/us/usc/t16/s1051">1051.</a>  </td>
 
     <td> Authorization of Administrator of General Services.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1052" data-uslm-ref="/us/usc/t16/s1052">1052.</a>  </td>
 
     <td> Authorization of Secretary of the Interior.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1053" data-uslm-ref="/us/usc/t16/s1053">1053.</a>  </td>
 
     <td> Delegation of responsibility for operation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1054" data-uslm-ref="/us/usc/t16/s1054">1054.</a>  </td>
 
     <td> Advisory Board; establishment; meetings; functions; quorum; executive secretary.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1055" data-uslm-ref="/us/usc/t16/s1055">1055.</a>  </td>
 
     <td> Members of Advisory Board.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1056" data-uslm-ref="/us/usc/t16/s1056">1056.</a>  </td>
 
     <td> Compensation of Advisory Board.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1057" data-uslm-ref="/us/usc/t16/s1057">1057.</a>  </td>
 
     <td> Preparation of annual report by Director.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1058" data-uslm-ref="/us/usc/t16/s1058">1058.</a>  </td>
 
     <td> Limitation on appropriations and expenditures; charges for visitation and use.  </td>
 

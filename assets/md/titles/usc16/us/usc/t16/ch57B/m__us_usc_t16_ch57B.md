@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3771" data-uslm-ref="/us/usc/t16/s3771">3771.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3772" data-uslm-ref="/us/usc/t16/s3772">3772.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3773" data-uslm-ref="/us/usc/t16/s3773">3773.</a>  </td>
 
     <td> Partners for Fish and Wildlife Program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3774" data-uslm-ref="/us/usc/t16/s3774">3774.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

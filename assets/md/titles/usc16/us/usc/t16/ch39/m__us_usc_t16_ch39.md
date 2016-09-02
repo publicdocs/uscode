@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1901" data-uslm-ref="/us/usc/t16/s1901">1901.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1902" data-uslm-ref="/us/usc/t16/s1902">1902.</a>  </td>
 
     <td> Preservation and management of areas by Secretary of the Interior; promulgation of regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1903 to 1906.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1903" data-uslm-ref="/us/usc/t16/s1903">1903</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1906" data-uslm-ref="/us/usc/t16/s1906">1906.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1907" data-uslm-ref="/us/usc/t16/s1907">1907.</a>  </td>
 
     <td> Recordation of mining claims; publication of notice.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1908" data-uslm-ref="/us/usc/t16/s1908">1908.</a>  </td>
 
     <td> Damage to natural and historical landmarks; procedures for determination and enforcement of abatement of damaging activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1909" data-uslm-ref="/us/usc/t16/s1909">1909.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1910" data-uslm-ref="/us/usc/t16/s1910">1910.</a>  </td>
 
     <td> Civil actions for just compensation by mining claim holders.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1911" data-uslm-ref="/us/usc/t16/s1911">1911.</a>  </td>
 
     <td> Acquisition of land by Secretary.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1912" data-uslm-ref="/us/usc/t16/s1912">1912.</a>  </td>
 
     <td> Financial disclosure by officer or employee of Secretary.  </td>
 

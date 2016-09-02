@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1131" data-uslm-ref="/us/usc/t16/s1131">1131.</a>  </td>
 
     <td> National Wilderness Preservation System.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1132" data-uslm-ref="/us/usc/t16/s1132">1132.</a>  </td>
 
     <td> Extent of System.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1133" data-uslm-ref="/us/usc/t16/s1133">1133.</a>  </td>
 
     <td> Use of wilderness areas.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1134" data-uslm-ref="/us/usc/t16/s1134">1134.</a>  </td>
 
     <td> State and private lands within wilderness areas.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1135" data-uslm-ref="/us/usc/t16/s1135">1135.</a>  </td>
 
     <td> Gifts, bequests, and contributions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1136" data-uslm-ref="/us/usc/t16/s1136">1136.</a>  </td>
 
     <td> Annual reports to Congress.  </td>
 

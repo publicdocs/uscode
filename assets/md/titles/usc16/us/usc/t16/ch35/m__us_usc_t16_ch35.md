@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1531" data-uslm-ref="/us/usc/t16/s1531">1531.</a>  </td>
 
     <td> Congressional findings and declaration of purposes and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1532" data-uslm-ref="/us/usc/t16/s1532">1532.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1533" data-uslm-ref="/us/usc/t16/s1533">1533.</a>  </td>
 
     <td> Determination of endangered species and threatened species.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1534" data-uslm-ref="/us/usc/t16/s1534">1534.</a>  </td>
 
     <td> Land acquisition.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1535" data-uslm-ref="/us/usc/t16/s1535">1535.</a>  </td>
 
     <td> Cooperation with States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1536" data-uslm-ref="/us/usc/t16/s1536">1536.</a>  </td>
 
     <td> Interagency cooperation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1537" data-uslm-ref="/us/usc/t16/s1537">1537.</a>  </td>
 
     <td> International cooperation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1537a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1537a" data-uslm-ref="/us/usc/t16/s1537a">1537a.</a>  </td>
 
     <td> Convention implementation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1538" data-uslm-ref="/us/usc/t16/s1538">1538.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1539" data-uslm-ref="/us/usc/t16/s1539">1539.</a>  </td>
 
     <td> Exceptions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1540" data-uslm-ref="/us/usc/t16/s1540">1540.</a>  </td>
 
     <td> Penalties and enforcement.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1541" data-uslm-ref="/us/usc/t16/s1541">1541.</a>  </td>
 
     <td> Endangered plants.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1542" data-uslm-ref="/us/usc/t16/s1542">1542.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1543" data-uslm-ref="/us/usc/t16/s1543">1543.</a>  </td>
 
     <td> Construction with Marine Mammal Protection Act of 1972.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1544" data-uslm-ref="/us/usc/t16/s1544">1544.</a>  </td>
 
     <td> Annual cost analysis by Fish and Wildlife Service.  </td>
 

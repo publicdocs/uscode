@@ -57,17 +57,17 @@ The following areas are hereby established as units of the National Park System 
 
             (b) All lands located east of centerline of the main channel of the Noatak River which are—
 
-        (1) within
+        (1)
 
-        (A) any area withdrawn under the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] for selection by the village of Noatak, and
+         within
 
-        (B)
+            (A) any area withdrawn under the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] for selection by the village of Noatak, and
 
-         any village deficiency withdrawal under section 11(a)(3)(A) of such Act \[[43 U.S.C. 1610(a)(3)(A)][/us/usc/t43/s1610/a/3/A]\] which is adjacent to the area described in subparagraph (i)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph (A)”. </sup></sup>  of this paragraph,
+            (B) any village deficiency withdrawal under section 11(a)(3)(A) of such Act \[[43 U.S.C. 1610(a)(3)(A)][/us/usc/t43/s1610/a/3/A]\] which is adjacent to the area described in subparagraph (i)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph (A)”. </sup></sup>  of this paragraph,
 
-            (2) adjacent to public lands within a unit of the National Park System as designated under this Act, and
+        (2) adjacent to public lands within a unit of the National Park System as designated under this Act, and
 
-            (3) not conveyed to such Village or other Native Corporation before the final conveyance date, shall, on such final conveyance date, be added to and included within, the adjacent unit of the National Park System (notwithstanding the applicable acreage specified in this paragraph) and managed in the manner provided in the foregoing provisions of this paragraph. For purposes of the preceding sentence the term “final conveyance date” means the date of the conveyance of lands under the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], or by operation of this Act, to the Village of Noatak, or to any other Native Corporation which completes the entitlement of such Village or other Corporation to conveyance of lands from the withdrawals referred to in subparagraph (1).
+        (3) not conveyed to such Village or other Native Corporation before the final conveyance date, shall, on such final conveyance date, be added to and included within, the adjacent unit of the National Park System (notwithstanding the applicable acreage specified in this paragraph) and managed in the manner provided in the foregoing provisions of this paragraph. For purposes of the preceding sentence the term “final conveyance date” means the date of the conveyance of lands under the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], or by operation of this Act, to the Village of Noatak, or to any other Native Corporation which completes the entitlement of such Village or other Corporation to conveyance of lands from the withdrawals referred to in subparagraph (1).
 
         (9) Wrangell-Saint Elias National Park, containing approximately eight million one hundred and forty-seven thousand acres of public lands, and Wrangell-Saint Elias National Preserve, containing approximately four million one hundred and seventy-one thousand acres of public lands, as generally depicted on map numbered WRST–90,007, and dated August 1980. The park and preserve shall be managed for the following purposes, among others: To maintain unimpaired the scenic beauty and quality of high mountain peaks, foothills, glacial systems, lakes, and streams, valleys, and coastal landscapes in their natural state; to protect habitat for, and populations of, fish and wildlife including but not limited to caribou, brown/grizzly bears, Dall sheep, moose, wolves, trumpeter swans and other waterfowl, and marine mammals; and to provide continued opportunities, including reasonable access for mountain climbing, mountaineering, and other wilderness recreational activities. Subsistence uses by local residents shall be permitted in the park, where such uses are traditional, in accordance with the provisions of subchapter II of chapter 51 of this title.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1101" data-uslm-ref="/us/usc/t16/s1101">1101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1102" data-uslm-ref="/us/usc/t16/s1102">1102.</a>  </td>
 
     <td> Joint United States-Canadian Commission; establishment; functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1103" data-uslm-ref="/us/usc/t16/s1103">1103.</a>  </td>
 
     <td> Powers of Commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1104" data-uslm-ref="/us/usc/t16/s1104">1104.</a>  </td>
 
     <td> Membership of Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1105" data-uslm-ref="/us/usc/t16/s1105">1105.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1106" data-uslm-ref="/us/usc/t16/s1106">1106.</a>  </td>
 
     <td> Employees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1107" data-uslm-ref="/us/usc/t16/s1107">1107.</a>  </td>
 
     <td> Meetings and reports; inspection of records.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1108" data-uslm-ref="/us/usc/t16/s1108">1108.</a>  </td>
 
     <td> Insurance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1109" data-uslm-ref="/us/usc/t16/s1109">1109.</a>  </td>
 
     <td> Court action; service of process.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1110" data-uslm-ref="/us/usc/t16/s1110">1110.</a>  </td>
 
     <td> Liability.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1111" data-uslm-ref="/us/usc/t16/s1111">1111.</a>  </td>
 
     <td> Exemption from taxation.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1112" data-uslm-ref="/us/usc/t16/s1112">1112.</a>  </td>
 
     <td> Tax treatment of any gift, devise or bequest to the Commission.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1113" data-uslm-ref="/us/usc/t16/s1113">1113.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

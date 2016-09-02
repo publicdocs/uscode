@@ -223,11 +223,9 @@
 
 [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title IV\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–305, as amended by [Pub. L. 107–171, title VI, § 6201(d)(5)][/us/pl/107/171/s6201/d/5], May 13, 2002, [116 Stat. 419][/us/stat/116/419]; [Pub. L. 110–161, div. F, title IV, § 434][/us/pl/110/161/s434], Dec. 26, 2007, [121 Stat. 2153][/us/stat/121/2153]; [Pub. L. 111–8, div. E, title IV, § 428][/us/pl/111/8/s428], Mar. 11, 2009, [123 Stat. 749][/us/stat/123/749], provided that:
 
-> “Sec. 401. __Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal.__ 
+> “Sec. 401. __Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal. (a) Definition.—__ 
 
->     (a) __Definition.—__ 
-
->     For purposes of this section, the term ‘Quincy Library Group-Community Stability Proposal’ means the agreement by a coalition of representatives of fisheries, timber, environmental, county government, citizen groups, and local communities that formed in northern California to develop a resource management program that promotes ecologic and economic health for certain Federal lands and communities in the Sierra Nevada area. Such proposal includes the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993, and prepared by VESTRA Resources of Redding, California.
+> For purposes of this section, the term ‘Quincy Library Group-Community Stability Proposal’ means the agreement by a coalition of representatives of fisheries, timber, environmental, county government, citizen groups, and local communities that formed in northern California to develop a resource management program that promotes ecologic and economic health for certain Federal lands and communities in the Sierra Nevada area. Such proposal includes the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993, and prepared by VESTRA Resources of Redding, California.
 
 >     “(b) __Pilot Project Required.—__ 
 

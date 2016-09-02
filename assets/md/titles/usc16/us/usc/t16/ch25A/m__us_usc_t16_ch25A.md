@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1211" data-uslm-ref="/us/usc/t16/s1211">1211.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1212" data-uslm-ref="/us/usc/t16/s1212">1212.</a>  </td>
 
     <td> Investigation and control of crown of thorns starfish.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1213" data-uslm-ref="/us/usc/t16/s1213">1213.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

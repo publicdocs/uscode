@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447" data-uslm-ref="/us/usc/t16/s1447">1447.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1447a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447a" data-uslm-ref="/us/usc/t16/s1447a">1447a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1447b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447b" data-uslm-ref="/us/usc/t16/s1447b">1447b.</a>  </td>
 
     <td> Regional Marine Research Boards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1447c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447c" data-uslm-ref="/us/usc/t16/s1447c">1447c.</a>  </td>
 
     <td> Regional research plans.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1447d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447d" data-uslm-ref="/us/usc/t16/s1447d">1447d.</a>  </td>
 
     <td> Research grant program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1447e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447e" data-uslm-ref="/us/usc/t16/s1447e">1447e.</a>  </td>
 
     <td> Report on research program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1447f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1447f" data-uslm-ref="/us/usc/t16/s1447f">1447f.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

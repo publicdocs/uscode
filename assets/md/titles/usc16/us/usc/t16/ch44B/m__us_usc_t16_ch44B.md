@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2461" data-uslm-ref="/us/usc/t16/s2461">2461.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2462" data-uslm-ref="/us/usc/t16/s2462">2462.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2463" data-uslm-ref="/us/usc/t16/s2463">2463.</a>  </td>
 
     <td> Prohibition of Antarctic mineral resource activities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2464" data-uslm-ref="/us/usc/t16/s2464">2464.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2465" data-uslm-ref="/us/usc/t16/s2465">2465.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2466" data-uslm-ref="/us/usc/t16/s2466">2466.</a>  </td>
 
     <td> Repealed.  </td>
 

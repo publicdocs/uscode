@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5801" data-uslm-ref="/us/usc/t16/s5801">5801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5802" data-uslm-ref="/us/usc/t16/s5802">5802.</a>  </td>
 
     <td> National Natural Resources Conservation Foundation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5803" data-uslm-ref="/us/usc/t16/s5803">5803.</a>  </td>
 
     <td> Composition and operation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5804" data-uslm-ref="/us/usc/t16/s5804">5804.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5805" data-uslm-ref="/us/usc/t16/s5805">5805.</a>  </td>
 
     <td> Corporate powers and obligations of Foundation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5806" data-uslm-ref="/us/usc/t16/s5806">5806.</a>  </td>
 
     <td> Administrative services and support.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5807" data-uslm-ref="/us/usc/t16/s5807">5807.</a>  </td>
 
     <td> Audits and petition of Attorney General for equitable relief.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5808" data-uslm-ref="/us/usc/t16/s5808">5808.</a>  </td>
 
     <td> Release from liability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5809" data-uslm-ref="/us/usc/t16/s5809">5809.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

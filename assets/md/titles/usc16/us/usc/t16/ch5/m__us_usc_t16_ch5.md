@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 631 to 654.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs631" data-uslm-ref="/us/usc/t16/s631">631</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs654" data-uslm-ref="/us/usc/t16/s654">654.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs655" data-uslm-ref="/us/usc/t16/s655">655.</a>  </td>
 
     <td> Agents to be disinterested.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs656" data-uslm-ref="/us/usc/t16/s656">656.</a>  </td>
 
     <td> Agents; administering oaths and taking testimony.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 657, 658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs657" data-uslm-ref="/us/usc/t16/s657">657</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs658" data-uslm-ref="/us/usc/t16/s658">658.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs659" data-uslm-ref="/us/usc/t16/s659">659.</a>  </td>
 
     <td> Sea lions; acts prohibiting killing repealed.  </td>
 

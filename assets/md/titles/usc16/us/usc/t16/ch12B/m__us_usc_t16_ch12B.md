@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832" data-uslm-ref="/us/usc/t16/s832">832.</a>  </td>
 
     <td> Completion and maintenance of project; generation of electricity.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 832a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832a" data-uslm-ref="/us/usc/t16/s832a">832a.</a>  </td>
 
     <td> General administrative provisions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 832a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832a%E2%80%931" data-uslm-ref="/us/usc/t16/s832a–1">832a–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 832b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832b" data-uslm-ref="/us/usc/t16/s832b">832b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 832c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832c" data-uslm-ref="/us/usc/t16/s832c">832c.</a>  </td>
 
     <td> Distribution of electricity; preference to public bodies and cooperatives.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 832d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832d" data-uslm-ref="/us/usc/t16/s832d">832d.</a>  </td>
 
     <td> Contracts for sale of electricity.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 832e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832e" data-uslm-ref="/us/usc/t16/s832e">832e.</a>  </td>
 
     <td> Rate schedules.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 832f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832f" data-uslm-ref="/us/usc/t16/s832f">832f.</a>  </td>
 
     <td> Elements in determining rates.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 832g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832g" data-uslm-ref="/us/usc/t16/s832g">832g.</a>  </td>
 
     <td> Purchase of supplies and services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 832h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832h" data-uslm-ref="/us/usc/t16/s832h">832h.</a>  </td>
 
     <td> Miscellaneous administrative provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 832i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832i" data-uslm-ref="/us/usc/t16/s832i">832i.</a>  </td>
 
     <td> Employment of personnel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 832j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832j" data-uslm-ref="/us/usc/t16/s832j">832j.</a>  </td>
 
     <td> Deposit of receipts; authorization of appropriations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 832k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832k" data-uslm-ref="/us/usc/t16/s832k">832k.</a>  </td>
 
     <td> Authority of Administrator.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 832l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832" data-uslm-ref="/us/usc/t16/s832">832</a>l.  </td>
 
     <td> Separability.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 832m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832m" data-uslm-ref="/us/usc/t16/s832m">832m.</a>  </td>
 
     <td> Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7001" data-uslm-ref="/us/usc/t16/s7001">7001.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7002" data-uslm-ref="/us/usc/t16/s7002">7002.</a>  </td>
 
     <td> United States representation on joint management committee.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7003" data-uslm-ref="/us/usc/t16/s7003">7003.</a>  </td>
 
     <td> United States representation on the scientific review group.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7004" data-uslm-ref="/us/usc/t16/s7004">7004.</a>  </td>
 
     <td> United States representation on joint technical committee.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7005" data-uslm-ref="/us/usc/t16/s7005">7005.</a>  </td>
 
     <td> United States representation on advisory panel.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7006" data-uslm-ref="/us/usc/t16/s7006">7006.</a>  </td>
 
     <td> Responsibilities of the Secretary.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7007" data-uslm-ref="/us/usc/t16/s7007">7007.</a>  </td>
 
     <td> Rulemaking.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7008" data-uslm-ref="/us/usc/t16/s7008">7008.</a>  </td>
 
     <td> Administrative matters.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7009" data-uslm-ref="/us/usc/t16/s7009">7009.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7010" data-uslm-ref="/us/usc/t16/s7010">7010.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

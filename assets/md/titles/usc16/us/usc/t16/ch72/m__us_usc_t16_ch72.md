@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5201" data-uslm-ref="/us/usc/t16/s5201">5201.</a>  </td>
 
     <td> Obstruction of a lawful hunt.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5202" data-uslm-ref="/us/usc/t16/s5202">5202.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5203" data-uslm-ref="/us/usc/t16/s5203">5203.</a>  </td>
 
     <td> Other relief.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5204" data-uslm-ref="/us/usc/t16/s5204">5204.</a>  </td>
 
     <td> Relationship to State and local law and civil actions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5205" data-uslm-ref="/us/usc/t16/s5205">5205.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5206" data-uslm-ref="/us/usc/t16/s5206">5206.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5207" data-uslm-ref="/us/usc/t16/s5207">5207.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972" data-uslm-ref="/us/usc/t16/s972">972.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 972a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972a" data-uslm-ref="/us/usc/t16/s972a">972a.</a>  </td>
 
     <td> United States representation on the Council.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 972b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972b" data-uslm-ref="/us/usc/t16/s972b">972b.</a>  </td>
 
     <td> Secretary of State to act for United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 972c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972c" data-uslm-ref="/us/usc/t16/s972c">972c.</a>  </td>
 
     <td> Application to other laws.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 972d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972d" data-uslm-ref="/us/usc/t16/s972d">972d.</a>  </td>
 
     <td> Disposition of fees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 972e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972e" data-uslm-ref="/us/usc/t16/s972e">972e.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 972f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972f" data-uslm-ref="/us/usc/t16/s972f">972f.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 972g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972g" data-uslm-ref="/us/usc/t16/s972g">972g.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 972h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972h" data-uslm-ref="/us/usc/t16/s972h">972h.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
